@@ -1,0 +1,12 @@
+### §8962. Sense of Congress; requirement regarding notice
+
+#### (a) Purchase of American-made equipment and products
+
+In the case of any equipment or products that may be authorized to be purchased with financial assistance provided under this chapter, it is the sense of the Congress that entities receiving such assistance should, in expending the assistance, purchase only American-made equipment and products.
+
+#### (b) Notice to recipients of assistance
+
+In providing financial assistance under this chapter, the head of each Federal agency shall provide to each recipient of the assistance a notice describing the statement made in subsection (a) of this section by the Congress.
+
+(Pub. L. 89 10, title XIV, §14802, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3912.)
+

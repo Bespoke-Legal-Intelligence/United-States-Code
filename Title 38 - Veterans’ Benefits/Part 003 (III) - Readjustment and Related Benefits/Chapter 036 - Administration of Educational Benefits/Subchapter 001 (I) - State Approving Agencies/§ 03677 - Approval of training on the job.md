@@ -1,0 +1,58 @@
+### §3677. Approval of training on the job
+
+(a) Any State approving agency may approve a program of training on the job (other than a program of apprenticeship) only when it finds that the job which is the objective of the training is one in which progression and appointment to the next higher classification are based upon skills learned through organized and supervised training on the job and not on such factors as length of service and normal turnover, and that the provisions of subsections (b) and (c) of this section are met.
+
+(b) The training establishment offering training which is desired to be approved for the purposes of this chapter must submit to the appropriate State approving agency a written application for approval which, in addition to furnishing such information as is required by the State approving agency, contains a certification that—
+
+&emsp;(1) the wages to be paid the eligible veteran or person (A) upon entrance into training, are not less than wages paid nonveterans in the same training position and are at least 50 per centum of the wages paid for the job for which the veteran or person is to be trained, and (B) such wages will be increased in regular periodic increments until, not later than the last full month of the training period, they will be at least 85 per centum of the wages paid for the job for which such eligible veteran or person is being trained; and
+
+&emsp;(2) there is reasonable certainty that the job for which the eligible veteran or person is to be trained will be available to the veteran or person at the end of the training period.
+
+(c) As a condition for approving a program of training on the job (other than a program of apprenticeship) the State approving agency must find upon investigation that the following criteria are met:
+
+&emsp;(1) The training content of the course is adequate to qualify the eligible veteran or person for appointment to the job for which the veteran or person is to be trained.
+
+&emsp;(2) The job customarily requires full-time training for a period of not less than six months and not more than two years.
+
+&emsp;(3) The length of the training period is not longer than that customarily required by the training establishments in the community to provide an eligible veteran or person with the required skills, arrange for the acquiring of job knowledge, technical information, and other facts which the eligible veteran or person will need to learn in order to become competent on the job for which the veteran or person is being trained.
+
+&emsp;(4) Provision is made for related instruction for the individual eligible veteran or person who may need it.
+
+&emsp;(5) There is in the training establishment adequate space, equipment, instructional material, and instructor personnel to provide satisfactory training on the job.
+
+&emsp;(6) Adequate records are kept to show the progress made by each eligible veteran or person toward such veteran's or person's job objective.
+
+&emsp;(7) No course of training will be considered bona fide if given to an eligible veteran or person who is already qualified by training and experience for the job.
+
+&emsp;(8) A signed copy of the training agreement for each eligible veteran or person, including the training program and wage scale as approved by the State approving agency, is provided to the veteran or person and to the Secretary and the State approving agency by the employer.
+
+&emsp;(9) That the course meets such other criteria as may be established by the State approving agency.
+
+(Added Pub. L. 90–77, title III, §304(d), Aug. 31, 1967, 81 Stat. 186, §1777; amended Pub. L. 91–219, title II, §212, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title III, §314, Oct. 24, 1972, 86 Stat. 1084; Pub. L. 94–502, title V, §513(a)(3), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3677, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+
+#### Amendments
+
+1991—Pub. L. 102–83 renumbered section 1777 of this title as this section.
+
+1989—Subsec. (c)(8). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
+
+1976—Subsec. (b). Pub. L. 94–502 substituted “the veteran or person” for “he” and “him”.
+
+Subsec. (c). Pub. L. 94–502 substituted “the veteran or person” for “he” in two places, and “such veteran's or person's” for “his”.
+
+1972—Subsecs. (b), (c). Pub. L. 92–540 inserted “or person” after “veteran” wherever appearing.
+
+1970—Subsec. (a). Pub. L. 91–219 inserted “and supervised”.
+
+#### Effective Date of 1976 Amendment
+
+Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
+
+#### Effective Date
+
+Section effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as an Effective Date of 1967 Amendment note under section 101 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3672, 3687 of this title.
+

@@ -1,0 +1,10 @@
+### §565a–2. Federal employee status of cooperators
+
+In any agreement authorized by section 565a–1 of this title, cooperators and their employees may perform cooperative work under supervision of the Forest Service in emergencies or otherwise as mutually agreed to, but shall not be deemed to be Federal employees other than for the purposes of chapter 171 of title 28 and chapter 81 of title 5.
+
+(Pub. L. 94–148, §2, Dec. 12, 1975, 89 Stat. 804.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 565a–3 of this title.
+

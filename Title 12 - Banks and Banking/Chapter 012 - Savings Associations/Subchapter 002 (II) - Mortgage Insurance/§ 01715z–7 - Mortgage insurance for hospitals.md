@@ -1,0 +1,142 @@
+### §1715z–7. Mortgage insurance for hospitals
+
+#### (a) Purpose
+
+The purpose of this section is to assist the provision of urgently needed hospitals for the care and treatment of persons who are acutely ill or who otherwise require medical care and related services of the kind customarily furnished only (or most effectively) by hospitals. Such assistance shall be provided regardless of the amount of public financial or other support a hospital may receive, and the Secretary shall neither require additional security or collateral to guarantee such support, nor impose more stringent eligibility or other requirements on publicly owned or supported hospitals.
+
+#### (b) Definitions
+
+For the purposes of this section—
+
+&emsp;(1) the term “hospital” means a facility—
+
+&emsp;&emsp;(A) which provides community service for inpatient medical care of the sick or injured (including obstetrical care);
+
+&emsp;&emsp;(B) not more than 50 per centum of the total patient days of which during any year are customarily assignable to the categories of chronic convalescent and rest, drug and alcoholic, epileptic, mentally deficient, mental, nervous and mental, and tuberculosis; and
+
+&emsp;&emsp;(C) which is a public facility, proprietary facility, or facility of a private nonprofit corporation or association, licensed or regulated by the State (or, if there is no State law providing for such licensing or regulation by the State, by the municipality or other political subdivision in which the facility is located); and
+
+&emsp;(2) the terms “mortgage” and “mortgagor” shall have the meanings respectfully set forth in section 1713(a) of this title.
+
+#### (c) Authorization to insure; prohibition of premiums on guarantees of principal and interest under title VII of the Public Health Service Act
+
+The Secretary is authorized to insure any mortgage (including advances on such mortgage during construction) in accordance with the provisions of this section upon such terms and conditions as he may prescribe and to make commitments for insurance of such mortgage prior to the date of its execution or disbursement thereon. No mortgage insurance premium shall be charged with respect to the amount of principal and interest guaranteed by the Department of Health and Human Services under title VII of the Public Health Service Act \[42 U.S.C. 292 et seq.\].
+
+#### (d) Insurance of mortgages covering new or rehabilitated hospitals, including equipment; terms and conditions
+
+In order to carry out the purpose of this section, the Secretary is authorized to insure any mortgage which covers a new or rehabilitated hospital, including equipment to be used in its operation, subject to the following conditions:
+
+&emsp;(1) The mortgage shall be executed by a mortgagor approved by the Secretary. The Secretary may in his discretion require any such mortgagor to be regulated or restricted as to charges and methods of financing, and, in addition thereto, if the mortgagor is a corporate entity, as to capital structure and rate of return. As an aid to the regulation or restriction of any mortgagor with respect to any of the foregoing matters, the Secretary may make such contracts with and acquire for not to exceed $100 such stock or interest in such mortgagor as he may deem necessary. Any stock or interest so purchased shall be paid for out of the General Insurance Fund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
+
+&emsp;(2) The mortgage shall involve a principal obligation in the amount requested by the mortgagor if such amount does not exceed 90 percent of the estimated replacement cost of the property or project including—
+
+&emsp;&emsp;(A) equipment to be used in the operation of the hospital, when the proposed improvements are completed and the equipment is installed; and
+
+&emsp;&emsp;(B) a solar energy system (as defined in subparagraph (3) of the last paragraph of section 1703(a) of this title) or residential energy conservation measures (as defined in section 8211(11)(A) through (G) and (I) of title 42) <sup>1</sup> in cases where the Secretary determines that such measures are in addition to those required under the minimum property standards and will be cost-effective over the life of the measure.
+
+&emsp;(3) The mortgage shall—
+
+&emsp;&emsp;(A) provide for complete amortization by periodic payments within such term as the Secretary shall prescribe; and
+
+&emsp;&emsp;(B) bear interest at such rate as may be agreed upon by the mortgagor and the mortgagee.
+
+&emsp;(4) The Secretary shall not insure any mortgage under this section unless he has received, from the State agency designated in accordance with section 604(a)(1) or section 1521 <sup>1</sup> of the Public Health Service Act \[42 U.S.C. 291d(a)(1) or 300m\] for the State in which is located the hospital covered by the mortgage, a certification that (A) there is a need for such hospital, and (B) there are in force in such State or the political subdivision of the State in which the proposed hospital would be located reasonable minimum standards of licensure and methods of operation for hospitals. No such mortgage shall be insured under this section unless the Secretary has received such assurance as he may deem satisfactory from the State agency that such standards will be applied and enforced with respect to any hospital located in the State for which mortgage insurance is provided under this section. If no such State agency exists, or if the State agency exists but is not empowered to provide a certification that there is a need for the hospital as set forth in clause (A) of the first sentence, the Secretary shall not insure any mortgage under this section unless (A) the State in which the hospital is located has conducted or commissioned and paid for the preparation of an independent study of market need and feasibility that (i) is prepared in accordance with the principles established by the American Institute of Certified Public Accountants; (ii) assesses, on a marketwide basis, the impact of the proposed hospital on, and its relationship to, other health care facilities and services, the percentage of excess beds, demographic projections, alternative health care delivery systems, and the reimbursement structure of the hospital; (iii) is addressed to and is acceptable to the Secretary in form and substance; and (iv) in the event the State does not prepare the study, is prepared by a financial consultant selected by the State and approved by the Secretary; and (B) the State complies with the other provisions of this paragraph that would otherwise be required to be met by a State agency designated in accordance with section 604(a)(1) or section 1521 <sup>1</sup> of the Public Health Service Act. The proposed mortgagor may reimburse the State for the cost of the independent feasibility study required in the preceding sentence.
+
+&emsp;(5) The Secretary shall not insure any mortgage or approve any modification of an existing mortgage insured pursuant to this section or section 1715n(f) of this title if such insurance or modification is to be made in connection with a guarantee, as authorized pursuant to section 1721 of this title, of a trust certificate or other security which is exempt from Federal taxation or which is to be used to collateralize obligations which are so exempt, except that the Secretary shall not refuse to insure such a mortgage or approve such a modification solely on the basis that such insurance or modification is to be made in connection with a guarantee, as authorized pursuant to section 1721 of this title, of a trust certificate or other security which is exempt from Federal taxation or which is to be used to collateralize obligations which are so exempt if—
+
+&emsp;&emsp;(A) a written application for such insurance or modification submitted at the express direction of the hospital has been submitted to the appropriate office of the Department of Health and Human Services prior to March 29, 1979; or
+
+&emsp;&emsp;(B) in the case of a nonprofit mortgagor which is seeking refinancing or modification of an existing mortgage insured pursuant to this section or section 1715n(f) of this title, the mortgagor (i) had engaged an investment banker for the purpose of obtaining such refinancing or modification, or had undertaken or arranged for the undertaking of a market or feasibility study with respect to the advisability of obtaining such refinancing or modification, and had made written notification of its interest in such refinancing or modification to the Department of Health and Human Services or the Department of Housing and Urban Development prior to June 7, 1979; and (ii) receives from the programs established under titles XVIII \[42 U.S.C. 1395 et seq.\] and XIX \[42 U.S.C. 1396 et seq.\] of the Social Security Act a percentage of its total revenue which is greater than 125 per centum of the national average for hospitals which derive revenue from such titles.
+
+> &emsp;This paragraph shall not limit the authority of the Secretary to approve a mortgage increase on any mortgage eligible for insurance under this paragraph at any time prior to final endorsement of the loan for insurance; except that such mortgage increase may not be approved for the cost of constructing any improvements not included in the original plans and specifications approved by the Department of Health and Human Services unless approved by the Secretary of Housing and Urban Development and by the Secretary of Health and Human Services.
+
+&emsp;(6) To the extent that a private nonprofit or public facility mortgagor is required by the Secretary to provide cash equity in excess of the amount of the mortgage to complete the project, the mortgagor shall be entitled, at the option of the mortgagee, to fund the excess with a letter of credit. In such event, mortgage proceeds may be advanced to the mortgagor prior to any demand being made on the letter of credit.
+
+#### (e) Release of part of property or project from lien
+
+The Secretary may consent to the release of a part or parts of the mortgaged property or project from the lien of any mortgage insured under this section upon such terms and conditions as he may prescribe.
+
+#### (f) Encouragement of programs undertaking responsibility to provide comprehensive health care; immediate processing of applications for public hospitals
+
+The activities and functions provided for in this section shall be carried out by the agencies involved so as to encourage programs that undertake responsibility to provide comprehensive health care, including outpatient and preventive care, as well as hospitalization, to a defined population, and, in the case of public hospitals, to encourage programs that are undertaken to provide essential health care services to all residents of a community regardless of ability to pay. The Secretary shall begin immediately to process applications of public facilities for mortgage insurance under this section in accordance with regulations, guidelines, and procedures applicable to facilities of private nonprofit corporations and associations.
+
+#### (g) Insurance of mortgages providing permanent financing or refinancing of existing mortgage indebtedness; aggregate principal balance of mortgages
+
+(1) Notwithstanding any of the other provisions of this subchapter, the Secretary may insure under this section a mortgage which provides permanent financing or refinancing of existing mortgage indebtedness in the case of a hospital whose permanent financing is presently lacking, if the construction of such hospital was completed between January 1, 1966, and August 1, 1968.
+
+(2) The aggregate principal balance of all mortgages insured under paragraph (1) and outstanding at any one time shall not exceed $20,000,000.
+
+#### (h) Applicability of other laws
+
+The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (<i>l</i>), and (n) of section 1713 of this title shall apply to mortgages insured under this section and all references therein to section 1713 of this title shall be deemed to refer to this section.
+
+(June 27, 1934, ch. 847, title II, §242, as added Aug. 1, 1968, Pub. L. 90–448, title XV, §1501, 82 Stat. 599; amended Dec. 31, 1970, Pub. L. 91–609, title I, §§109, 110(a), 84 Stat. 1772; Aug. 22, 1974, Pub. L. 93–383, title III, §304(i), 88 Stat. 678; Oct. 12, 1977, Pub. L. 95–128, title III, §308, 91 Stat. 1135; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Dec. 21, 1979, Pub. L. 96–153, title III, §315, 93 Stat. 1117; Oct. 8, 1980, Pub. L. 96–399, title III, §310(h), 94 Stat. 1643; Aug. 13, 1981, Pub. L. 97–35, title III, §339H, 95 Stat. 418; Nov. 30, 1983, Pub. L. 98–181, title IV, §§404(b)(15), 436, 97 Stat. 1210, 1222; Oct. 17, 1984, Pub. L. 98–479, title II, §§201(a)(1), 204(a)(13), 98 Stat. 2227, 2232; Feb. 5, 1988, Pub. L. 100–242, title IV, §§411(a), 412(a)–(d), 101 Stat. 1905, 1906.)
+
+#### References in Text
+
+The Public Health Service Act, referred to in subsec. (c), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title VII of the Act was added by act July 30, 1956, ch. 779, §2, 70 Stat. 717, and is classified generally to subchapter V (§292 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
+Section 8211 of title 42, referred to in subsec. (d)(2)(B), was omitted from the Code pursuant to section 8229 of Title 42, which terminated authority under that section on June 30, 1989.
+
+Section 1521 of the Public Health Service Act \[42 U.S.C. 300m\], referred to in subsec. (d)(4), was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
+
+The Social Security Act, referred to in subsec. (d)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### Amendments
+
+1988—Subsec. (a). Pub. L. 100–242, §412(a), inserted at end “Such assistance shall be provided regardless of the amount of public financial or other support a hospital may receive, and the Secretary shall neither require additional security or collateral to guarantee such support, nor impose more stringent eligibility or other requirements on publicly owned or supported hospitals.”
+
+Subsec. (d)(2). Pub. L. 100–242, §412(b), substituted “The mortgage shall involve a principal obligation in the amount requested by the mortgagor if such amount does not exceed 90 percent of the estimated replacement cost of the property or project including” for “The mortgage shall involve a principal obligation in an amount not to exceed 90 per centum of the estimated replacement cost of the property or project including”.
+
+Subsec. (d)(4). Pub. L. 100–242, §411(a), inserted provisions at end relating to authority of Secretary to insure a mortgage under this section covering new or rehabilitated hospitals, including equipment, in cases where no State agency exists, or where such agency does exist but is not empowered to provide a certification for the need of such hospital as required under this section.
+
+Subsec. (d)(6). Pub. L. 100–242, §412(c), added par. (6).
+
+Subsec. (f). Pub. L. 100–242, §412(d), inserted at end “The Secretary shall begin immediately to process applications of public facilities for mortgage insurance under this section in accordance with regulations, guidelines, and procedures applicable to facilities of private nonprofit corporations and associations.”
+
+1984—Subsec. (c). Pub. L. 98–479, §201(a)(1), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+
+Subsec. (d)(3)(A). Pub. L. 98–479, §204(a)(13), substituted a semicolon for the comma at end.
+
+1983—Subsec. (b)(1)(C). Pub. L. 98–181, §436(1), inserted “public facility,” after “which is a”.
+
+Subsec. (d)(3)(B). Pub. L. 98–181, §404(b)(15), substituted provision that the interest rate be such a rate as agreed upon by the mortgagor and the mortgagee for provision that the interest rate, exclusive of premium charges for insurance and service charges, not exceed such per centum per annum, not in excess of 6 per centum, on the amount of the principal obligation outstanding at any time, as the Secretary finds necessary to meet the mortgage market.
+
+Subsec. (f). Pub. L. 98–181, §436(2), inserted “, and in the case of public hospitals, to encourage programs that are undertaken to provide essential health care services to all residents of a community regardless of ability to pay” after “defined population”.
+
+1981—Subsec. (d)(5). Pub. L. 97–35 inserted provisions respecting limitation on authority of the Secretary to approve mortgage increases on eligible mortgages.
+
+1980—Subsec. (d)(2). Pub. L. 96–399 revised existing provisions into introductory paragraph and subpar. (A) and added subpar. (B).
+
+1979—Subsec. (d)(5). Pub. L. 96–153 added par. (5).
+
+1977—Subsec. (c). Pub. L. 95–128, §308(b), prohibited charging any mortgage insurance premium with respect to the amount of principal and interest guaranteed by the Department of Health, Education, and Welfare under title VII of the Public Health Service Act.
+
+Subsec. (d)(4). Pub. L. 95–128, §308(a), inserted reference to section 1521.
+
+1974—Subsec. (d)(2). Pub. L. 93–383 struck out “not to exceed $50,000,000, and” after “an amount”.
+
+1970—Subsec. (b)(1)(C). Pub. L. 91–609, §110(a), substituted as definition of “hospital” a facility “which is a proprietary facility, or facility of a private nonprofit corporation or association, licensed or regulated by the State (or, if there is no State law providing for such licensing or regulation by the State, by the municipality or other political subdivision in which the facility is located)” for “prior definition as a facility which is owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual”.
+
+Subsec. (d)(2). Pub. L. 91–609, §109, increased limitation on amount of mortgage from $25,000,000 to $50,000,000.
+
+#### Effective Date of 1981 Amendment
+
+Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of this title.
+
+#### Change of Name
+
+“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (d)(5)(A), (B) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+#### Regulations
+
+Section 411(b) of Pub. L. 100–242 directed Secretary of Housing and Urban Development to issue regulations to carry out amendment of this section by not later than expiration of 90-day period following Feb. 5, 1988.
+
+Secretary of Housing and Urban Development directed to issue regulations implementing amendments to this section by section 436 of Pub. L. 98–181, not later than Oct. 31, 1984, see section 104(f) of Pub. L. 98–479, set out as a note under section 1715b of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1715c, 1715n, 1715z–19 of this title; title 42 section 4822.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

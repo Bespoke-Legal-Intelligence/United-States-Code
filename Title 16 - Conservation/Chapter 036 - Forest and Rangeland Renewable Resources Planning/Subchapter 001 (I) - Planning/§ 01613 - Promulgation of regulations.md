@@ -1,0 +1,14 @@
+### §1613. Promulgation of regulations
+
+The Secretary of Agriculture shall prescribe such regulations as he determines necessary and desirable to carry out the provisions of this subchapter.
+
+(Pub. L. 93–378, §15, as added Pub. L. 94–588, §11, Oct. 22, 1976, 90 Stat. 2958.)
+
+#### Transfer of Functions
+
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 1601 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 50 App. section 1989c–6.
+

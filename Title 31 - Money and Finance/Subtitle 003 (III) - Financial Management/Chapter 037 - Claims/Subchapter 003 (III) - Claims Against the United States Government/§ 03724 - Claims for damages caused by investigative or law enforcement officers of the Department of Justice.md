@@ -1,0 +1,62 @@
+### §3724. Claims for damages caused by investigative or law enforcement officers of the Department of Justice
+
+(a) The Attorney General may settle, for not more than $50,000 in any one case, a claim for personal injury, death, or damage to, or loss of, privately owned property, caused by an investigative or law enforcement officer as defined in section 2680(h) of title 28 who is employed by the Department of Justice acting within the scope of employment that may not be settled under chapter 171 of title 28. An officer or employee of the United States Government may not present a claim arising during the scope of employment. A claim may be allowed only if it is presented to the Attorney General within one year after it accrues.
+
+(b) The Attorney General shall report annually to the Congress on all settlements made under this section. With respect to each such settlement, the Attorney General shall include a brief statement on the type of the claim, the amount claimed, and the amount of the settlement.
+
+(c) A claim may be paid under this section only if the claimant accepts the amount of the settlement in complete satisfaction of the claim against the Government.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 975; Pub. L. 101–203, §1(a), (b)(1), Dec. 7, 1989, 103 Stat. 1805.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+3724(a)
+
+31:224b(words before 9th comma and between 10th and 11th commas, 1st, 2d provisos).
+
+Mar. 20, 1936, ch. 159, 49 Stat. 1184.
+
+&nbsp;
+
+31:224b(note).
+
+Aug. 2, 1946, ch. 753, §424(a)(2d par. on p. 847), (b)(related to 2d par. of (a) on p. 847), 60 Stat. 847.
+
+3724(b)
+
+31:224b(words between 9th and 10th commas and between 11th comma and 1st proviso).
+
+3724(c)
+
+31:224b(last proviso).
+
+In subsection (a), the words “of the United States” are omitted as unnecessary. The word “settle” is substituted for “consider, adjust, and determine” for consistency. The words “after January 1, 1934” are omitted as executed. The words “personal injury, death” are substituted for “damages to any person” for clarity. The words “of the Department of Justice” are omitted as unnecessary. The words “that may not be settled under chapter 171 of title 28” are substituted for section 424(a)(2d par. on p. 847) and (b)(related to 2d par. of (a) on p. 847) of the Legislative Reorganization Act of 1946 (31:224b(note)) because of the restatement. The words “An officer or employee of the United States Government may not present a claim arising during the scope of employment” are substituted for 31:224b(1st proviso) to eliminate unnecessary words. The text of 31:224b(2d proviso words after semicolon) is omitted as executed.
+
+In subsection (b), the word “settlement” is substituted for “amount as may be found due to any claimant . . . as a legal claim” for clarity and consistency. The words “by Congress” are omitted as surplus.
+
+In subsection (c), the words “A claim may be paid under this section” are added for clarity. The words “of the settlement” are substituted for “determined to be due him under the provisions of this section” for consistency and to eliminate unnecessary words. The word “complete” is substituted for “full and final” to eliminate unnecessary words. The word “satisfaction” is substituted for “settlement” for clarity.
+
+#### Amendments
+
+1989—Pub. L. 101–203, §1(b)(1), amended section catchline generally, substituting “investigative or law enforcement officers of the Department of Justice” for “the Federal Bureau of Investigation”.
+
+Subsec. (a). Pub. L. 101–203, §1(a)(1), substituted “$50,000” for “$500” and “an investigative or law enforcement officer as defined in section 2680(h) of title 28 who is employed by the Department of Justice” for “the Director or an Assistant Director, inspector, or special agent of the Federal Bureau of Investigation”.
+
+Subsec. (b). Pub. L. 101–203, §1(a)(2), substituted “report annually to the Congress on all settlements made under this section. With respect to each such settlement, the” for “certify to Congress a settlement under this section for payment out of an appropriation that may be made to pay the settlement. The”.
+
+#### Effective Date of 1989 Amendment
+
+Section 2 of Pub. L. 101–203 provided that: “The amendments made by section 1 \[amending this section\] shall apply to—
+
+&emsp;“(1) any claim arising on or after the date of the enactment of this Act \[Dec. 7, 1989\],
+
+&emsp;“(2) any claim pending on such date, and
+
+&emsp;“(3) any claim arising before such date which has not been settled if the time for presenting the claim to the Attorney General under the last sentence of section 3724(a) of title 31, United States Code, has not expired.”
+

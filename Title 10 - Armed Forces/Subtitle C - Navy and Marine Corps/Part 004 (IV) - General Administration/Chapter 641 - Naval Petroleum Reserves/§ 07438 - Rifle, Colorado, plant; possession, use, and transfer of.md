@@ -1,0 +1,62 @@
+### §7438. Rifle, Colorado, plant; possession, use, and transfer of
+
+(a) The Secretary shall take possession of the experimental demonstration facility near Rifle, Colorado, which was constructed and operated by the Department of the Interior on lands on or near the naval oil shale reserves under the Act of April 5, 1944 (30 U.S.C. 321 et seq.).
+
+(b) The Secretary, subject to the approval of the President, shall by contract, lease, or otherwise encourage the use of the facility described in subsection (a) in research, development, test, evaluation, and demonstration work. For such purposes the Secretary may use or lease for use by institutions, organizations, or individuals, public or private, the facility described in subsection (a) and may construct, install, and operate, or lease for operation additional experimental facilities on such lands. The Secretary may, after consultation with the Committees on Armed Services of the Senate and the House of Representatives, mine and remove, or authorize the mining and removal, of any oil shale or products therefrom from lands in the naval oil shale reserves that may be needed for such experimentation.
+
+(c) Nothing in this chapter shall be construed—
+
+&emsp;(1) to authorize the commercial development and operation of the naval oil shale reserves by the Government in competition with private industry; or
+
+&emsp;(2) in diminution of the responsibility of the Secretary in providing oil shale and products therefrom for needs of national defense.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 462; Oct. 11, 1962, Pub. L. 87–796, §1(12), 76 Stat. 906; Apr. 5, 1976, Pub. L. 94–258, title II, §201(19), 90 Stat. 313; Dec. 12, 1980, Pub. L. 96–513, title V, §513(37), 94 Stat. 2934.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+7438
+
+34 U.S.C. 524 (proviso of 11th par.).
+
+June 4, 1920, ch. 228 (11th par., proviso, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, §1, 52 Stat. 1254; June 17, 1944, ch. 262, 58 Stat. 281.
+
+The words “this chapter does not authorize” are substituted for the words “nothing herein contained shall be construed to permit” for brevity.
+
+#### References in Text
+
+Act April 5, 1944, referred to in subsec. (a), is act Apr. 5, 1944, ch. 172, 58 Stat. 190, as amended, which is classified generally to chapter 6 (§321 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code see Tables.
+
+#### Amendments
+
+1980—Subsec. (a). Pub. L. 96–513, §513(37)(A), substituted provisions relating to authority of the Secretary under the specified statute, for provisions relating to authority of the Administrator of the Energy Research and Development Administration under the specified statute.
+
+Subsec. (b). Pub. L. 96–513, §513(37)(B), substituted provisions relating to authorities of the Secretary, for provisions relating to authorities of the Administrator of the Energy Research and Development Administration.
+
+Subsec. (c). Pub. L. 96–513, §513(37)(C), substituted “in this chapter” for “herein contained”.
+
+1976—Subsec. (a). Pub. L. 94–258 substituted “Administrator of the Energy Research and Development Administration” for “Secretary of the Interior”.
+
+Subsec. (b). Pub. L. 94–258 substituted “Administrator of the Energy Research and Development Administration” for “Secretary of the Interior” wherever appearing therein and struck out “of the Navy” after “Secretary” wherever appearing.
+
+Subsec. (c). Pub. L. 94–258 struck out “of the Navy” after “Secretary”.
+
+1962—Pub. L. 87–796 amended section generally by substituting provisions relating to the possession, use, and transfer of the experimental demonstration facility near Rifle, Colorado, for provisions which stated that this chapter does not authorize the development or operation of the naval oil-shale reserves.
+
+#### Change of Name
+
+Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7421, 7422 of this title; title 43 section 1601.
+

@@ -1,0 +1,22 @@
+### §718a. Hunting and conservation stamp for taking migratory waterfowl
+
+No person who has attained the age of sixteen years shall take any migratory waterfowl unless at the time of such taking he carries on his person an unexpired Federal migratory-bird hunting and conservation stamp validated by his signature written by himself in ink across the face of the stamp prior to his taking such birds; except that no such stamp shall be required for the taking of migratory waterfowl by Federal or State institutions or official agencies, or for propagation, or by the resident owner, tenant, or share cropper of the property or officially designated agencies of the Department of the Interior for the killing, under such restrictions as the Secretary of the Interior may by regulation prescribe, of such waterfowl when found injuring crops or other property. Any person to whom a stamp has been sold under section 718b of this title shall upon request exhibit such stamp for inspection to any officer or employee of the Department of the Interior authorized to enforce the provisions of this subchapter or to any officer of any State or any political subdivision thereof authorized to enforce game laws.
+
+(Mar. 16, 1934, ch. 71, §1, 48 Stat. 451; June 15, 1935, ch. 261, title I, §1, 49 Stat. 378; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 30, 1956, ch. 782, §1, 70 Stat. 722; Feb. 17, 1976, Pub. L. 94–215, §3(a), 90 Stat. 189.)
+
+#### Amendments
+
+1976—Pub. L. 94–215 substituted “hunting and conservation stamp” for “hunting stamp” in first sentence.
+
+1956—Act July 30, 1956, substituted “no person who has attained the age of sixteen years”, for “no person over sixteen years of age”.
+
+1935—Act June 15, 1935, substituted “validated by his signature written by himself in ink across the face of the stamp prior to his taking such birds” for “issued to him in the manner hereinafter provided,” and struck out provisions which authorized the Secretary of Agriculture to adopt and promulgate regulations for the protection of private property in the injury of crops.
+
+#### Transfer of Functions
+
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 670i, 718b, 718e of this title.
+

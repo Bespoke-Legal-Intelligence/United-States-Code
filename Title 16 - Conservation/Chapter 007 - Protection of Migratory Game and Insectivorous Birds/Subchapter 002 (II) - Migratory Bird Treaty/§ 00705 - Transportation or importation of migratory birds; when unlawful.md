@@ -1,0 +1,24 @@
+### §705. Transportation or importation of migratory birds; when unlawful
+
+It shall be unlawful to ship, transport, or carry, by any means whatever, from one State, Territory, or district to or through another State, Territory, or district, or to or through a foreign country, any bird, or any part, nest, or egg thereof, captured, killed, taken, shipped, transported, or carried at any time contrary to the laws of the State, Territory, or district in which it was captured, killed, or taken, or from which it was shipped, transported, or carried. It shall be unlawful to import any bird, or any part, nest, or egg thereof, captured, killed, taken, shipped, transported, or carried contrary to the laws of any Province of the Dominion of Canada in which the same was captured, killed, or taken, or from which it was shipped, transported, or carried.
+
+(July 3, 1918, ch. 128, §4, 40 Stat. 755; June 20, 1936, ch. 634, §4, 49 Stat. 1556; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Dec. 5, 1969, Pub. L. 91–135, §10, 83 Stat. 282.)
+
+#### Amendments
+
+1969—Pub. L. 91–135 repealed second par., which prohibited shipment of wild game mammals or parts thereof by any person of the United States to and from Mexico, except by permit from the Secretary of the Interior.
+
+1936—Act June 20, 1936, inserted last sentence.
+
+#### Effective Date of 1969 Amendment
+
+Section 11 of Pub. L. 91–135 provided that: “The provisions of sections 1 through 10 of this Act \[enacting sections 668cc–1 to 668cc–6 of this title and amending this section, sections 851, 852, 852a, and 852d of this title, and sections 43, 44, 3054, and 3112 of Title 18, Crimes and Criminal Procedure\] shall be effective one hundred and eighty days after the date of enactment of this Act \[Dec. 5, 1969\].”
+
+#### Effective Date of 1936 Amendment
+
+Section effective June 30, 1937, see section 1 of act June 20, 1936, set out as a note under section 703 of this title.
+
+#### Transfer of Functions
+
+Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 701 of this title.
+

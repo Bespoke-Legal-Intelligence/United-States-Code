@@ -1,0 +1,44 @@
+### §4684 . Surplus obsolete ordnance: sale to patriotic organizations
+
+Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), any branch, office, or officer designated by the Secretary of the Army may sell, without advertisement and at prices that he considers reasonable—
+
+&emsp;(1) surplus obsolete small arms and ammunition and equipment for them, to any patriotic organization for military purposes; and
+
+&emsp;(2) surplus obsolete brass or bronze cannons, carriages, and cannon balls, for public parks, public buildings, and soldiers’ monuments.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 262; Dec. 12, 1980, Pub. L. 96–513, title V, §512(19), 94 Stat. 2930.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+4684
+
+50:64.
+
+50:68.
+
+May 28, 1908, ch. 215, §14, 35 Stat. 443; June 28, 1950, ch. 383, §402(g), 64 Stat. 273; Oct. 31, 1951, ch. 654, §2(26), 65 Stat. 707.
+
+&nbsp;
+
+Mar. 4, 1909, ch. 319, §47, 35 Stat. 1075; June 28, 1950, ch. 383, §402(i), 64 Stat. 273; Oct. 31, 1951, ch. 654, §2(28), 65 Stat. 707.
+
+50:64 (proviso) and 50:68 (proviso) are omitted as surplusage.
+
+#### Amendments
+
+1980—Pub. L. 96–513 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” for “section 486 of title 40”.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 18 section 921; title 26 section 5845.
+

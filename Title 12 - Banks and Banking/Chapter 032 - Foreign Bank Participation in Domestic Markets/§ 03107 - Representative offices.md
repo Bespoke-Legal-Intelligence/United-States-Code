@@ -1,0 +1,52 @@
+### §3107. Representative offices
+
+#### (a) Prior approval to establish representative offices
+
+#### (1) In general
+
+&emsp;No foreign bank may establish a representative office without the prior approval of the Board.
+
+#### (2) Standards for approval
+
+&emsp;In acting on any application under this paragraph to establish a representative office, the Board shall take into account the standards contained in section 3105(d)(2) of this title and may impose any additional requirements that the Board determines to be necessary to carry out the purposes of this chapter.
+
+#### (b) Termination of representative offices
+
+The Board may order the termination of the activities of a representative office of a foreign bank on the basis of the standards, procedures, and requirements applicable under section 3105(e) of this title with respect to branches and agencies.
+
+#### (c) Examinations
+
+The Board may make examinations of each representative office of a foreign bank, the cost of which shall be assessed against and paid by such foreign bank.
+
+#### (d) Compliance with State law
+
+This chapter does not authorize the establishment of a representative office in any State in contravention of State law.
+
+(Pub. L. 95–369, §10, Sept. 17, 1978, 92 Stat. 624; Pub. L. 102–242, title II, §204, Dec. 19, 1991, 105 Stat. 2292; Pub. L. 102–550, title XVI, §1604(a)(4), Oct. 28, 1992, 106 Stat. 4082.)
+
+#### References in Text
+
+For definition of “this chapter”, referred to in subsecs. (a)(2) and (d), see References in Text note set out under section 3101 of this title.
+
+#### Amendments
+
+1992—Subsec. (b). Pub. L. 102–550 substituted “section 3105(e) of this title” for “paragraphs (1), (2), and (3) of section 3105(d) of this title”.
+
+1991—Pub. L. 102–242 amended section generally. Prior to amendment, section read as follows:
+
+“(a) Any foreign bank that maintains an office other than a branch or agency in any State shall register with the Secretary of the Treasury in accordance with rules prescribed by him, within one hundred and eighty days after September 17, 1978, or the date on which the office is established, whichever is later.
+
+“(b) This chapter does not authorize the establishment of any such office in any State in contravention of State law.”
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
+
+#### Moratorium on Examination Fees Under This Chapter
+
+Pub. L. 103–328, title I, §115(b), Sept. 29, 1994, 108 Stat. 2368, provided that: “The provision of section 10(c) ofthe International Banking Act of 1978 \[12 U.S.C. 3107(c)\] relating to the cost of examinations under such section shall not apply with respect to any examination under such section which begins before or during the 3-year period beginning on July 25, 1994.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3105 of this title.
+

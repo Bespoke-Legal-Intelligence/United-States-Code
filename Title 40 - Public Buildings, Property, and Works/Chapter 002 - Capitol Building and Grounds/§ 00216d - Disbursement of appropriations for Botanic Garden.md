@@ -1,0 +1,6 @@
+### §216d. Disbursement of appropriations for Botanic Garden
+
+On and after November 5, 1990, all appropriations made on account of the Botanic Garden shall be disbursed for that purpose in the same manner as other appropriations under the control of the Architect of the Capitol.
+
+(Pub. L. 101–520, title II, Nov. 5, 1990, 104 Stat. 2270.)
+

@@ -1,0 +1,188 @@
+### §2733. Property loss; personal injury or death: incident to noncombat activities of Department of Army, Navy, or Air Force
+
+(a) Under such regulations as the Secretary concerned may prescribe, he, or, subject to appeal to him, the Judge Advocate General of an armed force under his jurisdiction, or the chief Counsel of the Coast Guard, as appropriate, if designated by him, may settle, and pay in an amount not more than $100,000, a claim against the United States for—
+
+&emsp;(1) damage to or loss of real property, including damage or loss incident to use and occupancy;
+
+&emsp;(2) damage to or loss of personal property, including property bailed to the United States and including registered or insured mail damaged, lost, or destroyed by a criminal act while in the possession of the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be; or
+
+&emsp;(3) personal injury or death;
+
+> either caused by a civilian officer or employee of that department, or the Coast Guard, or a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, acting within the scope of his employment, or otherwise incident to noncombat activities of that department, or the Coast Guard.
+
+(b) A claim may be allowed under subsection (a) only if—
+
+&emsp;(1) it is presented in writing within two years after it accrues, except that if the claim accrues in time of war or armed conflict or if such a war or armed conflict intervenes within two years after it accrues, and if good cause is shown, the claim may be presented not later than two years after the war or armed conflict is terminated;
+
+&emsp;(2) it is not covered by section 2734 of this title or section 2672 of title 28;
+
+&emsp;(3) it is not for personal injury or death of such a member or civilian officer or employee whose injury or death is incident to his service;
+
+&emsp;(4) the damage to, or loss of, property, or the personal injury or death, was not caused wholly or partly by a negligent or wrongful act of the claimant, his agent, or his employee; or, if so caused, allowed only to the extent that the law of the place where the act or omission complained of occurred would permit recovery from a private individual under like circumstances; and
+
+&emsp;(5) it is substantiated as prescribed in regulations of the Secretary concerned.
+
+> For the purposes of clause (1), the dates of the beginning and ending of an armed conflict are the dates established by concurrent resolution of Congress or by a determination of the President.
+
+(c) Payment may not be made under this section for reimbursement for medical, hospital, or burial services furnished at the expense of the United States.
+
+(d) If the Secretary concerned considers that a claim in excess of $100,000 is meritorious, and the claim otherwise is payable under this section, the Secretary may pay the claimant $100,000 and report any meritorious amount in excess of $100,000 to the Comptroller General for payment under section 1304 of title 31.
+
+(e) Except as provided in subsection (d), no claim may be paid under this section unless the amount tendered is accepted by the claimant in full satisfaction.
+
+(f) For the purposes of this section, a member of the National Oceanic and Atmospheric Administration or of the Public Health Service who is serving with the Navy or Marine Corps shall be treated as if he were a member of that armed force.
+
+(g) Under regulations prescribed by the Secretary concerned, an officer or employee under the jurisdiction of the Secretary may settle a claim that otherwise would be payable under this section in an amount not to exceed $25,000. A decision of the officer or employee who makes a final settlement decision under this section may be appealed by the claimant to the Secretary concerned or an officer or employee designated by the Secretary for that purpose.
+
+(h) Under such regulations as the Secretary of Defense may prescribe, he or his designee has the same authority as the Secretary of a military department under this section with respect to the settlement of claims based on damage, loss, personal injury, or death caused by a civilian officer or employee of the Department of Defense acting within the scope of his employment or otherwise incident to noncombat activities of that department.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 153; Aug. 23, 1958, Pub. L. 85–729, §1, 72 Stat. 813; Sept. 2, 1958,Pub. L. 85–861, §1(54), 72 Stat. 1461; Nov. 2, 1966, Pub. L. 89–718, §8(a), 80 Stat. 1117; Sept. 26, 1968, Pub. L. 90–522, 82 Stat. 875; Sept. 26, 1968, Pub. L. 90–525, §§1, 3–5, 82 Stat. 877, 878; July 8, 1970, Pub. L. 91–312, §2, 84 Stat. 412; July 8, 1974, Pub. L. 93–336, §1, 88 Stat. 291; Dec. 12, 1980, Pub. L. 96–513, title V, §511(94), 94 Stat. 2928; Oct. 30, 1984, Pub. L. 98–564, §1, 98 Stat. 2918.)
+
+Historical and Revision Notes<br>1956
+
+Act
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+2733(a)
+
+2733(b)
+
+2733(c)
+
+2733(d)
+
+2733(e)
+
+2733(f)
+
+31:223b (1st sentence, less 52d through 62d, and 76th through 93d, words; and less proviso).
+
+\[Uncodified: Aug. 2, 1946, ch. 753, §424(a) (4th clause), 60 Stat. 847\].
+
+31:223b (76th through 93d words and proviso of 1st sentence; and 2d sentence).
+
+31:223b (3d sentence).
+
+31:223b (last sentence).
+
+31:223b (52d through 62d words of 1st sentence).
+
+31:222h.
+
+\[31:223b is made applicable to the Navy by 31:223d and 223e\].
+
+July 3, 1943, ch. 189, §1 (less 4th sentence), 57 Stat. 372; May 29, 1945, ch. 135, §4, 59 Stat. 225; June 28, 1946, ch. 514, §1, 60 Stat. 332; July 3, 1952, ch. 570, §2(c), 66 Stat. 334; Mar. 31, 1953, ch. 13 (as applicable to Act of July 3, 1952, ch. 570, §2(c)), 67 Stat. 18; June 30, 1953, ch. 172 (as applicable to Act of July 3, 1952, ch. 570, §2(c)), 67 Stat. 131.
+
+Aug. 2, 1946, ch. 753, §424(a) (4th clause), 60 Stat. 847.
+
+Dec. 28, 1945, ch. 597, §1, 59 Stat. 662; June 28, 1946, ch. 514, §2, 60 Stat. 333.
+
+&nbsp;
+
+Dec. 28, 1945, ch. 597, §6; added Mar. 20, 1946, ch. 104 (last par.), 60 Stat. 56.
+
+In subsection (a), the words “a civilian officer or employee of that department, or a member of the Army, Navy, Air Force, or Marine Corps, as the case may be” are substituted for the words “military personnel or civilian employees of the Department of the Army or of the Army”. The words “whether under a lease, express or implied” are omitted as surplusage. The words “consider, ascertain, adjust, determine” are omitted as covered by the word “settle”, as defined in section 2731 of this title. The words “arising on or after May 27, 1941” are omitted as executed, since, under revised subsection (b), a claim must be filed within one year after it accrues, or within one year after the war is terminated, if it accrues in time of war.
+
+In subsection (a)(1), the words “or loss” are inserted before the word “incident”, for clarity.
+
+In subsection (b)(1), the words “it accrues” are substituted for the words “the accident or incident out of which such claim arises shall have occurred”, in 31:223b. The words “the claim accrues” are substituted for the words “That if such accident or incident occurs”. The words “not later than” are substituted for the words “within” to make it clear that a claim may be presented during a war. The words “the war is terminated” are substituted for the words “after peace is established”, since the other time covered is “time of war”. 31:223b (last 49 words of proviso of 2d sentence) is omitted as executed.
+
+In subsection (b)(2), the words “or section 2672 of title 28” are substituted for the words “claims cognizable under part 2 of this title”, to reflect the express amendment of 31:223b and 223c by the fourth clause of section 424(a) of the Federal Tort Claims Act, 60 Stat. 847. Section 424(a) of the Federal Tort Claims Act referred to “claims cognizable under part 2 of this title”. Part 2 of that act consisted of sections 403 and 404 which were repealed by section 39 of the Act of June 25, 1948, ch. 646, 62 Stat. 1008, and replaced by sections 2672 and 2673 of title 28. The words “or possessions thereof” are omitted, since possessions of foreign countries are not specifically covered by the section to which the words refer.
+
+In subsection (d), the words “claim \* \* \* that would otherwise be covered by this section” are substituted for the words “such claims”.
+
+In subsection (e), the words “and final settlement” are omitted as surplusage.
+
+1958
+
+Act
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+2733
+
+31:223b.
+
+Mar. 29, 1956, ch. 103, §§1–3, 70 Stat. 60, 61.
+
+#### Amendments
+
+1984—Subsec. (a). Pub. L. 98–564, §1(1), substituted “Chief Counsel” for “chief legal officer” and “$100,000” for “$25,000” in provisions preceding par. (1).
+
+Subsec. (d). Pub. L. 98–564, §1(2), amended subsec. (d) generally, substituting “$100,000” for “$25,000” and provisions requiring Secretary to report excess to the Comptroller General for provisions requiring reporting to Congress.
+
+Subsec. (g). Pub. L. 98–564, §1(3), substituted provisions permitting officers and employees of Secretary concerned to settle claims not otherwise payable under this section in amounts not to exceed $25,000 and providing for an appeal to Secretary concerned or his designee for provisions which provided for delegation of claims settlement authority by Secretary for cases not to exceed $5,000 and for appeal therefrom.
+
+1980—Subsec. (f). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+
+1974—Subsec. (a). Pub. L. 93–336, §1(1), substituted “$25,000” for “$15,000”.
+
+Subsec. (d). Pub. L. 93–336, §1(2), substituted “$25,000” for “$15,000” wherever appearing.
+
+Subsec. (g). Pub. L. 93–336, §1(3), substituted “$5,000” for “$2,500”.
+
+1970—Subsec. (a). Pub. L. 91–312, §2(a), substituted “$15,000” for “$5,000”.
+
+Subsec. (d). Pub. L. 91–312, §2(b), substituted “$15,000” for “$5,000” wherever appearing.
+
+1968—Subsec. (a). Pub. L. 90–525, §1, substituted “Secretary concerned” for “Secretary of a military department”, and authorized the Chief Legal Officer of the Coast Guard to settle claims, settlement of claims for damage or loss to personal property in possession of the Coast Guard, and settlements when the torts are caused by civilian officers or employees and members of the Coast Guard when acting within scope of employment or otherwise incident to noncombat activities of the Coast Guard.
+
+Subsec. (b)(4). Pub. L. 90–522, §1(1), authorized application of local law in determining effect of claimant's contributory negligence.
+
+Subsec. (d). Pub. L. 90–525, §5, struck out “of the military department” after “Secretary”.
+
+Subsec. (g). Pub. L. 90–525, §3, increased limitation on amount of settlement from $1,000 to $2,500, struck out “military” before “department concerned”, and provided for appeals to Secretary concerned, or his designee, from determinations delegating authority to settle claims to an officer of an armed force. See Pub. L. 90–522, §1(2), hereunder, for identical provision for appeals to Secretary concerned.
+
+Pub. L. 90–522, §1(2), provided for appeals to Secretary concerned, or his designee, from determinations delegating authority to settle claims to an officer of an armed force.
+
+Subsec. (h). Pub. L. 90–525, §4, added subsec. (h).
+
+1966—Subsec. (f). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+
+1958—Subsec. (a). Pub. L. 85–729, §1(1)(A), substituted “the Judge Advocate General of an armed force under his jurisdiction, if designated by him, may settle, and pay in an amount not more than $5,000” for “any officer designated by him may settle, and pay in an amount not more than $1,000”.
+
+Subsec. (b). Pub. L. 85–861, §1(54)(A), (B), in cl. (1), substituted “two years” for “one year” in three places and included claims accruing in time of armed conflict,and inserted sentence providing for the determination of dates of the beginning and ending of an armed conflict.
+
+Subsec. (c). Pub. L. 85–861, §1(54)(C), substituted provisions prohibiting payment for reimbursement for medical, hospital, or burial services furnished at the expense of the United States for provisions which prohibited allowance of claims for personal injury or death for more than the cost of reasonable medical, hospital, and burial expenses actually incurred, and not otherwise furnished or paid by the United States.
+
+Subsec. (d). Pub. L. 85–729, §1(1)(B), substituted provisions authorizing partial payments on claims over $5,000 for provisions which authorized the Secretary of the military department concerned to report a claim for more than $1,000 to Congress for its consideration.
+
+Subsec. (e). Pub. L. 85–729, §1(1)(B), substituted “Except as provided in subsection (d), no claim may be paid under this section” for “No claim may be paid under subsection (a)”.
+
+Subsec. (g). Pub. L. 85–729, §1(1)(C), added subsec. (g).
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a Amendment note under section 101 of this title.
+
+#### Repeals
+
+The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
+
+#### Transfer of Functions
+
+For transfer of functions of Public Health Service, see note set out under section 802 of this title.
+
+#### Claims for Injury or Death Accrued Before March 30, 1956
+
+Section 17 of Pub. L. 85–861 disallowed claims for personal injury or death under section 2733 of this title, for more than the cost of reasonable medical, hospital, and burial expenses actually incurred if the claim accrued before March 30, 1956.
+
+#### Cross References
+
+Administrative adjustment of tort claims, see section 2672 of Title 28, Judiciary and Judicial Procedure.
+
+Travel and transportation; dependents; household and personal effects; motor vehicles; sale of bulky items; claims for proceeds; appropriations chargeable as not amending or repealing this section, see section 5564 of Title 5, Government Organization and Employees; section 554 of Title 37, Pay and Allowances of the Uniformed Services.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1588, 2735, 2736, 2738 of this title; title 5 section 5564; title 31 section 1304; title 37 section 554.
+

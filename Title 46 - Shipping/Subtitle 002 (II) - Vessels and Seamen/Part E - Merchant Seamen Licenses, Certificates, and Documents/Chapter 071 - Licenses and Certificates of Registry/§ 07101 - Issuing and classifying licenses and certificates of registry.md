@@ -1,0 +1,146 @@
+### §7101. Issuing and classifying licenses and certificates of registry
+
+(a) Licenses and certificates of registry are established for individuals who are required to hold licenses or certificates under this subtitle.
+
+(b) Under regulations prescribed by the Secretary, the Secretary—
+
+&emsp;(1) issues the licenses and certificates of registry; and
+
+&emsp;(2) may classify the licenses and certificates of registry as provided in subsections (c) and (f) of this section, based on—
+
+&emsp;&emsp;(A) the tonnage, means of propulsion, and horsepower of machine-propelled vessels;
+
+&emsp;&emsp;(B) the waters on which vessels are to be operated; or
+
+&emsp;&emsp;(C) other reasonable standards.
+
+(c) The Secretary may issue licenses in the following classes to applicants found qualified as to age, character, habits of life, experience, professional qualifications, and physical fitness:
+
+&emsp;(1) masters, mates, and engineers.
+
+&emsp;(2) pilots.
+
+&emsp;(3) operators.
+
+&emsp;(4) radio officers.
+
+(d) In classifying individuals under subsection (c)(1) of this section, the Secretary shall establish, when possible, suitable career patterns and service and other qualifying requirements appropriate to the particular service or industry in which the individuals are engaged.
+
+(e) An individual may be issued a license under subsection (c)(2) of this section only if the applicant—
+
+&emsp;(1) is at least 21 years of age;
+
+&emsp;(2) is of sound health and has no physical limitations that would hinder or prevent the performance of a pilot's duties;
+
+&emsp;(3) has a thorough physical examination each year while holding the license, except that this requirement does not apply to an individual who will serve as a pilot only on a vessel of less than 1,600 gross tons;
+
+&emsp;(4) demonstrates, to the satisfaction of the Secretary, that the applicant has the requisite general knowledge and skill to hold the license;
+
+&emsp;(5) demonstrates proficiency in the use of electronic aids to navigation;
+
+&emsp;(6) maintains adequate knowledge of the waters to be navigated and knowledge of regulations for the prevention of collisions in those waters;
+
+&emsp;(7) has sufficient experience, as decided by the Secretary, to evidence ability to handle any vessel of the type and size which the applicant may be authorized to pilot; and
+
+&emsp;(8) meets any other requirement the Secretary considers reasonable and necessary.
+
+(f) The Secretary may issue certificates of registry in the following classes to applicants found qualified as to character, knowledge, skill, and experience:
+
+&emsp;(1) pursers.
+
+&emsp;(2) medical doctors.
+
+&emsp;(3) professional nurses.
+
+(g) The Secretary may not issue a license or certificate of registry under this section unless an individual applying for the license or certificate makes available to the Secretary, under section 206(b)(7) of the National Driver Register Act of 1982 (23 U.S.C. 401 note), any information contained in the National Driver Register related to an offense described in section 205(a)(3)(A) or (B) of that Act committed by the individual.
+
+(h) The Secretary may review the criminal record of an individual who applies for a license or certificate of registry under this section.
+
+(i) The Secretary shall require the testing of an individual who applies for issuance or renewal of a license or certificate of registry under this chapter for use of a dangerous drug in violation of law or Federal regulation.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 539; Pub. L. 98–557, §29(a), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 101–380, title IV, §4101(a), Aug. 18, 1990, 104 Stat. 509.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source section (U.S. Code)</i>
+
+7101
+
+46:214
+
+&nbsp;
+
+46:224
+
+&nbsp;
+
+46:226
+
+&nbsp;
+
+46:228
+
+&nbsp;
+
+46:229
+
+&nbsp;
+
+46:229a
+
+&nbsp;
+
+46:229b
+
+&nbsp;
+
+46:242
+
+&nbsp;
+
+46:243
+
+&nbsp;
+
+46:244
+
+&nbsp;
+
+46:247
+
+Section 7101(a) provides the authority for the establishment of licenses and certificates of registry for officers and individuals operating vessels who are required to hold them under Subtitle II.
+
+Subsection (b) authorizes the Secretary to issue licenses and certificates of registry based on tonnage, means of propulsion, horsepower, vessel operating area, and other reasonable standards.
+
+Subsection (c) authorizes the Secretary to issue licenses to masters, mates, engineers, pilots, operators, and radio officers when found qualified as to age, character, habits of life, experience, professional qualifications, and physical fitness. These qualifying standards must by necessity be reasonable and related to the rigors of the profession.
+
+Subsection (d) requires the Secretary to establish, when possible, suitable career patterns and service for and other qualifying requirements appropriate to the particular service or industry for the individuals so engaged.
+
+Subsection (e) sets forth the requirements that pilots must meet before being issued a license.
+
+Subsection (f) authorizes the Secretary to issue certificates of registry to qualified individuals as pursers, medical doctors, and professional nurses.
+
+#### References in Text
+
+Sections 205(a)(3)(A) or (B) and 206(b)(7) of the National Driver Register Act of 1982, referred to in subsec. (g), are sections 205(a)(3)(A), (B) and 206(b)(7) of Pub. L. 97–364, which are set out as a note under section 401 of Title 23, Highways.
+
+#### Amendments
+
+1990—Subsecs. (g) to (i). Pub. L. 101–380 added subsecs. (g) to (i).
+
+1984—Subsec. (e)(3). Pub. L. 98–557 inserted exemption for pilots on a vessel of less than 1,600 gross tons.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
+
+#### Plan for Licensing Operators of Fishing Industry Vessels
+
+Pub. L. 100–424, §3, Sept. 9, 1988, 102 Stat. 1590, provided that: “The Secretary of the department in which the Coast Guard is operating shall, within two years after the date of enactment of this Act \[Sept. 9, 1988\], and in close consultation with the Commercial Fishing Industry Vessel Advisory Committee established under section 4508 of title 46, United States Code (as amended by this Act), prepare and submit to the Congress a plan for the licensing of operators of documented fishing, fish processing, and fish tender vessels. The plan shall take into consideration the nature and variety of the different United States fisheries and of the vessels engaged in those fisheries, the need to license all operators or only those working in certain types of fisheries or vessels, and other relevant factors.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 8101, 8302, 8304, 8502, 8503, 8703, 9302, 9303 of this title; section 1295c of Appendix to this title; title 49 section 30305.
+

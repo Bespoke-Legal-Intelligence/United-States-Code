@@ -1,0 +1,198 @@
+### §6304. Annual leave; accumulation
+
+(a) Except as provided by subsections (b), (d), (e), (f), and (g) of this section, annual leave provided by section 6303 of this title, which is not used by an employee, accumulates for use in succeeding years until it totals not more than 30 days at the beginning of the first full bi-weekly pay period, or corresponding period for an employee who is not paid on the basis of biweekly pay periods, occurring in a year.
+
+(b) Annual leave not used by an employee of the Government of the United States in one of the following classes of employees stationed outside the United States accumulates for use in succeeding years until it totals not more than 45 days at the beginning of the first full biweekly pay period, or corresponding period for an employee who is not paid on the basis of biweekly pay periods, occurring in a year:
+
+&emsp;(1) Individuals directly recruited or transferred by the Government of the United States from the United States or its territories or possessions including the Commonwealth of Puerto Rico for employment outside the area of recruitment or from which transferred.
+
+&emsp;(2) Individuals employed locally but—
+
+&emsp;&emsp;(A)(i) who were originally recruited from the United States or its territories or possessions including the Commonwealth of Puerto Rico but outside the area of employment;
+
+&emsp;&emsp;(ii) who have been in substantially continuous employment by other agencies of the United States, United States firms, interests, or organizations, international organizations in which the United States participates, or foreign governments; and
+
+&emsp;&emsp;(iii) whose conditions of employment provide for their return transportation to the United States or its territories or possessions including the Commonwealth of Puerto Rico; or
+
+&emsp;&emsp;(B)(i) who were at the time of employment temporarily absent, for the purpose of travel or formal study, from the United States, or from their respective places of residence in its territories or possessions including the Commonwealth of Puerto Rico; and
+
+&emsp;&emsp;(ii) who, during the temporary absence, have maintained residence in the United States or its territories or possessions including the Commonwealth of Puerto Rico but outside the area of employment.
+
+&emsp;(3) Individuals who are not normally residents of the area concerned and who are discharged from service in the armed forces to accept employment with an agency of the Government of the United States.
+
+(c) Annual leave in excess of the amount allowable—
+
+&emsp;(1) under subsection (a) or (b) of this section which was accumulated under earlier statute; or
+
+&emsp;(2) under subsection (a) of this section which was accumulated under subsection (b) of this section by an employee who becomes subject to subsection (a) of this section;
+
+> remains to the credit of the employee until used. The excess annual leave is reduced at the beginning of the first full biweekly pay period, or corresponding period for an employee who is not paid on the basis of biweekly pay periods, occurring in a year, by the amount of annual leave the employee used during the precedingyear in excess of the amount which accrued during that year, until the employee's accumulated leave does not exceed the amount allowed under subsection (a) or (b) of this section, as appropriate.
+
+(d)(1) Annual leave which is lost by operation of this section because of—
+
+&emsp;(A) administrative error when the error causes a loss of annual leave otherwise accruable after June 30, 1960;
+
+&emsp;(B) exigencies of the public business when the annual leave was scheduled in advance; or
+
+&emsp;(C) sickness of the employee when the annual leave was scheduled in advance;
+
+> shall be restored to the employee.
+
+(2) Annual leave restored under paragraph (1) of this subsection, or under clause (2) of section 5562(a) of this title, which is in excess of the maximum leave accumulation permitted by law shall be credited to a separate leave account for the employee and shall be available for use by the employee within the time limits prescribed by regulations of the Office of Personnel Management. Leave credited under this paragraph but unused and still available to the employee under the regulations prescribed by the Office shall be included in the lump-sum payment under section 5551 or 5552(1) of this title but may not be retained to the credit of the employee under section 5552(2) of this title.
+
+(3)(A) For the purpose of this subsection, the closure of, and any realignment with respect to, an installation of the Department of Defense pursuant to the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) during any period, and the closure of any other installation of the Department of Defense, during the period beginning on October 1, 1992, and ending on December 31, 1997, shall be deemed to create an exigency of the public business and any leave that is lost by an employee of such installation by operation of this section (regardless of whether such leave was scheduled) shall be restored to the employee and shall be credited and available in accordance with paragraph (2).
+
+(B) For the purpose of subparagraph (A), the term “realignment” means a base realignment (as defined in subsection (e)(3) of section 2687 of title 10) that meets the requirements of subsection (a)(2) of such section.
+
+(e) Annual leave otherwise accruable after June 30, 1960, which is lost by operation of this section because of administrative error and which is not credited under subsection (d)(2) of this section because the employee is separated before the error is discovered, is subject to credit and liquidation by lump-sum payment only if a claim therefor is filed within 3 years immediately following the date of discovery of the error. Payment shall be made by the agency of employment when the lump-sum payment provisions of section 5551 of this title last became applicable to the employee at the rate of basic pay in effect on the date the lump-sum provisions became applicable.
+
+(f)(1) This subsection applies with respect to annual leave accrued by an individual while serving in a position in—
+
+&emsp;(A) the Senior Executive Service;
+
+&emsp;(B) the Senior Foreign Service;
+
+&emsp;(C) the Defense Intelligence Senior Executive Service;
+
+&emsp;(D) the Senior Cryptologic Executive Service; or
+
+&emsp;(E) the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
+
+(2) For purposes of applying any limitation on accumulation under this section with respect to any annual leave described in paragraph (1)—
+
+&emsp;(A) “30 days” in subsection (a) shall be deemed to read “90 days”; and
+
+&emsp;(B) “45 days” in subsection (b) shall be deemed to read “90 days”.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 519; Pub. L. 93–181, §3, Dec. 14, 1973, 87 Stat. 705; Pub. L. 95–454, title IV, §410, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1173, 1224; Pub. L. 96–54, §2(a)(39), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–465, title II, §2312(b), Oct. 17, 1980, 94 Stat. 2166; Pub. L. 97–89, title VIII, §802, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 100–325, §2(k), May 30, 1988, 102 Stat. 582; Pub. L. 102–378, §2(53), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–484, div. D, title XLIV, §4434, Oct. 23, 1992, 106 Stat. 2722; Pub. L. 103–337, div. A, title III, §341(c), div. B, title XXVIII, §2816(a), Oct. 5, 1994, 108 Stat. 2720, 3056; Pub. L. 103–356, title II, §201(a), Oct. 13, 1994, 108 Stat. 3411.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+(a)
+
+5 U.S.C. 2062(c).
+
+Oct. 30, 1951, ch. 631, §203(c), 65 Stat. 680.
+
+July 2, 1953, ch. 178, §3(a), 67 Stat. 137.
+
+(b)
+
+5 U.S.C. 2602(d).
+
+Oct. 30, 1951, ch. 631, §203(d), 65 Stat. 680.
+
+July 2, 1953, ch. 178, §3(b), 67 Stat. 137.
+
+&nbsp;
+
+Sept. 6, 1960, Pub. L. 86–707, §401 “(d)”, 74 Stat. 799.
+
+(c)
+
+5 U.S.C. 2066(a).
+
+Oct. 30, 1951, ch. 631, §208(a), 65 Stat. 682.
+
+&nbsp;
+
+July 2, 1953, ch. 178, §3(c), 67 Stat. 137.
+
+The words “Except as provided by subsection (b) of this section” are added to subsection (a), and the words “Notwithstanding the provisions of subsection (c)” in former section 2062(d) are omitted as unnecessary because of the exception added to subsection (a).
+
+The words “full biweekly pay period” are substituted for “complete biweekly pay period” to conform to section 6303.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### References in Text
+
+The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (d)(3)(A), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+1994—Subsec. (d)(3). Pub. L. 103–337, §2816(a), designated existing provisions as subpar. (A), substituted “closure of, and any realignment with respect to,” for “closure of”, and added subpar. (B).
+
+Pub. L. 103–337, §341(c), substituted “the closure of an installation of the Department of Defense pursuant tothe Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) during any period, and the closure of any other installation” for “the closure of an installation”.
+
+Subsec. (f). Pub. L. 103–356 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Annual leave accrued shall not be subject to the limitation on accumulation otherwise imposed by this section if such leave is accrued by an individual while serving in a position in—
+
+&emsp;“(1) the Senior Executive Service;
+
+&emsp;“(2) the Senior Foreign Service;
+
+&emsp;“(3) the Defense Intelligence Senior Executive Service;
+
+&emsp;“(4) the Senior Cryptologic Executive Service; or
+
+&emsp;“(5) the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.”
+
+1992—Subsec. (d)(3). Pub. L. 102–484 added par. (3).
+
+Subsec. (e). Pub. L. 102–378 substituted “date” for “date of” in last sentence.
+
+1988—Subsec. (f)(5). Pub. L. 100–325 added par. (5).
+
+1981—Subsec. (f). Pub. L. 97–89 amended subsec. (f) generally, transferring from former subsec. (g) provisions excepting from the limitation on accumulation otherwise imposed by this section any annual leave accrued by members of the Senior Foreign Service and inserting provisions relating to annual leave accrued by individuals while serving in positions in the Defense Intelligence Senior Executive Service or the Senior Cryptologic Executive Service.
+
+Subsec. (g). Pub. L. 97–89 struck out subsec. (g). Provisions formerly set out in subsec. (g), relating to annual leave accrued by members of the Senior Foreign service, were incorporated in subsec. (f).
+
+1980—Subsec. (a). Pub. L. 96–465, §2312(b)(1), inserted reference to subsec. (g).
+
+Subsec. (g). Pub. L. 96–465, §2312(b)(2), added subsec. (g).
+
+1979—Subsec. (e). Pub. L. 96–54 substituted “rate of basic pay” for “salary rate”.
+
+1978—Subsec. (a). Pub. L. 95–454, §410(1), inserted reference to subsec. (f).
+
+Subsec. (d)(2). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+
+Subsec. (f). Pub. L. 95–454, §410(2), added subsec. (f).
+
+1973—Subsec. (a). Pub. L. 93–181, §3(1), substituted “subsections (b), (d), and (e) of this section” for “subsection (b) of this section”.
+
+Subsecs. (d), (e). Pub. L. 93–181, §3(2), added subsecs. (d) and (e).
+
+#### Effective Date of 1994 Amendments
+
+Section 201(a) of Pub. L. 103–356 provided that the amendment made by that section is effective on the first day of the first applicable pay period beginning after Oct. 13, 1994.
+
+Section 2816(b) of Pub. L. 103–337 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to the restoration of annual leave of employees at military installations undergoing realignment if such leave is lost by operation of section 6304 of title 5, United States Code, on or after the date of the enactment of this Act \[Oct. 5, 1994\].”
+
+#### Effective Date of 1981 Amendment
+
+Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as an Effective Date note under section 1601 of Title 10, Armed Forces.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+
+#### Effective Date of 1979 Amendment
+
+Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by section 410 of Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
+
+Amendment by section 906(a)(2), (3) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
+
+#### Use of Excess Leave
+
+Section 201(b) of Pub. L. 103–356 provided that: “Notwithstanding the amendment made by subsection (a) \[amending this section\], in the case of an employee who, on the effective date of subsection (a) \[see Effective Date of 1994 Amendments note above\], is subject to subsection (f) of section 6304 of title 5, United States Code, and who has to such employee's credit annual leave in excess of the maximum accumulation otherwise permitted by subsection (a) or (b) of section 6304 (determined applying the amendment made by subsection (a)), such excess annual leave shall remain to the credit of the employee and be subject to reduction, in the same manner as provided in subsection (c) of section 6304.”
+
+#### Lump-Sum Payment for Accrued Annual Leave to Former Employees
+
+Section 5 of Pub. L. 93–181 provided that where former employees (other than former employees of Post Office Department or United States Postal Service) had accrued annual leave after June 30, 1960, but had not been on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment but only if a claim therefor was filed within three years after Dec. 14, 1973, with agency by which the employees had been employed when lump-sum payment provision of section 5551 of this title had last become applicable to them.
+
+Section 6 of Pub. L. 93–181 provided that where former employees of Post Office Department or United States Postal Service with prior civilian service with Post Office Department or other Federal agency had accrued annual leave after June 30, 1960, and before July 1, 1971, but had not on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment, but only if a claim therefor was filed within three years after Dec. 14, 1973, with Postal Service, at salary rate in effect on date these employees had been employed when lump-sum payment provision of section 5551 of this title or comparable provisions of regulations of Postal Service had last become applicable to them. With respect to present employees of Postal Service who had prior Federal civilian service with Post Office Department or other Federal agency, annual leave which had accrued after June 30, 1960, and before July 1, 1971, but, because of administrative error had been lost, was subject to credit and liquidation by lump-sum payment only if a claim therefor was filed within three years of Dec. 14, 1973, with Postal Service, at salary rate in effect on Dec. 14, 1973.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5562, 6129, 6302, 6303, 6305, 6333, 6334, 6365, 6367 of this title; title 10 section 1590; title 40 section 174j–8.
+

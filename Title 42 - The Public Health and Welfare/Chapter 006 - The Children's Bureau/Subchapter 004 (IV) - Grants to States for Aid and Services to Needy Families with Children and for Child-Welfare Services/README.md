@@ -1,0 +1,23 @@
+### SUBCHAPTER IV—GRANTS TO STATES FOR AID AND SERVICES TO NEEDY FAMILIES WITH CHILDREN AND FOR CHILD-WELFARE SERVICES
+
+#### Amendments
+
+1968—Pub. L. 90–248, title II, §240(a), Jan. 2, 1968, 81 Stat. 911, provided for grants for child-welfare services in subchapter heading.
+
+1962—Pub. L. 87–543, title I, §104(a)(1), July 25, 1962, 76 Stat. 185, substituted “AID AND SERVICES TO NEEDY FAMILIES WITH CHILDREN” for “AID TO DEPENDENT CHILDREN” in subchapter heading.
+
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in sections 280c–6, 503, 1301, 1306a, 1320b–2, 1320b–6, 1396b, 3020d, 6862, 9432, 9433, 9452 of this title; title 7 sections 2014, 2015, 2017, 2025, 2026, 2029; title 20 section 6333; title 26 sections 42, 6334; title 29 section 1532.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [Part A - Aid to Families with Dependent Children](Part%20A%20-%20Aid%20to%20Families%20with%20Dependent%20Children/README.md)
+- [Part B - Child and Family Services](Part%20B%20-%20Child%20and%20Family%20Services/README.md)
+- [Part C - Work Incentive Program for Recipients of Aid under State Plan Approved under Part A](Part%20C%20-%20Work%20Incentive%20Program%20for%20Recipients%20of%20Aid%20under%20State%20Plan%20Approved%20under%20Part%20A/README.md)
+- [Part D - Child Support and Establishment of Paternity](Part%20D%20-%20Child%20Support%20and%20Establishment%20of%20Paternity/README.md)
+- [Part E - Federal Payments for Foster Care and Adoption Assistance](Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/README.md)
+- [Part F - Job Opportunities and Basic Skills Training Program](Part%20F%20-%20Job%20Opportunities%20and%20Basic%20Skills%20Training%20Program/README.md)

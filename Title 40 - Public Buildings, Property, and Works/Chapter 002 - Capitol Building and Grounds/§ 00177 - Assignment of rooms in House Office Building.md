@@ -1,0 +1,16 @@
+### §177. Assignment of rooms in House Office Building
+
+The assignment of rooms in the House Office Building, made prior to May 28, 1908, by resolution or order of the House of Representatives, shall continue in force until modified or changed in accordance with the provisions of sections 177 to 184 of this title, and the room so assigned to any Representative shall continue to be held by such Representative as his individual office room so long as he shall remain a Member or Member-elect of the House of Representatives, or until he shall relinquish the same, subject, however, to the provisions of said sections, and no Representative shall allow his office room to be used for any other purpose.
+
+(May 28, 1908, No. 30, 35 Stat. 578.)
+
+#### Cross References
+
+Assignment of space for joint committee meetings, conference committees, etc., see section 174d–1 of this title.
+
+Control of assignment of rooms by House of Representatives, see section 183 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 182, 183 of this title.
+

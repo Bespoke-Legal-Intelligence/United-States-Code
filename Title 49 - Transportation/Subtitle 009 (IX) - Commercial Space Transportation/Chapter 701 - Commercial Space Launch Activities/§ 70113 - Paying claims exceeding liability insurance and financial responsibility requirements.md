@@ -1,0 +1,172 @@
+### §70113. Paying claims exceeding liability insurance and financial responsibility requirements
+
+(a)
+
+General Requirements.—(1) To the extent provided in advance in an appropriation law or to the extent additional legislative authority is enacted providing for paying claims in a compensation plan submitted under subsection (d) of this section, the Secretary of Transportation shall provide for the payment by the United States Government of a successful claim (including reasonable litigation or settlement expenses) of a third party against a licensee or transferee under this chapter, a contractor, subcontractor, or customer of the licensee or transferee, or a contractor or subcontractor of a customer, resulting from an activity carried out under the license issued or transferred under this chapter for death, bodily injury, or property damage or loss resulting from an activity carried out under the license. However, claims may be paid under this section only to the extent the total amount of successful claims related to one launch—
+
+&emsp;(A) is more than the amount of insurance or demonstration of financial responsibility required under section 70112(a)(1)(A) of this title; and
+
+&emsp;(B) is not more than $1,500,000,000 (plus additional amounts necessary to reflect inflation occurring after January 1, 1989) above that insurance or financial responsibility amount.
+
+(2) The Secretary may not provide for paying a part of a claim for which death, bodily injury, or property damage or loss results from willful misconduct by the licensee or transferee. To the extent insurance required under section 70112(a)(1)(A) of this title is not available to cover a successful third party liability claim because of an insurance policy exclusion the Secretary decides is usual for the type of insurance involved, the Secretary may provide for paying the excluded claims without regard to the limitation contained in section 70112(a)(1).
+
+(b)
+
+Notice, Participation, and Approval.—Before a payment under subsection (a) of this section is made—
+
+&emsp;(1) notice must be given to the Government of a claim, or a civil action related to the claim, against a party described in subsection (a)(1) of this section for death, bodily injury, or property damage or loss;
+
+&emsp;(2) the Government must be given an opportunity to participate or assist in the defense of the claim or action; and
+
+&emsp;(3) the Secretary must approve any part of a settlement to be paid out of appropriations of the Government.
+
+(c)
+
+Withholding Payments.—The Secretary may withhold a payment under subsection (a) of this section if the Secretary certifies that the amount is not reasonable. However, the Secretary shall deem to be reasonable the amount of a claim finally decided by a court of competent jurisdiction.
+
+(d)
+
+Surveys, Reports, and Compensation Plans.—(1) If as a result of an activity carried out under a license issued or transferred under this chapter the total of claims related to one launch is likely to be more than the amount of required insurance or demonstration of financial responsibility, the Secretary shall—
+
+&emsp;(A) survey the causes and extent of damage; and
+
+&emsp;(B) submit expeditiously to Congress a report on the results of the survey.
+
+(2) Not later than 90 days after a court determination indicates that the liability for the total of claims related to one launch may be more than the required amount of insurance or demonstration of financial responsibility, the President, on the recommendation of the Secretary, shall submit to Congress a compensation plan that—
+
+&emsp;(A) outlines the total dollar value of the claims;
+
+&emsp;(B) recommends sources of amounts to pay for the claims;
+
+&emsp;(C) includes legislative language required to carry out the plan if additional legislative authority is required; and
+
+&emsp;(D) for a single event or incident, may not be for more than $1,500,000,000.
+
+(3) A compensation plan submitted to Congress under paragraph (2) of this subsection shall—
+
+&emsp;(A) have an identification number; and
+
+&emsp;(B) be submitted to the Senate and the House of Representatives on the same day and when the Senate and House are in session.
+
+(e)
+
+Congressional Resolutions.—(1) In this subsection, “resolution”—
+
+&emsp;(A) means a joint resolution of Congress the matter after the resolving clause of which is as follows: “That the Congress approves the compensation plan numbered \_\_\_\_\_\_\_\_\_\_ submitted to the Congress on \_\_\_\_\_\_\_\_\_\_ XX, 19\_\_\_\_.”, with the blank spaces being filled appropriately; but
+
+&emsp;(B) does not include a resolution that includes more than one compensation plan.
+
+(2) The Senate shall consider under this subsection a compensation plan requiring additional appropriations or legislative authority not later than 60 calendar days of continuous session of Congress after the date on which the plan is submitted to Congress.
+
+(3) A resolution introduced in the Senate shall be referred immediately to a committee by the President of the Senate. All resolutions related to the same plan shall be referred to the same committee.
+
+(4)(A) If the committee of the Senate to which a resolution has been referred does not report the resolution within 20 calendar days after it is referred, a motion is in order to discharge the committee from further consideration of the resolution or to discharge the committee from further consideration of the plan.
+
+(B) A motion to discharge may be made only by an individual favoring the resolution and is highly privileged (except that the motion may not be made after the committee has reported a resolution on the plan). Debate on the motion is limited to one hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order. A motion to reconsider the vote by which the motion is agreed to or disagreed to is not in order.
+
+(C) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed and another motion to discharge the committee from another resolution on the same plan may not be made.
+
+(5)(A) After a committee of the Senate reports, or is discharged from further consideration of, a resolution, a motion to proceed to the consideration of the resolution is in order at any time, even though a similar previous motion has been disagreed to. The motion is highly privileged and is not debatable. An amendment to the motion is not in order. A motion to reconsider the vote by which the motion is agreed to or disagreed to is not in order.
+
+(B) Debate on the resolution referred to in subparagraph (A) of this paragraph is limited to not more than 10 hours, to be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order. A motion to reconsider the vote by which the resolution is agreed to or disagreed to is not in order.
+
+(6) The following shall be decided in the Senate without debate:
+
+&emsp;(A) a motion to postpone related to the discharge from committee.
+
+&emsp;(B) a motion to postpone consideration of a resolution.
+
+&emsp;(C) a motion to proceed to the consideration of other business.
+
+&emsp;(D) an appeal from a decision of the chair related to the application of the rules of the Senate to the procedures related to resolution.
+
+(f)
+
+Application.—This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than December 31, 1999.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1338.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+70113(a)
+
+49 App.:2615(b)(1).
+
+Oct. 30, 1984, Pub. L. 98–575, §16(b)(1)–(4), 98 Stat. 3061; restated Nov. 15, 1988, Pub. L. 100–657, §5(a), 102 Stat. 3903.
+
+70113(b)
+
+49 App.:2615(b)(2).
+
+70113(c)
+
+49 App.:2615(b)(3).
+
+70113(d)(1)
+
+49 App.:2615(b) (4)(A).
+
+70113(d)(2)
+
+49 App.:2615(b) (4)(B).
+
+70113(d)(3)
+
+49 App.:2615(b) (4)(C).
+
+70113(e)(1)
+
+49 App.:2615(b) (4)(D)(i), (iii).
+
+70113(e)(2)
+
+49 App.:2615(b) (4)(D)(ii).
+
+70113(e)(3)
+
+49 App.:2615(b) (4)(D)(iv).
+
+70113(e)(4)
+
+49 App.:2615(b) (4)(D)(v).
+
+70113(e)(5)
+
+49 App.:2615(b) (4)(D)(vi).
+
+70113(e)(6)
+
+49 App.:2615(b) (4)(D)(vii).
+
+70113(f)
+
+49 App.:2615(b)(5).
+
+Oct. 30, 1984, Pub. L. 98–575, §16(b)(5), 98 Stat. 3061; restated Nov. 15, 1988, Pub. L. 100–657, §5(a), 102 Stat. 3903; Nov. 4, 1992, Pub. L. 102–588, §503, 106 Stat. 5124.
+
+In subsection (a)(1), before clause (A), the word “particular” is omitted as surplus. In clause (B), the words “the level that is” are omitted as surplus.
+
+In subsection (b)(1), the words “civil action” are substituted for “suit” for consistency in the revised title and with other titles of the United States Code and rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
+
+In subsection (b)(2), the words “the Government must be given an opportunity” are substituted for “by the United States, at its election” for clarity.
+
+In subsection (c), the words “just and” and “judgment” are omitted as surplus.
+
+In subsection (d), the word “particular” is omitted as surplus.
+
+In subsection (d)(2), before clause (A), the words “or plans” are omitted because of 1:1.
+
+In subsection (e)(1), before clause (A), the text of 49 App.:2615(b)(4)(D)(i) is omitted as surplus. In clause (A), the word “only” is omitted as surplus. The word “Congress” is substituted for “the first blank space therein being filled with the name of the resolving House” to correct an error in the law.
+
+In subsection (e)(3), the words “once introduced with respect to a compensation plan” are omitted as surplus.
+
+In subsection (e)(4)(A), the word “either” is omitted as surplus.
+
+In subsection (f), the word “only” is omitted as surplus.
+

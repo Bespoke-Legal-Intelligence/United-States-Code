@@ -1,0 +1,30 @@
+### §6736. Authorization of appropriations for Puerto Rico, Guam, American Samoa, and Virgin Islands
+
+#### (a) Authorizations for five calendar quarters beginning July 1, 1977
+
+There is hereby authorized to be appropriated for each of the five succeeding calendar quarters (beginning with the calendar quarter which begins on July 1, 1977) for the purpose of making payments under this subchapter to Puerto Rico, Guam, American Samoa, and the Virgin Islands, an amount equal to 1 percent of the amount authorized for each such quarter under section 6722(b) of this title.
+
+#### (b) Allocations
+
+(1) The Secretary shall allocate from the amount authorized under subsection (a) of this section an amount for the purpose of making payments to such governments equal to the total authorized for the calendar quarter multiplied by the applicable territorial percentage.
+
+(2) For the purposes of this subsection, the applicable territorial percentage is equal to the quotient resulting from the division of the territorial population by the sum of the territorial population for all territories.
+
+(3) For purposes of this section—
+
+&emsp;(A) The term “territory” means Puerto Rico, Guam, American Samoa, and the Virgin Islands.
+
+&emsp;(B) The term “territorial population” means the most recent population for each territory as determined by the Bureau of Census.
+
+&emsp;(C) The provisions of sections 6723(c)(4), 6724, 6725, 6726,<sup>1</sup> 6727, 6728, 6729, 6730, 6731, 6732, and 6733 of this title shall apply to the funds authorized under this section.
+
+#### (c) Payments to local governments
+
+The governments of the territories are authorized to make payments to local governments within their jurisdiction from sums received under this section as they deem appropriate.
+
+(Pub. L. 94–369, title II, §216, as added Pub. L. 95–30, title VI, §607, May 23, 1977, 91 Stat. 167.)
+
+#### References in Text
+
+Section 6726 of this title, referred to in subsec. (b)(3)(C), was repealed by Pub. L. 95–30, title VI, §603(i), May 23, 1977, 91 Stat. 166.
+

@@ -1,0 +1,50 @@
+### §2218. Administrative provisions
+
+#### (a) Assistance to Administrator
+
+Each department, agency, and instrumentality of the executive branch of the Federal Government and each independent regulatory agency of the United States is authorized and directed to furnish to the Administrator, upon written request, on a reimbursable basis or otherwise, such assistance as the Administrator deems necessary to carry out his functions and duties pursuant to this chapter, including, but not limited to, transfer of personnel with their consent and without prejudice to their position and ratings.
+
+#### (b) Powers of Administrator
+
+With respect to this chapter, the Administrator is authorized to—
+
+&emsp;(1) enter into, without regard to section 5 of title 41, such contracts, grants, leases, cooperative agreements, or other transactions as may be necessary to carry out the provisions of this chapter;
+
+&emsp;(2) accept gifts and voluntary and uncompensated services, notwithstanding the provisions of section 1342 of title 31;
+
+&emsp;(3) purchase, lease, or otherwise acquire, own, hold, improve, use, or deal in and with any property (real, personal, or mixed, tangible or intangible), or interest in property, wherever situated; and sell, convey, mortgage, pledge, lease, exchange, or otherwise dispose of property and assets;
+
+&emsp;(4) procure temporary and intermittent services to the same extent as is authorized under section 3109 of title 5, but at rates not to exceed the daily equivalent of the maximum annual rate of basic pay then in effect for grade GS 15 of the General Schedule (5 U.S.C. 5332(a)) for qualified experts; and
+
+&emsp;(5) establish such rules, regulations, and procedures as are necessary to carry out the provisions of this chapter.
+
+#### (c) Audit
+
+The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access to any books, documents, papers, and records of the recipients of contracts, grants, or other forms of assistance that are pertinent to its activities under this chapter for the purpose of audit or to determine if a proposed activity is in the public interest.
+
+#### (d) Inventions and discoveries
+
+All property rights with respect to inventions and discoveries, which are made in the course of or under contract with any government agency pursuant to this chapter, shall be subject to the basic policies set forth in the President's Statement of Government Patent Policy issued August 23, 1971, or such revisions of that statement of the policy as may subsequently be promulgated and published in the Federal Register.
+
+#### (e) Coordination
+
+To the extent practicable, the Administrator shall utilize existing programs, data, information, and facilities already available in other Federal Government departments and agencies and, where appropriate, existing research organizations, centers, and universities. The Administrator shall provide liaison at an appropriate organizational level to assure coordination of his activities with State and local government agencies, departments, bureaus, or offices concerned with any matter related to programs of fire prevention and control and with private and other Federal organizations and offices so concerned.
+
+(Pub. L. 93 498, §21, Oct. 29, 1974, 88 Stat. 1548; Pub. L. 96 121, §2, Nov. 16, 1979, 93 Stat. 863.)
+
+#### Codification
+
+In subsec. (b)(2), “section 1342 of title 31” substituted for “section 3679 of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97 258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+#### Amendments
+
+1979—Subsec. (b)(4). Pub. L. 96 121 substituted “the daily equivalent of the maximum annual rate of basic pay then in effect for grade GS 15 of the General Schedule (5 U.S.C. 5332(a))” for “$100 a day”.
+
+#### Transfer of Functions
+
+Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 35 section 210.
+

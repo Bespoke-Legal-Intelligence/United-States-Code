@@ -1,0 +1,60 @@
+### §1474. Loans and grants for repairs or improvements of rural dwellings
+
+#### (a) Prerequisites; purposes; amounts; terms
+
+The Secretary may make a loan, grant, or combined loan and grant to an eligible very low-income applicant in order to improve or modernize a rural dwelling, to make the dwelling safer or more sanitary, or to remove hazards. The Secretary may make a loan or grant under this subsection to the applicant to cover the cost of any or all repairs, improvements, or additions such as repairing roofs, providing sanitary waste facilities, providing a convenient and sanitary water supply, repairing or providing structural supports, or making similar repairs, additions, improvements, including all preliminary and installation costs in obtaining central water and sewer service. The maximum amount of a grant, a loan, or a loan and grant shall not exceed such limitations as the Secretary determines to be appropriate. Any portion of the sums advanced to the borrower treated as a loan shall be secured and be repayable within twenty years in accordance with the principles and conditions set forth in this subchapter, except that a loan for less than $2,500 need be evidenced only by a promissory note. Sums made available by grant may be made subject to the conditions set forth in this subchapter for the protection of the Government with respect to contributions made on loans made by the Secretary.
+
+#### (b) Additional purposes
+
+In order to encourage adequate family-size farms the Secretary may make loans under this section and section 1473 of this title to any applicant whose farm needs enlargement or development in order to provide income sufficient to support decent, safe, and sanitary housing and other farm buildings, and may use the funds made available under clause (b) of section 1483 of this title for such purposes.
+
+#### (c) Weatherization program; development, etc.
+
+(1) In addition to other duties specified in this section, the Secretary shall develop and conduct a weatherization program for the purpose of making grants to finance the purchase or installation, or both, of weatherization materials in dwelling units occupied by low-income families. Such grants shall be made to low-income families who own dwelling units or, subject to the provisions of paragraph (2), to owners of such units for the benefit of the low-income tenants residing therein. In making grants under this subsection, the Secretary shall give priority to the weatherization of dwelling units occupied by low-income elderly or handicapped persons. The Secretary shall, in carrying out this section, consult with the Director of the Community Services Administration and the Secretary of Energy for the purpose of coordinating the weatherization program under this subsection, section 2809(a)(12) of this title, and part A of the Energy Conservation in Existing Buildings Act of 1976 \[42 U.S.C. 6861 et seq.\].
+
+(2) In the case of any grant made under this subsection to an owner of a rental dwelling unit the Secretary shall provide that (A) the benefits of weatherization assistance in connection with such unit will accrue primarily to the low-income family residing therein, (B) the rents on such dwelling unit will not be raised because of any increase in value thereof due solely to weatherization assistance provided under this subsection, and (C) no undue or excessive enhancement will occur to the value of such unit.
+
+(3) In carrying out this subsection, the Secretary shall (A) implement the weatherization standards described in paragraphs (2)(A) and (3) of section 413(b) of the Energy Conservation in Existing Buildings Act of 1976 \[42 U.S.C. 6863(b)\], and (B) provide that, with respect to any dwelling unit, not more than $800 of any grant made under this section be expended on weatherization materials and related matters described in section 415(c) of the Energy Conservation in Existing Buildings Act of 1976 \[42 U.S.C. 6865(c)\], except that the Secretary shall increase such amount to not more than $1,500 to cover labor costs in areas where the Secretary, in consultation with the Secretary of Labor, determines there is an insufficient number of volunteers and training participants and public service employment workers, assisted pursuant to the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or the Older American Community Service Employment Act \[42 U.S.C. 3056 et seq.\], available to work on weatherization projects under the supervision of qualified supervisors.
+
+(4) For purposes of this subsection, the terms “elderly,” “handicapped person,” “low income,” and “weatherization materials” shall have the same meanings given such terms in paragraphs (3), (5), (7), and (9), respectively, of section 412 of the Energy Conservation in Existing Buildings Act of 1976 \[42 U.S.C. 6862\].
+
+(July 15, 1949, ch. 338, title V, §504, 63 Stat. 434; Sept. 28, 1962, Pub. L. 87–723, §4(c)(3), 76 Stat. 672; Nov. 3, 1966, Pub. L. 89–754, title VIII, §803, 80 Stat. 1282; Dec. 31, 1970, Pub. L. 91–609, title VIII, §803(a), 84 Stat. 1806; Aug. 22, 1974, Pub. L. 93–383, title V, §504, 88 Stat. 693; Nov. 9, 1978, Pub. L. 95–619, title II, §232(a), 92 Stat. 3226; Dec. 21, 1979, Pub. L. 96–153, title V, §510, 93 Stat. 1137; Oct. 13, 1982, Pub. L. 97–300, title I, §183, 96 Stat. 1357; Nov. 30, 1983, Pub. L. 98–181, title V, §504, 97 Stat. 1242.)
+
+#### References in Text
+
+Section 2809 of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519.
+
+The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (c)(1), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to Part A (§6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
+
+The Job Training Partnership Act, referred to in subsec. (c)(3), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+
+The Older American Community Service Employment Act, referred to in subsec. (c)(3), is title V of Pub. L. 89–73, as added Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720, and amended, which is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under section 3001 of this title and Tables.
+
+#### Codification
+
+In subsec. (c)(3), “Job Training Partnership Act \[29 U.S.C. 1501 et seq.\]” substituted for “Comprehensive Employment and Training Act of 1973 \[29 U.S.C. 801 et seq.\]” pursuant to section 183 of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357, which is classified to section 1592 of Title 29, Labor, and which provided in part that references in any other statute to the Comprehensive Employment and Training Act shall be deemed to refer to the Job Training Partnership Act.
+
+#### Amendments
+
+1983—Subsec. (a). Pub. L. 98–181 substituted “The Secretary may make a loan, grant, or combined loan and grant to an eligible very low-income applicant in order to improve or modernize a rural dwelling, to make the dwelling safer or more sanitary, or to remove hazards. The Secretary may make a loan or grant under this subsection to the applicant to cover the cost of any or all repairs, improvements, or additions such as repairing roofs, providing sanitary waste facilities, providing a convenient and sanitary water supply, repairing or providing structural supports, or making similar repairs, additions, improvements, including all preliminary and installation costs in obtaining central water and sewer service. The maximum amount of a grant, a loan, or a loan and grant shall not exceed such limitations as the Secretary determines to be appropriate.” for “In the event the Secretary determines that an eligible applicant cannot qualify for a loan under the provisions of sections 1472 and 1473 of this title and that repairs or improvements should be made to a rural dwelling occupied by him in order to make such dwelling safe and sanitary and remove hazards to the health of the occupant, his family, or the community, and that repairs should be made to farm buildings in order to remove hazards and make such buildings safe, the Secretary may make a grant or a combined loan and grant to the applicant to cover the cost of improvements or additions, such as repairing roofs, providing toilet facilities, providing a convenient and sanitary water supply, supplying screens, repairing or providing structural supports, or making similar repairs, additions, or improvements, including all preliminary and installation costs in obtaining central water and sewer service. No assistance shall be extended to any individual or family under this subsection in the form of a grant in excess of $5,000, and no assistance shall be extended to any individual or family under this subsection in the form of a loan or a combined loan and grant in excess of $7,500.”
+
+1979—Subsec. (a). Pub. L. 96–153 substituted provisions limiting the assistance in the form of grants to any individual or family to $5,000 and in the form of loans or combined loans and grants to $7,500 for provisions limiting loans, grants, or combined loans and grants to $5,000 in the case of assistance to individuals.
+
+1978—Subsec. (c). Pub. L. 95–619 added subsec. (c).
+
+1974—Subsec. (a). Pub. L. 93–383 substituted provisions relating to repairs or improvements of a rural dwelling, scope of such repairs or improvements, limitation of $5,000 as maximum amount of grant or loan, and requirement of a promissory note for loan less than $2,500, for provisions relating to repairs or improvements of a farm dwelling, scope of such repairs or improvements, and limitations of $2,500, or $3,500 in cases involving water or plumbing facilities, as maximum amount of grant or loan.
+
+1970—Subsec. (a). Pub. L. 91–609 increased limitation on amount of assistance from “$1,500” to “$2,500” and provided for an alternative larger amount not exceeding $3,500 as Secretary determines to be necessary in case of repairs or improvements involving water supply, septic tank, or bathroom or kitchen plumbing facilities.
+
+1966—Subsec. (a). Pub. L. 89–754 increased limitation on assistance from $1,000 to $1,500.
+
+1962—Subsec. (a). Pub. L. 87–723 substituted “in the form of a loan, grant, or combined loan and grant in excess of $1,000” for “(1) in the form of a loan, or combined loan and grant, in excess of $1,000, or (2) in the form of a grant (whether or not combined with a loan) in excess of $500.”
+
+#### Community Services Administration
+
+Community Services Administration, established by section 601 of Economic Opportunity Act of 1964, as amended (42 U.S.C. 2941), terminated when Economic Opportunity Act of 1964, Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, was repealed, except for titles VIII and X, effective Oct. 1, 1981, by section 683(a) of Pub. L. 97–35, title VI, Aug. 13, 1981, 95 Stat. 519 (42 U.S.C. 9912(a)). An Office of Community Services, headed by a Director, was established in Department of Health and Human Services by section 676 of Pub. L. 97–35 (42 U.S.C. 9905).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1471, 1477, 1479, 1483, 1490m, 4851b, 6863, 6873 of this title.
+

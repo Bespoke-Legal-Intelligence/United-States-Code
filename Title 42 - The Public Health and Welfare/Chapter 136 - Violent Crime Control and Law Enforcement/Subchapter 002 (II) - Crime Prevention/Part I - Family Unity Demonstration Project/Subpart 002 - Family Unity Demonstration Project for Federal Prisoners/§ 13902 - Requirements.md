@@ -1,0 +1,10 @@
+### §13902. Requirements
+
+For the purpose of placing Federal participants in a family unity demonstration projectunder section 13901 of this title, the Attorney General shall consult with the Secretary of Health and Human Services regarding the development and operation of the project.
+
+(Pub. L. 103–322, title III, §31922, Sept. 13, 1994, 108 Stat. 1896.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 14214 of this title.
+

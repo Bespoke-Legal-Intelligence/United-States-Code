@@ -1,0 +1,52 @@
+### §1112. Manslaughter
+
+(a) Manslaughter is the unlawful killing of a human being without malice. It is of two kinds:
+
+Voluntary—Upon a sudden quarrel or heat of passion.
+
+Involuntary—In the commission of an unlawful act not amounting to a felony, or in the commission in an unlawful manner, or without due caution and circumspection, of a lawful act which might produce death.
+
+(b) Within the special maritime and territorial jurisdiction of the United States,
+
+Whoever is guilty of voluntary manslaughter, shall be fined under this title or imprisoned not more than ten years, or both;
+
+Whoever is guilty of involuntary manslaughter, shall be fined under this title or imprisoned not more than six years, or both.
+
+(June 25, 1948, ch. 645, 62 Stat. 756; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320102, title XXXIII, §330016(1)(H), 108 Stat. 2109, 2147.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §§453, 454 (Mar. 4, 1909, ch. 321, §§274, 275, 35 Stat. 1143).
+
+Section consolidates punishment provisions of sections 453 and 454 of title 18, U.S.C., 1940 ed.
+
+The special maritime and territorial jurisdiction provision was added in view of definitive section 7 this title.
+
+Minor changes were made in phraseology.
+
+#### Amendments
+
+1994—Subsec. (b). Pub. L. 103–322, §320102(3), substituted “six years” for “three years” in last par.
+
+Pub. L. 103–322, §§320102(2), 330016(1)(H), amended subsec. (b) identically, substituting “fined under this title” for “fined not more than $1,000” in last par.
+
+Pub. L. 103–322, §320102(1)(B), which directed the amendment of subsec. (b) by inserting “, or both” after “years”, was executed by inserting the material after “years” in second par., which was the first place the word appeared in text, to reflect the probable intent of Congress.
+
+Pub. L. 103–322, §320102(1)(A), inserted “fined under this title or” after “shall be” in second par.
+
+#### Cross References
+
+Actions aboard aircraft in special aircraft jurisdiction of United States in violation of this section punishable as provided herein, see section 46506 of Title 49, Transportation.
+
+Indian country—
+
+&emsp;&emsp;Jurisdiction of offenses committed by Indians, see section 3242 of this title.
+
+&emsp;&emsp;Law governing offenses, see section 1153 of this title.
+
+Venue, see section 3236 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 351, 924, 930, 1114, 1116, 1119, 1120, 1503, 1512, 1513, 1751, 2332, 3559 of this title; title 15 section 1825; title 21 section 1041; title 42 section 2283; title 49 section 46506.
+

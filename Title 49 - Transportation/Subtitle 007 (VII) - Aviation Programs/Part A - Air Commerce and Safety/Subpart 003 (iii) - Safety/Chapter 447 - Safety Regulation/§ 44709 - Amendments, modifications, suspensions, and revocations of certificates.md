@@ -1,0 +1,162 @@
+### §44709. Amendments, modifications, suspensions, and revocations of certificates
+
+(a)
+
+Reinspection and Reexamination.—The Administrator of the Federal Aviation Administration may reinspect at any time a civil aircraft, aircraft engine, propeller, appliance, air navigation facility, or air agency, or reexamine an airman holding a certificate issued under section 44703 of this title.
+
+(b)
+
+Actions of the Administrator.—The Administrator may issue an order amending, modifying, suspending, or revoking—
+
+&emsp;(1) any part of a certificate issued under this chapter if—
+
+&emsp;&emsp;(A) the Administrator decides after conducting a reinspection, reexamination, or other investigation that safety in air commerce or air transportation and the public interest require that action; or
+
+&emsp;&emsp;(B) the holder of the certificate has violated an aircraft noise or sonic boom standard or regulation prescribed under section 44715(a) of this title; and
+
+&emsp;(2) an airman certificate when the holder of the certificate is convicted of violating section 13(a) of the Fish and Wildlife Act of 1956 (16 U.S.C. 742j–1(a)).
+
+(c)
+
+Advice to Certificate Holders and Opportunity To Answer.—Before acting under subsection (b) of this section, the Administrator shall advise the holder of the certificate of the charges or other reasons on which the Administrator relies for the proposed action. Except in an emergency, the Administrator shall provide the holder an opportunity to answer the charges and be heard why the certificate should not be amended, modified, suspended, or revoked.
+
+(d)
+
+Appeals.—(1) A person adversely affected by an order of the Administrator under this section may appeal the order to the National Transportation Safety Board. After notice and an opportunity for a hearing, the Board may amend, modify, or reverse the order when the Board finds—
+
+&emsp;(A) if the order was issued under subsection (b)(1)(A) of this section, that safety in air commerce or air transportation and the public interest do not require affirmation of the order; or
+
+&emsp;(B) if the order was issued under subsection (b)(1)(B) of this section—
+
+&emsp;&emsp;(i) that control or abatement of aircraft noise or sonic boom and the public health and welfare do not require affirmation of the order; or
+
+&emsp;&emsp;(ii) the order, as it is related to a violation of aircraft noise or sonic boom standards and regulations, is not consistent with safety in air commerce or air transportation.
+
+(2) The Board may modify a suspension or revocation of a certificate to imposition of a civil penalty.
+
+(3) When conducting a hearing under this subsection, the Board is not bound by findings of fact of the Administrator but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law.
+
+(e)
+
+Effectiveness of Orders Pending Appeal.—When a person files an appeal with the Board under subsection (d) of the section, the order of the Administrator is stayed. However, if the Administrator advises the Board that an emergency exists and safety in air commerce or air transportation requires the order to be effective immediately—
+
+&emsp;(1) the order is effective; and
+
+&emsp;(2) the Board shall make a final disposition of the appeal not later than 60 days after the Administrator so advises the Board.
+
+(f)
+
+Judicial Review.—A person substantially affected by an order of the Board under this section, or the Administrator when the Administrator decides that an order of the Board underthis section will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1190.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+44709(a)
+
+49 App.:1429(a) (1st sentence).
+
+Aug. 23, 1958, Pub. L. 85–726, §609(a) (1st–7th sentences, 8th–last sentences less Administrator under title VII), 72 Stat. 779; Nov. 18, 1971, Pub. L. 92–159, §2(a), 85 Stat. 481; Nov. 27, 1971, Pub. L. 92–174, §6, 85 Stat. 492; Aug. 26, 1992, Pub. L. 102–345, §3(a)(1), 106 Stat. 925.
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
+
+44709(b)
+
+49 App.:1429(a) (2d sentence).
+
+&nbsp;
+
+49 App.:1429(b).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §609(b); added Nov. 18, 1971, Pub. L. 92–159, §2(a), 85 Stat. 481.
+
+&nbsp;
+
+49 App.:1431(e) (words before 4th comma).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §611(e); added July 21, 1968, Pub. L. 90–411, §1, 82 Stat. 395; restated Oct. 27, 1972, Pub. L. 92–574, §7(b), 86 Stat. 1241.
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+44709(c)
+
+49 App.:1429(a) (3d sentence).
+
+&nbsp;
+
+49 App.:1431(e) (words between 4th and 5th commas).
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+44709(d)(1)
+
+49 App.:1429(a) (4th sentence).
+
+&nbsp;
+
+49 App.:1431(e) (words after 4th comma).
+
+44709(d)(2)
+
+49 App.:1429(a) (6th sentence).
+
+44709(d)(3)
+
+49 App.:1429(a) (5th sentence).
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+44709(e)
+
+49 App.:1429(a) (7th sentence).
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+44709(f)
+
+49 App.:1429(a) (8th–last sentences less Administrator under subch. VII).
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+In this section, the word “Administrator” in section 609(a) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 779) is retained on authority of 49:106(g). The words “modifying”, “modify”, and “modified” are omitted as surplus.
+
+In subsection (a), the words “airman holding a certificate issued under section 44703 of this title” are substituted for “civil airman” for clarity.
+
+In subsection (b)(1), before subclause (A), the words “certificate issued under this chapter” are substituted for “type certificate, production certificate, airworthiness certificate, airman certificate, air carrier operating certificate, air navigation facility certificate (including airport operating certificate), or air agency certificate” to eliminate unnecessary words.
+
+In subsection (b)(2), the words “in his discretion” and “regarding the use or operation of an aircraft” in 49 App.:1429(b) are omitted as surplus.
+
+In subsection (c), the words “cases of” in 49 App.:1429(a) are omitted as surplus.
+
+In subsection (d)(1), before clause (A), the word “adversely” is substituted for “whose certificate is” in 49 App.:1429(a), and the words “an opportunity for a” are added, for consistency in the revised title and with other titles of the United States Code. The words “of the FAA” in 49 App.:1431(e) are omitted as surplus.
+
+In subsection (d)(2), the words “consistent with this subsection” are omitted as surplus.
+
+In subsection (d)(3), the word “Administrator” is substituted for “Federal Aviation Administration” because of 49:106(b) and (g).
+
+In subsection (e), before clause (1), the words “the effectiveness of” are omitted as surplus.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 106, 1133, 1153, 44701, 44711, 45302, 46301, 46310, 46316, 47531 of this title; title 42 section 4911.
+

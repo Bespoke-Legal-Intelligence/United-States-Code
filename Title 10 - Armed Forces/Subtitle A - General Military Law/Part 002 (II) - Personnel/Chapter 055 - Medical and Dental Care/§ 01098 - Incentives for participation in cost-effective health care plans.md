@@ -1,0 +1,36 @@
+### §1098. Incentives for participation in cost-effective health care plans
+
+(a)
+
+Waiver of Limitations and Copayments.—Subject to subsection (b), the Secretary of Defense, with respect to any plan contracted for under the authority of section 1079 or 1086 of this title, may waive, in whole or in part—
+
+&emsp;(1) any limitation set out in the second sentence of section 1079(a) of this title; or
+
+&emsp;(2) any requirement for payment by the patient under section 1079(b) or 1086(b) of this title.
+
+(b)
+
+Determination and Report.—(1) Subject to paragraph (3), the Secretary may waive a limitation or requirement as authorized by subsection (a) if the Secretary determines that during the period of the waiver such a plan will—
+
+&emsp;(A) be less costly to the Government than a plan subject to such limitations or payment requirements; or
+
+&emsp;(B) provide better services than those provided by a plan subject to such limitations orpayment requirements at no additional cost to the Government.
+
+(2) The Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report with respect to a waiver under paragraph (1), including a comparison of costs of and benefits available under—
+
+&emsp;(A) a plan with respect to which the limitations and payment requirements are waived; and
+
+&emsp;(B) a plan with respect to which there is no such waiver.
+
+(3) A waiver under paragraph (1) may not take effect until the end of the 180-day period beginning on the date on which the Secretary submits the report required by paragraph (2) with respect to such waiver.
+
+(Added Pub. L. 99–661, div. A, title VII, §701(a)(1), Nov. 14, 1986, 100 Stat. 3895; amended Pub. L. 101–510, div. A, title XIV, §1484(h)(1), Nov. 5, 1990, 104 Stat. 1717.)
+
+#### Amendments
+
+1990—Subsec. (a). Pub. L. 101–510 substituted “subsection (b)” for “subsections (b) and (c)” in introductory provisions.
+
+#### Change of Name
+
+Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+

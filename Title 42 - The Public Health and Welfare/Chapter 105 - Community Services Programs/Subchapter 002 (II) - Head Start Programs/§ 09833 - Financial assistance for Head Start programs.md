@@ -1,0 +1,20 @@
+### §9833. Financial assistance for Head Start programs
+
+The Secretary may, upon application by an agency which is eligible for designation as a Head Start agency pursuant to section 9836 of this title, provide financial assistance to such agency for the planning, conduct, administration, and evaluation of a Head Start program focused primarily upon children from low-income families who have not reached the age of compulsory school attendance which (1) will provide such comprehensive health, education, parental involvement, nutritional, social, and other services as will aid the children to attain their full potential; and (2) will provide for direct participation of the parents of such children in the development, conduct, and overall program direction at the local level.
+
+(Pub. L. 97–35, title VI, §638, Aug. 13, 1981, 95 Stat. 499; Pub. L. 100–297, title II, §2504, Apr. 28, 1988, 102 Stat. 330; Pub. L. 103–252, title I, §§103, 112(c), May 18, 1994, 108 Stat. 625, 641.)
+
+#### Amendments
+
+1994—Pub. L. 103–252 struck out subsec. (a) designation, in par. (1), substituted “health, education, parental involvement, nutritional, social, and other services” for “health, nutritional, educational, social, and other services”, and struck out subsec. (b) which read as follows: “For purposes of providing financial assistance under subsection (a) of this section to agencies, the Secretary may not take into consideration whether such agency applies for or receives funds under subchapter V of this chapter.”
+
+1988—Pub. L. 100–297 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as a note under section 9832 of this title.
+
+#### Effective Date of 1988 Amendment
+
+For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as an Effective Date note under section 1201 of Title 20, Education.
+

@@ -1,0 +1,30 @@
+### §728. Reports to Congress
+
+#### (a) Progress and evaluation
+
+(1) The Association shall prepare and submit to Congress periodic reports on the progress of the Secretary in carrying out the provisions of subchapters II, III, and IV <sup>1</sup> of this chapter.
+
+(2) Reports submitted under paragraph (1) of this subsection shall also include an evaluation of the performance of the Corporation in order to keep the Congress informed as to matters which may affect the quality of rail service in the Northeast and which may affect the security of Federal funds invested in the Corporation.
+
+#### (b) Transfer agreements
+
+(1) The Association shall prepare and submit to Congress a final report on the transfer agreements which the Secretary is required to transmit to Congress under section 767 <sup>1</sup> of this title. Such report shall be submitted on the same date as the Secretary's transmittal of such agreements to Congress.
+
+(2) The report submitted under paragraph (1) of this subsection shall include an evaluation of the effect of the transfer agreements on rail service in the Northeast, railroad employees, the economy of the Region, other railroads in the Northeast and elsewhere, and any other matter which the Association considers appropriate. Such report shall also include recommendations with respect to approval, disapproval, or modification of the transfer agreements.
+
+(Pub. L. 93–236, title II, §218, as added Pub. L. 97–35, title XI, §1150(a), Aug. 13, 1981, 95 Stat. 675.)
+
+#### References in Text
+
+Subchapter IV of this chapter, including section 767 of this title, referred to in subsecs. (a)(1) and (b)(1), was repealed by Pub. L. 99–509, title IV, §4033(a)(1), Oct. 21, 1986, 100 Stat. 1908.
+
+#### Effective Date
+
+Section effective Aug. 13, 1981, see section 1169 of Pub. L. 97–35, set out as a note under section 1101 of this title.
+
+#### Abolition of United States Railway Association and Transfer of Functions and Securities
+
+See section 1341 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

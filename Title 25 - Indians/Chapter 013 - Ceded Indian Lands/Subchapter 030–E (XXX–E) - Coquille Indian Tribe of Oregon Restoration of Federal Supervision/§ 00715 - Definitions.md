@@ -1,0 +1,24 @@
+### §715. Definitions
+
+For the purposes of this subchapter—
+
+&emsp;(1) “Tribe” means the Coquille Indian Tribe consisting of the Upper Coquille and the Lower Coquille Tribes of Indians;
+
+&emsp;(2) “Secretary” means the Secretary of the Interior or his designated representative;
+
+&emsp;(3) “Interim Council” means the governing body of the Coquille Tribe which serves pursuant to section 715f of this title;
+
+&emsp;(4) “Member” means those persons eligible for enrollment under section 715e of this title and after the adoption of a tribal constitution, those persons added to the roll pursuant to such constitution;
+
+&emsp;(5) “service area” means the area composed of Coos, Curry, Douglas, Jackson, and Lane Counties in the State of Oregon;
+
+&emsp;(6) “State” means the State of Oregon; and
+
+&emsp;(7) “Reservation” means those lands subsequently acquired and held in trust by the Secretary for the benefit of the Tribe.
+
+(Pub. L. 101–42, §2, June 28, 1989, 103 Stat. 91.)
+
+#### Short Title
+
+Section 1 of Pub. L. 101–42 provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Coquille Restoration Act’.”
+

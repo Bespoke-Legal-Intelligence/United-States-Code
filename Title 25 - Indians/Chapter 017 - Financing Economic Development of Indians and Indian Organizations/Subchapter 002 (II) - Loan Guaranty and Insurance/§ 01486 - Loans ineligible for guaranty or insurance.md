@@ -1,0 +1,14 @@
+### §1486. Loans ineligible for guaranty or insurance
+
+Loans made by any agency or instrumentality of the Federal Government, or by an organization of Indians from funds borrowed from the United States, and loans the interest on which is not included in gross income for the purposes of chapter 1 of title 26 shall not be eligible for guaranty or insurance hereunder.
+
+(Pub. L. 93–262, title II, §206, Apr. 12, 1974, 88 Stat. 80; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+
+#### Amendments
+
+1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1488, 1499 of this title.
+

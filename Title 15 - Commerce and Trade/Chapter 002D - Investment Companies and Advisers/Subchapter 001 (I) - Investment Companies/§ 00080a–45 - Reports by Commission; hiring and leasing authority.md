@@ -1,0 +1,34 @@
+### §80a–45. Reports by Commission; hiring and leasing authority
+
+#### (a) Annual report
+
+The Commission shall submit annually a report to the Congress covering the work of the Commission for the preceding year and including such information, data, and recommendations for further legislation in connection with the matters covered by this subchapter as it may find advisable.
+
+#### (b) Hiring and leasing authority
+
+The provisions of section 78d(b) of this title shall be applicable with respect to the power of the Commission—
+
+&emsp;(1) to appoint and fix the compensation of such employees as may be necessary for carrying out its functions under this subchapter, and
+
+&emsp;(2) to lease and allocate such real property as may be necessary for carrying out its functions under this subchapter.
+
+(Aug. 22, 1940, ch. 686, title I, §46, 54 Stat. 845; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Nov. 15, 1990, Pub. L. 101–550, title I, §104(c), 104 Stat. 2714.)
+
+#### Amendments
+
+1990—Subsec. (b). Pub. L. 101–550 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to appointment and compensation of employees.
+
+1949—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+
+#### Repeals
+
+Act Oct. 28, 1949, ch. 782, set out in the credit of this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
+
+#### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 80a–6, 80a–58 of this title.
+

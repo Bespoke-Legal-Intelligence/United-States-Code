@@ -1,0 +1,16 @@
+### §3796ff–3. Allocation and distribution of funds
+
+#### (a) Allocation
+
+Of the total amount appropriated under this subchapter in any fiscal year—
+
+&emsp;(1) 0.4 percent shall be allocated to each of the participating States; and
+
+&emsp;(2) of the total funds remaining after the allocation under paragraph (1), there shall be allocated to each of the participating States an amount which bears the same ratio to the amount of remaining funds described in this paragraph as the State prison population of such State bears to the total prison population of all the participating States.
+
+#### (b) Federal share
+
+The Federal share of a grant made under this subchapter may not exceed 75 percent of the total costs of the projects described in the application submitted under section 3796ff–1 of this title for the fiscal year for which the projects receive assistance under this subchapter.
+
+(Pub. L. 90–351, title I, §1904, as added Pub. L. 103–322, title III, §32101(a)(3), Sept. 13, 1994, 108 Stat. 1900.)
+

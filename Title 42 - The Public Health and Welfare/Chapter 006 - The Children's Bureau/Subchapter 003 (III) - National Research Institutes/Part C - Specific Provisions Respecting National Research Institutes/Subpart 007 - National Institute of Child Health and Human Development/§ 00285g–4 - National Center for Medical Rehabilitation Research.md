@@ -1,0 +1,132 @@
+### §285g–4. National Center for Medical Rehabilitation Research
+
+#### (a) Establishment of Center
+
+There shall be in the Institute an agency to be known as the National Center for Medical Rehabilitation Research (hereafter in this section referred to as the “Center”). The Director of the Institute shall appoint a qualified individual to serve as Director of the Center. The Director of the Center shall report directly to the Director of the Institute.
+
+#### (b) Purpose
+
+The general purpose of the Center is the conduct and support of research and research training (including research on the development of orthotic and prosthetic devices), the dissemination of health information, and other programs with respect to the rehabilitation of individuals with physical disabilities resulting from diseases or disorders of the neurological, musculoskeletal, cardiovascular, pulmonary, or any other physiological system (hereafter in this section referred to as “medical rehabilitation”).
+
+#### (c) Authority of Director
+
+(1) In carrying out the purpose described in subsection (b) of this section, the Director of the Center may—
+
+&emsp;(A) provide for clinical trials regarding medical rehabilitation;
+
+&emsp;(B) provide for research regarding model systems of medical rehabilitation;
+
+&emsp;(C) coordinate the activities of the Center with similar activities of other agencies of the Federal Government, including the other agencies of the National Institutes of Health, and with similar activities of other public entities and of private entities;
+
+&emsp;(D) support multidisciplinary medical rehabilitation research conducted or supported by more than one such agency;
+
+&emsp;(E) in consultation with the advisory council for the Institute and with the approval of the Director of NIH—
+
+&emsp;&emsp;(i) establish technical and scientific peer review groups in addition to those appointed under section 282(b)(6) of this title; and
+
+&emsp;&emsp;(ii) appoint the members of peer review groups established under subparagraph (A); and
+
+&emsp;(F) support medical rehabilitation research and training centers.
+
+> The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under subparagraph (E).
+
+(2) In carrying out this section, the Director of the Center may make grants and enter into cooperative agreements and contracts.
+
+#### (d) Research Plan
+
+(1) In consultation with the Director of the Center, the coordinating committee established under subsection (e) of this section, and the advisory board established under subsection (f) of this section, the Director of the Institute shall develop a comprehensive plan for the conduct and support of medical rehabilitation research (hereafter in this section referred to as the “Research Plan”).
+
+(2) The Research Plan shall—
+
+&emsp;(A) identify current medical rehabilitation research activities conducted or supported by the Federal Government, opportunities and needs for additional research, and priorities for such research; and
+
+&emsp;(B) make recommendations for the coordination of such research conducted or supported by the National Institutes of Health and other agencies of the Federal Government.
+
+(3)(A) Not later than 18 months after the date of the enactment of the National Institutes of Health Revitalization Amendments of 1990, the Director of the Institute shall transmit the Research Plan to the Director of NIH, who shall submit the Plan to the President and the Congress.
+
+(B) Subparagraph (A) shall be carried out independently of the process of reporting that is required in sections 283 and 284b of this title.
+
+(4) The Director of the Institute shall periodically revise and update the Research Plan as appropriate, after consultation with the Director of the Center, the coordinating committee established under subsection (e) of this section, and the advisory board established under subsection (f) of this section. A description of any revisions in the Research Plan shall be contained in each report prepared under section 284b of this title by the Director of the Institute.
+
+#### (e) Medical Rehabilitation Coordinating Committee
+
+(1) The Director of NIH shall establish a committee to be known as the Medical Rehabilitation Coordinating Committee (hereafter in this section referred to as the “Coordinating Committee”).
+
+(2) The Coordinating Committee shall make recommendations to the Director of the Institute and the Director of the Center with respect to the content of the Research Plan and with respect to the activities of the Center that are carried out in conjunction with other agencies of the National Institutes of Health and with other agencies of the Federal Government.
+
+(3) The Coordinating Committee shall be composed of the Director of the Center, the Director of the Institute, and the Directors of the National Institute on Aging, the National Institute of Arthritis and Musculoskeletal and Skin Diseases, the National Heart, Lung, and Blood Institute, the National Institute of Neurological Disorders and Stroke, and such other national research institutes and such representatives of other agencies of the Federal Government as the Director of NIH determines to be appropriate.
+
+(4) The Coordinating Committee shall be chaired by the Director of the Center.
+
+#### (f) National Advisory Board on Medical Rehabilitation Research
+
+(1) Not later than 90 days after the date of the enactment of the National Institutes of Health Revitalization Amendments of 1990, the Director of NIH shall establish a National Advisory Board on Medical Rehabilitation Research (hereafter in this section referred to as the “Advisory Board”).
+
+(2) The Advisory Board shall review and assess Federal research priorities, activities, and findings regarding medical rehabilitation research, and shall advise the Director of the Center and the Director of the Institute on the provisions of the Research Plan.
+
+(3)(A) The Director of NIH shall appoint to the Advisory Board 18 qualified representatives of the public who are not officers or employees of the Federal Government. Of such members, 12 shall be representatives of health and scientific disciplines with respect to medical rehabilitation and 6 shall be individuals representing the interests of individuals undergoing, or in need of, medical rehabilitation.
+
+(B) The following officials shall serve as ex officio members of the Advisory Board:
+
+&emsp;(i) The Director of the Center.
+
+&emsp;(ii) The Director of the Institute.
+
+&emsp;(iii) The Director of the National Institute on Aging.
+
+&emsp;(iv) The Director of the National Institute of Arthritis and Musculoskeletal and Skin Diseases.
+
+&emsp;(v) The Director of the National Institute on Deafness and Other Communication Disorders.
+
+&emsp;(vi) The Director of the National Heart, Lung, and Blood Institute.
+
+&emsp;(vii) The Director of the National Institute of Neurological Disorders and Stroke.
+
+&emsp;(viii) The Director of the National Institute on Disability and Rehabilitation Research.
+
+&emsp;(ix) The Commissioner for Rehabilitation Services Administration.
+
+&emsp;(x) The Assistant Secretary of Defense (Health Affairs).
+
+&emsp;(xi) The Under Secretary for Health of the Department of Veterans Affairs.
+
+(4) The members of the Advisory Board shall, from among the members appointed under paragraph (3)(A), designate an individual to serve as the chair of the Advisory Board.
+
+(July 1, 1944, ch. 373, title IV, §452, as added Nov. 16, 1990, Pub. L. 101–613, §3(a), 104 Stat. 3227; amended Oct. 9, 1992, Pub. L. 102–405, title III, §302(e)(1), 106 Stat. 1985.)
+
+#### References in Text
+
+The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+The date of the enactment of the National Institutes of Health Revitalization Amendments of 1990, referred to in subsecs. (d)(3)(A) and (f)(1), probably means the date of enactment of the National Institutes of Health Amendments of 1990, Pub. L. 101–613, which was approved Nov. 16, 1990.
+
+#### Amendments
+
+1992—Subsec. (f)(3)(B)(xi). Pub. L. 102–405 substituted “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”.
+
+#### Preventing Duplicative Programs of Medical Rehabilitation Research
+
+Section 3(b) of Pub. L. 101–613 provided that:
+
+“(1)
+
+In general.—The Secretary of Health and Human Services and the heads of other Federal agencies shall—
+
+&emsp;“(A) jointly review the programs being carried out (or proposed to be carried out) by each such official with respect to medical rehabilitation research; and
+
+&emsp;“(B) as appropriate, enter into agreements for preventing duplication among such programs.
+
+“(2)
+
+Time for completion.—The agreements required in paragraph (1)(B) shall be made not later than one year after the date of the enactment of this Act \[Nov. 16, 1990\].
+
+“(3)
+
+Definition of medical rehabilitation.—For purposes of this subsection, the term ‘medical rehabilitation’ means the rehabilitation of individuals with physical disabilities resulting from diseases or disorders of the neurological, musculoskeletal, cardiovascular, pulmonary, or any other physiological system.”
+
+#### Termination of Advisory Boards
+
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+

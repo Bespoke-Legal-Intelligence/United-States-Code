@@ -1,0 +1,12 @@
+### §470x–1. Definitions
+
+For the purposes of this part—
+
+&emsp;(1) The term “Board” means the National Preservation Technology and Training Board established pursuant to section 470x–3 of this title.
+
+&emsp;(2) The term “Center” means the National Center for Preservation Technology and Training established pursuant to section 470x–2 of this title.
+
+&emsp;(3) The term “Secretary” means the Secretary of the Interior.
+
+(Pub. L. 89–665, title IV, §402, as added Pub. L. 102–575, title XL, §4022, Oct. 30, 1992, 106 Stat. 4766.)
+

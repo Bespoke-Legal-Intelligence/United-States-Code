@@ -1,0 +1,176 @@
+### §1437s. Public housing homeownership and management opportunities
+
+#### (a) Homeownership opportunities in general
+
+Low-income families residing in a public housing project shall be provided with the opportunity to purchase the dwelling units in the project through a qualifying resident management corporation as follows:
+
+#### (1) Formation of resident management corporation
+
+&emsp;As a condition for public housing homeownership—
+
+&emsp;&emsp;(A) the adult residents of a public housing project shall have formed a resident management corporation in accordance with regulations and requirements of the Secretary prescribed under this section and section 1437r of this title;
+
+&emsp;&emsp;(B) the resident management corporation shall have entered into a contract with the public housing agency establishing the respective management rights and responsibilities of the resident management corporation and the public housing agency; and
+
+&emsp;&emsp;(C) the resident management corporation shall have demonstrated its ability to manage public housing effectively and efficiently for a period of not less than 3 years.
+
+#### (2) Homeownership assistance
+
+&emsp;(A) The Secretary may provide comprehensive improvement assistance under section 1437<i>l</i> of this title to a public housing project in which homeownership activities under this section are conducted.
+
+&emsp;(B) The Secretary may provide financial assistance to public housing agencies, resident management corporations, or resident councils that obtain, by contract or otherwise, training, technical assistance, and educational assistance as the Secretary determines to be necessary to promote homeownership opportunities under this section.
+
+&emsp;(C) This paragraph shall not have effect after February 4, 1991. The Secretary may not provide financial assistance under subparagraph (B), after such date, unless the Secretary determines that such assistance is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990.
+
+#### (3) Conditions of purchase by a resident management corporation
+
+&emsp;(A) A resident management corporation may purchase from a public housing agency one or more multifamily buildings in a public housing project following a determination by the Secretary that—
+
+&emsp;&emsp;(i) the resident management corporation has met the conditions of paragraph (1);
+
+&emsp;&emsp;(ii) the resident management corporation has applied for and is prepared to undertake the ownership, management, and maintenance of the building or buildings with continued assistance from the Secretary;
+
+&emsp;&emsp;(iii) the public housing agency has held one or more public hearings to obtain the views of citizens regarding the proposed purchase and, in consultation with the Secretary, has certified that the purchase will not interfere with the rights of other families residing in public housing, will not harm the efficient operation of other public housing, and is in the interest of the community;
+
+&emsp;&emsp;(iv) the public housing agency has certified that it has and will implement a plan to replace public housing units sold under this section within 30 months of the sale, which plan shall provide for replacement of 100 percent of the units sold under this section by—
+
+&emsp;&emsp;&emsp;(I) production, acquisition, or rehabilitation of vacant public housing units by the public housing agency; and
+
+&emsp;&emsp;&emsp;(II) acquisition by the resident management corporation of nonpublicly owned, decent, and affordable housing units, which the resident management corporation shall operate as rental housing subject to tenant income and rent limitations comparable to the limitations applicable to public housing; and
+
+&emsp;&emsp;(v) the building or buildings meet the minimum safety and livability standards applicable under section 1437<i>l</i> of this title, and the physical condition, management, and operation of the building or buildings are sufficient to permit affordable homeownership by the families residing in the project.
+
+&emsp;(B) The price of a building purchased under the preceding sentence shall be approved by the Secretary, in consultation with the public housing agency and resident management corporation, taking into account the fair market value of the property, the ability of resident families to afford and maintain the property, and such other factors as the Secretary determines to be consistent with increasing the supply of dwelling units affordable to very low income families.
+
+&emsp;(C) This paragraph shall not have effect after February 4, 1991. The authority for a resident management corporation to purchase 1 or more multifamily buildings in a public housing project from a public housing agency shall terminate after such date, unless the Secretary determines that such purchase is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990.
+
+#### (4) Conditions of resale
+
+&emsp;(A)(i) A resident management corporation may sell a dwelling unit or ownership rights in a dwelling unit only to a lower income family residing in, or eligible to reside in, public housing and only if the Secretary determines that the purchase will not interfere with the rights of other families residing in the housing project or harm the efficient operation of the project, and the family will be able to purchase and maintain the property.
+
+&emsp;(ii) The sale of dwelling units or ownership rights in dwelling units under clause (i) shall be made to families in the following order of priority:
+
+&emsp;&emsp;(I) a lower income family residing in the public housing project in which the dwelling unit is located;
+
+&emsp;&emsp;(II) a lower income family residing in any public housing project within the jurisdiction of the public housing agency having jurisdiction with respect to the project in which the dwelling unit is located;
+
+&emsp;&emsp;(III) a lower income family receiving Federal housing assistance and residing in the jurisdiction of such public housing agency; and
+
+&emsp;&emsp;(IV) a lower income family on the waiting list of such public housing agency for public housing or assistance under section 1437f of this title, with priority given in the order in which the family appears on the waiting list.
+
+&emsp;(iii) Each resident management corporation shall provide each family described in clause (ii) with a notice of the eligibility of the family to purchase a dwelling unit under this paragraph.
+
+&emsp;(B) A purchase under subparagraph (A) may be made under any of the following arrangements:
+
+&emsp;&emsp;(i) Limited dividend cooperative ownership.
+
+&emsp;&emsp;(ii) Condominium ownership.
+
+&emsp;&emsp;(iii) Fee simple ownership.
+
+&emsp;&emsp;(iv) Shared appreciation with a public housing agency providing financing under paragraph (6).
+
+&emsp;&emsp;(v) Any other arrangement determined by the Secretary to be appropriate.
+
+&emsp;(C) Property purchased under this section shall be resold only to the resident management corporation, a lower income family residing in or eligible to reside in public housing or housing assisted under section 1437f of this title, or to the public housing agency.
+
+&emsp;(D) In no case may the owner receive consideration for his or her interest in the property that exceeds the total of—
+
+&emsp;&emsp;(i) the contribution to equity paid by the owner;
+
+&emsp;&emsp;(ii) the value, as determined by such means as the Secretary shall determine through regulation, of any improvements installed at the expense of the owner during the owner's tenure as owner; and
+
+&emsp;&emsp;(iii) the appreciated value determined by an inflation allowance at a rate which may be based on a cost of living index, an income index, or market index as determined by the Secretary through regulation and agreed to by the purchaser and the resident management corporation or the public housing agency, whichever is appropriate, at the time of initial sale, and applied against the contribution to equity; the resident management corporation or the public housing agency may, at the time of initial sale, enter into an agreement with the owner to set a maximum amount which this appreciation may not exceed.
+
+&emsp;(E) Upon sale, the resident management corporation or the public housing agency, whichever is appropriate, shall ensure that subsequent owners are bound by the same limitations on resale and further restrictions on equity appreciation.
+
+#### (5) Use of proceeds
+
+&emsp;Notwithstanding any other provision of this chapter or other law to the contrary, proceeds from the sale of a building or buildings under paragraph (3) and amounts recaptured under paragraph (4) shall be paid to the public housing agency and shall be retained and used by the public housing agency only to increase the number of public housing units available for occupancy. The resident management corporation shall keep and make available to the public housing agency and the Secretary all records necessary to calculate accurately payments due the local housing agency under this section. The Secretary shall not reduce or delay payments under other provisions of law as a result of amounts made available to the local housing agency under this section.
+
+#### (6) Financing
+
+&emsp;When financing for the purchase of the property is not otherwise available for purposes of assisting any purchase by a family or resident management corporation under this section, the public housing agency involved may make a loan on the security of the property involved to the family or resident management corporation at a rate of interest that shall not be lower than 70 percent of the market interest rate for conventional mortgages on the date on which the loan is made.
+
+#### (7) Annual contributions
+
+&emsp;Notwithstanding the purchase of a building in a public housing project under this section, the Secretary shall continue to pay annual contributions with respect to the project. Such contributions may not exceed the maximum contributions authorized in section 1437c(a) of this title.
+
+#### (8) Operating subsidies
+
+&emsp;Operating subsidies shall not be available with respect to a building after the date of its sale by the public housing agency.
+
+#### (b) Protection of nonpurchasing families
+
+#### (1) Eviction prohibition
+
+&emsp;No family residing in a dwelling unit in a public housing project may be evicted by reason of the sale of the project to a resident management corporation under this section.
+
+#### (2) Tenants rights
+
+&emsp;Families renting a dwelling unit purchased by a resident management corporation shall have all rights provided to tenants of public housing under this chapter.
+
+#### (3) Rental assistance
+
+&emsp;If any family resides in a dwelling unit in a building purchased by a resident management corporation, and the family decides not to purchase the dwelling unit, the Secretary shall offer to provide to the family (at the option of the family) a certificate under section 1437f(b)(1) of this title or a housing voucher under section 1437f(<i>o</i>) of this title for as longas the family continues to reside in the building. The Secretary may adjust the fair market rent for such certificate to take into account conditions under which the building was purchased.
+
+#### (4) Rental and relocation assistance
+
+&emsp;If any family resides in a dwelling unit in a public housing project in which other dwelling units are purchased under this section, and the family decides not to purchase the dwelling unit, the Secretary shall offer (to be selected by the family, at its option)—
+
+&emsp;&emsp;(A) to assist the family in relocating to a comparable appropriate sized dwelling unit in another public housing project, and to reimburse the family for their cost of relocation; and
+
+&emsp;&emsp;(B) to provide to the family the financial assistance necessary to permit the family to stay in the dwelling unit or to move to another comparable dwelling unit and to pay no more for rent than required under subparagraph (A), (B), or (C) of section 1437a(a)(1) of this title.
+
+#### (c) Financial assistance for public housing agencies
+
+The Secretary shall provide to public housing agencies such financial assistance as is necessary to permit such agencies to carry out the provisions of this section.
+
+#### (d) Additional homeownership and management opportunities
+
+This section shall not apply to the turnkey III, the mutual help, or any other homeownership program established under section 1437c(h) of this title or section 1437d(c)(4)(D) of this title and in existence before February 5, 1988.
+
+#### (e) Regulations
+
+The Secretary shall issue such regulations as may be necessary to carry out the provisions of this section. Such regulations may establish any additional terms and conditions for homeownership or resident management under this section that are determined by the Secretary to be appropriate.
+
+#### (f) Annual report
+
+The Secretary shall annually submit to the Congress a report setting forth—
+
+&emsp;(1) the number, type, and cost of units sold;
+
+&emsp;(2) the income, race, gender, children, and other characteristics of families purchasing or moving and not purchasing;
+
+&emsp;(3) the amount and type of financial assistance provided;
+
+&emsp;(4) the need for subsidy to ensure continued affordability and meet future maintenance and repair costs;
+
+&emsp;(5) any need for the development of additional public housing dwelling units as a result of the sale of public housing dwelling units under this section;
+
+&emsp;(6) recommendations of the Secretary for additional budget authority to carry out such development;
+
+&emsp;(7) recommendations of the Secretary to ensure decent homes and decent neighborhoods for low-income families; and
+
+&emsp;(8) the recommendations of the Secretary for statutory and regulatory improvements to the program.
+
+#### (g) Limitation
+
+Any authority of the Secretary under this section to provide financial assistance, or to enter into contracts to provide financial assistance, shall be effective only to such extent or in such amounts as are or have been provided in advance in an appropriation Act.
+
+(Sept. 1, 1937, ch. 896, title I, §21, as added Feb. 5, 1988, Pub. L. 100–242, title I, §123, 101 Stat. 1842; renumbered title I, June 29, 1988, Pub. L. 100–358, §5, 102 Stat. 681; amended Nov. 28, 1990, Pub. L. 101–625, title IV, §416, title V, §572(1), 104 Stat. 4161, 4236; Oct. 28, 1992, Pub. L. 102–550, title I, §118, 106 Stat. 3695.)
+
+#### Amendments
+
+1992—Subsec. (a)(2)(C), (3)(C). Pub. L. 102–550 substituted “February 4, 1991” for “the effective date of the regulations implementing subchapter II–A of this chapter” and “after such date” for “after such effective date” and made technical amendment to reference to November 28, 1990, to reflect correction of corresponding provisions of original act.
+
+1990—Subsec. (a). Pub. L. 101–625, §572(1), which directed substitution of “low-income families” for “lower income families”, was executed by substituting “Low-income families” for “Lower income families” in introductory provisions to reflect the probable intent of Congress.
+
+Subsec. (a)(2)(B). Pub. L. 101–625, §416(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The Secretary, and the public housing agency owning and operating a public housing project, shall provide such training, technical assistance, and educational assistance as the Secretary determines to be necessary to prepare the families residing in the project, and any resident management corporation established under paragraph (1), for homeownership.”
+
+Subsec. (a)(2)(C). Pub. L. 101–625, §416(2), substituted “the effective date of the regulations implementing subchapter II–A of this chapter. The Secretary may not provide financial assistance under subparagraph (B), after such effective date, unless the Secretary determines that such assistance is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990” for “September 30, 1990”.
+
+Subsec. (a)(3)(C). Pub. L. 101–625, §416(3), substituted “the effective date of the regulations implementing subchapter II–A of this chapter. The authority for a resident management corporation to purchase 1 or more multifamily buildings in a public housing project from a public housing agency shall terminate after such effective date, unless the Secretary determines that such purchase is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990” for “September 30, 1990”.
+
+Subsec. (f)(7). Pub. L. 101–625, §572(1), substituted “low-income families” for “lower income families”.
+

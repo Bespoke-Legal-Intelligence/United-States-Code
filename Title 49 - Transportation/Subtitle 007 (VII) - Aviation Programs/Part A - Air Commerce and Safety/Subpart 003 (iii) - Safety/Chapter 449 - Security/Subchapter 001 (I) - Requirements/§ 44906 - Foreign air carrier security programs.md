@@ -1,0 +1,32 @@
+### §44906. Foreign air carrier security programs
+
+The Administrator of the Federal Aviation Administration shall continue in effect the requirement of section 129.25 of title 14, Code of Federal Regulations, that a foreign air carrier must adopt and use a security program approved by the Administrator. The Administrator may approve a security program of a foreign air carrier under section 129.25 only if the Administrator decides the security program provides passengers of the foreign air carrier a level of protection similar to the level those passengers would receive under the security programs of air carriers serving the same airport. The Administrator shall require a foreign air carrier to use procedures equivalent to those required of air carriers serving the same airport if the Administrator decides that the procedures are necessary to provide a level of protection similar to that provided passengers of the air carriers serving the same airport. The Administrator shall prescribe regulations to carry out this section.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1208.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+44906(a)(1)
+
+49 App.:1357(k) (1)–(3).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §316(k)(1)–(3); added Nov. 16, 1990, Pub. L. 101–604, §105(a), 104 Stat. 3074.
+
+&nbsp;
+
+49 App.:1357 (note).
+
+Nov. 16, 1990, Pub. L. 101–604, §105(c), 104 Stat. 3075.
+
+The text of 49 App.:1357(k)(3) and the words “Not later than 180 days after the date of enactment of this Act” in section 105(c) of the Aviation Security Improvement Act of 1990 (Public Law 101–674, 104 Stat. 3075) are omitted as obsolete.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 106, 40109, 44915, 44937, 44938, 46301, 46314, 46316 of this title.
+

@@ -1,0 +1,136 @@
+### §44711. Prohibitions and exemption
+
+(a)
+
+Prohibitions.—A person may not—
+
+&emsp;(1) operate a civil aircraft in air commerce without an airworthiness certificate in effect or in violation of a term of the certificate;
+
+&emsp;(2) serve in any capacity as an airman with respect to a civil aircraft, aircraft engine, propeller, or appliance used, or intended for use, in air commerce—
+
+&emsp;&emsp;(A) without an airman certificate authorizing the airman to serve in the capacity for which the certificate was issued; or
+
+&emsp;&emsp;(B) in violation of a term of the certificate or a regulation prescribed or order issued under section 44701(a) or (b) or any of sections 44702–44716 of this title;
+
+&emsp;(3) employ for service related to civil aircraft used in air commerce an airman whodoes not have an airman certificate authorizing the airman to serve in the capacity for which the airman is employed;
+
+&emsp;(4) operate as an air carrier without an air carrier operating certificate or in violation of a term of the certificate;
+
+&emsp;(5) operate aircraft in air commerce in violation of a regulation prescribed or certificate issued under section 44701(a) or (b) or any of sections 44702–44716 of this title;
+
+&emsp;(6) operate a seaplane or other aircraft of United States registry on the high seas in violation of a regulation under section 3 of the International Navigational Rules Act of 1977 (33 U.S.C. 1602);
+
+&emsp;(7) violate a term of an air agency or production certificate or a regulation prescribed or order issued under section 44701(a) or (b) or any of sections 44702–44716 of this title related to the holder of the certificate;
+
+&emsp;(8) operate an airport without an airport operating certificate required under section 44706 of this title or in violation of a term of the certificate; or
+
+&emsp;(9) manufacture, deliver, sell, or offer for sale any aviation fuel or additive in violation of a regulation prescribed under section 44714 of this title.
+
+(b)
+
+Exemption.—On terms the Administrator of the Federal Aviation Administration prescribes as being in the public interest, the Administrator may exempt a foreign aircraft and airmen serving on the aircraft from subsection (a) of this section. However, an exemption from observing air traffic regulations may not be granted.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1193; Pub. L. 103–429, §6(56), Oct. 31, 1994, 108 Stat. 4385.)
+
+Historical and Revision Notes
+
+Pub. L. 103–272
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+44711(a)(1)
+
+49 App.:1430(a)(1).
+
+Aug. 23, 1958, Pub. L. 85–726, §610(a)(1)–(5), (b), 72 Stat. 780.
+
+44711(a)(2)
+
+49 App.:1430(a)(2).
+
+44711(a)(3)
+
+49 App.:1430(a)(3).
+
+44711(a)(4)
+
+49 App.:1430(a)(4).
+
+44711(a)(5)
+
+49 App.:1430(a)(5).
+
+44711(a)(6)
+
+49 App.:1430(a)(6).
+
+Aug. 23, 1958, Pub. L. 85–726, §610(a)(6), 72 Stat. 780; May 21, 1970, Pub. L. 91–258, §51(b)(3)(A), 84 Stat. 235.
+
+44711(a)(7)
+
+49 App.:1430(a)(7).
+
+Aug. 23, 1958, Pub. L. 85–726, §610(a)(7), 72 Stat. 780; May 21, 1970, Pub. L. 91–258, §51(b)(3)(B), 84 Stat. 235; Dec. 31, 1970, Pub. L. 91–604, §11(b)(2), 84 Stat. 1705.
+
+44711(a)(8)
+
+49 App.:1430(a)(8).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §610(a)(8); added May 21, 1970, Pub. L. 91–258, §51(b)(3)(C), 84 Stat. 235; Dec. 31, 1970, Pub. L. 91–604, §11(b)(2), 84 Stat. 1705; restated Sept. 3, 1982, Pub. L. 97–248, §525(d), 96 Stat. 697.
+
+44711(a)(9)
+
+49 App.:1430(a)(9).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §610(a)(9); added Dec. 31, 1970, Pub. L. 91–604, §11(b)(2), 84 Stat. 1705; Nov. 9, 1977, Pub. L. 95–163, §15(b)(2), 91 Stat. 1283.
+
+44711(b)
+
+49 App.:1430(b).
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
+
+In subsection (a)(1) and (7), the words “condition, or limitation” are omitted as being included in “term”.
+
+In subsection (a)(1), the words “without . . . in effect” are substituted for “for which there is not currently in effect an” to eliminate unnecessary words.
+
+In subsection (a)(2), (5), and (7), the word “rule” is omitted as being synonymous with “regulations”.
+
+In subsection (a)(2)(B), the word “prescribed” is added for consistency in the revised title and with other titles of the United States Code.
+
+In subsection (a)(5) and (7), the words “prescribed . . . issued” are added for consistency in the revised title and with other titles of the Code.
+
+In subsection (a)(5), the words “of the Secretary of Transportation” are omitted as surplus.
+
+In subsection (a)(6), the words “proclaimed by the President” are omitted as surplus. The words “section 3 of the International Navigational Rules Act of 1977 (33 U.S.C. 1602)” are substituted for “section 143 of title 33” because the section was part of the Act of October 11, 1951 (ch. 495, 65 Stat. 406), that was repealed by section 3 of the Act of September 24, 1963 (Public Law 88–131, 77 Stat. 194), and replaced by 33:ch. 21. Chapter 21 was repealed by section 10 of the International Navigational Rules Act of 1977 (Public Law 95–75, 91 Stat. 311) and replaced by 33:1601–1608.
+
+In subsection (a)(7), the words “holding . . . such certificate” are omitted because of the restatement.
+
+In subsection (a)(8), the words “by the Administrator” are omitted as surplus.
+
+In subsection (b), the word “Administrator” in section 610(b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 780) is retained on authority of 49:106(g). The words “to the extent, and . . . and conditions” and “by such airmen” are omitted as surplus.
+
+#### Pub. L. 103–429
+
+This amends 49:44711(a)(2)(B), (5), and (7) and 46310(b) to correct erroneous cross-references.
+
+#### Amendments
+
+1994—Subsec. (a)(2)(B), (5), (7). Pub. L. 103–429 inserted “any of sections” before “44702–44716”.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 106, 44701, 44711, 45302, 46301, 46310, 46316, 47531 of this title.
+

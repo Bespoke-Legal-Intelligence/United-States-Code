@@ -1,0 +1,73 @@
+## PART I—ORGANIZATION AND GENERAL MILITARY POWERS
+
+| Chap. | Sec. |
+| :--- | ---: |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
+| [<b>1.</b>](Chapter%20001%20-%20Definitions/README.md) | <b>Definitions</b> | <b>101</b> |
+| [<b>2.</b>](Chapter%20002%20-%20Department%20of%20Defense/README.md) | <b>Department of Defense</b> | <b>111</b> |
+| [<b>3.</b>](Chapter%20003%20-%20General%20Powers%20and%20Functions/README.md) | <b>General Powers and Functions</b> | <b>121</b> |
+| [<b>4.</b>](Chapter%20004%20-%20Office%20of%20the%20Secretary%20of%20Defense/README.md) | <b>Office of the Secretary of Defense</b> | <b>131</b> |
+| [<b>5.</b>](Chapter%20005%20-%20Joint%20Chiefs%20of%20Staff/README.md) | <b>Joint Chiefs of Staff</b> | <b>151</b> |
+| [<b>6.</b>](Chapter%20006%20-%20Combatant%20Commands/README.md) | <b>Combatant Commands</b> | <b>161</b> |
+| [<b>7.</b>](Chapter%20007%20-%20Boards%2C%20Councils%2C%20and%20Committees/README.md) | <b>Boards, Councils, and Committees</b> | <b>171</b> |
+| [<b>8.</b>](Chapter%20008%20-%20Defense%20Agencies%20and%20Department%20of%20Defense%20Field%20Activities/README.md) | <b>Defense Agencies and Department of Defense Field Activities</b> | <b>191</b> |
+| [<b>9.</b>](Chapter%20009%20-%20Defense%20Budget%20Matters/README.md) | <b>Defense Budget Matters</b> | <b>221</b> |
+| [<b>11.</b>](Chapter%20011%20-%20Reserve%20Components/README.md) | <b>Reserve Components</b> | <b>261</b> |
+| [<b>13.</b>](Chapter%20013%20-%20The%20Militia/README.md) | <b>The Militia</b> | <b>311</b> |
+| [<b>15.</b>](Chapter%20015%20-%20Insurrection/README.md) | <b>Insurrection</b> | <b>331</b> |
+| [<b>17.</b>](Chapter%20017%20-%20Arming%20of%20American%20Vessels/README.md) | <b>Arming of American Vessels</b> | <b>351</b> |
+| [<b>18.</b>](Chapter%20018%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md) | <b>Military Support for Civilian Law Enforcement Agencies</b> | <b>371</b> |
+| [<b>20.</b>](Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md) | <b>Humanitarian and Other Assistance</b> | <b>401</b> |
+| [<b>21.</b>](Chapter%20021%20-%20Department%20of%20Defense%20Intelligence%20Matters/README.md) | <b>Department of Defense Intelligence Matters</b> | <b>421</b> |
+| [<b>22.</b>](Chapter%20022%20-%20Miscellaneous%20Studies%20and%20Reports/README.md) | <b>Miscellaneous Studies and Reports</b> | <b>451</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1994—Pub. L. 103–337, div. A, title V, §554(a)(2), Oct. 5, 1994, 108 Stat. 2773, added item for chapter 22.
+
+1991—Pub. L. 102–190, div. A, title X, §1002(a)(2), Dec. 5, 1991, 105 Stat. 1455, substituted “Defense Budget Matters” for “Regular Components” and inserted “221” in item for chapter 9.
+
+1988—Pub. L. 100–456, div. A, title XI, §1104(b), Sept. 29, 1988, 102 Stat. 2046, substituted “Support for” for “Cooperation With” and “Agencies” for “Officials” in item for chapter 18.
+
+1987—Pub. L. 100–180, div. A, title III, §332(c), Dec. 4, 1987, 101 Stat. 1080, substituted “Humanitarian and Other Assistance” for “Humanitarian and Civic Assistance Provided in Conjunction With Military Operations” in item for chapter 20.
+
+Pub. L. 100–26, §9(b)(4), Apr. 21, 1987, 101 Stat. 287, added item for chapter 21.
+
+1986—Pub. L. 99–661, div. A, title III, §333(a)(2), Nov. 14, 1986, 100 Stat. 3859, added item for chapter 20.
+
+Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items for chapters 2 and 6, inserted “and Functions” in item for chapter 3, substituted “Office of the Secretary of Defense” for “Department of Defense” in item for chapter 4, substituted “151” for “141” as section number in item for chapter 5, reenacted item for chapter 7 without change, and inserted “and Department of Defense Field activities” in item for chapter 8.
+
+1982—Pub. L. 97–269, title V, §501(b), Sept. 27, 1982, 96 Stat. 1145, added item for chapter 8.
+
+1981—Pub. L. 97–86, title IX, §905(a)(2), Dec. 1, 1981, 95 Stat. 1116, added item for chapter 18.
+
+1962—Pub. L. 87–651, title II, §203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [Chapter 001 - Definitions](Chapter%20001%20-%20Definitions/README.md)
+- [Chapter 002 - Department of Defense](Chapter%20002%20-%20Department%20of%20Defense/README.md)
+- [Chapter 003 - General Powers and Functions](Chapter%20003%20-%20General%20Powers%20and%20Functions/README.md)
+- [Chapter 004 - Office of the Secretary of Defense](Chapter%20004%20-%20Office%20of%20the%20Secretary%20of%20Defense/README.md)
+- [Chapter 005 - Joint Chiefs of Staff](Chapter%20005%20-%20Joint%20Chiefs%20of%20Staff/README.md)
+- [Chapter 006 - Combatant Commands](Chapter%20006%20-%20Combatant%20Commands/README.md)
+- [Chapter 007 - Boards, Councils, and Committees](Chapter%20007%20-%20Boards%2C%20Councils%2C%20and%20Committees/README.md)
+- [Chapter 008 - Defense Agencies and Department of Defense Field Activities](Chapter%20008%20-%20Defense%20Agencies%20and%20Department%20of%20Defense%20Field%20Activities/README.md)
+- [Chapter 009 - Defense Budget Matters](Chapter%20009%20-%20Defense%20Budget%20Matters/README.md)
+- [Chapter 011 - Reserve Components](Chapter%20011%20-%20Reserve%20Components/README.md)
+- [Chapter 013 - The Militia](Chapter%20013%20-%20The%20Militia/README.md)
+- [Chapter 015 - Insurrection](Chapter%20015%20-%20Insurrection/README.md)
+- [Chapter 017 - Arming of American Vessels](Chapter%20017%20-%20Arming%20of%20American%20Vessels/README.md)
+- [Chapter 018 - Military Support for Civilian Law Enforcement Agencies](Chapter%20018%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md)
+- [Chapter 020 - Humanitarian and Other Assistance](Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md)
+- [Chapter 021 - Department of Defense Intelligence Matters](Chapter%20021%20-%20Department%20of%20Defense%20Intelligence%20Matters/README.md)
+- [Chapter 022 - Miscellaneous Studies and Reports](Chapter%20022%20-%20Miscellaneous%20Studies%20and%20Reports/README.md)

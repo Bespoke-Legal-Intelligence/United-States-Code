@@ -1,0 +1,28 @@
+### §4411. Findings; statement of purposes
+
+(a) The Congress finds that there has been established in the District of Columbia a private, nonprofit corporation known as the National Endowment for Democracy (hereafter in this subchapter referred to as the “Endowment”) which is not an agency or establishment of the United States Government.
+
+(b) The purposes of the Endowment, as set forth in its articles of incorporation, are—
+
+&emsp;(1) to encourage free and democratic institutions throughout the world through private sector initiatives, including activities which promote the individual rights and freedoms (including internationally recognized human rights) which are essential to the functioning of democratic institutions;
+
+&emsp;(2) to facilitate exchanges between United States private sector groups (especially the two major American political parties, labor, and business) and democratic groups abroad;
+
+&emsp;(3) to promote United States nongovernmental participation (especially through the two major American political parties, labor, business, and other private sector groups) in democratic training programs and democratic institution-building abroad;
+
+&emsp;(4) to strengthen democratic electoral processes abroad through timely measures in cooperation with indigenous democratic forces;
+
+&emsp;(5) to support the participation of the two major American political parties, labor, business, and other United States private sector groups in fostering cooperation with those abroad dedicated to the cultural values, institutions, and organizations of democratic pluralism; and
+
+&emsp;(6) to encourage the establishment and growth of democratic development in a manner consistent both with the broad concerns of United States national interests and with the specific requirements of the democratic groups in other countries which are aided by programs funded by the Endowment.
+
+(Pub. L. 98–164, title V, §502, Nov. 22, 1983, 97 Stat. 1039.)
+
+#### Short Title
+
+Section 501 of title V of Pub. L. 98–164 provided that: “This title \[enacting this subchapter\] may be cited as the ‘National Endowment for Democracy Act’.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 4412, 4413 of this title.
+

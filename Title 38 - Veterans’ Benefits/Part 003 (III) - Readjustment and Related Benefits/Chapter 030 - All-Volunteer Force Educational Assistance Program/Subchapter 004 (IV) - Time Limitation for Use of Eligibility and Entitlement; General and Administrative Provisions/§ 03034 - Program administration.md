@@ -1,0 +1,128 @@
+### §3034. Program administration
+
+(a)(1) Except as otherwise provided in this chapter, the provisions of sections 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of this title and the provisions of subchapters I and II of chapter 36 of this title (with the exception of sections 3680(c), 3680(f), 3686(a), and 3687) shall be applicable to the provision of educational assistance under this chapter.
+
+(2) The term “eligible veteran”, as used in the provisions of the sections enumerated in paragraph (1) of this subsection, shall be deemed to include an individual who is eligible for educational assistance under this chapter.
+
+(3) The Secretary may, without regard to the application to this chapter of so much of the provisions of section 3471 of this title as prohibit the enrollment of an eligible veteran in a program of education in which the veteran is “already qualified”, and pursuant to such regulations as the Secretary shall prescribe, approve the enrollment of such individual in refresher courses (including courses which will permit such individual to update knowledge and skills or be instructed in the technological advances which have occurred in the individual's field of employment during and since the period of such veteran's active military service), deficiency courses, or other preparatory or special education or training courses necessary to enable the individual to pursue an approved program of education.
+
+(b) Regulations prescribed by the Secretary of Defense under this chapter shall be uniform for the Armed Forces under the jurisdiction of the Secretary of a military department.
+
+(c) Payment of educational assistance allowance in the case of an eligible individual pursuing a program of education under this chapter on less than a half-time basis shall be made in a lump-sum amount for the entire quarter, semester, or term not later than the last day of the month immediately following the month in which certification is received from the educational institution that such individual has enrolled in and is pursuing a program at such institution. Such lump-sum payment shall be computed at the rate determined under section 3032(b) of this title.
+
+(d) The Secretary may approve the pursuit of flight training (in addition to a course of flight training that may be approved under section 3680A(b) of this title) by an individual entitled to basic educational assistance under this chapter if—
+
+&emsp;(1) such training is generally accepted as necessary for the attainment of a recognized vocational objective in the field of aviation;
+
+&emsp;(2) the individual possesses a valid private pilot's license and meets the medical requirements necessary for a commercial pilot's license; and
+
+&emsp;(3) the flight school courses meet Federal Aviation Administration standards for such courses and are approved by the Federal Aviation Administration and the State approving agency.
+
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2562, §1434; amended Pub. L. 99–576, title III, §§301(c), 302, 305, 308(a), Oct. 28, 1986, 100 Stat. 3268–3270; Pub. L. 100–689, title I, §§106(a), 111(a)(7)(B), Nov. 18, 1988, 102 Stat. 4166, 4172; Pub. L. 101–237, title IV, §§415(b), 422(a)(1), 423(a)(5)(A), (6), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2086, 2088, 2091, 2092; Pub. L. 102–16, §2(b)(2), Mar. 22, 1991, 105 Stat. 49; renumbered §3034 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(4), Oct. 29, 1992, 106 Stat. 4332; Pub. L. 103–446, title VI, §601(a), Nov. 2, 1994, 108 Stat. 4670.)
+
+#### Amendments
+
+1994—Subsec. (d). Pub. L. 103–446 struck out “(1)” before “The Secretary may approve”, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and struck out former par. (2) which read as follows: “This subsection shall not apply to a course of flight training that commences on or after October 1, 1994.”
+
+1992—Subsec. (a)(1). Pub. L. 102–568, §313(a)(4)(A), struck out “3473,” after “3471,”.
+
+Subsec. (d)(1). Pub. L. 102–568, §313(a)(4)(B), substituted “3680A(b)” for “3473(b)” in introductory provisions.
+
+1991—Pub. L. 102–83, §5(a), renumbered section 1434 of this title as this section.
+
+Subsec. (a)(1). Pub. L. 102–83, §5(c)(1), substituted “3470, 3471, 3473, 3474, 3476, 3482(g), 3483, and 3485” for “1670, 1671, 1673, 1674, 1676, 1682(g), 1683, and 1685” and “3680(c), 3680(f), 3686(a), and 3687” for “1780(c), 1780(f), 1786(a), and 1787”.
+
+Pub. L. 102–16 struck out “1663,” before “1670,”.
+
+Subsec. (a)(3). Pub. L. 102–83, §5(c)(1), substituted “3471” for “1671”.
+
+Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “3032(b)” for “1432(b)”.
+
+Subsec. (d)(1). Pub. L. 102–83, §5(c)(1), substituted “3473(b)” for “1673(b)” in introductory provisions.
+
+1989—Subsec. (a)(1). Pub. L. 101–237, §423(a)(6)(A), inserted “1780(f),” after “1780(c),”.
+
+Pub. L. 101–237, §415(b)(1), struck out “1780(g),” after “1780(c),”.
+
+Subsec. (a)(3). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+
+Pub. L. 101–237, §423(a)(5)(A), substituted “employment during and since the period of such veteran's active military service)” for “employment)”.
+
+Subsec. (b). Pub. L. 101–237, §415(b)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec.\(b) which read as follows: “The Administrator may, pursuant to regulations which the Administrator shall prescribe, determine and define enrollment in, pursuit of, and attendance at, any program of education by an individual enrolled in or pursuing a program of education under this chapter for any period for which the individual receives educational assistance under this chapter. Subject to such reports and proof as the Administrator may require to show an individual's enrollment in and satisfactory pursuit of such individual's program, the Administrator may withhold payment of benefits to such individual until the required proof is received and the amount of the payment is appropriately adjusted.”
+
+Subsec. (c). Pub. L. 101–237, §423(a)(6)(B), added subsec. (c).
+
+Pub. L. 101–237, §415(b)(3), redesignated subsec. (c) as (b).
+
+Subsec. (d). Pub. L. 101–237, §422(a)(1), added subsec. (d).
+
+1988—Subsec. (a)(1). Pub. L. 100–689, §§106(a)(1), 111(a)(7)(B)(i), designated existing first sentence as par. (1) and inserted “1786(a),” after “1780(g),”.
+
+Subsec. (a)(2). Pub. L. 100–689, §106(a)(2), (3), designated existing second sentence, defining “eligible veteran”, as par. (2) and substituted “the provisions of the sections enumerated in paragraph (1) of this subsection” for “those provisions”.
+
+Subsec. (a)(3). Pub. L. 100–689, §106(a)(4), added par. (3).
+
+Subsecs. (c), (d). Pub. L. 100–689, §111(a)(7)(B)(ii), (iii), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “When an eligible individual is pursuing a program of education under this chapter by correspondence, the individual's entitlement under this chapter shall be charged at the rate of one month's entitlement for each month of benefits paid to the individual.”
+
+1986—Subsec. (a). Pub. L. 99–576, §§301(c), 308(a), substituted “1683, and 1685” for “and 1683” and “(with the exception of sections 1780(c), 1780(g), and 1787)” for “(with the exception of sections 1777, 1780(a)(5), 1780(b), 1786, 1787, and 1792 of such chapter)”.
+
+Subsec. (b). Pub. L. 99–576, §305, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “An educational assistance allowance for any period may not be paid to an individual enrolled in or pursuing a program of education under this chapter until the Administrator has received—
+
+&emsp;“(1) from such individual a certification as to such individual's actual attendance during such period; and
+
+&emsp;“(2) from the educational institution a certification, or an endorsement of the individual's certificate, that such individual was enrolled in and pursuing a program of education during such period.”
+
+Subsecs. (c), (d). Pub. L. 99–576, §302, added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Effective Date of 1994 Amendment
+
+Section 601(d) of Pub. L. 103–446 provided that: “The amendments made by this section \[amending this section, section 3241 of this title, and section 16136 of Title 10, Armed Forces\] shall take effect as of October 1, 1994.”
+
+#### Effective Date of 1989 Amendment
+
+Amendment by section 422(a)(1) of Pub. L. 101–237 effective Sept. 30, 1990, see section 422(d) of Pub. L. 101–237, set out as a note under section 16131 of Title 10, Armed Forces.
+
+#### Effective Date of 1988 Amendment
+
+Section 106(d) of Pub. L. 100–689 provided that: “The amendments made by this section \[amending this section and sections 1641 and 1733 \[now 3241 and 3533\] of this title\] shall take effect on August 15, 1989.”
+
+#### Savings Provision
+
+Amendment by Pub. L. 102–586 not applicable to any person receiving educational assistance for pursuit of an independent study program in which the person was enrolled on Oct. 29, 1992, for as long as such person is continuously thereafter so enrolled and meets requirements of eligibility for such assistance, see section 313(b) of Pub. L. 102–568, set out as a note under section 16136 of Title 10, Armed Forces.
+
+#### Ratification
+
+Pub. L. 101–366, title II, §206(b), Aug. 15, 1990, 104 Stat. 442, provided that: “Any use by the Department of Veterans Affairs, during the period beginning on July 2, 1990, and ending on the date of the enactment of this Act \[Aug. 15, 1990\], of any category of information provided by the Department of Defense or the Department of Transportation for making determinations described in section 413(b) of the Veterans’ Benefits Amendments of 1989 (Public Law 101–237) \[set out below\] is hereby ratified.”
+
+#### Continued Use of Categories of Information Used Prior to December 18, 1989
+
+Section 413(b) of Pub. L. 101–237 provided that: “Through July 1, 1990, no provision of law shall preclude the Department of Veterans Affairs, in making determinations of the active-duty or Selected Reserve status, or the character of service, of individuals receiving benefits under chapter 30 or 32 of title 38, United States Code, or chapter 106 of title 10, United States Code, from continuing to use any category of information provided by the Department of Defense or Department of Transportation that the Department of Veterans Affairs was using prior to the date of the enactment of this Act \[Dec. 18, 1989\], if the Secretary of Veterans Affairs determines that the information has proven to be sufficiently reliable in making such determinations.”
+
+#### Evaluation of Providing Assistance for Flight Training
+
+Section 422(c) of Pub. L. 101–237 provided that:
+
+“(1)(A) The Secretary of Veterans Affairs shall conduct an evaluation of paying educational assistance for flight training under chapter 30 of title 38, United States Code, and chapter 106 of title 10, United States Code.
+
+“(B) The evaluation required by subparagraph (A) shall be designed to determine the effectiveness of the provision of educational assistance referred to in such subparagraph in preparing the recipients of such assistance for recognized vocational objectives in the field of aviation.
+
+“(2) Not later than January 31, 1994, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the evaluation required by paragraph (1). Such report shall include—
+
+&emsp;“(A) information, separately as to payments made under chapter 30 of title 38, United States Code, and payments made under chapter 106 of title 10, United States Code, regarding—
+
+&emsp;&emsp;“(i) the number of recipients paid educational assistance allowances for flight training;
+
+&emsp;&emsp;“(ii) the amount of such assistance;
+
+&emsp;&emsp;“(iii) the amount paid by the recipients for such training;
+
+&emsp;&emsp;“(iv) the vocational objectives of the recipients; and
+
+&emsp;&emsp;“(v) the extent to which the training (I) assists the recipients in achieving employment in the field of aviation, or (II) was used only or primarily for recreational or avocational purposes; and
+
+&emsp;“(B) any recommendations for legislation that the Secretary considers appropriate to include in the report.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3032, 3680A, 3688 of this title.
+

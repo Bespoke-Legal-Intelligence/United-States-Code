@@ -1,0 +1,28 @@
+### §2704. Discontinued Job Corps centers; utilization for special youth programs
+
+(a) Notwithstanding any other provision of law, the Director of the Office of Economic Opportunity shall establish procedures and make arrangements which are designed to assure that facilities and equipment of Job Corps centers which are being discontinued will, where feasible, be made available for use by State or Federal agencies and other public or private agencies, institutions, and organizations with satisfactory arrangements for utilizing such facilities and equipment for conducting programs, especially those providing opportunities for low-income disadvantaged youth, including, without limitation—
+
+&emsp;(1) special remedial programs;
+
+&emsp;(2) summer youth programs;
+
+&emsp;(3) exemplary vocational preparation and training programs;
+
+&emsp;(4) cultural enrichment programs, including music, the arts, and the humanities;
+
+&emsp;(5) training programs designed to improve the qualifications of educational personnel, including instructors in vocational educational programs; and
+
+&emsp;(6) youth conservation work and other conservation programs.
+
+(b) To achieve the objectives of this section, the Director of the Office of Economic Opportunity shall consult with, elicit the cooperation of, and utilize the services of the Administrator of the General Services Administration, and the Secretaries of Agriculture, of the Interior, and of Labor.
+
+(Pub. L. 91–177, title I, §113, Dec. 30, 1969, 83 Stat. 832; Pub. L. 93–644, §9(a), Jan. 4, 1975, 88 Stat. 2310.)
+
+#### Codification
+
+Section was enacted as part of the Economic Opportunity Amendments of 1969, and not as part of the Economic Opportunity Act of 1964 which comprises this chapter.
+
+#### Office of Economic Opportunity
+
+Pub. L. 93–644, §9(a), Jan. 4, 1975, 88 Stat. 2310 \[42 U.S.C. 2941\], amended the Economic Opportunity Act of 1964 \[42 U.S.C. 2701 et seq.\] to create the Community Services Administration, an independent agency in the executive branch, as the successor authority to the Office of Economic Opportunity, and provided that references to the Office of Economic Opportunity or to its Director were deemed to refer to the Community Services Administration or to its Director. The Community Services Administration was terminated when the Economic Opportunity Act of 1964, except for titles VIII and X, was repealed, effective Oct. 1, 1981, by section 683(a) of Pub. L. 97–35, title VI, Aug. 13, 1981, 95 Stat. 519, which is classified to section 9912(a) of this title. An Office of Community Services, headed by a Director, was established in the Department of Health and Human Services by section 676 of Pub. L. 97–35, which is classified to section 9905 of this title.
+

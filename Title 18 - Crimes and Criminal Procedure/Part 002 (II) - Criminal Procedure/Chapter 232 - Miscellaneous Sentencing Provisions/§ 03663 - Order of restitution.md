@@ -1,0 +1,158 @@
+### §3663. Order of restitution
+
+(a)(1) The court, when sentencing a defendant convicted of an offense under this title or section 46312, 46502, or 46504 of title 49, may order, in addition to or, in the case of a misdemeanor, in lieu of any other penalty authorized by law, that the defendant make restitution to any victim of such offense.
+
+(2) For the purposes of restitution, a victim of an offense that involves as an element a scheme, a conspiracy, or a pattern of criminal activity means any person directly harmed by the defendant's criminal conduct in the course of the scheme, conspiracy, or pattern.
+
+(3) The court may also order restitution in any criminal case to the extent agreed to by the parties in a plea agreement.
+
+(b) The order may require that such defendant—
+
+&emsp;(1) in the case of an offense resulting in damage to or loss or destruction of property of a victim of the offense—
+
+&emsp;&emsp;(A) return the property to the owner of the property or someone designated by the owner; or
+
+&emsp;&emsp;(B) if return of the property under subparagraph (A) is impossible, impractical, or inadequate, pay an amount equal to the greater of—
+
+&emsp;&emsp;&emsp;(i) the value of the property on the date of the damage, loss, or destruction, or
+
+&emsp;&emsp;&emsp;(ii) the value of the property on the date of sentencing,
+
+> &emsp;less the value (as of the date the property is returned) of any part of the property that is returned;
+
+&emsp;(2) in the case of an offense resulting in bodily injury to a victim including an offense under chapter 109A or chapter 110—
+
+&emsp;&emsp;(A) pay an amount equal to the cost of necessary medical and related professional services and devices relating to physical, psychiatric, and psychological care, including nonmedical care and treatment rendered in accordance with a method of healing recognized by the law of the place of treatment;
+
+&emsp;&emsp;(B) pay an amount equal to the cost of necessary physical and occupational therapy and rehabilitation; and
+
+&emsp;&emsp;(C) reimburse the victim for income lost by such victim as a result of such offense;
+
+&emsp;(3) in the case of an offense resulting in bodily injury also results in the death of a victim, pay an amount equal to the cost of necessary funeral and related services;
+
+&emsp;(4) in any case, reimburse the victim for lost income and necessary child care, transportation, and other expenses related to participation in the investigation or prosecution of the offense or attendance at proceedings related to the offense; and
+
+&emsp;(5) in any case, if the victim (or if the victim is deceased, the victim's estate) consents, make restitution in services in lieu of money, or make restitution to a person or organization designated by the victim or the estate.
+
+(c) If the court decides to order restitution under this section, the court shall, if the victim is deceased, order that the restitution be made to the victim's estate.
+
+(d) To the extent that the court determines that the complication and prolongation of the sentencing process resulting from the fashioning of an order of restitution under this section outweighs the need to provide restitution to any victims, the court may decline to make such an order.
+
+(e)(1) The court shall not impose restitution with respect to a loss for which the victim has received or is to receive compensation, except that the court may, in the interest of justice, order restitution to any person who has compensated the victim for such loss to the extent that such person paid the compensation. An order of restitution shall require that all restitution to victims under such order be made before any restitution to any other person under such order is made.
+
+(2) Any amount paid to a victim under an order of restitution shall be set off against any amount later recovered as compensatory damages by such victim in—
+
+&emsp;(A) any Federal civil proceeding; and
+
+&emsp;(B) any State civil proceeding, to the extent provided by the law of that State.
+
+(f)(1) The court may require that such defendant make restitution under this section within a specified period or in specified installments.
+
+(2) The end of such period or the last such installment shall not be later than—
+
+&emsp;(A) the end of the period of probation, if probation is ordered;
+
+&emsp;(B) five years after the end of the term of imprisonment imposed, if the court does not order probation; and
+
+&emsp;(C) five years after the date of sentencing in any other case.
+
+(3) If not otherwise provided by the court under this subsection, restitution shall be made immediately.
+
+(4) The order of restitution shall require the defendant to make restitution directly to the victim or other person eligible under this section, or to deliver the amount or property due as restitution to the Attorney General or the person designated under section 604(a)(18) of title 28 for transfer to such victim or person.
+
+(g) If such defendant is placed on probation or sentenced to a term of supervised release under this title, any restitution ordered under this section shall be a condition of such probation or supervised release. The court may revoke probation or a term of supervised release, or modify the term or conditions of probation or a term of supervised release, or hold a defendant in contempt pursuant to section 3583(e) if the defendant fails to comply with such order. In determining whether to revoke probation or a term of supervised release, modify the term or conditions of probation or supervised release, or hold a defendant serving a term of supervised release in contempt, the court shall consider the defendant's employment status, earning ability, financial resources, the willfulness of the defendant's failure to pay, and any other special circumstances that may have a bearing on the defendant's ability to pay.
+
+(h) An order of restitution may be enforced—
+
+&emsp;(1) by the United States—
+
+&emsp;&emsp;(A) in the manner provided for the collection and payment of fines in subchapter B of chapter 229 of this title; or
+
+&emsp;&emsp;(B) in the same manner as a judgment in a civil action; and
+
+&emsp;(2) by a victim named in the order to receive the restitution, in the same manner as a judgment in a civil action.
+
+(i)(1) A Federal agency shall immediately suspend all Federal benefits provided by the agency to the defendant, and shall terminate the defendant's eligibility for Federal benefits administered by that agency, upon receipt of a certified copy of a written judicial finding that the defendant is delinquent in making restitution in accordance with any schedule of payments or any requirement of immediate payment imposed under this section.
+
+(2) Any written finding of delinquency described in paragraph (1) shall be made by a court, after a hearing, upon motion of the victim named in the order to receive the restitution or upon motion of the United States.
+
+(3) A defendant found to be delinquent may subsequently seek a written finding from the court that the defendant has rectified the delinquency or that the defendant has made and will make good faith efforts to rectify the delinquency. The defendant's eligibility for Federal benefits shall be reinstated upon receipt by the agency of a certified copy of such a finding.
+
+(4) In this subsection, “Federal benefit” means a grant, contract, loan, professional license, or commercial license provided by an agency of the United States.
+
+(Added Pub. L. 97–291, §5(a), Oct. 12, 1982, 96 Stat. 1253, §3579; renumbered §3663 and amended Pub. L. 98–473, title II, §212(a)(1), (3), Oct. 12, 1984, 98 Stat. 1987, 2010; Pub. L. 98–596, §9, Oct. 30, 1984, 98 Stat. 3138; Pub. L. 99–646, §§8(b), 20(a), 77(a), 78(a), 79(a), Nov. 10, 1986, 100 Stat. 3593, 3596, 3618, 3619; Pub. L. 100–182, §13, Dec. 7, 1987, 101 Stat. 1268; Pub. L. 100–185, §12, Dec. 11, 1987, 101 Stat. 1285; Pub. L. 100–690, title VII, §7042, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 101–647, title XXV, §2509, title XXXV, §3595, Nov. 29, 1990, 104 Stat. 4863, 4931; Pub. L. 103–272, §5(e)(12), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title IV, §§40504, 40505, Sept. 13, 1994, 108 Stat. 1947.)
+
+#### Amendments
+
+1994—Subsec. (a)(1). Pub. L. 103–272 substituted “section 46312, 46502, or 46504 of title 49” for “under subsection (h), (i), (j), or (n) of section 902 of the Federal Aviation Act of 1958 (49 U.S.C. 1472)”.
+
+Subsec. (b)(2). Pub. L. 103–322, §40504(1), in introductory provisions, inserted “including an offense under chapter 109A or chapter 110” after “victim”.
+
+Subsec. (b)(3) to (5). Pub. L. 103–322, §40504(2)–(4), struck out “and” at end of par. (3), added par. (4), and redesignated former par. (4) as (5).
+
+Subsec. (i). Pub. L. 103–322, §40505, added subsec. (i).
+
+1990—Subsec. (a). Pub. L. 101–647, §2509, designated existing provisions as par. (1) and added pars. (2) and (3).
+
+Subsec. (f)(4). Pub. L. 101–647, §3595, substituted “604(a)(18)” for “604(a)(17)”.
+
+1988—Subsec. (h). Pub. L. 100–690 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “An order of restitution may be enforced by the United States in the manner provided in sections 3812 and 3813 or in the same manner as a judgment in a civil action, and by the victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
+
+1987—Subsec. (f)(4). Pub. L. 100–185 inserted “or the person designated under section 604(a)(17) of title 28” after “Attorney General”.
+
+Subsec. (g). Pub. L. 100–182 substituted “revoke probation or a term of supervised release,” for “revoke probation,” in two places and inserted “probation or” after “modify the term or conditions of” in two places.
+
+1986—Subsec. (a). Pub. L. 99–646, §20(a), which directed that subsec. (a)(1) be amended by inserting “, in the case of a misdemeanor,” after “in addition to or”, was executed to subsec. (a) to reflect the probable intent of Congress and the prior amendment to subsec. (a) by Pub. L. 99–646, §8(b), below.
+
+Pub. L. 99–646, §8(b), struck out par. (1) designation, and struck out par. (2) which read as follows: “If the court does not order restitution, or orders only partial restitution, under this section, the court shall state on the record the reasons therefor.”
+
+Subsec. (a)(1). Pub. L. 99–646, §79(a), substituted “such offense” for “the offense”.
+
+Subsec. (d). Pub. L. 99–646, §77(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The court shall impose an order of restitution to the extent that such order is as fair as possible to the victim and the imposition of such order will not unduly complicate or prolong the sentencing process.”
+
+Subsec. (h). Pub. L. 99–646, §78(a), substituted “in the manner provided for the collection of fines and penalties by section 3565 or by a victim” for “or a victim”.
+
+1984—Pub. L. 98–473, §212(a)(1), renumbered section 3579 of this title as this section.
+
+Subsec. (c). Pub. L. 98–596, §9(1), substituted “court” for “Court” after “If the”.
+
+Subsec. (f)(4). Pub. L. 98–596, §9(2), added par. (4).
+
+Subsec. (g). Pub. L. 98–473, §212(a)(3)(A), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “If such defendant is placed on probation or paroled under this title, any restitution ordered under this section shall be a condition of such probation or parole. The court may revoke probation and the Parole Commission may revoke parole if the defendant fails to comply with such order. In determining whether to revoke probation or parole, the court or Parole Commission shall consider the defendant's employment status, earning ability, financial resources, the willfulness of the defendant's failure to pay, and any other special circumstances that may have a bearing on the defendant's ability to pay.”
+
+Subsec. (h). Pub. L. 98–473, §212(a)(3)(B), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “An order of restitution may be enforced by the United States in the manner provided for the collection of fines and penalties by section 3565 or by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
+
+#### Effective Date of 1987 Amendment
+
+Amendment by Pub. L. 100–182 applicable with respect to offenses committed after Dec. 7, 1987, see section 26 of Pub. L. 100–182, set out as a note under section 3006A of this title.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by section 8(b) of Pub. L. 99–646 effective Nov. 1, 1987, see section 8(c) of Pub. L. 99–646, set out as a note under section 3553 of this title.
+
+Amendment by section 20(a) of Pub. L. 99–646 effective Nov. 1, 1987, see section 20(c) of Pub. L. 99–646, set out as a note under section 3556 of this title.
+
+Section 77(b) of Pub. L. 99–646 provided that: “The amendment made by this section \[amending this section\] shall take effect on the 30th day after the date of the enactment of this Act \[Nov. 10, 1986\].”
+
+Section 78(b) of Pub. L. 99–646 provided that: “The amendment made by this section \[amending this section\] shall take effect on the 30th day after the date of the enactment of this Act \[Nov. 10, 1986\].”
+
+Section 79(b) of Pub. L. 99–646 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1986\].”
+
+#### Effective Date of 1984 Amendments
+
+Amendment by Pub. L. 98–596 applicable to offenses committed after Dec. 31, 1984, see section 10 of Pub. L. 98–596.
+
+Amendment by section 212(a)(3) of Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
+
+#### Effective Date
+
+Section effective with respect to offenses occurring after Jan. 1, 1983, see section 9(b)(2) of Pub. L. 97–291, set out as a note under section 1512 of this title.
+
+#### Profit by a Criminal From Sale of His Story
+
+Section 7 of Pub. L. 97–291 required the Attorney General to report, by Oct. 12, 1982, to Congress regarding any laws that are necessary to ensure that no Federal felon derives any profit from the sale of the recollections, thoughts, and feelings of such felon with regards to the offense committed by the felon until any victim of the offense receives restitution.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 43, 228, 2248, 2259, 2264, 2327, 3525, 3556, 3563, 3664 of this title; title 12 section 1831k.
+

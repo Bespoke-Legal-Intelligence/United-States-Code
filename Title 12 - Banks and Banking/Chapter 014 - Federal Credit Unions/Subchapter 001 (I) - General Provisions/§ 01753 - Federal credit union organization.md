@@ -1,0 +1,52 @@
+### §1753. Federal credit union organization
+
+Any seven or more natural persons who desire to form a Federal credit union shall each subscribe either individually or collectively before some officer competent to administer oaths an organization certificate in duplicate which shall specifically state:
+
+&emsp;(1) the name of the association;
+
+&emsp;(2) the location of the proposed Federal credit union and the territory in which it will operate;
+
+&emsp;(3) the names and addresses of the subscribers to the certificate and the number of shares subscribed by each;
+
+&emsp;(4) the initial par value of the shares;
+
+&emsp;(5) the proposed field of membership, specified in detail;
+
+&emsp;(6) the term of the existence of the corporation, which may be perpetual; and
+
+&emsp;(7) the fact that the certificate is made to enable such persons to avail themselves of the advantages of this chapter.
+
+> Such organization certificate may also contain any provisions approved by the Board for the management of the business of the association and for the conduct of its affairs and relative to the powers of its directors, officers, or stockholders.
+
+(June 26, 1934, ch. 750, title I, §103, formerly §3, 48 Stat. 1217; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; renumbered §4 and amended Sept. 22, 1959, Pub. L. 86–354, §1, 73 Stat. 628; Mar. 10, 1970, Pub. L. 91–206, §2(1), 84 Stat. 49; renumbered title I, §103, Oct. 19, 1970, Pub. L. 91–468, §1(2), 84 Stat. 994; amended Nov. 10, 1978, Pub. L. 95–630, title V, §502(b), 92 Stat. 3681; Oct. 15, 1982, Pub. L. 97–320, title V, §§503, 504, 96 Stat. 1528.)
+
+#### Amendments
+
+1982—Pub. L. 97–320, §503, substituted “each subscribe either individually or collectively” for “subscribe”.
+
+Par. (4). Pub. L. 97–320, §504, substituted “the initial par value of the shares” for “the par value of the shares, which shall be $5 each”.
+
+1978—Pub. L. 95–630 substituted “Board” for “Administrator”.
+
+1970—Pub. L. 91–206 substituted “Administrator” for “Director”.
+
+1959—Pub. L. 86–354 changed “The” to “the” in subsecs. (1) to (7) and the period to a semicolon in subsecs. (1) to (6) and inserted “and” at end of subsec. (6).
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
+
+#### Transfer of Functions
+
+Transfer of functions of Farm Credit Administration and Governor thereof, generally, see notes set out under section 1751 of this title.
+
+Functions of Governor of Farm Credit Administration under this section transferred to Federal Deposit Insurance Corporation by Reorg. Plan No. 1 of 1947.
+
+#### Cross References
+
+National Labor Relations Act not violated by employer's provision of facilities for operations of Federal Credit Union, see section 158a of Title 29, Labor.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1773 of this title.
+

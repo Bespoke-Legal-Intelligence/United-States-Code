@@ -1,0 +1,20 @@
+### §385d. Selection of family learning centers
+
+#### (a) Competitive process
+
+The Secretary shall select family learning centers on a competitive basis from among the local public libraries submitting applications under section 385c of this title. In making such selection, the Secretary shall give priority to applications which—
+
+&emsp;(1) promise to serve a significant number of families on a regular basis; and
+
+&emsp;(2) offer innovative approaches to improving library services for families and approaches which show promise for replication and dissemination.
+
+#### (b) Equitable distribution
+
+In making grants under this subchapter, the Secretary shall assure that there is an equitable distribution of grants among the States and between urban and rural communities.
+
+#### (c) Maximum grant
+
+No grant made under this subchapter for any fiscal year shall exceed $200,000.
+
+(June 19, 1956, ch. 407, title VIII, §805, as added Mar. 15, 1990, Pub. L. 101 254, §23(a), 104 Stat. 109.)
+

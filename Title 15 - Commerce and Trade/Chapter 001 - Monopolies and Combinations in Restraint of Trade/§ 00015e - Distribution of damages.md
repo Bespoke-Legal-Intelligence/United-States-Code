@@ -1,0 +1,20 @@
+### §15e. Distribution of damages
+
+Monetary relief recovered in an action under section 15c(a)(1) of this title shall—
+
+&emsp;(1) be distributed in such manner as the district court in its discretion may authorize; or
+
+&emsp;(2) be deemed a civil penalty by the court and deposited with the State as general revenues;
+
+> subject in either case to the requirement that any distribution procedure adopted afford each person a reasonable opportunity to secure his appropriate portion of the net monetary relief.
+
+(Oct. 15, 1914, ch. 323, §4E, as added Sept. 30, 1976, Pub. L. 94–435, title III, §301, 90 Stat. 1395.)
+
+#### Effective Date
+
+Injuries sustained prior to Sept. 30, 1976, not covered by this section, see section 304 of Pub. L. 94–435, set out as a note under section 15c of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 15g, 15h of this title.
+

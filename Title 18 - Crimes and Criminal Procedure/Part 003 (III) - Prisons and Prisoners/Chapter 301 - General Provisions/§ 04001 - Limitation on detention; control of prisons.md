@@ -1,0 +1,54 @@
+### §4001. Limitation on detention; control of prisons
+
+(a) No citizen shall be imprisoned or otherwise detained by the United States except pursuant to an Act of Congress.
+
+(b)(1) The control and management of Federal penal and correctional institutions, except military or naval institutions, shall be vested in the Attorney General, who shall promulgate rules for the government thereof, and appoint all necessary officers and employees in accordance with the civil-service laws, the Classification Act, as amended, and the applicable regulations.
+
+(2) The Attorney General may establish and conduct industries, farms, and other activities and classify the inmates; and provide for their proper government, discipline, treatment, care, rehabilitation, and reformation.
+
+(June 25, 1948, ch. 645, 62 Stat. 847; Sept. 25, 1971, Pub. L. 92–128, §1(a), (b), 85 Stat. 347.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1934 ed., §§741 and 753e (Mar. 3, 1891, ch. 529, §§1, 4, 26 Stat. 839; May 14, 1930, ch. 274, §6, 46 Stat. 326).
+
+This section consolidates said sections 741 and 753e with such changes of language as were necessary to effect consolidation.
+
+“The Classification Act, as amended,” was inserted more clearly to express the existing procedure for appointment of officers and employees as noted in letter of the Director of Bureau of Prisons, June 19, 1944.
+
+#### References in Text
+
+The civil-service laws, referred to in subsec. (b)(1), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
+
+The Classification Act, as amended, referred to in subsec. (b)(1), originally was the Classification Act of 1923, Mar. 4, 1923, ch. 265, 42 Stat. 1488, as amended, which was repealed by section 1202 of the Classification Act of 1949, Oct. 28, 1949, ch. 782, 63 Stat. 972. Section 1106(a) of the 1949 Act provided that references in other laws to the Classification Act of 1923 shall be held and considered to mean the Classification Act of 1949. The Classification Act of 1949 was in turn repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as chapter 51 and subchapter III of chapter 53 of Title 5.
+
+#### Amendments
+
+1971—Pub. L. 92–128, §1(b), substituted “Limitation on detention; control of prisons” for “Control by Attorney General” in section catchline.
+
+Subsec. (a). Pub. L. 92–128, §1(a), added subsec. (a).
+
+Subsec. (b). Pub. L. 92–128, §1(a), designated existing first and second pars. as pars. (1) and (2) of subsec. (b).
+
+#### Fee To Recover Cost of Incarceration
+
+Pub. L. 102–395, title I, §111(a), Oct. 6, 1992, 106 Stat. 1842, provided that:
+
+“(1) For fiscal year 1993 and thereafter the Attorney General shall establish and collect a fee to cover the costs of confinement from any person convicted in a United States District Court and committed to the Attorney General's custody.
+
+“(2) Such fee shall be equivalent to the average cost of one year of incarceration, and the Attorney General shall credit or rebate a prorated portion of the fee with respect to any such person incarcerated for 334 days or fewer in a given fiscal year.
+
+“(3) The calculation of the number of days of incarceration in a given fiscal year for the purpose of such fee shall include time served prior to conviction.
+
+“(4) The Attorney General shall not collect such fee from any person with respect to whom a fine was imposed or waived by a judge of a United States District Court pursuant to section 5E1.2(f) and (i) of the United States Sentencing Guidelines, or any successor provisions.
+
+“(5) In cases in which the Attorney General has authority to collect the fee, the Attorney General shall have discretion to waive the fee or impose a lesser fee if the person under confinement establishes that (1) he or she is not able and, even with the use of a reasonable installment schedule, is not likely to become able to pay all or part of the fee, or (2) imposition of a fine would unduly burden the defendant's dependents.
+
+“(6) For fiscal year 1993 only, fees collected in accordance with this section shall be deposited as offsetting receipts to the Treasury.
+
+“(7) For fiscal year 1994 and thereafter, fees collected in accordance with this section shall be deposited as offsetting collections to the appropriation Federal Prison System, ‘Salaries and expenses’, and shall be available, inter alia, to enhance alcohol and drug abuse prevention programs.”
+
+#### Use of Inactive Department of Defense Facilities as Prisons
+
+Pub. L. 95–624, §9, Nov. 9, 1978, 92 Stat. 3463, provided that: “The Attorney General shall consult with the Secretary of Defense in order to develop a plan to assure that such suitable facilities as the Department of Defense operates which are not in active use shall be made available for operation by the Department of Justice for the confinement of United States prisoners. Such plan shall provide for the return to the management of the Department of Defense of any such facility upon a finding by the Secretary of Defense that such return is necessary to the operation of the Department.”
+

@@ -1,0 +1,92 @@
+### §104. Invention made abroad
+
+(a)
+
+In General.—In proceedings in the Patent and Trademark Office, in the courts, and before any other competent authority, an applicant for a patent, or a patentee, may not establish a date of invention by reference to knowledge or use thereof, or other activity with respect thereto, in a foreign country other than a NAFTA country, except as provided in sections 119 and 365 of this title. Where an invention was made by a person, civil or military, while domiciled in the United States or a NAFTA country and serving in any other country in connection with operations by or on behalf of the United States or a NAFTA country, the person shall be entitled to the same rights of priority in the United States with respect to such invention as if such invention had been made in the United States or a NAFTA country. To the extent that any information in a NAFTA country concerning knowledge, use, or other activity relevant to proving or disproving a date of invention has not been made available for use in a proceeding in the Office, a court, or any other competent authority to the same extent as such information could be made available in the United States, the Commissioner, court, or such other authority shall draw appropriate inferences, or take other action permitted by statute, rule, or regulation, in favor of the party that requested the information in the proceeding.
+
+(b)
+
+Definition.—As used in this section, the term “NAFTA country” has the meaning given that term in section 2(4) of the North American Free Trade Agreement Implementation Act.
+
+(July 19, 1952, ch. 950, 66 Stat. 798; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949; Nov. 14, 1975, Pub. L. 94–131, §6, 89 Stat. 691; Nov. 8, 1984, Pub. L. 98–622, title IV, §403(a), 98 Stat. 3392; Dec. 8, 1993, Pub. L. 103–182, title III, §331, 107 Stat. 2113; Dec. 8, 1994, Pub. L. 103–465, title V, §531(a), 108 Stat. 4982.)
+
+#### Amendment of Section
+
+<i>Pub. L. 103–465, title V, §531, Dec. 8, 1994, 108 Stat. 4982, provided that, applicable to all patent applications that are filed on or after date that is 12 months after date of entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\], with provisions relating to establishment of date of invention, this section is amended to read as follows:</i>
+
+#### §104. Invention made abroad
+
+(a) In General.—
+
+&emsp;(1) Proceedings.—In proceedings in the Patent and Trademark Office, in the courts, and before any other competent authority, an applicant for a patent, or a patentee, may not establish a date of invention by reference to knowledge or use thereof, or other activity with respect thereto, in a foreign country other than a NAFTA country or a WTO member country, except as provided in sections 119 and 365 of this title.
+
+&emsp;(2) Rights.—If an invention was made by a person, civil or military—
+
+&emsp;&emsp;(A) while domiciled in the United States, and serving in any other country in connection with operations by or on behalf of the United States,
+
+&emsp;&emsp;(B) while domiciled in a NAFTA country and serving in another country in connection with operations by or on behalf of that NAFTA country, or
+
+&emsp;&emsp;(C) while domiciled in a WTO member country and serving in another country in connection with operations by or on behalf of that WTO member country,
+
+> &emsp;that person shall be entitled to the same rights of priority in the United States with respect to such invention as if such invention had been made in the United States, that NAFTA country, or that WTO member country, as the case may be.
+
+&emsp;(3) Use of information.—To the extent that any information in a NAFTA country or a WTO member country concerning knowledge, use, or other activity relevant to proving or disproving a date of invention has not been made available for use in a proceeding in the Patent and Trademark Office, a court, or any other competent authority to the same extent as such information could be made available in the United States, the Commissioner, court, or such other authority shall draw appropriate inferences, or take other action permitted by statute, rule, or regulation, in favor of the party that requested the information in the proceeding.
+
+(b) Definitions.—As used in this section—
+
+&emsp;(1) the term “NAFTA country” has the meaning given that term in section 2(4) of the North American Free Trade Agreement Implementation Act; and
+
+&emsp;(2) the term “WTO member country” has the meaning given that term in section 2(10) of the Uruguay Round Agreements Act.
+
+#### Historical and Revision Notes
+
+Based on Title 35, U.S.C., 1946 ed., §109 (Aug. 8, 1946, ch. 910, 60 Stat. 943).
+
+Language has been changed and the last sentence has been broadened to refer to persons serving in connection with operations by or on behalf of the United States, instead of solely in connection with the prosecution of the war.
+
+#### References in Text
+
+Section 2(4) of the North American Free Trade Agreement Implementation Act, referred to in subsec. (b), is classified to section 3301(4) of Title 19, Customs Duties.
+
+#### Amendments
+
+1993—Pub. L. 103–182 amended section catchline and text generally. Prior to amendment, text read as follows: “In proceedings in the Patent and Trademark Office and in the courts, an applicant for a patent, or a patentee, may not establish a date of invention by reference to knowledge or use thereof, or other activity with respect thereto, in a foreign country, except as provided in sections 119 and 365 of this title. Where an invention was made by a person, civil or military,while domiciled in the United States and serving in a foreign country in connection with operations by or on behalf of the United States, he shall be entitled to the same rights of priority with respect to such invention as if the same had been made in the United States.”
+
+1984—Pub. L. 98–622 substituted “Patent and Trademark Office” for “Patent Office”.
+
+1975—Pub. L. 94–131 inserted in exception provision reference to section 365 of this title relating to priority of applications having benefit of filing date of prior applications.
+
+Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+
+#### Effective Date of 1994 Amendment
+
+Section 531(b) of Pub. L. 103–465 provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendment made by this section \[amending this section\] shall apply to all patent applications that are filed on or after the date that is 12 months after the date of entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\].
+
+“(2)
+
+Establishment of date.—An applicant for a patent, or a patentee, may not establish a date of invention for purposes of title 35, United States Code, that is earlier than 12 months after the date of entry into force of the WTO Agreement with respect to the United States by reference to knowledge or use, or other activity, in a WTO member country, except as provided in sections 119 and 365 of such title.”
+
+#### Effective Date of 1993 Amendment
+
+Amendment by Pub. L. 103–182 applicable to all patent applications filed on or after Dec. 8, 1993, provided that applicant for a patent, or a patentee, may not establish a date of invention by reference to knowledge or use thereof, or other activity with respect thereto, in NAFTA country, except as provided in sections 119 and 365 of this title, that is earlier than Dec. 8, 1993, see section 335(b) of Pub. L. 103–182, set out as a note under section 1052 of Title 15, Commerce and Trade.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–622 effective on Nov. 8, 1984, see section 406(a) of Pub. L. 98–622, set out as a note under section 351 of this title.
+
+#### Effective Date of 1975 Amendments
+
+Amendment by Pub. L. 94–131 effective Jan. 24, 1978, and applicable on and after that date to patent applications filed in the United States and to international applications, where applicable, see section 11 of Pub. L. 94–131, set out as an Effective Date note under section 351 of this title.
+
+Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
+
+#### Cross References
+
+Benefit of filing date in foreign country, see section 119 of this title.
+
+Filing application in foreign country, see section 184 of this title.
+

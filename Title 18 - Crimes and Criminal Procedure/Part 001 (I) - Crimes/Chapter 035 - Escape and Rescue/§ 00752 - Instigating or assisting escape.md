@@ -1,0 +1,58 @@
+### §752. Instigating or assisting escape
+
+(a) Whoever rescues or attempts to rescue or instigates, aids or assists the escape, or attemptto escape, of any person arrested upon a warrant or other process issued under any law of the United States, or committed to the custody of the Attorney General or to any institution or facility by his direction, shall, if the custody or confinement is by virtue of an arrest on a charge of felony, or conviction of any offense, be fined not more than $5,000 or imprisoned not more than five years, or both; or, if the custody or confinement is for extradition, or for exclusion or expulsion proceedings under the immigration laws, or by virtue of an arrest or charge of or for a misdemeanor, and prior to conviction, be fined under this title or imprisoned not more than one year, or both.
+
+(b) Whoever rescues or attempts to rescue or instigates, aids, or assists the escape or attempted escape of any person in the custody of the Attorney General or his authorized representative, or of any person arrested upon a warrant or other process issued under any law of the United States or from any institution or facility in which he is confined by direction of the Attorney General, shall, if the custody or confinement is by virtue of a lawful arrest for a violation of any law of the United States not punishable by death or life imprisonment and committed before such person's eighteenth birthday, and as to whom the Attorney General has not specifically directed the institution of criminal proceedings, or by virtue of a commitment as a juvenile delinquent under section 5034 of this title, be fined under this title or imprisoned not more than one year, or both.
+
+(June 25, 1948, ch. 645, 62 Stat. 735; May 28, 1956, ch. 331, 70 Stat. 216; Dec. 30, 1963, Pub. L. 88–251, §2, 77 Stat. 834; Sept. 10, 1965, Pub. L. 89–176, §3, 79 Stat. 675; Nov. 18, 1988, Pub. L. 100–690, title VII, §7055, 102 Stat. 4402; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §§246, 247, 252, 661, 662c, 753i, 910 (R.S. §5277; Mar. 4, 1909, ch. 321, §§141, 143, 35 Stat. 1114; May 14, 1930, ch. 274, §10, 46 Stat. 327; May 27, 1930, ch. 339, §10, 46 Stat. 390; Mar. 22, 1934, ch. 73, §2, 48 Stat. 455; May 18, 1934, ch. 303, §1, 48 Stat. 782).
+
+Section consolidated escape and rescue provisions of sections 246, 247, 252, 661, 662c, 753i, and 910 of title 18, U.S.C., 1940 ed. Remaining provisions of those sections are in sections 1071, 1072, 1502, 1792, 3183, and 3195 of this title.
+
+No two sections provided the same punishment. Every section except said section 252 made the offense a misdemeanor by providing for fines varying from $500 to $1,000 and terms of imprisonment varying from 6 months to 1 year. Said section 252, representing the latest expression by Congress, provided for 10 years’ imprisonment.
+
+The punishment provision was adopted from section 751 of this title, which makes it unlawful for a prisoner to escape from his place of confinement. Thus the same punishment would apply to the person aiding in an escape as to the person escaping.
+
+The language of this section reconciles the conflict by adopting a penalty which is a compromise between the varying provisions.
+
+Reference to “extradition” was inserted to avoid ambiguity and to harmonize section with section 751 of this title.
+
+References to “force” were omitted as well as those to “officer” or “custody.” See definition of “Rescue,” Black's Law Dictionary, citing 4 Bl. Comm. 131.
+
+Changes were made in phraseology.
+
+#### Amendments
+
+1994—Subsecs. (a), (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+
+1988—Subsec. (a). Pub. L. 100–690 inserted “, or for exclusion or expulsion proceedings under the immigration laws,” after “extradition”.
+
+1965—Pub. L. 89–176 inserted “or facility” after “institution”.
+
+1963—Pub. L. 88–251 designated existing provisions as subsec. (a) and added subsec. (b).
+
+1956—Act May 28, 1956, inserted “, or attempt to escape,” after “escape”.
+
+#### Canal Zone
+
+Applicability of section to Canal Zone, see section 14 of this title.
+
+#### Cross References
+
+Arrests by Bureau of Prisons employees, see section 3050 of this title.
+
+Civil commitment and rehabilitation of narcotic addicts, penalties for escape or rescue from custody, see section 2902 of Title 28, Judiciary and Judicial Procedure.
+
+Concealing or harboring an escaped prisoner, see section 1072 of this title.
+
+Introducing dangerous instrumentalities into prisons, see section 1792 of this title.
+
+Rescue of goods, see section 2233 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 14, 3050 of this title; title 28 section 2902; title 42 section 3425.
+

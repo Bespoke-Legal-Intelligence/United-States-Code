@@ -1,0 +1,104 @@
+### §1405. Years of service
+
+(a)
+
+In General.—For the purposes of the computation of the years of service of a member ofthe armed forces under a provision of this title providing for such computation to be made under this section, the years of service of the member are computed by adding—
+
+&emsp;(1) his years of active service;
+
+&emsp;(2) the years of service, not included in clause (1), with which he was entitled to be credited on May 31, 1958, in computing his basic pay; and
+
+&emsp;(3) the years of service, not included in clause (1) or (2), with which he would be entitled to be credited under section 12733 of this title if he were entitled to retired pay under section 12731 of this title.
+
+(b)
+
+Fractional Years of Service.—In determining a member's years of service under subsection (a)—
+
+&emsp;(1) each full month of service that is in addition to the number of full years of service creditable to the member shall be credited as 1/12 of a year; and
+
+&emsp;(2) any remaining fractional part of a month shall be disregarded.
+
+(c)
+
+Exclusion of Time Required To Be Made Up.—Time required to be made up by an enlisted member of the Army or Air Force under section 972 of this title may not be counted in determining years of service under subsection (a).
+
+(Added Pub. L. 85–422, §11(a)(1)(A), May 20, 1958, 72 Stat. 130; amended Pub. L. 85–861, §1(31A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–649, §6(f)(4), Sept. 7, 1962, 76 Stat. 494; Pub. L. 87–651, title I, §109, Sept. 7, 1962, 76 Stat. 509; Pub. L. 90–130, §1(7), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title I, §113(b), Dec. 12, 1980, 94 Stat. 2877; Pub. L. 97–295, §1(17), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 99–348, title I, §106, July 1, 1986, 100 Stat. 691; Pub. L. 103–337, div. A, title VI, §635(d), title XVI, §1662(j)(3), Oct. 5, 1994, 108 Stat. 2789, 3004.)
+
+Historical and Revision Notes<br>1958
+
+Act
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+1405
+
+\[No source\].
+
+\[No source\].
+
+The amendment reflects section 11 of the Act of May 20, 1958, Pub. L. 85–422 (72 Stat. 130).
+
+#### 1962 Act
+
+The change corrects a typographical error.
+
+#### 1982 Act
+
+This amends 10:1405 to correct an inadvertent error in the codification of title 10 in 1956 relating to retirement pay of warrant officers advanced on the retired list. Under provisions of law first enacted in 1948 through the codification of title 10 in 1956 and until 1965, warrant officers advanced on the retired list received credit for inactive service in the computation of retirement pay. The Comptroller General in 1965 (B–156576) held in effect that computation of such retirement pay was governed by the wording of new title 10 that based the computation on years of active service only even though this had the result of making a substantive change. The Armed Services Committee of the House of Representatives concurs that an error was made in the codification of title 10 and has indicated that corrective legislative action is properly a responsibility of the House Judiciary Committee. See, also, the amendments to 10:3992 and 8992 made by sections 1(40) and 1(52), respectively.
+
+#### Amendments
+
+1994—Subsec. (a)(3). Pub. L. 103–337, §1662(j)(3), substituted “12733” for “1333” and “12731” for “1331”.
+
+Subsec. (c). Pub. L. 103–337, §635(d), added subsec. (c).
+
+1986—Pub. L. 99–348 designated existing provision as subsec. (a), inserted heading, and in provision preceding par. (1) substituted “the computation of the years of service of a member of the armed forces under a provision of this title providing for such computation to be made under this section, the years of service of the member” for “section 1401 (formulas 4 and 5), 3991 (formula A), 3992 (formula B), 6151(b), 6323(e), 6325(a)(2) and (b)(2), 6383(c)(2), 8991 (formula A), or 8992 (formula B) of this title, the years of service of a member of the armed forces”, and added subsec. (b).
+
+1982—Pub. L. 97–295, §1(17), substituted “3991 (formula A), 3992 (formula B)” for “3991 (formula B)”, struck out “or” first time appearing, and substituted “8991 (formula A), or 8992 (formula B)” for “8991 (formula B)”.
+
+1980—Pub. L. 96–513 struck out provisions that permitted the crediting of certain periods of constructive service in computing the retired pay of medical and dental officers and provided that members would compute their years of service for retirement pay by adding (1) years of active service, (2) years of service not otherwise counted with which the member was entitled to be credited on May 31, 1958, and (3) years of service not otherwise counted with which he would be credited under section 1333 if he were entitled to retired pay under section 1331.
+
+1967—Pub. L. 90–130 struck out references to section 6399(c)(2) of this title.
+
+1962—Pub. L. 87–651 struck out references to sections 6391(h) and 6394(g)(2) of this title and inserted a reference to section 6394(h) of this title.
+
+Pub. L. 87–649 substituted “section 205(a)(7) and (8) of title 37” for “section 233(a)(7) of title 37” in cl. (2).
+
+1958—Pub. L. 85–861 inserted references to sections 6323(e) and 6391(h) of this title.
+
+#### Effective Date of 1994 Amendment
+
+Section 635(e) of Pub. L. 103–337 provided that: “This section \[amending this section and sections 3925, 3991, 3992, 6333, 8925, 8991, and 8992 of this title\] shall apply to—
+
+&emsp;“(1) the computation of the retired pay of any enlisted member who retires on or after the date of the enactment of this Act \[Oct. 5, 1994\];
+
+&emsp;“(2) the computation of the retainer pay of any enlisted member who is transferred to the Fleet Reserve or the Fleet Marine Corps Reserve on or after the date of the enactment of this Act; and
+
+&emsp;“(3) the recomputation of the retired pay of any enlisted member who is advanced on the retired list on or after the date of the enactment of this Act.”
+
+Amendment by section 1662(j)(3) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Effective Date of 1962 Amendment
+
+Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
+
+#### Effective Date
+
+Section effective June 1, 1958, see section 9 of Pub. L. 85–422.
+
+#### Transition Provisions Under Defense Officer Personnel Management Act
+
+For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedingsthat existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1175, 1401, 3991, 3992, 6151, 6333, 6334 of this title; title 14 section 423; title 33 section 853<i>o.</i>
+

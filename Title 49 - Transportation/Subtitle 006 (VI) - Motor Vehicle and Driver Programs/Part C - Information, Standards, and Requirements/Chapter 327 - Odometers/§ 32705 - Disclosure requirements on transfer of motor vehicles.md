@@ -1,0 +1,190 @@
+### §32705. Disclosure requirements on transfer of motor vehicles
+
+(a)
+
+Written Disclosure Requirements.—(1) Under regulations prescribed by the Secretary of Transportation, a person transferring ownership of a motor vehicle shall give the transferee a written disclosure—
+
+&emsp;(A) of the cumulative mileage registered by the odometer; or
+
+&emsp;(B) that the mileage is unknown if the transferor knows that the mileage registered by the odometer is incorrect.
+
+(2) A person making a written disclosure required by a regulation prescribed under paragraph (1) of this subsection may not make a false statement in the disclosure.
+
+(3) A person acquiring a motor vehicle for resale may accept a disclosure under this section only if it is complete.
+
+(4) The regulations prescribed by the Secretary shall provide the way in which information is disclosed and retained under this section.
+
+(b)
+
+Mileage Statement Requirement for Licensing.—(1) A motor vehicle the ownership of which is transferred may not be licensed for use in a State unless the transferee, in submitting an application to a State for the title on which the license will be issued, includes with the application the transferor's title and, if that title contains the space referred to in paragraph (3)(A)(iii) of this subsection, a statement, signed and dated by the transferor, of the mileage disclosure required under subsection (a) of this section. This paragraph does not apply to a transfer of ownership of a motor vehicle that has not been licensed before the transfer.
+
+(2)(A) Under regulations prescribed by the Secretary, if the title to a motor vehicle issued to a transferor by a State is in the possession of a lienholder when the transferor transfers ownership of the vehicle, the transferor may use a written power of attorney (if allowed by State law) in making the mileage disclosure required under subsection (a) of this section. Regulations prescribed under this paragraph—
+
+&emsp;(i) shall prescribe the form of the power of attorney;
+
+&emsp;(ii) shall provide that the form be printed by means of a secure printing process (or other secure process);
+
+&emsp;(iii) shall provide that the State issue the form to the transferee;
+
+&emsp;(iv) shall provide that the person exercising the power of attorney retain a copy and submit the original to the State with a copy of the title showing the restatement of the mileage;
+
+&emsp;(v) may require that the State retain the power of attorney and the copy of the title for an appropriate period or that the State adopt alternative measures consistent with section 32701(b) of this title, after considering the costs to the State;
+
+&emsp;(vi) shall ensure that the mileage at the time of transfer be disclosed on the power of attorney document;
+
+&emsp;(vii) shall ensure that the mileage be restated exactly by the person exercising the power of attorney in the space referred to in paragraph (3)(A)(iii) of this subsection;
+
+&emsp;(viii) may not require that a motor vehicle be titled in the State in which the power of attorney was issued;
+
+&emsp;(ix) shall consider the need to facilitate normal commercial transactions in the sale or exchange of motor vehicles; and
+
+&emsp;(x) shall provide other conditions the Secretary considers appropriate.
+
+(B) Section 32709(a) and (b) applies to a person granting or granted a power of attorney under this paragraph.
+
+(3)(A) A motor vehicle the ownership of which is transferred may be licensed for use in a State only if the title issued by the State to the transferee—
+
+&emsp;(i) is produced by means of a secure printing process (or other secure process);
+
+&emsp;(ii) indicates the mileage disclosure required to be made under subsection (a) of this section; and
+
+&emsp;(iii) contains a space for the transferee to disclose the mileage at the time of a future transfer and to sign and date the disclosure.
+
+(B) Subparagraph (A) of this paragraph does not require a State to verify, or preclude a State from verifying, the mileage information contained in the title.
+
+(c)
+
+Leased Motor Vehicles.—(1) For a leased motor vehicle, the regulations prescribed under subsection (a) of this section shall require written disclosure about mileage to be made by the lessee to the lessor when the lessor transfers ownership of that vehicle.
+
+(2) Under those regulations, the lessor shall provide written notice to the lessee of—
+
+&emsp;(A) the lessee's mileage disclosure requirements under paragraph (1) of this subsection; and
+
+&emsp;(B) the penalties for failure to comply with those requirements.
+
+(3) The lessor shall retain the disclosures made by a lessee under paragraph (1) of this subsection for at least 4 years following the date the lessor transfers the leased motor vehicle.
+
+(4) If the lessor transfers ownership of a leased motor vehicle without obtaining possession of the vehicle, the lessor, in making the disclosure required by subsection (a) of this section, may indicate on the title the mileage disclosed by the lessee under paragraph (1) of this subsection unless the lessor has reason to believe that the disclosure by the lessee does not reflect the actual mileage of the vehicle.
+
+(d)
+
+State Alternate Vehicle Mileage Disclosure Requirements.—The requirements of subsections (b) and (c)(1) of this section on the disclosure of motor vehicle mileage when motor vehicles are transferred or leased apply in a State unless the State has in effect alternate motor vehicle mileage disclosure requirements approved by the Secretary. The Secretary shall approve alternate motor vehicle mileage disclosure requirements submitted by a State unless the Secretary decides that the requirements are not consistent with the purpose of the disclosure required by subsection (b) or (c), as the case may be.
+
+(e)
+
+Auction Sales.—If a motor vehicle is sold at an auction, the auction company conducting the auction shall maintain the following records for at least 4 years after the date of the sale:
+
+&emsp;(1) the name of the most recent owner of the motor vehicle (except the auction company) and the name of the buyer of the motor vehicle.
+
+&emsp;(2) the vehicle identification number required under chapter 301 or 331 of this title.
+
+&emsp;(3) the odometer reading on the date the auction company took possession of the motor vehicle.
+
+(f)
+
+Application and Revision of State Law.—(1) Except as provided in paragraph (2) of this subsection, subsections (b)–(e) of this section apply to the transfer of a motor vehicle after April 28, 1989.
+
+(2) If a State requests, the Secretary shall assist the State in revising its laws to comply with subsection (b) of this section. If a State requires time beyond April 28, 1989, to revise its laws to achieve compliance, the Secretary, on request of the State, may grant additional time that the Secretary considers reasonable by publishing a notice in the Federal Register. The notice shall include the reasons for granting the additional time. In granting additional time, the Secretary shall ensure that the State is making reasonable efforts to achieve compliance.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1049; Pub. L. 103–429, §6(34), Oct. 31, 1994, 108 Stat. 4380.)
+
+Historical and Revision Notes
+
+Pub. L. 103–272
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+32705(a)
+
+15:1988(a).
+
+Oct. 20, 1972, Pub. L. 92–513, §408(a), 86 Stat. 962.
+
+&nbsp;
+
+15:1988(b) (related to false statements).
+
+Oct. 20, 1972, Pub. L. 92–513, §408(b) (related to false statements), 86 Stat. 963; restated July 14, 1976, Pub. L. 94–364, §406, 90 Stat. 983.
+
+&nbsp;
+
+15:1988(c).
+
+Oct. 20, 1972, Pub. L. 92–513, §408(c), 86 Stat. 963; restated July 14, 1976, Pub. L. 94–364, §406, 90 Stat. 984.
+
+32705(b)(1)
+
+15:1988(d)(1)(A), (B).
+
+Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §408(d)(1)(A), (B), (2)–(g); added Oct. 28, 1986, Pub. L. 99–579, §2(a), 100 Stat. 3309.
+
+32705(b)(2)
+
+15:1988(d)(1)(C).
+
+Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §408(d)(1)(C); added Oct. 31, 1988, Pub. L. 100–561, §401, 102 Stat. 2817; Nov. 28, 1990, Pub. L. 101–641, §7(a), 104 Stat. 4657.
+
+&nbsp;
+
+15:1988 (note).
+
+Nov. 28, 1990, Pub. L. 101–641, §7(b) (last sentence), 104 Stat. 4657.
+
+32705(b)(3)
+
+15:1988(d)(2).
+
+32705(c)
+
+15:1988(e).
+
+32705(d)
+
+15:1988(f).
+
+32705(e)
+
+15:1988(g).
+
+32705(f)
+
+15:1988 (note).
+
+Oct. 28, 1986, Pub. L. 99–579, §2(c), 100 Stat. 3310.
+
+In subsection (a)(1), before clause (A), the words “Not later than 90 days after October 20, 1972” are omitted as executed. In clause (B), the words “if the transferor knows that the mileage registered by the odometer is incorrect” are substituted for “if the odometer reading is known to the transferor to be different from the number of miles the vehicle has actually traveled” to eliminate unnecessary words.
+
+In subsection (b)(2)(A), before clause (i), the words “Under regulations prescribed by the Secretary” are substituted for “prescribed by rule by the Secretary” for consistency in the revised title and because “rule” is synonymous with “regulation”. The words “to a transferor” are added for clarity. The words “before February 1, 1989” are omitted as expired. The words “in the possession of” are substituted for “physically held by”, and the words “when the transferor transfers ownership of the vehicle” are substituted for “at the time of a transfer of such motor vehicle”, for clarity and consistency. The words “the transferor may” are substituted for “nothing in this subsection shall be construed to prohibit” for clarity and to eliminate unnecessary words. Clause (i) is substituted for “in a form” and clause (ii) is substituted for “in accordance with paragraph (2)(A)(i)” for clarity and consistency. In clause (iii), the words “consistent with the purposes of this Act and the need to facilitate enforcement thereof” are omitted as surplus. In clauses (iv), (v), (viii), and (ix), the amendment made by section 7(a) of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4657) is restated as amending section 408(d)(1)(C) of the Motor Vehicle and Cost Savings Act (15 U.S.C. 1988(d)(1)(C)) instead of section 408(d)(2)(C) of that Act to reflect the probable intent of Congress. There is no section 408(d)(2)(C) in that Act. Clause (vii) is substituted for “and under reasonable conditions” for clarity and consistency.
+
+In subsection (b)(3)(A), before clause (i), the words “following such transfer” are omitted as surplus. In clause (i), the word “produced” is substituted for “set forth” for clarity. In clause (iii), the words “(in the event of a future transfer)” are omitted as surplus.
+
+In subsection (d), the text of 15:1988(f)(1) (last sentence) is omitted as surplus because of 49:322(a).
+
+In subsection (e), before clause (1), the words “establish and” are omitted as executed.
+
+In subsection (f)(1), the text of section 2(c)(3) of the Truth in Mileage Act of 1986 (Public Law 99–579, 100 Stat. 3311) is omitted as surplus.
+
+#### Pub. L. 103–429
+
+This amends 49:32705(c)(2)(A) to clarify the restatement of 15:1988(e)(2)(A) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1051).
+
+#### Amendments
+
+1994—Subsec. (c)(2)(A). Pub. L. 103–429 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the mileage disclosure requirements of subsection (a) of this section; and”.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Regulations
+
+Section 4(q) of Pub. L. 103–272 provided that: “The revision of regulations, referred to in section 32705(b)(2)(A) of title 49, United States Code, as enacted by section 1 of this Act, that is required by section 7 of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4657) \[former 15 U.S.C. 1988(d)(1)(C), 1988 note\] shall be prescribed not later than May 28, 1991.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 30502, 32703 of this title.
+

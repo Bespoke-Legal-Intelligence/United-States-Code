@@ -1,0 +1,120 @@
+### §403b. Cost-of-living allowance in the continental United States
+
+(a)
+
+Payment Authorized.—The Secretary concerned may pay a cost-of-living allowance to the eligible members of a uniformed service under the jurisdiction of the Secretary.
+
+(b)
+
+Eligible Members.—The following members are eligible to receive a cost-of-living allowance under this section:
+
+&emsp;(1) A member assigned to a high cost area in the continental United States.
+
+&emsp;(2) A member assigned to an unaccompanied tour of duty outside the continental United States if the primary dependent of the member resides in a high cost area in the continental United States.
+
+&emsp;(3) A member assigned to duty in the continental United States if the Secretary of the uniformed service concerned determines that—
+
+&emsp;&emsp;(A) the primary dependent of the member must reside in a high cost area in the continental United States by reason of the member's duty location or other circumstances; and
+
+&emsp;&emsp;(B) it would be inequitable for the member's eligibility for the allowance to be determined on the basis of the duty location of the member.
+
+(c)
+
+High Cost Area Defined.—An area is a high cost area for a fiscal year for purposes of this section if the uniformed services cost of living for that area for the base period exceeds the average cost of living in the continental United States for such base period by at least the threshold percentage. The Secretary of Defense, in consultation with the other administering Secretaries, shall establish the threshold percentage, except that the threshold percentage may not be less than 8 percent. The administering Secretaries shall prescribe a higher threshold percentage to be applied for a fiscal year when it is necessary to do so in order to ensure that the total amount of the payments of the cost-of-living allowance made to members of the uniformed services under this section for such fiscal year does not exceed the total amount available to all uniformed services for that fiscal year for paying such allowance.
+
+(d)
+
+Amount of Allowance.—The cost-of-living allowance that may be paid to a member for a high cost area for a fiscal year shall be the amount that is equal to the product of—
+
+&emsp;(1) the amount of the average spendable income determined applicable for the regular military compensation level of such member under subsection (g); and
+
+&emsp;(2) the percentage equal to the excess of—
+
+&emsp;&emsp;(A) the percentage by which the uniformed services cost of living for the member's high cost area for the base period exceeds the average cost of living in the continental United States for such base period, over
+
+&emsp;&emsp;(B) the threshold percentage applicable to such fiscal year under subsection (c).
+
+(e)
+
+Limitation to One Allowance.—If primary dependents of a member reside separately in different high cost areas—
+
+&emsp;(1) the member may be paid only one cost-of-living allowance under this section; and
+
+&emsp;(2) the cost-of-living allowance payable to the member shall be the highest of the amounts computed under this section for such high cost areas.
+
+(f)
+
+Service Not Covered.—(1) A cost-of-living allowance may not be paid a member under this section for the days authorized for travel of the member in connection with a permanent change of duty station.
+
+(2) A member of a reserve component is not eligible for a cost-of-living allowance under this section unless the member is on active duty under a call or order to active duty that—
+
+&emsp;(A) specifies a period of 140 days or more; or
+
+&emsp;(B) states that the call or order to active duty is in support of a contingency operation.
+
+(g)
+
+Average Spendable Income.—The Secretary of Defense shall determine, using a methodology and assumptions that the Secretary considers appropriate, the amounts of average spendable income of members of the uniformed services for various ranges of regular military compensation. For purposes of this subsection, spendable income is the total amount of regular military compensation that is available for purchase of goods and services after allocation of amounts for taxes, insurance, housing, gifts and contributions, and savings.
+
+(h)
+
+Joint Regulations.—The Secretary of Defense and the other administering Secretaries shall jointly prescribe regulations to carry out this section.
+
+(i)
+
+Other Definitions.—In this section:
+
+&emsp;(1) The term “primary dependent”, with respect to a member, means—
+
+&emsp;&emsp;(A) the member's spouse; or
+
+&emsp;&emsp;(B) in the case of an unmarried member, a dependent described in paragraph (2) or (4) of section 401(a) of this title.
+
+&emsp;(2) The term “cost of living” means a price index selected by the Secretary of Defense, in consultation with the other administering Secretaries, from among the following indices:
+
+&emsp;&emsp;(A) The Consumer Price Index (all items–United States city average) published monthly by the Bureau of Labor Statistics.
+
+&emsp;&emsp;(B) Any other index developed in the private sector that the Secretary of Defense, in consultation with the other administering Secretaries, determines is comparable to the Consumer Price Index and is appropriate for use for purposes of this section.
+
+&emsp;(3) The term “uniformed services cost of living” means the price index selected as described in paragraph (2) and adjusted as the Secretary of Defense, in consultation with the other administering Secretaries, considers appropriate to reflect variations between expenses of members of the uniformed services (as offset by the basic allowance for subsistence) and the corresponding expenses of persons not members of the uniformed services with regard to the following:
+
+&emsp;&emsp;(A) Nonhousing costs (including costs of transportation, goods, and services, taking into consideration savings attributable to use of such military facilities as commissary stores and exchange stores).
+
+&emsp;&emsp;(B) Average income tax paid.
+
+&emsp;&emsp;(C) Cost of health care.
+
+&emsp;(4) The term “base period”, with respect to a fiscal year, means the 12-month period ending on June 30 of the year in which such fiscal year begins.
+
+&emsp;(5) The term “administering Secretaries” means the following:
+
+&emsp;&emsp;(A) The Secretary of Defense, with respect to the armed forces (other than the CoastGuard when it is not operating as a service in the Navy).
+
+&emsp;&emsp;(B) The Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy.
+
+&emsp;&emsp;(C) The Secretary of Commerce, with respect to the National Oceanic and Atmospheric Administration.
+
+&emsp;&emsp;(D) The Secretary of Health and Human Services, with respect to the Public Health Service.
+
+&emsp;(6) The term “continental United States” means the 48 contiguous States and the District of Columbia.
+
+(Added Pub. L. 103–337, div. A, title VI, §602(a)(1), Oct. 5, 1994, 108 Stat. 2779.)
+
+#### Conditions on Provision of Allowance
+
+Section 602(b) of Pub. L. 103–337 provided that:
+
+“(1) A cost-of-living allowance under section 403b of title 37, United States Code, as added by subsection (a), may not be provided until after the end of the 90-day period beginning on the date the Secretary of Defense submits the report required under paragraph (2).
+
+“(2) Before implementing section 403b of title 37, United States Code, the Secretary of Defense, in consultation with the other administering Secretaries (as defined in subsection (h)(6) of such section), shall submit to Congress a report describing—
+
+&emsp;“(A) the methods by which the Secretary of Defense would determine the price index to be used under such section and the types of nonhousing related costs that will be considered under such price index;
+
+&emsp;“(B) the manner by which the Secretary will establish the threshold percentage for purposes of such section;
+
+&emsp;“(C) the manner in which savings attributable to use of such military facilities as commissary stores, exchange stores, and military medical treatment facilities will be taken into consideration; and
+
+&emsp;“(D) the methods by which the Secretary proposes to prevent uncontrolled growth in Government expenditures through the cost-of-living allowance available under such section.”
+
+\[Report submitted by Secretary of Defense on Mar. 31, 1995.\]
+

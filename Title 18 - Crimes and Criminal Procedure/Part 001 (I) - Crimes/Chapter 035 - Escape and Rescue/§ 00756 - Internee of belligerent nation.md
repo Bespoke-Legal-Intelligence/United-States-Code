@@ -1,0 +1,30 @@
+### §756. Internee of belligerent nation
+
+Whoever, within the jurisdiction of the United States, aids or entices any person belonging to the armed forces of a belligerent nation or faction who is interned in the United States in accordance with the law of nations, to escape or attempt to escape from the jurisdiction of the United States or from the limits of internment prescribed, shall be fined under this title or imprisoned not more than one year, or both.
+
+(June 25, 1948, ch. 645, 62 Stat. 735; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §37 (June 15, 1917, ch. 30, title V, §7, 40 Stat. 223).
+
+Section was divided. Remaining provisions relating to arrest appear in section 3058 of this title.
+
+Minor changes in phraseology were made.
+
+#### Amendments
+
+1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+
+#### Canal Zone
+
+Applicability of section to Canal Zone, see section 14 of this title.
+
+#### Cross References
+
+Jurisdiction of offenses, see section 3241 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 14 of this title; title 22 section 465.
+

@@ -1,0 +1,20 @@
+### §1004. Railroad hiring
+
+(a) Each person who is an employee of the Rock Island Railroad on August 1, 1979, and who, prior to January 1, 1984, is separated or furloughed (other than for cause) from his employment with such railroad, or from his employment with another rail carrier providing temporary service over lines of the Rock Island Railroad, as a result of a reduction of service by such railroad or such temporary service carrier shall, unless found to be less qualified than other applicants, have the first right of hire by any other rail carrier that is subject to regulation by the Commission for any vacancy that is not covered by (1) an affirmative action plan, or a hiring plan designed to eliminate discrimination, that is required by Federal or State statute, regulations, or Executive order, or by the order of a Federal or State court or agency, or (2) a permissible voluntary affirmative action plan. For purposes of this section, a rail carrier shall not be considered to be hiring new employees when it recalls any of its own furloughed employees.
+
+(b) The rights afforded to Rock Island Railroad employees by this section shall be coequal to the rights afforded to Chicago, Milwaukee, Saint Paul and Pacific Railroad Company employees by section 907 of this title.
+
+(Pub. L. 96–254, title I, §105, May 30, 1980, 94 Stat. 400; Pub. L. 97–468, title II, §236(b), Jan. 14, 1983, 96 Stat. 2547.)
+
+#### Amendments
+
+1983—Subsec. (a). Pub. L. 97–468 substituted “January 1, 1984” for “January 1, 1981”.
+
+#### Exemption of National Railroad Passenger Corporation in Hiring Qualified Train and Engine Employees
+
+Section inapplicable to National Railroad Passenger Corporation in hiring of qualified train and engine employees holding seniority rights to work in intercity rail passenger service in connection with the assumption by such Corporation of functions previously performed under contract by other carriers, see section 4011(c) of Pub. L. 99–272, set out as a note under section 797b of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 797b, 797c of this title.
+

@@ -1,0 +1,82 @@
+### §2162. Classification and declassification of Restricted Data
+
+#### (a) Periodic determination
+
+The Commission shall from time to time determine the data, within the definition of Restricted Data, which can be published without undue risk to the common defense and security and shall thereupon cause such data to be declassified and removed from the category of Restricted Data.
+
+#### (b) Continuous review
+
+The Commission shall maintain a continuous review of Restricted Data and of any Classification Guides issued for the guidance of those in the atomic energy program with respect to the areas of Restricted Data which have been declassified in order to determine which information may be declassified and removed from the category of Restricted Data without undue risk to the common defense and security.
+
+#### (c) Joint determination on atomic weapons; Presidential determination on disagreement
+
+In the case of Restricted Data which the Commission and the Department of Defense jointly determine to relate primarily to the military utilization of atomic weapons, the determination that such data may be published without constituting an unreasonable risk to the common defense and security shall be made by the Commission and the Department of Defense jointly, and if the Commission and the Department of Defense do not agree, the determination shall be made by the President.
+
+#### (d) Removal from Restricted Data category
+
+The Commission shall remove from the Restricted Data category such data as the Commission and the Department of Defense jointly determine relates primarily to the military utilization of atomic weapons and which the Commission and Department of Defense jointly determine can be adequately safeguarded as defense information: <i>Provided, however,</i> That no such data so removed from the Restricted Data category shall be transmitted or otherwise made available to any nation or regional defense organization, while such data remains defense information, except pursuant to an agreement for cooperation entered into in accordance with subsection (b) or (d) of section 2164 of this title.
+
+#### (e) Joint determination on atomic energy programs
+
+The Commission shall remove from the Restricted Data category such information concerning the atomic energy programs of other nations as the Commission and the Director of Central Intelligence jointly determine to be necessary to carry out the provisions of section 403(d) <sup>1</sup> of title 50 and can be adequately safeguarded as defense information.
+
+(Aug. 1, 1946, ch. 724, title I, §142, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 941; amended Oct. 23, 1992, Pub. L. 102–484, div. C, title XXXI, §3152, 106 Stat. 2644; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944; Oct. 5, 1994, Pub. L. 103–337, div. A, title XXXI, §3155(c)(2), (3), 108 Stat. 3092.)
+
+#### References in Text
+
+Section 403(d) of title 50, referred to in subsec. (e), was struck out and a new subsec. (d) of section 403 of title 50 was added by Pub. L. 102–496, title VII, §704(3), Oct. 24, 1992, 106 Stat. 3189. See section 403–3 of title 50.
+
+#### Amendments
+
+1994—Subsec. (d). Pub. L. 103–337, §3155(c)(2), substituted “subsection (b) or (d) of section 2164 of this title” for “section 2164(b) of this title”.
+
+Subsec. (f). Pub. L. 103–337, §3155(c)(3), struck out subsec. (f) which read as follows: “Notwithstanding any other law, the President may publicly release Restricted Data regarding the nuclear weapons stockpile of the United States if the United States and member states of the Commonwealth of Independent States reach reciprocal agreement on the release of such data.”
+
+1992—Subsec. (f). Pub. L. 102–484 added subsec. (f).
+
+#### Transfer of Functions
+
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+
+#### Ex. Ord. No. 10899. Communication of Restricted Data by Central Intelligence Agency
+
+Ex. Ord. No. 10899, eff. Dec. 9, 1960, 25 F.R. 12729, provided:
+
+By virtue of the authority vested in me by the Atomic Energy Act of 1954, as amended (hereinafter referred to as the Act; 42 U.S.C. 2011 <i>et seq.</i>), and as President of the United States, it is ordered as follows:
+
+The Central Intelligence Agency is hereby authorized to communicate for intelligence purposes, in accordance with the terms and conditions of any agreement for cooperation arranged pursuant to subsections 144a, b, or c of the act (42 U.S.C. 2162 (a), (b), or (c)), such restricted data and data removed from the restricted data category under subsection 142d of the Act (42 U.S.C. 2162(d)) as is determined
+
+(i) by the President, pursuant to the provisions of the Act, or
+
+(ii) by the Atomic Energy Commission and the Department of Defense, jointly pursuant to the provisions of Executive Order No. 10841 \[set out as a note under section 2153 of this title\], to be transmissible under the agreement for cooperation involved. Such communications shall be effected through mechanisms established by the Central Intelligence Agency in accordance with the terms and conditions of the agreement for cooperation involved: <i>Provided,</i> that no such communication shall be made by the Central Intelligence Agency until the proposed communication has been authorized either in accordance with procedures adopted by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by those agencies, or in accordance with procedures approved by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by the Central Intelligence Agency.
+
+Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Modification of Executive Order No. 10899
+
+Ex. Ord. No. 10899, Dec. 9, 1960, 25 F.R. 12729, set out above, when referring to functions of the Atomic Energy Commission is modified to provide that all such functions shall be exercised by the Secretary of Energy and the Nuclear Regulatory Commission, see section 4(a)(1) of Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, set out as a note under section 7151 of this title.
+
+#### Ex. Ord. No. 11057. Communication of Restricted Data by Department of State
+
+Ex. Ord. No. 11057, eff. Oct. 18, 1962, 27 F.R. 10289, provided:
+
+By virtue of the authority vested in me by the Atomic Energy Act of 1954, as amended (hereinafter referred to as the Act; 42 U.S.C. 2011 et seq.), and as President of the United States, it is ordered as follows:
+
+The Department of State is hereby authorized to communicate, in accordance with the terms and conditions of any agreement for cooperation arranged pursuant to subsection 144b of the act (42 U.S.C. 2164(b)), such restricted data and data removed from the restricted data category under subsection 142d of the act (42 U.S.C. 2162(d)) as is determined
+
+(i) by the President, pursuant to the provisions of the Act, or
+
+(ii) by the Atomic Energy Commission and the Department of Defense, jointly pursuant to the provisions of Executive Order No. 10841, as amended \[set out as a note under section 2153 of this title\], to be transmissible under the agreement for cooperation involved. Such communications shall be effected through mechanisms established by the Department of State in accordance with the terms and conditions of the agreement for cooperation involved: <i>Provided,</i> that no such communication shall be made by the Department of State until the proposed communication has been authorized either in accordance with procedures adopted by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by those agencies, or in accordance with procedures approved by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by the Department of State.
+
+John F. Kennedy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Modification of Executive Order No. 11057
+
+Ex. Ord. No. 11057, Oct. 18, 1962, 27 F.R. 10289, set out above, when referring to functions of the Atomic Energy Commission is modified to provide that all such functions shall be exercised by the Secretary of Energy and the Nuclear Regulatory Commission, see section 4(a)(1) of Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, set out as a note under section 7151 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2164, 2168 of this title; title 15 section 6204.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

@@ -1,0 +1,8 @@
+### §4357. Athletics program: athletic director; nonappropriated fund account
+
+(a) The position of athletic director of the Academy shall be a position in the civil service (as defined in section 2101(1) of title 5). However, a member of the armed forces may fill that position as an active duty assignment.
+
+(b) Under regulations prescribed by the Secretary of the Army, the Superintendent of the Academy shall administer a nonappropriated fund account for the athletics program of the Academy. The Superintendent shall credit to that account all revenue received from the conduct of the athletics program of the Academy and all contributions received for that program.
+
+(Added Pub. L. 103–337, div. A, title V, §556(a)(1), Oct. 5, 1994, 108 Stat. 2774.)
+

@@ -1,0 +1,106 @@
+### §301. Collection and publication
+
+(a) The Secretary is authorized to collect information from all persons exporting from, or importing into, the United States and the noncontiguous areas over which the United States exercises sovereignty, jurisdiction, or control, and from all persons engaged in trade between the United States and such noncontiguous areas and between those areas, or from the owners, or operators of carriers engaged in such foreign commerce or trade, and shall compile and publish such information pertaining to exports, imports, trade, and transportation relating thereto, as he deems necessary or appropriate to enable him to foster, promote, develop, and further the commerce, domestic and foreign, of the United States and for other lawful purposes.
+
+(b) The Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate, on quarterly and cumulative bases, statistics on United States imports for consumption and United States exports by country and by product. Statistics on United States imports shall be submitted in accordance with the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes and general statistical note 1 thereof, in detail as follows:
+
+&emsp;(1) net quantity;
+
+&emsp;(2) United States customs value;
+
+&emsp;(3) purchase price or its equivalent;
+
+&emsp;(4) equivalent of arm's length value;
+
+&emsp;(5) aggregate cost from port of exportation to United States port of entry;
+
+&emsp;(6) a United States port of entry value comprised of (5) plus (4), if applicable, or, if not applicable, (5) plus (3); and
+
+&emsp;(7) for transactions where (3) and (4) are equal, the total value of such transactions.
+
+> The data for paragraphs (1), (2), (3), (5), and (6) shall be reported separately for nonrelated and related party transactions, and shall also be reported as a total of all transactions.
+
+(c) In submitting any information under subsection (b) with respect to exports, the Secretary shall state separately from the total value of all exports—
+
+&emsp;(1)(A) the value of agricultural commodities exported under the Agricultural Trade Development and Assistance Act of 1954, as amended; and
+
+&emsp;(B) the total amount of all export subsidies paid to exporters by the United States under such Act for the exportation of such commodities; and
+
+&emsp;(2) the value of goods exported under the Foreign Assistance Act of 1961.
+
+(d) To assist the Secretary to carry out the provisions of subsections (b) and (c)—
+
+&emsp;(1) the Secretary of Agriculture shall furnish information to the Secretary concerning the value of agricultural commodities exported under provisions of the Agricultural Trade Development and Assistance Act of 1954, as amended, and the total amounts of all export subsidies paid to exporters by the United States under such Act for the exportation of such commodities; and
+
+&emsp;(2) the Secretary of State shall furnish information to the Secretary concerning the value of goods exported under the provisions of the Foreign Assistance Act of 1961, as amended.
+
+(e) There shall be reported, on monthly and cumulative bases, for each heading or subheading in the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes, the United States port of entry value (as determined under subsection (b)(6)). There shall be reported, on monthly and cumulative bases, the balance of international trade for the United States reflecting (1) the aggregate value of all United States imports as reported in accordance with the first sentence of this subsection, and (2) the aggregate value of all United States exports. The information required to be reported under this subsection shallbe reported in a form that is adjusted for economic inflation or deflation (on a constant dollar basis consistent with the reporting of the National Income and Product Accounts), and in a form that is not so adjusted.
+
+(f) On or before January 1, 1981, and as often thereafter as may be necessary to reflect significant changes in rates, there shall be reported for each heading or subheading in the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes, the ad valorem or ad valorem equivalent rate of duty which would have been required to be imposed on dutiable imports under that heading or subheading, if the United States customs values of such imports were based on the United States port of entry value (as reported in accordance with the first sentence of subsection (e)) in order to collect the same amount of duties on imports under that heading or subheading as are currently collected.
+
+(g) Shippers’ Export Declarations (or any successor document), wherever located, shall be exempt from public disclosure unless the Secretary determines that such exemption would be contrary to the national interest.
+
+(Added Pub. L. 87–826, §2, Oct. 15, 1962, 76 Stat. 951; amended Pub. L. 93–618, title VI, §609(a), Jan. 3, 1975, 88 Stat. 2074; Pub. L. 96–39, title XI, §1108(a), July 26, 1979, 93 Stat. 313; Pub. L. 96–275, §1, June 17, 1980, 94 Stat. 539; Pub. L. 100–418, title I, §§1214(a)(2), 1931(a), 1932, Aug. 23, 1988, 102 Stat. 1155, 1320.)
+
+#### References in Text
+
+The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b), (e), and (f), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+
+The Agricultural Trade Development and Assistance Act of 1954, referred to in subsecs. (c)(1), (d)(1), is act July 10, 1954, ch. 649, 68 Stat. 454, as amended, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+
+The Foreign Assistance Act of 1961, referred to in subsecs. (c)(2), (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+
+#### Amendments
+
+1988—Subsec. (b). Pub. L. 100–418, §1214(a)(2)(A), substituted “Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes and general statistical note 1 thereof” for “Tariff Schedules of the United States Annotated and general statistical headnote 1 thereof”.
+
+Subsec. (e). Pub. L. 100–418, §1932, inserted at end “The information required to be reported under this subsection shall be reported in a form that is adjusted for economic inflation or deflation (on a constant dollar basis consistent with the reporting of the National Income and Product Accounts), and in a form that is not so adjusted.”
+
+Pub. L. 100–418, §1931(a), struck out at end “The values and balance of trade required to be reported by this subsection shall be released no later than 48 hours before the release of any other government statistics concerning values of United States imports or United States balance of trade, or statistics from which such values or balance may be derived.”
+
+Pub. L. 100–418, §1214(a)(2)(B), substituted “heading or subheading in the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes” for “item in the Tariff Schedules of the United States Annotated” in first sentence.
+
+Subsec. (f). Pub. L. 100–418, §1214(a)(2)(C), substituted “heading or subheading in the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes” for “item of the Tariff Schedules of the United States Annotated” and “under that heading or subheading” for “under that item”, in two places.
+
+1980—Subsec. (g). Pub. L. 96–275 added subsec. (g).
+
+1979—Subsecs. (e), (f). Pub. L. 96–39 added subsecs. (e) and (f).
+
+1975—Pub. L. 93–618 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+
+#### Effective Date of 1988 Amendment
+
+Amendment by section 1214(a)(2) of Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+
+#### Effective Date of 1980 Amendment
+
+Section 4 of Pub. L. 96–275 provided that:
+
+“(a) Except as provided in subsection (b), this Act, and the amendments made by this Act \[amending this section and enacting provisions set out as a note under this section\], shall become effective on the later of July 1, 1980, or the date of enactment of this Act \[June 17, 1980\].
+
+“(b) The amendment made by section 2 \[amending section 93 of former Title 46, Shipping\] shall become effective on the date which is forty-five days after the date of enactment of this Act \[June 17, 1980\].”
+
+#### Effective Date of 1979 Amendment
+
+Section 1108(b) of Pub. L. 96–39 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to reports made after December 31, 1979.”
+
+#### Effective Date of 1975 Amendment
+
+Section 609(b) of Pub. L. 93–618 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 1975.”
+
+#### Effective Date
+
+Section 4 of Pub. L. 87–826 provided that: “The provisions of this Act \[enacting section 301 et seq. of this title and repealing sections 173, 174, 177, 179, 181, 184 to 187, and 193 of Title 15, Commerce and Trade, sections 92 and 95 of former Title 46, Shipping, and section 1486 of Title 48, Territories and Insular Possessions\] shall take effect one hundred and eighty days after approval \[Oct. 15, 1962\], except that the last sentence of section 337, “Fifth” of the Revised Statutes \[section 174 of Title 15\], and the requirement for oaths as found in section 4200 of the Revised Statutes \[section 92 of former Title 46\] shall be repealed effective on the date this Act is approved \[Oct. 15, 1962\].”
+
+#### Volumetric Index
+
+Section 1931(b) of Pub. L. 100–418 provided that:
+
+“(1) The Director of the Census, in consultation with the Director of the Bureau of Economic Analysis and the Commissioner of Labor Statistics, shall conduct a study to determine the feasibility of developing, and of publishing, an index that measures the real volume of merchandise trade on a monthly basis, which would be reported simultaneously with the balance of merchandise trade for the United States.
+
+“(2) The Director of the Census shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report on the study conducted under paragraph (1) byno later than the date that is one year after the date of enactment of this Act \[Aug. 23, 1988\].”
+
+#### Congressional Access to Information
+
+Section 3 of Pub. L. 96–275 provided that: “Nothing in this Act \[enacting subsec. (g) of this section, amending section 93 of former Title 46, Shipping, and enacting provisions set out as notes under this section\] shall be construed as authorizing the withholding of information from Congress.”
+

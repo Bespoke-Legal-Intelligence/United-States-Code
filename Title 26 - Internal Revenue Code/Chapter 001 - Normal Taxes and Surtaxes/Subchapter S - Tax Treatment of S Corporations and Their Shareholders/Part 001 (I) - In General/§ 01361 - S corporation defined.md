@@ -1,0 +1,420 @@
+### §1361. S corporation defined
+
+#### (a) S corporation defined
+
+#### (1) In general
+
+&emsp;For purposes of this title, the term “S corporation” means, with respect to any taxableyear, a small business corporation for which an election under section 1362(a) is in effect for such year.
+
+#### (2) C corporation
+
+&emsp;For purposes of this title, the term “C corporation” means, with respect to any taxable year, a corporation which is not an S corporation for such year.
+
+#### (b) Small business corporation
+
+#### (1) In general
+
+&emsp;For purposes of this subchapter, the term “small business corporation” means a domestic corporation which is not an ineligible corporation and which does not—
+
+&emsp;&emsp;(A) have more than 35 shareholders,
+
+&emsp;&emsp;(B) have as a shareholder a person (other than an estate and other than a trust described in subsection (c)(2)) who is not an individual,
+
+&emsp;&emsp;(C) have a nonresident alien as a shareholder, and
+
+&emsp;&emsp;(D) have more than 1 class of stock.
+
+#### (2) Ineligible corporation defined
+
+&emsp;For purposes of paragraph (1), the term “ineligible corporation” means any corporation which is—
+
+&emsp;&emsp;(A) a member of an affiliated group (determined under section 1504 without regard to the exceptions contained in subsection (b) thereof),
+
+&emsp;&emsp;(B) a financial institution to which section 585 applies (or would apply but for subsection (c) thereof) or to which section 593 applies,
+
+&emsp;&emsp;(C) an insurance company subject to tax under subchapter L,
+
+&emsp;&emsp;(D) a corporation to which an election under section 936 applies, or
+
+&emsp;&emsp;(E) a DISC or former DISC.
+
+#### (c) Special rules for applying subsection (b)
+
+#### (1) Husband and wife treated as 1 shareholder
+
+&emsp;For purposes of subsection (b)(1)(A), a husband and wife (and their estates) shall be treated as 1 shareholder.
+
+#### (2) Certain trusts permitted as shareholders
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of subsection (b)(1)(B), the following trusts may be shareholders:
+
+&emsp;&emsp;&emsp;(i) A trust all of which is treated (under subpart E of part I of subchapter J of this chapter) as owned by an individual who is a citizen or resident of the United States.
+
+&emsp;&emsp;&emsp;(ii) A trust which was described in clause (i) immediately before the death of the deemed owner and which continues in existence after such death, but only for the 60-day period beginning on the day of the deemed owner's death. If a trust is described in the preceding sentence and if the entire corpus of the trust is includible in the gross estate of the deemed owner, the preceding sentence shall be applied by substituting “2-year period” for “60-day period”.
+
+&emsp;&emsp;&emsp;(iii) A trust with respect to stock transferred to it pursuant to the terms of a will, but only for the 60-day period beginning on the day on which such stock is transferred to it.
+
+&emsp;&emsp;&emsp;(iv) A trust created primarily to exercise the voting power of stock transferred to it.
+
+> &emsp;&emsp;This subparagraph shall not apply to any foreign trust.
+
+#### (B) Treatment as shareholders
+
+&emsp;&emsp;For purposes of subsection (b)(1)—
+
+&emsp;&emsp;&emsp;(i) In the case of a trust described in clause (i) of subparagraph (A), the deemed owner shall be treated as the shareholder.
+
+&emsp;&emsp;&emsp;(ii) In the case of a trust described in clause (ii) of subparagraph (A), the estate of the deemed owner shall be treated as the shareholder.
+
+&emsp;&emsp;&emsp;(iii) In the case of a trust described in clause (iii) of subparagraph (A), the estate of the testator shall be treated as the shareholder.
+
+&emsp;&emsp;&emsp;(iv) In the case of a trust described in clause (iv) of subparagraph (A), each beneficiary of the trust shall be treated as a shareholder.
+
+#### (3) Estate of individual in bankruptcy may be shareholder
+
+&emsp;For purposes of subsection (b)(1)(B), the term “estate” includes the estate of an individual in a case under title 11 of the United States Code.
+
+#### (4) Differences in common stock voting rights disregarded
+
+&emsp;For purposes of subsection (b)(1)(D), a corporation shall not be treated as having more than 1 class of stock solely because there are differences in voting rights among the shares of common stock.
+
+#### (5) Straight debt safe harbor
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of subsection (b)(1)(D), straight debt shall not be treated as a second class of stock.
+
+#### (B) Straight debt defined
+
+&emsp;&emsp;For purposes of this paragraph, the term “straight debt” means any written unconditional promise to pay on demand or on a specified date a sum certain in money if—
+
+&emsp;&emsp;&emsp;(i) the interest rate (and interest payment dates) are not contingent on profits, the borrower's discretion, or similar factors,
+
+&emsp;&emsp;&emsp;(ii) there is no convertibility (directly or indirectly) into stock, and
+
+&emsp;&emsp;&emsp;(iii) the creditor is an individual (other than a nonresident alien), an estate, or a trust described in paragraph (2).
+
+#### (C) Regulations
+
+&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to provide for the proper treatment of straight debt under this subchapter and for the coordination of such treatment with other provisions of this title.
+
+#### (6) Ownership of stock in certain inactive corporations
+
+&emsp;For purposes of subsection (b)(2)(A), a corporation shall not be treated as a member ofan affiliated group during any period within a taxable year by reason of the ownership of stock in another corporation if such other corporation—
+
+&emsp;&emsp;(A) has not begun business at any time on or before the close of such period, and
+
+&emsp;&emsp;(B) does not have gross income for such period.
+
+#### (d) Special rule for qualified subchapter S trust
+
+#### (1) In general
+
+&emsp;In the case of a qualified subchapter S trust with respect to which a beneficiary makes an election under paragraph (2)—
+
+&emsp;&emsp;(A) such trust shall be treated as a trust described in subsection (c)(2)(A)(i), and
+
+&emsp;&emsp;(B) for purposes of section 678(a), the beneficiary of such trust shall be treated as the owner of that portion of the trust which consists of stock in an S corporation with respect to which the election under paragraph (2) is made.
+
+#### (2) Election
+
+#### (A) In general
+
+&emsp;&emsp;A beneficiary of a qualified subchapter S trust (or his legal representative) may elect to have this subsection apply.
+
+#### (B) Manner and time of election
+
+#### (i) Separate election with respect to each corporation
+
+&emsp;&emsp;&emsp;An election under this paragraph shall be made separately with respect to each corporation the stock of which is held by the trust.
+
+#### (ii) Elections with respect to successive income beneficiaries
+
+&emsp;&emsp;&emsp;If there is an election under this paragraph with respect to any beneficiary, an election under this paragraph shall be treated as made by each successive beneficiary unless such beneficiary affirmatively refuses to consent to such election.
+
+#### (iii) Time, manner, and form of election
+
+&emsp;&emsp;&emsp;Any election, or refusal, under this paragraph shall be made in such manner and form, and at such time, as the Secretary may prescribe.
+
+#### (C) Election irrevocable
+
+&emsp;&emsp;An election under this paragraph, once made, may be revoked only with the consent of the Secretary.
+
+#### (D) Grace period
+
+&emsp;&emsp;An election under this paragraph shall be effective up to 15 days and 2 months before the date of the election.
+
+#### (3) Qualified subchapter S trust
+
+&emsp;For purposes of this subsection, the term “qualified subchapter S trust” means a trust—
+
+&emsp;&emsp;(A) the terms of which require that—
+
+&emsp;&emsp;&emsp;(i) during the life of the current income beneficiary, there shall be only 1 income beneficiary of the trust,
+
+&emsp;&emsp;&emsp;(ii) any corpus distributed during the life of the current income beneficiary may be distributed only to such beneficiary,
+
+&emsp;&emsp;&emsp;(iii) the income interest of the current income beneficiary in the trust shall terminate on the earlier of such beneficiary's death or the termination of the trust, and
+
+&emsp;&emsp;&emsp;(iv) upon the termination of the trust during the life of the current income beneficiary, the trust shall distribute all of its assets to such beneficiary, and
+
+&emsp;&emsp;(B) all of the income (within the meaning of section 643(b)) of which is distributed (or required to be distributed) currently to 1 individual who is a citizen or resident of the United States.
+
+> &emsp;A substantially separate and independent share of a trust within the meaning of section 663(c) shall be treated as a separate trust for purposes of this subsection and subsection (c).
+
+#### (4) Trust ceasing to be qualified
+
+#### (A) Failure to meet requirements of paragraph (3)(A)
+
+&emsp;&emsp;If a qualified subchapter S trust ceases to meet any requirement of paragraph (3)(A), the provisions of this subsection shall not apply to such trust as of the date it ceases to meet such requirement.
+
+#### (B) Failure to meet requirements of paragraph (3)(B)
+
+&emsp;&emsp;If any qualified subchapter S trust ceases to meet any requirement of paragraph (3)(B) but continues to meet the requirements of paragraph (3)(A), the provisions of this subsection shall not apply to such trust as of the first day of the first taxable year beginning after the first taxable year for which it failed to meet the requirements of paragraph (3)(B).
+
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1669; amended Pub. L. 98–369, div. A, title VII, §721(c), (f), July 18, 1984, 98 Stat. 967; Pub. L. 99–514, title IX, §901(d)(4)(G), title XVIII, §1879(m)(1)(A), Oct. 22, 1986, 100 Stat. 2380, 2910; Pub. L. 100–647, title I, §1018(q)(2), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 101–239, title VII, §7811(c)(6), Dec. 19, 1989, 103 Stat. 2407.)
+
+#### Prior Provisions
+
+A prior section 1361, act Aug. 16, 1954, as amended, constituted subchapter R, prior to repeal by Pub. L. 89–389, §4(b)(1), Apr. 14, 1966, 80 Stat. 116. For further details, see matter set out preceding subchapter S.
+
+#### Amendments
+
+1989—Subsec. (b)(2)(B). Pub. L. 101–239 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a financial institution which is a bank (as defined in section 585(a)(2)) or to which section 593 applies,”.
+
+1988—Subsec. (d)(3). Pub. L. 100–647 substituted “within the meaning of” for “treated as a separate trust under” in last sentence.
+
+1986—Subsec. (b)(2)(B). Pub. L. 99–514, §901(d)(4)(G), substituted “which is a bank (as defined in section 585(a)(2)) or to which section 593 applies” for “to which section 585 or 593 applies”.
+
+Subsec. (d)(3). Pub. L. 99–514, §1879(m)(1)(A), inserted at end “A substantially separate and independent share of a trust treated as a separate trust under section 663(c) shall be treated as a separate trust for purposes of this subsection and subsection (c).”
+
+1984—Subsec. (c)(6). Pub. L. 98–369, §721(c), amended par. (6) generally, substituting “during any period within a taxable year” for “during any taxable year” in provisions preceding subpar. (A), and substituting “onor before the close of such period” for “on or after the date of its incorporation and before the close of such taxable year” in subpar. (A), and “does not have gross income for such period” for “does not have taxable income for the period included within such taxable year” in subpar. (B).
+
+Subsec. (d)(2)(B)(i). Pub. L. 98–369, §721(f)(3), substituted “corporation” for “S corporation” in heading and text.
+
+Subsec. (d)(2)(D). Pub. L. 98–369, §721(f)(1), substituted “15 days and 2 months” for “60 days”.
+
+Subsec. (d)(3). Pub. L. 98–369, §721(f)(2), in amending par. (3) generally, redesignated subpar. (C) as (A), substituted a period for “, and” at end of subpar. (B), and struck out former subpar. (A) which read “which owns stock in 1 or more S corporations”.
+
+Subsec. (d)(4). Pub. L. 98–369, §721(f)(2), in amending par. (4) generally, redesignated existing provisions as subpar. (A), inserted “Failure to meet requirements of paragraph (3)(A)” as subpar. (A) heading, substituted “of paragraph (3)(A)” for “under paragraph (3)”, and added subpar. (B).
+
+#### Effective Date of 1989 Amendment
+
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by section 901(d)(4)(G) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 901(e) of Pub. L. 99–514, set out as a note under section 166 of this title.
+
+Section 1879(m)(2) of Pub. L. 99–514 provided that: “The amendments made by this subsection \[amending this section and section 1368 of this title\] shall apply to taxable years beginning after December 31, 1982.”
+
+#### Effective Date of 1984 Amendment
+
+Section 721(y) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+
+“(1)
+
+In general.—Except as otherwise provided in this subsection, any amendment made by this section \[amending this section, sections 48, 108, 267, 318, 465, 1362, 1363, 1367, 1368, 1371, 1374, 1375, 1378, 1379, 6362, and 6659 and provisions set out as a note under this section\] shall take effect as if included in the Subchapter S Revision Act of 1982 \[Pub. L. 97–354\].
+
+“(2)
+
+Amendment made by subsection (b)
+
+(2).—Subparagraph (C) of section 108(d)(7) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (b)(2)) shall apply to contributions to capital after December 31, 1980, in taxable years ending after such date.
+
+“(3)
+
+Amendment made by subsection (g)
+
+(1).—If—
+
+&emsp;“(A) any portion of a qualified stock purchase is pursuant to a binding contract entered into on or after October 19, 1982, and before the date of the enactment of this Act \[July 18, 1984\], and
+
+&emsp;“(B) the purchasing corporation establishes by clear and convincing evidence that such contract was negotiated on the contemplation that, with respect to the deemed sale under section 338 of the Internal Revenue Code of 1986, paragraph (2) of section 1362(e) of such Code would apply,
+
+> then the amendment made by paragraph (1) of subsection (g) \[amending section 1362 of this title\] shall not apply to such qualified stock purchase.
+
+“(4)
+
+Amendments made by subsection <i>(l</i>).—The amendments made by subsection (<i>l</i>) \[amending section 1362 of this title\] shall apply to any election under section 1362 of the Internal Revenue Code of 1986 (or any corresponding provision of prior law) made after October 19, 1982.
+
+“(5)
+
+Amendment made by subsection (t).—If—
+
+&emsp;“(A) on or before the date of the enactment of this Act \[July 18, 1984\] 50 percent or more of the stock of an S corporation has been sold or exchanged in 1 or more transactions, and
+
+&emsp;“(B) the person (or persons) acquiring such stock establish by clear and convincing evidence that such acquisitions were negotiated on the contemplation that paragraph (2) of section 1362(e) of the Internal Revenue Code of 1986 would apply to the S termination year in which such sales or exchanges occur,
+
+> then the amendment made by subsection (t) \[amending section 1362 of this title\] shall not apply to such S termination year.”
+
+#### Effective Date
+
+Section 6 of Pub. L. 97–354, as amended by Pub. L. 97–448, title III, §305(d)(1)(A), Jan. 12, 1983, 96 Stat. 2399; Pub. L. 98–369, div. A, title VII, §721(i), (k), July 18, 1984, 98 Stat. 969; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+
+“(a)
+
+In General.—Except as otherwise provided in this section, the amendments made by this Act \[enacting this section and sections 1362, 1363, 1366 to 1368, 1371 to 1375, 1377 to 1379, and 6241 to 6245 of this title, amending sections 31, 44D to 44F, 46, 48, 50A, 50B, 52, 53, 55, 57, 58, 62, 108, 163, 168, 170, 172, 179, 183, 189, 194, 267, 280, 280A, 291, 447, 464, 465, 613A, 992, 1016, 1101, 1212, 1251, 1254, 1256, 3453, 3454, 4992, 4996, 6037, 6042, 6362, and 6661 of this title and section 1108 of Title 29, Labor, omitting section 1376 of this title, and enacting provisions set out as a note under section 1 of this title\] shall apply to taxable years beginning after December 31, 1982.
+
+“(b)
+
+Transitional Rules.—
+
+&emsp;“(1)
+
+Sections 1379 and 62(9) continue to apply for 1983.—Sections 1379 and 62(9) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect before the date of the enactment of this Act \[Oct. 19, 1982\]) shall remain in effect for years beginning before January 1, 1984.
+
+&emsp;“(2)
+
+Allowance of exclusion of death benefit.—Notwithstanding section 241(b) of the Tax Equity and Fiscal Responsibility Act of 1982 \[section 241(b) of Pub. L. 97–248, set out as a note under section 416 of this title\] in the case of amounts received under a plan of an S corporation, the amendment made by section 239 of such Act \[section 239 of Pub. L. 97–248, amending section 101 of this title\] shall apply with respect to decedents dying after December 31, 1982.
+
+&emsp;“(3)
+
+New passive income rules apply to taxable years beginning during 1982.—In the case of a taxable year beginning during 1982—
+
+&emsp;&emsp;“(A) sections 1362(d)(3), 1366(f)(3), and 1375 of the Internal Revenue Code of 1986 (as amended by this Act \[Pub. L. 97–354\]) shall apply, and
+
+&emsp;&emsp;“(B) section 1372(e)(5) of such Code (as in effect on the day before the date of the enactment of this Act \[Oct. 19, 1982\]) shall not apply.
+
+> &emsp;The preceding sentence shall not apply in the case of any corporation which elects (at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe) to have such sentence not apply. Subsection (e) shall not apply to any termination resulting from an election under the preceding sentence.
+
+“(c)
+
+Grandfather Rules.—
+
+&emsp;“(1)
+
+Subsidiaries which are foreign corporations or disc's.—In the case of any corporation which on September 28, 1982, would have been a member of the same affiliated group as an electing small business corporation but for paragraph (3) or (7) of section 1504(b) of the Internal Revenue Code of 1986, subparagraph (A) of section 1361(b)(2) of such Code (as amended by section 2) shall be applied by substituting ‘without regard to the exceptions contained in paragraphs (1), (2), (4), (5), and (6) of subsection (b) thereof’ for ‘without regard to the exceptions contained in subsection (b) thereof’.
+
+&emsp;“(2)
+
+Casualty insurance companies.—
+
+&emsp;&emsp;“(A)
+
+In general.—In the case of any qualified casualty insurance electing small business corporation—
+
+&emsp;&emsp;&emsp;“(i) the amendments made by this Act shall not apply, and
+
+&emsp;&emsp;&emsp;“(ii) subchapter S (as in effect on July 1, 1982) of chapter 1 of the Internal Revenue Code of 1986 \[former sections 1371 to 1379 of this title\] and part III of subchapter L of chapter 1 of such Code \[section 831 et seq. of this title\] shall apply.
+
+&emsp;&emsp;“(B)
+
+Qualified casualty insurance electing small business corporation.—The term ‘qualified casualty insurance electing small business corporation’ means any corporation described in section 831(a) of the Internal Revenue Code of 1986 if—
+
+&emsp;&emsp;&emsp;“(i) as of July 12, 1982, such corporation was an electing small business corporation and was described in section 831(a) of such Code,
+
+&emsp;&emsp;&emsp;“(ii) such corporation was formed before April 1, 1982, and proposed (through a written private offering first circulated to investors before such date) to elect to be taxed as a subchapter S corporation and to be operated on an established insurance exchange, or
+
+&emsp;&emsp;&emsp;“(iii) such corporation is approved for membership on an established insurance exchange pursuant to a written agreement entered into before December 31, 1982, and such corporation is described in section 831(a) of such Code as of December 31, 1984.
+
+&nbsp;&nbsp;A corporation shall not be treated as a qualified casualty insurance electing small business corporation unless an election under subchapter S of chapter 1 of such Code is in effect for its first taxable year beginning after December 31, 1984.
+
+&emsp;“(3)
+
+Certain corporations with oil and gas production.—
+
+&emsp;&emsp;“(A)
+
+In general.—In the case of any qualified oil corporation—
+
+&emsp;&emsp;&emsp;“(i) the amendments made by this Act shall not apply, and
+
+&emsp;&emsp;&emsp;“(ii) subchapter S (as in effect on July 1, 1982) of chapter 1 of the Internal Revenue Code of 1986 \[former sections 1371 to 1379 of this title\] shall apply.
+
+&emsp;&emsp;“(B)
+
+Qualified oil corporation.—For purposes of this paragraph, the term ‘qualified oil corporation’ means any corporation if—
+
+&emsp;&emsp;&emsp;“(i) as of September 28, 1982, such corporation—
+
+&emsp;&emsp;&emsp;&nbsp;&nbsp;“(I) was an electing small business corporation, or
+
+&emsp;&emsp;&emsp;&nbsp;&nbsp;“(II) was a small business corporation which made an election under section 1372(a) after December 31, 1981, and before September 28, 1982,
+
+&emsp;&emsp;&emsp;“(ii) for calendar year 1982, the combined average daily production of domestic crude oil or natural gas of such corporation and any one of its substantial shareholders exceeds 1,000 barrels, and
+
+&emsp;&emsp;&emsp;“(iii) such corporation makes an election under this subparagraph at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe.
+
+&emsp;&emsp;“(C)
+
+Average daily production.—For purposes of subparagraph (B), the average daily production of domestic crude oil or domestic natural gas shall be determined under section 613A(c)(2) of such Code without regard to the last sentence thereof.
+
+&emsp;&emsp;“(D)
+
+Substantial shareholder.—For purposes of subparagraph (B), the term ‘substantial shareholder’ means any person who on July 1, 1982, owns more than 40 percent (in value) of the stock of the corporation.
+
+&emsp;“(4)
+
+Continuity required.—
+
+&emsp;&emsp;“(A)
+
+In general.—This subsection shall cease to apply with respect to any corporation after—
+
+&emsp;&emsp;&emsp;“(i) any termination of the election of the corporation under subchapter S of chapter 1 of such Code, or
+
+&emsp;&emsp;&emsp;“(ii) the first day on which more than 50 percent of the stock of the corporation is newly owned stock within the meaning of section 1378(c)(2) of such Code (as amended by this Act \[Pub. L. 97–354\]).
+
+&emsp;&emsp;“(B)
+
+Special rules for paragraph (2).—
+
+&emsp;&emsp;&emsp;“(i) Paragraph (2) shall also cease to apply with respect to any corporation after the corporation ceases to be described in section 831(a) of such Code.
+
+&emsp;&emsp;&emsp;“(ii) For purposes of determining under subparagraph (A)(ii) whether paragraph (2) ceases to apply to any corporation, section 1378(c)(2) of such Code (as amended by this Act \[Pub. L. 97–354\]) shall be applied by substituting ‘December 31, 1984’ for ‘December 31, 1982’ each place it appears therein.
+
+“(d)
+
+Treatment of Existing Fringe Benefit Plans.—
+
+&emsp;“(1)
+
+In general.—In the case of existing fringe benefits of a corporation which as of September 28, 1982, was an electing small business corporation, section 1372 of the Internal Revenue Code of 1986 (as added by this Act \[Pub. L. 97–354\]) shall apply only with respect to taxable years beginning after December 31, 1987.
+
+&emsp;“(2)
+
+Requirements.—This subsection shall cease to apply with respect to any corporation after whichever of the following first occurs:
+
+&emsp;&emsp;“(A) the first day of the first taxable year beginning after December 31, 1982, with respect to which the corporation does not meet the requirements of section 1372(e)(5) of such Code (as in effect on the day before the date of the enactment of this Act \[Oct. 19, 1982\]),
+
+&emsp;&emsp;“(B) any termination after December 31, 1982, of the election of the corporation under subchapter S of chapter 1 of such Code, or
+
+&emsp;&emsp;“(C) the first day on which more than 50 percent of the stock of the corporation is newly owned stock within the meaning of section 1378(c)(2) of such Code (as amended by this Act \[Pub. L. 97–354\]).
+
+&emsp;“(3)
+
+Existing fringe benefit.—For purposes of this subsection, the term ‘existing fringe benefit’ means any employee fringe benefit of a type which the corporation provided to its employees as of September 28, 1982.
+
+“(e)
+
+Treatment of Certain Elections Under Prior Law.—For purposes of section 1362(g) of the Internal Revenue Code of 1986, as amended by this Act \[Pub. L. 97–354\] (relating to no election permitted within 5 years after termination of prior election), any termination or revocation under section 1372(e) of such Code (as in effect on the day before the date of the enactment of this Act \[Oct. 19, 1982\]) shall not be taken into account.
+
+“(f)
+
+Taxable Year of S Corporations.—Section 1378 of the Internal Revenue Code of 1986 (as added by this Act \[Pub. L. 97–354\]) shall take effect on the day after the date of the enactment of this Act \[Oct. 19, 1982\]. For purposes of applying such section, the reference in subsection (a)(2) of such section to an election under section 1362(a) shall include a reference to an election under section 1372(a) of such Code as in effect on the day before the date of the enactment of this Act \[Oct. 19, 1982\].”
+
+#### Plan Amendments Not Required Until January 1, 1989
+
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+#### Transitional Provisions
+
+Pub. L. 97–448, title III, §305(d)(1)(B), Jan. 12, 1983, 96 Stat. 2399, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If—
+
+&emsp;“(i) after September 30, 1982, and on or before the date of the enactment of this Act \[Jan. 12, 1983\], stock or securities were transferred to a small business corporation (as defined in section 1361(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as amended by the Subchapter S Revision Act of 1982 \[Pub. L. 97–354\]) in a transaction to which section 351 of such Code applies, and
+
+&emsp;“(ii) such corporation is liquidated under section 333 of such Code before March 1, 1983,
+
+> then such stock or securities shall not be taken into account under section 333(e)(2) of such Code.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 280G, 678, 1362 of this title.
+

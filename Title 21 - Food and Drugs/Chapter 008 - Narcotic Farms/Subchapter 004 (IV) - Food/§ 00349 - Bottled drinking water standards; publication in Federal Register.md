@@ -1,0 +1,6 @@
+### §349. Bottled drinking water standards; publication in Federal Register
+
+Whenever the Administrator of the Environmental Protection Agency prescribes interim or revised national primary drinking water regulations under section 300g–1 of title 42, the Secretary shall consult with the Administrator and within 180 days after the promulgation of such drinking water regulations either promulgate amendments to regulations under this chapter applicable to bottled drinking water or publish in the Federal Register his reasons for not making such amendments.
+
+(June 25, 1938, ch. 675, §410, as added Dec. 16, 1974, Pub. L. 93–523, §4, 88 Stat. 1694.)
+

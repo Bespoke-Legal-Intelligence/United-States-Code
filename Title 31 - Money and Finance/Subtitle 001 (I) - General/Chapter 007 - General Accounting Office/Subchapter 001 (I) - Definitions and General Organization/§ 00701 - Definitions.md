@@ -1,0 +1,42 @@
+### §701. Definitions
+
+In this chapter—
+
+&emsp;(1) “agency” includes the District of Columbia government but does not include the legislative branch or the Supreme Court.
+
+&emsp;(2) “appropriations” means appropriated amounts and includes, in appropriate context—
+
+&emsp;&emsp;(A) funds;
+
+&emsp;&emsp;(B) authority to make obligations by contract before appropriations; and
+
+&emsp;&emsp;(C) other authority making amounts available for obligation or expenditure.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 887.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+701(1)
+
+31:2(1st–4th pars.).
+
+June 10, 1921, ch. 18, §2(1st–5th pars.), 42 Stat. 20; Apr. 3, 1939, ch. 36, §201, 53 Stat. 565; July 31, 1953, ch. 302, §101(1st proviso in par. under heading “Bureau of the Budget”), 67 Stat. 299.
+
+701(2)
+
+31:2(last par.).
+
+June 10, 1921, ch. 18, 42 Stat. 20, §2(last par.); added Sept. 12, 1950, ch. 946, §101, 64 Stat. 832.
+
+In clause (1), “agency” (which is defined for purposes of this title in section 101 to mean a department, agency, or instrumentality of the United States) is coextensive with and substituted for the term “department or establishment” which was defined in 31:2 as in part meaning “any executive department, independent commission, board, bureau, office, agency, or other establishment of the Government, including any independent regulatory commission or board”. This definition merely restates and continues, and does not in any way change or expand, the definition in 31:2. Under that definition, entities such as the Tennessee Valley Authority that have been interpreted to be outside the purview of the definition will continue to be outside the purview in the same manner and to the same extent that they were under 31:2. The words “includes the District of Columbia government” are used because of existing law but the inclusion of these words is not to be interpreted as construing the extent to which the District of Columbia Self-Government and Governmental Reorganizational Act (Pub. L. 93–198, 87 Stat. 774) supersedes the provisions codified in this title. The words “of the United States” are omitted as surplus. The text of 31:2 (2d–4th pars.) is omitted as unnecessary because of the restatement. The text of section 2 (3d par.) of the Budget and Accounting Act, 1921 (ch. 18, 42 Stat. 20), is omitted as obsolete because of section 501 of the revised title.
+
+#### Short Title of 1988 Amendment
+
+Pub. L. 100–426, §1, Sept. 9, 1988, 102 Stat. 1598, provided that: “This Act \[amending sections 703, 732, 751, 752, 755, 771 to 774, 776, and 777 of this title and section 5349 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under sections 755 and 772 of this title\] may be cited as the ‘General Accounting Office Personnel Amendments Act of 1988’.”
+

@@ -1,0 +1,60 @@
+# Printed pages - Title 03 - The President
+
+GPO's 1994 edition (laws in effect as of 1995-01-04), from its printed page marks. The exact position of
+every mark is in `_page-maps/USCODE-title3.json`. Page numbers belong to the printed edition and change
+from edition to edition; the section files hold the text only.
+
+| Section or division | Printed pages |
+| --- | --- |
+| [Title 03 - The President](README.md) | 1–2 |
+| [Chapter 001 - Presidential Elections and Vacancies](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/README.md) | 2 |
+| [&sect; 00001 - Time of appointing electors](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000001%20-%20Time%20of%20appointing%20electors.md) | 2 |
+| [&sect; 00002 - Failure to make choice on prescribed day](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000002%20-%20Failure%20to%20make%20choice%20on%20prescribed%20day.md) | 2 |
+| [&sect; 00003 - Number of electors](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000003%20-%20Number%20of%20electors.md) | 2 |
+| [&sect; 00004 - Vacancies in electoral college](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000004%20-%20Vacancies%20in%20electoral%20college.md) | 2 |
+| [&sect; 00005 - Determination of controversy as to appointment of electors](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000005%20-%20Determination%20of%20controversy%20as%20to%20appointment%20of%20electors.md) | 2 |
+| [&sect; 00006 - Credentials of electors; transmission to Archivist of the United States and to Congress; public inspection](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000006%20-%20Credentials%20of%20electors%3B%20transmission%20to%20Archivist%20of%20the%20United%20States%20and%20to%20Congress%3B%20public%20inspection.md) | 2–3 |
+| [&sect; 00007 - Meeting and vote of electors](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000007%20-%20Meeting%20and%20vote%20of%20electors.md) | 3 |
+| [&sect; 00008 - Manner of voting](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000008%20-%20Manner%20of%20voting.md) | 3 |
+| [&sect; 00009 - Certificates of votes for President and Vice President](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000009%20-%20Certificates%20of%20votes%20for%20President%20and%20Vice%20President.md) | 3 |
+| [&sect; 00010 - Sealing and endorsing certificates](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000010%20-%20Sealing%20and%20endorsing%20certificates.md) | 3 |
+| [&sect; 00011 - Disposition of certificates](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000011%20-%20Disposition%20of%20certificates.md) | 3–4 |
+| [&sect; 00012 - Failure of certificates of electors to reach President of the Senate or Archivist of the United States; demand on State for certificate](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000012%20-%20Failure%20of%20certificates%20of%20electors%20to%20reach%20President%20of%20the%20Senate%20or%20Archivist%20of%20the%20United%20States%3B%20demand%20on%20State%20for%20certificate.md) | 4 |
+| [&sect; 00013 - Same; demand on district judge for certificate](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000013%20-%20Same%3B%20demand%20on%20district%20judge%20for%20certificate.md) | 4 |
+| [&sect; 00014 - Forfeiture for messenger's neglect of duty](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000014%20-%20Forfeiture%20for%20messenger%27s%20neglect%20of%20duty.md) | 4 |
+| [&sect; 00015 - Counting electoral votes in Congress](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000015%20-%20Counting%20electoral%20votes%20in%20Congress.md) | 4–5 |
+| [&sect; 00016 - Same; seats for officers and Members of two Houses in joint meeting](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000016%20-%20Same%3B%20seats%20for%20officers%20and%20Members%20of%20two%20Houses%20in%20joint%20meeting.md) | 5 |
+| [&sect; 00017 - Same; limit of debate in each House](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000017%20-%20Same%3B%20limit%20of%20debate%20in%20each%20House.md) | 5 |
+| [&sect; 00018 - Same; parliamentary procedure at joint meeting](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000018%20-%20Same%3B%20parliamentary%20procedure%20at%20joint%20meeting.md) | 5 |
+| [&sect; 00019 - Vacancy in offices of both President and Vice President; officers eligible to act](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000019%20-%20Vacancy%20in%20offices%20of%20both%20President%20and%20Vice%20President%3B%20officers%20eligible%20to%20act.md) | 5–6 |
+| [&sect; 00020 - Resignation or refusal of office](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000020%20-%20Resignation%20or%20refusal%20of%20office.md) | 6–7 |
+| [&sect; 00021 - Definitions](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000021%20-%20Definitions.md) | 7 |
+| [10](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/10.md) | 7–12 |
+| [&sect; 00101 - Commencement of term of office](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000101%20-%20Commencement%20of%20term%20of%20office.md) | 12–13 |
+| [&sect; 00102 - Compensation of the President](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000102%20-%20Compensation%20of%20the%20President.md) | 13–16 |
+| [&sect; 00103 - Traveling expenses](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000103%20-%20Traveling%20expenses.md) | 16–17 |
+| [&sect; 00104 - Salary of the Vice President](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000104%20-%20Salary%20of%20the%20Vice%20President.md) | 17–18 |
+| [&sect; 00105 - Assistance and services for the President](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000105%20-%20Assistance%20and%20services%20for%20the%20President.md) | 18–20 |
+| [&sect; 00106 - Assistance and services for the Vice President](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000106%20-%20Assistance%20and%20services%20for%20the%20Vice%20President.md) | 20–22 |
+| [&sect; 00107 - Domestic Policy Staff and Office of Administration; personnel](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000107%20-%20Domestic%20Policy%20Staff%20and%20Office%20of%20Administration%3B%20personnel.md) | 22 |
+| [&sect; 00108 - Assistance to the President for unanticipated needs](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000108%20-%20Assistance%20to%20the%20President%20for%20unanticipated%20needs.md) | 22–23 |
+| [&sect; 00109 - Public property in and belonging to the Executive Residence at the White House](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000109%20-%20Public%20property%20in%20and%20belonging%20to%20the%20Executive%20Residence%20at%20the%20White%20House.md) | 23 |
+| [&sect; 00110 - Furniture for the Executive Residence at the White House](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000110%20-%20Furniture%20for%20the%20Executive%20Residence%20at%20the%20White%20House.md) | 23–25 |
+| [&sect; 00111 - Expense allowance of Vice President](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000111%20-%20Expense%20allowance%20of%20Vice%20President.md) | 25–26 |
+| [&sect; 00112 - Detail of employees of executive departments](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000112%20-%20Detail%20of%20employees%20of%20executive%20departments.md) | 26 |
+| [&sect; 00113 - Personnel report](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000113%20-%20Personnel%20report.md) | 26–27 |
+| [&sect; 00114 - General pay limitation](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000114%20-%20General%20pay%20limitation.md) | 27 |
+| [Chapter 003 - Protection of the President; United States Secret Service Uniformed Division](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/README.md) | 27 |
+| [&sect; 00201 - Repealed. July 16, 1951, ch. 226, &sect;5(a), 65 Stat. 122](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/%C2%A7%2000201%20-%20Repealed.%20July%2016%2C%201951%2C%20ch.%20226%2C%20%C2%A75%28a%29%2C%2065%20Stat.%20122.md) | 27 |
+| [&sect; 00202 - United States Secret Service Uniformed Division; establishment, control, and supervision; privileges, powers, and duties](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/%C2%A7%2000202%20-%20United%20States%20Secret%20Service%20Uniformed%20Division%3B%20establishment%2C%20control%2C%20and%20supervision%3B%20privileges%2C%20powers%2C%20and%20duties.md) | 27–29 |
+| [&sect; 00203 - Personnel, appointment, and vacancies](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/%C2%A7%2000203%20-%20Personnel%2C%20appointment%2C%20and%20vacancies.md) | 29 |
+| [&sect; 00204 - Grades, salaries, and transfers of appointees](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/%C2%A7%2000204%20-%20Grades%2C%20salaries%2C%20and%20transfers%20of%20appointees.md) | 29–30 |
+| [&sect; 00205 - Repealed. Pub. L. 91&#8211;217, &sect;1(7), Mar. 19, 1970, 84 Stat. 75](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/%C2%A7%2000205%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93217%2C%20%C2%A71%287%29%2C%20Mar.%2019%2C%201970%2C%2084%20Stat.%2075.md) | 30 |
+| [&sect; 00206 - Privileges of civil-service appointees](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/%C2%A7%2000206%20-%20Privileges%20of%20civil-service%20appointees.md) | 30 |
+| [&sect; 00207 - Participation in police and firemen's relief fund](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/%C2%A7%2000207%20-%20Participation%20in%20police%20and%20firemen%27s%20relief%20fund.md) | 30 |
+| [&sect; 00208 - Reimbursement of State and local governments](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/%C2%A7%2000208%20-%20Reimbursement%20of%20State%20and%20local%20governments.md) | 30–31 |
+| [&sect; 00209 - Appropriation to carry out provisions](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/%C2%A7%2000209%20-%20Appropriation%20to%20carry%20out%20provisions.md) | 31 |
+| [Chapter 004 - Delegation of Functions](Chapter%20004%20-%20Delegation%20of%20Functions/README.md) | 31–32 |
+| [&sect; 00301 - General authorization to delegate functions; publication of delegations](Chapter%20004%20-%20Delegation%20of%20Functions/%C2%A7%2000301%20-%20General%20authorization%20to%20delegate%20functions%3B%20publication%20of%20delegations.md) | 32–46 |
+| [&sect; 00302 - Scope of delegation of functions](Chapter%20004%20-%20Delegation%20of%20Functions/%C2%A7%2000302%20-%20Scope%20of%20delegation%20of%20functions.md) | 46 |
+| [&sect; 00303 - Definitions](Chapter%20004%20-%20Delegation%20of%20Functions/%C2%A7%2000303%20-%20Definitions.md) | 46 |

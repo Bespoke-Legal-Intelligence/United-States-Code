@@ -1,0 +1,20 @@
+### §20501. Definition
+
+In this chapter, “signal system” means a block signal system, an interlocking, automatic train stop, train control, or cab-signal device, or a similar appliance, method, device, or systemintended to promote safety in railroad operations.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 883.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+20501
+
+(no source).
+
+This section is added to eliminate the unnecessary repetition of the words used in the definition. The definition is derived from 49 App.:26(b)–(f).
+

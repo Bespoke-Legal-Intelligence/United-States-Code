@@ -1,0 +1,50 @@
+### §8007. Evaluation of applications and programs
+
+#### (a) Application evaluations
+
+In evaluating applications for assistance under this chapter, the Secretary shall consider—
+
+&emsp;(1) the types and priorities of the basic services proposed to be provided, and the relationship of such proposal to the needs and characteristics of the eligible residents of the projects where the services are to be provided;
+
+&emsp;(2) how quickly services will be established following approval of the application;
+
+&emsp;(3) the degree to which local social services are adequate for the purpose of assisting eligible project residents to maintain independent living and avoid unnecessary institutionalization;
+
+&emsp;(4) the professional qualifications of the members of the professional assessment committee; and
+
+&emsp;(5) the reasonableness of fee schedules established for each congregate service.
+
+#### (b) Program evaluations
+
+In evaluating programs receiving assistance under this chapter, the Secretary shall—
+
+&emsp;(1) establish procedures for the review and evaluation of the performance of nonprofit corporations and public housing agencies receiving assistance under this chapter, including provisions for the submission of an annual report, by each such nonprofit corporation and public housing agency, which evaluates the impact and effectiveness of its congregate services program; and
+
+&emsp;(2) publish annually and submit to the Congress, a report on and evaluation of the impact and effectiveness of congregate services programs assisted under this chapter. Such report and evaluation shall be based, in part, on the evaluations required to be submitted pursuant to paragraph (1).
+
+#### (c) Report to Congress
+
+(1) The Secretary shall contract with a university or qualified research institution to produce a report—
+
+&emsp;(A) documenting the number of elderly living in federally assisted housing at risk of institutionalization;
+
+&emsp;(B) studying and comparing alternative delivery systems in the States, including the congregate housing services program, to provide services to older persons in assisted congregate housing;
+
+&emsp;(C) assessing existing and potential financial resources at the Federal, State, and local levels for the support of congregate housing services; and
+
+&emsp;(D) making legislative recommendations as to the feasibility of permitting State housing agencies and other appropriate State agencies to participate and operate the program on a matching grant basis.
+
+(2) The Secretary shall submit the report to the Congress not later than September 30, 1988.
+
+(Pub. L. 95–557, title IV, §408, Oct. 31, 1978, 92 Stat. 2108; Pub. L. 98–181, title II, §224(a), Nov. 30, 1983, 97 Stat. 1191; Pub. L. 100–242, title I, §163(b), (c), Feb. 5, 1988, 101 Stat. 1860.)
+
+#### Amendments
+
+1988—Subsec. (c). Pub. L. 100–242 added subsec. (c) and struck out former subsec. (c) which required Secretary to prepare and submit a report to Congress evaluating the congregate housing services program, not later than March 15, 1984.
+
+1983—Subsec. (c). Pub. L. 98–181 added subsec. (c).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 8008 of this title.
+

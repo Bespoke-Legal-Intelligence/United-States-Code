@@ -1,0 +1,46 @@
+### §594. Powers and duties of the Conference
+
+To carry out the purpose of this subchapter, the Administrative Conference of the United States may—
+
+&emsp;(1) study the efficiency, adequacy, and fairness of the administrative procedure used by administrative agencies in carrying out administrative programs, and make recommendations to administrative agencies, collectively or individually, and to the President, Congress, or the Judicial Conference of the United States, in connection therewith, as it considers appropriate;
+
+&emsp;(2) arrange for interchange among administrative agencies of information potentially useful in improving administrative procedure;
+
+&emsp;(3) collect information and statistics from administrative agencies and publish such reports as it considers useful for evaluating and improving administrative procedure;
+
+&emsp;(4) enter into arrangements with any administrative agency or major organizational unit within an administrative agency pursuant to which the Conference performs any of the functions described in this section; and
+
+&emsp;(5) provide assistance in response to requests relating to the improvement of administrative procedure in foreign countries, subject to the concurrence of the Secretary of State, the Administrator of the Agency for International Development, or the Director of the United States Information Agency, as appropriate, except that—
+
+&emsp;&emsp;(A) such assistance shall be limited to the analysis of issues relating to administrative procedure, the provision of training of foreign officials in administrative procedure, and the design or improvement of administrative procedure, where the expertise of members of the Conference is indicated; and
+
+&emsp;&emsp;(B) such assistance may only be undertaken on a fully reimbursable basis, including all direct and indirect administrative costs.
+
+> Payment for services provided by the Conference pursuant to paragraph (4) shall be credited to the operating account for the Conference and shall remain available until expended.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 390, §574; Pub. L. 101–422, §2, Oct. 12, 1990, 104 Stat. 910; renumbered §594, Pub. L. 102–354, §2(2), Aug. 26, 1992, 106 Stat. 944; Pub. L. 102–403, Oct. 9, 1992, 106 Stat. 1968.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 1045c.
+
+Aug. 30, 1964, Pub. L. 88–499, §5, 78 Stat. 616.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+
+1992—Pub. L. 102–354 renumbered section 574 of this title as this section.
+
+Par. (4). Pub. L. 102–403 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “enter into arrangements with any administrative agency or major organizational unit within an administrative agency pursuant to which the Conference performs any of the functions described in paragraphs (1), (2), and (3).”
+
+Par. (5). Pub. L. 102–403 which directed addition of par. (5) at end of section, was executed by adding par. (5) after par. (4) and before concluding provisions, to reflect the probable intent of Congress.
+
+1990—Pub. L. 101–422 added par. (4) and concluding provisions.
+

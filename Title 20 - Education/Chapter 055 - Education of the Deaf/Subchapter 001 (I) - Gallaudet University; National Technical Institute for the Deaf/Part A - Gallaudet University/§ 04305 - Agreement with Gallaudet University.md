@@ -1,0 +1,46 @@
+### §4305. Agreement with Gallaudet University
+
+#### (a) General authority
+
+The Secretary and Gallaudet University shall establish, within 1 year after October 16, 1992, a new agreement governing the operation and national mission activities, including construction and provision of equipment, of the elementary and secondary education programs at the University. The Secretary and the University shall periodically update the agreement as determined to be necessary by the Secretary or the University.
+
+#### (b) Provisions of agreement
+
+The agreement shall—
+
+&emsp;(1) provide that Federal funds appropriated for the benefit of the Kendall Demonstration Elementary School and the Model Secondary School for the Deaf will be used only for the purposes for which appropriated and in accordance with the applicable provisions of this chapter and such agreement;
+
+&emsp;(2) provide that the University will make an annual report, to be part of the report required under section 4354 of this title, to the Secretary on the operations and national mission activities of the elementary and secondary education programs, including such other information as the Secretary may consider necessary;
+
+&emsp;(3) provide that in the design and construction of any facilities, maximum attention will be given to innovative auditory and visual devices and installations appropriate for the educational functions of such facilities;
+
+&emsp;(4) provide that any laborer or mechanic employed by any contractor or subcontractor in the performance of work on any construction aided by Federal funds appropriated for the benefit of the Kendall Demonstration Elementary School or the Model Secondary School for the Deaf will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with the Act of March 3, 1931 (40 U.S.C. 276a—276a 5) commonly referred to as the Davis-Bacon Act; except that the Secretary of Labor shall have, with respect to the labor standards specified in this paragraph, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 276c of title 40; and
+
+&emsp;(5) include such other conditions as the Secretary or the University considers necessary to carry out the purposes of this part.
+
+(Pub. L. 99 371, title I, §105, as added Pub. L. 102 421, title I, §113, Oct. 16, 1992, 106 Stat. 2154; amended Pub. L. 103 73, title II, §203(e), Aug. 11, 1993, 107 Stat. 734.)
+
+#### References in Text
+
+Act of March 3, 1931 (40 U.S.C. 276a—276a 5) commonly referred to as the Davis-Bacon Act, referred to in subsec. (b)(4), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a 5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+
+Reorganization Plan Numbered 14 of 1950, referred to in subsec. (b)(4), is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Codification
+
+Section is also set out in D.C. Code, §31 1841.3b.
+
+#### Amendments
+
+1993—Subsec. (b)(2). Pub. L. 103 73, §203(e)(1), substituted “will” for “shall”.
+
+Subsec. (b)(4). Pub. L. 103 73, §203(e)(2), substituted “Elementary School or the Model” for “Elementary School and the Model” and “except that the Secretary” for “and the Secretary”.
+
+#### Effective Date
+
+Section effective Oct. 1, 1992, see section 161 of Pub. L. 102 421, set out as an Effective Date of 1992 Amendment note under section 4301 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4304 of this title.
+

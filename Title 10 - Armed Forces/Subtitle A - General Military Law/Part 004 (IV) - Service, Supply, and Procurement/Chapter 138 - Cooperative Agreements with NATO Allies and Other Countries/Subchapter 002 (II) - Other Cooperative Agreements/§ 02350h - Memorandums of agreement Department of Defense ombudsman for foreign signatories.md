@@ -1,0 +1,10 @@
+### §2350h. Memorandums of agreement: Department of Defense ombudsman for foreign signatories
+
+The Secretary of Defense shall designate an official to act as ombudsman within the Department of Defense on behalf of foreign governments who are parties to memorandums of agreement with the United States concerning acquisition matters under the jurisdiction of the Secretary of Defense. The official so designated shall assist officials of those foreign governments in understanding and complying with procedures and requirements of the Department of Defense (and, as appropriate, other departments and agencies of the United States) insofar as they relate to any such memorandum of agreement.
+
+(Added Pub. L. 101–510, div. A, title XIV, §1452(a)(1), Nov. 5, 1990, 104 Stat. 1693.)
+
+#### Deadline for Designation of Ombudsman
+
+Section 1452(b) of Pub. L. 101–510 provided that: “The official required to be designated under section 2350h of title 10, United States Code, as added by subsection (a), shall be designated by the Secretary of Defense not later than 90 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
+

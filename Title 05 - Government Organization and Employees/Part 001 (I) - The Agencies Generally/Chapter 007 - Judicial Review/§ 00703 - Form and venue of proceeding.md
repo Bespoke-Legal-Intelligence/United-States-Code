@@ -1,0 +1,28 @@
+### §703. Form and venue of proceeding
+
+The form of proceeding for judicial review is the special statutory review proceeding relevant to the subject matter in a court specified by statute or, in the absence or inadequacy thereof, any applicable form of legal action, including actions for declaratory judgments or writs of prohibitory or mandatory injunction or habeas corpus, in a court of competent jurisdiction. If no special statutory review proceeding is applicable, the action for judicial review may be brought against the United States, the agency by its official title, or the appropriate officer. Except to the extent that prior, adequate, and exclusive opportunity for judicial review is provided by law, agency action is subject to judicial review in civil or criminal proceedings for judicial enforcement.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 392; Pub. L. 94–574, §1, Oct. 21, 1976, 90 Stat. 2721.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 1009(b).
+
+June 11, 1946, ch. 324, §10(b), 60 Stat. 243.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+
+1976—Pub. L. 94–574 provided that if no special statutory review proceeding is applicable, the action for judicial review may be brought against the United States, the agency by its official title, or the appropriate officer as defendant.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 2 sections 501, 502; title 7 section 2143; title 16 section 839f; title 18 sections 843, 3625; title 25 section 954; title 41 section 422; title 42 section 5405; title 50 App. section 2412.
+

@@ -1,0 +1,38 @@
+### §5846. Compliance with safety regulations
+
+#### (a) Notification to Commission of noncompliance
+
+Any individual director, or responsible officer of a firm constructing, owning, operating, or supplying the components of any facility or activity which is licensed or otherwise regulated pursuant to the Atomic Energy Act of 1954 as amended \[42 U.S.C. 2011 et seq.\], or pursuant to this chapter, who obtains information reasonably indicating that such facility or activity or basic components supplied to such facility or activity—
+
+&emsp;(1) fails to comply with the Atomic Energy Act of 1954, as amended, or any applicablerule, regulation, order, or license of the Commission relating to substantial safety hazards, or
+
+&emsp;(2) contains a defect which could create a substantial safety hazard, as defined by regulations which the Commission shall promulgate,
+
+> shall immediately notify the Commission of such failure to comply, or of such defect, unless such person has actual knowledge that the Commission has been adequately informed of such defect or failure to comply.
+
+#### (b) Penalty for failure to notify
+
+Any person who knowingly and consciously fails to provide the notice required by subsection (a) of this section shall be subject to a civil penalty in an amount equal to the amount provided by section 234 of the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2282\].
+
+#### (c) Posting of requirements
+
+The requirements of this section shall be prominently posted on the premises of any facility licensed or otherwise regulated pursuant to the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\].
+
+#### (d) Inspection and enforcement
+
+The Commission is authorized to conduct such reasonable inspections and other enforcement activities as needed to insure compliance with the provisions of this section.
+
+(Pub. L. 93–438, title II, §206, Oct. 11, 1974, 88 Stat. 1246.)
+
+#### References in Text
+
+The Atomic Energy Act of 1954, as amended, referred to in subsecs. (a) and (c), is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
+#### Transfer of Functions
+
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2297b–11 of this title.
+

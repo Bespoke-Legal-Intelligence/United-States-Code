@@ -1,0 +1,6 @@
+### §169b. American Heart Month
+
+The President of the United States is authorized and requested to issue annually a proclamation (1) designating February as American Heart Month, (2) inviting the Governors of the States and territories of the United States to issue proclamations for like purposes, and (3) urging the people of the United States to give heed to the nationwide problem of the heart and blood vessel diseases, and to support all essential programs required to bring about its solution.
+
+(Pub. L. 88–254, Dec. 30, 1963, 77 Stat. 843.)
+

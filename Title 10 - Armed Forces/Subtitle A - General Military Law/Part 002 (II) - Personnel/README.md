@@ -1,0 +1,151 @@
+## PART II—PERSONNEL
+
+| Chap. | Sec. |
+| :--- | ---: |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
+| [<b>31.</b>](Chapter%20031%20-%20Enlistments/README.md) | <b>Enlistments</b> | <b>501</b> |
+| [<b>32.</b>](Chapter%20032%20-%20Officer%20Strength%20and%20Distribution%20in%20Grade/README.md) | <b>Officer Strength and Distribution in Grade</b> | <b>521</b> |
+| [<b>33.</b>](Chapter%20033%20-%20Original%20Appointments%20of%20Regular%20Officers%20in%20Grades%20Above%20Warrant%20Officer%20Grades/README.md) | <b>Original Appointments of Regular Officers in Grades Above Warrant Officer Grades</b> | <b>531</b> |
+| [<b>33A.</b>](Chapter%20033A%20-%20Appointment%2C%20Promotion%2C%20and%20Involuntary%20Separation%20and%20Retirement%20for%20Members%20on%20the%20Warrant%20Officer%20Active-Duty%20List/README.md) | <b>Appointment, Promotion, and Involuntary Separation and Retirement for Members on the Warrant Officer Active-Duty List</b> | <b>571</b> |
+| [<b>34.</b>](Chapter%20034%20-%20Appointments%20as%20Reserve%20Officers/README.md) | <b>Appointments as Reserve Officers</b> | <b>591</b> |
+| [<b>35.</b>](Chapter%20035%20-%20Temporary%20Appointments%20in%20Officer%20Grades/README.md) | <b>Temporary Appointments in Officer Grades</b> | <b>601</b> |
+| [<b>36.</b>](Chapter%20036%20-%20Promotion%2C%20Separation%2C%20and%20Involuntary%20Retirement%20of%20Officers%20on%20the%20Active-Duty%20List/README.md) | <b>Promotion, Separation, and Involuntary Retirement of Officers on the Active-Duty List</b> | <b>611</b> |
+| [<b>37.</b>](Chapter%20037%20-%20General%20Service%20Requirements/README.md) | <b>General Service Requirements</b> | <b>651</b> |
+| [<b>38.</b>](Chapter%20038%20-%20Joint%20Officer%20Management/README.md) | <b>Joint Officer Management</b> | <b>661</b> |
+| [<b>39.</b>](Chapter%20039%20-%20Active%20Duty/README.md) | <b>Active Duty</b> | <b>671</b> |
+| [<b>40.</b>](Chapter%20040%20-%20Leave/README.md) | <b>Leave</b> | <b>701</b> |
+| [<b>41.</b>](Chapter%20041%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md) | <b>Special Appointments, Assignments, Details, and Duties</b> | <b>711</b> |
+| [<b>43.</b>](Chapter%20043%20-%20Rank%20and%20Command/README.md) | <b>Rank and Command</b> | <b>741</b> |
+| [<b>45.</b>](Chapter%20045%20-%20The%20Uniform/README.md) | <b>The Uniform</b> | <b>771</b> |
+| [<b>47.</b>](Chapter%20047%20-%20Uniform%20Code%20of%20Military%20Justice/README.md) | <b>Uniform Code of Military Justice</b> | <b>801</b> |
+| [<b>48.</b>](Chapter%20048%20-%20Military%20Correctional%20Facilities/README.md) | <b>Military Correctional Facilities</b> | <b>951</b> |
+| [<b>49.</b>](Chapter%20049%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md) | <b>Miscellaneous Prohibitions and Penalties</b> | <b>971</b> |
+| [<b>51.</b>](Chapter%20051%20-%20Reserve%20Components%20Standards%20and%20Procedures%20for%20Retention%20and%20Promotion/README.md) | <b>Reserve Components: Standards and Procedures for Retention and Promotion</b> | <b>1001</b> |
+| [<b>53.</b>](Chapter%20053%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>1031</b> |
+| [<b>54.</b>](Chapter%20054%20-%20Commissary%20and%20Exchange%20Benefits/README.md) | <b>Commissary and Exchange Benefits</b> | <b>1061</b> |
+| [<b>55.</b>](Chapter%20055%20-%20Medical%20and%20Dental%20Care/README.md) | <b>Medical and Dental Care</b> | <b>1071</b> |
+| [<b>57.</b>](Chapter%20057%20-%20Decorations%20and%20Awards/README.md) | <b>Decorations and Awards</b> | <b>1121</b> |
+| [<b>58.</b>](Chapter%20058%20-%20Benefits%20and%20Services%20for%20Members%20Being%20Separated%20or%20Recently%20Separated/README.md) | <b>Benefits and Services for Members Being Separated or Recently Separated</b> | <b>1141</b> |
+| [<b>59.</b>](Chapter%20059%20-%20Separation/README.md) | <b>Separation</b> | <b>1161</b> |
+| [<b>60.</b>](Chapter%20060%20-%20Separation%20of%20Regular%20Officers%20for%20Substandard%20Performance%20of%20Duty%20or%20for%20Certain%20Other%20Reasons/README.md) | <b>Separation of Regular Officers for Substandard Performance of Duty or for Certain Other Reasons</b> | <b>1181</b> |
+| [<b>61.</b>](Chapter%20061%20-%20Retirement%20or%20Separation%20for%20Physical%20Disability/README.md) | <b>Retirement or Separation for Physical Disability</b> | <b>1201</b> |
+| [<b>63.</b>](Chapter%20063%20-%20Retirement%20for%20Age/README.md) | <b>Retirement for Age</b> | <b>1251</b> |
+| [<b>65.</b>](Chapter%20065%20-%20Retirement%20of%20Warrant%20Officers%20for%20Length%20of%20Service/README.md) | <b>Retirement of Warrant Officers for Length of Service</b> | <b>1293</b> |
+| [<b>67.</b>](Chapter%20067%20-%20Retired%20Pay%20for%20Nonregular%20Service/README.md) | <b>Retired Pay for Non-Regular Service</b> | <b>1331</b> |
+| [<b>69.</b>](Chapter%20069%20-%20Retired%20Grade/README.md) | <b>Retired Grade</b> | <b>1370</b> |
+| [<b>71.</b>](Chapter%20071%20-%20Computation%20of%20Retired%20Pay/README.md) | <b>Computation of Retired Pay</b> | <b>1401</b> |
+| [<b>73.</b>](Chapter%20073%20-%20Annuities%20Based%20on%20Retired%20or%20Retainer%20Pay/README.md) | <b>Annuities Based on Retired or Retainer Pay</b> | <b>1431</b> |
+| [<b>74.</b>](Chapter%20074%20-%20Department%20of%20Defense%20Military%20Retirement%20Fund/README.md) | <b>Department of Defense Military Retirement Fund</b> | <b>1461</b> |
+| [<b>75.</b>](Chapter%20075%20-%20Death%20Benefits/README.md) | <b>Death Benefits</b> | <b>1475</b> |
+| [<b>77.</b>](Chapter%20077%20-%20Posthumous%20Commissions%20and%20Warrants/README.md) | <b>Posthumous Commissions and Warrants</b> | <b>1521</b> |
+| [<b>79.</b>](Chapter%20079%20-%20Correction%20of%20Military%20Records/README.md) | <b>Correction of Military Records</b> | <b>1551</b> |
+| <b>\[80.</b> | <b>Repealed.\]</b> |  |
+| [<b>81.</b>](Chapter%20081%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>1581</b> |
+| [<b>83.</b>](Chapter%20083%20-%20Defense%20Intelligence%20Agency%20and%20Central%20Imagery%20Office%20Civilian%20Personnel/README.md) | <b>Defense Intelligence Agency and Central Imagery Office Civilian Personnel</b> | <b>1601</b> |
+| <b>\[85.</b> | <b>Repealed.\]</b> |  |
+| [<b>87.</b>](Chapter%20087%20-%20Defense%20Acquisition%20Workforce/README.md) | <b>Defense Acquisition Workforce</b> | <b>1701</b> |
+| [<b>89.</b>](Chapter%20089%20-%20Volunteers%20Investing%20in%20Peace%20and%20Security/README.md) | <b>Volunteers Investing in Peace and Security</b> | <b>1801</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1994—Pub. L. 103–359, title V, §501(b)(2), Oct. 14, 1994, 108 Stat. 3429, substituted “Defense Intelligence Agency and Central Imagery Office Civilian Personnel” for “Defense Intelligence Agency Civilian Personnel” in item for chapter 83.
+
+1992—Pub. L. 102–484, div. A, title XIII, §1322(a)(2), Oct. 23, 1992, 106 Stat. 2553, added item for chapter 89.
+
+1991—Pub. L. 102–190, div. A, title X, §1061(a)(26)(C)(ii), Dec. 5, 1991, 105 Stat. 1474, effective Oct. 1, 1993, struck out item for chapter 85 “Procurement Management Personnel”.
+
+Pub. L. 102–190, div. A, title XI, §1112(b)(2), Dec. 5, 1991, 105 Stat. 1501, substituted “Original Appointments of Regular Officers in Grades Above Warrant Officer Grades” for “Appointments in Regular Components” in item for chapter 33 and added item for chapter 33A.
+
+Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added item for chapter 85.
+
+1990—Pub. L. 101–510, div. A, title V, §502(a)(2), title XII, §1202(b), Nov. 5, 1990, 104 Stat. 1557, 1656, added items for chapters 58 and 87 and struck out item for chapter 85 “Procurement Management Personnel”.
+
+1988—Pub. L. 100–370, §1(c)(3), July 19, 1988, 102 Stat. 841, added item for chapter 54.
+
+1986—Pub. L. 99–433, title IV, §401(b), Oct. 1, 1986, 100 Stat. 1030, added item for chapter 38.
+
+1985—Pub. L. 99–145, title IX, §924(a)(2), Nov. 8, 1985, 99 Stat. 698, added item for chapter 85.
+
+1983—Pub. L. 98–94, tile IX, §925(a)(2), title XII, §1268(15), Sept. 24, 1983, 97 Stat. 648, 707, added item for chapter 74, and substituted “or” for “and” in item for chapter 60.
+
+1981—Pub. L. 97–89, title VII, §701(a)(2), Dec. 4, 1981, 95 Stat. 1160, added item for chapter 83.
+
+1980—Pub. L. 96–513, title V, §§501(1), 511(29), (54)(B), Dec. 12, 1980, 94 Stat. 2907, 2922, 2925, added item for chapter 32, substituted “531” for “541” as section number in item for chapter 33, substituted “34” for “35” as chapter number of chapter relating to appointments as reserve officers, added items for chapters 35 and 36, substituted “Reserve Components: Standards and Procedures for Retention and Promotion” for “Retention of Reserves” in item for chapter 51, added item for chapter 60, substituted “1251” for “1255” as section number in item for chapter 63, substituted “Retirement of Warrant Officers” for “Retirement” in item for chapter 65, substituted “1370” for “1371” as section number in item for chapter 69, and amended item for chapter 73 to read: “Annuities Based on Retired or Retainer Pay”.
+
+1972—Pub. L. 92–425, §2, Sept. 21, 1972, 86 Stat. 711, amended item for chapter 73 by inserting “; Survivor Benefit Plan” after “Pay” which could not be executed as directed in view of amendment by Pub. L. 87–381. See 1961 Amendment note below.
+
+1968—Pub. L. 90–377, §2, July 5, 1968, 82 Stat. 288, added item for chapter 48.
+
+1967—Pub. L. 90–83, §3(2), Sept. 11, 1967, 81 Stat. 220, struck out item for chapter 80 “Exemplary Rehabilitation Certificates”.
+
+1966—Pub. L. 89–690, §2, Oct. 15, 1966, 80 Stat. 1017, added item for chapter 80.
+
+1962—Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40.
+
+1961—Pub. L. 87–381, §1(2), Oct. 4, 1961, 75 Stat. 810, substituted “Retired Servicemen's Family Protection Plan” for “Annuities Based on Retired or Retainer Pay” in item for chapter 73.
+
+1958—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted “General Service Requirements” for “Service Requirements for Reserves” in item for chapter 37, “971” for “\[No present sections\]” in item for chapter 49, “Medical and Dental Care” for “Voting by Members of Armed Forces” in item for chapter 55, and struck out “Care of the Dead” and substituted “1475” for “1481” in item for chapter 75.
+
+#### Cross References
+
+Particular provisions relating to personnel—
+
+&emsp;&emsp;Coast Guard, see section 211 et seq. of Title 14, Coast Guard.
+
+&emsp;&emsp;National Guard, see section 301 et seq. of Title 32, National Guard.
+
+&emsp;&emsp;Naval Reserve and Marine Corps Reserve, see section 5441 et seq. of this title.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [Chapter 031 - Enlistments](Chapter%20031%20-%20Enlistments/README.md)
+- [Chapter 032 - Officer Strength and Distribution in Grade](Chapter%20032%20-%20Officer%20Strength%20and%20Distribution%20in%20Grade/README.md)
+- [Chapter 033 - Original Appointments of Regular Officers in Grades Above Warrant Officer Grades](Chapter%20033%20-%20Original%20Appointments%20of%20Regular%20Officers%20in%20Grades%20Above%20Warrant%20Officer%20Grades/README.md)
+- [Chapter 033A - Appointment, Promotion, and Involuntary Separation and Retirement for Members on the Warrant Officer Active-Duty List](Chapter%20033A%20-%20Appointment%2C%20Promotion%2C%20and%20Involuntary%20Separation%20and%20Retirement%20for%20Members%20on%20the%20Warrant%20Officer%20Active-Duty%20List/README.md)
+- [Chapter 034 - Appointments as Reserve Officers](Chapter%20034%20-%20Appointments%20as%20Reserve%20Officers/README.md)
+- [Chapter 035 - Temporary Appointments in Officer Grades](Chapter%20035%20-%20Temporary%20Appointments%20in%20Officer%20Grades/README.md)
+- [Chapter 036 - Promotion, Separation, and Involuntary Retirement of Officers on the Active-Duty List](Chapter%20036%20-%20Promotion%2C%20Separation%2C%20and%20Involuntary%20Retirement%20of%20Officers%20on%20the%20Active-Duty%20List/README.md)
+- [Chapter 037 - General Service Requirements](Chapter%20037%20-%20General%20Service%20Requirements/README.md)
+- [Chapter 038 - Joint Officer Management](Chapter%20038%20-%20Joint%20Officer%20Management/README.md)
+- [Chapter 039 - Active Duty](Chapter%20039%20-%20Active%20Duty/README.md)
+- [Chapter 040 - Leave](Chapter%20040%20-%20Leave/README.md)
+- [Chapter 041 - Special Appointments, Assignments, Details, and Duties](Chapter%20041%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md)
+- [Chapter 043 - Rank and Command](Chapter%20043%20-%20Rank%20and%20Command/README.md)
+- [Chapter 045 - The Uniform](Chapter%20045%20-%20The%20Uniform/README.md)
+- [Chapter 047 - Uniform Code of Military Justice](Chapter%20047%20-%20Uniform%20Code%20of%20Military%20Justice/README.md)
+- [Chapter 048 - Military Correctional Facilities](Chapter%20048%20-%20Military%20Correctional%20Facilities/README.md)
+- [Chapter 049 - Miscellaneous Prohibitions and Penalties](Chapter%20049%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md)
+- [Chapter 051 - Reserve Components Standards and Procedures for Retention and Promotion](Chapter%20051%20-%20Reserve%20Components%20Standards%20and%20Procedures%20for%20Retention%20and%20Promotion/README.md)
+- [Chapter 053 - Miscellaneous Rights and Benefits](Chapter%20053%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md)
+- [Chapter 054 - Commissary and Exchange Benefits](Chapter%20054%20-%20Commissary%20and%20Exchange%20Benefits/README.md)
+- [Chapter 055 - Medical and Dental Care](Chapter%20055%20-%20Medical%20and%20Dental%20Care/README.md)
+- [Chapter 057 - Decorations and Awards](Chapter%20057%20-%20Decorations%20and%20Awards/README.md)
+- [Chapter 058 - Benefits and Services for Members Being Separated or Recently Separated](Chapter%20058%20-%20Benefits%20and%20Services%20for%20Members%20Being%20Separated%20or%20Recently%20Separated/README.md)
+- [Chapter 059 - Separation](Chapter%20059%20-%20Separation/README.md)
+- [Chapter 060 - Separation of Regular Officers for Substandard Performance of Duty or for Certain Other Reasons](Chapter%20060%20-%20Separation%20of%20Regular%20Officers%20for%20Substandard%20Performance%20of%20Duty%20or%20for%20Certain%20Other%20Reasons/README.md)
+- [Chapter 061 - Retirement or Separation for Physical Disability](Chapter%20061%20-%20Retirement%20or%20Separation%20for%20Physical%20Disability/README.md)
+- [Chapter 063 - Retirement for Age](Chapter%20063%20-%20Retirement%20for%20Age/README.md)
+- [Chapter 065 - Retirement of Warrant Officers for Length of Service](Chapter%20065%20-%20Retirement%20of%20Warrant%20Officers%20for%20Length%20of%20Service/README.md)
+- [Chapter 067 - Retired Pay for Nonregular Service](Chapter%20067%20-%20Retired%20Pay%20for%20Nonregular%20Service/README.md)
+- [Chapter 069 - Retired Grade](Chapter%20069%20-%20Retired%20Grade/README.md)
+- [Chapter 071 - Computation of Retired Pay](Chapter%20071%20-%20Computation%20of%20Retired%20Pay/README.md)
+- [Chapter 073 - Annuities Based on Retired or Retainer Pay](Chapter%20073%20-%20Annuities%20Based%20on%20Retired%20or%20Retainer%20Pay/README.md)
+- [Chapter 074 - Department of Defense Military Retirement Fund](Chapter%20074%20-%20Department%20of%20Defense%20Military%20Retirement%20Fund/README.md)
+- [Chapter 075 - Death Benefits](Chapter%20075%20-%20Death%20Benefits/README.md)
+- [Chapter 077 - Posthumous Commissions and Warrants](Chapter%20077%20-%20Posthumous%20Commissions%20and%20Warrants/README.md)
+- [Chapter 079 - Correction of Military Records](Chapter%20079%20-%20Correction%20of%20Military%20Records/README.md)
+- [Chapter 080 - Repealed](Chapter%20080%20-%20Repealed/README.md)
+- [Chapter 081 - Civilian Employees](Chapter%20081%20-%20Civilian%20Employees/README.md)
+- [Chapter 083 - Defense Intelligence Agency and Central Imagery Office Civilian Personnel](Chapter%20083%20-%20Defense%20Intelligence%20Agency%20and%20Central%20Imagery%20Office%20Civilian%20Personnel/README.md)
+- [Chapter 085 - Repealed](Chapter%20085%20-%20Repealed/README.md)
+- [Chapter 087 - Defense Acquisition Workforce](Chapter%20087%20-%20Defense%20Acquisition%20Workforce/README.md)
+- [Chapter 089 - Volunteers Investing in Peace and Security](Chapter%20089%20-%20Volunteers%20Investing%20in%20Peace%20and%20Security/README.md)

@@ -1,0 +1,10 @@
+### §2008. Utilization of available information and data
+
+In the implementation of this chapter, the Secretary shall utilize information and data available from other Federal, State, and localgovernments, and private organizations and he shall coordinate his actions with the resource appraisal and planning efforts of other Federal agencies and avoid unnecessary duplication and overlap of planning and program efforts.
+
+(Pub. L. 95–192, §9, Nov. 18, 1977, 91 Stat. 1411.)
+
+#### Transfer of Functions
+
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 2002 of this title.
+

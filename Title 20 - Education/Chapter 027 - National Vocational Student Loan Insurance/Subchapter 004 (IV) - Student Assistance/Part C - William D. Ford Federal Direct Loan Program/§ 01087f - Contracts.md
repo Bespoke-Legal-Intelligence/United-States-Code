@@ -1,0 +1,44 @@
+### §1087f. Contracts
+
+#### (a) Contracts for supplies and services
+
+#### (1) In general
+
+&emsp;The Secretary shall, to the extent practicable, award contracts for origination, servicing, and collection described in subsection (b) of this section. In awarding such contracts, the Secretary shall ensure that such services and supplies are provided at competitive prices.
+
+#### (2) Entities
+
+&emsp;The entities with which the Secretary may enter into contracts shall include only entities which the Secretary determines are qualified to provide such services and supplies and will comply with the procedures applicable to the award of such contracts. In the case of awarding contracts for the origination, servicing, and collection of loans under this part, the Secretary shall enter into contracts only with entities that have extensive and relevant experience and demonstrated effectiveness. The entities with which the Secretary may enter into such contracts shall include, where practicable, agencies with agreements with the Secretary under sections 1078(b) and (c) of this title, if such agencies meet the qualifications as determined by the Secretary under this subsection and if those agencies have such experience and demonstrated effectiveness. In awarding contracts to such State agencies, the Secretary shall, to the extent practicable and consistent with the purposes of this part, give special consideration to State agencies with a history of high quality performance to perform services for institutions of higher education within their State.
+
+#### (3) Rule of construction
+
+&emsp;Nothing in this section shall be construed as a limitation of the authority of any State agency to enter into an agreement for the purposes of this section as a member of a consortium of State agencies.
+
+#### (b) Contracts for origination, servicing, and data systems
+
+The Secretary may enter into contracts for—
+
+&emsp;(1) the alternative origination of loans to students attending institutions of higher education with agreements to participate in the program under this part (or their parents), if such institutions do not have agreements with the Secretary under section 1087d(b) of this title;
+
+&emsp;(2) the servicing and collection of loans made under this part;
+
+&emsp;(3) the establishment and operation of 1 or more data systems for the maintenance of records on all loans made under this part;
+
+&emsp;(4) services to assist in the orderly transition from the loan programs under part B of this subchapter to the direct student loan program under this part; and
+
+&emsp;(5) such other aspects of the direct student loan program as the Secretary determines are necessary to ensure the successful operation of the program.
+
+(Pub. L. 89 329, title IV, §456, as added Pub. L. 102 325, title IV, §451, July 23, 1992, 106 Stat. 572; amended Pub. L. 103 66, title IV, §4021, Aug. 10, 1993, 107 Stat. 352.)
+
+#### Amendments
+
+1993—Pub. L. 103 66 amended section generally, substituting provisions relating to contracts for former provisions relating to terms and conditions.
+
+#### Effective Date
+
+Section effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1087b, 1087c of this title.
+

@@ -1,0 +1,34 @@
+### §1c. General administration provisions; system defined; particular areas
+
+#### (a) “National park system” defined
+
+The “national park system” shall include any area of land and water now or hereafter administered by the Secretary of the Interior through the National Park Service for park, monument, historic, parkway, recreational, or other purposes.
+
+#### (b) Specific provisions applicable to area; uniform application of sections 1b to 1d and other provisions of this title to all areas when not in conflict with specific provisions; references in other provisions to national parks, monuments, recreation areas, historic monuments, or parkways not a limitation of such other provisions to those areas
+
+Each area within the national park system shall be administered in accordance with the provisions of any statute made specifically applicable to that area. In addition, the provisions of sections 1b to 1d of this title, and the various authorities relating to the administration and protection of areas under the administration of the Secretary of the Interior through the National Park Service, including but not limited to the Act of August 25, 1916 (39 Stat. 535), asamended \[16 U.S.C. 1, 2, 3, and 4\], the Act of March 4, 1911 (36 Stat. 1253), as amended (16 U.S.C. 5) relating to rights-of-way, the Act of June 5, 1920 (41 Stat. 917), as amended (16 U.S.C. 6), relating to donation of land and money, sections 1, 4, 5, and 6 of the Act of April 9, 1924 (43 Stat. 90), as amended (16 U.S.C. 8 and 8a–8c), relating to roads and trails, the Act of March 4, 1931 (46 Stat. 1570; 16 U.S.C. 8d), relating to approach roads to national monuments, the Act of June 3, 1948 (62 Stat. 334), as amended (16 U.S.C. 8e–8f), relating to conveyance of roads to States, the Act of August 31, 1954 (68 Stat. 1037), as amended (16 U.S.C. 452a), relating to acquisitions of inholdings, section 1 of the Act of July 3, 1926 (44 Stat. 900), as amended (16 U.S.C. 12), relating to aid to visitors in emergencies, the Act of March 3, 1905 (33 Stat. 873; 16 U.S.C. 10), relating to arrests, sections 3, 4, 5, and 6 of the Act of May 26, 1930 (46 Stat. 381), as amended (16 U.S.C. 17b, 17c, 17d, and 17e), relating to services or other accommodations for the public, emergency supplies and services to concessioners, acceptability of travelers checks, care and removal of indigents, the Act of October 9, 1965 (79 Stat. 696; 16 U.S.C. 20–20g), relating to concessions, the Land and Water Conservation Fund Act of 1965, as amended \[16 U.S.C. 460<i>l</i>–4 et seq.\], and the Act of July 15, 1968 (82 Stat. 355), shall to the extent such provisions are not in conflict with any such specific provision, be applicable to all areas within the national park system and any reference in such Act to national parks, monuments, recreation areas, historic monuments, or parkways shall hereinafter not be construed as limiting such Acts to those areas.
+
+(Aug. 8, 1953, ch. 384, §2, 67 Stat. 496; Aug. 18, 1970, Pub. L. 91–383, §2(b), 84 Stat. 826.)
+
+#### References in Text
+
+Act of October 9, 1965, referred to in subsec. (b), is Pub. L. 89–249, Oct. 9, 1965, 79 Stat. 969, known as the National Park System Concessions Policy Act, which is classified generally to subchapter IV (§20 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 20 of this title and Tables.
+
+Act of March 3, 1905 (33 Stat. 873; 16 U.S.C. 10), referred to in subsec. (b), related to arrests by National Park Service personnel in the national forests and national parks. Provisions of that Act that related to arrests by Forest Service personnel in the national forest and national parks are classified to section 559 of this title. Section 10(a)(2) of Pub. L. 91–383, as added by Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1941, amended the 1905 Act by striking out references to the National Park Service and the national parks, and had the effect of repealing those provisions of the 1905 Act that were classified to section 10 of this title. Provisions relating to law and order within areas of the National Park System are covered by section 1a–6 of this title.
+
+Section 17d of this title, referred to in subsec. (b), was omitted from the Code as obsolete.
+
+The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+
+Act of July 15, 1968 (82 Stat. 355), referred to in subsec. (b), is Pub. L. 90–401, which enacted sections 460<i>l</i>–10a to 460<i>l</i>–10c and 460<i>l</i>–22 of this title, amended section 460<i>l</i>–5, 460<i>l</i>–7, and 460<i>l</i>–9 of this title, and enacted provisions set out as notes under section 460<i>l</i>–5 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+1970—Subsec. (a). Pub. L. 91–383, in redefining the national park system, substituted provision for inclusion of any area of land and water now or hereafter administered by the Secretary of the Interior through the National Park Service for park, monument, historic, parkway, recreational, or other purposes for prior provision defining such system to mean all federally owned or controlled lands administered under direction of Secretary of the Interior under sections 1, 2, 3, and 4 of this title and grouped in the following descriptive categories: (1) National parks, (2) national monuments, (3) national historic parks, (4) national memorials, (5) national parkways, and (6) national capital parks.
+
+Subsec. (b). Pub. L. 91–383 substituted provisions making specific provisions applicable to an area of the national park system, for uniform application of authorities, and prohibiting construction of references in other provisions to national parks, monuments, recreation areas, historic monuments or parkways as limitation of such other provisions to those areas, for prior definition of “miscellaneous areas” as including lands under administrative jurisdiction of another Federal agency, or privately owned lands, and over which National Park Service, under direction of Secretary of the Interior, exercises supervision for recreational, historical, or other related purposes, and lands under care and custody of such Service other than those herein described.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1a–1, 459b–6, 459c–6, 5207 of this title.
+

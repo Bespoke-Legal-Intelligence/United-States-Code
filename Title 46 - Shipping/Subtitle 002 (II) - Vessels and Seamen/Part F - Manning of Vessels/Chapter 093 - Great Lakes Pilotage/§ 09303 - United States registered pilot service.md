@@ -1,0 +1,64 @@
+### §9303. United States registered pilot service
+
+(a) The Secretary shall prescribe by regulation standards of competency to be met by each applicant for registration under this chapter. An applicant must—
+
+&emsp;(1) have a license as master, mate, or pilot issued under section 7101 of this title;
+
+&emsp;(2) have acquired at least 24 months licensed service or equivalent experience on vessels or integrated towing vessels and tows of at least 4,000 gross tons, operating on the Great Lakes or oceans, with a minimum of 6 months of that service or experience having been on the Great Lakes; and
+
+&emsp;(3) agree that, if appointed as a United States registered pilot, the applicant will be available for service when required.
+
+(b) The Secretary shall issue to each registered pilot under this chapter a certificate of registration describing the areas within which the pilot may serve. The pilot shall carry the certificate when in the service of a vessel.
+
+(c) The Secretary shall prescribe by regulation the duration of validity of registration.
+
+(d) The Secretary may prescribe by regulation the conditions for service by United States registered pilots, including availability for service.
+
+(e) Subject to sections 551–559 of title 5, the Secretary may suspend or revoke a certificate of registration issued under this section if the holder fails to comply with a regulation prescribed under this chapter. Suspension or revocation of the holder's license under chapter 77 of this title includes the holder's certificate of registration.
+
+(f) The Secretary shall prescribe by regulation rates and charges for pilotage services, giving consideration to the public interest and the costs of providing the services.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 558.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source section (U.S. Code)</i>
+
+9303(a)
+
+46:216b(a)
+
+9303(b)
+
+46:216b(b)
+
+9303(c)
+
+46:216b(c)
+
+9303(e)
+
+46:216b(c)
+
+9303(f)
+
+46:216c
+
+Section 9303 authorizes the Secretary to prescribe regulatory standards of competency for registered pilots.
+
+Subsection (a) requires an applicant for registration as a pilot to have a master's, mate's, or pilot's license, 24 months of licensed service, or equivalent, on vessels on the oceans or Great Lakes, with a minimum of 6 months on the Great Lakes, and agree to be available for service as a United States registered pilot if appointed.
+
+Subsection (b) requires the Secretary to issue a certificate of registration describing the areas of service of a registered pilot who must carry the certificate when in a vessel's service.
+
+Subsection (c) authorizes the Secretary to prescribe the duration of the validity of registration, while subsection (d) authorizes the Secretary to prescribe conditions for service by United States registered pilots.
+
+Subsection (e) provides for the suspension or revocation of a certificate or registration by the Secretary.
+
+Subsection (f) provides for setting the rates and charges for pilotage services.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 9301, 9308 of this title; title 49 section 1133.
+

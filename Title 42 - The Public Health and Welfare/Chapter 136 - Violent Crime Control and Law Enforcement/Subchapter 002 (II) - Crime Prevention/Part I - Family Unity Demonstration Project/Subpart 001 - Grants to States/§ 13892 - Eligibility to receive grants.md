@@ -1,0 +1,10 @@
+### §13892. Eligibility to receive grants
+
+To be eligible to receive a grant under section 13891 of this title, a State shall submit to the Attorney General an application at such time, in such form, and containing such information as the Attorney General reasonably may require by rule.
+
+(Pub. L. 103–322, title III, §31912, Sept. 13, 1994, 108 Stat. 1895.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 13891, 14214 of this title.
+

@@ -1,0 +1,72 @@
+### §429. Benefits in case of members of uniformed services
+
+(a) For purposes of determining entitlement to and the amount of any monthly benefit for any month after December 1972, or entitlement to and the amount of any lump-sum death payment in case of a death after such month, payable under this subchapter on the basis of the wages and self-employment income of any individual, and for purposes of section 416(i)(3) of this title, such individual, if he was paid wages for service as a member of a uniformed service (as defined in section 410(m) of this title) which was included in the term “employment” as defined in section 410(a) of this title as a result of the provisions of section 410(<i>l</i>)(1)(A) of this title, shall be deemed to have been paid—
+
+&emsp;(1) in each calendar quarter occurring after 1956 and before 1978 in which he was paid such wages, additional wages of $300, and
+
+&emsp;(2) in each calendar year occurring after 1977 in which he was paid such wages, additional wages of $100 for each $300 of such wages, up to a maximum of $1,200 of additional wages for any calendar year.
+
+(b) There are authorized to be appropriated to each of the Trust Funds, consisting of the Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, and the Federal Hospital Insurance Trust Fund, for transfer on July 1 of each calendar year to such Trust Fund from amounts in the general fund in the Treasury not otherwise appropriated, an amount equal to the total of the additional amounts which would be appropriated to such Trust Fund for the fiscal year ending September 30 of such calendar year under section 401 or 1395i of this title if the amounts of the additional wages deemed to have been paid for such calendar year by reason of subsection (a) of this section constituted remuneration for employment (as defined in section 3121(b) of the Internal Revenue Code of 1986) for purposes of the taxes imposed by sections 3101 and 3111 of the Internal Revenue Code of 1986. Amounts authorized to be appropriated under this subsection for transfer on July 1 of each calendar year shall be determined on the basis of estimates of the Commissioner of Social Security of the wages deemed to be paid for such calendar year under subsection (a) of this section; and proper adjustments shall be made in amounts authorized to be appropriated for subsequent transfer to the extent prior estimates were in excess of or were less than such wages so deemed to be paid. Additional adjustments may be made in the amounts so authorized to be appropriated to the extent that the amounts transferred in accordance with clauses (i) and (ii) of section 151(b)(3)(B) of the Social Security Amendments of 1983 with respect to wages deemed to have been paid in 1983 were in excess of or were less than the amount which the Commissioner of Social Security, on the basis of appropriate data, determines should have been so transferred.
+
+(Aug. 14, 1935, ch. 531, title II, §229, as added Jan. 2, 1968, Pub. L. 90–428, title I, §106, 81 Stat. 833; amended Oct. 30, 1972, Pub. L. 92–603, title I, §120(a), 86 Stat. 1352; Dec. 20, 1977, Pub. L. 95–216, title III, §353(d), 91 Stat. 1554; Apr. 20, 1983, Pub. L. 98–21, title I, §151(b)(1), 97 Stat. 104; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2661(n), 98 Stat. 1158; Dec. 22, 1987, Pub. L. 100–203, title IX, §9001(c), 101 Stat. 1330–286; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), title III, §321(c)(6)(J), 108 Stat. 1478, 1538.)
+
+#### References in Text
+
+The Internal Revenue Code of 1986, referred to in subsec. (b), is classified generally to Title 26, Internal Revenue Code.
+
+Section 151(b)(3)(B) of the Social Security Amendments of 1983, referred to in subsec. (b), is section 151(b)(3)(B) of Pub. L. 98–21, which is set out as a note below.
+
+#### Amendments
+
+1994—Subsec. (b). Pub. L. 103–296, §321(c)(6)(J), substituted “1986” for “1954” after “Code of” in two places.
+
+Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” in two places.
+
+1987—Subsec. (a). Pub. L. 100–203 substituted “section 410(<i>l</i>)(1)(A)” for “section 410(<i>l</i>)”.
+
+1984—Subsec. (b). Pub. L. 98–369 inserted at end “Additional adjustments may be made in the amounts so authorized to be appropriated to the extent that the amounts transferred in accordance with clauses (i) and (ii) of section 151(b)(3)(B) of the Social Security Amendments of 1983 with respect to wages deemed to have been paid in 1983 were in excess of or were less than theamount which the Secretary, on the basis of appropriate data, determines should have been so transferred.”
+
+1983—Subsec. (b). Pub. L. 98–21 amended subsec. (b) generally, substituting provisions relating to authorization of appropriations to each of the Trust Funds for transfer on July 1 of each calendar year for provision that had authorized appropriations to the Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, and the Federal Hospital Insurance Trust Fund annually, as benefits under this subchapter and part A of subchapter XVIII of this chapter were paid after December 1967, such sums as the Secretary determined to be necessary to meet (1) the additional costs, resulting from subsec. (a), of such benefits (including lump-sum death payments), (2) the additional administrative expenses resulting therefrom, and (3) any loss in interest to such trust funds resulting from the payment of such amounts, and that such additional costs would be determined after any increases in such benefits arising from the application of section 417 of this title had been made.
+
+1977—Subsec. (a). Pub. L. 95–216 substituted provisions relating to applicability of benefits for wages deemed to have been paid in each calendar quarter occurring after 1956 and before 1978 and provisions relating to applicability of benefits for wages deemed to have been paid in each calendar quarter occurring after 1977, for provisions relating to applicability of benefits for wages deemed to have been paid in each calendar quarter occurring after 1956.
+
+1972—Subsec. (a). Pub. L. 92–603 substituted “December 1972” for “December 1967” and “after 1956” for “after 1967” and struck out provisions limiting the wages deemed to have been paid an individual in addition to the wages actually paid him for his service to $100 if the wages actually paid to him in a quarter were $100 or less or to $200 if the wages actually paid to him in a quarter were more than $100 but not more than $200.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
+
+#### Effective Date of 1987 Amendment
+
+Amendment by Pub. L. 100–203 applicable with respect to remuneration paid after Dec. 31, 1987, see section 9001(d) of Pub. L. 100–203, set out as a note under section 3121 of Title 26, Internal Revenue Code.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–369 effective as though included in the enactment of the Social Security Amendments of 1983, Pub. L. 98–21, see section 2664(a) of Pub. L. 98–369, set out as a note under section 401 of this title.
+
+#### Effective Date of 1983 Amendment
+
+Section 151(b)(2) of Pub. L. 98–21 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to wages deemed to have been paid for calendar years after 1983.”
+
+#### Effective Date of 1977 Amendment
+
+Amendment by Pub. L. 95–216 effective Jan. 1, 1978, see section 353(g) of Pub. L. 95–216, set out as a note under section 418 of this title.
+
+#### Effective Date of 1972 Amendment
+
+Section 120(b) of Pub. L. 92–603 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1972 and with respect to lump-sum death payments under such title in the case of deaths occurring after December 1972 except that, in the case of any individual who is entitled, on the basis of the wages and self-employment income of any individual to whom section 229 of such Act \[this section\] applies, to monthly benefits under title II of such Act for the month in which this Act is enacted \[October 1972\], such amendments shall apply (1) only if a written request for a recalculation of such benefits (by reason of such amendments) under the provisions of section 215(b) and (d) of such Act \[section 415(b) and (d) of this title\], as in effect at the time such request is filed, is filed by such individual, or any other individual, entitled to benefits under such title II on the basis of such wages and self-employment income, and (2) only with respect to such benefits for months beginning with whichever of the following is later: January 1973 or the twelfth month before the month in which such request was filed. Recalculations of benefits as required to carry out the provisions of this section shall be made notwithstanding the provisions of section 215(f)(1) of the Social Security Act, and no such recalculation shall be regarded as a recomputation for purposes of section 215(f) of such Act.”
+
+#### Compensatory Payments to Trust Funds
+
+Section 151(b)(3) of Pub. L. 98–21, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+
+“(A) Within thirty days after the date of the enactment of this Act \[Apr. 20, 1983\], the Secretary of Health and Human Services shall determine the additional amounts which would have been appropriated to the Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, and the Federal Hospital Insurance Trust Fund under sections 201 and 1817 of the Social Security Act \[sections 401 and 1395i of this title\] if the additional wages deemed to have been paid under section 229(a) of the Social Security Act \[subsec. (a) of this section\] prior to 1984 had constituted remuneration for employment (as defined in section 3121(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[26 U.S.C. 3121(b)\]) for purposes of the taxes imposed by sections 3101 and 3111 of the Internal Revenue Code of 1986 \[26 U.S.C. 3101, 3111\], and the amount of interest which would have been earned on such amounts if they had been so appropriated.
+
+“(B)(i) Within thirty days after the date of the enactment of this Act \[Apr. 20, 1983\], the Secretary of the Treasury shall transfer to each such Trust Fund, from amounts in the general fund of the Treasury not otherwise appropriated, an amount equal to the amount determined with respect to such Trust Fund under subparagraph (A), less any amount appropriated to such Trust Fund pursuant to the provisions of section 229(b) of the Social Security Act \[subsec. (b) of this section\] prior to the date of the determination made under subparagraph (A) with respect to wages deemed to have been paid for calendar years prior to 1984.
+
+“(ii) The Secretary of Health and Human Services shall revise the amount determined under clause (i) with respect to each such Trust Fund within one year after the date of the transfer made to such Trust Fund under clause (i), as determined appropriate by such Secretary from data which becomes available to him after the date of the transfer under clause (i). Within 30 days after any such revision, the Secretary of the Treasury shall transfer to such Trust Fund, from amounts in the general fund of the Treasury not otherwise appropriated, or from such Trust Fund to the general fund of the Treasury, such amounts as the Secretary of Health and Human Services certifies as necessary to take into account such revision.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 415 of this title; title 38 section 5303A; title 45 section 231b; title 50 section 2082.
+

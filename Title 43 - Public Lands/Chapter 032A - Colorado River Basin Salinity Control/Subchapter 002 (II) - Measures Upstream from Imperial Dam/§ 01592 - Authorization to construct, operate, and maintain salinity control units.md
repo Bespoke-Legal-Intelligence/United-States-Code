@@ -1,0 +1,106 @@
+### §1592. Authorization to construct, operate, and maintain salinity control units
+
+#### (a) Authority of Secretary
+
+The Secretary is authorized to construct, operate, and maintain the following salinity control units as the initial stage of the Colorado River Basin salinity control program.
+
+(1) The Paradox Valley unit, Montrose County, Colorado, consisting of facilities for collection and disposition of saline ground water of Paradox Valley, including wells, pumps, pipelines, solar evaporation ponds, and all necessary appurtenant and associated works such as roads, fences, dikes, power transmission facilities, and permanent operating facilities, and consisting of measures to replace incidental fish and wildlife values foregone.
+
+(2) The Grand Valley unit, Colorado, consisting of measures and all necessary appurtenant and associated works to reduce the seepage of irrigation water from the irrigated lands of Grand Valley into the ground water and thence into the Colorado River. Measures shall include lining of canals and laterals, replacing canals and laterals with pipe, and the combining of existing canals and laterals into fewer and more efficient facilities implementing other measures to reduce salt contributions from the Grand Valley to the Colorado River, and implementing measures to replace incidental fish and wildlife values foregone..<sup>1</sup> Prior to initiation of construction of the Grand Valley unit, or portion thereof, the Secretary shall enter into contracts through which the non-Federal entities owning, operating, and maintaining the water distribution systems, or portions thereof, in Grand Valley, singly or in concert, will assume the obligations specified in subsection (b)(2) of this section relating to the continued operation and maintenance of the unit's facilities to the end that the maximum reduction of salinity inflow to the Colorado River will be achieved.
+
+(3) The Las Vegas Wash unit, Nevada, consisting of facilities for collection and disposition of saline ground water of Las Vegas Wash, including infiltration galleries, pumps, desalter, pipelines, solar evaporation facilities, and all appurtenant works including but not limited to roads, fences, power transmission facilities, and operating facilities, and consisting of measures to replace incidental fish and wildlife values foregone.
+
+(4) Stage I of the Lower Gunnison Basin unit, Colorado, consisting of measures and all necessary appurtenant and associated works to reduce seepage from canals and laterals in the Uncompahgre Valley, and consisting of measures to replace incidental fish and wildlife values foregone, essentially as described in the feasibility report and final environmental statement dated February 10, 1984. Prior to initiation of construction of stage I of the Lower Gunnison Basin unit, or of a portion of stage I, the Secretary shall enter into contracts through which the non-Federal entities owning, operating, and maintaining the water distribution systems, or portions thereof, in the Uncompahgre Valley, singly or in concert, will assume the obligations specified in subsection (b)(2) of this section relating to the continued operation and maintenance of the unit's facilities.
+
+(5) Portions of the McElmo Creek unit, Colorado, as components of the Dolores participating project, Colorado River Storage project, authorized by Public Law 90–537 \[43 U.S.C. 1501 et seq.\] and Public Law 84–485 \[43 U.S.C. 620 et seq.\], consisting of all measures and all necessary appurtenant and associated works to reduce seepage only from the Towaoc-Highline combined canal, Rocky Ford laterals, Lone Pine lateral, and Upper Hermana lateral, and consisting of measures to replace incidental fish and wildlife values foregone. The Dolores participating project shall have salinity control as a project purpose insofar as these specific facilities are concerned: <i>Provided</i>, That the costs of construction and replacement of these specific facilities shall be allocated by the Secretary to salinity control and irrigation only after consultation with the State of Colorado, the Montezuma Valley Irrigation District, Colorado, and the Dolores Water Conservancy District, Colorado: <i>And provided further</i>, That such allocation of costs to salinity control will include only the separable and specific costs of these specific facilities and will not include any joint costs of any other facilities of the Dolores participating project. Repayment of costs allocated to salinity control shall be subject to this chapter. Repayment of costs allocated to irrigation shall be subject to the Acts which authorized the Dolores participating project, the Reclamation Act of 1902, and Acts amendatory and supplementary thereto. Prior to initiation of construction of these specific facilities, or a portion thereof, the Secretary shall enter into contracts through which the non-Federal entities owning, operating, and maintaining the water distribution systems, or portions thereof, in the Montezuma Valley, singly or in concert, will assume the obligations specified in subsection (b)(2) of this section relating to the continued operation and maintenance of the unit's facilities.
+
+#### (b) Implementation of authorized units
+
+In implementing the units authorized to be constructed pursuant to subsection (a) of this section, the Secretary shall carry out the following directions:
+
+&emsp;(1) As reports are completed describing final implementation plans for the unit, or any portion thereof, authorized by paragraph (5) of subsection (a) of this section, and prior to expenditure of funds for related construction activities, the Secretary shall submit such reports to the appropriate committees of the Congress and to the governors of the Colorado River Basin States.
+
+&emsp;(2) Non-Federal entities shall be required by the Secretary to contract for the long-term operation and maintenance of canal and lateral systems constructed pursuant to activities provided for in subsection (a) of this section: <i>Provided</i>, That the Secretary shall reimburse such non-Federal entities for the costs of such operation and maintenance to the extent the costs exceed the expenses that would have been incurred by them in the thorough and timely operation and maintenance of their canal and lateral systems absent the construction of a unit, said expenses to be determined by the Secretary after consultation with the involved non-Federal entities. The operation and maintenance for which non-Federal entities shall be responsible shall include such repairing and replacing of a unit's facilities as are associated with normal annual maintenance activities in order to keep such facilities in a condition which will assure maximum reduction of salinity inflow to the Colorado River. These non-Federal entities shall not be responsible, nor incur any costs, for the replacement of a unit's facilities, including measures to replace incidental fish and wildlife values foregone. The term replacement shall be defined for the purposes of this subchapter as a major modification or reconstruction of a completed unit, or portion thereof, which is necessitated, through no fault of the non-Federal entity or entities operating and maintaining a unit, by design or construction inadequacies or by normal limits on the useful life of a facility. The Secretary is authorized to provide continuing technical assistance to non-Federal entities to assure the effective and efficient operation and maintenance of a unit's facilities.
+
+&emsp;(3) The Secretary may, under authority of this subchapter, and limited to the purposes of this chapter, fund through a grant or contract, for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts, a non-Federal entity to organize private canal and lateral owners into formal organizations with which the Secretary may enter into a grant or contract to construct, operate, and maintain a unit's facilities.
+
+&emsp;(4) In implementing the units authorized to be constructed pursuant to paragraphs (1), (2), (3), (4), and (5) of subsection (a) of this section, the Secretary shall comply with procedural and substantive State water laws.
+
+&emsp;(5) The Secretary may, under authority of this subchapter and limited to the purposes of this chapter, fund through a grant or contract, for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts, a non-Federal entity to operate and maintain measures to replace incidental fish and wildlife values foregone.
+
+&emsp;(6) In implementing the units authorized to be constructed pursuant to subsection (a) of this section, the Secretary shall implement measures to replace incidental fish and wildlife values foregone concurrently with the implementation of a unit's, or a portion of a unit's, related features.
+
+#### (c) Voluntary cooperative salinity control program; establishment; improvement of on-farm water management; functions; Secretary; reports; Congressional committees; use of agencies; Commodity Credit Corporation
+
+(1) The Secretary of Agriculture may establish a voluntary cooperative salinity control program with landowners to improve on-farm water management and reduce watershed erosion on non-Federal lands and on lands under the control of the Department of Agriculture for the purpose of assisting in meeting the objectives of this subchapter.
+
+(2) In carrying out such program, the Secretary of Agriculture shall—
+
+&emsp;(A) identify salt-source areas and determine the salt load resulting from irrigation and watershed management practices;
+
+&emsp;(B) develop, in consultation with the public and affected governmental interests, plans for implementing measures that will reduce the salt load of the Colorado River by improving on-farm irrigation water management including improvement of related laterals and by improving watershed erosion management practices, such measures to include voluntary replacement of incidental fish and wildlife values foregone;
+
+&emsp;(C) provide technical and cost-sharing assistance for the voluntary implementation of plans through contracts and agreements with individuals or groups of owners and operators of farms, ranches, and other lands as well as with local governmental and nongovernmental entities such as irrigation districts and canal companies, except that a portion of the costs of implementing such plans shall be shared by the participants on the basis of benefits received and other appropriate factors, as determined by the Secretary of Agriculture, and except that such contracts and agreements shall provide for continuing operation and maintenance of measures installed under this subsection, including measures to replace incidental fish and wildlife values foregone, without additional cost-sharing assistance;
+
+&emsp;(D) provide continuing technical assistance for irrigation water management as well as monitoring and evaluation of changes in salt contributions to the Colorado River to determine program effectiveness;
+
+&emsp;(E) carry out related research, demonstration, and education activities; and
+
+&emsp;(F) in entering into contracts or agreements pursuant to subparagraph (C), require a minimum of 30 per centum cost-sharing contribution from individuals or groups of owners and operators of farms, ranches, and other lands as well as from local governmental and nongovernmental entities such as irrigation districts and canal companies, unless the Secretary finds in his discretion that such cost-sharing requirement would result in a failure to proceed with needed on-farm measures.
+
+(3) The measures to be implemented in any particular salt source area shall be described in reports issued by the Secretary of Agriculture. Copies of the reports are to be submitted to—
+
+&emsp;(A) the committees on Agriculture and Appropriations of the House of Representativesand the committees on Agriculture, Nutrition and Forestry and Appropriations of the Senate;
+
+&emsp;(B) members of the advisory council established by section 1594(a) of this title; and
+
+&emsp;(C) the Governor of any State where measures are to be implemented.
+
+> No funds for implementation of proposed measures undertaken pursuant to this subsection may be expended until the expiration of sixty days after submission of the report of the Secretary of Agriculture.
+
+(4) The Secretary of Agriculture may use existing agencies as well as the services and facilities of the Commodity Credit Corporation to carry out the provisions of this subsection. The Secretary of Agriculture, in addition, may authorize participating agencies to utilize grants or cooperative agreements with conservation districts, local governmental agencies, colleges and universities, or others as appropriate to carry out the activities identified in this subsection. There is hereby authorized to be appropriated annually, to be available until expended, such funds as may be necessary to carry out the provisions of this subsection: <i>Provided</i>, That no disbursement shall be made by the Commodity Credit Corporation unless it has received funds to cover the amount thereof from appropriations available for the purpose of carrying out this chapter.
+
+(5) The Secretary of Agriculture shall submit a report to Congress by January 1, 1988, and at each five-year interval thereafter, concerning the operation of the program authorized by this subsection. Such report shall contain an evaluation of the operation of such program and may include recommendations for such additional legislation as may be necessary to solve identified salinity problems in areas designated by the Secretary of Agriculture and may include recommendations to utilize new technology and research related to such problems.
+
+(Pub. L. 93–320, title II, §202, June 24, 1974, 88 Stat. 271; Pub. L. 98–569, §2, Oct. 30, 1984, 98 Stat. 2933.)
+
+#### References in Text
+
+Public Law 90–537, referred to in subsec. (a)(5), is act Sept. 30, 1968, 82 Stat. 885, as amended, popularly known as the “Colorado River Basin Project Act”, which is classified principally to chapter 32 (§1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
+
+Public Law 84–485, referred to in subsec. (a)(5), is act Apr. 11, 1956, ch. 203, 70 Stat. 105, as amended, popularly known as the “Colorado River Storage Project Act”, which is classified to chapter 12B (§620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 620 of this title and Tables.
+
+The Reclamation Act of 1902, referred to in subsec. (a)(5), is act June 17, 1902, 32 Stat. 388, as amended and supplemented, is classified generally to chapter 12 (§371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
+
+#### Amendments
+
+1984—Subsec. (a). Pub. L. 98–569, §2(a), designated existing provisions as subsec. (a).
+
+Subsec. (a)(1). Pub. L. 98–569, §2(b)(1), inserted “, and consisting of measures to replace incidental fish and wildlife values foregone” at the end thereof.
+
+Subsec. (a)(2). Pub. L. 98–569, §2(b)(2), inserted “replacing canals and laterals with pipe,” after “canals and laterals” and inserted “implementing other measures to reduce salt contributions from the Grand Valley to the Colorado River, and implementing measures to replace incidental fish and wildlife values foregone” after “efficient facilities” in second sentence.
+
+Pub. L. 98–569, §2(b)(3), inserted “, or portions thereof,” after “Grand Valley unit”, substituted “non-Federal entities” for “agencies”, inserted “or portions thereof,” after “water distribution systems” and substituted “the obligations specified in subsection (b)(2) of this section” for “all obligations” in third sentence.
+
+Pub. L. 98–569, §2(b)(4), struck out “The Secretary is also authorized to provide, as an element of the Grand Valley unit, for a technical staff to provide information and assistance to water users on means and measures for limiting excess water applications to irrigated lands: <i>Provided</i>, That such assistance shall not exceed a period of five years after funds first become available under this subchapter. The Secretary will enter into agreements with the Secretary of Agriculture to develop a unified control plan for the Grand Valley unit. The Secretary of Agriculture is directed to cooperate in the planning and construction of on-farm system measures under programs available to that Department.”
+
+Subsec. (a)(3). Pub. L. 98–569, §2(b)(5), redesignated par. (4) as (3). Former par. (3), which related to the Crystal Geyser unit in Utah, was struck out.
+
+Pub. L. 98–569, §2(b)(6), substituted “, and consisting of measures to replace incidental fish and wildlife values foregone.” for the period at the end thereof.
+
+Subsec. (a)(4). Pub. L. 98–569, §2(b)(7), added par. (4). Former par. (4) redesignated (3).
+
+Subsec. (a)(5). Pub. L. 98–569, §2(b)(7), added par. (5).
+
+Subsecs. (b), (c). Pub. L. 98–569, §2(c), added subsecs. (b) and (c).
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–569 effective Oct. 30, 1984, see section 6 of Pub. L. 98–569, set out as a note under section 1591 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1591, 1595, 1598 of this title; title 7 section 6962.
+
+<i><sup>1</sup></i><i> So in original.</i>
+

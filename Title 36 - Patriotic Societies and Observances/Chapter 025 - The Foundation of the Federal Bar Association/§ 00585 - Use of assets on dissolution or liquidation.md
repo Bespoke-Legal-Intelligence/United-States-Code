@@ -1,0 +1,6 @@
+### §585. Use of assets on dissolution or liquidation
+
+Upon final dissolution or liquidation of the corporation, and after the discharge or satisfaction of all outstanding obligations and liabilities, the remaining assets of the corporation shall be deposited in the Treasury of the United States as a miscellaneous receipt.
+
+(Aug. 24, 1954, ch. 911, §15, 68 Stat. 800.)
+

@@ -1,0 +1,60 @@
+### §7274i. Program to monitor Department of Energy workers exposed to hazardous and radioactive substances
+
+#### (a) In general
+
+The Secretary shall establish and carry out a program for the identification and on-going medical evaluation of current and former Department of Energy employees who are subject to significant health risks as a result of the exposure of such employees to hazardous or radioactive substances during such employment.
+
+#### (b) Implementation of program
+
+(1) The Secretary shall, with the concurrence of the Secretary of Health and Human Services, issue regulations under which the Secretary shall implement the program. Such regulations shall, to the extent practicable, provide for a process to—
+
+&emsp;(A) identify the hazardous substances and radioactive substances to which current and former Department of Energy employees may have been exposed as a result of such employment;
+
+&emsp;(B) identify employees referred to in subparagraph (A) who received a level of exposure identified under paragraph (2)(B);
+
+&emsp;(C) determine the appropriate number, scope, and frequency of medical evaluations and laboratory tests to be provided to employees who have received a level of exposure identified under paragraph (2)(B) to permit the Secretary to evaluate fully the extent, nature, and medical consequences of such exposure;
+
+&emsp;(D) make available the evaluations and tests referred to in subparagraph (C) to the employees referred to in such subparagraph;
+
+&emsp;(E) ensure that privacy is maintained with respect to medical information that personally identifies any such employee; and
+
+&emsp;(F) ensure that employee participation in the program is voluntary.
+
+(2)(A) In determining the most appropriate means of carrying out the activities referred to in subparagraphs (A) through (D) of paragraph (1), the Secretary shall consult with the Secretary of Health and Human Services under the agreement referred to in subsection (c).
+
+(B) The Secretary of Health and Human Services, with the assistance of the Director of the Centers for Disease Control and the Director of the National Institute for Occupational Safety and Health, and the Secretary of Labor shall identify the levels of exposure to the substances referred to in subparagraph (A) of paragraph (1) that present employees referred to in such subparagraph with significant health risks under Federal and State occupational, health, and safety standards;
+
+(3) In prescribing the guidelines referred to in paragraph (1), the Secretary shall consult with representatives of the following entities:
+
+&emsp;(A) The American College of Occupational and Environmental Medicine.
+
+&emsp;(B) The National Academy of Sciences.
+
+&emsp;(C) The National Council on Radiation Protection.
+
+&emsp;(D) Any labor organization or other collective bargaining agent authorized to act on the behalf of employees of a Department of Energy defense nuclear facility.
+
+(4) The Secretary shall provide for each employee identified under paragraph (1)(D) and provided with any medical examination or test under paragraph (1)(E) to be notified by the appropriate medical personnel of the identification and the results of any such examination or test. Each notification under this paragraph shall be provided in a form that is readily understandable by the employee.
+
+(5) The Secretary shall collect and assemble information relating to the examinations and tests carried out under paragraph (1)(E).
+
+(6) The Secretary shall commence carrying out the program described in this subsection not later than 1 year after October 23, 1992.
+
+#### (c) Agreement with Secretary of Health and Human Services
+
+Not later than 180 days after October 23, 1992, the Secretary shall enter into an agreement with the Secretary of Health and Human Services relating to the establishment and conduct of the program required and regulations issued under this section.
+
+(Pub. L. 102–484, div. C, title XXXI, §3162, Oct. 23, 1992, 106 Stat. 2646.)
+
+#### Codification
+
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1993, and not as part of the Department of Energy Organization Act which comprises this chapter.
+
+#### Change of Name
+
+Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7274h, 7274j of this title.
+

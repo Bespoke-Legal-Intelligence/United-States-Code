@@ -1,0 +1,76 @@
+### §3120. Program of independent living services and assistance
+
+(a) The Secretary may, under contracts with entities described in subsection (f) of this section, or through facilities of the Veterans Health Administration, which possess a demonstrated capability to conduct programs of independent living services for severely handicapped persons, provide, under regulations which the Secretary shall prescribe, programs of independent living services and assistance under this chapter, in various geographic regions of the United States, to veterans described in subsection (b) of this section.
+
+(b) A program of independent living services and assistance may be made available under this section only to a veteran who has a service-connected disability described in section 3102(1)(A)(i) of this title and with respect to whom it is determined under section 3106(d) of this title that the achievement of a vocational goal currently is not reasonably feasible.
+
+(c) The Secretary shall, to the maximum extent feasible, include among those veterans who are provided with programs of independent living services and assistance under this section substantial numbers of veterans described in subsection (b) of this section who are receiving long-term care in Department of Veterans Affairs hospitals and nursing homes and in nursing homes with which the Secretary contracts for the provision of care to veterans.
+
+(d) A program of independent living services and assistance for a veteran shall consist of such services described in section 3104(a) and (b) of this title as the Secretary determines necessary to enable such veteran to achieve maximum independence in daily living. Such veteran shall have the same rights with respect to an individualized written plan of services and assistance as are afforded veterans under section 3107 of this title.
+
+(e) Programs of independent living services and assistance shall be initiated for no more than five hundred veterans in each fiscal year, and the first priority in the provision of such programs shall be afforded to veterans for whom the reasonable feasibility of achieving a vocational goal is precluded solely as a result of a service-connected disability.
+
+(f) Entities described in this subsection are (1) public or nonprofit agencies or organizations, and (2) for-profit entities in cases in which the Secretary determines that services comparable in effectiveness to services available from such an entity are not available, or cannot be obtained cost-effectively from, public or nonprofit agencies or through facilities of the Veterans Health Administration.
+
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2185, §1520; amended Pub. L. 99–576, title III, §333(a), (b)(6), (c), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 100–689, title II, §202(b), Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title IV, §§404, 423(b)(1), Dec. 18, 1989, 103 Stat. 2080, 2092; renumbered §3120 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(b)(1), (d)(11), Nov. 2, 1994, 108 Stat. 4682, 4684.)
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–446, §1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
+
+Subsec. (b). Pub. L. 103–446, §1201(d)(11), which directed substitution of “section 3102(1)(A)(i)” for “section 3012(1)(A)”, was executed by making the substitution for “section 3102(1)(A)” to reflect the probable intent of Congress.
+
+Subsec. (f). Pub. L. 103–446, §1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
+
+1991—Pub. L. 102–83, §5(a), renumbered section 1520 of this title as this section.
+
+Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3102(1)(A)” for “1502(1)(A)” and “3106(d)” for “1506(d)”.
+
+Subsec. (d). Pub. L. 102–83, §5(c)(1), substituted “3104(a)” for “1504(a)” and “3107” for “1507”.
+
+1989—Subsec. (a). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+
+Pub. L. 101–237, §404(2)–(4), redesignated former par. (1) of subsec. (a) as entire subsection, substituted “The” for “During fiscal years 1982 through 1989, the”, “subsection (f) of this section” for “paragraph (7) of this subsection” and “subsection (b) of this section” for “paragraph (2) of this subsection”, redesignated former pars. (2), (3), (4), (6), and (7) of subsec. (a) as subsecs. (b), (c), (d), (e), and (f) of this section, respectively, and struck out former par. (5) which read as follows: “Any contract for services initiated with respect to any veteran under this section before the end of fiscal year 1989 may be continued in effect after the end of such year for the purposes of providing services and assistance to such veteran in accordance with the provisions of this chapter.”
+
+Subsec. (b). Pub. L. 101–237, §404(1), (3), (5), redesignated former subsec. (a)(2) as (b), struck out before period at end “and who is selected pursuant to criteria provided for in regulations prescribed under paragraph (1) of this subsection” and struck out former subsec. (b) which read as follows: “Not later than February 1, 1989, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives statistical data regarding veterans’ participation in the program conducted under subsection (a) of this section during fiscal years 1987 and 1988 and any recommendations of the Administrator for administrative or legislative action or both regarding the program.”
+
+Subsec. (c). Pub. L. 101–237, §423(b)(1), substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
+
+Pub. L. 101–237, §404(3), (6), redesignated former subsec. (a)(3) as (c) and substituted “subsection (b) of this section” for “paragraph (2) of this subsection”.
+
+Subsec. (d). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
+
+Pub. L. 101–237, §404(3), redesignated former subsec. (a)(4) as (d).
+
+Subsec. (e). Pub. L. 101–237, §404(3), (7), redesignated former subsec. (a)(6) as (e) and substituted “in each fiscal year” for “in each of the fiscal years 1982 through 1989”.
+
+Subsec. (f). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
+
+Pub. L. 101–237, §404(3), (8), redesignated former subsec. (a)(7) as (f) and substituted “in this subsection are (1) public or nonprofit agencies or organizations, and (2)” for “in this paragraph are (A) public or nonprofit agencies or organizations, and (B)”.
+
+1988—Subsec. (a)(1). Pub. L. 100–689, §202(b)(1), substituted “entities described in paragraph (7) of this subsection” for “public or nonprofit private agencies or organizations”.
+
+Subsec. (a)(7). Pub. L. 100–689, §202(b)(2), added par. (7).
+
+1986—Pub. L. 99–576, §333(b)(6), substituted “Program” for “Pilot program” in section catchline.
+
+Subsec. (a)(1). Pub. L. 99–576, §333(a)(1)(A), substituted “1989” for “1985”.
+
+Subsec. (a)(2). Pub. L. 99–576, §333(a)(1)(B), inserted “currently” after “goal”.
+
+Subsec. (a)(5), (6). Pub. L. 99–576, §333(a)(1)(A), substituted “1989” for “1985”.
+
+Subsec. (b). Pub. L. 99–576, §333(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Not later than September 30, 1984, the Administrator shall submit to the Congress a report on the programs of independent living services and assistance provided for in subsection (a) of this section. Such report shall include—
+
+&emsp;“(1) the results of a study which the Administrator shall conduct of the accomplishments and cost-effectiveness of such programs, including the extent to which (A) such programs have met needs for comprehensive independent living services that would not otherwise have been met, (B) severely disabled veterans have achieved and maintained greater independence in daily living as a result of participation in the programs, and (C) costs of care in hospital, nursing home, and domiciliary facilities have been and may be avoided as the result of such programs; and
+
+&emsp;“(2) the Administrator's recommendations for any legislative changes with respect to the provision of independent living services and assistance to veterans for whom the achievement of a vocational goal is not feasible.”
+
+#### Effective Date
+
+Section effective Oct. 1, 1980, see section 802(a)(2) of Pub. L. 96–466, set out as a note under section 3100 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3109 of this title.
+

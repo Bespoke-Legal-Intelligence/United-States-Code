@@ -1,0 +1,26 @@
+### §1350. Criminal penalty
+
+An officer or employee of the United States Government or of the District of Columbia government knowingly and willfully violating section 1341(a) or 1342 of this title shall be fined not more than $5,000, imprisoned for not more than 2 years, or both.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 926.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+1350
+
+31:665(i)(1)(words after semicolon related to (a), (b)).
+
+R.S. §3679(i)(1)(words after semicolon related to (a), (b)); Mar. 3, 1905, ch. 1484, §4(1st par.), 33 Stat. 1257; Feb. 27, 1906, ch. 510, §3, 34 Stat. 48; restated Sept. 6, 1950, ch. 896, §1211, 64 Stat. 768.
+
+The words “District of Columbia government” are added because of section 47–105 of the D.C. Code. The words “upon conviction” are omitted as surplus.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 2 section 60a–2; title 5 section 5306; title 22 sections 277d–3, 1461b, 3723; title 42 sections 2204, 2204a, 2210, 2295, 2394.
+

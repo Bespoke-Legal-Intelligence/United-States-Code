@@ -1,0 +1,90 @@
+### §47108. Project grant agreements
+
+(a)
+
+Offer and Acceptance.—On approving a project grant application under this subchapter, the Secretary of Transportation shall offer the sponsor a grant to pay the United States Government's share of the project costs allowable under section 47110 of this title. The Secretary may impose terms on the offer that the Secretary considers necessary to carry out this subchapter and regulations prescribed under this subchapter. An offer shall state the obligations to be assumed by the sponsor and the maximum amount the Government will pay for the project from the amounts authorized under chapter 481 of this title (except sections 48102(e), 48106, 48107, and 48110). At the request of the sponsor, an offer of a grant for a project that will not be completed in one fiscal year shall provide for the obligation of amounts apportioned or to be apportioned to a sponsor under section 47114(c) of this title for the fiscal years necessary to paythe Government's share of the cost of the project. An offer that is accepted in writing by the sponsor is an agreement binding on the Government and the sponsor. The Government may pay or be obligated to pay a project cost only after a grant agreement for the project is signed.
+
+(b)
+
+Increasing Government's Share Under This Subchapter or Chapter 475.—(1) When an offer has been accepted in writing, the amount stated in the offer as the maximum amount the Government will pay may be increased only as provided in paragraphs (2) and (3) of this subsection.
+
+(2)(A) For a project receiving assistance under a grant approved under the Airport and Airway Improvement Act of 1982 before October 1, 1987, the amount may be increased by not more than—
+
+&emsp;(i) 10 percent for an airport development project, except a project for acquiring an interest in land; and
+
+&emsp;(ii) 50 percent of the total increase in allowable project costs attributable to acquiring an interest in land, based on current creditable appraisals.
+
+(B) An increase under subparagraph (A) of this paragraph may be paid only from amounts the Government recovers from other grants made under this subchapter.
+
+(3) For a project receiving assistance under a grant approved under the Act, this subchapter, or chapter 475 of this title after September 30, 1987, the amount may be increased—
+
+&emsp;(A) for an airport development project, by not more than 15 percent; and
+
+&emsp;(B) for a grant after September 30, 1992, to acquire an interest in land for an airport (except a primary airport), by not more than the greater of the following, based on current creditable appraisals or a court award in a condemnation proceeding:
+
+&emsp;&emsp;(i) 15 percent; or
+
+&emsp;&emsp;(ii) 25 percent of the total increase in allowable project costs attributable to acquiring an interest in land.
+
+(c)
+
+Increasing Government's Share Under Airport and Airway Development Act of 1970.—For a project receiving assistance under a grant made under the Airport and Airway Development Act of 1970, the maximum amount the Government will pay may be increased by not more than 10 percent. An increase under this subsection may be paid only from amounts the Government recovers from other grants made under the Act.
+
+(d)
+
+Changing Workscope.—With the consent of the sponsor, the Secretary may amend a grant agreement made under this subchapter to change the workscope of a project financed under the grant if the amendment does not result in an increase in the maximum amount the Government may pay under subsection (b) of this section.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1262.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+47108(a)
+
+49 App.:2211(a).
+
+Sept. 3, 1982, Pub. L. 97–248, §512(a), 96 Stat. 688; Dec. 30, 1987, Pub. L. 100–223, §§106(b)(4), 110(c), 101 Stat. 1498, 1502.
+
+47108(b)
+
+49 App.:2211(b).
+
+Sept. 3, 1982, Pub. L. 97–248, §512(b), 96 Stat. 688; restated Dec. 30, 1987, Pub. L. 100–223, §110(a), 101 Stat. 1502; Oct. 31, 1992, Pub. L. 102–581, §109, 106 Stat. 4879.
+
+47108(c)
+
+49 App.:2211(c).
+
+47108(d)
+
+49 App.:2211(d).
+
+Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, §512(d); added Dec. 30, 1987, Pub. L. 100–223, §110(b), 101 Stat. 1502.
+
+In subsection (a), the words “on behalf of the United States” are omitted as surplus. The words “or sponsors” are omitted because of 1:1. The words “of the application” are omitted as surplus. The words “under section 47110 of this title” are added for clarity. The words “and conditions” are omitted as being included in “terms”. The words “for the project” are added for clarity. The words “an offer of a grant for a project” are substituted for “In any case where the Secretary approves a project grant application for a project . . . the offer” to eliminate unnecessary words. The words “(including future fiscal years)” are omitted as surplus. The words “An offer that is accepted in writing by the sponsor is an agreement binding on the Government and the sponsor” are substituted for “If and when an offer is accepted in writing by the sponsor, the offer and acceptance shall comprise an agreement constituting an obligation of the United States and of the sponsor” to eliminate unnecessary words. The words “which have been or may be incurred” are omitted as surplus.
+
+In subsection (b)(1), the words “by a sponsor” are omitted as surplus. The words “amount the Government will pay” are substituted for “obligation of the United States” for clarity and consistency in this section.
+
+In subsection (b)(2), the text of 49 App.:2211(b)(2) (last sentence) is restated to apply only to 49 App.:2211(b)(2) (1st sentence) to carry out the probable intent of Congress.
+
+In subsection (b)(3)(B), the words “for fiscal year 1993 and thereafter” are omitted as unnecessary.
+
+In subsection (c), the words “Notwithstanding any other provision of law” are omitted as surplus. The words “a project receiving assistance under” are added for consistency.
+
+In subsection (d), the word “sponsor” is substituted for “grant recipient” for clarity. The words “amount the Government may pay” are substituted for “obligation of the United States authorized” for clarity and consistency in this section.
+
+#### References in Text
+
+The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2)(A), (3), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, as amended, which was classified principally to chapter 31 (§2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this subchapter.
+
+The Airport and Airway Development Act of 1970, referred to in subsec. (c), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, as amended, which was classified principally to chapter 25 (§1701 et seq.) of former Title 49. Sections 1 through 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49, and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L.103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 47104, 47110 of this title.
+

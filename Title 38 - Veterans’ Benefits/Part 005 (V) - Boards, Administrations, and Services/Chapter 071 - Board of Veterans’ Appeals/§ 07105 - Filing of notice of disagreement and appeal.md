@@ -1,0 +1,64 @@
+### §7105. Filing of notice of disagreement and appeal
+
+(a) Appellate review will be initiated by a notice of disagreement and completed by a substantive appeal after a statement of the case is furnished as prescribed in this section. Each appellant will be accorded hearing and representation rights pursuant to the provisions of this chapter and regulations of the Secretary.
+
+(b)(1) Except in the case of simultaneously contested claims, notice of disagreement shall be filed within one year from the date of mailing of notice of the result of initial review or determination. Such notice, and appeals, must be in writing and be filed with the activity which entered the determination with which disagreement is expressed (hereafter referred to as the “agency of original jurisdiction”). A notice of disagreement postmarked before the expiration of the one-year period will be accepted as timely filed.
+
+(2) Notices of disagreement, and appeals, must be in writing and may be filed by the claimant, the claimant's legal guardian, or such accredited representative, attorney, or authorized agent as may be selected by the claimant or legal guardian. Not more than one recognized organization, attorney, or agent will be recognized at any one time in the prosecution of a claim.
+
+(c) If no notice of disagreement is filed in accordance with this chapter within the prescribed period, the action or determination shall become final and the claim will not thereafter be reopened or allowed, except as may otherwise be provided by regulations not inconsistent with this title.
+
+(d)(1) Where the claimant, or the claimant's representative, within the time specified in this chapter, files a notice of disagreement with the decision of the agency of original jurisdiction, such agency will take such development or review action as it deems proper under the provisions of regulations not inconsistent with this title. If such action does not resolve the disagreement either by granting the benefit sought or through withdrawal of the notice of disagreement, such agency shall prepare a statement of the case. A statement of the case shall include the following:
+
+&emsp;(A) A summary of the evidence in the case pertinent to the issue or issues with which disagreement has been expressed.
+
+&emsp;(B) A citation to pertinent laws and regulations and a discussion of how such laws and regulations affect the agency's decision.
+
+&emsp;(C) The decision on each issue and a summary of the reasons for such decision.
+
+(2) A statement of the case, as required by this subsection, will not disclose matters that would be contrary to section 5701 of this title or otherwise contrary to the public interest. Such matters may be disclosed to a designated representative unless the relationship between the claimant and the representative is such that disclosure to the representative would be as harmful as if made to the claimant.
+
+(3) Copies of the “statement of the case” prescribed in paragraph (1) of this subsection will be submitted to the claimant and to the claimant's representative, if there is one. The claimant will be afforded a period of sixty days from the date the statement of the case is mailed to file the formal appeal. This may be extended for a reasonable period on request for good cause shown. The appeal should set out specific allegations of error of fact or law, such allegations related to specific items in the statement of the case. The benefits sought on appeal must be clearly identified. The agency of original jurisdiction may close the case for failure to respond after receipt of the statement of the case, but questions as to timeliness or adequacy of response shall be determined by the Board of Veterans’ Appeals.
+
+(4) The claimant in any case may not be presumed to agree with any statement of fact contained in the statement of the case to which the claimant does not specifically express agreement.
+
+(5) The Board of Veterans’ Appeals may dismiss any appeal which fails to allege specific error of fact or law in the determination being appealed.
+
+(Added Pub. L. 87–666, §1, Sept. 19, 1962, 76 Stat. 553, §4005; amended Pub. L. 99–576, title VII, §701(85), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title II, §§203(b), 206, Nov. 18, 1988, 102 Stat. 4111; renumbered §7105 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+
+#### Amendments
+
+1991—Pub. L. 102–40, §402(b)(1), renumbered section 4005 of this title as this section.
+
+Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator”.
+
+Subsec. (d)(2). Pub. L. 102–40, §402(d)(1), substituted “5701” for “3301”.
+
+1988—Subsec. (d)(1). Pub. L. 100–687, §206(a), substituted “shall prepare a statement of the case. A statement of the case shall include the following:” for “will prepare a statement of the case consisting of—”, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
+
+“(A) A summary of the evidence in the case pertinent to the issue or issues with which disagreement has been expressed;
+
+“(B) A citation or discussion of the pertinent law, regulations, and, where applicable, the provisions of the Schedule for Rating Disabilities;
+
+“(C) The decision on such issue or issues and a summary of the reasons therefor.”
+
+Subsec. (d)(4). Pub. L. 100–687, §206(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The appellant will be presumed to be in agreement with any statement of fact contained in the statement of the case to which no exception is taken.”
+
+Subsec. (d)(5). Pub. L. 100–687, §203(b), struck out “will base its decision on the entire record and” after “of Veterans’ Appeals”.
+
+1986—Subsec. (b)(2). Pub. L. 99–576, §701(85), substituted “the claimant's” for “his” and “the claimant or legal guardian” for “him”.
+
+Subsec. (d)(1), (3). Pub. L. 99–576, §701(85)(A), substituted “the claimant's” for “his”.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–687 effective Jan. 1, 1989, see section 401(d) of Pub. L. 100–687 set out as an Effective Date note under section 7251 of this title.
+
+#### Effective Date
+
+Section 3 of Pub. L. 87–666 provided that: “The amendments made by this Act \[enacting sections 4005, 4005A, and 4006 \[now 7105, 7105A, and 7106\] of this title, redesignating former section 4006 as 4007 \[now 7107\] of this title, and repealing former sections 4005 and 4007 of this title\] shall be effective January 1, 1963.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7105A, 7106 of this title.
+

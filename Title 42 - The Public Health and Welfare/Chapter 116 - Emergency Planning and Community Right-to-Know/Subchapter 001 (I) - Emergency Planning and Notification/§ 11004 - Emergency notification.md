@@ -1,0 +1,86 @@
+### §11004. Emergency notification
+
+#### (a) Types of releases
+
+#### (1) 11002(a) substance which requires CERCLA notice
+
+&emsp;If a release of an extremely hazardous substance referred to in section 11002(a) of this title occurs from a facility at which a hazardous chemical is produced, used, or stored, and such release requires a notification under section 103(a) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 \[42 U.S.C. 9603(a)\] (hereafter in this section referred to as “CERCLA”) (42 U.S.C. 9601 et seq.), the owner or operator of the facility shall immediately provide notice as described in subsection (b) of this section.
+
+#### (2) Other 11002(a) substance
+
+&emsp;If a release of an extremely hazardous substance referred to in section 11002(a) of this title occurs from a facility at which a hazardous chemical is produced, used, or stored, and such release is not subject to the notification requirements under section 103(a) of CERCLA \[42 U.S.C. 9603(a)\], the owner or operator of the facility shall immediately provide notice as described in subsection (b) of this section, but only if the release—
+
+&emsp;&emsp;(A) is not a federally permitted release as defined in section 101(10) of CERCLA \[42 U.S.C. 9601(10)\],
+
+&emsp;&emsp;(B) is in an amount in excess of a quantity which the Administrator has determined (by regulation) requires notice, and
+
+&emsp;&emsp;(C) occurs in a manner which would require notification under section 103(a) of CERCLA \[42 U.S.C. 9603(a)\].
+
+> &emsp;Unless and until superseded by regulations establishing a quantity for an extremely hazardous substance described in this paragraph, a quantity of 1 pound shall be deemed that quantity the release of which requires notice as described in subsection (b) of this section.
+
+#### (3) Non-11002(a) substance which requires CERCLA notice
+
+&emsp;If a release of a substance which is not on the list referred to in section 11002(a) of this title occurs at a facility at which a hazardous chemical is produced, used, or stored, and such release requires notification under section 103(a) of CERCLA \[42 U.S.C. 9603(a)\], the owner or operator shall provide notice as follows:
+
+&emsp;&emsp;(A) If the substance is one for which a reportable quantity has been established undersection 102(a) of CERCLA \[42 U.S.C. 9602(a)\], the owner or operator shall provide notice as described in subsection (b) of this section.
+
+&emsp;&emsp;(B) If the substance is one for which a reportable quantity has not been established under section 102(a) of CERCLA \[42 U.S.C. 9602(a)\]—
+
+&emsp;&emsp;&emsp;(i) Until April 30, 1988, the owner or operator shall provide, for releases of one pound or more of the substance, the same notice to the community emergency coordinator for the local emergency planning committee, at the same time and in the same form, as notice is provided to the National Response Center under section 103(a) of CERCLA \[42 U.S.C. 9603(a)\].
+
+&emsp;&emsp;&emsp;(ii) On and after April 30, 1988, the owner or operator shall provide, for releases of one pound or more of the substance, the notice as described in subsection (b) of this section.
+
+#### (4) Exempted releases
+
+&emsp;This section does not apply to any release which results in exposure to persons solely within the site or sites on which a facility is located.
+
+#### (b) Notification
+
+#### (1) Recipients of notice
+
+&emsp;Notice required under subsection (a) of this section shall be given immediately after the release by the owner or operator of a facility (by such means as telephone, radio, or in person) to the community emergency coordinator for the local emergency planning committees, if established pursuant to section 11001(c) of this title, for any area likely to be affected by the release and to the State emergency planning commission of any State likely to be affected by the release. With respect to transportation of a substance subject to the requirements of this section, or storage incident to such transportation, the notice requirements of this section with respect to a release shall be satisfied by dialing 911 or, in the absence of a 911 emergency telephone number, calling the operator.
+
+#### (2) Contents
+
+&emsp;Notice required under subsection (a) of this section shall include each of the following (to the extent known at the time of the notice and so long as no delay in responding to the emergency results):
+
+&emsp;&emsp;(A) The chemical name or identity of any substance involved in the release.
+
+&emsp;&emsp;(B) An indication of whether the substance is on the list referred to in section 11002(a) of this title.
+
+&emsp;&emsp;(C) An estimate of the quantity of any such substance that was released into the environment.
+
+&emsp;&emsp;(D) The time and duration of the release.
+
+&emsp;&emsp;(E) The medium or media into which the release occurred.
+
+&emsp;&emsp;(F) Any known or anticipated acute or chronic health risks associated with the emergency and, where appropriate, advice regarding medical attention necessary for exposed individuals.
+
+&emsp;&emsp;(G) Proper precautions to take as a result of the release, including evacuation (unless such information is readily available to the community emergency coordinator pursuant to the emergency plan).
+
+&emsp;&emsp;(H) The name and telephone number of the person or persons to be contacted for further information.
+
+#### (c) Followup emergency notice
+
+As soon as practicable after a release which requires notice under subsection (a) of this section, such owner or operator shall provide a written followup emergency notice (or notices, as more information becomes available) setting forth and updating the information required under subsection (b) of this section, and including additional information with respect to—
+
+&emsp;(1) actions taken to respond to and contain the release,
+
+&emsp;(2) any known or anticipated acute or chronic health risks associated with the release, and
+
+&emsp;(3) where appropriate, advice regarding medical attention necessary for exposed individuals.
+
+#### (d) Transportation exemption not applicable
+
+The exemption provided in section 11047 of this title (relating to transportation) does not apply to this section.
+
+(Pub. L. 99–499, title III, §304, Oct. 17, 1986, 100 Stat. 1733.)
+
+#### References in Text
+
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, and CERCLA, referred to in subsec. (a)(1), (3), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 11002, 11003, 11045, 11046, 11047, 11049 of this title.
+

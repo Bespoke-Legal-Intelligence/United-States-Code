@@ -1,0 +1,58 @@
+### §1350. Missing participants
+
+#### (a) General rule
+
+#### (1) Payment to the corporation
+
+&emsp;A plan administrator satisfies section 1341(b)(3)(A) of this title in the case of a missing participant only if the plan administrator—
+
+&emsp;&emsp;(A) transfers the participant's designated benefit to the corporation or purchases an irrevocable commitment from an insurer in accordance with clause (i) of section 1341(b)(3)(A) of this title, and
+
+&emsp;&emsp;(B) provides the corporation such information and certifications with respect to such designated benefits or irrevocable commitments as the corporation shall specify.
+
+#### (2) Treatment of transferred assets
+
+&emsp;A transfer to the corporation under this section shall be treated as a transfer of assets from a terminated plan to the corporation as trustee, and shall be held with assets of terminated plans for which the corporation is trustee under section 1342 of this title, subject to the rules set forth in that section.
+
+#### (3) Payment by the corporation
+
+&emsp;After a missing participant whose designated benefit was transferred to the corporation is located—
+
+&emsp;&emsp;(A) in any case in which the plan could have distributed the benefit of the missing participant in a single sum without participant or spousal consent under section 1055(g) of this title, the corporation shall pay the participant or beneficiary a single sum benefit equal to the designated benefit paid the corporation plus interest as specified by the corporation, and
+
+&emsp;&emsp;(B) in any other case, the corporation shall pay a benefit based on the designated benefit and the assumptions prescribed by the corporation at the time that the corporation received the designated benefit.
+
+> &emsp;The corporation shall make payments under subparagraph (B) available in the same forms and at the same times as a guaranteed benefit under section 1322 of this title would be available to be paid, except that the corporation may make a benefit available in the form of asingle sum if the plan provided a single sum benefit (other than a single sum described in subsection (b)(2)(A) of this section).
+
+#### (b) Definitions
+
+For purposes of this section—
+
+#### (1) Missing participant
+
+&emsp;The term “missing participant” means a participant or beneficiary under a terminating plan whom the plan administrator cannot locate after a diligent search.
+
+#### (2) Designated benefit
+
+&emsp;The term “designated benefit” means the single sum benefit the participant would receive—
+
+&emsp;&emsp;(A) under the plan's assumptions, in the case of a distribution that can be made without participant or spousal consent under section 1055(g) of this title;
+
+&emsp;&emsp;(B) under the assumptions of the corporation in effect on the date that the designated benefit is transferred to the corporation, in the case of a plan that does not pay any single sums other than those described in subparagraph (A); or
+
+&emsp;&emsp;(C) under the assumptions of the corporation or of the plan, whichever provides the higher single sum, in the case of a plan that pays a single sum other than those described in subparagraph (A).
+
+#### (c) Regulatory authority
+
+The corporation shall prescribe such regulations as are necessary to carry out the purposes of this section, including rules relating to what will be considered a diligent search, the amount payable to the corporation, and the amount to be paid by the corporation.
+
+(Pub. L. 93–406, title IV, §4050, as added Pub. L. 103–465, title VII, §776(a), Dec. 8, 1994, 108 Stat. 5047.)
+
+#### Effective Date
+
+Section effective with respect to distributions that occur in plan years commencing after final regulations implementing section 776 of Pub. L. 103–465 are prescribed by the Pension Benefit Guaranty Corporation, see section 776(e) of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1056 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1056, 1303, 1305, 1341 of this title; title 26 section 401.
+

@@ -1,0 +1,46 @@
+### §460ii–1. Acquisition of property
+
+#### (a) Manner of acquisition of lands, etc., within area
+
+Within the recreation area the Secretary is authorized to acquire lands, waters, and interests therein by donation, purchase with donated or appropriated funds, or exchange. Property owned by the State of Georgia or any political subdivision thereof may be acquired only by donation.
+
+#### (b) Manner of acquisition of lands partly within and partly without area; disposal of unutilized lands
+
+When a tract of land lies partly within and partly without the boundaries of the recreation area, the Secretary may acquire the entire tract by any of the above methods in order to avoid the payment of severance costs. Land so acquired outside of the boundaries of the recreation area may be exchanged by the Secretary for non-Federal land within such boundaries, and any portion of the land not utilized for such exchanges may be disposed of in accordance with the provisions of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.).
+
+#### (c) Acquisition of improved property used for noncommercial residential purposes; retention by owners of right of use and occupancy for residential purposes; terms; payment of fair market value
+
+Except for property which the Secretary determines to be necessary for the purposes of administration, development, access, or public use, an owner of improved property which is used solely for noncommercial residential purposes on the date of its acquisition by the Secretary may retain, as a condition of such acquisition, a right of use and occupancy of the property for such residential purposes. The right retained may be for a definite term which shall not exceed twenty-five years or, in lieu thereof, for a term ending at the death of the owner or the death of the spouse, whichever occurs later. The owner shall elect the term to be retained. The Secretary shall pay the owner the fair market value of the property on the date of such acquisition, less the fair market value of the term retained by the owner.
+
+#### (d) Terms and conditions respecting rights of use and occupancy retained; termination of right of use and occupancy
+
+Any right of use and occupancy retained pursuant to this section may, during its existence, be conveyed or transferred, but all rights of use and occupancy shall be subject to such terms and conditions as the Secretary deems appropriate to assure the use of the property in accordance with the purposes of this subchapter and chapter 43 of this title. Upon his determination that the property, or any portion thereof, has ceased to be so used in accordance with such terms and conditions, the Secretary may terminate the right of use and occupancy by tendering to the holder of such right an amount equal to the fair market value, as of the date of the tender, of that portion of the right which remains unexpired on the date of termination.
+
+#### (e) “Improved property” defined
+
+As used in this section, the term “improved property” means a detached, year-round noncommercial residential dwelling, the construction of which was begun before January 1, 1975, together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
+
+#### (f) Land exchanges authority; publication of progress report in Federal Register; termination of authority; boundary revision exclusions
+
+(1) The Secretary shall exchange those federally owned lands identified on the map referenced in section 460ii of this title as “exchange lands” for non-Federal lands which are within the boundaries of the recreation area. The values of the lands exchanged under thissubsection shall be equal, or shall be equalized in the same manner as provided in section 1716 of title 43.
+
+(2) At three year intervals after October 30, 1984, the Secretary shall publish in the Federal Register a progress report on the land exchanges which have taken place and the exchanges which are likely to take place under the authority of this subsection. Such report shall identify the lands which are unsuitable for exchange pursuant to such authority.
+
+(3) Effective on the date ten years after October 30, 1984, the exchange authority of paragraph (1) shall terminate. The exchange lands identified under paragraph (1) which have not been exchanged prior to such date shall be retained in Federal ownership as a part of the recreation area.
+
+(4) The Secretary shall publish a revision of the boundary map referred to in section 460ii of this title to exclude from the boundaries of the recreation area any exchange lands which are used to acquire non-Federal lands under paragraph (3).
+
+(Pub. L. 95–344, title I, §102, Aug. 15, 1978, 92 Stat. 474; Pub. L. 98–568, §1(c), Oct. 30, 1984, 98 Stat. 2928.)
+
+#### References in Text
+
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that act relating to disposal of government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+
+#### Amendments
+
+1984—Subsec. (f). Pub. L. 98–568 added subsec. (f).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 460zz–4 of this title.
+

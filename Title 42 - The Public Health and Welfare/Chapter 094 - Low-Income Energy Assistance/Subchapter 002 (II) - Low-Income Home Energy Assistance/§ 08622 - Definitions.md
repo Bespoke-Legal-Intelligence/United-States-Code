@@ -1,0 +1,60 @@
+### §8622. Definitions
+
+As used in this subchapter:
+
+&emsp;(1) The term “energy burden” means the expenditures of the household for home energy divided by the income of the household.
+
+&emsp;(2) The term “energy crisis” means weather-related and supply shortage emergencies and other household energy-related emergencies.
+
+&emsp;(3) The term “highest home energy needs” means the home energy requirements of a household determined by taking into accountboth the energy burden of such household and the unique situation of such household that results from having members of vulnerable populations, including very young children, individuals with disabilities, and frail older individuals.
+
+&emsp;(4) The term “household” means any individual or group of individuals who are living together as one economic unit for whom residential energy is customarily purchased in common or who make undesignated payments for energy in the form of rent.
+
+&emsp;(5) The term “home energy” means a source of heating or cooling in residential dwellings.
+
+&emsp;(6) The term “poverty level” means, with respect to a household in any State, the income poverty line as prescribed and revised at least annually pursuant to section 9902(2) of this title, as applicable to such State.
+
+&emsp;(7) The term “Secretary” means the Secretary of Health and Human Services.
+
+&emsp;(8) The term “State” means each of the several States and the District of Columbia.
+
+&emsp;(9) The term “State median income” means the State median income promulgated by the Secretary in accordance with procedures established under section 1397a(a)(6) of this title (as such procedures were in effect on August 12, 1981) and adjusted, in accordance with regulations prescribed by the Secretary, to take into account the number of individuals in the household.
+
+(Pub. L. 97–35, title XXVI, §2603, Aug. 13, 1981, 95 Stat. 894; Pub. L. 97–115, §16, Dec. 29, 1981, 95 Stat. 1609; Pub. L. 98–558, title VI, §602, Oct. 30, 1984, 98 Stat. 2890; Pub. L. 103–252, title III, §§304(b), 311(c)(2), May 18, 1994, 108 Stat. 658, 662.)
+
+#### Codification
+
+In par. (9), “August 12, 1981” substituted for “the day before the date of the enactment of this Act”, which date of enactment is Aug. 13, 1981.
+
+#### Amendments
+
+1994—Par. (1). Pub. L. 103–252, §304(b)(1), (2), added par. (1). Former par. (1) redesignated (2).
+
+Par. (2). Pub. L. 103–252, §304(b)(1), redesignated par. (1) as (2). Former par. (2) redesignated (4).
+
+Par. (3). Pub. L. 103–252, §304(b)(3), added par. (3). Former par. (3) redesignated (5).
+
+Par. (4). Pub. L. 103–252, §311(c)(2), which directed the substitution of “The” for “the” and a period for the semicolon at end of par. (2), was executed by making the substitutions in par. (4) to reflect the probable intent of Congress and the intervening redesignation of par. (2) as (4). See below.
+
+Pub. L. 103–252, §304(b)(1), redesignated par. (2) as (4). Former par. (4) redesignated (6).
+
+Pars. (5) to (9). Pub. L. 103–252, §304(b)(1), redesignated pars. (3) to (7) as (5) to (9), respectively.
+
+1984—Par. (1). Pub. L. 98–558, §602(a), struck out “intervention” after “energy crisis” and inserted “and other household energy-related emergencies” at the end.
+
+Par. (4). Pub. L. 98–558, §602(b), substituted “the income poverty line as prescribed and revised at least annually pursuant to section 9902(2) of this title,” for “the income poverty guidelines for the nonfarm population of the United States as prescribed by the Office of Management and Budget (and as adjusted annually pursuant to section 9902(2) of this title)”.
+
+1981—Pub. L. 97–115 designated par. (2)(A) as par. (2), substituted provisions including individuals and groups of individuals who are living together as one economic unit for whom residential energy is customarily purchased in the form of rent in the definition of household, for provisions including individuals who occupy a housing unit in such definition, and struck out par. (2)(B), which provided that for purposes of subpar. (A), one or more rooms shall be treated as a housing unit when occupied as a separate living quarters.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–252 effective Oct. 1, 1994, see section 314 of Pub. L. 103–252, set out as a note under section 8621 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–558 effective Oct. 30, 1984, see section 609(a) of Pub. L. 98–558, set out as a note under section 8621 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 8626b of this title.
+

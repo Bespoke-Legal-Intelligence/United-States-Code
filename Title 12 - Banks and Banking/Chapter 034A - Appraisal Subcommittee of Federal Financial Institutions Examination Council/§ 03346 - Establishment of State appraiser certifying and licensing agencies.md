@@ -1,0 +1,6 @@
+### §3346. Establishment of State appraiser certifying and licensing agencies
+
+To assure the availability of State certified and licensed appraisers for the performance in a State of appraisals in federally related transactions and to assure effective supervision of the activities of certified and licensed appraisers, a State may establish a State appraiser certifying and licensing agency.
+
+(Pub. L. 101–73, title XI, §1117, Aug. 9, 1989, 103 Stat. 515.)
+

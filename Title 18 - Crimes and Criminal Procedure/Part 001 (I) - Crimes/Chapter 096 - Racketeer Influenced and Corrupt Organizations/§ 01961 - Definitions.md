@@ -1,0 +1,142 @@
+### §1961. Definitions
+
+As used in this chapter—
+
+&emsp;(1) “racketeering activity” means (A) any act or threat involving murder, kidnapping, gambling, arson, robbery, bribery, extortion, dealing in obscene matter, or dealing in a controlled substance or listed chemical (as defined in section 102 of the Controlled Substances Act), which is chargeable under State law and punishable by imprisonment for more than one year; (B) any act which is indictable under any of the following provisions of title 18, United States Code: Section 201 (relating to bribery), section 224 (relating to sports bribery), sections 471, 472, and 473 (relating to counterfeiting), section 659 (relating to theft from interstate shipment) if the act indictable under section 659 is felonious, section 664 (relating to embezzlement from pension and welfare funds), sections 891–894 (relating to extortionate credit transactions), section 1029 (relating to fraud and related activity in connection with access devices), section 1084 (relating to the transmission of gambling information),section 1341 (relating to mail fraud), section 1343 (relating to wire fraud), section 1344 (relating to financial institution fraud), sections 1461–1465 (relating to obscene matter), section 1503 (relating to obstruction of justice), section 1510 (relating to obstruction of criminal investigations), section 1511 (relating to the obstruction of State or local law enforcement), section 1512 (relating to tampering with a witness, victim, or an informant), section 1513 (relating to retaliating against a witness, victim, or an informant), section 1951 (relating to interference with commerce, robbery, or extortion), section 1952 (relating to racketeering), section 1953 (relating to interstate transportation of wagering paraphernalia), section 1954 (relating to unlawful welfare fund payments), section 1955 (relating to the prohibition of illegal gambling businesses), section 1956 (relating to the laundering of monetary instruments), section 1957 (relating to engaging in monetary transactions in property derived from specified unlawful activity), section 1958 (relating to use of interstate commerce facilities in the commission of murder-for-hire), sections 2251, 2251A, 2252, and 2258 (relating to sexual exploitation of children), sections 2312 and 2313 (relating to interstate transportation of stolen motor vehicles), sections 2314 and 2315 (relating to interstate transportation of stolen property), section 2321 (relating to trafficking in certain motor vehicles or motor vehicle parts), sections 2341–2346 (relating to trafficking in contraband cigarettes), sections 2421–24 (relating to white slave traffic), (C) any act which is indictable under title 29, United States Code, section 186 (dealing with restrictions on payments and loans to labor organizations) or section 501(c) (relating to embezzlement from union funds), (D) any offense involving fraud connected with a case under title 11 (except a case under section 157 of that <sup>1</sup> title), fraud in the sale of securities, or the felonious manufacture, importation, receiving, concealment, buying, selling, or otherwise dealing in a controlled substance or listed chemical (as defined in section 102 of the Controlled Substances Act), punishable under any law of the United States, or (E) any act which is indictable under the Currency and Foreign Transactions Reporting Act.
+
+&emsp;(2) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, any political subdivision, or any department, agency, or instrumentality thereof;
+
+&emsp;(3) “person” includes any individual or entity capable of holding a legal or beneficial interest in property;
+
+&emsp;(4) “enterprise” includes any individual, partnership, corporation, association, or other legal entity, and any union or group of individuals associated in fact although not a legal entity;
+
+&emsp;(5) “pattern of racketeering activity” requires at least two acts of racketeering activity, one of which occurred after the effective date of this chapter and the last of which occurred within ten years (excluding any period of imprisonment) after the commission of a prior act of racketeering activity;
+
+&emsp;(6) “unlawful debt” means a debt (A) incurred or contracted in gambling activity which was in violation of the law of the United States, a State or political subdivision thereof, or which is unenforceable under State or Federal law in whole or in part as to principal or interest because of the laws relating to usury, and (B) which was incurred in connection with the business of gambling in violation of the law of the United States, a State or political subdivision thereof, or the business of lending money or a thing of value at a rate usurious under State or Federal law, where the usurious rate is at least twice the enforceable rate;
+
+&emsp;(7) “racketeering investigator” means any attorney or investigator so designated by the Attorney General and charged with the duty of enforcing or carrying into effect this chapter;
+
+&emsp;(8) “racketeering investigation” means any inquiry conducted by any racketeering investigator for the purpose of ascertaining whether any person has been involved in any violation of this chapter or of any final order, judgment, or decree of any court of the United States, duly entered in any case or proceeding arising under this chapter;
+
+&emsp;(9) “documentary material” includes any book, paper, document, record, recording, or other material; and
+
+&emsp;(10) “Attorney General” includes the Attorney General of the United States, the Deputy Attorney General of the United States, the Associate Attorney General of the United States, any Assistant Attorney General of the United States, or any employee of the Department of Justice or any employee of any department or agency of the United States so designated by the Attorney General to carry out the powers conferred on the Attorney General by this chapter. Any department or agency so designated may use in investigations authorized by this chapter either the investigative provisions of this chapter or the investigative power of such department or agency otherwise conferred by law.
+
+(Added Pub. L. 91–452, title IX, §901(a), Oct. 15, 1970, 84 Stat. 941; amended Pub. L. 95–575, §3(c), Nov. 2, 1978, 92 Stat. 2465; Pub. L. 95–598, title III, §314(g), Nov. 6, 1978, 92 Stat. 2677; Pub. L. 98–473, title II, §§901(g), 1020, Oct. 12, 1984, 98 Stat. 2136, 2143; Pub. L. 98–547, title II, §205, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 99–570, title I, §1365(b), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 99–646, §50(a), Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, §§7013, 7020(c), 7032, 7054, 7514, Nov. 18, 1988, 102 Stat. 4395, 4396, 4398, 4402, 4489; Pub. L. 101–73, title IX, §968, Aug. 9, 1989, 103 Stat. 506; Pub. L. 101–647, title XXXV, §3560, Nov. 29, 1990, 104 Stat. 4927; Pub. L. 103–322, title IX, §90104, title XVI, §160001(f), title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1987, 2037, 2150; Pub. L. 103–394, title III, §312(b), Oct. 22, 1994, 108 Stat. 4140.)
+
+#### References in Text
+
+Section 102 of the Controlled Substances Act, referred to in par. (1)(A), (D), is classified to section 802 of Title 21, Food and Drugs.
+
+Section 2258, referred to in par. (1)(B), probably means the section 2258 of this title added by section 160001(a) of Pub. L. 103–322.
+
+The Currency and Foreign Transactions Reporting Act, referred to in par. (1)(E), is title II of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1118, which was repealed and reenacted as subchapter II of chapter 53 of Title 31, Money and Finance, by Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31.
+
+The effective date of this chapter, referred to in par. (5), is Oct. 15, 1970.
+
+#### Amendments
+
+1994—Par. (1)(A). Pub. L. 103–322, §330021(1), substituted “kidnapping” for “kidnaping”.
+
+Pub. L. 103–322, §90104, substituted “a controlled substance or listed chemical (as defined in section 102 of the Controlled Substances Act)” for “narcotic or other dangerous drugs”.
+
+Par. (1)(B). Pub. L. 103–322, §160001(f), which directed the amendment of section “1961(<i>l</i>) of title 18, United States Code” by substituting “2251, 2251A, 2252, and 2258” for “2251–2252”, was executed by making the substitution in par. (1)(B) of this section, to reflect the probable intent of Congress, because this section does not contain a subsec. (<i>l).</i>
+
+Par. (1)(D). Pub. L. 103–394 inserted “(except a case under section 157 of that title)” after “title 11”.
+
+Pub. L. 103–322, §90104, substituted “a controlled substance or listed chemical (as defined in section 102 of the Controlled Substances Act)” for “narcotic or other dangerous drugs”.
+
+1990—Par. (1)(B). Pub. L. 101–647 substituted “section 1029 (relating to” for “section 1029 (relative to” and struck out “sections 2251 through 2252 (relating to sexual exploitation of children),” before “, section 1958”.
+
+1989—Par. (1). Pub. L. 101–73 inserted “section 1344 (relating to financial institution fraud),” after “section 1343 (relating to wire fraud),”.
+
+1988—Par. (1)(B). Pub. L. 100–690, §7514, inserted “sections 2251 through 2252 (relating to sexual exploitation of children),”.
+
+Pub. L. 100–690, §7054, inserted “, section 1029 (relative to fraud and related activity in connection with access devices)” and “, section 1958 (relating to use of interstate commerce facilities in the commission of murder-for-hire), sections 2251–2252 (relating to sexual exploitation of children)”.
+
+Pub. L. 100–690, §7032, substituted “section 2321” for “section 2320”.
+
+Pub. L. 100–690, §7013, made technical amendment to directory language of Pub. L. 99–646. See 1986 Amendment note below.
+
+Par. (10). Pub. L. 100–690, §7020(c), inserted “the Associate Attorney General of the United States,” after “Deputy Attorney General of the United States,”.
+
+1986—Par. (1)(B). Pub. L. 99–646, as amended by Pub. L. 100–690, §7013, inserted “section 1512 (relating to tampering with a witness, victim, or an informant), section 1513 (relating to retaliating against a witness, victim, or an informant),” after “section 1511 (relating to the obstruction of State or local law enforcement),”.
+
+Pub. L. 99–570 inserted “section 1956 (relating to the laundering of monetary instruments), section 1957 (relating to engaging in monetary transactions in property derived from specified unlawful activity),”.
+
+1984—Par. (1)(A). Pub. L. 98–473, §1020(1), inserted “dealing in obscene matter,” after “extortion,”.
+
+Par. (1)(B). Pub. L. 98–547 inserted “sections 2312 and 2313 (relating to interstate transportation of stolen motor vehicles),” and “section 2320 (relating to trafficking in certain motor vehicles or motor vehicle parts),”.
+
+Pub. L. 98–473, §1020(2), inserted “sections 1461–1465 (relating to obscene matter),”.
+
+Par. (1)(E). Pub. L. 98–473, §901(g), inserted cl. (E).
+
+1978—Par. (1)(B). Pub. L. 95–575 inserted “sections 2341–2346 (relating to trafficking in contraband cigarettes),”.
+
+Par. (1)(D). Pub. L. 95–598 substituted “fraud connected with a case under title 11” for “bankruptcy fraud”.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of Title 11.
+
+#### Effective Date of 1978 Amendments
+
+Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+Amendment by Pub. L. 95–575 effective Nov. 2, 1978, see section 4 of Pub. L. 95–575, set out as an Effective Date note under section 2341 of this title.
+
+#### Short Title of 1984 Amendment
+
+Section 301 of chapter III (§§301–322) of title II of Pub. L. 98–473 provided that: “This title \[probably means this chapter, enacting sections 1589, 1600, 1613a, and 1616 of Title 19, Customs Duties and sections 853, 854, and 970 of Title 21, Food and Drugs, amending section 1963 of this title and sections 1602, 1605, 1606, 1607, 1608, 1609, 1610, 1611, 1612, 1613, 1614, 1615, 1618, 1619, and 1644 of Title 19, sections 824, 848, and 881 of Title 21, and section 524 of Title 28, Judiciary and Judicial Procedure, and repealing section 7607 of Title 26, Internal Revenue Code\] may be cited as the ‘Comprehensive Forfeiture Act of 1984’.”
+
+#### Short Title
+
+Section 1 of Pub. L. 91–452 provided in part: “That this Act \[enacting this section, sections 841 to 848, 1511, 1623, 1955, 1962 to 1968, 3331 to 3334, 3503, 3504, 3575 to 3578, and 6001 to 6005 of this title, and section 1826 of Title 28, Judiciary and Judicial Procedure, amending sections 835, 1073, 1505, 1954, 2424, 2516, 2517, 3148, 3486, and 3500 of this title, sections 15, 87f, 135c, 499m, and 2115 of Title 7, Agriculture, section 25 of Title 11, Bankruptcy, section 1820 of Title 12, Banks and Banking, sections 49, 77v, 78u, 79r, 80a–41, 80b–9, 155, 717m, 1271, and 1714 of Title 15, Commerce and Trade, section 825f of Title 16, Conservation, section 1333 of Title 19, Customs Duties, section 373 of Title 21, Food and Drugs, section 161 of Title 29, Labor, section 506 of Title 33, Navigation and Navigable Waters, sections 405 and 2201 of Title 42, The Public Health and Welfare, sections 157 and 362 of Title 45, Railroads, section 1124 of former Title 46, Shipping, section 409 of Title 47, Telegraphs, Telephones, and Radio telegraphs, sections 9, 43, 46, 916, 1017, and 1484 of former Title 49, Transportation, section 792 of Title 50, War and National Defense, and sections 643a, 1152, 2026, and former section 2155 of Title 50, Appendix, repealing sections 837, 895, 1406, and 2514 of this title, sections 32 and 33 of Title 15; sections 4874 and 7493 of Title 26, Internal Revenue Code, section 827 of former Title 46, sections 47 and 48 of former Title 49, and sections 121 to 144 of Title 50, enacting provisions set out as notes under this section and sections 841, 1511, 1955, preceding 3331, preceding 3481, 3504, and 6001 of this title, and repealing provisions set out as a note under section 2510 of this title\] may be cited as the ‘Organized Crime Control Act of 1970’.”
+
+#### Savings Provision
+
+Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§151 et seq.), chapter 96 (§1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
+
+#### Separability
+
+Section 1301 of Pub. L. 91–452 provided that: “If the provisions of any part of this Act \[see Short Title noteset out above\] or the application thereof to any person or circumstances be held invalid, the provisions of the other parts and their application to other persons or circumstances shall not be affected thereby.”
+
+#### Congressional Statement of Findings and Purpose
+
+Section 1 of Pub. L. 91–452 provided in part that:
+
+“The Congress finds that (1) organized crime in the United States is a highly sophisticated, diversified, and widespread activity that annually drains billions of dollars from America's economy by unlawful conduct and the illegal use of force, fraud, and corruption; (2) organized crime derives a major portion of its power through money obtained from such illegal endeavors as syndicated gambling, loan sharking, the theft and fencing of property, the importation and distribution of narcotics and other dangerous drugs, and other forms of social exploitation; (3) this money and power are increasingly used to infiltrate and corrupt legitimate business and labor unions and to subvert and corrupt our democratic processes; (4) organized crime activities in the United States weaken the stability of the Nation's economic system, harm innocent investors and competing organizations, interfere with free competition, seriously burden interstate and foreign commerce, threaten the domestic security, and undermine the general welfare of the Nation and its citizens; and (5) organized crime continues to grow because of defects in the evidence-gathering process of the law inhibiting the development of the legally admissible evidence necessary to bring criminal and other sanctions or remedies to bear on the unlawful activities of those engaged in organized crime and because the sanctions and remedies available to the Government are unnecessarily limited in scope and impact.
+
+“It is the purpose of this Act \[see Short Title note above\] to seek the eradication of organized crime in the United States by strengthening the legal tools in the evidence-gathering process, by establishing new penal prohibitions, and by providing enhanced sanctions and new remedies to deal with the unlawful activities of those engaged in organized crime.”
+
+#### Liberal Construction of Provisions; Supersedure of Federal or State Laws; Authority of Attorneys Representing United States
+
+Section 904 of title IX of Pub. L. 91–452 provided that:
+
+“(a) The provisions of this title \[enacting this chapter and amending sections 1505, 2516, and 2517 of this title\] shall be liberally construed to effectuate its remedial purposes.
+
+“(b) Nothing in this title shall supersede any provision of Federal, State, or other law imposing criminal penalties or affording civil remedies in addition to those provided for in this title.
+
+“(c) Nothing contained in this title shall impair the authority of any attorney representing the United States to—
+
+&emsp;“(1) lay before any grand jury impaneled by any district court of the United States any evidence concerning any alleged racketeering violation of law;
+
+&emsp;“(2) invoke the power of any such court to compel the production of any evidence before any such grand jury; or
+
+&emsp;“(3) institute any proceeding to enforce any order or process issued in execution of such power or to punish disobedience of any such order or process by any person.”
+
+#### President's Commission on Organized Crime; Taking of Testimony and Receipt of Evidence
+
+Pub. L. 98–368, July 17, 1984, 98 Stat. 490, provided for the Commission established by Ex. Ord. No. 12435, formerly set out below, authority relating to taking of testimony, receipt of evidence, subpoena power, testimony of persons in custody, immunity, service of process, witness fees, access to other records and information, Federal protection for members and staff, closure of meetings, rules, and procedures, for the period of July 17, 1984, until the earlier of 2 years or the expiration of the Commission.
+
+#### Executive Order No. 12435
+
+Ex. Ord. No. 12435, July 28, 1983, 48 F.R. 34723, as amended Ex. Ord. No. 12507, Mar. 22, 1985, 50 F.R. 11835, which established and provided for the administration of the President's Commission on Organized Crime, was revoked by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 924, 1956, 1959 of this title; title 7 section 12a.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
+

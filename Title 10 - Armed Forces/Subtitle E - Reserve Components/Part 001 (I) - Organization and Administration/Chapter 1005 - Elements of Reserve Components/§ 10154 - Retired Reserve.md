@@ -1,0 +1,34 @@
+### §10154. Retired Reserve
+
+The Retired Reserve consists of the following Reserves:
+
+&emsp;(1) Reserves who are or have been retired under section 3911, 6323, or 8911 of this title or under section 291 of title 14.
+
+&emsp;(2) Reserves who have been transferred to the Retired Reserve upon their request, retain their status as Reserves, and are otherwise qualified.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2975.)
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in section 274 of this title, prior to repeal by Pub. L. 103–337, §1661(a)(2)(A).
+
+#### Authority To Issue Military Identification Cards to So-Called Honorary Retirees of the Naval and Marine Corps Reserves
+
+Section 377 of Pub. L. 103–337 provided that:
+
+“(a)
+
+Authority.—The Secretary of the Navy may issue a military identification card to a member of the Retired Reserve described in subsection (b).
+
+“(b)
+
+Covered Members.—A member of the Retired Reserve referred to in subsection (a) is a member of the Naval Reserve or Marine Corps Reserve who transferred to the Retired Reserve under section 274(2) \[see 10154(2)\] of title 10, United States Code, without having completed the years of service required under section 1331(a)(2) \[see 12731(a)(2)\] of such title for eligibility for retired pay under chapter 67 \[see 1223\] of such title.
+
+“(c)
+
+Effect on Commissary and Exchange Benefits.—The issuance of a military identification card under subsection (a) to a member of the Retired Reserve does not confer eligibility for commissary and exchange benefits on that member.
+
+“(d)
+
+Limitation on Color and Format.—The Secretary shall ensure that the color and format in which a military identification card is issued under subsection (a) is not similar to the color and format in which a military identification card is issued by the Department of Defense to individuals other than members described in subsection (b).”
+

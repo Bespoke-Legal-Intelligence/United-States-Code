@@ -1,0 +1,48 @@
+### §410r–5. Findings, purposes, and definitions
+
+#### (a) Findings
+
+The Congress makes the following findings:
+
+&emsp;(1) The Everglades National Park is a nationally and internationally significant resource and the park has been adversely affected and continues to be adversely affected by external factors which have altered the ecosystem including the natural hydrologic conditions within the park.
+
+&emsp;(2) The existing boundary of Everglades National Park excludes the contiguous lands and waters of the Northeast Shark River Slough that are vital to long-term protection of the park and restoration of natural hydrologic conditions within the park.
+
+&emsp;(3) Wildlife resources and their associated habitats have been adversely impacted by the alteration of natural hydrologic conditions within the park, which has contributed to an overall decline in fishery resources and a 90 percent population loss of wading birds.
+
+&emsp;(4) Incorporation of the Northeast Shark River Slough and the East Everglades within the park will limit further losses suffered by the park due to habitat destruction outside the present park boundaries and will preserve valuable ecological resources for use and enjoyment by future generations.
+
+&emsp;(5) The State of Florida and certain of its political subdivisions or agencies have indicated a willingness to transfer approximately 35,000 acres of lands under their jurisdiction to the park in order to protect lands and water within the park, and may so transfer additional lands in the future.
+
+&emsp;(6) The State of Florida has proposed a joint Federal-State effort to protect Everglades National Park through the acquisition of additional lands.
+
+#### (b) Purposes
+
+The purposes of sections 410r–5 to 410r–8 of this title are to—
+
+&emsp;(1) increase the level of protection of the outstanding natural values of Everglades National Park and to enhance and restore the ecological values, natural hydrologic conditions, and public enjoyment of such area by adding the area commonly known as the Northeast Shark River Slough and the East Everglades to Everglades National Park; and
+
+&emsp;(2) assure that the park is managed in order to maintain the natural abundance, diversity, and ecological integrity of native plants and animals, as well as the behavior of native animals, as a part of their ecosystem.
+
+#### (c) Definitions
+
+As used in sections 410r–5 to 410r–8 of this title:
+
+&emsp;(1) The term “Secretary” means the Secretary of the Interior.
+
+&emsp;(2) The term “addition” means the approximately 107,600 acre area of the East Everglades area authorized to be added to Everglades National Park by sections 410r–5 to 410r–8 of this title.
+
+&emsp;(3) The term “park” means the area encompassing the existing boundary of Everglades National Park and the addition area described in paragraph (2).
+
+&emsp;(4) The term “project” means the Central and Southern Florida Project.
+
+(Pub. L. 101–229, title I, §101, Dec. 13, 1989, 103 Stat. 1946.)
+
+#### Short Title
+
+Section 1 of Pub. L. 101–229 provided that: “This Act \[enacting this section and sections 410r–6 to 410r–8 of this title\] may be cited as the ‘Everglades National Park Protection and Expansion Act of 1989’.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 410r–6, 410r–7, 410r–8 of this title.
+

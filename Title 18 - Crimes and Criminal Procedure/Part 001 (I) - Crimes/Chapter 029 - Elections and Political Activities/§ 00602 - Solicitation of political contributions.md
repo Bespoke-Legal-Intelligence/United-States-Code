@@ -1,0 +1,60 @@
+### §602 . Solicitation of political contributions
+
+(a) It shall be unlawful for—
+
+&emsp;(1) a candidate for the Congress;
+
+&emsp;(2) an individual elected to or serving in the office of Senator or Representative in, or Delegate or Resident Commissioner to, the Congress;
+
+&emsp;(3) an officer or employee of the United States or any department or agency thereof; or
+
+&emsp;(4) a person receiving any salary or compensation for services from money derived from the Treasury of the United States; to knowingly solicit any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined under this title or imprisoned not more than 3 years, or both.
+
+(b) The prohibition in subsection (a) shall not apply to any activity of an employee (as defined in section 7322(1) of title 5) or any individual employed in or under the United States Postal Service or the Postal Rate Commission, unless that activity is prohibited by section 7323 or 7324 of such title.
+
+(June 25, 1948, ch. 645, 62 Stat. 722; Jan. 8, 1980, Pub. L. 96–187, title II, §201(a)(3), 93 Stat. 1367; Oct. 6, 1993, Pub. L. 103–94, §4(a), 107 Stat. 1004; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §§208, 212 (Mar. 4, 1909, ch. 321, §§118, 122, 35 Stat. 1110; Feb. 28, 1925, ch. 368, §312, 43 Stat. 1073).
+
+This section consolidates sections 208 and 212 of title 18, U.S.C., 1940 ed.
+
+This section, like section 201 of this title, was expanded to embrace all officers or persons acting on behalf of any independent agencies or Government-owned or controlled corporations by inserting words “or any department or agency thereof.” (See definitive section 6 of this title.)
+
+The punishment provision was taken from section 212 of title 18, U.S.C., 1940 ed., which, by reference, made the punishment applicable to the crime described in this section.
+
+Changes were made in phraseology.
+
+#### References in Text
+
+Section 301(8) of the Federal Election Campaign Act of 1971, referred to in subsec. (a)(4), is classified to section 431(8) of Title 2, The Congress.
+
+#### Amendments
+
+1994—Pub. L. 103–322, which directed the amendment of this section by substituting “under this title” for “not more than $5,000”, could not be executed because the phrase “not more than $5,000” does not appear in text. See 1993 Amendment note below.
+
+1993—Pub. L. 103–94 designated existing provisions as subsec. (a), substituted “; to knowingly solicit any contribution within the meaning of section 301(8) of theFederal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined under this title or imprisoned not more than 3 years, or both” for “to knowingly solicit, any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined not more than $5,000 or imprisoned not more than three years, or both” in par. (4), and added subsec. (b).
+
+1980—Pub. L. 96–187 amended section generally to conform its terms to revision of the Federal Election Campaign Act of 1971 by title I of Pub. L. 96–187.
+
+#### Effective Date of 1993 Amendment; Savings Provision
+
+Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to release or extinguish any penalty, forfeiture, or liability incurred under amended provision, which is to be treated as remaining in force for purpose of sustaining any proper proceeding or action for enforcement of that penalty, forfeiture, or liability, and no provision of Pub. L. 103–94 to affect any proceedings with respect to which charges were filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12 of Pub. L. 103–94, set out as an Effective Date; Savings Provision note under section 7321 of Title 5, Government Organization and Employees.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under section 431 of Title 2, The Congress.
+
+#### Delegate From District of Columbia
+
+Provisions of Federal Corrupt Practices Act applicable with respect to Delegate to House of Representatives from District of Columbia in same manner and to same extent as applicable with respect to a Representative, see section 25b of Title 2, The Congress.
+
+#### Cross References
+
+Place of solicitation, see section 607 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 606 of this title; title 5 section 3374.
+

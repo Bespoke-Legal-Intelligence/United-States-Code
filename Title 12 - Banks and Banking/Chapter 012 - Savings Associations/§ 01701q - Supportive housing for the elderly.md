@@ -1,0 +1,668 @@
+### §1701q. Supportive housing for the elderly
+
+#### (a) Purpose
+
+The purpose of this section is to enable elderly persons to live with dignity and independence by expanding the supply of supportive housing that—
+
+&emsp;(1) is designed to accommodate the special needs of elderly persons; and
+
+&emsp;(2) provides a range of services that are tailored to the needs of elderly persons occupying such housing.
+
+#### (b) General authority
+
+The Secretary is authorized to provide assistance to private nonprofit organizations and consumer cooperatives to expand the supply of supportive housing for the elderly. Such assistance shall be provided as (1) capital advances in accordance with subsection (c)(1) of this section, and (2) contracts for project rental assistance in accordance with subsection (c)(2) of this section. Such assistance may be used to finance the construction, reconstruction, or moderate or substantial rehabilitation of a structure or a portion of a structure, or the acquisition of a structure from the Resolution Trust Corporation, to be used as supportive housing for the elderly in accordance with this section. Assistance may also cover the cost of real property acquisition, site improvement, conversion, demolition, relocation, and other expenses that the Secretary determines are necessary to expand the supply of supportive housing for the elderly.
+
+#### (c) Forms of assistance
+
+#### (1) Capital advances
+
+&emsp;A capital advance provided under this section shall bear no interest and its repayment shall not be required so long as the housing remains available for very low-income elderly persons in accordance with this section. Such advance shall be in an amount calculated in accordance with the development cost limitation established in subsection (h) of this section.
+
+#### (2) Project rental assistance
+
+&emsp;Contracts for project rental assistance shall obligate the Secretary to make monthly payments to cover any part of the costs attributed to units occupied (or, as approved by the Secretary, held for occupancy) by very low-income elderly persons that is not met from project income. The annual contract amount for any project shall not exceed the sum of the initial annual project rentals for all units so occupied and any initial utility allowances for such units, as approved by the Secretary. Any contract amounts not used by a project in any year shall remain available to the project until the expiration of the contract. The Secretary may adjust the annual contract amount if the sum of the project income and the amount of assistance payments available under this paragraph are inadequate to provide for reasonable project costs.
+
+#### (3) Tenant rent contribution
+
+&emsp;A very low-income person shall pay as rent for a dwelling unit assisted under this section the highest of the following amounts, rounded to the nearest dollar: (A) 30 percent of the person's adjusted monthly income, (B) 10 percent of the person's monthly income, or (C) if the person is receiving payments for welfare assistance from a public agency and a part of such payments, adjusted in accordance with the person's actual housing costs, is specifically designated by such agency to meet the person's housing costs, the portion of such payments which is so designated.
+
+#### (d) Term of commitment
+
+#### (1) Use limitations
+
+&emsp;All units in housing assisted under this section shall be made available for occupancy by very low-income elderly persons for not less than 40 years.
+
+#### (2) Contract terms
+
+&emsp;The initial term of a contract entered into under subsection (c)(2) of this section shall be 240 months. The Secretary shall, to the extent approved in appropriation Acts, extend any expiring contract for a term of not less than 60 months. In order to facilitate the orderly extension of expiring contracts, the Secretary is authorized to make commitments to extend expiring contracts during the year prior to the date of expiration.
+
+#### (e) Applications
+
+Funds made available under this section shall be allocated by the Secretary among approvable applications submitted by private nonprofit organizations. Applications for assistance under this section shall be submitted by an applicant in such form and in accordance with such procedures as the Secretary shall establish. Such applications shall contain—
+
+&emsp;(1) a description of the proposed housing;
+
+&emsp;(2) a description of the assistance the applicant seeks under this section;
+
+&emsp;(3) a description of the resources that are expected to be made available in compliance with subsection (h) of this section;
+
+&emsp;(4) a description of (A) the category or categories of elderly persons the housing is intended to serve; (B) the supportive services, if any, to be provided to the persons occupying such housing; (C) the manner in which such services will be provided to such persons, including, in the case of frail elderly persons, evidence of such residential supervision as the Secretary determines is necessary to facilitate the adequate provision of such services; and (D) the public or private sources of assistance that can reasonably be expected to fund or provide such services;
+
+&emsp;(5) a certification from the public official responsible for submitting a housing strategy for the jurisdiction to be served in accordance with section 12705 of title 42 that the proposed project is consistent with the approved housing strategy; and
+
+&emsp;(6) such other information or certifications that the Secretary determines to be necessary or appropriate to achieve the purposes of this section.
+
+> The Secretary shall not reject an application on technical grounds without giving notice of that rejection and the basis therefor to the applicant and affording the applicant an opportunity to respond.
+
+#### (f) Selection criteria
+
+The Secretary shall establish selection criteria for assistance under this section, which shall include—
+
+&emsp;(1) the ability of the applicant to develop and operate the proposed housing;
+
+&emsp;(2) the need for supportive housing for the elderly in the area to be served, taking into consideration the availability of public housing for the elderly and vacancy rates in such facilities;
+
+&emsp;(3) the extent to which the proposed size and unit mix of the housing will enable the applicant to manage and operate the housing efficiently and ensure that the provision of supportive services will be accomplished in an economical fashion;
+
+&emsp;(4) the extent to which the proposed design of the housing will meet the special physical needs of elderly persons;
+
+&emsp;(5) the extent to which the applicant has demonstrated that the supportive services identified in subsection (e)(4) of this section will be provided on a consistent, long-term basis;
+
+&emsp;(6) the extent to which the proposed design of the housing will accommodate the provision of supportive services that are expected to be needed, either initially or over the useful life of the housing, by the category or categories of elderly persons the housing is intended to serve; and
+
+&emsp;(7) such other factors as the Secretary determines to be appropriate to ensure that funds made available under this section are used effectively.
+
+#### (g) Provisions of services
+
+#### (1) In general
+
+&emsp;In carrying out the provisions of this section, the Secretary shall ensure that housing assisted under this section provides a range of services tailored to the needs of the category or categories of elderly persons (including frail elderly persons) occupying such housing. Such services may include (A) meal service adequate to meet nutritional need; (B) housekeeping aid; (C) personal assistance; (D) transportation services; (E) health-related services; and (F) such other services as the Secretary deems essential for maintaining independent living. The Secretary may permit the provision of services to elderly persons who are not residents if the participation of such persons will not adversely affect the cost-effectiveness or operation of the program or add significantly to the need for assistance under this Act.
+
+#### (2) Local coordination of services
+
+&emsp;The Secretary shall ensure that owners have the managerial capacity to—
+
+&emsp;&emsp;(A) assess on an ongoing basis the service needs of residents;
+
+&emsp;&emsp;(B) coordinate the provision of supportive services and tailor such services to the individual needs of residents; and
+
+&emsp;&emsp;(C) seek on a continuous basis new sources of assistance to ensure the long-term provision of supportive services.
+
+> &emsp;Any cost associated with this subsection shall be an eligible cost under subsection (c)(2) of this section.
+
+#### (3) Service coordinators
+
+&emsp;Any cost associated with employing or otherwise retaining a service coordinator in housing assisted under this section shall be considered an eligible cost under subsection (c)(2) of this section. If a project is receiving congregate housing services assistance under section 8011 of title 42, the amount of costs provided under subsection (c)(2) of this section for the project service coordinator may not exceed the additional amount necessary to cover the costs of providing for the coordination of services for residents of the project who are not eligible residents under such section 8011 of title 42. To the extent that amounts are available pursuant to subsection (c)(2) of this section for the costs of carrying out this paragraph within a project, an owner of housing assisted under this section shall provide a service coordinator for the housing to coordinate the provision of services under this subsection within the housing.
+
+#### (h) Development cost limitations
+
+#### (1) In general
+
+&emsp;The Secretary shall periodically establish development cost limitations by market area for various types and sizes of supportive housing for the elderly by publishing a notice of the cost limitations in the Federal Register. The cost limitations shall reflect—
+
+&emsp;&emsp;(A) the cost of construction, reconstruction, or rehabilitation of supportive housing for the elderly that meets applicable State and local housing and building codes;
+
+&emsp;&emsp;(B) the cost of movables necessary to the basic operation of the housing, as determined by the Secretary;
+
+&emsp;&emsp;(C) the cost of special design features necessary to make the housing accessible to elderly persons;
+
+&emsp;&emsp;(D) the cost of special design features necessary to make individual dwelling units meet the physical needs of elderly project residents;
+
+&emsp;&emsp;(E) the cost of congregate space necessary to accommodate the provision of supportive services to elderly project residents;
+
+&emsp;&emsp;(F) if the housing is newly constructed, the cost of meeting the energy efficiency standards promulgated by the Secretary in accordance with section 12709 of title 42; and
+
+&emsp;&emsp;(G) the cost of land, including necessary site improvement.
+
+> &emsp;In establishing development cost limitations for a given market area under this subsection, the Secretary shall use data that reflect currently prevailing costs of construction, reconstruction, or rehabilitation, and land acquisition in the area. For purposes of this paragraph, the term “congregate space” shall include space for cafeterias or dining halls, community rooms or buildings, workshops, adult day health facilities, or other outpatient health facilities, or other essential service facilities.
+
+#### (2) RTC properties
+
+&emsp;In the case of existing housing and related facilities to be acquired from the Resolution Trust Corporation under section 1441a(c) of this title or from the Federal Deposit Insurance Corporation under section 1831q of this title, the cost limitations shall include—
+
+&emsp;&emsp;(A) the cost of acquiring such housing,
+
+&emsp;&emsp;(B) the cost of rehabilitation, alteration, conversion, or improvement, including the moderate rehabilitation thereof, and
+
+&emsp;&emsp;(C) the cost of the land on which the housing and related facilities are located.
+
+#### (3) Annual adjustments
+
+&emsp;The Secretary shall adjust the cost limitation not less than once annually to reflectchanges in the general level of construction, reconstruction, or rehabilitation costs.
+
+#### (4) Incentives for savings
+
+#### (A) Special housing account
+
+&emsp;&emsp;The Secretary shall use the development cost limitations established under paragraph (1) or (2) to calculate the amount of financing to be made available to individual owners. Owners which incur actual development costs that are less than the amount of financing shall be entitled to retain 50 percent of the savings in a special housing account. Such percentage shall be increased to 75 percent for owners which add energy efficiency features which—
+
+&emsp;&emsp;&emsp;(i) exceed the energy efficiency standards promulgated by the Secretary in accordance with section 12709 of title 42;
+
+&emsp;&emsp;&emsp;(ii) substantially reduce the life-cycle cost of the housing;
+
+&emsp;&emsp;&emsp;(iii) reduce gross rent requirements; and
+
+&emsp;&emsp;&emsp;(iv) enhance tenant comfort and convenience.
+
+#### (B) Uses
+
+&emsp;&emsp;The special housing account established under subparagraph (A) may be used (i) to supplement services provided to residents of the housing or funds set aside for replacement reserves, or (ii) for such other purposes as determined by the Secretary.
+
+#### (5) Design flexibility
+
+&emsp;The Secretary shall, to the extent practicable, give owners the flexibility to design housing appropriate to their location and proposed resident population within broadly defined parameters.
+
+#### (6) Use of funds from other sources
+
+&emsp;An owner shall be permitted voluntarily to provide funds from non-Federal sources for amenities and other features of appropriate design and construction suitable for supportive housing for the elderly if the cost of such amenities is (A) not financed with the advance, and (B) is not taken into account in determining the amount of Federal assistance or of the rent contribution of tenants.
+
+#### (i) Tenant selection
+
+#### (1) In general
+
+&emsp;An owner shall adopt written tenant selection procedures that are satisfactory to the Secretary as (A) consistent with the purpose of improving housing opportunities for very low-income elderly persons; and (B) reasonably related to program eligibility and an applicant's ability to perform the obligations of the lease. Such tenant selection procedures shall comply with subtitle C of title VI of the Housing and Community Development Act of 1992 \[42 U.S.C. 13601 et seq.\] and any regulations issued under such subtitle. Owners shall promptly notify in writing any rejected applicant of the grounds for any rejection.
+
+#### (2) Information regarding housing under this section
+
+&emsp;The Secretary shall provide to an appropriate agency in each area (which may be the applicable Area Agency on the Aging) information regarding the availability of housing assisted under this section.
+
+#### (j) Miscellaneous provisions
+
+#### (1) Technical assistance
+
+&emsp;The Secretary shall make available appropriate technical assistance to assure that applicants having limited resources, particularly minority applicants, are able to participate more fully in the program carried out under this section.
+
+#### (2) Civil rights compliance
+
+&emsp;Each owner shall certify, to the satisfaction of the Secretary, that assistance made available under this section will be conducted and administered in conformity with title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], the Fair Housing Act \[42 U.S.C. 3601 et seq.\], and other Federal, State, and local laws prohibiting discrimination and promoting equal opportunity.
+
+#### (3) Owner deposit
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall require an owner to deposit an amount not to exceed $25,000 in a special escrow account to assure the owner's commitment to the housing.
+
+#### (B) Reduction of requirement
+
+&emsp;&emsp;The Secretary may reduce or waive the owner deposit specified under paragraph (1) for individual applicants if the Secretary finds that such waiver or reduction is necessary to achieve the purposes of this section and the applicant demonstrates to the satisfaction of the Secretary that it has the capacity to manage and maintain the housing in accordance with this section. The Secretary shall reduce or waive the requirement of the owner deposit under paragraph (1) in the case of a nonprofit applicant that is not affiliated with a national sponsor, as determined by the Secretary.
+
+#### (4) Notice of appeal
+
+&emsp;The Secretary shall notify an owner not less than 30 days prior to canceling any reservation of assistance provided under this section. During the 30-day period following the receipt of a notice under the preceding sentence, an owner may appeal the proposed cancellation of loan authority. Such appeal, including review by the Secretary, shall be completed not later than 45 days after the appeal is filed.
+
+#### (5) Labor
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall take such action as may be necessary to ensure that all laborers and mechanics employed by contractors and subcontractors in the construction of housing with 12 or more units assisted under this section shall be paid wages at rates not less than the rates prevailing in the locality involved for the corresponding classes of laborers and mechanics employed on construction of a similar character, as determined by the Secretary of Labor in accordance with the Act of March 3, 1931 (commonly known as the Davis-Bacon Act) \[40 U.S.C. 276a et seq.\].
+
+#### (B) Exemption
+
+&emsp;&emsp;Subparagraph (A) shall not apply to any individual who—
+
+&emsp;&emsp;&emsp;(i) performs services for which the individual volunteered;
+
+&emsp;&emsp;&emsp;(ii)(I) does not receive compensation for such services; or
+
+&emsp;&emsp;&emsp;(II) is paid expenses, reasonable benefits, or a nominal fee for such services; and
+
+&emsp;&emsp;&emsp;(iii) is not otherwise employed at any time in the construction work.
+
+#### (6) Access to residual receipts
+
+&emsp;The Secretary shall authorize the owner of a project assisted under this section to use any residual receipts held for the project in excess of $500 per unit (or in excess of such other amount prescribed by the Secretary based on the needs of the project) for activities to retrofit and renovate the project described under section 8011(d)(3) of title 42, to provide a service coordinator for the project as described in section 8011(d)(4) of title 42, or to provide supportive services (as such term is defined in section 8011(k) of title 42) to residents of the project. Any owner that uses residual receipts under this paragraph shall submit to the Secretary a report, not less than annually, describing the uses of the residual receipts. In determining the amount of project rental assistance to be provided to a project under subsection (c)(2) of this section, the Secretary may take into consideration the residual receipts held for the project only if, and to the extent that, excess residual receipts are not used under this paragraph.
+
+#### (7) Compliance with Housing and Community Development Act of 1992
+
+&emsp;Each owner shall operate housing assisted under this section in compliance with subtitle C of title VI of the Housing and Community Development Act of 1992 \[42 U.S.C. 13601 et seq.\] and any regulations issued under such subtitle.
+
+#### (k) Definitions
+
+(1) The term “elderly person” means a household composed of one or more persons at least one of whom is 62 years of age or more at the time of initial occupancy.
+
+(2) The term “frail elderly” means an elderly person who is unable to perform at least 3 activities of daily living adopted by the Secretary for purposes of this program. Owners may establish additional eligibility requirements (acceptable to the Secretary) based on the standards in local supportive services programs.
+
+(3) The term “owner” means a private nonprofit organization that receives assistance under this section to develop and operate supportive housing for the elderly.
+
+(4) The term “private nonprofit organization” means any incorporated private institution or foundation—
+
+&emsp;(A) no part of the net earnings of which inures to the benefit of any member, founder, contributor, or individual;
+
+&emsp;(B) which has a governing board (i) the membership of which is selected in a manner to assure that there is significant representation of the views of the community in which such housing is located, and (ii) which is responsible for the operation of the housing assisted under this section; and
+
+&emsp;(C) which is approved by the Secretary as to financial responsibility.
+
+(5) The term “State” includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States.
+
+(6) The term “Secretary” means the Secretary of Housing and Urban Development.
+
+(7) The term “supportive housing for the elderly” means housing that is designed (A) to meet the special physical needs of elderly persons and (B) to accommodate the provision of supportive services that are expected to be needed, either initially or over the useful life of the housing, by the category or categories of elderly persons that the housing is intended to serve.
+
+(8) The term “very low-income” has the same meaning as given the term “very low-income families” under section 1437a(b)(2) of title 42.
+
+#### (<i>l</i>) Allocation of funds
+
+#### (1) Capital advances
+
+&emsp;Of any amounts made available for assistance under this section, such sums as may be necessary shall be available for funding capital advances in accordance with subsection (c)(1) of this section. Such amounts, the repayments from such advances, and the proceeds from notes or obligations issued under this section prior to November 28, 1990, shall constitute a revolving fund to be used by the Secretary in carrying out this section.
+
+#### (2) Project rental assistance
+
+&emsp;Of any amounts made available for assistance under this section, such sums as may be necessary shall be available for funding project rental assistance in accordance with subsection (c)(2) of this section.
+
+#### (3) Nonmetropolitan allocation
+
+&emsp;Not less than 15 percent of the funds made available for assistance under this section shall be allocated by the Secretary on a national basis for nonmetropolitan areas.
+
+(Pub. L. 86–372, title II, §202, Sept. 23, 1959, 73 Stat. 667; Pub. L. 87–70, title II, §201, June 30, 1961, 75 Stat. 162; Pub. L. 87–723, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–158, Oct. 24, 1963, 77 Stat. 278; Pub. L. 88–560, title II, §§201, 203(a)(2), Sept. 2, 1964, 78 Stat. 783; Pub. L. 89–117, title I, §105(a), (b)(1), formerly §105, Aug. 10, 1965, 79 Stat. 457, renumbered Pub. L. 89–754, title X, §1001(1), (2), Nov. 3, 1966, 80 Stat. 1284; Pub. L. 90–19, §16(a), May 25, 1967, 81 Stat. 25; Pub. L. 90–448, title XVII, §1706, Aug. 1, 1968, 82 Stat. 605; Pub. L. 91–152, title II, §218, Dec. 24, 1969, 83 Stat. 390; Pub. L. 93–383, title II, §210(a)–(f), Aug. 22, 1974, 88 Stat. 669–671; Pub. L. 94–375, §11, Aug. 3, 1976, 90 Stat. 1074; Pub. L. 95–128, title II, §202, Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §205, Oct. 31, 1978, 92 Stat. 2090; Pub. L. 96–153, title III, §306(a)–(d), Dec. 21, 1979, 93 Stat. 1112, 1113; Pub. L. 96–399, title III, §319, Oct. 8, 1980, 94 Stat. 1646; Pub. L. 97–35, title III, §336, Aug. 13, 1981, 95 Stat. 414; Pub. L. 98–181, title II, §223(a)(1), (b)–(e), Nov. 30, 1983, 97 Stat. 1189, 1190; Pub. L. 98–479, title I, §102(c), title II, §§201(e), 203(h),Oct. 17, 1984, 98 Stat. 2222, 2228, 2230; Pub. L. 100–242, title I, §§161(a)–(c)(1), (d)–(f), 162(b), (c), 170(g), Feb. 5, 1988, 101 Stat. 1855–1857, 1859, 1867; Pub. L. 101–625, title VIII, §§801(a), (e), 804(a)–(c), 805, 807, 808, title IX, §955(c), Nov. 28, 1990, 104 Stat. 4297, 4304, 4322–4324, 4421; Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 756; Pub. L. 102–242, title II, §241(c)(2), Dec. 19, 1991, 105 Stat. 2331; Pub. L. 102–550, title VI, §§601(c), 602(a)–(c), (e)–(g), 677(a), 682(c), title IX, §913(a), title XVI, §1604(c)(3), Oct. 28, 1992, 106 Stat. 3802–3805, 3829, 3831, 3876, 4083.)
+
+#### References in Text
+
+This Act, referred to in subsec. (g)(1), is Pub. L. 86–372, Sept. 23, 1959, 73 Stat. 654, as amended, known as the Housing Act of 1959. For complete classification of this Act to the Code, see Short Title of 1959 Amendment note set out under section 1701 of this title and Tables.
+
+The Housing and Community Development Act of 1992, referred to in subsecs. (i)(1) and (j)(7), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672. Subtitle C of title VI of the Act is classified generally to subchapter I (§13601 et seq.) of chapter 135 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of Title 42 and Tables.
+
+The Civil Rights Act of 1964, referred to in subsec. (j)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 252, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+
+The Fair Housing Act, referred to in subsec. (j)(2), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+
+The Davis-Bacon Act, referred to in subsec. (j)(5)(A), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+
+#### Codification
+
+Section was enacted as part of the Housing Act of 1959, and not as part of the National Housing Act which comprises this chapter.
+
+#### Amendments
+
+1992—Subsec. (e)(5) to (7). Pub. L. 102–550, §602(b), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which read as follows: “a certification from the appropriate State or local agency (as determined by the Secretary) that the provision of services identified in paragraph (4) is well designed to serve the special needs of the category or categories of elderly persons the housing is intended to serve;”.
+
+Subsec. (f)(2). Pub. L. 102–550, §602(c), which directed insertion of “, taking into consideration the availability of public housing for the elderly and vacancy rates in such facilities” at end, was executed by making insertion before semicolon at end.
+
+Subsec. (g)(1). Pub. L. 102–550, §602(a)(1), struck out “and persons with disabilities” after “elderly persons” in last sentence.
+
+Subsec. (g)(2). Pub. L. 102–550, §677(a)(A), struck out at end “Any cost associated with the employment of a service coordinator shall also be an eligible cost except where the project is receiving congregate housing services assistance under section 8011 of title 42.”
+
+Subsec. (g)(3). Pub. L. 102–550, §677(a)(B), added par. (3).
+
+Subsec. (h)(2). Pub. L. 102–550, §1604(c)(3), made technical amendment to reference to section 1831q of this title to correct reference to corresponding provision of original act.
+
+Subsec. (i)(1). Pub. L. 102–550, §682(c)(1), inserted after first sentence “Such tenant selection procedures shall comply with subtitle C of title VI of the Housing and Community Development Act of 1992 and any regulations issued under such subtitle.”
+
+Subsec. (i)(1)(A). Pub. L. 102–550, §602(a)(2), substituted “elderly persons” for “persons with disabilities”.
+
+Subsec. (j)(3)(B). Pub. L. 102–550, §602(f), inserted at end “The Secretary shall reduce or waive the requirement of the owner deposit under paragraph (1) in the case of a nonprofit applicant that is not affiliated with a national sponsor, as determined by the Secretary.”
+
+Subsec. (j)(5). Pub. L. 102–550, §913(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows:
+
+“(A)
+
+In general.—Any contract for the construction of affordable housing with 12 or more units assisted with funds made available under this subtitle shall contain a provision requiring that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to the Davis-Bacon Act (40 U.S.C. 276a–276a–5), shall be paid to all laborers and mechanics employed in the development of affordable housing involved, and participating jurisdictions shall require certification as to compliance with the provisions of this section prior to making any payment under such contract.
+
+“(B)
+
+Waiver.—Subparagraph (A) shall not apply if the individual receives no compensation or is paid expenses, reasonable benefits, or a nominal fee to perform the services for which the individual volunteered and such persons are not otherwise employed at any time in the construction work.”
+
+Subsec. (j)(6). Pub. L. 102–550, §602(e), added par. (6).
+
+Subsec. (j)(7). Pub. L. 102–550, §682(c)(2), added par. (7).
+
+Subsec. (<i>l</i>). Pub. L. 102–550, §601(c)(1), substituted “Allocation of funds” for “Authorizations” in heading.
+
+Subsec. (<i>l</i>)(1). Pub. L. 102–550, §601(c)(2), inserted sentence at beginning, substituted “Such amounts” for “Amounts so appropriated” in second sentence, and struck out former first sentence which read as follows: “There are authorized to be appropriated for the purpose of funding capital advances in accordance with subsection (c)(1) of this section $659,000,000 for fiscal year 1992.”
+
+Subsec. (<i>l</i>)(2). Pub. L. 102–550, §601(c)(3), added par. (2) and struck out former par. (2) which read as follows: “For the purpose of funding contracts for project rental assistance in accordance with subsection (c)(2) of this section the Secretary may, to the extent approved in an appropriations Act, reserve authority to enter into obligations aggregating $363,000,000 for fiscal year 1992.”
+
+Subsec. (<i>l</i>)(3). Pub. L. 102–550, §602(g), which directed substitution of “15 percent” for “20 percent” in par. (4) was executed to par. (3) to reflect the probable intent of Congress.
+
+Pub. L. 102–550, §601(c)(4), substituted “for assistance under this section” for “under this subtitle”.
+
+1991—Subsec. (g)(2). Pub. L. 102–139, amending Pub. L. 101–625, §801(a), struck out “in housing principally serving frail elderly persons” after “coordinator”.
+
+Pub. L. 102–139 struck out “or a project where the tenants are not principally frail elderly” before period at end of subsec. (g)(2) as it existed prior to the general amendment of this section by section 801(a) of Pub. L. 101–625.
+
+Subsec. (h)(2). Pub. L. 102–242 inserted “or from the Federal Deposit Insurance Corporation under section 1831q of this title” after “section 1441a(c) of this title”.
+
+1990—Pub. L. 101–625, §801(a), amended section generally, substituting present provisions for provisions authorizing loans for housing and related facilities for elderly or handicapped families.
+
+Subsec. (a)(4)(C). Pub. L. 101–625, §801(e), struck out before period at end “, and not more than $666,400,000may be approved in appropriation Acts for such loans with respect to fiscal year 1984. For fiscal years 1988 and 1989, not more than $621,701,000 and $630,000,000, respectively, may be approved in appropriation Acts for such loans” and inserted at end “For fiscal year 1991, not more than $714,200,000 may be approved in appropriation Acts for such loans.”
+
+Subsec. (a)(9). Pub. L. 101–625, §804(b), added par. (9).
+
+Subsec. (c)(3). Pub. L. 101–625, §955(c), designated existing provisions as subpar. (A), struck out before period at end “; but the Secretary may waive the application of this paragraph in cases or classes of cases where laborers or mechanics, not otherwise employed at any time in the construction of such housing, voluntarily donate their services without full compensation for the purpose of lowering the costs of construction and the Secretary determines that any amounts saved thereby are fully credited to the corporation, cooperative, or public body or agency undertaking the construction”, and added subpar. (B).
+
+Subsec. (d)(3). Pub. L. 101–625, §804(a), inserted at end “The term also means the cost of acquiring existing housing and related facilities from the Resolution Trust Corporation under section 1441a(c) of this title, the cost of rehabilitation, alteration, conversion, or improvement, including the moderate rehabilitation thereof, and the cost of the land on which the housing and related facilities are located.”
+
+Subsec. (g). Pub. L. 101–625, §808, designated existing provisions as par. (1) and added par. (2).
+
+Pub. L. 101–625, §804(c), inserted at end “In the case of existing housing and related facilities acquired from the Resolution Trust Corporation under section 1441a(c) of this title, the term of the contract pursuant to such section 8 shall be 240 months.”
+
+Subsec. (k)(3). Pub. L. 101–625, §807, added par. (3).
+
+Subsec. (p). Pub. L. 101–625, §805, added subsec. (p).
+
+1988—Subsec. (a)(3). Pub. L. 100–242, §161(c)(1), designated existing provisions as subpar. (A), substituted “taking into consideration the average yield, during the 3-month period immediately preceding the fiscal year in which the loan is made, on the most recently issued 30-year marketable obligations of the United States” for “of the Treasury taking into consideration the average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding the date on which the loan is made”, and added subpar. (B).
+
+Subsec. (a)(4)(B)(i). Pub. L. 100–242, §161(a), inserted provisions relating to such sums as may be approved for fiscal years 1988 and 1989, and substituted “October 1, 1983, to such sum” for “October 1, 1983, and to such sum”.
+
+Pub. L. 100–242, §161(d), substituted “Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury taking into consideration the average yield, during the 3-month period immediately preceding the fiscal year in which the loan is made, on the most recently issued 30-year marketable obligations of the United States.” for “Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding the date on which the loan is made.”
+
+Subsec. (a)(4)(C). Pub. L. 100–242, §161(b), inserted provisions relating to loan authority for fiscal years 1988 and 1989.
+
+Subsec. (a)(8). Pub. L. 100–242, §161(f), added par. (8).
+
+Subsec. (c)(3). Pub. L. 100–242, §162(b)(3), inserted reference to construction designed for dwelling use by 12 or more elderly or handicapped families.
+
+Subsec. (d)(4). Pub. L. 100–242, §170(g)(1), substituted reference to a handicapped person if such person has a developmental disability as defined in section 6001(7) of title 42, for reference to a handicapped person if such person is a developmentally disabled individual as defined in section 102(5) of the Developmental Disabilities Services and Facilities Construction Amendments of 1950.
+
+Subsec. (d)(9), (10). Pub. L. 100–242, §162(b)(2), added pars. (9), (10).
+
+Subsec. (f). Pub. L. 100–242, §162(c), designated existing provisions as par. (1) and added par. (2).
+
+Pub. L. 100–242, §170(g)(2), substituted “section 133” for “section 134”.
+
+Subsec. (h). Pub. L. 100–242, §162(b)(1), amended subsec. (h) generally, changing structure of subsection from one consisting of introductory provisions and two numbered paragraphs to one consisting of four numbered paragraphs.
+
+Subsec. (<i>l</i>). Pub. L. 100–242, §170(g)(3), substituted “different” for “difference”.
+
+Subsec. (n). Pub. L. 100–242, §161(e), added subsec. (n).
+
+1984—Subsec. (a)(4)(B)(i). Pub. L. 98–479, §203(h), substituted “chapter 31 of title 31” for “the Second Liberty Bond Act” and “such chapter” for “that Act”.
+
+Pub. L. 98–479, §102(c)(1), substituted “October 1, 1984” for “October 1, 1985”.
+
+Subsec. (f). Pub. L. 98–479, §201(e), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+
+Subsec. (h)(1). Pub. L. 98–479, §102(c)(2)(A), inserted “and” at end.
+
+Subsec. (h)(2). Pub. L. 98–479, §102(c)(2)(B), substituted a period for “; and” at end.
+
+Subsec. (<i>l</i>). Pub. L. 98–479, §102(c)(3), inserted “The Secretary shall not impose difference requirements or standards with respect to construction change orders, increases in loan amount to cover change orders, errors in plans and specifications, and use of contingency funds, because of the method of contractor selection used by the sponsor or borrower.”
+
+1983—Subsec. (a)(3). Pub. L. 98–181, §223(a)(1), inserted “, except that such interest rate plus such allowance shall not exceed 9.25 per centum per annum”.
+
+Subsec. (a)(4)(B)(i). Pub. L. 98–181, §223(b), struck out “and” after “1980” and inserted “, to $6,400,000,000 on October 1, 1983, and to such sum as may be approved in an appropriation Act on October 1, 1985,”.
+
+Subsec. (a)(4)(C). Pub. L. 98–181, §223(c), substituted “$666,400,000” and “1984” for “$850,848,000” and “1982”, respectively.
+
+Subsec. (h). Pub. L. 98–181, §223(d)(1), (2), in provisions preceding par. (1), substituted “1983” for “1978”, and inserted “, and persons described in subparagraphs (B) and (C) of subsection (d)(4) of this section who have been released from residential health treatment facilities”.
+
+Subsec. (h)(1). Pub. L. 98–181, §223(d)(3), (5), substituted “persons described in the first sentence of this subsection” for “handicapped persons”, and struck out “and” at end.
+
+Subsec. (h)(2). Pub. L. 98–181, §223(d)(4), (6), substituted “persons described in the first sentence of this subsection who are” for “handicapped persons”, and substituted “such community; and” for “such community”.
+
+Subsecs. (i) to (m). Pub. L. 98–181, §223(e), added subsecs. (i) to (m).
+
+1981—Subsec. (a)(4)(C). Pub. L. 97–35 inserted provisions relating to fiscal year 1982.
+
+1980—Subsec. (d)(3). Pub. L. 96–399 inserted last sentence relating to housing to meet the needs of handicapped (primarily nonelderly) persons.
+
+1979—Subsec. (a)(4)(B)(i). Pub. L. 96–153, §306(a), provided for increase of notes or other obligations to $3,827,500,000 on October 1, 1979, to $4,777,500,000 on October 1, 1980, and to $5,752,500,000 on October 1, 1981.
+
+Subsec. (a)(6), (7). Pub. L. 96–153, §306(b), added pars. (6) and (7).
+
+Subsec. (d)(8)(A). Pub. L. 96–153, §306(c)(1), substituted “adult day health facilities, or other” for “or infirmaries or other inpatient or”.
+
+Subsec. (f). Pub. L. 96–153, §306(c)(2), inserted reference to adult day health services.
+
+Subsec. (g). Pub. L. 96–153, §306(d), inserted provisions that at the time of settlement on permanent financing,the Secretary make appropriate adjustment in the amount of assistance to be provided under a contract for annual contributions pursuant to section 8 of the United States Housing Act of 1937 reflecting the difference between interest rate which will actually be charged in connection with such permanent financing and the interest rate which was in effect at the time of the reservation of assistance in connection with the project.
+
+1978—Subsec. (a)(4)(C). Pub. L. 95–557, §205(b), struck out “in any fiscal year” after “The aggregate loans made under this section”, and “for such year” after “lending authority established”.
+
+Subsec. (d)(2). Pub. L. 95–557, §205(d), designated provisions beginning “no part of” as par. (A), substituted “member, founder, contributor, or individual” for “private shareholder, contributor, or individual, if such institution or foundation is approved by the Secretary as to financial responsibility”, and added pars. (B) and (C).
+
+Subsec. (d)(3). Pub. L. 95–557, §205(c), inserted “the cost of movables necessary to the basic operation of the project as determined by the Secretary,” after “related facilities”.
+
+Subsec. (h). Pub. L. 95–557, §205(a), added subsec. (h).
+
+1977—Subsec. (d)(3). Pub. L. 95–128, §202(a), provided for determination of “development cost” without regard to mortgage limits applicable to housing projects subject to mortgages insured under section 1715v of this title.
+
+Subsec. (g). Pub. L. 95–128, §202(b), added subsec. (g).
+
+1976—Subsec. (a)(3). Pub. L. 94–375, §11(c)(1), substituted “average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding the date on which the loan is made” for “current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans”.
+
+Subsec. (a)(4)(B)(i). Pub. L. 94–375, §11(a), (c)(2), substituted “$1,475,000,000, which amount shall be increased to $2,387,500,000 on October 1, 1977, and to $3,300,000,000 on October 1, 1978” for “$800,000,000” and “the average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding the date on which the loan is made” for “the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations”, and inserted provision restricting the amount of notes or obligations issued to the Secretary of the Treasury to not more than $800,000,000.
+
+Subsec. (d)(4). Pub. L. 94–375, §11(b), included in definition of “elderly or handicapped families” two or more elderly or handicapped persons living together, one such person and another providing care for the first, or a surviving member of the family who was living in the unit at the time another member died.
+
+1974—Subsec. (a)(3). Pub. L. 93–383, §210(a), substituted provisions authorizing the Secretary of the Treasury to determine the interest rate, for provisions authorizing the Secretary of Housing and Urban Development to determine the interest rate.
+
+Subsec. (a)(4). Pub. L. 93–383, §210(d), redesignated existing provision as subsec. (a)(4)(A), inserted “, and the proceeds from notes or other obligations issued under subparagraph (B),” after “Amounts so appropriated”, and added subsec. (a)(4)(B), (C).
+
+Subsec. (a)(5). Pub. L. 93–383, §210(e), added par. (5).
+
+Subsec. (d)(4). Pub. L. 93–383, §210(b), substituted “an impairment” for “a physical impairment” and inserted provisions relating to developmentally disabled individuals.
+
+Subsec. (d)(8). Pub. L. 93–383, §210(f), inserted “residing in the project or in the area” after “families”.
+
+Subsec. (f). Pub. L. 93–383, §210(c), added subsec. (f).
+
+1969—Subsec. (a)(4). Pub. L. 91–152 increased by $150,000,000 on July 1, 1969 the amount authorized to be appropriated for the purposes of this section.
+
+1968—Subsec. (a)(1). Pub. L. 90–448, §1706(1), authorized assistance to limited profit sponsors.
+
+Subsec. (a)(2). Pub. L. 90–448, §1706(2), authorized loans to any limited profit sponsor approved by the Secretary.
+
+Subsec. (a)(3). Pub. L. 90–448, §1706(3), limited the amount of the loan to not more than 90 per centum of the development cost in the case of other than a corporation, consumer cooperative, or public body or agency.
+
+1967—Pub. L. 90–19, §16(a)(1), substituted “Secretary” for “Administrator” wherever appearing in subsecs. (a)(2) to (4), (b), (c)(2), (3), (d)(2), (4), and (e) of this section.
+
+Subsec. (c)(2). Pub. L. 90–19, §16(a)(2), struck out at end “, except that for purposes of this subsection the Administrator shall perform the functions vested in the Commissioner by such section 513”.
+
+Subsec. (d)(6). Pub. L. 90–19, §16(a)(3), substituted definition of “Secretary” meaning the Secretary of Housing and Urban Development for “Administrator” meaning the Housing and Home Finance Administrator.
+
+1965—Subsec. (a)(3). Pub. L. 89–117, §105(b)(1), substituted “the lower of (A) 3 per centum per annum, or” for “the higher of (A) 23/4 per centum per annum, or”.
+
+Subsec. (a)(4). Pub. L. 89–117, §105(a), increased amount authorized to be appropriated from $350,000,000 to $500,000,000.
+
+1964—Subsec. (a)(1), (2). Pub. L. 88–560, §203(a)(2)(A), substituted “elderly or handicapped families” for “elderly families and elderly persons”.
+
+Subsec. (a)(4). Pub. L. 88–560, §201, increased amount authorized to be appropriated from $275,000,000 to $350,000,000.
+
+Subsec. (d)(1). Pub. L. 88–560, §203(a)(2)(B), included in definition of “housing” structures suitable for dwelling use by handicapped families, designated existing provisions as subpar. (A), and added subpar. (B).
+
+Subsec. (d)(4). Pub. L. 88–560, §203(a)(2)(C), substituted definitions of “elderly or handicapped families” and when “a person shall be considered handicapped” for former provisions defining “elderly families” as “families the head of which (or his spouse) is sixty-two years of age or over” and “elderly persons” as “persons who are sixty-two years of age or over”.
+
+Subsec. (d)(7). Pub. L. 88–560, §203(a)(2)(D), redefined “construction” to include rehabilitation, alteration, conversion, or improvement of existing structures.
+
+Subsec. (d)(8). Pub. L. 88–560, §203 (a)(2)(E), redefined “existing facilities” by designating existing provisions as cl. (A), inserting in cl. (A) “by elderly or handicapped families” and “workshops”, and adding cl. (B).
+
+Subsec. (e). Pub. L. 88–560, §203(a)(2)(A), substituted “elderly or handicapped families” for “elderly families and elderly persons” in two places.
+
+1963—Subsec. (a)(4). Pub. L. 88–158 increased amount authorized to be appropriated from $225,000,000 to $275,000,000.
+
+1962—Subsec. (a)(4). Pub. L. 87–723, §3(a), increased amount authorized to be appropriated from $125,000,000 to $225,000,000.
+
+Subsec. (d)(1). Pub. L. 87–723, §3(b)(1), redesignated subsec. (d)(1)(A) as entire subsec. (d)(1) and struck out subsec. (d)(1)(B) which included in definition of “housing” dwelling facilities provided by rehabilitation, alteration, conversion, or improvement of existing structures which were otherwise inadequate for proposed dwellings used by elderly families and persons.
+
+Subsec. (d)(7). Pub. L. 87–723, §3(b)(2), struck out “, or rehabilitation, alteration, conversion, or improvement of existing structures” after “new structures”.
+
+Subsec. (d)(8). Pub. L. 87–723, §3(b)(3), redesignated subsec. (d)(8)(A) as entire subsec. (d)(8) and struck out subsec. (d)(8)(B) which included in definition of “related facilities” structures suitable for essential service facilities provided by rehabilitation, alteration, conversion, or improvement of existing structures which were otherwise inadequate for essential service facilities.
+
+1961—Subsec. (a)(1). Pub. L. 87–70, §201(a)(1), authorized assistance for consumer cooperatives and public bodies and agencies.
+
+Subsec. (a)(2). Pub. L. 87–70, §201(a)(2), authorized loans to consumer cooperatives and to public bodies or agencies, and prohibited loans to public bodies or agencies unless they certify that they are not receiving financial assistance exclusively pursuant to the United States Housing Act of 1937.
+
+Subsec. (a)(3). Pub. L. 87–70, §201(a)(3), (b), substituted “loan under this section” for “loan to a corporation under this section”, and “may be in an amount not exceeding the total development cost” for “may be in an amount not exceeding 98 per centum of the total development cost”.
+
+Subsec. (a)(4). Pub. L. 87–70, §201(c), increased amount authorized to be appropriated from $50,000,000 to $125,000,000, and struck out provisions which limited the amount outstanding at any one time for related facilities to not more than $5,000,000.
+
+Subsec. (c)(3). Pub. L. 87–70, §201(a)(4), substituted “credited to the corporation, cooperative, or public body or agency undertaking” for “credited to the corporation undertaking”.
+
+Subsec. (e). Pub. L. 87–70, §201(d), added subsec. (e).
+
+#### Effective Date of 1992 Amendment
+
+Amendment by sections 677(a) and 682(c) of Pub. L. 102–550 applicable on expiration of 6-month period beginning Oct. 28, 1992, see section 13642 of Title 42, The Public Health and Welfare.
+
+Amendment by section 1604(c)(3) of Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
+
+#### Effective Date of 1990 Amendments
+
+Section 801(c) of Pub. L. 101–625 provided that: “The amendments made by this section \[amending this section and section 1439 of Title 42, The Public Health and Welfare\] shall take effect on October 1, 1991, with respect to projects approved on or after such date. The Secretary shall issue regulations for such purpose after notice and an opportunity for public comment in accordance with section 553 of title 5, United States Code. Regulations shall be issued for comment not later than 180 days after the date of enactment of this Act \[Nov. 28, 1990\].”
+
+Amendment by section 955(c) of Pub. L. 101–625 applicable to any volunteer services provided before, on, or after Nov. 28, 1990, except that such amendment may not be construed to require repayment of any wages paid before Nov. 28, 1990, for services provided before such date, see section 955(d) of Pub. L. 101–625, set out as a note under section 1437j of Title 42.
+
+Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1358, provided that sections 801, 802, and 811 of Pub. L. 101–625 \[enacting sections 8011 and 8013 of Title 42, amending this section and sections 1437g and 1439 of Title 42, and enacting provisions set out as notes under this section\] are deemed enacted as of the date of enactment of Pub. L. 101–507, which was approved Nov. 5, 1990.
+
+#### Effective Date of 1988 Amendment
+
+Section 162(f) of Pub. L. 100–242 provided that:
+
+“(1) Except as otherwise provided in this section, the provisions of, and amendments made by, this section \[amending this section and enacting and repealing provisions set out as notes below\] shall not apply with respect to projects with loans or loan reservations made under section 202 of the Housing Act of 1959 \[this section\] before the implementation date under subsection (e) \[section 162(e) of Pub. L. 100–242 set out below\].
+
+“(2) Notwithstanding paragraph (1), the Secretary shall apply the provisions of, and amendments made by, this section to any project if needed to facilitate the development of such project in a timely manner.”
+
+#### Effective and Termination Dates of 1983 Amendment
+
+Section 223(a)(2) of Pub. L. 98–181, as amended by Pub. L. 99–120, §5(b), Oct. 8, 1985, 99 Stat. 504; Pub. L. 99–156, §5(b), Nov. 15, 1985, 99 Stat. 817; Pub. L. 99–219, §5(b), Dec. 26, 1985, 99 Stat. 1732; Pub. L. 99–267, §5(b), Mar. 27, 1986, 100 Stat. 75; Pub. L. 99–272, title III, §3011(b), Apr. 7, 1986, 100 Stat. 106; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327, which provided that the amendment made by paragraph (1), amending this section, shall apply only with respect to loan agreements entered into after September 30, 1982, and not later than March 15, 1988, was repealed by Pub. L. 100–242, title I, §161(c)(2), Feb. 5, 1988, 101 Stat. 1856.
+
+#### Effective Date of 1981 Amendment
+
+Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of this title.
+
+#### Effective Date of 1965 Amendment
+
+Section 105(b)(2) of Pub. L. 89–117, as added by Pub. L. 89–754, title X, §1001(3), Nov. 3, 1966, 80 Stat. 1284, provided that: “The interest rate provided by the amendment made in paragraph (1) \[amending this section\] shall be applicable (A) with respect to any loan made on or after August 10, 1965, and (B) with respect to any loan made prior to such date if construction of the housing or related facilities to be assisted by such loan was not commenced prior to such date, and not completed prior to the filing of an application for the benefits of such interest rate.”
+
+#### Effective Date of 1962 Amendment
+
+Section 3(b) of Pub. L. 87–723 provided that the amendments made by that section are effective with respect to applications for loans made under this section after Sept. 28, 1962.
+
+#### Consideration of Costs of Providing Service Coordinators in Determining Amount of Housing Assistance
+
+Section 677(b) of Pub. L. 102–550 provided that:
+
+“(1)
+
+Availability of section 8 assistance.—Subject to the availability of appropriations for contract amendments for the purpose of this paragraph, in determining the amount of assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] to be provided for a project assisted under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], as in effect before the effectiveness of the amendments made by section 801 of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625, see Effective Date of 1990 Amendment note above\], the Secretary shall consider (and annually adjust for) the costs of—
+
+&emsp;“(A) employing or otherwise retaining the services of one or more service coordinators under section 661 \[671\] of this Act \[42 U.S.C. 13631\] to coordinate the provision of any services within the project for residents of the project who are elderly families and disabled families; and
+
+&emsp;“(B) expenses for the provision of such services.
+
+> Not more than 15 percent of the cost of the provision of services under subparagraph (B) may be considered under this paragraph for purposes of determining the amount of assistance provided.
+
+“(2)
+
+Inapplicability of hud reform act provisions.—Notwithstanding section 102 of the Department of Housing and Urban Development Reform Act of 1989 \[42 U.S.C. 3545\], the provisions of paragraphs (1), (2), and (3) of subsection (a) of such section shall not apply to amendments to contracts under section 8 of the United States Housing Act of 1937 made to carry out the purposes of paragraph (1) of this subsection.
+
+“(3)
+
+Limitation.—If a project is receiving congregate housing services assistance under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] or section 802 of the Cranston-Gonzalez National AffordableHousing Act \[42 U.S.C. 8011\], the amount of costs provided pursuant to paragraph (1) for the project may not exceed the additional amount necessary to cover the costs of providing for the coordination of services for residents of the project who are not eligible residents under such section 802 or eligible project residents under the Congregate Housing Services Act of 1978, as applicable.”
+
+#### Expedited Financing and Construction
+
+Section 801(d) of Pub. L. 101–625 provided that:
+
+“(1)
+
+In general.—The Secretary may, subject to the availability of appropriations for contract amendments for the purposes of this subsection—
+
+&emsp;“(A) provide such adjustments and waivers to the cost limitations specified under 24 CFR 885.410(a)(1); and
+
+&emsp;“(B) make such adjustments to the relevant fair market rent limitations established under section 8(c)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(c)(1)\] in providing assistance under such Act,
+
+> as are necessary to ensure the expedited financing and construction of qualified supportive housing for the elderly provided that the Secretary finds that any applicable cost containment rules and regulations have been satisfied.
+
+“(2)
+
+Definition.—For purposes of this subsection, the term ‘supportive housing for the elderly’ means housing—
+
+&emsp;“(A) located in a high-cost jurisdiction; and
+
+&emsp;“(B) for which a loan reservation was made under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], 3 years before the date of enactment of this Act \[Nov. 28, 1990\] but for which no loan has been executed and recorded.”
+
+#### Feasibility of Including Elder Cottage Housing Opportunity Units as Eligible Development Costs
+
+Section 806(b) of Pub. L. 101–625, as amended by Pub. L. 102–550, title VI, §602(d), Oct. 28, 1992, 106 Stat. 3804, provided that:
+
+“(1)
+
+In general.—The Secretary of Housing and Urban Development shall carry out a program to determine the feasibility of including, as an eligible development cost under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], the cost of purchasing and installing elder cottage housing opportunity units that are small, freestanding, barrier-free, energy efficient, removable, and designed to be installed adjacent to existing 1- to 4-family dwellings. In conducting the demonstration, the Secretary shall determine whether the durability of such units is appropriate for making such units generally eligible for assistance under the programs under such sections.
+
+“(2)
+
+Allocation.—Notwithstanding any other law, the Secretary shall reserve from any amounts available for capital advances and project rental assistance under section 202 of the Housing Act of 1959, amounts sufficient in each of fiscal years 1993 and 1994 to provide not less than 100 units under the demonstration under this subsection in connection with each such section. Any amounts reserved under this paragraph shall be available only for carrying out the demonstration under this subsection and, for purposes of the demonstration, the cost of purchasing and installing an elder cottage housing opportunity unit shall be considered an eligible development cost under sections \[sic\] 202 of the Housing Act of 1959.
+
+“(3)
+
+Report.—Not later than January 1, 1994, the Secretary shall submit a report to the Congress on the results of the demonstration under this subsection, which shall be based on actual experience in implementing this subsection.
+
+“(4)
+
+Implementation.—The Secretary shall issue regulations to carry out the demonstration under this subsection not later than the expiration of the 6-month period beginning on the date of the enactment of the Housing and Community Development Act of 1992 \[Oct. 28, 1992\].”
+
+#### Preferences for Native Hawaiians on Hawaiian Home Lands Under HUD Programs
+
+Secretary of Housing and Urban Development to provide a preference to native Hawaiians for housing assistance programs under this section for housing located on Hawaiian home lands, see section 958 of Pub. L. 101–625, set out as a note under section 1437f of Title 42, The Public Health and Welfare.
+
+#### Findings and Purpose of 1988 Amendment
+
+Section 162(a) of Pub. L. 100–242 provided that:
+
+“(1) The Congress finds that—
+
+&emsp;“(A) housing for nonelderly handicapped families is assisted under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\] and section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\];
+
+&emsp;“(B) the housing programs under such sections are designed and implemented primarily to assist rental housing for elderly and nonelderly families and are often inappropriate for dealing with the specialized needs of the physically impaired, the developmentally disabled, and the chronically mentally ill;
+
+&emsp;“(C) the development of housing for nonelderly handicapped families under such programs is often more expensive than necessary, thereby reducing the number of such families that can be assisted with available funds;
+
+&emsp;“(D) the program under section 202 of the Housing Act of 1959 can continue to provide direct loans to finance group residences and independent apartments for nonelderly handicapped families, but can be made more efficient and less costly by the adoption of standards and procedures applicable only to housing for such families;
+
+&emsp;“(E) the cost containment policies currently being implemented in the development of small group homes (i) do not adequately reflect the necessity for building designs to meet the needs of the designated residents; and (ii) do not recognize necessary State and local standards for the operation of such homes;
+
+&emsp;“(F) the use of the program under section 8 of the United States Housing Act of 1937 to assist rentals for housing for nonelderly handicapped families is time consuming and unnecessarily costly and, in some areas of the Nation, prevents the development of such housing;
+
+&emsp;“(G) the use of the program under section 8 of the United States Housing Act of 1937 to assist rentals for housing for nonelderly handicapped families should be replaced by a more appropriate subsidy mechanism;
+
+&emsp;“(H) both elderly and handicapped housing projects assisted under section 202 of the Housing Act of 1959 will benefit from an increased emphasis on supportive services and a greater use of State and local funds; and
+
+&emsp;“(I) an improved program for nonelderly handicapped families will assist in providing shelter and supportive services for mentally ill persons who might otherwise be homeless.
+
+“(2) The purpose of this section is to improve the direct loan program under section 202 of the Housing Act of 1959 to ensure that such program meets the special housing and related needs of nonelderly handicapped families.”
+
+#### Termination of Section 8 Assistance
+
+Section 162(d) of Pub. L. 100–242 provided that: “On and after the first date that amounts approved in an appropriation Act for any fiscal year become available for contracts under section 202(h)(4)(A) of the Housing Act of 1959 \[12 U.S.C. 1701q(h)(4)(A)\], as amended by subsection (b) of this section, no project for handicapped (primarily nonelderly) families approved for such fiscal year pursuant to section 202 of such Act shall be provided assistance payments under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], except pursuant to a reservation for a contract to make such assistance payments that was made before thefirst date that amounts for contracts under such section 202(h)(4)(A) became available.”
+
+#### Implementation of 1988 Amendment
+
+Section 162(e) of Pub. L. 100–242 provided that: “Not later than the expiration of the 120-day period following the date of the enactment of this Act \[Feb. 5, 1988\], the Secretary of Housing and Urban Development shall, to the extent amounts are approved in an appropriation Act for use under section 202(h)(4)(A) of the Housing Act of 1959 \[12 U.S.C. 1701q(h)(4)(A)\] for fiscal year 1988, publish in the Federal Register a notice of fund availability to implement the provisions of, and amendments made by, this section \[amending this section and enacting and repealing provisions set out above\]. The Secretary shall issue such rules as may be necessary to carry out such provisions and amendments for fiscal year 1989 and thereafter.”
+
+#### Housing for the Elderly or Handicapped Fund
+
+Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1361, provided: “That, notwithstanding section 202(a)(3) of the Housing Act of 1959 \[12 U.S.C. 1701q(a)(3)\], any such obligations \[direct loan obligations made in fiscal year 1991\] shall bear an interest rate which does not exceed 9.25 per centum, including the allowance adequate in the judgment of the Secretary to cover administrative costs and probable losses under the program.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 847.
+
+Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1016.
+
+Pub. L. 100–202, §101(f) \[title I\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–190.
+
+Pub. L. 99–500, §101(g) \[H.R. 5313, title I\], Oct. 18, 1986, 100 Stat. 1783–242, and Pub. L. 99–591, §101(g), Oct. 30, 1986, 100 Stat. 3341–242.
+
+Pub. L. 99–160, title I, Nov. 25, 1985, 99 Stat. 911.
+
+Pub. L. 98–371, title I, July 18, 1984, 98 Stat. 1216.
+
+Pub. L. 98–45, title I, as added Pub. L. 98–181, title I, Nov. 30, 1983, 97 Stat. 1153.
+
+#### Reports Respecting Elderly and Handicapped Housing Programs in Rural Areas, Etc.
+
+Section 306(e), (f) of Pub. L. 96–153 required Secretary of Housing and Urban Development, not later than six months after Dec. 21, 1979, to report to Congress on housing needs of elderly and handicapped in rural areas and recommend to Congress on means to reduce costs of program carried out under this section.
+
+#### Feasibility and Marketability of Projects; Assistance for Projects Servicing Low- and Moderate-Income Families
+
+Section 210(g) of Pub. L. 93–383 provided that:
+
+“(1) In determining the feasibility and marketability of a project under section 202 of the Housing Act of 1959 \[this section\], the Secretary shall consider the availability of monthly assistance payments pursuant to section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] with respect to such a project.
+
+“(2) The Secretary shall insure that with the original approval of a project authorized pursuant to section 202 of the Housing Act of 1959, and thereafter at each annual revision of the assistance contract under section 8 of the United States Housing Act of 1937 with respect to units in such project, the project will serve both low- and moderate-income families in a mix which he determines to be appropriate for the area and for viable operation of the project; except that the Secretary shall not permit maintenance of vacancies to await tenants of one income level where tenants of another income level are available.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1441a, 1701q–1, 1701r–1, 1701s, 1701z–11, 1701z–13, 1715<i>l</i>, 1715v, 1715z–1, 1715z–1a, 1715z–1b, 1715z–19, 1831q, 3702, 3705 of this title; title 42 sections 1382a, 1436b, 1437f, 1437g, 1438, 1439, 3013, 3026, 3030d, 3535, 8002, 8008, 8009, 8011, 8012, 8013, 8231, 13641.
+

@@ -1,0 +1,16 @@
+### §234. Standard barrel for fruits or other dry commodity
+
+The standard barrel for fruits, vegetables, and other dry commodities other than cranberries shall be of the following dimensions when measured without distention of its parts: Length of stave, twenty-eight and one-half inches; diameter of heads, seventeen and one-eighth inches; distance between heads, twenty-six inches; circumference of bulge, sixty-four inches, outside measurement; and the thickness of staves not greater than four-tenths of an inch: <i>Provided</i>, That any barrel of a different form having a capacity of seven thousand and fifty-six cubic inches shall be a standard barrel. The standard barrel for cranberries shall be of the following dimensions when measured without distention of its parts: Length of staves, twenty-eight and one-half inches; diameter of head, sixteen and one-fourth inches; distance between heads, twenty-five and one-fourth inches; circumference of bulge, fifty-eight and one-half inches, outside measurement; and the thickness of staves not greater than four-tenths of an inch.
+
+(Mar. 4, 1915, ch. 158, §1, 38 Stat. 1186.)
+
+#### Cross References
+
+Apples, standard barrel, see section 231 of this title.
+
+Standard barrels for lime, net weight, see section 237 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 235, 236 of this title.
+

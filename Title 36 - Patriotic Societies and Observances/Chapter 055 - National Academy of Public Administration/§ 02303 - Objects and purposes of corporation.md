@@ -1,0 +1,16 @@
+### §2303. Objects and purposes of corporation
+
+The objects and purposes for which the Academy is organized shall be those provided in its articles of incorporation and shall include—
+
+&emsp;(1) evaluating the structure, administration, operation, and program performance of Federal and other governments and government agencies, anticipating, identifying, and analyzing significant problems and suggesting timely corrective action;
+
+&emsp;(2) foreseeing and examining critical emerging issues in governance, formulating practical approaches to their resolution;
+
+&emsp;(3) assessing the effectiveness, structure, administration, and implications for governance of present or proposed public programs, policies, and processes, recommending specific changes;
+
+&emsp;(4) advising on the relationship of Federal, State, regional, and local governments; increasing public officials’, citizens’, and scholars’ understanding of requirements and opportunities for sound governance and how these can be effectively met; and
+
+&emsp;(5) demonstrating by the conduct of its affairs a commitment to the highest professional standards of ethics and scholarship.
+
+(Pub. L. 98–257, §3, Apr. 10, 1984, 98 Stat. 127.)
+

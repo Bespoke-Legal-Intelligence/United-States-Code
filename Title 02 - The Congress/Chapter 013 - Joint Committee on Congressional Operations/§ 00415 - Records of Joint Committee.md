@@ -1,0 +1,6 @@
+### §415 . Records of Joint Committee
+
+The Joint Committee shall keep a complete record of all Joint Committee actions, including a record of the votes on any question on which a record vote is demanded. All records, data, charts, and files of the Joint Committee shall be the property of the Joint Committee and shall be kept in the offices of the Joint Committee or such other places as the Joint Committee may direct.
+
+(Pub. L. 91–510, title IV, §405, Oct. 26, 1970, 84 Stat. 1188.)
+

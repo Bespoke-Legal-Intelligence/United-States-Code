@@ -1,0 +1,40 @@
+### §1390. Nonapplicability of withdrawal liability for certain temporary contribution obligation periods; exception
+
+(a) An employer who withdraws from a plan in complete or partial withdrawal is not liable to the plan if the employer—
+
+&emsp;(1) first had an obligation to contribute to the plan after September 26, 1980,
+
+&emsp;(2) had an obligation to contribute to the plan for no more than the lesser of—
+
+&emsp;&emsp;(A) 6 consecutive plan years preceding the date on which the employer withdraws, or
+
+&emsp;&emsp;(B) the number of years required for vesting under the plan,
+
+&emsp;(3) was required to make contributions to the plan for each such plan year in an amount equal to less than 2 percent of the sum of all employer contributions made to the plan for each such year, and
+
+&emsp;(4) has never avoided withdrawal liability because of the application of this section with respect to the plan.
+
+(b) Subsection (a) of this section shall apply to an employer with respect to a plan only if—
+
+&emsp;(1) the plan is not a plan which primarily covers employees in the building and construction industry;
+
+&emsp;(2) the plan is amended to provide that subsection (a) of this section applies;
+
+&emsp;(3) the plan provides, or is amended to provide, that the reduction under section 411(a)(3)(E) of title 26 applies with respect to the employees of the employer; and
+
+&emsp;(4) the ratio of the assets of the plan for the plan year preceding the first plan year for which the employer was required to contribute to the plan to the benefit payments made during that plan year was at least 8 to 1.
+
+(Pub. L. 93–406, title IV, §4210, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1226; amended Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
+
+#### Amendments
+
+1989—Subsec. (b)(3). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+#### Effective Date of 1989 Amendment
+
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1401 of this title.
+

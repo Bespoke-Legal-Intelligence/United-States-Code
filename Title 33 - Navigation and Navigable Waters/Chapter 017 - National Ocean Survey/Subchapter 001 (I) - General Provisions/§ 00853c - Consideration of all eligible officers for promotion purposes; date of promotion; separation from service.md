@@ -1,0 +1,6 @@
+### §853c. Consideration of all eligible officers for promotion purposes; date of promotion; separation from service
+
+Irrespective of any vacancies, each officer in the permanent grade of lieutenant (junior grade) and lieutenant shall be considered by the personnel board for promotion to the grade of lieutenant and lieutenant commander in sufficient time so that, if found fully qualified, such officer may be promoted to and appointed in such grade upon completion of seven and fourteen years of service, respectively. All promotions under this section shall be made on the date on which the required service is completed, and the authorized number of officers in the grade of lieutenant and lieutenant commander shall be temporarily increased, if necessary, to authorize such appointments: <i>Provided</i>, That an officer found not fully qualified in accordance with this section may be promoted on such later date on which he may be found fully qualified.
+
+(June 3, 1948, ch. 390, §4, 62 Stat. 298.)
+

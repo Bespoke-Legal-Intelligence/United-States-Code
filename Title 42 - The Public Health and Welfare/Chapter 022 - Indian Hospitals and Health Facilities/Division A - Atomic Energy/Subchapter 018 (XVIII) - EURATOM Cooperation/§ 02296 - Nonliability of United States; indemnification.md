@@ -1,0 +1,18 @@
+### §2296. Nonliability of United States; indemnification
+
+The Government of the United States of America shall not be liable for any damages or third party liability arising out of or resulting from the joint program: <i>Provided, however,</i> That nothing in this section shall deprive any person of any rights under section 2210 of this title: <i>And provided further,</i> That nothing in this section shall apply to arrangements made by the Commission under a research and development program authorized in section 2292 of this title. The Government of the United States shall take such steps as may be necessary, including appropriate disclaimer or indemnity arrangements, in order to carry out the provisions of this section.
+
+(Pub. L. 85–846, §7, Aug. 28, 1958, 72 Stat. 1086; Pub. L. 87–206, §20, Sept. 6, 1961, 75 Stat. 479.)
+
+#### Codification
+
+Section was enacted as part of the EURATOM Cooperation Act of 1958 which comprises this subchapter, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### Amendments
+
+1961—Pub. L. 87–206 inserted proviso making provisions of section inapplicable to arrangements made by the Commission under a research and development program authorized by section 2292 of this title.
+
+#### Transfer of Functions
+
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+

@@ -1,0 +1,6 @@
+### §658. Confidential investigative expenses
+
+Not more than $15,000 per annum appropriated for necessary expenses for the operation of the Coast Guard shall be available for investigative expenses of a confidential character, to be expended on the approval or authority of the Commandant and payment to be made on his certificate of necessity for confidential purposes, and his determination shall be final and conclusive upon the accounting officers of the Government.
+
+(Added Pub. L. 93–283, §1(10), May 14, 1974, 88 Stat. 140.)
+

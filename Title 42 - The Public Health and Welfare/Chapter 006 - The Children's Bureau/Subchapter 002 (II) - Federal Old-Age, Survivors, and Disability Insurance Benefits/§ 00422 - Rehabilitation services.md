@@ -1,0 +1,190 @@
+### §422. Rehabilitation services
+
+#### (a) Referral for rehabilitation services
+
+It is declared to be the policy of the Congress that disabled individuals applying for a determination of disability, and disabled individuals who are entitled to child's insurance benefits, widow's insurance benefits, or widower's insurance benefits, shall be promptly referred to the State agency or agencies administering or supervising the administration of the State plan approved under title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\] for necessary vocational rehabilitation services, to the end that the maximum number of such individuals may be rehabilitated into productive activity.
+
+#### (b) Deductions on account of refusal to accept rehabilitation services
+
+(1) Deductions, in such amounts and at such time or times as the Commissioner of Social Security shall determine, shall be made from any payment or payments under this subchapter to which an individual is entitled, until the total of such deductions equals such individual's benefit or benefits under sections 402 and 423 of this title for any month in which such individual, if a child who has attained the age of eighteen and is entitled to child's insurance benefits, a widow, widower, surviving divorced wife, or surviving divorced husband who has not attained age 60, or an individual entitled to disability insurance benefits, refuses without good cause to accept rehabilitation services available to him under a State plan approved under title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\]. Any individual who is a member or adherent of any recognized church or religious sect which teaches its members or adherents to rely solely, in the treatment and cure of any physical or mental impairment, upon prayer or spiritual means through the application and use of the tenets or teachings of such church or sect, and who, solely because of his adherence to the teachings or tenets of such church, or sect, refuses to accept rehabilitation services available to him under a State plan approved under title I of the Rehabilitation Act of 1973, shall, for the purposes of the first sentence of this subsection, be deemed to have done so with good cause.
+
+(2) Deductions shall be made from any child's insurance benefit to which a child who has attained the age of eighteen is entitled or from any mother's or father's insurance benefit to which a person is entitled, until the total of such deductions equals such child's insurance benefit or benefits or such mother's or father's insurance benefit or benefits under section 402 of this title for any month in which such child or person entitled to mother's or father's insurance benefits is married to an individual who is entitled to disability insurance benefits and in which such individual refuses to accept rehabilitation services and a deduction, on account of such refusal, is imposed under paragraph (1) of this subsection. If both this paragraph and paragraph (3) of this subsection are applicable to a child's insurance benefit for any month, only an amount equal to such benefit shall be deducted.
+
+(3) Deductions shall be made from any wife's, husband's, or child's insurance benefit, based on the wages and self-employment income of an individual entitled to disability insurance benefits, to which a wife, divorced wife, husband, divorced husband, or child is entitled, until the total of such deductions equals such wife's, husband's, or child's insurance benefit or benefits under section 402 of this title for any month in which the individual, on the basis of whose wages and self-employment income such benefit was payable, refuses to accept rehabilitation services and deductions, on account of such refusal, are imposed under paragraph (1) of this subsection.
+
+(4) The provisions of paragraph (1) shall not apply to any child entitled to benefits under section 402(d) of this title, if he has attained the age of 18 but has not attained the age of 22, for any month during which he is a full-time elementary or secondary school student (as defined and determined under section 402(d) of this title).
+
+#### (c) “Period of trial work” defined
+
+(1) The term “period of trial work”, with respect to an individual entitled to benefits under section 423, 402(d), 402(e), or 402(f) of this title, means a period of months beginning and ending as provided in paragraphs (3) and (4).
+
+(2) For purposes of sections 416(i) and 423 of this title, any services rendered by an individual during a period of trial work shall be deemed not to have been rendered by such individual in determining whether his disability has ceased in a month during such period. For purposes of this subsection the term “services” means activity (whether legal or illegal) which is performed for remuneration or gain or is determined by the Commissioner of Social Security to be of a type normally performed for remuneration or gain.
+
+(3) A period of trial work for any individual shall begin with the month in which he becomes entitled to disability insurance benefits, or, in the case of an individual entitled to benefits under section 402(d) of this title who has attained the age of eighteen, with the month in which he becomes entitled to such benefits or the month in which he attains the age of eighteen, whichever is later, or, in the case of an individual entitled to widow's or widower's insurance benefits under section 402(e) or (f) of this title who became entitled to such benefits prior to attaining age 60, with the month in which such individual becomes so entitled. Notwithstanding the preceding sentence, no period of trial work may begin for any individual prior to the beginning of the month following September 1960; and no such period may begin for an individual in a period of disability of such individual in which he had a previous period of trial work.
+
+(4) A period of trial work for any individual shall end with the close of whichever of the following months is the earlier:
+
+&emsp;(A) the ninth month, in any period of 60 consecutive months, in which the individual renders services (whether or not such nine months are consecutive); or
+
+&emsp;(B) the month in which his disability (as defined in section 423(d) of this title) ceases (as determined after application of paragraph (2) of this subsection).
+
+#### (d) Cost of rehabilitation services from trust funds
+
+(1) For purposes of making vocational rehabilitation services more readily available to disabled individuals who are—
+
+&emsp;(A) entitled to disability insurance benefits under section 423 of this title,
+
+&emsp;(B) entitled to child's insurance benefits under section 402(d) of this title after having attained age 18 (and are under a disability),
+
+&emsp;(C) entitled to widow's insurance benefits under section 402(e) of this title prior to attaining age 60, or
+
+&emsp;(D) entitled to widower's insurance benefits under section 402(f) of this title prior to attaining age 60,
+
+> to the end that savings will accrue to the Trust Funds as a result of rehabilitating such individuals, there are authorized to be transferred from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund each fiscal year such sums as may be necessary to enable the Commissioner of Social Security to reimburse the State for the reasonable and necessary costs of vocational rehabilitation services furnished such individuals (including services during their waiting periods), under a State plan for vocational rehabilitation services approved under title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\], (i) in cases where the furnishing of such services results in the performance by such individuals of substantial gainful activity for a continuous period of nine months, (ii) in cases where such individuals receive benefits as a result of section 425(b) of this title (except that no reimbursement under this paragraph shall be made for services furnished to any individual receiving such benefits for any period after the close of such individual's ninth consecutive month of substantial gainful activity or the close of the month in which his or her entitlement to such benefits ceases, whichever first occurs), and (iii) in cases where such individuals, without good cause, refuse to continue to accept vocational rehabilitation services or fail to cooperate in such a manner as to preclude their successful rehabilitation. The determination that the vocational rehabilitation services contributed to the successful return of an individual to substantial gainful activity, the determination that an individual, without good cause, refused to continue to accept vocational rehabilitation services or failed to cooperate in such a manner as to preclude successful rehabilitation, and the determination of the amount of costs to be reimbursed under this subsection shall be made by the Commissioner of Social Security in accordance with criteria formulated by the Commissioner.
+
+(2) In the case of any State which is unwilling to participate or does not have a plan which meets the requirements of paragraph (1), the Commissioner of Social Security may provide such services in such State by agreement or contract with other public or private agencies, organizations, institutions, or individuals. The provision of such services shall be subject to the same conditions as otherwise apply under paragraph (1).
+
+(3) Payments under this subsection shall be made in advance or by way of reimbursement, with necessary adjustments for overpayments and underpayments.
+
+(4) Money paid from the Trust Funds under this subsection for the reimbursement of the costs of providing services to individuals who are entitled to benefits under section 423 of this title (including services during their waiting periods), or who are entitled to benefits under section 402(d) of this title on the basis of the wages and self-employment income of such individuals, shall be charged to the Federal Disability Insurance Trust Fund, and all other money paid from the Trust Funds under this subsection shall be charged to the Federal Old-Age and Survivors Insurance Trust Fund. The Commissioner of Social Security shall determine according to such methods and procedures as the Commissioner may deem appropriate—
+
+&emsp;(A) the total amount to be reimbursed for the cost of services under this subsection, and
+
+&emsp;(B) subject to the provisions of the preceding sentence, the amount which should be charged to each of the Trust Funds.
+
+(5) For purposes of this subsection the term “vocational rehabilitation services” shall have the meaning assigned to it in title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\], except that such services may be limited in type, scope, or amount in accordance with regulations of the Commissioner of Social Security designed to achieve the purpose of this subsection.
+
+(Aug. 14, 1935, ch. 531, title II, §222, as added Sept. 1, 1954, ch. 1206, title I, §106(g) 68 Stat. 1081; amended Aug. 1, 1956, ch. 836, title I, §103(b), 70 Stat. 817; Aug. 28, 1958, Pub. L. 85–840, title II, §205(n), title III, §307(g), 72 Stat. 1025, 1032; Sept. 13, 1960, Pub. L. 86–778, title IV, §403(a), 74 Stat. 968; July 30, 1965, Pub. L. 89–97, title III, §§306(c)(14), 308(d)(11), 336, 79 Stat. 373, 379, 408; Jan. 2, 1968, Pub. L. 90–248, title I, §§104(d)(3), (4), 158(c)(5), 81 Stat. 832, 869; Oct. 30, 1972, Pub. L. 92–603, title I, §§107(b)(3), (4), 131, 86 Stat. 1343, 1360; June 9, 1980, Pub. L. 96–265, title III, §303(a), 94 Stat. 451; Aug. 13, 1981, Pub. L. 97–35, title XXII, §2209(a), 95 Stat. 840; Apr. 20, 1983, Pub. L. 98–21, title III, §309(<i>l</i>)–(n), 97 Stat. 117; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(a)(15), 98 Stat. 1165; Oct. 9, 1984, Pub. L. 98–460, §11(a), 98 Stat. 1805; Nov. 5, 1990, Pub. L. 101–508, title V, §5112(a), 104 Stat. 1388–273; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(4)(B), 108 Stat. 1478, 1499.)
+
+#### References in Text
+
+The Rehabilitation Act of 1973, referred to in subsecs. (a), (b)(1), and (d)(1), (5), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title I of the Rehabilitation Act of 1973 is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+
+#### Amendments
+
+1994—Subsec. (b)(1). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
+
+Subsec. (c)(2). Pub. L. 103–296, §201(a)(4)(B), inserted “(whether legal or illegal)” after “activity”.
+
+Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
+
+Subsec. (d)(1). Pub. L. 103–296, §107(a)(4), in closing provisions substituted “Commissioner of Social Security to reimburse” for “Secretary to reimburse”.
+
+Pub. L. 103–296, §107(a)(4), which directed the amendment of this subchapter by substituting “the Commissioner” for “him” where such word referred to the Secretary of Health and Human Services, was executed in closing provisions by substituting “the Commissioner” for “him” where referring to the Commissioner of Social Security, to reflect the probable intent of Congress.
+
+Subsec. (d)(4). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” and “the Commissioner may” for “he may”.
+
+Subsec. (d)(5). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
+
+1990—Subsec. (c)(4)(A). Pub. L. 101–508, §5112(a)(1), substituted “in any period of 60 consecutive months” for “beginning on or after the first day of such period”.
+
+Subsec. (c)(5). Pub. L. 101–508, §5112(a)(2), struck out par. (5) which read as follows: “In the case of an individual who becomes entitled to benefits under section 423 of this title for any month as provided in clause (ii) of subsection (a)(1) of such section, the preceding provisions of this subsection shall not apply with respect to services in any month beginning with the first month for which he is so entitled and ending with the first month thereafter for which he is not entitled to benefits under section 423 of this title.”
+
+1984—Subsecs. (a), (b)(1). Pub. L. 98–369, §2663(a)(15)(A), substituted “title I of the Rehabilitation Act of 1973” for “the Vocational Rehabilitation Act”.
+
+Subsec. (b)(3). Pub. L. 98–369, §2663(a)(15)(B), substituted “equals” for “equal”.
+
+Subsec. (b)(4). Pub. L. 98–369, §2663(a)(15)(C), substituted “full-time elementary or secondary school student” for “full-time student”.
+
+Subsec. (d)(1). Pub. L. 98–460, §11(a), in provisions following subpar. (D) struck out “into substantial gainful activity” after “rehabilitating such individuals”, designated existing provisions as cl. (i), added cls. (ii) and (iii), and substituted “of an individual to substantial gainful activity, the determination that an individual, without good cause, refused to continue to accept vocational rehabilitation services or failed to cooperate in such a manner as to preclude successful rehabilitation,” for “of such individuals to substantial gainful activity” after cl. (iii).
+
+1983—Subsec. (b)(1). Pub. L. 98–21, §309(<i>l</i>), substituted “, surviving divorced wife, or surviving divorced husband” for “or surviving divorced wife”.
+
+Subsec. (b)(2). Pub. L. 98–21, §309(m), inserted “or father's” after “mother's” wherever appearing.
+
+Subsec. (b)(3). Pub. L. 98–21, §309(n), inserted “divorced husband,” after “husband,”.
+
+1981—Subsec. (d). Pub. L. 97–35 substituted provisions authorizing the transfer of funds as may be necessary to enable the Secretary to reimburse the State for the reasonable and necessary costs of vocational rehabilitation, under a State plan approved under title I of the Rehabilitation Act of 1973, which results in performance of substantial gainful activity for a continuous period of nine months, with the determination that the vocational rehabilitation services contributed to the successful return to substantial gainful activity and the amount of costs to be reimbursed made by the Commissioner of Social Security for provisions authorizing the transfer of funds as may be necessary to enable the Secretary to pay the cost of vocational rehabilitation services, restricting the amount of such cost that may be expended in any one fiscal year, establishing specific criteria which a State plan must meet, and providing that the selection of individuals to receive services be made in conformance with criteria formulated by the Secretary.
+
+1980—Subsec. (c)(1). Pub. L. 96–265, §303(a)(1), inserted references to sections 402(e) and 402(f) of this title.
+
+Subsec. (c)(3). Pub. L. 96–265, §303(a)(2), inserted reference to individuals entitled to widow's or widower's insurance benefits under section 402(e) or (f) of this title who became entitled to such benefits prior to attaining age 60.
+
+1972—Subsec. (b)(1). Pub. L. 92–603, §107(b)(3), substituted “a widow, widower or surviving divorced wife who has not attained age 60” or “a widow or surviving divorced wife who has not attained age 60, a widower who has not attained age 62”.
+
+Subsec. (d)(1). Pub. L. 92–603, §§107(b)(4), 131, substituted “age 60” for “age 62”, and inserted provisions increasing applicable percentages so that the total amount made available pursuant to subsec. (d) may not exceed 1.25 percent, in fiscal year ending June 30, 1973, and 1.5 percent, in fiscal year ending June 30, 1974, and thereafter, of the total of the benefits under section 402(d) of this title for children who have attained age 18 and are under a disability.
+
+1968—Subsec. (a). Pub. L. 90–248, §104(d)(3)(A), inserted “widow's insurance benefits, or widower's insurance benefits,” after “benefits,”.
+
+Subsec. (b)(1). Pub. L. 90–248, §104(d)(3)(B), substituted “child's insurance benefits, a widow or surviving divorced wife who has not attained age 60, a widower who has not attained age 62, or” for “child's insurance benefits or if”.
+
+Subsec. (c)(4)(B). Pub. L. 90–248, §158(c)(5), substituted reference to “423(d)” for “423(c)(2)”.
+
+Subsec. (d)(1). Pub. L. 90–248, §104(d)(4), added subpars. (C) and (D), and inserted “the benefits under section 402(e) of this title for widows and surviving divorced wives who have not attained age 60 and are under a disability, the benefits under section 402(f) of this title for widowers who have not attained age 62,” after “disability,” in text following subpar. (D).
+
+1965—Subsec. (b)(3). Pub. L. 89–97, §308(d)(11), inserted “divorced wife,” after “wife,”.
+
+Subsec. (b)(4). Pub. L. 89–97, §306(c)(14), added par. (4).
+
+Subsec. (d). Pub. L. 89–97, §336, added subsec. (d).
+
+1960—Subsec. (c). Pub. L. 86–778 amended subsection generally by substituting provisions relating to period of trial work for provisions which related to services performed pursuant to a State-approved rehabilitation program.
+
+1958—Subsec. (b). Pub. L. 85–840 designated existing provisions thereof as par. (1) and added pars. (2) and (3).
+
+1956—Subsec. (a). Act Aug. 1, 1956, designated existing provisions as subsec. (a), authorized referral of disabled individuals who are entitled to child's insurance benefits, and substituted “rehabilitated into productive activity” for “restored to productive activity”.
+
+Subsecs. (b), (c). Act Aug. 1, 1956, added subsecs. (b) and (c).
+
+#### Effective Date of 1994 Amendment
+
+Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
+
+Section 201(a)(4)(C) of Pub. L. 103–296 provided that: “The amendments made by this paragraph \[amending this section and section 423 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 15, 1994\].”
+
+#### Effective Date of 1990 Amendment
+
+Section 5112(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 1992.”
+
+#### Effective Date of 1984 Amendments
+
+Section 11(c) of Pub. L. 98–460 provided that: “The amendments made by this section \[amending this section and section 1382d of this title\] shall apply with respect to individuals who receive benefits as a result of section 225(b) or section 1631(a)(6) of the Social Security Act \[section 425(b) or 1383(a)(6) of this title\], or who refuse to continue to accept rehabilitation services or fail to cooperate in an approved vocational rehabilitation program, in or after the first month following the month in which this Act is enacted \[October 1984\].”
+
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+
+#### Effective Date of 1983 Amendment
+
+Amendment by Pub. L. 98–21 applicable only with respect to monthly payments payable under this subchapter for months after April, 1983, see section 310 of Pub. L. 98–21, set out as a note under section 402 of this title.
+
+#### Effective Date of 1981 Amendment
+
+Section 2209(b) of Pub. L. 97–35 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to services rendered on or after October 1, 1981.”
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–265 effective on first day of sixth month which begins after June 9, 1980, and applicable to any individual whose disability has not been determined to have ceased prior to such first day, see section 303(d) of Pub. L. 96–265, set out as a note under section 402 of this title.
+
+#### Effective Date of 1972 Amendment
+
+Amendment by Pub. L. 92–603 applicable with respect to monthly benefits under this subchapter for months after Dec. 1972, with specified exceptions, see section 107(c) of Pub. L. 92–603, set out as a note under section 402 of this title.
+
+#### Effective Date of 1968 Amendment
+
+Amendment by section 104(d)(3), (4) of Pub. L. 90–248 applicable with respect to monthly benefits under this subchapter for and after the month of February 1968, but only on the basis of applications for such benefits filed in or after January 1968, see section 104(e) of Pub. L. 90–248, set out as a note under section 402 of this title.
+
+Amendment by section 158(c)(5) of Pub. L. 90–248 applicable with respect to applications for disability insurance benefits under section 423 of this title and to disability determinations under section 416(i) of this title, see section 158(e) of Pub. L. 90–248, set out as a note under section 423 of this title.
+
+#### Effective Date of 1965 Amendment
+
+Amendment by section 308(d)(11) of Pub. L. 89–97 applicable with respect to monthly insurance benefits under this subchapter beginning with the second month following July 1965, but, in the case of an individual who was not entitled to a monthly insurance benefit under section 402 of this title for the first month following July 1965, only on the basis of an application filed in or after July 1965, see section 308(e) of Pub. L. 89–97, set out as a note under section 402 of this title.
+
+#### Effective Date of 1960 Amendment
+
+Section 403(e) of Pub. L. 86–778 provided that:
+
+“(1) The amendment made by subsection (a) \[amending this section\] shall be effective only with respect to months beginning after the month in which this Act is enacted \[September 1960\].
+
+“(2) The amendments made by subsections (b) and (d) \[amending sections 423 and 402 of this title\] shall apply only with respect to benefits under section 223(a) or 202(d) of the Social Security Act \[section 423(a) or 402(d) of this title\] for months after the month in which this Act is enacted in the case of individuals who, without regard to such amendments, would have been entitled to such benefits for the month in which this Act is enacted or for any succeeding month.
+
+“(3) The amendment made by subsection (c) \[amending section 416 of this title\] shall apply only in the case of individuals who have a period of disability (as defined in section 216(i) of the Social Security Act \[section 416(i) of this title\]) beginning on or after the date of the enactment of this Act \[Sept. 13, 1960\], or beginning before such date and continuing, without regard to such amendment, beyond the end of the month in which this Act is enacted.”
+
+#### Effective Date of 1958 Amendment
+
+Amendment by section 205(n) of Pub. L. 85–840 applicable with respect to monthly benefits under this subchapter for months after August 1958, but only if an application for such benefits is filed on or after August 28, 1958, see section 207(a) of Pub. L. 85–840, set out as a note under section 416 of this title.
+
+Section 307(h)(3) of Pub. L. 85–840 provided that: “The amendments made by subsection (g) \[amending this section\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[section 402 of this title\] for months, occurring after the month in which this Act is enacted \[August 1958\], in which a deduction is incurred under paragraph (1) of section 222(b) of the Social Security Act \[subsec. (b)(1) of this section\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 402, 403, 423, 424a, 426, 1382d of this title; title 20 section 3441; title 26 sections 1402, 3127; title 29 section 762a.
+

@@ -1,0 +1,46 @@
+### §14314. Army and Air Force commissioned officers: generals ceasing to occupy positions commensurate with grade; State adjutants general
+
+(a)
+
+General Officers.—Within 30 days after a reserve officer of the Army or the Air Force on the reserve active-status list in a general officer grade ceases to occupy a position commensurate with that grade (or commensurate with a higher grade), the Secretary concerned shall transfer or discharge the officer in accordance with whichever of the following the officer elects:
+
+&emsp;(1) Transfer the officer in grade to the Retired Reserve, if the officer is qualified and applies for the transfer.
+
+&emsp;(2) Transfer the officer in grade to the inactive status list of the Standby Reserve, if the officer is qualified.
+
+&emsp;(3) Discharge the officer from the officer's reserve appointment and, if the officer is qualified and applies therefor, appoint the officer in the reserve grade held by the officer as a reserve officer before the officer's appointment in a general officer grade.
+
+&emsp;(4) Discharge the officer from the officer's reserve appointment.
+
+(b)
+
+Adjutants General.—If a reserve officer who is federally recognized in the Army National Guard or the Air National Guard solely because of the officer's appointment as adjutant general or assistant adjutant general of a State ceases to occupy that position, the Secretary concerned, not later than 30 days after the date on which the officer ceases to occupy that position, shall—
+
+&emsp;(1) withdraw that officer's Federal recognition; and
+
+&emsp;(2) require that the officer—
+
+&emsp;&emsp;(A) be transferred in grade to the Retired Reserve, if the officer is qualified and applies for the transfer;
+
+&emsp;&emsp;(B) be discharged from the officer's reserve appointment and appointed in the reserve grade held by the officer as a reserve officer of the Air Force immediately before the appointment of that officer as adjutant general or assistant adjutant general, if the officer is qualified and applies for that appointment; or
+
+&emsp;&emsp;(C) be discharged from the officer's reserve appointment.
+
+(c)
+
+Credit for Service in Grade.—An officer who is appointed under subsection (a)(3) or (b)(2)(B) shall be credited with an amount of service in the grade in which appointed that is equal to the amount of prior service in an active status in that grade and in any higher grade.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2942.)
+
+#### Effective Date of Section
+
+<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in sections 3375, 8375, and 8381 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (c)(1).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 12009, 14317 of this title.
+

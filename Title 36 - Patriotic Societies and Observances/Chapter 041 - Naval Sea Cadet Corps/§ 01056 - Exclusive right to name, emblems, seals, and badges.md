@@ -1,0 +1,6 @@
+### §1056. Exclusive right to name, emblems, seals, and badges
+
+The corporation shall have the sole and exclusive right to the name “Naval Sea Cadet Corps” and to have and to use in carrying out its purposes, distinctive insignia, emblems and badges, descriptive or designating marks, and words or phrases, as may be required in the furtherance of its functions. No powers or privileges granted shall, however, interfere or conflict with established or vested rights.
+
+(Pub. L. 87–655, §16, Sept. 10, 1962, 76 Stat. 533.)
+

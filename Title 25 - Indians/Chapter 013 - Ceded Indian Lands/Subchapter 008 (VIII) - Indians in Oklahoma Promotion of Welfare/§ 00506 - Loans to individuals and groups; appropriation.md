@@ -1,0 +1,18 @@
+### §506. Loans to individuals and groups; appropriation
+
+The Secretary is authorized to make loans to individual Indians and to associations or corporate groups organized pursuant to this subchapter. For the making of such loans and for expenses of the cooperative associations organized pursuant to this subchapter there shall be appropriated, out of the Treasury of the United States, the sum of $2,000,000.
+
+(June 26, 1936, ch. 831, §6, 49 Stat. 1968.)
+
+#### Revolving Fund: Interest-Free Loans to Klamath Indians; Refinancing Lending Agency Loans
+
+Use of Revolving Loan Fund for Indians to assist Klamath Indians during period for terminating Federal supervision, see note set out under section 564 of this title. Funds to be administered as a single Indian Revolving Loan Fund after Apr. 12, 1974, see section 1461 of this title.
+
+#### Cross References
+
+Inapplicability of section to Osage County, Oklahoma, see section 508 of this title.
+
+Indians eligible for loans, see section 480 of this title.
+
+Interest charges to be covered into revolving fund, see section 470a of this title.
+

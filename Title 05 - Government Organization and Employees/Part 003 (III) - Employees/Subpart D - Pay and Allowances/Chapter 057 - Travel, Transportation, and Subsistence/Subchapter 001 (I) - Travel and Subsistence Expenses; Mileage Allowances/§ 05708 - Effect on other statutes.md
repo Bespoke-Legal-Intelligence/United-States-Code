@@ -1,0 +1,46 @@
+### §5708. Effect on other statutes
+
+This subchapter does not modify or repeal—
+
+&emsp;(1) any statute providing for the traveling expenses of the President;
+
+&emsp;(2) any statute providing for mileage allowances for Members of Congress;
+
+&emsp;(3) any statute fixing or permitting rates higher than the maximum rates established under this subchapter; or
+
+&emsp;(4) any appropriation statute item for examination of estimates in the field.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+(1), (2)
+
+5 U.S.C. 841.
+
+June 9, 1949, ch. 185, §8, 63 Stat. 167.
+
+(3), (4)
+
+5 U.S.C. 842.
+
+June 9, 1949, ch. 185, §9, 63 Stat. 167.
+
+In paragraph (2), the words “Members of Congress” are substituted for “the President of the Senate or Members of Congress” in view of the definition of “Member of Congress” in section 2106.
+
+The first sentence of section 9 of the Act of June 9, 1949, which repealed the Subsistence Act of 1926 and the Auto Mileage Act of February 14, 1931, is omitted as executed.
+
+The first proviso of former section 842, which related to appropriation Acts for the years 1949 and 1950, is omitted as obsolete. The remainder of former section 842, other than the parenthetical expressions, is omitted as executed and existing rights are preserved by technical section 8.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 16 sections 971a, 971b, 2443, 3608, 3641; title 22 section 1474.
+

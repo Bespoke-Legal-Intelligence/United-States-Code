@@ -1,0 +1,38 @@
+### SUBCHAPTER IV—MAJOR DISASTER ASSISTANCE PROGRAMS
+
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in sections 5321, 12840 of this title.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 05170 - Procedure for declaration](%C2%A7%2005170%20-%20Procedure%20for%20declaration.md)
+- [&sect; 05170a - General Federal assistance](%C2%A7%2005170a%20-%20General%20Federal%20assistance.md)
+- [&sect; 05170b - Essential assistance](%C2%A7%2005170b%20-%20Essential%20assistance.md)
+- [&sect; 05170c - Hazard mitigation](%C2%A7%2005170c%20-%20Hazard%20mitigation.md)
+- [&sect; 05171 - Federal facilities](%C2%A7%2005171%20-%20Federal%20facilities.md)
+- [&sect; 05172 - Repair, restoration, and replacement of damaged facilities](%C2%A7%2005172%20-%20Repair%2C%20restoration%2C%20and%20replacement%20of%20damaged%20facilities.md)
+- [&sect; 05173 - Debris removal](%C2%A7%2005173%20-%20Debris%20removal.md)
+- [&sect; 05174 - Temporary housing assistance](%C2%A7%2005174%20-%20Temporary%20housing%20assistance.md)
+- [&sect; 05175 - Repealed. Pub. L. 100&#8211;707, title I, &sect;105(m)(2), Nov. 23, 1988, 102 Stat. 4696](%C2%A7%2005175%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93707%2C%20title%20I%2C%20%C2%A7105%28m%29%282%29%2C%20Nov.%2023%2C%201988%2C%20102%20Stat.%204696.md)
+- [&sect; 05176 - Minimum standards for public and private structures](%C2%A7%2005176%20-%20Minimum%20standards%20for%20public%20and%20private%20structures.md)
+- [&sect; 05177 - Unemployment assistance](%C2%A7%2005177%20-%20Unemployment%20assistance.md)
+- [&sect; 05177a - Emergency grants to assist low-income migrant and seasonal farmworkers](%C2%A7%2005177a%20-%20Emergency%20grants%20to%20assist%20low-income%20migrant%20and%20seasonal%20farmworkers.md)
+- [&sect; 05178 - Individual and family grant programs](%C2%A7%2005178%20-%20Individual%20and%20family%20grant%20programs.md)
+- [&sect; 05179 - Food coupons and distribution](%C2%A7%2005179%20-%20Food%20coupons%20and%20distribution.md)
+- [&sect; 05180 - Food commodities](%C2%A7%2005180%20-%20Food%20commodities.md)
+- [&sect; 05181 - Relocation assistance](%C2%A7%2005181%20-%20Relocation%20assistance.md)
+- [&sect; 05182 - Legal services](%C2%A7%2005182%20-%20Legal%20services.md)
+- [&sect; 05183 - Crisis counseling assistance and training](%C2%A7%2005183%20-%20Crisis%20counseling%20assistance%20and%20training.md)
+- [&sect; 05184 - Community disaster loans](%C2%A7%2005184%20-%20Community%20disaster%20loans.md)
+- [&sect; 05185 - Emergency communications](%C2%A7%2005185%20-%20Emergency%20communications.md)
+- [&sect; 05186 - Emergency public transportation](%C2%A7%2005186%20-%20Emergency%20public%20transportation.md)
+- [&sect; 05187 - Fire suppression grants](%C2%A7%2005187%20-%20Fire%20suppression%20grants.md)
+- [&sect; 05188 - Timber sale contracts](%C2%A7%2005188%20-%20Timber%20sale%20contracts.md)
+- [&sect; 05189 - Simplified procedure](%C2%A7%2005189%20-%20Simplified%20procedure.md)
+- [&sect; 05189a - Appeals of assistance decisions](%C2%A7%2005189a%20-%20Appeals%20of%20assistance%20decisions.md)
+- [&sect; 05189b - Date of eligibility; expenses incurred before date of disaster](%C2%A7%2005189b%20-%20Date%20of%20eligibility%3B%20expenses%20incurred%20before%20date%20of%20disaster.md)
+- [Subchapter 004-A (IV-A) - Emergency Assistance Programs](Subchapter%20004-A%20%28IV-A%29%20-%20Emergency%20Assistance%20Programs/README.md)

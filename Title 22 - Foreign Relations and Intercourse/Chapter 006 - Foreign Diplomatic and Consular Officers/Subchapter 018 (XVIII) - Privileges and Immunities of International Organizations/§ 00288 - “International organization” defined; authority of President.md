@@ -1,0 +1,192 @@
+### §288. “International organization” defined; authority of President
+
+For the purposes of this subchapter, the term “international organization” means a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation, and which shall have been designated by the President through appropriate Executive order as being entitled to enjoy the privileges, exemptions, and immunities provided in this subchapter. The President shall be authorized, in the light of the functions performed by any such international organization, by appropriate Executive order to withhold or withdraw from any such organization or its officers or employees any of the privileges, exemptions, and immunities provided for in this subchapter (including the amendments made by this subchapter) or to condition or limit the enjoyment by any such organization or its officers or employees of any such privilege, exemption, or immunity. The President shall be authorized, if in his judgment such action should be justified by reason of the abuse by an international organization or its officers and employees of the privileges, exemptions, and immunities provided in this subchapter or for any other reason, at any time to revoke the designation of any international organization under this section, whereupon the international organization in question shall cease to be classed as an international organization for the purposes of this subchapter.
+
+(Dec. 29, 1945, ch. 652, title I, §1, 59 Stat. 669.)
+
+#### References in Text
+
+This subchapter, referred to in text, was in the original “this title”, meaning title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
+
+#### Short Title
+
+Section 10 of title I of act Dec. 29, 1945, provided that: “This title \[enacting this subchapter and amending section 215 of Title 8, Aliens and Nationality, sections 116, 1607, 1621, 3466, 3469, 3475, and 3797 of Internal Revenue Code, 1939, and section 409 of Title 42, The Public Health and Welfare\] may be cited as the ‘International Organizations Immunities Act’.”
+
+#### Administrative Supplies for International Organizations
+
+Act Aug. 4, 1947, ch. 479, 61 Stat. 752, provided for the procurement and furnishing of administrative supplies by the Treasury Department to international organizations until July 1, 1948. This act was popularly known as the “International Organizations Procurement Act of 1947.”
+
+#### Public International Organizations Entitled To Enjoy Certain Privileges, Exemptions, and Immunities
+
+International organizations were designated by executive order as public international organizations entitled to enjoy the privileges, exemptions, and immunities conferred by the International Organizations Immunities Act (this subchapter) as follows:
+
+African Development Bank, Ex. Ord. No. 12403, Feb. 8, 1983, 48 F.R. 6087.
+
+African Development Fund, Ex. Ord. No. 11977, Mar. 14, 1977, 42 F.R. 14671.
+
+Asian Development Bank, Ex. Ord. No. 11334, Mar. 7, 1967, 32 F.R. 3933.
+
+Border Environment Cooperation Commission, Ex. Ord. No. 12904, Mar. 16, 1994, 59 F.R. 13179.
+
+Caribbean Organization, Ex. Ord. No. 10983, Dec. 30, 1961, 27 F.R. 32.
+
+Commission for Environmental Cooperation, Ex. Ord. No. 12904, Mar. 16, 1994, 59 F.R. 13179.
+
+Commission for Labor Cooperation, Ex. Ord. No. 12904, Mar. 16, 1994, 59 F.R. 13179.
+
+Commission for the Study of Alternatives to the Panama Canal, Ex. Ord. No. 12567, Oct. 2, 1986, 51 F.R. 35495.
+
+Customs Cooperation Council, Ex. Ord. No. 11596, June 5, 1971, 36 F.R. 11079.
+
+European Bank for Reconstruction and Development, Ex. Ord. No. 12766, June 18, 1991, 56 F.R. 28463.
+
+European Space Agency, Ex. Ord. No. 11318, Dec. 5, 1966, 31 F.R. 15307; Ex. Ord. No. 11351, May 22, 1967, 32 F.R. 7561; Ex. Ord. No. 11760, Jan. 17, 1974, 39 F.R. 2343; Ex. Ord. No. 12766, June 18, 1991, 56 F.R. 28463.
+
+Food and Agriculture Organization, Ex. Ord. No. 9698, Feb. 19, 1946, 11 F.R. 1809.
+
+Great Lakes Fishery Commission, Ex. Ord. No. 11059, Oct. 23, 1962, 27 F.R. 10405.
+
+Inter-American Defense Board, Ex. Ord. No. 10228, Mar. 26, 1951, 16 F.R. 2676.
+
+Inter-American Development Bank, Ex. Ord. No. 10873, Apr. 8, 1960, 25 F.R. 3097; Ex. Ord. No. 11019, Apr. 27, 1962, 27 F.R. 4145.
+
+Inter-American Institute of Agricultural Sciences, Ex. Ord. No. 9751, July 11, 1946, 11 F.R. 7713.
+
+Inter-American Investment Corporation, Ex. Ord. No. 12567, Oct. 2, 1986, 51 F.R. 35495.
+
+Inter-American Statistical Institute, Ex. Ord. No. 9751, July 11, 1946, 11 F.R. 7713.
+
+Inter-American Tropical Tuna Commission, Ex. Ord. No. 11059, Oct. 23, 1962, 27 F.R. 10405.
+
+Intergovernmental Maritime Consultative Organization, Ex. Ord. No. 10795, Dec. 13, 1958, 23 F.R. 9709.
+
+International Atomic Energy Agency, Ex. Ord. No. 10727, Aug. 31, 1957, 22 F.R. 7099.
+
+International Bank for Reconstruction and Development, Ex. Ord. No. 9751, July 11, 1946, 11 F.R. 7713.
+
+International Boundary and Water Commission, United States and Mexico, Ex. Ord. No. 12467, Mar. 2, 1984, 49 F.R. 8229.
+
+International Centre for Settlement of Investment Disputes, Ex. Ord. No. 11966, Jan. 19, 1977, 42 F.R. 4331.
+
+International Civil Aviation Organization, Ex. Ord. No. 9863, May 31, 1947, 12 F.R. 3559.
+
+International Coffee Organization, Ex. Ord. No. 11225, May 22, 1965, 30 F.R. 7093.
+
+International Committee of the Red Cross, Ex. Ord. No. 12643, June 23, 1988, 53 F.R. 24247.
+
+International Cotton Advisory Committee, Ex. Ord. No. 9911, Dec. 19, 1947, 12 F.R. 8719.
+
+International Cotton Institute, Ex. Ord. No. 11283, May 27, 1966, 31 F.R. 7667.
+
+International Criminal Police Organization (INTERPOL) (limited privileges), Ex. Ord. No. 12425, June 16, 1983, 48 F.R. 28069.
+
+International Development Association, Ex. Ord. No. 11966, Jan. 19, 1977, 42 F.R. 4331.
+
+International Development Law Institute, Ex. Ord. No. 12842, Mar. 29, 1993, 58 F.R. 17081.
+
+International Fertilizer Development Center, Ex. Ord. No. 11977, Mar. 14, 1977, 42 F.R. 14671.
+
+International Finance Corporation, Ex. Ord. No. 10680, Oct. 2, 1956, 21 F.R. 7647.
+
+International Food Policy Research Institute (limited privileges), Ex. Ord. No. 12359, Apr. 22, 1982, 47 F.R. 17791.
+
+International Fund for Agricultural Development, Ex. Ord. No. 12732, Oct. 31, 1990, 55 F.R. 46489.
+
+International Hydrographic Bureau, Ex. Ord. No. 10769, May 29, 1958, 23 F.R. 3801.
+
+International Joint Commission—United States and Canada, Ex. Ord. No. 9972, June 25, 1948, 13 F.R. 3573.
+
+International Labor Organization, Ex. Ord. No. 9698, Feb. 19, 1946, 11 F.R. 1809.
+
+International Maritime Satellite Organization, Ex. Ord. No. 12238, Sept. 12, 1980, 45 F.R. 60877.
+
+International Monetary Fund, Ex. Ord. No. 9751, July 11, 1946, 11 F.R. 7713.
+
+International Pacific Halibut Commission, Ex. Ord. No. 11059, Oct. 23, 1962, 27 F.R. 10405.
+
+International Secretariat for Volunteer Service, Ex. Ord. No. 11363, July 20, 1967, 32 F.R. 10779.
+
+International Telecommunication Union, Ex. Ord. No. 9863, May 31, 1947, 12 F.R. 3559.
+
+International Telecommunications Satellite Organization (INTELSAT), Ex. Ord. No. 11718, May 14, 1973, 38 F.R. 12797; Ex. Ord. No. 11966, Jan. 19, 1977, 42 F.R. 4331.
+
+International Wheat Advisory Committee (International Wheat Council), Ex. Ord. No. 9823, Jan. 24, 1947, 12 F.R. 551.
+
+Multilateral Investment Guarantee Agency, Ex. Ord. No. 12647, Aug. 2, 1988, 53 F.R. 29323.
+
+Multinational Force and Observers, Ex. Ord. No. 12359, Apr. 22, 1982, 47 F.R. 17791.
+
+North American Development Bank, Ex. Ord. No. 12904, Mar. 16, 1994, 59 F.R. 13179.
+
+North Pacific Anadromous Fish Commission, Ex. Ord. No. 12895, Jan. 26, 1994, 59 F.R. 4239.
+
+North Pacific Marine Science Organization, Ex. Ord. No. 12894, Jan. 26, 1994, 59 F.R. 4237.
+
+Organization for European Economic Cooperation (now known as the Organization for Economic Cooperation and Development), Ex. Ord. No. 10133, June 27, 1950, 15 F.R. 4159.
+
+Organization of African Unity (OAU), Ex. Ord. No. 11767, Feb. 19, 1974, 39 F.R. 6603.
+
+Organization of American States (includes Pan American Union), Ex. Ord. No. 10533, June 3, 1954, 19 F.R. 3289.
+
+Organization of Eastern Caribbean States, Ex. Ord. No. 12669, Feb. 20, 1989, 54 F.R. 7753.
+
+Pacific Salmon Commission, Ex. Ord. No. 12567, Oct. 2, 1986, 51 F.R. 35495.
+
+Pan American Health Organization (includes Pan American Sanitary Bureau), Ex. Ord. No. 10864, Feb. 18, 1960, 25 F.R. 1507.
+
+Preparatory Commission of the International Atomic Energy Agency, Ex. Ord. No. 10727, Aug. 31, 1957, 22 F.R. 7099.
+
+Provisional Intergovernmental Committee for the Movement of Migrants from Europe (now known as the Intergovernmental Committee for European Migration), Ex. Ord. No. 10335, Mar. 28, 1952, 17 F.R. 2741.
+
+South Pacific Commission, Ex. Ord. No. 10086, Nov. 25, 1949, 14 F.R. 7147.
+
+United International Bureau for the Protection of Intellectual Property (BIRPI), Ex. Ord. No. 11484, Sept. 29, 1969, 34 F.R. 15337.
+
+United Nations, Ex. Ord. No. 9698, Feb. 19, 1946, 11 F.R. 1809.
+
+United Nations Educational, Scientific, and Cultural Organization, Ex. Ord. No. 9863, May 31, 1947, 12 F.R. 3559.
+
+United Nations Industrial Development Organization, Ex. Ord. No. 12628, Mar. 8, 1988, 53 F.R. 7725.
+
+Universal Postal Union, Ex. Ord. No. 10727, Aug. 31, 1957, 22 F.R. 7099.
+
+World Health Organization, Ex. Ord. No. 10025, Dec. 30, 1948, 13 F.R. 9361.
+
+World Intellectual Property Organization, Ex. Ord. No. 11866, June 18, 1975, 40 F.R. 26015.
+
+World Meteorological Organization, Ex. Ord. No. 10676, Sept. 1, 1956, 21 F.R. 6625.
+
+World Tourism Organization, Ex. Ord. No. 12508, Mar. 22, 1985, 50 F.R. 11837.
+
+#### Public International Organizations Formerly Entitled To Enjoy Certain Privileges, Exemptions, and Immunities
+
+Executive orders designating international organizations as public international organizations entitled to enjoy the privileges, exemptions, and immunities conferred by the International Organizations Immunities Act (this subchapter) were revoked as follows:
+
+Caribbean Commission, Ex. Ord. No. 10025, Dec. 30, 1948, 13 F.R. 9361; revoked by Ex. Ord. No. 10983, Dec. 30, 1961, 27 F.R. 32.
+
+Coffee Study Group, Ex. Ord. No. 10943, May 19, 1961, 26 F.R. 4419; revoked by Ex. Ord. No. 12033, Jan. 10, 1978, 43 F.R. 1915.
+
+Inter-American Coffee Board, Ex. Ord. No. 9751, July 11, 1946, 11 F.R. 7713; revoked by Ex. Ord. No. 10083, Oct. 10, 1949, 14 F.R. 6161.
+
+Intergovernmental Committee on Refugees, Ex. Ord. No. 9823, Jan. 24, 1947, 12 F.R. 551; revoked by Ex. Ord. No. 10083, Oct. 10, 1949, 14 F.R. 6161.
+
+Interim Communications Satellite Committee, Ex. Ord. No. 11227, June 2, 1965, 30 F.R. 7369; revoked by Ex. Ord. No. 11718, May 14, 1973, 38 F.R. 12797.
+
+International Refugee Organization, Ex. Ord. No. 9887, Aug. 22, 1947, 12 F.R. 5723; revoked by Ex. Ord. No. 10832, Aug. 18, 1959, 24 F.R. 6753.
+
+International Telecommunications Satellite Consortium, Ex. Ord. No. 11277, Apr. 30, 1966, 31 F.R. 6609; revoked by Ex. Ord. No. 11718, May 14, 1973, 38 F.R. 12797.
+
+Lake Ontario Claims Tribunal, Ex. Ord. No. 11372, Sept. 18, 1967, 32 F.R. 13251; revoked by Ex. Ord. No. 11439, Dec. 7, 1968, 33 F.R. 18257.
+
+Southeast Asia Treaty Organization, Ex. Ord. No. 10866, Feb. 20, 1960, 25 F.R. 1584; revoked by Ex. Ord. No. 12033, Jan. 10, 1978, 43 F.R. 1915.
+
+United Nations Relief and Rehabilitation Administration, Ex. Ord. No. 9698, Feb. 19, 1946, 11 F.R. 1809; revoked by Ex. Ord. No. 10083, Oct. 10, 1949, 14 F.R. 6161.
+
+#### Revocation of Executive Order Nos. 9721 and 10103
+
+Ex. Ord. No. 9721, May 10, 1946, 11 F.R. 5209, as amended by Ex. Ord. No. 10103, Feb. 1, 1950, 15 F.R. 597, which provided for the transfer of Federal Government personnel to public international organizations, was revoked with certain savings provisions by section 2 of Ex. Ord. No. 10804, Feb. 12, 1959, 24 F.R. 1147, and subsequently revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 8 section 1401; title 18 sections 831, 1116.
+

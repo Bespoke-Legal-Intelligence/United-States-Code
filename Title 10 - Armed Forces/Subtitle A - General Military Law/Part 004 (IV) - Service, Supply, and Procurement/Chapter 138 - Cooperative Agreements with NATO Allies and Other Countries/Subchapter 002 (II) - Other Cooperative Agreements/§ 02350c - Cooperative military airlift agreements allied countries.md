@@ -1,0 +1,50 @@
+### §2350c. Cooperative military airlift agreements: allied countries
+
+(a) Subject to the availability of appropriations, and after consultation with the Secretary of State, the Secretary of Defense may enter into cooperative military airlift agreements with the government of any allied country for the transportation of the personnel and cargo of the military forces of that country on aircraft operated by or for the military forces of the United States in return for the reciprocal transportation of the personnel and cargo of the military forces of the United States on aircraft operated by or for the military forces of that allied country. Any such agreement shall include the following terms:
+
+&emsp;(1) The rate of reimbursement for transportation provided shall be the same for each party and shall be not less than the rate charged to military forces of the United States, as determined by the Secretary of Defense under section 2208(h) of this title.
+
+&emsp;(2) Credits and liabilities accrued as a result of providing or receiving transportation shall be liquidated as agreed upon by the parties. Liquidation shall be either by direct payment to the country that has provided the greater amount of transportation or by the providing of in-kind transportation services to that country. The liquidation shall occur on a regular basis, but not less often than once every 12 months.
+
+&emsp;(3) During peacetime, the only military airlift capacity that may be used to provide transportation is that capacity that (A) is not needed to meet the transportation requirements of the military forces of the country providing the transportation, and (B) was not created solely to accommodate the requirements of the military forces of the country receiving the transportation.
+
+&emsp;(4) Defense articles purchased by an allied country from the United States under the Arms Export Control Act (22 U.S.C. 2751 et seq.) or from a commercial source under the export controls of the Arms Export Control Act may not be transported (for the purpose of delivery incident to the purchase of the defense articles) to the purchasing allied country on aircraft operated by or for the military forces of the United States except at a rate of reimbursement that is equal to the full cost of transportation of the defense articles, as required by section 21(a)(3) of the Arms Export Control Act (22 U.S.C. 2761(a)(3)).
+
+(b) Subject to the availability of appropriations, and after consultation with the Secretary of State, the Secretary of Defense may enter into nonreciprocal military airlift agreements with North Atlantic Treaty Organization subsidiary bodies for the transportation of the personnel and cargo of such subsidiary bodies on aircraft operated by or for the military forces of the United States. Any such agreement shall be subject to such terms as the Secretary of Defense considers appropriate.
+
+(c) Any amount received by the United States as a result of an agreement entered into under this section shall be credited to applicable appropriations, accounts, and funds of the Department of Defense.
+
+(d) Notwithstanding subchapter I, the Secretary of Defense may enter into military airlift agreements with allied countries only under the authority of this section.
+
+(e) In this section:
+
+&emsp;(1) The term “allied country” means any of the following:
+
+&emsp;&emsp;(A) A country that is a member of the North Atlantic Treaty Organization.
+
+&emsp;&emsp;(B) Australia, New Zealand, Japan, and the Republic of Korea.
+
+&emsp;&emsp;(C) Any other country designated as an allied country for the purposes of this section by the Secretary of Defense with the concurrence of the Secretary of State.
+
+&emsp;(2) The term “North Atlantic Treaty Organization subsidiary bodies” has the meaning given to it by section 2350 of this title.
+
+(Added Pub. L. 97–252, title XI, §1125(a), Sept. 8, 1982, 96 Stat. 757, §2213; amended Pub. L. 99–145, title XIII, §1304(b), Nov. 8, 1985, 99 Stat. 742; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; renumbered §2350c and amended Pub. L. 101–189, div. A, title IX, §931(b)(2), (e)(4), Nov. 29, 1989, 103 Stat. 1534, 1535; Pub. L. 102–484, div. A, title XIII, §1311, Oct. 23, 1992, 106 Stat. 2547.)
+
+#### References in Text
+
+The Arms Export Control Act (22 U.S.C. 2751 et seq.), referred to in subsec. (a)(4), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+
+#### Amendments
+
+1992—Subsec. (a)(2). Pub. L. 102–484, §1311(a), substituted “as agreed upon by the parties. Liquidation shall be either by direct payment to the country that has provided the greater amount of transportation or by the providing of in-kind transportation services to that country. The liquidation shall occur on a regular basis, but not less often than once every 12 months.” for “not less often than once every 3 months by direct payment to the country that has provided the greater amount of transportation.”
+
+Subsec. (e)(1)(B). Pub. L. 102–484, §1311(b), substituted “, New Zealand, Japan, and the Republic of Korea” for “or New Zealand”.
+
+1989—Pub. L. 101–189 renumbered section 2213 of this title as this section and inserted “: allied countries” after “airlift agreements” in section catchline.
+
+Subsec. (d). Pub. L. 101–189, §931(b)(2), substituted “subchapter I” for “chapter 138 of this title”.
+
+1987—Subsec. (e). Pub. L. 100–26 inserted “The term” after each par. designation and substituted “allied” for “Allied” in par. (1).
+
+1985—Subsec. (e)(2). Pub. L. 99–145 substituted “section 2350” for “section 2331”.
+

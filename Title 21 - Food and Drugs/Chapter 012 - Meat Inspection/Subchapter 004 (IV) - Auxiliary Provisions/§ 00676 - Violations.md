@@ -1,0 +1,30 @@
+### §676. Violations
+
+#### (a) Misdemeanors; felonies: intent to defraud and distribution of adulterated articles; good faith
+
+Any person, firm, or corporation who violates any provision of this chapter for which no other criminal penalty is provided by this chapter shall upon conviction be subject to imprisonment for not more than one year, or a fine of not more than $1,000, or both such imprisonment and fine; but if such violation involves intent to defraud, or any distribution or attempted distribution of an article that is adulterated (except as defined in section 601(m)(8) of this title), such person, firm, or corporation shall be subject to imprisonment for not more than three years or a fine of not more than $10,000, or both: <i>Provided</i>, That no person, firm, or corporation, shall be subject to penalties under this section for receiving for transportation any article or animal in violation of this chapter if such receipt was made in good faith, unless such person, firm, or corporation refuses to furnish on request of a representative of the Secretary the name and address of the person from whom he received such article or animal, and copies of all documents, if any there be, pertaining to the delivery of the article or animal to him.
+
+#### (b) Minor violations; written notice of warning of criminal and civil proceedings
+
+Nothing in this chapter shall be construed as requiring the Secretary to report for prosecution or for the institution of libel or injunction proceedings, minor violations of this chapter whenever he believes that the public interest will be adequately served by a suitable written notice of warning.
+
+(Mar. 4, 1907, ch. 2907, title IV, §406, as added Dec. 15, 1967, Pub. L. 90–201, §16, 81 Stat. 599; amended Nov. 10, 1986, Pub. L. 99–641, title IV, §403(c), 100 Stat. 3570.)
+
+#### Amendments
+
+1986—Subsec. (b). Pub. L. 99–641, §403(c)(1), temporarily inserted provisions which related to factors required to be considered by Secretary in determining whether public interest is served by written notice of warning. See Effective and Termination Dates of 1986 Amendment note below.
+
+Subsec. (c). Pub. L. 99–641, §403(c)(2), temporarily added subsec. (c). See Effective and Termination Dates of 1986 Amendment note below.
+
+#### Effective and Termination Dates of 1986 Amendment
+
+Section 403(c) of Pub. L. 99–641 provided that the amendment made by that section is effective only during the 6-year period beginning Nov. 10, 1986.
+
+#### Construction and Effect of Amendments by Pub. L. 99–641
+
+For provisions relating to construction and effect of temporary amendments by section 403 of Pub. L. 99–641, see sections 403(e) and 404 of Pub. L. 99–641, set out as notes entitled “Inspection Services for Establishments Not Participating in Total Plant Quality-Control Program” and “Savings Provision”, respectively, under section 606 of this title.
+
+#### Federal Rules of Civil Procedure
+
+Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
+

@@ -1,0 +1,34 @@
+### §4002. Establishment of selection boards
+
+#### (a) Evaluation of performance; recommendations
+
+The Secretary shall establish selection boards to evaluate the performance of members of the Senior Foreign Service and members of the Service assigned to a salary class in the Foreign Service Schedule. Selection boards shall, in accordance with precepts prescribed by the Secretary, rank the members of a salary class on the basis of relative performance and may make recommendations for—
+
+&emsp;(1) promotions in accordance with section 4001 of this title;
+
+&emsp;(2) awards of performance pay under section 3965(c) of this title;
+
+&emsp;(3) denials of within-class step increases under section 3966(a) of this title;
+
+&emsp;(4) offer or renewal of limited career extensions under section 4007(b) of this title; and
+
+&emsp;(5) such other actions as the Secretary may prescribe by regulation.
+
+#### (b) Public members; appointment of women and minority groups
+
+All selection boards established under this section shall include public members. The Secretary shall assure that a substantial number of women and members of minority groups are appointed to each selection board established under this section.
+
+#### (c) Disqualification for service on foreign service selection boards
+
+No public members appointed pursuant to this section may be, at the time of their appointment or during their appointment, an agent of a foreign principal (as defined by section 611(b) of this title) or receive income from a government of a foreign country.
+
+(Pub. L. 96–465, title I, §602, Oct. 17, 1980, 94 Stat. 2095; Pub. L. 101–246, title I, §142, Feb. 16, 1990, 104 Stat. 36.)
+
+#### Amendments
+
+1990—Subsec. (c). Pub. L. 101–246 added subsec. (c).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3965, 3966, 4001, 4007, 4131 of this title.
+

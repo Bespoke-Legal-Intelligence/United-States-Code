@@ -1,0 +1,52 @@
+### §3018A. Opportunity for certain active-duty personnel to enroll before being involuntarily separated from service
+
+(a) Notwithstanding any other provision of law, an individual who—
+
+&emsp;(1) after February 2, 1991, is involuntarily separated (as such term is defined in section 1141 of title 10) with an honorable discharge;
+
+&emsp;(2) before applying for benefits under this section, has completed the requirements of a secondary school diploma (or equivalency certificate) or has successfully completed the equivalent of 12 semester hours in a program of education leading to a standard college degree;
+
+&emsp;(3) in the case of any individual who has made an election under section 3011(c)(1) or 3012(d)(1) of this title, withdraws such election before such separation pursuant to procedures which the Secretary of each military department shall provide in accordance with regulations prescribed by the Secretary of Defense for the purpose of carrying out this section or which the Secretary of Transportation shall provide for such purpose with respect to the Coast Guard when it is not operating as a service in the Navy;
+
+&emsp;(4) in the case of any person enrolled in the educational benefits program provided by chapter 32 of this title makes an irrevocable election, pursuant to procedures referred to in paragraph (3) of this subsection, before such separation to receive benefits under this section in lieu of benefits under such chapter 32; and
+
+&emsp;(5) before such separation elects to receive assistance under this section pursuant to procedures referred to in paragraph (3) of this subsection,
+
+> is entitled to basic educational assistance under this chapter.
+
+(b) The basic pay of an individual described in subsection (a) of this section shall be reduced by $1,200.
+
+(c) A withdrawal referred to in subsection (a)(3) of this section is irrevocable.
+
+(d)(1) Except as provided in paragraph (3) of this subsection, an individual who is enrolled in the educational benefits program provided by chapter 32 of this title and who makes the election described in subsection (a)(4) of this subsection <sup>1</sup> shall be disenrolled from such chapter 32 program as of the date of such election.
+
+(2) For each individual who is disenrolled from such program, the Secretary shall refund—
+
+&emsp;(A) as provided in section 3223(b) of this title, to the individual the unused contributions made by the individual to the Post-Vietnam Era Veterans Education Account established pursuant to section 3222(a) of this title; and
+
+&emsp;(B) to the Secretary of Defense the unused contributions (other than contributions made under section 3222(c) of this title) made by such Secretary to the Account on behalf of such individual.
+
+(3) Any contribution made by the Secretary of Defense to the Post-Vietnam Era Veterans Education Account pursuant to subsection (c) of section 3222 of this title on behalf of any individual referred to in paragraph (1) of this subsection shall remain in such Account to make payments of benefits to such individual under section 3015(f) of this chapter.
+
+(Added Pub. L. 101–510, div. A, title V, §561(a)(1), Nov. 5, 1990, 104 Stat. 1571, §1418A; amended Pub. L. 102–25, title VII, §705(c)(1), Apr. 6, 1991, 105 Stat. 120; renumbered §3018A and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(d)(4), (i)(4), Nov. 2, 1994, 108 Stat. 4684, 4688.)
+
+#### Amendments
+
+1994—Subsec. (a)(1). Pub. L. 103–446, §1201(i)(4), substituted “after February 2, 1991,” for “after December 31, 1990, or the end of the 90-day period beginning on the date of the enactment of this section, whichever is later,”.
+
+Subsec. (d)(3). Pub. L. 103–446, §1201(d)(4), substituted “section 3015(f)” for “section 3015(e)”.
+
+1991—Pub. L. 102–83, §5(a), renumbered section 1418A of this title as this section.
+
+Subsec. (a)(1). Pub. L. 102–25 substituted “section 1141 of title 10” for “section 1142 of title 10”.
+
+Subsec. (a)(3). Pub. L. 102–83, §5(c)(1), substituted “3011(c)(1) or 3012(d)(1)” for “1411(c)(1) or 1412(d)(1)”.
+
+Subsec. (d)(2), (3). Pub. L. 102–83, §5(c)(1), substituted “3223(b)” for “1623(b)”, “3222(a)” for “1622(a)”, and “3222(c)” for “1622(c)” in par. (2) and “3222” for “1622” and “3015(e)” for “1415(e)” in par. (3).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3013, 3015, 3035, 4214 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+

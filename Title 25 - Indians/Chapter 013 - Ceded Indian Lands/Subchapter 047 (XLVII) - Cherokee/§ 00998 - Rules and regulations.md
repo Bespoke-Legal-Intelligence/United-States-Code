@@ -1,0 +1,6 @@
+### §998. Rules and regulations
+
+The Secretary of the Interior is authorized to prescribe rules and regulations to carry out the provisions of this subchapter.
+
+(Pub. L. 87–775, §8, Oct. 9, 1962, 76 Stat. 777.)
+

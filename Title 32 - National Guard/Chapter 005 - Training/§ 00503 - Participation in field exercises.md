@@ -1,0 +1,54 @@
+### §503. Participation in field exercises
+
+(a) Under such regulations as the President may prescribe, the Secretary of the Army and the Secretary of the Air Force, as the case may be, may provide for the participation of the National Guard in encampments, maneuvers, outdoor target practice, or other exercises for field or coast-defense instruction, independently of or in conjunction with the Army or the Air Force, or both.
+
+(b) Amounts necessary for the pay, subsistence, transportation, and other proper expenses of any part of the National Guard of a State or Territory, Puerto Rico, or the District of Columbia participating in an exercise under subsection (a) may be set aside from funds allocated to it from appropriations for field or coast-defense instruction.
+
+(c) Members of the National Guard participating in an exercise under subsection (a) may, after being mustered, be paid for the period beginning with the date of leaving home and ending with the date of return, as determined in advance. If otherwise correct, such a payment passes to the credit of the disbursing officer.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 610; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+503(a)
+
+503(b)
+
+503(c)
+
+32:63 (1st 56 words).
+
+32:63 (less 1st 56 words).
+
+32:158.
+
+June 3, 1916, ch. 134, §§94 (less last 43 words after semicolon), 98, 39 Stat. 206, 207.
+
+In subsection (a), the words “the whole or any part” and “any part of” are omitted as surplusage. The word “Army” is substituted for the words “Regular Army”, since the Army is the category that participates in the exercises, and the Regular Army is a personnel category only. Similarly, the words “Air Force” are used instead of the words “Regular Air Force”.
+
+In subsection (b), the words “Amounts necessary” are substituted for the words “such portion of said funds as may be necessary”. The words “participating in an exercise under subsection (a)” are substituted for the words “as shall participate in such encampments, maneuvers, or other exercises, including outdoor target practice, for field and coast-defense instruction”. The words “allocated to it from appropriations for field or coast-defense instruction” are substituted for the words “appropriated for that purpose and allocated to any State, Territory, or the District of Columbia”.
+
+In subsection (c), the words “Members of the National Guard participating in an exercise under subsection (a)” are substituted for the words “When any portion of the National Guard shall participate in encampments, maneuvers, or other exercises, including outdoor target practice, for field or coast-defense instruction, under the provisions of this title”. The words “duly”, “at any time”, “rendezvous”, “both dates inclusive”, and “making the same” are omitted as surplusage.
+
+#### Amendments
+
+1988—Subsec. (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+
+#### Cross References
+
+Credit for service as members of Army National Guard or Air National Guard of members of Army National Guard of United States or Air National Guard of United States, see section 12602 of Title 10, Armed Forces.
+
+Inactive duty training, duty (other than full-time duty) under this section as, see section 101 of Title 38, Veterans’ Benefits.
+
+Pay grades of National Guard personnel on active duty, see section 204 of Title 37, Pay and Allowances of the Uniformed Services.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 101, 715 of this title; title 5 section 6323; title 10 sections 101, 524, 701, 1054, 1089, 1208, 12732, 12733; title 28 section 2671; title 38 sections 101, 1965, 4312.
+

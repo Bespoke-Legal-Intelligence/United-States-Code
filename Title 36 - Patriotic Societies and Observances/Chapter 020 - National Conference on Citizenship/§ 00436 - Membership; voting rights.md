@@ -1,0 +1,6 @@
+### §436. Membership; voting rights
+
+Membership in the corporation shall be confined to agencies and organizations and the rights and privileges of membership shall, except as otherwise provided in this chapter, be prescribed by the bylaws of the corporation. In the conduct of the business of the annual national conference on citizenship each agency or organization sending delegates to, and participating in such conference shall have one vote.
+
+(Aug. 13, 1953, ch. 427, §6, 67 Stat. 563.)
+

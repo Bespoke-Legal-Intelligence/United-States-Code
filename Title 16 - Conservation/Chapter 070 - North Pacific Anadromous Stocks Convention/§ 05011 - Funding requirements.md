@@ -1,0 +1,20 @@
+### §5011. Funding requirements
+
+#### (a) Authorization
+
+There are authorized to be appropriated from time to time such sums as may be necessary for carrying out the purposes and provisions of the Convention and this chapter, including—
+
+&emsp;(1) necessary travel expenses of the United States Commissioners or Alternate Commissioners; and
+
+&emsp;(2) the United States share of the joint expenses of the Commission.
+
+#### (b) Research
+
+Such funds as shall be made available to the Secretary of Commerce for research and related activities shall be expended to carry out the program of the Commission in accordance with the recommendations of the United States Section and to carry out other research and observer programs pursuant to the Convention.
+
+(Pub. L. 102–567, title VIII, §812, Oct. 29, 1992, 106 Stat. 4316; Pub. L. 102–587, title VIII, §8012, Nov. 4, 1992, 106 Stat. 5105.)
+
+#### Codification
+
+Pub. L. 102–567 and Pub. L. 102–587 enacted substantially identical sections. This section is based on the text of Pub. L. 102–587.
+

@@ -1,0 +1,46 @@
+### §201. Short title
+
+This chapter may be cited as the “Fair Labor Standards Act of 1938”.
+
+(June 25, 1938, ch. 676, §1, 52 Stat. 1060.)
+
+#### Short Title of 1989 Amendment
+
+Pub. L. 101–157, §1(a), Nov. 17, 1989, 103 Stat. 938, provided that: “This Act \[enacting section 60k of Title 2, The Congress, amending sections 203, 205 to 208, 213, 214, and 216 of this title, and enacting provisions set out as notes under sections 203 and 206 of this title\] may be cited as the ‘Fair Labor Standards Amendments of 1989’.”
+
+#### Short Title of 1985 Amendment
+
+Pub. L. 99–150, §1(a), Nov. 13, 1985, 99 Stat. 787, provided that: “This Act \[amending sections 203, 207, and 211 of this title and enacting provisions set out as notes under sections 203, 207, 215, and 216 of this title\] may be cited as the ‘Fair Labor Standards Amendments of 1985’.”
+
+#### Short Title of 1977 Amendment
+
+Pub. L. 95–151, §1(a), Nov. 1, 1977, 91 Stat. 1245, provided that: “This Act \[amending sections 203, 206, 208, 213, 214, and 216 of this title and enacting provisions set out as notes under sections 203, 204, and 213 of this title\] may be cited as the ‘Fair Labor Standards Amendments of 1977’.”
+
+#### Short Title of 1974 Amendment
+
+Pub. L. 93–259, §1(a), Apr. 8, 1974, 88 Stat. 55, provided that: “This Act \[enacting section 633a of this title, amending sections 202 to 208, 210, 212 to 214, 216, 255, 260, 630, and 634 of this title, and enacting provisions set out as notes under this section and sections 202, 206, 207, 213, and 621 of this title\] may be cited as the ‘Fair Labor Standards Amendments of 1974’.”
+
+#### Short Title of 1966 Amendment
+
+Pub. L. 89–601, §1, Sept. 23, 1966, 80 Stat. 830, provided: “That this Act \[amending sections 203, 206, 207, 213, 214, 216, 218, and 255 of this title, and enacting provisions set out as notes under sections 207 and 214 of this title, section 1082 of former Title 5, Executive Departments and Government Officers and Employees, and section 2000e–14 of Title 42, The Public Health and Welfare\] may be cited as the ‘Fair Labor Standards Amendments of 1966’.”
+
+#### Short Title of 1963 Amendment
+
+Pub. L. 88–38, §1, June 10, 1963, 77 Stat. 56, provided: “That this Act \[amending section 206 of this title and enacting provisions set out as notes under section 206 of this title\] may be cited as the ‘Equal Pay Act of 1963’.”
+
+#### Short Title of 1961 Amendment
+
+Pub. L. 87–30, §1, May 5, 1961, 75 Stat. 65, provided: “That this Act \[amending sections 203 to 208, 212 to 214, 216, and 217 of this title and enacting provisions set out as a note under section 213 of this title\] may be cited as the ‘Fair Labor Standards Amendments of 1961’.”
+
+#### Short Title of 1956 Amendment
+
+Act Aug. 8, 1956, ch. 1035, §1, 70 Stat. 1118, provided: “That this Act \[amending sections 206, 213, and 216 of this title\] may be cited as the ‘American Samoa Labor Standards Amendments of 1956’.”
+
+#### Short Title of 1955 Amendment
+
+Act Aug. 12, 1955, ch. 867, §1, 69 Stat. 711, provided: “That this Act \[amending sections 204–206, 208, and 210 of this title and enacting provisions set out as notes under sections 204, 206, and 208 of this title\] may be cited as the ‘Fair Labor Standards Amendments of 1955’.”
+
+#### Short Title of 1949 Amendment
+
+Act Oct. 26, 1949, ch. 736, §1, 63 Stat. 910, provided: “That this Act \[enacting section 216b of this title, amending sections 202 to 208, 211 to 216, and 217 of this title, and repealing section 216a of this title\] may be cited as the ‘Fair Labor Standards Amendments of 1949’.”
+

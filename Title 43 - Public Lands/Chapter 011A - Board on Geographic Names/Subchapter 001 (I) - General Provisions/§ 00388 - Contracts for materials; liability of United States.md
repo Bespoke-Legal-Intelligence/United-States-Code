@@ -1,0 +1,14 @@
+### §388. Contracts for materials; liability of United States
+
+When appropriations have been made for the commencement or continuation of construction or operation and maintenance of any project, the Secretary may, in connection with such construction or operation and maintenance, enter into contracts for miscellaneous services, for materials and supplies, as well as for construction, which may cover such periods of time as the Secretary may consider necessary but in which the liability of the United States shall be contingent upon appropriations being made therefor.
+
+(Aug. 4, 1939, ch. 418, §12, 53 Stat. 1197.)
+
+#### Definitions
+
+The definitions in section 485a of this title apply to this section.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 485, 485d, 485e, 485f, 485g, 485i, 485j, 485k of this title.
+

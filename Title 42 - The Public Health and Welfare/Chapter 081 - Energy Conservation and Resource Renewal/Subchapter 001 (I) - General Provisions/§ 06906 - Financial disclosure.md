@@ -1,0 +1,38 @@
+### §6906. Financial disclosure
+
+#### (a) Statement
+
+Each officer or employee of the Administrator who—
+
+&emsp;(1) performs any function or duty under this chapter; and
+
+&emsp;(2) has any known financial interest in any person who applies for or receives financial assistance under this chapter
+
+> shall, beginning on February 1, 1977, annually file with the Administrator a written statement concerning all such interests held by such officer or employee during the preceding calendar year. Such statement shall be available to the public.
+
+#### (b) Action by Administrator
+
+The Administrator shall—
+
+&emsp;(1) act within ninety days after October 21, 1976—
+
+&emsp;&emsp;(A) to define the term “known financial interest” for purposes of subsection (a) of this section; and
+
+&emsp;&emsp;(B) to establish the methods by which the requirement to file written statements specified in subsection (a) of this section will be monitored and enforced, including appropriate provision for the filing by such officers and employees of such statements and the review by the Administrator of such statements; and
+
+&emsp;(2) report to the Congress on June 1, 1978, and of each succeeding calendar year with respect to such disclosures and the actions taken in regard thereto during the preceding calendar year.
+
+#### (c) Exemption
+
+In the rules prescribed under subsection (b) of this section, the Administrator may identifyspecific positions within the Environmental Protection Agency which are of a nonpolicy-making nature and provide that officers or employees occupying such positions shall be exempt from the requirements of this section.
+
+#### (d) Penalty
+
+Any officer or employee who is subject to, and knowingly violates, this section shall be fined not more than $2,500 or imprisoned not more than one year, or both.
+
+(Pub. L. 89–272, title II, §1007, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2802.)
+
+#### Transfer of Functions
+
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
+

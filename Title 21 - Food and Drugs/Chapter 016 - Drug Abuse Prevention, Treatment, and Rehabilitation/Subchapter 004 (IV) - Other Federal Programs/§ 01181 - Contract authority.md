@@ -1,0 +1,10 @@
+### §1181. Contract authority
+
+The authority of the Secretary to enter into contracts under this subchapter and subchapter V of this chapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
+
+(Pub. L. 92–255, title IV, §414, as added Pub. L. 96–181, §9(a), Jan. 2, 1980, 93 Stat. 1314.)
+
+#### References in Text
+
+Subchapter V of this chapter, referred to in text, consisted of sections 501 to 504 of title V of Pub. L. 92–255, Mar. 21, 1972, 86 Stat. 85, which were classified to sections 1191 to 1194 of this title, respectively. Sections 501 to 503 were made part of the Public Health Service Act by Pub. L. 98–24, §2(b)(4), (11), (15), Apr. 26, 1983, 97 Stat. 177, 180, 181, and were transferred to sections 290aa–2, 290ee, and 290cc, respectively, of Title 42, The Public Health and Welfare. Section 504 was repealed by Pub. L. 98–24, §2(c)(2).
+

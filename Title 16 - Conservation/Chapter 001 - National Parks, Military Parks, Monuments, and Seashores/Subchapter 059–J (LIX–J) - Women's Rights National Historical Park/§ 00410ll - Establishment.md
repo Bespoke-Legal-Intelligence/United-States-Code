@@ -1,0 +1,100 @@
+### §410<i>ll</i>. Establishment
+
+#### (a) Congressional declaration of findings
+
+The Congress finds that—
+
+&emsp;(1) The Women's Rights Convention held at the Wesleyan Methodist Chapel in Seneca Falls, New York, in 1848 was an event of major importance in the history of the United States because it marked the formal beginning of the struggle of women for their equal rights.
+
+&emsp;(2) The Declaration of Sentiments approved by the 1848 Women's Rights Convention is a document of enduring relevance, which expresses the goal that equality and justice should be extended to all people without regard to sex.
+
+&emsp;(3) There are nine sites located in Seneca Falls and Waterloo, New York, associated with the nineteenth century women's rights movement which should be recognized, preserved, and interpreted for the benefit of the public.
+
+#### (b) Statement of purposes
+
+It is the purpose of this section to preserve and interpret for the education, inspiration, and benefit of present and future generations the nationally significant historical and cultural sites and structures associated with the struggle for equal rights for women and to cooperate with State and local entities to preserve the character and historic setting of such sites and structures.
+
+#### (c) Designation; composition
+
+To carry out the purpose of this section there is hereby established the Women's Rights National Historical Park (hereinafter in this section referred to as the “park”). The park shall consist initially of the following designated sites in Seneca Falls and Waterloo, New York:
+
+&emsp;(1) Stanton House, 32 Washington Street, Seneca Falls;
+
+&emsp;(2) dwelling, 30 Washington Street, Seneca Falls;
+
+&emsp;(3) dwelling, 34 Washington Street, Seneca Falls;
+
+&emsp;(4) lot, 26–28 Washington Street, Seneca Falls;
+
+&emsp;(5) former Wesleyan Chapel, 126 Fall Street, Seneca Falls;
+
+&emsp;(6) theater, 128 Fall Street, Seneca Falls;
+
+&emsp;(7) Bloomer House, 53 East Bayard Street;
+
+&emsp;(8) McClintock House and related structures, 14 and 16 East Williams Street, Waterloo; and
+
+&emsp;(9) Hunt House, 401 East Main Street, Waterloo.
+
+#### (d) Acquisition of lands and interests
+
+The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange lands and interests therein within sites designated as part of the park, except that the Secretary may not acquire the fee simple title to the land comprising the sites designated in paragraphs (7) and (9) of subsection (c) of this section. Lands and interests therein owned by a State or political subdivision thereof may be acquired only by donation. Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House.
+
+#### (e) Cooperative agreements
+
+The Secretary is authorized to enter into cooperative agreements with the owners of properties designated as part of the park, pursuant to which the Secretary may mark, interpret, improve, restore, and provide technical assistance with respect to the preservation and interpretation of such properties. Such agreements shall contain, but need not be limited to, provisions that the Secretary shall have the right of access at reasonable times to public portions of the property for interpretative and other purposes, and that no changes or alterations shall be made in the property except by mutual agreement.
+
+#### (f) State and local participation; financial assistance
+
+The Secretary shall encourage State and local governmental agencies to develop and implement plans for the preservation and rehabilitation of sites designated as part of the park and their immediate environs, in order to preserve the historic character of the setting in which such sites are located. The Secretary may provide technical and financial assistance to such agencies in the development and implementation of such plans, but financial assistance may not exceed 50 per centum of the cost thereof.
+
+#### (g) Administration
+
+The Secretary shall administer the park in accordance with the provisions of this section andthe provisions of law generally applicable to the administration of units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+
+#### (h) Women's Rights National Historical Park Advisory Commission; membership; Chair; compensation and expenses; function; consultation; termination
+
+(1) There is hereby established the Women's Rights National Historical Park Advisory Commission (hereinafter referred to as the “Commission”). The Commission shall consist of eleven members, each appointed by the Secretary for a term of five years as follows:
+
+&emsp;(A) One member appointed from recommendations submitted by the Elizabeth Cady Stanton Foundation;
+
+&emsp;(B) One member appointed from recommendations submitted by the Women's Hall of Fame;
+
+&emsp;(C) Two members appointed from recommendations submitted by the Governor of New York;
+
+&emsp;(D) One member appointed from recommendations submitted by the village of Seneca Falls;
+
+&emsp;(E) One member appointed from recommendations submitted by the town of Seneca Falls; and
+
+&emsp;(F) Five members appointed by the Secretary, at least one of whom shall represent an institution of higher learning and at least two of whom shall represent national women's rights organizations.
+
+(2) The Secretary shall designate one member to be the Chair of the Commission. Any vacancy on the Commission shall be filled in the same manner in which the original appointment was made.
+
+(3) Members of the Commission shall serve without compensation as such, but the Secretary may pay the expenses reasonably incurred by the Commission and its members in carrying out their responsibilities under this section upon presentation of vouchers signed by the Chair of the Commission.
+
+(4) The function of the Commission shall be to advise the Secretary with respect to matters relating to the administration of the park and the carrying out of the provisions of this section. The Secretary shall consult with the Commission from time to time with respect to his responsibilities and authorities under this section.
+
+(5) The Commission shall terminate ten years from the effective date of this section.
+
+#### (i) Authorization of appropriations
+
+There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section, but not to exceed $700,000 for acquisition, and $500,000 for development.
+
+(Pub. L. 96–607, title XVI, §1601, Dec. 28, 1980, 94 Stat. 3546; Pub. L. 98–402, Aug. 28, 1984, 98 Stat. 1478; Pub. L. 100–475, §1, Oct. 6, 1988, 102 Stat. 2303.)
+
+#### References in Text
+
+The effective date of this section, referred to in subsec. (h)(5), probably means the date of enactment of Pub. L. 96–607, which was approved Dec. 28, 1980.
+
+#### Amendments
+
+1988—Subsec. (i). Pub. L. 100–475 substituted “$700,000” for “$490,000”.
+
+1984—Subsec. (c)(8). Pub. L. 98–402, §1(a), substituted “McClintock House and related structures, 14 and 16 East Williams Street” for “McClintock House, 16 East Williams Street”.
+
+Subsec. (d). Pub. L. 98–402, §1(b), substituted “paragraphs (7) and (9)” for “paragraphs (7) through (9)”, and inserted “Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House.”
+
+#### General Management Plans; Submittal to Congressional Committees
+
+Section 501 of Pub. L. 96–607 directed Secretary of the Interior, within three complete fiscal years from Dec. 28, 1980, to submit to Committee on Interior and Insular Affairs of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, comprehensive general management plans for the areas established pursuant to titles XII and XVI of Pub. L. 96–607, pursuant to the provisions of section 1a–7(b) of this title.
+

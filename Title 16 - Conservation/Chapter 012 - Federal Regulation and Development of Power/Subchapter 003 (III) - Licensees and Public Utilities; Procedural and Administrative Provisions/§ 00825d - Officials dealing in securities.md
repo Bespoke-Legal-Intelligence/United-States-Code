@@ -1,0 +1,56 @@
+### §825d. Officials dealing in securities
+
+#### (a) Benefits; making or declaring dividends out of capital account
+
+It shall be unlawful for any officer or director of any public utility to receive for his own benefit, directly or indirectly, any money or thing of value in respect of the negotiation, hypothecation, or sale by such public utility of any security issued or to be issued by such public utility, or to share in any of the proceeds thereof, or to participate in the making or paying of any dividends of such public utility from any funds properly included in capital account.
+
+#### (b) Interlocking directorates
+
+After six months from August 26, 1935, it shall be unlawful for any person to hold the position of officer or director of more than one public utility or to hold the position of officer or director of a public utility and the position of officer or director of any bank, trust company, banking association, or firm that is authorized by law to underwrite or participate in the marketing of securities of a public utility, or officer or director of any company supplying electrical equipment to such public utility, unless the holding of such positions shall have been authorized by order of the Commission, upon due showing in form and manner prescribed by the Commission, that neither public nor private interests will be adversely affected thereby. The Commission shall not grant any such authorization in respect of such positions held on August 26, 1935, unless application for such authorization is filed with the Commission within sixty days after that date.
+
+#### (c) Statement of prior positions; definitions
+
+(1) On or before April 30 of each year, any person, who, during the calendar year preceding the filing date under this subsection, was an officer or director of a public utility and who held, during such calendar year, the position of officer, director, partner, appointee, or representative of any other entity listed in paragraph (2) shall file with the Commission, in such form and manner as the Commission shall by rule prescribe, a written statement concerning such positions held by such person. Such statement shall be available to the public.
+
+(2) The entities listed for purposes of paragraph (1) are as follows—
+
+&emsp;(A) any investment bank, bank holding company, foreign bank or subsidiary thereof doing business in the United States, insurance company, or any other organization primarily engaged in the business of providing financial services or credit, a mutual savings bank, or a savings and loan association;
+
+&emsp;(B) any company, firm, or organization which is authorized by law to underwrite or participate in the marketing of securities of a public utility;
+
+&emsp;(C) any company, firm, or organization which produces or supplies electrical equipment or coal, natural gas, oil, nuclear fuel, or other fuel, for the use of any public utility;
+
+&emsp;(D) any company, firm, or organization which during any one of the 3 calendar years immediately preceding the filing date was one of the 20 purchasers of electric energy which purchased (for purposes other than for resale) one of the 20 largest annual amounts of electric energy sold by such public utility (or by any public utility which is part of the same holding company system) during any one of such three calendar years;
+
+&emsp;(E) any entity referred to in subsection (b) of this section; and
+
+&emsp;(F) any company, firm, or organization which is controlled by any company, firm, or organization referred to in this paragraph.
+
+> On or before January 31 of each calendar year, each public utility shall publish a list, pursuant to rules prescribed by the Commission, of the purchasers to which subparagraph (D) applies, for purposes of any filing under paragraph (1) of such calendar year.
+
+(3) For purposes of this subsection—
+
+&emsp;(A) The term “public utility” includes any company which is a part of a holding company system which includes a registered holding company, unless no company in such system is an electric utility.
+
+&emsp;(B) The terms “holding company”, “registered holding company”, and “holding company system” have the same meaning as when used in the Public Utility Holding Company Act of 1935 \[15 U.S.C. 79 et seq.\].
+
+(June 10, 1920, ch. 285, pt. III, §305, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 856; amended Nov. 9, 1978, Pub. L. 95–617, title II, §211(a), 92 Stat. 3147.)
+
+#### References in Text
+
+The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(3)(B), is act Aug. 26, 1935, ch. 687, title I, 49 Stat. 838, as amended, which is classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 79 of Title 15 and Tables.
+
+#### Amendments
+
+1978—Subsec. (c). Pub. L. 95–617 added subsec. (c).
+
+#### Effective Date of 1978 Amendment
+
+Section 211(b) of Pub. L. 95–617 provided that: “No person shall be required to file a statement under section 305(c)(1) of the Federal Power Act \[subsec. (c)(1) of this section\] before April 30 of the second calendar year which begins after the date of the enactment of this Act \[Nov. 9, 1978\] and no public utility shall be required to publish a list under section 305(c)(2) of such Act \[subsec. (c)(2) of this section\] before January 31 of such second calendar year.”
+
+#### Transfer of Functions
+
+Federal Power Commission terminated and its functions with regard to regulation of mergers and securities acquisitions under this chapter transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(F) and 7293 of Title 42, The Public Health and Welfare.
+
+Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
+

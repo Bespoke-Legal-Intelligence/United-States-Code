@@ -1,0 +1,100 @@
+### §2518. Definitions
+
+As used in this subchapter—
+
+#### (1) Agreement
+
+&emsp;The term “Agreement” means the Agreement on Government Procurement referred to in section 3511(d)(17) of this title, as submitted to the Congress, but including rectifications, modifications, and amendments which are accepted by the United States.
+
+#### (2) Civil aircraft
+
+&emsp;The term “civil aircraft and related articles” means—
+
+&emsp;&emsp;(A) all aircraft other than aircraft to be purchased for use by the Department of Defense or the United States Coast Guard;
+
+&emsp;&emsp;(B) the engines (and parts and components for incorporation therein) of such aircraft;
+
+&emsp;&emsp;(C) any other parts, components, and subassemblies for incorporation in such aircraft; and
+
+&emsp;&emsp;(D) any ground flight simulators, and parts and components thereof, for use with respect to such aircraft,
+
+> &emsp;whether to be purchased for use as original or replacement equipment in the manufacture, repair, maintenance, rebuilding, modification, or conversion of such aircraft, and without regard to whether such aircraft or articles receive duty-free treatment pursuant to section 601(a)(2).
+
+#### (3) Developed countries
+
+&emsp;The term “developed countries” means countries so designated by the President.
+
+#### (4) Eligible product
+
+#### (A) In general
+
+&emsp;&emsp;The term “eligible product” means, with respect to any foreign country or instrumentality that is—
+
+&emsp;&emsp;&emsp;(i) a party to the Agreement, a product or service of that country or instrumentality which is covered under the Agreement for procurement by the United States; or
+
+&emsp;&emsp;&emsp;(ii) a party to the North American Free Trade Agreement, a product or service of that country or instrumentality which is covered under the North American Free Trade Agreement for procurement by the United States.
+
+#### (B) Rule of origin
+
+&emsp;&emsp;An article is a product of a country or instrumentality only if (i) it is wholly the growth, product, or manufacture of that country or instrumentality, or (ii) in the case of an article which consists in whole or in part of materials from another country or instrumentality, it has been substantially transformed into a new and different article of commerce with a name, character, or use distinct from that of the article or articles from which it was so transformed.
+
+#### (C) Lowered threshold for certain products as a consequence of United States-Israel free trade area provisions
+
+&emsp;&emsp;The term “eligible product” includes a product or service of Israel for which the United States is obligated to waive Buy National restrictions under—
+
+&emsp;&emsp;&emsp;(i) the Agreement on the Establishment of a Free Trade Area between the Government of the United States of America and the Government of Israel, regardless of the thresholds provided for in the Agreement (as defined in paragraph (1)), or
+
+&emsp;&emsp;&emsp;(ii) any subsequent agreement between the United States and Israel which lowers on a reciprocal basis the applicable threshold for entities covered by the Agreement.
+
+#### (D) Lowered threshold for certain products as a consequence of United States-Canada Free-Trade Agreement
+
+&emsp;&emsp;Except as otherwise agreed by the United States and Canada under paragraph 3 of article 1304 of the United States-Canada Free-Trade Agreement, the term “eligible product” includes a product or service of Canada having a contract value of $25,000 or more that would be covered for procurement by the United States under the the <sup>1</sup> Agreement (as defined in paragraph (1)), but for the thresholds provided for in the Agreement.
+
+#### (5) Instrumentality
+
+&emsp;The term “instrumentality” shall not be construed to include an agency or division of the government of a country, but may be construed to include such arrangements as the European Economic Community.
+
+#### (6) Least developed country
+
+&emsp;The term “least developed country” means any country on the United Nations General Assembly list of least developed countries.
+
+#### (7) Major industrial country
+
+&emsp;The term “major industrial country” means any such country as defined in section 2136 of this title and any instrumentality of such a country.
+
+(Pub. L. 96–39, title III, §308, July 26, 1979, 93 Stat. 241; Pub. L. 99–47, §7, June 11, 1985, 99 Stat. 84; Pub. L. 100–449, title III, §306, Sept. 28, 1988,102 Stat. 1876; Pub. L. 103–182, title III, §381(c), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–465, title III, §342(f), Dec. 8, 1994, 108 Stat. 4953.)
+
+#### References in Text
+
+Section 601(a)(2), referred to in par. (2), is section 601(a)(2) of Pub. L. 96–39 title VI, July 26, 1979, 93 Stat. 267, which directed a duty rate of “Free” in the rate column numbered 1 of the Tariff Schedules of the United States for articles classified under specified items between 518.51 and 772.65 which the President determines would provide coverage comparable to that provided by foreign countries in the Annex to the Agreement on Trade in Civil Aircraft if such articles were certified for use in civil aircraft in accordance with headnote 3 to schedule 6, part 6, subpart C of the Tariff Schedules of the United States. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States, which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of the title.
+
+#### Amendments
+
+1994—Par. (1). Pub. L. 103–465, §342(f)(1), substituted “section 3511(d)(17) of this title” for “section 2503(c) of this title”.
+
+Par. (4)(C). Pub. L. 103–465, §342(f)(2)(A), substituted “for which the United States is obligated to waive Buy National restrictions under—” and cls. (i) and (ii) for “having a contract value of $50,000 or more which would be covered for procurement by the United States under the Agreement on Government Procurement as in effect on the date on which the Agreement on the Establishment of a Free Trade Area between the Government of the United States of America and the Government of Israel enters into force, but for the SDR 150,000 threshold provided for in article I(1)(b) of the Agreement on Government Procurement.”
+
+Par. (4)(D). Pub. L. 103–465, §342(f)(2)(B), substituted “the Agreement (as defined in paragraph (1)), but for the thresholds provided for in the Agreement.” for “GATT Agreement on Government Procurement, but for the SDR threshold provided for in article I(1)(b) of the GATT Agreement on Government Procurement.”
+
+1993—Par. (4)(A). Pub. L. 103–182 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The term ‘eligible product’ means, with respect to any foreign country or instrumentality, a product or service of that country or instrumentality which is covered under the Agreement for procurement by the United States.”
+
+1988—Par. (4)(D). Pub. L. 100–449 added subpar. (D).
+
+1985—Par. (4)(C). Pub. L. 99–47 added subpar. (C).
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in section 3511(d)(17) of this title, enters into force with respect to the United States \[Jan. 1, 1995\], see section 344(a) of Pub. L. 103–465, set out as a note under section 2512 of this title.
+
+#### Effective Date of 1993 Amendment
+
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 381(e) of Pub. L. 103–182, set out as a note under section 2511 of this title.
+
+#### Effective and Termination Dates of 1988 Amendment
+
+Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2515 of this title; title 41 section 10b–1.
+

@@ -1,0 +1,6 @@
+### §2595b. Authorizations of appropriations for On-Site Inspection Agency
+
+There are authorized to be appropriated $49,830,000 for fiscal year 1990 and $48,831,000 for fiscal year 1991 for the expenses of the On-Site Inspection Agency in carrying out on-site inspection activities pursuant to the INF Treaty.
+
+(Pub. L. 87–297, title V, §63, as added Pub. L. 101–216, title II, §201, Dec. 11, 1989, 103 Stat. 1856.)
+

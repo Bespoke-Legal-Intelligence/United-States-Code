@@ -1,0 +1,14 @@
+### §1907. Libraries of executive departments, service academies, and independent agencies constituted depositories; certifications of need; disposal of unwanted publications
+
+The libraries of the executive departments, of the United States Military Academy, of the United States Naval Academy, of the United States Air Force Academy, of the United States Coast Guard Academy, and of the United States Merchant Marine Academy are designated depositories of Government publications. A depository library within each independent agency may be designated upon certification of need by the head of the independent agency to the Superintendent of Documents. Additional depository libraries within executive departments and independent agencies may be designated to receive Government publications to the extent that the number so designated does not exceed the number of major bureaus or divisions of the departments and independent agencies. These designations may be made only after certification by the head of each executive department or independent agency to the Superintendent of Documents as to the justifiable need for additional depository libraries. Depository libraries within executive departments and independent agencies may dispose of unwanted Government publications after first offering them to the Library of Congress and the Archivist of the United States.
+
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1285.)
+
+#### Historical and Revision Notes
+
+Based on 44 U.S. Code, 1964 ed., §87 (Jan. 12, 1895, ch. 23, §98, 28 Stat. 624; Aug. 9, 1962, Pub. L. 87–579, §7, 76 Stat. 355).
+
+#### Archivist of the United States
+
+References to Archivist of the United States deemed to refer to Archivist appointed under section 2103 of this title with respect to functions transferred by Pub. L. 98–497 or an amendment made by Pub. L. 98–497 and exercised after Apr. 1, 1985, see sections 106 and 108 ofPub. L. 98–497, set out as notes under section 2102 of this title.
+

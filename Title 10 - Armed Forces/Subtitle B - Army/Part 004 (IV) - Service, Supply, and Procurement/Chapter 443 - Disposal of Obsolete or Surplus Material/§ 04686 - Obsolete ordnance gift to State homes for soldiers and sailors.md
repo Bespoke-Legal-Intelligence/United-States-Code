@@ -1,0 +1,36 @@
+### §4686 . Obsolete ordnance: gift to State homes for soldiers and sailors
+
+Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of the Army may give not more than two obsolete bronze or iron cannons suitable for firing salutes to any home for soldiers or sailors established and maintained under State authority.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 263; Dec. 12, 1980, Pub. L. 96–513, title V, §512(19), 94 Stat. 2930.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+4686
+
+50:66.
+
+Feb. 8, 1889, ch. 116, 25 Stat. 657; Oct. 31, 1951, ch. 654, §2(27), 65 Stat. 707.
+
+&nbsp;
+
+Mar. 3, 1899, ch. 423 (1st proviso under “Ordnance Department”), 30 Stat. 1073; May 26, 1900, ch. 586 (1st proviso under “Ordnance Department”), 31 Stat. 216; June 28, 1950, ch. 383, §402(e), 64 Stat. 273.
+
+#### Amendments
+
+1980—Pub. L. 96–513 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” for “section 486 of title 40”.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 18 section 921; title 26 section 5845.
+

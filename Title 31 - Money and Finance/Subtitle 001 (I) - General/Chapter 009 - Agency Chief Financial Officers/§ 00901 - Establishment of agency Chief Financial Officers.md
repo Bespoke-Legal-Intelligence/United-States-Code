@@ -1,0 +1,134 @@
+### §901. Establishment of agency Chief Financial Officers
+
+(a) There shall be within each agency described in subsection (b) an agency Chief Financial Officer. Each agency Chief Financial Officer shall—
+
+&emsp;(1) for those agencies described in subsection (b)(1)—
+
+&emsp;&emsp;(A) be appointed by the President, by and with the advice and consent of the Senate; or
+
+&emsp;&emsp;(B) be designated by the President, in consultation with the head of the agency, from among officials of the agency who are required by law to be so appointed;
+
+&emsp;(2) for those agencies described in subsection (b)(2)—
+
+&emsp;&emsp;(A) be appointed by the head of the agency;
+
+&emsp;&emsp;(B) be in the competitive service or the senior executive service; and
+
+&emsp;&emsp;(C) be career appointees; and
+
+&emsp;(3) be appointed or designated, as applicable, from among individuals who possess demonstrated ability in general management of, and knowledge of and extensive practical experience in financial management practices in large governmental or business entities.
+
+(b)(1) The agencies referred to in subsection (a)(1) are the following:
+
+&emsp;(A) The Department of Agriculture.
+
+&emsp;(B) The Department of Commerce.
+
+&emsp;(C) The Department of Defense.
+
+&emsp;(D) The Department of Education.
+
+&emsp;(E) The Department of Energy.
+
+&emsp;(F) The Department of Health and Human Services.
+
+&emsp;(G) The Department of Housing and Urban Development.
+
+&emsp;(H) The Department of the Interior.
+
+&emsp;(I) The Department of Justice.
+
+&emsp;(J) The Department of Labor.
+
+&emsp;(K) The Department of State.
+
+&emsp;(L) The Department of Transportation.
+
+&emsp;(M) The Department of the Treasury.
+
+&emsp;(N) The Department of Veterans Affairs.
+
+&emsp;(O) The Environmental Protection Agency.
+
+&emsp;(P) The National Aeronautics and Space Administration.
+
+(2) The agencies referred to in subsection (a)(2) are the following:
+
+&emsp;(A) The Agency for International Development.
+
+&emsp;(B) The Federal Emergency Management Agency.
+
+&emsp;(C) The General Services Administration.
+
+&emsp;(D) The National Science Foundation.
+
+&emsp;(E) The Nuclear Regulatory Commission.
+
+&emsp;(F) The Office of Personnel Management.
+
+&emsp;(G) The Small Business Administration.
+
+&emsp;(H) The Social Security Administration.
+
+(Added Pub. L. 101–576, title II, §205(a), Nov. 15, 1990, 104 Stat. 2842; amended Pub. L. 103–296, title I, §108(j)(1), Aug. 15, 1994, 108 Stat. 1488.)
+
+#### Amendments
+
+1994—Subsec. (b)(2)(H). Pub. L. 103–296 added subpar. (H).
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
+
+#### Chief Financial Officers of Department of Veterans Affairs and Department of Housing and Urban Development
+
+Section 205(c)(1) of Pub. L. 101–576 provided that: “The Secretary of Veterans Affairs and the Secretary of Housing and Urban Development may each designate as the agency Chief Financial Officer of that department for purposes of section 901 of title 31, United States Code, as amended by this section, the officer designated, respectively, under section 4(c) of the Department of Veterans Affairs Act (38 U.S.C. 201 note) and section 4(e) of the Department of Housing and Urban Development Act (42 U.S.C. 3533(e)), as in effect before the effective date of this Act \[Nov. 15, 1990\].”
+
+#### Transfer of Functions and Personnel of Agency Chief Financial Officers
+
+Section 206 of Pub. L. 101–576 provided that:
+
+“(a)
+
+Agency Reviews of Financial Management Activities.—Not later than 120 days after the date of the enactment of this Act \[Nov. 15, 1990\], the Director of the Office of Management and Budget shall require each agency listed in subsection (b) of section 901 of title 31, United States Code, as amended by this Act, to conduct a review of its financial management activities for the purpose of consolidating its accounting, budgeting, and other financial management activities under the agency Chief Financial Officer appointed under subsection (a) of that section for the agency.
+
+“(b)
+
+Reorganization Proposal.—Not later than 120 days after the issuance of requirements under subsection (a) and subject to all laws vesting functions in particular officers and employees of the United States,the head of each agency shall submit to the Director of the Office of Management and Budget a proposal for reorganizing the agency for the purposes of this Act \[see Short Title of 1990 Amendment note set out under section 501 of this title\]. Such proposal shall include—
+
+&emsp;“(1) a description of all functions, powers, duties, personnel, property, or records which the agency Chief Financial Officer is proposed to have authority over, including those relating to functions that are not related to financial management activities; and
+
+&emsp;“(2) a detailed outline of the administrative structure of the office of the agency Chief Financial Officer, including a description of the responsibility and authority of financial management personnel and resources in agencies or other subdivisions as appropriate to that agency.
+
+“(c)
+
+Review and Approval of Proposal.—Not later than 60 days after receiving a proposal from the head of an agency under subsection (b), the Director of the Office of Management and Budget shall approve or disapprove the proposal and notify the head of the agency of that approval or disapproval. The Director shall approve each proposal which establishes an agency Chief Financial Officer in conformance with section 901 of title 31, United States Code, as added by this Act, and which establishes a financial management structure reasonably tailored to the functions of the agency. Upon approving or disapproving a proposal of an agency under this section, the Director shall transmit to the head of the agency a written notice of that approval or disapproval.
+
+“(d)
+
+Implementation of Proposal.—Upon receiving written notice of approval of a proposal under this section from the Director of the Office of Management and Budget, the head of an agency shall implement that proposal.”
+
+#### Chief Financial Officers Council
+
+Section 302 of Pub. L. 101–576 provided that:
+
+“(a)
+
+Establishment.—There is established a Chief Financial Officers Council, consisting of—
+
+&emsp;“(1) the Deputy Director for Management of the Office of Management and Budget, who shall act as chairperson of the council;
+
+&emsp;“(2) the Controller of the Office of Federal Financial Management of the Office of Management and Budget;
+
+&emsp;“(3) the Fiscal Assistant Secretary of Treasury; and
+
+&emsp;“(4) each of the agency Chief Financial Officers appointed under section 901 of title 31, United States Code, as amended by this Act.
+
+“(b)
+
+Functions.—The Chief Financial Officers Council shall meet periodically to advise and coordinate the activities of the agencies of its members on such matters as consolidation and modernization of financial systems, improved quality of financial information, financial data and information standards, internal controls, legislation affecting financial operations and organizations, and any other financial management matter.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 503, 903, 3515 of this title; title 42 section 902.
+

@@ -1,0 +1,30 @@
+### §2111. Special maritime and territorial jurisdiction
+
+Whoever, within the special maritime and territorial jurisdiction of the United States, by force and violence, or by intimidation, takes or attempts to take from the person or presence of another anything of value, shall be imprisoned not more than fifteen years.
+
+(June 25, 1948, ch. 645, 62 Stat. 796; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320903(a)(1), 108 Stat. 2124.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §463 (Mar. 4, 1909, ch. 321, §284, 35 Stat. 1144).
+
+Words “within the special maritime and territorial jurisdiction of the United States” were added to restrict the place of the offense to those places described in section 451 of title 18, U.S.C., 1940 ed., now section 7 of this title.
+
+Minor changes were made in phraseology.
+
+#### Amendments
+
+1994—Pub. L. 103–322 inserted “or attempts to take” after “takes”.
+
+#### Cross References
+
+Actions aboard aircraft in special aircraft jurisdiction of United States in violation of this section punishable as provided herein, see section 46506 of Title 49, Transportation.
+
+Definition, see section 7 of this title.
+
+High seas, citizens as pirates, see section 1652 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3559, 5032 of this title; title 49 section 46506.
+

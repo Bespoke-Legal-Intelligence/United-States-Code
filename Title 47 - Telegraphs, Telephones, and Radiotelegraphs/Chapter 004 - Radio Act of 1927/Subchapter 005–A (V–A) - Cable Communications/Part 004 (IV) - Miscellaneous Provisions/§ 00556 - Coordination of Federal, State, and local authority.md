@@ -1,0 +1,24 @@
+### §556. Coordination of Federal, State, and local authority
+
+#### (a) Regulation by States, political subdivisions, State and local agencies, and franchising authorities
+
+Nothing in this subchapter shall be construed to affect any authority of any State, political subdivision, or agency thereof, or franchising authority, regarding matters of public health, safety, and welfare, to the extent consistent with the express provisions of this subchapter.
+
+#### (b) State jurisdiction with regard to cable services
+
+Nothing in this subchapter shall be construed to restrict a State from exercising jurisdiction with regard to cable services consistent with this subchapter.
+
+#### (c) Preemption
+
+Except as provided in section 557 of this title, any provision of law of any State, political subdivision, or agency thereof, or franchising authority, or any provision of any franchise granted by such authority, which is inconsistent with this chapter shall be deemed to be preempted and superseded.
+
+#### (d) “State” defined
+
+For purposes of this section, the term “State” has the meaning given such term in section 153(v) of this title.
+
+(June 19, 1934, ch. 652, title VI, §636, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2800.)
+
+#### Effective Date
+
+Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
+

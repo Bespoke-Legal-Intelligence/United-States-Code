@@ -1,0 +1,14 @@
+### §450y–3. Construction of fences
+
+In the administration of the memorial area the Secretary shall not permit the construction of fences except (a) along the international boundary, (b) beside memorial roads or approach roads, and (c) around memorial areas within which improvements have been located by the National Park Service: <i>Provided</i>, That any roads constructed within the memorial area by the National Park Service shall include necessary cattle underpasses properly located for the passage of cattle across such roads: <i>And provided further</i>, That the right to the exclusive beneficial consumptive use for stock watering purposes of any water heretofore developed or used for such purposes within the memorial area shall remain in the present holders thereof, their heirs, assigns, successors, and administrators, so long as such water continues to be used exclusively for such purposes: <i>And provided further</i>, That nothing in sections 450y to 450y–4 of this title shall be construed to alter or affect any water right in the State of Arizona or the jurisdiction of said State over its waters: <i>And provided further</i>, That neither roads nor public campgrounds shall be constructed by the National Park Service within the south half southwest quarter of said section 10.
+
+(Aug. 18, 1941, ch. 365, §4, 55 Stat. 631.)
+
+#### Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2,eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 450y–1, 450y–2, 450y–5, 450y–6 of this title.
+

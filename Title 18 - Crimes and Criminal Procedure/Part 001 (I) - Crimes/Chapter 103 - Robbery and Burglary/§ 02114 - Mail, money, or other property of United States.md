@@ -1,0 +1,44 @@
+### §2114. Mail, money, or other property of United States
+
+(a)
+
+Assault.—A person who assaults any person having lawful charge, control, or custody of any mail matter or of any money or other property of the United States, with intent to rob, steal, or purloin such mail matter, money, or other property of the United States, or robs or attempts to rob any such person of mail matter, or of any money, or other property of the United States, shall, for the first offense, be imprisoned not more than ten years; and if in effecting or attempting to effect such robbery he wounds the person having custody of such mail, money, or other property of the United States, or puts his life in jeopardy by the use of a dangerous weapon, or for a subsequent offense, shall be imprisoned not more than twenty-five years.
+
+(b)
+
+Receipt, Possession, Concealment, or Disposal of Property.—A person who receives, possesses, conceals, or disposes of any money or other property that has been obtained in violation of this section, knowing the same to have been unlawfully obtained, shall be imprisoned not more than 10 years, fined under this title, or both.
+
+(June 25, 1948, ch. 645, 62 Stat. 797; Oct. 12, 1984, Pub. L. 98–473, title II, §223(d), 98 Stat. 2028; Nov. 29, 1990, Pub. L. 101–647, title XXXV, §3562, 104 Stat. 4927; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §§320602, 320903(a)(3), 108 Stat. 2115, 2124.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §320 (Mar. 4, 1909, ch. 321, §197, 35 Stat. 1126; Aug. 26, 1935, ch. 694, 49 Stat. 867).
+
+The attention of Congress is directed to the mandatory minimum punishment provisions of sections 2113(e) and 2114 of this title. These were left unchanged because of the controversial question involved. Such legislative attempts to control the discretion of the sentencing judge are contrary to the opinions of experienced criminologists and criminal law experts. They are calculated to work manifest injustice in many cases.
+
+Minor changes were made in phraseology.
+
+#### Amendments
+
+1994—Pub. L. 103–322, §320903(a)(3), inserted “or attempts to rob” after “robs” in subsec. (a).
+
+Pub. L. 103–322, §320602, designated existing provisions as subsec. (a), inserted heading, directed the substitution of “A person who” for “whoever”, which was executed by making the substitution for “Whoever” to reflect the probable intent of Congress, and added subsec. (b).
+
+1990—Pub. L. 101–647 inserted a comma after “money” in section catchline.
+
+1984—Pub. L. 98–473, which directed insertion of “not more than” after “imprisoned”, was executed by making the insertion after “imprisoned” the second time appearing.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
+
+#### Cross References
+
+Temporarily employed messengers as employees of the postal service or carriers with custody, see section 1008 of Title 39, Postal Service.
+
+Theft of mail matter, see section 1708 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1956 of this title; title 39 section 1008.
+

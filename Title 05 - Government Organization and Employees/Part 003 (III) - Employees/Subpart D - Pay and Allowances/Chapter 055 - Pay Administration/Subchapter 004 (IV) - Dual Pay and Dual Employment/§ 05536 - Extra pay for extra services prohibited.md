@@ -1,0 +1,56 @@
+### §5536. Extra pay for extra services prohibited
+
+An employee or a member of a uniformed service whose pay or allowance is fixed by statute or regulation may not receive additional pay or allowance for the disbursement of public money or for any other service or duty, unless specifically authorized by law and the appropriation therefor specifically states that it is for the additional pay or allowance.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 484.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 51.
+
+R.S. §170.
+
+5 U.S.C. 69 (less 1st 34 words).
+
+R.S. §1764 (less 1st 34 words).
+
+5 U.S.C. 70.
+
+R.S. §1765.
+
+5 U.S.C. 71.
+
+June 20, 1874, ch. 328, §3, 18 Stat. 109.
+
+&nbsp;
+
+Sept. 3, 1954, ch. 1263, §7, 68 Stat. 1228.
+
+Sections are consolidated as R.S. §1765 includes the scope of R.S. §170, R.S. §1764, and the Act of June 20, 1874, as amended. So much of R.S. §1764 as relates to details is covered by section 5535.
+
+R.S. §170 was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, §201(d), as added Aug. 10, 1949, ch. 412, §4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act \[National Security Act of 1947\], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from his title but is not repealed.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Cross References
+
+Allowance of living quarters, including heat, fuel, and light, to employees having permanent stations in a foreign country, see section 5912 of this title, and section 291 of Title 22, Foreign Relations and Intercourse.
+
+Authorization and payment of benefits to employees detailed to international organizations deemed to comply with this section, see section 3343 of this title.
+
+Time limitation on claims against Government employees who received dual compensation in violation of the dual compensation laws, see section 3712 of Title 31, Money and Finance.
+
+Dual employment and extra duties imposed by Postmaster General, compensation without regard to this section, see section 1001 of Title 39, Postal Service.
+
+Peace Corps program, benefits of personnel detailed to foreign governments or international organizations as meeting requirements of this section, see section 2513 of Title 22, Foreign Relations and Intercourse.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5942a of this title; title 22 sections 3971, 4085, 6104; title 39 section 1001; title 50 section 403e–1.
+

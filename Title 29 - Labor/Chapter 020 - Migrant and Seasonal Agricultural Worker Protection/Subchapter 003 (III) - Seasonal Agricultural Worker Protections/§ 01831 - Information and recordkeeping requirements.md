@@ -1,0 +1,66 @@
+### §1831. Information and recordkeeping requirements
+
+#### (a) Written disclosure requirements imposed upon recruiters
+
+(1) Each farm labor contractor, agricultural employer, and agricultural association which recruits any seasonal agricultural worker (other than day-haul workers described in section 1802(10)(A)(ii) of this title) shall ascertain and, upon request, disclose in writing the following information when an offer of employment is made to such worker:
+
+&emsp;(A) the place of employment;
+
+&emsp;(B) the wage rates to be paid;
+
+&emsp;(C) the crops and kinds of activities on which the worker may be employed;
+
+&emsp;(D) the period of employment;
+
+&emsp;(E) the transportation and any other employee benefit to be provided, if any, and any costs to be charged for each of them;
+
+&emsp;(F) the existence of any strike or other concerted work stoppage, slowdown, or interruption of operations by employees at the place of employment; and
+
+&emsp;(G) the existence of any arrangements with any owner or agent of any establishment in the area of employment under which the farm labor contractor, the agricultural employer, or the agricultural association is to receive a commission or any other benefit resulting from any sales by such establishment to the workers.
+
+(2) Each farm labor contractor, agricultural employer, and agricultural association which recruits seasonal agricultural workers through use of a day-haul operation described in section 1802(10)(A)(ii) of this title shall ascertain and disclose in writing to the worker at the place of recruitment the information described in paragraph (1).
+
+#### (b) Posting requirements imposed upon employers
+
+Each farm labor contractor, agricultural employer, and agricultural association which employs any seasonal agricultural worker shall, at the place of employment, post in a conspicuous place a poster provided by the Secretary setting forth the rights and protections afforded such workers under this chapter, including the right of a seasonal agricultural worker to have, upon request, a written statement provided by the farm labor contractor, agricultural employer, or agricultural association, of the information described in subsection (a) of this section. Such employer shall provide, upon request, a written statement of the information described in subsection (a) of this section.
+
+#### (c) Recordkeeping and information requirements imposed upon employers
+
+Each farm labor contractor, agricultural employer, and agricultural association which employs any seasonal agricultural worker shall—
+
+&emsp;(1) with respect to each such worker, make, keep, and preserve records for three years of the following information:
+
+&emsp;&emsp;(A) the basis on which wages are paid;
+
+&emsp;&emsp;(B) the number of piecework units earned, if paid on a piecework basis;
+
+&emsp;&emsp;(C) the number of hours worked;
+
+&emsp;&emsp;(D) the total pay period earnings;
+
+&emsp;&emsp;(E) the specific sums withheld and the purpose of each sum withheld; and
+
+&emsp;&emsp;(F) the net pay; and
+
+&emsp;(2) provide to each such worker for each pay period, an itemized written statement of the information required by paragraph (1) of this subsection.
+
+#### (d) Furnishing of records by farm labor contractor; maintenance of records by recipient
+
+(1) <sup>1</sup> Each farm labor contractor shall provide to any other farm labor contractor and to any agricultural employer and agricultural association to which such farm labor contractor has furnished seasonal agricultural workers, copies of all records with respect to each such worker which such farm labor contractor is required to retain by subsection (c)(1) of this section. The recipient of these records shall keep them for a period of three years from the end of the period of employment.
+
+#### (e) Prohibition on knowingly providing false or misleading information to workers
+
+No farm labor contractor, agricultural employer, or agricultural association shall knowingly provide false or misleading information to any seasonal agricultural worker concerning the terms, conditions, or existence of agricultural employment required to be disclosed by subsection (a), (b), or (c) of this section.
+
+#### (f) Form and language requirements
+
+The information required to be disclosed by subsections (a) and (b) of this section to seasonal agricultural workers shall be provided in written form. Such information shall be provided in English or, as necessary and reasonable, in Spanish or other language common to seasonal agricultural workers who are not fluent or literate in English. The Department of Labor shall make forms available in English, Spanish, and other languages, as necessary, which may be used in providing workers with information required under this section.
+
+(Pub. L. 97–470, title III, §301, Jan. 14, 1983, 96 Stat. 2592.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1843 of this title.
+
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
+

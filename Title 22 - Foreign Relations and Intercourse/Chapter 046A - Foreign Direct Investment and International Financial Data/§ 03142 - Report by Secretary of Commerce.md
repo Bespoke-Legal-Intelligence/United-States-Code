@@ -1,0 +1,60 @@
+### §3142. Report by Secretary of Commerce
+
+#### (a) Annual report on foreign direct investment in United States
+
+Not later than 6 months after November 7, 1990, and not later than the end of each 1-year period occurring thereafter, the Secretary of Commerce shall submit to the Committee on Energy and Commerce, the Committee on Ways and Means, and the Committee on Foreign Affairs of the House of Representatives, to the Committee on Commerce, Science, and Transportation of the Senate, and to the Joint Economic Committee of the Congress a report on the role and significance of foreign direct investment in the United States. Such report shall address the history, scope, trends, market concentrations, and effects on the United States economy of such investment. In addition, the Secretary of Commerce shall, if requested by any such committee, appear before that committee to provide testimony with respect to any report under this subsection.
+
+#### (b) Sources of data
+
+In preparing each report under subsection (a) of this section, the Secretary of Commerce, or the Secretary's designees, shall consider information collected by—
+
+&emsp;(1) the Bureau of Economic Analysis under the International Investment and Trade in Services Survey Act (22 U.S.C. 3101 and following);
+
+&emsp;(2) the Bureau of the Census on industry, manufacturing, research and development, and trade, under title 13;
+
+&emsp;(3) the Bureau of Labor Statistics pertaining to information collected under the International Investment and Trade in Services Survey Act, but only to the extent that such information is in a form that cannot be associated with, or otherwise identify, directly or indirectly, a person, including any enterprise or establishment;
+
+&emsp;(4) the Secretary of Commerce or the Secretary's designee pursuant to section 2 of Executive Order 11858 of May 7, 1975;
+
+&emsp;(5) the United States Department of Agriculture under the Agricultural Foreign Investment Disclosure Act of 1978 (7 U.S.C. 3501 and following);
+
+&emsp;(6) the Department of the Treasury under section 6039C of title 26, but only to the extent that such information is in a form that cannot be associated with, or otherwise identify, directly or indirectly, a person, including any enterprise or establishment;
+
+&emsp;(7) the Department of Energy under section 7267(8) of title 42, but only to the extent that such information is in a form that cannot be associated with, or otherwise identify, directly or indirectly, a person, including any enterprise or establishment;
+
+&emsp;(8) other Federal agencies not referred to in paragraphs (1) through (7), but only to the extent that such information is in a form that cannot be associated with, or otherwise identify, directly or indirectly, a person, including any enterprise or establishment;
+
+&emsp;(9) foreign governments and agencies thereof; and
+
+&emsp;(10) private sector sources.
+
+#### (c) Analyses
+
+(1) The analysis in each report prepared under subsection (a) of this section shall, to the extent of available data, compare business enterprises controlled by foreign persons with other business enterprises in the United States with respect to employment, market share, value added, productivity, research and development, exports, imports, profitability, taxes paid, and investment incentives and services provided by State and local governments (including quasi-governmental entities).
+
+(2) Each such analysis shall be done by significant industry sectors and geographical regions, except that information shall not be presented in a way in which any person, including any business enterprise or establishment, can be identified. The restriction contained in the preceding sentence on presentation of information does not apply to information that is obtained from foreign governments or agencies thereof and that has been published pursuant to the lawful disclosure of the information. To the extent that data are available, each such analysis shall include an analysis, together with current levels and trends, of the number and market share of business enterprises at least 10 percent of the voting securities or other evidences of ownership of which are owned or controlled by a foreign person, and of the number and market share of the establishments of such business enterprises, that are engaged substantially in the production or coproduction of any critical technologies included in the most recent plan submitted to the Congress under section 2506 of title 10 or included in the most recent report submitted to the President under section 6683 of title 42.
+
+(Pub. L. 101–533, §3, Nov. 7, 1990, 104 Stat. 2344; Pub. L. 102–484, div. A, title X, §1054(f), Oct. 23, 1992, 106 Stat. 2503; Pub. L. 103–160, div. A, title XI, §1182(d)(2), Nov. 30, 1993, 107 Stat. 1773.)
+
+#### References in Text
+
+The International Investment and Trade in Services Survey Act, referred to in subsec. (b)(1), (3), is Pub. L. 94–472, Oct. 11, 1976, 90 Stat. 2059, as amended, which is classified generally to chapter 46 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+
+Executive Order 11858, referred to in subsec. (b)(4), is set out as a note under section 78b of Title 15, Commerce and Trade.
+
+The Agricultural Foreign Investment Disclosure Act of 1978, referred to in subsec. (b)(5), is Pub. L. 95–460, Oct. 14, 1978, 92 Stat. 1263, which is classified generally to chapter 66 (§3501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of Title 7 and Tables.
+
+#### Amendments
+
+1993—Subsec. (c)(2). Pub. L. 103–160 substituted “section 2506” for “section 2522”.
+
+1992—Subsec. (c)(2). Pub. L. 102–484 substituted “section 2522” for “section 2368”.
+
+#### Change of Name
+
+Committees on Energy and Commerce and Foreign Affairs of House of Representatives changed to Committees on Commerce and International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3143 of this title.
+

@@ -1,0 +1,54 @@
+### §1718. Distribution of Government publications to the Library of Congress
+
+There shall be printed and furnished to the Library of Congress for official use in the District of Columbia not to exceed twenty-five copies of:
+
+&emsp;House documents and reports, bound;
+
+&emsp;Senate documents and reports, bound;
+
+&emsp;Senate and House journals, bound;
+
+&emsp;public bills and resolutions;
+
+&emsp;the United States Code and supplements, bound; and
+
+&emsp;all other publications and maps which are printed, or otherwise reproduced, under authority of law, upon the requisition of a Congressional committee, executive department, bureau, independent office, establishment, commission, or officer of the Government.
+
+Confidential matter, blank forms, and circular letters not of a public character shall be excepted.
+
+In addition, there shall be delivered as printed to the Library of Congress:
+
+&emsp;ten copies of each House document and report, unbound;
+
+&emsp;ten copies of each Senate document and report, unbound; and
+
+&emsp;ten copies of each private bill and resolution and fifty copies of the laws in slip form.
+
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1282; Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189.)
+
+#### Historical and Revision Notes
+
+Based on 44 U.S. Code, 1964 ed., §139 (Jan. 28, 1899, No. 12, 30 Stat. 1388; Mar. 2, 1901, No. 16, §§1, 2, 31 Stat. 1464; June 20, 1936, ch. 630, title IV, §6, 49 Stat. 1550).
+
+Reference to the Official Register is omitted as obsolete. The authorization for its compilation was repealed by Public Law 88–626.
+
+#### Codification
+
+The 1982 amendment by Pub. L. 97–276 is based on section 305(a) of S. 2939, Ninety-seventh Congress, 2d Session, as reported Sept. 22, 1982, and incorporated by reference in section 101(e) of Pub. L. 97–276, to be effective as if enacted into law.
+
+#### Amendments
+
+1982—Pub. L. 97–276 substituted “not to exceed twenty-five copies of” for “, and for international exchange as provided by section 1719 of this title, not to exceed one hundred and fifty copies of”.
+
+#### Cross References
+
+American Printing House for the Blind, books for Library of Congress, see section 105 of Title 20, Education.
+
+United States Geological Survey reports, distribution of two additional copies to the Library of Congress, see section 1318 of this title.
+
+House and Senate documents and reports, distribution to the Library of Congress, see section 701 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 701, 906 of this title.
+

@@ -1,0 +1,26 @@
+### §1579. Fish and wildlife habitat; mitigation of losses
+
+Effective October 1, 1979, and to such extent and in such amounts as are provided in advance in appropriate <sup>1</sup> Acts, in order to provide measures determined by the Secretary of the Interior to be appropriated to mitigate loss of fish and wildlife habitat associated with other measures taken under this subchapter:
+
+#### (a) Appropriation of funds; acquisition and disposal of lands; facilities undertakings; funds restriction for non-Federal facilities
+
+&emsp;The Secretary is authorized to—
+
+&emsp;&emsp;(1) acquire lands by purchase, eminent domain, or exchange;
+
+&emsp;&emsp;(2) dispose of land, facilities, and equipment;
+
+&emsp;&emsp;(3) construct, operate, maintain, and make replacements of facilities: <i>Provided, however</i>, That no funds will be provided for operation, maintenance, or replacement of non-Federal facilities.
+
+#### (b) Nonreimbursable costs
+
+&emsp;All costs authorized by this section are nonreimbursable.
+
+(Pub. L. 93–320, title I, §110, as added Pub. L. 96–336, §6, Sept. 4, 1980, 94 Stat. 1064.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1578 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “appropriation”.</i>
+

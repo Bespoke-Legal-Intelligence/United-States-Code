@@ -1,0 +1,60 @@
+### §1152. Assistance to eligible members and former members to obtain employment with law enforcement agencies
+
+(a)
+
+Placement Program.—The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, may enter into an agreement with the Attorney General to establish or participate in a program to assist eligible members and former members of thearmed forces to obtain employment as law enforcement officers with eligible law enforcement agencies following the discharge or release of such members or former members from active duty. Eligible law enforcement agencies shall consist of State law enforcement agencies, local law enforcement agencies, and Indian tribes that perform law enforcement functions (as determined by the Secretary of the Interior).
+
+(b)
+
+Eligible Members.—Any individual who, during the 6-year period beginning on October 1, 1993, is a member of the armed forces and is separated with an honorable discharge or is released from service on active duty characterized as honorable by the Secretary concerned shall be eligible to participate in a program covered by an agreement referred to in subsection (a).
+
+(c)
+
+Selection.—In the selection of applicants for participation in a program covered by an agreement referred to in subsection (a), preference shall be given to a member or former member who—
+
+&emsp;(1) is selected for involuntary separation, is approved for separation under section 1174a or 1175 of this title, or retires pursuant to the authority provided in section 4403 of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division D of Public Law 102–484; 10 U.S.C. 1293 note); and
+
+&emsp;(2) has a military occupational specialty, training, or experience related to law enforcement (such as service as a member of the military police) or satisfies such other criteria for selection as the Secretary, the Attorney General, or a participating eligible law enforcement agency prescribed in accordance with the agreement.
+
+(d)
+
+Grants To Facilitate Employment.—(1) The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, may provide funds to the Attorney General for grants under this section to reimburse participating eligible law enforcement agencies for costs, including salary and fringe benefits, of employing members or former members pursuant to a program referred to in subsection (a).
+
+(2) No grant with respect to an eligible member or former member may exceed a total of $50,000.
+
+(3) Any grant with respect to an eligible member or former member shall be disbursed within 5 years after the date of the placement of a member or former member with a participating eligible law enforcement agency.
+
+(4) Preference in awarding grants through existing law enforcement hiring programs shall be given to State or local law enforcement agencies or Indian tribes that agree to hire eligible members and former members.
+
+(e)
+
+Administrative Expenses.—Ten percent of the amount, if any, appropriated for a fiscal year to carry out the program established pursuant to subsection (a) may be used to administer the program.
+
+(f)
+
+Requirement for Appropriation.—No person may be selected to participate in the program established pursuant to subsection (a) unless a sufficient amount of appropriated funds is available at the time of the selection to satisfy the obligations to be incurred by the United States under an agreement referred to in subsection (a) that applies with respect to the person.
+
+(g)
+
+Conditional Expansion of Placement to Include Firefighters.—(1) Subject to paragraph (2), the Secretary may expand the placement activities authorized by subsection (a) to include the placement of eligible members and former members and eligible civilian employees of the Department of Defense as firefighters or members of rescue squads or ambulance crews with public fire departments.
+
+(2) The Secretary may implement the expansion authorized by this subsection only if the Secretary certifies to Congress not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995 that such expansion will facilitate personnel transition programs of the Department of Defense. The expansion may be made through a program covered by an agreement referred to in subsection (a), if feasible, or in such other manner as the Secretary considers appropriate.
+
+(3) A civilian employee of the Department of Defense shall be eligible to participate in the expanded placement activities authorized under this subsection if the employee, during the six-year period beginning October 1, 1993, is terminated from such employment as a result of reductions in defense spending or the closure or realignment of a military installation, as determined by the Secretary of Defense.
+
+(Added Pub. L. 103–160, div. A, title XIII, §1332(a), Nov. 30, 1993, 107 Stat. 1793; amended Pub. L. 103–337, div. A, title V, §543(d), title XI, §1132(a)(1), Oct. 5, 1994, 108 Stat. 2771, 2872.)
+
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 1995, referred to in subsec. (g)(2), is the date of enactment of Pub. L. 103–337, which was approved Oct. 5, 1994.
+
+#### Amendments
+
+1994—Pub. L. 103–337, §543(d), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense” in subsecs. (a) and (d).
+
+Pub. L. 103–337, §1132(a)(1), substituted “eligible members and former members” for “separated members” in section catchline and amended text generally, substituting subsecs. (a) to (g) for former subsecs. (a) to (f).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1142 of this title.
+

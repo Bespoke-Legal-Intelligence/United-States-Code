@@ -1,0 +1,62 @@
+### §1972. Action by Secretary of State upon seizure of vessel by foreign country; preconditions
+
+If—
+
+&emsp;(1) any vessel of the United States is seized by a foreign country on the basis of claims to jurisdiction that are not recognized by the United States, or on the basis of claims to jurisdiction recognized by the United States but exercised in a manner inconsistent with international law as recognized by the United States; <sup>1</sup>
+
+&emsp;(2) any general claim of any foreign country to exclusive fishery management authority is recognized by the United States, and any vessel of the United States is seized by such foreign country on the basis of conditions and restrictions under such claim, if such conditions and restrictions—
+
+&emsp;&emsp;(A) are unrelated to fishery conservation and management,
+
+&emsp;&emsp;(B) fail to consider and take into account traditional fishing practices of vessels of the United States,
+
+&emsp;&emsp;(C) are greater or more onerous than the conditions and restrictions which the United States applies to foreign fishing vessels subject to the exclusive fishery management authority of the United States (as established in title I of the Magnuson Fishery Conservation and Management Act \[16 U.S.C. 1811 et seq.\]), or
+
+&emsp;&emsp;(D) fail to allow fishing vessels of the United States equitable access to fish subject to such country's exclusive fishery management authority;
+
+> the Secretary of State, unless there is clear and convincing credible evidence that the seizure did not meet the requirements under paragraph (1) or (2), as the case may be, shall immediately take such steps as are necessary—
+
+&emsp;(i) for the protection of such vessel and for the health and welfare of its crew;
+
+&emsp;(ii) to secure the release of such vessel and its crew; and
+
+&emsp;(iii) to determine the amount of any fine, license, fee, registration fee, or other direct charge reimbursable under section 1973(a) of this title.
+
+(Aug. 27, 1954, ch. 1018, §2, 68 Stat. 883; Oct. 26, 1972, Pub. L. 92–569, §1, 86 Stat. 1182; Apr. 13, 1976, Pub. L. 94–265, title IV, §403(a)(1), 90 Stat. 360; Dec. 22, 1980, Pub. L. 96–561, title II, §238(b), 94 Stat. 3300; July 17, 1984, Pub. L. 98–364, title III, §303(a), 98 Stat. 444.)
+
+#### References in Text
+
+The Magnuson Fishery Conservation and Management Act, referred to in par. (2)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended. Title I of the Act is classified generally to subchapter II (§1811 et seq.) of chapter 38 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+
+#### Amendments
+
+1984—Pub. L. 98–364, in par. (1), substituted “any vessel of the United States is seized by a foreign countryon the basis of claims to jurisdiction that are not recognized by the United States, or on the basis of claims to jurisdiction recognized by the United States but exercised in a manner inconsistent with international law as recognized by the United States;” for “any vessel of the United States is seized by a foreign country on the basis of claims in territorial waters or the high seas which are not recognized by the United States; or”, and in provisions following par. (2)(D), substituted “the Secretary of State, unless there is clear and convincing credible evidence that the seizure did not meet the requirements under paragraph (1) or (2), as the case may be, shall immediately take such steps as are necessary” for “and there is no dispute as to the material facts with respect to the location or activity of such vessel at the time of such seizure, the Secretary of State shall immediately take such steps as are necessary”.
+
+1980—Par. (2)(C). Pub. L. 96–561 substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
+
+1976—Pub. L. 94–265 redesignated existing subsecs. (a) and (b) as pars. (1) and (2), respectively, and, in par. (1) struck out reference to rights in territorial waters, and in par. (2) substituted provisions relating to any general claim of any foreign country, conditions, and restrictions of seizure, lack of dispute as to material facts, and steps authorized for Secretary of State upon seizure, for provisions relating to lack of dispute as to material facts and actions authorized for Secretary of State upon seizure.
+
+1972—Subsec. (b). Pub. L. 92–569 required the Secretary of State to take appropriate action to immediately ascertain the fees, fines, and other direct charges paid by a United States vessel owner to the seizing foreign country for the release of the vessel and its crew.
+
+#### Effective Date of 1984 Amendment
+
+Section 303(c) of Pub. L. 98–364 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1974 of this title\] apply with respect to seizures made after April 1, 1983, by foreign countries of vessels of the United States.”
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–561 effective 15 days after Dec. 22, 1980, see section 238 of Pub. L. 96–561, set out as a Short Title note under section 1801 of Title 16, Conservation.
+
+#### Effective Date of 1976 Amendment
+
+Section 403(b) of Pub. L. 94–265 provided in part that: “The amendment made by subsection (a)(1) \[amending this section\] shall take effect March 1, 1977.”
+
+#### Effective Date of 1972 Amendment
+
+Section 6 of Pub. L. 92–569 provided that: “The amendments made by this Act \[enacting section 1979 of this title and amending this section and sections 1973, 1975, and 1977 of this title\] shall apply with respect to seizures of vessels of the United States occurring on or after the date of the enactment of this Act \[Oct. 26, 1972\]; except that reimbursements under section 3 of the Fishermen's Protective Act of 1967 \[section 1973 of this title\] (as in effect before such date of enactment \[Oct. 26, 1972\]) may be made from the fund established by the amendment made by section 5 of this Act \[enacting section 1979 of this title\] with respect to any seizure of a vessel occurring before such date of enactment \[Oct. 26, 1972\] and after December 31, 1970, if no reimbursement was made before such date of enactment \[Oct. 26, 1972\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1973, 1977 of this title; title 16 section 973a.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
+

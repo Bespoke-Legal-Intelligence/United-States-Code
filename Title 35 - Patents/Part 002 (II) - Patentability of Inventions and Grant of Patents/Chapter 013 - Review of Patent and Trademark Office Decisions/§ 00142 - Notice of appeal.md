@@ -1,0 +1,36 @@
+### §142. Notice of appeal
+
+When an appeal is taken to the United States Court of Appeals for the Federal Circuit, the appellant shall file in the Patent and Trademark Office a written notice of appeal directed to the Commissioner, within such time after the date of the decision from which the appeal is taken as the Commissioner prescribes, but in no case less than 60 days after that date.
+
+(July 19, 1952, ch. 950, 66 Stat. 802; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949; Apr. 2, 1982, Pub. L. 97–164, title I, §163(a)(7), 96 Stat. 49; Nov. 8, 1984, Pub. L. 98–620, title IV, §414(a), 98 Stat. 3362.)
+
+#### Historical and Revision Notes
+
+Based on Title 35, U.S.C., 1946 ed., §60 (R.S. 4912, amended (1) Mar. 2, 1927, ch. 273, §9, 44 Stat. 1336, (2) Mar. 2, 1929, ch. 488, §2(b), 45 Stat. 1476).
+
+Changes in language are made.
+
+#### Amendments
+
+1984—Pub. L. 98–620 amended section generally, substituting “the appellant shall file in the Patent and Trademark Office a written notice of appeal directed to the Commissioner, within such time after the date of the decision from which the appeal is taken as the Commissioner prescribes, but in no case less than 60 days after that date” for “the appellant shall give notice thereof to the Commissioner, and shall file in the Patent and Trademark Office his reasons of appeal, specifically set forth in writing, within such time after the date of the decision appealed from, not less than sixty days, as the Commissioner appoints”.
+
+1982—Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
+
+1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+
+#### Effective Date of 1984 Amendment
+
+Section 414(c) of Pub. L. 98–620 provided that: “The amendments made by this section \[amending this section, sections 143 and 144 of this title, and section 1071 of Title 15, Commerce and Trade\] shall apply to proceedings pending in the Patent and Trademark Office on the date of the enactment of this Act \[Nov. 8, 1984\] and to appeals pending in the United States Court of Appeals for the Federal Circuit on such date.”
+
+#### Effective Date of 1982 Amendment
+
+Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 1975 Amendment
+
+Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 141, 143, 306 of this title.
+

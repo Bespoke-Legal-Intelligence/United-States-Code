@@ -1,0 +1,54 @@
+### §5312. Annual adjustment of certain benefit rates
+
+(a) Whenever there is an increase in benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) as a result of a determination made under section 215(i) of such Act (42 U.S.C. 415(i)), the Secretary shall, effective on the date of such increase in benefit amounts, increase each maximum annual rate of pension under sections 1521, 1541, and 1542 of this title and the rate of increased pension paid under such sections 1521 and 1541 on account of children, as such rates were in effect immediately prior to the date of such increase in benefit amounts payable under title II of the Social Security Act, by the same percentage as the percentage by which such benefit amounts are increased.
+
+(b)(1) Whenever there is an increase in benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) as a result of a determination made under section 215(i) of such Act (42 U.S.C. 415(i)), the Secretary shall, effective on the date of such increase in benefit amounts, increase the maximum monthly rates of dependency and indemnity compensation for parents payable under subsections (b), (c), and (d), and the monthly rate provided in subsection (g), of section 1315 of this title and the annual income limitations prescribed in subsections (b)(3), (c)(3), and (d)(3) of such section, as such rates and limitations were in effect immediately prior to the date of such increase in benefit amounts payable under title II of the Social Security Act, by the same percentage as the percentage by which such benefit amounts are increased.
+
+(2)(A) Whenever there is an increase under paragraph (1) of this subsection in such rates and annual income limitations, the Secretary shall, effective on the date of such increase in such rates and limitations, adjust (as provided in subparagraph (B) of this paragraph) the rates of dependency and indemnity compensation payable under subsection (b)(1) or (c)(1) of section 1315 of this title to any parent whose annual income is more than $800 but not more than the annual income limitation in effect under subsection (b)(3) or (c)(3) of such section, as appropriate, and adjust the rates of such compensation payable under subsection (d)(1) of such section to any parent whose annual income is more than $1,000 but not more than the annual income limitation in effect under subsection (d)(3) of such section.
+
+(B) The adjustment in rates of dependency and indemnity compensation referred to in subparagraph (A) of this paragraph shall be made by the Secretary in accordance with regulations which the Secretary shall prescribe.
+
+(c)(1) Whenever there is an increase under subsection (a) in benefit rates payable under sections 1521, 1541, and 1542 of this title and an increase under subsection (b) in benefit rates and annual income limitations under section 1315 of this title, the Secretary shall publish such rates and limitations (including those rates adjusted by the Secretary under subsection (b)(2) of this section), as increased pursuant to such subsections, in the Federal Register at the same time as the material required by section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) is published by reason of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
+
+(2) Whenever such rates and income limitations are so increased, the Secretary may round such rates and income limitations in such manner as the Secretary considers equitable and appropriate for ease of administration.
+
+(Added Pub. L. 95–588, title III, §305(a), Nov. 4, 1978, 92 Stat. 2507, §3112; amended Pub. L. 97–295, §4(76), Oct. 12, 1982, 96 Stat. 1311; renumbered §5312, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+
+#### References in Text
+
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### Amendments
+
+1991—Pub. L. 102–40 renumbered section 3112 of this title as this section.
+
+Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1521”, “1541”, and “1542” for “521”, “541”, and 542”, respectively, wherever appearing.
+
+Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+
+Subsec. (b)(1), (2)(A). Pub. L. 102–83, §5(c)(1), substituted “1315” for “415”.
+
+Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+
+Subsec. (b)(2)(B). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+
+Subsec. (c)(1). Pub. L. 102–83, §5(c)(1), substituted “1521”, “1541”, and “1542” for “521”, “541”, and “542”, respectively, and “1315” for “415”.
+
+Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+
+Subsec. (c)(2). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+
+1982—Subsec. (a). Pub. L. 97–295, §4(76)(A), (B), inserted “(42 U.S.C. 401 et seq.)” after first reference to “title II of the Social Security Act”, and inserted “(42 U.S.C. 415(i))” after “section 215(i) of such Act”.
+
+Subsec. (b)(1). Pub. L. 97–295, §4(76)(A)–(C), inserted “(42 U.S.C. 401 et seq.)” after first reference to “title II of the Social Security Act”, inserted “(42 U.S.C. 415(i))” after “section 215(i) of such Act”, and substituted “subsection (g), of section 415 of this title” for “subsection (h), of section 415 of such title”.
+
+Subsec. (c)(1). Pub. L. 97–295, §4(76)(B), (D), inserted “(42 U.S.C. 415(i)(2)(D))” after “section 215(i)(2)(D) of the Social Security Act”, and inserted “(42 U.S.C. 415(i))” after “section 215(i) of such Act”.
+
+#### Effective Date
+
+Section effective Jan. 1, 1979, see section 401 of Pub. L. 95–588, set out as an Effective Date of 1978 Amendment note under section 101 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1315, 1521, 1541, 1542, 1722, 5112 of this title; title 7 section 2014.
+

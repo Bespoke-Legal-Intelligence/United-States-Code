@@ -1,0 +1,142 @@
+### §741. Definitions for this subchapter
+
+In this subchapter—
+
+&emsp;(1) “Commission” means Securities and Exchange Commission;
+
+&emsp;(2) “customer” includes—
+
+&emsp;&emsp;(A) entity with whom a person deals as principal or agent and that has a claim against such person on account of a security received, acquired, or held by such person in the ordinary course of such person's business as a stockbroker, from or for the securities account or accounts of such entity—
+
+&emsp;&emsp;&emsp;(i) for safekeeping;
+
+&emsp;&emsp;&emsp;(ii) with a view to sale;
+
+&emsp;&emsp;&emsp;(iii) to cover a consummated sale;
+
+&emsp;&emsp;&emsp;(iv) pursuant to a purchase;
+
+&emsp;&emsp;&emsp;(v) as collateral under a security agreement; or
+
+&emsp;&emsp;&emsp;(vi) for the purpose of effecting registration of transfer; and
+
+&emsp;&emsp;(B) entity that has a claim against a person arising out of—
+
+&emsp;&emsp;&emsp;(i) a sale or conversion of a security received, acquired, or held as specified in subparagraph (A) of this paragraph; or
+
+&emsp;&emsp;&emsp;(ii) a deposit of cash, a security, or other property with such person for the purpose of purchasing or selling a security;
+
+&emsp;(3) “customer name security” means security—
+
+&emsp;&emsp;(A) held for the account of a customer on the date of the filing of the petition by or on behalf of the debtor;
+
+&emsp;&emsp;(B) registered in such customer's name on such date or in the process of being so registered under instructions from the debtor; and
+
+&emsp;&emsp;(C) not in a form transferable by delivery on such date;
+
+&emsp;(4) “customer property” means cash, security, or other property, and proceeds of such cash, security, or property, received, acquired, or held by or for the account of the debtor, from or for the securities account of a customer—
+
+&emsp;&emsp;(A) including—
+
+&emsp;&emsp;&emsp;(i) property that was unlawfully converted from and that is the lawful property of the estate;
+
+&emsp;&emsp;&emsp;(ii) a security held as property of the debtor to the extent such security is necessary to meet a net equity claim of a customer based on a security of the same class and series of an issuer;
+
+&emsp;&emsp;&emsp;(iii) resources provided through the use or realization of a customer's debit cash balance or a debit item includible in the Formula for Determination of Reserve Requirement for Brokers and Dealers as promulgated by the Commission under the Securities Exchange Act of 1934; and
+
+&emsp;&emsp;&emsp;(iv) other property of the debtor that any applicable law, rule, or regulation requires to be set aside or held for the benefit of a customer, unless including such property as customer property would not significantly increase customer property; but
+
+&emsp;&emsp;(B) not including—
+
+&emsp;&emsp;&emsp;(i) a customer name security delivered to or reclaimed by a customer under section 751 of this title; or
+
+&emsp;&emsp;&emsp;(ii) property to the extent that a customer does not have a claim against the debtor based on such property;
+
+&emsp;(5) “margin payment” means payment or deposit of cash, a security, or other property, that is commonly known to the securities trade as original margin, initial margin, maintenance margin, or variation margin, or as a mark-to-market payment, or that secures an obligation of a participant in a securities clearing agency;
+
+&emsp;(6) “net equity” means, with respect to all accounts of a customer that such customer has in the same capacity—
+
+&emsp;&emsp;(A)(i) aggregate dollar balance that would remain in such accounts after the liquidation, by sale or purchase, at the time of the filing of the petition, of all securities positions in all such accounts, except any customer name securities of such customer; minus
+
+&emsp;&emsp;(ii) any claim of the debtor against such customer in such capacity that would have been owing immediately after such liquidation; plus
+
+&emsp;&emsp;(B) any payment by such customer to the trustee, within 60 days after notice under section 342 of this title, of any business related claim of the debtor against such customer in such capacity;
+
+&emsp;(7) “securities contract” means contract for the purchase, sale, or loan of a security, including an option for the purchase or sale of a security, certificate of deposit, or group orindex of securities (including any interest therein or based on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies, or the guarantee of any settlement of cash or securities by or to a securities clearing agency;
+
+&emsp;(8) “settlement payment” means a preliminary settlement payment, a partial settlement payment, an interim settlement payment, a settlement payment on account, a final settlement payment, or any other similar payment commonly used in the securities trade; and
+
+&emsp;(9) “SIPC” means Securities Investor Protection Corporation.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2611; Pub. L. 97–222, §8, July 27, 1982, 96 Stat. 237; Pub. L. 98–353, title III, §482, July 10, 1984, 98 Stat. 382; Pub. L. 103–394, title V, §501(d)(25), Oct. 22, 1994, 108 Stat. 4146.)
+
+#### Historical and Revision Notes
+
+I74legislative statements
+
+Section 741(6) of the House bill and Senate amendment is deleted by the House amendment since the defined term is used only in section 741(4)(A)(iii). A corresponding change is made in that section.
+
+#### senate report no. 95–989
+
+Section 741 sets forth definitions for subchapter III of chapter 7.
+
+Paragraph (1) defines “Commission” to mean the Securities and Exchange Commission.
+
+Paragraph (2) defines “customer” to include anybody that interacts with the debtor in a capacity that concerns securities transactions. The term embraces cash or margin customers of a broker or dealer in the broadest sense.
+
+Paragraph (3) defines “customer name security” in a restrictive fashion to include only non-transferable securities that are registered, or in the process of being registered in a customer's own name. The securities must not be endorsed by the customer and the stockbroker must not be able to legally transfer the securities by delivery, by a power of attorney, or otherwise.
+
+Paragraph (4) defines “customer property” to include all property of the debtor that has been segregated for customers or property that should have been segregated but was unlawfully converted. Clause (i) refers to customer property not properly segregated by the debtor or customer property converted and then recovered so as to become property of the estate. Unlawfully converted property that has been transferred to a third party is excluded until it is recovered as property of the estate by virtue of the avoiding powers. The concept excludes customer name securities that have been delivered to or reclaimed by a customer and any property properly belonging to the stockholder, such as money deposited by a customer to pay for securities that the stockholder has distributed to such customer.
+
+Paragraph (5) \[enacted as (6)\] defines “net equity” to establish the extent to which a customer will be entitled to share in the single and separate fund. Accounts of a customer are aggregated and offset only to the extent the accounts are held by the customer in the same capacity. Thus, a personal account is separate from an account held as trustee. In a community property state an account held for the community is distinct from an account held as separate property.
+
+The net equity is computed by liquidating all securities positions in the accounts and crediting the account with any amount due to the customer. Regardless of the actual dates, if any, of liquidation, the customer is only entitled to the liquidation value at the time of the filing of the petition. To avoid double counting, the liquidation value of customer name securities belonging to a customer is excluded from net equity. Thus, clause (ii) includes claims against a customer resulting from the liquidation of a security under clause (i). The value of a security on which trading has been suspended at the time of the filing of the petition will be estimated. Once the net liquidation value is computed, any amount that the customer owes to the stockbroker is subtracted including any amount that would be owing after the hypothetical liquidation, such as brokerage fees. Debts owed by the customer to the debtor, other than in a securities related transaction, will not reduce the net equity of the customer. Finally, net equity is increased by any payment by the customer to the debtor actually paid within 60 days after notice. The principal reason a customer would make such a payment is to reclaim customer name securities under §751.
+
+Paragraph (6) defines “1934 Act” to mean the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\].
+
+Paragraph (7) \[enacted as (9)\] defines “SIPC” to mean the Securities Investor Protection Corporation.
+
+#### References in Text
+
+The Securities Exchange Act of 1934, referred to in par. (4)(A)(iii), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+
+#### Amendments
+
+1994—Par. (4)(A)(iii). Pub. L. 103–394 struck out “(15 U.S.C. 78a et seq.)” after “Act of 1934”.
+
+1984—Par. (2)(A). Pub. L. 98–353, §482(1), substituted “with whom a person deals” for “with whom the debtor deals”, “that has a claim” for “that holds a claim”, “against such person” for “against the debtor”, “held by such person” for “held by the debtor”, and “such person's business as a stockbroker,” for “business as a stockbroker”.
+
+Par. (2)(B). Pub. L. 98–353, §482(2)(A), (B), substituted “has a claim” for “holds a claim” and “against a person” for “against the debtor” in provisions preceding cl. (i).
+
+Par. (2)(B)(ii). Pub. L. 98–353, §482(2)(C), substituted “such person” for “the debtor”.
+
+Par. (4)(A)(i). Pub. L. 98–353, §482(3), substituted “from and that is the lawful” for “and that is”.
+
+Par. (6)(A)(i). Pub. L. 98–353, §482(4), inserted a comma after “petition” and “any” after “except”.
+
+Par. (7). Pub. L. 98–353, §482(5), amended par. (7) generally, inserting provisions relating to options for the purchase or sale of certificates of deposit, or a group or index of securities (including any interest therein or based on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies.
+
+Par. (8). Pub. L. 98–353, §482(6), inserted “a final settlement payment,”.
+
+1982—Par. (4). Pub. L. 97–222, §8(1), struck out “at any time” after “security, or property,” in provisions preceding subpar. (A), and inserted “of a customer” after “claim” in subpar. (A)(ii).
+
+Par. (5). Pub. L. 97–222, §8(3), added par. (5). Former par. (5) redesignated (6).
+
+Par. (6). Pub. L. 97–222, §8(2), (4), redesignated former par. (5) as (6), in provisions preceding subpar. (A), substituted “all accounts of a customer that such customer has” for “the aggregate of all of a customer's accounts that such customer holds”, in subpar. (A)(2) inserted “in such capacity”, and in subpar. (B) inserted “in such capacity”. Former par. (6) redesignated (9).
+
+Pars. (7), (8). Pub. L. 97–222, §8(5), added pars. (7) and (8).
+
+Par. (9). Pub. L. 97–222, §8(2), (6), redesignated former par. (6) as (9) and substituted “Securities” for “Security”.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 101, 362, 546, 548, 555, 752 of this title; title 12 sections 1787, 1821.
+

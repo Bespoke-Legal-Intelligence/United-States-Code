@@ -1,0 +1,66 @@
+### SUBCHAPTER I—GENERALLY
+
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in sections 2105, 3373, 3374, 3582, 5595, 8191, 8192, 8332, 8337, 8347, 8411, 8464a, 8705, 8706, 8707, 8708, 8714a, 8714b, 8714c, 8901 of this title; title 2 sections 31b–5, 905; title 7 section 1507; title 10 section 1588; title 15 section 637; title 16 sections 1a–6, 18i, 558c, 580j, 742f, 773a, 831b, 4604; title 18 sections 292, 1920, 1922; title 22 sections 3970, 4048, 4606, 5422; title 25 section 450i; title 28 section 1877; title 29 section 1706; title 33 section 941; title 38 sections 106, 1316, 1317, 7802; title 39 section 1005; title 40 section 290; title 42 sections 251, 1654, 1701, 1702, 1706, 1856c, 2996d, 5055, 7142, 10704, 12620, 12651g, 12655n; title 43 section 1737; title 50 sections 2031, 2051; title 50 App. sections 1291, 1292, 2004.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 08101 - Definitions](%C2%A7%2008101%20-%20Definitions.md)
+- [&sect; 08102 - Compensation for disability or death of employee](%C2%A7%2008102%20-%20Compensation%20for%20disability%20or%20death%20of%20employee.md)
+- [&sect; 08103 - Medical services and initial medical and other benefits](%C2%A7%2008103%20-%20Medical%20services%20and%20initial%20medical%20and%20other%20benefits.md)
+- [&sect; 08104 - Vocational rehabilitation](%C2%A7%2008104%20-%20Vocational%20rehabilitation.md)
+- [&sect; 08105 - Total disability](%C2%A7%2008105%20-%20Total%20disability.md)
+- [&sect; 08106 - Partial disability](%C2%A7%2008106%20-%20Partial%20disability.md)
+- [&sect; 08107 - Compensation schedule](%C2%A7%2008107%20-%20Compensation%20schedule.md)
+- [&sect; 08108 - Reduction of compensation for subsequent injury to same member](%C2%A7%2008108%20-%20Reduction%20of%20compensation%20for%20subsequent%20injury%20to%20same%20member.md)
+- [&sect; 08109 - Beneficiaries of awards unpaid at death; order of precedence](%C2%A7%2008109%20-%20Beneficiaries%20of%20awards%20unpaid%20at%20death%3B%20order%20of%20precedence.md)
+- [&sect; 08110 - Augmented compensation for dependents](%C2%A7%2008110%20-%20Augmented%20compensation%20for%20dependents.md)
+- [&sect; 08111 - Additional compensation for services of attendants or vocational rehabilitation](%C2%A7%2008111%20-%20Additional%20compensation%20for%20services%20of%20attendants%20or%20vocational%20rehabilitation.md)
+- [&sect; 08112 - Maximum and minimum monthly payments](%C2%A7%2008112%20-%20Maximum%20and%20minimum%20monthly%20payments.md)
+- [&sect; 08113 - Increase or decrease of basic compensation](%C2%A7%2008113%20-%20Increase%20or%20decrease%20of%20basic%20compensation.md)
+- [&sect; 08114 - Computation of pay](%C2%A7%2008114%20-%20Computation%20of%20pay.md)
+- [&sect; 08115 - Determination of wage-earning capacity](%C2%A7%2008115%20-%20Determination%20of%20wage-earning%20capacity.md)
+- [&sect; 08116 - Limitations on right to receive compensation](%C2%A7%2008116%20-%20Limitations%20on%20right%20to%20receive%20compensation.md)
+- [&sect; 08117 - Time of accrual of right](%C2%A7%2008117%20-%20Time%20of%20accrual%20of%20right.md)
+- [&sect; 08118 - Continuation of pay; election to use annual or sick leave](%C2%A7%2008118%20-%20Continuation%20of%20pay%3B%20election%20to%20use%20annual%20or%20sick%20leave.md)
+- [&sect; 08119 - Notice of injury or death](%C2%A7%2008119%20-%20Notice%20of%20injury%20or%20death.md)
+- [&sect; 08120 - Report of injury](%C2%A7%2008120%20-%20Report%20of%20injury.md)
+- [&sect; 08121 - Claim](%C2%A7%2008121%20-%20Claim.md)
+- [&sect; 08122 - Time for making claim](%C2%A7%2008122%20-%20Time%20for%20making%20claim.md)
+- [&sect; 08123 - Physical examinations](%C2%A7%2008123%20-%20Physical%20examinations.md)
+- [&sect; 08124 - Findings and award; hearings](%C2%A7%2008124%20-%20Findings%20and%20award%3B%20hearings.md)
+- [&sect; 08125 - Misbehavior at proceedings](%C2%A7%2008125%20-%20Misbehavior%20at%20proceedings.md)
+- [&sect; 08126 - Subpenas; oaths; examination of witnesses](%C2%A7%2008126%20-%20Subpenas%3B%20oaths%3B%20examination%20of%20witnesses.md)
+- [&sect; 08127 - Representation; attorneys&#8217; fees](%C2%A7%2008127%20-%20Representation%3B%20attorneys%E2%80%99%20fees.md)
+- [&sect; 08128 - Review of award](%C2%A7%2008128%20-%20Review%20of%20award.md)
+- [&sect; 08129 - Recovery of overpayments](%C2%A7%2008129%20-%20Recovery%20of%20overpayments.md)
+- [&sect; 08130 - Assignment of claim](%C2%A7%2008130%20-%20Assignment%20of%20claim.md)
+- [&sect; 08131 - Subrogation of the United States](%C2%A7%2008131%20-%20Subrogation%20of%20the%20United%20States.md)
+- [&sect; 08132 - Adjustment after recovery from a third person](%C2%A7%2008132%20-%20Adjustment%20after%20recovery%20from%20a%20third%20person.md)
+- [&sect; 08133 - Compensation in case of death](%C2%A7%2008133%20-%20Compensation%20in%20case%20of%20death.md)
+- [&sect; 08134 - Funeral expenses; transportation of body](%C2%A7%2008134%20-%20Funeral%20expenses%3B%20transportation%20of%20body.md)
+- [&sect; 08135 - Lump-sum payment](%C2%A7%2008135%20-%20Lump-sum%20payment.md)
+- [&sect; 08136 - Initial payments outside the United States](%C2%A7%2008136%20-%20Initial%20payments%20outside%20the%20United%20States.md)
+- [&sect; 08137 - Compensation for noncitizens and nonresidents](%C2%A7%2008137%20-%20Compensation%20for%20noncitizens%20and%20nonresidents.md)
+- [&sect; 08138 - Minimum limit modification for noncitizens and aliens](%C2%A7%2008138%20-%20Minimum%20limit%20modification%20for%20noncitizens%20and%20aliens.md)
+- [&sect; 08139 - Employees of the District of Columbia](%C2%A7%2008139%20-%20Employees%20of%20the%20District%20of%20Columbia.md)
+- [&sect; 08140 - Members of the Reserve Officers&#8217; Training Corps](%C2%A7%2008140%20-%20Members%20of%20the%20Reserve%20Officers%E2%80%99%20Training%20Corps.md)
+- [&sect; 08141 - Civil Air Patrol volunteers](%C2%A7%2008141%20-%20Civil%20Air%20Patrol%20volunteers.md)
+- [&sect; 08142 - Peace Corps volunteers](%C2%A7%2008142%20-%20Peace%20Corps%20volunteers.md)
+- [&sect; 08143 - Job Corps enrollees; volunteers in service to America](%C2%A7%2008143%20-%20Job%20Corps%20enrollees%3B%20volunteers%20in%20service%20to%20America.md)
+- [&sect; 08143a - Members of the National Teacher Corps](%C2%A7%2008143a%20-%20Members%20of%20the%20National%20Teacher%20Corps.md)
+- [&sect; 08144 - Student-employees](%C2%A7%2008144%20-%20Student-employees.md)
+- [&sect; 08145 - Administration](%C2%A7%2008145%20-%20Administration.md)
+- [&sect; 08146 - Administration for the Panama Canal Commission and The Alaska Railroad](%C2%A7%2008146%20-%20Administration%20for%20the%20Panama%20Canal%20Commission%20and%20The%20Alaska%20Railroad.md)
+- [&sect; 08146a - Cost-of-living adjustment of compensation](%C2%A7%2008146a%20-%20Cost-of-living%20adjustment%20of%20compensation.md)
+- [&sect; 08147 - Employees&#8217; Compensation Fund](%C2%A7%2008147%20-%20Employees%E2%80%99%20Compensation%20Fund.md)
+- [&sect; 08148 - Forfeiture of benefits by convicted felons](%C2%A7%2008148%20-%20Forfeiture%20of%20benefits%20by%20convicted%20felons.md)
+- [&sect; 08149 - Regulations](%C2%A7%2008149%20-%20Regulations.md)
+- [&sect; 08150 - Effect on other statutes](%C2%A7%2008150%20-%20Effect%20on%20other%20statutes.md)
+- [&sect; 08151 - Civil service retention rights](%C2%A7%2008151%20-%20Civil%20service%20retention%20rights.md)

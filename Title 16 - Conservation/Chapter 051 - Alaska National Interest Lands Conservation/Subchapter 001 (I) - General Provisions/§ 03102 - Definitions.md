@@ -1,0 +1,62 @@
+### §3102. Definitions
+
+As used in this Act (except that in titles IX and XIV the following terms shall have the same meaning as they have in the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], and the Alaska Statehood Act)—
+
+&emsp;(1) The term “land” means lands, waters, and interests therein.
+
+&emsp;(2) The term “Federal land” means lands the title to which is in the United States after December 2, 1980.
+
+&emsp;(3) The term “public lands” means land situated in Alaska which, after December 2, 1980, are Federal lands, except—
+
+&emsp;&emsp;(A) land selections of the State of Alaska which have been tentatively approved or validly selected under the Alaska Statehood Act and lands which have been confirmed to, validly selected by, or granted to the Territory of Alaska or the State under any other provision of Federal law;
+
+&emsp;&emsp;(B) land selections of a Native Corporation made under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] which have not been conveyed to a Native Corporation, unless any such selection is determined to be invalid or is relinquished; and
+
+&emsp;&emsp;(C) lands referred to in section 19(b) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1618(b)\].
+
+&emsp;(4) The term “conservation system unit” means any unit in Alaska of the National Park System, National Wildlife Refuge System, National Wild and Scenic Rivers Systems, National Trails System, National Wilderness Preservation System, or a National Forest Monument including existing units, units established, designated, or expanded by or under the provisions of this Act, additions to such units, and any such unit established, designated, or expanded hereafter.
+
+&emsp;(5) The term “Alaska Native Claims Settlement Act”, means “An Act to provide for the settlement of certain land claims of Alaska Natives, and for other purposes”, approved December 18, 1971 (85 Stat. 688), as amended \[43 U.S.C. 1601 et seq.\].
+
+&emsp;(6) The term “Native Corporation” means any Regional Corporation, any Village Corporation, any Urban Corporation, and any Native Group.
+
+&emsp;(7) The term “Regional Corporation” has the same meaning as such term has under section 3(g) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1602(g)\].
+
+&emsp;(8) The term “Village Corporation” has the same meaning as such term has under section 3(j) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1602(j)\].
+
+&emsp;(9) The term “Urban Corporation” means those Native entities which have incorporated pursuant to section 14(h)(3) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1613(h)(3)\].
+
+&emsp;(10) The term “Native Group” has the same meaning as such term has under sections 3(d) and 14(h)(2) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1602(d) and 1613(h)(2)\].
+
+&emsp;(11) The term “Native land” means land owned by a Native Corporation or any Native Group and includes land which, as of December 2, 1980, had been selected under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] by a Native Corporation or Native Group and had not been conveyed by the Secretary (except to the extent such selection is determined to be invalid or has been relinquished) and land referred to in section 19(b) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1618(b)\].
+
+&emsp;(12) The term “Secretary” means the Secretary of the Interior, except that when such term is used with respect to any unit of the National Forest System, such term means the Secretary of Agriculture.
+
+&emsp;(13) The terms “wilderness” and “National Wilderness Preservation System” have the same meaning as when used in the Wilderness Act (78 Stat. 890) \[16 U.S.C. 1131 et seq.\].
+
+&emsp;(14) The term “Alaska Statehood Act” means the Act entitled “An Act to provide for the admission of the State of Alaska into the Union”, approved July 7, 1958 (72 Stat. 339), as amended.
+
+&emsp;(15) The term “State” means the state of Alaska.
+
+&emsp;(16) The term “Alaska Native” or “Native” has the same meaning as the term “Native” has in section 3(b) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1602(b)\].
+
+&emsp;(17) The term “fish and wildlife” means any member of the animal kingdom, including without limitation any mammal, fish, bird (including any migratory, nonmigratory or endangered bird for which protection is also afforded by treaty or other international agreement), amphibian, reptile, mollusk, crustacean, arthropod or other invertebrate, and includes any part, product, egg, or offspring thereof, or the dead body or part thereof.
+
+&emsp;(18) The term “take” or “taking” as used with respect to fish or wildlife, means to pursue, hunt, shoot, trap, net capture, collect, kill, harm, or attempt to engage in any such conduct.
+
+(Pub. L. 96–487, title I, §102, Dec. 2, 1980, 94 Stat. 2375.)
+
+#### References in Text
+
+This Act, referred to in provision preceding par. (1) and in par. (4), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. Title IX of this Act enacted sections 1631 to 1638 of Title 43, Public Lands, amended sections 1614 and 1620 of Title 43, and amended provisions set out as notes under section 1611 of Title 43 and preceding section 21 of Title 48, Territories and Insular Possessions. Title XIV of this Act enacted sections 1639 to 1641 of Title 43, amended sections 1602, 1606, 1607, 1611, 1613, 1620, and 1621 of Title 43, enacted provisions set out as notes under sections 1605, 1613, and 1618 of Title 43, and amended provisions set out as notes under sections 1611 and 1613 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+
+The Alaska Native Claims Settlement Act, referred to in provision preceding par. (1) and in pars. (3)(B), (C)(5), and (11), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see ShortTitle note set out under section 1601 of Title 43 and Tables.
+
+The Alaska Statehood Act, referred to in provision preceding par. (1) and in pars. (3)(A) and (14), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+
+The Wilderness Act, referred to in par. (13), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3141 of this title; title 43 section 1732; title 45 section 1202.
+

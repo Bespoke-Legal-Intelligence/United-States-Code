@@ -1,0 +1,68 @@
+### §1595a. Forfeitures and other penalties
+
+#### (a) Importation, removal, etc. contrary to laws of United States
+
+Except as specified in subsection (b) or (c) of section 1594 of this title, every vessel, vehicle, animal, aircraft, or other thing used in, to aid in, or to facilitate, by obtaining information or in any other way, the importation, bringing in, unlading, landing, removal, concealing, harboring, or subsequent transportation of any article which is being or has been introduced, or attempted to be introduced, into the United States contrary to law, whether upon such vessel, vehicle, animal, aircraft, or other thing or otherwise, may be seized and forfeited together with its tackle, apparel, furniture, harness, or equipment.
+
+#### (b) Penalty for aiding unlawful importation
+
+Every person who directs, assists financially or otherwise, or is in any way concerned in any unlawful activity mentioned in the preceding subsection shall be liable to a penalty equal to the value of the article or articles introduced or attempted to be introduced.
+
+#### (c) Merchandise introduced contrary to law
+
+Merchandise which is introduced or attempted to be introduced into the United States contrary to law shall be treated as follows:
+
+&emsp;(1) The merchandise shall be seized and forfeited if it—
+
+&emsp;&emsp;(A) is stolen, smuggled, or clandestinely imported or introduced;
+
+&emsp;&emsp;(B) is a controlled substance, as defined in the Controlled Substances Act (21 U.S.C. 801 et seq.), and is not imported in accordance with applicable law; or
+
+&emsp;&emsp;(C) is a contraband article, as defined in section 80302 of title 49.
+
+&emsp;(2) The merchandise may be seized and forfeited if—
+
+&emsp;&emsp;(A) its importation or entry is subject to any restriction or prohibition which is imposed by law relating to health, safety, or conservation and the merchandise is not in compliance with the applicable rule, regulation, or statute;
+
+&emsp;&emsp;(B) its importation or entry requires a license, permit or other authorization of an agency of the United States Government and the merchandise is not accompanied by such license, permit, or authorization;
+
+&emsp;&emsp;(C) it is merchandise or packaging in which copyright, trademark, or trade name protection violations are involved (including, but not limited to, violations of section 1124, 1125, or 1127 of title 15, section 506 or 509 of title 17, or section 2318 or 2320 of title 18);
+
+&emsp;&emsp;(D) it is trade dress merchandise involved in the violation of a court order citing section 1125 of title 15;
+
+&emsp;&emsp;(E) it is merchandise which is marked intentionally in violation of section 1304 of this title; or
+
+&emsp;&emsp;(F) it is merchandise for which the importer has received written notices that previous importations of identical merchandise from the same supplier were found to have been marked in violation of section 1304 of this title.
+
+&emsp;(3) If the importation or entry of the merchandise is subject to quantitative restrictions requiring a visa, permit, license, or other similar document, or stamp from the United States Government or from a foreign government or issuing authority pursuant to a bilateral or multilateral agreement, the merchandise shall be subject to detention in accordance with section 1499 of this title unless the appropriate visa, license, permit, or similar document or stamp is presented to the Customs Service; but if the visa, permit, license, or similar document or stamp which is presented in connection with the importation or entry of the merchandise is counterfeit, the merchandise may be seized and forfeited.
+
+&emsp;(4) If the merchandise is imported or introduced contrary to a provision of law which governs the classification or value of merchandise and there are no issues as to the admissibility of the merchandise into the United States, it shall not be seized except in accordance with section 1592 of this title.
+
+&emsp;(5) In any case where the seizure and forfeiture of merchandise are required or authorized by this section, the Secretary may—
+
+&emsp;&emsp;(A) remit the forfeiture under section 1618 of this title, or
+
+&emsp;&emsp;(B) permit the exportation of the merchandise, unless its release would adversely affect health, safety, or conservation or be in contravention of a bilateral or multilateral agreement or treaty.
+
+(June 17, 1930, ch. 497, title IV, §596, as added Sept. 1, 1954, ch. 1213, title V, §502, 68 Stat. 1140; amended Oct. 27, 1986, Pub. L. 99–570, title III, §3123, 100 Stat. 3207–87; Dec. 8, 1993, Pub. L. 103–182, title VI, §624, 107 Stat. 2187.)
+
+#### References in Text
+
+The Controlled Substances Act, referred to in subsec. (c)(1)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+
+#### Codification
+
+In subsec. (c)(1)(C), “section 80302 of title 49” substituted for “section 1 of the Act of August 9, 1939 (49 U.S.C. App. 781)” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+
+#### Amendments
+
+1993—Subsec. (c). Pub. L. 103–182 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any merchandise that is introduced or attempted to be introduced into the United States contrary to law (other than in violation of section 1592 of this title) may be seized and forfeited.”
+
+1986—Subsec. (a). Pub. L. 99–570, §3123(1), (2), substituted “subsection (b) or (c) of section 1594” for “the proviso to section 1594” and “may be seized” for “shall be seized”.
+
+Subsec. (c). Pub. L. 99–570, §3123(3), added subsec. (c).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1590 of this title.
+

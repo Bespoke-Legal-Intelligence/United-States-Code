@@ -1,0 +1,82 @@
+### §4056. Emergency implementation of flood insurance program; applicability of other provisions of law
+
+(a) Notwithstanding any other provisions of this chapter, for the purpose of providing flood insurance coverage at the earliest possible time, the Director shall carry out the flood insurance program authorized under subchapter I of this chapter during the period ending September 30, 1996, in accordance with the provisions of this part and the other provisions of this chapter insofar as they relate to this part but subject to the modifications made by or under subsection (b) of this section.
+
+(b) In carrying out the flood insurance program pursuant to subsection (a) of this section, the Director—
+
+&emsp;(1) shall provide insurance coverage without regard to any estimated risk premium rates which would otherwise be determined under section 4014 of this title; and
+
+&emsp;(2) shall utilize the provisions and procedures contained in or prescribed by this part (other than section 4054 of this title) and sections 4081 and 4082 of this title to such extent and in such manner as he may consider necessary or appropriate to carry out the purpose of this section.
+
+(Pub. L. 90–448, title XIII, §1336, as added Pub. L. 91–152, title IV, §408, Dec. 24, 1969, 83 Stat. 396; amended Pub. L. 92–213, §2(a), Dec. 22, 1971, 85 Stat. 775; Pub. L. 93–234, title I, §106, Dec. 31, 1973, 87 Stat. 979; Pub. L. 94–173, §5, Dec. 23, 1975, 89 Stat. 1028; Pub. L. 94–375, §14(b), Aug. 3, 1976, 90 Stat. 1075; Pub. L. 95–128, title VII, §701(b), Oct. 12, 1977, 91 Stat. 1144; Pub. L. 95–406, §6(b), Sept. 30, 1978, 92 Stat. 880; Pub. L. 95–557, title III, §308(b), Oct. 31, 1978, 92 Stat. 2098; Pub. L. 96–153, title VI, §602(b), Dec. 21, 1979, 93 Stat. 1137; Pub. L. 97–35, title III, §341(b)(2), Aug. 13, 1981, 95 Stat. 419; Pub. L. 97–289, §4(b), Oct. 6, 1982, 96 Stat. 1231; Pub. L. 98–35, §4(b), May 26, 1983, 97 Stat. 198; Pub. L. 98–109, §5(b), Oct. 1, 1983, 97 Stat. 746; Pub. L. 98–181, title IV, §451(b), (d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 99–120, §4(a)(2), Oct. 8, 1985, 99 Stat. 503; Pub. L. 99–156, §4(a)(2), Nov. 15, 1985, 99 Stat. 816; Pub. L. 99–219, §4(a)(2), Dec. 26, 1985, 99 Stat. 1731; Pub. L. 99–267, §4(a)(2), Mar. 27, 1986, 100 Stat. 74; Pub. L. 99–272, title III, §3010(a)(2), Apr. 7, 1986, 100 Stat. 106; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, title V, §541(b), Feb. 5, 1988, 101 Stat. 1939; Pub. L. 101–137, §1(b), Nov. 3, 1989, 103 Stat. 824; Pub. L. 101–508, title II, §2302(b), Nov. 5, 1990, 104 Stat. 1388–23; Pub. L. 103–325, title V, §571(b), Sept. 23, 1994, 108 Stat. 2277.)
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–325 substituted “September 30, 1996” for “September 30, 1995”.
+
+1990—Subsec. (a). Pub. L. 101–508 substituted “September 30, 1995” for “September 30, 1991”.
+
+1989—Subsec. (a). Pub. L. 101–137 substituted “September 30, 1991” for “September 30, 1989”.
+
+1988—Subsec. (a). Pub. L. 100–242 substituted “September 30, 1989” for “March 15, 1988”.
+
+1987—Subsec. (a). Pub. L. 100–200 substituted “March 15, 1988” for “December 16, 1987”.
+
+Pub. L. 100–179 substituted “December 16, 1987” for “December 2, 1987”.
+
+Pub. L. 100–170 substituted “December 2, 1987” for “November 15, 1987”.
+
+Pub. L. 100–154 substituted “November 15, 1987” for “October 31, 1987”.
+
+Pub. L. 100–122 substituted “October 31, 1987” for “September 30, 1987”.
+
+1986—Subsec. (a). Pub. L. 99–430 substituted “September 30, 1987” for “September 30, 1986”.
+
+Pub. L. 99–345 substituted “September 30, 1986” for “June 6, 1986”.
+
+Pub. L. 99–289 substituted “June 6, 1986” for “April 30, 1986”.
+
+Pub. L. 99–272 directed amendment identical to Pub. L. 99–219 substituting “March 17, 1986” for “December 15, 1985”.
+
+Pub. L. 99–267 substituted “April 30, 1986” for “March 17, 1986”.
+
+1985—Subsec. (a). Pub. L. 99–219 substituted “March 17, 1986” for “December 15, 1985”.
+
+Pub. L. 99–156 substituted “December 15, 1985” for “November 14, 1985”.
+
+Pub. L. 99–120 substituted “November 14, 1985” for “September 30, 1985”.
+
+1983—Subsec. (a). Pub. L. 98–181, §451(d)(1), substituted “Director” for “Secretary”.
+
+Pub. L. 98–181, §451(b), substituted “September 30, 1985” for “November 30, 1983”.
+
+Pub. L. 98–109 substituted “November 30, 1983” for “September 30, 1983”.
+
+Pub. L. 98–35 substituted “September 30, 1983” for “May 20, 1983”.
+
+Subsec. (b). Pub. L. 98–181, §451(d)(1), substituted “Director” for “Secretary”.
+
+1982—Subsec. (a). Pub. L. 97–289 substituted “May 20, 1983” for “September 30, 1982”.
+
+1981—Subsec. (a). Pub. L. 97–35 substituted “1982” for “1981”.
+
+1979—Subsec. (a). Pub. L. 96–153 substituted “1981” for “1980”.
+
+1978—Subsec. (a). Pub. L. 95–557 substituted “September 30, 1980” for “October 31, 1978”.
+
+Pub. L. 95–406 substituted “October 31, 1978” for “September 30, 1978”.
+
+1977—Subsec. (a). Pub. L. 95–128 substituted “1978” for “1977”.
+
+1976—Subsec. (a). Pub. L. 94–375 substituted “September 30, 1977” for “December 31, 1976”.
+
+1975—Subsec. (a). Pub. L. 94–173 substituted “1976” for “1975”.
+
+1973—Subsec. (a). Pub. L. 93–234 substituted “1975” for “1973”.
+
+1971—Subsec. (a). Pub. L. 92–213 substituted “1973” for “1971”.
+
+#### Effective Date of 1981 Amendment
+
+Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of Title 12, Banks and Banking.
+

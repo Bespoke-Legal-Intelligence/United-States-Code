@@ -1,0 +1,72 @@
+### §2102. Credits against tax
+
+#### (a) In general
+
+The tax imposed by section 2101 shall be credited with the amounts determined in accordance with sections 2011 to 2013, inclusive (relating to State death taxes, gift tax, and tax on prior transfers), subject to the special limitation provided in subsection (b).
+
+#### (b) Special limitation
+
+The maximum credit allowed under section 2011 against the tax imposed by section 2101 for State death taxes paid shall be an amount which bears the same ratio to the credit computed as provided in section 2011(b) as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paid and which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this subsection, the term “State death taxes” means the taxes described in section 2011(a).
+
+#### (c) Unified credit
+
+#### (1) In general
+
+&emsp;A credit of $13,000 shall be allowed against the tax imposed by section 2101.
+
+#### (2) Residents of possessions of the United States
+
+&emsp;In the case of a decedent who is considered to be a “nonresident not a citizen of the United States” under section 2209, the credit under this subsection shall be the greater of—
+
+&emsp;&emsp;(A) $13,000, or
+
+&emsp;&emsp;(B) that proportion of $46,800 which the value of that part of the decedent's gross estate which at the time of his death is situated in the United States bears to the value of his entire gross estate wherever situated.
+
+#### (3) Special rules
+
+#### (A) Coordination with treaties
+
+&emsp;&emsp;To the extent required under any treaty obligation of the United States, the credit allowed under this subsection shall be equal to the amount which bears the same ratio to $192,800 as the value of the part of the decedent's gross estate which at the time of his death is situated in the United States bears to the value of his entire gross estate wherever situated.
+
+#### (B) Coordination with gift tax unified credit
+
+&emsp;&emsp;If a credit has been allowed under section 2505 with respect to any gift made by the decedent, each dollar amount contained in paragraph (1) or (2) or subparagraph (A) of this paragraph (whichever applies) shall be reduced by the amount so allowed.
+
+#### (4) Limitation based on amount of tax
+
+&emsp;The credit allowed under this subsection shall not exceed the amount of the tax imposed by section 2101.
+
+#### (5) Application of other credits
+
+&emsp;For purposes of subsection (a), sections 2011 to 2013, inclusive, shall be applied as if the credit allowed under this subsection were allowed under section 2010.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 397; Nov. 13, 1966, Pub. L. 89–809, title I, §108(b), 80 Stat. 1572; Oct. 4, 1976, Pub. L. 94–455, title XX, §2001(c)(1)(E)(i), 90 Stat. 1851; Nov. 10, 1988, Pub. L. 100–647, title V, §5032(b), 102 Stat. 3669.)
+
+#### Amendments
+
+1988—Subsec. (c)(1). Pub. L. 100–647, §5032(b)(1)(A), substituted “$13,000” for “$3,600”.
+
+Subsec. (c)(2). Pub. L. 100–647, §5032(b)(1), substituted “$13,000” for “$3,600” in subpar. (A) and “$46,800” for “$15,075” in subpar. (B).
+
+Subsec. (c)(3). Pub. L. 100–647, §5032(b)(2), amended par. (3) generally, substituting provision relating to special rules for coordination with treaties and with gift tax unified tax credit for provision relating to a phase-in of the par. (2)(B) amount for decedents dying during 1977, 1978, 1979, and 1980.
+
+1976—Subsec. (c). Pub. L. 94–455 added subsec. (c).
+
+1966—Pub. L. 89–809 redesignated existing provisions as subsec. (a), inserted reference to special limitation provided in subsec. (b), and added subsec. (b).
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–647 applicable to estates of decedents dying after Nov. 10, 1988, see section 5032(d) of Pub. L. 100–647, set out as a note under section 2101 of this title.
+
+#### Effective Date of 1976 Amendment
+
+Amendment by Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under section 2001 of this title.
+
+#### Effective Date of 1966 Amendment
+
+Amendment by Pub. L. 89–809 applicable with respect to estates of decedents dying after Nov. 13, 1966, see section 108(i) of Pub. L. 89–809, set out as a note under section 2101 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2101, 2107, 2108 of this title.
+

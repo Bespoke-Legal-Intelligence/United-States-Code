@@ -1,0 +1,58 @@
+### §4009. Retirement benefits
+
+#### (a) Entitlement
+
+A member of the Service—
+
+&emsp;(1) who is retired under section 4007(c)(2) of this title; or
+
+&emsp;(2) who is retired under section 4007(c)(1) or 4008(b) or 4010a of this title—
+
+&emsp;&emsp;(A) after becoming eligible for voluntary retirement under section 4051 of this title, or
+
+&emsp;&emsp;(B) from the Senior Foreign Service or while assigned to class 1 in the Foreign Service Schedule,
+
+> shall receive retirement benefits in accordance with section 4046 of this title.
+
+#### (b) Computation of amount; refund; death of member
+
+Any member of the Service (other than a member to whom subsection (a) of this section applies) who is retired under section 4007(c)(1) or 4008(b) or 4010a of this title shall receive—
+
+&emsp;(1) one-twelfth of a year's salary at his or her then current salary rate for each year of service and proportionately for a fraction of a year, but not exceeding a total of one year's salary at his or her then current salary rate, payable without interest from the Foreign Service Retirement and Disability Fund in 3 equal installments, such installments to be paid on January 1 of each of the first 3 calendar years beginning after the retirement of the member (except that in special cases, the Secretary of State may accelerate or combine such installments); and
+
+&emsp;(2) a refund as provided in section 4055 of this title of the contributions made by the member to the Foreign Service Retirement and Disability Fund, except that in lieu of such refund a member who has at least 5 years of service credit toward retirement under the Foreign Service Retirement and Disability System (excluding military and naval service) may elect to receive an annuity, computed under section 4046 of this title, commencing at age 60.
+
+> In the event that a member of the Service has elected to receive retirement benefits under paragraph (2) and dies before reaching age 60, his or her death shall be considered a death in service within the meaning of section 4049 of this title.
+
+(Pub. L. 96–465, title I, §609, Oct. 17, 1980, 94 Stat. 2098; Pub. L. 103–236, title I, §181(a)(3), Apr. 30, 1994, 108 Stat. 417.)
+
+#### Amendments
+
+1994—Subsecs. (a)(2), (b). Pub. L. 103–236 inserted “or 4010a” after “4008(b)”.
+
+#### Special Annuity for Certain Foreign Service Officers
+
+Pub. L. 95–105, title IV, §411, Aug. 17, 1977, 91 Stat. 855, as amended by Pub. L. 95–426, title IV, §412(b), Oct. 7, 1978, 92 Stat. 981, provided that:
+
+“(a) Subject to the conditions established in subsection (b), any Foreign Service officer—
+
+&emsp;“(1) who was retired under section 633(a)(1) of the Foreign Service Act of 1946 \[former section 1003(a)(1) of this title, see section 4007(a) of this title\] before the date of enactment of this section, \[Aug. 17, 1977\];
+
+&emsp;“(2) who was not in class 1, 2, or 3 at the time of retirement;
+
+&emsp;“(3) who was 40 years of age or older at the time of retirement; and
+
+&emsp;“(4) who had at least 20 years of service, exclusive of credit for unused sick leave, creditable for purposes of section 821 of such Act \[former section 1076 of this title, see section 4046 of this title\] at the time of retirement;
+
+> shall be entitled to receive retirement benefits in accordance with the provisions of such section 821 \[former section 1076 of this title, see section 4046 of this title\] in lieu of any retirement benefits which the officer may be entitled to elect under section 634(b)(2) of such Act \[former section 1004(b)(2) of this title, see subsec. (b)(2) of this section\]. Such retirement benefits shall be paid from the Foreign Service Retirement and Disability Fund and shall be effective on the date the officer reaches age 50, the date of enactment of this section \[Aug. 17, 1977\], or October 1, 1977, whichever date is latest.
+
+“(b) Retirement benefits may not be paid under this section unless (1) any refund of contributions paid to the officer under section 634(b)(2) of the Foreign Service Act of 1946 \[former section 1004(b)(2) of this title, see subsec. (b)(2) of this section\] is repaid to the Foreign Service Retirement and Disability Fund, with interest, in accordance with sections 811(d) and (f) of such Act \[former section 1071(d) and (f) of this title, see section 4045(d) and (f) of this title\]; and (2) the service forming the basis for such retirement benefits is not used as the basis for any other retirement benefits under any retirement system.
+
+“(c) In the event that an officer who is entitled to retirement benefits under this section dies before reaching the age of fifty, but after the date of enactment of this section \[Aug. 17, 1977\], his or her death shall be considered a death in service within the meaning of section 832 of the Foreign Service Act of 1946 \[former section 1082 of this title, see section 4049 of this title\], except that no survivor's annuity (other than a survivor's annuity which would be payable under the first complete sentence in section 634(b)(2) of such Act \[former section 1004(b)(2) of this title, see subsec. (b)(2) of this section\] but for the enactment of this section) shall become effective before October 1, 1977.
+
+“(d) An officer entitled to retirement benefits under this section may make the election described in section 821(b) or (f), as appropriate, of the Foreign Service Act of 1946 \[former section 1076(b) or (f) of this title, see section 4046(b) and (f) of this title\] at any time before reaching the age of fifty or before the end of the sixty-day period beginning on the date of enactment of this section \[Aug. 17, 1977\], whichever is later.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 4007, 4008, 4010a, 4047, 4060, 4153 of this title; title 5 sections 5595, 8501.
+

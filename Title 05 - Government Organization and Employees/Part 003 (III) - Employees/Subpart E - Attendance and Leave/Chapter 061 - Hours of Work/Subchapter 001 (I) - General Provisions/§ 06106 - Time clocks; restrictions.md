@@ -1,0 +1,34 @@
+### §6106. Time clocks; restrictions
+
+A recording clock may not be used to record time of an employee of an Executive department in the District of Columbia, except that the Bureau of Engraving and Printing may use such recording clocks.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 516; Pub. L. 97–221, §6(a), July 23, 1982, 96 Stat. 234.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 27.
+
+Feb. 24, 1899, ch. 187, §1 (14th par. on p. 864), 30 Stat. 864.
+
+The words “District of Columbia” are substituted for “Washington” as a clearer statement.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+
+1982—Pub. L. 97–221 substituted “District of Columbia, except that the Bureau of Engraving and Printing may use such recording clocks” for “District of Columbia”.
+
+#### Effective Date of 1982 Amendment
+
+Section 6(b) of Pub. L. 97–221 provided that: “The amendment made by this section \[amending this section\] shall take effect October 1, 1982. Section 5 of this Act \[set out in the Termination Date of 1982 Amendment note under section 6101 of this title\] shall not apply to the amendment made by this section.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6125 of this title.
+

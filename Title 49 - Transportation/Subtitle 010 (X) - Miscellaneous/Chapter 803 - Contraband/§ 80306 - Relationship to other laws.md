@@ -1,0 +1,56 @@
+### §80306. Relationship to other laws
+
+(a)
+
+Chapter as Additional Law.—This chapter is in addition to another law—
+
+&emsp;(1) imposing, or authorizing the compromise of, fines, penalties, or forfeitures; or
+
+&emsp;(2) providing for seizure, condemnation, or disposition of forfeited property, or the proceeds from the property.
+
+(b)
+
+Laws Applicable to Seizures and Forfeitures.—To the extent applicable and consistent with this chapter, the following apply to a seizure or forfeiture under this chapter:
+
+&emsp;(1) provisions of law related to the seizure, forfeiture, and condemnation of vehicles and vessels violating the customs laws.
+
+&emsp;(2) provisions of law related to the disposition of those vehicles or vessels or the proceeds from the sale of those vehicles or vessels.
+
+&emsp;(3) provisions of law related to the compromise of those forfeitures or claims related to those forfeitures.
+
+&emsp;(4) provisions of law related to the award of compensation to an informer about those forfeitures.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1355.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+80306(a)
+
+49 App.:786.
+
+Aug. 9, 1939, ch. 618, §§4 (less proviso), 6, 53 Stat. 1292.
+
+80306(b)
+
+49 App.:784 (less proviso).
+
+In subsections (a)(1) and (b)(3), the word “compromise” is substituted for “remission or mitigation” for consistency in the revised title.
+
+In subsection (a), before clause (1), the words “in addition to another law” are substituted for “shall be construed to be supplemental to, and not to impair in any way, existing provisions of law” to eliminate unnecessary words.
+
+In subsection (b), before clause (1), the words “under this chapter” are substituted for “incurred, or alleged to have been incurred, under the provisions of this chapter” to eliminate unnecessary words. In clause (1), the word “forfeiture” is substituted for “summary and judicial forfeiture” to eliminate unnecessary words.
+
+#### References in Text
+
+The customs laws, referred to in subsec. (b)(1), are classified generally to Title 19, Customs Duties.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 80304 of this title.
+

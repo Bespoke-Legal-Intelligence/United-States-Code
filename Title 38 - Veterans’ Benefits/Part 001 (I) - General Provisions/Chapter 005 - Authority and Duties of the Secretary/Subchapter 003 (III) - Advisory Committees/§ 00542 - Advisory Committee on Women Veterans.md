@@ -1,0 +1,64 @@
+### §542. Advisory Committee on Women Veterans
+
+(a)(1) The Secretary shall establish an advisory committee to be known as the Advisory Committee on Women Veterans (hereinafter in this section referred to as “the Committee”).
+
+(2)(A) The Committee shall consist of members appointed by the Secretary from the general public, including—
+
+&emsp;(i) representatives of women veterans;
+
+&emsp;(ii) individuals who are recognized authorities in fields pertinent to the needs of women veterans, including the gender-specific health-care needs of women; and
+
+&emsp;(iii) representatives of both female and male veterans with service-connected disabilities, including at least one female veteran with a service-connected disability and at least one male veteran with a service-connected disability.
+
+(B) The Committee shall include, as ex officio members—
+
+&emsp;(i) the Secretary of Labor (or a representative of the Secretary of Labor designated by the Secretary after consultation with the Assistant Secretary of Labor for Veterans’ Employment);
+
+&emsp;(ii) the Secretary of Defense (or a representative of the Secretary of Defense designated by the Secretary of Defense after consultation with the Defense Advisory Committee on Women in the Services); and
+
+&emsp;(iii) the Under Secretary for Health and the Under Secretary for Benefits, or their designees.
+
+(C) The Secretary may invite representatives of other departments and agencies of the United States to participate in the meetings and other activities of the Committee.
+
+(3) The Secretary shall determine the number, terms of service, and pay and allowances of members of the Committee appointed by the Secretary, except that a term of service of any such member may not exceed three years. The Secretary may reappoint any such member for additional terms of service.
+
+(b) The Secretary shall, on a regular basis, consult with and seek the advice of the Committee with respect to the administration of benefits by the Department for women veterans, reports and studies pertaining to women veterans and the needs of women veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department.
+
+(c)(1) Not later than July 1 of each even-numbered year, the Committee shall submit to the Secretary a report on the programs and activities of the Department that pertain to women veterans. Each such report shall include—
+
+&emsp;(A) an assessment of the needs of women veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department;
+
+&emsp;(B) a review of the programs and activities of the Department designed to meet such needs; and
+
+&emsp;(C) such recommendations (including recommendations for administrative and legislative action) as the Committee considers appropriate.
+
+(2) The Secretary shall, within 60 days after receiving each report under paragraph (1), submit to the Congress a copy of the report, together with any comments concerning the report that the Secretary considers appropriate.
+
+(3) The Committee may also submit to the Secretary such other reports and recommendations as the Committee considers appropriate.
+
+(4) The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to such section.
+
+(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 393; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+
+#### Prior Provisions
+
+Prior section 542 was renumbered section 1542 of this title.
+
+Provisions similar to those in this section were contained in section 222 of this title prior to repeal by Pub. L. 102–83, §2(a).
+
+#### Amendments
+
+1992—Subsec. (a)(2)(B)(iii). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” and “Under Secretary for Benefits” for “Chief Benefits Director”.
+
+#### Change of Name
+
+Reference to Assistant Secretary of Labor for Veterans’ Employment in any law in force on Nov. 6, 1986, deemed to be a reference to Assistant Secretary of Labor for Veterans’ Employment and Training, see section 2(b)(3) of Pub. L. 99–619, set out as a References in Other Laws note under section 553 of Title 29, Labor.
+
+#### Termination of Advisory Committees
+
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 318 of this title.
+

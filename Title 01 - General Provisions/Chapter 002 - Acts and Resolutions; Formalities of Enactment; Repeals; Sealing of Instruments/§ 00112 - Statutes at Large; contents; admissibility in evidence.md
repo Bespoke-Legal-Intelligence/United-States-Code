@@ -1,0 +1,26 @@
+### §112. Statutes at Large; contents; admissibility in evidence
+
+The Archivist of the United States shall cause to be compiled, edited, indexed, and published, the United States Statutes at Large, which shall contain all the laws and concurrent resolutions enacted during each regular session of Congress; all proclamations by the President in the numbered series issued since the date of the adjournment of the regular session of Congress next preceding; and also any amendments to the Constitution of the United States proposed or ratified pursuant to article V thereof since that date, together with the certificate of the Archivist of the United States issued in compliance with the provision contained in section 106b of this title. In the event of an extra session ofCongress, the Archivist of the United States shall cause all the laws and concurrent resolutions enacted during said extra session to be consolidated with, and published as part of, the contents of the volume for the next regular session. The United States Statutes at Large shall be legal evidence of laws, concurrent resolutions, treaties, international agreements other than treaties, proclamations by the President, and proposed or ratified amendments to the Constitution of the United States therein contained, in all the courts of the United States, the several States, and the Territories and insular possessions of the United States.
+
+(July 30, 1947, ch. 388, 61 Stat. 636; Sept. 23, 1950, ch. 1001, §1, 64 Stat. 979; Oct. 31, 1951, ch. 655, §3, 65 Stat. 710; Oct. 19, 1984, Pub. L. 98–497, title I, §107(d), 98 Stat. 2291.)
+
+#### Amendments
+
+1984—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services” in three places.
+
+1951—Act Oct. 31, 1951, substituted “106b of this title” for “205 of the Revised Statutes” in first sentence.
+
+1950—Act Sept. 23, 1950, amended section generally to implement 1950 Reorg. Plan No. 20, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1272, which transferred to the Administrator of General Services certain duties formerly performed by the Secretary of State.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of Title 44, Public Printing and Documents.
+
+#### Effect of Repeal of Section 73 of Act Jan. 12, 1895
+
+This section and section 112a of this title as not affected by the repeal of section 73 of act Jan. 12, 1895, ch. 23, 28 Stat. 615, which related to the same subject matter, see section 56(i) of act Oct. 31, 1951, ch. 655, 65 Stat. 729.
+
+#### Federal Rules of Civil Procedure
+
+Proof of official record, see rule 44, Title 28, Appendix, Judiciary and Judicial Procedure.
+

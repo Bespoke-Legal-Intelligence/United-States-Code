@@ -1,0 +1,232 @@
+### §3502. Order of retention
+
+(a) The Office of Personnel Management shall prescribe regulations for the release of competing employees in a reduction in force which give due effect to—
+
+&emsp;(1) tenure of employment;
+
+&emsp;(2) military preference, subject to section 3501(a)(3) of this title;
+
+&emsp;(3) length of service; and
+
+&emsp;(4) efficiency or performance ratings.
+
+> In computing length of service, a competing employee—
+
+&emsp;(A) who is not a retired member of a uniformed service is entitled to credit for the total length of time in active service in the armed forces;
+
+&emsp;(B) who is a retired member of a uniformed service is entitled to credit for—
+
+&emsp;&emsp;(i) the length of time in active service in the armed forces during a war, or in a campaign or expedition for which a campaign badge has been authorized; or
+
+&emsp;&emsp;(ii) the total length of time in active service in the armed forces if he is included under section 3501(a)(3)(A), (B), or (C) of this title; and
+
+&emsp;(C) is entitled to credit for—
+
+&emsp;&emsp;(i) service rendered as an employee of a county committee established pursuant to section 8(b) of the Soil Conservation and Allotment Act or of a committee or association of producers described in section 10(b) of the Agricultural Adjustment Act; and
+
+&emsp;&emsp;(ii) service rendered as an employee described in section 2105(c) if such employee moves or has moved, on or after January 1, 1987, without a break in service of more than 3 days, from a position in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard to a position in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).
+
+(b) A preference eligible described in section 2108(3)(C) of this title who has a compensable service-connected disability of 30 percent or more and whose performance has not been rated unacceptable under a performance appraisal system implemented under chapter 43 of this title is entitled to be retained in preference to other preference eligibles.
+
+(c) An employee who is entitled to retention preference and whose performance has not been rated unacceptable under a performance appraisal system implemented under chapter 43 of this title is entitled to be retained in preference to other competing employees.
+
+(d)(1) Except as provided under subsection (e), an employee may not be released, due to a reduction in force, unless—
+
+&emsp;(A) such employee and such employee's exclusive representative for collective-bargaining purposes (if any) are given written notice, in conformance with the requirements of paragraph (2), at least 60 days before such employee is so released; and
+
+&emsp;(B) if the reduction in force would involve the separation of a significant number of employees, the requirements of paragraph (3) are met at least 60 days before any employee is so released.
+
+(2) Any notice under paragraph (1)(A) shall include—
+
+&emsp;(A) the personnel action to be taken with respect to the employee involved;
+
+&emsp;(B) the effective date of the action;
+
+&emsp;(C) a description of the procedures applicable in identifying employees for release;
+
+&emsp;(D) the employee's ranking relative to other competing employees, and how that ranking was determined; and
+
+&emsp;(E) a description of any appeal or other rights which may be available.
+
+(3) Notice under paragraph (1)(B)—
+
+&emsp;(A) shall be given to—
+
+&emsp;&emsp;(i) the appropriate State dislocated worker unit or units (referred to in section 311(b)(2) of the Job Training Partnership Act); and
+
+&emsp;&emsp;(ii) the chief elected official of such unit or each of such units of local government as may be appropriate; and
+
+&emsp;(B) shall consist of written notification as to—
+
+&emsp;&emsp;(i) the number of employees to be separated from service due to the reduction in force (broken down by geographic area or on such other basis as may be required under paragraph (4));
+
+&emsp;&emsp;(ii) when those separations will occur; and
+
+&emsp;&emsp;(iii) any other matter which might facilitate the delivery of rapid response assistance or other services under the Job Training Partnership Act.
+
+(4) The Office shall prescribe such regulations as may be necessary to carry out this subsection. The Office shall consult with the Secretary of Labor on matters relating to the Job Training Partnership Act.
+
+(e)(1) Subject to paragraph (3), upon request submitted under paragraph (2), the President may, in writing, shorten the period of advance notice required under subsection (d)(1)(A) and (B), with respect to a particular reduction in force, if necessary because of circumstances not reasonably foreseeable.
+
+(2) A request to shorten notice periods shall be submitted to the President by the head of the agency involved, and shall indicate the reduction in force to which the request pertains, the number of days by which the agency head requests that the periods be shortened, and the reasons why the request is necessary.
+
+(3) No notice period may be shortened to less than 30 days under this subsection.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 428; Pub. L. 90–367, §3, June 29, 1968, 82 Stat. 278; Pub. L. 90–623, §1(23), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–454, title III, §307(e), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1149, 1224; Pub. L. 99–251, title III, §306(a), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(c), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 102–484, div. D, title XLIV, §4433(a)(1), Oct. 23, 1992, 106 Stat. 2721.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+(a)
+
+5 U.S.C. 861(a) (less 2d and 3d provisos), (c).
+
+June 27, 1944, ch. 287, §12 (less 2d and 3d provisos), 58 Stat. 390.
+
+Aug. 19, 1964, Pub. L. 88–448, §202 (1)–(3), (4) (“(c)”), 78 78 Stat. 486.
+
+(b)
+
+5 U.S.C. 861(a) (2d proviso).
+
+June 27, 1944, ch. 287, §12 (2d proviso), 58 Stat. 390.
+
+In subsection (a), the words “reduction in force” are substituted for “reduction in personnel”. The words “in any civilian service of any Federal agency” are omittedas unnecessary because of the application stated in section 3501. In the second sentence, the word “total” in the phrase “length of service” is omitted for consistency with paragraph (3), and the words “subject to subsection (c) of this section” are omitted as unnecessary in view of the supplied distinction between a competing employee who is not a retired member of a uniformed service and such an employee who is a retired member of a uniformed service. In paragraph (A), the words “total length of time in active service” are substituted for “length of time spent in active service” for consistency with paragraph (B)(ii).
+
+In subsections (a) and (b), the references to “performance” ratings and ratings of “satisfactory” are added on authority of former section 2005, which is carried into section 4304.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### References in Text
+
+Section 8(b) of the Soil Conservation and Allotment Act, referred to in subsec. (a)(C)(i), probably means section 8(b) of the Soil Conservation and Domestic Allotment Act, which is classified to section 590h(b) of Title 16, Conservation.
+
+Section 10(b) of the Agricultural Adjustment Act, referred to in subsec. (a)(C)(i), is classified to section 610(b) of Title 7, Agriculture.
+
+The Job Training Partnership Act, referred to in subsec. (d)(3), (4), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. Section 311(b)(2) of the Act is classified to section 1661(b)(2) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+
+#### Amendments
+
+1992—Subsecs. (d), (e). Pub. L. 102–484 added subsecs. (d) and (e).
+
+1990—Subsec. (a)(C). Pub. L. 101–508 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “is entitled to credit for service rendered as an employee of a county committee established pursuant to section 590h(b) of title 16, or of a committee or an association of producers described in section 610(b) of title 7.”
+
+1986—Subsec. (a)(C). Pub. L. 99–251 struck out “who is an employee in or under the Department of Agriculture” before “is entitled to credit”.
+
+1978—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+
+Subsec. (b). Pub. L. 95–454, §307(e), substituted provisions relating to retention of a preference eligible with a compensable service-connected disability of 30 percent or more, for provisions relating to retention of preference eligible employees on the basis of ratings.
+
+Subsec. (c). Pub. L. 95–454, §307(e), added subsec. (c).
+
+1968—Subsec. (a). Pub. L. 90–623 made minor changes in form and punctuation in subpars. (A) and (B), and, in subpar. (C), substituted “section 590h(b) of title 16” and “section 610(b) of title 7” for “section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b))” and “section 10(b) of the Agricultural Adjustment Act of May 12, 1933 (48 Stat. 37)” respectively.
+
+Subsec. (a)(C). Pub. L. 90–367 added subsec. (a)(C).
+
+#### Effective Date of 1992 Amendment
+
+Section 4433(a)(2) of Pub. L. 102–484 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any personnel action taking effect on or after the last day of the 90-day period beginning on the date of enactment of this Act \[Oct. 23, 1992\].”
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Effective Date of 1968 Amendment
+
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
+
+#### Interagency Placement Program for Federal Employees Affected by Reductions in Force
+
+Pub. L. 103–337, div. A, title X, §1066, Oct. 5, 1994, 108 Stat. 2850, provided that:
+
+“(a)
+
+Study and Report.—(1) The Director of the Office of Personnel Management shall conduct a study on the feasibility of establishing a mandatory interagency placement program for Federal employees affected by reductions in force.
+
+“(2) For purposes of paragraph (1), an interagency placement program is a program that provides a system to require the offering of a position in an agency to an employee of another agency affected by a reduction in force if—
+
+&emsp;“(A) the position cannot be filled through a placement program of the agency in which the position is located;
+
+&emsp;“(B) the employee to whom the offer is made is qualified for the offered position; and
+
+&emsp;“(C) the geographic location of the offered position is within the commuting area of—
+
+&emsp;&emsp;“(i) the residence of the employee; or
+
+&emsp;&emsp;“(ii) the employee's present or last-held position.
+
+“(3) The Director shall carry out this subsection in consultation with the Secretary of Defense.
+
+“(4) The Director shall seek comments from the heads of all appropriate Federal agencies in conducting the study required by paragraph (1).
+
+“(5) Not later than six months after the date of the enactment of this Act \[Oct. 5, 1994\], the Director shall submit to Congress a report on the results of the study required by paragraph (1) and on any action taken by the Director under subsection (b).
+
+“(b)
+
+Agreements To Establish Interagency Placement Program.—(1) The Director may establish a Government-wide interagency placement program for Federal employees affected by reductions in force if, during the 6-month period beginning on the date of the enactment of this Act \[Oct. 5, 1994\], the Director, in consultation with the Secretary of Defense, determines that such a program is feasible. To carry out the program, the Director may enter into an agreement with the head of each agency that agrees to participate in the program. If the Director establishes a program under this subsection, it is not necessary that the program be an interagency placement program within the meaning of subsection (a)(2).
+
+“(2) If the Director establishes a program pursuant to paragraph (1), the report required by subsection (a)(5) shall identify each agency that does not agree to participate in the program and the reasons of the head of that agency for not agreeing to participate.
+
+“(c)
+
+Definitions.—For purposes of this section:
+
+&emsp;“(1) The term ‘agency’ means an Executive agency as defined in section 105 of title 5, United States Code, except that such term does not include the General Accounting Office.
+
+&emsp;“(2) The term ‘Federal employees affected by reductions in force’ means Federal employees who are separated, or are scheduled to be separated, from service under a reduction in force pursuant to—
+
+&emsp;&emsp;“(A) regulations prescribed under section 3502 of title 5, United States Code; or
+
+&emsp;&emsp;“(B) procedures established under section 3595 of such title.”
+
+#### Special Rule on Application of Subsections (d) and (e)
+
+Section 4433(b) of Pub. L. 102–484, as amended by Pub. L. 103–337, div. A, title III, §341(a), Oct. 5, 1994, 108 Stat. 2720, provided that:
+
+“(1) The provisions of section 3502(d) and (e) of title 5, United States Code (as added by subsection (a)) shall apply to employees of the Department of Defense according to their terms, except that, with respect to any reduction in force within that agency that would involve the separation of a significant number of employees (as determined under paragraph (1)(B) of such section 3502(d)), any reference in such section 3502(d) to ‘60 days’ shall, in the case of the employees described in paragraph (2), be deemed to read ‘120 days’.
+
+“(2) The employees described in this paragraph are those employees of the Department of Defense who are to be separated, due to a reduction in force described in paragraph (1), effective on or after the last day of the 90-day period referred to in subsection (a)(2) \[see Effective Date of 1992 Amendment note above\] and before February 1, 2000.
+
+“(3) Nothing in this subsection shall prevent the application of the amendment made by subsection (a) \[amending this section\] with respect to an employee if—
+
+&emsp;“(A) the preceding paragraphs of this subsection do not apply with respect to such employee; and
+
+&emsp;“(B) the amendment made by subsection (a) would otherwise apply with respect to such employee.
+
+“(4) The Secretary of Defense shall prescribe such regulations as may be necessary to carry out this subsection.”
+
+#### Indian Preference Laws Applicable to Bureau of Indian Affairs and Indian Health Service Positions
+
+Applicability of Indian preference laws to Bureau of Indian Affairs and Indian Health Service positions for purposes of reduction-in-force procedures under subsec. (a) of this section, see section 472a(a) of Title 25, Indians.
+
+#### Ex. Ord. No. 12828. Delegation of Certain Personnel Management Authorities
+
+Ex. Ord. No. 12828, Jan. 5, 1993, 58 F.R. 2965, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3 of the United States Code and sections 3502(e), 4505a(e), and 5377(i)(2) of title 5 of the United States Code, it is hereby ordered as follows:
+
+Section 1. The Office of Personnel Management is designated and empowered to exercise, without the approval, ratification, or other action of the President, the following:
+
+(1) The authority of the President under 5 U.S.C. 3502(e), as added by section 4433 of Public Law 102–484, to shorten the period of advance notice otherwise required by law with respect to reductions in force.
+
+(2) The authority of the President under 5 U.S.C. 4505a(e), as added by section 2(19) of Public Law 102–378, to permit performance-based cash awards to be paid to categories of employees who would not otherwise be eligible.
+
+Sec. 2. The Director of the Office of Management and Budget is designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority of the President under 5 U.S.C. 5377(i)(2), as added by section 2(34) of Public Law 102–378, to designate one or more categories of positions within an agency to be treated as critical positions within the meaning of 5 U.S.C. 5377(a)(2).
+
+Sec. 3. This order shall be effective immediately.
+
+George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7512, 7521 of this title; title 10 section 1586; title 20 section 241; title 22 section 1438; title 25 section 472a; title 32 section 709.
+

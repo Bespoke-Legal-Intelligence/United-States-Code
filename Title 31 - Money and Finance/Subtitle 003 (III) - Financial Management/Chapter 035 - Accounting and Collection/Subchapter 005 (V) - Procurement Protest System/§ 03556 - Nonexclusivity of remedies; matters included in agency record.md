@@ -1,0 +1,18 @@
+### §3556. Nonexclusivity of remedies; matters included in agency record
+
+This subchapter does not give the Comptroller General exclusive jurisdiction over protests, and nothing contained in this subchapter shall affect the right of any interested party to file a protest with the contracting agency or to file an action in a district court of the United States or the United States Court of Federal Claims. In any such action based on a procurement or proposed procurement with respect to which a protest has been filed under this subchapter, the reports required by sections 3553(b)(2) and 3554(e)(1) of this title with respect to such procurement or proposed procurement and any decision or recommendation of the Comptroller General under this subchapter with respect to such procurement or proposed procurement shall be considered to be part of the agency record subject to review.
+
+(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1202; amended Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+
+#### Amendments
+
+1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date
+
+Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 251 of Title 41, Public Contracts.
+

@@ -1,0 +1,108 @@
+### §3281. Annual Presidential report to Congress on governmental efforts to prevent proliferation
+
+#### (a) Review of Government activities; description of progress; assessment of impact of progress; determinations regarding non-nuclear-weapon states; counterproductiveness of policies
+
+The President shall review all activities of Government departments and agencies relating to preventing proliferation and shall make a report to Congress in January of 1979 and annually in January of each year thereafter on the Government's efforts to prevent proliferation. This report shall include but not be limited to—
+
+&emsp;(1) a description of the progress made toward—
+
+&emsp;&emsp;(A) negotiating the initiatives contemplated in sections 3223 and 3224 of this title;
+
+&emsp;&emsp;(B) negotiating the international arrangements or other mutual undertakings contemplated in section 2153b of title 42;
+
+&emsp;&emsp;(C) encouraging non-nuclear-weapon states that are not party to the Treaty to adhere to the Treaty or, pending such adherence, to enter into comparable agreements with respect to safeguards and to foreswear the development of any nuclear explosive devices, and discouraging nuclear exports to non-nuclear-weapon states which have not taken such steps;
+
+&emsp;&emsp;(D) strengthening the safeguards of the IAEA as contemplated in section 3241 of this title; and
+
+&emsp;&emsp;(E) renegotiating agreements for cooperation as contemplated in section 2153c(a) of title 42;
+
+&emsp;(2) an assessment of the impact of the progress described in paragraph (1) on the non-proliferation policy of the United States; an explanation of the precise reasons why progress has not been made on any particular point and recommendations with respect to appropriate measures to encourage progress; and a statement of what legislative modifications, if any, are necessary in his judgment to achieve the non-proliferation policy of the United States;
+
+&emsp;(3) a determination as to which non-nuclear-weapon states with which the United States has an agreement for cooperation in effect or under negotiation, if any, have—
+
+&emsp;&emsp;(A) detonated a nuclear device; or
+
+&emsp;&emsp;(B) refused to accept the safeguards of the IAEA on all of their peaceful nuclear activities; or
+
+&emsp;&emsp;(C) refused to give specific assurances that they will not manufacture or otherwise acquire any nuclear explosive device; or
+
+&emsp;&emsp;(D) engaged in activities involving source or special nuclear material and having direct significance for the manufacture or acquisition of nuclear explosive devices;
+
+&emsp;(4) an assessment of whether any of the policies set forth in this chapter have, on balance, been counterproductive from the standpoint of preventing proliferation;
+
+&emsp;(5) a description of the progress made toward establishing procedures to facilitate the timely processing of requests for subsequent arrangements and export licenses in order to enhance the reliability of the United States in meeting its commitments to supply nuclear reactors and fuel to nations which adhere to effective non-proliferation policies; <sup>1</sup>
+
+&emsp;(6) a description of the implementation of nuclear and nuclear-related dual-use export controls in the preceding calendar year, including a summary by type of commodity and destination of—
+
+&emsp;&emsp;(A) all transactions for which—
+
+&emsp;&emsp;&emsp;(i) an export license was issued for any good controlled under section 2139a(c) of title 42;
+
+&emsp;&emsp;&emsp;(ii) an export license was issued under section 2139(b) of title 42;
+
+&emsp;&emsp;&emsp;(iii) approvals were issued under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\], or section 2139(b)(3) of title 42, for the retransfer of any item, technical data, component, or substance; or
+
+&emsp;&emsp;&emsp;(iv) authorizations were made as required by section 2077(b)(2) of title 42 to engage, directly or indirectly, in the production of special nuclear material;
+
+&emsp;&emsp;(B) each instance in which—
+
+&emsp;&emsp;&emsp;(i) a sanction has been imposed under section 821(a) or section 824 of the Nuclear Proliferation Prevention Act of 1994 or section 2799aa–1(b)(1) of this title;
+
+&emsp;&emsp;&emsp;(ii) sales or leases have been denied under section 2753(f) of this title or transactions prohibited by reason of acts relating to proliferation of nuclear explosive devices as described in section 2780(d) of this title;
+
+&emsp;&emsp;&emsp;(iii) a sanction has not been imposed by reason of section 821(c)(2) of the Nuclear Proliferation Prevention Act of 1994 or the imposition of a sanction has been delayed under section 2799aa–1(b)(4) of this title, or
+
+&emsp;&emsp;&emsp;(iv) a waiver of a sanction has been made under—
+
+&emsp;&emsp;&emsp;&emsp;(I) section 821(f) or section 824 of the Nuclear Proliferation Prevention Act of 1994,
+
+&emsp;&emsp;&emsp;&emsp;(II) section 2375(d) of this title, or paragraph (5) or (6)(B) of section 2799aa–1(b) of this title,
+
+&emsp;&emsp;&emsp;&emsp;(III) section 2780(g) of this title with respect to the last sentence of section 2780(d) of this title, or
+
+&emsp;&emsp;&emsp;&emsp;(IV) section 2364 of this title with respect to section 2375 of this title or section 2753(f) of this title, the last sentence of section 2780(d) of this title, or 2799aa–1(b)(1) <sup>2</sup> of this title; and
+
+&emsp;&emsp;(C) the progress of those independent states of the former Soviet Union that are non-nuclear-weapon states and of the Baltic states towards achieving the objective of applying full scope safeguards to all their peaceful nuclear activities.
+
+> Portions of the information required by paragraph (6) may be submitted in classified form, as necessary. Any such information that may not be published or disclosed under section 12(c)(1) of the Export Administration Act of 1979 \[50 App. U.S.C. 2411(c)(1)\] shall be submitted as confidential.
+
+#### (b) Analysis of civil agreements for cooperation
+
+In the first report required by this section, the President shall analyze each civil agreement for cooperation negotiated pursuant to section 2153 of title 42, and shall discuss the scope and adequacy of the requirements and obligations relating to safeguards and other controls therein.
+
+(Pub. L. 95–242, title VI, §601, Mar. 10, 1978, 92 Stat. 150; Pub. L. 103–236, title VIII, §811, Apr. 30, 1994, 108 Stat. 507.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 851 of Pub. L. 103–236, see Effective and Termination Dates of 1994 Amendment note below.</i>
+
+#### References in Text
+
+The Export Administration Act of 1979, referred to in subsec. (a)(6)(A)(iii), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
+
+Sections 821 and 824 of the Nuclear Proliferation Prevention Act of 1994, referred to in subsec. (a)(6)(B), are sections 821 and 824 of Pub. L. 103–236 which are set out in the Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment note under section 3201 of this title.
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–236 temporarily struck out “and” after the semicolon in par. (4), substituted a semicolon for the period in par. (5), and added par. (6) and concluding provisions. See Effective and Termination Dates of 1994 Amendment note below.
+
+#### Effective and Termination Dates of 1994 Amendment
+
+Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, and ceases to be effective and is repealed on date of enactment of first Foreign Relations Authorization Act enacted after Apr. 30, 1994, and any provision repealed by that amendment shall be reenacted, see sections 831 and 851 of Pub. L. 103–236, set out in the Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment note under section 3201 of this title.
+
+#### Effective Date
+
+Subchapter effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of this title.
+
+#### Delegation of Functions
+
+Secretary of State responsible for performing function vested in President by this section to extent that it relates to preparation of an annual report, see section 2(c) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out as a note under section 3201 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3223, 3224, 3244 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “; and”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+

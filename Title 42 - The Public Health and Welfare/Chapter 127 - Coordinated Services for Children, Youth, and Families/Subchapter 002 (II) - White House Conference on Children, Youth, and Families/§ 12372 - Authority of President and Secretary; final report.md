@@ -1,0 +1,38 @@
+### §12372. Authority of President and Secretary; final report
+
+#### (a) Calling of Conference
+
+The President shall call a White House Conference on Children, Youth, and Families in 1993 in order to develop recommendations for further action in the field of children, youth, and families which will further the policy set forth in section 12371(b) of this title. The Conference shall be planned and conducted under the direction of the Secretary in cooperation with the Commissioner and with the heads of such other Federal departments and agencies as are appropriate. Such assistance may include the assignment of personnel.
+
+#### (b) Purposes of Conference
+
+The purposes of the Conference shall be—
+
+&emsp;(1) to increase the public awareness of the value and needs of young individuals;
+
+&emsp;(2) to examine the well-being of young individuals as well as the problems which they face;
+
+&emsp;(3) to describe the extent to which young individuals with identified needs do not receive services to meet such needs;
+
+&emsp;(4) to determine the reasons why young individuals are not receiving needed services; and
+
+&emsp;(5) to develop such specific and comprehensive recommendations for executive and legislative action as may be appropriate to improve the well-being of youth and their families.
+
+#### (c) Conference participants and delegates
+
+#### (1) Participants
+
+&emsp;In order to carry out the purposes of the Conference, the Conference shall bring together—
+
+&emsp;&emsp;(A) representatives of Federal, State, and local governments, including representatives of the General Accounting Office;
+
+&emsp;&emsp;(B) professionals who are working in the field of children, youth, and families; and
+
+&emsp;&emsp;(C) representatives of the general public, particularly young individuals.
+
+#### (2) Selection of delegates
+
+&emsp;The delegates to attend the Conference shall be selected without regard to political affiliation or past partisan activity and shall, to the best of the appointing authority's ability, be representative of the spectrum of thought in the field of children, youth, and families.
+
+(Pub. L. 101–501, title IX, §983, Nov. 3, 1990, 104 Stat. 1280.)
+

@@ -1,0 +1,26 @@
+### §4028. Coastal Barrier Resources System
+
+(a) No new flood insurance coverage may be provided under this chapter on or after October 1, 1983, for any new construction or substantial improvements of structures located on any coastal barrier within the Coastal Barrier Resources System established by section 3503 of title 16. A federally insured financial institution may make loans secured by structures which are not eligible for flood insurance by reason of this section.
+
+(b) No new flood insurance coverage may be provided under this chapter after the expiration of the 1-year period beginning on November 16, 1990, for any new construction or substantial improvements of structures located in any area identified and depicted on the maps referred to in section 3503(a) of title 16 as an area that is (1) not within the Coastal Barrier Resources System and (2) is in an otherwise protected area. Notwithstanding the preceding sentence, new flood insurance coverage may be provided for structures in such protected areas that are used in a manner consistent with the purpose for which the area is protected.
+
+(Pub. L. 90–448, title XIII, §1321, as added Pub. L. 97–35, title III, §341(d)(1), Aug. 13, 1981, 95 Stat. 419; amended Pub. L. 97–348, §11(a), Oct. 18, 1982, 96 Stat. 1658; Pub. L. 101–591, §9, Nov. 16, 1990, 104 Stat. 2938.)
+
+#### Amendments
+
+1990—Pub. L. 101–591 designated existing provisions as subsec. (a) and added subsec. (b).
+
+1982—Subsecs. (a) to (c). Pub. L. 97–348 struck out subsec. designations in subsecs. (a) and (c), in provisions of former subsec. (a) substituted “on any coastal barrier within the Coastal Barrier Resources System established by section 3503 of title 16” for “on undeveloped coastal barriers which shall be designated by the Secretary of the Interior”, and struck out subsec. (b) which provided definitions for purposes of this section.
+
+#### Effective Date
+
+Section effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as a note under section 3701 of Title 12, Banks and Banking.
+
+#### Study for Designation of Undeveloped Coastal Barriers; Report and Recommendations to Congress
+
+Section 341(d)(2) of Pub. L. 97–35, relating to a study by the Secretary of the Interior for the purpose of designating the undeveloped coastal barriers affected by this section, and transmittal to Congress of a report on such study, was repealed by Pub. L. 97–348, §11(b), Oct. 18, 1982, 96 Stat. 1659.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 16 section 3502.
+

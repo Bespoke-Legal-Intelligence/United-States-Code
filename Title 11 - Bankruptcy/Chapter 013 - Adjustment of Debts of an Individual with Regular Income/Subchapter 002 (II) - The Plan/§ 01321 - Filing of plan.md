@@ -1,0 +1,16 @@
+### §1321. Filing of plan
+
+The debtor shall file a plan.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2648.)
+
+#### Historical and Revision Notes
+
+I74senate report no. 95–989
+
+Chapter 13 contemplates the filing of a plan only by the debtor.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1307 of this title.
+

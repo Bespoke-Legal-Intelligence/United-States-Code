@@ -1,0 +1,36 @@
+### §8016 . Assistant Secretaries of the Air Force
+
+(a) There are four Assistant Secretaries of the Air Force. They shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
+
+(b)(1) The Assistant Secretaries shall perform such duties and exercise such powers as the Secretary of the Air Force may prescribe.
+
+(2) One of the Assistant Secretaries shall be the Assistant Secretary of the Air Force for Manpower and Reserve Affairs. He shall have as his principal duty the overall supervision of manpower and reserve component affairs of the Department of the Air Force.
+
+(3) One of the Assistant Secretaries shall be the Assistant Secretary of the Air Force for Financial Management. The Assistant Secretary shall have as his principal responsibility the exercise of the comptroller functions of the Department of the Air Force, including financial management functions. The Assistant Secretary shall be responsible for all financial management activities and operations of the Department of the Air Force and shall advise the Secretary of the Air Force on financial management.
+
+(Added Pub. L. 99–433, title V, §521(a)(3), Oct. 1, 1986, 100 Stat. 1058; amended Pub. L. 100–456, div. A, title VII, §702(c)\[(1)\], (d), Sept. 29, 1988, 102 Stat. 1995, 1996.)
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in section 3013 of this title prior to enactment of Pub. L. 99–433.
+
+#### Amendments
+
+1988—Subsec. (a). Pub. L. 100–456, §702(d), substituted “four” for “three”.
+
+Subsec. (b)(3). Pub. L. 100–456, §702(c)\[(1)\], added par. (3).
+
+#### Effective Date of 1988 Amendment
+
+Section 702(e)(2) of Pub. L. 100–456 provided that: “The amendments made by subsections (c) and (d) \[enacting section 8022 of this title and amending this section\] shall take effect on July 1, 1989, except that such amendments shall take effect on such earlier date, but not before January 21, 1989, as may be prescribed by the President in advance by Executive order.”
+
+#### Order of Succession
+
+For order of succession in event of death, permanent disability, or resignation of Secretary of Defense, see Ex. Ord. No. 12787, Dec. 31, 1991, 57 F.R. 517, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+
+For order of succession in event of death, permanent disability, or resignation of Secretary of the Air Force, see Ex. Ord. No. 12909, Apr. 22, 1994, 59 F.R. 21909, set out as a note under section 3347 of Title 5.
+
+#### Cross References
+
+Compensation of Assistant Secretaries, see section 5315 of Title 5, Government Organization and Employees.
+

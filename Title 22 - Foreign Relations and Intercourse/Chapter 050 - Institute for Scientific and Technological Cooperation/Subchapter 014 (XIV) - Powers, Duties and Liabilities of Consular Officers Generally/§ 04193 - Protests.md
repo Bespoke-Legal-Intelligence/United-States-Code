@@ -1,0 +1,30 @@
+### §4193. Protests
+
+Consuls and vice consuls shall have the right, in the ports or places to which they are severally appointed, of receiving the protests or declarations which captains, masters, crews, passengers, or merchants, who are citizens of the United States, may respectively choose to make there; and also such as any foreigner may choose to make before them relative to the personal interest of any citizen of the United States.
+
+(R.S. §1707; June 25, 1948, ch. 646, §39, 62 Stat. 992.)
+
+#### Codification
+
+R.S. §1707 derived from act Apr. 14, 1792, ch. 24, §2, 1 Stat. 255.
+
+Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
+
+Section was formerly classified to section 1173 of this title, and prior thereto to section 73 of this title.
+
+#### Amendments
+
+1948—Act June 25, 1948, repealed second sentence relating to authenticated copies of consular acts received as evidence.
+
+#### Effective Date of 1948 Amendment
+
+Section 38 of act June 25, 1948, provided that the amendment made by that act is effective Sept. 1, 1948.
+
+#### American Institute in Taiwan
+
+Employees of the American Institute in Taiwan authorized to assist and protect interests of United States persons by performing acts such as are authorized to be performed outside the United States for consular purposes by these sections, see section 1–201 of Ex. Ord. No. 12143, June 22, 1979, 44 F.R. 37191, set out as a note under section 3301 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4191 of this title.
+

@@ -1,0 +1,74 @@
+### §12632. Reports
+
+#### (a) State reports
+
+#### (1) In general
+
+&emsp;Each State receiving assistance under this subchapter shall prepare and submit, to the Corporation, an annual report concerning the use of assistance provided under this subchapter and the status of the national and community service programs that receive assistance under such subchapter in such State.
+
+#### (2) Local grantees
+
+&emsp;Each State may require local grantees that receive assistance under this subchapter to supply such information to the State as is necessary to enable the State to complete the report required under paragraph (1), including a comparison of actual accomplishments with the goals established for the program, the number of participants in the program, the number of service hours generated, and the existence of any problems, delays or adverse conditions that have affected or will affect the attainment of program goals.
+
+#### (3) Report demonstrating compliance
+
+#### (A) In general
+
+&emsp;&emsp;Each State receiving assistance under this subchapter shall include information in the report required under paragraph (1) that demonstrates the compliance of the State with the provisions of this chapter, including section 12637 of this title.
+
+#### (B) Local grantees
+
+&emsp;&emsp;Each State may require local grantees to supply such information to the State as is necessary to enable the State to comply with the requirement of paragraph (1).
+
+#### (4) Availability of report
+
+&emsp;Reports submitted under paragraph (1) shall be made available to the public on request.
+
+#### (b) Report to Congress by Corporation
+
+#### (1) In general
+
+&emsp;Not later than 120 days after the end of each fiscal year, the Corporation shall prepare and submit, to the appropriate authorizing and appropriation Committees of Congress, a report concerning the programs that receive assistance under the national service laws.
+
+#### (2) Content
+
+&emsp;Reports submitted under paragraph (1) shall contain a summary of the information contained in the State reports submitted under subsection (a) of this section, and shall reflect the findings and actions taken as a result of any evaluation conducted by the Corporation.
+
+#### (c) Report to Congress by Secretary of Defense
+
+#### (1) Study
+
+&emsp;The Secretary of Defense shall annually conduct a study of the effect of the programs carried out under this subchapter on recruitment for the Armed Forces.
+
+#### (2) Report
+
+&emsp;The Secretary of Defense shall annually submit a report to the appropriate committees of Congress containing the findings of the study described in paragraph (1) and such recommendations for legislative and administrative reform as the Secretary may determine to be appropriate.
+
+(Pub. L. 101–610, title I, §172, Nov. 16, 1990, 104 Stat. 3159; Pub. L. 103–82, title I, §114, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 861, 918.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a)(3)(A), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+
+#### Amendments
+
+1993—Subsec. (a)(1). Pub. L. 103–82, §402(b)(1), substituted “Corporation” for “Commission”.
+
+Subsec. (a)(3)(A). Pub. L. 103–82, §114(1), substituted “section 12637” for “sections 12637 and 12523(9)”.
+
+Subsec. (b). Pub. L. 103–82, §114(2)(A), substituted “Report to Congress by Corporation” for “Report to Congress” in heading.
+
+Subsec. (b)(1). Pub. L. 103–82, §402(b)(1), substituted “Corporation” for “Commission”.
+
+Pub. L. 103–82, §114(2)(B), substituted “the national service laws” for “this subchapter”.
+
+Subsec. (b)(2). Pub. L. 103–82, §402(b)(1), substituted “Corporation” for “Commission”.
+
+Subsec. (c). Pub. L. 103–82, §114(3), added subsec. (c).
+
+#### Effective Date of 1993 Amendment
+
+Amendment by section 114 of Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
+
+Amendment by section 402(b)(1) of Pub. L. 103–82 effective Oct. 1, 1993, see section 406(a) of Pub. L. 103–82, set out as a note under section 5061 of this title.
+

@@ -1,0 +1,46 @@
+### §410cc–13. Authorization of appropriations
+
+#### (a) General authority; maximum amounts
+
+There are authorized to be appropriated such sums as may be necessary to carry out this subchapter, except that—
+
+&emsp;(1) the total of the amounts authorized to be appropriated for the purpose of acquisition and development under the park management plan established pursuant to section 410cc–21(b) of this title and emergency assistance under section 410cc–25(a)(1) of this title shall not exceed $19,800,000; and
+
+&emsp;(2) the total of the amounts authorized to be appropriated for the purpose of carrying out section 410cc–32(b)(2) of this title, for the payment of grants and loans under section 410cc–33 of this title, for the acquisition of property under section 410cc–34 of this title, and for carrying out any transportation program and any educational and cultural program described in section 410cc–32(c) of this title shall not exceed $33,600,000.
+
+#### (b) Commencement date
+
+No funds shall be authorized pursuant to this section prior to October 1, 1978.
+
+#### (c) Availability of appropriations
+
+Funds appropriated under subsection (a) of this section shall remain available until expended.
+
+#### (d) Aggregate amount of money expended; certifying statement to Congress as limiting availability of appropriated amounts
+
+(1) Within 60 days after June 5, 1978, and on each subsequent October 1 and March 1, the Secretary shall submit to the Congress a statement certifying the aggregate amount of money expended by the Commonwealth of Massachusetts, the city of Lowell, and by any nonprofit entity for activities in the city of Lowell consistent with the purpose of this subchapter during the period beginning on January 1, 1974, and ending on the date such statement is submitted.
+
+(2) The aggregate amount of funds made available by the Secretary to the Commission from funds appropriated under subsection (a)(2) of this section may not exceed the amount certified by the Secretary in the most recent statement submitted to the Congress under paragraph (1) of this subsection.
+
+(Pub. L. 95–290, title I, §103, June 5, 1978, 92 Stat. 292; Pub. L. 100–134, §1(1), Oct. 16, 1987, 101 Stat. 810.)
+
+#### Amendments
+
+1987—Subsec. (a). Pub. L. 100–134 substituted “$19,800,000” for “$18,500,000” in par. (1), and “$33,600,000” for “$21,500,000” in par. (2).
+
+#### Effective Date of 1987 Amendment
+
+Section 2 of Pub. L. 100–134 provided that:
+
+“(a)
+
+In General.—Except as provided in subsection (b), the amendments made by section 1 \[amending sections 410cc–13 and 410cc–31 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 16, 1987\].
+
+“(b)
+
+Effective Date of Authorization of Appropriation.—The amendments made by section 1(1) \[amending section 410cc–13 of this title\] shall take effect on October 1, 1987.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 410cc–24, 410cc–25 of this title.
+

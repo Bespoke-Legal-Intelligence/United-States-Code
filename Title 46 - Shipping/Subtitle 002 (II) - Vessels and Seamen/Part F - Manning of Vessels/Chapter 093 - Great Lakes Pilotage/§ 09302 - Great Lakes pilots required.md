@@ -1,0 +1,86 @@
+### §9302. Great Lakes pilots required
+
+(a)(1) Except as provided in subsections (d) and (e) of this section, each vessel of the United States operating on register and each foreign vessel shall engage a United States or Canadian registered pilot for the route being navigated who shall—
+
+&emsp;(A) in waters of the Great Lakes designated by the President, direct the navigation of the vessel subject to the customary authority of the master; and
+
+&emsp;(B) in waters of the Great Lakes not designated by the President, be on board and available to direct the navigation of the vessel at the discretion of and subject to the customary authority of the master.
+
+(2) The President shall make water designations under this subsection with regard to thepublic interest, the effective use of navigable waters, marine safety, and the foreign relations of the United States.
+
+(b) A member of the complement of a vessel of the United States operating on register or of a vessel of Canada may serve as the pilot required on waters not designated by the President if the member is licensed under section 7101 of this title, or under equivalent provisions of Canadian law, to direct the navigation of the vessel on the waters being navigated.
+
+(c) The authority extended under subsections (a) and (b) of this section to a Canadian registered pilot or other Canadian licensed officer to serve on certain vessels in United States waters of the Great Lakes shall continue as long as Canada extends reciprocity to United States registered pilots and other individuals licensed by the United States for pilotage service in Canadian waters of the Great Lakes.
+
+(d) A vessel may be operated on the United States waters of the Great Lakes without a United States or Canadian registered pilot when—
+
+&emsp;(1) the Secretary notifies the master that a registered pilot is not available; or
+
+&emsp;(2) the vessel or its cargo is in distress or jeopardy.
+
+(e) A Canadian vessel regularly operating on the Great Lakes or between ports on the Great Lakes and the Saint Lawrence River, with only an occasional voyage to ports in the maritime provinces of Canada in the Canadian coastal trade, is exempt from subsections (a) and (b) of this section as long as Canada permits enrolled vessels of the United States to be operated on Canadian waters of the Great Lakes under the direction of individuals licensed under section 7101 of this title.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 557; Pub. L. 101–380, title IV, §4108(a), Aug. 18, 1990, 104 Stat. 514.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source section (U.S. Code)</i>
+
+9302(a), (b), (d)
+
+46:216a
+
+9302(c)
+
+46:216f
+
+Section 9302 sets forth the requirements for pilots on the waters of the Great Lakes under the jurisdiction of the United States or Canada.
+
+Subsection (a) requires each United States vessel sailing on register and each foreign vessel to engage a United States or Canadian registered pilot who shall direct the navigation of the vessel in designated waters of the Great Lakes or be available to direct the navigation of the vessel in undesignated waters of the Great Lakes. The President must make the designation with regard to public interest, effective use of navigable waters, marine safety, and United States foreign relations. The direction of the vessel by an authorized pilot is subject to the customary authority of the master.
+
+Subsection (b) provides that a crewmember licensed for Great Lakes navigation under section 7101 or equivalent Canadian law may serve as the pilot on undesignated waters.
+
+Subsection (c) provides for reciprocity of recognizing United States and Canadian pilots.
+
+Subsections (d) and (e) are exceptions to subsection (a). Subsection (d) permits operation of a vessel on the Great Lakes without a registered pilot if notice is given that one is not available or if the vessel or cargo is in distress or jeopardy. Subsection (e) exempts a Canadian vessel in the coastwise or Great Lakes trade from the requirement of having a registered pilot if similar United States vessels are extended the same exemption by Canada.
+
+#### Amendments
+
+1990—Subsec. (b). Pub. L. 101–380 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “An individual of a vessel licensed for navigation on the Great Lakes under section 7101 of this title, or equivalent provisions of Canadian law, and qualified for the route being navigated, may serve as the pilot required on waters not designated by the President.”
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
+
+#### Proc. No. 3385. Designation of Restricted Waters
+
+Proc. No. 3385, Dec. 22, 1960, 25 F.R. 13681, as amended by Proc. No. 3855, June 10, 1968, 33 F.R. 8535, provided:
+
+WHEREAS, pursuant to section 3(a) of the Great Lakes Pilotage Act of 1960 (Public Law 86–555; 74 Stat. 259) \[46 U.S.C. 9302(a)\], the President is directed to designate and by proclamation announce those United States waters of the Great Lakes in which registered vessels of the United States and foreign vessels shall be required to have in their service a United States registered pilot or a Canadian registered pilot for the waters concerned; and
+
+WHEREAS the aforesaid section 3(a) \[46 U.S.C. 9302(a)\] provides that these designations shall be made with due regard to the public interest, the effective utilization of navigable waters, marine safety, and the foreign relations of the United States:
+
+NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of America, acting under and by virtue of the authority vested in me by section 3(a) of the Great Lakes Pilotage Act of 1960 \[46 U.S.C. 9302(a)\], do hereby designate and proclaim the following areas in which registered vessels of the United States and foreign vessels shall be required to have in their service a United States registered pilot or a Canadian registered pilot for the waters concerned, on and after the effective date of regulations issued by the Secretary of Transportation pursuant to the Act:
+
+(1) <i>District 1.</i> All United States waters of the St. Lawrence River between the international boundary at St. Regis and a line at the head of the river running (at approximately 127° true) between Carruthers Point Light and South Side Light extended to the New York shore.
+
+(2) <i>District 2.</i> All United States waters of Lake Erie westward of a line running (at approximately 026° true) from Sandusky Pierhead Light at Cedar Point to Southeast Shoal Light; all waters contained within the arc of a circle of one mile radius eastward of Sandusky Pierhead Light; the Detroit River; Lake St. Clair; the St. Clair River, and northern approaches thereto south of latitude 43°05G6�30G6��N.
+
+(3) <i>District 3.</i> All United States waters of the St. Marys River, Sault Sainte Marie Locks and approaches thereto between latitude 45°59G6�N. at the southern approach and longitude 84°33G6�W. at the northern approach.
+
+IN WITNESS WHEREOF, I have hereunto set my hand and caused the Seal of the United States of America to be affixed.
+
+DONE at the City of Washington this twenty-second day of December in the year of our Lord nineteen hundred and sixty, and of the Independence of the United States of America the one hundred and eighty-fifth.
+
+> \[
+
+seal\]
+
+Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 9308 of this title.
+

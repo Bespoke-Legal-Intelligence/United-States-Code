@@ -1,0 +1,18 @@
+### §10111. Air National Guard of the United States: composition
+
+The Air National Guard of the United States is the reserve component of the Air Force that consists of—
+
+&emsp;(1) federally recognized units and organizations of the Air National Guard; and
+
+&emsp;(2) members of the Air National Guard who are also Reserves of the Air Force.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2971.)
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in section 8077 of this title, prior to repeal by Pub. L. 103–337, §1661(a)(3)(A).
+
+#### Cross References
+
+Air National Guard generally, see section 101 et seq. of Title 32, National Guard.
+

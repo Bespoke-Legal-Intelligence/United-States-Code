@@ -1,0 +1,16 @@
+### §1775e. Ratification of Town Agreement
+
+#### (a) In general
+
+Notwithstanding any other provision of law, the consent of the United States is hereby given to the Town Agreement and the Town Agreement shall be in full force and effect.
+
+#### (b) Approval of Town Agreement
+
+The Secretary shall approve any subsequent amendments made to the Town Agreement after October 19, 1994, that are—
+
+&emsp;(1) mutually agreed on by the parties to the Town Agreement; and
+
+&emsp;(2) consistent with applicable law.
+
+(Pub. L. 103–377, §7, Oct. 19, 1994, 108 Stat. 3505.)
+

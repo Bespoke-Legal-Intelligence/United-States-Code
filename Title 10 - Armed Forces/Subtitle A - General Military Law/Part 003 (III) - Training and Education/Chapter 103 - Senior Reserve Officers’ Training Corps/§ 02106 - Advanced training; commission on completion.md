@@ -1,0 +1,24 @@
+### §2106. Advanced training; commission on completion
+
+(a) Upon satisfactorily completing the academic and military requirements of the program of advanced training, a member of the program who was selected for advanced training under section 2104 of this title may be appointed as a regular or reserve officer in the appropriate armed force in the grade of second lieutenant or ensign, even though he is under 21 years of age.
+
+(b) The date of rank of officers appointed under this section in May or June of any year is the date of graduation of cadets or midshipmen from the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy, as the case may be, in that year. The Secretary of the military department concerned shall establish the date of rank of all other officers appointed under this section.
+
+(c) In computing length of service for any purpose, an officer appointed under this section may not be credited with enlisted service for the period covered by his advanced training, other than any period of enlisted service while serving on active duty other than for training after July 31, 1990, while a member of the Selected Reserve.
+
+(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1066; amended Pub. L. 102–484, div. A, title V, §517(a)(1), Oct. 23, 1992, 106 Stat. 2407.)
+
+#### Amendments
+
+1992—Subsec. (c). Pub. L. 102–484 inserted before period at end “, other than any period of enlisted service while serving on active duty other than for training after July 31, 1990, while a member of the Selected Reserve”.
+
+#### Cross References
+
+Reimbursement for additional uniforms and equipment, see section 416 of Title 37, Pay and Allowances of the Uniformed Services.
+
+Uniform and equipment allowance, see section 415 of Title 37.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 978 of this title; title 37 section 416.
+

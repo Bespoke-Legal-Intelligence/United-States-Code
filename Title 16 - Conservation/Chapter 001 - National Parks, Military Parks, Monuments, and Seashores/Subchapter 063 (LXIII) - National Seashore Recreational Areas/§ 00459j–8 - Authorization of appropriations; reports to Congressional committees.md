@@ -1,0 +1,40 @@
+### §459j–8. Authorization of appropriations; reports to Congressional committees
+
+#### (a) Acquisition of lands and interests in lands
+
+There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of sections 459j to 459j–8 of this title, but not more than $7,941,000 for the acquisition of lands and interests in lands. In order to avoid excessive costs resulting from delays in the acquisition program, the Secretary shall make every reasonable effort to promptly acquire the privately owned lands within the seashore. Until all such lands are acquired, he shall report, in writing on June 30 of each year to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives, the following information:
+
+&emsp;(1) the amount of land acquired during the current fiscal year and the amount expended therefor;
+
+&emsp;(2) the amount of land remaining to be acquired; and
+
+&emsp;(3) the amount of land programed for acquisition in the ensuing fiscal year and the estimated cost thereof.
+
+#### (b) Development of essential public facilities
+
+For the development of essential public facilities there are authorized to be appropriated $2.6 million in addition to the sums previously appropriated.
+
+(Pub. L. 93–626, §9, Jan. 3, 1975, 88 Stat. 2125; Pub. L. 100–564, §2, Oct. 31, 1988, 102 Stat. 2831; Pub. L. 103–437, §6(m), Nov. 2, 1994, 108 Stat. 4586.)
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–437, §6(m)(1), in introductory provisions substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Congress”.
+
+Subsec. (b). Pub. L. 103–437, §6(m)(2), struck out at end “Within three years from January 3, 1975, the Secretary shall develop and transmit to the Committees on Interior and Insular Affairs of the United States Congress a final master plan for the full development of the seashore consistent with the preservation objectives of sections 459j to 459j–8 of this title, indicating:
+
+&emsp;“(1) the facilities needed to accommodate the health, safety, and recreation needs of the visiting public;
+
+&emsp;“(2) the location and estimated cost of all facilities; and
+
+&emsp;“(3) the projected need for any additional facilities within the seashore.”
+
+1988—Subsec. (b). Pub. L. 100–564 substituted “$2.6 million in addition to the sums previously appropriated” for “not more than $500,000”.
+
+#### Change of Name
+
+Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 459j–1, 459j–2, 459j–4, 459j–5, 459j–6 of this title.
+

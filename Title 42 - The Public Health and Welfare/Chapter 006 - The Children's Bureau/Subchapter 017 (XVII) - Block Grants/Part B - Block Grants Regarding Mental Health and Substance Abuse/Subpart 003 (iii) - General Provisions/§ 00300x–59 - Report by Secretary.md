@@ -1,0 +1,10 @@
+### §300x–59. Report by Secretary
+
+Not later than January 24, 1994, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report on the activities of the States carried out pursuant to the programs established in sections 300x and 300x–21 of this title. Such report may include any recommendations of the Secretary for appropriate changes in legislation.
+
+(July 1, 1944, ch. 373, title XIX, §1949, as added July 10, 1992, Pub. L. 102–321, title II, §203(a), 106 Stat. 408.)
+
+#### Change of Name
+
+Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+

@@ -1,0 +1,30 @@
+### §1300h–3. Establishment of a Band roll
+
+#### (a) Submission of membership roll
+
+Within six months after September 8, 1988, the Band shall submit to the Secretary, for approval, its base membership roll which shall include only individuals who are not members of any other federally recognized Indian tribe or who have relinquished membership in such tribe and who are eligible for membership under subsection (b) of this section.
+
+#### (b) Eligibility
+
+An individual is eligible for inclusion on the base membership roll in the Band if that individual—
+
+&emsp;(1) is on the tribal membership roll as maintained by the Band prior to September 8, 1988, and is on file with the Bureau of Indian Affairs as of September 8, 1988; or
+
+&emsp;(2) is at least one-quarter Chippewa Indian blood and is a person or a descendant of a person who was listed, or could have been listed, on any of the census of the Lac Vieux Desert Band prepared by the Superintendent of the MacKinaw Agency prior to 1928 or by the Superintendent of the Great Lakes agency on or prior to 1940.
+
+#### (c) Maintenance of roll
+
+The Band shall ensure that the roll, once completed and approved, is maintained and kept current.
+
+#### (d) Future eligibility
+
+(1) Notwithstanding paragraph (b) of section 1300h–4 of this title and except as provided in paragraph (2), future membership in the tribe shall be limited to descendants of individuals whose names appear on the base roll and who have at least one-quarter Chippewa blood quantum.
+
+(2) The Band may modify such quarter Chippewa blood quantum requirement if such modification is adopted in the tribal election as prescribed under paragraph (a) of section 1300h–4 of this title or in a referendum by a majority of the voters and approved by the Secretary of the Interior. The Secretary shall approve such new membership requirements once adopted by the tribal voters unless he finds that the proposed amendment is contrary to Federal law.
+
+(Pub. L. 100–420, §5, Sept. 8, 1988, 102 Stat. 1578.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1300h–1, 1300h–6 of this title.
+

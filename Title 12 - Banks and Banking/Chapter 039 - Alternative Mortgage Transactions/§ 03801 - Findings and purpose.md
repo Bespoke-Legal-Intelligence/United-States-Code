@@ -1,0 +1,32 @@
+### §3801 . Findings and purpose
+
+(a) The Congress hereby finds that—
+
+&emsp;(1) increasingly volatile and dynamic changes in interest rates have seriously impared <sup>1</sup> the ability of housing creditors to provide consumers with fixed-term, fixed-rate credit secured by interests in real property, cooperative housing, manufactured homes, and other dwellings;
+
+&emsp;(2) alternative mortgage transactions are essential to the provision of an adequate supply of credit secured by residential property necessary to meet the demand expected during the 1980's; and
+
+&emsp;(3) the Comptroller of the Currency, the National Credit Union Administration, and the Director of the Office of Thrift Supervision have recognized the importance of alternative mortgage transactions and have adopted regulations authorizing federally chartered depository institutions to engage in alternative mortgage financing.
+
+(b) It is the purpose of this chapter to eliminate the discriminatory impact that those regulations have upon nonfederally chartered housing creditors and provide them with parity with federally chartered institutions by authorizing all housing creditors to make, purchase, and enforce alternative mortgage transactions so long as the transactions are in conformity with the regulations issued by the Federal agencies.
+
+(Pub. L. 97–320, title VIII, §802, Oct. 15, 1982, 96 Stat. 1545; Pub. L. 101–73, title VII, §744(c), Aug. 9, 1989, 103 Stat. 438.)
+
+#### Amendments
+
+1989—Subsec. (a)(3). Pub. L. 101–73 substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
+
+#### Short Title
+
+Section 801 of title VIII of Pub. L. 97–320 provided that: “This title \[enacting this chapter\] may be cited as the ‘Alternative Mortgage Transaction Parity Act of 1982’.”
+
+#### Effective Date
+
+Section 807(a) of Pub. L. 97–320 provided that: “This title \[enacting this chapter\] shall be effective upon enactment \[Oct. 15, 1982\].”
+
+#### Identification, Description and Publication of Regulations Inapplicable To, or Conformation of Regulations for Use Of Nonfederally Chartered Housing Creditors
+
+Section 807(b) of Pub. L. 97–320 provided that: “Within sixty days of the enactment of this title \[Oct. 15, 1982\], the Comptroller of the Currency, the National Credit Union Administration, and the Federal Home Loan Bank Board shall identify, describe, and publish those portions or provisions of their respective regulations that are inappropriate for (and thus inapplicable to), or that need to be conformed for the use of, the nonfederally chartered housing creditors to which their respective regulations apply, including without limitation, making necessary changes in terminology to conform the regulatory and disclosure provisions to those more typically associated with various types of transactions including credit sales.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “impaired”.</i>
+

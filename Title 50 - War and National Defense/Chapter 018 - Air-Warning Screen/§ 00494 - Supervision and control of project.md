@@ -1,0 +1,14 @@
+### §494. Supervision and control of project
+
+The provisions of this chapter shall be subject to the duties and authority of the Secretary of Defense and the departments and agencies of the Department of Defense as provided in the National Security Act of 1947.
+
+(Mar. 30, 1949, ch. 41, §4, 63 Stat. 18; Aug. 10, 1949, ch. 412, §12(a), 63 Stat. 591.)
+
+#### References in Text
+
+The National Security Act of 1947, referred to in text, is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
+
+#### Change of Name
+
+“Department of Defense” substituted in text for “National Military Establishment” on authority of act Aug. 10, 1949, ch. 412, §12(a), 63 Stat. 591.
+

@@ -1,0 +1,6 @@
+### §343. Omitted
+
+#### Codification
+
+Section, act May 25, 1926, ch. 380, §3, 44 Stat. 632, authorized Secretary of the Treasury to carry into effect provisions of existing law authorizing acquisition of land for sites and construction of public buildings in certain enumerated cities and provided an additional appropriation law.
+

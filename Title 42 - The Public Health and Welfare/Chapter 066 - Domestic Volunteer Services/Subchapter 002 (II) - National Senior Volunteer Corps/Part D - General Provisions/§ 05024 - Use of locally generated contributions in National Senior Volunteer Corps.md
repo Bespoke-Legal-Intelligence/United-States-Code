@@ -1,0 +1,24 @@
+### §5024. Use of locally generated contributions in National Senior Volunteer Corps
+
+Whenever locally generated contributions made to National Senior Volunteer Corps projects under this subchapter are in excess of the amount required by the Director, the Director may not restrict the manner in which such contributions are expended if expenditures from locally generated contributions are not inconsistent with the provisions of this chapter.
+
+(Pub. L. 93–113, title II, §224, as added Pub. L. 98–288, §16(a), May 21, 1984, 98 Stat. 194; amended Pub. L. 99–551, §10(b)(1), Oct. 27, 1986, 100 Stat. 3077; Pub. L. 101–204, title IX, §902(6), Dec. 7, 1989, 103 Stat. 1826; Pub. L. 103–82, title III, §341(b)(3), Sept. 21, 1993, 107 Stat. 904; Pub. L. 103–304, §3(b)(9), Aug. 23, 1994, 108 Stat. 1568.)
+
+#### Amendments
+
+1994—Pub. L. 103–304 substituted “National Senior Volunteer Corps projects” for “volunteer projects for older Americans”.
+
+1993—Pub. L. 103–82 amended section catchline and in text directed substitution of “National Senior Volunteer Corps projects” for “volunteer projects for Older Americans”, which could not be executed because thephrase “volunteer projects for Older Americans” did not appear in text.
+
+1989—Pub. L. 101–204 substituted “projects” for “programs”.
+
+1986—Pub. L. 99–551 amended directory language of Pub. L. 98–288 to correct an error, and did not involve any change in text.
+
+#### Effective Date of 1993 Amendment
+
+Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as a note under section 4951 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provided, see section 11 of Pub. L. 99–551, set out as an Effective Date note under section 4950 of this title.
+

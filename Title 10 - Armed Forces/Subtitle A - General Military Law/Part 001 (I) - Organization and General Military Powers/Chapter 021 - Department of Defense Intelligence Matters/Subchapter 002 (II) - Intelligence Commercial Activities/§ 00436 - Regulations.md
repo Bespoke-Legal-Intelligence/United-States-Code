@@ -1,0 +1,22 @@
+### §436. Regulations
+
+The Secretary of Defense shall prescribe regulations to implement the authority provided in this subchapter. Such regulations shall be consistent with this subchapter and shall at a minimum—
+
+&emsp;(1) specify all elements of the Department of Defense who are authorized to engage in commercial activities pursuant to this subchapter;
+
+&emsp;(2) require the personal approval of the Secretary or Deputy Secretary of Defense for all sensitive activities to be authorized pursuant to this subchapter;
+
+&emsp;(3) specify all officials who are authorized to grant waivers of laws or regulations pursuant to section 433(b) of this title, or to approve the establishment or conduct of commercial activities pursuant to this subchapter;
+
+&emsp;(4) designate a single office within the Defense Intelligence Agency to be responsible for the management and supervision of all activities authorized under this subchapter;
+
+&emsp;(5) require that each commercial activity proposed to be authorized under this subchapter be subject to appropriate legal review before the activity is authorized; and
+
+&emsp;(6) provide for appropriate internal audit controls and oversight for such activities.
+
+(Added Pub. L. 102–88, title V, §504(a)(2), Aug. 14, 1991, 105 Stat. 439.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 437 of this title.
+

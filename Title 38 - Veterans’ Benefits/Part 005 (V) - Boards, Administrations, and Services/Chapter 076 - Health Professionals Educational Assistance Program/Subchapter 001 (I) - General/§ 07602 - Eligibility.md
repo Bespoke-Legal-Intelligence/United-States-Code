@@ -1,0 +1,22 @@
+### §7602. Eligibility
+
+(a)(1) To be eligible to participate in the Educational Assistance Program under subchapter I or II of this chapter, an individual must be accepted for enrollment or be currently enrolled as a student at a qualifying educational institution in a course of education or training that is approved by the Secretary and that leads toward completion of a degree in a field of education or training for which a scholarship may be awarded under subchapter II of this chapter or for which tuition reimbursement may be provided under subchapter III of this chapter.
+
+(2) A qualifying educational institution for purposes of this section is an educational institution that is in a State and that (as determined by the Secretary) is an accredited institution.
+
+(b) An individual is not eligible to apply to participate in the Educational Assistance Program under subchapter I or II of this chapter if the individual is obligated under any other Federal program to perform service after completion of the course of education or training of such individual referred to in subsection (a) of this section.
+
+(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 518, §4302; amended Pub. L. 101–366, title II, §205(c)(2), Aug. 15, 1990, 104 Stat. 441; renumbered §7602, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+
+#### Amendments
+
+1991—Pub. L. 102–40 renumbered section 4302 of this title as this section.
+
+Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator” in pars. (1) and (2).
+
+1990—Subsecs. (a)(1), (b). Pub. L. 101–366 inserted “under subchapter I or II of this chapter” after “Educational Assistance Program”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7612 of this title.
+

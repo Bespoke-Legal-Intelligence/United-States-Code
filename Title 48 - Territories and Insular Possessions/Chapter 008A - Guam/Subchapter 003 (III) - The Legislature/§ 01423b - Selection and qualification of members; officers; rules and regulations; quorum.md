@@ -1,0 +1,14 @@
+### §1423b. Selection and qualification of members; officers; rules and regulations; quorum
+
+The legislature shall be the judge of the selection and qualification of its own members. It shall choose from its members its own officers, determine its rules and procedure, not inconsistent with this chapter, and keep a journal. The quorum of the legislature shall consist of eleven of its members. No bill shall become a law unless it shall have been passed at a meeting, at which a quorum was present, by the affirmative vote of a majority of the members present and voting, which vote shall be by yeas and nays.
+
+(Aug. 1, 1950, ch. 512, §12, 64 Stat. 388; Sept. 11, 1968, Pub. L. 90–497, §6(b), 82 Stat. 846.)
+
+#### Amendments
+
+1968—Pub. L. 90–497 inserted a quorum requirement, provided that a quorum of the legislature consist of eleven of its members, and made presence of a quorum requisite to passage of a law.
+
+#### Effective Date of 1968 Amendment
+
+Section 6(b) of Pub. L. 90–497 provided that the amendment made by that section is effective on date of enactment of Pub. L. 90–497, which was approved Sept. 11, 1968.
+

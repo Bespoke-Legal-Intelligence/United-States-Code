@@ -1,0 +1,19 @@
+### <b>CHAPTER 21—HIGHER EDUCATION FACILITIES</b>
+
+#### Codification
+
+This chapter has been superseded generally by section 1132a et seq. of this title.
+
+#### Continuation of Programs
+
+Pub. L. 92 318, §161(b)(1), June 23, 1972, 86 Stat. 303, provided that: “The programs authorized by title VII of the Higher Education Act of 1965 \[section 1132a et seq. of this title\] shall be deemed to be a continuation of the comparable programs authorized by the Higher Education Facilities Act of 1963 \[this chapter\].”
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 00701 - Omitted](%C2%A7%2000701%20-%20Omitted.md)
+- [Subchapter 001 (I) - Grants for Construction of Undergraduate Academic Facilities](Subchapter%20001%20%28I%29%20-%20Grants%20for%20Construction%20of%20Undergraduate%20Academic%20Facilities/README.md)
+- [Subchapter 002 (II) - Grants for Construction of Graduate Academic Facilities](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Graduate%20Academic%20Facilities/README.md)
+- [Subchapter 004 (IV) - General Provisions](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/README.md)

@@ -1,0 +1,8 @@
+### \[§3551. Repealed. Pub. L. 103–353, §2(b)(2)(B), Oct. 13, 1994, 108 Stat. 3169\]
+
+Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 429; Pub. L. 90–491, §2, Aug. 17, 1968, 82 Stat. 791, provided that employee of Federal or District of Columbia government, ordered to active duty or to duty under sections 502–505 of Title 32, National Guard, as a Reserve of the armed forces or member of National Guard, was entitled, on release from duty within time limits specified in section 459(g) of Title 50, Appendix, War and National Defense, to be restored to position held by him when ordered to duty, and provided that a Reserve or member of National Guard who left position for which salary was disbursed by Secretary of the Senate or Clerk of the House of Representatives was entitled on release to be restored only under the provisions of section 459 of Title 50, Appendix.
+
+#### Effective Date of Repeal
+
+Repeal effective with respect to reemployments initiated on or after first day after 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date of 1994 Amendment note under section 4301 of Title 38, Veterans’ Benefits.
+

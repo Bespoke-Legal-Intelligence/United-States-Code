@@ -1,0 +1,18 @@
+### §6195. Reports to Congress
+
+#### (a) In general
+
+Not later than 24 months after May 4, 1994, and every 12 months thereafter, the Secretaries shall prepare and submit a report to the Congress on all activities carried out pursuant to this chapter.
+
+#### (b) Contents
+
+The Secretaries shall, at a minimum, include in each such report—
+
+&emsp;(1) information concerning the programs that receive assistance under this chapter;
+
+&emsp;(2) a summary of the information contained in the State and local partnership reports submitted under subchapters II and III of this chapter and section 6192(c) of this title; and
+
+&emsp;(3) information regarding the findings and actions taken as a result of any evaluation conducted by the Secretaries.
+
+(Pub. L. 103 239, title IV, §405, May 4, 1994, 108 Stat. 597.)
+

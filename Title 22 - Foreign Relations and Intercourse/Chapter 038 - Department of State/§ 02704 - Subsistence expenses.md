@@ -1,0 +1,16 @@
+### §2704. Subsistence expenses
+
+The Secretary of State may pay, without regard to section 5702 of title 5, subsistence expenses of (1) special agents of the Department of State who are on authorized protective missions, and (2) members of the Foreign Service and employees of the Department who are required to spend extraordinary amounts of time in travel status. The authorities available to the Secretary of State under this section with respect to the Department of State shall be available to the Director of the United States Information Agency and the Director of the United States International Development Cooperation Agency with respect to their respective agencies, except that the authority of clause (2) shall be available with respect to those agencies only in the case of members of the Foreign Service and employees of the agency who are performing security-related functions abroad.
+
+(Aug. 1, 1956, ch. 841, title I, §32, as added Oct. 17, 1980, Pub. L. 96–465, title II, §2201(a), 94 Stat. 2157; renumbered title I, Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282; Oct. 19, 1984, Pub. L. 98–533, title III, §303(c), 98 Stat. 2711; Aug. 16, 1985, Pub. L. 99–93, title I, §125(b), 99 Stat. 417.)
+
+#### Amendments
+
+1985—Pub. L. 99–93 substituted “special agents” for “security officers”.
+
+1984—Pub. L. 98–533 inserted “The authorities available to the Secretary of State under this section with respect to the Department of State shall be available to the Director of the United States Information Agency and the Director of the United States International Development Cooperation Agency with respect to their respective agencies, except that the authority of clause (2) shall be available with respect to those agencies only in the case of members of the Foreign Service and employees of the agency who are performing security-related functions abroad.”
+
+#### Effective Date
+
+Section effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as a note under section 3901 of this title.
+

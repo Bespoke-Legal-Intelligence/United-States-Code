@@ -1,0 +1,6 @@
+### §144. Transferred
+
+#### Codification
+
+Section, act Mar. 3, 1931, ch. 436, 46 Stat. 1508, which designated “The Star-Spangled Banner” as the national anthem of the United States, was transferred to section 170 of this title.
+

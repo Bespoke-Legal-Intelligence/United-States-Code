@@ -1,0 +1,28 @@
+### §8262a. Report by General Services Administration
+
+Not later than one year after October 24, 1992, and annually thereafter, the Administrator of General Services shall report to the Committee on Governmental Affairs and the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce, the Committee on Government Operations, and the Committee on Public Works and Transportation of the House of Representatives on the activities of the General Services Administration conducted pursuant to this subtitle.<sup>1</sup>
+
+(Pub. L. 102–486, title I, §154, Oct. 24, 1992, 106 Stat. 2852.)
+
+#### References in Text
+
+This subtitle, referred to in text, is subtitle F (§§151–168) of title I of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2843, which enacted this section and sections 8258a, 8258b, 8262, 8262b to 8262k of this title, amended sections 8252 to 8256, 8258, 8259, 8287, and 8287c of this title and section 490 of Title 40, Public Buildings, Property, and Works, enacted provisions set out as notes under section 8262h of this title and section 166 of Title 40, and repealed provisions set out as a note under section 8253 of this title. For complete classification of subtitle F to the Code, see Tables.
+
+#### Codification
+
+Section was enacted as part of the Energy Policy Act of 1992, and not as part of the National Energy Conservation Policy Act which comprises this chapter.
+
+#### Change of Name
+
+Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+Committee on Government Operations of House of Representatives changed to Committee on Government Reform and Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 8262b, 8262e of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

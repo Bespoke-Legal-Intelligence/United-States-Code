@@ -1,0 +1,206 @@
+### §301. Department of the Treasury
+
+(a) The Department of the Treasury is an executive department of the United States Government at the seat of the Government.
+
+(b) The head of the Department is the Secretary of the Treasury. The Secretary is appointed by the President, by and with the advice and consent of the Senate.
+
+(c) The Department has a Deputy Secretary of the Treasury appointed by the President, by and with the advice and consent of the Senate. The Deputy Secretary shall carry out—
+
+&emsp;(1) duties and powers prescribed by the Secretary; and
+
+&emsp;(2) the duties and powers of the Secretary when the Secretary is absent or unable to serve or when the office of Secretary is vacant.
+
+(d) The Department has 2 Under Secretaries, an Under Secretary for Enforcement, 2 Deputy Under Secretaries, and a Treasurer of the United States, appointed by the President, by and with the advice and consent of the Senate. The Department also has a Fiscal Assistant Secretary appointed by the Secretary. They shall carry out duties and powers prescribed by the Secretary. The President may designate one Under Secretary as Counselor. When appointing each Deputy Under Secretary, the President may designate the Deputy Under Secretary as an Assistant Secretary.
+
+(e) The Department has 7 Assistant Secretaries appointed by the President, by and with the advice and consent of the Senate. The Assistant Secretaries shall carry out duties and powers prescribed by the Secretary. The Assistant Secretaries appointed under this subsection are in addition to the Assistant Secretaries appointed under subsection (d) of this section.
+
+(f)(1) The Department has a General Counsel appointed by the President, by and with the advice and consent of the Senate. The General Counsel is the chief law officer of the Department. Without regard to those provisions of title 5 governing appointment in the competitive service, the Secretary may appoint not more than 5 Assistant General Counsels. The Secretary may designate one of the Assistant General Counsels to act as the General Counsel when the General Counsel is absent or unable to serve or when the office of General Counsel is vacant. The General Counsel and Assistant General Counsels shall carry out duties and powers prescribed by the Secretary.
+
+(2) The President may appoint, by and with the advice and consent of the Senate, an Assistant General Counsel who shall be the Chief Counsel for the Internal Revenue Service. The Chief Counsel is the chief law officer for the Service and shall carry out duties and powers prescribed by the Secretary.
+
+(g) The Department shall have a seal.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 878; Pub. L. 98–594, §1(a), Oct. 30, 1984, 98 Stat. 3129; Pub. L. 99–190, §141, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 103–211, title II, §2003(a), Feb. 12, 1994, 108 Stat. 24.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+301(a)
+
+31:1001(words before 1st comma).
+
+R.S. §233.
+
+301(b)
+
+31:1001(words after 1st comma).
+
+301(c)
+
+31:1004(related to Deputy Secretary).
+
+Feb. 17, 1922, ch. 55(related to appointment and duties of Deputy and Under Secretaries), 42 Stat. 366; July 22, 1954, ch. 557, §3, 68 Stat. 496; restated May 18, 1972, Pub. L. 92–302, §1(a), 86 Stat. 148.
+
+&nbsp;
+
+&nbsp;
+
+Jan. 3, 1923, ch. 22(related to appointment and duties of Deputy and Under Secretaries), 42 Stat. 1087.
+
+&nbsp;
+
+&nbsp;
+
+Apr. 4, 1924, ch. 84(related to appointment and duties of Deputy and Under Secretaries), 43 Stat. 64.
+
+&nbsp;
+
+31:1005.
+
+Feb. 17, 1922, ch. 55(related to vacancy in office of Secretary of the Treasury), 42 Stat. 366; restated May 18, 1972, Pub. L. 92–302, §1(a), 86 Stat. 149.
+
+&nbsp;
+
+&nbsp;
+
+Jan. 3, 1923, ch. 22(related to vacancy in office of Secretary of the Treasury), 42 Stat. 1087.
+
+&nbsp;
+
+&nbsp;
+
+Apr. 4, 1924, ch. 84(related to vacancy in office of Secretary of the Treasury), 43 Stat. 64.
+
+301(d)
+
+31:141.
+
+R.S. §301.
+
+&nbsp;
+
+31:1004(related to Under Secretaries).
+
+&nbsp;
+
+31:1005a(1st–3d sentences).
+
+May 18, 1972, Pub. L. 92–302, §1(b), 86 Stat. 149.
+
+&nbsp;
+
+5 App.
+
+Reorg. Plan No. 3 of 1940, eff. June 30, 1940, §1(a)(7)(1st sentence), 54 Stat. 1231.
+
+301(e)
+
+31:1005a(last sentence).
+
+&nbsp;
+
+31:1006.
+
+R.S. §234; July 11, 1890, ch. 667, §1(1st par. under heading “Treasury Department”), 26 Stat. 236; Mar. 3, 1917, ch. 163, §1(1st par. under heading “Treasury Department”), 39 Stat. 1083; Reorg. Plan No. 3 of 1940, eff. June 30, 1940, §1(d), 54 Stat. 1232; restated July 22, 1954, ch. 557, §4, 68 Stat. 496; July 8, 1963, Pub. L. 88–58, 77 Stat. 76; May 18, 1972, Pub. L. 92–302, §1(c), 86 Stat. 149.
+
+&nbsp;
+
+31:1007.
+
+R.S. §245.
+
+301(f)(1)
+
+26:7801(b)(1), (2)(last sentence), (3).
+
+Aug. 16, 1954, ch. 736, §7801(b), 68A Stat. 915; restated Sept. 22, 1959, Pub. L. 86–368, §1, 73 Stat. 647; Aug. 14, 1964, Pub. L. 88–426, §305(39), 78 Stat. 427; Oct. 4, 1976, Pub. L. 94–455, §1906(b)(13)(B), 90 Stat. 1834.
+
+&nbsp;
+
+31:1009.
+
+May 10, 1934, ch. 277, §512(a), (c), 48 Stat. 758, 759.
+
+301(f)(2)
+
+26:7801(b)(2)(1st, 2d sentences).
+
+301(g)
+
+31:1010(related to seal).
+
+R.S. §372(related to seal); May 10, 1934, ch. 277, §512(b), 48 Stat. 759.
+
+In subsection (a), the words “of the United States Government” are added for clarity.
+
+In subsection (b), the words “The Secretary is appointed by the President, by and with the advice and consent of the Senate” are added to conform with clause 2, section 2, of article II of the Constitution.
+
+In subsection (c), the words “carry out” and “duties and powers” are substituted for “perform” and “duties”, respectively, for consistency in the revised title and with other titles of the United States Code. In clause (1), the words “in the Office of the Secretary” in 31:1004 are omitted as unnecessary because of the restatement and for consistency. Clause (2) is substituted for 31:1005 to eliminate unnecessary words and for consistency with other titles of the Code.
+
+In subsection (d), the words “in accordance with the civil-service laws” in section 1(a)(7)(1st sentence) of Reorganization Plan No. 3 of 1940 (eff. June 30, 1940, 54 Stat. 1232) are omitted as unnecessary because of title 5. The words “and shall receive a salary at the rate of $15,000 per annum” are omitted as superseded by 5:5316. The words “carry out” and “duties and powers” are substituted for “perform” and “duties”, respectively, in 31:1004 and 1005a for consistency in the revised title and with other titles of the Code. The words “in the Office of the Secretary” in 31:1004 are omitted as unnecessary because of the restatement and for consistency. The words “of the Treasury” in 31:1005a are omitted for consistency with other titles of the Code and as being unnecessary.
+
+In subsection (e), the words “of the Treasury” in 31:1006 and 1007 are omitted for consistency with other titles of the Code and as being unnecessary. The words “examine letters, contracts, and warrants prepared for the signature of the Secretary of the Treasury” and “by law” in 31:1007 are omitted as superseded by the source provisions restated in section 321 of the revised title. The words “carry out” and “duties and powers” are substituted for “perform” and “duties”, respectively, for consistency in the revised title and with other titles of the Code.
+
+In subsection (f), the words “carry out” and “duties and powers” are substituted for “perform” and “duties”, respectively, for consistency in the revised title and with other titles of the Code. The text of 26:7801(b)(3) is omitted as unnecessary because of 5:3101. The words “is absent or unable to serve or when the office of General Counsel is vacant” are substituted for “during the absence of” for clarity and consistency. The text of 31:1009(less (a)(6th sentence)) is omitted as superseded by 26:7801(b) as restated in this subsection.
+
+In subsection (f)(1), the words “governing appointment in the competitive service” are substituted for “civil service laws” to conform to 5:2102.
+
+In subsection (g), the words “The General Counsel . . . shall have charge” are omitted as superseded by the source provisions restated in subsection (b) of this section and section 321(c) of the revised title.
+
+#### References in Text
+
+The provisions of title 5 governing appointment in the competitive service, referred to in subsec. (f)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1994—Subsec. (d). Pub. L. 103–211 inserted “an Under Secretary for Enforcement,” after “2 Under Secretaries,”.
+
+1985—Subsec. (d). Pub. L. 99–190 substituted “2 Under Secretaries” for “an Under Secretary, an Under Secretary for Monetary Affairs” and “The President may designate one Under Secretary as Counselor” for “When appointing the Under Secretary, the President may designate the Under Secretary as Counselor”.
+
+1984—Subsec. (e). Pub. L. 98–594 substituted “7” for “5”.
+
+#### Establishment of Office of the Undersecretary for Enforcement
+
+Pub. L. 103–123, title I, §105, Oct. 28, 1993, 107 Stat. 1234, provided that: “Notwithstanding any other provision of law, the Secretary of the Treasury shall establish an Office of the Undersecretary for Enforcement within the Department of the Treasury by no later than February 15, 1994.”
+
+#### Compensation and Emoluments of Secretary of the Treasury at Level in Effect on January 1, 1989; Actions Challenging Appointment on Constitutional Grounds
+
+Pub. L. 103–2, Jan. 19, 1993, 107 Stat. 4, provided: “That (a) the compensation and other emoluments attached to the office of Secretary of the Treasury shall be those in effect January 1, 1989, notwithstanding any increase in such compensation or emoluments after that date under—
+
+&emsp;“(1) the Ethics Reform Act of 1989 (Public Law 101–194) \[see Tables for classification\] or any other provision of law amended by that Act; or
+
+&emsp;“(2) any other provision of law, or provision which has the force and effect of law, that is enacted or becomes effective during the period beginning at noon of January 3, 1989, and ending at noon of January 3, 1995.
+
+“(b)(1) Any person aggrieved by an action of the Secretary of the Treasury may bring a civil action in the United States District Court for the District of Columbia to contest the constitutionality of the appointment and continuance in office of the Secretary of the Treasury on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution. The United States District Court for the District of Columbia shall have exclusive jurisdiction over such a civil action, without regard to the sum or value of the matter in controversy.
+
+“(2) Any claim challenging the constitutionality of the appointment and continuance in office of the Secretary of the Treasury on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution, in an action brought under paragraph (1) shall be heard and determined by a panel of three judges in accordance with section 2284 of title 28, United States Code. It shall be the duty of the district court to advance on the docket and to expedite the disposition of any matter brought under this subsection.
+
+“(3)(A) An appeal may be taken directly to the Supreme Court of the United States from any interlocutory or final judgment, decree, or order upon the validity of the appointment and continuance in office of the Secretary of the Treasury under article I, section 6, clause 2, of the Constitution, entered in any action brought under this subsection. Any such appeal shall be taken by a notice of appeal filed within 20 days after such judgment, decree, or order is entered.
+
+“(B) The Supreme Court shall, if it has not previously ruled on the question presented by an appeal taken pursuant to subparagraph (A), accept jurisdiction over the appeal, advance the appeal on the docket, and expedite the appeal.
+
+“(c) This joint resolution shall become effective at 12:00 p.m., January 20, 1993.”
+
+#### Duties and Functions of Department of the Treasury
+
+Nothing in Pub. L. 101–576 \[see Short Title of 1990 Amendment note set out under section 501 of this title\] to be construed to interfere with exercise of functions, duties, and responsibilities of Department of the Treasury, as in effect immediately before Nov. 15, 1990, see section 204 of Pub. L. 101–576, set out as a note under section 501 of this title.
+
+#### Designation of Officers To Act as Secretary of the Treasury
+
+Designation of officers of Treasury Department to act as Secretary of Treasury, during any period when, by reason of absence, disability, or vacancy in office, either the Secretary of Treasury or his Deputy Secretary is not available to exercise the powers or perform the duties of the office of the Secretary, see Ex. Ord. No. 11822, Dec. 10, 1974, 39 F.R. 43275, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+
+#### Cross References
+
+Classification and pay of employees, see sections 5101 et seq. and 5331 et seq. of Title 5, Government Organization and Employees.
+
+Compensation of Secretary and other officers, see section 5312 et seq. of Title 5.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 306 of this title; title 12 sections 482, 1462a; title 26 section 7801.
+

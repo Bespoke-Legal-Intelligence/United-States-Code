@@ -1,0 +1,6 @@
+### §54. Omitted
+
+#### Codification
+
+Section, act Apr. 5, 1906, ch. 1366, §3, 34 Stat. 100, abolished grade of commercial agent.
+

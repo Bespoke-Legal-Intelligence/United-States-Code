@@ -1,0 +1,326 @@
+### §8401. Definitions
+
+For the purpose of this chapter—
+
+&emsp;(1) the term “account” means an account established and maintained under section 8439(a) of this title;
+
+&emsp;(2) the term “annuitant” means a former employee or Member who, on the basis of that individual's service, meets all requirements for title to an annuity under subchapter II or V of this chapter and files claim therefor;
+
+&emsp;(3) the term “average pay” means the largest annual rate resulting from averaging an employee's or Member's rates of basic pay in effect over any 3 consecutive years of service or, in the case of an annuity under this chapter based on service of less than 3 years, over the total service, with each rate weighted by the period it was in effect;
+
+&emsp;(4) except as provided in subchapter III of this chapter, the term “basic pay” has the meaning given such term by section 8331(3);
+
+&emsp;(5) the term “Board” means the Federal Retirement Thrift Investment Board established by section 8472(a) of this title;
+
+&emsp;(6) the term “Civil Service Retirement and Disability Fund” or “Fund” means the Civil Service Retirement and Disability Fund under section 8348;
+
+&emsp;(7) the term “court” means any court of any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court;
+
+&emsp;(8) the term “Director” means the Director of the Office of Personnel Management;
+
+&emsp;(9) the term “dynamic assumptions” means economic assumptions that are used in determining actuarial costs and liabilities of a retirement system and in anticipating the effects of long-term future—
+
+&emsp;&emsp;(A) investment yields;
+
+&emsp;&emsp;(B) increases in rates of basic pay; and
+
+&emsp;&emsp;(C) rates of price inflation;
+
+&emsp;(10) the term “earnings”, when used with respect to the Thrift Savings Fund, means the amount of the gain realized or yield received from the investment of sums in such Fund;
+
+&emsp;(11) the term “employee” means—
+
+&emsp;&emsp;(A) an individual referred to in subparagraph (A), (E), (F), (H), (I), (J), or (K) of section 8331(1) of this title;
+
+&emsp;&emsp;(B) a Congressional employee as defined in section 2107 of this title, including a temporary Congressional employee and an employee of the Congressional Budget Office; and
+
+&emsp;&emsp;(C) an employee described in section 2105(c) who has made an election under section 8461(n)(1) to remain covered under this chapter;
+
+> &emsp;whose civilian service after December 31, 1983, is employment for the purposes of title II of the Social Security Act and chapter 21 of the Internal Revenue Code of 1986, except that such term does not include—
+
+&emsp;&emsp;(i) any individual referred to in—
+
+&emsp;&emsp;&emsp;(I) clause (i), (vi), or (ix) of paragraph (1) of section 8331;
+
+&emsp;&emsp;&emsp;(II) clause (ii) of such paragraph; or
+
+&emsp;&emsp;&emsp;(III) the undesignated material after the last clause of such paragraph;
+
+&emsp;&emsp;(ii) any individual excluded under section 8402(c) of this title;
+
+&emsp;&emsp;(iii) a member of the Foreign Service described in section 103(6) of the Foreign Service Act of 1980; or
+
+&emsp;&emsp;(iv) an employee who has made an election under section 8461(n)(2) to remain covered by a retirement system established for employees described in section 2105(c);
+
+&emsp;(12) the term “former spouse” means a former spouse of an individual—
+
+&emsp;&emsp;(A) if such individual performed at least 18 months of civilian service creditable under section 8411 as an employee or Member; and
+
+&emsp;&emsp;(B) if the former spouse was married to such individual for at least 9 months;
+
+&emsp;(13) the term “Executive Director” means the Executive Director appointed under section 8474(a);
+
+&emsp;(14) the term “firefighter” means—
+
+&emsp;&emsp;(A) an employee, the duties of whose position—
+
+&emsp;&emsp;&emsp;(i) are primarily to perform work directly connected with the control and extinguishment of fires; and
+
+&emsp;&emsp;&emsp;(ii) are sufficiently rigorous that employment opportunities should be limited to young and physically vigorous individuals, as determined by the Director considering the recommendations of the employing agency; and
+
+&emsp;&emsp;(B) an employee who is transferred directly to a supervisory or administrative position after performing duties described in subparagraph (A) for at least 3 years;
+
+&emsp;(15) the term “Government” means the Federal Government, Gallaudet College, and, in the case of an employee described in paragraph (11)(C), a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c);
+
+&emsp;(16) the term “Indian court” has the meaning given such term by section 8331(24);
+
+&emsp;(17) the term “law enforcement officer” means—
+
+&emsp;&emsp;(A) an employee, the duties of whose position—
+
+&emsp;&emsp;&emsp;(i) are primarily—
+
+&emsp;&emsp;&emsp;&emsp;(I) the investigation, apprehension, or detention of individuals suspected or convicted of offenses against the criminal laws of the United States, or
+
+&emsp;&emsp;&emsp;&emsp;(II) the protection of officials of the United States against threats to personal safety; and
+
+&emsp;&emsp;&emsp;(ii) are sufficiently rigorous that employment opportunities should be limited to young and physically vigorous individuals, as determined by the Director considering the recommendations of the employing agency;
+
+&emsp;&emsp;(B) an employee of the Department of the Interior or the Department of the Treasury (excluding any employee under subparagraph (A)) who occupies a position that, but for the enactment of the Federal Employees’ Retirement System Act of 1986, would be subject to the District of Columbia Police and Firefighters’ Retirement System, as determined by the Secretary of the Interior or the Secretary of the Treasury, as appropriate;
+
+&emsp;&emsp;(C) an employee who is transferred directly to a supervisory or administrative position after performing duties described in subparagraph (A) and (B) for at least 3 years; and
+
+&emsp;&emsp;(D) an employee—
+
+&emsp;&emsp;&emsp;(i) of the Bureau of Prisons or Federal Prison Industries, Incorporated;
+
+&emsp;&emsp;&emsp;(ii) of the Public Health Service assigned to the field service of the Bureau of Prisons or of the Federal Prison Industries, Incorporated; or
+
+&emsp;&emsp;&emsp;(iii) in the field service at Army or Navy disciplinary barracks or at any other confinement and rehabilitation facility operated by any of the armed forces;
+
+> &emsp;&emsp;whose duties in connection with individuals in detention suspected or convicted of offenses against the criminal laws of the United States or of the District of Columbia or offenses against the punitive articles of the Uniform Code of Military Justice (chapter 47 of title 10) require frequent direct contact with these individuals in their detention and are sufficiently rigorous that employment opportunities should be limited to young and physically vigorous individuals, as determined by the head of the employing agency;
+
+&emsp;(18) the term “loss”, as used with respect to the Thrift Savings Fund, includes the amount of any loss resulting from the investment of sums in such Fund, or from the breach of any responsibility, duty, or obligation under section 8477.<sup>1</sup>
+
+&emsp;(19) the term “lump-sum credit” means the unrefunded amount consisting of—
+
+&emsp;&emsp;(A) retirement deductions made from the basic pay of an employee or Member under section 8422(a) of this title (or under section 204 of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983);
+
+&emsp;&emsp;(B) amounts deposited by an employee or Member under section 8422(e);
+
+&emsp;&emsp;(C) amounts deposited by an employee, Member, or survivor under section 8411(f); and
+
+&emsp;&emsp;(D) interest on the deductions and deposits which, for any calendar year, shall be equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 8348(c), (d), and (e), as determined by the Secretary (compounded annually);
+
+> &emsp;but does not include interest—
+
+&emsp;&emsp;(i) if the service covered thereby aggregates 1 year or less; or
+
+&emsp;&emsp;(ii) for a fractional part of a month in the total service;
+
+&emsp;(20) the term “Member” has the same meaning as provided in section 2106, except that such term does not include an individual who irrevocably elects, by written notice to the official by whom such individual is paid, not to participate in the Federal Employees’ Retirement System;
+
+&emsp;(21) the term “net earnings” means the excess of earnings over losses;
+
+&emsp;(22) the term “net losses” means the excess of losses over earnings;
+
+&emsp;(23) the term “normal-cost percentage” means the entry-age normal cost of the provisions of the System which relate to the Fund, computed by the Office in accordance with generally accepted actuarial practice and standards (using dynamic assumptions) and expressed as a level percentage of aggregate basic pay;
+
+&emsp;(24) the term “Office” means the Office of Personnel Management;
+
+&emsp;(25) the term “price index” has the same meaning as provided in section 8331(15);
+
+&emsp;(26) the term “service” means service which is creditable under section 8411;
+
+&emsp;(27) the term “supplemental liability” means the estimated excess of—
+
+&emsp;&emsp;(A) the actuarial present value of all future benefits payable from the Fund under this chapter based on the service of current or former employees or Members, over
+
+&emsp;&emsp;(B) the sum of—
+
+&emsp;&emsp;&emsp;(i) the actuarial present value of deductions to be withheld from the future basic pay of employees and Members currently subject to this chapter pursuant to section 8422;
+
+&emsp;&emsp;&emsp;(ii) the actuarial present value of the future contributions to be made pursuant to section 8423(a) with respect to employees and Members currently subject to this chapter;
+
+&emsp;&emsp;&emsp;(iii) the Fund balance as of the date the supplemental liability is determined, to the extent that such balance is attributable—
+
+&emsp;&emsp;&emsp;&emsp;(I) to the System, or
+
+&emsp;&emsp;&emsp;&emsp;(II) to contributions made under the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 by or on behalf of an individual who became subject to the System; and
+
+&emsp;&emsp;&emsp;(iv) any other appropriate amount, as determined by the Office in accordance with generally accepted actuarial practices and principles;
+
+&emsp;(28) the term “survivor” means an individual entitled to an annuity under subchapter IV of this chapter;
+
+&emsp;(29) the term “System” means the Federal Employees’ Retirement System described in section 8402(a);
+
+&emsp;(30) the term “military reserve technician” means a member of one of the reserve components of the armed forces specified in section 10101 of title 10 who—
+
+&emsp;&emsp;(A) is assigned to a civilian position as a technician in the administration and training of such reserve components or in the maintenance and repair of supplies issued to such reserve components; and
+
+&emsp;&emsp;(B) as a condition of employment in such position, is required to be a member of one of such reserve components serving in a specified military grade;
+
+&emsp;(31) the term “military service” means honorable active service—
+
+&emsp;&emsp;(A) in the armed forces;
+
+&emsp;&emsp;(B) in the commissioned corps of the Public Health Service after June 30, 1960; or
+
+&emsp;&emsp;(C) in the commissioned corps of the National Oceanic and Atmospheric Administration, or a predecessor entity in function, after June 30, 1961;
+
+> &emsp;but does not include service in the National Guard except when ordered to active duty in the service of the United States or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990; and
+
+&emsp;(32) the term “nonforfeitable account balance” means any amounts in an account, established and maintained under subchapter III, which are nonforfeitable (as determined under section 8432(g)).
+
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(<i>o</i>), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174.)
+
+#### References in Text
+
+The Social Security Act, referred to in par. (11), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+Chapter 21 of the Internal Revenue Code of 1986, referred to in par. (11), is classified to chapter 21 (§3101 et seq.) of Title 26, Internal Revenue Code.
+
+Section 103(6) of the Foreign Service Act of 1980, referred to in par. (11)(iii), is classified to section 3903(6) of Title 22, Foreign Relations and Intercourse.
+
+The Federal Employees’ Retirement System Act of 1986, referred to in par. (17)(B), is Pub. L. 99–335, June 6, 1986, 100 Stat. 514, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 8401 of this title and Tables.
+
+The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, referred to in pars. (19)(A) and (27)(B)(iii)(II), is Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended, which is set out as a note under section 8331 of this title.
+
+#### Amendments
+
+1994—Par. (11). Pub. L. 103–353, §5(e)(1), in flush provisions before cl. (i), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+
+Par. (30). Pub. L. 103–337 substituted “section 10101” for “section 261(a)” in introductory provisions.
+
+Par. (31). Pub. L. 103–353, §5(c), in closing provisions, inserted before semicolon “or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990”.
+
+1990—Par. (11)(C). Pub. L. 101–508, §7202(k)(1)(A)(i)–(iii), added subpar. (C).
+
+Par. (11)(i)(I). Pub. L. 101–474 struck out “(v),” after “(i),”.
+
+Par. (11)(iv). Pub. L. 101–508, §7202(k)(1)(A)(iv)–(vi), added cl. (iv).
+
+Par. (15). Pub. L. 101–508, §7202(k)(1)(B), substituted “, Gallaudet College, and, in the case of an employee described in paragraph (11)(C), a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c);” for “and Gallaudet College;”.
+
+Par. (32). Pub. L. 101–335 added par. (32).
+
+1988—Par. (11)(A). Pub. L. 100–679 substituted “(J), or (K)” for “or (J)”.
+
+Par. (11)(i)(II). Pub. L. 100–238, §103(d)(2), struck out “(other than an employee of the United States Park Police, or the United States Secret Service, whose civilian service after December 31, 1983, is such employment)”.
+
+Par. (11)(iii). Pub. L. 100–238, §113(b)(1), added cl. (iii).
+
+Par. (14)(A)(ii). Pub. L. 100–238, §103(a)(2), substituted “should be” for “are required to be”.
+
+Par. (14)(B). Pub. L. 100–238, §103(c)(2), substituted “for at least 3 years” for “for at least 10 years”.
+
+Par. (17). Pub. L. 100–238, §103(a)(2), (c)(1), in subpar. (A)(ii), substituted “should be” for “are required to be”, added subpar. (B), redesignated former subpar. (B) as (C) and amended it generally, substituting “subparagraph (A) and (B) for at least 3 years” for “subparagraph (A) for at least 10 years”, redesignated former subpar. (C) as (D), and in concluding provisions, substituted “should be” for “are required to be”.
+
+1986—Par. (11). Pub. L. 99–556, §119, struck out “any of” before “whose civilian service” in two places.
+
+Par. (18). Pub. L. 99–556, §109, amended par. (18) generally. Prior to amendment, par. (18) read as follows: “the term ‘loss’, when used with respect to the Thrift Savings Fund, means the amount of the loss resulting from the investment of sums in such Fund;”.
+
+Par. (19)(C), (D). Pub. L. 99–556, §107, added subpar. (C) and redesignated former subpar. (C) as (D).
+
+#### Effective Date of 1994 Amendments
+
+Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of Title 38, Veterans’ Benefits.
+
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
+
+#### Effective Date of 1990 Amendments
+
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+
+Amendment by Pub. L. 101–335 effective as of second election period described in section 8432(b) of this title beginning after July 17, 1990, or such earlier date as Executive Director may by regulation prescribe, and applicable with respect to separations occurring before, on, or after that effective date, see section 6(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by section 103(a)(2), (c), and (d)(2) of Pub. L. 100–238, effective Jan. 1, 1987, see section 103(f) of Pub. L. 100–238, set out as a note under section 3307 of this title.
+
+Section 113(b)(2) of Pub. L. 100–238 provided that: “The amendments made by paragraph (1) \[amending this section\] shall be effective as of January 1, 1987. Any refund which becomes payable as a result of the preceding sentence shall, to the extent that such refund involves an individual's contributions to the Thrift Savings Fund (established under section 8437 of title 5, United States Code), be adjusted to reflect any earnings attributable thereto.”
+
+#### Effective Date
+
+Section 702(a), (b) of Pub. L. 99–335 provided that:
+
+“(a)
+
+In General.—Except as provided in subsection (b), this Act and the amendments made by this Act \[see Short Title note below\] shall take effect on January 1, 1987.
+
+“(b)
+
+Exceptions.—(1) Subchapter VII of chapter 84 of title 5, United States Code, as added by section 101 of this Act, shall take effect on the date of the enactment of this Act \[June 6, 1986\].
+
+“(2) Except as provided in section 305 of this Act \[enacting and amending provisions set out as notes under section 8331 of this title\], title III of this Act, and the amendments made by such title \[amending sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8432, and 8472 of this title and section 6103 of Title 26, and amending provisions set out as a note under section 8331 of this title\], shall take effect on the date of the enactment of this Act.
+
+“(3) The amendments made by sections 204 and 205 of this Act \[enacting sections 8343a and 8350 of this title and amending section 8342 of this title\] shall take effect on the date of the enactment of this Act.
+
+“(4) Section 701 of this Act \[enacting provisions set out as a note under section 8472 of this title\] shall take effect on the date of the enactment of this Act.
+
+“(5) Sections 505 \[amending provisions formerly set out as a note under section 403 of Title 50, War and National Defense\] and 601 of this Act and the amendments made by such section 601 \[not classified to the Code\] shall take effect on the date of the enactment of this Act.”
+
+Reference to a specific date in section 702(a) of Pub. L. 99–335, set out above, for certain purposes, deemed to be a reference to the first day of the first pay period beginning after such date, or to the day before such day, as appropriate, see section 505 of Pub. L. 99–556, set out as a Coordination With Pay Periods note under section 8331 of this title.
+
+#### Short Title of 1990 Amendment
+
+Section 1 of Pub. L. 101–335 provided that: “This Act \[enacting section 8432a of this title, amending this section and sections 3392, 8351, 8433 to 8435, 8438, 8440a, 8440b, and 8477 of this title, renumbering former section 8440a of this title as section 8440b, enacting provisions set out as notes under sections 3392, 8351, 8432a, 8433, 8434, and 8438 of this title, and amending provisions set out as a note under section 8477 of this title\] may be cited as the ‘Thrift Savings Plan Technical Amendments Act of 1990’.”
+
+#### Short Title of 1987 Amendment
+
+Pub. L. 100–43, §1, May 22, 1987, 101 Stat. 315, provided: “That this Act \[amending section 8438 of this title\] may be cited as the ‘Thrift Savings Fund Investment Act of 1987’.”
+
+#### Short Title of 1986 Amendment
+
+Section 1 of Pub. L. 99–556 provided that: “This Act \[enacting section 8478a of this title and section 4069 of Title 22, Foreign Relations and Intercourse, amending this section and sections 6301, 8332, 8350, 8402, 8411 to 8413, 8415, 8421a, 8442, 8443, 8452, 8457, 8461, 8462, 8477, 8478, and 8901 of this title and sections 4046, 4064, 4071c, 4071d, and 4071j of Title 22, enacting provisions set out as notes under sections 6301, 8331, 8332, 8335, 8341, 8477, and 8478 of this title and section 4046 of Title 22, and amending provisions set out as notes under sections 8331 and 8341 of this title\] may be cited as the ‘Federal Employees’ Retirement System Technical Corrections Act of 1986’.”
+
+#### Short Title
+
+Section 100(a) of Pub. L. 99–335 provided that: “This Act \[enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331, 8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, section 1605 of Title 10, Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and section 6103 of Title 26, and amending provisions set out as notes under section 8331 of this title and sections 402 and 403 of Title 50, War and National Defense\] may be cited as the ‘Federal Employees’ Retirement System Act of 1986’.”
+
+#### Congressional Declaration of Purpose
+
+Section 100A of Pub. L. 99–335 provided that: “The purposes of this Act \[see Short Title note above\] are—
+
+&emsp;“(1) to establish a Federal employees’ retirement plan which is coordinated with title II of the Social Security Act \[42 U.S.C. 401 et seq.\];
+
+&emsp;“(2) to ensure a fully funded and financially sound retirement benefits plan for Federal employees;
+
+&emsp;“(3) to enhance portability of retirement assets earned as an employee of the Federal Government;
+
+&emsp;“(4) to provide options for Federal employees with respect to retirement planning;
+
+&emsp;“(5) to assist in building a quality career work force in the Federal Government;
+
+&emsp;“(6) to encourage Federal employees to increase personal savings for retirement; and
+
+&emsp;“(7) to extend financial protection from disability to additional Federal employees and to increase such protection for eligible Federal employees.”
+
+#### Use of Normal-Cost Percentage
+
+Section 307 of Pub. L. 99–335, as amended by Pub. L. 100–366, §1, July 13, 1988, 102 Stat. 826, provided that: “Notwithstanding any other provision of law, the normal-cost percentage (as defined by section 8401(23) of title 5, United States Code, as added by this Act) of the Federal Employees’ Retirement System shall be used to value the cost of such System to the Civil Service Retirement and Disability Fund for all purposes in which the cost of the System is required to be determined by the Federal Government. For any comparisons between the cost of performing commercial activities under the contract with commercial sources and the cost of performing such activities using Government facilities and personnel, the cost of the System shall include the cost of such System to the Civil Service Retirement and Disability Fund as specified in the preceding sentence, the cost of the thrift savings plan under subchapter III of chapter 84 of title 5, United States Code, and the cost of social security.”
+
+#### First Cost-of-Living Adjustment
+
+Section 702(c) of Pub. L. 99–335 provided that:
+
+“(1) For purposes of the first adjustment under subsection (b) of section 8462 of title 5, United States Code (as added by section 101 of this Act), the base quarter ending on September 30, 1986, shall be considered to have been the base quarter for a year in which an adjustment under such subsection was made.
+
+“(2) As used in paragraph (1), the term ‘base quarter’ has the meaning provided by section 8462(a)(1) of title 5, United States Code (as added by section 101 of this Act).”
+
+#### Cross References
+
+Peace Corps volunteers’ service credited for purposes of this subchapter, see section 2504 of Title 22, Foreign Relations and Intercourse.
+
+Retirement of employees of land-grant colleges, see section 331 of Title 7, Agriculture.
+
+Right to compensation for scheduled disabilities specified by section 8107 not impaired by eligibility for benefits under this subchapter, see section 8116 of this title.
+
+Uniform date for retirement of Federal personnel, see section 8301 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3307, 3323, 3329, 5541, 8331, 8351, 8411, 8414, 8431, 8477, 8704 of this title; title 10 section 2467; title 22 section 4046; title 38 sections 7296, 7426, 7438; title 50 sections 2152, 2154.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+

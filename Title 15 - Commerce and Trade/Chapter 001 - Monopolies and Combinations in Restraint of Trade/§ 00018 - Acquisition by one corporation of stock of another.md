@@ -1,0 +1,56 @@
+### §18. Acquisition by one corporation of stock of another
+
+No person engaged in commerce or in any activity affecting commerce shall acquire, directly or indirectly, the whole or any part of the stock or other share capital and no person subject to the jurisdiction of the Federal Trade Commission shall acquire the whole or any part of the assets of another person engaged also in commerce or in any activity affecting commerce, where in any line of commerce or in any activity affecting commerce in any section of the country, the effect of such acquisition may be substantially to lessen competition, or to tend to create a monopoly.
+
+No person shall acquire, directly or indirectly, the whole or any part of the stock or other share capital and no person subject to the jurisdiction of the Federal Trade Commission shall acquire the whole or any part of the assets of one or more persons engaged in commerce or in any activity affecting commerce, where in any line of commerce or in any activity affecting commerce in any section of the country, the effect of such acquisition, of such stocks or assets, or of the use of such stock by the voting or granting of proxies or otherwise, may be substantially to lessen competition, or to tend to create a monopoly.
+
+This section shall not apply to persons purchasing such stock solely for investment and not using the same by voting or otherwise to bring about, or in attempting to bring about, the substantial lessening of competition. Nor shall anything contained in this section prevent a corporation engaged in commerce or in any activity affecting commerce from causing the formation of subsidiary corporations for the actual carrying on of their immediate lawful business, or the natural and legitimate branches or extensions thereof, or from owning and holding all or a part of the stock of such subsidiary corporations, when the effect of such formation is not to substantially lessen competition.
+
+Nor shall anything herein contained be construed to prohibit any common carrier subject to the laws to regulate commerce from aiding in the construction of branches or short lines so located as to become feeders to the main line of the company so aiding in such construction or from acquiring or owning all or any part of the stock of such branch lines, nor to prevent any such common carrier from acquiring and owning all or any part of the stock of a branch or short line constructed by an independent company where there is no substantial competition between the company owning the branch line so constructed and the company owning the main line acquiring the property or an interest therein, nor to prevent such common carrier from extending any of its lines through the medium of the acquisition of stock or otherwise of any other common carrier where there is no substantial competition between the company extending its lines and the company whose stock, property, or an interest therein is so acquired.
+
+Nothing contained in this section shall be held to affect or impair any right heretofore legally acquired: <i>Provided</i>, That nothing in this section shall be held or construed to authorize or make lawful anything heretofore prohibited or made illegal by the antitrust laws, nor to exempt any person from the penal provisions thereof or the civil remedies therein provided.
+
+Nothing contained in this section shall apply to transactions duly consummated pursuant to authority given by the Secretary of Transportation, Federal Communications Commission, Federal Power Commission, Interstate Commerce Commission, the Securities and Exchange Commission in the exercise of its jurisdiction under section 79j of this title, the United States Maritime Commission, or the Secretary of Agriculture under any statutory provision vesting such power in such Commission or Secretary.
+
+(Oct. 15, 1914, ch. 323, §7, 38 Stat. 731; Dec. 29, 1950, ch. 1184, 64 Stat. 1125; Sept. 12, 1980, Pub. L. 96–349, §6(a), 94 Stat. 1157; Oct. 4, 1984, Pub. L. 98–443, §9(<i>l</i>), 98 Stat. 1708.)
+
+#### Amendments
+
+1984—Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board” and “Commission or Secretary” for “Commission, Secretary, or Board” in sixth par.
+
+1980—Pub. L. 96–349, substituted “person” for “corporation” wherever appearing in first and second pars.; substituted “persons” for “corporations” in second par.and first sentence of third par.; and inserted “or in any activity affecting commerce” after “commerce” wherever appearing in first, second, and third pars.
+
+1950—Act Dec. 29, 1950, amended section generally so as to prohibit the acquisition of the whole or any part of the assets of another corporation when the effect of the acquisition may substantially lessen competition or tend to create a monopoly.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under section 5314 of Title 5, Government Organization and Employees.
+
+#### Effective Date of 1980 Amendment
+
+Section 6(b) of Pub. L. 96–349 provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to acquisitions made after the date of the enactment of this Act \[Sept. 12, 1980\].”
+
+#### Transfer of Functions
+
+Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+
+Executive and administrative functions of Maritime Commission transferred to Chairman of Maritime Commission by Reorg. Plan No. 6 of 1949, eff. Aug. 19, 1949, 14 F.R. 5228, 63 Stat. 1069, set out in the Appendix to Title 5, Government Organization and Employees. See, also, notes set out under section 1111 of Title 46, Appendix, Shipping.
+
+United States Maritime Commission abolished by Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix to Title 5, which transferred part of its functions and part of functions of its Chairman, to Federal Maritime Board and Chairman thereof, such Board having been created by that Plan as an agency within Department of Commerce with an independent status in some respects, and transferred remainder of such Commission's functions and functions of its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Maritime Administrator (the head of Maritime Administration, which likewise established by the Plan in Department of Commerce) with provision that Chairman of Federal Maritime Board should, ex officio, be such Administrator.
+
+Section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, set out in the Appendix to Title 5, abolished Federal Maritime Board, including offices of members of Board. Functions of Board transferred either to Federal Maritime Commission or Secretary of Commerce by sections 103 and 202 of Reorg. Plan No. 7 of 1961.
+
+Maritime Administration of Department of Commerce transferred to Department of Transportation, and all related functions of Secretary and other officers and offices of Department of Commerce transferred to Department of Transportation and vested in Secretary of Transportation, see section 1601 et seq. of Title 46, Appendix, Shipping.
+
+#### Cross References
+
+Acquisition of stock of export trade corporation, see section 63 of this title.
+
+Administrative authority to enforce compliance with this section, see section 21 of this title.
+
+Divestment of stock held contrary to the provisions of this section, see section 21 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 18a, 21, 26, 63 of this title.
+

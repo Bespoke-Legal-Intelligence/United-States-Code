@@ -1,0 +1,22 @@
+### §8116. Nursing home revolving fund
+
+(a)(1) Amounts realized from a transfer pursuant to section 8122(a)(2)(C) of this title shall be administered as a revolving fund and shall be available without fiscal year limitation.
+
+(2) The revolving fund shall be deposited in a checking account with the Treasurer of the United States.
+
+(b)(1) The expenditure of funds from the revolving fund may be made only for the construction, alteration, and acquisition (including site acquisition) of nursing home facilities and may be made only as provided for in appropriation Acts.
+
+(2) For the purpose of section 8104(a)(2) of this title, a bill, resolution, or amendment which provides that funds in the revolving fund may be expended for a project involving a total expenditure of more than $2,000,000 for the construction, alteration, or acquisition (including site acquisition) of a nursing home facility shall be considered to be a bill, resolution, or amendment making an appropriation which may be expended for a major medical facility project.
+
+(Added Pub. L. 100–322, title II, §205(a), May 20, 1988, 102 Stat. 512, §5016; renumbered §8116 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239.)
+
+#### Amendments
+
+1991—Pub. L. 102–40, §402(b)(1), renumbered section 5016 of this title as this section.
+
+Pub. L. 102–40, §402(d)(1), substituted “8122(a)(2)(C)” for “5022(a)(2)(C)” in subsec. (a)(1) and “8104(a)(2)” for “5004(a)(2)” in subsec. (b)(2).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 8122, 8165 of this title.
+

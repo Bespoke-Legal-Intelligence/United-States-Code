@@ -1,0 +1,12 @@
+### §478–1. Mandatory application of sections 462 and 477
+
+Notwithstanding section 478 of this title, sections 462 and 477 of this title shall apply to—
+
+&emsp;(1) all Indian tribes,
+
+&emsp;(2) all lands held in trust by the United States for Indians, and
+
+&emsp;(3) all lands owned by Indians that are subject to a restriction imposed by the United States on alienation of the rights of the Indians in the lands.
+
+(Pub. L. 101–301, §3(a), May 24, 1990, 104 Stat. 207.)
+

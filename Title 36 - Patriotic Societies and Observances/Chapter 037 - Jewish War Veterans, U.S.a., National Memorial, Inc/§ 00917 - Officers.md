@@ -1,0 +1,8 @@
+### §917. Officers
+
+(a) The officers of the corporation shall be a president and such number of vice presidents as shall be provided for in the constitution and bylaws, as well as a secretary and treasurer.
+
+(b) The officers of the corporation shall be elected in such manner and for such terms as well as with such duties as may be prescribed in the constitution and bylaws of the corporation.
+
+(Pub. L. 85–903, §7, Sept. 2, 1958, 72 Stat. 1740.)
+

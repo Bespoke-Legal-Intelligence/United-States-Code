@@ -1,0 +1,22 @@
+### §151. Smithsonian Library
+
+The library collected by the Smithsonian Institution under the provisions of the Act of August 10, 1846, chapter 25, and removed from the building of that institution, with the consent of the Regents thereof, to the Library of Congress, shall, while there deposited, be subject to the same regulations as the Library of Congress, except as hereinafter provided.
+
+(R.S. §99.)
+
+#### References in Text
+
+Act of August 10, 1846, chapter 25, referred to in text, probably should be act Aug. 10, 1846, ch. 178, 9 Stat. 102, which was entitled “An Act to establish the ‘Smithsonian Institution’, for the increase and diffusion of knowledge among men”.
+
+#### Codification
+
+R.S. §99 derived from act Apr. 5, 1866, ch. 25, §1, 14 Stat. 13.
+
+#### Cross References
+
+Smithsonian Institution, see section 41 et seq. of Title 20, Education, and sections 1305 and 1321 of Title 31, Money and Finance.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 152 of this title.
+

@@ -1,0 +1,68 @@
+### §1396e. Enrollment of individuals under group health plans
+
+#### (a) Requirements of each State plan; guidelines
+
+For purposes of section 1396a(a)(25)(G) of this title and subject to subsection (d) of this section, each State plan—
+
+&emsp;(1) shall implement guidelines established by the Secretary, consistent with subsection (b) of this section, to identify those cases in which enrollment of an individual otherwise entitled to medical assistance under this subchapter in a group health plan (in which the individual is otherwise eligible to be enrolled) is cost-effective (as defined in subsection (e)(2) of this section);
+
+&emsp;(2) shall require, in case of an individual so identified and as a condition of the individual being or remaining eligible for medical assistance under this subchapter and subject to subsection (b)(2) of this section, notwithstanding any other provision of this subchapter, that the individual (or in the case of a child, the child's parent) apply for enrollment in the group health plan; and
+
+&emsp;(3) in the case of such enrollment (except as provided in subsection (c)(1)(B) of this section), shall provide for payment of all enrollee premiums for such enrollment and all deductibles, coinsurance, and other cost-sharing obligations for items and services otherwise covered under the State plan under this subchapter (exceeding the amount otherwise permitted under section 1396<i>o</i> of this title), and shall treat coverage under the group health plan as a third party liability (under section 1396a(a)(25) of this title).
+
+#### (b) Timing of enrollment; failure to enroll
+
+(1) In establishing guidelines under subsection (a)(1) of this section, the Secretary shall take into account that an individual may only be eligible to enroll in group health plans at limited times and only if other individuals (not entitled to medical assistance under the plan) are also enrolled in the plan simultaneously.
+
+(2) If a parent of a child fails to enroll the child in a group health plan in accordance with subsection (a)(2) of this section, such failure shall not affect the child's eligibility for benefits under this subchapter.
+
+#### (c) Premiums considered payments for medical assistance; eligibility
+
+(1)(A) In the case of payments of premiums, deductibles, coinsurance, and other cost-sharing obligations under this section shall be considered, for purposes of section 1396b(a) of this title, to be payments for medical assistance.
+
+(B) If all members of a family are not eligible for medical assistance under this subchapter and enrollment of the members so eligible in a group health plan is not possible without also enrolling members not so eligible—
+
+&emsp;(i) payment of premiums for enrollment of such other members shall be treated as payments for medical assistance for eligible individuals, if it would be cost-effective (taking into account payment of all such premiums), but
+
+&emsp;(ii) payment of deductibles, coinsurance, and other cost-sharing obligations for such other members shall not be treated as payments for medical assistance for eligible individuals.
+
+(2) The fact that an individual is enrolled in a group health plan under this section shall not change the individual's eligibility for benefits under the State plan, except insofar as section 1396a(a)(25) of this title provides that payment for such benefits shall first be made by such plan.
+
+#### (d) Applicability of section to medical assistance granted under waiver of State plan
+
+(1) In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1315 of this title, the Secretary shall require the State to meet the requirements of this section in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
+
+(2) This section, and section 1396a(a)(25)(G) of this title, shall only apply to a State that is one of the 50 States or the District of Columbia.
+
+#### (e) Definitions
+
+In this section:
+
+&emsp;(1) The term “group health plan” has the meaning given such term in section 5000(b)(1) of the Internal Revenue Code of 1986, and includes the provision of continuation coverage by such a plan pursuant to title XXII of the Public Health Service Act \[42 U.S.C. 300bb–1 et seq.\], section 4980B of the Internal Revenue Code of 1986, or title VI <sup>1</sup> of the Employee Retirement Income Security Act of 1974.
+
+&emsp;(2) The term “cost-effective” means, as established by the Secretary, that the reduction in expenditures under this subchapter with respect to an individual who is enrolled in a group health plan is likely to be greater than the additional expenditures for premiums and cost-sharing required under this section with respect to such enrollment.
+
+(Aug. 14, 1935, ch. 531, title XIX, §1906, as added Nov. 5, 1990, Pub. L. 101–508, title IV, §4402(a)(2), 104 Stat. 1388–161.)
+
+#### References in Text
+
+The Internal Revenue Code of 1986, referred to in subsec. (e)(1), is classified generally to Title 26, Internal Revenue Code.
+
+The Public Health Service Act, referred to in subsec. (e)(1), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XXII of the Act is classified generally to subchapter XX (§300bb–1 et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (e)(1), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title VI of the Act probably means part 6 of subtitle B of title I of the Actwhich is classified generally to part 6 (§1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor, because the Act has no title VI. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+
+#### Prior Provisions
+
+A prior section 1396e, act Aug. 14, 1935, ch. 531, title XIX, §1906, as added Jan. 2, 1968, Pub. L. 90–248, title II, §226, 81 Stat. 903, created Advisory Council on Medical Assistance, set forth composition of Council, term of membership of members, and purposes of Council, and provided for compensation of members, prior to repeal by Pub. L. 92–603, title II, §287, Oct. 30, 1972, 86 Stat. 1457, effective on the first day of the third calendar month following Oct. 30, 1972.
+
+#### Effective Date
+
+Section applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginning on or after Jan. 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4402 of Pub. L. 101–508 have been promulgated by such date, see section 4402(e) of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note under section 1396a of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1396a, 1396b of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

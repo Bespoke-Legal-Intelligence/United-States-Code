@@ -1,0 +1,592 @@
+### §2324. Allowable costs under defense contracts
+
+(a)
+
+Indirect Cost That Violates a FAR Cost Principle.—The head of an agency shall require that a covered contract provide that if the contractor submits to the agency a proposal for settlement of indirect costs incurred by the contractor for any period after such costs have been accrued and if that proposal includes the submission of a cost which is unallowable because the cost violates a cost principle in the Federal Acquisition Regulation or applicable agency supplement to the Federal Acquisition Regulation, the cost shall be disallowed.
+
+(b)
+
+Penalty for Violation of Cost Principle.—(1) If the head of the agency determines that a cost submitted by a contractor in its proposal for settlement is expressly unallowable under a cost principle referred to in subsection (a) that defines the allowability of specific selected costs, the head of the agency shall assess a penalty against the contractor in an amount equal to—
+
+&emsp;(A) the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted; plus
+
+&emsp;(B) interest (to be computed based on provisions in the Federal Acquisition Regulation) to compensate the United States for the use of any funds which a contractor has been paid in excess of the amount to which the contractor was entitled.
+
+(2) If the head of the agency determines that a proposal for settlement of indirect costs submitted by a contractor includes a cost determined to be unallowable in the case of such contractor before the submission of such proposal, the head of the agency shall assess a penalty against the contractor in an amount equal to two times the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted.
+
+(c)
+
+Waiver of Penalty.—The Federal Acquisition Regulation shall provide for a penalty under subsection (b) to be waived in the case of a contractor's proposal for settlement of indirect costs when—
+
+&emsp;(1) the contractor withdraws the proposal before the formal initiation of an audit of the proposal by the Federal Government and resubmits a revised proposal;
+
+&emsp;(2) the amount of unallowable costs subject to the penalty is insignificant; or
+
+&emsp;(3) the contractor demonstrates, to the contracting officer's satisfaction, that—
+
+&emsp;&emsp;(A) it has established appropriate policies and personnel training and an internal control and review system that provide assurances that unallowable costs subject to penalties are precluded from being included in the contractor's proposal for settlement of indirect costs; and
+
+&emsp;&emsp;(B) the unallowable costs subject to the penalty were inadvertently incorporated into the proposal.
+
+(d)
+
+Applicability of Contract Disputes Procedure to Disallowance of Cost and Assessment of Penalty.—An action of the head of an agency under subsection (a) or (b)—
+
+&emsp;(1) shall be considered a final decision for the purposes of section 6 of the Contract Disputes Act of 1978 (41 U.S.C. 605); and
+
+&emsp;(2) is appealable in the manner provided in section 7 of such Act (41 U.S.C. 606).
+
+(e)
+
+Specific Costs Not Allowable.—(1) The following costs are not allowable under a covered contract:
+
+&emsp;(A) Costs of entertainment, including amusement, diversion, and social activities and any costs directly associated with such costs (such as tickets to shows or sports events, meals, lodging, rentals, transportation, and gratuities).
+
+&emsp;(B) Costs incurred to influence (directly or indirectly) legislative action on any matter pending before Congress, a State legislature, or a legislative body of a political subdivision of a State.
+
+&emsp;(C) Costs incurred in defense of any civil or criminal fraud proceeding or similar proceeding (including filing of any false certification) brought by the United States where the contractor is found liable or has pleaded nolo contendere to a charge of fraud or similar proceeding (including filing of a false certification).
+
+&emsp;(D) Payments of fines and penalties resulting from violations of, or failure to comply with, Federal, State, local, or foreign laws and regulations, except when incurred as a result of compliance with specific terms and conditions of the contract or specific written instructions from the contracting officer authorizing in advance such payments in accordance with applicable provisions of the Federal Acquisition Regulation.
+
+&emsp;(E) Costs of membership in any social, dining, or country club or organization.
+
+&emsp;(F) Costs of alcoholic beverages.
+
+&emsp;(G) Contributions or donations, regardless of the recipient.
+
+&emsp;(H) Costs of advertising designed to promote the contractor or its products.
+
+&emsp;(I) Costs of promotional items and memorabilia, including models, gifts, and souvenirs.
+
+&emsp;(J) Costs for travel by commercial aircraft which exceed the amount of the standard commercial fare.
+
+&emsp;(K) Costs incurred in making any payment (commonly known as a “golden parachute payment”) which is—
+
+&emsp;&emsp;(i) in an amount in excess of the normal severance pay paid by the contractor to an employee upon termination of employment; and
+
+&emsp;&emsp;(ii) is paid to the employee contingent upon, and following, a change in management control over, or ownership of, the contractor or a substantial portion of the contractor's assets.
+
+&emsp;(L) Costs of commercial insurance that protects against the costs of the contractor for correction of the contractor's own defects in materials or workmanship.
+
+&emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any caseexceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
+
+&emsp;(N) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States military facility in that country at the request of the government of that country.
+
+&emsp;(O) Costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States or a State, to the extent provided in subsection (k).
+
+(2)(A) The Secretary of Defense may provide in a military banking contract that the provisions of paragraphs (1)(M) and (1)(N) shall not apply to costs incurred under the contract by the contractor for payment of mandated foreign national severance pay. The Secretary may include such a provision in a military banking contract only if the Secretary determines, with respect to that contract, that the contractor has taken (or has established plans to take) appropriate actions within the contractor's control to minimize the amount and number of incidents of the payment of severance pay by the contractor to employees under the contract who are foreign nationals.
+
+(B) In subparagraph (A):
+
+&emsp;(i) The term “military banking contract” means a contract between the Secretary and a financial institution under which the financial institution operates a military banking facility outside the United States for use by members of the armed forces stationed or deployed outside the United States and other authorized personnel.
+
+&emsp;(ii) The term “mandated foreign national severance pay” means severance pay paid by a contractor to a foreign national employee the payment of which by the contractor is required in order to comply with a law that is generally applicable to a significant number of businesses in the country in which the foreign national receiving the payment performed services under the contract.
+
+(C) Subparagraph (A) does not apply to a contract with a financial institution that is owned or controlled by citizens or nationals of a foreign country, as determined by the Secretary of Defense awarding the contract.<sup>1</sup> Such a determination shall be made in accordance with the criteria set out in paragraph (1) of section 4(g) of title III of the Act of March 3, 1933 (41 U.S.C. 10b–1) (commonly referred to as the Buy American Act) and the policy guidance referred to in paragraph (2)(A) of that section.
+
+(3)(A) Pursuant to the Federal Acquisition Regulation and subject to the availability of appropriations, the head of an agency awarding a covered contract (other than a contract to which paragraph (2) applies) may waive the application of the provisions of paragraphs (1)(M) and (1)(N) to that contract if the head of the agency determines that—
+
+&emsp;(i) the application of such provisions to the contract would adversely affect the continuation of a program, project, or activity that provides significant support services for members of the armed forces stationed or deployed outside the United States;
+
+&emsp;(ii) the contractor has taken (or has established plans to take) appropriate actions within the contractor's control to minimize the amount and number of incidents of the payment of severance pay by the contractor to employees under the contract who are foreign nationals; and
+
+&emsp;(iii) the payment of severance pay is necessary in order to comply with a law that is generally applicable to a significant number of businesses in the country in which the foreign national receiving the payment performed services under the contract or is necessary to comply with a collective bargaining agreement.
+
+(B) The head of an agency shall include in the solicitation for a covered contract a statement indicating—
+
+&emsp;(i) that a waiver has been granted under subparagraph (A) for the contract; or
+
+&emsp;(ii) whether the head of the agency will consider granting such a waiver, and, if the agency head will consider granting a waiver, the criteria to be used in granting the waiver.
+
+(C) The head of an agency shall make the final determination regarding whether to grant a waiver under subparagraph (A) with respect to a covered contract before award of the contract.
+
+(4) The provisions of the Federal Acquisition Regulation implementing this section may establish appropriate definitions, exclusions, limitations, and qualifications.
+
+(f)
+
+Required Regulations.—(1) The Federal Acquisition Regulation shall contain provisions on the allowability of contractor costs. Such provisions shall define in detail and in specific terms those costs which are unallowable, in whole or in part, under covered contracts. The regulations shall, at a minimum, clarify the cost principles applicable to contractor costs of the following:
+
+&emsp;(A) Air shows.
+
+&emsp;(B) Membership in civic, community, and professional organizations.
+
+&emsp;(C) Recruitment.
+
+&emsp;(D) Employee morale and welfare.
+
+&emsp;(E) Actions to influence (directly or indirectly) executive branch action on regulatory and contract matters (other than costs incurred in regard to contract proposals pursuant to solicited or unsolicited bids).
+
+&emsp;(F) Community relations.
+
+&emsp;(G) Dining facilities.
+
+&emsp;(H) Professional and consulting services, including legal services.
+
+&emsp;(I) Compensation.
+
+&emsp;(J) Selling and marketing.
+
+&emsp;(K) Travel.
+
+&emsp;(L) Public relations.
+
+&emsp;(M) Hotel and meal expenses.
+
+&emsp;(N) Expense of corporate aircraft.
+
+&emsp;(O) Company-furnished automobiles.
+
+&emsp;(P) Advertising.
+
+&emsp;(Q) Conventions.
+
+(2) The Federal Acquisition Regulation shall require that a contracting officer not resolve any questioned costs until he has obtained—
+
+&emsp;(A) adequate documentation with respect to such costs; and
+
+&emsp;(B) the opinion of the contract auditor on the allowability of such costs.
+
+(3) The Federal Acquisition Regulation shall provide that, to the maximum extent practicable, the contract auditor be present at any negotiation or meeting with the contractor regarding a determination of the allowability of indirect costs of the contractor.
+
+(4) The Federal Acquisition Regulation shall require that all categories of costs designated in the report of the contract auditor as questioned with respect to a proposal for settlement be resolved in such a manner that the amount of the individual questioned costs that are paid will be reflected in the settlement.
+
+(g)
+
+Applicability of Regulations to Subcontractors.—The regulations referred to in subsections (e) and (f)(1) shall require prime contractors of a covered contract, to the maximum extent practicable, to apply the provisions of such regulations to all subcontractors of the covered contract.
+
+(h)
+
+Contractor Certification Required.—(1) A proposal for settlement of indirect costs applicable to a covered contract shall include a certification by an official of the contractor that, to the best of the certifying official's knowledge and belief, all indirect costs included in the proposal are allowable. Any such certification shall be in a form prescribed in the Federal Acquisition Regulation.
+
+(2) The head of the agency or the Secretary of the military department concerned may, in an exceptional case, waive the requirement for certification under paragraph (1) in the case of any contract if the Secretary—
+
+&emsp;(A) determines in such case that it would be in the interest of the United States to waive such certification; and
+
+&emsp;(B) states in writing the reasons for that determination and makes such determination available to the public.
+
+(i)
+
+Penalties for Submission of Cost Known as Not Allowable.—The submission to an agency of a proposal for settlement of costs for any period after such costs have been accrued that includes a cost that is expressly specified by statute or regulation as being unallowable, with the knowledge that such cost is unallowable, shall be subject to the provisions of section 287 of title 18 and section 3729 of title 31.
+
+(j)
+
+Contractor To Have Burden of Proof.—In a proceeding before the Armed Services Board of Contract Appeals, the United States Court of Federal Claims, or any other Federal court in which the reasonableness of indirect costs for which a contractor seeks reimbursement from the Department of Defense is in issue, the burden of proof shall be upon the contractor to establish that those costs are reasonable.
+
+(k)
+
+Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subsection, costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States or a State are not allowable as reimbursable costs under a covered contract if the proceeding (A) relates to a violation of, or failure to comply with, a Federal or State statute or regulation, and (B) results in a disposition described in paragraph (2).
+
+(2) A disposition referred to in paragraph (1)(B) is any of the following:
+
+&emsp;(A) In the case of a criminal proceeding, a conviction (including a conviction pursuant to a plea of nolo contendere) by reason of the violation or failure referred to in paragraph (1).
+
+&emsp;(B) In the case of a civil or administrative proceeding involving an allegation of fraud or similar misconduct, a determination of contractor liability on the basis of the violation or failure referred to in paragraph (1).
+
+&emsp;(C) In the case of any civil or administrative proceeding, the imposition of a monetary penalty by reason of the violation or failure referred to in paragraph (1).
+
+&emsp;(D) A final decision—
+
+&emsp;&emsp;(i) to debar or suspend the contractor;
+
+&emsp;&emsp;(ii) to rescind or void the contract; or
+
+&emsp;&emsp;(iii) to terminate the contract for default;
+
+> &emsp;by reason of the violation or failure referred to in paragraph (1).
+
+&emsp;(E) A disposition of the proceeding by consent or compromise if such action could have resulted in a disposition described in subparagraph (A), (B), (C), or (D).
+
+(3) In the case of a proceeding referred to in paragraph (1) that is commenced by the United States and is resolved by consent or compromise pursuant to an agreement entered into by a contractor and the United States, the costs incurred by the contractor in connection with such proceeding that are otherwise not allowable as reimbursable costs under such paragraph may be allowed to the extent specifically provided in such agreement.
+
+(4) In the case of a proceeding referred to in paragraph (1) that is commenced by a State, the head of the agency or Secretary of the military department concerned that awarded the covered contract involved in the proceeding may allow the costs incurred by the contractor in connection with such proceeding as reimbursable costs if the agency head or Secretary determines, in accordance with the Federal Acquisition Regulation, that the costs were incurred as a result of (A) a specific term or condition of the contract, or (B) specific written instructions of the agency or military department.
+
+(5)(A) Except as provided in subparagraph (C), costs incurred by a contractor in connection with a criminal, civil, or administrative proceeding commenced by the United States or a State in connection with a covered contract may be allowed as reimbursable costs under the contract if such costs are not disallowable under paragraph (1), but only to the extent provided in subparagraph (B).
+
+(B)(i) The amount of the costs allowable under subparagraph (A) in any case may not exceedthe amount equal to 80 percent of the amount of the costs incurred, to the extent that such costs are determined to be otherwise allowable and allocable under the Federal Acquisition Regulation.
+
+(ii) Regulations issued for the purpose of clause (i) shall provide for appropriate consideration of the complexity of procurement litigation, generally accepted principles governing the award of legal fees in civil actions involving the United States as a party, and such other factors as may be appropriate.
+
+(C) In the case of a proceeding referred to in subparagraph (A), contractor costs otherwise allowable as reimbursable costs under this paragraph are not allowable if (i) such proceeding involves the same contractor misconduct alleged as the basis of another criminal, civil, or administrative proceeding, and (ii) the costs of such other proceeding are not allowable under paragraph (1).
+
+(6) In this subsection:
+
+&emsp;(A) The term “proceeding” includes an investigation.
+
+&emsp;(B) The term “costs”, with respect to a proceeding—
+
+&emsp;&emsp;(i) means all costs incurred by a contractor, whether before or after the commencement of any such proceeding; and
+
+&emsp;&emsp;(ii) includes—
+
+&emsp;&emsp;&emsp;(I) administrative and clerical expenses;
+
+&emsp;&emsp;&emsp;(II) the cost of legal services, including legal services performed by an employee of the contractor;
+
+&emsp;&emsp;&emsp;(III) the cost of the services of accountants and consultants retained by the contractor; and
+
+&emsp;&emsp;&emsp;(IV) the pay of directors, officers, and employees of the contractor for time devoted by such directors, officers, and employees to such proceeding.
+
+&emsp;(C) The term “penalty” does not include restitution, reimbursement, or compensatory damages.
+
+(<i>l)</i>
+
+Definitions.—In this section:
+
+&emsp;(1)(A) The term “covered contract” means a contract for an amount in excess of $500,000 that is entered into by the head of an agency, except that such term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial items.
+
+&emsp;(B) Effective on October 1 of each year that is divisible by five, the amount set forth in subparagraph (A) shall be adjusted to the equivalent amount in constant fiscal year 1994 dollars. An amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but is not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.
+
+&emsp;(2) The term “head of the agency” or “agency head” does not include the Secretary of a military department.
+
+&emsp;(3) The term “agency” means the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration.
+
+(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b) \[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700 §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308.)
+
+#### Historical and Revision Notes
+
+Subsection (e)(1)(L) is based on section 2399 of this title as enacted by Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1293.
+
+Section 1(f)(2) of the bill would transfer the provisions of existing 10 U.S.C. 2399 to a new subparagraph (L) of 10 U.S.C. 2324(e)(1). The existing section 2399 prohibits the use of appropriated funds to reimburse a defense contractor for insurance against the contractor's costs of correcting defects in the contractor's materials or workmanship. The transfer would add the provision to the list of contractor costs which are not allowable as expenses which may be paid by the Department of Defense under a contract. This allowable cost limitation applies only to contracts for more than $100,000 other than fixed price contracts without cost incentives (see 10 US.C. 2324(k)). The committee determined that it is appropriate to treat the subject matter of section 2399 in the same manner as other provisions relating to allowable costs of defense contractors and notes that section 2324, providing a more comprehensive treatment of allowable costs, was enacted after section 2399. The committee recognizes that contracts for amounts less than $100,000 and fixed price contracts without cost incentives are covered by the existing section 2399 and would not be covered by the provision as transferred. The committee determined that in practice the existing section 2399 would not have significant applicability to such contracts and that the transfer is appropriate as part of this bill.
+
+Subsection (j) is based on Pub. L. 99–145, title IX, §933, Nov. 8, 1985, 99 Stat. 700.
+
+#### Codification
+
+Another section 2324 of this title was contained in chapter 138 and was renumbered section 2344 of this title.
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–355, §2101(a), inserted heading and substituted “head of an agency” for “Secretary of Defense”, “agency” for “Department of Defense”, and “applicable agency supplement” for “the Department of Defense Supplement”.
+
+Subsec. (b). Pub. L. 103–355, §2101(a)(2)(A), inserted heading.
+
+Subsec. (b)(1). Pub. L. 103–355, §2101(a)(2)(C), substituted “head of the agency” for “Secretary” in two places in introductory provisions.
+
+Subsec. (b)(1)(B). Pub. L. 103–355, §2101(a)(2)(B), substituted “provisions in the Federal Acquisition Regulation” for “regulations issued by the Secretary”.
+
+Subsec. (b)(2). Pub. L. 103–355, §2101(a)(2)(C), substituted “head of the agency” for “Secretary” in two places.
+
+Subsec. (c). Pub. L. 103–355, §2101(a)(3), inserted heading and substituted “The Federal Acquisition Regulation shall provide” for “The Secretary shall prescribe regulations providing”.
+
+Subsec. (d). Pub. L. 103–355, §2101(a)(4), inserted heading and substituted “the head of an agency” for “the Secretary” in introductory provisions.
+
+Subsec. (e). Pub. L. 103–355, §2101(a)(5)(A), inserted heading.
+
+Subsec. (e)(1)(B). Pub. L. 103–355, §2101(b), substituted “, a State legislature, or a legislative body of a political subdivision of a State” for “or a State legislature”.
+
+Subsec. (e)(1)(D). Pub. L. 103–355, §2101(a)(5)(B), substituted “provisions of the Federal Acquisition Regulation” for “regulations of the Secretary of Defense”
+
+Subsec. (e)(1)(M). Pub. L. 103–355, §2101(a)(5)(C), substituted “the Federal Acquisition Regulation” for “regulations prescribed by the Secretary of Defense”.
+
+Subsec. (e)(2)(A). Pub. L. 103–355, §2101(a)(5)(D), substituted “the Secretary of Defense may provide” for “the Secretary may provide”.
+
+Subsec. (e)(2)(C). Pub. L. 103–355, §2101(a)(5)(E), substituted “Secretary of Defense” for “head of the agency”.
+
+Subsec. (e)(3)(A). Pub. L. 103–355, §2101(a)(5)(F), substituted “the Federal Acquisition Regulation” for “regulations prescribed by the Secretary”.
+
+Subsec. (e)(4). Pub. L. 103–355, §2101(a)(5)(G), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Secretary shall prescribe regulations to implement this section. Such regulations may establish appropriate definitions, exclusions, limitations, and qualifications.”
+
+Subsec. (f)(1). Pub. L. 103–355, §2101(a)(6)(A), inserted heading and substituted “(1) The Federal Acquisition Regulation shall contain provisions on the allowability of contractor costs. Such provisions” for “(1) The Secretary shall prescribe proposed regulations to amend those provisions of the Department of Defense Supplement to the Federal Acquisition Regulation dealing with the allowability of contractor costs. The amendments” and “The regulations” for “These regulations”.
+
+Subsec. (f)(1)(Q). Pub. L. 103–355, §2101(c), added subpar. (Q).
+
+Subsec. (f)(2). Pub. L. 103–355, §2101(a)(6)(B)(ii), which directed substitution of “Federal Acquisition Regulation” for “regulation”, was executed by making the substitution for “regulations” to reflect the probable intent of Congress.
+
+Subsec. (f)(2)(B). Pub. L. 103–355, §2101(a)(6)(B)(i), struck out “defense” before “contract auditor”.
+
+Subsec. (f)(3). Pub. L. 103–355, §2101(a)(6)(B)(ii), which directed substitution of “Federal Acquisition Regulation” for “regulation”, was executed by making the substitution for “regulations” to reflect the probable intent of Congress.
+
+Pub. L. 103–355, §2101(a)(6)(B)(i), struck out “defense” before “contract auditor”.
+
+Subsec. (f)(4). Pub. L. 103–355, §2101(a)(6)(B)(ii), which directed substitution of “Federal Acquisition Regulation” for “regulation”, was executed by making the substitution for “regulations” to reflect the probable intent of Congress.
+
+Pub. L. 103–355, §2101(a)(6)(B)(i), struck out “defense” before “contract auditor”.
+
+Subsec. (g). Pub. L. 103–355, §2101(a)(7), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The regulations of the Secretary required to be prescribed under subsections (e) and (f)(1) shall require, to the maximum extent practicable, that such regulations apply to all subcontractors of a covered contract.”
+
+Subsec. (h). Pub. L. 103–355, §2101(a)(8), inserted heading and substituted “in the Federal Acquisition Regulation” for “by the Secretary” in par. (1) and “head of the agency” for “Secretary of Defense” in introductory provisions of par. (2).
+
+Subsec. (i). Pub. L. 103–355, §2101(a)(9), inserted heading and substituted “The submission to an agency” for “The submission to the Department of Defense”.
+
+Subsec. (j). Pub. L. 103–355, §2101(a)(10), inserted heading and substituted “United States Court of Federal Claims” for “United States Claims Court”.
+
+Subsec. (k). Pub. L. 103–355, §2101(a)(11)(A), inserted heading.
+
+Subsec. (k)(2)(D). Pub. L. 103–355, §2101(a)(11)(B), struck out “by the Department of Defense” after “decision” in introductory provisions.
+
+Subsec. (k)(4). Pub. L. 103–355, §2101(a)(11)(C), inserted “or Secretary of the military department concerned” after “head of the agency”, “or Secretary” after “agency head”, and “or military department” before period at end and substituted “in accordance with the Federal Acquisition Regulation” for “under regulations prescribed by such agency head”.
+
+Subsec. (<i>l</i>). Pub. L. 103–355, §2101(d), added subsec. (<i>l</i>) and struck out former subsec. (<i>l</i>) which related to periodic evaluation by Comptroller General of implementation of this section by Secretary of Defense.
+
+Subsec. (m). Pub. L. 103–355, §2101(d), struck out subsec. (m) which read as follows: “In this section, the term ‘covered contract’ means a contract for an amount more than $100,000 entered into by the Department of Defense other than a fixed-price contract without cost incentives.”
+
+1992—Subsec. (a). Pub. L. 102–484, §818(a)(1)(A), redesignated subsec. (a)(1) as entire subsection. Former subsec. (a)(2) redesignated subsec. (b)(1).
+
+Subsec. (b)(1). Pub. L. 102–484, §818(a)(1)(B), redesignated subsec. (a)(2) as subsec. (b)(1), in introductory provisions struck out “by clear and convincing evidence” after “Secretary determines” and substituted “expressly unallowable under a cost principle referred to in subsection (a) that defines the allowability of specific selected costs” for “unallowable under paragraph (1)”, and in subpar. (A), substituted “cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted” for “costs”. Former subsec. (b) redesignated subsec. (b)(2).
+
+Subsec. (b)(2). Pub. L. 102–484, §818(a)(2), redesignated subsec. (b) as subsec. (b)(2), struck out “, in addition to the penalty assessed under subsection (a),” after “against the contractor”, and substituted “the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted” for “the amount of such cost”.
+
+Subsec. (c). Pub. L. 102–484, §818(a)(5), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 102–484, §818(a)(3), (4), redesignated subsec. (c) as (d) and struck out former subsec. (d) which read as follows: “If any penalty is assessed under subsection (a) or (b) with respect to a proposal for settlement of indirect costs, the Secretary may assess an additional penalty of not more than $10,000 per proposal.”
+
+Subsec. (e)(3), (4). Pub. L. 102–484, §1352(b), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (f)(5). Pub. L. 102–484, §1052(26)(A), struck out par. (5) which read as follows: “The regulations shall provide that costs to promote the export of products of the United States defense industry, including costs of exhibiting or demonstrating products, shall be allowable to the extent that such costs—
+
+&emsp;“(A) are allocable, reasonable, and not otherwise unallowable;
+
+&emsp;“(B) with respect to the activities of the business segment to which such costs are being allocated, are determined by the Secretary of Defense to be likely to result in future cost advantages to the United States; and
+
+&emsp;“(C) with respect to a business segment which allocates to Department of Defense contracts $2,500,000 or more of such costs in any fiscal year of such business segment, are not in excess of the amount equal to 110 percent of such costs incurred by such business segment in the previous fiscal year.”
+
+Subsec. (<i>l</i>)(2). Pub. L. 102–484, §1052(26)(B)(i), substituted “paragraph (3)” for “subsection (e)(2)(C)”.
+
+Subsec. (<i>l</i>)(3). Pub. L. 102–484, §1052(26)(B)(ii), added par. (3).
+
+1991—Subsec. (e)(2), (3). Pub. L. 102–190 added par. (2) and redesignated former par. (2) as (3).
+
+1990—Subsec. (e)(2). Pub. L. 101–510 struck out “(A)” before “The Secretary” and struck out subpars. (B) and (C) which read as follows:
+
+“(B) The Secretary shall submit to the committees named in subparagraph (C) any proposed regulations that would make substantive changes to regulations prescribed under the second sentence of subparagraph (A) before the publication of such proposed regulations in accordance with section 22 of the Office of Federal Procurement Policy Act (41 U.S.C. 418b).
+
+“(C) The committees named in this subparagraph are—
+
+&emsp;“(i) the Committees on Armed Services and on Government Operations of the House of Representatives; and
+
+&emsp;“(ii) the Committees on Armed Services and on Governmental Affairs of the Senate.”
+
+1989—Subsec. (e)(1)(N), (O). Pub. L. 101–189, §311(a)(1), added subpar. (N) and redesignated former subpar. (N) as (O).
+
+Subsec. (k)(5)(B)(i). Pub. L. 101–189, §853(b)(3), substituted “the Federal Acquisition Regulation” for “the single Government-wide procurement regulation issued pursuant to section 4(4)(A) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(4)(A))”.
+
+Subsec. (k)(6). Pub. L. 101–189, §853(a)(1)(A), designated par. (2) of subsec. (<i>l</i>), set out first, as subsec. (k)(6) and substituted “In this subsection:” for “In subsection (k):” in introductory provisions.
+
+Subsec. (<i>l</i>). Pub. L. 101–189, §853(a)(1)(A), (C), restored the text of subsec. (k) as in effect prior to being struck out by Pub. L. 100–700, §8(b)(2) (see 1988 Amendment note below), designated such text as subsec. (<i>l</i>), and struck out former subsec. (<i>l</i>)(1), set out first, which defined “covered contract”. Former subsec. (<i>l</i>)(2), set out first, was redesignated subsec. (k)(6). Former subsec. (<i>l</i>), set out second, was redesignated (m).
+
+Subsec. (m). Pub. L. 101–189, §853(a)(1)(B), redesignated subsec. (<i>l</i>), set out second, as (m).
+
+1988—Subsec. (e)(1)(L). Pub. L. 100–370, §1(f)(2)(A), added subpar. (L).
+
+Subsec. (e)(1)(M). Pub. L. 100–456, §322(a), added subpar. (M).
+
+Subsec. (e)(1)(N). Pub. L. 100–700, §8(b)(1)(A), which directed amendment of subsec. (e) by striking out subpar. (N) and inserting in lieu thereof a new subpar. (N), was executed to subsec. (e)(1)(N) of this section as the probable intent of Congress. Former subpar. (N) read as follows: “Except as provided in paragraph (2), costs incurred in connection with any civil, criminal, or administrative action brought by the United States that results in a determination that a contractor has violated or failed to comply with any Federal law or regulation if the action results in any of the following:
+
+&emsp;“(i) In the case of a criminal action, a conviction (including a conviction pursuant to a plea of nolo contendere).
+
+&emsp;“(ii) In the case of a civil or administrative action, (I) a determination by the Secretary of Defense that the violation or failure to comply was knowing or willful, and (II) the imposition of a monetary penalty.
+
+&emsp;“(iii) A final decision by an appropriate official of the Department of Defense to debar or suspend the contractor or to rescind, void, or terminate a contract awarded to such contractor if such decision is based on a determination by the Secretary of Defense that the violation or failure to comply was knowing or willful.”
+
+Pub. L. 100–456, §832(a)(1), added subpar. (N).
+
+Subsec. (e)(2), (3). Pub. L. 100–700, §8(b)(1)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “If a civil, criminal, or administrative action referred to in paragraph (1)(N) is resolved by consent or compromise pursuant to an agreement entered into by a contractor and the United States, the contractor's costs that are otherwise not allowable under paragraph (1)(N) may be allowed to the extent provided in such agreement.”
+
+Pub. L. 100–456, §832(a)(2), (3), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (f)(5). Pub. L. 100–463, §8105(a), and Pub. L. 100–456, §826(a), amended section identically, temporarily adding par. (5). Pub. L. 100–526 provided that Pub. L. 100–463, §8105, and amendment made by that section shall cease to be effective. See Effective and Termination Dates of 1988 Amendment note below.
+
+Subsec. (j). Pub. L. 100–370, §1(f)(3)(A)(ii), added subsec. (j). Former subsec. (j) redesignated (k).
+
+Subsec. (k). Pub. L. 100–700, §8(b)(2), added subsec. (k), and struck out former subsec. (k), the text of which was restored and redesignated subsec. (<i>l</i>) by Pub. L. 101–189, §853(a)(1)(C). See 1989 Amendment note above.
+
+Pub. L. 100–370, §1(f)(3)(A)(i), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (<i>l</i>).
+
+Subsec. (<i>l</i>). Pub. L. 100–700, §8(b)(2), added subsec. (<i>l</i>) defining terms “covered contract”, “proceeding”, “costs”, and “penalty”.
+
+Pub. L. 100–370, §1(f)(3)(A)(i), redesignated subsec. (k) as (<i>l</i>).
+
+1987—Subsec. (e)(1)(K). Pub. L. 100–180 added subpar. (K).
+
+Subsec. (k). Pub. L. 100–26 inserted “the term” after “In this section,”.
+
+1985—Subsec. (e)(2). Pub. L. 99–190, §101(b) \[§8112(a)(1)\], designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+
+Subsec. (h)(2). Pub. L. 99–190, §101(b) \[§8112(a)(2)\], inserted “, in an exceptional case,” in provisions preceding subpar. (A).
+
+Subsecs. (j), (k). Pub. L. 99–190, §101(b) \[§8112(a)(3)\], added subsec. (j) and redesignated former subsec. (j) as (k).
+
+#### Effective Date of 1994 Amendment
+
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+
+#### Effective Date of 1992 Amendments
+
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+
+Section 818(b) of Pub. L. 102–484 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 23, 1992\] and shall apply, as provided in regulations prescribed by the Secretary of Defense, with respect to proposals for settlement of indirect costs for which the Federal Government has not formally initiated an audit before that date.”
+
+Section 1352(c) of Pub. L. 102–484 provided that: “The amendments made by subsection (b) \[amending this section\] apply to covered contracts (as defined in section 2324 of title 10, United States Code) that are in effect or are entered into on or after October 1, 1991, for costs incurred on or after October 1, 1991.”
+
+#### Effective Date of 1991 Amendment
+
+Section 346(b) of Pub. L. 102–190 provided that: “The amendments made by subsection (a) \[amending this section\] shall not apply with respect to a foreign national whose employment under a military banking contract (defined in section 2324(e)(2)(B) of title 10, United States Code, as added by subsection (a)) was terminated before the date of the enactment of this Act \[Dec. 5, 1991\].”
+
+#### Effective Date of 1989 Amendment
+
+Section 311(a)(2) of Pub. L. 101–189 provided that: “Subparagraph (N) of such subsection \[10 U.S.C. 2324(e)(1)(N)\], as added by paragraph (1), shall not apply with respect to the termination of the employment of a foreign national employed under any covered contract (as defined in subsection (<i>l</i>) of such section \[10 U.S.C. 2324(<i>l</i>)\]) if such termination is the result of theclosing of, or the curtailment of activities at, a United States military facility in a foreign country pursuant to an agreement entered into with the government of that country before the date of the enactment of this Act \[Nov. 29, 1989\].”
+
+Section 853(a)(3) of Pub. L. 101–189 provided that: “The amendments made by this subsection \[amending this section and provisions set out as a note below\] shall take effect as of November 19, 1988.”
+
+#### Effective and Termination Dates of 1988 Amendments
+
+Section 8(e) of Pub. L. 100–700 provided that: “The amendments made by subsections (a) and (b) \[enacting section 256 of Title 41, Public Contracts, and amending this section\] shall take effect with respect to contracts awarded after the date of the enactment of this Act \[Nov. 19, 1988\].”
+
+Section 8105(d) of Pub. L. 100–463 provided that subsec. (f)(5) of this section, as enacted by section 8105(a) of Pub. L. 100–463, would cease to be effective three years after Oct. 1, 1988. Section 106(a)(2) of Pub. L. 100–526 provided that section 8105 of Pub. L. 100–463 “and the amendment made by that section shall cease to be effective”.
+
+Section 322(b) of Pub. L. 100–456 provided that: “Subparagraph (M) of section 2324(e)(1) of title 10, United States Code, as added by subsection (a), shall apply with respect to any contract entered into after the end of the 180-day period beginning on the date of the enactment of this Act \[Sept. 29, 1988\].”
+
+Section 826(d) of Pub. L. 100–456, as amended by Pub. L. 100–526, title I, §106(a)(1)(B), Oct. 24, 1988, 102 Stat. 2625, provided that: “Section 2324(f)(5) of title 10, United States Code (as added by subsection (a)), shall cease to be effective on September 30, 1991.”
+
+#### Effective Date of 1987 Amendment
+
+Section 805(b) of Pub. L. 100–180 provided that: “Subparagraph (K) of section 2324(e)(1) of title 10, United States Code, as added by subsection (a), shall apply to any contract entered into after the end of the 120-day period beginning on the date of the enactment of this Act \[Dec. 4, 1987\].”
+
+#### Effective Date
+
+Section 911(c) of Pub. L. 99–145 provided that: “Section 2324 of title 10, United States Code, as added by subsection (a), shall apply only to contracts for which solicitations are issued on or after the date on which such regulations are prescribed.”
+
+#### Regulations
+
+Section 2101(e) of Pub. L. 103–355 provided that: “The regulations of the Secretary of Defense implementing section 2324 of title 10, United States Code, shall remain in effect until the Federal Acquisition Regulation is revised to implement the amendments made by this section \[amending this section\].”
+
+Section 8(d) of Pub. L. 100–700 provided that: “The regulations necessary for the implementation of section 306(e) of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 256(e)\] (as added by subsection (a)) and section 2324(k)(5) of title 10, United States Code (as added by subsection (b))—
+
+&emsp;“(1) shall be prescribed not later than 120 days after the date of the enactment of this Act \[Nov. 19, 1988\]; and
+
+&emsp;“(2) shall apply to contracts entered into more than 30 days after the date on which such regulations are issued.”
+
+Section 8105(b), (c) of Pub. L. 100–463 provided for the promulgation of regulations and the preparation of a report in connection with the operation of subsec. (f)(5), as enacted by section 8105(a) of Pub. L. 100–463. Section 106(a)(2) of Pub. L. 100–526 provided that section 8105 of Pub. L. 100–463 “and the amendment made by that section shall cease to be effective”.
+
+Section 826(b) of Pub. L. 100–456 provided that: “The Secretary of Defense shall prescribe final regulations under paragraph (5) of section 2324(f) of title 10, United States Code (as added by subsection (a)), not later than 90 days after the date of the enactment of this Act \[Sept. 29, 1988\]. Such regulations shall apply with respect to costs referred to in such paragraph that are incurred by a Department of Defense contractor (or a subcontractor of such a contractor) on or after the first day of the contractor's (or subcontractor's) first fiscal year that begins on or after the date on which such final regulations are prescribed.”
+
+Section 832(b) of Pub. L. 100–456 related to regulations for the implementation of subsec. (e)(1)(N) of this section, prior to repeal by Pub. L. 100–700, §8(c), Nov. 19, 1988, 102 Stat. 4638.
+
+Section 101(b) \[title VIII, §8112(b), (c)\] of Pub. L. 99–190 required the regulations required under section 911(b) of Pub. L. 99–145, set out below, to be submitted to Congress before the publication of such regulations in accordance with 41 U.S.C. 418b and directed the Comptroller General, within 180 days of publication of the regulations, to submit to Congress a report on the Comptroller General's initial evaluation under subsection (j)(1) of this section.
+
+Section 911(b) of Pub. L. 99–145 provided that:
+
+“(1) Not later than 150 days after the date of the enactment of this Act \[Nov. 8, 1985\], the Secretary of Defense shall prescribe the regulations required by subsections (e) and (f) of section 2324 of title 10, United States Code, as added by subsection (a). Such regulations shall be published in accordance with section 22 of the Office of Federal Procurement Policy Act (41 U.S.C. 418b).
+
+“(2) The Secretary shall review such regulations at least once every five years. The results of each such review shall be made public.”
+
+#### Payment of Restructuring Costs Under Defense Contracts
+
+Pub. L. 103–337, div. A, title VIII, §818, Oct. 5, 1994, 108 Stat. 2821, provided that:
+
+“(a)
+
+Certification of Cost Savings.—(1) The Secretary of Defense may not, under section 2324 of title 10, United States Code, pay restructuring costs associated with a business combination undertaken by a defense contractor until the Department of Defense reviews the projected costs and savings that will result for the Department from such business combination and an official of the Department of Defense at the level of Assistant Secretary of Defense or above certifies in writing that projections of future cost savings resulting for the Department from the business combination are based on audited cost data and should result in overall reduced costs to the Department.
+
+“(2) The requirements for a review and certification under paragraph (1) shall not apply with respect to any business combination for which restructuring costs were paid or otherwise approved by the Secretary before August 15, 1994.
+
+“(b)
+
+Requirement for Regulations.—Not later than January 1, 1995, the Secretary of Defense shall prescribe regulations on the allowability of restructuring costs associated with business combinations under defense contracts.
+
+“(c)
+
+Matters To Be Included.—At a minimum, the regulations shall—
+
+&emsp;“(1) include a definition of the term ‘restructuring costs’; and
+
+&emsp;“(2) address the issue of contract novations under such contracts.
+
+“(d)
+
+Consultation.—In developing the regulations, the Secretary of Defense shall consult with the Administrator for Federal Procurement Policy.
+
+“(e)
+
+Report.—Not later than November 13 in each of the years 1995, 1996, and 1997, the Secretary of Defense shall submit to Congress a report on the following:
+
+&emsp;“(1) A description of the procedures being followed within the Department of Defense for evaluating projected costs and savings under a defense contract resulting from a restructuring of a defense contractor associated with a business combination.
+
+&emsp;“(2) A list of all defense contractors for which restructuring costs have been allowed by the Department, along with the identities of the firms which those contractors have acquired or with which those contractors have combined since July 21, 1993, that qualify the contractors for such restructuring reimbursement.
+
+&emsp;“(3) The Department's experience with business combinations for which the Department has agreed to allow restructuring costs since July 21, 1993, including the following:
+
+&emsp;&emsp;“(A) The estimated amount of costs associated with each restructuring that have been or will be treated as allowable costs under defense contracts, including the type and amounts of costs that would not have arisen absent the business combination.
+
+&emsp;&emsp;“(B) The estimated amount of savings associated with each restructuring that are expected to be achieved on defense contracts.
+
+&emsp;&emsp;“(C) The types of documentation relied on to establish that savings associated with each restructuring will exceed costs associated with the restructuring.
+
+&emsp;&emsp;“(D) Actual experience on whether savings associated with each restructuring are exceeding costs associated with the restructuring.
+
+&emsp;&emsp;“(E) Identification of any programmatic or budgetary disruption in the Department of Defense resulting from contractor restructuring.
+
+“(f)
+
+Definition.—In this section, the term ‘business combination’ includes a merger or acquisition.
+
+“(g)
+
+Comptroller General Reports.—(1) Not later than March 1, 1995, the Comptroller General shall submit to Congress a report on the adequacy of the regulations prescribed under subsection (b) with respect to—
+
+&emsp;“(A) whether such regulations are consistent with the purposes of this section, other applicable law, and the Federal Acquisition Regulation; and
+
+&emsp;“(B) whether such regulations establish policies, procedures, and standards to ensure that restructuring costs are paid only when in the best interests of the United States.
+
+“(2) The Comptroller General shall report periodically to Congress on the implementation of the policy of the Department of Defense regarding defense industry restructuring.
+
+“(3) Not later than December 1, 1997, the Comptroller General shall submit to Congress a final report on the policy of the Department of Defense on defense industry restructuring, including any recommendations the Comptroller considers appropriate.”
+
+#### Reimbursement of Indirect Costs of Institutions of Higher Education Under Department of Defense Contracts
+
+Pub. L. 103–160, div. A, title VIII, §841, Nov. 30, 1993, 107 Stat. 1719, provided that:
+
+“(a)
+
+Prohibition.—The Secretary of Defense may not by regulation place a limitation on the amount that the Department of Defense may reimburse an institution of higher education for allowable indirect costs incurred by the institution for work performed for the Department of Defense under a Department of Defense contract unless that same limitation is applied uniformly to all other organizations performing similar work for the Department of Defense under Department of Defense contracts.
+
+“(b)
+
+Waiver.—The Secretary of Defense may waive the application of the prohibition in subsection (a) in the case of a particular institution of higher education if the governing body of the institution requests the waiver in order to simplify the overall management by that institution of cost reimbursements by the Department of Defense for contracts awarded by the Department to the institution.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘allowable indirect costs’ means costs that are generally considered allowable as indirect costs under regulations that establish the cost reimbursement principles applicable to an institution of higher education for purposes of Department of Defense contracts.
+
+&emsp;“(2) The term ‘institution of higher education’ has the meaning given such term in section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a)).”
+
+#### Assessment of Regulations Relating to Allowability of Costs To Promote Export of Defense Products; Report to Congress
+
+Section 826(c) of Pub. L. 100–456, as amended by Pub. L. 100–526, title I, §106(a)(1)(A), Oct. 24, 1988, 102 Stat. 2625, directed Comptroller General of United States and Inspector General of Department of Defense, not later than 2 years after Sept. 29, 1988, to submit to Congress a report including an assessment of whether the regulations required by subsec. (f)(5) of this section provide the appropriate incentives to stimulate exports by the United States defense industry and provide cost savings to the United States and whether such regulations provide appropriate criteria to ensure that costs allowed are reasonably likely to provide future cost savings to the United States.
+
+#### Air Travel Expenses of Defense Contractor Personnel
+
+Section 833 of Pub. L. 100–456, as amended by Pub. L. 101–189, div. A, title VIII, §853(a)(2), Nov. 29, 1989, 103 Stat. 1518, provided that:
+
+“(a)
+
+Air Fare Discount Agreements.—The Administrator of General Services shall enter into negotiations with commercial air carriers with a view to achieving agreements that permit personnel of contractors who are traveling solely in the performance of covered contracts to be transported by such carriers at the same discount air passenger transportation rates as such carriers charge for travel by Federal Government employees traveling at Government expense.
+
+“(b)
+
+Allowable Costs.—Not later than 120 days after the first agreement goes into effect between the Administrator of General Services and a commercial air carrier under subsection (a), the Secretary of Defense shall prescribe regulations that provide that costs for travel by commercial air carrier by an employee of a defense contractor that exceed the air passenger transportation rates established under the agreement are not allowable costs under section 2324 of title 10, United States Code, under a covered contract if—
+
+&emsp;“(1) the rate was available; and
+
+&emsp;“(2) travel could have reasonably been performed under the conditions required by the air carrier to qualify for such rate.
+
+“(c)
+
+Covered Contract.—In this section, the term ‘covered contract’ has the meaning given such term by section 2324(m) of title 10, United States Code.
+
+“(d)
+
+Expiration.—This section shall cease to be effective three years after the date of the enactment of this Act \[Sept. 29, 1988\].”
+
+#### Burden of Proof in Government Contract Dispute Resolution
+
+Section 933 of Pub. L. 99–145, which provided that in proceeding before the Armed Services Board of Contract Appeals, United States Claims Court, or any other Federal court in which reasonableness of indirect costs for which a contractor seeks reimbursement from Department of Defense is in issue, the burden of proof is upon the contractor to establish that such costs are reasonable, was repealed and restated in subsec. (j) of this section by Pub. L. 100–370, §1(f)(3)(A)(ii), (B), July 19, 1988, 102 Stat. 846.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2372 of this title.
+
+<i><sup>1</sup></i><i> So in original. The words “awarding the contract” probably should not appear.</i>
+

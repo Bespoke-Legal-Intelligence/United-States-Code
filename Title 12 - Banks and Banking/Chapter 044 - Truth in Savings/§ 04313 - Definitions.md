@@ -1,0 +1,60 @@
+### §4313. Definitions
+
+For the purposes of this chapter—
+
+#### (1) Account
+
+&emsp;The term “account” means any account intended for use by and generally used by consumers primarily for personal, family, or household purposes that is offered by a depository institution into which a consumer deposits funds, including demand accounts, time accounts, negotiable order of withdrawal accounts, and share draft accounts.
+
+#### (2) Annual percentage yield
+
+&emsp;The term “annual percentage yield” means the total amount of interest that would be received on a $100 deposit, based on the annual rate of simple interest and the frequency of compounding for a 365-day period, expressed as a percentage calculated by a method which shall be prescribed by the Board in regulations.
+
+#### (3) Annual rate of simple interest
+
+&emsp;The term “annual rate of simple interest”—
+
+&emsp;&emsp;(A) means the annualized rate of interest paid with respect to each compounding period, expressed as a percentage; and
+
+&emsp;&emsp;(B) may be referred to as the “annual percentage rate”.
+
+#### (4) Board
+
+&emsp;The term “Board” means the Board of Governors of the Federal Reserve System.
+
+#### (5) Deposit broker
+
+&emsp;The term “deposit broker”—
+
+&emsp;&emsp;(A) has the meaning given to such term in section 1831f(f)(1) <sup>1</sup> of this title; and
+
+&emsp;&emsp;(B) includes any person who solicits any amount from any other person for deposit in an insured depository institution.
+
+#### (6) Depository institution
+
+&emsp;The term “depository institution” has the meaning given such term in clauses (i) through (vi) of section 461(b)(1)(A) of this title.
+
+#### (7) Interest
+
+&emsp;The term “interest” includes dividends paid with respect to share draft accounts which are accounts within the meaning of paragraph (3).
+
+#### (8) Multiple rate account
+
+&emsp;The term “multiple rate account” means any account that has 2 or more annual rates of simple interest which take effect at the same time or in succeeding periods and which are known at the time of disclosure.
+
+(Pub. L. 102–242, title II, §274, Dec. 19, 1991, 105 Stat. 2342; Pub. L. 102–550, title XVI, §1604(e)(2)(S), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 103–325, title III, §332, Sept. 23, 1994, 108 Stat. 2232.)
+
+#### References in Text
+
+Section 1831f(f)(1) of this title, referred to in par. (5)(A), was redesignated section 1831f(g)(1) of this title by Pub. L. 102–242, title III, §301(a)(4), Dec. 19, 1991, 105 Stat. 2344.
+
+#### Amendments
+
+1994—Par. (1). Pub. L. 103–325 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘account’ means any account offered to 1 or more individuals or an unincorporated nonbusiness association of individuals by a depository institution into which a customer deposits funds, including demand accounts, time accounts, negotiable order of withdrawal accounts, and share draft accounts.”
+
+1992—Pub. L. 102–550 made technical amendment to reference to “this chapter” in introductory provisions to reflect correction of corresponding provision of original act.
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
+

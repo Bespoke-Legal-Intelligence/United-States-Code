@@ -1,0 +1,44 @@
+### §6371c. State plans
+
+#### (a) Invitation to State energy agency to submit plan; contents
+
+The Secretary shall invite the State energy agency of each State to submit, within 90 days after the effective date of the guidelines prescribed pursuant to section 6371a of this title, or such longer period as the Secretary may, for good cause, allow, a State plan under this section for such State. Such plan shall include—
+
+&emsp;(1) the results of preliminary energy audits conducted in accordance with the guidelines prescribed under section 6371a(a)(1) of this title, and an estimate of the energy savings that may result from the modification of maintenance and operating procedures and installation of energy conservation measures in the schools and hospitals in such State,
+
+&emsp;(2) a recommendation as to the types of energy conservation projects considered appropriate for schools and hospitals in such State, together with an estimate of the costs of carrying out such projects in each year for which funds are appropriated.<sup>1</sup>
+
+&emsp;(3) a program for identifying persons qualified to carry out energy conservation projects,
+
+&emsp;(4) procedures to insure that funds will be allocated among eligible applicants for energy conservation projects within such State, including procedures—
+
+&emsp;&emsp;(A) to insure that funds will be allocated on the basis of relative need taking into account such factors as cost, energy consumption and energy savings, and
+
+&emsp;&emsp;(B) to insure that equitable consideration is given to all eligible public or nonprofit institutions regardless of size and type of ownership; <sup>1</sup>
+
+&emsp;(5) a statement of the extent to which, and by which methods, such State will encourage utilization of solar space heating, cooling, and electric systems and solar water heating systems where appropriate,
+
+&emsp;(6) procedures to assure that all assistance under this part in such State will be expended in compliance with the requirements of an approved State plan for such State, and in compliance with the requirements of this part: <sup>1</sup>
+
+&emsp;(7) procedures to insure implementation of energy conserving maintenance and operating procedures in those facilities for which projects are proposed; <sup>1</sup> and
+
+&emsp;(8) policies and procedures designed to assure that financial assistance provided under this part in such State will be used to supplement, and not to supplant, State, local, or other funds.
+
+#### (b) Approval of plans
+
+The Secretary shall review and approve or disapprove each State plan not later than 60 days after receipt by the Secretary. If such plan meets the requirements of subsection (a) of this section, the Secretary shall approve the plan. If a State plan submitted within the 90-day period specified in subsection (a) of this section has not been disapproved within the 60-day period following its receipt by the Secretary, such plan shall be treated as approved by the Secretary. A State energy agency may submit a new or amended plan at any time after the submission of the original plan if the agency obtains the consent of the Secretary.
+
+#### (c) Development and implementation of approved plans; submission of proposed State plan
+
+(1) If a State plan has not been approved under this section within 2 years and 90 days after November 9, 1978, or within 90 days after the completion of the preliminary audits under section 6371b(a) of this title, whichever is later, the Secretary may take such action as necessary to develop and implement such a State plan and to carry out the functions which would otherwise be carried out under this part by the State energy agency, State school facilities agency, and State hospital facilities agency, in order that the energy conservation program for schools and hospitals may be implemented in such State.
+
+(2) Notwithstanding any other provision contained in this section, a State may, at any time, submit a proposed State plan for such State under this section. The Secretary shall approve or disapprove such plan not later than 60 days after receipt by the Secretary. If such plan meets the requirements of subsection (a) of this section and is not inconsistent with any plan developed and implemented by the Secretary under paragraph (1), the Secretary shall approve the plan and withdraw any such plan developed and implemented by the Secretary.
+
+(Pub. L. 94–163, title III, §394, as added Pub. L. 95–619, title III, §302(a), Nov. 9, 1978, 92 Stat. 3243.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6371, 6371d, 6371e of this title.
+
+<i><sup>1</sup></i><i> So in original. The punctuation probably should be a comma.</i>
+

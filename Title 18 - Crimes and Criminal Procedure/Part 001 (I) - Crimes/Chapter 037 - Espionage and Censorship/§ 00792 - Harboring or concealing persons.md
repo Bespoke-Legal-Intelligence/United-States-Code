@@ -1,0 +1,42 @@
+### §792. Harboring or concealing persons
+
+Whoever harbors or conceals any person who he knows, or has reasonable grounds to believe or suspect, has committed, or is about to commit, an offense under sections 793 or 794 of this title, shall be fined under this title or imprisoned not more than ten years, or both.
+
+(June 25, 1948, ch. 645, 62 Stat. 736; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+
+#### Historical and Revision Notes
+
+Based on section 35 of title 50, U.S.C., 1940 ed., War and National Defense (June 15, 1917, ch. 30, title I, §5, 40 Stat. 219; Mar. 28, 1940, ch. 72, §2, 54 Stat. 79).
+
+Similar harboring and concealing language was added to section 2388 of this title.
+
+Mandatory punishment provision was rephrased in the alternative.
+
+#### Amendments
+
+1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+
+#### Indictment for Violating This Section and Sections 793, 794; Limitation Period
+
+Act Sept. 23, 1950, ch. 1024, §19, 64 Stat. 1005, provided that an indictment for any violation of this section and sections 793 and 794 of this title, other than a violation constituting a capital offense, may be found at any time within ten years next after such violation shall have been committed, but that such section 19 shall not authorize prosecution, trial, or punishment for any offense “now” barred by the provisions of existing law.
+
+#### Canal Zone
+
+Applicability of section to Canal Zone, see section 14 of this title.
+
+#### Cross References
+
+Federal retirement benefits, forfeiture upon conviction of offenses described under this section, see section 8312 of Title 5, Government Organization and Employees.
+
+Forfeiture of veterans’ benefits upon conviction under this section, see section 6105 of Title 38, Veterans’ Benefits.
+
+Harboring and concealing, generally, see section 1071 et seq. of this title.
+
+Jurisdiction of offenses, see section 3241 of this title.
+
+Misprision of felony, see section 4 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 14, 951 of this title; title 5 section 8312; title 38 section 6105; title 42 section 2000aa; title 50 App. sections 19, 34.
+

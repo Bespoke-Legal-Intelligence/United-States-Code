@@ -1,0 +1,108 @@
+### §2803. National Aquaculture Development Plan
+
+#### (a) In general
+
+(1) Within eighteen months after September 26, 1980, the Secretaries shall establish the National Aquaculture Development Plan.
+
+(2) In developing the Plan, and revisions thereto under subsection (d) of this section, beginning not later than six months after September 26, 1980, the Secretary shall consult with the Secretary of Commerce and the Secretary of the Interior, other appropriate Federal officers, States, regional fishery management councils established under section 1852 of this title, and representatives of the aquaculture industry. In addition, the Secretary shall give interested persons and organizations an opportunity to comment during the development of the Plan.
+
+#### (b) Contents of Plan
+
+The Plan shall—
+
+&emsp;(1) identify aquatic species that the Secretaries determine to have significant potential for culturing on a commercial or other basis;
+
+&emsp;(2) recommend actions to be taken by the public and private sectors (which may include, but are not limited to, research and development, technical assistance, demonstration, extension education, and training activities) that are necessary to achieve such potential;
+
+&emsp;(3) address, after taking into account the status of aquaculture regarding the aquatic species concerned—
+
+&emsp;&emsp;(A) aquaculture facility design and operation,
+
+&emsp;&emsp;(B) water quality management,
+
+&emsp;&emsp;(C) use of waste products (including thermal effluents),
+
+&emsp;&emsp;(D) nutrition and the development of economical feeds, including natural food sources,
+
+&emsp;&emsp;(E) life history, genetics, physiology, pathology, and disease control (including research regarding organisms that may not be harmful to fish and shellfish, but are injurious to humans),
+
+&emsp;&emsp;(F) processing and market development,
+
+&emsp;&emsp;(G) production management and quality control, and
+
+&emsp;&emsp;(H) the development of adequate supplies of seed stock;
+
+&emsp;(4) include, where appropriate, research programs on the effect of aquaculture on estuarine and other water areas and on the management of such areas for aquaculture;
+
+&emsp;(5) include, where appropriate, programs to analyze, and formulate proposed resolutions of, the legal or regulatory constraints that may affect aquaculture; and
+
+&emsp;(6) include such other research and development, technical assistance, demonstration, extension education, and training programs as the Secretary deems necessary or appropriate to carry out this chapter.
+
+> In formulating the Plan, the Secretary shall, to the extent practicable, take into account any significant action that (i) has been, or is proposed to be, undertaken by any other Federal department or agency, any State agency, or any person, and (ii) may affect the implementation of the Plan.
+
+#### (c) Actions and implementation
+
+The Plan shall specify—
+
+&emsp;(1) with respect to those actions that the Secretary determines should be undertaken, the period of time within which each such action should be completed, in order to implement the Plan; and
+
+&emsp;(2) with respect to each such action which of the Secretaries, acting individually, jointly, or collectively, has the responsibility for implementing the action.
+
+> The specifications of Secretarial responsibilities under paragraph (2) for implementing actions shall be determined on the basis of—
+
+&emsp;(A) the responsibilities conferred on the respective Secretaries by law or by any executive action having the effect of law (including, but not limited to, Reorganization Plan Numbered 4 of 1970);
+
+&emsp;(B) the experience, expertise, and other appropriate resources that the department of each such Secretary may have with respect to the action required under the activity concerned; and
+
+&emsp;(C) the concurrence of the Secretaries.
+
+#### (d) Revision of Plan
+
+The Secretaries shall undertake periodic reviews of the operation and effectiveness of the Plan. If as a result of any such review, or the aquaculture assessment required under subsection (e) of this section, the Secretaries determine that—
+
+&emsp;(1) any aquatic species not currently identified in the Plan has significant potential for aquaculture;
+
+&emsp;(2) any action specified in the Plan is not being accomplished on a successful and timely basis; or
+
+&emsp;(3) any action specified in the Plan should be terminated because its objectives have been achieved or its projected benefits do not warrant further support;
+
+> the Secretaries shall appropriately amend the Plan.
+
+#### (e) Continuing aquaculture assessment
+
+The Secretaries, through the coordinating group, shall undertake a continuing assessment of aquaculture in the United States for the purpose of maintaining, on a continuing basis—
+
+&emsp;(1) a complete profile of the aquacultural industry with respect to the incidence, size, and status of commercial aquacultural enterprises;
+
+&emsp;(2) the identification of the private and public institutions and organizations involved in aquacultural research, extension, credit, and market development;
+
+&emsp;(3) the identification of the various aquatic species being cultured and a description of the status of commercial development of each of those species;
+
+&emsp;(4) to the extent practicable, the identification of aquacultural production regions, species, and markets that have significant potential for development;
+
+&emsp;(5) a catalog describing all Federal programs and activities that directly or indirectly encourage, support, or assist aquaculture; and
+
+&emsp;(6) the identification of the economic, physical, legal, institutional, and social constraints that inhibit the development of aquaculture in the United States.
+
+(Pub. L. 96–362, §4, Sept. 26, 1980, 94 Stat. 1199; Pub. L. 99–198, title XVII, §1734, Dec. 23, 1985, 99 Stat. 1641.)
+
+#### References in Text
+
+Reorganization Plan Numbered 4 of 1970, referred to in subsec. (c)(A), is Reorg. Plan No. 4 of 1970, 35 F.R. 15627, 84 Stat. 2090, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1985—Subsec. (a)(2). Pub. L. 99–198, §1734(1)(A), (B), substituted “Secretary” for “Secretaries” wherever appearing and inserted provisions requiring consultations with the Secretary of Commerce and the Secretary of the Interior.
+
+Subsec. (a)(3). Pub. L. 99–198, §1734(1)(C), struck out par. (3) which provided for the establishment of an advisory committee to assist in the initial development of the Plan.
+
+Subsec. (b). Pub. L. 99–198, §1734(2), inserted “to” after “determine” in par. (1), substituted “Secretary deems” for “Secretaries deem” in par. (6), and substituted “Secretary” for “Secretaries” in provisions following par. (6).
+
+Subsec. (c)(1). Pub. L. 99–198, §1734(3)(A), substituted “Secretary determines” for “Secretaries determine”.
+
+Subsec. (c)(2)(C). Pub. L. 99–198, §1734(3)(B)–(D), added subpar. (C).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2802 of this title.
+

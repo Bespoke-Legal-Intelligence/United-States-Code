@@ -1,0 +1,50 @@
+### §330. Research contracts
+
+(a) The Secretary of Transportation may make contracts with educational institutions, public and private agencies and organizations, and persons for scientific or technological research into a problem related to programs carried out by the Secretary. Before making a contract, the Secretary must require the institution, agency, organization, or person to show that it is able to carry out the contract.
+
+(b) In carrying out this section, the Secretary shall—
+
+&emsp;(1) give advice and assistance the Secretary believes will best carry out the duties and powers of the Secretary;
+
+&emsp;(2) participate in coordinating all research started under this section;
+
+&emsp;(3) indicate the lines of inquiry most important to the Secretary; and
+
+&emsp;(4) encourage and assist in establishing and maintaining cooperation by and between contractors and between them and other research organizations, the Department of Transportation, and other departments, agencies, and instrumentalities of the United States Government.
+
+(c) The Secretary may distribute publications containing information the Secretary considers relevant to research carried out under this section.
+
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2427.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+330(a)
+
+49:1657(q)(1).
+
+Oct. 15, 1966, Pub. L. 89–670, §9(q)(1)–(3), 80 Stat. 947.
+
+&nbsp;
+
+49:1657(q)(2) (1st sentence).
+
+330(b)
+
+49:1657(q)(2) (less 1st sentence).
+
+330(c)
+
+49:1657(q)(3).
+
+In subsection (a), the words “may make contracts” are substituted for “is authorized to enter into contracts” to eliminate unnecessary words. The words “the conduct of” before “scientific” are omitted as surplus. The words “a problem” are substituted for “any aspect of the problems” because of the style of the revised title. The words “carried out by the Secretary” are substituted for “of the Department which are authorized by statute” because the Secretary of Transportation is vested with all duties and powers. The words “Before making a contract” are substituted for “with which he expects to enter into contracts pursuant to this subsection” for clarity and to eliminate unnecessary words. The words “is able to carry out the contract” are substituted for “have the capability of doing effective work” for clarity.
+
+In subsection (b), before clause (1), the words “In carrying out this section” are added for clarity. In clause (1), the word “give” is substituted for “furnish” before “such advice” for consistency. The words “duties and powers of the Secretary” are substituted for “mission of the Department” for clarity and consistency. In clause (4), the word “contractors” is substituted for “the institutions, agencies, organizations, or persons” to eliminate unnecessary words. The words “departments, agencies, and instrumentalities of the United States Government” are substituted for “Federal agencies” for clarity and consistency.
+
+In subsection (c), the words “considers relevant” are substituted for “as he deems pertinent” as more precise. The words “from time to time” before “disseminate” and “in the form of reports or . . . to public or private agencies or organizations, or individuals” before “such information” are omitted as unnecessary.
+

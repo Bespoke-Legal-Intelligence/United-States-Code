@@ -1,0 +1,218 @@
+### §1450. Payment of annuity: beneficiaries
+
+(a) Effective as of the first day after the death of a person to whom section 1448 of this title applies (or on such other day as he may provide under subsection (j)), a monthly annuity under section 1451 of this title shall be paid to—
+
+&emsp;(1) the eligible widow or widower or the eligible former spouse;
+
+&emsp;(2) the surviving dependent children in equal shares, if the eligible widow or widower or the eligible former spouse is dead, dies, or otherwise becomes ineligible under this section;
+
+&emsp;(3) the dependent children in equal shares if the person to whom section 1448 of this title applies (with the concurrence of the person's spouse, if required under section 1448(a)(3) of this title) elected to provide an annuity for dependent children but not for the spouse or former spouse; or
+
+&emsp;(4) the natural person designated under section 1448(b) of this title, unless the election to provide an annuity to the natural person has been changed as provided in subsection (f).
+
+(b) An annuity payable to the beneficiary terminates effective as of the first day of the month in which eligibility is lost. An annuity for a widow, widower, or former spouse shall be paid to the widow, widower, or former spouse while the widow, widower, or former spouse is living or, if the widow, widower, or former spouse remarries before reaching age 55, until the widow, widower, or former spouse remarries. If the widow, widower, or former spouse remarries before reaching age 55 and that marriage is terminated by death, annulment, or divorce,payment of the annuity will be resumed effective as of the first day of the month in which the marriage is so terminated. However, if the widow, widower, or former spouse is also entitled to an annuity under the Plan based upon the marriage so terminated, the widow, widower, or former spouse may not receive both annuities but must elect which to receive.
+
+(c) If, upon the death of a person to whom section 1448 of this title applies, the widow, widower, or former spouse of that person is also entitled to dependency and indemnity compensation under section 1311(a) of title 38, the widow, widower, or former spouse may be paid an annuity under this section, but only in the amount that the annuity otherwise payable under this section would exceed that compensation. A reduction in an annuity under this section required by the preceding sentence shall be effective on the date of the commencement of the period of payment of such compensation under title 38.
+
+(d) If, upon the death of a person to whom section 1448 of this title applies, that person had in effect a waiver of his retired pay for the purposes of subchapter III of chapter 83 of title 5, an annuity under this section shall not be payable unless, in accordance with section 8339(j) of title 5, he notified the Office of Personnel Management that he did not desire any spouse surviving him to receive an annuity under section 8341(b) of that title.
+
+(e) If no annuity under this section is payable because of subsection (c), any amounts deducted from the retired pay of the deceased under section 1452 of this title shall be refunded to the widow, widower, or former spouse. If, because of subsection (c), the annuity payable is less than the amount established under section 1451 of this title, the annuity payable shall be recalculated under that section. The amount of the reduction in the retired pay required to provide that recalculated annuity shall be computed under section 1452 of this title, and the difference between the amount deducted prior to the computation of that recalculated annuity and the amount that would have been deducted on the basis of that recalculated annuity shall be refunded to the widow, widower, or former spouse.
+
+(f)(1) A person who elects to provide an annuity to a person designated by him under section 1448(b) of this title may, subject to paragraph (2), change that election and provide an annuity to his spouse or dependent child. The Secretary concerned shall notify the former spouse or other natural person previously designated under section 1448(b) of this title of any change of election under the first sentence of this paragraph. Any such change of election is subject to the same rules with respect to execution, revocation, and effectiveness as are set forth in section 1448(a)(5) of this title (without regard to the eligibility of the person making the change of election to make an election under such section).
+
+(2) A person who, incident to a proceeding of divorce, dissolution, or annulment, is required by a court order to elect under section 1448(b) of this title to provide an annuity to a former spouse (or to both a former spouse and child), or who enters into a written agreement (whether voluntary or required by a court order) to make such an election, and who makes an election pursuant to such order or agreement, may not change such election under paragraph (1) unless—
+
+&emsp;(A) in a case in which the election is required by a court order, or in which an agreement to make the election has been incorporated in or ratified or approved by a court order, the person—
+
+&emsp;&emsp;(i) furnishes to the Secretary concerned a certified copy of a court order which is regular on its face and modifies the provisions of all previous court orders relating to such election, or the agreement to make such election, so as to permit the person to change the election; and
+
+&emsp;&emsp;(ii) certifies to the Secretary concerned that the court order is valid and in effect; or
+
+&emsp;(B) in a case of a written agreement that has not been incorporated or ratified or approved by a court order, the person—
+
+&emsp;&emsp;(i) furnishes to the Secretary concerned a statement, in such form as the Secretary concerned may prescribe, signed by the former spouse and evidencing the former spouse's agreement to a change in the election under paragraph (1); and
+
+&emsp;&emsp;(ii) certifies to the Secretary concerned that the statement is current and in effect.
+
+(3)(A) If a person described in paragraph (2) or (3) of section 1448(b) of this title enters, incident to a proceeding of divorce, dissolution, or annulment, into a written agreement to elect under section 1448(b) of this title to provide an annuity to a former spouse and such agreement has been incorporated in or ratified or approved by a court order or has been filed with the court of appropriate jurisdiction in accordance with applicable State law or if such person is required by a court order to make such an election, and such person then fails or refuses to make such an election, such person shall be deemed to have made such an election if the Secretary concerned receives a written request, in such manner as the Secretary shall prescribe, from the former spouse concerned requesting that such an election be deemed to have been made and receives a copy of the court order, regular on its face, which requires such election or incorporates, ratifies, or approves the written agreement of such person or receives a statement from the clerk of the court (or other appropriate official) that such agreement has been filed with the court in accordance with applicable State law.
+
+(B) An election may not be deemed to have been made under subparagraph (A) in the case of any person unless the Secretary concerned receives a request from the former spouse of the person within one year of the date of the court order or filing involved.
+
+(C) An election deemed to have been made under subparagraph (A) shall become effective on the first day of the first month which begins after the date of the court order or filing involved.
+
+(4) A court order may require a person to elect (or to enter into an agreement to elect) undersection 1448(b) of this title to provide an annuity to a former spouse (or to both a former spouse and child).
+
+(g) Except as provided in section 1449 of this title or in subsection (f) of this section, an election under this section may not be changed or revoked.
+
+(h) Except as provided in section 1451 of this title, an annuity under this section is in addition to any other payment to which a person is entitled under any other provision of law. Such annuity shall be considered as income under laws administered by the Department of Veterans Affairs.
+
+(i) Except as provided in subsection (<i>l</i>)(3)(B), an annuity under this section is not assignable or subject to execution, levy, attachment, garnishment, or other legal process.
+
+(j) An annuity elected by a person providing a reserve-component annuity shall be effective in accordance with the designation made by such person under section 1448(e) of this title. An annuity payable under section 1448(f) of this title shall be effective on the day after the date of the death of the person upon whose service the right to the annuity is based.
+
+(k)(1) If a widow, widower, or former spouse whose annuity has been adjusted under subsection (c) subsequently loses entitlement to compensation under section 1311(a) of title 38 because of the remarriage of such widow, widower, or former spouse, and if at the time of such remarriage such widow, widower, or former spouse is 55 years of age or more, the amount of the annuity of such widow, widower, or former spouse shall be readjusted, effective on the effective date of such loss of compensation, to the amount of the annuity which would be in effect with respect to such widow, widower, or former spouse if the adjustment under subsection (c) had never been made.
+
+(2) A widow, widower, or former spouse whose annuity is readjusted under paragraph (1) shall repay any amount refunded under subsection (e) by reason of the adjustment under subsection (c). If the repayment is not made in a lump sum, the widow, widower, or former spouse shall pay interest on the amount to be repaid commencing on the date on which the first such payment is due and applied over the period during which any part of the repayment remains to be paid. The manner in which such repayment shall be made, and the rate of any such interest, shall be prescribed in regulations under section 1455 of this title. An amount repaid under this paragraph (including any such interest) received by the Secretary of Defense shall be deposited into the Department of Defense Military Retirement Fund. Any other amount repaid under this paragraph shall be deposited into the Treasury as miscellaneous receipts.
+
+(<i>l</i>)(1) Upon application of the beneficiary of a participant in the Plan whose retired pay has been suspended on the basis that the participant is missing (or of a participant in the Plan who would be eligible for reserve-component retired pay but for the fact that he is under 60 years of age and whose retired pay, if he were entitled to retired pay, would be suspended on the basis that he is missing), the Secretary concerned may determine for purposes of this subchapter that the participant is presumed dead. Any such determination shall be made in accordance with regulations prescribed under section 1455 of this title. The Secretary concerned may not make a determination for purposes of this subchapter that a participant is presumed dead unless he finds—
+
+&emsp;(A) that the participant has been missing for at least 30 days; and
+
+&emsp;(B) that the circumstances under which the participant is missing would lead a reasonably prudent person to conclude that the participant is dead.
+
+(2) Upon a determination under paragraph (1) with respect to a participant in the Plan, an annuity otherwise payable under this subchapter shall be paid as if the participant died on the date as of which the retired pay of the participant was suspended.
+
+(3)(A) If, after a determination under paragraph (1), the Secretary concerned determines that the participant is alive, any annuity being paid under this subchapter by reason of this subsection shall be terminated and the total amount of any annuity payments made by reason of this subsection shall constitute a debt to the United States which may be collected or offset—
+
+&emsp;(i) from any retired pay otherwise payable to the participant;
+
+&emsp;(ii) if the participant is entitled to compensation under chapter 11 of title 38, from that compensation; or
+
+&emsp;(iii) if the participant is entitled to any other payment from the United States, from that payment.
+
+(B) If the participant dies before the full recovery of the amount of annuity payments described in subparagraph (A) has been made by the United States, the remaining amount of such annuity payments may be collected from his beneficiary under the Plan if that beneficiary was the recipient of the annuity payments made by reason of this subsection.
+
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 708; amended Pub. L. 94–496, §1(3), (4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §§203, 207(b), (c), Sept. 30, 1978, 92 Stat. 845, 848; Pub. L. 97–22, §11(a)(3), July 10, 1981, 95 Stat. 137; Pub. L. 97–252, title X, §1003(c), (d), Sept. 8, 1982, 96 Stat. 736; Pub. L. 98–94, title IX, §941(a)(3), (c)(3), Sept. 24, 1983, 97 Stat. 653; Pub. L. 98–525, title VI, §§642(b), 644, Oct. 19, 1984, 98 Stat. 2546, 2548; Pub. L. 99–145, title VII, §§713(b), 717, 718, 719(4)–(6), (8)(A), 722, 723(a), (b)(1), title XIII, §1303(a)(11), Nov. 8, 1985, 99 Stat. 672, 674–677, 739; Pub. L. 99–661, div. A, title VI, §§641(a), (b)(2), (3), 643(a), title XIII, §1343(a)(8)(C), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 100–26, §3(3), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VI, §636(a), Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–224, §5(b)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 101–189, div. A, title XIV, §1407(a)(2)–(4), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1588, 1602; Pub. L. 103–337, div. A, title X, §1070(e)(3), Oct. 5, 1994, 108 Stat. 2859.)
+
+#### Amendments
+
+1994—Subsecs. (c), (k)(1). Pub. L. 103–337 substituted “section 1311(a) of title 38” for “section 411(a) of title 38”.
+
+1989—Subsec. (f)(3)(B). Pub. L. 101–189, §1407(a)(4), substituted “within one year of the date of the court order or filing involved” for “before October 1, 1985, or within one year of the date of the court order or filing involved, whichever is later”.
+
+Subsec. (h). Pub. L. 101–189, §1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+
+Subsec. (<i>l</i>)(1). Pub. L. 101–189, §1407(a)(2), substituted “reserve-component retired pay” for “retired pay under chapter 67 of this title”.
+
+Subsec. (<i>l</i>)(2). Pub. L. 101–189, §1407(a)(3), struck out “or retainer” after “of which the retired”.
+
+1987—Subsec. (b). Pub. L. 100–26, §3(3), made technical amendment to directory language of Pub. L. 99–661, §643(a). See 1986 Amendment note below.
+
+Subsec. (f)(3)(A). Pub. L. 100–224 struck out second of two commas after “required by a court order to make such an election”.
+
+Subsec. (k)(1). Pub. L. 100–180 substituted “55 years of age” for “60 years of age”.
+
+1986—Subsec. (b). Pub. L. 99–661, §643(a), as amended by Pub. L. 100–26, §3(3), substituted “age 55” for “age 60” in two places.
+
+Subsec. (c). Pub. L. 99–661, §1343(a)(8)(C), substituted “entitled to dependency and indemnity compensation” for “entitled to compensation”.
+
+Subsec. (f)(2). Pub. L. 99–661, §641(b)(2)(A), substituted “is required by a court order to elect under section 1448(b) of this title to provide an annuity to a former spouse (or to both a former spouse and child), or who enters into a written agreement (whether voluntary or required by a court order) to make such an election, and who makes an election pursuant to such order or agreement,” for “enters into a voluntary written agreement to elect under section 1448(b) of this title to provide an annuity to a former spouse and who makes an election pursuant to such agreement”.
+
+Subsec. (f)(2)(A). Pub. L. 99–661, §641(b)(2)(B), substituted “in a case in which the election is required by a court order, or in which an agreement to make the election” for “in a case in which such agreement”.
+
+Subsec. (f)(2)(A)(i). Pub. L. 99–661, §641(b)(2)(C), substituted “relating to such election, or the agreement to make such election,” for “relating to the agreement to make such election”.
+
+Subsec. (f)(2)(B). Pub. L. 99–661, §641(b)(2)(D), substituted “of a written agreement that” for “in which such agreement”.
+
+Subsec. (f)(3)(A). Pub. L. 99–661, §641(b)(3), struck out “voluntary” before “written agreement” in two places, inserted “or if such person is required by a court order to make such an election,” after “applicable” and inserted “requires such election or” after “on its face, which”.
+
+Subsec. (f)(4). Pub. L. 99–661, §641(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Nothing in this chapter authorizes any court to order any person to elect under section 1448(b) of this title to provide an annuity to a former spouse unless such person has voluntarily agreed in writing to make such election.”
+
+1985—Subsec. (a)(1), (2). Pub. L. 99–145, §723(a)(1), inserted “or the eligible former spouse” after “widow or widower”.
+
+Subsec. (a)(3). Pub. L. 99–145, §723(a)(2), inserted “(with the concurrence of the person's spouse, if required under section 1448(a)(3) of this title)” after “title applies”, and “or former spouse” after “the spouse”.
+
+Subsec. (a)(4). Pub. L. 99–145, §723(a)(3), struck out “former spouse or other” before “natural person” in two places.
+
+Subsec. (b). Pub. L. 99–145, §723(b)(1), substituted “widow, widower, or former spouse” for “widow or widower” in eight places.
+
+Pub. L. 99–145, §719(4), substituted “under the Plan” for “under this section”.
+
+Subsec. (c). Pub. L. 99–145, §723(b)(1), substituted “widow, widower, or former spouse” for “widow or widower” in two places.
+
+Pub. L. 99–145, §718, inserted provision respecting the effective date of the dependency and indemnity compensation offset.
+
+Subsec. (d). Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retired or retainer pay”.
+
+Subsec. (e). Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retired or retainer pay” in two places.
+
+Pub. L. 99–145, §723(b)(1), substituted “widow, widower, or former spouse” for “widow or widower” in two places.
+
+Subsec. (f)(3)(A). Pub. L. 99–145, §722(1), inserted “or has been filed with the court of appropriate jurisdiction in accordance with applicable State law” after “by a court order” and “or receives a statement from the clerk of the court (or other appropriate official) that such agreement has been filed with the court in accordance with applicable State law” after “voluntary written agreement of such person”.
+
+Subsec. (f)(3)(B), (C). Pub. L. 99–145, §722(2), inserted “or filing” after “court order”.
+
+Subsec. (i). Pub. L. 99–145, §1303(a)(11)(A), substituted “subsection (<i>l</i>)(3)(B)” for “subsection (<i>l)”.</i>
+
+Subsec. (j). Pub. L. 99–145, §719(5), substituted “a person providing a reserve-component annuity” for “any person providing an annuity by virtue of eligibility under section 1448(a)(1)(B) of this title”.
+
+Pub. L. 99–145, §713(b), inserted provision respecting the effective date of an annuity payable under section 1448(f) of this title.
+
+Subsec. (k). Pub. L. 99–145, §723(b)(1), substituted “widow, widower, or former spouse” for “widow or widower” wherever appearing.
+
+Subsec. (k)(1). Pub. L. 99–145, §717(1), (2), designated existing provisions as par. (1) and substituted “had never been made.” for “had never been made, but such readjustment may not be made until the widow or widower repays any amount refunded under subsection (e) by reason of the adjustment under subsection (c).”
+
+Subsec. (k)(2). Pub. L. 99–145, §717(3), added par. (2).
+
+Subsec. (<i>l</i>)(1). Pub. L. 99–145, §719(6)(A), (8)(A), substituted in first sentence “the Plan” for “the plan” in two places, and substituted “retired pay” for “retired or retainer pay” before “has been suspended”.
+
+Subsec. (<i>l</i>)(2). Pub. L. 99–145, §719(6)(B), struck out “the provision of” before “this subchapter”.
+
+Subsec. (<i>l</i>)(3)(A). Pub. L. 99–145, §1303(a)(11)(B), struck out “(notwithstanding subsection (h))” before “may be collected”.
+
+Subsec. (<i>l</i>)(3)(A)(i). Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retried or retainer pay”.
+
+1984—Subsec. (f)(3), (4). Pub. L. 98–525, §644, added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (i). Pub. L. 98–525, §642(b)(1), substituted “Except as provided in subsection (<i>l</i>), an” for “An”.
+
+Subsec. (<i>l</i>). Pub. L. 98–525, §642(b)(2), added subsec. (<i>l).</i>
+
+1983—Subsec. (a)(4). Pub. L. 98–94, §941(a)(3)(A), struck out “at the time the person to whom section 1448 applies became entitled to retired or retainer pay” after “section 1448(b) of this title”.
+
+Subsec. (f)(1). Pub. L. 98–94, §941(a)(3)(B), inserted “(without regard to the eligibility of the person making the change of election to make an election under such section)” after “section 1448(a)(5) of this title”.
+
+Pub. L. 98–94, §941(c)(3)(A), struck out “of this subsection” after “subject to paragraph (2)”.
+
+Subsec. (f)(2). Pub. L. 98–94, §941(c)(3)(B), substituted “or annulment,” for “annulment, or legal separation,”.
+
+1982—Subsec. (a)(4). Pub. L. 97–252, §1003(c), substituted “former spouse or other natural person” for “natural person” and “unless the election to provide an annuity to the former spouse or other natural person has been changed as provided in subsection (f)” for “if there is no eligible beneficiary under clause (1) or clause (2)”.
+
+Subsec. (f). Pub. L. 97–252, §1003(d), designated existing provisions as par. (1), substituted “A person who elects to provide an annuity to a person designated by him under section 1448(b) of this title may, subject to paragraph (2) of this subsection,” for “An unmarried person who elects to provide an annuity to a persondesignated by him under subsection (a)(4), but who later marries or acquires a dependent child,”, inserted provision that the Secretary concerned notify the former spouse or such other natural person previously designated under section 1448(b) of any such change in election, and added pars. (2) and (3).
+
+1981—Subsec. (d). Pub. L. 97–22 substituted “Office of Personnel Management” for “Civil Service Commission”.
+
+1978—Subsec. (a). Pub. L. 95–397, §203(1), inserted “(or on such other day as he may provide under subsection (j))” after “death of a person to whom section 1448 of this title applies”.
+
+Subsec. (d). Pub. L. 95–397, §207(b), substituted “section 8339(j)” for “section 8339(i)”.
+
+Subsec. (f). Pub. L. 95–397, §207(c), substituted “section 1448(a)(5)” for “the last three sentences of section 1448(a)”.
+
+Subsecs. (j), (k). Pub. L. 95–397, §203(2), added subsecs. (j) and (k).
+
+1976—Subsec. (a)(3), (4). Pub. L. 94–496, §1(3), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (f). Pub. L. 94–496, §1(4), substituted “(a)(4)” for “(a)(3)”.
+
+#### Effective Date of 1987 Amendments
+
+Section 636(b) of Pub. L. 100–180 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply as if included in the amendments made by section 643(a) of the National Defense Authorization Act for Fiscal Year 1987 (Public Law 99–661; 100 Stat. 3886) \[amending this section\].”
+
+Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted on Nov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Section 641(c) of Pub. L. 99–661 provided that: “The amendments made by this section \[amending this section and section 1448 of this title\] apply to court orders issued on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
+
+Section 643(b) of Pub. L. 99–661 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to remarriages that occur on or after the date of the enactment of this Act \[Nov. 14, 1986\], but only with respect to payments for periods after the date of the enactment of this Act.”
+
+#### Effective Date of 1985 Amendment
+
+Amendment by title VII of Pub. L. 99–145 effective Mar. 1, 1986, with prohibition against accrual of benefits to any person by reason of the enactment of such title VII for any period before Mar. 1, 1986, see section 731 of Pub. L. 99–145, set out as a note under section 1447 of this title.
+
+#### Effective Date of 1982 Amendment; Transition Provisions
+
+Amendment by Pub. L. 97–252 effective Feb. 1, 1983, and applicable to persons becoming eligible to participate in Survivor Benefit Plan provided for in this subchapter before, on, or after Feb. 1, 1983, see section 1006 of Pub. L. 97–252, set out as an Effective Date; Transition Provisions note under section 1408 of this title.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuities payable by virtue of amendment for months beginning on or after such date, see section 210 of Pub. L. 95–397, set out as a note under section 1447 of this title.
+
+#### Effective Date of 1976 Amendment
+
+Amendment by Pub. L. 94–496 effective Sept. 21, 1972, see section 3 of Pub. L. 94–496, set out as a note under section 1447 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1448, 1451, 1452, 1455, 1457, 1458, 1460a of this title; title 38 section 1318.
+

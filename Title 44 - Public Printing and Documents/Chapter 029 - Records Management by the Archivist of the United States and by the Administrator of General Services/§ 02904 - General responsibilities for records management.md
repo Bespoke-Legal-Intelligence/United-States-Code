@@ -1,0 +1,84 @@
+### §2904. General responsibilities for records management
+
+(a) The Archivist shall provide guidance and assistance to Federal agencies with respect to ensuring adequate and proper documentation of the policies and transactions of the Federal Government and ensuring proper records disposition.
+
+(b) The Administrator shall provide guidance and assistance to Federal agencies to ensure economical and effective records management by such agencies.
+
+(c) In carrying out their responsibilities under subsection (a) or (b), respectively, the Archivist and the Administrator shall each have the responsibility—
+
+&emsp;(1) to promulgate standards, procedures, and guidelines with respect to records management and the conduct of records management studies;
+
+&emsp;(2) to conduct research with respect to the improvement of records management practices and programs;
+
+&emsp;(3) to collect and disseminate information on training programs, technological developments, and other activities relating to records management;
+
+&emsp;(4) to establish such interagency committees and boards as may be necessary to provide an exchange of information among Federal agencies with respect to records management;
+
+&emsp;(5) to direct the continuing attention of Federal agencies and the Congress on the need for adequate policies governing records management;
+
+&emsp;(6) to conduct records management studies and, in his discretion, designate the heads of executive agencies to conduct records management studies with respect to establishing systems and techniques designed to save time and effort in records management;
+
+&emsp;(7) to conduct inspections or surveys of the records and the records management programs and practices within and between Federal agencies;
+
+&emsp;(8) to report to the appropriate oversight and appropriations committees of the Congress and to the Director of the Office of Management and Budget in January of each year and at such other times as the Archivist or the Administrator (as the case may be) deems desirable—
+
+&emsp;&emsp;(A) on the results of activities conducted pursuant to paragraphs (1) through (7) of this section,
+
+&emsp;&emsp;(B) on evaluations of responses by Federal agencies to any recommendations resulting from inspections or studies conducted under paragraphs (6) and (7) of this section, and
+
+&emsp;&emsp;(C) to the extent practicable, estimates of costs to the Federal Government resulting from the failure of agencies to implement such recommendations.
+
+(d) In addition, the Administrator, in carrying out subsection (b), shall have the responsibility to promote economy and efficiency in the selection and utilization of space, staff, equipment, and supplies for records management.
+
+(Added Pub. L. 94–575, §2(a)(2), Oct. 21, 1976, 90 Stat. 2725; amended Pub. L. 96–511, §2(c)(1), Dec. 11, 1980, 94 Stat. 2825; Pub. L. 98–497, title I, §107(b)(16), Oct. 19, 1984, 98 Stat. 2288.)
+
+#### Prior Provisions
+
+A prior section 2904, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1296, contained provisions similar to those comprising pars. (1) and (2) of this section, prior to repeal by Pub. L. 94–575, §2(a)(2).
+
+Provisions similar to those comprising pars. (8) to (10) of this section were contained in section 2902, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1296, prior to repeal by Pub. L. 94–575, §2(a)(1).
+
+#### Amendments
+
+1984—Pub. L. 98–497 substituted “for records management” for “of Administrator” in section catchline.
+
+Subsec. (a). Pub. L. 98–497 designated existing first sentence as subsec. (a) and substituted “Archivist” for “Administrator” and “ensuring adequate and proper documentation of the policies and transactions of the Federal Government and ensuring proper records disposition” for “records creation, records maintenance and use, and records disposition”.
+
+Subsec. (b). Pub. L. 98–497 added subsec. (b).
+
+Subsec. (c). Pub. L. 98–497 designated existing second sentence as subsec. (c), substituted “In carrying out the responsibilities under subsection (a) or (b), respectively” for “In providing such guidance and assistance,”, and inserted reference to Archivist in text preceding par. (1).
+
+Subsec. (c)(1). Pub. L. 98–497 redesignated par. (2) as (1). Provisions contained in former par. (1) are now contained substantially in subsec. (d).
+
+Subsec. (c)(2). Pub. L. 98–497 redesignated par. (3) as (2). Former par. (2) redesignated (1).
+
+Subsec. (c)(3). Pub. L. 98–497 redesignated par. (6) as (3) and inserted “to collect and”, “training programs”, and “other activities”. Former par. (3) redesignated (2).
+
+Subsec. (c)(4). Pub. L. 98–497 redesignated par. (5) as (4). Former par. (4), which read “serve as a clearinghouse for information with respect to records management and as a central source for reference and training materials with respect to records management”, was struck out.
+
+Subsec. (c)(5). Pub. L. 98–497 redesignated par. (7) as (5) and struck out “the burden placed on the Federal Government by unnecessary paperwork” after “Congress on”, “creation” before “maintenance”, and “and use, and disposition” after “maintenance”. Former par. (5) redesignated (4).
+
+Subsec. (c)(6). Pub. L. 98–497 redesignated par. (8) as (6) and struck out “with particular attention given to standards and procedures governing records creation” at end. Former par. (6) redesignated (3).
+
+Subsec. (c)(7). Pub. L. 98–497 redesignated par. (9) as (7) and substituted “surveys of the records and the records management programs and practices within and between Federal agencies” for “records management studies which involve a review of the programs and practices of more than one Federal agency and which examine interaction among and relationships between Federal agencies with respect to records and records management”. Former par. (7) redesignated (5).
+
+Subsec. (c)(8). Pub. L. 98–497 redesignated par. (10) as (8) and inserted “in January of each year”, “the Archivist or”, and substituted “(7)” for “(9)” and “(6)” and “(7)” for “(8)” and “(9)”, respectively, in subpars. (A) and (B).
+
+Subsec. (c)(9), (10). Pub. L. 98–497 redesignated pars. (9) and (10) as (7) and (8), respectively.
+
+Subsec. (d). Pub. L. 98–497 added subsec. (d).
+
+1980—Par. (10). Pub. L. 96–511 prescribed that the report be to appropriate oversight and appropriations committees, incorporated existing provisions in cls. (A) and (B) and added cl. (C).
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–511 effective on Apr. 1, 1981, see section 5 of Pub. L. 96–511, set out as an Effective Date note under section 3501 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2106, 3102 of this title.
+

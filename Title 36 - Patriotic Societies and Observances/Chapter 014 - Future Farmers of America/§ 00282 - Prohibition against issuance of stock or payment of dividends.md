@@ -1,0 +1,6 @@
+### §282. Prohibition against issuance of stock or payment of dividends
+
+The corporation shall have no power to issue any shares or stock, or to declare or pay any dividends, its objects and purposes being solely educational.
+
+(Aug. 30, 1950, ch. 823, §12, 64 Stat. 566.)
+

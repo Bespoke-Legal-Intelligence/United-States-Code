@@ -1,0 +1,52 @@
+### §985. Functional currency
+
+#### (a) In general
+
+Unless otherwise provided in regulations, all determinations under this subtitle shall be made in the taxpayer's functional currency.
+
+#### (b) Functional currency
+
+#### (1) In general
+
+&emsp;For purposes of this subtitle, the term “functional currency” means—
+
+&emsp;&emsp;(A) except as provided in subparagraph (B), the dollar, or
+
+&emsp;&emsp;(B) in the case of a qualified business unit, the currency of the economic environment in which a significant part of such unit's activities are conducted and which is used by such unit in keeping its books and records.
+
+#### (2) Functional currency where activities primarily conducted in dollars
+
+&emsp;The functional currency of any qualified business unit shall be the dollar if activities of such unit are primarily conducted in dollars.
+
+#### (3) Election
+
+&emsp;To the extent provided in regulations, the taxpayer may elect to use the dollar as the functional currency for any qualified business unit if—
+
+&emsp;&emsp;(A) such unit keeps its books and records in dollars, or
+
+&emsp;&emsp;(B) the taxpayer uses a method of accounting that approximates a separate transactions method.
+
+> &emsp;Any such election shall apply to the taxable year for which made and all subsequent taxable years unless revoked with the consent of the Secretary.
+
+#### (4) Change in functional currency treated as a change in method of accounting
+
+&emsp;Any change in the functional currency shall be treated as a change in the taxpayer's method of accounting for purposes of section 481 under procedures to be established by the Secretary.
+
+(Added Pub. L. 99–514, title XII, §1261(a), Oct. 22, 1986, 100 Stat. 2585.)
+
+#### Effective Date
+
+Section 1261(e) of Pub. L. 99–514 provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this subpart and amending sections 1092 and 1256 of this title\] shall apply to taxable years beginning after December 31, 1986.
+
+“(2)
+
+Special rules for purposes of sections 902 and 960.—For purposes of applying sections 902 and 960 of the Internal Revenue Code of 1986, the amendments made by this section shall apply to—
+
+&emsp;“(A) earnings and profits of the foreign corporation for taxable years beginning after December 31, 1986, and
+
+&emsp;“(B) foreign taxes paid or accrued by the foreign corporation with respect to such earnings and profits.”
+

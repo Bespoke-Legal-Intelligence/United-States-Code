@@ -1,0 +1,36 @@
+### §1104. Definitions
+
+As used in this subtitle, unless the context otherwise requires, the term:
+
+&emsp;(1) “Amtrak” means the National Railroad Passenger Corporation created under chapter 243 of title 49.
+
+&emsp;(2) “Commission” means the Interstate Commerce Commission.
+
+&emsp;(3) “Commuter authority” means any State, local, or regional authority, corporation, or other entity established for purposes of providing commuter service, and includes the Metropolitan Transportation Authority, the Connecticut Department of Transportation, the Maryland Department of Transportation, the Southeastern Pennsylvania Transportation Authority, the New Jersey Transit Corporation, the Massachusetts Bay Transportation Authority, the Port Authority Trans-Hudson Corporation, any successor agencies, and any entity created by one or more such agencies for the purpose of operating, or contracting for the operation of, commuter service.
+
+&emsp;(4) “Commuter service” means short-haul rail passenger service operated in metropolitan and suburban areas, whether within or across the geographical boundaries of a State, usually characterized by reduced fare, multiple-ride, and commutation tickets, and by morning and evening peak period operations.
+
+&emsp;(5) “Conrail” means the Consolidated Rail Corporation created under title III of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 741 et seq.).
+
+&emsp;(6) “Rail carrier” means a common carrier engaged in interstate or foreign commerce by rail subject to subtitle IV of title 49.
+
+&emsp;(7) “Secretary” means the Secretary of Transportation.
+
+&emsp;(8) “Special court” means the judicial panel established under section 209 of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 719).
+
+(Pub. L. 97–35, title XI, §1135(a), Aug. 13, 1981, 95 Stat. 645.)
+
+#### References in Text
+
+This subtitle, referred to in text, is subtitle E (§§1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, as amended, known as the Northeast Rail Service Act of 1981. For complete classification of this subtitle to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
+The Regional Rail Reorganization Act of 1973, referred to in par. (5), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended. Title III of the Regional Rail Reorganization Act of 1973 is classified generally to subchapter III (§741 et seq.) of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+
+#### Codification
+
+In par. (1), “chapter 243 of title 49” substituted for “title III of the Rail Passenger Service Act (45 U.S.C. 541 et seq.)” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 49 section 24905.
+

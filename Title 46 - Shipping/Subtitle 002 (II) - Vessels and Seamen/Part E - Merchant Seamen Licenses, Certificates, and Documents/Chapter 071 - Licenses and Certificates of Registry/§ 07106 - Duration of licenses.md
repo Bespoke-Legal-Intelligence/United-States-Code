@@ -1,0 +1,48 @@
+### §7106. Duration of licenses
+
+A license issued under this part is valid for 5 years and may be renewed for additional 5-year periods. However, the validity of a license issued to a radio officer is conditioned on the continuous possession by the holder of a first-class or second-class radiotelegraph operator license issued by the Federal Communications Commission.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 540; Pub. L. 101–380, title IV, §4102(a), Aug. 18, 1990, 104 Stat. 509.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source section (U.S. Code)</i>
+
+7106
+
+46:214(c)
+
+46:225
+
+46:226
+
+46:228
+
+46:229
+
+46:229c
+
+Section 7106 sets a 5 year time limit on the validity of a license. It also requires a licensed radio officer to be in continuous possession of an FCC license.
+
+#### Amendments
+
+1990—Pub. L. 101–380 inserted “and may be renewed for additional 5-year periods” after “for 5 years”.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
+
+#### Termination of Existing Licenses, Certificates, and Documents; Applicability of 1990 Amendment
+
+Section 4102(d) of Pub. L. 101–380 provided that: “A license, certificate of registry, or merchant mariner's document issued before the date of the enactment ofthis section \[Aug. 18, 1990\] terminates on the day it would have expired if—
+
+&emsp;“(1) subsections (a), (b), and (c) \[amending this section and sections 7107 and 7302 of this title\] were in effect on the date it was issued; and
+
+&emsp;“(2) it was renewed at the end of each 5-year period under section 7106, 7107, or 7302 of title 46, United States Code.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7108 of this title.
+

@@ -1,0 +1,20 @@
+### §80q–12. Grants by Secretary of the Interior to assist Indian tribes with respect to agreements for return of Indian human remains and Indian funerary objects
+
+#### (a) In general
+
+The Secretary of the Interior may make grants to Indian tribes to assist such tribes in reaching and carrying out agreements with—
+
+&emsp;(1) the Board of Regents for the return of Indian human remains and Indian funerary objects under section 80q–9 of this title; and
+
+&emsp;(2) other Federal and non-Federal entities for additional returns of Indian human remains and Indian funerary objects.
+
+#### (b) Authorization of appropriations
+
+There is authorized to be appropriated $1,000,000 for fiscal year 1991 and such sums as may be necessary for succeeding fiscal years for grants under subsection (a) of this section.
+
+(Pub. L. 101–185, §14, Nov. 28, 1989, 103 Stat. 1345.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 80q–15 of this title.
+

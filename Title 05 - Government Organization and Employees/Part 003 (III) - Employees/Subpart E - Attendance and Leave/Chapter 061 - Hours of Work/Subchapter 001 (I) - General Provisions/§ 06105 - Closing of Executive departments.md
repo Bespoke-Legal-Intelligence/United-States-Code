@@ -1,0 +1,20 @@
+### §6105. Closing of Executive departments
+
+An Executive department may not be closed as a mark to the memory of a deceased former official of the United States.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 516.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 28.
+
+Mar. 3, 1893, ch. 211, §4, 27 Stat. 715.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+

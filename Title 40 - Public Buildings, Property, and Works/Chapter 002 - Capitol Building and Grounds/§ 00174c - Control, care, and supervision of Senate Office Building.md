@@ -1,0 +1,22 @@
+### §174c. Control, care, and supervision of Senate Office Building
+
+On and after June 8, 1942 the Senate Office Building, and the employment of all services (other than for officers and privates of the Capitol Police) necessary for its protection, care, and occupancy, together with all other items that may be appropriated for by the Congress for such purposes, shall be under the control and supervision of the Architect of the Capitol, subject to the approval of the Senate Committee on Rules and Administration as to matters of general policy; and the Architect of the Capitol shall submit annually to the Congress estimates in detail for all services (other than for officers and privates of the Capitol Police) and for all other expenses in connection with said office building and necessary for its protection, care, and occupancy.
+
+(June 8, 1942, ch. 396, 56 Stat. 343; Aug. 2, 1946, ch. 753, title I, §102, title II, §224, 60 Stat. 814, 838.)
+
+#### Amendments
+
+1946—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee on Rules”.
+
+#### Effective Date of 1946 Amendment
+
+Section 142 of act Aug. 2, 1946, provided that section 102 of that act shall take effect on Jan. 2, 1947, and section 245 of that act provided that section 224 thereof shall “take effect on the day on which the Eightieth Congress convenes”. The Eightieth Congress convened on Jan. 3, 1947.
+
+#### Cross References
+
+Additional Senate Office Building, see section 174b–1 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 174b–1 of this title.
+

@@ -1,0 +1,10 @@
+### §396b. Establishment; boundaries; administration
+
+Effective July 1, 1961, the detached portion of the Hawaii National Park which lies on the island of Maui is established as a separate unit ofthe national park system to be known as Haleakala National Park. The park so established shall be administered in accordance with sections 1, 2, 3, and 4 of this title, as amended and supplemented, and in accordance with any other applicable provision of law relating to the Maui portion of Hawaii National Park.
+
+(Pub. L. 86–744, §1, Sept. 13, 1960, 74 Stat. 881.)
+
+#### Hawaii Volcanoes National Park
+
+Designation of portion of Hawaii National Park situated on island of Hawaii as Hawaii Volcanoes National Park, effective Sept. 22, 1961 see section 391d of this title.
+

@@ -1,0 +1,32 @@
+### §5365. Regulations
+
+(a) The Office of Personnel Management shall prescribe regulations to carry out the purpose of this subchapter.
+
+(b) Under such regulations, the Office may provide for the application of all or portions of the provisions of this subchapter—
+
+&emsp;(1) to any individual reduced to a grade of a covered pay schedule from a position not subject to this subchapter;
+
+&emsp;(2) to individuals to whom such provisions do not otherwise apply; and
+
+&emsp;(3) to situations the application to which is justified for purposes of carrying out the mission of the agency or agencies involved.
+
+> Individuals with respect to whom authority under paragraph (2) may be exercised include individuals who are moved without a break in service of more than 3 days from employment in nonappropriated fund instrumentalities of the Department of Defense or the Coast Guard described in section 2105(c) to employment in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).
+
+(Added Pub. L. 95–454, title VIII, §801(a)(1), Oct. 13, 1978, 92 Stat. 1220; amended Pub. L. 101–508, title VII, §7202(f), Nov. 5, 1990, 104 Stat. 1388–336.)
+
+#### Prior Provisions
+
+A prior section 5365, added Pub. L. 91–34, §1(a), June 30, 1969, 83 Stat. 41; amended Pub. L. 94–183, §2(20), Dec. 31, 1975, 89 Stat. 1058, which related to the police force of National Zoological Park, was renumbered section 5375 of this title by Pub. L. 95–454, title VIII, §801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221.
+
+#### Amendments
+
+1990—Subsec. (b). Pub. L. 101–508 inserted at end “Individuals with respect to whom authority under paragraph (2) may be exercised include individuals who are moved without a break in service of more than 3 days from employment in nonappropriated fund instrumentalities of the Department of Defense or the Coast Guard described in section 2105(c) to employment in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).”
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5334 of this title.
+

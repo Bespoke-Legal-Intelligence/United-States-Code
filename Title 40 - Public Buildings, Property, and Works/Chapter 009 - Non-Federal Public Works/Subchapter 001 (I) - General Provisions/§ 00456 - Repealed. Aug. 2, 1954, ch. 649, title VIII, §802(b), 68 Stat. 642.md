@@ -1,0 +1,4 @@
+### §456. Repealed. Aug. 2, 1954, ch. 649, title VIII, §802(b), 68 Stat. 642
+
+Section, act Oct. 13, 1949, ch. 685, §6, 63 Stat. 842, related to reports to Congress. See section 1701<i>o</i> of Title 12, Banks and Banking.
+

@@ -1,0 +1,82 @@
+### §3542. Special training allowance
+
+(a) While the eligible person is enrolled in and pursuing a full-time course of special restorativetraining, the parent or guardian shall be entitled to receive on behalf of such person a special training allowance computed at the basic rate of $404 per month. If the charges for tuition and fees applicable to any such course are more than $127 per calendar month, the basic monthly allowance may be increased by the amount that such charges exceed $127 a month, upon election by the parent or guardian of the eligible person to have such person's period of entitlement reduced by one day for each $13.46 that the special training allowance paid exceeds the basic monthly allowance.
+
+(b) No payments of a special training allowance shall be made for the same period for which the payment of an educational assistance allowance is made or for any period during which the training is pursued on less than a full-time basis.
+
+(c) Full-time training for the purpose of this section shall be determined by the Secretary with respect to the capacities of the individual trainee.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1200, §1742; Pub. L. 89–222, §2, Sept. 30, 1965, 79 Stat. 896; Pub. L. 91–219, title I, §104(c), Mar. 26, 1970, 84 Stat. 78; Pub. L. 92–540, title I, §103(4), Oct. 24, 1972, 86 Stat. 1076; Pub. L. 93–508, title I, §103(4), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §204(b), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title III, §301(2), Oct. 15, 1976, 90 Stat. 2389; Pub. L. 95–202, title I, §103(2), Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title II, §§202(2), 212(2), Oct. 17, 1980, 94 Stat. 2188, 2190; Pub. L. 98–543, title II, §203(2), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §§403(a)(10), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2080, 2092; renumbered §3542, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+
+#### Amendments
+
+1991—Pub. L. 102–83 renumbered section 1742 of this title as this section.
+
+1989—Subsec. (a). Pub. L. 101–237, §403(a)(10), substituted “$404” for “$376”, “$127” for “$119” in two places, and “$13.46” for “$12.58”.
+
+Subsec. (c). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
+
+1984—Subsec. (a). Pub. L. 98–543 substituted “$376” for “$342”, “$119” for “$108” in two places, and “$12.58” for “$11.44”.
+
+1980—Subsec. (a). Pub. L. 96–466, §212(2), substituted “$342” for “$327”, “$108” for “$103” in two places, and “$11.44” for “$10.92”.
+
+Pub. L. 96–466, §202(2), substituted “$327” for “$311”, “$103” for “$98” in two places, and “$10.92” for “$10.40”.
+
+1977—Subsec. (a). Pub. L. 95–202 substituted “$311” for “$292”, “$98” for “$92” in two places, and “$10.40” for “$9.76”.
+
+1976—Subsec. (a). Pub. L. 94–502 substituted “$292” for “$270”, “$92” for “$85” in two places, and “$9.76” for “$9.02”.
+
+1975—Subsec. (a). Pub. L. 93–602 substituted “$270”, “$85”, “$85”, and “$9.02” for “$260”, “$82”, “$82”, and “$8.69” respectively.
+
+1974—Subsec. (a). Pub. L. 93–508 substituted “behalf of such person”, “$260”, “$82”, “$82”, and “$8.69” for “his behalf a”, “$220”, “$69”, “$69”, and “$7.35” respectively.
+
+1972—Subsec. (a). Pub. L. 92–540 substituted “$220” for “$175”, “$69” for “$55”, and “$7.35” for “$6.80”, respectively.
+
+1970—Subsec. (a). Pub. L. 91–219 substituted “$175” for “$130”, “$55” for “$41”, and “$6.80” for “$4.25” respectively.
+
+1965—Subsec. (a). Pub. L. 89–222 substituted “$130”, “$41”, “$41” and “$4.25” for “$110”, “$35”, “$35” and “$3.60”, respectively.
+
+#### Effective Date of 1989 Amendment
+
+Amendment by section 403(a)(10) of Pub. L. 101–237 effective Jan. 1, 1990, see section 403(c) of Pub. L. 101–237, set out as a note under section 3532 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–543 effective Oct. 1, 1984, see section 205 of Pub. L. 98–543, set out as a note under section 3108 of this title.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by sections 202(2) and 212(c) of Pub. L. 96–466 effective Oct. 1, 1980, and Jan. 1, 1981, respectively, see section 802(b) of Pub. L. 96–466, set out as a note under section 3482 of this title.
+
+#### Effective Date of 1977 Amendment
+
+Amendment by Pub. L. 95–202 effective retroactively to Oct. 1, 1977, see section 501 of Pub. L. 95–202, set out as a note under section 101 of this title.
+
+#### Effective Date of 1976 Amendment
+
+Amendment by Pub. L. 94–502 effective Oct. 1, 1976, see section 703(a) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
+
+#### Effective Date of 1975 Amendment
+
+Amendment by Pub. L. 93–602 effective Jan. 1, 1975, see section 206 of Pub. L. 93–602, set out as a note under section 3482 of this title.
+
+#### Effective Date of 1974 Amendment
+
+Amendment by Pub. L. 93–508 effective Sept. 1, 1974, see section 501 of Pub. L. 93–508, set out as a note under section 3482 of this title.
+
+#### Effective Date of 1972 Amendment
+
+Amendment by Pub. L. 92–540 effective Oct. 1, 1972, except for those veterans and eligible persons in training on Oct. 24, 1972, see section 601(a) of Pub. L. 92–540, set out as a note under section 3482 of this title.
+
+#### Effective Date of 1970 Amendment
+
+Amendment by Pub. L. 91–219 effective Feb. 1, 1970, see section 301 of Pub. L. 91–219, set out as a note under section 3482 of this title.
+
+#### Effective Date of 1965 Amendment
+
+Amendment by Pub. L. 89–222 effective first day of second calendar month following September 30, 1965, see section 4 of Pub. L. 89–222, set out as a note under section 3532 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3565 of this title.
+

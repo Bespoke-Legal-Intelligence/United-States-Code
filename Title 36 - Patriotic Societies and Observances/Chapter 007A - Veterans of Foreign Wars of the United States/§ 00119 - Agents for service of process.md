@@ -1,0 +1,6 @@
+### §119. Agents for service of process
+
+As a condition precedent to the exercise of any power or privilege herein granted or conferred, the Veterans of Foreign Wars of the United States shall file in the office of the Secretary of State of each State the name and post-office address of an authorized agent in such State upon whom legal process or demands against the Veterans of Foreign Wars of the United States may be served.
+
+(May 28, 1936, ch. 471, §9, 49 Stat. 1391.)
+

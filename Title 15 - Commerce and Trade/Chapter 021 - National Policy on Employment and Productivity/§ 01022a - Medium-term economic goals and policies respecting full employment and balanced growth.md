@@ -1,0 +1,82 @@
+### §1022a. Medium-term economic goals and policies respecting full employment and balanced growth
+
+#### (a) Incorporation of necessary programs and policies
+
+In each Economic Report after October 27, 1978, the President shall incorporate (as part of the five-year numerical goals in each Economic Report) medium-term annual numerical goals specified in section 1022(a)(2)(B) of this title, and in each President's Budget submitted immediately prior thereto, the President shall incorporate the programs and policies the President deems necessary to achieve such medium-term goals and a balanced Federal budget and to achieve reasonable price stability as rapidly as feasible as provided for in section 1022b(b) of this title.
+
+#### (b) Interim numerical goals for initial Economic Reports
+
+The medium-term goals in the first three Economic Reports and, subject to the provisions of subsection (d) of this section, in each Economic Report thereafter shall include (as part of the five-year goals in each Economic Report) interim numerical goals for—
+
+&emsp;(1) reducing the rate of unemployment, as set forth pursuant to section 1022(d) of this title, to not more than 3 per centum among individuals aged twenty and over and 4 per centum among individuals aged sixteen and over within a period not extending beyond the fifth calendar year after the first such Economic Report;
+
+&emsp;(2) reducing the rate of inflation, as set forth pursuant to section 1022(e) of this title, to not more than 3 per centum within a period not extending beyond the fifth calendar year after the first such Economic Report: <i>Provided</i>, That policies and programs for reducing the rate of inflation shall be designed so as not to impede achievement of the goals and timetables specified in clause (1) of this subsection for the reduction of unemployment; and
+
+&emsp;(3) reducing the share of the Nation's gross national product accounted for by Federal outlays to 21 per centum or less by 1981, and to 20 per centum or less by 1983 and thereafter, or the lowest level consistent with national needs and priorities: <i>Provided</i>, That policies and programs for achieving the goal specified in this clause shall be designed so as not to impede achievement of the goals and timetables specified in clause (1) of this subsection for the reduction of unemployment.
+
+> For purposes of this subsection, the first Economic Report shall be the Report issued in the first calendar year after October 27, 1978.
+
+#### (c) Achievement of full employment, balanced budget, zero inflation rate, and 20 per centum level of Federal outlays as a proportion of gross national product for succeeding Economic Reports
+
+(1) Upon achievement of the 3 and 4 per centum goals specified in subsection (b)(1) of this section, each succeeding Economic Report shall have the goal of achieving as soon as practicable and maintaining thereafter full employment and a balanced budget.
+
+(2) Upon achievement of the 3 per centum goal specified in subsection (b)(2) of this section, each succeeding Economic Report shall have the goal of achieving by 1988 a rate of inflation of zero per centum: <i>Provided</i>, That policies and programs for reducing the rate of inflation shall be designed so as not to impede achievement of the goals and timetables specified in clause (1) of this subsection for the reduction of unemployment.
+
+(3) Upon achievement of the 20 per centum goal specified in subsection (b)(3) of this section, each succeeding Economic Report shall have the goal of establishing the share of an expanding gross national product accounted for by Federal outlays at a level of 20 per centum or less, or the lowest level consistent with national needs and priorities: <i>Provided</i>, That policies and programs for achieving the goal specified in this clause shall be designed so as not to impede achievement of the goals and timetables specified in subsection (b)(1) of this section for the reduction of unemployment.
+
+#### (d) Review by President; report to Congress; modification of timetables
+
+In the second Economic Report after October 27, 1978, the President shall review the numerical goals and timetables for the reduction of unemployment, inflation, and Federal outlays as a proportion of gross national product, and the goal of balancing the Federal budget; report to the Congress on the degree of progress being made, the programs and policies being used, and any obstacles to achieving such goals and timetables; and, if necessary, propose corrective economic measures toward achievement of such goals and timetables: <i>Provided</i>, That beginning with the second Report and in any subsequent Reports, if the President finds it necessary, the President may recommend modification of the timetable or timetables for the achievement of the goals provided for in subsection (b) of this section and the annual numerical goals to make them consistent with the modified timetable or timetables, and the Congress may take such action as it deems appropriate consistent with title III of the Full Employment and Balanced Growth Act of 1978 \[15 U.S.C. 3131 et seq.\].
+
+#### (e) Interim numerical goals for succeeding Economic Reports
+
+If, after achievement of the 3 and 4 per centum goals specified in subsection (b) of this section, the unemployment rate for a year as set forth pursuant to section 1022(d) of this title is more than 3 per centum among individuals aged twenty and over or more than 4 per centum among individuals aged sixteen and over, the next Economic Report after such rate is set forth and each succeeding Economic Report shall include (as part of the five-year goals in each Economic Report) the interim numerical goal of reducing unemployment to not more than the levels specified in subsection (b)(1) of this section as soon as practicable but not later than the fifth calendar year after the first such Economic Report, counting as the first calendar year the year in which such Economic Report is issued: <i>Provided</i>, That, if the President finds it necessary, the President may, under the authority provided in subsection (d) of this section, recommend modification of the timetable provided for in this subsection for the reduction of unemployment, and for the purposes of section 304 of the Full Employment and Balanced Growth Act of 1978, such recommendation by the President shall be treated as a recommendation made under subsection (d) of this section.
+
+#### (f) Action taken to reduce unemployment
+
+(1) In taking action to reduce unemployment in accord with the numerical goals and timetable established under subsection (b) of this section, every effort shall be made to reduce those differences between the rates of unemployment among youth, women <sup>1</sup> minorities, handicapped persons, veterans, middle-aged and older persons and other labor force groups and the overall rate of unemployment which are caused by any improper factors with the ultimate objective of removing such differentials to the extent possible.
+
+(2) Insofar as the differences specified in the preceding paragraph are due to lack of training and skills, occupational practices, and other relevant factors, the Secretary of Labor shall—
+
+&emsp;(A) take such action as practicable to achieve the objectives of this subsection;
+
+&emsp;(B) make studies, develop information, and make recommendations toward remedying these differences in rates of unemployment, and include these in the annual Employment and Training Report of the President required under section 705(a) of the Comprehensive Employment and Training Act of 1973 (hereinafter in this chapter referred to as “CETA”); and
+
+&emsp;(C) make recommendations, as deemed necessary, to the Congress related to the objectives of this paragraph.
+
+#### (g) Definitions
+
+(1) The term “middle-aged and older persons” as used in this section includes any individual forty-five years of age or older.
+
+(2) For purposes of this section, the term “veteran” shall mean the same as defined in section 4211(1) or (2) of title 38.
+
+(Feb. 20, 1946, ch. 33, §4, as added Oct. 27, 1978, Pub. L. 95–523, title I, §104, 92 Stat. 1893; amended May 10, 1979, Pub. L. 96–10, §6(a)–(c), 93 Stat. 23, 24; Nov. 2, 1994, Pub. L. 103–446, title XII, §1203(c)(4), 108 Stat. 4690.)
+
+#### References in Text
+
+The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (d), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, as amended. Title III of the Full Employment and Balanced Growth Act of 1978 is classified principally to subchapter II (§3131 et seq.) of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+
+Section 304 of the Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e), is Pub. L. 95–523, §304, Oct. 27, 1978, 92 Stat. 1906, which amended section 632 of Title 2, The Congress.
+
+CETA, referred to in subsec. (f)(2)(B), means the Comprehensive Employment and Training Act, Pub. L. 93–203, Dec. 28, 1973, 87 Stat. 839, as amended, which was classified generally to chapter 17 (§801 et seq.) of Title 29, Labor, and was repealed by section 184(a)(1) of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357. The Job Training Partnership Act is classified principally to chapter 19 (§1501 et seq.) of Title 29. Section 183 of Pub. L. 97–300, classified to section 1592 of Title 29, provided in part that references in any other statute to the Comprehensive Employment and Training Act shall be deemed to refer to the Job Training Partnership Act. Section 705(a) of the Comprehensive Employment and Training Act of 1973 was classified to section 985 of Title 29, and was omitted from the Code in the general revision of Pub. L. 93–203 by Pub. L. 95–524, Oct. 27, 1978, 92 Stat. 1909.
+
+#### Prior Provisions
+
+A prior section 4 of act Feb. 20, 1946, was renumbered section 10, which is classified to section 1023 of this title.
+
+#### Amendments
+
+1994—Subsec. (g)(2). Pub. L. 103–446 substituted “this section” for “this subsection” and “section 4211(1) or (2) of title 38” for “section 2011(1) or (2)(A) of title 38”.
+
+1979—Subsec. (b)(3). Pub. L. 96–10, §6(a), added par. (3).
+
+Subsec. (c)(3). Pub. L. 96–10, §6(b), added par. (3).
+
+Subsec. (d). Pub. L. 96–10, §6(c), inserted reference to Federal outlays as a proportion of gross national product.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1021, 1022d, 1022e, 3116, 3132 of this title; title 2 sections 632, 636.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+

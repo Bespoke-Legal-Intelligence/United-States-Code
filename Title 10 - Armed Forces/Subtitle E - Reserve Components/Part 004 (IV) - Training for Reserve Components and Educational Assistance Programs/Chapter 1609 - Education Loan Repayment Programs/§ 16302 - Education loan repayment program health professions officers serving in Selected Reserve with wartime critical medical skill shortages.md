@@ -1,0 +1,74 @@
+### §16302. Education loan repayment program: health professions officers serving in Selected Reserve with wartime critical medical skill shortages
+
+(a) Under regulations prescribed by the Secretary of Defense and subject to the other provisions of this section, the Secretary concerned may repay—
+
+&emsp;(1) a loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 (20 U.S.C. 1071 et seq.);
+
+&emsp;(2) a loan made under part E of such title (20 U.S.C. 1087aa et seq.) after October 1, 1975;
+
+&emsp;(3) a health professions education loan made or insured under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) or under part B of title VIII of such Act (42 U.S.C. 297 et seq.); and
+
+&emsp;(4) a loan made, insured, or guaranteed through a recognized financial or educational institution if that loan was used to finance education regarding a health profession that the Secretary of Defense determines to be critically needed in order to meet identified wartime combat medical skill shortages.
+
+(b) The Secretary concerned may repay loans described in subsection (a) only in the case of a person who—
+
+&emsp;(1) performs satisfactory service as an officer in the Selected Reserve of an armed force; and
+
+&emsp;(2) possesses professional qualifications in a health profession that the Secretary of Defense has determined to be needed critically in order to meet identified wartime combat medical skill shortages.
+
+(c)(1) The amount of any repayment of a loan made under this section on behalf of any person shall be determined on the basis of each complete year of service that is described in subsection (b)(1) and performed by the person after the date on which the loan was made.
+
+(2) Subject to paragraph (3), the amount of a loan that may be repaid under this section on behalf of any person may not exceed $3,000 for each year of service described in paragraph (1).
+
+(3) The total amount that may be repaid on behalf of any person under this section may not exceed $20,000.
+
+(d) The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer before October 1, 1996.
+
+(Added Pub. L. 99–145, title VI, §671(a)(1), Nov. 8, 1985, 99 Stat. 662, §2172; amended Pub. L. 100–180, div. A, title VII, §713, Dec. 4, 1987, 101 Stat. 1112; Pub. L. 101–189, div. A, title VII, §701(a)–(c), Nov. 29, 1989, 103 Stat. 1467; Pub. L. 102–484, div. A, title VI, §612(f), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(f), Nov. 30, 1993, 107 Stat. 1681; renumbered §16302 and amended Pub. L. 103–337, div. A, title VI, §613(e), title X, §1070(a)(9), title XVI, §1663(d)(2), Oct. 5, 1994, 108 Stat. 2783, 2855, 3009.)
+
+#### References in Text
+
+The Higher Education Act of 1965, referred to in subsec. (a)(1), (2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B and E of title IV of the Act are classified to parts B (§1071 et seq.) and D (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+
+The Public Health Service Act, referred to in subsec. (a)(3), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part B of title VIII of the Act is classified generally to part B (§297 et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
+#### Amendments
+
+1994—Pub. L. 103–337, §1663(d)(2), renumbered section 2172 of this title as this section and substituted “Education loan repayment program: health professions officers serving in Selected Reserve with wartime critical medical skill shortages” for “Education loans for certain health professionals who serve in the Selected Reserve” as section catchline.
+
+Subsec. (a)(3). Pub. L. 103–337, §1070(a)(9), substituted “health professions education loan” for “health education assistance loan”, “part A” for “part C”, and “42 U.S.C. 292” for “42 U.S.C. 294”.
+
+Subsec. (d). Pub. L. 103–337, §613(e), substituted “October 1, 1996” for “October 1, 1995”.
+
+1993—Subsec. (d). Pub. L. 103–160 substituted “October 1, 1995” for “October 1, 1993”.
+
+1992—Subsec. (d). Pub. L. 102–484 substituted “October 1, 1993” for “October 1, 1992”.
+
+1989—Subsec. (a)(1). Pub. L. 101–189, §701(c)(1), struck out “a portion of” before “a loan made”.
+
+Subsec. (a)(4). Pub. L. 101–189, §701(a), added par. (4).
+
+Subsec. (c)(2). Pub. L. 101–189, §701(c)(2), substituted “amount of” for “portion of”.
+
+Subsec. (d). Pub. L. 101–189, §701(b), substituted “October 1, 1992” for “October 1, 1990”.
+
+1987—Subsec. (a)(3). Pub. L. 100–180, §713(a), inserted “or under part B of title VIII of such Act (42 U.S.C. 297 et seq.)”.
+
+Subsec. (d). Pub. L. 100–180, §713(b), substituted “October 1, 1990” for “October 1, 1988”.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by section 1663(d)(2) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+
+#### Effective Date
+
+Section 671(b)(2) of Pub. L. 99–145 provided that: “The authority provided under section 2172 \[now 16302\] of title 10, United States Code, as added by subsection (a), shall apply only—
+
+&emsp;“(A) in the case of a person who is first appointed as a commissioned officer of an Armed Force after September 30, 1985; and
+
+&emsp;“(B) with respect to service performed after that date.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 20 section 1087cc–1.
+

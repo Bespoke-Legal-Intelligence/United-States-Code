@@ -1,0 +1,62 @@
+### §5705. Christopher Columbus Fellowship Fund
+
+#### (a) In general
+
+There is established in the Treasury a fund to be known as the Christopher Columbus Scholarship<sup>1</sup> Fund (hereafter in this chapter referred to as the “fund”), which shall consist of—
+
+&emsp;(1) amounts deposited under subsection (d) of this section;
+
+&emsp;(2) obligations obtained under subsection (c) of this section;
+
+&emsp;(3) amounts contributed to the Foundation; and
+
+&emsp;(4) all surcharges received by the Secretary of the Treasury from the sale of coins minted under the Christopher Columbus Quincentenary Coin Act.
+
+#### (b) Investments
+
+#### (1) Duty of Secretary to invest
+
+&emsp;The Secretary of the Treasury shall invest in full any amount appropriated or contributed to the fund.
+
+#### (2) Authorized investments
+
+&emsp;Investments pursuant to paragraph (1) may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose, such obligations may be acquired—
+
+&emsp;&emsp;(A) on original issue at the issue price; or
+
+&emsp;&emsp;(B) by purchase of outstanding obligations at the market price.
+
+#### (3) Special obligations
+
+&emsp;The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of special obligations exclusively to the fund. Such special obligations shall bear interest at a rate equal to the average rate of interest, computed as to the end of the calendar month preceding the date of such issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt; except that, if such average rate is not a multiple of 1/8 of 1 percent, the rate of interest of such special obligations shall be the multiple of 1/8 of 1 percent next lower than such average rate. Such special obligations shall be issued only if the Secretary determines that the purchase of other obligations of the United States, or of obligations guaranteed as to both principal and interest by the United States or original issue at the market price, is not in the public interest.
+
+#### (c) Sale of obligations
+
+Any obligations acquired by the fund (except special obligations issued exclusively to the fund in accordance with subsection (b)(3) of this section) may be sold by the Secretary at the market price, and such special obligations may be redeemed at par plus accrued interest.
+
+#### (d) Interest
+
+The interest on, and the proceeds from, the sale or redemption of any obligations held in the fund shall be credited to and form a part of the fund.
+
+#### (e) Availability of fund
+
+#### (1) Stipends
+
+&emsp;The fund shall be available to the Foundation for payment of stipends awarded under section 5704 of this title.
+
+#### (2) Expenses
+
+&emsp;The Secretary of the Treasury is authorized to pay to the Foundation from the interest and earnings of the funds such sums as the Board determines are necessary and appropriate to enable the Foundation to carry out the provisions of this chapter.
+
+#### (f) Disbursements
+
+Disbursements from the fund shall be made on vouchers approved by the Foundation and signed by the Chairman.
+
+(Pub. L. 102 281, title IV, §426, May 13, 1992, 106 Stat. 143.)
+
+#### References in Text
+
+The Christopher Columbus Quincentenary Coin Act, referred to in subsec. (a)(4), is subtitle A (§§401 411) of title IV of Pub. L. 102 281, May 13, 1992, 106 Stat. 139, which is classified as a note under section 5112 of Title 31, Money and Finance.
+
+<i><sup>1</sup></i><i>So in original. Probably should be “Fellowship”.</i>
+

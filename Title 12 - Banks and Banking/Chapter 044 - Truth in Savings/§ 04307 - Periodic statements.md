@@ -1,0 +1,14 @@
+### §4307. Periodic statements
+
+Each depository institution shall include on or with each periodic statement provided to each account holder at such institution a clear and conspicuous disclosure of the following information with respect to such account:
+
+&emsp;(1) The annual percentage yield earned.
+
+&emsp;(2) The amount of interest earned.
+
+&emsp;(3) The amount of any fees or charges imposed.
+
+&emsp;(4) The number of days in the reporting period.
+
+(Pub. L. 102–242, title II, §268, Dec. 19, 1991, 105 Stat. 2338.)
+

@@ -1,0 +1,8 @@
+### §313. Purpose of corporation
+
+The purpose of this corporation shall be:
+
+(a) To safeguard and to strengthen the forces of faith and morality of our Nation; (b) to perpetuate and to deepen the bonds of understanding and friendship of our military service; (c) to preserve our spiritual influence and interest in all members and veterans of the armed forces; (d) to uphold the Constitution of the United States; and (e) to promote justice, peace, and good will.
+
+(Sept. 20, 1950, ch. 956, §3, 64 Stat. 868.)
+

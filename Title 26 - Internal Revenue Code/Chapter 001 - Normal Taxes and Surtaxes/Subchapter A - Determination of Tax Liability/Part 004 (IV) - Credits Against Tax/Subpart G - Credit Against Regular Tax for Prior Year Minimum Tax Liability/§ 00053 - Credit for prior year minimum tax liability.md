@@ -1,0 +1,134 @@
+### §53. Credit for prior year minimum tax liability
+
+#### (a) Allowance of credit
+
+There shall be allowed as a credit against the tax imposed by this chapter for any taxable year an amount equal to the minimum tax credit for such taxable year.
+
+#### (b) Minimum tax credit
+
+For purposes of subsection (a), the minimum tax credit for any taxable year is the excess (if any) of—
+
+&emsp;(1) the adjusted net minimum tax imposed for all prior taxable years beginning after 1986, over
+
+&emsp;(2) the amount allowable as a credit under subsection (a) for such prior taxable years.
+
+#### (c) Limitation
+
+The credit allowable under subsection (a) for any taxable year shall not exceed the excess (if any) of—
+
+&emsp;(1) the regular tax liability of the taxpayer for such taxable year reduced by the sum of the credits allowable under subparts A, B, D, E, and F of this part, over
+
+&emsp;(2) the tentative minimum tax for the taxable year.
+
+#### (d) Definitions
+
+For purposes of this section—
+
+#### (1) Net minimum tax
+
+#### (A) In general
+
+&emsp;&emsp;The term “net minimum tax” means the tax imposed by section 55.
+
+#### (B) Credit not allowed for exclusion preferences
+
+#### (i) Adjusted net minimum tax
+
+&emsp;&emsp;&emsp;The adjusted net minimum tax for any taxable year is—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount of the net minimum tax for such taxable year, reduced by
+
+&emsp;&emsp;&emsp;&emsp;(II) the amount which would be the net minimum tax for such taxable year if the only adjustments and items of tax preference taken into account were those specified in clause (ii) and if section 59(a)(2) did not apply.
+
+#### (ii) Specified items
+
+&emsp;&emsp;&emsp;The following are specified in this clause—
+
+&emsp;&emsp;&emsp;&emsp;(I) the adjustments provided for in subsection (b)(1) of section 56, and
+
+&emsp;&emsp;&emsp;&emsp;(II) the items of tax preference described in paragraphs (1), (5), and (7) of section 57(a).
+
+#### (iii) Special rule
+
+&emsp;&emsp;&emsp;The adjusted net minimum tax for the taxable year shall be increased by the amount of the credit not allowed under section 29 (relating to credit for producing fuel from a nonconventional source) solely by reason of the application of section 29(b)(6)(B), not allowed under section 28 solely by reason of the application of section 28(d)(2)(B), or not allowed under section 30 solely by reason of the application of section 30(b)(3)(B).
+
+#### (iv) Credit allowable for exclusion preferences of corporations
+
+&emsp;&emsp;&emsp;In the case of a corporation—
+
+&emsp;&emsp;&emsp;&emsp;(I) the preceding provisions of this subparagraph shall not apply, and
+
+&emsp;&emsp;&emsp;&emsp;(II) the adjusted net minimum tax for any taxable year is the amount of the net minimum tax for such year increased by the amount of any credit not allowed under section 29 solely by reason of the application of section 29(b)(5)(B) <sup>1</sup> or not allowed under section 28 solely by reason of the application of section 28(d)(2)(B).
+
+#### (2) Tentative minimum tax
+
+&emsp;The term “tentative minimum tax” has the meaning given to such term by section 55(b).
+
+(Added Pub. L. 99–514, title VII, §701(b), Oct. 22, 1986, 100 Stat. 2339; amended Pub. L. 100–647, title I, §1007(g)(4), title VI, §6304(a), Nov. 10, 1988, 102 Stat. 3435, 3756; Pub. L. 101–239, title VII, §§7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408; Pub. L. 102–486, title XIX, §1913(b)(2)(C), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §§13113(b)(2), 13171(c), Aug. 10, 1993, 107 Stat. 429, 455.)
+
+#### References in Text
+
+Section 29(b)(5)(B), referred to in subsec. (d)(1)(B)(iv)(II), was redesignated section 29(b)(6)(B) and a new section 29(b)(5)(B) was added by Pub. L. 101–508, title XI, §11501(c)(1), Nov. 5, 1990, 104 Stat. 1388–479.
+
+#### Prior Provisions
+
+A prior section 53, added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 146; amended Pub. L. 95–600, title III, §321(c)(2), Nov. 6, 1978, 92 Stat. 2835; Pub. L. 97–34, title II, §207(c)(2), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), and §265(b)(2)(A)(iii), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; 97–354, §5(a)(12), Oct. 19, 1982, 96 Stat. 1693; 97–448, title I, §102(d)(3), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title VII, §713(c)(1)(C), July 18, 1984, 98 Stat. 957, placed limitations on the amount of credit allowed by former section 44B for employment of certain new employees, prior to repeal by Pub. L. 98–369, div. A, title IV, §474(p)(8), July 18, 1984, 98 Stat. 838, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
+
+#### Amendments
+
+1993—Subsec. (d)(1)(B)(ii)(II). Pub. L. 103–66, §13171(c), substituted “(5), and (7)” for “(5), (6), and (8)”.
+
+Pub. L. 103–66, §13113(b)(2), substituted “(6), and (8)” for “and (6)”.
+
+1992—Subsec. (d)(1)(B)(iii). Pub. L. 102–486 substituted “section 29(b)(6)(B),” for “section 29(b)(5)(B) or” and inserted before period at end “, or not allowed under section 30 solely by reason of the application of section 30(b)(3)(B)”.
+
+1989—Subsec. (d)(1)(B)(i)(II). Pub. L. 101–239, §7811(d)(2), inserted before period at end “and if section 59(a)(2) did not apply”.
+
+Subsec. (d)(1)(B)(ii). Pub. L. 101–239, §7612(a)(2), substituted “subsection (b)(1)” for “subsections (b)(1) and (c)(3)” in subcl. (I) and struck out at end “In the case of taxable years beginning after 1989, the adjustments provided in section 56(g) shall be treated as specified in this clause to the extent attributable to items which are excluded from gross income for any taxable year for purposes of the regular tax, or are not deductible for any taxable year under the adjusted current earnings method of section 56(g).”
+
+Subsec. (d)(1)(B)(iii). Pub. L. 101–239, §7612(b)(1), which directed amendment of cl. (iii) by inserting “or not allowed under section 28 solely by reason of the application of section 28(d)(2)(B)” after “section 29(d)(5)(B)”, was executed by making the insertion after “section 29(b)(5)(B)”, as the probable intent of Congress.
+
+Subsec. (d)(1)(B)(iv). Pub. L. 101–239, §7612(b)(1), which directed amendment of cl. (iv) by inserting “or not allowed under section 28 solely by reason of the application of section 28(d)(2)(B)” after “section 29(d)(5)(B)”, was executed by making the insertion after “section29(b)(5)(B)” in subcl. (II), as the probable intent of Congress.
+
+Pub. L. 101–239, §7612(a)(1), added cl. (iv).
+
+1988—Subsec. (d)(1)(B)(ii). Pub. L. 100–647, §1007(g)(4), substituted “current earnings” for “earnings and profits” in last sentence.
+
+Subsec. (d)(1)(B)(iii). Pub. L. 100–647, §6304(a), added cl. (iii).
+
+#### Effective Date of 1993 Amendment
+
+Section 13113(e) of Pub. L. 103–66 provided that: “The amendments made by this section \[enacting section 1202 of this title and amending this section and sections 57, 172, 642, 643, 691, 871, and 6652 of this title\] shall apply to stock issued after the date of the enactment of this Act \[Aug. 10, 1993\].”
+
+Section 13171(d) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 56 and 57 of this title\] shall apply to contributions made after June 30, 1992, except that in the case of any contribution of capital gain property which is not tangible personal property, such amendments shall apply only if the contribution is made after December 31, 1992.”
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–486 applicable to property placed in service after June 30, 1993, see section 1913(c) of Pub. L. 102–486, set out as an Effective Date note under section 30 of this title.
+
+#### Effective Date of 1989 Amendment
+
+Section 7612(a)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section\] shall apply for purposes of determining the adjusted net minimum tax for taxable years beginning after December 31, 1989.”
+
+Section 7612(b)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply for purposes of determining the amount of the minimum tax credit for taxable years beginning after December 31, 1989; except that, for such purposes, section 53(b)(1) of the Internal Revenue Code of 1986 shall be applied as if such amendment had been in effect for all prior taxable years.”
+
+Amendment by section 7811(d)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by section 1007(g)(4) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+
+Section 6304(b) of Pub. L. 100–647 provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 701 of the Tax Reform Act of 1986 \[Pub. L. 99–514\].”
+
+#### Effective Date
+
+Section applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 55 of this title.
+
+#### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
+
+For applicability of amendment by section 701(b) of Pub. L. 99–514 \[enacting this section\] notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 108, 381, 383, 1374 of this title.
+

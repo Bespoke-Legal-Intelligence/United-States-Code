@@ -1,0 +1,22 @@
+### §6941a. Energy and materials conservation and recovery; Congressional findings
+
+The Congress finds that—
+
+&emsp;(1) significant savings could be realized by conserving materials in order to reduce the volume or quantity of material which ultimately becomes waste;
+
+&emsp;(2) solid waste contains valuable energy and material resources which can be recovered and used thereby conserving increasingly scarce and expensive fossil fuels and virgin materials;
+
+&emsp;(3) the recovery of energy and materials from municipal waste, and the conservation of energy and materials contributing to such waste streams, can have the effect of reducing the volume of the municipal waste stream and the burden of disposing of increasing volumes of solid waste;
+
+&emsp;(4) the technology to conserve resources exists and is commercially feasible to apply;
+
+&emsp;(5) the technology to recover energy and materials from solid waste is of demonstrated commercial feasibility; and
+
+&emsp;(6) various communities throughout the nation have different needs and different potentials for conserving resources and for utilizing techniques for the recovery of energy and materials from waste, and Federal assistance in planning and implementing such energy and materials conservation and recovery programs should be available to all such communities on an equitable basis in relation to their needs and potential.
+
+(Pub. L. 96–482, §32(a), Oct. 21, 1980, 94 Stat. 2353.)
+
+#### Codification
+
+Section was enacted as part of the Solid Waste Disposal Act Amendments of 1980, and not as part of the Solid Waste Disposal Act which comprises this chapter.
+

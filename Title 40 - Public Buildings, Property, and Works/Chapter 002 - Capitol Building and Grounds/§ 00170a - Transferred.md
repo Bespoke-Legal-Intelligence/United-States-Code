@@ -1,0 +1,6 @@
+### §170a. Transferred
+
+#### Codification
+
+Section, Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189, which related to disposition of receipts from sale of used or surplus furniture and furnishings of Senate, was transferred to section 117b–1 of Title 2, The Congress.
+

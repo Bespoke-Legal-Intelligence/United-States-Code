@@ -1,0 +1,62 @@
+### §620. Findings and purposes
+
+#### (a) Findings
+
+The Congress makes the following findings:
+
+&emsp;(1) Timber is essential to the United States.
+
+&emsp;(2) Forests, forest resources, and the forest environment are exhaustible natural resources that require efficient and effective conservation efforts.
+
+&emsp;(3) In the interest of conserving those resources, the United States has set aside millions of acres of otherwise harvestable timberlands in the western United States, representing well over 100,000,000,000 board feet of otherwise harvestable timber.
+
+&emsp;(4) In recent years, administrative, statutory, or judicial action has been taken to set aside an increased amount of otherwise harvestable timberlands for conservation purposes.
+
+&emsp;(5) In the next few months and years, additional amounts of otherwise harvestable timberlands may be set aside for conservation purposes, pursuant to the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], the National Forest Management Act of 1976, or other expected statutory, administrative, and judicial actions.
+
+&emsp;(6) There is evidence of a shortfall in the supply of unprocessed timber in the western United States.
+
+&emsp;(7) There is reason to believe that any shortfall which may already exist may worsen unless action is taken.
+
+&emsp;(8) In conjunction with the broad conservation actions expected in the next few months and years, conservation action is necessary with respect to exports of unprocessed timber.
+
+#### (b) Purposes
+
+The purposes of sections 620 to 620j of this title are—
+
+&emsp;(1) to promote the conservation of forest resources in conjunction with State and Federal resources management plans, and other actions or decisions, affecting the use of forest resources;
+
+&emsp;(2) to take action essential for the acquisition and distribution of forest resources or products in short supply in the western United States;
+
+&emsp;(3) to take action necessary, to meet the goals of Article XI 2.(a) of the General Agreement on Tariffs and Trade, to ensure sufficient supplies of certain forest resources or products which are essential to the United States;
+
+&emsp;(4) to continue and refine the existing Federal policy of restricting the export of unprocessed timber harvested from Federal lands in the western United States; and
+
+&emsp;(5) to effect measures aimed at meeting these objectives in conformity with the obligations of the United States under the General Agreement on Tariffs and Trade.
+
+(Pub. L. 101–382, title IV, §488, Aug. 20, 1990, 104 Stat. 714.)
+
+#### References in Text
+
+The Endangered Species Act of 1973, referred to in subsec. (a)(5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+
+The National Forest Management Act of 1976, referred to in subsec. (a)(5), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
+
+Sections 620 to 620j of this title, referred to in subsec. (b), was in the original “this title”, meaning title IV of Pub. L. 101–382, Aug. 20, 1990, 104 Stat. 714, which enacted sections 620 to 620j of this title and provisions set out as notes below. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### Effective Date
+
+Section 494 of title IV of Pub. L. 101–382 provided that: “Except as otherwise provided in this title, the provisions of this title \[enacting this section and sections 620a to 620j of this title and provisions set out as a note below\] take effect on the date of the enactment of this Act \[Aug. 20, 1990\].”
+
+#### Short Title of 1993 Amendment
+
+Pub. L. 103–45, §1, July 1, 1993, 107 Stat. 223, provided that: “This Act \[amending sections 620c and 620d of this title and enacting provisions set out as a note under section 620c of this title\] may be cited as the ‘Forest Resources Conservation and Shortage Relief Amendments Act of 1993’.”
+
+#### Short Title
+
+Section 487 of title IV of Pub. L. 101–382 provided that: “This title \[enacting this section and sections 620a to 620j of this title and provisions set out as a note above\] may be cited as the ‘Forest Resources Conservation and Shortage Relief Act of 1990’.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 620b, 620c, 620d, 620e, 620f, 620g, 620h, 620j of this title.
+

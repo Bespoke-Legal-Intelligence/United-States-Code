@@ -1,0 +1,62 @@
+### §6316. Administration, penalties, enforcement, and preemption
+
+(a) The provisions of section 6296(a), (b), and (d) of this title, the provisions of subsections (<i>l</i>) through (s) of section 6295 of this title, and section <sup>1</sup> 6297 through 6306 of this title shall apply with respect to this part (other than the equipment specified in subparagraphs (B), (C), (D), (E), and (F) of section 6311(1) of this title) to the same extent and in the same manner as they apply in part A of this subchapter. In applying such provisions for the purposes of this part—
+
+&emsp;(1) references to sections 6293, 6294, and 6295 of this title shall be considered as references to sections 6314, 6315, and 6313 of this title, respectively;
+
+&emsp;(2) references to “this part” shall be treated as referring to part A–1 of this subchapter;
+
+&emsp;(3) the term “equipment” shall be substituted for the term “product”;
+
+&emsp;(4) the term “Secretary” shall be substituted for “Commission” each place it appears (other than in section 6303(c) of title);
+
+&emsp;(5) section 6297(a) of this title shall be applied, in the case of electric motors, as if the National Appliance Energy Conservation Act of 1987 was the Energy Policy Act of 1992;
+
+&emsp;(6) section 6297(b)(1) of this title shall be applied as if electric motors were fluorescent lamp ballasts and as if the National Appliance Energy Conservation Amendments of 1988 were the Energy Policy Act of 1992;
+
+&emsp;(7) section 6297(b)(4) of this title shall be applied as if electric motors were fluorescent lamp ballasts and as if paragraph (5) of section 6295(g) of this title were section 6313 of this title; and
+
+&emsp;(8) notwithstanding any other provision of law, a regulation or other requirement adopted by a State or subdivision of a State contained in a State or local building code for new construction concerning the energy efficiency or energy use of an electric motor covered under this part is not superseded by the standards for such electric motor established or prescribed under section 6313(b) of this title if such regulation or requirement is identical to the standards established or prescribed under such section.
+
+(b)(1) The provisions of section 6296(a), (b), and (d) of this title, section 6297(a) of this title, and sections 6298 through 6306 of this title shall apply with respect to the equipment specified in subparagraphs (B), (C), (D), (E), and (F) of section 6311(1) of this title to the same extent and in the same manner as they apply in part B of this subchapter. In applying such provisions for the purposes of such equipment, paragraphs (1), (2), (3), and (4) of subsection (a) of this section shall apply.
+
+(2)(A) A standard prescribed or established under section 6313(a) of this title shall, beginning on the effective date of such standard, supersede any State or local regulation concerning the energy efficiency or energy use of a product for which a standard is prescribed or established pursuant to such section.
+
+(B) Notwithstanding subparagraph (A), a standard prescribed or established under section 6313(a) of this title shall not supersede a standard for such a product contained in a State or local building code for new construction if—
+
+&emsp;(i) the standard in the building code does not require that the energy efficiency of such product exceed the applicable minimum energy efficiency requirement in amended ASHRAE/IES Standard 90.1; and
+
+&emsp;(ii) the standard in the building code does not take effect prior to the effective date of the applicable minimum energy efficiency requirement in amended ASHRAE/IES Standard 90.1.
+
+(C) Notwithstanding subparagraph (A), a standard prescribed or established under section 6313(a) of this title shall not supersede the standards established by the State of California set forth in Table C–6, California Code of Regulations, Title 24, Part 2, Chapter 2–53, for water-source heat pumps below 135,000 Btu per hour (cooling capacity) that become effective on January 1, 1993.
+
+(D) Notwithstanding subparagraph (A), a standard prescribed or established under section 6313(a) of this title shall not supersede a State regulation which has been granted a waiver by the Secretary. The Secretary may grant a waiver pursuant to the terms, conditions, criteria, procedures, and other requirements specified in section 6297(d) of this title.
+
+(c) With respect to any electric motor to which standards are applicable under section 6313(b) of this title, the Secretary shall require manufacturers to certify, through an independent testing or certification program nationally recognized in the United States, that such motor meets the applicable.<sup>2</sup>
+
+(Pub. L. 94–163, title III, §345, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3272; amended Pub. L. 102–486, title I, §122(e), Oct. 24, 1992, 106 Stat. 2815.)
+
+#### References in Text
+
+The National Appliance Energy Conservation Act of 1987, referred to in subsec. (a)(5), is Pub. L. 100–12, Mar. 17, 1987, 101 Stat. 103. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 6201 of this title and Tables.
+
+The Energy Policy Act of 1992, referred to in subsec. (a)(5), (6), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
+
+The National Appliance Energy Conservation Amendments of 1988, referred to in subsec. (a)(6), is Pub. L. 100–357, June 28, 1988, 102 Stat. 671. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 6201 of this title and Tables.
+
+#### Amendments
+
+1992—Pub. L. 102–486, §122(e)(3), substituted “enforcement, and preemption” for “and enforcement” in section catchline.
+
+Subsec. (a). Pub. L. 102–486, §122(e)(1)(A), inserted “(other than the equipment specified in subparagraphs (B), (C), (D), (E), and (F) of section 6311(<i>l</i>) of this title)” after “to this part” and substituted “, the provisions of subsections (<i>l</i>) through (s) of section 6295 of this title, and section 6297” for “and sections 6298”.
+
+Subsec. (a)(1). Pub. L. 102–486, §122(e)(1)(B), substituted “, 6294, and 6295 of this title” for “and 6294 of this title” and “6314, 6315, and 6313 of this title, respectively” for “6314 and 6315 of this title, respectively”.
+
+Subsec. (a)(5) to (8). Pub. L. 102–486, §122(e)(1)(C)–(E), added pars. (5) to (8).
+
+Subsecs. (b), (c). Pub. L. 102–486, §122(e)(2), added subsecs. (b) and (c).
+
+<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
+

@@ -1,0 +1,288 @@
+### §101. Definitions
+
+Except as otherwise provided in this title, as used in this title, the following terms and their variant forms mean the following:
+
+&emsp;An “anonymous work” is a work on the copies or phonorecords of which no natural person is identified as author.
+
+&emsp;An “architectural work” is the design of a building as embodied in any tangible medium of expression, including a building, architectural plans, or drawings. The work includes the overall form as well as the arrangement and composition of spaces and elements in the design, but does not include individual standard features.
+
+&emsp;“Audiovisual works” are works that consist of a series of related images which are intrinsically intended to be shown by the use of machines, or devices such as projectors, viewers, or electronic equipment, together with accompanying sounds, if any, regardless of the nature of the material objects, such as films or tapes, in which the works are embodied.
+
+&emsp;The “Berne Convention” is the Convention for the Protection of Literary and Artistic Works, signed at Berne, Switzerland, on September 9, 1886, and all acts, protocols, and revisions thereto.
+
+&emsp;A work is a “Berne Convention work” if—
+
+&emsp;&emsp;(1) in the case of an unpublished work, one or more of the authors is a national of a nation adhering to the Berne Convention, or in the case of a published work, one or more of the authors is a national of a nation adhering to the Berne Convention on the date of first publication;
+
+&emsp;&emsp;(2) the work was first published in a nation adhering to the Berne Convention, or was simultaneously first published in a nation adhering to the Berne Convention and in a foreign nation that does not adhere to the Berne Convention;
+
+&emsp;&emsp;(3) in the case of an audiovisual work—
+
+&emsp;&emsp;&emsp;(A) if one or more of the authors is a legal entity, that author has its headquarters in a nation adhering to the Berne Convention; or
+
+&emsp;&emsp;&emsp;(B) if one or more of the authors is an individual, that author is domiciled, or has his or her habitual residence in, a nation adhering to the Berne Convention;
+
+&emsp;&emsp;(4) in the case of a pictorial, graphic, or sculptural work that is incorporated in a building or other structure, the building or structure is located in a nation adhering to the Berne Convention; or
+
+&emsp;&emsp;(5) in the case of an architectural work embodied in a building, such building is erected in a country adhering to the Berne Convention.
+
+> &emsp;For purposes of paragraph (1), an author who is domiciled in or has his or her habitual residence in, a nation adhering to the Berne Convention is considered to be a national of that nation. For purposes of paragraph (2), a work is considered to have been simultaneously published in two or more nations if its dates of publication are within 30 days of one another.
+
+&emsp;The “best edition” of a work is the edition, published in the United States at any time before the date of deposit, that the Library of Congress determines to be most suitable for its purposes.
+
+&emsp;A person's “children” are that person's immediate offspring, whether legitimate or not, and any children legally adopted by that person.
+
+&emsp;A “collective work” is a work, such as a periodical issue, anthology, or encyclopedia, in which a number of contributions, constituting separate and independent works in themselves, are assembled into a collective whole.
+
+&emsp;A “compilation” is a work formed by the collection and assembling of preexisting materials or of data that are selected, coordinated, or arranged in such a way that the resulting work as a whole constitutes an original work of authorship. The term “compilation” includes collective works.
+
+&emsp;“Copies” are material objects, other than phonorecords, in which a work is fixed by any method now known or later developed, and from which the work can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. The term “copies” includes the material object, other than a phonorecord, in which the work is first fixed.
+
+&emsp;“Copyright owner”, with respect to any one of the exclusive rights comprised in a copyright, refers to the owner of that particular right.
+
+&emsp;The “country of origin” of a Berne Convention work, for purposes of section 411, is the United States if—
+
+&emsp;&emsp;(1) in the case of a published work, the work is first published—
+
+&emsp;&emsp;&emsp;(A) in the United States;
+
+&emsp;&emsp;&emsp;(B) simultaneously in the United States and another nation or nations adhering to the Berne Convention, whose law grants a term of copyright protection that is the same as or longer than the term provided in the United States;
+
+&emsp;&emsp;&emsp;(C) simultaneously in the United States and a foreign nation that does not adhere to the Berne Convention; or
+
+&emsp;&emsp;&emsp;(D) in a foreign nation that does not adhere to the Berne Convention, and all of the authors of the work are nationals, domiciliaries, or habitual residents of, or in the case of an audiovisual work legal entities with headquarters in, the United States;
+
+&emsp;&emsp;(2) in the case of an unpublished work, all the authors of the work are nationals, domiciliaries, or habitual residents of the United States, or, in the case of an unpublished audiovisual work, all the authors are legal entities with headquarters in the United States; or
+
+&emsp;&emsp;(3) in the case of a pictorial, graphic, or sculptural work incorporated in a building or structure, the building or structure is located in the United States.
+
+> &emsp;For the purposes of section 411, the “country of origin” of any other Berne Convention work is not the United States.
+
+&emsp;A work is “created” when it is fixed in a copy or phonorecord for the first time; where a work is prepared over a period of time, the portion of it that has been fixed at any particular time constitutes the work as of that time, and where the work has been prepared in different versions, each version constitutes a separate work.
+
+&emsp;A “derivative work” is a work based upon one or more preexisting works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted. A work consisting of editorial revisions, annotations, elaborations, or other modifications which, as a whole, represent an original work of authorship, is a “derivative work”.
+
+&emsp;A “device”, “machine”, or “process” is one now known or later developed.
+
+&emsp;To “display” a work means to show a copy of it, either directly or by means of a film, slide, television image, or any other device or process or, in the case of a motion picture or other audiovisual work, to show individual images nonsequentially.
+
+&emsp;A work is “fixed” in a tangible medium of expression when its embodiment in a copy or phonorecord, by or under the authority of the author, is sufficiently permanent or stable to permit it to be perceived, reproduced, or otherwise communicated for a period of more than transitory duration. A work consisting of sounds, images, or both, that are being transmitted, is “fixed” for purposes of this title if a fixation of the work is being made simultaneously with its transmission.
+
+&emsp;The terms “including” and “such as” are illustrative and not limitative.
+
+&emsp;A “joint work” is a work prepared by two or more authors with the intention that their contributions be merged into inseparable or interdependent parts of a unitary whole.
+
+&emsp;“Literary works” are works, other than audiovisual works, expressed in words, numbers, or other verbal or numerical symbols or indicia, regardless of the nature of the material objects, such as books, periodicals, manuscripts, phonorecords, film, tapes, disks, or cards, in which they are embodied.
+
+&emsp;“Motion pictures” are audiovisual works consisting of a series of related images which, when shown in succession, impart an impression of motion, together with accompanying sounds, if any.
+
+&emsp;To “perform” a work means to recite, render, play, dance, or act it, either directly or by means of any device or process or, in the case of a motion picture or other audiovis- ual work, to show its images in any sequence or to make the sounds accompanying it audible.
+
+&emsp;“Phonorecords” are material objects in which sounds, other than those accompanying a motion picture or other audiovisual work, are fixed by any method now known or later developed, and from which the sounds can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. The term “phonorecords” includes the material object in which the sounds are first fixed.
+
+&emsp;“Pictorial, graphic, and sculptural works” include two-dimensional and three-dimensional works of fine, graphic, and applied art, photographs, prints and art reproductions, maps, globes, charts, diagrams, models, and technical drawings, including architectural plans. Such works shall include works of artistic craftsmanship insofar as their form but not their mechanical or utilitarian aspects are concerned; the design of a useful article, as defined in this section, shall be considered a pictorial, graphic, or sculptural work only if, and only to the extent that, such design incorporates pictorial, graphic, or sculptural features that can be identified separately from, and are capable of existing independently of, the utilitarian aspects of the article.
+
+&emsp;A “pseudonymous work” is a work on the copies or phonorecords of which the author is identified under a fictitious name.
+
+&emsp;“Publication” is the distribution of copies or phonorecords of a work to the public by sale or other transfer of ownership, or by rental, lease, or lending. The offering to distribute copies or phonorecords to a group of persons for purposes of further distribution, public performance, or public display, constitutes publication. A public performance or display of a work does not of itself constitute publication.
+
+&emsp;“Registration”, for purposes of sections 205(c)(2), 405, 406, 410(d), 411, 412, and 506(e), means a registration of a claim in the original or the renewed and extended term of copyright.
+
+&emsp;To perform or display a work “publicly” means—
+
+&emsp;&emsp;(1) to perform or display it at a place open to the public or at any place where a substantial number of persons outside of a normal circle of a family and its social acquaintances is gathered; or
+
+&emsp;&emsp;(2) to transmit or otherwise communicate a performance or display of the work to a place specified by clause (1) or to the public, by means of any device or process, whether the members of the public capable of receiving the performance or display receive it in the same place or in separate places and at the same time or at different times.
+
+&emsp;“Sound recordings” are works that result from the fixation of a series of musical, spoken, or other sounds, but not including the sounds accompanying a motion picture or other audiovisual work, regardless of the nature of the material objects, such as disks, tapes, or other phonorecords, in which they are embodied.
+
+&emsp;“State” includes the District of Columbia and the Commonwealth of Puerto Rico, and any territories to which this title is made applicable by an Act of Congress.
+
+&emsp;A “transfer of copyright ownership” is an assignment, mortgage, exclusive license, or any other conveyance, alienation, or hypothecation of a copyright or of any of the exclusive rights comprised in a copyright, whether or not it is limited in time or place of effect, but not including a nonexclusive license.
+
+&emsp;A “transmission program” is a body of material that, as an aggregate, has been produced for the sole purpose of transmission to the public in sequence and as a unit.
+
+&emsp;To “transmit” a performance or display is to communicate it by any device or process whereby images or sounds are received beyond the place from which they are sent.
+
+&emsp;The “United States”, when used in a geographical sense, comprises the several States, the District of Columbia and the Commonwealth of Puerto Rico, and the organized territories under the jurisdiction of the United States Government.
+
+&emsp;A “useful article” is an article having an intrinsic utilitarian function that is not merely to portray the appearance of the article or to convey information. An article that is normally a part of a useful article is considered a “useful article”.
+
+&emsp;The author's “widow” or “widower” is the author's surviving spouse under the law of the author's domicile at the time of his or her death, whether or not the spouse has later remarried.
+
+&emsp;A “work of visual art” is—
+
+&emsp;&emsp;(1) a painting, drawing, print, or sculpture, existing in a single copy, in a limited edition of 200 copies or fewer that are signed and consecutively numbered by the author, or, in the case of a sculpture, in multiple cast, carved, or fabricated sculptures of 200 or fewer that are consecutively numbered by the author and bear the signature or other identifying mark of the author; or
+
+&emsp;&emsp;(2) a still photographic image produced for exhibition purposes only, existing in a single copy that is signed by the author, or in a limited edition of 200 copies or fewer that are signed and consecutively numbered by the author.
+
+> &emsp;A work of visual art does not include—
+
+&emsp;&emsp;(A)(i) any poster, map, globe, chart, technical drawing, diagram, model, applied art, motion picture or other audiovisual work, book, magazine, newspaper, periodical, data base, electronic information service, electronic publication, or similar publication;
+
+&emsp;&emsp;(ii) any merchandising item or advertising, promotional, descriptive, covering, or packaging material or container;
+
+&emsp;&emsp;(iii) any portion or part of any item described in clause (i) or (ii);
+
+&emsp;&emsp;(B) any work made for hire; or
+
+&emsp;&emsp;(C) any work not subject to copyright protection under this title.
+
+&emsp;A “work of the United States Government” is a work prepared by an officer or employee of the United States Government as part of that person's official duties.
+
+&emsp;A “work made for hire” is—
+
+&emsp;&emsp;(1) a work prepared by an employee within the scope of his or her employment; or
+
+&emsp;&emsp;(2) a work specially ordered or commissioned for use as a contribution to a collective work, as a part of a motion picture or other audiovisual work, as a translation, as a supplementary work, as a compilation, as an instructional text, as a test, as answer material for a test, or as an atlas, if the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire. For the purpose of the foregoing sentence, a “supplementary work” is a work prepared for publication as a secondary adjunct to a work by another author for the purpose of introducing, concluding, illustrating, explaining, revising, commenting upon, or assisting in the use of the other work, such as forewords, afterwords, pictorial illustrations, maps, charts, tables, editorial notes, musical arrangements, answer material for tests, bibliographies, appendixes, and indexes, and an “instructional text” is a literary, pictorial, or graphic work prepared for publication and with the purpose of use in systematic instructional activities.
+
+&emsp;A “computer program” is a set of statements or instructions to be used directly or indirectly in a computer in order to bring about a certain result.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248.)
+
+#### Historical and Revision Notes
+
+I74house report no. 94–1476
+
+The significant definitions in this section will be mentioned or summarized in connection with the provisions to which they are most relevant.
+
+#### Amendments
+
+1992—Pub. L. 102–563 substituted “Except as otherwise provided in this title, as used” for “As used” in introductory provisions.
+
+Pub. L. 102–307 inserted definition of term “registration”.
+
+1990—Pub. L. 101–650, §702(a), inserted definition of term “architectural work”.
+
+Pub. L. 101–650, §702(b), in definition of term “Berne Convention work” added par. (5).
+
+Pub. L. 101–650, §602, inserted definition of term “work of visual art”.
+
+1988—Pub. L. 100–568, §4(a)(1)(B), inserted definitions of terms “The Berne Convention” and “Berne Convention work”.
+
+Pub. L. 100–568, §4(a)(1)(C), inserted definition of term “country of origin”.
+
+Pub. L. 100–568, §4(a)(1)(A), in definition of term “Pictorial, graphic, and sculptural works” substituted “diagrams, models, and technical drawings, including architectural plans” for “technical drawings, diagrams, and models”.
+
+1980—Pub. L. 96–517 inserted definition of term “computer program”.
+
+#### Effective Date of 1992 Amendment
+
+Section 102(g) of Pub. L. 102–307 provided that:
+
+“(1) Subject to paragraphs (2) and (3), this section \[amending this section and sections 304, 408, 409, and 708 of this title and enacting provisions set out as a note under section 304 of this title\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[June 26, 1992\].
+
+“(2) The amendments made by this section shall apply only to those copyrights secured between January 1, 1964, and December 31, 1977. Copyrights secured before January 1, 1964, shall be governed by the provisions of section 304(a) of title 17, United States Code, as in effect on the day before the effective date of this section \[June 26, 1992\].
+
+“(3) This section and the amendments made by this section shall not affect any court proceedings pending on the effective date of this section.”
+
+#### Effective Date of 1990 Amendment
+
+Amendment by section 602 of Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
+
+Section 706 of title VII of Pub. L. 101–650 provided that: “The amendments made by this title \[enacting section 120 of this title and amending this section and sections 102, 106, and 301 of this title\], apply to—
+
+&emsp;“(1) any architectural work created on or after the date of the enactment of this Act \[Dec. 1, 1990\]; and
+
+&emsp;“(2) any architectural work that, on the date of the enactment of this Act, is unconstructed and embodied in unpublished plans or drawings, except that protection for such architectural work under title 17, United States Code, by virtue of the amendments made by this title, shall terminate on December 31, 2002, unless the work is constructed by that date.”
+
+#### Effective Date of 1988 Amendment
+
+Section 13 of Pub. L. 100–568 provided that:
+
+“(a)
+
+Effective Date.—This Act and the amendments made by this Act \[enacting section 116A of this title, amending this section and sections 104, 116, 205, 301, 401 to 408, 411, 501, 504, 801, and 804 of this title, and enacting provisions set out as notes under this section\] take effect on the date on which the Berne Convention (as defined in section 101 of title 17, United States Code) enters into force with respect to the United States \[Mar. 1, 1989\]. \[The Berne Convention entered into force with respect to the United States on Mar. 1, 1989.\]
+
+“(b)
+
+Effect on Pending Cases.—Any cause of action arising under title 17, United States Code, before the effective date of this Act shall be governed by the provisions of such title as in effect when the cause of action arose.”
+
+#### Short Title of 1994 Amendment
+
+Pub. L. 103–369, §1, Oct. 18, 1994, 108 Stat. 3477, provided that: “This Act \[amending sections 111 and 119 of this title and enacting and repealing provisions set out as notes under section 119 of this title\] may be cited as the ‘Satellite Home Viewer Act of 1994’.”
+
+#### Short Title of 1993 Amendment
+
+Pub. L. 103–198, §1, Dec. 17, 1993, 107 Stat. 2304, provided that: “This Act \[amending sections 111, 116, 118, 119, 801 to 803, 1004 to 1007, and 1010 of this title and section 1288 of Title 8, Aliens and Nationality, renumbering sections 116A and 804 of this title as sections 116 and 803, respectively, of this title, repealing sections 116, 803, and 805 to 810 of this title, and enacting provisions set out as notes under section 801 of this title and section 1288 of Title 8\] may be cited as the ‘Copyright Royalty Tribunal Reform Act of 1993’.”
+
+#### Short Title of 1992 Amendment
+
+Section 1 of Pub. L. 102–307 provided that: “This Act \[enacting sections 179 to 179k of Title 2, The Congress, amending this section and sections 108, 304, 408, 409, and 708 of this title, repealing sections 178 to 178<i>l</i> of Title 2, enacting provisions set out as notes under this section, section 304 of this title, and section 179 of Title 2, and repealing provisions set out as a note under section 178 of Title 2\] may be cited as the ‘Copyright Amendments Act of 1992’.”
+
+Section 101 of title I of Pub. L. 102–307 provided that: “This title \[amending this section and sections 304, 408, 409, and 708 of this title and enacting provisions set out as notes under this section and section 304 of this title\] may be referred to as the ‘Copyright Renewal Act of 1992’.”
+
+#### Short Title of 1990 Amendments
+
+Section 601 of title VI of Pub. L. 101–650 provided that: “This title \[enacting section 106A of this title, amending this section and sections 107, 113, 301, 411, 412, 501, and 506 of this title, and enacting provisions set out as notes under this section and section 106A of this title\] may be cited as the ‘Visual Artists Rights Act of 1990’.”
+
+Section 701 of title VII of Pub. L. 101–650 provided that: “This title \[enacting section 120 of this title, amending this section and sections 102, 106, and 301 of this title, and enacting provisions set out as a note above\] may be cited as the ‘Architectural Works Copyright Protection Act’.”
+
+Section 801 of title VIII of Pub. L. 101–650 provided that: “This title \[amending section 109 of this title and enacting provisions set out as notes under sections 109 and 205 of this title\] may be cited as the ‘Computer Software Rental Amendments Act of 1990’.”
+
+Pub. L. 101–553, §1, Nov. 15, 1990, 104 Stat. 2749, provided that: “This Act \[enacting section 511 of this title, amending sections 501, 910, and 911 of this title, and enacting provisions set out as a note under section 501 of this title\] may be cited as the ‘Copyright Remedy Clarification Act’.”
+
+Pub. L. 101–319, §1, July 3, 1990, 104 Stat. 290, provided that: “This Act \[amending sections 701 and 802 of this title and sections 5315 and 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 701 of this title\] may be cited as the ‘Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989’.”
+
+Pub. L. 101–318, §1, July 3, 1990, 104 Stat. 287, provided that: “This Act \[amending sections 106, 111, 704, 708, 801, and 804 of this title and enacting provisions set out as notes under sections 106, 111, 708, and 804 of this title\] may be cited as the ‘Copyright Fees and Technical Amendments Act of 1989’.”
+
+#### Short Title of 1988 Amendments
+
+Pub. L. 100–667, title II, §201, Nov. 16, 1988, 102 Stat. 3949, provided that: “This title \[enacting section 119 of this title and sections 612 and 613 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amending sections 111, 501, 801, and 804 of this title and section 605 of Title 47, and enacting provisions set out as notes under section 119 of this title\] may be cited as the ‘Satellite Home Viewer Act of 1988’.” \[Section ceases to be effective Dec. 31, 1994, see section 207 of Pub. L. 100–667, set out as an Effective and Termination Dates note under section 119 of this title.\]
+
+Section 1(a) of Pub. L. 100–568 provided that: “This Act \[enacting section 116A of this title, amending this section and sections 104, 116, 205, 301, 401 to 408, 411, 501, 504, 801, and 804 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Berne Convention Implementation Act of 1988’.”
+
+#### Short Title of 1984 Amendment
+
+Pub. L. 98–450, §1, Oct. 4, 1984, 98 Stat. 1727, provided that: “This Act \[amending sections 109 and 115 of this title and enacting provisions set out as a note under section 109 of this title\] may be cited as the ‘Record Rental Amendment of 1984’.”
+
+#### First Amendment Application
+
+Section 609 of title VI of Pub. L. 101–650 provided that: “This title \[see Short Title of 1990 Amendments note above\] does not authorize any governmental entity to take any action or enforce restrictions prohibited by the First Amendment to the United States Constitution.”
+
+#### Berne Convention; Congressional Declarations
+
+Section 2 of Pub. L. 100–568 provided that: “The Congress makes the following declarations:
+
+&emsp;“(1) The Convention for the Protection of Literary and Artistic Works, signed at Berne, Switzerland, on September 9, 1886, and all acts, protocols, and revisions thereto (hereafter in this Act \[see Short Title of 1988 Amendment note above\] referred to as the ‘Berne Convention’) are not self-executing under the Constitution and laws of the United States.
+
+&emsp;“(2) The obligations of the United States under the Berne Convention may be performed only pursuant to appropriate domestic law.
+
+&emsp;“(3) The amendments made by this Act, together with the law as it exists on the date of the enactment of this Act \[Oct. 31, 1988\], satisfy the obligations of the United States in adhering to the Berne Convention and no further rights or interests shall be recognized or created for that purpose.”
+
+#### Berne Convention; Construction
+
+Section 3 of Pub. L. 100–568 provided that:
+
+“(a)
+
+Relationship With Domestic Law.—The provisions of the Berne Convention—
+
+&emsp;“(1) shall be given effect under title 17, as amended by this Act \[see Short Title of 1988 Amendment note above\], and any other relevant provision of Federal or State law, including the common law; and
+
+&emsp;“(2) shall not be enforceable in any action brought pursuant to the provisions of the Berne Convention itself.
+
+“(b)
+
+Certain Rights Not Affected.—The provisions of the Berne Convention, the adherence of the United States thereto, and satisfaction of United States obligations thereunder, do not expand or reduce any right of an author of a work, whether claimed under Federal, State, or the common law—
+
+&emsp;“(1) to claim authorship of the work; or
+
+&emsp;“(2) to object to any distortion, mutilation, or other modification of, or other derogatory action in relation to, the work, that would prejudice the author's honor or reputation.”
+
+#### Works in Public Domain Without Copyright Protection
+
+Section 12 of Pub. L. 100–568 provided that: “Title 17, United States Code, as amended by this Act \[see Short Title of 1988 Amendment note above\], does not provide copyright protection for any work that is in the public domain in the United States.”
+
+#### Definitions
+
+Pub. L. 103–465, title V, §501, Dec. 8, 1994, 108 Stat. 4973, provided that: “For purposes of this title \[enacting section 1101 of this title and section 2319A of Title 18, Crimes and Criminal Procedure, amending sections 104A and 109 of this title, sections 1052 and 1127 of Title 15, Commerce and Trade, and sections 41, 104, 111, 119, 154, 156, 172, 173, 252, 262, 271, 272, 287, 292, 295, 307, 365, and 373 of Title 35, Patents, enacting provisions set out as notes under section 1052 of Title 15 and sections 104 and 154 of Title 35, and amending provisions set out as a note under section 109 of this title\]—
+
+&emsp;“(1) the term ‘WTO Agreement’ has the meaning given that term in section 2(9) of the Uruguay Round Agreements Act \[19 U.S.C. 3501(9)\]; and
+
+&emsp;“(2) the term ‘WTO member country’ has the meaning given that term in section 2(10) of the Uruguay Round Agreements Act.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 106A of this title; title 2 section 179i; title 18 sections 2318, 2319.
+

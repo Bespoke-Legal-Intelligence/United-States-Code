@@ -1,0 +1,10 @@
+### §13756. Public participation
+
+A unit of general local government expending payments under this part shall hold at least one public hearing on the proposed use of the payment in relation to its entire budget. At the hearing, persons shall be given an opportunity to provide written and oral views to the governmental authority responsible for enacting the budget and to ask questions about the entire budget and the relation of the payment to the entire budget. The government shall hold the hearing at a time and a place that allows and encourages public attendance and participation.
+
+(Pub. L. 103–322, title III, §30206, Sept. 13, 1994, 108 Stat. 1843.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 14214 of this title.
+

@@ -1,0 +1,94 @@
+### §3572. Imposition of a sentence of fine and related matters
+
+(a)
+
+Factors To Be Considered.—In determining whether to impose a fine, and the amount, time for payment, and method of payment of a fine, the court shall consider, in addition to the factors set forth in section 3553(a)—
+
+&emsp;(1) the defendant's income, earning capacity, and financial resources;
+
+&emsp;(2) the burden that the fine will impose upon the defendant, any person who is financially dependent on the defendant, or any other person (including a government) that would be responsible for the welfare of any person financially dependent on the defendant, relative to the burden that alternative punishments would impose;
+
+&emsp;(3) any pecuniary loss inflicted upon others as a result of the offense;
+
+&emsp;(4) whether restitution is ordered or made and the amount of such restitution;
+
+&emsp;(5) the need to deprive the defendant of illegally obtained gains from the offense;
+
+&emsp;(6) the expected costs to the government of any imprisonment, supervised release, or probation component of the sentence;
+
+&emsp;(7) whether the defendant can pass on to consumers or other persons the expense of the fine; and
+
+&emsp;(8) if the defendant is an organization, the size of the organization and any measure taken by the organization to discipline any officer, director, employee, or agent of the organization responsible for the offense and to prevent a recurrence of such an offense.
+
+(b)
+
+Fine Not to Impair Ability to Make Restitution.—If, as a result of a conviction, the defendant has the obligation to make restitution to a victim of the offense, the court shall impose a fine or other monetary penalty only to the extent that such fine or penalty will not impair the ability of the defendant to make restitution.
+
+(c)
+
+Effect of Finality of Judgment.—Notwithstanding the fact that a sentence to pay a fine can subsequently be—
+
+&emsp;(1) modified or remitted under section 3573;
+
+&emsp;(2) corrected under rule 35 of the Federal Rules of Criminal Procedure and section 3742; or
+
+&emsp;(3) appealed and modified under section 3742;
+
+> a judgment that includes such a sentence is a final judgment for all other purposes.
+
+(d)
+
+Time, Method of Payment, and Related Items.—A person sentenced to pay a fine or other monetary penalty shall make such payment immediately, unless, in the interest of justice, the court provides for payment on a date certain or in installments. If the court provides for payment in installments, the installments shall be in equal monthly payments over the period provided by the court, unless the court establishes another schedule. If the judgment permits other than immediate payment, the period provided for shall not exceed five years, excluding any period served by the defendant as imprisonment for the offense.
+
+(e)
+
+Alternative Sentence Precluded.—At the time a defendant is sentenced to pay a fine, the court may not impose an alternative sentence to be carried out if the fine is not paid.
+
+(f)
+
+Responsibility for Payment of Monetary Obligation Relating to Organization.—If a sentence includes a fine, special assessment, or other monetary obligation (including interest) with respect to an organization, each individual authorized to make disbursements for the organization has a duty to pay the obligation from assets of the organization. If such an obligation is imposed on a director, officer, shareholder, employee, or agent of an organization, payments may not be made, directly or indirectly, from assets of the organization, unless the court finds that such payment is expressly permissible under applicable State law.
+
+(g)
+
+Security for Stayed Fine.—If a sentence imposing a fine is stayed, the court shall, absent exceptional circumstances (as determined by the court)—
+
+&emsp;(1) require the defendant to deposit, in the registry of the district court, any amount of the fine that is due;
+
+&emsp;(2) require the defendant to provide a bond or other security to ensure payment of the fine; or
+
+&emsp;(3) restrain the defendant from transferring or dissipating assets.
+
+(h)
+
+Delinquency.—A fine is delinquent if a payment is more than 30 days late.
+
+(i)
+
+Default.—A fine is in default if a payment is delinquent for more than 90 days. When a fine is in default, the entire amount of the fine is due within 30 days after notification of the default, notwithstanding any installment schedule.
+
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1995; amended Pub. L. 100–185, §7, Dec. 11, 1987, 101 Stat. 1280; Pub. L. 101–647, title XXXV, §3587, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 103–322, title II, §20403(a), Sept. 13, 1994, 108 Stat. 1825.)
+
+#### References in Text
+
+The Federal Rules of Criminal Procedure, referred to in subsec. (c)(2), are set out in the Appendix to this title.
+
+#### Prior Provisions
+
+For a prior section 3572, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding section 3551 of this title.
+
+#### Amendments
+
+1994—Subsec. (a)(6) to (8). Pub. L. 103–322 added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
+
+1990—Subsec. (c)(2). Pub. L. 101–647 inserted “of the Federal Rules of Criminal Procedure” after “rule 35”.
+
+1987—Pub. L. 100–185 inserted “and related matters” in section catchline and amended text generally, revising and restating as subsecs. (a) to (i) provisions formerly contained in subsecs. (a) to (j).
+
+#### Effective Date
+
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1031, 3612 of this title; title 28 section 994.
+

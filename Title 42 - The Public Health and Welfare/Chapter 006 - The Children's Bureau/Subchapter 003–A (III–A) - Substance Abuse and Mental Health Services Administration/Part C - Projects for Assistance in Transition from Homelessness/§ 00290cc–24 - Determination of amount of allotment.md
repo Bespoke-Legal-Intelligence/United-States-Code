@@ -1,0 +1,36 @@
+### §290cc–24. Determination of amount of allotment
+
+#### (a) Minimum allotment
+
+The allotment for a State under section 290cc–21 of this title for a fiscal year shall be the greater of—
+
+&emsp;(1) $300,000 for each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico, and $50,000 for each of Guam, the Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands; and
+
+&emsp;(2) an amount determined in accordance with subsection (b) of this section.
+
+#### (b) Determination under formula
+
+The amount referred to in subsection (a)(2) of this section is the product of—
+
+&emsp;(1) an amount equal to the amount appropriated under section 290cc–35(a) of this title for the fiscal year; and
+
+&emsp;(2) a percentage equal to the quotient of—
+
+&emsp;&emsp;(A) an amount equal to the population living in urbanized areas of the State involved, as indicated by the most recent data collected by the Bureau of the Census; and
+
+&emsp;&emsp;(B) an amount equal to the population living in urbanized areas of the United States, as indicated by the sum of the respective amounts determined for the States under subparagraph (A).
+
+(July 1, 1944, ch. 373, title V, §524, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 517; amended Nov. 29, 1990, Pub. L. 101–645, title V, §511, 104 Stat. 4728.)
+
+#### Prior Provisions
+
+A prior section 524 of act July 1, 1944, was renumbered section 545 by section 611(2) of Pub. L. 100–77 and is classified to section 290ee of this title.
+
+#### Amendments
+
+1990—Pub. L. 101–645 amended section generally, substituting provisions relating to determination of amount of allotment for provisions relating to requiring provision of certain mental health services.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 290cc–21, 290cc–35 of this title.
+

@@ -1,0 +1,42 @@
+### §2704. International Trade Commission reports on impact of Caribbean Basin Economic Recovery Program
+
+#### (a) Reporting requirement
+
+The United States International Trade Commission (hereinafter in this section referred to as the “Commission”) shall prepare, and submit to the Congress and to the President, a report regarding the economic impact of this Act on United States industries and consumers during—
+
+&emsp;(1) the twenty-four-month period beginning with August 5, 1983; and
+
+&emsp;(2) each calendar year occurring thereafter until duty-free treatment under this chapter is terminated under section 2706(b) <sup>1</sup> of this title.
+
+> For purposes of this section, industries in the Commonwealth of Puerto Rico and the insular possessions of the United States shall be considered to be United States industries.
+
+#### (b) Requisite areas of Commission assessment
+
+(1) Each report required under subsection (a) of this section shall include, but not be limited to, an assessment by the Commission regarding—
+
+&emsp;(A) the actual effect, during the period covered by the report, of this Act on the United States economy generally as well as on those specific domestic industries which produce articles that are like, or directly competitive with, articles being imported into the United States from beneficiary countries; and
+
+&emsp;(B) the probable future effect which this Act will have on the United States economy generally, as well as on such domestic industries, before the provisions of this Act terminate.
+
+(2) In preparing the assessments required under paragraph (1), the Commission shall, to the extent practicable—
+
+&emsp;(A) analyze the production, trade and consumption of United States products affected by this Act, taking into consideration employment, profit levels, and use of productive facilities with respect to the domestic industries concerned, and such other economic factors in such industries as it considers relevant, including prices, wages, sales, inventories, patterns of demand, capital investment, obsolescence of equipment, and diversification of production; and
+
+&emsp;(B) describe the nature and extent of any significant change in employment, profit levels, and use of productive facilities, and such other conditions as it deems relevant in the domestic industries concerned, which it believes are attributable to this Act.
+
+#### (c) Time of submission of reports; public participation
+
+(1) Each report required under subsection (a) of this section shall be submitted to the Congress and to the President before the close of the nine-month period beginning on the day after the last day of the period covered by the report.
+
+(2) The Commission shall provide opportunity for the submission by the public, either orally or in writing, or both, of information relating to matters that will be addressed in the reports.
+
+(Pub. L. 98–67, title II, §215, Aug. 5, 1983, 97 Stat. 393.)
+
+#### References in Text
+
+This Act, referred to in subsecs. (a) and (b), probably should be “this title” meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
+
+Section 2706(b) of this title, referred to in subsec. (a)(2), was in the original “section 216(b)” which is classified to section 2705 of this title, but was translated as meaning section 218(b) as the probable intent of Congress. Section 2706(b) was repealed by Pub. L. 101–382, title II, §211, Aug. 20, 1990, 104 Stat. 655.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

@@ -1,0 +1,32 @@
+### §435. Contracts in excess of specific appropriation
+
+Whoever, being an officer or employee of the United States, knowingly contracts for the erection, repair, or furnishing of any public building, or for any public improvement, to pay a larger amount than the specific sum appropriated for such purpose, shall be fined under this title <sup>1</sup> or imprisoned not more than one year, or both.
+
+(June 25, 1948, ch. 645, 62 Stat. 703; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §184 (Mar. 4, 1909, ch. 321, §98, 35 Stat. 1106).
+
+Words “or employee” were inserted to remove any ambiguity as to scope of section.
+
+The offense described in this section involves no moral turpitude, and therefore the punishment provisions were reduced from $2,000 to $1,000 and from 2 years to 1 year, so that the stigma of a felony would not attach to an offender. (See classification of felony and misdemeanor in section 1 of this title and note thereunder.)
+
+Mandatory punishment provisions were rephrased in the alternative.
+
+Changes were also made in phraseology.
+
+#### Amendments
+
+1994—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title” for “fined not more than $5,000”, was executed by making the substitution for “fined not more than $1,000”, to reflect the probable intent of Congress.
+
+#### Cross References
+
+Appropriations as limiting contracts, see sections 11, 12 of Title 41, Public Contracts.
+
+Construction of appropriation acts, see section 1301 of Title 31, Money and Finance.
+
+Removal from office and punishment by fine or imprisonment for expenditures in excess of appropriations, see sections 1517, 1518 of Title 31.
+
+<i><sup>1</sup></i><i> See 1994 Amendment note below.</i>
+

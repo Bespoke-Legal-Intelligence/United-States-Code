@@ -1,0 +1,50 @@
+### §1469b. Auditing of transactions of Territorial and local governments
+
+All financial transactions of the territorial and local governments herein provided for, including such transactions of all agencies or instrumentalities established or utilized by such governments, may be audited by the General Accounting Office, at its discretion, in accordance with chapter 35 of title 31.
+
+(Pub. L. 103–332, title I, Sept. 30, 1994, 108 Stat. 2515.)
+
+#### References in Text
+
+Herein provided for, referred to in text, means provided for in the appropriation act cited as the credit to this section.
+
+#### Codification
+
+Section is from the appropriation act cited as the credit to this section.
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in the following prior appropriations acts:
+
+Pub. L. 103–138, title I, Nov. 11, 1993, 107 Stat. 1394.
+
+Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1392.
+
+Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1007.
+
+Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1932.
+
+Pub. L. 101–121, title I, Oct. 23, 1989, 103 Stat. 716.
+
+Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1797.
+
+Pub. L. 100–202, §101(g) \[title I\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–231.
+
+Pub. L. 99–500, §101(h) \[title I\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–258, and Pub. L. 99–591, §101(h) \[title I\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–258.
+
+Pub. L. 99–190, §101(d) \[title I\], Dec. 19, 1985, 99 Stat. 1224, 1238.
+
+Pub. L. 98–473, title I, §101(c) \[title I\], Oct. 12, 1984, 98 Stat. 1837, 1851.
+
+Pub. L. 98–146, title I, Nov. 4, 1983, 97 Stat. 931.
+
+Pub. L. 97–394, title I, Dec. 30, 1982, 96 Stat. 1979.
+
+Pub. L. 97–100, title I, Dec. 23, 1981, 95 Stat. 1402.
+
+Pub. L. 96–514, title I, Dec. 12, 1980, 94 Stat. 2969.
+
+Pub. L. 96–126, title I, Nov. 27, 1979, 93 Stat. 965.
+
+Pub. L. 95–465, title I, Oct. 17, 1978, 92 Stat. 1289.
+

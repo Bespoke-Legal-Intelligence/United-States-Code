@@ -1,0 +1,34 @@
+### §14109. Reports of promotion boards: in general
+
+(a)
+
+Report of Officers Recommended for Promotion.—Each promotion board convened under section 14101(a) of this title shall submit to the Secretary of the military department concerned a report in writing containing a list of the names of the officers recommended by the board for promotion. The report shall be signed by each member of the board.
+
+(b)
+
+Certification.—Each report under subsection (a) shall include a certification—
+
+&emsp;(1) that the board has carefully considered the record of each officer whose name was furnished to the board; and
+
+&emsp;(2) that, in the case of a promotion board convened under section 14101(a) of this title, in the opinion of a majority of the members of the board, the officers recommended for promotion by the board are best qualified for promotion to meet the needs of the armed force concerned (as noted in the guidelines or information furnished the board under section 14107 of this title) among those officers whose names were furnished to the selection board.
+
+(c)
+
+Show-Cause Recommendations.—(1) A promotion board convened under section 14101(a) of this title shall include in its report to the Secretary concerned the name of any reserve officer before it for consideration for promotion whose record, in the opinion of a majority of the members of the board, indicates that the officer should be required to show cause for retention in an active status.
+
+(2) If such a report names an officer as having a record which indicates that the officer should be required to show cause for retention, the Secretary concerned may provide for the review of the record of that officer as provided under regulations prescribed under section 14902 of this title.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2928.)
+
+#### Effective Date of Section
+
+<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
+
+#### Prior Provisions
+
+Provisions similar to those in subsecs. (a) and (b) of this section were contained in section 5897 of this title, prior to repeal by Pub. L. 103–337, §1629(b)(2).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 14107, 14108, 14110, 14502 of this title.
+

@@ -1,0 +1,86 @@
+### §242q–1. Membership
+
+#### (a) Composition
+
+The Task Force shall be composed of—
+
+&emsp;(1) the Assistant Secretary for Health;
+
+&emsp;(2) the Surgeon General of the Public Health Service;
+
+&emsp;(3) the Assistant Secretary for Planning and Evaluation;
+
+&emsp;(4) the Director of the National Institute on Aging, and the Directors of such other agencies of the National Institutes of Health as the Secretary determines to be appropriate;
+
+&emsp;(5) the Commissioner of the Administration on Aging;
+
+&emsp;(6) the Commissioner of Food and Drugs;
+
+&emsp;(7) the Under Secretary for Health of the Department of Veterans Affairs;
+
+&emsp;(8) the Administrator of the the <sup>1</sup> Substance Abuse and Mental Health Services Administration;
+
+&emsp;(9) the Administrator of the Health Care Financing Administration;
+
+&emsp;(10) the Commissioner of Social Security;
+
+&emsp;(11) the Administrator for Health Care Policy and Research;
+
+&emsp;(12) two Members of the House of Representatives appointed by the Speaker of the House in consultation with the Minority Leader, and two members of the Senate appointed by the Majority Leader in consultation with the Minority Leader, not more than one of whom from each body shall be members of the same political party; and
+
+&emsp;(13) three members of the general public, to be appointed by the Secretary, that shall include one representative each from—
+
+&emsp;&emsp;(A) a nonprofit group representing older Americans;
+
+&emsp;&emsp;(B) a private voluntary health organization concerned with the health problems affecting older Americans; and
+
+&emsp;&emsp;(C) a nonprofit organization concerned with research related to the health and independence of older Americans.
+
+#### (b) Chair
+
+The Secretary, acting through either the Assistant Secretary for Health or the Director of the National Institute on Aging, shall serve as the Chair of the Task Force.
+
+#### (c) Quorum
+
+A majority of the members of the Task Force shall constitute a quorum, and a lesser number may hold hearings.
+
+#### (d) Meetings
+
+The Task Force shall meet periodically at the call of the Chair, but in no event less than twice each year.
+
+#### (e) Compensation and expenses
+
+#### (1) Compensation
+
+&emsp;Members of the Task Force who are not regular full-time employees of the United States Government shall, while attending meetings and conferences of the Task Force or otherwise engaged in the business of the Task Force (including traveltime), be entitled to receive compensation at a rate fixed by the Secretary, but not exceeding the rate specified at the time of such service under GS–18 of the General Schedules established under section 5332 of title 5.
+
+#### (2) Expenses
+
+&emsp;While away from their homes or regular places of business on the business of the Task Force, members of such Task Force may be allowed travel expenses, including per diem in lieu of subsistence, as is authorized under section 5703 of title 5 for persons employed intermittently in the Government service.
+
+(Pub. L. 101–557, title III, §302, Nov. 15, 1990, 104 Stat. 2769; Pub. L. 102–321, title I, §161, July 10, 1992, 106 Stat. 375; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985.)
+
+#### Codification
+
+Section was enacted as part of the Home Health Care and Alzheimer's Disease Amendments of 1990, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Amendments
+
+1992—Subsec. (a)(7). Pub. L. 102–405 substituted “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”.
+
+Subsec. (a)(8). Pub. L. 102–321 substituted “Substance Abuse and Mental Health Services Administration” for “Alcohol, Drug Abuse and Mental Health Administration”.
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as a note under section 236 of this title.
+
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
+
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 242q–4, 242q–5 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
+

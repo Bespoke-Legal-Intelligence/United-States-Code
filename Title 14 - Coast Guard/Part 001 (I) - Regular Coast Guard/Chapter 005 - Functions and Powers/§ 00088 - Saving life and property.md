@@ -1,0 +1,52 @@
+### §88. Saving life and property
+
+(a) In order to render aid to distressed persons, vessels, and aircraft on and under the high seas and on and under the waters over which the United States has jurisdiction and in order to render aid to persons and property imperiled by flood, the Coast Guard may:
+
+&emsp;(1) perform any and all acts necessary to rescue and aid persons and protect and save property;
+
+&emsp;(2) take charge of and protect all property saved from marine or aircraft disasters, or floods, at which the Coast Guard is present, until such property is claimed by persons legally authorized to receive it or until otherwise disposed of in accordance with law or applicable regulations, and care for bodies of those who may have perished in such catastrophes;
+
+&emsp;(3) furnish clothing, food, lodging, medicines, and other necessary supplies and services to persons succored by the Coast Guard; and
+
+&emsp;(4) destroy or tow into port sunken or floating dangers to navigation.
+
+(b)(1) Subject to paragraph (2), the Coast Guard may render aid to persons and protectand save property at any time and at any place at which Coast Guard facilities and personnel are available and can be effectively utilized.
+
+(2) The Commandant shall make full use of all available and qualified resources, including the Coast Guard Auxiliary and individuals licensed by the Secretary pursuant to section 8904(b) of title 46, United States Code, in rendering aid under this subsection in nonemergency cases.
+
+(c) An individual who knowingly and willfully communicates a false distress message to the Coast Guard or causes the Coast Guard to attempt to save lives and property when no help is needed is—
+
+&emsp;(1) guilty of a class D felony;
+
+&emsp;(2) subject to a civil penalty of not more than $5,000; and
+
+&emsp;(3) liable for all costs the Coast Guard incurs as a result of the individual's action.
+
+(Aug. 4, 1949, ch. 393, 63 Stat. 501; June 12, 1970, Pub. L. 91–278, §1(3), 84 Stat. 304; Sept. 28, 1988, Pub. L. 100–448, §30(a), 102 Stat. 1849; Nov. 16, 1990, Pub. L. 101–595, title IV, §401, 104 Stat. 2989.)
+
+#### Historical and Revision Notes
+
+Derived from title 14, U.S.C., 1946 ed., §§29, 53, 55, 60, 61, 62, 63, 104, and title 34, U.S.C., 1946 ed., §471 (R.S. 1536, R.S. 2759; June 18, 1878, ch. 265, §4, 20 Stat. 163; Apr. 19, 1906, ch. 1640, §§1–3, 34 Stat. 123; May 12, 1906, ch. 2454, 34 Stat. 190; June 24, 1914, ch. 124, 38 Stat. 387; Aug. 29, 1916, ch. 417, 39 Stat. 601; Aug. 6, 1947, ch. 502, 61 Stat. 786).
+
+This section broadens existing law in that it authorizes the Coast Guard to engage in saving life and property in the broadest possible terms, without limitation as to place. This section reflects existing sentiment as to Coast Guard functions in relation to saving life and property. There is no intention to supersede or conflict with the present authority of the Civil Aeronautics Board to investigate certain aircraft wrecks. 81st Congress, House Report No. 557.
+
+#### Amendments
+
+1990—Subsec. (c). Pub. L. 101–595 added subsec. (c).
+
+1988—Subsec. (b). Pub. L. 100–448 designated existing provisions as par. (1), substituted “Subject to paragraph (2), the Coast Guard” for “The Coast Guard”, and added par. (2).
+
+1970—Subsec. (a). Pub. L. 91–278 substituted “on and under the high seas and on and under the waters” for “on the high seas and on waters” in introductory text.
+
+#### Helicopter Rescue Swimming Program
+
+Pub. L. 98–557, §9, Oct. 30, 1984, 98 Stat. 2862, provided that: “The Secretary of the department in which the Coast Guard is operating shall use such sums as are necessary, from amounts appropriated for the operation and maintenance of the Coast Guard, to establish a helicopter rescue swimming program for the purpose of training selected Coast Guard personnel in rescue swimming skills.”
+
+#### Coast Guard Policies and Procedures for Towing and Salvage of Disabled Vessels for Minimization of Coast Guard Competition or Interference with Commercial Enterprise
+
+Pub. L. 97–322, title I, §113, Oct. 15, 1982, 96 Stat. 1585, as amended by Pub. L. 100–448, §30(b), Sept. 28, 1988, 102 Stat. 1850, provided that: “The Commandant of the Coast Guard shall review Coast Guard policies and procedures for towing and salvage of disabled vessels in order to further minimize the possibility of Coast Guard competition or interference (other than by the Coast Guard Auxiliary) with private towing activities or other commercial enterprise.”
+
+#### Cross References
+
+Clothing for destitute shipwrecked persons, see section 486 of this title.
+

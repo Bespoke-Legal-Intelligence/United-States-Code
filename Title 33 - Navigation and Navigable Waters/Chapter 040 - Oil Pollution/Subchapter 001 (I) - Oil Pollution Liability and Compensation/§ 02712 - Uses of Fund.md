@@ -1,0 +1,134 @@
+### §2712. Uses of Fund
+
+#### (a) Uses generally
+
+The Fund shall be available to the President for—
+
+&emsp;(1) the payment of removal costs, including the costs of monitoring removal actions, determined by the President to be consistent with the National Contingency Plan—
+
+&emsp;&emsp;(A) by Federal authorities; or
+
+&emsp;&emsp;(B) by a Governor or designated State official under subsection (d) of this section;
+
+&emsp;(2) the payment of costs incurred by Federal, State, or Indian tribe trustees in carrying out their functions under section 2706 of this title for assessing natural resource damages and for developing and implementing plans for the restoration, rehabilitation, replacement, or acquisition of the equivalent of damaged resources determined by the President to be consistent with the National Contingency Plan;
+
+&emsp;(3) the payment of removal costs determined by the President to be consistent with the National Contingency Plan as a result of, and damages resulting from, a discharge, or a substantial threat of a discharge, of oil from a foreign offshore unit;
+
+&emsp;(4) the payment of claims in accordance with section 2713 of this title for uncompensated removal costs determined by the President to be consistent with the National Contingency Plan or uncompensated damages;
+
+&emsp;(5) the payment of Federal administrative, operational, and personnel costs and expenses reasonably necessary for and incidental to the implementation, administration, and enforcement of this Act (including, but not limited to, sections 1004(d)(2), 1006(e), 4107, 4110, 4111, 4112, 4117, 5006, 8103, and title VII) and subsections (b), (c), (d), (j), and (<i>l</i>) of section 1321 of this title with respect to prevention, removal, and enforcement related to oil discharges, provided that—
+
+&emsp;&emsp;(A) not more than $25,000,000 in each fiscal year shall be available to the Secretary for operating expenses incurred by the Coast Guard;
+
+&emsp;&emsp;(B) not more than $30,000,000 each year through the end of fiscal year 1992 shall be available to establish the National Response System under section 1321(j) of this title, including the purchase and prepositioning of oil spill removal equipment; and
+
+&emsp;&emsp;(C) not more than $27,250,000 in each fiscal year shall be available to carry out subchapter IV of this chapter.
+
+#### (b) Defense to liability for Fund
+
+The Fund shall not be available to pay any claim for removal costs or damages to a particular claimant, to the extent that the incident, removal costs, or damages are caused by the gross negligence or willful misconduct of that claimant.
+
+#### (c) Obligation of Fund by Federal officials
+
+The President may promulgate regulations designating one or more Federal officials who may obligate money in accordance with subsection (a) of this section.
+
+#### (d) Access to Fund by State officials
+
+#### (1) Immediate removal
+
+&emsp;In accordance with regulations promulgated under this section, the President, upon the request of the Governor of a State or pursuant to an agreement with a State under paragraph (2), may obligate the Fund for payment in an amount not to exceed $250,000 for removal costs consistent with the National Contingency Plan required for the immediate removal of a discharge, or the mitigation or prevention of a substantial threat of a discharge, of oil.
+
+#### (2) Agreements
+
+#### (A) In general
+
+&emsp;&emsp;The President shall enter into an agreement with the Governor of any interested State to establish procedures under which the Governor or a designated State official may receive payments from the Fund for removal costs pursuant to paragraph (1).
+
+#### (B) Terms
+
+&emsp;&emsp;Agreements under this paragraph—
+
+&emsp;&emsp;&emsp;(i) may include such terms and conditions as may be agreed upon by the President and the Governor of a State;
+
+&emsp;&emsp;&emsp;(ii) shall provide for political subdivisions of the State to receive payments for reasonable removal costs; and
+
+&emsp;&emsp;&emsp;(iii) may authorize advance payments from the Fund to facilitate removal efforts.
+
+#### (e) Regulations
+
+The President shall—
+
+&emsp;(1) not later than 6 months after August 18, 1990, publish proposed regulations detailing the manner in which the authority to obligate the Fund and to enter into agreements under this subsection shall be exercised; and
+
+&emsp;(2) not later than 3 months after the close of the comment period for such proposed regulations, promulgate final regulations for that purpose.
+
+#### (f) Rights of subrogation
+
+Payment of any claim or obligation by the Fund under this Act shall be subject to the United States Government acquiring by subrogation all rights of the claimant or State to recover from the responsible party.
+
+#### (g) Audits
+
+The Comptroller General shall audit all payments, obligations, reimbursements, and other uses of the Fund, to assure that the Fund is being properly administered and that claims are being appropriately and expeditiously considered. The Comptroller General shall submit to the Congress an interim report one year after August 18, 1990. The Comptroller General shall thereafter audit the Fund as is appropriate. Each Federal agency shall cooperate with the Comptroller General in carrying out this subsection.
+
+#### (h) Period of limitations for claims
+
+#### (1) Removal costs
+
+&emsp;No claim may be presented under this subchapter for recovery of removal costs for an incident unless the claim is presented within 6 years after the date of completion of all removal actions for that incident.
+
+#### (2) Damages
+
+&emsp;No claim may be presented under this section for recovery of damages unless the claim is presented within 3 years after the date on which the injury and its connection with the discharge in question were reasonably discoverable with the exercise of due care, or in the case of natural resource damages under section 2702(b)(2)(A) of this title, if later, the date of completion of the natural resources damage assessment under section 2706(e) of this title.
+
+#### (3) Minors and incompetents
+
+&emsp;The time limitations contained in this subsection shall not begin to run—
+
+&emsp;&emsp;(A) against a minor until the earlier of the date when such minor reaches 18 years of age or the date on which a legal representative is duly appointed for the minor, or
+
+&emsp;&emsp;(B) against an incompetent person until the earlier of the date on which such incompetent's incompetency ends or the date on which a legal representative is duly appointed for the incompetent.
+
+#### (i) Limitation on payment for same costs
+
+In any case in which the President has paid an amount from the Fund for any removal costs or damages specified under subsection (a) of this section, no other claim may be paid from the Fund for the same removal costs or damages.
+
+#### (j) Obligation in accordance with plan
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), amounts may be obligated from the Fund for the restoration, rehabilitation, replacement, or acquisition of natural resources only in accordance with a plan adopted under section 2706(c) of this title.
+
+#### (2) Exception
+
+&emsp;Paragraph (1) shall not apply in a situation requiring action to avoid irreversible loss of natural resources or to prevent or reduce any continuing danger to natural resources or similar need for emergency action.
+
+#### (k) Preference for private persons in area affected by discharge
+
+#### (1) In general
+
+&emsp;In the expenditure of Federal funds for removal of oil, including for distribution of supplies, construction, and other reasonable and appropriate activities, under a contract or agreement with a private person, preference shall be given, to the extent feasible and practicable, to private persons residing or doing business primarily in the area affected by the discharge of oil.
+
+#### (2) Limitation
+
+&emsp;This subsection shall not be considered to restrict the use of Department of Defense resources.
+
+(Pub. L. 101–380, title I, §1012, Aug. 18, 1990, 104 Stat. 498.)
+
+#### References in Text
+
+This Act, referred to in subsecs. (a)(5) and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. Sections 1004(d)(2) and 1006(e) are classified to sections 2704(d)(2) and 2706(e), respectively, of this title. Section 4107 amended section 1223 of this title and enacted provisions set out as a note under section 1223 of this title. Sections 4110 and 4111 enacted provisions set out as notes under section 3703 of Title 46, Shipping. Section 4112 is not classified to the Code. Section 4117 enacted provisions set out as a note under section 1295 of Title 46, Appendix. Section 5006 is classified to section 2736 of this title. Section 8103 enacted provisions set out as a note under section 1651 of Title 43, Public Lands. Title VII is classified to subchapter IV of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+
+#### Delegation of Functions
+
+Functions of President under subsecs. (a)(1), (3), (4), (d), and (e) of this section delegated to Secretary of Department in which Coast Guard is operating by section 7(a)(1)(A), (c)(1), (3) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54766, 54767, set out as a note under section 1321 of this title.
+
+Functions of President under subsec. (a)(2) of this section delegated to Federal trustees designated in National Contingency Plan by section 7(a)(2) of Ex. Ord. No. 12777.
+
+Functions of President under subsecs. (a)(5) and (c) of this section delegated to each head of departments and agencies having responsibility for implementation, administration, and enforcement of the Oil Pollution Act of 1990 (Pub. L. 101–380, see Tables for classification) and section 1321(b), (c), (d), (j), (<i>l</i>) of this title by section 7(a)(3), (b) of Ex. Ord. No. 12777.
+
+Memorandum of the President of the United States, Aug. 24, 1990, 55 F.R. 35291, which delegated to the Secretary of the Department in which the Coast Guard is operating authority to make available from the Oil Spill Liability Trust Fund not to exceed $50,000,000 in any fiscal year to remove discharged oil or hazardous substances from navigable waters, was revoked by Ex. Ord. No. 12777, §8(i), Oct. 18, 1991, 56 F.R. 54769, set out as a note under section 1321 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2713, 2752 of this title; title 26 section 9509.
+

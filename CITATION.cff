@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below, with the edition (commit or tag edition-YYYY) you relied on. The United States Code text is a work of the United States Government and is not claimed: see NOTICE.md."
+title: "United States Code"
+abstract: "The United States Code as a git history: every title, chapter and section of GPO's annual editions from 1994 to 2024 (laws in effect as of 4 January 1995 to 6 January 2025), one file per section, one commit per edition, with each edition's printed page numbers. Unofficial. Not legal advice."
+authors:
+  - family-names: Pearlman
+    given-names: Joshua
+type: dataset
+repository-code: "https://github.com/Bespoke-Legal-Intelligence/United-States-Code"
+keywords: [united-states-code, us-code, law, statutes, legislation, open-data, git-history]

@@ -1,0 +1,22 @@
+### §441. Assignment of entries generally
+
+From and after the filing with the Secretary of the Interior or such officer as he may designate of satisfactory proof of residence, improvement, and cultivation for the five years required by law, persons who have, or shall make, homestead entries within reclamation projects under the provisions of the Act of June 17, 1902, may assign such entries, or any part thereof, to other persons, and such assignees, upon submitting proof of the reclamation of the lands and upon payment of the charges apportioned against the same as provided in the said Act of June 17, 1902, may receive from the United States a patent for the lands: <i>Provided</i>, That all assignments made under the provisions of this section shall be subject to the limitations, charges, terms, and conditions of the reclamation Act.
+
+(June 23, 1910, ch. 357, 36 Stat. 592; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
+
+#### References in Text
+
+Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
+
+#### Transfer of Functions
+
+“Secretary of the Interior or such officer as he may designate” substituted in text for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946, set out as a note under section 1 of this title.
+
+#### Cross References
+
+Application of this section to Flathead irrigation project in Montana, see section 593 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 442, 455b, 593, 626 of this title.
+

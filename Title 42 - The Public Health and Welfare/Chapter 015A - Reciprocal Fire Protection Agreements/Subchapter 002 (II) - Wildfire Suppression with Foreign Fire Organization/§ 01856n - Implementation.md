@@ -1,0 +1,40 @@
+### §1856n. Implementation
+
+#### (a) Reciprocal agreement; waiver of claims; termination of agreement; reimbursement
+
+(1) The Secretary of Agriculture or the Secretary of the Interior, in consultation with the Secretary of State, may enter into a reciprocal agreement with any foreign fire organization for mutual aid in furnishing wildfire protection resources for lands and other properties for which such Secretary or organization normally provides wildfire protection.
+
+(2) Any agreement entered into under this subsection—
+
+&emsp;(A) shall include a waiver by each party to the agreement of all claims against everyother party to the agreement for compensation for any loss, damage, personal injury, or death occurring in consequence of the performance of such agreement;
+
+&emsp;(B) shall include a provision to allow the termination of such agreement by any party thereto after reasonable notice; and
+
+&emsp;(C) may provide for the reimbursement of any party thereto for all or any part of the costs incurred by such party in furnishing wildfire protection resources for, or on behalf of, any other party thereto.
+
+#### (b) Emergency wildfire protection resources; furnishing or accepting in absence of agreement
+
+In the absence of any agreement authorized under subsection (a) of this section, the Secretary of Agriculture or the Secretary of the Interior may—
+
+&emsp;(1) furnish emergency wildfire protection resources to any foreign nation when the furnishing of such resources is determined by such Secretary to be in the best interest of the United States, and
+
+&emsp;(2) accept emergency wildfire protection resources from any foreign fire organization when the acceptance of such resources is determined by such Secretary to be in the best interest of the United States.
+
+#### (c) Reimbursement of Canada
+
+Notwithstanding the preceding provisions of this section, reimbursement may be provided for the costs incurred by the Government of Canada or a Canadian organization in furnishing wildfire protection resources to the Government of the United States under—
+
+&emsp;(1) the memorandum entitled “Memorandum of Understanding Between the United States Department of Agriculture and Environment Canada on Cooperation in the Field of Forestry-Related Programs” dated June 25, 1982; and
+
+&emsp;(2) the arrangement entitled “Arrangement in the Form of an Exchange of Notes Between the Government of Canada and the Government of the United States of America” dated May 4, 1982.
+
+#### (d) Service in line of duty
+
+Any service performed by any employee of the United States under an agreement or otherwise under this subchapter shall constitute service rendered in the line of duty in such employment. The performance of such service by any other individual shall not make such individual an employee of the United States.
+
+(Pub. L. 100–428, §3, Sept. 9, 1988, 102 Stat. 1615.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1856<i>o</i>, 1856p of this title.
+

@@ -1,0 +1,22 @@
+### §949. Use for canal or ditch only
+
+Nothing in sections 946 to 949 of this title shall authorize such canal or ditch company to occupy such right of way except for the purpose of said canal or ditch, and then only so far as may be necessary for the construction, maintenance, and care of said canal or ditch.
+
+(Mar. 3, 1891, ch. 561, §21, 26 Stat. 1102.)
+
+#### Repeal of Section
+
+<i>Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.</i>
+
+#### Savings Provision
+
+Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
+
+#### Cross References
+
+Right-of-way of canal company may be used for purposes of a public nature, such as water transportation, domestic purposes, or for development of power, see section 951 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 421c, 664, 947, 948, 950, 951 of this title.
+

@@ -1,0 +1,22 @@
+### §9532 . Factories, arsenals, and depots: manufacture at
+
+The Secretary of the Air Force may have supplies needed for the Department of the Air Force made in factories, arsenals, or depots owned by the United States, so far as those factories, arsenals, or depots can make those supplies on an economical basis.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 576.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+9532
+
+5:626–2(e).
+
+Sept. 19, 1951, ch. 407, §101(e), 65 Stat. 327.
+
+The word “made” is substituted for the words “manufactured or produced”. The words “United States” are substituted for the word “Government”.
+

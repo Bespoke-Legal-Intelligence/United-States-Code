@@ -1,0 +1,142 @@
+### §12301. Reserve components generally
+
+(a) In time of war or of national emergency declared by Congress, or when otherwise authorized by law, an authority designated by the Secretary concerned may, without the consent of the persons affected, order any unit, and any member not assigned to a unit organized to serve as a unit, of a reserve component under the jurisdiction of that Secretary to active duty (other than for training) for the duration of the war or emergency and for six months thereafter. However a member on an inactive status list or in a retired status may not be ordered to active duty under this subsection unless the Secretary concerned, with the approval of the Secretary of Defense in the case of the Secretary of a military department, determines that there are not enough qualified Reserves in an active status or in the inactive National Guard in the required category who are readily available.
+
+(b) At any time, an authority designated by the Secretary concerned may, without the consent of the persons affected, order any unit, and any member not assigned to a unit organized to serve as a unit, in an active status in a reserve component under the jurisdiction of that Secretary to active duty for not more than 15 days a year. However, units and members of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor of the State (or, in the case of the District of Columbia National Guard, the commanding general of the District of Columbia National Guard).
+
+(c) So far as practicable, during any expansion of the active armed forces that requires that units and members of the reserve components be ordered to active duty (other than for training), members of units organized and trained to serve as units who are ordered to that duty without their consent shall be so ordered with their units. However, members of those units may be reassigned after being ordered to active duty (other than for training).
+
+(d) At any time, an authority designated by the Secretary concerned may order a member of a reserve component under his jurisdiction to active duty, or retain him on active duty, with the consent of that member. However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor or other appropriate authority of the State concerned.
+
+(e) The period of time allowed between the date when a Reserve ordered to active duty (other than for training) is alerted for that duty and the date when the Reserve is required to enter upon that duty shall be determined by the Secretary concerned based upon military requirements at that time.
+
+(f) The consent of a Governor described in subsections (b) and (d) may not be withheld (in whole or in part) with regard to active duty outside the United States, its territories, and its possessions, because of any objection to the location, purpose, type, or schedule of such active duty.
+
+(g)(1) A member of a reserve component may be ordered to active duty without his consent if the Secretary concerned determines that the member is in a captive status. A member ordered to active duty under this section may not be retained on active duty, without his consent, for more than 30 days after his captive status is terminated.
+
+(2) The Secretary of Defense shall prescribe regulations to carry out this section. Such regulations shall apply uniformly among the armed forces under the jurisdiction of the Secretary. A determination for the purposes of this subsection that a member is in a captive status shall be made pursuant to such regulations.
+
+(3) In this section, the term “captive status” means the status of a member of the armed forces who is in a missing status (as defined in section 551(2) of title 37) which occurs as the result of a hostile action and is related to the member's military status.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 27, §672; Sept. 2, 1958, Pub. L. 85–861, §§1(13), 33(a)(5), 72 Stat. 1440, 1564; Sept. 24, 1980, Pub. L. 96–357, §6, 94 Stat. 1182; Dec. 23, 1980, Pub. L. 96–584, §1, 94 Stat. 3377; Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title IX, §9122\], 100 Stat. 1783–82, 1783–127, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title IX, §9122\], 100 Stat. 3341–82, 3341–127; Nov. 14, 1986, Pub. L. 99–661, div. A, title V, §§522, 524(a), 100 Stat. 3871; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(a)(1), (2), 102 Stat. 2059; renumbered §12301 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(1), 108 Stat. 2992, 3017.)
+
+Historical and Revision Notes<br>1956
+
+Act
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+672(a)
+
+672(b)
+
+672(c)
+
+672(d)
+
+50:961(a).
+
+50:961(c).
+
+50:961(g).
+
+50:961(d).
+
+50:962 (1st sentence).
+
+July 9, 1952, ch. 608, §§233 (less (b) and (f)), 234 (1st sentence), 66 Stat. 489, 490.
+
+672(e)
+
+50:961(e).
+
+In subsection (a), the word “hereafter” is omitted as surplusage. The words “there are not enough \* \* \* who are” are substituted for the words “adequate numbers of \* \* \* are not”. The words “without the consent of the persons affected” and “under the jurisdiction of that Secretary” are inserted for clarity. The words “and the members thereof” are omitted as surplusage.
+
+In subsection (b), the words “without the consent of the persons affected” are substituted for the words “without his consent”, since units as well as individuals are covered by the revised subsection. The words “and the members thereof”, “and required to perform”, “or required to serve on”, and “in the service of the United States” are omitted as surplusage.
+
+In subsections (b) and (d), the words “active duty for training” are omitted as covered by the words “active duty”.
+
+In subsection (c), the words “to active duty” are substituted for the words “into the active military service of the United States”, in 50:961(g) (1st and last sentences). The words “to serve” are substituted for the words “for the purpose of serving”. The words “without their consent” are substituted for the word “involuntarily”. The words “to that duty” are substituted for the words “into active duty”. The last sentence of the revised subsection is substituted for 50:961(g) (last sentence).
+
+In subsection (d), the words “the consent of that member” are substituted for the words “his consent”. The words “under his jurisdiction” are inserted for clarity. 50:962 (last 15 words of 1st sentence) is omitted as covered by 50:961(d).
+
+In subsection (e), the words “to active duty (other than for training)” are substituted for the words “into the active military service of the United States”. The words “period of” are omitted as surplusage. The word “requirements” is substituted for the word “condition” for clarity.
+
+1958
+
+Act
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+672(a)
+
+50:961(a).
+
+Aug. 9, 1955, ch. 665, §2(e), 69 Stat. 599.
+
+The word “hereafter” is omitted as surplusage. The words “there are not enough . . . who are” are substituted for the words “adequate numbers of . . . are not”. The words “without the consent of the persons affected” and “under the jurisdiction of that Secretary” are inserted for clarity.
+
+The changes are necessary to reflect section 101(b) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 901(b)), which defines the term “active duty” to exclude active duty for training. This definition applied to the source law for these sections \[sections 672 and 673\], section 233(a), (b)(1), and (c) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 961(a), (b)(1), (c)).
+
+#### Codification
+
+Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+
+#### Amendments
+
+1994—Pub. L. 103–337, §1662(e)(2), renumbered section 672 of this title as this section.
+
+Subsec. (b). Pub. L. 103–337, §1675(c)(1)(A), substituted “(or, in the case of the District of Columbia National Guard, the commanding general of the District of Columbia National Guard)” for “or Territory or Puerto Rico or the commanding general of the District of Columbia National Guard, as the case may be”.
+
+Subsec. (d). Pub. L. 103–337, §1675(c)(1)(B), struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is” after “authority of the State”.
+
+1988—Subsec. (b). Pub. L. 100–456, §1234(a)(2), substituted “or Puerto Rico” for “, Puerto Rico, or the Canal Zone,”.
+
+Subsec. (d). Pub. L. 100–456, §1234(a)(1), struck out “the Canal Zone,” after “Puerto Rico,”.
+
+1986—Subsec. (f). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§9122\], Pub. L. 99–661, §522, amended section identically adding subsec. (f).
+
+Subsec. (g). Pub. L. 99–661, §524(a), added subsec. (g).
+
+1980—Subsec. (a). Pub. L. 96–357 struck out cl. (1) designation for second sentence and cl. (2) prohibition against ordering a member of the Standby Reserve to active duty unless the Director of Selective Service determined that the member was available for active duty.
+
+Subsec. (e). Pub. L. 96–584 substituted provisions respecting determination of the allowable time in terms of military requirements for provisions authorizing a reasonable time.
+
+1958—Subsec. (a). Pub. L. 85–861, §§1(13), 33(a)(5), inserted “(other than for training)” after “active duty”, substituted “inactive National Guard” for “inactive Army National Guard or in the inactive Air National Guard”, and inserted provisions prohibiting a member of the Standby Reserve from being ordered to active duty under this subsection unless the Director of Selective Service determines that the member is available for active duty.
+
+Subsec. (c). Pub. L. 85–861, §33(a)(5), inserted “(other than for training)” after “active duty”.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Section 524(b) of Pub. L. 99–661 provided that: “Section 672(g) \[now 12301(g)\] of title 10, United States Code, as added by subsection (a), does not authorize a member of a reserve component to be ordered to active duty for a period before the date of the enactment of this Act \[Nov. 14, 1986\].”
+
+#### Effective Date of 1958 Amendment
+
+Amendment by section 33(a)(5) of Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
+
+#### Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661
+
+For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, §6, Apr. 21, 1987, 101 Stat. 274, set out as a note under section 2302 of this title.
+
+#### Cross References
+
+Ready Reserve, composition and authorized strength of, see section 10142 of this title.
+
+Standby Reserve, composition of, see section 10151 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 101, 523, 582, 641, 672, 10142, 10151, 10215, 12305, 12306, 12307, 12310, 16131, 16133 of this title; title 38 sections 3011, 3013, 3231, 3511, 4211; title 50 App. section 592.
+

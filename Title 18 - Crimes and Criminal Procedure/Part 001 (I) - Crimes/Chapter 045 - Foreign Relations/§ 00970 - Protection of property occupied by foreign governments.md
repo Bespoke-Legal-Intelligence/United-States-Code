@@ -1,0 +1,42 @@
+### §970. Protection of property occupied by foreign governments
+
+(a) Whoever willfully injures, damages, or destroys, or attempts to injure, damage, or destroy, any property, real or personal, located within the United States and belonging to or utilized or occupied by any foreign government or international organization, by a foreign official or official guest, shall be fined under this title, or imprisoned not more than five years, or both.
+
+(b) Whoever, willfully with intent to intimidate, coerce, threaten, or harass—
+
+&emsp;(1) forcibly thrusts any part of himself or any object within or upon that portion of any building or premises located within the United States, which portion is used or occupied for official business or for diplomatic, consular, or residential purposes by—
+
+&emsp;&emsp;(A) a foreign government, including such use as a mission to an international organization;
+
+&emsp;&emsp;(B) an international organization;
+
+&emsp;&emsp;(C) a foreign official; or
+
+&emsp;&emsp;(D) an official guest; or
+
+&emsp;(2) refuses to depart from such portion of such building or premises after a request—
+
+&emsp;&emsp;(A) by an employee of a foreign government or of an international organization, if such employee is authorized to make such request by the senior official of the unit of such government or organization which occupies such portion of such building or premises;
+
+&emsp;&emsp;(B) by a foreign official or any member of the foreign official's staff who is authorized by the foreign official to make such request;
+
+&emsp;&emsp;(C) by an official guest or any member of the official guest's staff who is authorized by the official guest to make such request; or
+
+&emsp;&emsp;(D) by any person present having law enforcement powers;
+
+> shall be fined not more than $500 or imprisoned not more than six months, or both.
+
+(c) For the purpose of this section “foreign government”, “foreign official”, “international organization”, and “official guest” shall have the same meanings as those provided in section 1116(b) of this title.
+
+(Added Pub. L. 92–539, title IV, §401, Oct. 24, 1972, 86 Stat. 1073; amended Pub. L. 94–467, §7, Oct. 8, 1976, 90 Stat. 2000; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+
+1976—Subsecs. (b), (c). Pub. L. 94–467 added subsec. (b), redesignated former subsec. (b) as (c), and struck out reference to section 1116(c) of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 22 section 2709.
+

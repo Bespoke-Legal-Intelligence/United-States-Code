@@ -1,0 +1,36 @@
+### §22. Organization certificate
+
+The persons uniting to form such an association shall, under their hands, make an organization certificate, which shall specifically state:
+
+First. The name assumed by such association; which name shall include the word “national”.
+
+Second. The place where its operations of discount and deposit are to be carried on, designating the State, Territory, or District, and the particular county and city, town, or village.
+
+Third. The amount of capital stock and the number of shares into which the same is to be divided.
+
+Fourth. The names and places of residence of the shareholders and the number of shares held by each of them.
+
+Fifth. The fact that the certificate is made to enable such persons to avail themselves of the advantages of title 62 of the Revised Statutes.
+
+(R.S. §5134; Pub. L. 86–230, §25, Sept. 8, 1959, 73 Stat. 466; Pub. L. 97–320, title IV, §405(b), Oct. 15, 1982, 96 Stat. 1512.)
+
+#### References in Text
+
+Title 62 of the Revised Statutes, referred to in par. Fifth, was in the original “this Title” meaning title 62 of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to sections 21, 22 to 24, 25a, 26 to 29, 35 to 37, 39, 43, 51, 52, 53, 56, 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 101a, 102, 104, 107 to 110, 123, 124, 131 to 138, 141 to 144, 151, 152, 161, 164, 168 to 175, 181 to 186, 192 to 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
+
+#### Codification
+
+R.S. §5134 derived from act June 3, 1864, ch. 106, §6, 13 Stat. 101, which was the National Bank Act. See section 38 of this title.
+
+#### Amendments
+
+1982—Par. First. Pub. L. 97–320 struck out “and be subject to the approval of the Comptroller of the Currency” after “national”.
+
+1959—Par. First. Pub. L. 86–230 substituted “which named shall include the word ‘national’ and be” for “which name shall be”.
+
+#### Cross References
+
+Business, transaction in place specified in organization certificate, see section 81 of this title.
+
+Change of name or location, see section 30 of this title.
+

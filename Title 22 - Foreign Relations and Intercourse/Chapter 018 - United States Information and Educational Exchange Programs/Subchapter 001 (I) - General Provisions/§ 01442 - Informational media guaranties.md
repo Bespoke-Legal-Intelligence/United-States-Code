@@ -1,0 +1,68 @@
+### §1442. Informational media guaranties
+
+#### (a) Authorization to make
+
+The Director of the United States Information Agency may make guaranties, in accordance with the provisions of subsection (b) of section 1933 <sup>1</sup> of this title, of investments in enterprises producing or distributing informational media consistent with the national interests of the United States: <i>Provided</i>, That the purpose of making informational media guaranties shall be the achievement of the foreign policy objectives of the United States, including the objective mentioned in sections 1933(b)(4)(A) <sup>1</sup> and 1933(b)(4)(G) <sup>1</sup> of this title.
+
+#### (b) Assumption of notes issued pursuant to section 1509(c)(2) of this title; advances
+
+The Director is authorized to assume the obligation of not to exceed $28,000,000 of the notes authorized to be issued pursuant to section 1509(c)(2) <sup>1</sup> of this title, together with the interest accrued and unpaid thereon, and to obtain advances from time to time from the Secretary of the Treasury up to such amount, less amounts previously advanced on such notes, as provided for in said notes. Such advances shall be deposited in a special account in the Treasury available for payments under informational media guaranties.
+
+#### (c) Limitations of time; total of guaranties outstanding
+
+The Director is authorized to make informational media guaranties without regard to the limitations of time contained in section 1933(b)(4) <sup>1</sup> of this title, but the total of such guaranties outstanding at any one time shall not exceed the sum of the face amount of the notes assumed by the Director less the amounts previously advanced on such notes by the Secretary of the Treasury plus the amount of the funds in the special account referred to in subsection (b) of this section.
+
+#### (d) Sale of foreign currencies; special account; availability
+
+Foreign currencies available after June 30, 1955, from conversions made pursuant to the obligation of informational media guaranties may be sold, in accordance with Treasury Department regulations, for dollars which shall be deposited in the special account and shall be available for payments under new guaranties. Such currencies shall be available, as may be provided for by the Congress in appropriation Acts, for use for educational, scientific, and cultural purposes which are in the national interest of the United States, and for such other purposes of mutual interest as may be agreed to by the governments of the United States and the country from which the currencies derive.
+
+#### (e) Deposit of fees; availability
+
+Notwithstanding the provisions of section 1933(b)(4)(E) <sup>1</sup> of this title, (1) fees collected forthe issuance of informational media guaranties shall be deposited in the special account and shall be available for payments under informational media guaranties; and (2) the Director may require the payment of a minimum charge of up to fifty dollars for issuance of guaranty contracts, or amendments thereto.
+
+#### (f) Advance payments
+
+The Director is further authorized, under such terms as he may prescribe, to make advance payments under informational media guaranties: <i>Provided</i>, That currencies receivable from holders of such guaranties on account of such advance payments shall be paid to the United States within nine months from the date of the advance payment and that appropriate security to assure such payments is required before any advance payment is made.
+
+#### (g) Separate accounts; transfers
+
+As soon as feasible after July 18, 1956, all assets, liabilities, income, expenses, and charges of whatever kind pertaining to informational media guaranties, including any charges against the authority to issue notes provided in section 1509(c)(2) <sup>1</sup> of this title, cumulative from April 3, 1948, shall be accounted for separately from other guaranties issued pursuant to section 1933(b) <sup>1</sup> of this title: <i>Provided</i>, That there shall be transferred from the special account established pursuant to subsection (b) of this section, into the account available for payments under guaranties other than the informational media guaranties, an amount equal to the total of the fees received for the issuance of guaranties other than informational media guaranties, and used to make payments under informational media guaranties.
+
+#### (h) Appropriations for restoration of realized impairment to capital; liquidation of notes
+
+(1) There is authorized to be appropriated annually an amount to restore in whole or in part any realized impairment to the capital used in carrying on the authority to make informational media guaranties, as provided in subsection (c) of this section, through the end of the last completed fiscal year.
+
+(2) Such impairment shall consist of the amount by which the losses incurred and interest accrued on notes exceed the revenue earned and any previous appropriations made for the restoration of impairment. Losses shall include the dollar losses on foreign currencies sold, and the dollar cost of foreign currencies which (a) the Secretary of the Treasury, after consultation with the Director, has determined to be unavailable for, or in excess of, requirements of the United States, or (b) have been transferred to other accounts without reimbursement to the special account.
+
+(3) Dollars appropriated pursuant to this section shall be applied to the payment of interest and in satisfaction of notes issued or assumed hereunder, and to the extent of such application to the principal of the notes, the Director is authorized to issue notes to the Secretary of the Treasury which will bear interest at a rate to be determined by the Secretary of the Treasury, taking into consideration the current average market yields of outstanding marketable obligations of the United States having maturities comparable to the guaranties. The currencies determined to be unavailable for, or in excess of, requirements of the United States as provided above shall be transferred to the Secretary of the Treasury to be held until disposed of, and any dollar proceeds realized from such disposition shall be deposited in miscellaneous receipts.
+
+(4) Section 1476(a) of this title shall not apply with respect to any amounts appropriated under this section for the purpose of liquidating the notes (and any accrued interest thereon) which were assumed in the operation of the informational media guaranty program under this section and which were outstanding on August 24, 1982.
+
+(Jan. 27, 1948, ch. 36, title X, §1011, as added Aug. 26, 1954, ch. 937, title V, §544(a), 68 Stat. 862; amended Aug. 26, 1954, ch. 937, title V, §544(g), as added July 18, 1956, ch. 627, §11(a), 70 Stat. 563, and amended Aug. 14, 1957, Pub. L. 85–141, §11(b)(1), 71 Stat. 365; June 30, 1958, Pub. L. 85–477, ch. V, §502(i), 72 Stat. 274; July 24, 1959, Pub. L. 86–108, ch. VII, §701(c), 73 Stat. 257; 1977 Reorg. Plan No. 2, §7(a)(1), 42 F.R. 62461, 91 Stat. 1637; Aug. 24, 1982, Pub. L. 97–241, title III, §§303(b), 304(f), 96 Stat. 291, 293.)
+
+#### References in Text
+
+Section 1933 of this title, referred to in subsecs. (a), (c), (e), and (g), was repealed by Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460. See section 2351 of this title.
+
+Section 1509 of this title, referred to in subsecs. (b) and (g), was repealed by act Aug. 26, 1954, ch. 937, title V, §542(a)(4), (6), (9), (10), (11), 68 Stat. 861. See section 1754 et seq. of this title.
+
+#### Amendments
+
+1982—Subsec. (h)(4). Pub. L. 97–241, §304(f), added par. (4).
+
+1959—Subsec. (a). Pub. L. 86–108 provided that the purpose of making informational media guaranties shall be the achievement of the foreign policy objectives of the United States, including the objective mentioned in former sections 1933(b)(4)(A) and 1933(b)(4)(G) of this title, now covered by section 2351 of this title.
+
+1958—Subsec. (h). Pub. L. 85–477 added subsec. (h).
+
+1956—Subsec. (a). Act Aug. 26, 1954, §544(g), as added by act July 18, 1956, designated as subsec. (a) the entire former section and amended it to eliminate provisions which permitted the Director to make guaranties against funds made available by notes issued pursuant to section 1509(c)(2) of this title and which limited the amount of such guaranties in any fiscal year to not more than $10,000,000. Such provisions were covered by subsecs. (b) to (g) of this section.
+
+Subsecs. (b) to (g). Act Aug. 26, 1954, §544(g), as added by act July 18, 1956, added subsecs (b) to (g).
+
+#### Repeals
+
+Section 544(a), (g) of act Aug. 26, 1954, cited as a credit to this section, was repealed by section 11(b)(1) of Pub. L. 85–141, except in so far as section 544(a), (g) affected this section.
+
+#### Transfer of Functions
+
+“Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (a), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title. Previously, “Director of the International Communication Agency” substituted for “Director of the United States Information Agency”, pursuant to Reorg. Plan No. 2 of 1977, §7(a)(1), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency, and Director thereof, under this chapter, to Director of International Communication Agency except to extent that such functions were vested in President under sections 1452, 1456, and 1467 of this title.
+

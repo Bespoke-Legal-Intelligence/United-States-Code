@@ -1,0 +1,30 @@
+### §703. Allotments: members of Coast Guard
+
+Members of the Coast Guard may, under regulations prescribed by the Secretary of Transportation, make allotments from their pay and allowances.
+
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 484; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+703
+
+14:464.
+
+\[None.\]
+
+The words “members of the Coast Guard” are substituted for the words “officers and enlisted men”, since together they compose the entire membership.
+
+#### Amendments
+
+1968—Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+
+#### Effective Date of 1968 Amendment
+
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as an Effective Date of 1968 Amendment note under section 5334 of Title 5, Government Organization and Employees.
+

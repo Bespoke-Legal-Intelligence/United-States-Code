@@ -1,0 +1,14 @@
+### §2279. Applicability of other laws
+
+Sections 2274 to 2278b of this title shall not exclude the applicable provisions of any other laws.
+
+(Aug. 1, 1946, ch. 724, title I, §231, formerly §229, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 959; renumbered §231 and amended Aug. 6, 1956, ch. 1015, §§6, 7, 70 Stat. 1070; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+
+#### Amendments
+
+1956—Act Aug. 6, 1956, §7, substituted “2274 to 2278b” for “2274 to 2278”.
+
+#### Transfer of Functions
+
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+

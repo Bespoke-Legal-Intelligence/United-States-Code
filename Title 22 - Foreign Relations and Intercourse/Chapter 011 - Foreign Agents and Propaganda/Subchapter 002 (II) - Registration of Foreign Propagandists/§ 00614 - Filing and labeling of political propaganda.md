@@ -1,0 +1,68 @@
+### §614. Filing and labeling of political propaganda
+
+#### (a) Copies to Attorney General; statement as to places, times, and extent of transmission
+
+Every person within the United States who is an agent of a foreign principal and required to register under the provisions of this subchapter and who transmits or causes to be transmitted in the United States mails or by any means or instrumentality of interstate or foreign commerce any political propaganda for or in the interests of such foreign principal (i) in the form of prints, or (ii) in any other form which is reasonably adapted to being, or which he believes will be, or which he intends to be, disseminated or circulated among two or more persons shall, not later than forty-eight hours after the beginning of the transmittal thereof, file with the Attorney General two copies thereof and a statement, duly signed by or on behalf of such agent, setting forth full information as to the places, times, and extent of such transmittal.
+
+#### (b) Identification statement
+
+It shall be unlawful for any person within the United States who is an agent of a foreign principal and required to register under the provisions of this subchapter to transmit or cause to be transmitted in the United States mails or by any means or instrumentality of interstate or foreign commerce any political propaganda for or in the interests of such foreign principal (i) in the form of prints, or (ii) in any other form which is reasonably adapted to being, or which he believes will be, or which he intends to be, disseminated or circulated among two or more persons, unless such political propaganda is conspicuously marked at its beginning with, or prefaced or accompanied by, a true and accurate statement, in the language or languages used in such political propaganda, setting forth the relationship or connection between the person transmitting the political propaganda or causing it to be transmitted and such propaganda; that the person transmitting such political propaganda or causing it to be transmitted is registered under this subchapter with the Department of Justice, Washington, District of Columbia, as an agent of a foreign principal, together with the name and address of such agent of a foreign principal and of such foreign principal; that, as required by this subchapter, his registration statement is available for inspection at and copies of such political propaganda are being filed with the Department of Justice; and that registration of agents of foreign principals required by the subchapter does not indicate approval by the United States Government of the contents of their political propaganda. The Attorney General, having due regard for the national security and the public interest, may by regulation prescribe the language or languages and the manner and form in which such statement shall be made and require the inclusion of such other information contained in the registration statement identifying such agent of a foreign principal and such political propaganda and its sources as may be appropriate.
+
+#### (c) Public inspection
+
+The copies of political propaganda required by this subchapter to be filed with the Attorney General shall be available for public inspection under such regulations as he may prescribe.
+
+#### (d) Library of Congress
+
+For purposes of the Library of Congress, other than for public distribution, the Secretary of the Treasury and the United States Postal Service are authorized, upon the request of the Librarian of Congress, to forward to the Library of Congress fifty copies, or as many fewer thereofas are available, of all foreign prints determined to be prohibited entry under the provisions of section 1305 of title 19 and of all foreign prints excluded from the mails under authority of section 1717 of title 18.
+
+Notwithstanding the provisions of section 1305 of title 19 and of section 1717 of title 18, the Secretary of the Treasury is authorized to permit the entry and the United States Postal Service is authorized to permit the transmittal in the mails of foreign prints imported for governmental purposes by authority or for the use of the United States or for the use of the Library of Congress.
+
+#### (e) Information furnished to agency or official of United States Government
+
+It shall be unlawful for any person within the United States who is an agent of a foreign principal required to register under the provisions of this subchapter to transmit, convey, or otherwise furnish to any agency or official of the Government (including a Member or committee of either House of Congress) for or in the interests of such foreign principal any political propaganda or to request from any such agency or official for or in the interests of such foreign principal any information or advice with respect to any matter pertaining to the political or public interests, policies or relations of a foreign country or of a political party or pertaining to the foreign or domestic policies of the United States unless the propaganda or the request is prefaced or accompanied by a true and accurate statement to the effect that such person is registered as an agent of such foreign principal under this subchapter.
+
+#### (f) Appearances before Congressional committees
+
+Whenever any agent of a foreign principal required to register under this subchapter appears before any committee of Congress to testify for or in the interests of such foreign principal, he shall, at the time of such appearance, furnish the committee with a copy of his most recent registration statement filed with the Department of Justice as an agent of such foreign principal for inclusion in the records of the committee as part of his testimony.
+
+(June 8, 1938, ch. 327, §4, 52 Stat. 632; Aug. 7, 1939, ch. 521, §3, 53 Stat. 1246; Apr. 29, 1942, ch. 263, §1, 56 Stat. 255; July 4, 1966, Pub. L. 89–486, §4, 80 Stat. 246; Aug. 12, 1970, Pub. L. 91–375, §4(a), 84 Stat. 773.)
+
+#### Codification
+
+Section 1717 of title 18, referred to in subsec. (d), was in the original “section 1 of title XII of the Act of June 15, 1917 (40 Stat. 230)” which was classified to section 343 of former Title 18, Criminal Code and Criminal Procedure. “Section 1717 of title 18” substituted for “section 343 of title 18” on authority of act June 25, 1948, ch. 645, 62 Stat. 683, section 1 of which enacted Title 18, Crimes and Criminal Procedure.
+
+#### Prior Provisions
+
+Prior to general amendment of act June 8, 1938, by act Apr. 29, 1942, section related to retention of statements as public records. Provisions on that subject were incorporated in section 616 of this title by 1942 amendment.
+
+#### Amendments
+
+1966—Subsec. (a). Pub. L. 89–486, §4(1), inserted “for or in the interests of such foreign principal” after “political propaganda” and substituted “file with the Attorney General two copies thereof” for “sent to the Librarian of Congress two copies thereof and file with the Attorney General one copy thereof”.
+
+Subsec. (b). Pub. L. 89–486, §4(2), inserted “for or in the interests of such foreign principal” after “political propaganda”, where first appearing, and “the relationship or connection between the person transmitting the political propaganda or causing it to be transmitted and such propaganda;” after “setting forth” and substituted “such foreign principal” for each of his foreign principals”.
+
+Subsec. (c). Pub. L. 89–486, §4(3), substituted “filed with the Attorney General” for “sent to the Librarian of Congress”.
+
+Subsecs. (e), (f). Pub. L. 89–486, §4(4), added subsecs. (e) and (f).
+
+1942—Act Apr. 29, 1942, amended section generally.
+
+1939—Act Aug. 7, 1939, amended section generally.
+
+#### Effective Date of 1966 Amendment
+
+Amendment by Pub. L. 89–486 effective ninety days after July 4, 1966, see section 9 of Pub. L. 89–486, set out as a note under section 611 of this title.
+
+#### Transfer of Functions
+
+In subsec. (d), “United States Postal Service” substituted for “Postmaster General” in two places pursuant to Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service, which abolished office of Postmaster General of Post Office Department and transferred its functions to United States Postal Service.
+
+#### Cross References
+
+Registration functions of the Secretary of State transferred to the Attorney General, see Ex. Ord. No. 9176, set out preceding section 611 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 617, 618 of this title.
+

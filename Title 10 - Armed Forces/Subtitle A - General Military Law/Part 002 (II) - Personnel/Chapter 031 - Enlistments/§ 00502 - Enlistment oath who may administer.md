@@ -1,0 +1,54 @@
+### §502. Enlistment oath: who may administer
+
+Each person enlisting in an armed force shall take the following oath:
+
+&emsp;“I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; and that I will obey the orders of the President of the United States and the orders of the officers appointed over me, according to regulations and the Uniform Code of Military Justice. So help me God.”
+
+> This oath may be taken before any commissioned officer of any armed force.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 17, §501; Oct. 5, 1962, Pub. L. 87–751, §1, 76 Stat. 748; renumbered §502, Jan. 2, 1968, Pub. L. 90–235, §2(a)(1)(A), 81 Stat. 753; Nov. 29, 1989, Pub. L. 101–189, div. A, title VI, §653(a)(1), 103 Stat. 1462.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+501
+
+50:737.
+
+May 5, 1950, ch. 169, §8, 64 Stat. 146.
+
+The words “or affirmation” are omitted as covered by the definition of the word “oath” in section 1 of title 1. The words “of any armed force” are inserted in the last sentence, since they are necessarily implied by their use in the source statute.
+
+#### References in Text
+
+The Uniform Code of Military Justice, referred to in the oath, is classified to chapter 47 (§801 et seq.) of this title.
+
+#### Amendments
+
+1989—Pub. L. 101–189 struck out “or affirmation” after “This oath”.
+
+1962—Pub. L. 87–751 substituted “support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same” for “bear true faith and allegiance to the United States of America; that I will serve them honestly and faithfully against all their enemies whomsoever” and inserted “So help me God” in the oath, and “or affirmation” in text.
+
+#### Effective Date of 1962 Amendment
+
+Section 3 of Pub. L. 87–751 provided that: “This Act \[amending this section and section 304 of Title 32, National Guard\] does not affect any oath taken before one year after its enactment \[Oct. 5, 1962\].”
+
+#### Cross References
+
+Authority to administer oath, see section 1031 of this title.
+
+National Guard, enlistment oath, see section 304 of Title 32, National Guard.
+
+“Oath” as including affirmation, see section 1 of Title 1, General Provisions.
+
+Uniform Code of Military Justice, see section 801 et seq. of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 12102 of this title.
+

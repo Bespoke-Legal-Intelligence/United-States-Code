@@ -1,0 +1,10 @@
+### §6371. Accrual of leave
+
+While using leave made available to an employee from a leave bank, annual and sick leave shall accrue to the credit of such employee and shall become available for use by such employee in the same manner as provided for under section 6337.
+
+(Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2843.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6373 of this title.
+

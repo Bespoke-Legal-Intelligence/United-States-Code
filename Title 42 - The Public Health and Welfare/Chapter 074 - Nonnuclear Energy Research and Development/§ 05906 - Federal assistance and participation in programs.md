@@ -1,0 +1,94 @@
+### §5906. Federal assistance and participation in programs
+
+#### (a) Forms of activities authorized
+
+In carrying out the objectives of this chapter, the Secretary may utilize various forms of Federal assistance and participation which may include but are not limited to—
+
+&emsp;(1) joint Federal-industry experimental, demonstration, or commercial corporations consistent with the provisions of subsection (b) of this section;
+
+&emsp;(2) contractual arrangements with non-Federal participants including corporations, consortia, universities, governmental entities and nonprofit institutions;
+
+&emsp;(3) contracts for the construction and operation of federally owned facilities;
+
+&emsp;(4) Federal purchases or guaranteed price of the products of demonstration plants or activities consistent with the provisions of subsection (c) of the section;
+
+&emsp;(5) Federal loans to non-Federal entities conducting demonstrations of new technologies;
+
+&emsp;(6) incentives, including financial awards, to individual inventors, such incentives to be designed to encourage the participation of a large number of such inventors; and
+
+&emsp;(7) Federal loan guarantees and commitments thereof as provided in section 5919 <sup>1</sup> of this title.
+
+#### (b) Proposed joint Federal-industry corporations; operational guidelines; powers, duties, and functions; composition; scope of Federal assistance and participation; specific authorization
+
+Joint Federal-industry corporations proposed for congressional authorization pursuant to this chapter shall be subject to the provisions of section 5908 of this title and shall conform to the following guidelines except as otherwise authorized by Congress:
+
+&emsp;(1) Each such corporation may design, construct, operate, and maintain one or more experimental, demonstration, or commercial-size facilities, or other operations which will ascertain the technical, environmental, and economic feasibility of a particular energy technology. In carrying out this function, the corporation shall be empowered, either directly or by contract, to utilize commercially available technologies, perform tests, or design, construct, and operate pilot plants, as may be necessary for the design of the full-scale facility.
+
+&emsp;(2) Each corporation shall have—
+
+&emsp;&emsp;(A) a Board of nine directors consisting of individuals who are citizens of the United States, of whom one shall be elected annually by the Board to serve as Chairman. The Board shall be empowered to adopt and amend bylaws. Five members of the Board shall be appointed by the President of the United States, by and with the advice and consent of the Senate, and four members of the Board shall be appointed by the President on the basis of recommendations received by him from any non-Federal entity or entities entering into contractual arrangements to participate in the corporation;
+
+&emsp;&emsp;(B) a President and such other officers and employees as may be named and appointed by the Board (with the rates of compensation of all officers and employees being fixed by the Board); and
+
+&emsp;&emsp;(C) the usual powers conferred upon corporations by the laws of the District of Columbia.
+
+&emsp;(3) An appropriate time interval, not to exceed 12 years, shall be established for the term of Federal participation in the corporation, at the expiration of which the Board of Directors shall take such action as may be necessary to dissolve the corporation or otherwise terminate Federal participation and financial interests. In carrying out such dissolution, the Board of Directors shall dispose of all physical facilities of the corporation in such manner and subject to such terms and conditions as the Board determines are in the public interest and consistent with existing law; and a share of the appraised value of the corporate assets proportional to the Federal participation in the corporation, including the proceeds from the disposition of such facilities, on the date of its dissolution, after satisfaction of all its legal obligations, shall be made available to the United States and deposited in the Treasury of the United States as miscellaneous receipts. All patent rights of the corporation shall, on such date of dissolution, be vested in the Secretary: <i>Provided,</i> That Federal participation may be terminated prior to the time established in the authorizing Act upon recommendation of the Board of Directors.
+
+&emsp;(4) Any commercially valuable product produced by demonstration facilities shall be disposed of in such manner and under such terms and conditions as the corporation shall prescribe. All revenues received by the corporation from the sale of such products shall be available to the corporation for use by it in defraying expenses incurred in connection with carrying out its functions to which this chapter applies.
+
+&emsp;(5) The estimated Federal share of the construction, operation, and maintenance cost over the life of each corporation shall be determined in order to facilitate a single congressional authorization of the full amount at the time of establishment of the corporation.
+
+&emsp;(6) The Federal share of the cost of each such corporation shall reflect (A) the technical and economic risk of the venture, (B) the probability of any financial return to the non-Federal participants arising from the venture, (C) the financial capability of the potential non-Federal participants, and (D) such other factors as the Secretary may set forth in proposing the corporation: <i>Provided</i>, That in no instance shall the Federal share exceed 90 per centum of the cost.
+
+&emsp;(7) No such corporation shall be established unless previously authorized by specific legislation enacted by the Congress.
+
+#### (c) Proposed competitive systems of price supports for demonstration facilities; guidelines
+
+Competitive systems of price supports proposed for congressional authorization pursuant to this chapter shall conform to the following guidelines:
+
+&emsp;(1) The Secretary shall determine the types and capacities of the desired full-scale, commercial-size facility or other operation which would demonstrate the technical, environmental, and economic feasibility of a particular nonnuclear energy technology.
+
+&emsp;(2) The Secretary may award planning grants for the purpose of financing a study of the full cycle economic and environmental costs associated with the demonstration facility selected pursuant to paragraph (1) of this subsection. Such planning grants may be awarded to Federal and non-Federal entities including, but not limited to, industrial entities, universities, and nonprofit organizations. Such planning grants may also be used by the grantee to prepare a detailed and comprehensive bid to construct the demonstration facility.
+
+&emsp;(3) Following the completion of the studies pursuant to the planning grants awarded under paragraph (2) of this subsection regarding each such potential price supported demonstration facility for which the Secretary intends to request congressional authorization, he shall invite bids from all interested parties to determine the minimum amount of Federal price support needed to construct the demonstration facility. The Secretary may designate one or more competing entities, each to construct one commercial demonstration facility. Such designation shall be made on the basis of those entities, (A) commitment to construct the demonstration facility at the minimum level of Federal price supports, (B) detailed plan of environmental protection, and (C) proposed design and operation of the demonstration facility.
+
+&emsp;(4) The construction plans and actual construction of the demonstration facility, together with all related facilities, shall be monitored by the Environmental Protection Agency. If additional environmental requirements are imposed by the Secretary after the designation of the successful bidders and if such additional environmental requirements result in additional costs, the Secretary is authorized to renegotiate the support price to cover such additional costs.
+
+&emsp;(5) The estimated amount of the Federal price support for a demonstration facility's product over the life of such facility shall be determined by the Secretary to facilitate a single congressional authorization of the full amount of such support at the time of the designation of the successful bidders.
+
+&emsp;(6) No price support program shall be implemented unless previously authorized by specific legislation enacted by the Congress.
+
+#### (d) Support for joint university-industry research efforts
+
+Nothing in this section shall preclude Federal participation in, and support for, joint university-industry nonnuclear energy research efforts.
+
+(Pub. L. 93–577, §7, Dec. 31, 1974, 88 Stat. 1883; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–238, title II, §207(a), Feb. 25, 1978, 92 Stat. 61; Pub. L. 99–386, title I, §104(a), Aug. 22, 1986, 100 Stat. 821.)
+
+#### Codification
+
+Section 5919 of this title, referred to in subsec. (a)(7), was in the original “section 19” and has been editorially translated as section 5919 of this title which relates to loan guarantees as the probable intent of Congress, notwithstanding enactment of another section 19 which is classified to section 5918 of this title and which relates to organizational conflicts.
+
+#### Amendments
+
+1986—Subsec. (b)(7). Pub. L. 99–386 struck out subpar. (A) which related to submission of a report by Secretary to House and Senate, prior to establishment of any joint Federal-industry corporation pursuant to this chapter, setting forth in detail consistency of establishment of corporation with this section and section 5904 of this title, and proposed purpose and activities of corporation, and struck out subpar. (B) designation.
+
+1978—Subsec. (a)(7). Pub. L. 95–238 added par. (7).
+
+#### Transfer of Functions
+
+“Secretary”, meaning Secretary of Energy, substituted for “Administrator”, meaning Administrator of Energy Research and Development Administration, in subsecs. (a), (b)(3), (6), (7)(A), and (c)(1) to (5) pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
+
+#### Nonapplicability of Title II of Pub. L. 95–238 to Any Authorization or Appropriation for Military Application of Nuclear Energy, Etc.; Definitions
+
+Nonapplicability of provisions of title II of Pub. L. 95–238 with respect to any authorization or appropriation for any military application of nuclear energy, etc., see section 209 of Pub. L. 95–238, set out as a note under section 5821 of this title.
+
+#### Price-Support Program To Demonstrate Municipal Solid Waste Reprocessing for Production of Fuels and Energy Intensive Products
+
+Pub. L. 95–39, title I, §107, June 3, 1977, 91 Stat. 185, authorized Administrator, subject to the appropriation of funds pursuant to section 101(7)(I) of Pub. L. 95–39, to establish and implement, under subsection (a)(4) of thissection and in accordance with subsection (c) of this section, a price-support program to demonstrate municipal solid waste reprocessing for production of fuels and energy intensive products, with Administrator, prior to entering into any contract for such demonstration, to submit to Congress a full and complete report on the proposed commercial demonstration facility and the necessary project demonstration guarantees, and provided that such contract could not be finalized prior to the expiration of ninety calendar days (not including any day on which either House of Congress was not in session because of an adjournment of more than three calendar days to a day certain) from the date on which such report was received.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5585, 5907, 5919, 5920 of this title.
+
+<i><sup>1</sup></i><i> See Codification note below.</i>
+

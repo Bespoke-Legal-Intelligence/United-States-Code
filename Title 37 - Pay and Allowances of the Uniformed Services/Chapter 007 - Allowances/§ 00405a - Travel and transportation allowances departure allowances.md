@@ -1,0 +1,52 @@
+### §405a. Travel and transportation allowances: departure allowances
+
+(a) Under regulations prescribed by the Secretaries concerned, when dependents of members of the uniformed services are ordered to depart by competent authority, they may be authorized such allowances as the Secretary concerned determines necessary to offset the expenses incident to the departure. Allowances authorized bythis section are in addition to those authorized by any other section of this title. Such allowances may be paid in advance. For the purposes of this section, a dependent “ordered to depart by competent authority” includes—
+
+&emsp;(1) a dependent who is present at or in the vicinity of the member's duty station when the departure of dependents is ordered by competent authority and who actually moved to an authorized safe haven designated by that authority, whether such safe haven is at or in the vicinity of the member's duty station or elsewhere;
+
+&emsp;(2) a dependent who resides at or in the vicinity of a former duty station of the member following the assignment of the member elsewhere or who resides at or in the vicinity of a duty station (other than the duty station of the member) incident to orders in connection with an unaccompanied tour of duty of the member, if a departure of dependents is ordered by competent authority from the duty station at which or in the vicinity of which the dependent resides and the dependent actually moves to an authorized safe haven designated by that authority;
+
+&emsp;(3) a dependent who established a household at or in the vicinity of the member's duty station but who is temporarily absent therefrom for any reason when departure of dependents is ordered by competent authority; and
+
+&emsp;(4) a dependent who was authorized to join the member and who departed from his former place of residence incident to joining the member but who, as a result of the departure of dependents, is diverted to a safe haven designated by competent authority or is authorized to travel to a place the dependent may designate, even though he was in the United States when the departure was ordered.
+
+(b) Under regulations prescribed by the Secretaries concerned, each member whose dependents are covered by subsection (a) is entitled to have one motor vehicle that is owned by the member (or a dependent of the member) and is for the personal use of the member or his dependents, transported at the expense of the United States to a designated place for the use of the dependents. When the dependents are permitted to rejoin the member, the vehicle may be transported at the expense of the United States to his permanent duty station.
+
+(Added Pub. L. 89–26, §1(1), May 22, 1965, 79 Stat. 116; amended Pub. L. 89–608, §2, Sept. 30, 1966, 80 Stat. 851; Pub. L. 96–465, title II, §2303(e), Oct. 17, 1980, 94 Stat. 2165; Pub. L. 97–60, title I, §§121(c), 123, Oct. 14, 1981, 95 Stat. 1002, 1003; Pub. L. 99–661, div. A, title XIII, §1343(b)(3), Nov. 14, 1986, 100 Stat. 3995; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §625(b)(1), Oct. 23, 1992, 106 Stat. 2424.)
+
+#### Amendments
+
+1992—Subsec. (a)(2) to (4). Pub. L. 102–484 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+
+1986—Pub. L. 99–661 substituted “departure” for “evacuation” in section catchline.
+
+1981—Subsec. (a). Pub. L. 97–60, §123, inserted provision authorizing the payment of allowances in advance.
+
+Subsec. (b). Pub. L. 97–60, §121(c), substituted “that is owned by the member (or a dependent of the member) and is for the personal use of the member or his dependents” for “owned by him and for his personal use, or the use of the dependents,”.
+
+1980—Subsec. (a). Pub. L. 96–465 substituted “to depart” and “departure” for “evacuated” and “evacuation”, respectively, wherever appearing.
+
+1966—Subsec. (a). Pub. L. 89–608 struck out provision requiring that to qualify for allowances the evacuated dependents have been evacuated from places outside the United States to places inside the United States.
+
+#### Effective Date of 1992 Amendment
+
+Section 625(b)(2) of Pub. L. 102–484 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect as of August 23, 1992, and shall apply with respect to any evacuation ordered by competent military authority on or after that date.”
+
+#### Effective Date of 1981 Amendment
+
+Amendment by Pub. L. 97–60 effective Nov. 1, 1981, to apply to members who are separated from the service or released from active duty on or after Nov. 1, 1981, see section 121(d) of Pub. L. 97–60, set out as a note under section 404 of this title.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+
+#### Effective Date
+
+Section 2 of Pub. L. 89–26, as amended by Pub. L. 89–608, §1, Sept. 30, 1966, 80 Stat. 851; Pub. L. 92–176, Dec. 2, 1971, 85 Stat. 494, provided that: “This Act \[enacting this section and amending sections 407, 411, and 1006 of this title\] becomes effective on February 1, 1965.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 407, 411, 420, 1003, 1006 of this title.
+

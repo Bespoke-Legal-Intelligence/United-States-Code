@@ -1,0 +1,22 @@
+### §966. Right of way in Arkansas to pipe-line companies
+
+A right of way through the public lands of the United States in the State of Arkansas is granted for pipe-line purposes to any citizen of the United States or any company or corporation authorized by its charter to transport oil, crude or refined, or natural gas which shall have filed or may hereafter file with the Secretary of the Interior a copy of its articles of incorporation, and due proof of organization under the same, to the extent of the ground occupied by the said pipe line and ten feet on each side of the center line of same.
+
+(Apr. 12, 1910, ch. 155, §1, 36 Stat. 296.)
+
+#### Repeal of Section
+
+<i>Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.</i>
+
+#### Savings Provision
+
+Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
+
+#### Cross References
+
+Right-of-way for pipelines over public lands to be granted only under and subject to the provisions, limitations, and conditions enumerated, see section 185 of Title 30, Mineral Lands and Mining.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 967, 968, 969, 970 of this title.
+

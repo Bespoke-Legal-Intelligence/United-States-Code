@@ -1,0 +1,102 @@
+### §300ff–23. Grants to establish HIV care consortia
+
+#### (a) Consortia
+
+A State may use amounts provided under a grant awarded under this part to provide assistance under section 300ff–22(a)(1) of this title to an entity that—
+
+&emsp;(1) is an association of one or more public, and one or more nonprofit private, health care and support service providers and community based organizations operating within areas determined by the State to be most affected by HIV disease; and
+
+&emsp;(2) agrees to use such assistance for the planning, development and delivery, through the direct provision of services or through entering into agreements with other entities for the provision of such services, of comprehensive outpatient health and support services for individuals with HIV disease, that may include—
+
+&emsp;&emsp;(A) essential health services such as case management services, medical, nursing, and dental care, diagnostics, monitoring, and medical follow-up services, mental health, developmental, and rehabilitation services, home health and hospice care; and
+
+&emsp;&emsp;(B) essential support services such as transportation services, attendant care, homemaker services, day or respite care, benefits advocacy, advocacy services provided through public and nonprofit private entities, and services that are incidental to the provision of health care services for individuals with HIV disease including nutrition services, housing referral services, and child welfare and family services (including foster care and adoption services).
+
+> An entity or entities of the type described in this subsection shall hereinafter be referred to in this subchapter as a “consortium” or “consortia”.
+
+#### (b) Assurances
+
+#### (1) Requirement
+
+&emsp;To receive assistance from a State under subsection (a) of this section, an applicant consortium shall provide the State with assurances that—
+
+&emsp;&emsp;(A) within any locality in which such consortium is to operate, the populations and subpopulations of individuals and families with HIV disease have been identified by the consortium;
+
+&emsp;&emsp;(B) the service plan established under subsection (c)(2) of this section by such consortium addresses the special care and service needs of the populations and subpopulations identified under subparagraph (A); and
+
+&emsp;&emsp;(C) except as provided in paragraph (2), the consortium will be a single coordinating entity that will integrate the delivery of services among the populations and subpopulations identified under subparagraph (A).
+
+#### (2) Exception
+
+&emsp;Subparagraph (C) of paragraph (1) shall not apply to any applicant consortium that the State determines will operate in a community or locality in which it has been demonstrated by the applicant consortium that—
+
+&emsp;&emsp;(A) subpopulations exist within the community to be served that have unique service requirements; and
+
+&emsp;&emsp;(B) such unique service requirements cannot be adequately and efficiently addressed by a single consortium serving the entire community or locality.
+
+#### (c) Application
+
+#### (1) In general
+
+&emsp;To receive assistance from the State under subsection (a) of this section, a consortium shall prepare and submit to the State, an application that—
+
+&emsp;&emsp;(A) demonstrates that the consortium includes agencies and community-based organizations—
+
+&emsp;&emsp;&emsp;(i) with a record of service to populations and subpopulations with HIV disease requiring care within the community to be served; and
+
+&emsp;&emsp;&emsp;(ii) that are representative of populations and subpopulations reflecting the local incidence of HIV and that are located in areas in which such populations reside;
+
+&emsp;&emsp;(B) demonstrates that the consortium has carried out an assessment of service needs within the geographic area to be served and, after consultation with the entities described in paragraph (2), has established a plan to ensure the delivery of services to meet such identified needs that shall include—
+
+&emsp;&emsp;&emsp;(i) assurances that service needs will be addressed through the coordination and expansion of existing programs before new programs are created;
+
+&emsp;&emsp;&emsp;(ii) assurances that, in metropolitan areas, the geographic area to be served by the consortium corresponds to the geographic boundaries of local health and support services delivery systems to the extent practicable;
+
+&emsp;&emsp;&emsp;(iii) assurances that, in the case of services for individuals residing in rural areas, the applicant consortium shall deliver case management services that link available community support services to appropriate specialized medical services; and
+
+&emsp;&emsp;&emsp;(iv) assurances that the assessment of service needs and the planning of the delivery of services will include participation by individuals with HIV disease;
+
+&emsp;&emsp;(C) demonstrates that adequate planning has occurred to meet the special needs of families with HIV disease, including family centered care;
+
+&emsp;&emsp;(D) demonstrates that the consortium has created a mechanism to evaluate periodically—
+
+&emsp;&emsp;&emsp;(i) the success of the consortium in responding to identified needs; and
+
+&emsp;&emsp;&emsp;(ii) the cost-effectiveness of the mechanisms employed by the consortium to deliver comprehensive care; and
+
+&emsp;&emsp;(E) demonstrates that the consortium will report to the State the results of the evaluations described in subparagraph (D) and shall make available to the State or the Secretary, on request, such data and information on the program methodology that may be required to perform an independent evaluation.
+
+#### (2) Consultation
+
+&emsp;In establishing the plan required under paragraph (1)(B), the consortium shall consult with—
+
+&emsp;&emsp;(A)(i) the public health agency that provides or supports ambulatory and outpatient HIV-related health care services within the geographic area to be served; or
+
+&emsp;&emsp;(ii) in the case of a public health agency that does not directly provide such HIV-related health care services such agency shall consult with an entity or entities that directly provide ambulatory and outpatient HIV-related health care services within the geographic area to be served; and
+
+&emsp;&emsp;(B) not less than one community-based organization that is organized solely for thepurpose of providing HIV-related support services to individuals with HIV disease.
+
+> &emsp;The organization to be consulted under subparagraph (B) shall be at the discretion of the applicant consortium.
+
+#### (d) “Family centered care” defined
+
+As used in this part, the term “family centered care” means the system of services described in this section that is targeted specifically to the special needs of infants, children, women, and families. Family centered care shall be based on a partnership between parents, professionals, and the community designed to ensure an integrated, coordinated, culturally sensitive, and community-based continuum of care for children, women, and families with HIV disease.
+
+#### (e) Priority
+
+In providing assistance under subsection (a) of this section, the State shall, among applicants that meet the requirements of this section, give priority—
+
+&emsp;(1) first to consortia that are receiving assistance from the Health Resources and Services Administration for adult and pediatric HIV-related care demonstration projects; and then
+
+&emsp;(2) to any other existing HIV care consortia.
+
+(July 1, 1944, ch. 373, title XXVI, §2613, as added Aug. 18, 1990, Pub. L. 101–381, title II, §201, 104 Stat. 586.)
+
+#### Prior Provisions
+
+A prior section 2613 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238<i>l</i> of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 300ff–22, 300ff–28 of this title.
+

@@ -1,0 +1,90 @@
+### §3925. Computation of years of service: voluntary retirement; enlisted members
+
+(a) For the purpose of determining whether an enlisted member of the Army may be retired under section 3914 or 3917 of this title, his years of service are computed by adding all active service in the armed forces and service computed under section 3683 <sup>1</sup> of this title.
+
+(b) Time required to be made up under section 972 of this title may not be counted in determining years of service under subsection (a).
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 228; Sept. 2, 1958, Pub. L. 85–861, §1(97), 72 Stat. 1488; Sept. 8, 1980, Pub. L. 96–343, §9(a)(2), 94 Stat. 1128; July 1, 1986, Pub. L. 99–348, title II, §202(c), 100 Stat. 695; Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §635(a)(1), 108 Stat. 2788.)
+
+Historical and Revision Notes<br>1956
+
+Act
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+3925(a)
+
+3925(b)
+
+10:947 (proviso).
+
+10:958.
+
+\[No source\].
+
+Mar. 2, 1907, ch. 2515, §1 (proviso), 34 Stat. 1218.
+
+Aug. 10, 1946, ch. 952, §6(b), 60 Stat. 996.
+
+In subsection (a), the words “active service” are substituted for the word “service”, in 10:947, and “active Federal service performed”, in 10:958, for uniformity. The words “service computed under section 3683 of this title” are inserted, since a person entitled to count service under that revised section might cease to be a nurse or woman medical specialist and thereafter become entitled to retire under one of the revised sections referred to in subsection (a) of this revised section.
+
+Subsection (b) is inserted because of section 3638 of this title and in accordance with long-standing interpretation of the effect of 10:629 upon the computation of years of service for retirement.
+
+1958
+
+Act
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+3925
+
+\[No source\].
+
+\[No source\].
+
+The amendment reflects the repeal of section 3638 of this title and the enactment of a similar provision in section 972 of this title.
+
+#### References in Text
+
+Section 3683 of this title, referred to in subsec. (a), was repealed (subject to a savings clause) by Pub. L. 99–145, title XIII, §1301(b)(1)(A), (C), Nov. 8, 1985, 99 Stat. 735.
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–337, §635(a)(1)(A), struck out “and of computing his retired pay under section 3991 of this title,” after “3917 of this title,”.
+
+Subsec. (c). Pub. L. 103–337, §635(a)(1)(B), struck out subsec. (c) which read as follows: “In determining a member's years of service under subsection (a) for the purpose of computing the member's retired pay under section 3991 of this title—
+
+&emsp;“(1) each full month of service that is in addition to the number of full years of service creditable to the member shall be credited as 1/12 of a year; and
+
+&emsp;“(2) any remaining fractional part of a year shall be disregarded.”
+
+1986—Subsec. (c). Pub. L. 99–348 added subsec. (c).
+
+1980—Pub. L. 96–343, §9(a)(2)(A), struck out “regular” before “enlisted members” in section catchline.
+
+Subsec. (a). Pub. L. 96–343, §9(a)(2)(B), substituted “an enlisted” for “a regular enlisted”.
+
+1958—Subsec. (b). Pub. L. 85–861 substituted “section 972 of this title” for “section 3638 of this title”.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–337 applicable to computation of retired pay of any enlisted member who retires on or after Oct. 5, 1994, to computation of retainer pay of any enlisted member who is transferred to Fleet Reserve or Fleet Marine Corps Reserve on or after Oct. 5, 1994, and to recomputation of retired pay of any enlisted member who is advanced on retired list on or after Oct. 5, 1994, see section 635(e) of Pub. L. 103–337, set out as a note under section 1405 of this title.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–343 effective with respect to retired pay payable for months beginning after Sept. 8, 1980, see section 9(c) of Pub. L. 96–343, set out as a note under section 3914 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3914, 3917 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

@@ -1,0 +1,6 @@
+### §3812. Annual report
+
+The corporation shall report annually to the Congress concerning the activities of the corporation during the preceding fiscal year. Such annual report shall be submitted at the same time as is the report of the audit of the corporation required by section 1102 of this title. The report shall not be printed as a public document.
+
+(Pub. L. 99–318, §13, May 23, 1986, 100 Stat. 476.)
+

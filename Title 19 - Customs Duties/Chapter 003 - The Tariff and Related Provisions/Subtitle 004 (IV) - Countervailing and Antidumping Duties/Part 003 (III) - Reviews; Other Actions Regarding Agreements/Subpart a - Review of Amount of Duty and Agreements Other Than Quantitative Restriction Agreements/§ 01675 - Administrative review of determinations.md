@@ -1,0 +1,344 @@
+### §1675. Administrative review of determinations
+
+#### (a) Periodic review of amount of duty
+
+#### (1) In general
+
+&emsp;At least once during each 12-month period beginning on the anniversary of the date of publication of a countervailing duty order under this subtitle or under section 1303 <sup>1</sup> of this title, an antidumping duty order under this subtitle or a finding under the Antidumping Act, 1921, or a notice of the suspension of an investigation, the administering authority, if a request for such a review has been received and after publication of notice of such review in the Federal Register, shall—
+
+&emsp;&emsp;(A) review and determine the amount of any net countervailable subsidy,
+
+&emsp;&emsp;(B) review, and determine (in accordance with paragraph (2)), the amount of any antidumping duty, and
+
+&emsp;&emsp;(C) review the current status of, and compliance with, any agreement by reason of which an investigation was suspended, and review the amount of any net countervailable subsidy or dumping margin involved in the agreement,
+
+> &emsp;and shall publish in the Federal Register the results of such review, together with notice of any duty to be assessed, estimated duty to be deposited, or investigation to be resumed.
+
+#### (2) Determination of antidumping duties
+
+#### (A) In general
+
+&emsp;&emsp;For the purpose of paragraph (1)(B), the administering authority shall determine—
+
+&emsp;&emsp;&emsp;(i) the normal value and export price (or constructed export price) of each entry of the subject merchandise, and
+
+&emsp;&emsp;&emsp;(ii) the dumping margin for each such entry.
+
+#### (B) Determination of antidumping or countervailing duties for new exporters and producers
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;If the administering authority receives a request from an exporter or producer of the subject merchandise establishing that—
+
+&emsp;&emsp;&emsp;&emsp;(I) such exporter or producer did not export the merchandise that was the subject of an antidumping duty or countervailing duty order to the United States (or, in the case of a regional industry, did not export the subject merchandise for sale in the region concerned) during the period of investigation, and
+
+&emsp;&emsp;&emsp;&emsp;(II) such exporter or producer is not affiliated (within the meaning of section 1677(33) of this title) with any exporter or producer who exported the subject merchandise to the United States (or in the case of a regional industry, who exported the subject merchandise for sale in the region concerned) during that period,
+
+&emsp;&emsp;&nbsp;the administering authority shall conduct a review under this subsection to establish an individual weighted average dumping margin or an individual countervailing duty rate (as the case may be) for such exporter or producer.
+
+#### (ii) Time for review under clause (i)
+
+&emsp;&emsp;&emsp;The administering authority shall commence a review under clause (i) in the calendar month beginning after—
+
+&emsp;&emsp;&emsp;&emsp;(I) the end of the 6-month period beginning on the date of the countervailing duty or antidumping duty order under review, or
+
+&emsp;&emsp;&emsp;&emsp;(II) the end of any 6-month period occurring thereafter,
+
+&emsp;&emsp;&nbsp;if the request for the review is made during that 6-month period.
+
+#### (iii) Posting bond or security
+
+&emsp;&emsp;&emsp;The administering authority shall, at the time a review under this subparagraph is initiated, direct the Customs Service to allow, at the option of the importer, the posting, until the completion of the review, of a bond or security in lieu of a cash deposit for each entry of the subject merchandise.
+
+#### (iv) Time limits
+
+&emsp;&emsp;&emsp;The administering authority shall make a preliminary determination in a review conducted under this subparagraph within 180 days after the date on which the review is initiated, and a final determination within 90 days after the date the preliminary determination is issued, except that if the administering authority concludes that the case is extraordinarily complicated, it may extend the 180-day period to 300 days and may extend the 90-day period to 150 days.
+
+#### (C) Results of determinations
+
+&emsp;&emsp;The determination under this paragraph shall be the basis for the assessment of countervailing or antidumping duties on entries of merchandise covered by the determination and for deposits of estimated duties.
+
+#### (3) Time limits
+
+#### (A) Preliminary and final determinations
+
+&emsp;&emsp;The administering authority shall make a preliminary determination under subparagraph (A), (B), or (C) of paragraph (1) within 245 days after the last day of the month in which occurs the anniversary of the date of publication of the order, finding, or suspension agreement for which the review under paragraph (1) is requested, and a final determination under paragraph (1) within 120 days after the date on which the preliminary determination is published. If it is not practicable to complete the review within the foregoing time, the administering authority may extend that 245-day period to 365 days and may extend that 120-day period to 180 days. The administering authority may extend the time for making a final determination without extending the time for making a preliminary determination, if such final determination is made not later than 300 days after the date on which the preliminary determination is published.
+
+#### (B) Liquidation of entries
+
+&emsp;&emsp;If the administering authority orders any liquidation of entries pursuant to a review under paragraph (1), such liquidation shall be made promptly and, to the greatest extent practicable, within 90 days after the instructions to Customs are issued. In any case in which liquidation has not occurred within that 90-day period, the Secretary of the Treasury shall, upon the request of the affected party, provide an explanation thereof.
+
+#### (C) Effect of pending review under section 1516a
+
+&emsp;&emsp;In a case in which a final determination under paragraph (1) is under review under section 1516a of this title and a liquidation of entries covered by the determination is enjoined under section 1516a(c)(2) of this title or suspended under section 1516a(g)(5)(C) of this title, the administering authority shall, within 10 days after the final disposition of the review under section 1516a of this title, transmit to the Federal Register for publication the final disposition and issue instructions to the Customs Service with respect to the liquidation of entries pursuant to the review. In such a case, the 90-day period referred to in subparagraph (B) shall begin on the day on which the administering authority issues such instructions.
+
+#### (4) Absorption of antidumping duties
+
+&emsp;During any review under this subsection initiated 2 years or 4 years after the publication of an antidumping duty order under section 1673e(a) of this title, the administering authority, if requested, shall determine whether antidumping duties have been absorbed by a foreign producer or exporter subject to the order if the subject merchandise is sold in the United States through an importer who is affiliated with such foreign producer or exporter. The administering authority shall notify the Commission of its findings regarding such duty absorption for the Commission to consider in conducting a review under subsection (c) of this section.
+
+#### (b) Reviews based on changed circumstances
+
+#### (1) In general
+
+&emsp;Whenever the administering authority or the Commission receives information concerning, or a request from an interested party for a review of—
+
+&emsp;&emsp;(A) a final affirmative determination that resulted in an antidumping duty order under this subtitle or a finding under the Antidumping Act, 1921, or in a countervailing duty order under this subtitle or section 1303 <sup>1</sup> of this title,
+
+&emsp;&emsp;(B) a suspension agreement accepted under section 1671c or 1673c of this title, or
+
+&emsp;&emsp;(C) a final affirmative determination resulting from an investigation continued pursuant to section 1671c(g) or 1673c(g) of this title,
+
+> &emsp;which shows changed circumstances sufficient to warrant a review of such determination or agreement, the administering authority or the Commission (as the case may be) shall conduct a review of the determination or agreement after publishing notice of the review in the Federal Register.
+
+#### (2) Commission review
+
+&emsp;In conducting a review under this subsection, the Commission shall—
+
+&emsp;&emsp;(A) in the case of a countervailing duty order or antidumping duty order or finding, determine whether revocation of the order or finding is likely to lead to continuation or recurrence of material injury,
+
+&emsp;&emsp;(B) in the case of a determination made pursuant to section 1671c(h)(2) or 1673c(h)(2) of this title, determine whether the suspension agreement continues to eliminate completely the injurious effects of imports of the subject merchandise, and
+
+&emsp;&emsp;(C) in the case of an affirmative determination resulting from an investigation continued under section 1671c(g) or 1673c(g) of this title, determine whether termination of the suspended investigation is likely to lead to continuation or recurrence of material injury.
+
+#### (3) Burden of persuasion
+
+&emsp;During a review conducted by the Commission under this subsection—
+
+&emsp;&emsp;(A) the party seeking revocation of an order or finding described in paragraph (1)(A) shall have the burden of persuasion with respect to whether there are changed circumstances sufficient to warrant such revocation, and
+
+&emsp;&emsp;(B) the party seeking termination of a suspended investigation or a suspension agreement shall have the burden of persuasion with respect to whether there are changed circumstances sufficient to warrant such termination.
+
+#### (4) Limitation on period for review
+
+&emsp;In the absence of good cause shown—
+
+&emsp;&emsp;(A) the Commission may not review a determination made under section 1671d(b) or 1673d(b) of this title, or an investigation suspended under section 1671c or 1673c of this title, and
+
+&emsp;&emsp;(B) the administering authority may not review a determination made under section 1671d(a) or 1673d(a) of this title, or an investigation suspended under section 1671c or 1673c of this title,
+
+> &emsp;less than 24 months after the date of publication of notice of that determination or suspension.
+
+#### (c) Five-year review
+
+#### (1) In general
+
+&emsp;Notwithstanding subsection (b) of this section and except in the case of a transition order defined in paragraph (6), 5 years after the date of publication of—
+
+&emsp;&emsp;(A) a countervailing duty order (other than a countervailing duty order to whichsubparagraph (B) applies or which was issued without an affirmative determination of injury by the Commission under section 1303 <sup>1</sup> of this title), an antidumping duty order, or a notice of suspension of an investigation, described in subsection (a)(1) of this section,
+
+&emsp;&emsp;(B) a notice of injury determination under section 1675b of this title with respect to a countervailing duty order, or
+
+&emsp;&emsp;(C) a determination under this section to continue an order or suspension agreement,
+
+> &emsp;the administering authority and the Commission shall conduct a review to determine, in accordance with section 1675a of this title, whether revocation of the countervailing or antidumping duty order or termination of the investigation suspended under section 1671c or 1673c of this title would be likely to lead to continuation or recurrence of dumping or a countervailable subsidy (as the case may be) and of material injury.
+
+#### (2) Notice of initiation of review
+
+&emsp;Not later than 30 days before the fifth anniversary of the date described in paragraph (1), the administering authority shall publish in the Federal Register a notice of initiation of a review under this subsection and request that interested parties submit—
+
+&emsp;&emsp;(A) a statement expressing their willingness to participate in the review by providing information requested by the administering authority and the Commission,
+
+&emsp;&emsp;(B) a statement regarding the likely effects of revocation of the order or termination of the suspended investigation, and
+
+&emsp;&emsp;(C) such other information or industry data as the administering authority or the Commission may specify.
+
+#### (3) Responses to notice of initiation
+
+#### (A) No response
+
+&emsp;&emsp;If no interested party responds to the notice of initiation under this subsection, the administering authority shall issue a final determination, within 90 days after the initiation of a review, revoking the order or terminating the suspended investigation to which such notice relates. For purposes of this paragraph, an interested party means a party described in section 1677(9)(C), (D), (E), (F), or (G) of this title.
+
+#### (B) Inadequate response
+
+&emsp;&emsp;If interested parties provide inadequate responses to a notice of initiation, the administering authority, within 120 days after the initiation of the review, or the Commission, within 150 days after such initiation, may issue, without further investigation, a final determination based on the facts available, in accordance with section 1677e of this title.
+
+#### (4) Waiver of participation by certain interested parties
+
+#### (A) In general
+
+&emsp;&emsp;An interested party described in section 1677(9)(A) or (B) of this title may elect not to participate in a review conducted by the administering authority under this subsection and to participate only in the review conducted by the Commission under this subsection.
+
+#### (B) Effect of waiver
+
+&emsp;&emsp;In a review in which an interested party waives its participation pursuant to this paragraph, the administering authority shall conclude that revocation of the order or termination of the investigation would be likely to lead to continuation or recurrence of dumping or a countervailable subsidy (as the case may be) with respect to that interested party.
+
+#### (5) Conduct of review
+
+#### (A) Time limits for completion of review
+
+&emsp;&emsp;Unless the review has been completed pursuant to paragraph (3) or paragraph (4) applies, the administering authority shall make its final determination pursuant to section 1675a(b) or (c) of this title within 240 days after the date on which a review is initiated under this subsection. If the administering authority makes a final affirmative determination, the Commission shall make its final determination pursuant to section 1675a(a) of this title within 360 days after the date on which a review is initiated under this subsection.
+
+#### (B) Extension of time limit
+
+&emsp;&emsp;The administering authority or the Commission (as the case may be) may extend the period of time for making their respective determinations under this subsection by not more than 90 days, if the administering authority or the Commission (as the case may be) determines that the review is extraordinarily complicated. In a review in which the administering authority extends the time for making a final determination, but the Commission does not extend the time for making a determination, the Commission's determination shall be made not later than 120 days after the date on which the final determination of the administering authority is published.
+
+#### (C) Extraordinarily complicated
+
+&emsp;&emsp;For purposes of this subsection, the administering authority or the Commission (as the case may be) may treat a review as extraordinarily complicated if—
+
+&emsp;&emsp;&emsp;(i) there is a large number of issues,
+
+&emsp;&emsp;&emsp;(ii) the issues to be considered are complex,
+
+&emsp;&emsp;&emsp;(iii) there is a large number of firms involved,
+
+&emsp;&emsp;&emsp;(iv) the orders or suspended investigations have been grouped as described in subparagraph (D), or
+
+&emsp;&emsp;&emsp;(v) it is a review of a transition order.
+
+#### (D) Grouped reviews
+
+&emsp;&emsp;The Commission, in consultation with the administering authority, may group orders or suspended investigations for review if it considers that such grouping is appropriate and will promote administrative efficiency. Where orders or suspended investigations have been grouped, the Commission shall, subject to subparagraph (B), make its finaldetermination under this subsection not later than 120 days after the date that the administering authority publishes notice of its final determination with respect to the last order or agreement in the group.
+
+#### (6) Special transition rules
+
+#### (A) Schedule for reviews of transition orders
+
+#### (i) Initiation
+
+&emsp;&emsp;&emsp;The administering authority shall begin its review of transition orders in the 42d calendar month after the date such orders are issued. A review of all transition orders shall be initiated not later than the 5th anniversary after the date such orders are issued.
+
+#### (ii) Completion
+
+&emsp;&emsp;&emsp;A review of a transition order shall be completed not later than 18 months after the date such review is initiated. Reviews of all transition orders shall be completed not later than 18 months after the 5th anniversary of the date such orders are issued.
+
+#### (iii) Subsequent reviews
+
+&emsp;&emsp;&emsp;The time limits set forth in clauses (i) and (ii) shall be applied to all subsequent 5-year reviews of transition orders by substituting “date of the determination to continue such orders” for “date such orders are issued”.
+
+#### (iv) Revocation and termination
+
+&emsp;&emsp;&emsp;No transition order may be revoked under this subsection before the date that is 5 years after the date the WTO Agreement enters into force with respect to the United States.
+
+#### (B) Sequence of transition reviews
+
+&emsp;&emsp;The administering authority, in consultation with the Commission, shall determine such sequence of review of transition orders as it deems appropriate to promote administrative efficiency. To the extent practicable, older orders shall be reviewed first.
+
+#### (C) “Transition order” defined
+
+&emsp;&emsp;For purposes of this section, the term “transition order” means—
+
+&emsp;&emsp;&emsp;(i) a countervailing duty order under this subtitle or under section 1303 <sup>2</sup> of this title,
+
+&emsp;&emsp;&emsp;(ii) an antidumping duty order under this subtitle or a finding under the Antidumping Act, 1921, or
+
+&emsp;&emsp;&emsp;(iii) a suspension of an investigation under section 1671c or 1673c of this title,
+
+> &emsp;&emsp;which is in effect on the date the WTO Agreement enters into force with respect to the United States.
+
+#### (D) Issue date for transition orders
+
+&emsp;&emsp;For purposes of this subsection, a transition order shall be treated as issued on the date the WTO Agreement enters into force with respect to the United States, if such order is based on an investigation conducted by both the administering authority and the Commission.
+
+#### (d) Revocation of order or finding; termination of suspended investigation
+
+#### (1) In general
+
+&emsp;The administering authority may revoke, in whole or in part, a countervailing duty order or an antidumping duty order or finding, or terminate a suspended investigation, after review under subsection (a) or (b) of this section. The administering authority shall not revoke, in whole or in part, a countervailing duty order or terminate a suspended investigation on the basis of any export taxes, duties, or other charges levied on the export of the subject merchandise to the United States which are specifically intended to offset the countervailable subsidy received.
+
+#### (2) Five-year reviews
+
+&emsp;In the case of a review conducted under subsection (c) of this section, the administering authority shall revoke a countervailing duty order or an antidumping duty order or finding, or terminate a suspended investigation, unless—
+
+&emsp;&emsp;(A) the administering authority makes a determination that dumping or a countervailable subsidy, as the case may be, would be likely to continue or recur, and
+
+&emsp;&emsp;(B) the Commission makes a determination that material injury would be likely to continue or recur as described in section 1675a(a) of this title.
+
+#### (3) Application of revocation or termination
+
+&emsp;A determination under this section to revoke an order or finding or terminate a suspended investigation shall apply with respect to unliquidated entries of the subject merchandise which are entered, or withdrawn from warehouse, for consumption on or after the date determined by the administering authority.
+
+#### (e) Hearings
+
+Whenever the administering authority or the Commission conducts a review under this section, it shall, upon the request of an interested party, hold a hearing in accordance with section 1677c(b) of this title in connection with that review.
+
+#### (f) Determination that basis for suspension no longer exists
+
+If the determination of the Commission under subsection (b)(2)(B) of this section is negative, the suspension agreement shall be treated as not accepted, beginning on the date of publication of the Commission's determination, and the administering authority and the Commission shall proceed, under section 1671c(i) or 1673c(i) of this title, as if the suspension agreement had been violated on that date, except that no duty under any order subsequently issued shall be assessed on merchandise entered, or withdrawn from warehouse, for consumption before that date.
+
+#### (g) Reviews to implement results of subsidies enforcement proceeding
+
+#### (1) Violations of article 8 of the subsidies agreement
+
+&emsp;If—
+
+&emsp;&emsp;(A) the administering authority receives notice from the Trade Representative of aviolation of Article 8 of the Subsidies Agreement,
+
+&emsp;&emsp;(B) the administering authority has reason to believe that merchandise subject to an existing countervailing duty order or suspended investigation is benefiting from the subsidy or subsidy program found to have been in violation of Article 8 of the Subsidies Agreement, and
+
+&emsp;&emsp;(C) no review pursuant to subsection (a)(1) of this section is in progress,
+
+> &emsp;the administering authority shall conduct a review of the order or suspended investigation to determine whether the subject merchandise benefits from the subsidy or subsidy program found to have been in violation of Article 8 of the Subsidies Agreement. If the administering authority determines that the subject merchandise is benefiting from the subsidy or subsidy program, it shall make appropriate adjustments in the estimated duty to be deposited or appropriate revisions to the terms of the suspension agreement.
+
+#### (2) Withdrawal of subsidy or imposition of countermeasures
+
+&emsp;If the Trade Representative notifies the administering authority that, pursuant to Article 4 or Article 7 of the Subsidies Agreement—
+
+&emsp;&emsp;(A)(i) the United States has imposed countermeasures, and
+
+&emsp;&emsp;(ii) such countermeasures are based on the effects in the United States of imports of merchandise that is the subject of a countervailing duty order, or
+
+&emsp;&emsp;(B) a WTO member country has withdrawn a countervailable subsidy provided with respect to merchandise subject to a countervailing duty order,
+
+> &emsp;the administering authority shall conduct a review to determine if the amount of the estimated duty to be deposited should be adjusted or the order should be revoked.
+
+#### (3) Expedited review
+
+&emsp;The administering authority shall conduct reviews under this subsection on an expedited basis, and shall publish the results of such reviews in the Federal Register.
+
+#### (h) Correction of ministerial errors
+
+The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonable time after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present their views regarding any such errors. As used in this subsection, the term “ministerial error” includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
+
+(June 17, 1930, ch. 497, title VII, §751, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 175; amended Oct. 30, 1984, Pub. L. 98–573, title VI, §611(a)(2), (3), 98 Stat. 3031; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1886(a)(8), 100 Stat. 2922; Aug. 23, 1988, Pub. L. 100–418, title I, §1333(b), 102 Stat. 1209; Dec. 8, 1994, Pub. L. 103–465, title II, §§220(a), 283(c), 108 Stat. 4857, 4930.)
+
+#### References in Text
+
+Section 1303 of this title, referred to in subsecs. (a)(1), (b)(1)(A), and (c)(1)(A), (6)(C)(i), is defined in section 1677(26) of this title to mean section 1330 as in effect on the day before Jan. 1, 1995.
+
+The Antidumping Act, 1921, referred to in subsecs. (a)(1), (b)(1)(A), and (c)(6)(C)(ii), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, §106(a), July 26, 1979, 93 Stat. 193.
+
+#### Amendments
+
+1994—Pub. L. 103–465, §283(c), added subsec. (g) and redesignated former subsec. (g) as (h).
+
+Pub. L. 103–465, §220(a), amended section generally, substituting present provisions for provisions relating to administrative review of determinations, which provided for periodic review of amount of duty in subsec. (a), review upon information or request in subsec. (b), revocation of countervailing duty order or antidumping duty order in subsec. (c), hearings in subsec. (d), determination that basis for suspension no longer existed in subsec. (e), and correction of ministerial errors in subsec. (f).
+
+1988—Subsec. (f). Pub. L. 100–418 added subsec. (f).
+
+1986—Subsec. (b)(1). Pub. L. 99–514 inserted “or countervailing duty” after “antidumping” in two places in last sentence.
+
+1984—Subsec. (a)(1). Pub. L. 98–573, §611(a)(2)(A), inserted “if a request for such a review has been received and” in provisions preceding subpar. (A).
+
+Subsec. (b)(1). Pub. L. 98–573, §611(a)(2)(B), substituted “1671c of this title (other than a quantitative restriction agreement described in subsection (a)(2) or (c)(3)) or 1673c of this title (other than a quantitative restriction agreement described in subsection (a)(2))” for “1671c or 1673c of this title”, inserted reference to section 1676a(a)(1) or 1676a(a)(2) of this title, and inserted provision that during an investigation by the Commission, the party seeking revocation of an antidumping order shall have the burden of persuasion with respect to whether there are changed circumstances sufficient to warrant revocation of the antidumping order.
+
+Subsec. (c). Pub. L. 98–573, §611(a)(3), inserted provision that the administering authority shall not revoke, in whole or in part, a countervailing duty order or terminate a suspended investigation on the basis of any export taxes, duties, or other charges levied on the export of merchandise to the United States specifically intended to offset the subsidy received.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, on or after Oct. 30, 1984, see section 626(b)(1) of Pub. L. 98–573, as amended, set out as a note under section 1671 of this title.
+
+#### Effective Date
+
+Part effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as a note under section 1671 of this title.
+
+#### Uruguay Round Agreements: Entry Into Force
+
+The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
+
+#### Plan Amendments Not Required Until January 1, 1989
+
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1504, 1516a, 1671, 1671a, 1671b, 1671c, 1671d, 1671e, 1673a, 1673c, 1673e, 1675a, 1675b, 1677, 1677b, 1677e, 1677f, 1677f–1, 1677m, 1677n of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+

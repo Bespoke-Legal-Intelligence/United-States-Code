@@ -1,0 +1,272 @@
+### §1451. Amount of annuity
+
+(a)(1) In the case of a standard annuity provided to a beneficiary under section 1450(a) of this title (other than under section 1450(a)(4)), the monthly annuity payable to the beneficiary shall be determined as follows:
+
+&emsp;(A) If the beneficiary is under 62 years of age or is a dependent child when becoming entitled to the annuity, the monthly annuity shall be the amount equal to 55 percent of the base amount.
+
+&emsp;(B) If the beneficiary (other than a dependent child) is 62 years of age or older when becoming entitled to the annuity, the monthly annuity shall be the amount equal to 35 percent of the base amount. However, if the beneficiary is eligible to have the annuity computed under subsection (e) and if, at the time the beneficiary becomes entitled to the annuity, computation of the annuity under that subsection is more favorable to the beneficiary, the annuity shall be computed under that subsection.
+
+(2) In the case of a reserve-component annuity provided to a beneficiary under section 1450(a) of this title (other than under section 1450(a)(4)), the monthly annuity payable to the beneficiary shall be determined as follows:
+
+&emsp;(A) If the beneficiary is under 62 years of age or is a dependent child when becoming entitled to the annuity, the monthly annuity shall be the amount equal to a percentage of the base amount that—
+
+&emsp;&emsp;(i) is less than 55 percent; and
+
+&emsp;&emsp;(ii) is determined under subsection (f).
+
+&emsp;(B) If the beneficiary (other than a dependent child) is 62 years of age or older when becoming entitled to the annuity, the monthly annuity shall be the amount equal to a percentage of the base amount that—
+
+&emsp;&emsp;(i) is less than 35 percent; and
+
+&emsp;&emsp;(ii) is determined under subsection (f).
+
+> &emsp;However, if the beneficiary is eligible to have the annuity computed under subsection (e) and if, at the time the beneficiary becomes entitled to the annuity, computation of the annuity under that subsection is more favorable to the beneficiary, the annuity shall be computed under that subsection.
+
+(b)(1) In the case of a standard annuity provided to a beneficiary under section 1450(a)(4) of this title, the monthly annuity payable to the beneficiary shall be the amount equal to 55 percent of the retired pay of the person who elected to provide the annuity after the reduction in that pay in accordance with section 1452(c) of this title.
+
+(2) In the case of a reserve-component annuity provided to a beneficiary under section 1450(a)(4) of this title, the monthly annuity payable to the beneficiary shall be the amount equal to a percentage of the retired pay of the person who elected to provide the annuity after the reduction in such pay in accordance with section 1452(c) of this title that—
+
+&emsp;(A) is less than 55 percent; and
+
+&emsp;(B) is determined under subsection (f).
+
+(3) For the purposes of paragraph (2), a person—
+
+&emsp;(A) who provides an annuity that is determined in accordance with that paragraph;
+
+&emsp;(B) who dies before becoming 60 years of age; and
+
+&emsp;(C) who at the time of death is otherwise entitled to retired pay,
+
+> shall be considered to have been entitled to retired pay at the time of death. The retired pay of such person for the purposes of such paragraph shall be computed on the basis of the rates of basic pay in effect on the date on which the annuity provided by such person is to become effective in accordance with the designation of such person under section 1448(e) of this title.
+
+(c)(1) In the case of an annuity provided under section 1448(d) or 1448(f) of this title, the amount of the annuity shall be determined as follows:
+
+&emsp;(A) If the person receiving the annuity is under 62 years of age or is a dependent child when the member or former member dies, the monthly annuity shall be the amount equal to 55 percent of the retired pay to which the member or former member would have been entitled if the member or former member had been entitled to that pay based upon his years of active service when he died.
+
+&emsp;(B) If the person receiving the annuity (other than a dependent child) is 62 years of age or older when the member or former member dies, the monthly annuity shall be the amount equal to 35 percent of the retired pay to which the member or former member would have been entitled if the member or former member had been entitled to that pay based upon his years of active service when he died. However, if the beneficiary is eligible to have the annuity computed under subsection (e) and if, at the time the beneficiary becomes entitled to the annuity, computation of the annuity under that subsection is more favorable to the beneficiary, the annuity shall be computed under that subsection.
+
+(2) An annuity computed under paragraph (1) that is paid to a surviving spouse shall be reduced by the amount of dependency and indemnity compensation to which the surviving spouse is entitled under section 1311(a) of title 38. Any such reduction shall be effective on the date of the commencement of the period of payment of such compensation under title 38.
+
+(3) In the case of an annuity provided by reason of the service of a member described in section 1448(d)(1)(B) or 1448(d)(1)(C) of this title who first became a member of a uniformed service before September 8, 1980, the retired pay to which the member would have been entitled when he died shall be determined for purposes of paragraph (1) based upon the rate of basic pay in effect at the time of death for the grade in which the member was serving at the time of death, unless (as determined by the Secretary concerned) the member would have been entitled to be retired in a higher grade.
+
+(4) In the case of an annuity paid under section 1448(f) of this title by reason of the service of a person who first became a member of a uniformed service before September 8, 1980, the retired pay of the person providing the annuity shall for the purposes of paragraph (1) be computed on the basis of the rates of basic pay in effect on the effective date of the annuity.
+
+(d)(1) The annuity of a person whose annuity is computed under clause (A) of subsection (a)(1), (a)(2), or (c)(1) shall be reduced on the first day of the month after the month in which the person becomes 62 years of age.
+
+(2)(A) Except as provided in subparagraph (B), the reduced amount of the annuity shall be the amount of the annuity that the person would be receiving on that date if the annuity had initially been computed under clause (B) of that subsection.
+
+(B) In the case of a person eligible to have the annuity computed under subsection (e) and for whom, at the time the person becomes 62 years of age, an annuity computed with a reduction under subsection (e)(3) is more favorable than an annuity with a reduction described in subparagraph (A), the reduction in the annuity shall be computed in the same manner as a reduction under subsection (e)(3).
+
+(e)(1) The following beneficiaries under the Plan are eligible to have an annuity under the Plan computed under this subsection:
+
+&emsp;(A) A beneficiary receiving an annuity under the Plan on October 1, 1985, as the widow, widower, or former spouse of the person providing the annuity.
+
+&emsp;(B) A spouse or former spouse beneficiary of a person who on October 1, 1985—
+
+&emsp;&emsp;(i) was a participant in the Plan;
+
+&emsp;&emsp;(ii) was entitled to retired pay or was qualified for that pay except that he had not applied for and been granted that pay; or
+
+&emsp;&emsp;(iii) would have been eligible for retired pay under chapter 67 <sup>1</sup> of this title but for the fact that he was under 60 years of age.
+
+(2) Subject to paragraph (3), an annuity computed under this subsection shall be determined as follows:
+
+&emsp;(A) In the case of a beneficiary of a standard annuity under section 1450(a) of this title, the annuity shall be the amount equal to 55 percent of the base amount.
+
+&emsp;(B) In the case of a beneficiary of a reserve-component annuity under section 1450(a) of this title, the annuity shall be the percentage of the base amount that—
+
+&emsp;&emsp;(i) is less than 55 percent; and
+
+&emsp;&emsp;(ii) is determined under subsection (f).
+
+&emsp;(C) In the case of a beneficiary of an annuity under section 1448(d) or 1448(f) of this title, the annuity shall be the amount equal to 55 percent of the retired pay of the person providing the annuity (as that pay is determined under subsection (c)).
+
+(3) An annuity computed under this subsection shall be reduced by the lesser of—
+
+&emsp;(A) the amount of the survivor benefit, if any, to which the widow or widower or former spouse would be entitled under title II of the Social Security Act (42 U.S.C. 401 et seq.) based solely upon service by the person concerned as described in section 210(<i>l</i>)(1) of such Act (42 U.S.C. 410(<i>l</i>)(1)) and calculated assuming that the person concerned lives to age 65; or
+
+&emsp;(B) 40 percent of the amount of the monthly annuity as determined under paragraph (2).
+
+(4)(A) For the purpose of paragraph (3), a widow or widower or former spouse shall not be considered as entitled to a benefit under title II of the Social Security Act (42 U.S.C. 401 et seq.) to the extent that such benefit has been offset by deductions under section 203 of such Act (42 U.S.C. 403) on account of work.
+
+(B) In the computation of any reduction made under paragraph (3), there shall be excluded any period of service described in section 210(<i>l</i>)(1) of the Social Security Act (42 U.S.C. 410(<i>l</i>)(1))—
+
+&emsp;(i) which was performed after December 1, 1980; and
+
+&emsp;(ii) which involved periods of service of less than 30 continuous days for which the person concerned is entitled to receive a refund under section 6413(c) of the Internal Revenue Code of 1986 of the social security tax which the person had paid.
+
+(f) The percentage to be applied in determining the amount of an annuity computed under subsection (a)(2), (b)(2), or (e)(2)(B) shall be determined under regulations prescribed by the Secretary of Defense. Such regulations shall be prescribed taking into consideration—
+
+&emsp;(1) the age of the person electing to provide the annuity at the time of such election;
+
+&emsp;(2) the difference in age between such person and the beneficiary of the annuity;
+
+&emsp;(3) whether such person provided for the annuity to become effective (in the event he died before becoming 60 years of age) on the day after his death or on the 60th anniversary of his birth;
+
+&emsp;(4) appropriate group annuity tables; and
+
+&emsp;(5) such other factors as the Secretary considers relevant.
+
+(g)(1) Whenever retired pay is increased under section 1401a of this title (or any other provision of law), each annuity that is payable under the Plan shall be increased at the same time. The increase shall, in the case of any annuity, be by the same percent as the percent by which the retired pay of the person providing the annuity would have been increased at such time if the person were alive (and otherwise entitled to such pay). The amount of the increase shall be based on the monthly annuity payable before any reduction under section 1450(c) of this title or under subsection (c)(2).
+
+(2) The monthly amount of an annuity payable under this subchapter, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
+
+(h)(1) Whenever retired pay is increased under section 1401a of this title (or any other provision of law), the base amount applicable to each participant in the Plan shall be increased at the same time. The increase shall be by the same percent as the percent by which the retired pay of the participant is increased.
+
+(2) When the retired pay of a person who first became a member of a uniformed service on or after August 1, 1986, and who is a participant in the Plan is recomputed under section 1410 of this title upon the person's becoming 62 years of age, the base amount applicable to that person shall be recomputed (effective on the effective date of the recomputation of such retired pay under section 1410 of this title) so as to be the amount equal to the amount of the base amount that would be in effect on that date if increases in such base amount under paragraph (1) had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
+
+(3) Computation of a member's retired pay for purposes of this section shall be made without regard to any reduction under section 1409(b)(2) of this title.
+
+(i) In the case of an annuity under the Plan which is computed on the basis of the retired pay of a member or former member who would have been entitled to have that retired pay recomputed under section 1410 of this title upon attaining 62 years of age, but who died before attaining such age, such annuity shall be recomputed, effective on the first day of the first month beginning after the date on which the member or former member would have attained 62 years of age, so as to be the amount equal to the amount of the annuity that would be in effect on that date if increases under subsection (h)(1) in the base amount applicable to that annuity to the time of the death of the member or former member, and increases in such annuity under subsection (g)(1), had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
+
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 709; amended Pub. L. 94–496, §1(4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §204, Sept. 30, 1978, 92 Stat. 846; Pub. L. 96–402, §3, Oct. 9, 1980, 94 Stat. 1705; Pub. L. 97–22, §11(a)(4), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §922(a)(14)(B), Sept. 24, 1983, 97 Stat. 642; Pub. L. 98–525, title VI, §641(a), Oct. 19, 1984, 98 Stat. 2545; Pub. L. 99–145, title VII, §711(a), (b), Nov. 8, 1985, 99 Stat. 666, 670; Pub. L. 99–348, title III, §301(a)(2), (b), (c), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title VI, §642(b), title XIII, §1343(a)(8)(D), Nov. 14, 1986, 100 Stat. 3886, 3992; Pub. L. 100–26, §7(h)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–224, §3(a), (c), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 100–456, div. A, title VI, §652(a), Sept. 29, 1988, 102 Stat. 1991; Pub. L. 101–189, div. A, title XIV, §§1403(a), 1407(a)(5)–(8), (b)(1), Nov. 29, 1989, 103 Stat. 1579, 1588, 1589; Pub. L. 103–337, div. A, title X, §1070(e)(4), Oct. 5, 1994, 108 Stat. 2859.)
+
+#### References in Text
+
+Chapter 67 of this title, referred to in subsec. (e)(1)(B)(iii), was transferred to part II of subtitle E of this title, renumbered as chapter 1223, and amended generally by Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998. A new chapter 67 (§1331) of this title was added by section 1662(j)(7) of Pub. L. 103–337.
+
+The Social Security Act, referred to in subsec. (e)(3)(A), (4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+Section 6413(c) of the Internal Revenue Code of 1986, referred to in subsec. (e)(4)(B)(ii), is classified to section 6413(c) of Title 26, Internal Revenue Code.
+
+#### Amendments
+
+1994—Subsec. (c)(2). Pub. L. 103–337 substituted “section 1311(a) of title 38” for “section 411(a) of title 38”.
+
+1989—Subsec. (c)(3). Pub. L. 101–189, §1403(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In the case of an annuity provided by a member described in section 1448(d)(1)(C) of this title, the retired pay to which the member would have been entitled when he died shall be determined based upon the rate of basic pay in effect at the time of death for the highest grade other than a commissioned officer grade in which the member served on active duty satisfactorily, as determined by the Secretary concerned.”
+
+Subsec. (c)(4). Pub. L. 101–189, §1407(a)(5), inserted “by reason of the service of a person who first became a member of a uniformed service before September 8, 1980”.
+
+Subsec. (e)(1). Pub. L. 101–189, §1407(a)(6), substituted “beneficiaries under the Plan” for “beneficiaries under the plan” in introductory provisions.
+
+Subsec. (e)(1)(B). Pub. L. 101–189, §1407(a)(7), in cl. (i), substituted “was” for “is”, in cl. (ii), substituted “was” for “is” in two places and “had” for “has”, and in cl. (iii), substituted “would have been” for “would be” and “was” for “is”.
+
+Subsec. (e)(2)(A), (B). Pub. L. 101–189, §1407(a)(8), struck out “(as the base amount is adjusted from time to time under section 1401a of this title)” after “base amount”.
+
+Subsec. (e)(3)(A), (4)(A). Pub. L. 101–189, §1407(b)(1), inserted “or former spouse” after “widow or widower”.
+
+1988—Subsec. (e)(1). Pub. L. 100–456 substituted “widow, widower, or former spouse” for “widow or widower” in subpar. (A), and inserted “or former spouse” after “A spouse” in subpar. (B).
+
+1987—Subsec. (a)(1)(A), (B), (2)(A), (B). Pub. L. 100–224, §3(a)(2), struck out “(as the base amount is adjusted from time to time under section 1401a of this title)” after “base amount”.
+
+Subsec. (e)(4)(B)(ii). Pub. L. 100–26 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+
+Subsec. (h). Pub. L. 100–224, §3(a)(1), designated existing provisions of subsec. (h) as par. (3) and added pars. (1) and (2).
+
+Subsec. (i). Pub. L. 100–224, §3(c), substituted “so as to be the amount equal to the amount of the annuity that would be in effect on that date if increases under subsection (h)(1) in the base amount applicable to that annuity to the time of the death of the member or former member, and increases in such annuity under subsection (g)(1), had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section)” for “on the basis of the amount of retired pay to which the member or former member would have been entitled upon recomputation of such pay effective on such date under section 1410 of this title, had the member or former member attained such age”.
+
+1986—Subsec. (a)(1)(A). Pub. L. 99–661, §1343(a)(8)(D), substituted “section” for “subsection” before “1401a of this title”.
+
+Pub. L. 99–661, §642(b)(1)(A), inserted “or is a dependent child”.
+
+Subsec. (a)(1)(B). Pub. L. 99–661, §642(b)(1)(B), inserted “(other than a dependent child)”.
+
+Subsec. (a)(2)(A). Pub. L. 99–661, §642(b)(1)(A), inserted “or is a dependent child”.
+
+Subsec. (a)(2)(B). Pub. L. 99–661, §642(b)(1)(B), inserted “(other than a dependent child)”.
+
+Subsec. (c)(1)(A). Pub. L. 99–661, §642(b)(2)(A), inserted “or is a dependent child”.
+
+Subsec. (c)(1)(B). Pub. L. 99–661, §642(b)(2)(B), inserted “(other than a dependent child)”.
+
+Subsec. (g)(1). Pub. L. 99–348, §301(b), struck out “by the same total percent” after “same time” in first sentence, and inserted provision that the increase, in the case of any annuity, be by the same percent as the percent by which the retired pay of the person providing the annuity would have been increased at such time if the person were alive, and otherwise entitled to such pay.
+
+Subsecs. (h), (i). Pub. L. 99–348, §301(a)(2), (c), added subsecs. (h) and (i).
+
+1985—Pub. L. 99–145, §711(a), amended section generally, eliminating the social security offset to the Plan and establishing a two-tier system under which the beneficiary would receive 55 percent of retired pay before age 62 and 35 percent thereafter in recognition of the entitlement to social security based on military service, and providing benefits to certain beneficiaries under either the old social security offset system or the new two-tier system, whichever is higher.
+
+Subsec. (a)(3). Pub. L. 99–145, §711(b), repealed Pub. L. 98–525, §641(a), effective Sept. 1, 1985. See 1984 Amendment note below.
+
+1984—Subsec. (a)(3). Pub. L. 98–525, §641(a), which substituted “is entitled” for “would be entitled” after “widow or widower” in first sentence and inserted “or to the extent that the benefit to which the beneficiary is entitled is based on the beneficiary's own earnings or self-employment” at end of second sentence, was repealed effective Sept. 1, 1985, by Pub. L. 99–145, §711(b). See Effective Date of 1984 Amendment note below.
+
+1983—Subsec. (e). Pub. L. 98–94 added subsec. (e).
+
+1981—Subsec. (a)(4). Pub. L. 97–22 substituted “December 1, 1980” for “the effective date of the Uniformed Services Survivor Benefits Amendments of 1980”.
+
+1980—Subsec. (a). Pub. L. 96–402, §3(a), in revising subsec. (a), designated as par. (1)(A) and (B) existing first sentence containing cls. (1) and (2) and provided in subpar. (A) for adjustment of the annuity from time to time under section 1401a of this title and in subpar. (B) for a similar adjustment after the date the person becomes entitled to retired pay under chapter 67 of this title; designated as par. (2) existing second sentence but provided for reduction of the annuity by the lesser of amounts indicated in subpar. (A) or (B), previously limited to reduction by amount prescribed in predecessor of subpar. (A) provision; designated existing third and fourth sentences as par. (3) and inserted annuity reduction provision described for par. (2); and added par. (4).
+
+Subsec. (c). Pub. L. 96–402, §3(b), substituted in first sentence “this section or under section 1448(d) of this title” for “this section, or section 1448(d) of this title, on the day before the effective day of that increase” and in second sentence “title or under” for “title, or” before “subsection (a)”.
+
+Subsec. (d). Pub. L. 96–402, §3(c), substituted reference to “subsection (a)(1)(B)” for “subsection (a)(2)”.
+
+1978—Subsec. (a). Pub. L. 95–397, §204(a), (b), substituted “The monthly annuity payable to a widow, widower, or dependent child who is entitled under section 1450(a) of this title to an annuity shall be—” for “If the widow or widower is under age 62 or there is a dependent child, the monthly annuity payable to the widow, widower, or dependent child, under section 1450 of this title shall be equal to 55 percent of the base amount.”, and added pars. (1) and (2), and substituted “For the purpose of the preceding sentence, a widow or widower shall not be considered as entitled to a benefit under subchapter II of chapter 7 of title 42 to the extent that such benefit has been offset by deductions under section 403 of title 42 on account of work” for “For the purpose of the preceding sentence, a widow or widower shall be considered as entitled to a benefit under subchapter II of chapter 7 of title 42 even though that benefit has been offset by deductions under section 403 of title 42 on account of work”.
+
+Subsec. (b). Pub. L. 95–397, §204(c), substituted “The monthly annuity payable under section 1450(a)(4) of this title shall be—” for “The monthly annuity payable under section 1450(a)(4) of this title shall be 55 percent of the retired or retainer pay of the person who elected to provide that annuity after the reduction in that retired or retainer pay in accordance with section 1452(c)of this title.”, added pars. (1) and (2) and provision following par. (2) relating to the entitlement to retirement pay, and computation thereof, by a person who provided an annuity and who dies before becoming 60 years of age.
+
+Subsec. (d). Pub. L. 95–397, §204(d), added subsec. (d).
+
+1976—Subsec. (b). Pub. L. 94–496 substituted “(a)(4)” for “(a)(3)”.
+
+#### Effective Date of 1989 Amendment
+
+Section 1407(b)(2) of Pub. L. 101–189 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply only with respect to the computation of an annuity for a person who becomes a former spouse under a divorce that becomes final after the date of the enactment of this Act \[Nov. 29, 1989\].”
+
+#### Effective Date of 1988 Amendment
+
+Section 652(b) of Pub. L. 100–456 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to payments under the Survivor Benefit Plan established under subchapter II of chapter 73 of title 10, United States Code, for periods after February 28, 1986.”
+
+#### Effective Date of 1986 Amendment
+
+Amendment by section 642(b) of Pub. L. 99–661 applicable to payments for periods after Feb. 28, 1986, see section 642(c) of Pub. L. 99–661, set out as a note under section 1448 of this title.
+
+#### Effective Date of 1985 Amendment
+
+Amendment by section 711(a) of Pub. L. 99–145 effective Mar. 1, 1986, with prohibition against accrual of benefits to any person by reason of the enactment of such title VII for any period before Mar. 1, 1986, see section 731 of Pub. L. 99–145, set out as a note under section 1447 of this title.
+
+Section 711(b) of Pub. L. 99–145 provided that the repeal of section 641 of Pub. L. 98–525 \[amending this section and enacting provision set out below\] is effective Sept. 1, 1985.
+
+#### Effective Date of 1984 Amendment
+
+Section 641(b) of Pub. L. 98–525, which provided that the amendments made by subsection (a), amending this section, was applicable only in the case of payments of annuities payable for periods that began on or after Sept. 30, 1985, was repealed effective Sept. 1, 1985, by section 711(b) of Pub. L. 99–145.
+
+#### Effective Date of 1983 Amendment
+
+Amendment by Pub. L. 98–94 effective Oct. 1, 1983, see section 922(e) of Pub. L. 98–94, set out as a note under section 1401 of this title.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–402 effective Dec. 1, 1980, applicable to annuities payable for months beginning on or after such date, and prohibiting accrual of benefits for any period before Oct. 9, 1980, see section 7 of Pub. L. 96–402, set out as a note under section 1447 of this title.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuities payable by virtue of amendment for months beginning on or after such date, see section 210 of Pub. L. 95–397, set out as a note under section 1447 of this title.
+
+#### Effective Date of 1976 Amendment
+
+Amendment by Pub. L. 94–496 effective Sept. 11, 1972, see section 3 of Pub. L. 94–496, set out as a note under section 1447 of this title.
+
+#### Adjustment of Annuities for Survivors of Certain Members Who Died While on Active Duty Between September 21, 1972 and November 29, 1990
+
+Section 1403(b)–(d) of Pub. L. 101–189 provided that:
+
+“(b)
+
+Adjustment of Annuities Already in Effect.—
+
+&emsp;“(1)
+
+Recomputation.—The Secretary concerned shall recompute the annuity of any person who on the effective date specified in subsection (d) is entitled to an annuity under the Survivor Benefit Plan by reason of eligibility described in section 1448(d)(1)(B) or 1448(d)(1)(C) of title 10, United States Code, and who is further described in subsection (c).
+
+&emsp;“(2)
+
+Amount of recomputed annuities.—The amount of the annuity as so recomputed shall be the amount that would be in effect for that annuity on the effective date specified in subsection (d) if the annuity had originally been computed subject to the provisions of paragraph (3) of section 1451(c) of title 10, United States Code, as amended by subsection (a).
+
+“(c)
+
+Persons Eligible for Recomputation.—A person is eligible to have an annuity under the Survivor Benefit Plan recomputed under subsection (b) if—
+
+&emsp;“(1) the annuity is based upon the service of a member of the uniformed services who died on active duty during the period beginning on September 21, 1972, and ending on the effective date specified in subsection (d); and
+
+&emsp;“(2) the retired pay of that member for the purposes of determining the amount of the annuity under the Survivor Benefit Plan was computed using a rate of basic pay lower than the rate of basic pay in effect at the time of death for the grade in which the member was serving at the time of death.
+
+“(d)
+
+Effective Date.—An annuity recomputed under subsection (b) shall take effect as so recomputed on March 1, 1990.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1448, 1450, 1457, 1458 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

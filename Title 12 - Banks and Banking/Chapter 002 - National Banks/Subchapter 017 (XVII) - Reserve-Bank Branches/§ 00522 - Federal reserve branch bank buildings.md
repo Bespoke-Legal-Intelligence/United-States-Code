@@ -1,0 +1,22 @@
+### §522. Federal reserve branch bank buildings
+
+No Federal Reserve <sup>1</sup> bank may authorize the acquisition or construction of any branch building, or enter into any contract or other obligation for the acquisition or construction of any branch building, without the approval of the Board.
+
+(Dec. 23, 1913, ch. 6, §10 (par.), as added June 3, 1922, ch. 205, 42 Stat. 622; amended Feb. 6, 1923, ch. 60, 42 Stat. 1223; July 30, 1947, ch. 352, 61 Stat. 520; May 29, 1953, ch. 87, 67 Stat. 41; Aug. 31, 1962, Pub. L. 87–622, §1, 76 Stat. 418; Oct. 28, 1974, Pub. L. 93–495, title I, §108, 88 Stat. 1505; Oct. 24, 1992, Pub. L. 102–491, §2, 106 Stat. 3144.)
+
+#### Codification
+
+Section is comprised of ninth paragraph of act Dec. 23, 1913, §10, as added June 3, 1922. For classification to this title of other pars. of section 10, see Codification note set out under section 241 of this title.
+
+#### Amendments
+
+1992—Pub. L. 102–491 amended section generally. Prior to amendment, section read as follows: “No Federal reserve bank shall have authority hereafter to enter into any contract or contracts for the erection of any branch bank building of any kind or character, or to authorize the erection of any such building, if the cost of the building proper, exclusive of the cost of the vaults, permanent equipment, furnishings, and fixtures, is in excess of $250,000: <i>Provided</i>, That nothing herein shall apply to any building under construction prior to June 3, 1922: <i>Provided further</i>, That the cost as above specified shall not be so limited as long as the aggregate of such costs which are incurred by all Federal Reserve banks for branch bank buildings with the approval of the Board of Governors after July 30, 1947 does not exceed $140,000,000.”
+
+1974—Pub. L. 93–495 increased from $60,000,000 to $140,000,000 the limitation on aggregate costs of constructing branch bank buildings.
+
+1962—Pub. L. 87–622 increased from $30,000,000 to $60,000,000 the limitation on aggregate costs of constructing branch bank buildings.
+
+1953—Act May 29, 1953, increased from $10,000,000 to $30,000,000 the limitation on aggregate cost of constructing branch bank buildings.
+
+1947—Act July 30, 1947, inserted proviso exempting limitation on cost of construction where aggregate costs do not exceed $10,000,000.
+

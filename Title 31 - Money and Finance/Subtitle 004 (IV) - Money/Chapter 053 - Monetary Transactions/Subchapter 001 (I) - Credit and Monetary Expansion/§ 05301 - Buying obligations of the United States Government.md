@@ -1,0 +1,52 @@
+### §5301. Buying obligations of the United States Government
+
+(a) The President may direct the Secretary of the Treasury to make an agreement with the Federal reserve banks and the Board of Governors of the Federal Reserve System when the President decides that the foreign commerce of the United States is affected adversely because—
+
+&emsp;(1) the value of coins and currency of a foreign country compared to the present standard value of gold is depreciating;
+
+&emsp;(2) action is necessary to regulate and maintain the parity of United States coins and currency;
+
+&emsp;(3) an economic emergency requires an expansion of credit; or
+
+&emsp;(4) an expansion of credit is necessary so that the United States Government and the governments of other countries can stabilize the value of coins and currencies of a country.
+
+(b) Under an agreement under subsection (a) of this section, the Board shall permit the banks (and the Board is authorized to permit the banks notwithstanding another law) to agree that the banks will—
+
+&emsp;(1) conduct through each entire specified period open market operations in obligations of the United States Government or corporations in which the Government is the majority stockholder; and
+
+&emsp;(2) buy directly and hold an additional $3,000,000,000 of obligations of the Government for each agreed period, unless the Secretary consents to the sale of the obligations before the end of the period.
+
+(c) With the approval of the Secretary, the Board may require Federal reserve banks to take action the Secretary and Board consider necessary to prevent unreasonable credit expansion.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 993.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+5301(a), (b)
+
+31:821(less (a)(last sentence)).
+
+May 12, 1933, ch. 25, §43(less (b)(1)(last sentence)), 48 Stat. 51; Jan. 30, 1934, ch. 6, §12, 48 Stat. 342; Jan. 23, 1937, ch. 5, §2, 50 Stat. 4; July 6, 1939, ch. 260, §3, 53 Stat. 998; June 30, 1941, ch. 265, §2, 55 Stat. 396; June 12, 1945, ch. 186, §4, 59 Stat. 238; Mar. 18, 1968, Pub. L. 90–269, §9, 82 Stat. 50.
+
+5301(c)
+
+31:821(a)(last sentence).
+
+In subsection (a), before clause (1), the text of 31:821(b)(matter before (1)) is omitted as obsolete because clause (1) is omitted as executed, and clause (2) is omitted as expired. The text of 31:821(b)(matter after (2)) is omitted as obsolete because silver is no longer coined. The words “in his discretion” and “several” are omitted as surplus. The words “Board of Governors of the Federal Reserve System” are substituted for “Federal Reserve Board” because of 12:241. The words “upon investigation” are omitted as surplus. In clause (1), the word “foreign” is substituted for “of any other government or governments” to eliminate unnecessary words. The words “coins and” are added for consistency. In clause (2), the words “United States coins and currency” are substituted for “currency issues of the United States” for consistency. In clause (4), the words “so that the United States Government and the governments of other countries can stabilize” are substituted for “to secure by international agreement a stabilization” for clarity. The words “at proper levels” are omitted as surplus.
+
+In subsection (b), before clause (1), the words “(and the Board is authorized to permit the banks notwithstanding another law)” are substituted for “notwithstanding any provisions of law or rules and regulations to the contrary” for clarity. In clause (1), the words “pursuant to existing law” are omitted as surplus. The words “through each entire” are substituted for “throughout” for clarity. In clause (2), the words “in portfolio”, “or periods of time Treasury bills or other” and “in an aggregate sum of” are omitted as surplus.
+
+#### Short Title of 1994 Amendment
+
+Pub. L. 103–325, title IV, §401, Sept. 23, 1994, 108 Stat. 2243, provided that: “This title \[enacting section 5330 of this title, amending sections 5312, 5313, 5318, 5321, 5322, and 5324 of this title, sections 93, 1464, 1772d, 1786, 1818, and 1821 of Title 12, Banks and Banking, and sections 984, 986, 1956, 1957, and 1960 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 5311, 5313, 5318, and 5330 of this title\] may be cited as the ‘Money Laundering Suppression Act of 1994’.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5304 of this title.
+

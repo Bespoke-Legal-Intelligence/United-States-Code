@@ -1,0 +1,30 @@
+### §3763. Application requirements
+
+(a) No grant may be made under this part unless an application has been submitted to the Director in which the applicant—
+
+&emsp;(1) sets forth a program or project which is eligible for funding pursuant to section 3761 or 3762a of this title;
+
+&emsp;(2) describes the services to be provided, performance goals, and the manner in which the program is to be carried out;
+
+&emsp;(3) describes the method to be used to evaluate the program or project in order to determine its impact and effectiveness in achieving the stated goals; and
+
+&emsp;(4) agrees to conduct such evaluation according to the procedures and terms established by the Bureau.
+
+(b) Each applicant for funds under this part shall certify that its program or project meets all the applicable requirements of this section, that all the applicable information contained in the application is correct, and that the applicant will comply with all the applicable provisions of this part and all other applicable Federal laws. Such certification shall be made in a form acceptable to the Director.
+
+(Pub. L. 90–351, title I, §517, formerly §513, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4336; renumbered §517 and amended Pub. L. 101–647, title XVIII, §1801(a)(4), (6), Nov. 29, 1990, 104 Stat. 4847.)
+
+#### Prior Provisions
+
+For prior section 517 of Pub. L. 90–351 and prior sections 3763 of this title, see note set out preceding section 3750 of this title.
+
+#### Amendments
+
+1990—Subsec. (a)(1). Pub. L. 101–647, §1801(a)(4)(A), inserted “or 3762a” after “3761”.
+
+Subsec. (b). Pub. L. 101–647, §1801(a)(4)(B), inserted “applicable” after “all the” in three places.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3796gg–1 of this title.
+

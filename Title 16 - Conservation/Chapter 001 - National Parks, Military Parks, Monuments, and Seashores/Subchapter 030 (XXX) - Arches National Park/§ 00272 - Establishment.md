@@ -1,0 +1,16 @@
+### §272 . Establishment
+
+#### (a) Description of area
+
+Subject to valid existing rights, the lands, waters, and interests therein within the boundary generally depicted on the map entitled “Boundary Map, Proposed Arches National Park, Utah,” numbered RPSSC–138–20, 001E and dated September 1969, are hereby established as the Arches National Park (hereinafter referred to as the “park”). Such map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
+
+#### (b) Abolition of Arches National Monument; funds of monument available for park; administration of lands excluded from monument
+
+The Arches National Monument is hereby abolished, and any funds available for purposes of the monument shall be available for purposes of the park. Federal lands, waters, and interests therein excluded from the monument by this subchapter shall be administered by the Secretary of the Interior (hereinafter referred to as the “Secretary”) in accordance with the laws applicable to the public lands of the United States.
+
+(Pub. L. 92–155, §1, Nov. 12, 1971, 85 Stat. 422.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 272a of this title.
+

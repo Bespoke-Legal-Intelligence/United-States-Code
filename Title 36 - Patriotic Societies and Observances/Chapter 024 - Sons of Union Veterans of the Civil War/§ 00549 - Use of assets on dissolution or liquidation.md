@@ -1,0 +1,6 @@
+### §549. Use of assets on dissolution or liquidation
+
+Upon dissolution or final liquidation of the corporation, after discharge or satisfaction of all outstanding obligations and liabilities, the remaining assets, if any, of the corporation shall be distributed in accordance with the determination of the council of administration and in compliance with the constitution and bylaws of the corporation and all Federal and State laws applicable thereto.
+
+(Aug. 20, 1954, ch. 774, §19, 68 Stat. 752.)
+

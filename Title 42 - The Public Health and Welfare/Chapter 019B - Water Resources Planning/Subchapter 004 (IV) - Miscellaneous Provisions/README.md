@@ -1,0 +1,38 @@
+### SUBCHAPTER IV—MISCELLANEOUS PROVISIONS
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 01962d - Authorization of appropriations to the Water Resources Council](%C2%A7%2001962d%20-%20Authorization%20of%20appropriations%20to%20the%20Water%20Resources%20Council.md)
+- [&sect; 01962d&#8211;1 - Rules and regulations](%C2%A7%2001962d%E2%80%931%20-%20Rules%20and%20regulations.md)
+- [&sect; 01962d&#8211;2 - Delegation of functions](%C2%A7%2001962d%E2%80%932%20-%20Delegation%20of%20functions.md)
+- [&sect; 01962d&#8211;3 - Utilization of personnel](%C2%A7%2001962d%E2%80%933%20-%20Utilization%20of%20personnel.md)
+- [&sect; 01962d&#8211;4 - Northeastern United States water supply](%C2%A7%2001962d%E2%80%934%20-%20Northeastern%20United%20States%20water%20supply.md)
+- [&sect; 01962d&#8211;5 - Water resources development projects involving navigation, flood control, and shore protection](%C2%A7%2001962d%E2%80%935%20-%20Water%20resources%20development%20projects%20involving%20navigation%2C%20flood%20control%2C%20and%20shore%20protection.md)
+- [&sect; 01962d&#8211;5a - Reimbursement to States](%C2%A7%2001962d%E2%80%935a%20-%20Reimbursement%20to%20States.md)
+- [&sect; 01962d&#8211;5b - Water resources projects; written agreement requirement](%C2%A7%2001962d%E2%80%935b%20-%20Water%20resources%20projects%3B%20written%20agreement%20requirement.md)
+- [&sect; 01962d&#8211;5c - Non-Federal public bodies, installment construction payments](%C2%A7%2001962d%E2%80%935c%20-%20Non-Federal%20public%20bodies%2C%20installment%20construction%20payments.md)
+- [&sect; 01962d&#8211;5d - Authorization of Secretary of the Army to contract with States and political subdivisions for increased law enforcement services&#8230;](%C2%A7%2001962d%E2%80%935d%20-%20Authorization%20of%20Secretary%20of%20the%20Army%20to%20contract%20with%20States%20and%20political%20subdivisions%20for%20increased%20law%20enforcement%20services%E2%80%A6.md)
+- [&sect; 01962d&#8211;5e - Wetland areas](%C2%A7%2001962d%E2%80%935e%20-%20Wetland%20areas.md)
+- [&sect; 01962d&#8211;5f - Beach nourishment](%C2%A7%2001962d%E2%80%935f%20-%20Beach%20nourishment.md)
+- [&sect; 01962d&#8211;5g - Hydroelectric power resources](%C2%A7%2001962d%E2%80%935g%20-%20Hydroelectric%20power%20resources.md)
+- [&sect; 01962d&#8211;6 - Feasibility studies; acceleration; advancement of costs by non-Federal sources](%C2%A7%2001962d%E2%80%936%20-%20Feasibility%20studies%3B%20acceleration%3B%20advancement%20of%20costs%20by%20non-Federal%20sources.md)
+- [&sect; 01962d&#8211;7 - Delmarva Peninsula hydrologic study; duties of Secretary of the Interior](%C2%A7%2001962d%E2%80%937%20-%20Delmarva%20Peninsula%20hydrologic%20study%3B%20duties%20of%20Secretary%20of%20the%20Interior.md)
+- [&sect; 01962d&#8211;8 - Reports on Delmarva Peninsula hydrologic study](%C2%A7%2001962d%E2%80%938%20-%20Reports%20on%20Delmarva%20Peninsula%20hydrologic%20study.md)
+- [&sect; 01962d&#8211;9 - Information from Federal agencies for Delmarva Peninsula study](%C2%A7%2001962d%E2%80%939%20-%20Information%20from%20Federal%20agencies%20for%20Delmarva%20Peninsula%20study.md)
+- [&sect; 01962d&#8211;10 - Cooperation with agencies on Delmarva Peninsula study](%C2%A7%2001962d%E2%80%9310%20-%20Cooperation%20with%20agencies%20on%20Delmarva%20Peninsula%20study.md)
+- [&sect; 01962d&#8211;11 - Authorization of appropriation for Delmarva Peninsula study](%C2%A7%2001962d%E2%80%9311%20-%20Authorization%20of%20appropriation%20for%20Delmarva%20Peninsula%20study.md)
+- [&sect; 01962d&#8211;11a - Potomac River water diversion structure](%C2%A7%2001962d%E2%80%9311a%20-%20Potomac%20River%20water%20diversion%20structure.md)
+- [&sect; 01962d&#8211;11b - Dalecarlia Reservoir; delivery of water to metropolitan Maryland; expenses; payments; purchase of water from State or local&#8230;](%C2%A7%2001962d%E2%80%9311b%20-%20Dalecarlia%20Reservoir%3B%20delivery%20of%20water%20to%20metropolitan%20Maryland%3B%20expenses%3B%20payments%3B%20purchase%20of%20water%20from%20State%20or%20local%E2%80%A6.md)
+- [&sect; 01962d&#8211;12 - Alaskan water resources; investigations of projects for conservation, development, and utilization; reports](%C2%A7%2001962d%E2%80%9312%20-%20Alaskan%20water%20resources%3B%20investigations%20of%20projects%20for%20conservation%2C%20development%2C%20and%20utilization%3B%20reports.md)
+- [&sect; 01962d&#8211;13 - Solicitation of views and recommendations on Alaskan water resources; transmittal of report to Congress](%C2%A7%2001962d%E2%80%9313%20-%20Solicitation%20of%20views%20and%20recommendations%20on%20Alaskan%20water%20resources%3B%20transmittal%20of%20report%20to%20Congress.md)
+- [&sect; 01962d&#8211;14 - Authorization of appropriations for Alaskan water resources investigation](%C2%A7%2001962d%E2%80%9314%20-%20Authorization%20of%20appropriations%20for%20Alaskan%20water%20resources%20investigation.md)
+- [&sect; 01962d&#8211;14a - Alaska hydroelectric power development](%C2%A7%2001962d%E2%80%9314a%20-%20Alaska%20hydroelectric%20power%20development.md)
+- [&sect; 01962d&#8211;15 - Protection of United States from liability for damages; exception of damages due to fault or negligence of United States](%C2%A7%2001962d%E2%80%9315%20-%20Protection%20of%20United%20States%20from%20liability%20for%20damages%3B%20exception%20of%20damages%20due%20to%20fault%20or%20negligence%20of%20United%20States.md)
+- [&sect; 01962d&#8211;16 - Comprehensive plans for development, utilization, and conservation of water and related resources](%C2%A7%2001962d%E2%80%9316%20-%20Comprehensive%20plans%20for%20development%2C%20utilization%2C%20and%20conservation%20of%20water%20and%20related%20resources.md)
+- [&sect; 01962d&#8211;17 - Regional or river basin plans and Federal water and related land resources projects; preparation, formulation, and evaluation](%C2%A7%2001962d%E2%80%9317%20-%20Regional%20or%20river%20basin%20plans%20and%20Federal%20water%20and%20related%20land%20resources%20projects%3B%20preparation%2C%20formulation%2C%20and%20evaluation.md)
+- [&sect; 01962d&#8211;18 - Study of depletion of natural resources of regions of Colorado, Kansas, New Mexico, Oklahoma, Texas, and Nebraska utilizing Ogallala&#8230;](%C2%A7%2001962d%E2%80%9318%20-%20Study%20of%20depletion%20of%20natural%20resources%20of%20regions%20of%20Colorado%2C%20Kansas%2C%20New%20Mexico%2C%20Oklahoma%2C%20Texas%2C%20and%20Nebraska%20utilizing%20Ogallala%E2%80%A6.md)
+- [&sect; 01962d&#8211;19 - Cooperation of Secretary of the Interior with State and local regulatory and law enforcement officials in enforcement of laws or&#8230;](%C2%A7%2001962d%E2%80%9319%20-%20Cooperation%20of%20Secretary%20of%20the%20Interior%20with%20State%20and%20local%20regulatory%20and%20law%20enforcement%20officials%20in%20enforcement%20of%20laws%20or%E2%80%A6.md)
+- [&sect; 01962d&#8211;20 - Prohibition on Great Lakes diversions](%C2%A7%2001962d%E2%80%9320%20-%20Prohibition%20on%20Great%20Lakes%20diversions.md)

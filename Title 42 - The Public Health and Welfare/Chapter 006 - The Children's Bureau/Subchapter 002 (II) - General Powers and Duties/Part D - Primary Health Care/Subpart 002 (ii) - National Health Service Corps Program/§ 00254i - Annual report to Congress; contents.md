@@ -1,0 +1,32 @@
+### §254i. Annual report to Congress; contents
+
+The Secretary shall submit an annual report to Congress, and shall include in such report with respect to the previous calendar year—
+
+&emsp;(1) the number, identity, and priority of all health professional shortage areas designated in such year and the number of health professional shortage areas which the Secretary estimates will be designated in the subsequent year;
+
+&emsp;(2) the number of applications filed under section 254f of this title in such year for assignment of Corps members and the action taken on each such application;
+
+&emsp;(3) the number and types of Corps members assigned in such year to health professional shortage areas, the number and types of additional Corps members which the Secretary estimates will be assigned to such areas in the subsequent year, and the need for additional members for the Corps;
+
+&emsp;(4) the recruitment efforts engaged in for the Corps in such year and the number of qualified individuals who applied for service in the Corps in such year;
+
+&emsp;(5) the number of patients seen and the number of patient visits recorded during such year with respect to each health professional shortage area to which a Corps member was assigned during such year;
+
+&emsp;(6) the number of Corps members who elected, and the number of Corps members who did not elect, to continue to provide health services in health professional shortage areas after termination of their service in the Corps and the reasons (as reported to the Secretary) of members who did not elect for not making such election;
+
+&emsp;(7) the results of evaluations and determinations made under section 254f(a)(1)(D) of this title during such year; and
+
+&emsp;(8) the amount charged during such year for health services provided by Corps members, the amount which was collected in such year by entities in accordance with agreements under section 254g of this title, and the amount which was paid to the Secretary in such year under such agreements.
+
+(July 1, 1944, ch. 373, title III, §336A, formerly §336, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §407(b)(3), 90 Stat. 2277, renumbered §336A, Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2706(a), 95 Stat. 907; amended Dec. 21, 1982, Pub. L. 97–375, title II, §206(a), 96 Stat. 1823; Nov. 16, 1990, Pub. L. 101–597, title IV, §401(b)\[(a)\], 104 Stat. 3035.)
+
+#### Amendments
+
+1990—Pars. (1), (3), (5), (6). Pub. L. 101–597 substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
+
+1982—Pub. L. 97–375 struck out “on May 1 of each year” after “report to Congress”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 254k of this title.
+

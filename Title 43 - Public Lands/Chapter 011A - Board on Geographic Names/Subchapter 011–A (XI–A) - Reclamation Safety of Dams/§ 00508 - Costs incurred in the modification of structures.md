@@ -1,0 +1,44 @@
+### §508. Costs incurred in the modification of structures
+
+#### (a) Costs resulting from age and normal deterioration or lack of maintenance of structures
+
+Costs heretofore or hereafter incurred in the modification of structures under this subchapter, the cause of which results from age and normal deterioration of the structure or from nonperformance of reasonable and normal maintenance of the structure by the operating entity shall be considered as project costs and will be allocated to the purposes for which the structure was authorized initially to be constructed and will be reimbursable as provided by existing law.
+
+#### (b) Nonreimbursable costs resulting from new hydrologic or seismic data or changes in criteria
+
+With respect to the $100,000,000 authorized to be appropriated in the Reclamation Safety of Dams Act of 1978 \[43 U.S.C. 509\], costs heretofore or hereafter incurred in the modification of structures under this subchapter, the cause of which results from new hydrologic or seismic data or changes in state-of-the-art criteria deemed necessary for safety purposes shall be nonreimbursable and nonreturnable under the Federal Reclamation law.
+
+#### (c) Reimbursable costs resulting from new hydrologic or seismic data or changes in criteria
+
+With respect to the additional $650,000,000 authorized to be appropriated in The Reclamation Safety of Dams Act Amendments of 1984, costs incurred in the modification of structures under this subchapter, the cause of which results from new hydrologic or seismic data or changes in state-of-the-art criteria deemed necessary for safety purposes, shall be reimbursed to the extent provided in this subsection.
+
+&emsp;(1) Fifteen percent of such costs shall be allocated to the authorized purposes of the structure, except that in the case of Jackson Lake Dam, Minidoka Project, Idaho-Wyoming, such costs shall be allocated in accordance with the allocation of operation and maintenance charges.
+
+&emsp;(2) Costs allocated to irrigation water service and capable of being repaid by the irrigation water users shall be reimbursed within 50 years of the year in which the work undertaken pursuant to this subchapter is substantially complete. Costs allocated to irrigation water service which are beyond the water users’ ability to pay shall be reimbursed in accordance with existing law.
+
+&emsp;(3) Costs allocated to recreation or fish and wildlife enhancement shall be reimbursed in accordance with the Federal Water Project Recreation Act (79 Stat. 213), as amended \[16 U.S.C. 460<i>l</i>–12 et seq.\].
+
+&emsp;(4) Costs allocated to the purpose of municipal, industrial, and miscellaneous water service, commercial power, and the portion of recreation and fish and wildlife enhancement costs reimbursable under the Federal Water Project Recreation Act \[16 U.S.C. 460<i>l</i>–12 et seq.\], shall be repaid within 50 years with interest. The interest rate used shall be determined by the Secretary of the Treasury, taking into consideration average market yields on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the applicable reimbursement period during the month preceding the fiscal year in which the costs are incurred. To the extent that more than one interest rate is determined pursuant to the preceding sentence, the Secretary of the Treasury shall establish an interest rate at the weighted average of the rates so determined.
+
+#### (d) Contracts for return of costs
+
+The Secretary is authorized to negotiate appropriate contracts with project beneficiaries providing for the return of reimbursable costs under this subchapter: <i>Provided, however</i>, That no contract entered into pursuant to this subchapter shall be deemed to be a new or amended contract for the purposes of section 390cc(a) of this title.
+
+(Pub. L. 95–578, §4, Nov. 2, 1978, 92 Stat. 2471; Pub. L. 98–404, §1(1), (2), Aug. 28, 1984, 98 Stat. 1481.)
+
+#### References in Text
+
+The $100,000,000 authorized to be appropriated in the Reclamation Safety of Dams Act of 1978, referred to in subsec. (b), probably refers to the authorization originally contained in section 509 of this title. See 1984 Amendment note set out under section 509 of this title.
+
+The Federal Reclamation law, referred to in subsec. (b), probably means act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, and Acts amendatory thereof and supplementary thereto, which are classified generally to this chapter. For complete classification of act June 17, 1902, to the Code, see Short Title note set out under section 371 of this title and Tables.
+
+The Reclamation Safety of Dams Act Amendments of 1984, referred to in subsec. (c) in provisions preceding par. (1), is Pub. L. 98–404, Aug. 28, 1984, 98 Stat. 1481, which amended this section and section 509 of this title. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 506 of this title and Tables.
+
+The Federal Water Project Recreation Act, referred to in subsec. (c)(3), (4), is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, as amended, which is classified principally to part C (§460<i>l</i>–12 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–12 of Title 16 and Tables.
+
+#### Amendments
+
+1984—Subsec. (b). Pub. L. 98–404, §1(1), substituted “With respect to the $100,000,000 authorized to be appropriated in the Reclamation Safety of Dams Act of 1978, costs” for “Costs”.
+
+Subsecs. (c), (d). Pub. L. 98–404, §1(2), added subsecs. (c) and (d).
+

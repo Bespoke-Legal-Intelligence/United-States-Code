@@ -1,0 +1,36 @@
+### §5056. Refund and credit of tax, or relief from liability
+
+#### (a) Beer returned or voluntarily destroyed
+
+Any tax paid by any brewer on beer produced in the United States may be refunded or credited to the brewer, without interest, or if the tax has not been paid, the brewer may be relieved of liability therefor, under such regulations as the Secretary may prescribe, if such beer is returned to any brewery of the brewer or is destroyed under the supervision required by such regulations. In determining the amount of tax due on beer removed on any day, the quantity of beer returned to the same brewery from which removed shall be allowed, under such regulations as the Secretary may prescribe, as an offset against or deduction from the total quantity of beer removed from that brewery on the day of such return.
+
+#### (b) Beer lost by fire, theft, casualty, or act of God
+
+Subject to regulations prescribed by the Secretary, the tax paid by any brewer on beer produced in the United States may be refunded or credited to the brewer, without interest, or if the tax has not been paid, the brewer may be relieved of liability therefor, if such beer is lost, whether by theft or otherwise, or is destroyed or otherwise rendered unmerchantable by fire, casualty, or act of God before the transfer of title thereto to any other person. In any case in which beer is lost or destroyed, whether by theft or otherwise, the Secretary may require the brewer to file a claim for relief from the tax and submit proof as to the cause of such loss. In every case where it appears that the loss was by theft, the first sentence shall not apply unless the brewer establishes to the satisfaction of the Secretary that such theft occurred before removal from the brewery and occurred without connivance, collusion, fraud, or negligence on the part of the brewer, consignor, consignee, bailee, or carrier, or the employees or agents of any of them.
+
+#### (c) Limitations
+
+No claim under this section shall be allowed (1) unless filed within 6 months after the date of the return, loss, destruction, or rendering unmerchantable or (2) if the claimant was indemnified by insurance or otherwise in respect of the tax.
+
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1335; amended Pub. L. 91–673, §1(a), Jan. 12, 1971, 84 Stat. 2056; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+
+#### Prior Provisions
+
+A prior section 5056, act Aug. 16, 1954, ch. 736, 68A Stat. 613, related to “drawback of tax” prior to the general revision of this chapter by Pub. L. 85–859. See section 5055 of this title.
+
+A prior section 5057, act Aug. 16, 1954, ch. 736, 68A Stat. 613, related to refund and credit of tax or relief from liability, prior to the general revision of this chapter by Pub. L. 85–859.
+
+#### Amendments
+
+1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+1971—Subsec. (a). Pub. L. 91–673 inserted provision permitting credit or refund of tax if the beer is returned to any brewery of the brewer who paid the tax, and provided for offset or deduction against amount of beer removed from the brewery on the day of return if the beer is returned to the same brewery from which it was withdrawn.
+
+Subsec. (b). Pub. L. 91–673 inserted provisions for credit or refund or relief from liability of tax when the beer is lost by theft or otherwise or rendered unmerchantable by fire, casualty or act of God, before the transfer of title to any other party, and required the brewer to file claim for relief from the tax and submit proof of the cause of the loss, and in the case of theft, to further prove that such theft occurred before removal from the brewery and without connivance, collusion, fraud, or negligence on the part of the brewer, consignor, consignee, bailee, or carrier, or the employees or agents of any of them.
+
+Subsec. (c). Pub. L. 91–673 substantially reenacted subsec. (c) to reflect changes in subsec. (b).
+
+#### Effective Date of 1971 Amendment
+
+Section 5 of Pub. L. 91–673 provided that: “The amendments made by the first four sections of this Act \[enacting section 5417 of this title and amending this section and sections 5052, 5053, 5401, 5402, 5411, 5412, and 5416 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Jan. 12, 1971\].”
+

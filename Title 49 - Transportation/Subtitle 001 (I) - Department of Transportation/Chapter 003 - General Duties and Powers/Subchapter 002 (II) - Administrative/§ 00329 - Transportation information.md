@@ -1,0 +1,104 @@
+### §329. Transportation information
+
+(a) The Secretary of Transportation may collect and collate transportation information the Secretary decides will contribute to the improvement of the transportation system of the United States. To the greatest practical extent, the Secretary shall use information available from departments, agencies, and instrumentalities of the United States Government and other sources. To the extent practical, the Secretary shall make available to other Government departments, agencies, and instrumentalities and to the public the information collected under this subsection.
+
+(b) The Secretary shall—
+
+&emsp;(1) collect and disseminate information on civil aeronautics (other than that collected and disseminated by the National Transportation Safety Board under chapter 11 of this title) including, at a minimum, information on (A) the origin and destination of passengers in interstate air transportation (as those terms are used in such Act),<sup>1</sup> and (B) the number of passengers traveling by air between any two points in interstate air transportation; except that in no case shall the Secretary require an air carrier to provide information on the number of passengers or the amount of cargo on a specific flight if the flight and the flight number under which such flight operates are used solely for interstate air transportation and are not used for providing essential air transportation under subchapter II of chapter 417 of this title;
+
+&emsp;(2) study the possibilities of developing air commerce and the aeronautical industry; and
+
+&emsp;(3) exchange information on civil aeronautics with governments of foreign countries through appropriate departments, agencies, and instrumentalities of the Government.
+
+(c)(1) On the written request of a person, a State, territory, or possession of the United States, or a political subdivision of a State, territory, or possession, the Secretary may—
+
+&emsp;(A) make special statistical studies on foreign and domestic transportation;
+
+&emsp;(B) make special studies on other matters related to duties and powers of the Secretary;
+
+&emsp;(C) prepare, from records of the Department of Transportation, special statistical compilations; and
+
+&emsp;(D) provide transcripts of studies, tables, and other records of the Department.
+
+(2) The person or governmental authority requesting information under paragraph (1) of this subsection must pay the actual cost of preparing the information. Payments shall be deposited in the Treasury in an account that the Secretary shall administer. The Secretary may use amounts in the account for the ordinary expenses incidental to getting and providing the information.
+
+(d) To assist in carrying out duties and powers under part A of subtitle VII of this title, the Secretary of Transportation shall maintain separate cooperative agreements with the Secretary of Defense and the Administrator of the National Aeronautics and Space Administration for the timely exchange of information on their programs, policies, and requirements directly related to carrying out that Act.<sup>2</sup>
+
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2426; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L.98–443, §5(a), Oct. 4, 1984, 98 Stat. 1705; Pub. L. 103–272, §4(j)(7), July 5, 1994, 108 Stat. 1366.)
+
+Historical and Revision Notes
+
+Pub. L. 97–449
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+329(a)
+
+49:1634.
+
+Sept. 30, 1965, Pub. L. 89–220, §4, 79 Stat. 893.
+
+&nbsp;
+
+49:1655(a)(2)(A) (related to 49:1634).
+
+Oct. 15, 1966, Pub. L. 89–670, §§6(a)(2)(A) (related to §4 of the Act of Sept. 30, 1965), 9(n), 80 Stat. 937, 946.
+
+329(b)
+
+49:1352.
+
+Aug. 23, 1958, Pub. L. 85–726, §311, 72 Stat. 751.
+
+329(c)(1)
+
+49:1657(n)(1) (less last 17 words).
+
+329(c)(2)
+
+49:1657(n)(1) (last 17 words), (2).
+
+329(d)
+
+49:1343(b).
+
+Aug. 23, 1958, Pub. L. 85–726, §302(d), 72 Stat. 746.
+
+In subsection (a), the word “information” is substituted for “data, statistics, and other information” in 49:1634 to eliminate unnecessary words. The words “transportation system of the United States” are substituted for “national transportation system” in 49:1634 for clarity and consistency. The words “in carrying out this activity” before “the Secretary shall” in 49:1634 are omitted as surplus. The words “departments, agencies, and instrumentalities of the United States Government” are substituted for “Federal agencies” in 49:1634 for clarity and consistency. The words “To the greatest extent practical” are substituted for “insofar as practicable” in 49:1634 for consistency. The words “The Secretary shall” are added for clarity.
+
+In subsection (b), the words “by the National Transportation Safety Board under title VII of the Federal Aviation Act of 1958 (49 U.S.C. 1441 et seq.) or the Civil Aeronautics Board under title IV of that Act (49 U.S.C. 1371 et seq.)” are substituted for “the Board under subchapter IV and VII of this chapter)” in 49:1352 because 49:1655(d) (1st sentence) transferred duties of the Civil Aeronautics Board under 49:ch. 20, subch. VII to the Secretary of Transportation to be carried out through the National Transportation Safety Board. The reference to the National Transportation Safety Board is to the independent Board established by section 303(a) of the Independent Safety Board Act of 1974 (Pub. L. 93–633, 88 Stat. 2167) outside the Department of Transportation and not to the prior Board that was a part of the Department. The words “departments, agencies, and instrumentalities of the Government” are substituted for “government channels” in 49:1352 for clarity and consistency.
+
+In subsection (c)(1), the words “of the United States” are added for clarity and consistency. The words “of a State, territory, or possession” are substituted for “thereof” after “subdivision” for clarity. The words “related to the duties and powers of the Secretary” are substituted for “falling within the province of the Department” for clarity and consistency.
+
+In subsection (c)(2), the words “governmental authority requesting information under paragraph (1) of this subsection” are substituted for “body requesting it” for clarity and consistency. The word “separate” before “account” is omitted as unnecessary and for consistency. The words “must pay” are substituted for “upon the payment” after “other records” for clarity. The words “preparing the information” are substituted for “such work” after “actual cost of” for clarity. The word “payments” is substituted for “All moneys received by the Department in payment of the cost of work under paragraph (1)” to eliminate unnecessary words. The words “in the Treasury” are added for clarity and consistency. The words “The Secretary may use amounts in the account” are substituted for “These moneys may be used, in the discretion of the Secretary” for clarity and to eliminate unnecessary words. The words “to getting and providing the information” are substituted for “to the work and/or to secure in connection therewith the special services of persons who are neither officers nor employees of the United States” for clarity and to eliminate unnecessary words.
+
+In subsection (d), the words “in carrying out duties and powers under the Federal Aviation Act of 1958 (49 U.S.C. 1301 et seq.)” are substituted for “in discharge of responsibilities under this chapter” in 49:1343(b) because of the transfer of aviation functions to the Secretary under 49:1655(c)(1) and for consistency. The words “directly related to carrying out that part” are substituted for “directly relating to such responsibilities” in 49:1343(b) because of the restatement of the source provisions.
+
+#### Pub. L. 103–272
+
+Section 4(j)(7) amends 49:329 to omit references to overseas air transportation because there no longer is a distinction between interstate air transportation and overseas air transportation.
+
+#### Amendments
+
+1994—Subsec. (b)(1). Pub. L. 103–272, §4(j)(7)(A), substituted “chapter 11 of this title” for “title VII of the Federal Aviation Act of 1958 (49 U.S.C. 1441 et seq.)”, “in interstate air transportation” for “in interstate and overseas air transportation” in two places, “for interstate air transportation” for “for interstate or overseas air transportation”, and “subchapter II of chapter 417 of this title” for “section 419 of the Federal Aviation Act of 1958”.
+
+Subsec. (d). Pub. L. 103–272, §4(j)(7)(B), substituted “part A of subtitle VII of this title” for “the Federal Aviation Act of 1958 (49 App. U.S.C. 1301 et seq.)”.
+
+1984—Subsec. (b)(1). Pub. L. 98–443 struck out reference to information collected and disseminated by the Civil Aeronautics Board under section 1371 et seq. of this title, and added cls. (A) and (B).
+
+Pub. L. 98–216 substituted “49 App. U.S.C.” for “49 U.S.C.”.
+
+Subsec. (d). Pub. L. 98–216 substituted “49 App. U.S.C.” for “49 U.S.C.”.
+
+#### Effective Date of 1984 Amendment
+
+Section 5(b) of Pub. L. 98–443 provided that: “The amendment made by this section \[amending this section\] shall take effect on January 1, 1985.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “(as that term is used in part A of subtitle VII of this title),”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “that part.”.</i>
+

@@ -1,0 +1,10 @@
+### §1603. National Forest System resource inventories; development, maintenance, and updating by Secretary of Agriculture as part of Assessment
+
+As a part of the Assessment, the Secretary of Agriculture shall develop and maintain on a continuing basis a comprehensive and appropriately detailed inventory of all National Forest System lands and renewable resources. This inventory shall be kept current so as to reflect changes in conditions and identify new and emerging resources and values.
+
+(Pub. L. 93–378, §5, formerly §4, Aug. 17, 1974, 88 Stat. 477, renumbered §5, Pub. L. 94–588, §2, Oct. 22, 1976, 90 Stat. 2949.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 43 section 1903.
+

@@ -1,0 +1,74 @@
+### §545a. Establishment of Mount Pleasant National Scenic Area
+
+#### (a) In general
+
+#### (1) Establishment
+
+&emsp;There is hereby established in the George Washington National Forest, Virginia, the George Washington National Forest Mount Pleasant Scenic Area (in this section referred to as the “scenic area”).
+
+#### (2) Lands included in scenic area
+
+&emsp;The scenic area shall consist of certain lands in the George Washington National Forest, Virginia, which comprise approximately seven thousand five hundred and eighty acres, as generally depicted on a map entitled “Mount Pleasant National Scenic Area—Proposed”, dated June 21, 1993.
+
+#### (3) Maps and descriptions
+
+&emsp;As soon as practicable after August 26, 1994, the Secretary shall file a map and boundary description of the scenic area with the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives. The map and description shall have the same force and effect as if included in sections 545 and 545a of this title, except that the Secretary is authorized to correct clerical and typographical errors in such boundary description and map. Such map and boundary description shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture. In the case of any discrepancy between the acreage and the map described in paragraph (2), the map shall control.
+
+#### (b) Administration
+
+#### (1) In general
+
+&emsp;The Secretary of Agriculture (in this section referred to as the “Secretary”) shall administer the scenic area in accordance with sections 545 and 545a of this title and the laws and regulations generally applicable to the National Forest System. In the event of conflict between sections 545 and 545a of this title and other laws and regulations, sections 545 and 545a of this title shall take precedence.
+
+#### (2) Management plan
+
+&emsp;Within three years after August 26, 1994, the Secretary shall develop a management plan for the scenic area as an amendment to the Land and Resource Management Plan for the George Washington National Forest. Such an amendment shall conform to the provisions of sections 545 and 545a of this title. Nothing in sections 545 and 545a of this title shall require the Secretary to revise the Land and Resource Management Plan for the George Washington National Forest pursuant to section 1604 of this title.
+
+#### (c) Roads
+
+After August 26, 1994, no new permanent roads shall be constructed within the scenic area, except that this prohibition shall not be construed to deny access to private lands or interests therein in the scenic area.
+
+#### (d) Vegetation management
+
+No timber harvest shall be allowed within the scenic area, except as may be necessary in the control of fire, insects, and diseases and to provide for public safety and trail access. Notwithstanding the foregoing, the Secretary may engage in vegetation manipulation practices for maintenance of existing wildlife clearings and visual quality. Firewood may be harvested for personal use along perimeter roads under such conditions as the Secretary may impose.
+
+#### (e) Motorized travel
+
+#### (1) Authorized routes
+
+&emsp;Motorized travel in the scenic area shall be allowed on State Route 635. Subject to such conditions as the Secretary may impose, motorized travel in the scenic area shall also be allowed on Forest Development Road 51.
+
+#### (2) Other areas
+
+&emsp;Other than as provided in paragraph (1), motorized travel shall not be permitted within the scenic area, except that the Secretary may authorize motorized travel within the scenic area as necessary for administrative use in furtherance of the purposes of sections 545 and 545a of this title and on temporary routes in support of wildlife management projects.
+
+#### (f) Fire
+
+Wildfires shall be suppressed in a manner consistent with the purposes of sections 545 and 545a of this title, using such means as the Secretary considers appropriate.
+
+#### (g) Insects and disease
+
+Insect and disease outbreaks may be controlled in the scenic area to maintain scenic quality, prevent tree mortality, reduce hazards to visitors, or protect private lands.
+
+#### (h) Water
+
+The scenic area shall be administered so as to maintain or enhance existing water quality.
+
+#### (i) Mining withdrawal
+
+Subject to valid existing rights, all federally owned lands in the scenic area are hereby withdrawn from location, entry, and patent under the mining laws of the United States and from leasing claims under the mineral and geothermal leasing laws of the United States, including amendments to such laws.
+
+(Pub. L. 103–314, §3, Aug. 26, 1994, 108 Stat. 1703.)
+
+#### References in Text
+
+The mining laws of the United States, referred to in subsec. (i), are classified generally to Title 30, Mineral Lands and Mining.
+
+Mineral leasing laws of the United States, referred to in subsec. (i), have been defined in sections 351, 505, 530, and 541e of Title 30, to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+
+The geothermal leasing laws of the United States, referred to in subsec. (i), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 545 of this title.
+

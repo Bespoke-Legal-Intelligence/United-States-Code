@@ -1,0 +1,30 @@
+### §1881. “Federal supervisory agency” defined
+
+As used in this chapter the term “Federal supervisory agency” means—
+
+&emsp;(1) The Comptroller of the Currency with respect to national banks and district banks,
+
+&emsp;(2) The Board of Governors of the Federal Reserve System with respect to Federal Reserve banks and State banks which are members of the Federal Reserve System,
+
+&emsp;(3) The Federal Deposit Insurance Corporation with respect to State banks which are not members of the Federal Reserve System but the deposits of which are insured by the Federal Deposit Insurance Corporation and State savings associations, and
+
+&emsp;(4) The Director of the Office of Thrift Supervision with respect to Federal savings.<sup>1</sup>
+
+(Pub. L. 90–389, §2, July 7, 1968, 82 Stat. 294; Pub. L. 101–73, title VII, §744(h), Aug. 9, 1989, 103 Stat. 439.)
+
+#### Amendments
+
+1989—Par. (3). Pub. L. 101–73, §744(h)(2), inserted reference to State savings associations.
+
+Par. (4). Pub. L. 101–73, §744(h)(1), substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”, struck out “and loan” after “Federal savings”, and struck out “associations, and institutions the accounts of which are insured by the Federal Savings and Loan Insurance Corporation” before period at end.
+
+#### Short Title
+
+Section 1 of Pub. L. 90–389 provided: “That this Act \[enacting this chapter and amending section 1729 of this title\] may be cited as the ‘Bank Protection Act of 1968’.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1883 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Federal savings associations.”</i>
+

@@ -1,0 +1,6 @@
+### §190a. Omitted
+
+#### Codification
+
+Section, act Mar. 2, 1895, ch. 189, 28 Stat. 959, related to location of terminal of the conveying apparatus for rapid transmission of books, papers, and messages between Library of Congress and Capitol.
+

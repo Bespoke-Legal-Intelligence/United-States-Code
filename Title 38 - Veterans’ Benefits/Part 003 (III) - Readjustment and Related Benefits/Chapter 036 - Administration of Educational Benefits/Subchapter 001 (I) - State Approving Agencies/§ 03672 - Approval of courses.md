@@ -1,0 +1,64 @@
+### §3672. Approval of courses
+
+(a) An eligible person or veteran shall receive the benefits of this chapter and chapters 34 and 35 of this title while enrolled in a course of education offered by an educational institution only if (1) such course is approved as provided in this chapter and chapters 34 and 35 of this title by the State approving agency for the State where such educational institution is located, or by the Secretary, or (2) such course is approved (A) for the enrollment of the particular individual under the provisions of section 3536 of this title or (B) for special restorative training under subchapter V of chapter 35 of this title. Approval of courses by State approving agencies shall be in accordance with the provisions of this chapter and chapters 34 and 35 of this title and such other regulations and policies as the State approving agency may adopt. Each State approving agency shall furnish the Secretary with a current list of educational institutions specifying courses which it has approved, and, in addition to such list, it shall furnish such other information to the Secretary as it and the Secretary may determine to be necessary to carry out the purposes of this chapter and chapters 34 and 35 of this title. Each State approving agency shall notify the Secretary of the disapproval of any course previously approved and shall set forth the reasons for such disapproval.
+
+(b) The Secretary shall be responsible for the approval of courses of education offered by any agency of the Federal Government authorized under other laws to supervise such education. The Secretary may approve any course in any other educational institution in accordance with the provisions of this chapter and chapters 34 and 35 of this title.
+
+(c) In the case of programs of apprenticeship where—
+
+&emsp;(1) the standards have been approved by the Secretary of Labor pursuant to section 2 of the Act of August 16, 1937 (popularly known as the “National Apprenticeship Act”) (29 U.S.C. 50a), as a national apprenticeship program for operation in more than one State, and
+
+&emsp;(2) the training establishment is a carrier directly engaged in interstate commerce which provides such training in more than one State,
+
+> the Secretary shall act as a “State approving agency” as such term is used in section 3687(a)(1) of this title and shall be responsible for the approval of all such programs.
+
+(d) Pursuant to regulations prescribed by the Secretary in consultation with the Secretary of Labor, the Secretary shall actively promote the development of programs of training on the job (including programs of apprenticeship) for the purposes of sections 3677 and 3687 of this title and shall utilize the services of disabled veterans’ outreach program specialists under section 4103A of this title to promote the development of such programs.
+
+(e) A program of education exclusively by correspondence, and the correspondence portion of a combination correspondence-residence course leading to a vocational objective, that is offered by an educational institution (as defined in section 3452(c) of this title) may be approved only if (1) the educational institution is accredited by an entity recognized by the Secretary of Education, and (2) at least 50 percent of those pursuing such a program or course require six months or more to complete the program or course.
+
+(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 158, §1772; amended Pub. L. 89–358, §3(a)(7), (8),Mar. 3, 1966, 80 Stat. 20, 21; Pub. L. 91–219, title II, §211, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title IV, §403(3)–(5), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 96–466, title V, §502, Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–295, §4(50), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3672 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §605(a)(1), Nov. 2, 1994, 108 Stat. 4671.)
+
+#### Amendments
+
+1994—Subsec. (e). Pub. L. 103–446 added subsec. (e).
+
+1991—Pub. L. 102–83, §5(a), renumbered section 1772 of this title as this section.
+
+Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3536” for “1736”.
+
+Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “3687(a)(1)” for “1787(a)(1)” in concluding provisions.
+
+Subsec. (d). Pub. L. 102–83, §5(c)(1), substituted “3677 and 3687” for “1777 and 1787” and “4103A” for “2003A”.
+
+1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+
+1982—Subsecs. (a), (b). Pub. L. 97–295, §4(50)(A), inserted “of this title” after “34 and 35” wherever appearing.
+
+Subsec. (c)(1). Pub. L. 97–295, §4(50)(B), substituted “section 2 of the Act of August 16, 1937 (popularly known as the ‘National Apprenticeship Act’) (29 U.S.C. 50a),” for “section 50a of title 29”.
+
+1980—Subsec. (d). Pub. L. 96–466 added subsec. (d).
+
+1972—Subsec. (a). Pub. L. 92–540, §403(3), (4), inserted “this chapter and” before “chapters 34 and 35” and substituted “1736” for “1737”.
+
+Subsec. (b). Pub. L. 92–540, §403(3), inserted “this chapter and” before “chapters 34 and 35”.
+
+Subsec. (c). Pub. L. 92–540, §403(5), substituted “1787(a)(1)” for “1683(a)(1)”.
+
+1970—Subsec. (c). Pub. L. 91–219 added subsec. (c).
+
+1966—Subsec. (a). Pub. L. 89–358, §3(a)(7), (8), substituted “under subchapter V of chapter 35 of this title” for “under subchapter V of this chapter” in first sentence, and substituted “chapters 34 and 35” for “this chapter” twice in first sentence, and wherever appearing in second, third, and fourth sentences, and inserted “or veteran” after “eligible person”, in first sentence.
+
+Subsec. (b). Pub. L. 89–358, §3(a)(7), substituted “chapters 34 and 35” for “this chapter”.
+
+#### Effective Date of 1994 Amendment
+
+Section 605(b) of Pub. L. 103–446 provided that: “The amendments made by subsection (a) \[amending this section and sections 3675, 3680, and 3686 of this title\] shall apply with respect to programs of education exclusively by correspondence and to correspondence-residence courses commencing more than 90 days after the date of the enactment of this Act \[Nov. 2, 1994\].”
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(e) of Pub. L. 96–466, set out as a note under section 4101 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3671, 3675 of this title.
+

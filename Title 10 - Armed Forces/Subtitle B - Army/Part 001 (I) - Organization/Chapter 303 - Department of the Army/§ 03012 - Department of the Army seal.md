@@ -1,0 +1,26 @@
+### §3012. Department of the Army: seal
+
+The Secretary of the Army shall have a seal for the Department of the Army. The design of the seal must be approved by the President. Judicial notice shall be taken of the seal.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 157, §3011; renumbered §3012, Oct. 1, 1986, Pub. L. 99–433, title V, §501(a)(2), 100 Stat. 1034.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+3011
+
+5:181–1(d).
+
+July 26, 1947, ch. 343, §205(d), 61 Stat. 501.
+
+The words “of office” are omitted as surplusage.
+
+#### Prior Provisions
+
+A prior section 3012 was renumbered section 3013 of this title and subsequently repealed.
+

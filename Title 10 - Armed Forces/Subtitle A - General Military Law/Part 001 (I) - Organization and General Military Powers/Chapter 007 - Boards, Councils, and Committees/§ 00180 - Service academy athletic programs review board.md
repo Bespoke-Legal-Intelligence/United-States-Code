@@ -1,0 +1,36 @@
+### §180. Service academy athletic programs: review board
+
+(a)
+
+Independent Review Board.—The Secretary of Defense shall appoint a board to review the administration of the athletics programs of the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy.
+
+(b)
+
+Composition of Board.—The Secretary shall appoint the members of the board from among distinguished administrators of institutions of higher education, members of Congress, members of the Boards of Visitors of the academies, and other experts in collegiate athletics programs. The Superintendents of the three academies shall be members of the board. The Secretary shall designate one member of the board, other than a Superintendent of an academy, as Chairman.
+
+(c)
+
+Duties.—The board shall, on an annual basis—
+
+&emsp;(1) review all aspects of the athletics programs of the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy, including—
+
+&emsp;&emsp;(A) the policies relating to the administration of such programs;
+
+&emsp;&emsp;(B) the appropriateness of the balance between the emphasis placed by each academy on athletics and the emphasis placed by such academy on academic pursuits; and
+
+&emsp;&emsp;(C) the extent to which all athletes in all sports are treated equitably under the athletics program of each academy; and
+
+&emsp;(2) determine ways in which the administration of the athletics programs at the academies can serve as models for the administration of athletics programs at civilian institutions of higher education.
+
+(d)
+
+Administrative Provisions.—(1) Each member of the board who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for grade GS–18 of the General Schedule under section 5332 of title 5, for each day (including travel time) during which such member is engaged in the performance of the duties of the board. Members of the board who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
+
+(2) The members of the board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the board.
+
+(Added Pub. L. 102–190, div. A, title V, §513(a), Dec. 5, 1991, 105 Stat. 1360.)
+
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
+
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+

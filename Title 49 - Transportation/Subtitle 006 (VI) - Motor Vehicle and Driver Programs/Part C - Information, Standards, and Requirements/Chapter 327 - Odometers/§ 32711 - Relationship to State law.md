@@ -1,0 +1,26 @@
+### §32711. Relationship to State law
+
+Except to the extent that State law is inconsistent with this chapter, this chapter does not—
+
+&emsp;(1) affect a State law on disconnecting, altering, or tampering with an odometer with intent to defraud; or
+
+&emsp;(2) exempt a person from complying with that law.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1056.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+32711
+
+15:1991.
+
+Oct. 20, 1972, Pub. L. 92–513, §418, 86 Stat. 963; July 14, 1976, Pub. L. 94–364, §408(1), 90 Stat. 984.
+
+In this section, before clause (1), the words “and then only to the extent of the inconsistency” are omitted as surplus. In clause (1), the word “affect” is substituted for “annul, alter, or affect” to eliminate unnecessary words. In clause (2), the words “subject to the provisions of this subchapter” are omitted as surplus.
+

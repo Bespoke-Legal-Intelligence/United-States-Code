@@ -1,0 +1,54 @@
+### §28c. Distribution of Precedents by Public Printer
+
+#### (a) Delivery to Members of Ninety-fifth Congress;  marking of volumes
+
+The Public Printer shall deliver one set of the Precedents to each Senator or Representative in, or Delegate or Resident Commissioner to, the Ninety-fifth Congress. The name of the Member to whom the set is delivered shall be legibly stamped on the front cover of each volume of the set.
+
+#### (b) Members of Congress following Ninety-fifth Congress not already having sets of Precedents; necessity of written request to Superintendent of Documents for set
+
+Each Senator or Representative in, or Delegate or Resident Commissioner to, each Congress following the Ninety-fifth Congress who has not theretofore received a set of the Precedents shall be entitled to receive one set of the Precedents, upon transmitting a written request for such set to the Superintendent of Documents.
+
+#### (c) Additional distribution of sets
+
+The Public Printer shall make the following distribution of sets of the Precedents:
+
+&emsp;(1) to the office of the Vice President, to the office of the speaker of the House of Representatives, and to the office of the President pro tempore of the Senate, each, five sets;
+
+&emsp;(2) to the office of the majority leader of the House of Representatives and to the office ofthe minority leader of the House of Representives,<sup>1</sup> each, three sets;
+
+&emsp;(3) to the Parliamentarian of the House of Representatives, sixty sets;
+
+&emsp;(4) to the Parliamentarian of the Senate, five sets;
+
+&emsp;(5) to the Clerk of the House of Representatives, to the Sergeant at Arms of the House of Representatives, and to the Doorkeeper of the House of Representatives, each, two sets;
+
+&emsp;(6) to the Secretary of the Senate and to the Sergeant at Arms of the Senate, each, two sets;
+
+&emsp;(7) to the superintendent of the House document room, two sets;
+
+&emsp;(8) to the superintendent of the Senate document room, two sets;
+
+&emsp;(9) to the Library of Congress, for international exchange and for official use in Washington, District of Columbia, one hundred and fifty sets;
+
+&emsp;(10) to the National Archives, three sets;
+
+&emsp;(11) to the government of the District of Columbia, twelve sets;
+
+&emsp;(12) to the Smithsonian Institute, two sets;
+
+&emsp;(13) to the library of each legislative branch of each State, territory, and possession of the United States, one set; and
+
+&emsp;(14) to the Superintendent of Documents, eight hundred and sixteen sets for distribution to the depository library system.
+
+(Pub. L. 94–551, §2, Oct. 18, 1976, 90 Stat. 2537.)
+
+#### Abolition of Office of Doorkeeper
+
+Office of Doorkeeper of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 28b, 28e of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Representatives,”.</i>
+

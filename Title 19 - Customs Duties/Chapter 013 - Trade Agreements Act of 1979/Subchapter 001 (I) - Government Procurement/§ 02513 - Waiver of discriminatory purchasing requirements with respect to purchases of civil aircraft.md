@@ -1,0 +1,26 @@
+### §2513. Waiver of discriminatory purchasing requirements with respect to purchases of civil aircraft
+
+The President may waive the application of the provisions of title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.) popularly referred to as the Buy American Act, in the case of any procurement of civil aircraft and related articles of a country or instrumentality which is a party to the Agreement on Trade in Civil Aircraft referred to in section 2503(c) of this title and approved under section 2503(a) of this title. The President may modify or withdraw any waiver granted pursuant to this section.
+
+(Pub. L. 96–39, title III, §303, July 26, 1979, 93 Stat. 238; Pub. L. 103–465, title III, §342(a), Dec. 8, 1994, 108 Stat. 4953.)
+
+#### References in Text
+
+Title III of the Act of March 3, 1933, referred to in text, is act Mar. 3, 1933, ch. 212, title III, 47 Stat. 1520, as amended, popularly known as the Buy American Act, which enacted sections 10a, 10b, 10b–1, and 10c of Title 41, Public Contracts, and enacted provisions set out as notes under 10c of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
+
+#### Amendments
+
+1994—Pub. L. 103–465 inserted “referred to in section 2503(c) of this title and approved under section 2503(a) of this title” after “Civil Aircraft”.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in section 3511(d)(17) of this title, enters into force with respect to the United States \[Jan. 1, 1995\], see section 344(a) of Pub. L. 103–465, set out as a note under section 2512 of this title.
+
+#### Effective Date
+
+Section effective July 26, 1979, but authority of President to grant waivers under this section effective on Jan. 1, 1980, see section 309 of Pub. L. 96–39, set out as a note under section 2511 of this title.
+
+#### Delegation of Functions
+
+Functions of President under this section delegated to United States Trade Representative, see section 1–103(b) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 990, set out as a note under section 2171 of this title.
+

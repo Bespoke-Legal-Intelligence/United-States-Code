@@ -1,0 +1,64 @@
+### §7622. Admiralty claims against the United States
+
+(a) The Secretary of the Navy may settle, or compromise, and pay in an amount not more than $1,000,000 an admiralty claim against the United States for—
+
+&emsp;(1) damage caused by a vessel in the naval service or by other property under the jurisdiction of the Department of the Navy;
+
+&emsp;(2) compensation for towage and salvage service, including contract salvage, rendered to a vessel in the naval service or to other property under the jurisdiction of the Department of the Navy; or
+
+&emsp;(3) damage caused by a maritime tort committed by any agent or employee of the Department of the Navy or by property under the jurisdiction of the Department of the Navy.
+
+(b) If a claim under this section is settled or compromised for more than $1,000,000, the Secretary shall certify it to Congress.
+
+(c) In any case where the amount to be paid is not more than $100,000, the Secretary may delegate his authority under this section to any person designated by him.
+
+(d) Upon acceptance of payment by the claimant, the settlement or compromise of a claim under this section is final and conclusive notwithstanding any other provision of law.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 472; July 7, 1965, Pub. L. 89–67, 79 Stat. 212; Aug. 29, 1972, Pub. L. 92–417, §1(5), 86 Stat. 654; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1633, 103 Stat. 1608.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+7622
+
+46 U.S.C. 797.
+
+July 3, 1944, ch. 399, §7, 58 Stat. 726.
+
+&nbsp;
+
+46 U.S.C. 799.
+
+July 3, 1944, ch. 399, §9; added Aug. 2, 1946, ch. 739, 60 Stat. 803.
+
+In subsection (a) the words “consider, ascertain, adjust, determine” are omitted as covered by the word “settle”, as defined in §7621(b) of this title. The words “vessel in the naval service” are substituted for the words “vessels of the Navy or in the naval service”, in view of the definition in §7621(a) of this title. The words “pay in an amount not more than $1,000,000, a claim” are substituted for the words “pay the amount of any claim, so determined, compromised, or settled” and for the words “the payment of any claim on which a net amount exceeding $1,000,000 is determined to be due from the United States, or which is compromised or settled at a net amount exceeding $1,000,000 payable by the United States, shall not be authorized by this section”.
+
+In subsection (c) the words “In any case where the amount to be paid is not more than” are substituted for the words “When the net amount paid in settlement does not exceed” for clarity, since the delegation necessarily precedes payment. The words “the Secretary may delegate his authority” are substituted for the words “the authority of the Secretary of the Navy \* \* \* may be exercised by” for clarity.
+
+In subsection (d) the words “but not until then”, “for all purposes”, and “to the contrary” are omitted as surplusage.
+
+The first proviso in 46 U.S.C. 797, stating that this section is supplementary to, and not in lieu of, other laws authorizing the settlement of claims, is omitted as unnecessary, since the other applicable claims laws are restated in this title. The second proviso, forbidding consideration of claims for more than $3,000 if they accrued before Sept. 8, 1939, is omitted as obsolete. It was designed to avoid reviving stale claims upon enactment of the source law on July 3, 1944. However, as a matter of practice, no claims are settled under this authority which are more than two years old, in line with the two-year statute of limitations contained in the Suits in Admiralty Act and the Public Vessels Act. This limitation has been officially publicized in the Federal Register for May 22, 1947, p. 3296, and in 32 C.F.R. 752. The third proviso in 46 U.S.C. 797 is omitted as unnecessary, since the appropriation named therein no longer exists, and the payments are now made from appropriations for the Department of Defense.
+
+#### Amendments
+
+1989—Subsec. (c). Pub. L. 101–189 substituted “$100,000” for “$10,000”.
+
+1972—Subsec. (a). Pub. L. 92–417 substituted “an admiralty claim against the United States” for “a claim against the United States” in text preceding par. (1), in par. (1) inserted “or by other property under the jurisdiction of the Department of the Navy”, in par. (2) inserted “or to other property under the jurisdiction of the Department of the Navy”, and added par. (3).
+
+1965—Subsec. (c). Pub. L. 89–67 substituted “$10,000” for “$1,000”.
+
+#### Cross References
+
+Nuclear incident involving nuclear reactor of United States warship, payment or claims or judgments for bodily injury, death, or damage resulting from, see section 2211 of Title 42, The Public Health and Welfare.
+
+Suits in admiralty—
+
+&emsp;&emsp;Against United States for damages caused by or for towage or salvage services, see section 781 et seq. of Title 46, Appendix, Shipping.
+
+&emsp;&emsp;By or against vessels or cargoes of United States, see section 741 et seq. of Title 46, Appendix.
+

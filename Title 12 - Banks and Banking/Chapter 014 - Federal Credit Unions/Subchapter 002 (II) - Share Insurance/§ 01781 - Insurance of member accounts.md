@@ -1,0 +1,84 @@
+### §1781. Insurance of member accounts
+
+#### (a) Eligibility
+
+The Board, as hereinafter provided, shall insure the member accounts of all Federal credit unions and it may insure the member accounts of (1) credit unions organized and operated according to the laws of any State, the District of Columbia, the several territories, including the trust territories, and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, and (2) credit unions organized and operating under the jurisdiction of the Department of Defense if such credit unions are operating in compliance with the requirements of subchapter I of this chapter and regulations issued thereunder.
+
+#### (b) Application; agreement
+
+Application for insurance of member accounts shall be made immediately by each Federal credit union and may be made at any time by a State credit union or a credit union operating under the jurisdiction of the Department of Defense. Applications for such insurance shall be in such form as the Board shall provide and shall contain an agreement by the applicant—
+
+&emsp;(1) to pay the reasonable cost of such examinations as the Board may deem necessary in connection with determining the eligibility of the applicant for insurance: <i>Provided</i>, That examinations required under subchapter I of this chapter shall be so conducted that the information derived therefrom may be utilized for share insurance purposes, and examinations conducted by State regulatory agencies shall be utilized by the Board for such purposes to the maximum extent feasible;
+
+&emsp;(2) to permit and pay the reasonable cost of such examinations as in the judgment of the Board may from time to time be necessary for the protection of the fund and of other insured credit unions;
+
+&emsp;(3) to permit the Board to have access to any information or report with respect to any examination made by or for any public regulatory authority, including any commission, board, or authority having supervision of a State-chartered credit union, and furnish such additional information with respect thereto as the Board may require;
+
+&emsp;(4) to provide protection and indemnity against burglary, defalcation, and other similar insurable losses, of the type, in the form, and in an amount at least equal to that required by the laws under which the credit union is organized and operates;
+
+&emsp;(5) to maintain such regular reserves as may be required by the laws of the State, district, territory, or other jurisdiction pursuant to which it is organized and operated, in the case of a State-chartered credit union, or as may be required by section 1762 of this title, in the case of a Federal credit union;
+
+&emsp;(6) to maintain such special reserves as the Board, by regulation or in special cases, may require for protecting the interest of members or to assure that all insured credit unions maintain regular reserves which are not less than those required under subchapter I of this chapter;
+
+&emsp;(7) not to issue or have outstanding any account or security the form of which, by regulation or in special cases, has not been approved by the Board except for accounts authorized by State law for State credit unions;
+
+&emsp;(8) to pay and maintain its deposit and to pay the premium charges for insurance imposed by this subchapter; and
+
+&emsp;(9) to comply with the requirements of this subchapter and of regulations prescribed by the Board pursuant thereto.
+
+#### (c) Approval of application
+
+(1) Before approving the application of any credit union for insurance of its member accounts, the Board shall consider—
+
+&emsp;(A) the history, financial condition, and management policies of the applicant;
+
+&emsp;(B) the economic advisability of insuring the applicant without undue risk of the fund;
+
+&emsp;(C) the general character and fitness of the applicant's management;
+
+&emsp;(D) the convenience and needs of the members to be served by the applicant; and
+
+&emsp;(E) whether the applicant is a cooperative association organized for the purpose of promoting thrift among its members and creating a source of credit for provident or productive purposes.
+
+(2) The Board shall disapprove the application of any credit union for insurance of its member accounts if it finds that its reserves are inadequate, that its financial condition and policies are unsafe or unsound, that its management is unfit, that insurance of its member accounts would otherwise involve undue risk to the fund, or that its powers and purposes are inconsistent with the promotion of thrift among its members and the creation of a source of credit for provident or productive purposes.
+
+(3) Repealed. Pub. L. 95–22, title III, §301, Apr. 19, 1977, 91 Stat. 49.
+
+#### (d) Certificate of insurance
+
+Upon the approval of any application for insurance, the Board shall notify the applicant and shall issue to it a certificate evidencing the fact that it is, as of the date of issuance of the certificate, an insured credit union under the provisions of this subchapter.
+
+(June 26, 1934, ch. 750, title II, §201, as added Oct. 19, 1970, Pub. L. 91–468, §1(3), 84 Stat. 994; amended Dec. 23, 1971, Pub. L. 92–221, §§1, 2, 85 Stat. 796, 797; Apr. 19, 1977, Pub. L. 95–22, title III, §301, 91 Stat. 49; Nov. 10, 1978, Pub. L. 95–630, title V, §§502(b), 504, 92 Stat. 3681, 3682; July 18, 1984, Pub. L. 98–369, div. B, title VIII, §2801, 98 Stat. 1203.)
+
+#### References in Text
+
+For definition of Canal Zone, referred to in text, see section 3602(b) of Title 22, Foreign Relations and Intercourse.
+
+#### Amendments
+
+1984—Subsec. (b)(8). Pub. L. 98–369 inserted provisions relating to payment and maintenance of the deposit.
+
+1978—Subsec. (a). Pub. L. 95–630, §§502(b), 504(a), substituted “Board” for “Administrator” and “it” for “he”, and inserted “, including the trust territories,” after “the several territories”.
+
+Subsec. (b). Pub. L. 95–630, §§502(b), 504(b), substituted “Board” for “Administrator” wherever appearing and inserted in par. (7) “except for accounts authorized by State law for State credit unions” after “by the Board”.
+
+Subsec. (c). Pub. L. 95–630, §502(b), substituted “Board” for “Administrator” wherever appearing, and in par. (2) substituted “it” for “he” before “finds”.
+
+Subsecs. (d), (e). Pub. L. 95–630, §§502(b), 504(c), struck out subsec. (d), redesignated subsec. (e) as (d) and substituted “Board” for “Administrator”.
+
+1977—Subsec. (c)(3) Pub. L. 95–22 struck out par. (3) which provided for approval by Administrator of applications of State credit unions for insurance of its member accounts where credit union meets requirements of this chapter and where in the event of liquidation of the credit union, the claims with respect to demand deposit accounts shall be subordinate to the claims with respect to member accounts.
+
+1971—Subsec. (c)(2). Pub. L. 92–221, §1(a), substituted “disapproved” for “reject”.
+
+Subsec. (c)(3). Pub. L. 92–221, §2, added par. (3).
+
+Subsec. (d). Pub. L. 92–221, §1(b), substituted provisions allowing, in certain cases, a two–year period to meet the requirements for insurance following the disapproval of an application for insurance by a Federal credit union, for provisions mandating the suspension or revocation of the charter of a Federal credit union unless the credit union met the requirements for insurance and became an insured credit union within one year of the rejection of its application for insurance.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 461, 1782 of this title.
+

@@ -1,0 +1,16 @@
+### §7477. Enforcement
+
+The Administrator shall, and a State may, take such measures, including issuance of an order, or seeking injunctive relief, as necessary to prevent the construction or modification of a major emitting facility which does not conform to the requirements of this part, or which is proposed to be constructed in any area designated pursuant to section 7407(d) of this title as attainment or unclassifiable and which is not subject to an implementation plan which meets the requirements of this part.
+
+(July 14, 1955, ch. 360, title I, §167, as added Aug. 7, 1977, Pub. L. 95–95, title I, §127(a), 91 Stat. 740, and amended Nov. 15, 1990, Pub. L. 101–549, title I, §110(3), title VII, §708, 104 Stat. 2470, 2684.)
+
+#### Amendments
+
+1990—Pub. L. 101–549, §708, substituted “construction or modification of a major emitting facility” for “construction of a major emitting facility”.
+
+Pub. L. 101–549, §110(3), substituted “designated pursuant to section 7407(d) as attainment or unclassifiable” for “included in the list promulgated pursuant to paragraph (1)(D) or (E) of subsection (d) of section 7407 of this title”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7413, 7420, 7607 of this title.
+

@@ -1,0 +1,6 @@
+### §954. Voluntary extension; probation
+
+The Secretary concerned may provide for persons who were subject to this authority at the time of commission of their offenses a system for retention of selected offenders beyond expiration of normal service obligation in order to voluntarily serve a period of probation with a view to honorable restoration to duty.
+
+(Added Pub. L. 90–377, §1, July 5, 1968, 82 Stat. 288.)
+

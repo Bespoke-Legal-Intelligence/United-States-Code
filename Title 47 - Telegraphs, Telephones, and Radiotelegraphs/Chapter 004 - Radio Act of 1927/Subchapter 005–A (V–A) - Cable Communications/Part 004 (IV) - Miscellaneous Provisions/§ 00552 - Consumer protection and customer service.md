@@ -1,0 +1,54 @@
+### §552. Consumer protection and customer service
+
+#### (a) Franchising authority enforcement
+
+A franchising authority may establish and enforce—
+
+&emsp;(1) customer service requirements of the cable operator; and
+
+&emsp;(2) construction schedules and other construction-related requirements, including construction-related performance requirements, of the cable operator.
+
+#### (b) Commission standards
+
+The Commission shall, within 180 days of October 5, 1992, establish standards by which cable operators may fulfill their customer service requirements. Such standards shall include, at a minimum, requirements governing—
+
+&emsp;(1) cable system office hours and telephone availability;
+
+&emsp;(2) installations, outages, and service calls; and
+
+&emsp;(3) communications between the cable operator and the subscriber (including standards governing bills and refunds).
+
+#### (c) Consumer protection laws and customer service agreements
+
+#### (1) Consumer protection laws
+
+&emsp;Nothing in this subchapter shall be construed to prohibit any State or any franchising authority from enacting or enforcing any consumer protection law, to the extent not specifically preempted by this subchapter.
+
+#### (2) Customer service requirement agreements
+
+&emsp;Nothing in this section shall be construed to preclude a franchising authority and a cable operator from agreeing to customer service requirements that exceed the standards established by the Commission under subsection (b) of this section. Nothing in this subchapter shall be construed to prevent the establishment or enforcement of any municipal law or regulation, or any State law, concerning customer service that imposes customer service requirements that exceed the standards set by the Commission under this section, or that addresses matters not addressed by the standards set by the Commission under this section.
+
+(June 19, 1934, ch. 652, title VI, §632, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2796; amended Oct. 5, 1992, Pub. L. 102–385, §8, 106 Stat. 1484.)
+
+#### Amendments
+
+1992—Pub. L. 102–385 amended section generally. Prior to amendment, section read as follows:
+
+“(a) A franchising authority may require, as part of a franchise (including a franchise renewal, subject to section 546 of this title), provisions for enforcement of—
+
+&emsp;“(1) customer service requirements of the cable operator; and
+
+&emsp;“(2) construction schedules and other construction-related requirements of the cable operator.
+
+“(b) A franchising authority may enforce any provision, contained in any franchise, relating to requirements described in paragraph (1) or (2) of subsection (a) of this section, to the extent not inconsistent with this subchapter.
+
+“(c) Nothing in this subchapter shall be construed to prohibit any State or any franchising authority from enacting or enforcing any consumer protection law, to the extent not inconsistent with this subchapter.”
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–385 effective 60 days after Oct. 5, 1992, see section 28 of Pub. L. 102–385, set out as a note under section 325 of this title.
+
+#### Effective Date
+
+Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
+

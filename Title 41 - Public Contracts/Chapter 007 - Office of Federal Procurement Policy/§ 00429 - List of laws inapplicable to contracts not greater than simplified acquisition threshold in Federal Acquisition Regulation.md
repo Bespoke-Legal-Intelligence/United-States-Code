@@ -1,0 +1,30 @@
+### §429. List of laws inapplicable to contracts not greater than simplified acquisition threshold in Federal Acquisition Regulation
+
+#### (a) List of inapplicable provisions of law
+
+(1) The Federal Acquisition Regulation shall include a list of provisions of law that are inapplicable to contracts or subcontracts in amounts not greater than the simplified acquisition threshold. A provision of law that is properly included on the list pursuant to paragraph (2) may not be construed as applicable to such contracts or subcontracts (as the case may be) by an executive agency. Nothing in this section shall be construed to render inapplicable to contracts and subcontracts in amounts not greater than the simplified acquisition threshold any provision of law that is not included on such list.
+
+(2) A provision of law described in subsection (b) of this section that is enacted after October 13, 1994, shall be included on the list of inapplicable provisions of law required by paragraph (1), unless the Federal Acquisition Regulatory Council makes a written determination that it would not be in the best interest of the Federal Government to exempt contracts or subcontracts in amounts not greater than the simplified acquisition threshold from the applicability of the provision.
+
+#### (b) Covered law
+
+A provision of law referred to in subsection (a)(2) of this section is any provision of law that, as determined by the Federal Acquisition Regulatory Council, sets forth policies, procedures, requirements, or restrictions for the procurement of property or services by the Federal Government, except for a provision of law that—
+
+&emsp;(1) provides for criminal or civil penalties; or
+
+&emsp;(2) specifically refers to this section and provides that, notwithstanding this section, it shall be applicable to contracts or subcontracts in amounts not greater than the simplified acquisition threshold.
+
+#### (c) Petition
+
+In the event that a provision of law described in subsection (b) of this section is not included on the list of inapplicable provisions of law as required by subsection (a) of this section, and no written determination has been made by the Federal Acquisition Regulatory Council pursuant to subsection (a)(2) of this section, a person may petition the Administrator for Federal Procurement Policy to take appropriate action. The Administrator shall revise the Federal Acquisition Regulation to include the provision on the list of inapplicable provisions of law unless the Federal Acquisition Regulatory Council makes a determination pursuant to subsection (a)(2) of this section within 60 days after the date on which the petition is received.
+
+(Pub. L. 93–400, §33, as added Pub. L. 103–355, title IV, §4101, Oct. 13, 1994, 108 Stat. 3339.)
+
+#### Effective Date
+
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 252a of this title; title 10 section 2302a.
+

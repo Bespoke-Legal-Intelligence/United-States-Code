@@ -1,0 +1,12 @@
+### SUBCHAPTER VI—ENFORCEMENT AND ADMINISTRATIVE PROVISIONS
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 05111 - Repealed. Pub. L. 103&#8211;149, &sect;4(a)(2), Nov. 23, 1993, 107 Stat. 1505](%C2%A7%2005111%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93149%2C%20%C2%A74%28a%29%282%29%2C%20Nov.%2023%2C%201993%2C%20107%20Stat.%201505.md)
+- [&sect; 05112 - Repealed. Pub. L. 103&#8211;149, &sect;4(a)(1), Nov. 23, 1993, 107 Stat. 1504](%C2%A7%2005112%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93149%2C%20%C2%A74%28a%29%281%29%2C%20Nov.%2023%2C%201993%2C%20107%20Stat.%201504.md)
+- [&sect; 05113, 5114 - Repealed. Pub. L. 103&#8211;149, &sect;4(a)(2), Nov. 23, 1993, 107 Stat. 1505](%C2%A7%2005113%2C%205114%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93149%2C%20%C2%A74%28a%29%282%29%2C%20Nov.%2023%2C%201993%2C%20107%20Stat.%201505.md)
+- [&sect; 05115, 5116 - Repealed. Pub. L. 103&#8211;149, &sect;4(a)(1), Nov. 23, 1993, 107 Stat. 1504](%C2%A7%2005115%2C%205116%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93149%2C%20%C2%A74%28a%29%281%29%2C%20Nov.%2023%2C%201993%2C%20107%20Stat.%201504.md)
+- [&sect; 05117 - Repealed. Pub. L. 103&#8211;149, &sect;4(c)(2)(A), Nov. 23, 1993, 107 Stat. 1506](%C2%A7%2005117%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93149%2C%20%C2%A74%28c%29%282%29%28A%29%2C%20Nov.%2023%2C%201993%2C%20107%20Stat.%201506.md)

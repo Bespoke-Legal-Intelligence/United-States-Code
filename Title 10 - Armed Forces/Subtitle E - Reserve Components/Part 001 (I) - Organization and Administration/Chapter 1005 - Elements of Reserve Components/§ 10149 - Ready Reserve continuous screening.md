@@ -1,0 +1,40 @@
+### §10149. Ready Reserve: continuous screening
+
+(a) Under regulations to be prescribed by the President, the Secretary concerned shall provide a system of continuous screening of units and members of the Ready Reserve to ensure the following:
+
+&emsp;(1) That there will be no significant attrition of those members or units during a mobilization.
+
+&emsp;(2) That there is a proper balance of military skills.
+
+&emsp;(3) That except for those with military skills for which there is an overriding requirement, members having critical civilian skills are not retained in numbers beyond the need for those skills.
+
+&emsp;(4) That with due regard to national security and military requirements, recognition will be given to participation in combat.
+
+&emsp;(5) That members whose mobilization in an emergency would result in an extreme personal or community hardship are not retained in the Ready Reserve.
+
+(b) Under regulations to be prescribed by the Secretary of Defense, and by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, a member of the Ready Reserve who is designated as a member not to be retained in the Ready Reserve as a result of screening under subsection (a) shall, as appropriate, be—
+
+&emsp;(1) transferred to the Standby Reserve;
+
+&emsp;(2) discharged; or
+
+&emsp;(3) if the member is eligible and applies therefor, transferred to the Retired Reserve.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2974.)
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in section 271 of this title, prior to repeal by Pub. L. 103–337, §1661(a)(2)(A).
+
+#### Ex. Ord. No. 11190. Screening of Ready Reserve
+
+Ex. Ord. No. 11190, Dec. 29, 1964, 29 F.R. 19183, as amended by Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247, provided:
+
+By virtue of the authority vested in me by section 301 of title 3 of the United States Code, and as President of the United States and Commander in Chief of the Armed Forces of the United States, it is ordered as follows:
+
+Section 1. There is delegated to the Secretary of Defense (and to the Secretary of Transportation with regard to the United States Coast Guard) the authority vested in the President by section 271 \[see 10149\] of title 10 of the United States Code to prescribe regulations for the screening of units and members of the Ready Reserve of the Armed Forces.
+
+Sec. 2. Executive Order No. 10651 of January 6, 1956, is revoked.
+
+Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+

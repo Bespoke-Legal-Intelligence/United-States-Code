@@ -1,0 +1,108 @@
+### §1057. Certificates of registration
+
+#### (a) Issuance and form
+
+Certificates of registration of marks registered upon the principal register shall be issued in the name of the United States of America, under the seal of the Patent and Trademark Office, and shall be signed by the Commissioner or have his signature placed thereon, and a record thereof shall be kept in the Patent and Trademark Office. The registration shall reproduce the mark, and state that the mark is registered on the principal register under this chapter, the date of the first use of the mark, the date of the first use of the mark in commerce, the particular goods or services for which it is registered, the number and date of the registration, the term thereof, the date on which the application for registration was received in the Patent and Trademark Office, and any conditions and limitations that may be imposed in the registration.
+
+#### (b) Certificate as prima facie evidence
+
+A certificate of registration of a mark upon the principal register provided by this chapter shall be prima facie evidence of the validity of the registered mark and of the registration of the mark, of the registrant's ownership of the mark, and of the registrant's exclusive right to use the registered mark in commerce on or in connection with the goods or services specified in the certificate, subject to any conditions or limitations stated in the certificate.
+
+#### (c) Application to register mark considered constructive use
+
+Contingent on the registration of a mark on the principal register provided by this chapter, the filing of the application to register such mark shall constitute constructive use of the mark, conferring a right of priority, nationwide in effect, on or in connection with the goods or services specified in the registration against any other person except for a person whose mark has not been abandoned and who, prior to such filing—
+
+&emsp;(1) has used the mark;
+
+&emsp;(2) has filed an application to register the mark which is pending or has resulted in registration of the mark; or
+
+&emsp;(3) has filed a foreign application to register the mark on the basis of which he or she has acquired a right of priority, and timely files an application under section 1126(d) of this title to register the mark which is pending or has resulted in registration of the mark.
+
+#### (d) Issuance to assignee
+
+A certificate of registration of a mark may be issued to the assignee of the applicant, but the assignment must first be recorded in the Patent and Trademark Office. In case of change of ownership the Commissioner shall, at the request of the owner and upon a proper showing and the payment of the prescribed fee, issue to such assignee a new certificate of registration of the said mark in the name of such assignee, and for the unexpired part of the original period.
+
+#### (e) Surrender, cancellation, or amendment by registrant
+
+Upon application of the registrant the Commissioner may permit any registration to be surrendered for cancellation, and upon cancellation appropriate entry shall be made in the records of the Patent and Trademark Office. Upon application of the registrant and payment of the prescribed fee, the Commissioner for good cause may permit any registration to be amended or to be disclaimed in part: <i>Provided</i>, That the amendment or disclaimer does not alter materially the character of the mark. Appropriate entry shall be made in the records of the Patent and Trademark Office and upon the certificate of registration or, if said certificate is lost or destroyed, upon a certified copy thereof.
+
+#### (f) Copies of Patent and Trademark Office records as evidence
+
+Copies of any records, books, papers, or drawings belonging to the Patent and Trademark Office relating to marks, and copies of registrations, when authenticated by the seal of the Patent and Trademark Office and certified by the Commissioner, or in his name by an employee of the Office duly designated by the Commissioner, shall be evidence in all cases wherein the originals would be evidence; and any person making application therefor and paying the prescribed fee shall have such copies.
+
+#### (g) Correction of Patent and Trademark Office mistake
+
+Whenever a material mistake in a registration, incurred through the fault of the Patent and Trademark Office, is clearly disclosed by the records of the Office a certificate stating the fact and nature of such mistake, shall be issued without charge and recorded and a printed copy thereof shall be attached to each printed copy of the registration certificate and such corrected registration shall thereafter have the same effect as if the same had been originally issued in such corrected form, or in the discretion of the Commissioner a new certificate of registration may be issued without charge. All certificates of correction heretofore issued in accordance with the rules of the Patent and Trademark Office and the registrations to which they are attached shall have the same force and effect as if such certificates and their issue had been specifically authorized by statute.
+
+#### (h) Correction of applicant's mistake
+
+Whenever a mistake has been made in a registration and a showing has been made that such mistake occurred in good faith through the fault of the applicant, the Commissioner is authorized to issue a certificate of correction or, in his discretion, a new certificate upon the payment of the prescribed fee: <i>Provided</i>, That the correction does not involve such changes in the registration as to require republication of the mark.
+
+(July 5, 1946, ch. 540, title I, §7, 60 Stat. 430; Aug. 17, 1950, ch. 733, 64 Stat. 459; Oct. 9, 1962, Pub. L. 87–772, §4, 76 Stat. 769; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949; Nov. 16, 1988, Pub. L. 100–667, title I, §109, 102 Stat. 3938.)
+
+#### Prior Provisions
+
+Subsecs. (a) and (c) are from acts Feb. 20, 1905, ch. 592, §11, 33 Stat. 727; Mar. 4, 1925, ch. 535, §3, 43 Stat. 1269.
+
+Subsec. (e) is from act Mar. 19, 1920, ch. 104, §7, 41 Stat. 535.
+
+Subsec. (f) is from act Mar. 4, 1925, ch. 535, §1, 43 Stat. 1268.
+
+#### Amendments
+
+1988—Subsec. (b). Pub. L. 100–667, §109(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A certificate of registration of a mark upon the principal register provided by this chapter shall be prima facie evidence of the validity of the registration, registrant's ownership of the mark, and of registrant's exclusive right to use the mark in commerce in connection with the goods or services specified in the certificate, subject to any conditions and limitations stated therein.”
+
+Subsec. (c). Pub. L. 100–667, §109(3), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 100–667, §109(2), (4), redesignated former subsec. (c) as (d) and substituted “prescribed fee” for “fee herein provided”. Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 100–667, §109(2), redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 100–667, §109(2), (5), redesignated former subsec. (e) as (f) and substituted “prescribed fee” for “fee required by law”. Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 100–667, §109(2), redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 100–667, §109(2), (6), redesignated former subsec. (g) as (h) and substituted “prescribed fee” for “required fee”.
+
+1975—Subsecs. (a), (c) to (f). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+
+1962—Subsec. (a). Pub. L. 87–772 substituted “signature placed” for “name printed”, and struck out provisions requiring an attestation by an assistant commissioner or by one of the law examiners designated by the Commissioner, together with printed copies of the drawing and statement of the applicant, to be kept in books for that purpose.
+
+Subsec. (d). Pub. L. 87–772, among other charges, removed the requirement of a fee in connection with the voluntary surrender or cancellation of a registration.
+
+Subsec. (e). Pub. L. 87–772 substituted “an employee of the Office” for “a chief of division”, among other changes.
+
+Subsec. (f). Pub. L. 87–772, among other changes, struck out “, signed by the Commissioner and sealed with the seal of the Patent Office” after “nature of such mistake”.
+
+1950—Subsec. (a). Act Aug. 17, 1950, made it unnecessary to include in the certificate a statement of the applicant.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see section 136 of Pub. L. 100–667, set out as a note under section 1051 of this title.
+
+#### Effective Date of 1975 Amendment
+
+Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of this title.
+
+#### Repeal and Effect on Existing Rights
+
+Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Federal Rules of Civil Procedure
+
+Proof of official record, see rule 44, Title 28, Appendix, Judiciary and Judicial Procedure.
+
+#### Cross References
+
+Copies of records relating to trade-marks as evidence, see section 1744 of Title 28, Judiciary and Judicial Procedure.
+
+Supplemental register, subsec. (b) inapplicable to trade-marks on, see section 1094 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1068, 1071, 1092, 1094, 1115 of this title.
+

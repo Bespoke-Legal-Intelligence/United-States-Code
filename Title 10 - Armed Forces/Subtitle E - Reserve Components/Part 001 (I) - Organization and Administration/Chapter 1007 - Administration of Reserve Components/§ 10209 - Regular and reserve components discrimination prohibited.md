@@ -1,0 +1,16 @@
+### §10209. Regular and reserve components: discrimination prohibited
+
+Laws applying to both Regulars and Reserves shall be administered without discrimination—
+
+&emsp;(1) among Regulars;
+
+&emsp;(2) among Reserves; and
+
+&emsp;(3) between Regulars and Reserves.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2978.)
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in section 277 of this title, prior to repeal by Pub. L. 103–337, §1661(a)(2)(A).
+

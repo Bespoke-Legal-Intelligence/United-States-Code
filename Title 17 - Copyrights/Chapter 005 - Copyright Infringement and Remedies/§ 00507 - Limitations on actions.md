@@ -1,0 +1,22 @@
+### §507. Limitations on actions
+
+(a)
+
+Criminal Proceedings.—No criminal proceeding shall be maintained under the provisions of this title unless it is commenced within three years after the cause of action arose.
+
+(b)
+
+Civil Actions.—No civil action shall be maintained under the provisions of this title unless it is commenced within three years after the claim accrued.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2586.)
+
+#### Historical and Revision Notes
+
+I74house report no. 94–1476
+
+Section 507, which is substantially identical with section 115 of the present law \[section 115 of former title 17\], establishes a three-year statute of limitations for both criminal proceedings and civil actions. The language of this section, which was adopted by the act of September 7, 1957 (71 Stat. 633) \[Pub. L. 85–313, §1, Sept. 7, 1957, 71 Stat. 633\], represents a reconciliation of views, and has therefore been left unaltered.
+
+#### Cross References
+
+Limitation on prosecution, trial, or punishment of non-capital offenses generally, see section 3282 of Title 18, Crimes and Criminal Procedure.
+

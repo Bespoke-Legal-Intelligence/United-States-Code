@@ -1,0 +1,20 @@
+### §182. Lands disposed of with reservation of deposits of coal, etc.
+
+The provisions of this chapter shall also apply to all deposits of coal, phosphate, sodium, oil, oil shale, gilsonite (including all vein-type solid hydrocarbons), or gas in the lands of the United States, which lands may have been or may be disposed of under laws reserving to the United States such deposits, with the right to prospect for, mine, and remove the same, subject to such conditions as are or may hereafter be provided by such laws reserving such deposits.
+
+(Feb. 25, 1920, ch. 85, §34, 41 Stat. 450; Sept. 2, 1960, Pub. L. 86–705, §7(a), 74 Stat. 790; Nov. 16, 1981, Pub. L. 97–78, §1(1), 95 Stat. 1070.)
+
+#### Amendments
+
+1981—Pub. L. 97–78 substituted “gilsonite (including all vein-type solid hydrocarbons),” for “native asphalt, solid and semisolid bitumen, and bituminous rock (including oil-impregnated rock or sands from which oil is recoverable only by special treatment after the deposit is mined or quarried)”.
+
+1960—Pub. L. 86–705 included native asphalt, solid and semisolid bitumen, and bituminous rock.
+
+#### Cross References
+
+Laws applicable, see sections 275 and 285 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 275, 285 of this title; title 10 sections 7421, 7435.
+

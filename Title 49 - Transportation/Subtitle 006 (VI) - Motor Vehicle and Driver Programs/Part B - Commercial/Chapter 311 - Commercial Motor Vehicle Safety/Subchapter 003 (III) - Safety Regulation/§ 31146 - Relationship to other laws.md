@@ -1,0 +1,20 @@
+### §31146. Relationship to other laws
+
+Except as provided in section 31136(b) of this title, this subchapter and the regulations prescribed under this subchapter do not affect chapter 51 of this title or a regulation prescribed under chapter 51.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1013.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+31146
+
+49 App.:2518.
+
+Oct. 30, 1984, Pub. L. 98–554, §221, 98 Stat. 2846.
+

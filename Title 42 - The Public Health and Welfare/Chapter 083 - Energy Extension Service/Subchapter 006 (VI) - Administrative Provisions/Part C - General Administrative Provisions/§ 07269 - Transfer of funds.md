@@ -1,0 +1,6 @@
+### §7269. Transfer of funds
+
+The Secretary, when authorized in an appropriation Act, in any fiscal year, may transfer funds from one appropriation to another within the Department, except that no appropriation shall be either increased or decreased pursuant to this section by more than 5 per centum of the appropriation for such fiscal year.
+
+(Pub. L. 95–91, title VI, §659, Aug. 4, 1977, 91 Stat. 604.)
+

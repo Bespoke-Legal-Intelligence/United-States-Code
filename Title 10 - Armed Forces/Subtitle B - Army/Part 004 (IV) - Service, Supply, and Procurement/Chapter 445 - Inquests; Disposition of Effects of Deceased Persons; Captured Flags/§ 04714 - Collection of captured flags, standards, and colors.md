@@ -1,0 +1,26 @@
+### §4714. Collection of captured flags, standards, and colors
+
+The Secretary of the Army shall have sent to him all flags, standards, and colors taken by the Army from enemies of the United States.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 266.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+4714
+
+5:198.
+
+R.S. 218.
+
+The words “from time to time”, “collected”, and “at the seat of government” are omitted as surplusage.
+
+#### Cross References
+
+Collection, preservation, and display of flags captured by the Navy, see section 7216 of this title.
+

@@ -1,0 +1,42 @@
+### §11005. Emergency training and review of emergency systems
+
+#### (a) Emergency training
+
+#### (1) Programs
+
+&emsp;Officials of the United States Government carrying out existing Federal programs for emergency training are authorized to specifically provide training and education programs for Federal, State, and local personnel in hazard mitigation, emergency preparedness, fire prevention and control, disaster response, long-term disaster recovery, national security, technological and natural hazards, and emergency processes. Such programs shall provide special emphasis for such training and education with respect to hazardous chemicals.
+
+#### (2) State and local program support
+
+&emsp;There is authorized to be appropriated to the Federal Emergency Management Agency for each of the fiscal years 1987, 1988, 1989, and 1990, $5,000,000 for making grants to support programs of State and local governments, and to support university-sponsored programs, which are designed to improve emergency planning, preparedness, mitigation, response, and recovery capabilities. Such programs shallprovide special emphasis with respect to emergencies associated with hazardous chemicals. Such grants may not exceed 80 percent of the cost of any such program. The remaining 20 percent of such costs shall be funded from non-Federal sources.
+
+#### (3) Other programs
+
+&emsp;Nothing in this section shall affect the availability of appropriations to the Federal Emergency Management Agency for any programs carried out by such agency other than the programs referred to in paragraph (2).
+
+#### (b) Review of emergency systems
+
+#### (1) Review
+
+&emsp;The Administrator shall initiate, not later than 30 days after October 17, 1986, a review of emergency systems for monitoring, detecting, and preventing releases of extremely hazardous substances at representative domestic facilities that produce, use, or store extremely hazardous substances. The Administrator may select representative extremely hazardous substances from the substances on the list referred to in section 11002(a) of this title for the purposes of this review. The Administrator shall report interim findings to the Congress not later than seven months after October 17, 1986, and issue a final report of findings and recommendations to the Congress not later than 18 months after October 17, 1986. Such report shall be prepared in consultation with the States and appropriate Federal agencies.
+
+#### (2) Report
+
+&emsp;The report required by this subsection shall include the Administrator's findings regarding each of the following:
+
+&emsp;&emsp;(A) The status of current technological capabilities to (i) monitor, detect, and prevent, in a timely manner, significant releases of extremely hazardous substances, (ii) determine the magnitude and direction of the hazard posed by each release, (iii) identify specific substances, (iv) provide data on the specific chemical composition of such releases, and (v) determine the relative concentrations of the constituent substances.
+
+&emsp;&emsp;(B) The status of public emergency alert devices or systems for providing timely and effective public warning of an accidental release of extremely hazardous substances into the environment, including releases into the atmosphere, surface water, or groundwater from facilities that produce, store, or use significant quantities of such extremely hazardous substances.
+
+&emsp;&emsp;(C) The technical and economic feasibility of establishing, maintaining, and operating perimeter alert systems for detecting releases of such extremely hazardous substances into the atmosphere, surface water, or groundwater, at facilities that manufacture, use, or store significant quantities of such substances.
+
+#### (3) Recommendations
+
+&emsp;The report required by this subsection shall also include the Administrator's recommendations for—
+
+&emsp;&emsp;(A) initiatives to support the development of new or improved technologies or systems that would facilitate the timely monitoring, detection, and prevention of releases of extremely hazardous substances, and
+
+&emsp;&emsp;(B) improving devices or systems for effectively alerting the public in a timely manner, in the event of an accidental release of such extremely hazardous substances.
+
+(Pub. L. 99–499, title III, §305, Oct. 17, 1986, 100 Stat. 1735.)
+

@@ -1,0 +1,146 @@
+### §31111. Length limitations
+
+(a)
+
+Definitions.—In this section—
+
+&emsp;(1) “maxi-cube vehicle” means a truck tractor combined with a semitrailer and a separable property-carrying unit designed to be loaded and unloaded through the semitrailer, with the length of the separable property-carrying unit being not more than 34 feet and the length of the vehicle combination being not more than 65 feet.
+
+&emsp;(2) “truck tractor” means—
+
+&emsp;&emsp;(A) a non-property-carrying power unit that operates in combination with a semitrailer or trailer; or
+
+&emsp;&emsp;(B) a power unit that carries as property only motor vehicles when operating in combination with a semitrailer in transporting motor vehicles.
+
+(b)
+
+General Limitations.—(1) Except as provided in this section, a State may not prescribe or enforce a regulation of commerce that—
+
+&emsp;(A) imposes a vehicle length limitation of less than 45 feet on a bus, of less than 48 feet on a semitrailer operating in a truck tractor-semitrailer combination, or of less than 28 feet on a semitrailer or trailer operating in a truck tractor-semitrailer-trailer combination, on any segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (f) of this section) and those classes of qualifying Federal-aid Primary System highways designated by the Secretary of Transportation under subsection (e) of this section;
+
+&emsp;(B) imposes an overall length limitation on a commercial motor vehicle operating in a truck tractor-semitrailer or truck tractor-semitrailer-trailer combination;
+
+&emsp;(C) has the effect of prohibiting the use of a semitrailer or trailer of the same dimensions as those that were in actual and lawful use in that State on December 1, 1982; or
+
+&emsp;(D) has the effect of prohibiting the use of an existing semitrailer or trailer, of not more than 28.5 feet in length, in a truck tractor-semitrailer-trailer combination if the semitrailer or trailer was operating lawfully on December 1, 1982, within a 65-foot overall length limit in any State.
+
+(2) A length limitation prescribed or enforced by a State under paragraph (1)(A) of this subsection applies only to a semitrailer or trailer and not to a truck tractor.
+
+(c)
+
+Maxi-Cube and Vehicle Combination Limitations.—A State may not prohibit a maxi-cube vehicle or a commercial motor vehicle combination consisting of a truck tractor and 2 trailing units on any segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (f) of this section) and those classes of qualifying Federal-aid Primary System highways designated by the Secretary under subsection (e) of this section.
+
+(d)
+
+Exclusion of Safety and Energy Conservation Devices.—Length calculated under this section does not include a safety or energy conservation device the Secretary decides is necessary for safe and efficient operation of a commercial motor vehicle. However, such a device may not have by its design or use the ability to carry cargo.
+
+(e)
+
+Qualifying Highways.—The Secretary by regulation shall designate as qualifying Federal-aid Primary System highways those highways of the Federal-aid Primary System in existence on June 1, 1991, that can accommodate safely the applicable vehicle lengths provided in this section.
+
+(f)
+
+Exemptions.—(1) If the chief executive officer of a State, after consulting under paragraph (2) of this subsection, decides a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is not capable of safely accommodating a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section, the chief executive officer may notify the Secretary of that decision and request the Secretary to exempt that segment from either or both provisions.
+
+(2) Before making a decision under paragraph (1) of this subsection, the chief executive officer shall consult with units of local government in the State in which the segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is located and with the chief executive officer of any adjacent State that may be directly affected by the exemption. As part of the consultations, consideration shall be given to any potential alternative route that serves the area in which the segment is located and can safely accommodate a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section.
+
+(3) A chief executive officer's notification under this subsection must include specific evidence of safety problems supporting the officer's decision and the results of consultations about alternative routes.
+
+(4)(A) If the Secretary decides, on request of a chief executive officer or on the Secretary's own initiative, a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is not capable of safely accommodating a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section, the Secretary shall exempt the segment from either or both of those provisions. Before making a decision under this paragraph, the Secretary shall consider any possible alternative route that serves the area in which the segment is located.
+
+(B) The Secretary shall make a decision about a specific segment not later than 120 days after the date of receipt of notification from a chief executive officer under paragraph (1) of this subsection or the date on which the Secretary initiates action under subparagraph (A) of this paragraph, whichever is applicable. If the Secretary finds the decision will not be made in time, theSecretary immediately shall notify Congress, giving the reasons for the delay, information about the resources assigned, and the projected date for the decision.
+
+(C) Before making a decision, the Secretary shall give an interested person notice and an opportunity for comment. If the Secretary exempts a segment under this subsection before the final regulations under subsection (e) of this section are prescribed, the Secretary shall include the exemption as part of the final regulations. If the Secretary exempts the segment after the final regulations are prescribed, the Secretary shall publish the exemption as an amendment to the final regulations.
+
+(g)
+
+Accommodating Specialized Equipment.—In prescribing regulations to carry out this section, the Secretary may make decisions necessary to accommodate specialized equipment, including automobile and vessel transporters and maxi-cube vehicles.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 993.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+31111(a)(1)
+
+49 App.:2311(f)(2).
+
+Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, §411(f)(2); added Oct. 18, 1986, Pub. L. 99–500, §101(<i>l</i>) \[H.R. 5205, §324(a)\], 100 Stat. 1783–308, and Oct. 30, 1986, Pub. L. 99–591, §101(<i>l</i>) \[H.R. 5205, §324(a)\], 100 Stat. 3341–308; Dec. 22, 1987, Pub. L. 100–202, §106, 101 Stat. 1329–433.
+
+31111(a)(2)
+
+49 App.:2311(f)(1).
+
+Jan. 6, 1983, Pub. L. 97–424, §411(f)(1), 96 Stat. 2160; Oct. 18, 1986, Pub. L. 99–500, §101(<i>l</i>) \[H.R. 5205, §324(a)\], 100 Stat. 1783–308; Oct. 30, 1986, Pub. L. 99–591, §101(<i>l</i>) \[H.R. 5205, §324(a)\], 100 Stat. 3341–308; Dec. 22, 1987, Pub. L. 100–202, §106, 101 Stat. 1329–433.
+
+31111(b)
+
+49 App.:2311(a).
+
+Jan. 6, 1983, Pub. L. 97–424, §411(a), 96 Stat. 2159; Oct. 30, 1984, Pub. L. 98–554, §104(a), 98 Stat. 2831; Dec. 18, 1991, Pub. L. 102–240, §4006(b)(1), 105 Stat. 2151.
+
+&nbsp;
+
+49 App.:2311(b).
+
+Jan. 6, 1983, Pub. L. 97–424, §411(b), (g), (h), 96 Stat. 2159, 2160.
+
+31111(c)
+
+49 App.:2311(c).
+
+Jan. 6, 1983, Pub. L. 97–424, §411(c), 96 Stat. 2159; Oct. 30, 1984, Pub. L. 98–554, §104(b), 98 Stat. 2831; Oct. 18, 1986, Pub. L. 99–500, §101(<i>l</i>) \[H.R. 5205, §324(b)\], 100 Stat. 1783–308; Oct. 30, 1986, Pub. L. 99–591, §101(<i>l</i>) \[H.R. 5205, §324(b)\], 100 Stat. 3341–308; Dec. 22, 1987, Pub. L. 100–202, §106, 101 Stat. 1329–433.
+
+31111(d)
+
+49 App.:2311(h).
+
+31111(e)
+
+49 App.:2311(e).
+
+Jan. 6, 1983, Pub. L. 97–424, §411(e), 96 Stat. 2160; Dec. 18, 1991, Pub. L. 102–240, §4006(c), 105 Stat. 2151.
+
+31111(f)
+
+49 App.:2311(i).
+
+Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, §411(i); added Oct. 30, 1984, Pub. L. 98–554, §102, 98 Stat. 2829.
+
+31111(g)
+
+49 App.:2311(d).
+
+Jan. 6, 1983, Pub. L. 97–424, §411(d), 96 Stat. 2160; Apr. 2, 1987, Pub. L. 100–17, §133(a)(7), 101 Stat. 171; Nov. 5, 1990, Pub. L. 101–516, §327(a), 104 Stat. 2182.
+
+&nbsp;
+
+49 App.:2311(g).
+
+In this section, the words “Dwight D. Eisenhower System of Interstate and Defense Highways” are substituted for “National System of Interstate and Defense Highways” because of the Act of October 15, 1990 (Public Law 101–427, 104 Stat. 927).
+
+In subsection (a), the word “property” is substituted for “cargo” for consistency in the revised title.
+
+Subsection (b)(1) is substituted for 49 App.:2311(a) and (b) (2d–last sentences) to eliminate unnecessary words and for consistency in the revised title and with other titles of the United States Code. Hyphens are used in describing the combinations “truck tractor-semitrailer” and “truck tractor-semitrailer-trailer” for consistency. In clause (D), the word “actually” is omitted as surplus.
+
+Subsection (b)(2) is substituted for 49 App.:2311(b) (1st sentence) because of the restatement.
+
+In subsection (d), the words “such as rear view mirrors, turn signal lamps, marker lamps, steps and handholds for entry and egress, flexible fender extensions, mudflaps and splash and spray suppressant devices, load-induced tire bulge, refrigeration units or air compressors and other devices” are omitted as unnecessary and because most items listed relate to width rather than length.
+
+In subsection (e), the words “by regulation” are added for clarity. The words “subject to the provisions of subsections (a) and (c) of this section” are omitted as surplus. The text of 49 App.:2311(e)(2) and (3) is omitted as executed.
+
+In subsection (f), the word “commercial” is added before “motor vehicle” for consistency.
+
+In subsection (f)(4)(C), the reference to regulations prescribed under subsection (e) is substituted for the reference in the source to regulations issued under subsection (a) to be more precise. The word “amendment” is substituted for “revision” for consistency in the revised title.
+
+Subsection (g) is substituted for 49 App.:2311(d) to eliminate unnecessary words. The Secretary's general authority to prescribe regulations is provided in 49:322(a). The word “vessel” is substituted for “boat” because of 1:3. The text of 49 App.:2311(g) is omitted as executed.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5112, 31112, 31114 of this title; title 23 section 127.
+

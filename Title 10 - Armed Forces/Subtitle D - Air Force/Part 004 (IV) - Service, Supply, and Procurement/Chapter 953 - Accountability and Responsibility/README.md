@@ -1,0 +1,54 @@
+### <b>CHAPTER 953—ACCOUNTABILITY AND RESPONSIBILITY</b>
+
+| Sec. |  |
+| :--- | ---: |
+| [9831\.](%C2%A7%2009831%20-%20Custody%20of%20departmental%20records%20and%20property.md) | Custody of departmental records and property. |
+| [9832\.](%C2%A7%2009832%20-%20Property%20accountability%20regulations.md) | Property accountability: regulations. |
+| \[9833. | Repealed.\] |
+| [9835\.](%C2%A7%2009835%20-%20Reports%20of%20survey.md) | Reports of survey. |
+| [9836\.](%C2%A7%2009836%20-%20Individual%20equipment%20unauthorized%20disposition.md) | Individual equipment: unauthorized disposition. |
+| [9837\.](%C2%A7%2009837%20-%20Settlement%20of%20accounts%20remission%20or%20cancellation%20of%20indebtedness%20of%20enlisted%20members.md) | Settlement of accounts: remission or cancellation of indebtedness of enlisted members. |
+| [9838\.](%C2%A7%2009838%20-%20Settlement%20of%20accounts%20affidavit%20of%20squadron%20commander.md) | Settlement of accounts: affidavit of squadron commander. |
+| [9839\.](%C2%A7%2009839%20-%20Settlement%20of%20accounts%20oaths.md) | Settlement of accounts: oaths. |
+| [9840\.](%C2%A7%2009840%20-%20Final%20settlement%20of%20officer%27s%20accounts.md) | Final settlement of officer's accounts. |
+| [9841\.](%C2%A7%2009841%20-%20Payment%20of%20small%20amounts%20to%20public%20creditors.md) | Payment of small amounts to public creditors. |
+| [9842\.](%C2%A7%2009842%20-%20Settlement%20of%20accounts%20of%20line%20officers.md) | Settlement of accounts of line officers. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1982—Pub. L. 97–258, §2(b)(14)(A), Sept. 13, 1982, 96 Stat. 1058, added items 9841 and 9842.
+
+1980—Pub. L. 96–513, title V, §514(22)(C), Dec. 12, 1980, 94 Stat. 2937, substituted “remission or cancellation of indebtedness of enlisted members” for “deductions from pay” in item 9837.
+
+1962—Pub. L. 87–480, §1(5), June 8, 1962, 76 Stat. 94, struck out item 9833 “Accountability for public money; disbursing officers; agent officers”.
+
+#### Cross References
+
+Audit and settlement of accounts, see section 3521 et seq. of Title 31, Money and Finance.
+
+Federal records, maintenance of, see section 2101 et seq. of Title 44, Public Printing and Documents.
+
+General Accounting Office, see section 701 et seq. of Title 31, Money and Finance.
+
+General military law provisions, see sections 2771, 2773 of this title.
+
+Property records, see section 2721 of this title.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 09831 - Custody of departmental records and property](%C2%A7%2009831%20-%20Custody%20of%20departmental%20records%20and%20property.md)
+- [&sect; 09832 - Property accountability regulations](%C2%A7%2009832%20-%20Property%20accountability%20regulations.md)
+- [&sect; 09833 - Repealed. Pub. L. 87&#8211;480, &sect;1(4), June 8, 1962, 76 Stat. 94](%C2%A7%2009833%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93480%2C%20%C2%A71%284%29%2C%20June%208%2C%201962%2C%2076%20Stat.%2094.md)
+- [&sect; 09835 - Reports of survey](%C2%A7%2009835%20-%20Reports%20of%20survey.md)
+- [&sect; 09836 - Individual equipment unauthorized disposition](%C2%A7%2009836%20-%20Individual%20equipment%20unauthorized%20disposition.md)
+- [&sect; 09837 - Settlement of accounts remission or cancellation of indebtedness of enlisted members](%C2%A7%2009837%20-%20Settlement%20of%20accounts%20remission%20or%20cancellation%20of%20indebtedness%20of%20enlisted%20members.md)
+- [&sect; 09838 - Settlement of accounts affidavit of squadron commander](%C2%A7%2009838%20-%20Settlement%20of%20accounts%20affidavit%20of%20squadron%20commander.md)
+- [&sect; 09839 - Settlement of accounts oaths](%C2%A7%2009839%20-%20Settlement%20of%20accounts%20oaths.md)
+- [&sect; 09840 - Final settlement of officer's accounts](%C2%A7%2009840%20-%20Final%20settlement%20of%20officer%27s%20accounts.md)
+- [&sect; 09841 - Payment of small amounts to public creditors](%C2%A7%2009841%20-%20Payment%20of%20small%20amounts%20to%20public%20creditors.md)
+- [&sect; 09842 - Settlement of accounts of line officers](%C2%A7%2009842%20-%20Settlement%20of%20accounts%20of%20line%20officers.md)

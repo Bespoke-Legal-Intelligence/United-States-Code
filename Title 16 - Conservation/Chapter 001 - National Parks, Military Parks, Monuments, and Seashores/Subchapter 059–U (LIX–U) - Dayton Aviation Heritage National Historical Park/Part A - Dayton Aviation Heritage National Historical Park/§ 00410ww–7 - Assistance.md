@@ -1,0 +1,12 @@
+### §410ww–7. Assistance
+
+#### (a) Technical and preservation assistance
+
+The Secretary may provide to any owner of property within the park, and to any organization having an agreement with the Secretary under section 410ww–1(b) of this title, such technical assistance as the Secretary considers appropriate to carry out the purposes of this subchapter.
+
+#### (b) Interpretative materials
+
+The Secretary is authorized to publish interpretative materials for historic aviation resources in the Miami Valley.
+
+(Pub. L. 102–419, title I, §108, Oct. 16, 1992, 106 Stat. 2143.)
+

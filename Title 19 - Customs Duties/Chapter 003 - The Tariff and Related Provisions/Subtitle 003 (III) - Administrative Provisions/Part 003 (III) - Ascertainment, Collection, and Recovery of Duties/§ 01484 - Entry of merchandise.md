@@ -1,0 +1,180 @@
+### §1484. Entry of merchandise
+
+#### (a) Requirement and time
+
+(1) Except as provided in sections 1490, 1498, 1552, 1553, and 1336(j) <sup>1</sup> of this title, one of the parties qualifying as “importer of record” under paragraph (2)(B), either in person or by an agent authorized by the party in writing, shall, using reasonable care—
+
+&emsp;(A) make entry therefor by filing with the Customs Service—
+
+&emsp;&emsp;(i) such documentation or, pursuant to an electronic data interchange system, such information as is necessary to enable the Customs Service to determine whether the merchandise may be released from customs custody, and
+
+&emsp;&emsp;(ii) notification whether an import activity summary statement will be filed; and
+
+&emsp;(B) complete the entry by filing with the Customs Service the declared value, classification and rate of duty applicable to the merchandise, and such other documentation or, pursuant to an electronic data interchange system, such other information as is necessary to enable the Customs Service to—
+
+&emsp;&emsp;(i) properly assess duties on the merchandise,
+
+&emsp;&emsp;(ii) collect accurate statistics with respect to the merchandise, and
+
+&emsp;&emsp;(iii) determine whether any other applicable requirement of law (other than a requirement relating to release from customs custody) is met.
+
+(2)(A) The documentation or information required under paragraph (1) with respect to any imported merchandise shall be filed or transmitted in such manner and within such time periods as the Secretary shall by regulation prescribe. Such regulations shall provide for the filing of import activity summary statements, covering entries or warehouse withdrawals made during a calendar month, within such time period as is prescribed in regulations but not to exceed the 20th day following such calendar month.
+
+(B) When an entry of merchandise is made under this section, the required documentation or information shall be filed or electronically transmitted either by the owner or purchaser of the merchandise or, when appropriately designated by the owner, purchaser, or consignee of the merchandise, a person holding a valid license under section 1641 of this title. When a consignee declares on entry that he is the owner or purchaser of merchandise the Customs Service may, without liability, accept the declaration. For the purposes of this chapter, the importer of record must be one of the parties who is eligible to file the documentation or information required by this section.
+
+(C) The Secretary, in prescribing regulations to carry out this subsection, shall establish procedures which insure the accuracy and timeliness of import statistics, particularly statistics relevant to the classification and valuation of imports. Corrections of errors in such statistical data shall be transmitted immediately to the Director of the Bureau of the Census, who shall make corrections in the statistics maintained by the Bureau. The Secretary shall also provide, to the maximum extent practicable, for the protection of the revenue, the enforcement of laws governing the importation and exportation of merchandise, the facilitation of the commerce of the United States, and the equal treatment of all importers of record of imported merchandise.
+
+#### (b) Reconciliation
+
+#### (1) In general
+
+&emsp;A party that electronically transmits an entry summary or import activity summary statement may at the time of filing such summary or statement notify the Customs Service of his intention to file a reconciliation pursuant to such regulations as the Secretary may prescribe. Such reconciliation must be filed by the importer of record within such time periodas is prescribed by regulation but no later than 15 months following the filing of the entry summary or import activity summary statement; except that the prescribed time period for reconciliation issues relating to the assessment of antidumping and countervailing duties shall require filing no later than 90 days after the Customs Service advises the importer that a period of review for antidumping or countervailing duty purposes has been completed. Before filing a reconciliation, an importer of record shall post bond or other security pursuant to such regulations as the Secretary may prescribe.
+
+#### (2) Regulations regarding AD/CV duties
+
+&emsp;The Secretary shall prescribe, in consultation with the Secretary of Commerce, such regulations as are necessary to adapt the reconciliation process for use in the collection of antidumping and countervailing duties.
+
+#### (c) Release of merchandise
+
+The Customs Service may permit the entry and release of merchandise from customs custody in accordance with such regulations as the Secretary may prescribe. No officer of the Customs Service shall be liable to any person with respect to the delivery of merchandise released from customs custody in accordance with such regulations.
+
+#### (d) Signing and contents
+
+Entries shall be signed by the importer of record, or his agent, unless filed pursuant to an electronic data interchange system. If electronically filed, each transmission of data shall be certified by an importer of record or his agent, one of whom shall be resident in the United States for purposes of receiving service of process, as being true and correct to the best of his knowledge and belief, and such transmission shall be binding in the same manner and to the same extent as a signed document. The entry shall set forth such facts in regard to the importation as the Secretary may require and shall be accompanied by such invoices, bills of lading, certificates, and documents, or their electronically submitted equivalents, as are required by regulation.
+
+#### (e) Production of invoice
+
+The Secretary may provide by regulation for the production of an invoice, parts thereof, or the electronic equivalents thereof, in such manner and form, and under such terms and conditions, as the Secretary considers necessary.
+
+#### (f) Statistical enumeration
+
+The Secretary, the Secretary of Commerce, and the United States International Trade Commission shall establish from time to time for statistical purposes an enumeration of articles in such detail as in their judgment may be necessary, comprehending all merchandise imported into the United States and exported from the United States, and shall seek, in conjunction with statistical programs for domestic production and programs for achieving international harmonization of trade statistics, to establish the comparability thereof with such enumeration of articles. All import entries and export declarations shall include or have attached thereto an accurate statement specifying, in terms of such detailed enumeration, the kinds and quantities of all merchandise imported and exported and the value of the total quantity of each kind of article.
+
+#### (g) Statement of cost of production
+
+Under such regulations as the Secretary may prescribe, the Customs Service may require a verified statement from the manufacturer or producer showing the cost of producing the imported merchandise, if the Customs Service considers such verification necessary for the appraisement of such merchandise.
+
+#### (h) Admissibility of data electronically transmitted
+
+Any entry or other information transmitted by means of an authorized electronic data interchange system shall be admissible in any and all administrative and judicial proceedings as evidence of such entry or information.
+
+(June 17, 1930, ch. 497, title IV, §484, 46 Stat. 722; June 25, 1938, ch. 679, §12, 52 Stat. 1083; Aug. 8, 1953, ch. 397, §§3(b), 16(b), (c), 67 Stat. 509, 517; June 2, 1970, Pub. L. 91–271, title III, §301(i), 84 Stat. 288; Jan. 3, 1975, Pub. L. 93–618, title VI, §608(a), 88 Stat. 2073; Aug. 17, 1977, Pub. L. 95–106, §4, 91 Stat. 869; Oct. 3, 1978, Pub. L. 95–410, title I, §102(a), 92 Stat. 888; Jan. 12, 1983, Pub. L. 97–446, title II, §201(d), 96 Stat. 2349; Dec. 8, 1993, Pub. L. 103–182, title VI, §637(a), 107 Stat. 2200.)
+
+#### References in Text
+
+Section 1336(j) of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 96–39, title II, §202(a)(2)(D), July 26, 1979, 93 Stat. 202.
+
+#### Prior Provisions
+
+Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §484, 42 Stat. 960. That section was superseded by section 484 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+
+Provisions requiring entry of goods, and prescribing the manner of making it, the documents to be produced, etc., were contained in R.S. §2785. Provision for entry when the particulars of the merchandise were unknown was made by R.S. §2788. A special provision regarding entry of distilled spirits and wines was contained in R.S. §2794. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+
+Provisions relating to the production of certified invoices were contained in act Oct. 3, 1913, ch. 16, §III, E, 38 Stat. 182, which reenacted the provisions of the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 92, which amended Customs Administrative Act of June 10, 1890, ch. 407, §4, 26 Stat. 131. Said section III, E, was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989. Earlier provisions were contained in R.S. §2860, and act June 22, 1874, ch. 391, §§9, 10, and 11, all repealed by act June 10, 1890, ch. 407, §29, 26 Stat. 141.
+
+R.S. §2842 required bond for the production of an invoice duly certified by the oath of the owner or one of them, in the case of merchandise belonging to a resident of the United States absent from the place of entry. R.S. §2852, provided that when merchandise was admitted to entry on invoice, the collector should certify the same, and no other evidence of value should be admitted on the part of the owner, except in corroboration of the entry. R.S. §2859, made special provision for entry of merchandise from countries where there was no United States consul, etc. These sections were all repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+
+R.S. §§2847 and 2848 authorized the Secretary of the Treasury to admit to entry in certain cases merchandise subject to ad valorem duty, belonging to a person not residing in the United States, not accompanied with an invoice verified and authenticated as required by preceding section. They became inoperative by the repeal of R.S. §§2843, 2845, by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, reenacted by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 104, and the enactment of provisions for entry of goods without invoice by section 4 of said Customs Administrative Act amended by the Payne-Aldrich Tariff Act, and further amended by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, E, and were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+
+R.S. §2858, provided that the Secretary of the Treasury, whenever it had become impracticable for the person desiring to make entry of merchandise to produce any invoice thereof, might authorize the entry thereof, and remit forfeitures in such cases, as in other cases under the revenue laws. It was repealed by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, reenacted by the Payne-Aldrich Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 104.
+
+A provision relating to statistical enumeration of merchandise, except that the “accurate statement” was to be a part of the declaration therein provided for, and a further provision making it the duty of the consular officer to whom the invoice should be produced to require the information to be given, were contained in act Oct. 3, 1913, ch. 16, §III, F, 38 Stat. 182, amending the Customs Administrative Act of June 10, 1890, ch. 407, §5, 26 Stat. 132, as previously amended by Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 95. Said section III, F, was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
+
+Prior provisions on the subject of subsequent entry of part of merchandise and separate entry of packages contained in packages for delivery to others were contained in act May 1, 1876, ch. 89, §1, 19 Stat. 49, which was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989; and in act Oct. 3, 1913, ch. 16, §III, F, 38 Stat. 182, amending Customs Administrative Act of June 10, 1890, ch. 407, §5, 26 Stat. 132, as previously amended by Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 95. Said section III, F, was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
+
+#### Amendments
+
+1993—Pub. L. 103–182 amended section generally, substituting present provisions for provisions relating to entry of merchandise and providing specifically for requirement and time, production of certified invoice, production of bill of lading, signing and contents of entry, statistical enumeration, packages included, statement of cost of production, certification of owner by carrier, acceptance of duplicate bill of lading, and release of merchandise from customs custody.
+
+1983—Subsec. (a)(1). Pub. L. 97–446, §201(d)(1)(A), substituted “one of the parties qualifying as ‘importer of record’ under paragraph (2)(C) of this subsection” for “the consignee of imported merchandise”, and “authorized by him” for “authorized by the consignee”.
+
+Subsec. (a)(2)(C), (D). Pub. L. 97–446, §201(d)(1)(B), (C), added subpar. (C), redesignated former subpar. (C) as (D), and in subpar. (D) as so redesignated substituted “importers of record” for “consignees” after “treatment of all”.
+
+Subsec. (c). Pub. L. 97–446, §201(d)(2), substituted “importer of record” for “consignee” before “shall produce”.
+
+Subsec. (d). Pub. L. 97–446, §201(d)(2), substituted “importer of record” for “consignee” after “signed by the”.
+
+Subsec. (h). Pub. L. 97–446, §201(d)(3), substituted provision relating to authority of carrier of merchandise bringing it into the port to certify any person to receive the merchandise if the carrier has actual knowledge of the accuracy of the certification, for provision that any person certified by the carrier bringing the merchandise to the port at which entry was to be made to be the owner or consignee of the merchandise, or an agent of such owner or consignee, might make entry thereof, either in person or by an authorized agent, in the manner and subject to the requirements prescribed in this section (or in regulations promulgated hereunder) in the case of a consignee within the meaning of paragraph (1) of section 1483 of this title.
+
+Subsec. (i). Pub. L. 97–446, §201(d)(3), substituted provision authorizing appropriate customs officer to accept a duplicate bill of lading, for provision that any person might, upon the production of a duplicate bill of lading signed or certified to be genuine by the carrier bringing the merchandise to the port at which entry was to be made, make entry for the merchandise in respect to which such bill of lading was issued, in the manner and subject to the requirements prescribed in this section (or in regulations promulgated hereunder) in the case of a consignee within the meaning of paragraph (1) of section 1483 of this title, except that such person was to make such entry in his own name.
+
+1978—Subsec. (a). Pub. L. 95–410, §102(a)(1), incorporated first sentence in introductory text of par. designated (1), added subpars. (A) and (B) and par. (2), and struck out second sentence which required the entry to be made at the customhouse within five days, exclusive of Sundays and holidays, after the entry of the importing vessel or report of the vehicle, or after the arrival at the port of destination in the case of merchandise transported in bond, unless the appropriate customs officer authorized in writing a longer time.
+
+Subsec. (c)(3). Pub. L. 95–410, §102(a)(2), substituted “subsection” for “subdivision”.
+
+Subsec. (j). Pub. L. 95–410, §102(a)(3), struck out “The custom officer shall return to the person making entry the bill of lading (if any is produced) with a notation thereon to the effect that entry for such merchandise has been made.”
+
+1977—Subsec. (e). Pub. L. 95–106 substituted “production and programs for achieving international harmonization of trade statistics,” for “production,”.
+
+1975—Subsec. (e). Pub. L. 93–618 substituted “United States International Trade Commission” for “United States Tariff Commission” and inserted references to an enumeration of articles exported from the United States and, in conjunction with statistical programs for domestic production, to the establishment of the comparability thereof with the enumeration of articles.
+
+1970—Subsec. (a). Pub. L. 91–271, §301(i)(1), substituted reference to appropriate customs officer for reference to collector.
+
+Subsec. (c). Pub. L. 91–271, §301(i)(2), (3), substituted references to appropriate customs officer or such customs officer for references to collector wherever appearing.
+
+Subsec. (g). Pub. L. 91–271, §301(i)(4), substituted reference to appropriate customs officer for reference to collector or appraiser.
+
+Subsec. (j). Pub. L. 91–271, §301(i)(5), (6), substituted references to customs officer or such customs officer for references to collector wherever appearing.
+
+1953—Subsec. (a). Act Aug. 8, 1953, §16(b), substituted “five days” for “forty-eight hours”.
+
+Subsec. (b). Act Aug. 8, 1953, §16(c), granted the Secretary of the Treasury discretion to require certified invoices with respect to merchandise entered as he deems advisable and to establish terms under which merchandise may be imported without a certified invoice, in lieu of former provision that all such merchandise should be accompanied by an invoice certified by a United States consulate except in certain enumerated situations, and of the former provision that the Secretary might grant certain other exceptions.
+
+Subsec. (f). Act Aug. 8, 1953, §3(b), inserted provision relating to acceptance at port of entry designated by consignee or his agent in cases of articles not subject to a quantitative or tariff-rate quota.
+
+1938—Subsec. (f). Act June 25, 1938, inserted provision relating to authorization by the Secretary for inclusion of portions of merchandise in separate entries under such rules and regulations as he may prescribe.
+
+#### Effective Date of 1983 Amendment
+
+Section 201(g) of Pub. L. 97–446 provided that: “The amendments made by this section \[amending the General headnotes of the Tariff Schedules, this section, and sections 1485, 1487, 1494, 1505, and 1557 of this title, and repealing section 1483 of this title\] shall apply with respect to merchandise entered on and after the 30th day after the date of the enactment of this Act \[Jan. 12, 1983\].”
+
+#### Effective Date of 1978 Amendment
+
+Section 102(b) of Pub. L. 95–410 provided that: “The amendments made by this section \[amending this section\] shall take effect 60 days after the date of enactment of this Act \[Oct. 3, 1978\].”
+
+#### Effective Date of 1975 Amendment
+
+Section 608(e) of Pub. L. 93–618 provided that: “The amendment made by subsection (a) \[amending this section\] insofar as it related to export declarations shall take effect on January 1, 1976.”
+
+#### Effective Date of 1970 Amendment
+
+For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
+
+#### Effective Date of 1953 Amendment; Savings Provision
+
+Amendment by act Aug. 8, 1953, effective on and after thirtieth day following Aug. 8, 1953, and savings provision, see notes set out under section 1304 of this title.
+
+#### Effective Date of 1938 Amendment
+
+Amendment by act June 25, 1938, effective on thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as a note under section 1401 of this title.
+
+#### Drug Paraphernalia
+
+Pub. L. 101–382, title I, §137, Aug. 20, 1990, 104 Stat. 652, provided that:
+
+“(a)
+
+Statistical Annotations.—The Secretary of the Treasury, the Secretary of Commerce, and the United States International Trade Commission shall take actions under section 484(e) of the Tariff Act of 1930 (19 U.S.C. 1484(e)) to implement the recommendations of the Commission regarding additional statistical annotations that were made in the report of the Commission on Investigation 332–277.
+
+“(b)
+
+Report.—By no later than the date that is 1 year after the date of enactment of this Act \[Aug. 20, 1990\], the Commissioner of Customs shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report on the operational response of the United States Customs Service to the recommendations contained in the report of the United States Trade Commission described in subsection (a). The report submitted by the Commissioner of Customs under this subsection shall address the effectiveness of the United States Customs Service in monitoring and seizing drug paraphernalia, including crack bags, vials, and pipes.”
+
+#### Study of Commodity Classification Systems
+
+Section 608(b) of Pub. L. 93–618 mandated a joint study by the Secretary of Commerce and the United States International Trade Commission with a view toward development of an enumeration of articles resulting in comparability of import, production, and export data, with the submission of a report to both Houses of Congress and to the President no later than Aug. 1, 1975.
+
+#### Investigation by United States International Trade Commission; Formulation of International Commodity Code
+
+Section 608(c) of Pub. L. 93–618 authorized an investigation by the United States International Trade Commission to provide the basis for the formulation of an international commodity code (with a report to be submitted to both Houses of Congress and to the President no later than June 1, 1975) and to provide the basis for full and immediate participation by the Trade Commission in the United States contribution to technical work of the Harmonized Systems Committee to assure recognition of the needs of the business community in the development of a harmonized code.
+
+#### Cooperation of Governmental Agencies With Secretary of Commerce and United States International Trade Commission in Studies and Investigations
+
+Section 608(d) of Pub. L. 93–618 provided that: “The President is requested to direct the appropriate agencies to cooperate fully with the Secretary of Commerce and the United States International Trade Commission in carrying out their responsibilities under subsections (a) \[amending this section\], (b), and (c) \[see notes set out above\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 58c, 1414, 1481, 1485, 1504, 1592a, 3007, 3010 of this title; title 15 section 70g.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

@@ -1,0 +1,26 @@
+### §2096. Acquisition of source material; payments
+
+The Commission is authorized and directed, to the extent it deems necessary to effectuate the provisions of this chapter—
+
+&emsp;(a) to purchase, take, requisition, condemn, or otherwise acquire supplies of source material;
+
+&emsp;(b) to purchase, condemn, or otherwise acquire any interest in real property containing deposits of source material; and
+
+&emsp;(c) to purchase, condemn, or otherwise acquire rights to enter upon any real property deemed by the Commission to have possibilities of containing deposits of source material in order to conduct prospecting and exploratory operations for such deposits.
+
+> Any purchase made under this section may be made without regard to the provisions of section 5 of title 41, upon certification by the Commission that such action is necessary in the interest of the common defense and security, or upon a showing by the Commission that advertising is not reasonably practicable. Partial and advanced payments may be made under contracts for such purposes. The Commission may establish guaranteed prices for all source material delivered to it within a specified time. Just compensation shall be made for any right, property, or interest in property taken, requisitioned, condemned, or otherwise acquired under this section.
+
+(Aug. 1, 1946, ch. 724, title I, §66, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 933; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 1805(b)(5) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+
+#### Transfer of Functions
+
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2221 of this title.
+

@@ -1,0 +1,22 @@
+### §23. Suits by United States; subpoenas for witnesses
+
+In any suit, action, or proceeding brought by or on behalf of the United States subpoenas for witnesses who are required to attend a court of the United States in any judicial district in any case, civil or criminal, arising under the antitrust laws may run into any other district: <i>Provided</i>, That in civil cases no writ of subpoena shall issue for witnesses living out of the district in which the court is held at a greater distance than one hundred miles from the place of holding the same without the permission of the trial court being first had upon proper application and cause shown.
+
+(Oct. 15, 1914, ch. 323, §13, 38 Stat. 736.)
+
+#### References in Text
+
+The antitrust laws, referred to in text, are defined in section 12 of this title.
+
+#### Federal Rules of Civil Procedure
+
+One form of action, see rule 2, Title 28, Appendix, Judiciary and Judicial Procedure.
+
+Rules as governing the procedure in all suits of a civil nature whether cognizable as cases at law or in equity, see rule 1.
+
+Subpoena, see rule 45.
+
+#### Federal Rules of Criminal Procedure
+
+Subpoena, see rule 17, Title 18, Appendix, Crimes and Criminal Procedure.
+

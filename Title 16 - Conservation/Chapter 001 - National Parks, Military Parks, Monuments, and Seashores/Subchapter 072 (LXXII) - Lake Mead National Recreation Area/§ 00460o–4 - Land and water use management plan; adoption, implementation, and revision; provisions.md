@@ -1,0 +1,12 @@
+### §460<i>o</i>–4 . Land and water use management plan; adoption, implementation, and revision; provisions
+
+In the administration of the area for the purposes of this subchapter, the Secretary of the Interior, subject to provisions of section 460<i>o</i>–3 of this title, shall adopt and implement, and may from time to time revise, a land and water use management plan, which shall include specific provision for, in order of priority—
+
+&emsp;(1) public outdoor recreation benefits;
+
+&emsp;(2) preservation of scenic, scientific, and historic features contributing to public enjoyment;
+
+&emsp;(3) such utilization of natural resources as in the judgment of the Secretary of the Interior is consistent with, and does not significantly impair, public recreation and protection of scenic, scientific, and historic features contributing to public enjoyment.
+
+(Pub. L. 89–158, §5, Sept. 1, 1965, 79 Stat. 614.)
+

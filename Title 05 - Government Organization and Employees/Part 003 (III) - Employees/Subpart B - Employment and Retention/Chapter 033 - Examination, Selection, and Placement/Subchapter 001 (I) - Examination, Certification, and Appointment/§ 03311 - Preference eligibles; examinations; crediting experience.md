@@ -1,0 +1,34 @@
+### §3311. Preference eligibles; examinations; crediting experience
+
+In examinations for the competitive service in which experience is an element of qualification, a preference eligible is entitled to credit—
+
+&emsp;(1) for service in the armed forces when his employment in a similar vocation to that for which examined was interrupted by the service; and
+
+&emsp;(2) for all experience material to the position for which examined, including experience gained in religious, civic, welfare, service, and organizational activities, regardless of whether he received pay therefor.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 420.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 853.
+
+June 27, 1944, ch. 287, §4, 58 Stat. 388.
+
+The words “for the competitive service” are added after “examinations” for clarity. Application of this section to the excepted service in the executive branch and to the government of the District of Columbia, as provided in former section 858, is carried into section 3320.
+
+In paragraph (1), the words “service in the armed forces” are substituted for “in the military or naval service of the United States” on authority of the Act of July 26, 1947, ch. 343, §305(a), 61 Stat. 508. The word “actual” is omitted as surplusage.
+
+In paragraph (2), the words “material to the position for which examined” are substituted for “valuable” for clarity.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3320 of this title; title 20 section 241; title 22 section 1438.
+

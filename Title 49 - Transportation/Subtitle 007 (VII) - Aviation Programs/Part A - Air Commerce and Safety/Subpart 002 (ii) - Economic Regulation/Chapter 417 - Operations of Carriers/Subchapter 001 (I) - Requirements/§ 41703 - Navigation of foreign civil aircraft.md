@@ -1,0 +1,90 @@
+### §41703. Navigation of foreign civil aircraft
+
+(a)
+
+Permitted Navigation.—A foreign aircraft, not part of the armed forces of a foreign country, may be navigated in the United States only—
+
+&emsp;(1) if the country of registry grants a similar privilege to aircraft of the United States;
+
+&emsp;(2) by an airman holding a certificate or license issued or made valid by the United States Government or the country of registry;
+
+&emsp;(3) if the Secretary of Transportation authorizes the navigation; and
+
+&emsp;(4) if the navigation is consistent with terms the Secretary may prescribe.
+
+(b)
+
+Requirements for Authorizing Navigation.—The Secretary may authorize navigation under this section only if the Secretary decides the authorization is—
+
+&emsp;(1) in the public interest; and
+
+&emsp;(2) consistent with any agreement between the Government and the government of a foreign country.
+
+(c)
+
+Providing Air Commerce.—The Secretary may authorize an aircraft permitted to navigate in the United States under this section to provide air commerce in the United States. However, the aircraft may take on for compensation, at a place in the United States, passengers or cargo destined for another place in the United States only if—
+
+&emsp;(1) specifically authorized under section 40109(g) of this title; or
+
+&emsp;(2) under regulations the Secretary prescribes authorizing air carriers to provide otherwise authorized air transportation with foreign registered aircraft under lease or charter to them without crew.
+
+(d)
+
+Permit Requirements Not Affected.—This section does not affect section 41301 or 41302 of this title. However, a foreign air carrier holding a permit under section 41302 does not need to obtain additional authorization under this section for an operation authorized by the permit.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1140.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+41703(a)
+
+49 App.:1508(b) (1st sentence).
+
+Aug. 23, 1958, Pub. L. 85–726, §1108(b) (1st, 2d, last sentences), 72 Stat. 798, 799.
+
+&nbsp;
+
+49 App.:1551(b) (1)(E).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
+
+41703(b)
+
+49 App.:1508(b) (2d sentence).
+
+&nbsp;
+
+49 App.:1551(b) (1)(E).
+
+41703(c)
+
+49 App.:1508(b) (3d sentence).
+
+Aug. 23, 1958, Pub. L. 85–726, §1108(b) (3d sentence), 72 Stat. 799; Feb. 15, 1980, Pub. L. 96–192, §20, 94 Stat. 43.
+
+&nbsp;
+
+49 App.:1551(b) (1)(E).
+
+41703(d)
+
+49 App.:1508(b) (last sentence).
+
+In subsection (a), the word “country” is substituted for “nation” for consistency in the revised title and with other titles of the United States Code. In clause (3), the words “permit, order, or regulation issued” are omitted as surplus. In clause (4), the words “conditions, and limitations” are omitted as being included in “terms”.
+
+In subsection (b)(2), the word “agreement” is substituted for “treaty, convention, or agreement” for clarity and consistency in the revised title. The words “which may be in force” are omitted as surplus. The words “or countries” are omitted because of 1:1.
+
+In subsection (c), before clause (1), the word “place” is substituted for “point”, and the word “passengers” is substituted for “persons”, for consistency in the revised title.
+
+In subsection (d), the word “affect” is substituted for “limit, modify, or amend” to eliminate unnecessary words.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 40103, 44101 of this title.
+

@@ -1,0 +1,24 @@
+### §1591. Reimbursement for travel and transportation expenses when accompanying Members of Congress
+
+(a) Subject to subsection (b), the Secretary concerned may authorize reimbursement to a civilian employee who is accompanying a Member of Congress or a congressional employee on official travel for actual travel and transportation expenses incurred for such travel.
+
+(b) The allowance provided in subsection (a) may be paid—
+
+&emsp;(1) at a rate that does not exceed the rate approved for official congressional travel; and
+
+&emsp;(2) only when the travel of the member is directed or approved by the Secretary concerned.
+
+(c) In this section:
+
+&emsp;(1) The term “Member of Congress” means a member of the Senate or the House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico.
+
+&emsp;(2) The term “congressional employee” means an employee of a Member of Congress or an employee of Congress.
+
+&emsp;(3) The term “Secretary concerned” includes the Secretary of Defense with respect to civilian employees of the Department of Defense other than a military department.
+
+(Added Pub. L. 100–180, div. A, title VI, §617(b)(1), Dec. 4, 1987, 101 Stat. 1097.)
+
+#### Effective Date
+
+Section 617(c) of Pub. L. 100–180 provided that: “Subsection (h) of section 404 of title 37, United States Code (as added by subsection (a)), and section 1591 of title 10, United States Code (as added by subsection (b)), shall apply with respect to travel performed after the date of the enactment of this Act \[Dec. 4, 1987\].”
+

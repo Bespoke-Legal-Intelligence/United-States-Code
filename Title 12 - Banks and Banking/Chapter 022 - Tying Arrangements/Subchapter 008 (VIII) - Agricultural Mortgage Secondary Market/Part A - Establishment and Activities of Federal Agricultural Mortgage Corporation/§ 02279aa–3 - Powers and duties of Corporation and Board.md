@@ -1,0 +1,92 @@
+### §2279aa–3. Powers and duties of Corporation and Board
+
+#### (a) Guarantees
+
+After the Board has been duly constituted, subject to the other provisions of this subchapter and other commitments and requirements established pursuant to law, the Corporation may provide guarantees on terms and conditions determined by the Corporation of securities issued on the security of, or in participation in, pooled interests in qualified loans.
+
+#### (b) Duties of Board
+
+#### (1) In general
+
+&emsp;The Board shall—
+
+&emsp;&emsp;(A) determine the general policies that shall govern the operations of the Corporation;
+
+&emsp;&emsp;(B) select, appoint, and determine the compensation of qualified persons to fill such offices as may be provided for in the bylaws of the Corporation; and
+
+&emsp;&emsp;(C) assign to such persons such executive functions, powers, and duties as may be prescribed by the bylaws of the Corporation or by the Board.
+
+#### (2) Executive officers and functions
+
+&emsp;The persons elected or appointed under paragraph (1)(B) shall be the executive officers of the Corporation and shall discharge the executive functions, powers, and duties of the Corporation.
+
+#### (c) Powers of Corporation
+
+The Corporation shall be a body corporate and shall have the following powers:
+
+&emsp;(1) To operate under the direction of its Board.
+
+&emsp;(2) To issue stock in the manner provided in section 2279aa–4 of this title.
+
+&emsp;(3) To adopt, alter, and use a corporate seal, which shall be judicially noted.
+
+&emsp;(4) To provide for a president, 1 or more vice presidents, secretary, treasurer, and such other officers, employees, and agents, as may be necessary, define their duties and compensation levels, all without regard to title 5, and require surety bonds or make other provisions against losses occasioned by acts of such persons.
+
+&emsp;(5) To provide guarantees in the manner provided under section 2279aa–6 of this title.
+
+&emsp;(6) To have succession until dissolved by a law enacted by the Congress.
+
+&emsp;(7) To prescribe bylaws, through the Board, not inconsistent with law, that shall provide for—
+
+&emsp;&emsp;(A) the classes of the stock of the Corporation; and
+
+&emsp;&emsp;(B) the manner in which—
+
+&emsp;&emsp;&emsp;(i) the stock shall be issued, transferred, and retired;
+
+&emsp;&emsp;&emsp;(ii) the officers, employees, and agents of the Corporation are selected;
+
+&emsp;&emsp;&emsp;(iii) the property of the Corporation is acquired, held, and transferred;
+
+&emsp;&emsp;&emsp;(iv) the commitments and other financial assistance of the Corporation are made;
+
+&emsp;&emsp;&emsp;(v) the general business of the Corporation is conducted; and
+
+&emsp;&emsp;&emsp;(vi) the privileges granted by law to the Corporation are exercised and enjoyed;
+
+&emsp;(8) To prescribe such standards as may be necessary to carry out this subchapter.
+
+&emsp;(9) To enter into contracts and make payments with respect to the contracts.
+
+&emsp;(10) To sue and be sued in its corporate capacity and to complain and defend in any action brought by or against the Corporation in any State or Federal court of competent jurisdiction.
+
+&emsp;(11) To make and perform contracts, agreements, and commitments with persons and entities both inside and outside of the Farm Credit System.
+
+&emsp;(12) To acquire, hold, lease, mortgage or dispose of, at public or private sale, real and personal property, purchase or sell any securities or obligations, and otherwise exercise all the usual incidents of ownership of property necessary and convenient to the business of the Corporation.
+
+&emsp;(13) To establish, acquire, and maintain affiliates (as such term is defined in section 2279aa–11(e) of this title) under applicable State laws to carry out any activities that otherwise would be performed directly by the Corporation under this subchapter.
+
+&emsp;(14) To exercise such other incidental powers as are necessary to carry out the powers, duties, and functions of the Corporation in accordance with this subchapter.
+
+#### (d) Federal Reserve banks as depositaries and fiscal agents
+
+The Federal Reserve banks may act as depositaries for, or as fiscal agents or custodians of, the Corporation.
+
+#### (e) Access to book-entry system
+
+The Secretary of the Treasury may authorize the Corporation to use the book-entry system of the Federal Reserve System.
+
+(Pub. L. 92–181, title VIII, §8.3, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1691; amended Pub. L. 100–399, title VI, §601(c), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 102–237, title V, §503(c), Dec. 13, 1991, 105 Stat. 1877; Pub. L. 102–552, title III, §308(b)(1), Oct. 28, 1992, 106 Stat. 4116.)
+
+#### Amendments
+
+1992—Subsec. (c)(13). Pub. L. 102–552 substituted “2279aa–11(e)” for “2279aa–11(g)”.
+
+1991—Subsec. (c)(13), (14). Pub. L. 102–237 added par. (13) and redesignated former par. (13) as (14).
+
+1988—Subsec. (c)(4). Pub. L. 100–399 substituted “such persons” for “the persons”.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+

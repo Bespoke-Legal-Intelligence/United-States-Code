@@ -1,0 +1,10 @@
+### §4313. Severability
+
+If any provision of this chapter or the application thereof to any person or circumstance is held invalid, the remainder of this chapter and the application of such provision to any other person or circumstance shall not be affected thereby.
+
+(Aug. 1, 1956, ch. 841, title II, §213, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 290.)
+
+#### Codification
+
+Section is also set out as a note under D.C. Code, §5–1201.
+

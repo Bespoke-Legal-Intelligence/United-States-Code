@@ -1,0 +1,26 @@
+### §4776. Emergency construction: fortifications
+
+If in an emergency the President considers it urgent, a temporary fort or fortification may be built on private land if the owner consents in writing.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 270; Sept. 1, 1970, Pub. L. 91–393, §5, 84 Stat. 835.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+4776
+
+50:178.
+
+Apr. 11, 1898, J. Res. 21, 30 Stat. 737.
+
+The word “important” is omitted as covered by the word “urgent”. The words “upon which such work is to be placed” are omitted as surplusage.
+
+#### Amendments
+
+1970—Pub. L. 91–393 struck out “In such a case, section 175 of title 50 does not apply.”
+

@@ -1,0 +1,56 @@
+### §6004. Standards
+
+#### (a) In general
+
+Bicycle helmets manufactured 9 months or more after June 16, 1994, shall conform to—
+
+&emsp;(1) any interim standard described under subsection (b) of this section, pending the establishment of a final standard pursuant to subsection (c) of this section; and
+
+&emsp;(2) the final standard, once it has been established under subsection (c) of this section.
+
+#### (b) Interim standards
+
+The interim standards are as follows:
+
+&emsp;(1) The American National Standards Institute standard designated as “Z90.4 1984”.
+
+&emsp;(2) The Snell Memorial Foundation standard designated as “B 90”.
+
+&emsp;(3) The American Society for Testing and Materials (ASTM) standard designated as “F 1447”.
+
+&emsp;(4) Any other standard that the Commission determines is appropriate.
+
+#### (c) Final standard
+
+Not later than 60 days after June 16, 1994, the Commission shall begin a proceeding under section 553 of title 5 to—
+
+&emsp;(1) review the requirements of the interim standards set forth in subsection (a) of this section and establish a final standard based on such requirements;
+
+&emsp;(2) include in the final standard a provision to protect against the risk of helmets coming off the heads of bicycle riders;
+
+&emsp;(3) include in the final standard provisions that address the risk of injury to children; and
+
+&emsp;(4) include additional provisions as appropriate.
+
+> Sections 7, 9, and 30(d) of the Consumer Product Safety Act (15 U.S.C. 2056, 2058, 2079(d)) shall not apply to the proceeding under this subsection and section 11 of such Act (15 U.S.C. 2060) shall not apply with respect to any standard issued under such proceeding. The final standard shall take effect 1 year from the date it is issued.
+
+#### (d) Failure to meet standards
+
+#### (1) Failure to meet interim standard
+
+&emsp;Until the final standard takes effect, a bicycle helmet that does not conform to an interim standard as required under subsection (a)(1) of this section shall be considered in violation of a consumer product safety standard promulgated under the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\].
+
+#### (2) Status of final standard
+
+&emsp;The final standard developed under subsection (c) of this section shall be considered a consumer product safety standard promulgated under the Consumer Product Safety Act.
+
+(Pub. L. 103 267, title II, §205, June 16, 1994, 108 Stat. 727.)
+
+#### References in Text
+
+The Consumer Product Safety Act, referred to in subsec. (d), is Pub. L. 92 573, Oct. 27, 1972, 86 Stat. 1207, as amended, which is classified generally to chapter 47 (§2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6006 of this title.
+

@@ -1,0 +1,24 @@
+### §1306. Powers of Commission
+
+#### (a) Hearings and sessions
+
+The Commission may, for the purpose of carrying out this chapter, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Commission considers appropriate.
+
+#### (b) Obtaining official data
+
+Upon the request of the Moderator of the Commission, the Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out this chapter.
+
+#### (c) Gifts
+
+The Commission may accept, use, and dispose of gifts or donations of services or property.
+
+#### (d) Mails
+
+The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+
+#### (e) Administrative support services
+
+The Administrator of General Services shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request.
+
+(Pub. L. 99–570, title VIII, §8007, Oct. 27, 1986, 100 Stat. 3207–163.)
+

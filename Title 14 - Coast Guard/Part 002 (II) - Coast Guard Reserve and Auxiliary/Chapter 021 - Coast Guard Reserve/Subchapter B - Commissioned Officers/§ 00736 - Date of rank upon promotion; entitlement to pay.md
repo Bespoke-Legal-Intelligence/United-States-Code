@@ -1,0 +1,26 @@
+### §736. Date of rank upon promotion; entitlement to pay
+
+(a) When a Reserve officer is promoted to the next higher grade under this subchapter, the same date of rank shall be assigned as that assigned to the officer's running mate. A Reserve officer so promoted shall be allowed the pay and allowances of the higher grade for duty performed from the date of the officer's appointment thereto.
+
+(b) Notwithstanding any other law, when the running mate of a reserve officer serving in the grade of rear admiral (lower half) is promoted to the grade of rear admiral, the reserve officer shall also be promoted to that grade.
+
+(c) For the purposes of subsection (a) of this section, the date of appointment shall be that date when promotion authority is exercised by the Secretary. However, the Secretary may adjust the date of appointment—
+
+&emsp;(1) if a delay in the finding required under section 734(a) of this title is beyond the control of the officer and the officer is otherwise qualified for promotion; or
+
+&emsp;(2) for any other reason that equity requires.
+
+(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1012; amended Pub. L. 97–417, §2(14), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 101–225, title II, §203(4), Dec. 12, 1989, 103 Stat. 1911.)
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in section 784 of this title prior to the complete revision of this chapter by Pub. L. 96–322.
+
+#### Amendments
+
+1989—Subsec. (c). Pub. L. 101–225 inserted provision authorizing Secretary to adjust date of appointment.
+
+1985—Subsec. (b). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+
+1983—Subsec. (b). Pub. L. 97–417 substituted provision that, notwithstanding any other law, when the running mate of a reserve officer serving in the grade of commodore is promoted to the grade of rear admiral, thereserve officer shall also be promoted to that grade, for provision that, notwithstanding any other law and when a Reserve officer's running mate was so entitled, a Reserve officer in the grade of rear admiral was entitled to the pay and allowances of the upper half for duty performed.
+

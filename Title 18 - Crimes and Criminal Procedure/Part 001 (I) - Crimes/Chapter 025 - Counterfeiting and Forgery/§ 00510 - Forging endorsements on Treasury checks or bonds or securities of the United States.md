@@ -1,0 +1,30 @@
+### §510. Forging endorsements on Treasury checks or bonds or securities of the United States
+
+(a) Whoever, with intent to defraud—
+
+&emsp;(1) falsely makes or forges any endorsement or signature on a Treasury check or bond or security of the United States; or
+
+&emsp;(2) passes, utters, or publishes, or attempts to pass, utter, or publish, any Treasury check or bond or security of the United States bearing a falsely made or forged endorsement or signature;
+
+> shall be fined under this title or imprisoned not more than ten years, or both.
+
+(b) Whoever, with knowledge that such Treasury check or bond or security of the United States is stolen or bears a falsely made or forged endorsement or signature buys, sells, exchanges, receives, delivers, retains, or conceals any such Treasury check or bond or security of the United States that in fact is stolen or bears a forged or falsely made endorsement or signature shall be fined under this title or imprisoned not more than ten years, or both.
+
+(c) If the face value of the Treasury check or bond or security of the United States or the aggregate face value, if more than one Treasury check or bond or security of the United States, does not exceed $500, in any of the above-mentioned offenses, the penalty shall be a fine of <sup>1</sup>under this title or imprisonment for not more than one year, or both.
+
+(Added Pub. L. 98–151, §115(a), Nov. 14, 1983, 97 Stat. 976; amended Pub. L. 101–647, title XXXV, §3514, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XXXIII, §330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2147.)
+
+#### Amendments
+
+1994—Subsecs. (a), (b). Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
+
+Subsec. (c). Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000”.
+
+1990—Subsec. (a). Pub. L. 101–647 inserted semicolon after “or signature” in par. (2) and moved provisions beginning with “shall be fined” flush with left margin.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 981, 982, 3056 of this title.
+
+<i><sup>1</sup></i><i> So in original. The word “of” probably should not appear.</i>
+

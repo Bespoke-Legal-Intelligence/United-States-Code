@@ -1,0 +1,8 @@
+### §3861. Disinterment, transportation, and reinterment of remains
+
+(a) There are authorized to be appropriated for the fiscal year beginning October 1, 1979, and subsequent fiscal years, such sums as may be necessary to carry out the purposes and provisions of Reservation (3) to the Resolution of Ratification of the Treaty Concerning the Permanent Neutrality and Operation of the Panama Canal, adopted by the United States Senate on March 16, 1978, such sums to be made available to those agencies that are directed and empowered by the President to carry out such purposes and provisions.
+
+(b) With regard to remains that are to be reinterred in the United States, the United States shall not bear the cost of funeral home services, vaults, plots, or crypts unless otherwise provided for by law.
+
+(Pub. L. 96–70, title III, §3101, Sept. 27, 1979, 93 Stat. 496.)
+

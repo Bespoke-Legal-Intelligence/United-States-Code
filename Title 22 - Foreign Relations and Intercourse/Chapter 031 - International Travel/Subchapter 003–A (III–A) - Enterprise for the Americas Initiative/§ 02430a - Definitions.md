@@ -1,0 +1,30 @@
+### §2430a. Definitions
+
+For purposes of this subchapter—
+
+&emsp;(1) the term “administering body” means the entity provided for in section 2430g(c) of this title;
+
+&emsp;(2) the term “Americas Framework Agreement” means an Americas Framework Agreement provided for in section 2430g of this title;
+
+&emsp;(3) the term “Americas Fund” means an Enterprise for the Americas Fund provided for in section 2430f(a) of this title;
+
+&emsp;(4) the term “appropriate congressional committees” means the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate;
+
+&emsp;(5) the term “beneficiary country” means an eligible country with respect to which the authority of section 2430c(a)(1) of this title is exercised;
+
+&emsp;(6) the term “eligible country” means a country designated by the President in accordance with section 2430b of this title;
+
+&emsp;(7) the term “Enterprise for the Americas Board” or “Board” means the board established by section 1738i of title 7; and
+
+&emsp;(8) the term “Facility” means the Enterprise for the Americas Facility established in the Department of the Treasury by section 1738 of title 7.
+
+(Pub. L. 87–195, pt. IV, §702, as added Pub. L. 102–549, title VI, §602(a), Oct. 28, 1992, 106 Stat. 3664.)
+
+#### Prior Provisions
+
+A prior section 702 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 463, amended section 1701 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 87–565, pt. IV, §401, Aug. 1, 1962, 76 Stat. 263, except insofar as section 702 affected section 1701.
+
+#### Change of Name
+
+Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+

@@ -1,0 +1,30 @@
+### §5017. Secretary of the Navy: successors to duties
+
+If the Secretary of the Navy dies, resigns, is removed from office, is absent, or is disabled, the person who is highest on the following list, and who is not absent or disabled, shall perform the duties of the Secretary until the President, under section 3347 of title 5, directs another person to perform those duties or until the absence or disability ceases:
+
+&emsp;(1) The Under Secretary of the Navy.
+
+&emsp;(2) The Assistant Secretaries of the Navy, in the order prescribed by the Secretary of the Navy and approved by the Secretary of Defense.
+
+&emsp;(3) The General Counsel of the Department of the Navy.
+
+&emsp;(4) The Chief of Naval Operations.
+
+&emsp;(5) The Commandant of the Marine Corps.
+
+(Added Pub. L. 99–433, title V, §511(c)(4), Oct. 1, 1986, 100 Stat. 1047; amended Pub. L. 103–337, div. A, title IX, §902(b), Oct. 5, 1994, 108 Stat. 2823.)
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in section 5036 of this title prior to enactment of Pub. L. 99–433.
+
+#### Amendments
+
+1994—Pars. (3) to (5). Pub. L. 103–337 added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
+#### Order of Succession
+
+For order of succession in event of death, permanent disability, or resignation of Secretary of Defense, see Ex. Ord. No. 12787, Dec. 31, 1991, 57 F.R. 517, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+
+For order of succession in event of death, permanent disability, or resignation of Secretary of the Navy, see Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929, set out as a note under section 3347 of Title 5.
+

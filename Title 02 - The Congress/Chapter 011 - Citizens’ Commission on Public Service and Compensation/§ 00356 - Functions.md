@@ -1,0 +1,76 @@
+### §356. Functions
+
+The Commission shall conduct, in each of the respective fiscal years referred to in subparagraphs (A) and (B) of section 352(8) of this title, a review of the rates of pay of—
+
+&emsp;(A) the Vice President of the United States, Senators, Members of the House of Representatives, the Resident Commissioner from Puerto Rico, the Speaker of the House of Representatives, the President pro tempore of the Senate, and the majority and minority leaders of the Senate and the House of Representatives;
+
+&emsp;(B) offices and positions in the legislative branch referred to in subsections (a), (b), (c), and (d) of section 203 of the Federal Legislative Salary Act of 1964 (78 Stat. 415; Public Law 88–426);
+
+&emsp;(C) justices, judges, and other personnel in the judicial branch referred to in section 403 of the Federal Judicial Salary Act of 1964 (78 Stat. 434; Public Law 88–426) except bankruptcy judges, but including the judges of the United States Court of Federal Claims;
+
+&emsp;(D) offices and positions under the Executive Schedule in subchapter II of chapter 53 of title 5; and
+
+&emsp;(E) the Governors of the Board of Governors of the United States Postal Service appointed under section 202 of title 39.
+
+> Such review by the Commission shall be made for the purpose of determining and providing—
+
+&emsp;(i) the appropriate pay levels and relationships between and among the respective offices and positions covered by such review, and
+
+&emsp;(ii) the appropriate pay relationships between such offices and positions and the offices and positions subject to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates.
+
+> In reviewing the rates of pay of the offices or positions referred to in subparagraph (D) of this section, the Commission shall determine and consider the appropriateness of the executive levels of such offices and positions.
+
+(Pub. L. 90–206, title II, §225(f), Dec. 16, 1967, 81 Stat. 643; Pub. L. 91–375, §6(a), Aug. 12, 1970, 84 Stat. 775; Pub. L. 94–82, title II, §206(a), Aug. 9, 1975, 89 Stat. 423; Pub. L. 95–598, title III, §301, Nov. 6, 1978, 92 Stat. 2673; Pub. L. 97–164, title I, §143, Apr. 2, 1982, 96 Stat. 45; Pub. L. 99–190, §135(b), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 100–202, §101(a) \[title IV, §408(c)\], Dec. 22, 1987, 101 Stat. 1329, 1329–27; Pub. L. 101–194, title VII, §701(d), Nov. 30, 1989, 103 Stat. 1764; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+
+#### References in Text
+
+The rates of pay of the offices and positions in the legislative branch, referred to in par. (B), are set out in sections 136a and 136a–1 of this title; sections 703(f) and 731(c) of Title 31, Money and Finance; sections 162a and 162b of Title 40, Public Buildings, Property, and Works; and section 303 of Title 44, Public Printing and Documents.
+
+The rates of pay of justices, judges, and other personnel in the judicial branch, referred to in par. (C), are set out in section 867 of Title 10, Armed Forces; section 7443 of Title 26, Internal Revenue Code; and sections 5, 44, 135, 173, 213, 252, 603, and 792 of Title 28, Judiciary and Judicial Procedure.
+
+#### Amendments
+
+1992—Par. (C). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+
+1989—Pub. L. 101–194 substituted “subparagraphs (A) and (B) of section 352(8) of this title” for “section 352(2) and (3) of this title”.
+
+1987—Par. (C). Pub. L. 100–202 substituted “except bankruptcy judges, but including” for “and magistrates and”.
+
+1985—Pub. L. 99–190 inserted last sentence relating to review of rates of pay of offices or positions.
+
+1982—Par. (C). Pub. L. 97–164 inserted reference to judges of the United States Claims Court.
+
+1978—Par. (C). Pub. L. 95–598 struck out reference to section 402(d) and inserted reference to magistrates.
+
+1975—Par. (A). Pub. L. 94–82 inserted “the Vice President of the United States” before “Senators”, and “the Speaker of the House of Representatives, the President pro tempore of the Senate, and the majority and minority leaders of the Senate and the House of Representatives” after “Puerto Rico”.
+
+1970—Par. (E). Pub. L. 91–375 added par. (E).
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 1987 Amendment
+
+Amendment by Pub. L. 100–202 effective Oct. 1, 1988, and any salary affected by the amendment to be adjusted at beginning of first applicable pay period commencing on or after such date, see section 101(a) \[title IV, §408(d)\] of Pub. L. 100–202, set out as a note under section 153 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 1982 Amendment
+
+Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+#### Effective Date of 1970 Amendment
+
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+
+#### Effective Rates of Pay Pending Changes in Rates Pursuant to Federal Salary Act of 1967
+
+Section 206(b) of Pub. L. 94–82 provided that: “Until such time as a change in the rate of pay of the offices referred to in the amendment made by subsection (a) of this section \[amending par. (A) of this section\] occurs under the provisions of the Federal Salary Act of 1967 (2 U.S.C. 351–361), as amended by subsection (a) of this section, such rates of pay shall be the rates of pay in effect immediately prior to the date of enactment of this Act \[Aug. 9, 1975\], as adjusted under sections 203 and 204 of this title \[amending sections 31, 60a note, 136a and 136a–1 of this title, section 104 of Title 3, The President, sections 42a and 51a of former Title 31, Money and Finance, sections 162a and 166b of Title 40, Public Buildings, Property, and Works, and section 303 of Title 44, Public Printing and Documents\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 60a–2a, 357, 358, 362, 363, 364 of this title.
+

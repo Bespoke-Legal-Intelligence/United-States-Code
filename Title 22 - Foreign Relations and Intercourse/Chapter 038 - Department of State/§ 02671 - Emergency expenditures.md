@@ -1,0 +1,94 @@
+### §2671. Emergency expenditures
+
+#### (a) Delegation of authority pertaining to certification of expenditures
+
+The Secretary of State is authorized to—
+
+&emsp;(1) subject to subsection (b) of this section, make expenditures, from such amounts as may be specifically appropriated therefor, for unforeseen emergencies arising in the diplomatic and consular service and, to the extent authorized in appropriation Acts, funds expended for such purposes may be accounted for in accordance with section 3526(e) of title 31; and
+
+&emsp;(2) delegate to subordinate officials the authority vested in him by section 3526(e) of title 31 pertaining to certification of expenditures.
+
+#### (b) Activities subject to expenditures
+
+(1) Expenditures described under subsection (a) of this section shall be made only for such activities as—
+
+&emsp;(A) serve to further the realization of foreign policy objectives;
+
+&emsp;(B) are a matter of urgency to implement;
+
+&emsp;(C) with respect to activities the expenditures for which are required to be certified under subsection (a) of this section, require confidentiality in the best interests of the conduct of foreign policy by the United States; and
+
+&emsp;(D) are not otherwise prohibited by law.
+
+(2) Activities described in paragraph (1) include—
+
+&emsp;(A) the evacuation of United States Government employees and their dependents and private United States citizens when their lives are endangered by war, civil unrest, or natural disaster;
+
+&emsp;(B) loans made to destitute citizens of the United States who are outside the United States and made to provide for the return to the United States of its citizens;
+
+&emsp;(C) visits by foreign chiefs of state or heads of government to the United States;
+
+&emsp;(D) travel of delegations representing the President at any inauguration or funeral of a foreign dignitary;
+
+&emsp;(E) travel of the President, the Vice President, or a Member of Congress to a foreign country, including advance arrangements, escort, and official entertainment;
+
+&emsp;(F) travel of the Secretary of State within the United States and outside the United States, including official entertainment;
+
+&emsp;(G) official representational functions of the Secretary of State and other principal officers of the Department of State;
+
+&emsp;(H) official functions outside the United States the expenses for which are not otherwise covered by amounts appropriated for representation allowances;
+
+&emsp;(I) investigations and apprehension of groups or individuals involved in fraudulent issuance of United States passports and visas; and
+
+&emsp;(J) gifts of nominal value given by the President, Vice President, or Secretary of State to a foreign dignitary.
+
+#### (c) Annual confidential audit and report
+
+The Inspector General of the Department of State shall conduct a periodic audit of the Department of State's emergency expenditures and prepare and transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate an annual report indicating whether such expenditures were made in accordance with subsections (a) and (b) of this section.
+
+#### (d) Repatriation loan program
+
+With regard to the repatriation loan program, the Secretary of State shall—
+
+&emsp;(1) require the borrower to provide a verifiable address and social security number at the time of application;
+
+&emsp;(2) require a written loan agreement which includes a repayment schedule;
+
+&emsp;(3) bar passports from being issued or renewed for those individuals who are in default;
+
+&emsp;(4) refer any loan more than one year past due to the Department of Justice for litigation;
+
+&emsp;(5) obtain addresses from the Internal Revenue Service for all delinquent accounts which have social security numbers;
+
+&emsp;(6) report defaults to commercial credit bureaus as provided in section 3711(f) of title 31;
+
+&emsp;(7) be permitted to use any funds necessary to contract with commercial collection agencies, notwithstanding section 3718(c) <sup>1</sup> of title 31;
+
+&emsp;(8) charge interest on all loans as of May 1, 1983, with the rate of interest to be that set forth in section 3717(a) of title 31;
+
+&emsp;(9) assess charges, in addition to the interest provided for in paragraph (8), to cover the costs of processing and handling delinquent claims, as of May 1, 1983;
+
+&emsp;(10) assess a penalty charge, in addition to the interest provided for in paragraphs (8) and (9), of 6 per centum per year for failure to pay any portion of a debt more than ninety days past due; and
+
+&emsp;(11) implement the interest and penalty provisions in paragraphs (8), (9), and (10) for all current and future loans, regardless of whether the debts were incurred before or after May 1, 1983.
+
+(Aug. 1, 1956, ch. 841, title I, §4, 70 Stat. 890; renumbered title I, Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282; Nov. 22, 1983, Pub. L. 98–164, title I, §122(a), 97 Stat. 1023; Apr. 30, 1994, Pub. L. 103–236, title I, §125, 108 Stat. 393.)
+
+#### References in Text
+
+Section 3718(c) of title 31, referred to in subsec. (d)(7), was temporarily renumbered section 3718(e) of title 31 by Pub. L. 99–578, §1(1), Oct. 28, 1986, 100 Stat. 3305.
+
+#### Codification
+
+In subsec. (a), “section 3526(e) of title 31” substituted for “section 291 of the Revised Statutes (31 U.S.C. 107)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+Section was formerly classified to section 170i of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+
+#### Amendments
+
+1994—Subsec. (c). Pub. L. 103–236 struck out “and the Foreign Service” after “Department of State” and substituted “a periodic” for “an annual confidential”.
+
+1983—Pub. L. 98–164 designated existing provisions as subsec. (a), redesignated former pars. (a) and (b) as pars. (1) and (2), respectively, in par. (1) inserted reference to subsec. (b), and added subsecs. (b) to (d).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

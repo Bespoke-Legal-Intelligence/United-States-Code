@@ -1,0 +1,26 @@
+### §347. Establishment; boundaries
+
+The tract of land in the Territory of Alaska particularly described by and included within the metes and bounds, to wit: Beginning at a point as shown on Plate III, reconnaissance map of the Mount McKinley region, Alaska, prepared in the United States Geological Survey, edition of 1911, said point being at the summit of a hill between two forks of the headwaters of the Toklat River, approximate latitude sixty-three degrees forty-seven minutes, longitude one hundred and fifty degrees twenty minutes; thence south six degrees twenty minutes west nineteen miles; thence south sixty-eight degrees west sixty miles; thence in a southeasterly direction approximately twenty-eight miles to the summit of Mount Russell; thence in a northeasterly direction approximately eighty-nine miles to a point twenty-five miles due south of a point due east of the point of beginning; thence due north twenty-five miles to said point; thence due west twenty-eight and one-half miles to the point ofbeginning, is reserved and withdrawn from settlement, occupancy, or disposal under the laws of the United States, and said tract is dedicated and set apart as a public park for the benefit and enjoyment of the people, under the name of the Denali National Park. In addition to the above-described tract, all those lands lying between the south, east, and north boundaries above described and the following described boundary are made a part of and included in the Denali National Park for all purposes, to wit: Beginning at the summit of Mount Russell, which is the present southwest corner of the park; thence in a northeasterly direction one hundred miles, more or less, to a point on the one hundred and forty-ninth meridian, which is twenty-five miles south of a point due east of the upper northwest corner of the park; thence north along the one hundred and forty-ninth meridian twenty-five miles; thence west forty miles, more or less, to the upper northwest corner of Denali National Park as existing prior to January 30, 1922.
+
+(Feb. 26, 1917, ch. 121, §1, 39 Stat. 938; Jan. 30, 1922, ch. 39, 42 Stat. 359; Dec. 2, 1980, Pub. L. 96–487, title II, §202(3)(a), 94 Stat. 2382; Nov. 13, 1991, Pub. L. 102–154, title I, 105 Stat. 1000.)
+
+#### Codification
+
+The first sentence of this section was from section 1 of act Feb. 26, 1917, and the second sentence, comprising the remainder of the section, from act Jan. 30, 1922.
+
+As originally enacted the second sentence of this section, extending the boundaries of the park, provided as follows “That the south, east, and north boundaries of the Mount McKinley National Park are hereby changed as follows: Beginning at the summit of Mount Russell, which is the present southwest corner of the park; thence in a northeasterly direction one hundred miles, more or less, to a point on the one hundred and forty-ninth meridian which is twenty-five miles south of a point due east of the upper northwest corner of the park; thence north along the one hundred and forty-ninth meridian twenty-five miles; thence west forty miles, more or less, to the present upper northwest corner of Mount McKinley National Park. And all these lands lying between the above-described boundary and the present south, east, and north boundaries are hereby reserved and withdrawn from settlement, occupancy, or disposal, and under the laws of the United States said lands are hereby made a part of and included in the Mount McKinley National Park; and all the provisions of the Act to establish Mount McKinley National Park, Alaska, and for other purposes, approved February 26, 1917, are hereby made applicable to and extended over lands hereby added to the park.”
+
+#### Change of Name
+
+“United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
+
+“Denali National Park” substituted in text for “Mount McKinley National Park” pursuant to Pub. L. 96–487, §202(3)(a), which is classified to section 410hh–1(3)(a) of this title and which added lands to the park, established additional land as the Denali National Preserve, and redesignated the whole as the Denali National Park and Preserve.
+
+#### Admission of Alaska as State
+
+Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
+
+#### Cross References
+
+Change of boundaries and additions to park, see sections 355, 410hh–1 of this title.
+

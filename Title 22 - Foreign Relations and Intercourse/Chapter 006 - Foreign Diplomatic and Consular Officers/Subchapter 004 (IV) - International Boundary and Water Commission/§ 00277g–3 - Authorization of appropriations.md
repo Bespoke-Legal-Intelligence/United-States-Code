@@ -1,0 +1,10 @@
+### §277g–3. Authorization of appropriations
+
+There is authorized to be appropriated such sums as may be necessary for the United States to fund its share of the cost of the plans, construction, operation, and maintenance of the facilities recommended in agreements concluded pursuant to section 277g of this title and approved by the Governments of the United States and Mexico.
+
+(Pub. L. 100–465, §5, Oct. 3, 1988, 102 Stat. 2273.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 277g, 277g–2 of this title.
+

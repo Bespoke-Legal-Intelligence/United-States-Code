@@ -1,0 +1,6 @@
+### §891. Liability for acts of officers and agents
+
+The corporation shall be liable for the acts of its officers and agents when acting within the scope of their authority.
+
+(Pub. L. 85–870, §11, Sept. 2, 1958, 72 Stat. 1694.)
+

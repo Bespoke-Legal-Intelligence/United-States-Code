@@ -1,0 +1,12 @@
+### §2199. Definitions
+
+In this chapter:
+
+&emsp;(1) The term “defense laboratory” means a laboratory operated by the Department of Defense or owned by the Department of Defense and operated by a contractor or a facility of a Defense Agency at which research and development activities are conducted.
+
+&emsp;(2) The term “institution of higher education” has the meaning given such term in section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a)).
+
+&emsp;(3) The term “regional center for the transfer of manufacturing technology” means a regional center for the transfer of manufacturing technology referred to in section 25(a) of the National Institute of Standards and Technology Act (15 U.S.C. 278k).
+
+(Added Pub. L. 102–190, div. A, title VIII, §825(a)(1), Dec. 5, 1991, 105 Stat. 1441.)
+

@@ -1,0 +1,80 @@
+### §5925. Post differentials
+
+(a) A post differential may be granted on the basis of conditions of environment which differ substantially from conditions of environment in the continental United States and warrant additional pay as a recruitment and retention incentive. A post differential may be granted to an employee officially stationed in the United States who is on extended detail in a foreign area. A post differential under this subsection may not exceed 25 percent of the rate of basic pay.
+
+(b) Any employee granted a differential under subsection (a) of this section may be granted an additional differential for an assignment to a post determined to have especially adverse conditions of environment which warrant additional pay as a recruitment and retention incentive for the filling of positions at that post. An additional differential for any employee under this subsection—
+
+&emsp;(1) may be paid for each assignment to a post determined to have such conditions;
+
+&emsp;(2) may be paid periodically or in a lump sum; and
+
+&emsp;(3) may not exceed 15 percent of the rate of basic pay of that employee for the period served under that assignment.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 512; Pub. L. 96–465, title II, §2309, Oct. 17, 1980, 94 Stat. 2165.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 3038.
+
+Sept. 6, 1960, Pub. L. 86–707, §231, 74 Stat. 795.
+
+In the last sentence, the words “Additional compensation paid as” are omitted as surplusage.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+
+1980—Pub. L. 96–465 designated existing provisions as subsec. (a), inserted “under this subsection” before “may not exceed”, and added subsec. (b).
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+
+#### Extension of Foreign Post Differentials to Certain Federal Employees Who Served in Connection With Operation Desert Storm
+
+Pub. L. 102–190, div. A, title X, §1093, Dec. 5, 1991, 105 Stat. 1487, provided that:
+
+“(a)
+
+Waiver of Requirement That Employee Be Detailed to A Post for an ‘Extended’ Period.—An individual who performed service of a type described in subsection (b) shall, upon appropriate written application, be granted the total amount to which such individual would have been entitled for such service under section 5925(a) of title 5, United States Code, disregarding any eligibility requirement relating to the minimum period of time for which an individual must serve at, or be detailed to, a post.
+
+“(b)
+
+Description of Service Involved.—This section applies with respect to any period of service if, or to the extent that—
+
+&emsp;“(1) it was performed as an employee—
+
+&emsp;&emsp;“(A) in connection with Operation Desert Storm;
+
+&emsp;&emsp;“(B) during the Persian Gulf conflict;
+
+&emsp;&emsp;“(C) at a post within the area designated by the President, in Executive Order 12744 \[26 U.S.C. 112 note\], as a ‘combat zone’ for purposes of section 112 of the Internal Revenue Code of 1986 \[26 U.S.C. 112\]; and
+
+&emsp;&emsp;“(D) while a differential under section 5925(a) of title 5, United States Code, was authorized with respect to such post; and
+
+&emsp;“(2) no differential under such section 5925(a) was granted to such employee for such service.
+
+“(c)
+
+Regulations.—The President may prescribe any regulations necessary to carry out this section.
+
+“(d)
+
+Definitions.—For the purpose of this section—
+
+&emsp;“(1) the term ‘employee’ has the meaning given such term by section 5921(3) of title 5, United States Code;
+
+&emsp;“(2) the term ‘Operation Desert Storm’ has the meaning given such term by section 3(1) of the Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991 \[Pub. L. 102–25\] (10 U.S.C. 101 note); and
+
+&emsp;“(3) the term ‘Persian Gulf conflict’ means the period beginning on August 2, 1990, and ending on June 2, 1991.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5307, 5551, 5928 of this title; title 22 sections 1474, 2506, 4057; title 26 section 912; title 50 section 2081.
+

@@ -1,0 +1,142 @@
+### §3413. Exceptions
+
+#### (a) Disclosure of financial records not identified with particular customers
+
+Nothing in this chapter prohibits the disclosure of any financial records or information which is not identified with or identifiable as being derived from the financial records of a particular customer.
+
+#### (b) Disclosure to, or examination by, supervisory agency pursuant to exercise of supervisory, regulatory, or monetary functions with respect to financial institutions, holding companies, subsidiaries, institution-affiliated parties, or other persons
+
+This chapter shall not apply to the examination by or disclosure to any supervisory agency of financial records or information in the exercise of its supervisory, regulatory, or monetary functions, including conservatorship or receivership functions, with respect to any financial institution, holding company, subsidiary of a financial institution or holding company, institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to a financial institution, holding company, or subsidiary, or other person participating in the conduct of the affairs thereof.
+
+#### (c) Disclosure pursuant to title 26
+
+Nothing in this chapter prohibits the disclosure of financial records in accordance with procedures authorized by title 26.
+
+#### (d) Disclosure pursuant to Federal statute or rule promulgated thereunder
+
+Nothing in this chapter shall authorize the withholding of financial records or information required to be reported in accordance with any Federal statute or rule promulgated thereunder.
+
+#### (e) Disclosure pursuant to Federal Rules of Criminal Procedure or comparable rules of other courts
+
+Nothing in this chapter shall apply when financial records are sought by a Government authority under the Federal Rules of Civil or Criminal Procedure or comparable rules of other courts in connection with litigation to which the Government authority and the customer are parties.
+
+#### (f) Disclosure pursuant to administrative subpena issued by administrative law judge
+
+Nothing in this chapter shall apply when financial records are sought by a Government authority pursuant to an administrative subpena issued by an administrative law judge in an adjudicatory proceeding subject to section 554 of title 5 and to which the Government authority and the customer are parties.
+
+#### (g) Disclosure pursuant to legitimate law enforcement inquiry respecting name, address, account number, and type of account of particular customers
+
+The notice requirements of this chapter and sections 3410 and 3412 of this title shall not apply when a Government authority by a means described in section 3402 of this title and for a legitimate law enforcement inquiry is seeking only the name, address, account number, andtype of account of any customer or ascertainable group of customers associated (1) with a financial transaction or class of financial transactions, or (2) with a foreign country or subdivision thereof in the case of a Government authority exercising financial controls over foreign accounts in the United States under section 5(b) of the Trading with the Enemy Act \[12 U.S.C. 95a, 50 App. U.S.C. 5(b)\]; the International Emergency Economic Powers Act (title II, Public Law 95–223) \[50 U.S.C. 1701 et seq.\]; or section 287c of title 22.
+
+#### (h) Disclosure pursuant to lawful proceeding, investigation, etc., directed at financial institution or legal entity or consideration or administration respecting Government loans, loan guarantees, etc.
+
+(1) Nothing in this chapter (except sections 3403, 3417 and 3418 of this title) shall apply when financial records are sought by a Government authority—
+
+&emsp;(A) in connection with a lawful proceeding, investigation, examination, or inspection directed at a financial institution (whether or not such proceeding, investigation, examination, or inspection is also directed at a customer) or at a legal entity which is not a customer; or
+
+&emsp;(B) in connection with the authority's consideration or administration of assistance to the customer in the form of a Government loan, loan guaranty, or loan insurance program.
+
+(2) When financial records are sought pursuant to this subsection, the Government authority shall submit to the financial institution the certificate required by section 3403(b) of this title. For access pursuant to paragraph (1)(B), no further certification shall be required for subsequent access by the certifying Government authority during the term of the loan, loan guaranty, or loan insurance agreement.
+
+(3) After the effective date of this chapter, whenever a customer applies for participation in a Government loan, loan guaranty, or loan insurance program, the Government authority administering such program shall give the customer written notice of the authority's access rights under this subsection. No further notification shall be required for subsequent access by that authority during the term of the loan, loan guaranty, or loan insurance agreement.
+
+(4) Financial records obtained pursuant to this subsection may be used only for the purpose for which they were originally obtained, and may be transferred to another agency or department only when the transfer is to facilitate a lawful proceeding, investigation, examination, or inspection directed at a financial institution (whether or not such proceeding, investigation, examination, or inspection is also directed at a customer), or at a legal entity which is not a customer, except that—
+
+&emsp;(A) nothing in this paragraph prohibits the use or transfer of a customer's financial records needed by counsel representing a Government authority in a civil action arising from a Government loan, loan guaranty, or loan insurance agreement; and
+
+&emsp;(B) nothing in this paragraph prohibits a Government authority providing assistance to a customer in the form of a loan, loan guaranty, or loan insurance agreement from using or transferring financial records necessary to process, service or foreclose a loan, or to collect on an indebtedness to the Government resulting from a customer's default.
+
+(5) Notification that financial records obtained pursuant to this subsection may relate to a potential civil, criminal, or regulatory violation by a customer may be given to an agency or department with jurisdiction over that violation, and such agency or department may then seek access to the records pursuant to the provisions of this chapter.
+
+(6) Each financial institution shall keep a notation of each disclosure made pursuant to paragraph (1)(B) of this subsection, including the date of such disclosure and the Government authority to which it was made. The customer shall be entitled to inspect this information.
+
+#### (i) Disclosure pursuant to issuance of subpena or court order respecting grand jury proceeding
+
+Nothing in this chapter (except sections 3415 and 3420 of this title) shall apply to any subpena or court order issued in connection with proceedings before a grand jury, except that a court shall have authority to order a financial institution, on which a grand jury subpoena for customer records has been served, not to notify the customer of the existence of the subpoena or information that has been furnished to the grand jury, under the circumstances and for the period specified and pursuant to the procedures established in section 3409 of this title.
+
+#### (j) Disclosure pursuant to proceeding, investigation, etc., instituted by General Accounting Office and directed at a government authority
+
+This chapter shall not apply when financial records are sought by the General Accounting Office pursuant to an authorized proceeding, investigation, examination or audit directed at a government authority.
+
+#### (k) Disclosure necessary for proper administration of programs of withholding taxes on nonresident aliens, Federal Old-Age, Survivors, and Disability Insurance Benefits, and Railroad Retirement Act Benefits
+
+(1) Nothing in this chapter shall apply to the disclosure by the financial institution of the name and address of any customer to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board, where the disclosure of such information is necessary to, and such information is used solely for the purpose of, the proper administration of section 1441 of title 26, title II of the Social Security Act \[42 U.S.C. 401 et seq.\], or the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\].
+
+(2) Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer's name and address to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board andshall be barred from redisclosure by the financial institution or its agents.
+
+#### (<i>l</i>) Crimes against financial institutions by insiders
+
+Nothing in this chapter shall apply when any financial institution or supervisory agency provides any financial record of any officer, director, employee, or controlling shareholder (within the meaning of subparagraph (A) or (B) of section 1841(a)(2) of this title or subparagraph (A) or (B) of section 1730a(a)(2) of this title) of such institution, or of any major borrower from such institution who there is reason to believe may be acting in concert with any such officer, director, employee, or controlling shareholder, to the Attorney General of the United States, to a State law enforcement agency, or, in the case of a possible violation of subchapter II of chapter 53 of title 31, to the Secretary of the Treasury if there is reason to believe that such record is relevant to a possible violation by such person of—
+
+&emsp;(1) any law relating to crimes against financial institutions or supervisory agencies by directors, officers, employees, or controlling shareholders of, or by borrowers from, financial institutions; or
+
+&emsp;(2) any provision of subchapter II of chapter 53 of title 31 or of section 1956 or 1957 of title 18.
+
+> No supervisory agency which transfers any such record under this subsection shall be deemed to have waived any privilege applicable to that record under law.
+
+#### (m) Disclosure to, or examination by, employees or agents of Board of Governors of Federal Reserve System or Federal Reserve Bank
+
+This chapter shall not apply to the examination by or disclosure to employees or agents of the Board of Governors of the Federal Reserve System or any Federal Reserve Bank of financial records or information in the exercise of the Federal Reserve System's authority to extend credit to the financial institutions or others.
+
+#### (n) Disclosure to, or examination by, Resolution Trust Corporation or its employees or agents
+
+This chapter shall not apply to the examination by or disclosure to the Resolution Trust Corporation or its employees or agents of financial records or information in the exercise of its conservatorship, receivership, or liquidation functions with respect to a financial institution.
+
+#### (<i>o</i>) Disclosure to, or examination by, Federal Housing Finance Board or Federal home loan banks
+
+This chapter shall not apply to the examination by or disclosure to the Federal Housing Finance Board or any of the Federal home loan banks of financial records or information in the exercise of the Federal Housing Finance Board's authority to extend credit (either directly or through a Federal home loan bank) to financial institutions or others.
+
+#### (p) Access to information necessary for administration of certain veteran benefits laws
+
+(1) Nothing in this chapter shall apply to the disclosure by the financial institution of the name and address of any customer to the Department of Veterans Affairs where the disclosure of such information is necessary to, and such information is used solely for the purposes of, the proper administration of benefits programs under laws administered by the Secretary.
+
+(2) Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer's name and address to the Department of Veterans Affairs and shall be barred from redisclosure by the financial institution or its agents.
+
+(Pub. L. 95–630, title XI, §1113, Nov. 10, 1978, 92 Stat. 3706; Pub. L. 98–21, title I, §121(c)(3)(C), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1353(b), Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 100–690, title VI, §6186(c), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, §942, Aug. 9, 1989, 103 Stat. 497; Pub. L. 101–647, title I, §104, Nov. 29, 1990, 104 Stat. 4791; Pub. L. 102–242, title IV, §411(2)–(4), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–568, title VI, §603(a), Oct. 29, 1992, 106 Stat. 4342.)
+
+#### References in Text
+
+The Federal Rules of Civil Procedure, referred to in subsec. (e), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+The Federal Rules of Criminal Procedure, referred to in subsec. (e), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
+The International Emergency Economic Powers Act, referred to in subsec. (g), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+
+The effective date of this chapter, referred to in subsec. (h)(3), is the date upon the expiration of 120 days after Nov. 10, 1978. See section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of this title.
+
+The Social Security Act, referred to in subsec. (k)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of such Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+The Railroad Retirement Act of 1974, referred to in subsec. (k)(1), is act Aug. 29, 1935, ch. 812, as amended, generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+
+#### Amendments
+
+1992—Subsec. (p). Pub. L. 102–586 added subsec. (p).
+
+1991—Subsec. (h)(1)(A), (4). Pub. L. 102–242, §411(2), (3), substituted “a financial institution (whether or not such proceeding, investigation, examination, or inspection is also directed at a customer)” for “the financial institution in possession of such records”.
+
+Subsec. (<i>l</i>). Pub. L. 102–242, §411(4), inserted at end “No supervisory agency which transfers any such record under this subsection shall be deemed to have waived any privilege applicable to that record under law.”
+
+1990—Subsec. (<i>l</i>)(2). Pub. L. 101–647 inserted before period at end “or of section 1956 or 1957 of title 18”.
+
+1989—Subsec. (b). Pub. L. 101–73, §942(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Nothing in this chapter prohibits examination by or disclosure to any supervisory agency of financial records or information in the exercise of its supervisory, regulatory, or monetary functions with respect to a financial institution.”
+
+Subsecs. (m) to (<i>o</i>). Pub. L. 101–73, §942(2), added subsecs. (m) to (<i>o).</i>
+
+1988—Subsec. (<i>l</i>). Pub. L. 100–690 added subsec. (<i>l).</i>
+
+1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+Subsec. (i). Pub. L. 99–570 inserted “, except that a court shall have authority to order a financial institution, on which a grand jury subpoena for customer records has been served, not to notify the customer of the existence of the subpoena or information that has been furnished to the grand jury, under the circumstances and for the period specified and pursuant to the procedures established in section 3409 of this title”.
+
+Subsec. (k)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+1983—Subsec. (k). Pub. L. 98–21 added subsec. (k).
+
+#### Effective Date of 1983 Amendment
+
+Amendment by Pub. L. 98–21 applicable to benefits received after Dec. 31, 1983, in taxable years ending after such date, except for any portion of a lump-sum payment of social security benefits received after Dec. 31, 1983, if the generally applicable payment date for such portion was before Jan. 1, 1984, see section 121(g) of Pub. L. 98–21, set out as an Effective Date note under section 86 of Title 26, Internal Revenue Code.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3402, 3415 of this title; title 38 section 5319.
+

@@ -1,0 +1,6 @@
+### §90b. Completion of organization
+
+The said persons named in section 90a of this title, and such other persons as may be selected from among the membership of the Disabled American Veterans of the World War, an unincorporated patriotic society of the wounded and disabled soldiers, sailors, and marines of the Great War of 1917–1918, are hereby authorized to meet to complete the organization of said corporation by the selection of officers, the adoption of a constitution and by-laws, and to do all other things necessary to carry into effect the provisions of this chapter, at which meeting any person duly accredited as a delegate from any local or State organizations of the existing unincorporated organization known as the Disabled American Veterans of the World War shall be permitted to participate in the proceedings thereof.
+
+(June 17, 1932, ch. 268, §2, 47 Stat. 320.)
+

@@ -1,0 +1,68 @@
+### §2385 . Advocating overthrow of Government
+
+Whoever knowingly or willfully advocates, abets, advises, or teaches the duty, necessity, desirability, or propriety of overthrowing or destroying the government of the United States or the government of any State, Territory, District or Possession thereof, or the government of any political subdivision therein, by force or violence, or by the assassination of any officer of any such government; or
+
+Whoever, with intent to cause the overthrow or destruction of any such government, prints, publishes, edits, issues, circulates, sells, distributes, or publicly displays any written or printed matter advocating, advising, or teaching the duty, necessity, desirability, or propriety of overthrowing or destroying any government in the United States by force or violence, or attempts to do so; or
+
+Whoever organizes or helps or attempts to organize any society, group, or assembly of persons who teach, advocate, or encourage the overthrow or destruction of any such government by force or violence; or becomes or is a member of, or affiliates with, any such society, group, or assembly of persons, knowing the purposes thereof—
+
+Shall be fined under this title or imprisoned not more than twenty years, or both, and shall be ineligible for employment by the United States or any department or agency thereof, for the five years next following his conviction.
+
+If two or more persons conspire to commit any offense named in this section, each shall be fined under this title or imprisoned not more than twenty years, or both, and shall be ineligible for employment by the United States or any department or agency thereof, for the five years next following his conviction.
+
+As used in this section, the terms “organizes” and “organize”, with respect to any society, group, or assembly of persons, include the recruiting of new members, the forming of new units, and the regrouping or expansion of existing clubs, classes, and other units of such society, group, or assembly of persons.
+
+(June 25, 1948, ch. 645, 62 Stat. 808; July 24, 1956, ch. 678, §2, 70 Stat. 623; June 19, 1962, Pub. L. 87–486, 76 Stat. 103; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(N), 108 Stat. 2148.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §§10, 11, 13 (June 28, 1940, ch. 439, title I, §§2, 3, 5, 54 Stat. 670, 671).
+
+Section consolidates sections 10, 11, and 13 of title 18, U.S.C., 1940 ed. Section 13 of title 18, U.S.C., 1940 ed., which contained the punishment provisions applicable to sections 10 and 11 of title 18, U.S.C., 1940 ed., was combined with section 11 of title 18, U.S.C., 1940 ed., and added to this section.
+
+In first paragraph, words “the Government of the United States or the government of any State, Territory, District or possession thereof, or the government of any political subdivision therein” were substituted for “any government in the United States”.
+
+In second and third paragraphs, word “such” was inserted after “any” and before “government”, and words “in the United States” which followed “government” were omitted.
+
+In view of these changes, the provisions of subsection (b) of section 10 of title 18, U.S.C., 1940 ed., which defined the term “government in the United States” were omitted as unnecessary.
+
+Reference to conspiracy to commit any of the prohibited acts was omitted as covered by the general conspiracy provision, incorporated in section 371 of this title. (See reviser's note under that section.)
+
+Words “upon conviction thereof” which preceded “be fined” were omitted as surplusage, as punishment cannot be imposed until a conviction is secured.
+
+The phraseology was considerably changed to effect consolidation but without any change of substance.
+
+#### Amendments
+
+1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $20,000” in fourth and fifth pars.
+
+1962—Pub. L. 87–486 defined the terms “organizes” and “organize”.
+
+1956—Act July 24, 1956, substituted “$20,000” for “$10,000”, and “twenty years” for “ten years” in the paragraph prescribing penalties applicable to advocating overthrow of government and inserted provisions relating to conspiracy to commit any offense named in this section.
+
+#### Effective Date of 1956 Amendment
+
+Amendment by act July 24, 1956, as applicable only with respect to offenses committed on and after July 24, 1956, see section 3 of act July 24, 1956, set out as a note under section 2384 of this title.
+
+#### Canal Zone
+
+Applicability of section to Canal Zone, see section 14 of this title.
+
+#### Cross References
+
+Alien advocates of overthrow of government, exclusion of, see section 1251 of Title 8, Aliens and Nationality.
+
+Disqualification from holding any office of honor, trust, or profit, additional grounds for, see sections 592, 593, 1901, 2071, 2381, and 2387 of this title.
+
+Disqualification from holding public office of trust or profit under Guam government, see section 1421b of Title 48, Territories and Insular Possessions.
+
+Federal retirement benefits, forfeiture upon conviction of offenses described hereunder, see section 8312 of Title 5, Government Organization and Employees.
+
+Forfeiture of veterans’ benefits upon conviction under this section see section 6105 of Title 38, Veterans’ Benefits.
+
+United States nationality as lost by attempting by force to overthrow or bearing arms against the United States, see sections 1481 to 1489 of Title 8, Aliens and Nationality.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 14 of this title; title 5 section 8312; title 8 section 1481; title 38 section 6105; title 50 App. section 34.
+

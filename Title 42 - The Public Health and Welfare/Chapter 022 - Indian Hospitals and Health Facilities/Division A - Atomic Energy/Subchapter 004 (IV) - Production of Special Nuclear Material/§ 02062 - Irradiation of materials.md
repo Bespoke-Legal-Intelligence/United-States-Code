@@ -1,0 +1,14 @@
+### §2062. Irradiation of materials
+
+The Commission and persons lawfully producing or utilizing special nuclear material are authorized to expose materials of any kind to the radiation incident to the processes of producing or utilizing special nuclear material.
+
+(Aug. 1, 1946, ch. 724, title I, §42, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 929; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+
+#### Prior Provisions
+
+Provisions similar to those comprising this section were contained in section 4 of act Aug. 1, 1946, ch. 724, 60 Stat. 759, which was classified to section 1804 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+
+#### Transfer of Functions
+
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+

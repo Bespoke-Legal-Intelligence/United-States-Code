@@ -1,0 +1,330 @@
+### §8901. Definitions
+
+For the purpose of this chapter—
+
+&emsp;(1) “employee” means—
+
+&emsp;&emsp;(A) an employee as defined by section 2105 of this title;
+
+&emsp;&emsp;(B) a Member of Congress as defined by section 2106 of this title;
+
+&emsp;&emsp;(C) a Congressional employee as defined by section 2107 of this title;
+
+&emsp;&emsp;(D) the President;
+
+&emsp;&emsp;(E) an individual first employed by the government of the District of Columbia before October 1, 1987;
+
+&emsp;&emsp;(F) an individual employed by Gallaudet College; <sup>1</sup>
+
+&emsp;&emsp;(G) an individual employed by a county committee established under section 590h(b) of title 16;
+
+&emsp;&emsp;(H) an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 (72 Stat. 838); and
+
+&emsp;&emsp;(I) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 4 of the Presidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph;
+
+> &emsp;but does not include—
+
+&emsp;&emsp;(i) an employee of a corporation supervised by the Farm Credit Administration if private interests elect or appoint a member of the board of directors;
+
+&emsp;&emsp;(ii) an individual who is not a citizen or national of the United States and whose permanent duty station is outside the United States, unless the individual was an employee for the purpose of this chapter on September 30, 1979, by reason of service in an Executive agency, the United States Postal Service, or the Smithsonian Institution in the area which was then known as the Canal Zone;
+
+&emsp;&emsp;(iii) an employee of the Tennessee Valley Authority; or
+
+&emsp;&emsp;(iv) an employee excluded by regulation of the Office of Personnel Management under section 8913(b) of this title;
+
+&emsp;(2) “Government” means the Government of the United States and the government of the District of Columbia;
+
+&emsp;(3) “annuitant” means—
+
+&emsp;&emsp;(A) an employee who retires—
+
+&emsp;&emsp;&emsp;(i) on an immediate annuity under subchapter III of chapter 83 of this title, or another retirement system for employees of the Government, after 5 or more years of service;
+
+&emsp;&emsp;&emsp;(ii) under section 8412 or 8414 of this title;
+
+&emsp;&emsp;&emsp;(iii) for disability under subchapter III of chapter 83 of this title, chapter 84 of this title, or another retirement system for employees of the Government; or
+
+&emsp;&emsp;&emsp;(iv) on an immediate annuity under a retirement system established for employees described in section 2105(c), in the case of an individual who elected under section 8347(q)(2) or 8461(n)(2) to remain subject to such a system;
+
+&emsp;&emsp;(B) a member of a family who receives an immediate annuity as the survivor of an employee (including a family member entitled to an amount under section 8442(b)(1)(A), whether or not such family member is entitled to an annuity under section 8442(b)(1)(B)) or of a retired employee described by subparagraph (A) of this paragraph;
+
+&emsp;&emsp;(C) an employee who receives monthly compensation under subchapter I of chapter 81 of this title and who is determined by the Secretary of Labor to be unable to return to duty; and
+
+&emsp;&emsp;(D) a member of a family who receives monthly compensation under subchapter I ofchapter 81 of this title as the surviving beneficiary of—
+
+&emsp;&emsp;&emsp;(i) an employee who dies as a result of injury or illness compensable under that subchapter; or
+
+&emsp;&emsp;&emsp;(ii) a former employee who is separated after having completed 5 or more years of service and who dies while receiving monthly compensation under that subchapter and who has been held by the Secretary to have been unable to return to duty;
+
+&emsp;(4) “service”, as used by paragraph (3) of this section, means service which is creditable under subchapter III of chapter 83 or chapter 84 of this title;
+
+&emsp;(5) “member of family” means the spouse of an employee or annuitant and an unmarried dependent child under 22 years of age, including—
+
+&emsp;&emsp;(A) an adopted child or recognized natural child; and
+
+&emsp;&emsp;(B) a stepchild or foster child but only if the child lives with the employee or annuitant in a regular parent-child relationship;
+
+> &emsp;or such an unmarried dependent child regardless of age who is incapable of self-support because of mental or physical disability which existed before age 22;
+
+&emsp;(6) “health benefits plan” means a group insurance policy or contract, medical or hospital service agreement, membership or subscription contract, or similar group arrangements provided by a carrier for the purpose of providing, paying for, or reimbursing expenses for health services;
+
+&emsp;(7) “carrier” means a voluntary association, corporation, partnership, or other nongovernmental organization which is lawfully engaged in providing, paying for, or reimbursing the cost of, health services under group insurance policies or contracts, medical or hospital service agreements, membership or subscription contracts, or similar group arrangements, in consideration of premiums or other periodic charges payable to the carrier, including a health benefits plan duly sponsored or underwritten by an employee organization;
+
+&emsp;(8) “employee organization” means—
+
+&emsp;&emsp;(A) an association or other organization of employees which is national in scope, or in which membership is open to all employees of a Government agency who are eligible to enroll in a health benefits plan under this chapter and which, after December 31, 1978, and before January 1, 1980, applied to the Office for approval of a plan provided under section 8903(3) of this title; and
+
+&emsp;&emsp;(B) an association or other organization which is national in scope, in which membership is open only to employees, annuitants, or former spouses, or any combination thereof, and which, during the 90-day period beginning on the date of enactment of section 8903a of this title, applied to the Office for approval of a plan provided under such section;
+
+&emsp;(9) “dependent”, in the case of any child, means that the employee or annuitant involved is either living with or contributing to the support of such child, as determined in accordance with such regulations as the Office shall prescribe;
+
+&emsp;(10) “former spouse” means a former spouse of an employee, former employee, or annuitant—
+
+&emsp;&emsp;(A) who has not remarried before age 55 after the marriage to the employee, former employee, or annuitant was dissolved,
+
+&emsp;&emsp;(B) who was enrolled in an approved health benefits plan under this chapter as a family member at any time during the 18-month period before the date of the dissolution of the marriage to the employee, former employee, or annuitant, and
+
+&emsp;&emsp;(C)(i) who is receiving any portion of an annuity under section 8345(j) or 8467 of this title or a survivor annuity under section 8341(h) or 8445 of this title (or benefits similar to either of the aforementioned annuity benefits under a retirement system for Government employees other than the Civil Service Retirement System or the Federal Employees’ Retirement System),
+
+&emsp;&emsp;(ii) as to whom a court order or decree referred to in section 8341(h), 8345(j), 8445, or 8467 of this title (or similar provision of law under any such retirement system other than the Civil Service Retirement System or the Federal Employees’ Retirement System) has been issued, or for whom an election has been made under section 8339(j)(3) or 8417(b) of this title (or similar provision of law), or
+
+&emsp;&emsp;(iii) who is otherwise entitled to an annuity or any portion of an annuity as a former spouse under a retirement system for Government employees,
+
+> &emsp;except that such term shall not include any such unremarried former spouse of a former employee whose marriage was dissolved after the former employee's separation from the service (other than by retirement); and
+
+&emsp;(11) “qualified clinical social worker” means an individual—
+
+&emsp;&emsp;(A) who is licensed or certified as a clinical social worker by the State in which such individual practices; or
+
+&emsp;&emsp;(B) who, if such State does not provide for the licensing or certification of clinical social workers—
+
+&emsp;&emsp;&emsp;(i) is certified by a national professional organization offering certification of clinical social workers; or
+
+&emsp;&emsp;&emsp;(ii) meets equivalent requirements (as prescribed by the Office).
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 600; Pub. L. 90–83, §1(95), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §§2, 3(b), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(b), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–368, §2, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §2, Nov. 2, 1978, 92 Stat. 2482; Pub. L. 96–54, §2(a)(52), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(c), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–179, §2, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(1), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–53, §1(a), June 17, 1985, 99 Stat. 93; Pub. L. 99–251, title I, §105(a), Feb. 27, 1986, 100 Stat. 15; Pub. L. 99–335, title II, §207(<i>l</i>), June 6, 1986, 100 Stat. 598; Pub. L. 99–556, title V,§503, Oct. 27, 1986, 100 Stat. 3141; Pub. L. 100–679, §13(c), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–508, title VII, §7202(<i>l</i>), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(75), Oct. 2, 1992, 106 Stat. 1355.)
+
+Historical and Revision Notes<br>1966
+
+Act
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 3001.
+
+Sept. 28, 1959, Pub. L. 86–382, §2, 73 Stat. 709.
+
+July 8, 1963, Pub. L. 88–59, §1, 77 Stat. 76.
+
+&nbsp;
+
+Mar. 17, 1964, Pub. L. 88–284, §1(1)–(4), 78 Stat. 164.
+
+&nbsp;
+
+Aug. 31, 1964, Pub. L. 88–531, §1, 78 Stat. 737.
+
+5 U.S.C. 3002(f) (1st sentence, less words between 1st and 2d commas).
+
+July 1, 1960, Pub. L. 86–568, §115(d) “(f) (1st sentence, less words between 1st and 2d commas)”, 74 Stat. 303.
+
+The definition of “employee” in section 2105 of this title is broad enough to cover the officers and employees covered by former section 3001 with the exception of a Member of Congress, the President, an individual employed by the government of the District of Columbia, an individual employed by Gallaudet College, a United States commissioner, and an Official Reporter of Debates of the Senate and an individual employed by him. The first five have been added in paragraphs (1)(B), (D), (E), (F), and (G). The latter are covered by the definition of “Congressional employee” in section 2107 of this title and are included by the addition of a Congressional employee in paragraph (1)(C).
+
+In paragraph (1)(ii), the words “the United States” are substituted for “a State of the United States or the District of Columbia”.
+
+Paragraph (1)(iv) is added for clarity.
+
+In paragraph (8), the words “before January 1, 1964” are substituted for “on or before December 31, 1963”.
+
+The definition of “Commission” in former section 3001(h) is omitted as unnecessary as the full title “Civil Service Commission” is set forth the first time it is used in a section.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+1967
+
+Act
+
+<i>Section of title 5</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+8901(5)
+
+5 App.: 3001(d).
+
+July 18, 1966, Pub. L. 89–504, §601, 80 Stat. 303.
+
+#### References in Text
+
+Section 1(b) of the Act of August 25, 1958 (72 Stat. 838), referred to in par. (1)(H), is section 1(b) of Pub. L. 85–745 which is set out as a note under section 102 of Title 3, The President.
+
+Section 4 of the Presidential Transition Act of 1963, referred to in par. (1)(I), is section 4 of Pub. L. 88–277, which is set out as a note under section 102 of Title 3.
+
+The date of enactment of section 8903a of this title, referred to in par. (8)(B), means the date of enactment of Pub. L. 99–53, which enacted section 8903a and which was approved June 17, 1985.
+
+#### Amendments
+
+1992—Par. (3)(A)(iv). Pub. L. 102–378, §2(75)(A), substituted “8347(q)(2)” for “8347(p)(2)”.
+
+Par. (10)(C)(ii). Pub. L. 102–378, §2(75)(B), inserted comma after “8341(h)”.
+
+1990—Par. (3)(A)(iv). Pub. L. 101–508 added cl. (iv).
+
+1988—Par. (1)(H), (I). Pub. L. 100–679 added subpars. (H) and (I).
+
+1986—Par. (1)(E). Pub. L. 99–335, §207(<i>l</i>)(1), amended subpar. (E) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
+
+Par. (3)(A). Pub. L. 99–335, §207(<i>l</i>)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an employee who retires on an immediate annuity under subchapter III of chapter 83 of this title or another retirement system for employees of the Government, after 5 or more years of service or for disability”.
+
+Par. (3)(B). Pub. L. 99–556 inserted “(including a family member entitled to an amount under section 8442(b)(1)(A), whether or not such family member is entitled to an annuity under section 8442(b)(1)(B))”.
+
+Par. (4). Pub. L. 99–335, §207(<i>l</i>)(3), inserted “or chapter 84”.
+
+Par. (10)(C)(i). Pub. L. 99–335, §207(<i>l</i>)(4), inserted “or 8467”, “or 8445”, and “or the Federal Employees’ Retirement System”.
+
+Par. (10)(C)(ii). Pub. L. 99–335, §207(<i>l</i>)(5), substituted “8345(j), 8445, or 8467” for “or 8345(j)” and inserted “or the Federal Employees’ Retirement System” and “or 8417(b)”.
+
+Par. (11). Pub. L. 99–251 added par. (11).
+
+1985—Par. (8). Pub. L. 99–53 amended par. (8) generally, designating existing provisions as subpar. (A) and adding subpar. (B).
+
+1984—Par. (10). Pub. L. 98–615 added par. (10).
+
+1980—Par. (5). Pub. L. 96–179, §2(1), inserted “dependent” after “unmarried” in provisions preceding subpar. (A) and in provisions following subpar. (B), inserted “or recognized natural child” after “child” in subpar. (A), and substituted “or foster child but only if the child;” for “, foster child, or recognized natural child who” in subpar. (B).
+
+Par. (9). Pub. L. 96–179, §2(2)–(4), added par. (9).
+
+1979—Par. (1). Pub. L. 96–70 in cl. (ii) substituted provisions relating to an individual who was an employee for the purpose of this chapter on Sept. 30, 1979, by reason of service in an Executive agency, United States Postal Service, or Smithsonian Institution in area which was then known as Canal Zone for provisions relating to Panama Canal Zone.
+
+Pub. L. 96–54 struck out cl. (G) which related to coverage of a United States Commissioner as an “employee”, and redesignated cl. (H) as (G).
+
+1978—Par. (1)(iv). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+
+Par. (3)(A). Pub. L. 95–583 reduced period of service to 5 from 12 years.
+
+Par. (8). Pub. L. 95–454 substituted “Office” for “Commission”.
+
+Pub. L. 95–368 substituted “after December 31, 1978, and before January 1, 1980” for “before January 1, 1964”.
+
+1973—Par. (1)(ii). Pub. L. 93–160 excluded from definition of “employee” persons who are not nationals of United States and whose permanent duty station is outside United States and Panama Canal Zone.
+
+1970—Par. (1)(ii). Pub. L. 91–418, §3(b), excluded from definition of “employee” a noncitizen employee whose permanent duty station is outside Panama Canal Zone.
+
+Par. (3)(B). Pub. L. 91–418, §2(a), redefined “annuitant” to be a member of a family who receives an immediate annuity as the survivor of an employee rather than as the survivor of an employee who dies after completing 5 or more years of service.
+
+Par. (3)(D)(i). Pub. L. 91–418, §2(b), redefined “annuitant” to be a member of a family who receives monthly compensation as the surviving beneficiary of an employee who dies as a result of a compensable injury or illness rather than as the survivor of an employee who, having completed 5 or more years of service, so dies.
+
+#### Change of Name
+
+Gallaudet College, referred to in par. (1)(F), was redesignated Gallaudet University by section 101(a) of Pub. L. 99–371, which is classified to section 4301(a) of Title 20, Education.
+
+#### Effective Date of 1992 Amendment
+
+Amendment by section 2(75)(A) of Pub. L. 102–378 effective Nov. 5, 1990, and amendment by section 2(75)(B) of Pub. L. 102–378 effective Oct. 2, 1992, see section 9(a), (b)(6) of Pub. L. 102–378, set out as a note under section 6303 of this title.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+
+#### Effective Date of 1986 Amendments
+
+Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of this title.
+
+Section 105(c) of Pub. L. 99–251 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 8902 of this title\] shall be effective with respect to contracts entered into or renewed for calendar years beginning after December 31, 1986.”
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions, and applicable to any individual who is married to an employee or annuitant on or after that date, see section 4(a)(2) of Pub. L. 98–615, as amended, set out as a note under section 8341 of this title.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–179 effective Jan. 2, 1980, except that no benefits under this chapter that are made available by reason of amendment of this section and section 8341 of this title by Pub. L. 96–179 shall be payable for any period before Oct. 1, 1979, see section 5(a) of Pub. L. 96–179, set out as a note under section 8341 of this title.
+
+#### Effective Date of 1979 Amendments
+
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
+
+Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
+
+#### Effective Date of 1978 Amendments
+
+Amendment by Pub. L. 95–583 effective Nov. 2, 1978, see section 3 of Pub. L. 95–583, set out as a note under section 8706 of this title.
+
+Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Short Title of 1988 Amendment
+
+Pub. L. 100–654, §1, Nov. 14, 1988, 102 Stat. 3837, provided that: “This Act \[enacting sections 8440a, 8902a, 8905a, and 8906a of this title, amending sections 8902, 8903, 8905, 8909, and 8913 of this title, and enacting provisions set out as notes under sections 8902, 8902a, and 8906a of this title\] may be cited as the ‘Federal Employees Health Benefits Amendments Act of 1988’.”
+
+#### Short Title of 1986 Amendment
+
+Section 1 of Pub. L. 99–251 provided that: “This Act \[amending this section, sections 1103, 3502, 5334, 5924, 6312, 8332, 8339 to 8342, 8345, 8902, 8903, 8905, and 8909 of this title, and section 35 of Title 24, Hospitals and Asylums, enacting provisions set out as notes under this section and sections 7901, 8339, 8341, 8345, 8902, 8904, 8905, and 8909 of this title, and amending provisions set out as notes under sections 8341 and 8902 of this title\] may be cited as the ‘Federal Employees Benefits Improvement Act of 1986’.”
+
+#### Continued Coverage for Individuals Enrolled in Plan Administered by Office of the Comptroller of the Currency or Office of Thrift Supervision
+
+Pub. L. 103–409, §5, Oct. 25, 1994, 108 Stat. 4232, provided that:
+
+“(a)
+
+Enrollment in Chapter 89
+
+Plan.—For purposes of the administration of chapter 89 of title 5, United States Code, any period of enrollment under a health benefits plan administered by the Office of the Comptroller of the Currency or the Office of Thrift Supervision before the termination of such plans on January 7, 1995, shall be deemed to be a period of enrollment in a health benefits plan under chapter 89 of such title.
+
+“(b)
+
+Continued Coverage.—(1) Any individual who, on January 7, 1995, is covered by a health benefits plan administered by the Office of the Comptroller of the Currency or the Office of Thrift Supervision may enroll in an approved health benefits plan described under section 8903 or 8903a of title 5, United States Code—
+
+&emsp;“(A) either as an individual or for self and family, if such individual is an employee, annuitant, or former spouse as defined under section 8901 of such title; and
+
+&emsp;“(B) for coverage effective on and after January 8, 1995.
+
+“(2) An individual who, on January 7, 1995, is entitled to continued coverage under a health benefits plan administered by the Office of the Comptroller of the Currency or the Office of Thrift Supervision—
+
+&emsp;“(A) shall be deemed to be entitled to continued coverage under section 8905a of title 5, United States Code, for the same period that would have been permitted under the plan administered by the Office of the Comptroller of the Currency or the Office of Thrift Supervision; and
+
+&emsp;“(B) may enroll in an approved health benefits plan described under section 8903 or 8903a of such title in accordance with section 8905a of such title for coverage effective on and after January 8, 1995.
+
+“(3) An individual who, on January 7, 1995, is covered as an unmarried dependent child under a health benefits plan administered by the Office of the Comptroller of the Currency or the Office of Thrift Supervision and who is not a member of family as defined under section 8901(5) of title 5, United States Code—
+
+&emsp;“(A) shall be deemed to be entitled to continued coverage under section 8905a of such title as though the individual had, on January 7, 1995, ceased to meet the requirements for being considered an unmarried dependent child under chapter 89 of such title; and
+
+&emsp;“(B) may enroll in an approved health benefits plan described under section 8903 or 8903a of such title in accordance with section 8905a for continued coverage effective on and after January 8, 1995.
+
+“(c)
+
+Transfers to the Employees Health Benefits Fund.—The Office of the Comptroller of the Currency and the Office of Thrift Supervision shall transfer to the Employees Health Benefits Fund established under section 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Office of the Comptroller of the Currency and the Office of Thrift Supervision, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section. The amounts so transferred shall be held in the Fund and used by the Office in addition to amounts available under section 8906(g)(1) of such title.
+
+“(d)
+
+Administration and Regulations.—The Office of Personnel Management—
+
+&emsp;“(1) shall administer the provisions of this section to provide for—
+
+&emsp;&emsp;“(A) a period of notice and open enrollment for individuals affected by this section; and
+
+&emsp;&emsp;“(B) no lapse of health coverage for individuals who enroll in a health benefits plan under chapter 89 of title 5, United States Code, in accordance with this section; and
+
+&emsp;“(2) may prescribe regulations to implement this section.”
+
+#### Continued Coverage Under Certain Federal Employee Benefit Programs for Certain Employees of Saint Elizabeths Hospital
+
+For provisions relating to treatment of certain Federal employees of Saint Elizabeths Hospital under certain Federal employee benefit programs, see section 207(<i>o</i>) of Pub. L. 99–335, set out as a note under section 8331 of this title.
+
+#### Cross References
+
+Annual report to Congress by the Office of Personnel Management on the operation of this chapter, see section 1308 of this title.
+
+United States magistrate judges and necessary clerical and secretarial assistants employed in the offices of such full-time magistrate judges deemed officers and employees in the Federal judicial branch within meaning of this chapter, see section 634 of Title 28, Judiciary and Judicial Procedure.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 8902, 8903, 8903a, 8905a, 8906, 8909, 8913 of this title; title 40 section 214c; title 42 section 251.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
+

@@ -1,0 +1,48 @@
+### §513. Securities of the States and private entities
+
+(a) Whoever makes, utters or possesses a counterfeited security of a State or a political subdivision thereof or of an organization, or whoever makes, utters or possesses a forged security of a State or political subdivision thereof or of an organization, with intent to deceive another person, organization, or government shall be fined under this title <sup>1</sup> or imprisoned for not more than ten years, or both.
+
+(b) Whoever makes, receives, possesses, sells or otherwise transfers an implement designed for or particularly suited for making a counterfeit or forged security with the intent that it be so used shall be punished by a fine under this title or by imprisonment for not more than ten years, or both.
+
+(c) For purposes of this section—
+
+&emsp;(1) the term “counterfeited” means a document that purports to be genuine but is not, because it has been falsely made or manufactured in its entirety;
+
+&emsp;(2) the term “forged” means a document that purports to be genuine but is not because it has been falsely altered, completed, signed, or endorsed, or contains a false addition thereto or insertion therein, or is a combination of parts of two or more genuine documents;
+
+&emsp;(3) the term “security” means—
+
+&emsp;&emsp;(A) a note, stock certificate, treasury stock certificate, bond, treasury bond, debenture, certificate of deposit, interest coupon, bill, check, draft, warrant, debit instrument as defined in section 916(c) of the Electronic Fund Transfer Act, money order, traveler's check, letter of credit, warehouse receipt, negotiable bill of lading, evidence of indebtedness, certificate of interest in or participation in any profit-sharing agreement, collateral-trust certificate, pre-reorganization certificate of subscription, transferable share, investment contract, voting trust certificate, or certificate of interest in tangible or intangible property;
+
+&emsp;&emsp;(B) an instrument evidencing ownership of goods, wares, or merchandise;
+
+&emsp;&emsp;(C) any other written instrument commonly known as a security;
+
+&emsp;&emsp;(D) a certificate of interest in, certificate of participation in, certificate for, receipt for, or warrant or option or other right to subscribe to or purchase, any of the foregoing; or
+
+&emsp;&emsp;(E) a blank form of any of the foregoing;
+
+&emsp;(4) the term “organization” means a legal entity, other than a government, established or organized for any purpose, and includes a corporation, company, association, firm, partnership, joint stock company, foundation, institution, society, union, or any other association of persons which operates in or the activities of which affect interstate or foreign commerce; and
+
+&emsp;(5) the term “State” includes a State of the United States, the District of Columbia, Puerto Rico, Guam, the Virgin Islands, and any other territory or possession of the United States.
+
+(Added Pub. L. 98–473, title II, §1105(a), Oct. 12, 1984, 98 Stat. 2144, §511; renumbered §513, Pub. L. 99–646, §31(a), Nov. 10, 1986, 100 Stat. 3598; amended Pub. L. 101–647, title XXXV, §3515, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XXXIII, §§330008(1), 330016(2)(C), Sept. 13, 1994, 108 Stat. 2142, 2148.)
+
+#### References in Text
+
+Section 916(c) of the Electronic Fund Transfer Act, referred to in par. (3)(A), is classified to section 1693n(c) of Title 15, Commerce and Trade.
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–322, §330016(2)(C), which directed the amendment of this section by substituting “under this title” for “of not more than $250,000”, was executed by making the substitution for “not more than $250,000”, to reflect the probable intent of Congress.
+
+Subsec. (b). Pub. L. 103–322, §330016(2)(C), substituted “fine under this title” for “fine of not more than $250,000”.
+
+Subsec. (c)(4). Pub. L. 103–322, §330008(1), substituted “association of persons” for “association or persons”.
+
+1990—Subsec. (c)(3)(A). Pub. L. 101–647 struck out “(15 U.S.C. 1693(c))” after “Electronic Fund Transfer Act” and inserted comma after “profit-sharing agreement”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1956 of this title.
+

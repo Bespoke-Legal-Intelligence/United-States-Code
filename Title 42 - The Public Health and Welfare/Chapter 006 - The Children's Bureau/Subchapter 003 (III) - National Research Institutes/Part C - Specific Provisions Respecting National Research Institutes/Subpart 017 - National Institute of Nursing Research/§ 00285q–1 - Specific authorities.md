@@ -1,0 +1,14 @@
+### §285q–1. Specific authorities
+
+To carry out section 285q of this title, the Director of the Institute may provide research training and instruction and establish, in the Institute and other nonprofit institutions, research traineeships and fellowships in the study and investigation of the prevention of disease, health promotion, and the nursing care of individuals with and the families of individuals with acute and chronic illnesses. The Director of the Institute may provide individuals receiving such training and instruction or such traineeships or fellowships with such stipends and allowances (including amounts for travel and subsistence and dependency allowances) as the Director determines necessary. The Director may make grants to nonprofit institutions to provide such training and instruction and traineeships and fellowships.
+
+(July 1, 1944, ch. 373, title IV, §464W, formerly §484, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 867; renumbered §464W and amended June 10, 1993, Pub. L. 103–43, title XV, §1511(a)(2), (b)(2), (4)(A), 107 Stat. 178, 179.)
+
+#### Codification
+
+Section was formerly classified to section 287c–1 of this title prior to renumbering by Pub. L. 103–43.
+
+#### Amendments
+
+1993—Pub. L. 103–43, §1511(a)(2), (b)(4)(A), substituted “section 285q” for “section 287c” and “Institute” for “Center” wherever appearing.
+

@@ -1,0 +1,6 @@
+### §276a–7. Application of sections 276a to 276a–5 to contracts entered into without regard to section 5 of title 41
+
+The fact that any contract authorized by any Act is entered into without regard to section 5 of title 41, or upon a cost-plus-a-fixed-fee basis or otherwise without advertising for proposals, shall not be construed to render inapplicable the provisions of sections 276a to 276a–5 of this title, if such Act would otherwise be applicable to such contract.
+
+(Mar. 23, 1941, ch. 26, 55 Stat. 53; Aug. 21, 1941, ch. 395, 55 Stat. 658.)
+

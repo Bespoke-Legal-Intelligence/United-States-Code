@@ -1,0 +1,10 @@
+### §1353. Selection of designated agency
+
+The Governor of any State which wishes to receive Federal payments under this chapter in support of its existing or planned technical services program shall designate, under appropriate State laws and regulations, an institution or agency to administer and coordinate that program and to prepare and submit a plan and programs to the Secretary of Commerce for approval under this chapter.
+
+(Pub. L. 89–182, §3, Sept. 14, 1965, 79 Stat. 680.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1352 of this title.
+

@@ -1,0 +1,16 @@
+### §717<i>o</i>. Administrative powers of Commission; rules, regulations, and orders
+
+The Commission shall have power to perform any and all acts, and to prescribe, issue, make, amend, and rescind such orders, rules, and regulations as it may find necessary or appropriate to carry out the provisions of this chapter. Among other things, such rules and regulations may define accounting, technical, and trade terms used in this chapter; and may prescribe the form or forms of all statements, declarations, applications, and reports to be filed with the Commission, the information which they shall contain, and the time within which they shall be filed. Unless a different date is specified therein, rules and regulations of the Commission shall be effective thirty days after publication in the manner which the Commission shall prescribe. Orders of the Commission shall be effective on the date and in the manner which the Commission shall prescribe. For the purposes of its rules and regulations, the Commission may classify persons and matters within its jurisdiction and prescribe different requirements for different classes of persons or matters. All rules and regulations of the Commission shall be filed with its secretary and shall be kept open in convenient form for public inspection and examination during reasonable business hours.
+
+(June 21, 1938, ch. 556, §16, 52 Stat. 830.)
+
+#### Transfer of Functions
+
+Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+
+For transfer of functions of Federal Power Commission, with certain reservations, to Chairman of such Commission, see Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 7172.
+

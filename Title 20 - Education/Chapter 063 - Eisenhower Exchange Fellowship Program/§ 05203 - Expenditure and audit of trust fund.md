@@ -1,0 +1,16 @@
+### §5203. Expenditure and audit of trust fund
+
+#### (a) Authorization of funding
+
+For each fiscal year, there is authorized to be appropriated from the fund to Eisenhower Exchange Fellowships, Incorporated, the interest and earnings of the fund.
+
+#### (b) Access to books, records, etc., by General Accounting Office
+
+The activities of Eisenhower Exchange Fellowships, Incorporated, may be audited by the General Accounting Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the General Accounting Office shall have access to all books, accounts, records, reports, and files and all other papers, things, or property belonging to or in use by Eisenhower Exchange Fellowships, Incorporated, pertaining to such activities and necessary to facilitate the audit.
+
+(Pub. L. 101 454, §4, Oct. 24, 1990, 104 Stat. 1064.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5205, 5206 of this title.
+

@@ -1,0 +1,90 @@
+### §6968. Board of Visitors
+
+(a) A Board of Visitors to the Naval Academy is constituted annually of—
+
+&emsp;(1) the chairman of the Committee on Armed Services of the Senate, or his designee;
+
+&emsp;(2) three other members of the Senate designated by the Vice President or the President pro tempore of the Senate, two of whom are members of the Committee on Appropriations of the Senate;
+
+&emsp;(3) the chairman of the Committee on Armed Services of the House of Representatives, or his designee;
+
+&emsp;(4) four other members of the House of Representatives designated by the Speaker of the House of Representatives, two of whom are members of the Committee on Appropriations of the House of Representatives; and
+
+&emsp;(5) six persons designated by the President.
+
+(b) The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is appointed. The President shall designate two persons each year to succeed the members whose terms expire that year.
+
+(c) If a member of the Board dies or resigns, a successor shall be designated for the unexpired portion of the term by the official who designated the member.
+
+(d) The Board shall visit the Academy annually. With the approval of the Secretary of the Navy, the Board or its members may make other visits to the Academy in connection with the duties of the Board or to consult with the Superintendent of the Academy.
+
+(e) The Board shall inquire into the state of morale and discipline, the curriculum, instruction, physical equipment, fiscal affairs, academic methods, and other matters relating to the Academy that the Board decides to consider.
+
+(f) Within 60 days after its annual visit, the Board shall submit a written report to the President of its action and of its views and recommendations pertaining to the Academy. Any report of a visit, other than the annual visit, shall, if approved by a majority of the members of the Board, be submitted to the President within 60 days after the approval.
+
+(g) Upon approval by the Secretary, the Board may call in advisers for consultation.
+
+(h) While performing his duties, each member of the Board and each adviser is entitled to not more than $5 a day and shall be reimbursed under Government travel regulations for his travel expenses.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 434; Dec. 23, 1980, Pub. L. 96–579, §13(b), 94 Stat. 3369.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+6968(a), (b)
+
+34 U.S.C. 1083.
+
+June 29, 1948, ch. 714, §1, 62 Stat. 1094.
+
+&nbsp;
+
+34 U.S.C. 1084.
+
+June 29, 1948, ch. 714, §2, 62 Stat. 1094.
+
+6968(c)
+
+34 U.S.C. 1085.
+
+June 29, 1948, ch. 714, §3, 62 Stat. 1094.
+
+6968(d)
+
+34 U.S.C. 1086.
+
+June 29, 1948, ch. 714, §4, 62 Stat. 1094; June 30, 1954, ch. 432, §732, 68 Stat. 356.
+
+6968(e), (f), (g)
+
+34 U.S.C. 1087.
+
+June 29, 1948, ch. 714, §5, 62 Stat. 1094.
+
+6968(h)
+
+34 U.S.C. 1088.
+
+June 29, 1948, ch. 714, §6, 62 Stat. 1094.
+
+In subsection (a) the words “A Board of Visitors to the Naval Academy is constituted annually” are substituted for the words “There shall be appointed \* \* \* every year a Board of Visitors”, since appointments, in the strict sense, are not involved.
+
+In subsection (b) the language establishing staggered terms is eliminated as executed, and the existence of such terms is recognized by the use of the words “two persons shall be designated by him each year to succeed the members whose terms expire that year”. No effect is given to the language “the nine Presidential appointees”. The hearings indicate that one of the bills considered provided for nine such “appointees”, and it appears that the number nine was inadvertently retained. The provision specifically authorizes only six Presidential designees.
+
+#### Amendments
+
+1980—Subsec. (b). Pub. L. 96–579 required member whose term of office had expired to continue service until appointment of a successor.
+
+#### Change of Name
+
+Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Cross References
+
+Travel and subsistence expenses, see section 5701 et seq. of Title 5, Government Organization and Employees.
+

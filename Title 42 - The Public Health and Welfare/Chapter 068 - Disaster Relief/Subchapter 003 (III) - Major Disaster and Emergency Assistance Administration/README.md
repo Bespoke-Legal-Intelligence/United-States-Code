@@ -1,0 +1,31 @@
+### SUBCHAPTER III—MAJOR DISASTER AND EMERGENCY ASSISTANCE ADMINISTRATION
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 05141 - Waiver of administrative conditions](%C2%A7%2005141%20-%20Waiver%20of%20administrative%20conditions.md)
+- [&sect; 05142 - Repealed. Pub. L. 100&#8211;707, title I, &sect;105(a)(2), Nov. 23, 1988, 102 Stat. 4691](%C2%A7%2005142%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93707%2C%20title%20I%2C%20%C2%A7105%28a%29%282%29%2C%20Nov.%2023%2C%201988%2C%20102%20Stat.%204691.md)
+- [&sect; 05143 - Coordinating officers](%C2%A7%2005143%20-%20Coordinating%20officers.md)
+- [&sect; 05144 - Emergency support teams](%C2%A7%2005144%20-%20Emergency%20support%20teams.md)
+- [&sect; 05145, 5146 - Repealed. Pub. L. 100&#8211;707, title I, &sect;105(d), Nov. 23, 1988, 102 Stat. 4691](%C2%A7%2005145%2C%205146%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93707%2C%20title%20I%2C%20%C2%A7105%28d%29%2C%20Nov.%2023%2C%201988%2C%20102%20Stat.%204691.md)
+- [&sect; 05147 - Reimbursement of Federal agencies](%C2%A7%2005147%20-%20Reimbursement%20of%20Federal%20agencies.md)
+- [&sect; 05148 - Nonliability of Federal Government](%C2%A7%2005148%20-%20Nonliability%20of%20Federal%20Government.md)
+- [&sect; 05149 - Performance of services](%C2%A7%2005149%20-%20Performance%20of%20services.md)
+- [&sect; 05150 - Use of local firms and individuals](%C2%A7%2005150%20-%20Use%20of%20local%20firms%20and%20individuals.md)
+- [&sect; 05151 - Nondiscrimination in disaster assistance](%C2%A7%2005151%20-%20Nondiscrimination%20in%20disaster%20assistance.md)
+- [&sect; 05152 - Use and coordination of relief organizations](%C2%A7%2005152%20-%20Use%20and%20coordination%20of%20relief%20organizations.md)
+- [&sect; 05153 - Priority to certain applications for public facility and public housing assistance](%C2%A7%2005153%20-%20Priority%20to%20certain%20applications%20for%20public%20facility%20and%20public%20housing%20assistance.md)
+- [&sect; 05154 - Insurance](%C2%A7%2005154%20-%20Insurance.md)
+- [&sect; 05154a - Prohibited flood disaster assistance](%C2%A7%2005154a%20-%20Prohibited%20flood%20disaster%20assistance.md)
+- [&sect; 05155 - Duplication of benefits](%C2%A7%2005155%20-%20Duplication%20of%20benefits.md)
+- [&sect; 05156 - Standards and reviews](%C2%A7%2005156%20-%20Standards%20and%20reviews.md)
+- [&sect; 05157 - Penalties](%C2%A7%2005157%20-%20Penalties.md)
+- [&sect; 05158 - Availability of materials](%C2%A7%2005158%20-%20Availability%20of%20materials.md)
+- [&sect; 05159 - Protection of environment](%C2%A7%2005159%20-%20Protection%20of%20environment.md)
+- [&sect; 05160 - Recovery of assistance](%C2%A7%2005160%20-%20Recovery%20of%20assistance.md)
+- [&sect; 05161 - Audits and investigations](%C2%A7%2005161%20-%20Audits%20and%20investigations.md)
+- [&sect; 05162 - Advance of non-Federal share](%C2%A7%2005162%20-%20Advance%20of%20non-Federal%20share.md)
+- [&sect; 05163 - Limitation on use of sliding scales](%C2%A7%2005163%20-%20Limitation%20on%20use%20of%20sliding%20scales.md)
+- [&sect; 05164 - Rules and regulations](%C2%A7%2005164%20-%20Rules%20and%20regulations.md)

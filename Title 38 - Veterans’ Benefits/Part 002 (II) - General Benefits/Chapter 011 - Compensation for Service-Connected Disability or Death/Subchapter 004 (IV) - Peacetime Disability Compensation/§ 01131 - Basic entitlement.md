@@ -1,0 +1,24 @@
+### §1131. Basic entitlement
+
+For disability resulting from personal injury suffered or disease contracted in line of duty, orfor aggravation of a preexisting injury suffered or disease contracted in line of duty, in the active military, naval, or air service, during other than a period of war, the United States will pay to any veteran thus disabled and who was discharged or released under conditions other than dishonorable from the period of service in which said injury or disease was incurred, or preexisting injury or disease was aggravated, compensation as provided in this subchapter, but no compensation shall be paid if the disability is a result of the veteran's own willful misconduct or abuse of alcohol or drugs.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1122, §331; Pub. L. 101–508, title VIII, §8052(a)(3), Nov. 5, 1990, 104 Stat. 1388–351; renumbered §1131, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+
+#### Amendments
+
+1991—Pub. L. 102–83 renumbered section 331 of this title as this section.
+
+1990—Pub. L. 101–508 substituted “a result of the veteran's own willful misconduct or abuse of alcohol or drugs” for “the result of the veteran's own willful misconduct”.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–508 effective with respect to claims filed after Oct. 31, 1990, see section 8052(b) of Pub. L. 101–508, set out as a note under section 105 of this title.
+
+#### Cross References
+
+Naval Reserves and Marine Corps Reserve, disability and death benefits, see section 6148 of Title 10, Armed Forces.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1132, 1133, 1134 of this title.
+

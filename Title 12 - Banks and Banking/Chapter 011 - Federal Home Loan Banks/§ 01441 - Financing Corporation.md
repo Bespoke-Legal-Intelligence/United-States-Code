@@ -1,0 +1,574 @@
+### §1441. Financing Corporation
+
+#### (a) Establishment
+
+Notwithstanding any other provision of law, the Federal Housing Finance Board shall charter a corporation to be known as the Financing Corporation.
+
+#### (b) Management of Financing Corporation
+
+#### (1) Directorate
+
+&emsp;The Financing Corporation shall be under the management of a directorate composed of 3 members as follows:
+
+&emsp;&emsp;(A) The Director of the Office of Finance of the Federal Home Loan Banks (or the head of any successor to such office).
+
+&emsp;&emsp;(B) 2 members selected by the Federal Housing Finance Board from among the presidents of the Federal Home Loan Banks.
+
+#### (2) Terms
+
+&emsp;Each member appointed under paragraph (1)(B) shall be appointed for a term of 1 year.
+
+#### (3) Vacancy
+
+&emsp;If any member leaves the office in which such member was serving when appointed to the Directorate—
+
+&emsp;&emsp;(A) such member's service on the Directorate shall terminate on the date such member leaves such office; and
+
+&emsp;&emsp;(B) the successor to the office of such member shall serve the remainder of such member's term.
+
+#### (4) Equal representation of banks
+
+&emsp;No president of a Federal Home Loan Bank may be appointed to serve an additional term on the Directorate until such time as the presidents of each of the other Federal Home Loan Banks have served as many terms on the Directorate as the president of such bank (before the appointment of such president to such additional term).
+
+#### (5) Chairperson
+
+&emsp;The Chairperson of the Federal Housing Finance Board shall select the chairperson of the Directorate from among the 3 members of the Directorate.
+
+#### (6) Staff
+
+#### (A) No paid employees
+
+&emsp;&emsp;The Financing Corporation shall have no paid employees.
+
+#### (B) Powers
+
+&emsp;&emsp;The Directorate may, with the approval of the Federal Housing Finance Board, authorize the officers, employees, or agents of the Federal Home Loan Banks to act for and on behalf of the Financing Corporation in such manner as may be necessary to carry out the functions of the Financing Corporation.
+
+#### (7) Administrative expenses
+
+#### (A) In general
+
+&emsp;&emsp;All administrative expenses of the Financing Corporation shall be paid by the Federal Home Loan Banks.
+
+#### (B) Pro rata distribution
+
+&emsp;&emsp;The amount each Federal Home Loan Bank shall pay shall be determined by the Federal Housing Finance Board by multiplying the total administrative expenses for any period by the percentage arrived at by dividing—
+
+&emsp;&emsp;&emsp;(i) the aggregate amount the Federal Housing Finance Board required such bank to invest in the Financing Corporation (as of the time of such determination) under paragraphs (4) and (5) of subsection (d) of this section (as computed without regard to paragraph (3) or (6) of such subsection); by
+
+&emsp;&emsp;&emsp;(ii) the aggregate amount the Federal Housing Finance Board required all Federal Home Loan Banks to invest (as of the time of such determination) under such paragraphs.
+
+#### (C) Administrative expenses defined
+
+&emsp;&emsp;For purposes of this paragraph, the term “administrative expenses” does not include—
+
+&emsp;&emsp;&emsp;(i) issuance costs (as such term is defined in subsection (g)(5)(A) of this section);
+
+&emsp;&emsp;&emsp;(ii) any interest on (and any redemption premium with respect to) any obligation of the Financing Corporation; or
+
+&emsp;&emsp;&emsp;(iii) custodian fees (as such term is defined in subsection (g)(5)(B) of this section).
+
+#### (8) Regulation by Federal Housing Finance Board
+
+&emsp;The Directorate shall be subject to such regulations, orders, and directions as the Federal Housing Finance Board may prescribe.
+
+#### (9) No compensation from Financing Corporation
+
+&emsp;Members of the Directorate shall receive no pay, allowances, or benefits from the Financing Corporation by reason of their service on the Directorate.
+
+#### (c) Powers of Financing Corporation
+
+The Financing Corporation shall have only the following powers, subject to the other provisions of this section and such regulations, orders, and directions as the Federal Housing Finance Board may prescribe:
+
+&emsp;(1) To issue nonvoting capital stock to the Federal Home Loan Banks.
+
+&emsp;(2) To invest in any security issued by the Federal Savings and Loan Insurance Corporation under section 1725(b) of this title prior to August 9, 1989, and thereafter to transfer the proceeds of any obligation issued by the Financing Corporation to the FSLIC Resolution Fund.
+
+&emsp;(3) To issue debentures, bonds, or other obligations and to borrow, to give security for any amount borrowed, and to pay interest on (and any redemption premium with respect to) any such obligation or amount.
+
+&emsp;(4) To impose assessments in accordance with subsection (f) of this section.
+
+&emsp;(5) To adopt, alter, and use a corporate seal.
+
+&emsp;(6) To have succession until dissolved.
+
+&emsp;(7) To enter into contracts.
+
+&emsp;(8) To sue and be sued in its corporate capacity, and to complain and defend in any action brought by or against the Financing Corporation in any State or Federal court of competent jurisdiction.
+
+&emsp;(9) To exercise such incidental powers not inconsistent with the provisions of this section as are necessary or appropriate to carry out the provisions of this section.
+
+#### (d) Capitalization of Financing Corporation
+
+#### (1) Purchase of capital stock by Federal Home Loan Banks
+
+#### (A) In general
+
+&emsp;&emsp;Each Federal Home Loan Bank shall invest in nonvoting capital stock of the Financing Corporation at such times and in such amounts as the Federal Housing Finance Board may prescribe under this subsection.
+
+#### (B) Par value; transferability
+
+&emsp;&emsp;Each share of stock issued by the Financing Corporation to a Federal Home Loan Bank shall have par value in an amount determined by the Federal Housing Finance Board and shall be transferable only among the Federal Home Loan Banks in the manner and to the extent prescribed by the Federal Housing Finance Board at not less than par value.
+
+#### (2) Aggregate dollar amount limitation on all investments
+
+&emsp;The aggregate amount of funds invested by all Federal Home Loan Banks in nonvoting capital stock of the Financing Corporation shall not exceed $3,000,000,000.
+
+#### (3) Maximum investment amount limitation for each Federal Home Loan Bank
+
+&emsp;The cumulative amount of funds invested in nonvoting capital stock of the Financing Corporation by each Federal Home Loan Bank shall not exceed the aggregate amount of—
+
+&emsp;&emsp;(A) the sum of—
+
+&emsp;&emsp;&emsp;(i) the reserves maintained by such bank on December 31, 1985, pursuant to the requirement contained in the first 2 sentences of section 1436 of this title; and
+
+&emsp;&emsp;&emsp;(ii) the undivided profits (as defined in paragraph (7)) of such bank on such date; and
+
+&emsp;&emsp;(B) the sum of—
+
+&emsp;&emsp;&emsp;(i) the amounts added to reserves after December 31, 1985, pursuant to the requirement contained in the first 2 sentences of section 1436 of this title; and
+
+&emsp;&emsp;&emsp;(ii) the undivided profits of such bank accruing after such date.
+
+#### (4) Pro rata distribution of 1st $1,000,000,000 invested in Financing Corporation by Home Loan Banks
+
+&emsp;Of the first $1,000,000,000 in the aggregate which the Thrift Depositor Protection Oversight Board pursuant to section 1441b of this title or the Federal Housing Finance Board under this section (as the case may be) may require the Federal Home Loan Banks collectively to invest in the stock of the Funding Corporation or invest in the capital stock of the Financing Corporation, respectively, the amount which each Federal Home Loan Bank (or any successor to such Bank) shall invest shall be determined by the Thrift Depositor Protection Oversight Board or the Federal Housing Finance Board (as the case may be) by multiplying the aggregate amount of such payment or investment by all Banks by the percentage appearing in the following table for each such Bank:
+
+&nbsp;
+
+| &nbsp; | &nbsp; |
+| :--- | ---: |
+| <b>Bank</b> | <b>Percentage</b> |
+| Federal Home Loan Bank of Boston | 1\.8629 |
+| Federal Home Loan Bank of New York | 9\.1006 |
+| Federal Home Loan Bank of Pittsburgh | 4\.2702 |
+| Federal Home Loan Bank of Atlanta | 14\.4007 |
+| Federal Home Loan Bank of Cincinnati | 8\.2653 |
+| Federal Home Loan Bank of Indianapolis | 5\.2863 |
+| Federal Home Loan Bank of Chicago | 9\.6886 |
+| Federal Home Loan Bank of Des Moines | 6\.9301 |
+| Federal Home Loan Bank of Dallas | 8\.8181 |
+| Federal Home Loan Bank of Topeka | 5\.2706 |
+| Federal Home Loan Bank of San Francisco | 19\.9644 |
+| Federal Home Loan Bank of Seattle | 6\.1422 |
+
+#### (5) Pro rata distribution of amounts required to be invested in excess of $1,000,000,000
+
+&emsp;With respect to any amount in excess of the $1,000,000,000 amount referred to in paragraph (4) which the Federal Housing Finance Board may require the Federal Home Loan Banks to invest in capital stock of the Financing Corporation under this subsection, the amount which each Federal Home Loan Bank (or any successor to such bank) shall invest shall be determined by the Federal Housing Finance Board by multiplying such excess amount by the percentage arrived at by dividing—
+
+&emsp;&emsp;(A) the sum of the total assets (as of the most recent December 31) held by all Savings Association Insurance Fund members which are members of such bank; by
+
+&emsp;&emsp;(B) the sum of the total assets (as of such date) held by all Savings Association Insurance Fund members which are members of any Federal Home Loan Bank.
+
+#### (6) Special provisions relating to maximum amount limitations
+
+#### (A) In general
+
+&emsp;&emsp;If the amount any Federal Home Loan Bank is required to invest in capital stock of the Financing Corporation pursuant to a determination by the Federal Housing Finance Board under paragraph (5) (or under subparagraph (B) of this paragraph) exceeds the maximum investment amount applicable with respect to such bank under paragraph (3) at the time of such determination (hereinafter in this paragraph referred to as the “excess amount”)—
+
+&emsp;&emsp;&emsp;(i) the Federal Housing Finance Board shall require each remaining Federal Home Loan Bank to invest (in addition to the amount determined under paragraph (5) for such remaining bank and subject to the maximum investment amount applicable with respect to such remaining bank under paragraph (3) at the time of such determination) in such capital stock on behalf of the bank in the amount determined under subparagraph (B);
+
+&emsp;&emsp;&emsp;(ii) the Federal Housing Finance Board shall require the bank to subsequently purchase the excess amount of capital stock from the remaining banks in the manner described in subparagraph (C); and
+
+&emsp;&emsp;&emsp;(iii) the requirements contained in subparagraphs (D) and (E) relating to the use of net earnings shall apply to such bank until the bank has purchased all of the excess amount of capital stock.
+
+#### (B) Allocation of excess amount among remaining Home Loan Banks
+
+&emsp;&emsp;The amount each remaining Federal Home Loan Bank shall be required to invest under subparagraph (A)(i) is the amount determined by the Federal Housing Finance Board by multiplying the excess amount by the percentage arrived at by dividing—
+
+&emsp;&emsp;&emsp;(i) the amount of capital stock of the Financing Corporation held by such remaining bank at the time of such determination; by
+
+&emsp;&emsp;&emsp;(ii) the aggregate amount of such stock held by all remaining banks at such time.
+
+#### (C) Purchase procedure
+
+&emsp;&emsp;The bank on whose behalf an investment in capital stock is made under subparagraph (A)(i) shall purchase, annually and at the issuance price, from each remaining bank an amount of such stock determined by the Federal Housing Finance Board by multiplying the amount available for such purchases (at the time of such determination) by the percentage determined under subparagraph (B) with respect to such remaining bank until the aggregate amount of such capital stock has been purchased by the bank.
+
+#### (D) Limitation on dividends
+
+&emsp;&emsp;The amount of dividends which may be paid for any year by a bank on whose behalf an investment is made under subparagraph (A)(i) shall not exceed an amount equal to 1/2 of the net earnings of the bank for the year.
+
+#### (E) Transfer to account for purchase of stock required
+
+&emsp;&emsp;Of the net earnings for any year of a bank on whose behalf an investment is made under subparagraph (A)(i), such amount as is necessary to make the purchases of stock required under subparagraph (A)(ii) shall be placed in a reserve account (established in such manner as the Federal Housing Finance Board shall prescribe by regulations) the balance in which shall be available only for such purchases.
+
+#### (7) Undivided profits defined
+
+&emsp;For purposes of paragraph (3), the term “undivided profits” means retained earnings minus the sum of—
+
+&emsp;&emsp;(A) that portion required to be added to reserves maintained pursuant to the first two sentences of section 1436 of this title; and
+
+&emsp;&emsp;(B) the dollar amounts held by the respective Federal Home Loan Banks in special dividend stabilization reserves on December 31, 1985, as determined under the following table:
+
+&nbsp;
+
+| &nbsp; | &nbsp; |
+| :--- | ---: |
+| <b>Bank</b> | <b>Dollar amount</b> |
+| Federal Home Loan Bank of Boston | $3.2 million |
+| Federal Home Loan Bank of New York | 7\.7 million |
+| Federal Home Loan Bank of Pittsburgh | 5\.2 million |
+| Federal Home Loan Bank of Atlanta | 12\.3 million |
+| Federal Home Loan Bank of Cincinnati | 5\.9 million |
+| Federal Home Loan Bank of Indianapolis | 37\.4 million |
+| Federal Home Loan Bank of Chicago | 6\.0 million |
+| Federal Home Loan Bank of Des Moines | 32\.7 million |
+| Federal Home Loan Bank of Dallas | 45\.0 million |
+| Federal Home Loan Bank of Topeka | 13\.7 million |
+| Federal Home Loan Bank of San Francisco | 21\.9 million |
+| Federal Home Loan Bank of Seattle | 33\.6 million |
+
+#### (e) Obligations of Financing Corporation
+
+#### (1) Limitation on amount of outstanding obligations
+
+&emsp;The aggregate amount of obligations of the Financing Corporation which may be outstanding at any time (as determined by the Federal Housing Finance Board) shall not exceed the lesser of—
+
+&emsp;&emsp;(A) an amount equal to the greater of—
+
+&emsp;&emsp;&emsp;(i) 5 times the amount of the nonvoting capital stock of the Financing Corporation which is outstanding at such time; or
+
+&emsp;&emsp;&emsp;(ii) the sum of the face amounts (the amount of principal payable at maturity) of securities described in subsection (g)(2) of this section which are held at such time in the segregated account established pursuant to such subsection; or
+
+&emsp;&emsp;(B) $10,825,000,000.
+
+#### (2) Termination of borrowing authority
+
+&emsp;No obligation of the Financing Corporation shall be issued after December 12, 1991.
+
+#### (3) Limitation on term of obligations
+
+&emsp;No obligation of the Financing Corporation may be issued which matures—
+
+&emsp;&emsp;(A) more than 30 years after the date of issue; or
+
+&emsp;&emsp;(B) after December 31, 2026.
+
+#### (4) Investment of United States funds in obligations
+
+&emsp;Obligations issued under this section by the Financing Corporation with the approval of the Federal Housing Finance Board shall be lawful investments, and may be accepted as security, for all fiduciary, trust, and public funds the investment or deposit of which shall be under the authority or control of the United States or any officer of the United States.
+
+#### (5) Market for obligations
+
+&emsp;All persons having the power to invest in, sell, underwrite, purchase for their own accounts, accept as security, or otherwise deal in obligations of the Federal Home Loan Banks shall also have the power to do so with respect to obligations of the Financing Corporation.
+
+#### (6) No full faith and credit of the United States
+
+&emsp;Obligations of the Financing Corporation and the interest payable on such obligations shall not be obligations of, or guaranteed as to principal or interest by, the Federal Home Loan Banks, the United States, or the FSLIC Resolution Fund and the obligations shall so plainly state.
+
+#### (7) Tax exempt status
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), obligations of the Financing Corporation shall be exempt from tax both as to principal and interest to the same extent as any obligation of a Federal Home Loan Bank is exempt from tax under section 1433 of this title.
+
+#### (B) Exception
+
+&emsp;&emsp;The Financing Corporation, like the Federal Home Loan Banks, shall be treated as an agency of the United States for purposes of the first sentence of section 3124(b) of title 31 (relating to determination of tax status of interest on obligations).
+
+#### (8) Obligations are exempt securities
+
+&emsp;Notwithstanding paragraph (7),<sup>1</sup> obligations of the Financing Corporation shall be deemed to be exempt securities (within the meaning of laws administered by the Securities and Exchange Commission) to the same extent as securities which are direct obligations of the United States or are guaranteed as to principal or interest by the United States.
+
+#### (9) Minority participation in public offerings
+
+&emsp;The Chairperson of the Federal Housing Finance Board and the Directorate shall ensure that minority owned or controlled commercial banks, investment banking firms, underwriters, and bond counsels throughout the United States have an opportunity to participate to a significant degree in any public offering of obligations issued under this section.
+
+#### (f) Sources of funds for interest payments; Financing Corporation assessment authority
+
+The Financing Corporation shall obtain funds for anticipated interest payments, issuancecosts, and custodial fees on obligations issued hereunder from the following sources:
+
+#### (1) Preenactment assessments
+
+&emsp;The Financing Corporation assessments which were assessed on insured institutions pursuant to this section as in effect prior to August 9, 1989.
+
+#### (2) New assessment authority
+
+&emsp;To the extent the amounts available pursuant to paragraph (1) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees, the Financing Corporation, with the approval of the Board of Directors of the Federal Deposit Insurance Corporation, shall assess against each Savings Association Insurance Fund member an assessment (in the same manner as assessments are assessed against such members by the Federal Deposit Insurance Corporation under section 1817 of this title), except that—
+
+&emsp;&emsp;(A) the sum of—
+
+&emsp;&emsp;&emsp;(i) the amount assessed under this paragraph; and
+
+&emsp;&emsp;&emsp;(ii) the amount assessed by the Funding Corporation under section 1441b of this title;
+
+> &emsp;&emsp;shall not exceed the amount authorized to be assessed against Savings Association Insurance Fund members pursuant to section 1817 of this title;
+
+&emsp;&emsp;(B) the Financing Corporation shall have first priority to make the assessment; and
+
+&emsp;&emsp;(C) the amount of the applicable assessment determined under such section 1817 of this title shall be reduced by the sum described in subparagraph (A) of this paragraph.
+
+#### (3) Receivership proceeds
+
+&emsp;To the extent the amounts available pursuant to paragraphs (1) and (2) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees, and if the funds are not required by the Resolution Funding Corporation to provide funds for the Funding Corporation Principal Fund under section 1441b of this title, the Federal Deposit Insurance Corporation shall transfer to the Financing Corporation, from the liquidating dividends and payments made on claims received by the FSLIC Resolution Fund (established under section 1821a of this title) from receiverships, the remaining amount of funds necessary for the Financing Corporation to make interest payments.
+
+#### (g) Use and disposition of assets of Financing Corporation not invested in FSLIC
+
+#### (1) In general
+
+&emsp;Subject to such regulations, restrictions, and limitations as may be prescribed by the Federal Housing Finance Board, assets of the Financing Corporation, which are not invested in capital certificates or capital stock issued by the Federal Savings and Loan Insurance Corporation under section 1725(b)(1)(A) of this title before August 9, 1989, and after August 9, 1989, in capital certificates issued by the FSLIC Resolution Fund, shall be invested in—
+
+&emsp;&emsp;(A) direct obligations of the United States;
+
+&emsp;&emsp;(B) obligations, participations, or other instruments of, or issued by, the Federal National Mortgage Association or the Government National Mortgage Association;
+
+&emsp;&emsp;(C) mortgages, obligations, or other securities for sale by, or which have been disposed of by, the Federal Home Loan Mortgage Corporation under section 1454 or 1455 of this title; or
+
+&emsp;&emsp;(D) any other security in which it is lawful for fiduciary and trust funds to be invested under the laws of any State.
+
+#### (2) Segregated account for zero coupon instruments held to assure payment of principal
+
+&emsp;The Financing Corporation shall invest in, and hold in a segregated account, noninterest bearing instruments—
+
+&emsp;&emsp;(A) which are securities described in paragraph (1); and
+
+&emsp;&emsp;(B) the total of the face amounts (the amount of principal payable at maturity) of which is approximately equal to the aggregate amount of principal on the obligations of the Financing Corporation,
+
+> &emsp;to assure the repayment of principal on obligations of the Financing Corporation. For purposes of the foregoing, the Financing Corporation shall be deemed to hold noninterest bearing instruments that it lends temporarily to primary United States Treasury dealers in order to enhance market liquidity and facilitate deliveries, provided that United States Treasury securities of equal or greater value have been delivered as collateral.
+
+#### (3) Dollar amount limitation on investment in zero coupon instruments for segregated account
+
+&emsp;The aggregate amount invested by the Financing Corporation under paragraph (2) shall not exceed $2,200,000,000 (as determined on the basis of the purchase price).
+
+#### (4) Exception for payment of issuance costs, interest, and custodian fees
+
+&emsp;Notwithstanding the requirements of paragraph (1), the assets of the Financing Corporation referred to in paragraph (1) which are not invested under paragraph (2) may be used to pay—
+
+&emsp;&emsp;(A) issuance costs;
+
+&emsp;&emsp;(B) any interest on (and any redemption premium with respect to) any obligation of the Financing Corporation; and
+
+&emsp;&emsp;(C) custodian fees.
+
+#### (5) Definitions
+
+&emsp;For purposes of this subsection—
+
+#### (A) Issuance costs
+
+&emsp;&emsp;The term “issuance costs”—
+
+&emsp;&emsp;&emsp;(i) means issuance fees and commissions incurred by the Financing Corporation in connection with the issuance or servicing of any obligation of the Financing Corporation; and
+
+&emsp;&emsp;&emsp;(ii) includes legal and accounting expenses, trustee and fiscal and paying agent charges, costs incurred in connection with preparing and printing offering materials, and advertising expenses, to the extentthat any such cost or expense is incurred by the Financing Corporation in connection with issuing any obligation.
+
+#### (B) Custodian fees
+
+&emsp;&emsp;The term “custodian fee” means—
+
+&emsp;&emsp;&emsp;(i) any fee incurred by the Financing Corporation in connection with the transfer of any security to, or the maintenance of any security in, the segregated account established under paragraph (2); and
+
+&emsp;&emsp;&emsp;(ii) any other expense incurred by the Financing Corporation in connection with the establishment or maintenance of such account.
+
+#### (h) Miscellaneous provisions relating to Financing Corporation
+
+#### (1) Treatment for certain purposes
+
+&emsp;Except as provided in subsection (e)(8)(B) of this section, the Financing Corporation shall be treated as a Federal Home Loan Bank for purposes of sections 1433 and 1443 of this title.
+
+#### (2) Federal Reserve banks as depositaries and fiscal agents
+
+&emsp;The Federal Reserve banks are authorized to act as depositaries for or fiscal agents or custodians of the Financing Corporation.
+
+#### (3) Applicability of certain provisions relating to Government corporation
+
+&emsp;Notwithstanding the fact that no Government funds may be invested in the Financing Corporation, the Financing Corporation shall be treated, for purposes of sections 9105,<sup>2</sup> 9107, and 9108 of title 31, as a mixed-ownership Government corporation which has capital of the Government.
+
+#### (i) Termination of Financing Corporation
+
+#### (1) In general
+
+&emsp;The Financing Corporation shall be dissolved, as soon as practicable, after the earlier of—
+
+&emsp;&emsp;(A) the maturity and full payment of all obligations issued by the Financing Corporation pursuant to this section; or
+
+&emsp;&emsp;(B) December 31, 2026.
+
+#### (2) Federal Housing Finance Board authority to conclude the affairs of Financing Corporation
+
+&emsp;Effective on the date of the dissolution of the Financing Corporation under paragraph (1), the Federal Housing Finance Board may exercise, on behalf of the Financing Corporation, any power of the Financing Corporation which the Federal Housing Finance Board determines to be necessary to settle and conclude the affairs of the Financing Corporation.
+
+#### (j) Regulations
+
+The Federal Housing Finance Board may prescribe such regulations as may be necessary to carry out the provisions of this section, including regulations defining terms used in this section.
+
+#### (k) Definitions
+
+For purposes of this section—
+
+#### (1) Savings Association Insurance Fund member
+
+&emsp;The term “Savings Association Insurance Fund member” means a savings association which is a Savings Association Insurance Fund member as defined by section 1817(<i>l</i>) of this title.
+
+#### (2) Directorate
+
+&emsp;The term “Directorate” means the directorate established in the manner provided in subsection (b)(1) of this section to manage the Financing Corporation.
+
+#### (3) Net earnings
+
+&emsp;The term “net earnings” means net earnings without reduction for any chargeoffs or expenses incurred by a Bank in connection with the purchase of capital stock of the Financing Corporation or the purchase of stock of the Funding Corporation required by the Thrift Depositor Protection Oversight Board under subsections (e) and (f) of section 1441b of this title.
+
+(July 22, 1932, ch. 522, §21, as added Aug. 10, 1987, Pub. L. 100–86, title III, §302, 101 Stat. 585; amended Aug. 9, 1989, Pub. L. 101–73, title V, §512, title VII, §§701(b)(2), 713, 103 Stat. 406, 412, 419; Dec. 12, 1991, Pub. L. 102–233, title I, §104, title III, §302(b), 105 Stat. 1762, 1767; Oct. 28, 1992, Pub. L. 102–550, title XVI, §1611(c), 106 Stat. 4090.)
+
+#### References in Text
+
+Section 1725 of this title, referred to in subsecs. (c)(2), (e)(2)(A), and (g)(1), was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
+
+Section 9105 of title 31, referred to in subsec. (h)(3), was amended generally by Pub. L. 101–576, title III, §305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, no longer contains provisions relating to mixed-ownership Government corporations having capital of the Government.
+
+#### Prior Provisions
+
+A prior section 1441, act July 22, 1932, ch. 522, §21, 47 Stat. 738, related to unlawful acts and penalties, prior to repeal by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948. See sections 433, 493, 657, 659, 660, 709, 1006, 1014, and 2117 of Title 18, Crimes and Criminal Procedure.
+
+#### Amendments
+
+1992—Subsec. (e)(2). Pub. L. 102–550 made technical amendment to reference to December 12, 1991, to correct reference to corresponding provisions of original act.
+
+1991—Subsec. (d)(4). Pub. L. 102–233, §302(b), substituted “Thrift Depositor Protection Oversight Board” for “Oversight Board” in two places.
+
+Subsec. (e)(2). Pub. L. 102–233, §104, amended par. (2) generally, substituting provisions setting forth termination date of Financing Corporation borrowing authority for provisions relating to investment of proceeds of obligations of such Corporation.
+
+Subsec. (k)(3). Pub. L. 102–233, §302(b), substituted “Thrift Depositor Protection Oversight Board” for “Oversight Board”.
+
+1989—Subsec. (a). Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Board”.
+
+Subsec. (b)(1)(B). Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Federal Home Loan Bank Board”.
+
+Subsec. (b)(5). Pub. L. 101–73, §701(b)(2), substituted “Chairperson” for “Chairman”.
+
+Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Federal Home Loan Bank Board”.
+
+Subsecs. (b)(6)(B), (7)(B), (8), (c). Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Board” wherever appearing.
+
+Subsec. (c)(2). Pub. L. 101–73, §512(3), inserted “prior to August 9, 1989, and thereafter to transfer the proceeds of any obligation issued by the Financing Corporation to the FSLIC Resolution Fund”.
+
+Subsec. (c)(9). Pub. L. 101–73, §512(4), struck out “or section 1725(b) of this title” after “with the provisions of this section”.
+
+Subsec. (d)(1). Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Board” wherever appearing.
+
+Subsec. (d)(4). Pub. L. 101–73, §512(5), amended generally the portion of par. (4) appearing before the table. Prior to amendment, such portion read as follows: “With respect to the first $1,000,000,000 which the Board may require the Federal Home Loan Banks to invest in capital stock of the Financing Corporation under this subsection, the amount which each Federal Home Loan Bank (or any successor to such bank) shall invest shall be determined by the Board by applying to the total amount of such investment by all such banks the percentage appearing in the following table for each such bank:”.
+
+Subsec. (d)(5). Pub. L. 101–73, §512(6), substituted “the $1,000,000,000 amount referred to in paragraph (4) which the Federal Housing Finance Board” for “$1,000,000,000 which the Board”.
+
+Pub. L. 101–73, §512(2), substituted “by the Federal Housing Finance Board” for “by the Board”.
+
+Subsec. (d)(5)(A), (B). Pub. L. 101–73, §512(1), which directed the amendment of this section by substituting “Savings Association Insurance Fund member” for “insured institution” wherever appearing, was executed by substituting “Savings Association Insurance Fund members” for “insured institutions”, as the probable intent of Congress.
+
+Subsec. (d)(6)(A). Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Board” in introductory provisions and in cls. (i) and (ii).
+
+Subsec. (d)(6)(A)(iii). Pub. L. 101–73, §512(7), struck out “available for dividends” after “use of net earnings”.
+
+Subsec. (d)(6)(B), (C). Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Board”.
+
+Subsec. (d)(6)(D). Pub. L. 101–73, §512(8), struck out “available for dividends” after “net earnings”.
+
+Subsec. (d)(6)(E). Pub. L. 101–73, §512(9), struck out “available for dividends” after “Of the net earnings”.
+
+Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Board”.
+
+Subsec. (d)(6)(F). Pub. L. 101–73, §512(10), struck out subpar. (F) which defined “net earnings available for dividends”.
+
+Subsec. (e)(1). Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Board”.
+
+Subsec. (e)(2). Pub. L. 101–73, §512(12)(A), redesignated par. (3) as (2) and struck out former par. (2) which set an annual limit on net new borrowing by the Financing Corporation.
+
+Pub. L. 101–73, §512(11), which directed amendment of par. (2)(A), was executed, as the probable intent of Congress, to the introductory text of par. (2), to par. (2)(A), and to par. (2)(B), as follows: striking out “used to” after “issued by the Financing Corporation” in the introductory text, inserting “used to” before “purchase” and inserting “prior to August 9, 1989, and thereafter transferred to the FSLIC Resolution Fund” before “; or” in subpar. (A), and by inserting “used to” before “refund” in subpar. (B).
+
+Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Board”.
+
+Subsec. (e)(3). Pub. L. 101–73, §512(12)(A), redesignated par. (4) as (3). Former par. (3) redesignated (2).
+
+Subsec. (e)(4). Pub. L. 101–73, §512(2), (12)(A), redesignated par. (5) as (4) and substituted “Federal Housing Finance Board” for “Board”. Former par. (4) redesignated (3).
+
+Subsec. (e)(5). Pub. L. 101–73, §512(12)(A), redesignated par. (6) as (5). Former par. (5) redesignated (4).
+
+Subsec. (e)(6). Pub. L. 101–73, §512(12), redesignated par. (7) as (6) and substituted “FSLIC Resolution Fund” for “Federal Savings and Loan Insurance Corporation”. Former par. (6) redesignated (5).
+
+Subsec. (e)(7), (8). Pub. L. 101–73, §512(12)(A), redesignated pars. (8) and (9) as (7) and (8), respectively. Former par. (7) redesignated (6).
+
+Subsec. (e)(9), (10). Pub. L. 101–73, §§512(2), (12)(A), 701(b)(2), redesignated par. (10) as (9) and substituted “Chairperson” for “Chairman” and “Federal Housing Finance Board” for “Board”. Former par. (9) redesignated (8).
+
+Subsec. (f). Pub. L. 101–73, §512(13), amended subsec. (f) generally, substituting provisions enumerating various sources from which Financing Corporation shall obtain funds for anticipated interest payments, issuance costs, and custodial fees on obligations issued from preenactment assessments, new assessment authority, and receivership proceeds, for former provisions which had outlined assessment authority of Financing Corporation, setting up supplementary assessment authority, setting limits on total amount assessed, and providing for termination assessments.
+
+Subsec. (g)(1). Pub. L. 101–73, §512(14), inserted reference to before August 9, 1989, and after August 9, 1989, in capital certificates issued by the FSLIC Resolution Fund.
+
+Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Board”.
+
+Subsec. (g)(2). Pub. L. 101–73, §512(15), inserted at end “For purposes of the foregoing, the Financing Corporation shall be deemed to hold noninterest bearing instruments that it lends temporarily to primary United States Treasury dealers in order to enhance market liquidity and facilitate deliveries, provided that United States Treasury securities of equal or greater value have been delivered as collateral.”
+
+Subsec. (i). Pub. L. 101–73, §713, redesignated subsec. (j) as (i) and struck out former subsec. (i) which related to Federal Savings and Loan Insurance Corporation Industry Advisory Committee.
+
+Subsec. (i)(1)(A). Pub. L. 101–73, §512(16), added subpar. (A) and struck out former subpar. (A) which read as follows: “the date by which all stock purchased by the Financing Corporation in the Federal Savings and Loan Insurance Corporation has been retired; or”.
+
+Subsec. (i)(2). Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Board” wherever appearing.
+
+Subsec. (j). Pub. L. 101–73, §713, redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
+
+Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Board”.
+
+Subsec. (k). Pub. L. 101–73, §713, redesignated subsec. (<i>l</i>) as (k). Former subsec. (k) redesignated (j).
+
+Subsec. (k)(1). Pub. L. 101–73, §512(17)(A), substituted definition of “Savings Association Insurance Fund member” for definition of “insured institution”.
+
+Subsec. (k)(2). Pub. L. 101–73, §512(17)(B), redesignated par. (3) as (2) and struck out former par. (2) which defined “insured member”.
+
+Subsec. (k)(3), (4). Pub. L. 101–73, §512(10), (17)(B), added par. (4) and redesignated pars. (3) and (4) as (2) and (3), respectively.
+
+Subsec. (<i>l</i>). Pub. L. 101–73, §713, redesignated subsec. (<i>l</i>) as (k).
+
+#### Effective Date of 1992 Amendment
+
+Section 1618 of Pub. L. 102–550 provided that: “Except as otherwise provided by a specific provision of this subtitle \[subtitle B (§§1611–1618) of title XVI of Pub. L. 102–550, amending this section, sections 1441a, 1441b, 1821, 3345, and 3348 of this title and provisions set out as a note under section 1441a of this title\], the amendments made by this subtitle to the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233; see Short Title of 1991 Amendment note set out under section 1421 of thistitle\] and the Federal Home Loan Bank Act \[12 U.S.C. 1421 et seq.\] shall take effect as if such amendments had been included in the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233\] as of the date of the enactment of such Act \[Dec. 12, 1991\].”
+
+#### Effective Date of 1991 Amendment
+
+Section 318 of Pub. L. 102–233 provided that: “The effective date of the Resolution Trust Corporation Thrift Depositor Protection Reform Act of 1991 \[title III of Pub. L. 102–233, amending this section, sections 1441a, 1441b, 1786, 1818, 1821, 1833b, and 1833e of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, and section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, enacting provisions set out as notes under section 1441a of this title, and amending provisions set out as notes under sections 1437 and 1441a of this title\] shall be February 1, 1992.”
+
+#### Transfer of Functions
+
+Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
+
+#### State Cooperative Banks Deemed Insured Institutions Under Subsection (f)(4)(F)
+
+Pub. L. 100–202, §101(f) \[title III, §301\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–211, provided that any cooperative bank established under the law of any State which was directed by the State banking authority to obtain Federal deposit insurance between Jan. 1, 1985, and Jan. 1, 1987, would be deemed to be an insured institution described in 12 U.S.C. 1441(f)(4)(F).
+
+#### Sunset and Savings Provision
+
+Section 416 of Pub. L. 100–86 provided that:
+
+“(a)
+
+In General.—The following provisions shall cease to be effective on the date that a notice is published in the Federal Register by the Financing Corporation pursuant to subsection (b):
+
+&emsp;“(1) Paragraphs (2), (3), and (5) of—
+
+&emsp;&emsp;“(A) section 9(a) of the Home Owners’ Loan Act of 1933 \[12 U.S.C. 1467(a)(2), (3), (5)\]; and
+
+&emsp;&emsp;“(B) section 415(a) of the National Housing Act \[12 U.S.C. 1730h(a)(2), (3), (5)\],
+
+> &emsp;(as added by subsections (a) and (b), respectively, of section 402 of this title).
+
+&emsp;“(2) Section 10 of the Home Owners’ Loan Act of 1933 \[12 U.S.C. 1467a\] and section 416 of the National Housing Act \[12 U.S.C. 1730i\] (as added by subsections (a) and (b), respectively, of section 404 of this title).
+
+&emsp;“(3) Paragraph (6) of section 406(f) of the National Housing Act \[12 U.S.C. 1729(f)(6)\] (as added by section 405 of this title).
+
+&emsp;“(4) Section 22A of the Federal Home Loan Bank Act \[12 U.S.C. 1442a\] (as added by section 407(d) of this title).
+
+&emsp;“(5) Section 411 of this title \[12 U.S.C. 1437 note\].
+
+“(b)
+
+Notice of Completion of Net New Borrowing by Financing Corporation.—When the Financing Corporation established pursuant to section 21 of the Federal Home Loan Bank Act \[12 U.S.C. 1441\] has completed all net new borrowing under such section, the Financing Corporation shall publish a notice of such fact in the Federal Register. \[Notice that the Financing Corporation had completed all net new borrowings and would issue no additional obligations after Dec. 12, 1991, was published Mar. 30, 1992, 57 F.R. 10763.\]
+
+“(c)
+
+Savings Provision.—The termination by subsection (a) of the effectiveness of any provision described in such subsection shall not be construed to affect or limit any authority of the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation to prescribe any regulation or engage in any activity with respect to any association or insured institution under any other provision of law.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1430, 1436, 1441b, 1821a of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should refer to paragraph (6) in view of the renumbering of paragraph (7) as (6) by Pub. L. 101–73.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+

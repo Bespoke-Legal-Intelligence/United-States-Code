@@ -1,0 +1,30 @@
+### §1117. Annual report
+
+The National Transportation Safety Board shall submit a report to Congress on July 1 of each year. The report shall include—
+
+&emsp;(1) a statistical and analytical summary of the transportation accident investigations conducted and reviewed by the Board during the prior calendar year;
+
+&emsp;(2) a survey and summary of the recommendations made by the Board to reduce the likelihood of recurrence of those accidents together with the observed response to each recommendation;
+
+&emsp;(3) a detailed appraisal of the accident investigation and accident prevention activities of other departments, agencies, and instrumentalities of the United States Government and State and local governmental authorities having responsibility for those activities under a law of the United States or a State; and
+
+&emsp;(4) an evaluation conducted every 2 years of transportation safety and recommendations for legislative and administrative action and change.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 751.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+1117
+
+49 App.:1904.
+
+Jan. 3, 1975, Pub. L. 93–633, §305, 88 Stat. 2171.
+
+In this section, before clause (1), the words “but need not be limited to” are omitted as surplus. In clause (2), the words “in such detail as the Board deems advisable” are omitted as surplus. In clause (3), the words “departments, agencies, and instrumentalities of the United States Government and State and local governmental authorities” are substituted for “other government agencies” for clarity and consistency in the revised title and with other titles of the United States Code. The words “for those activities” are substituted for “in this field” for clarity. In clause (4), the word “evaluation” is substituted for “appraisal and evaluation and review” because it is inclusive.
+

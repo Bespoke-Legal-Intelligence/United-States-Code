@@ -1,0 +1,62 @@
+### §460qq. Establishment
+
+#### (a) Designation of area; revision of boundaries
+
+In furtherance of the findings and purposes of this subchapter, certain lands in the Allegheny National Forest, Pennsylvania, which comprise approximately twenty-three thousand one hundred acres, as generally depicted on a map entitled “Allegheny National Recreation Area—Proposed”, dated March 1984, are hereby designated as the Allegheny National Recreation Area (hereinafter in this subchapter referred to as the “national recreation area”). The Secretary of Agriculture may revise the boundaries of the national recreation area to correct errors or to include additional lands acquired adjacent to the area.
+
+#### (b) Description of purposes
+
+The national recreation area shall be managed for the purposes of—
+
+&emsp;(1) outdoor recreation including, but not limited to, hunting, fishing, hiking, backpacking, camping, nature study, and the use of motorized and nonmotorized boats on the Allegheny Reservoir;
+
+&emsp;(2) the conservation of fish and wildlife populations and habitat;
+
+&emsp;(3) the protection of watersheds and the maintenance of free flowing streams and the quality of ground and surface waters in accordance with applicable law;
+
+&emsp;(4) the conservation of scenic, cultural, and other natural values of the area;
+
+&emsp;(5) allowing the development of privately owned oil, gas, and mineral resources subject to reasonable conditions prescribed by the Secretary under subsection (c) of this section for the protection of the area; and
+
+&emsp;(6) minimizing, to the extent practicable, environmental disturbances caused by resource development, consistent with the exercise of private property rights.
+
+#### (c) Administration; plan of operations
+
+The Secretary shall administer the national recreation area in accordance with the purposes described in subsection (b) of this section and the laws, rules, and regulations applicable to the National Forest System. Subject to valid existing rights, any activity associated with the exploration, development, or transportation of oil, gas, or other minerals shall be subject to such reasonable conditions as the Secretary may prescribe, and in accordance with the management plan described in subsection (d) of this section, to achieve the purposes, described in subsection (b) of this section, of the national recreation area. For any such activity, the Secretary shall require a plan of operations which shall include provisions for adequate reclamation, including, to the extent practicable, revegetation and rehabilitation after each phase of operations is completed.
+
+#### (d) Management plan
+
+The Secretary shall prepare, and may from time to time amend, a management plan for the national recreation area. The plan may be prepared in conjunction with, or incorporated with, ongoing planning for the Allegheny National Forest in accordance with the National Forest Management Act of 1976. The initial management plan and significant amendments or revisions shall be accompanied by an environmental impact statement prepared in accordance with the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
+
+#### (e) Hunting, fishing, and trapping
+
+The Secretary shall permit hunting, fishing, and trapping within the boundaries of the national recreation area in accordance with applicable Federal and State laws except that the Secretary may designate zones where, and establish periods when, no hunting, fishing, or trapping shall be permitted for reasons of public safety, administration, or public use and enjoyment. Except in emergencies, any prohibitions or restrictions made pursuant to this subsection shall be put into effect only after consultation with the appropriate State fish and game department.
+
+#### (f) Withdrawal of minerals from appropriation and disposition
+
+Subject to valid existing rights, the minerals in all federally owned lands within the national recreation area designated by this subchapter are withdrawn from all forms of appropriation under the mining laws and from disposition under all laws pertaining to mineral leasing, including all laws pertaining to geothermal leasing, and all amendments thereto.
+
+#### (g) Other National Forest management areas unaffected
+
+Nothing in this section shall be construed to apply to or have any effect on any other management area of the National Forest System, including any wilderness area or any other national recreation area.
+
+(Pub. L. 98–585, §6, Oct. 30, 1984, 98 Stat. 3101.)
+
+#### References in Text
+
+This subchapter, referred to in subsecs. (a) and (f), was in the original “this Act”, meaning Pub. L. 98–585, Oct. 30, 1984, 98 Stat. 3100, known as the Pennsylvania Wilderness Act of 1984, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+
+The National Forest Management Act of 1976, referred to in subsec. (d), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
+
+The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+The mining laws, referred to in subsec. (f), are classified generally to Title 30, Mineral Lands and Mining.
+
+Mineral leasing laws, referred to in subsec. (f), have been defined in sections 351, 505, 530, and 541e of Title 30, to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+
+Geothermal leasing laws, referred to in subsec. (f), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
+
+#### Findings and Purpose; Map and Description
+
+For Congressional findings, statement of purpose, and requirements for filing of maps and legal descriptions under Pub. L. 98–585, Pennsylvania Wilderness Act of 1984, see sections 2, 3, and 7 of Pub. L. 98–585, Oct. 30, 1984, 98 Stat. 3100, 3102.
+

@@ -1,0 +1,14 @@
+### §621. Liability of shareholders on unpaid subscriptions; membership of corporation in Federal reserve bank prohibited
+
+Shareholders in any corporation organized under the provisions of this subchapter shall be liable for the amount of their unpaid stock subscriptions. No such corporation shall become a member of any Federal reserve bank.
+
+(Dec. 23, 1913, ch. 6, §25A (par.), formerly §25(a), as added Dec. 24, 1919, ch. 18, 41 Stat. 378, and renumbered §25A, Dec. 19, 1991, Pub. L. 102–242, title I, §142(e)(2), 105 Stat. 2281.)
+
+#### References in Text
+
+This subchapter, referred to in text, was in the original “this section”, meaning section 25A of act Dec. 23, 1913, which is classified to this subchapter (§611 et seq.).
+
+#### Codification
+
+Section is comprised of a part of section 25A, formerly section 25(a), which was added to act Dec. 23, 1913, ch. 6, by act Dec. 24, 1919.
+

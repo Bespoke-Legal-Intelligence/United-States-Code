@@ -1,0 +1,152 @@
+### §2571 . Definitions
+
+As used in this subchapter—
+
+#### (1) Agreement
+
+&emsp;The term “Agreement” means the Agreement on Technical Barriers to Trade referred to in section 3511(d)(5) of this title.
+
+#### (2) Conformity assessment procedure
+
+&emsp;The term “conformity assessment procedure” means any procedure used, directly or indirectly, to determine that relevant requirements in technical regulations or standards are fulfilled.
+
+#### (3) Federal agency
+
+&emsp;The term “Federal agency” means any of the following within the meaning of chapter 2 of part I of title 5:
+
+&emsp;&emsp;(A) Any executive department.
+
+&emsp;&emsp;(B) Any military department.
+
+&emsp;&emsp;(C) Any Government corporation.
+
+&emsp;&emsp;(D) Any Government-controlled corporation.
+
+&emsp;&emsp;(E) Any independent establishment.
+
+#### (4) International conformity assessment procedure
+
+&emsp;The term “international conformity assessment procedure” means a conformity assessment procedure that is adopted by an international standards organization.
+
+#### (5) International standard
+
+&emsp;The term “international standard” means any standard that is promulgated by an international standards organization.
+
+#### (6) International standards organization
+
+&emsp;The term “international standards organization” means any organization—
+
+&emsp;&emsp;(A) the membership of which is open to representatives, whether public or private, of the United States and at least all Members.<sup>1</sup>
+
+&emsp;&emsp;(B) that is engaged in international standards-related activities.
+
+#### (7) International standards-related activity
+
+&emsp;The term “international standards-related activity” means the negotiation, development, or promulgation of, or any amendment or change to, an international standard, or an international conformity assessment procedure, or both.
+
+#### (8) Member
+
+&emsp;The term “Member” means a WTO member as defined in section 3501(10) of this title.
+
+#### (9) Private person
+
+&emsp;The term “private person” means—
+
+&emsp;&emsp;(A) any individual who is a citizen or national of the United States; and
+
+&emsp;&emsp;(B) any corporation, partnership, association, or other legal entity organized or existing under the law of any State, whether for profit or not for profit.
+
+#### (10) Product
+
+&emsp;The term “product” means any natural or manufactured item.
+
+#### (11) Secretary concerned
+
+&emsp;The term “Secretary concerned” means the Secretary of Commerce with respect to functions under this subchapter relating to nonagricultural products, and the Secretary of Agriculture with respect to functions under this subchapter relating to agricultural products.
+
+#### (12) Trade Representative
+
+&emsp;The term “Trade Representative” means the United States Trade Representative.
+
+#### (13) Standard
+
+&emsp;The term “standard” means a document approved by a recognized body, that provides, for common and repeated use, rules, guidelines, or characteristics for products or related processes and production methods, with which compliance is not mandatory. Such term may also include or deal exclusively with terminology, symbols, packaging, marking, or labeling requirements as they apply to a product, process, or production method.
+
+#### (14) Standards-related activity
+
+&emsp;The term “standards-related activity” means the development, adoption, or application of any standard, technical regulation, or conformity assessment procedure.
+
+#### (15) State
+
+&emsp;The term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam and any other Commonwealth, territory, or possession of the United States.
+
+#### (16) State agency
+
+&emsp;The term “State agency” means any department, agency, or other instrumentality of thegovernment of any State or of any political subdivision of any State.
+
+#### (17) Technical regulation
+
+&emsp;The term “technical regulation” means a document which lays down product characteristics or their related processes and production methods, including the applicable administrative provisions, with which compliance is mandatory. Such term may also include or deal exclusively with terminology, symbols, packaging, marking, or labeling requirements as they apply to a product, process, or production method.
+
+#### (18) United States
+
+&emsp;The term “United States”, when used in a geographical context, means all States.
+
+(Pub. L. 96–39, title IV, §451, July 26, 1979, 93 Stat. 249; Pub. L. 103–182, title III, §351(b)(1), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 103–465, title III, §351(e), Dec. 8, 1994, 108 Stat. 4956.)
+
+#### References in Text
+
+Chapter 2 of part I of title 5, referred to in par. (3), probably means chapter 1 of part I of title 5, which is classified to section 101 et seq. of Title 5, Government Organization and Employees, and which relates to organization of agencies.
+
+#### Amendments
+
+1994—Par. (1). Pub. L. 103–465, §351(e)(1), amended par. (1) generally, substituting “referred to in section 3511(d)(5) of this title” for “approved under section 2503(a) of this title”.
+
+Par. (2). Pub. L. 103–465, §351(e)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘certification system’ means a system—
+
+&emsp;“(A) for determining whether a product conforms with product standards applicable to that product; and
+
+&emsp;“(B) if a product so conforms, for attesting, by means of a document, mark, or other appropriate evidence of conformity, to that conformity.
+
+> Such term also includes any modification of, or change to, any such system.”
+
+Par. (4). Pub. L. 103–465, §351(e)(3), substituted “conformity assessment procedure” for “certification system” in two places.
+
+Par. (6)(A). Pub. L. 103–465, §351(e)(4), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the membership of which is open to representatives, whether public or private, of the United States and—
+
+&emsp;“(i) all Parties to the Agreement, or
+
+&emsp;“(ii) some but not all Parties of the Agreement; and”.
+
+Par. (7). Pub. L. 103–465, §351(e)(5), substituted “conformity assessment procedure” for “certification system”.
+
+Par. (8). Pub. L. 103–465, §351(e)(6), amended heading and text of par. (8) generally. Prior to amendment, text read as follows: “The term ‘Party to the Agreement’ means any foreign country or instrumentality determined by the President to have assumed, and to be applying, the obligations of the Agreement with respect to the United States.”
+
+Par. (13). Pub. L. 103–465, §351(e)(7), amended heading and text of par. (13) generally. Prior to amendment, text read as follows: “The term ‘standard’ means any of the following, and any amendment or change to any of the following:
+
+&emsp;“(A) The specification of the characteristics of a product, including, but not limited to, levels of quality, performance, safety, or dimensions.
+
+&emsp;“(B) Specifications relating to the terminology, symbols, testing and test methods, packaging, or marking or labeling requirements applicable to a product.
+
+&emsp;“(C) Administrative procedures related to the application of any specification referred to in paragraph (A) or (B).”
+
+Par. (14). Pub. L. 103–465, §351(e)(8), substituted “, technical regulation, or conformity assessment procedure” for “or any certification system”.
+
+Pars. (17), (18). Pub. L. 103–465, §351(e)(9), added par. (17) and redesignated former par. (17) as (18).
+
+1993—Par. (12). Pub. L. 103–182 amended par. (12) generally. Prior to amendment, par. (12) read as follows:
+
+“(12)
+
+Special representative.—The term ‘Special Representative’ means the Special Representative for Trade Negotiations.”
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 352 of Pub. L. 103–465, set out as a note under section 2531 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2532, 2575b, 2576b, 2577 of this title.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be “; and”.</i>
+

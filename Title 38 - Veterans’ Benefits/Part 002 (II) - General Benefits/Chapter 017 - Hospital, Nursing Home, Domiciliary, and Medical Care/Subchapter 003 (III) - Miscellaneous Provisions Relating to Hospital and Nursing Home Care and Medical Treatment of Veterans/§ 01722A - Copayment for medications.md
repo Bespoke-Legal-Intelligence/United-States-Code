@@ -1,0 +1,50 @@
+### §1722A. Copayment for medications
+
+(a)(1) Subject to paragraph (2), the Secretary shall require a veteran to pay the United States $2 for each 30-day supply of medication furnished such veteran under this chapter on an outpatient basis for the treatment of a non-service-connected disability or condition. If the amount supplied is less than a 30-day supply, the amount of the charge may not be reduced.
+
+(2) The Secretary may not require a veteran to pay an amount in excess of the cost to the Secretary for medication described in paragraph (1).
+
+(3) Paragraph (1) does not apply—
+
+&emsp;(A) to a veteran with a service-connected disability rated 50 percent or more; or
+
+&emsp;(B) to a veteran whose annual income (as determined under section 1503 of this title) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under section 1521 of this title.
+
+(b) Amounts collected under this section shall be deposited in the Department of Veterans Affairs Medical-Care Cost Recovery Fund.
+
+(c) The provisions of subsection (a) expire on September 30, 1998.
+
+(Added Pub. L. 101–508, title VIII, §8012(a)(1), Nov. 5, 1990, 104 Stat. 1388–345, §622A; renumbered §1722A, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–139, title V, §518(a), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–568, title VI, §§605(a), 606(a), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12002(b), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title XII, §1201(e)(7), Nov. 2, 1994, 108 Stat. 4685.)
+
+#### Amendments
+
+1994—Subsec. (a)(1). Pub. L. 103–446 substituted “veteran to pay” for “veteran) to pay”.
+
+1993—Subsec. (c). Pub. L. 103–66 substituted “1998” for “1992” in first sentence and struck out at end “Notwithstanding the preceding sentence, the provisions of subsection (a) shall be in effect through September 30, 1997.”
+
+1992—Subsec. (a)(1). Pub. L. 102–568, §605(a)(1), struck out “(other than a veteran with a service-connected disability rated 50 percent or more” after “require a veteran”.
+
+Subsec. (a)(3). Pub. L. 102–568, §605(a)(2), added par. (3).
+
+Subsec. (c). Pub. L. 102–568, §606(a), inserted at end “Notwithstanding the preceding sentence, the provisions of subsection (a) shall be in effect through September 30, 1997.”
+
+1991—Pub. L. 102–83 renumbered section 622A of this title as this section.
+
+Subsec. (c). Pub. L. 102–139, as amended by Pub. L. 102–229, substituted “September 30, 1992” for “September 30, 1991”.
+
+#### Effective Date of 1992 Amendment
+
+Section 605(b) of Pub. L. 102–568 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to medication furnished after the date of the enactment of this Act \[Oct. 29, 1992\].”
+
+#### Effective and Termination Dates
+
+Section to remain in effect through the period covered by Pub. L. 102–145, see section 111 of Pub. L. 102–145, set out as an Effective and Termination Dates of 1990 Amendment note under section 1710 of this title.
+
+Section to remain in effect through the period covered by Pub. L. 102–109, see section 111 of Pub. L. 102–109, set out as an Effective and Termination Dates of 1990 Amendment note under section 1710 of this title.
+
+Section 8012(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[enacting this section\] shall take effect with respect to medication furnished to a veteran after October 31, 1990, or the date of the enactment of this Act \[Nov. 5, 1990\], whichever is later.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1729 of this title.
+

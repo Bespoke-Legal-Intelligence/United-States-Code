@@ -1,0 +1,26 @@
+### SUBCHAPTER IV—NATIONAL FISHERY MANAGEMENT PROGRAM
+
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in sections 1802, 1821, 3343 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 01851 - National standards for fishery conservation and management](%C2%A7%2001851%20-%20National%20standards%20for%20fishery%20conservation%20and%20management.md)
+- [&sect; 01852 - Regional Fishery Management Councils](%C2%A7%2001852%20-%20Regional%20Fishery%20Management%20Councils.md)
+- [&sect; 01853 - Contents of fishery management plans](%C2%A7%2001853%20-%20Contents%20of%20fishery%20management%20plans.md)
+- [&sect; 01854 - Action by Secretary](%C2%A7%2001854%20-%20Action%20by%20Secretary.md)
+- [&sect; 01855 - Implementation of fishery management plans](%C2%A7%2001855%20-%20Implementation%20of%20fishery%20management%20plans.md)
+- [&sect; 01856 - State jurisdiction](%C2%A7%2001856%20-%20State%20jurisdiction.md)
+- [&sect; 01857 - Prohibited acts](%C2%A7%2001857%20-%20Prohibited%20acts.md)
+- [&sect; 01858 - Civil penalties and permit sanctions](%C2%A7%2001858%20-%20Civil%20penalties%20and%20permit%20sanctions.md)
+- [&sect; 01859 - Criminal offenses](%C2%A7%2001859%20-%20Criminal%20offenses.md)
+- [&sect; 01860 - Civil forfeitures](%C2%A7%2001860%20-%20Civil%20forfeitures.md)
+- [&sect; 01861 - Enforcement](%C2%A7%2001861%20-%20Enforcement.md)
+- [&sect; 01862 - North Pacific fisheries research plan](%C2%A7%2001862%20-%20North%20Pacific%20fisheries%20research%20plan.md)
+- [&sect; 01863 - Northwest Atlantic Ocean Fisheries Reinvestment Program](%C2%A7%2001863%20-%20Northwest%20Atlantic%20Ocean%20Fisheries%20Reinvestment%20Program.md)

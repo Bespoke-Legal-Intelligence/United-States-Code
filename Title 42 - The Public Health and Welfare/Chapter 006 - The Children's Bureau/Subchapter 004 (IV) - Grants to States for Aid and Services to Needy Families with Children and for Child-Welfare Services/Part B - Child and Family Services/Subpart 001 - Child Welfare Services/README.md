@@ -1,0 +1,25 @@
+subpart 1—child welfare services
+
+#### Amendments
+
+1993—Pub. L. 103–66, title XIII, §13711(a)(1), Aug. 10, 1993, 107 Stat. 649, added subpart 1 heading.
+
+#### Subpart Referred to in Other Sections
+
+This subpart is referred to in sections 629a, 671, 1320a–9 of this title.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 00620 - Authorization of appropriations](%C2%A7%2000620%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00621 - Allotments to States](%C2%A7%2000621%20-%20Allotments%20to%20States.md)
+- [&sect; 00622 - State plans for child welfare services](%C2%A7%2000622%20-%20State%20plans%20for%20child%20welfare%20services.md)
+- [&sect; 00623 - Payment to States](%C2%A7%2000623%20-%20Payment%20to%20States.md)
+- [&sect; 00624 - Reallotment](%C2%A7%2000624%20-%20Reallotment.md)
+- [&sect; 00625 - Definitions](%C2%A7%2000625%20-%20Definitions.md)
+- [&sect; 00626 - Research, training, or demonstration projects](%C2%A7%2000626%20-%20Research%2C%20training%2C%20or%20demonstration%20projects.md)
+- [&sect; 00627 - Foster care protection required for additional payments](%C2%A7%2000627%20-%20Foster%20care%20protection%20required%20for%20additional%20payments.md)
+- [&sect; 00628 - Payments to Indian tribal organizations](%C2%A7%2000628%20-%20Payments%20to%20Indian%20tribal%20organizations.md)
+- [&sect; 00628a - Child welfare traineeships](%C2%A7%2000628a%20-%20Child%20welfare%20traineeships.md)

@@ -1,0 +1,30 @@
+### §14119. Authorization of appropriations
+
+#### (a) General authorization of appropriations
+
+There are authorized to be appropriated to carry out this part—
+
+&emsp;(1) $20,000,000 for fiscal year 1996;
+
+&emsp;(2) $20,000,000 for fiscal year 1997;
+
+&emsp;(3) $20,000,000 for fiscal year 1998;
+
+&emsp;(4) $20,000,000 for fiscal year 1999; and
+
+&emsp;(5) $20,000,000 for fiscal year 2000.
+
+#### (b) Uses of funds
+
+Of the funds appropriated under subsection (a) of this section for a fiscal year—
+
+&emsp;(1) 80 percent shall be available to provide scholarships described in section 14113(a)(1)(A) of this title; and
+
+&emsp;(2) 20 percent shall be available to provide employment described in sections 14113(a)(1)(B) and 14113(a)(2) of this title.
+
+(Pub. L. 103–322, title XX, §200210, Sept. 13, 1994, 108 Stat. 2061.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 14112 of this title.
+

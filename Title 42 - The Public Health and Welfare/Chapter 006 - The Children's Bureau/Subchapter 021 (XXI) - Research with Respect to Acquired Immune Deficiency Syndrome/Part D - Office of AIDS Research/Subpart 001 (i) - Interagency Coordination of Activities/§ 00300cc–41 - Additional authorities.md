@@ -1,0 +1,70 @@
+### §300cc–41. Additional authorities
+
+#### (a) In general
+
+In carrying out AIDS research, the Director of the Office—
+
+&emsp;(1) shall develop and expand clinical trials of treatments and therapies for infection with the etiologic agent for acquired immune deficiency syndrome, including such clinical trials for women, infants, children, hemophiliacs, and minorities;
+
+&emsp;(2) may establish or support the large-scale development and preclinical screening, production, or distribution of specialized biological materials and other therapeutic substances for AIDS research and set standards of safety and care for persons using such materials;
+
+&emsp;(3) may support—
+
+&emsp;&emsp;(A) AIDS research conducted outside the United States by qualified foreign professionals if such research can reasonably be expected to benefit the people of the United States;
+
+&emsp;&emsp;(B) collaborative research involving American and foreign participants; and
+
+&emsp;&emsp;(C) the training of American scientists abroad and foreign scientists in the United States;
+
+&emsp;(4) may encourage and coordinate AIDS research conducted by any industrial concern that evidences a particular capability for the conduct of such research;
+
+&emsp;(5)(A) may acquire, improve, repair, operate, and maintain laboratories, other research facilities, equipment, and such other real or personal property as the Director of the Office determines necessary;
+
+&emsp;(B) may make grants for the construction or renovation of facilities; and
+
+&emsp;(C) may acquire, without regard to section 34 of title 40 by lease or otherwise through the Administrator of General Services, buildings or parts of buildings in the District of Columbia or communities located adjacent to the District of Columbia for the use of the National Institutes of Health for a period not to exceed ten years; and
+
+&emsp;(6) subject to section 284(b)(2) of this title and without regard to section 3324 of title 31 and section 5 of title 41, may enter into such contracts and cooperative agreements withany public agency, or with any person, firm, association, corporation, or educational institution, as may be necessary to expedite and coordinate research relating to acquired immune deficiency syndrome.
+
+#### (b) Report to Secretary
+
+The Director of the Office shall each fiscal year prepare and submit to the Secretary, for inclusion in the comprehensive report required in section 300cc(a) of this title, a report—
+
+&emsp;(1) describing and evaluating the progress made in such fiscal year in research, treatment, and training with respect to acquired immune deficiency syndrome conducted or supported by the Institutes;
+
+&emsp;(2) summarizing and analyzing expenditures made in such fiscal year for activities with respect to acquired immune deficiency syndrome conducted or supported by the National Institutes of Health; and
+
+&emsp;(3) containing such recommendations as the Director considers appropriate.
+
+#### (c) Projects for cooperation among public and private health entities
+
+In carrying out subsection (a) of this section, the Director of the Office shall establish projects to promote cooperation among Federal agencies, State, local, and regional public health agencies, and private entities, in research concerning the diagnosis, prevention, and treatment of acquired immune deficiency syndrome.
+
+(July 1, 1944, ch. 373, title XXIII, §2354, formerly §2351, as added Nov. 4, 1988, Pub. L. 100–607, title II, §201(4), 102 Stat. 3076; renumbered §2354 and amended June 10, 1993, Pub. L. 103–43, title XVIII, §1801(a)(2), (b), 107 Stat. 192, 196.)
+
+#### Amendments
+
+1993—Pub. L. 103–43, §1801(b)(1), substituted “Additional” for “Establishment of” in section catchline.
+
+Subsec. (a). Pub. L. 103–43, §1801(b)(2)(A), in introductory provisions substituted “AIDS research, the Director of the Office” for “research with respect to acquired immune deficiency syndrome, the Secretary, acting through the Director of the National Institutes of Health”.
+
+Subsec. (a)(1). Pub. L. 103–43, §1801(b)(2)(B), redesignated par. (3) as (1) and struck out former par. (1) which read as follows:
+
+“(A) shall establish an office to be known as the Office of AIDS Research, which Office shall be headed by a Director appointed by the Director of the National Institutes of Health; and
+
+“(B) shall provide administrative support and support services to the Director of such Office;”.
+
+Subsec. (a)(2). Pub. L. 103–43, §1801(b)(2)(B), (E), redesignated par. (4) as (2), substituted “AIDS research” for “research relating to acquired immune deficiency syndrome”, and struck out former par. (2) which read as follows: “shall coordinate activities relating to acquired immune deficiency syndrome conducted by the national research institutes and the agencies of the National Institutes of Health;”.
+
+Subsec. (a)(3). Pub. L. 103–43, §1801(b)(2)(B), (C), (E), redesignated par. (5) as (3), struck out “, in consultation with the advisory council for the appropriate national research institute of the National Institutes of Health,” after “may” in introductory provisions, and substituted “AIDS research” for “research relating to acquired immune deficiency syndrome” in subpar. (A). Former par. (3) redesignated (1).
+
+Subsec. (a)(4). Pub. L. 103–43, §1801(b)(2)(B), (E), redesignated par. (6) as (4) and substituted “AIDS research” for “research relating to acquired immune deficiency syndrome”. Former par. (4) redesignated (2).
+
+Subsec. (a)(5). Pub. L. 103–43, §1801(b)(2)(B), (D), redesignated par. (7) as (5), in subpar. (A) struck out “, in consultation with such advisory council,” after “may” and substituted “Director of the Office determines” for “Director of the National Institutes of Health determines”, and in subpars. (B) and (C) struck out “, in consultation with such advisory council,” after “may”. Former par. (5) redesignated (3).
+
+Subsec. (a)(6) to (8). Pub. L. 103–43, §1801(b)(2)(B), redesignated pars. (6) to (8) as (4) to (6), respectively.
+
+Subsec. (b). Pub. L. 103–43, §1801(b)(3), substituted “The Director of the Office shall” for “The Director of the National Institutes of Health, acting through the Director of the Office of AIDS Research, shall”.
+
+Subsec. (c). Pub. L. 103–43, §1801(b)(4), substituted “the Director of the Office shall” for “the Director of the National Institutes of Health shall”.
+

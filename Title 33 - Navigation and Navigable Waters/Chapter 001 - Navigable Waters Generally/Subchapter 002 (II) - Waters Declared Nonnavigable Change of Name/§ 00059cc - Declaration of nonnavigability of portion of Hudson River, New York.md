@@ -1,0 +1,110 @@
+### §59cc. Declaration of nonnavigability of portion of Hudson River, New York
+
+#### (a) Declaration of nonnavigability
+
+Subject to subsections (c), (d), and (e) of this section, the area described in subsection (b) of this section is declared to be nonnavigable waters of the United States.
+
+#### (b) Area subject to declaration
+
+The area described in this subsection is the portion of the Hudson River, New York, described as follows (according to coordinates and bearings in the system used on the Borough Survey, Borough President's Office, New York, New York):
+
+&emsp;Beginning at a point in the United States Bulkhead Line approved by the Secretary of War, July 31, 1941, having a coordinate of north 1918.003 west 9806.753;
+
+&emsp;Running thence easterly, on the arc of a circle curving to the left, whose radial line bears north 3°–44G6<b>�</b>–20G6<b>"</b> east, having a radius of 390.00 feet and a central angle of 22°–05G6<b>�</b>–50G6<b>"</b>, 150.41 feet to a point of tangency;
+
+&emsp;Thence north 71°–38G6<b>�</b>–30G6<b>"</b> east, 42.70 feet;
+
+&emsp;Thence south 11°–05G6<b>�</b>–40G6<b>"</b> east, 33.46 feet;
+
+&emsp;Thence south 78°–54G6<b>�</b>–20G6<b>"</b> west, 0.50 feet;
+
+&emsp;Thence south 11°–05G6<b>�</b>–40G6<b>"</b> east, 2.50 feet;
+
+&emsp;Thence north 78°–54G6<b>�</b>–20G6<b>"</b> east, 0.50 feet;
+
+&emsp;Thence south 11°–05G6<b>�</b>–40G6<b>"</b> east, 42.40 feet to a point of curvature;
+
+&emsp;Thence southerly, on the arc of a circle curving to the right, having a radius of 220.00 feet and a central angle of 16°–37G6<b>�</b>–40G6<b>"</b>, 63.85 feet to a point of compound curvature;
+
+&emsp;Thence still southerly, on the arc of a circle curving to the right, having a radius of 150.00 feet and a central angle of 38°–39G6<b>�</b>–00G6<b>"</b>, 101.19 feet to another point of compound curvature;
+
+&emsp;Thence westerly, on the arc of a circle curving to the right, having a radius of 172.05 feet and a central angle of 32°–32G6<b>�</b>–03G6<b>"</b>, 97.69 feet to a point of curve intersection;
+
+&emsp;Thence south 13°–16G6<b>�</b>–57G6<b>"</b> east, 50.86 feet to a point of curve intersection;
+
+&emsp;Thence westerly, on the arc of a circle curving to the left, whose radial bears north 13°–16G6<b>�</b>–57G6<b>"</b> west, having a radius of 6.00 feet and a central angle of 180°–32G6<b>�</b>–31G6<b>"</b>, 18.91 feet to a point of curve intersection;
+
+&emsp;Thence southerly, on the arc of a circle curving to the left, whose radial line bears north 75°–37G6<b>�</b>–11G6<b>"</b> east, having a radius of 313.40 feet and a central angle of 4°–55G6<b>�</b>–26G6<b>"</b>, 26.93 feet to a point of curve intersection;
+
+&emsp;Thence south 70°–41G6<b>�</b>–45G6<b>"</b> west, 36.60 feet;
+
+&emsp;Thence north 13°–45G6<b>�</b>–00G6<b>"</b> west, 42.87 feet;
+
+&emsp;Thence south 76°–15G6<b>�</b>–00G6<b>"</b> west, 15.00 feet;
+
+&emsp;Thence south 13°–45G6<b>�</b>–00G6<b>"</b> east, 44.33 feet;
+
+&emsp;Thence south 70°–41G6<b>�</b>–45G6<b>"</b> west, 128.09 feet to a point in the United States Pierhead Line approved by the Secretary of War, 1936;
+
+&emsp;Thence north 63°–08G6<b>�</b>–48G6<b>"</b> west, along the United States Pierhead Line approved by the Secretary of War, 1936, 114.45 feet to an angle point therein;
+
+&emsp;Thence north 61°–08G6<b>�</b>–00G6<b>"</b> west, still along the United States Pierhead Line approved by the Secretary of War, 1936, 202.53 feet;
+
+&emsp;The following three courses being along the lines of George Soilan Park as shown on map prepared by The City of New York, adopted by the Board of Estimate, November 13, 1981, Acc. N° 30071 and lines of property leased to Battery Park City Authority and B. P. C. Development Corp;
+
+&emsp;Thence north 77°–35G6<b>�</b>–20G6<b>"</b> east, 231.35 feet;
+
+&emsp;Thence north 12°–24G6<b>�</b>–40G6<b>"</b> west, 33.92 feet;
+
+&emsp;Thence north 54°–49G6<b>�</b>–00G6<b>"</b> east, 171.52 feet to a point in the United States Bulkhead Line approved by the Secretary of War, July 31, 1941;
+
+&emsp;Thence north 12°–24G6<b>�</b>–40G6<b>"</b> west, along the United States Bulkhead Line approved by the Secretary of War, July 31, 1941, 62.26 feet to the point or place of beginning; <sup>1</sup>
+
+#### (c) Determination of public interest
+
+The declaration made in subsection (a) of this section shall not take effect if the Secretary of the Army (acting through the Chief of Engineers), using reasonable discretion, finds that the proposed project is not in the public interest—
+
+&emsp;(1) before the date which is 120 days after the date of the submission to the Secretary of appropriate plans for the proposed project; and
+
+&emsp;(2) after consultation with local and regional public officials (including local and regional public planning organizations).
+
+#### (d) Limitation on applicability of declaration
+
+#### (1) Affected area
+
+&emsp;The declaration made in subsection (a) of this section shall apply only to those portions of the area described in subsection (b) of this section which are or will be occupied by permanent structures (including docking facilities) comprising the proposed project.
+
+#### (2) Application of other laws
+
+&emsp;Notwithstanding subsection (a) of this section, all activities conducted in the area described in subsection (b) of this section are subject to all Federal laws which apply to such activities, including—
+
+&emsp;&emsp;(A) sections 401 and 403 of this title;
+
+&emsp;&emsp;(B) section 1344 of this title; and
+
+&emsp;&emsp;(C) the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+#### (e) Expiration date
+
+The declaration made in subsection (a) of this section shall expire—
+
+&emsp;(1) on the date which is 6 years after December 18, 1991, if work on the proposed project to be performed in the area described in subsection (b) of this section is not commenced before such date; or
+
+&emsp;(2) on the date which is 20 years after December 18, 1991, for any portion of the area described in subsection (b) of this section which on such date is not bulkheaded, filled, or occupied by a permanent structure (including docking facilities).
+
+#### (f) “Proposed project” defined
+
+For the purposes of this section, the term “proposed project” means any project for the rehabilitation and development of—
+
+&emsp;(1) the structure located in the area described in subsection (b) of this section, commonly referred to as Pier A; and
+
+&emsp;(2) the area surrounding such structure.
+
+(Pub. L. 102–240, title I, §1078, Dec. 18, 1991, 105 Stat. 2015.)
+
+#### References in Text
+
+The National Environmental Policy Act of 1969, referred to in subsec. (d)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
+

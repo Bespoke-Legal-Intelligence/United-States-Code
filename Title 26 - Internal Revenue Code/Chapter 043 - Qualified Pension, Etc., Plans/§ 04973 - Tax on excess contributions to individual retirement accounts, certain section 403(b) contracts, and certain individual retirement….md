@@ -1,0 +1,158 @@
+### §4973. Tax on excess contributions to individual retirement accounts, certain section 403(b) contracts, and certain individual retirement annuities
+
+#### (a) Tax imposed
+
+In the case of—
+
+&emsp;(1) an individual retirement account (within the meaning of section 408(a)), or
+
+&emsp;(2) an individual retirement annuity (within the meaning of section 408(b)), a custodial account treated as an annuity contract under section 403(b)(7)(A) (relating to custodial accounts for regulated investment company stock),
+
+> there is imposed for each taxable year a tax in an amount equal to 6 percent of the amount of the excess contributions to such individual's accounts or annuities (determined as of the close of the taxable year). The amount of such tax for any taxable year shall not exceed 6 percent of the value of the account or annuity (determined as of the close of the taxable year). In the case of an endowment contract described in section 408(b), the tax imposed by this section does not apply to any amount allocable to life, health, accident, or other insurance under such contract. The tax imposed by this subsection shall be paid by such individual.
+
+#### (b) Excess contributions
+
+For purposes of this section, in the case of individual retirement accounts or individual retirement annuities, the term “excess contributions” means the sum of—
+
+&emsp;(1) the excess (if any) of—
+
+&emsp;&emsp;(A) the amount contributed for the taxable year to the accounts or for the annuities (other than a rollover contribution described in sections <sup>1</sup> 402(c), 403(a)(4), 403(b)(8), or 408(d)(3)), over
+
+&emsp;&emsp;(B) the amount allowable as a deduction under section 219 for such contributions, and
+
+&emsp;(2) the amount determined under this subsection for the preceding taxable year reduced by the sum of—
+
+&emsp;&emsp;(A) the distributions out of the account for the taxable year which were included in the gross income of the payee under section 408(d)(1),
+
+&emsp;&emsp;(B) the distributions out of the account for the taxable year to which section 408(d)(5) applies, and
+
+&emsp;&emsp;(C) the excess (if any) of the maximum amount allowable as a deduction under section 219 for the taxable year over the amount contributed (determined without regard to section 219(f)(6)) to the accounts or for the annuities for the taxable year.
+
+> For purposes of this subsection, any contribution which is distributed from the individual retirement account or the individual retirement annuity in a distribution to which section 408(d)(4) applies shall be treated as an amount not contributed. For purposes of paragraphs (1)(B) and (2)(C), the amount allowable as a deduction under section 219 shall be computed without regard to section 219(g).
+
+#### (c) Section 403(b) contracts
+
+For purposes of this section, in the case of a custodial account referred to in subsection (a)(2), the term “excess contributions” means the sum of—
+
+&emsp;(1) the excess (if any) of the amount contributed for the taxable year to such account (other than a rollover contribution described in section 403(b)(8) or 408(d)(3)(A)(iii)), over the lesser of the amount excludable from gross income under section 403(b) or the amount permitted to be contributed under the limitations contained in section 415 (or under whichever such section is applicable, if only one is applicable), and
+
+&emsp;(2) the amount determined under this subsection for the preceding taxable year, reduced by—
+
+&emsp;&emsp;(A) the excess (if any) of the lesser of (i) the amount excludable from gross income under section 403(b) or (ii) the amount permitted to be contributed under the limitations contained in section 415 over the amount contributed to the account for the taxable year (or under whichever such section is applicable, if only one is applicable), and
+
+&emsp;&emsp;(B) the sum of the distributions out of the account (for all prior taxable years) which are included in gross income under section 72(e).
+
+(Added Pub. L. 93–406, title II, §2002(d), Sept. 2, 1974, 88 Stat. 966; amended Pub. L. 94–455, title XV, §1501(b)(8), title XIX, §1904(a)(22), Oct. 4, 1976, 90 Stat. 1736, 1814; Pub. L. 95–600, title I, §§156(c)(3), (5), 157(b)(3), (j)(1), title VII, §701(aa)(1), Nov. 6, 1978, 92 Stat. 2803, 2804, 2809, 2921; Pub. L. 96–222, title I, §101(a)(13)(C), (14)(B), Apr. 1, 1980, 94 Stat. 204; Pub. L. 97–34, title III, §§311(h)(7), (9), (10), 313(b)(2), Aug. 13, 1981, 95 Stat. 282, 286; Pub. L. 98–369, div. A, title IV, §491(d)(41)–(44), (55), July 18, 1984, 98 Stat. 851, 852; Pub. L. 99–514, title XI, §1102(b)(1), title XVIII, §1848(f), Oct. 22, 1986, 100 Stat. 2415, 2858; Pub. L. 100–647, title I, §1011(b)(3), Nov. 10, 1988, 102 Stat. 3456; Pub. L. 102–318, title V, §521(b)(41), July 3, 1992, 106 Stat. 313.)
+
+#### Amendments
+
+1992—Subsec. (b)(1)(A). Pub. L. 102–318, which directed the substitution of “sections 402(c)” for “sections 402(a)(5), 402(a)(7)”, was executed by substituting “sections 402(c)” for “section 402(a)(5), 402(a)(7)” to reflect the probable intent of Congress.
+
+1988—Subsec. (b). Pub. L. 100–647 substituted “shall be computed without regard to section 219(g)” for “(after application of section 408(<i>o</i>)(2)(B)(ii)) shall be increased by the nondeductible limit under section 408(<i>o</i>)(2)(B)” in last sentence.
+
+1986—Subsec. (b). Pub. L. 99–514, §1102(b)(1), inserted at end “For purposes of paragraphs (1)(B) and (2)(C), the amount allowable as a deduction under section 219 (after application of section 408(<i>o</i>)(2)(B)(ii)) shall be increased by the nondeductible limit under section 408(<i>o</i>)(2)(B).”
+
+Pub. L. 99–514, §1848(f), in introductory provisions, substituted “or individual retirement annuities” for “, individual retirement annuities, or bonds”, in par. (1)(A), substituted “(other than a rollover contribution described in section 402(a)(5), 402(a)(7), 403(a)(4), 403(b)(8), or 408(d)(3)), over” for “or bonds (other than a rollover contribution described in section 402(a)(5), 402(a)(7), 403(a)(4), 403(b)(8), 405(d)(3), or 408(d)(3)), over”, and in par. (2)(A), struck out “or bonds” after “for the annuities”.
+
+1984—Pub. L. 98–369, §491(d)(55), substituted “and certain individual retirement annuities” for “certain individual retirement annuities, and certain retirement bonds” in section catchline.
+
+Subsec. (a). Pub. L. 98–369, §491(d)(41), inserted “or” at end of par. (1), struck out “or” at end of par. (2),struck out par. (3) which imposed a tax in the case of a retirement bond, within the meaning of section 409, established for the benefit of any individual, and in the concluding provision substituted “or annuity” for “, annuity, or bond” and “or annuities” for “, annuities, or bonds”.
+
+Subsec. (b). Pub. L. 98–369, §491(d)(43), substituted in provision following par. (2)(C) “or the individual retirement annuity” for “, individual retirement annuity, or bond”.
+
+Subsec. (b)(1)(A). Pub. L. 98–369, §491(d)(42), which directed the amendment of subpar. (A) by substituting “and 408(d)(3)” for “408(d)(3), and 409(b)(3)(C)” was executed, as the probable intent of Congress, by substituting “or 408(d)(3))” for “408(d)(3)), or 409(b)(3)(C)”.
+
+Subsec. (c)(1). Pub. L. 98–369, §491(d)(44), substituted “or 408(d)(3)(A)(iii)” for “, 408(d)(3)(A)(iii), or 409(b)(3)(C)”.
+
+1981—Subsec. (a). Pub. L. 97–34, §311(h)(9), substituted “The tax imposed by this subsection shall be paid by such individual” for “The tax imposed by this subsection shall be paid by the individual to whom a deduction is allowed for the taxable year under section 219 (determined without regard to subsection (b)(1) thereof) or section 220 (determined without regard to subsection (b)(1) thereof), whichever is appropriate”.
+
+Subsec. (b)(1)(A). Pub. L. 97–34, §313(b)(2), inserted “405(d)(3),” after “403(b)(8),”.
+
+Subsec. (b)(1)(B). Pub. L. 97–34, §311(h)(7), substituted “section 219” for “section 219 or 220”.
+
+Subsec. (b)(2)(C). Pub. L. 97–34, §311(h)(7), (10), substituted “section 219” for “section 219 or 220”, and “section 219(f)(6)” for “sections 219(c)(5) and 220(c)(6)”.
+
+1980—Subsec. (b)(1)(A). Pub. L. 96–222, §101(a)(14)(B), inserted reference to section 402(a)(7).
+
+Subsec. (c)(1). Pub. L. 96–222, §101(a)(13)(C), substituted “409(b)(3)(C)” for “409(d)(3)(C)”.
+
+1978—Subsec. (b)(1)(A). Pub. L. 95–600, §156(c)(3), inserted reference to section 403(b)(8).
+
+Subsec. (b)(2). Pub. L. 95–600, §157(b)(3), substituted “reduced by the sum of—” for “reduced by the excess (if any) of”, struck out “the maximum amount allowable as a deduction under section 219 or 220 for the taxable year over the amount contributed to the accounts or for the annuities or bonds for the taxable years and reduced by the sum of the distributions out of the account (for the taxable year and all prior taxable years) which were included in the gross income of the payee under section 408(d)(1)” in provision preceding par. (A), and added subpars. (A), (B), and (C).
+
+Subsec. (b). Pub. L. 95–600, §§157(j)(1), 701(aa)(1), struck out in last sentence “if such distribution consists of an excess contribution solely because of employer contributions to a plan or contract described in section 219(b)(2) or by reason of the application of section 219(b)(1) (without regard to the $1,500 limitation) or section 220(b)(1) (without regard to the $1,750 limitation) and only if such distribution does not exceed the excess of $1,500 or $1,750 if applicable, over the amount described in paragraph (1)(B)” after “as an amount not contributed”.
+
+Subsec. (c)(1). Pub. L. 95–600, §156(c)(5), inserted “(other than a rollover contribution described in section 403(b)(8), 408(d)(3)(A)(iii), or 409(d)(3)(C))” after “account”.
+
+1976—Subsec. (a)(3). Pub. L. 94–455, §§1501(b)(8)(A), 1904(a)(22)(A), substituted “the individual to whom a deduction is allowed for the taxable year under section 219 (determined without regard to subsection (b)(1) thereof) or section 220 (determined without regard to subsection (b)(1) thereof), whichever is appropriate” for “such individual”, effective for taxable years beginning after December 31, 1976 and substituted “such individual” for “the individual to whom a deduction is allowed for the taxable year under section 219 (determined without regard to subsection (b)(1) thereof) or section 220 (determined without regard to subsection (b)(1) thereof), whichever is appropriate”, effective for the first day of the first month which begins more than 90 days after Oct. 4, 1976.
+
+Subsec. (b)(1)(B). Pub. L. 94–455, §1501(b)(8)(B), inserted “or 220” after “under section 219”.
+
+Subsec. (b)(2). Pub. L. 94–455, §1501(b)(8)(C), inserted “or 220” after “under section 219” and “the taxable year and” before “all prior taxable years” and struck out provisions relating to the treatment of contributions out of individual retirement accounts, annuities or bonds to which section 408(d)(4) applied.
+
+Subsec. (c). Pub. L. 94–455, §1904(a)(22)(B), substituted “subsection (a)(2)” for “subsection (a)(3)” in provisions preceding par. (1).
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, see section 521(e) of Pub. L. 102–318, set out as a note under section 402 of this title.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by section 1102(b)(1) of Pub. L. 99–514 applicable to contributions and distributions for taxable years beginning after Dec. 31, 1986, see section 1102(g) of Pub. L. 99–514, set out as a note under section 219 of this title.
+
+Amendment by section 1848(f) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
+
+#### Effective Date of 1981 Amendment
+
+Amendment by section 311(h)(7), (9), (10) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 311(i)(1) of Pub. L. 97–34, set out as a note under section 219 of this title.
+
+Amendment by section 313(b)(2) of Pub. L. 97–34 applicable to redemptions after Aug. 13, 1981, in taxable years ending after such date, see section 313(c) of Pub. L. 97–34, set out as a note under section 219 of this title.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provision of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 22 of this title.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by section 156(c)(3), (5) of Pub. L. 95–600 applicable to distributions or transfers made after Dec. 31, 1977, in taxable years beginning after such date, see section 156(d) of Pub. L. 95–600, set out as a note under section 403 of this title.
+
+Amendment by section 157(b)(3) of Pub. L. 95–600 applicable to determination of deductions for taxable years beginning after Dec. 31, 1975, see section 157(b)(4)(A) of Pub. L. 95–600, set out as a note under section 219 of this title.
+
+Section 157(j)(2) of Pub. L. 95–600 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contributions made for taxable years beginning after December 31, 1977.”
+
+Section 701(aa)(2) of Pub. L. 95–600 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply as if included in section 1501 of theTax Reform Act of 1976 \[section 1501 of Pub. L. 94–455\] at the time of the enactment of such Act \[Oct. 4, 1976\].”
+
+Section 703(j)(13) of Pub. L. 95–600 provided that: “Notwithstanding section 1904(d) of the Tax Reform Act of 1976 \[Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 4041 of this title\], the amendment made by section 1904(a)(22)(A) of such Act \[amending this section\] shall take effect on the date of the enactment of such Act \[Oct. 4, 1976\].”
+
+#### Effective Date of 1976 Amendment
+
+Amendment by section 1501(b)(8) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1976, see section 1501(d) of Pub. L. 94–455, set out as a note under section 62 of this title.
+
+Amendment by section 1904(a)(22) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
+
+#### Effective Date
+
+Section 2002(i)(2) of Pub. L. 93–406 provided that: “The amendments made by subsections (d) through (h) except subsection (g)(5) and (6) \[enacting this section and sections 4974 and 6693 of this title and amending sections 37, 46, 50, 56, 72, 801, 805, 901, 3401, and 6047 of this title\] shall take effect on January 1, 1975.”
+
+#### Plan Amendments Not Required Until January 1, 1994
+
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+
+#### Plan Amendments Not Required Until January 1, 1989
+
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 219, 408, 6058 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+

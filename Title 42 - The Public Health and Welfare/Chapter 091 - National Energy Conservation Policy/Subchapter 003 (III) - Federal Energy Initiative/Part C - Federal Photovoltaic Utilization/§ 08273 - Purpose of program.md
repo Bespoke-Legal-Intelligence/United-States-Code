@@ -1,0 +1,14 @@
+### §8273. Purpose of program
+
+The purpose of the program established by section 8272 of this title is to—
+
+&emsp;(1) accelerate the growth of a commercially viable and competitive industry to make photovoltaic solar electric systems available to the general public as an option in order to reduce national consumption of fossil fuel;
+
+&emsp;(2) reduce fossil fuel costs to the Federal Government;
+
+&emsp;(3) stimulate the general use within the Federal Government of methods for the minimization of life cycle costs; and
+
+&emsp;(4) develop performance data on the program established by section 8272 of this title.
+
+(Pub. L. 95–619, title V, §564, Nov. 9, 1978, 92 Stat. 3280.)
+

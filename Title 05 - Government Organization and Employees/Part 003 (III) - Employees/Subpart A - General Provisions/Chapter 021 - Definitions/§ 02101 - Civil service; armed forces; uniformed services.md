@@ -1,0 +1,46 @@
+### §2101. Civil service; armed forces; uniformed services
+
+For the purpose of this title—
+
+&emsp;(1) the “civil service” consists of all appointive positions in the executive, judicial, and legislative branches of the Government of the United States, except positions in the uniformed services;
+
+&emsp;(2) “armed forces” means the Army, Navy, Air Force, Marine Corps, and Coast Guard; and
+
+&emsp;(3) “uniformed services” means the armed forces, the commissioned corps of the Public Health Service, and the commissioned corps of the National Oceanic and Atmospheric Administration.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 408; Pub. L. 90–83, §1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 96–54, §2(a)(4), Aug. 14, 1979, 93 Stat. 381.)
+
+#### Historical and Revision Notes
+
+#### 1966 Act
+
+The section is supplied to establish basis of reference to employees in this title.
+
+#### 1967 Act
+
+This section amends various sections \[§§2101, 4102, 4109, 5541, 8101\] of title 5, United States Code, to reflect 1965 Reorganization Plan No. 2 (79 Stat. 1318), effective July 13, 1965, which consolidated the Coast and Geodetic Survey and the Weather Bureau to form a new agency in the Department of Commerce to be known as the Environmental Science Services Administration.
+
+#### Amendments
+
+1979—Par. (3). Pub. L. 96–54 substituted “National Oceanic and Atmospheric” for “Environmental Science Services”.
+
+#### Effective Date of 1979 Amendment
+
+Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
+
+#### Short Title of 1994 Amendment
+
+Pub. L. 103–226, §1, Mar. 30, 1994, 108 Stat. 111, provided that: “This Act \[amending sections 3381, 4101, 4103, 4105, 4107, 4108, 4113, 4118, 5597, 8351, 8433 to 8435, 8437, 8440a to 8440d of this title and section 1206 of Title 45, Railroads, repealing sections 4106 and 4114 of this title, enacting provisions set out as notes under sections 3101, 3381, 5597, 8331, and 8351 of this title, and amending provisions set out as a note under section 403–4 of Title 50, War and National Defense\] may be cited as the ‘Federal Workforce Restructuring Act of 1994’.”
+
+#### Short Title of 1990 Amendment
+
+Pub. L. 101–508, title VII, §7202(a), Nov. 5, 1990, 104 Stat. 1388–335, provided that: “This section \[amending sections 2105, 3502, 5334, 5335, 5365, 5551, 6308, 6312, 8331, 8347, 8401, 8461, and 8901 of this title and enacting provisions set out as notes under section 2105 of this title\] may be cited as the ‘Portability of Benefits for Nonappropriated Fund Employees Act of 1990’.”
+
+#### Coordination of Title VII of Pub. L. 101–508 With Section 909 of Title 2
+
+Pub. L. 101–508, title VII, §7301, Nov. 5, 1990, 104 Stat. 1388–341, provided that: “For purposes of section 202 of the Balanced Budget and Emergency Deficit Reaffirmation Act of 1987 \[probably means section 202 of the Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987, Pub. L. 100–119, which was formerly classified to section 909 of Title 2, The Congress\], this title and the amendments made by this title \[amending sections 552a, 2105, 3502, 5334, 5335, 5365, 5551, 6308, 6312, 8331, 8334, 8339, 8342, 8343a, 8347, 8348, 8401, 8420a, 8461, 8901, 8902, 8904, 8906, 8909, and 8910 of this title, enacting provisions set out as notes under this section and sections 552a, 2105, 8334, 8343a, 8348, 8902, 8904, and 8906 of this title, amending provisions set out as notes under sections 8343a and 8906 of this title, and repealing provisions set out as notes under sections 8343a and 8348 of this title\] shall be considered an exception under subsection (b) of such section.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 10 sections 4357, 6975, 9356; title 18 section 207; title 22 section 3641; title 41 section 423.
+

@@ -1,0 +1,64 @@
+### §5053. Exemptions
+
+#### (a) Removals for export
+
+Beer may be removed from the brewery, without payment of tax, for export, in such containers and under such regulations, and on the giving of such notices, entries, and bonds and other security, as the Secretary may by regulations prescribe.
+
+#### (b) Removals when unfit for beverage use
+
+When beer has become sour or damaged, so as to be incapable of use as such, a brewer may remove the same from his brewery without payment of tax, for manufacturing purposes, under such regulations as the Secretary may prescribe.
+
+#### (c) Removals for laboratory analysis
+
+Beer may be removed from the brewery, without payment of tax, for laboratory analysis, subject to such limitations and under such regulations as the Secretary may prescribe.
+
+#### (d) Removals for research, development, or testing
+
+Under such conditions and regulations as the Secretary may prescribe, beer may be removed from the brewery without payment of tax for use in research, development, or testing (other than consumer testing or other market analysis) of processes, systems, materials, or equipment relating to beer or brewery operations.
+
+#### (e) Beer for personal or family use
+
+Subject to regulation prescribed by the Secretary, any adult may, without payment of tax, produce beer for personal or family use and not for sale. The aggregate amount of beer exempt from tax under this subsection with respect to any household shall not exceed—
+
+&emsp;(1) 200 gallons per calendar year if there are 2 or more adults in such household, or
+
+&emsp;(2) 100 gallons per calendar year if there is only 1 adult in such household.
+
+> For purposes of this subsection, the term “adult” means an individual who has attained 18 years of age, or the minimum age (if any) established by law applicable in the locality in which the household is situated at which beer may be sold to individuals, whichever is greater.
+
+#### (f) Removal as supplies for certain vessels and aircraft
+
+&emsp;&emsp;<b>For exemption as to supplies for certain vessels and aircraft, see section 309 of the Tariff Act of 1930, as amended (19 U.S.C. 1309).</b>
+
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1334; amended Pub. L. 89–44, title VIII, §807(b), June 21, 1965, 79 Stat. 164; Pub. L. 91–673, §2, Jan. 12, 1971, 84 Stat. 2056; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–458, §2(b)(1), Oct. 14, 1978, 92 Stat. 1255.)
+
+#### Prior Provisions
+
+A prior section 5053, act Aug. 16, 1954, ch. 736, 68A Stat. 612, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
+
+#### Amendments
+
+1978—Subsecs. (e), (f). Pub. L. 95–458 added subsec. (e) and redesignated former subsec. (e) as (f).
+
+1976—Subsecs. (a) to (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+1971—Subsecs. (d), (e). Pub. L. 91–673 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+1965—Subsec. (a). Pub. L. 89–44 struck out “to a foreign country” after “export”.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–458 effective on first day of first calendar month beginning more than 90 days after Oct. 14, 1978, see section 2(c) of Pub. L. 95–458, set out as a note under section 5042 of this title.
+
+#### Effective Date of 1971 Amendment
+
+Amendment by Pub. L. 91–673 effective on first day of first calendar month which begins more than 90 days after Jan. 12, 1971, see section 5 of Pub. L. 91–673, set out as a note under section 5056 of this title.
+
+#### Effective Date of 1965 Amendment
+
+Amendment by Pub. L. 89–44 effective July 1, 1965, see section 807(c) of Pub. L. 89–44, set out as a note under section 5002 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5051, 5054, 5092, 5222, 5401, 5674 of this title.
+

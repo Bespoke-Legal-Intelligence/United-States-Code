@@ -1,0 +1,10 @@
+### §1544. Annual cost analysis by Fish and Wildlife Service
+
+On or before January 15, 1990, and each January 15 thereafter, the Secretary of the Interior, acting through the Fish and Wildlife Service, shall submit to the Congress an annual report covering the preceding fiscal year which shall contain—
+
+&emsp;(1) an accounting on a species by species basis of all reasonably identifiable Federal expenditures made primarily for the conservation of endangered or threatened species pursuant to this chapter; and
+
+&emsp;(2) an accounting on a species by species basis of all reasonably identifiable expenditures made primarily for the conservation of endangered or threatened species pursuant to this chapter by States receiving grants under section 1535 of this title.
+
+(Pub. L. 93–205, §18, as added Pub. L. 100–478, title I, §1012, Oct. 7, 1988, 102 Stat. 2314.)
+

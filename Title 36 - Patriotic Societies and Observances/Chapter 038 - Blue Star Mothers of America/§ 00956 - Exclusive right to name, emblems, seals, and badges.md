@@ -1,0 +1,6 @@
+### §956. Exclusive right to name, emblems, seals, and badges
+
+The corporation and its subordinate divisions shall have the sole and exclusive right to use the name, “Blue Star Mothers of America, Inc.”, and no other organization shall use the name “Blue Star Mothers of America, Inc.”. The corporation shall have the exclusive and sole right to use, or to allow or refuse the use of, such emblems, seals, and badges as have heretofore been used by the Blue Star Mothers of America.
+
+(Pub. L. 86–653, §16, July 14, 1960, 74 Stat. 518.)
+

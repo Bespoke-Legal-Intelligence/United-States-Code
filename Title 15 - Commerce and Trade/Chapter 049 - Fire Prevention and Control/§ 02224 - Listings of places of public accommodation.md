@@ -1,0 +1,28 @@
+### §2224. Listings of places of public accommodation
+
+#### (a) Submissions by States
+
+(1) Not later than 2 years after September 25, 1990, each State (acting through its Governor or the Governor's designee) shall, under procedures formulated by the Director, submit to the Director a list of those places of public accommodation affecting commerce located in the State which meet the requirements of the guidelines described in section 2225 of this title.
+
+(2) The Director shall formulate procedures under which each State (acting through its Governor or the Governor's designee) shall periodically update the list submitted pursuant to paragraph (1).
+
+#### (b) Compilation and distribution of master list
+
+(1) Not later than 60 days after the expiration of the 2-year period referred to in subsection (a) of this section, the Director shall compile and publish in the Federal Register a national master list of all of the places of public accommodation affecting commerce located in each State that meet the requirements of the guidelines described in section 2225 of this title, and shall distribute such list to each agency of the Federal Government and take steps to make the employees of such agencies aware of its existence and contents.
+
+(2) The Director shall periodically update the national master list compiled pursuant to paragraph (1) to reflect changes in the State lists submitted to the Director pursuant to subsection (a) of this section, and shall periodically redistribute the updated master list to each agency of the Federal Government.
+
+(3) For purposes of this subsection, the term “agency” has the meaning given to it under section 5701(1) of title 5.
+
+(Pub. L. 93 498, §28, as added Pub. L. 101 391, §3(a), Sept. 25, 1990, 104 Stat. 747; amended Pub. L. 102 522, title I, §104, Oct. 26, 1992, 106 Stat. 3411.)
+
+#### Amendments
+
+1992—Pub. L. 102 522, §104(1), struck out “certified” before “places” in section catchline.
+
+Subsec. (a). Pub. L. 102 522, §104(2), inserted “(acting through its Governor or the Governor's designee)” after “each State” in pars. (1) and (2) and struck out “the Governor of the State or his designee certifies” after “in the State which” in par. (1).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2225, 2225a, 2226 of this title.
+

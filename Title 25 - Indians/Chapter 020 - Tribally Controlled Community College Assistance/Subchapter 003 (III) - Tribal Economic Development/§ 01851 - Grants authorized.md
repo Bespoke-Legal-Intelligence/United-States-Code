@@ -1,0 +1,44 @@
+### §1851. Grants authorized
+
+#### (a) General authority
+
+The Secretary is authorized, subject to the availability of appropriations, to make grants to tribally controlled community colleges which receive grants under either this chapter or the Navajo Community College Act \[25 U.S.C. 640a et seq.\] for the establishment and support of tribal economic development and education institutes. Each program conducted with assistance under a grant under this subsection shall include at least the following activities:
+
+&emsp;(1) Determination of the economic development needs and potential of the Indian tribes involved in the program, including agriculture and natural resources needs.
+
+&emsp;(2) Development of consistent courses of instruction to prepare postsecondary students, tribal officials and others to meet the needs defined under paragraph (1). The development of such courses may be coordinated with secondary institutions to the extent practicable.
+
+&emsp;(3) The conduct of vocational courses, including administrative expenses and student support services.
+
+&emsp;(4) Technical assistance and training to Federal, tribal and community officials and business managers and planners deemed necessary by the institution to enable full implementation of, and benefits to be derived from, the program developed under paragraph (1).
+
+&emsp;(5) Clearinghouse activities encouraging the coordination of, and providing a point for the coordination of, all vocational activities (and academically related training) serving all students of the Indian tribe involved in the grant.
+
+&emsp;(6) The evaluation of such grants and their effect on the needs developed under paragraph (1) and tribal economic self-sufficiency.
+
+#### (b) Amount and duration
+
+The grants shall be of such amount and duration as to afford the greatest opportunity for success and the generation of relevant data.
+
+#### (c) Applications
+
+Institutions which receive funds under other subchapters of this chapter or the Navajo Community College Act \[25 U.S.C. 640a et seq.\] may apply for grants under this subchapter either individually or as consortia. Each applicant shall act in cooperation with an Indian tribe or tribes in developing and implementing a grant under this subchapter.<sup>1</sup>
+
+(Pub. L. 95–471, title IV, §402, as added Pub. L. 101–392, title III, §312, Sept. 25, 1990, 104 Stat. 804.)
+
+#### References in Text
+
+The Navajo Community College Act, referred to in subsecs. (a) and (c), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 640a of this title and Tables.
+
+This subchapter, referred to at the end of subsec. (c), was in the original “this part” and was translated as reading “this title” to reflect the probable intent of Congress because title IV of Pub. L. 95–471, which comprises this subchapter, does not contain parts.
+
+#### Effective Date
+
+Subchapter effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as an Effective Date of 1990 Amendment note under section 2301 of Title 20, Education.
+
+#### Short Title
+
+For short title of title IV of Pub. L. 95–471, which enacted this subchapter, as the “Tribal Economic Development and Technology Related Education Assistance Act of 1990”, see section 401 of Pub. L. 95–471, set out as a Short Title of 1990 Amendment note under section 1801 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

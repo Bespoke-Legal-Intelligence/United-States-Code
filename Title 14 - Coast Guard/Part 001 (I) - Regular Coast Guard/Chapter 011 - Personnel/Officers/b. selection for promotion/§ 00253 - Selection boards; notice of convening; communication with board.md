@@ -1,0 +1,16 @@
+### §253. Selection boards; notice of convening; communication with board
+
+(a) Before a board is convened under section 251 of this title, notice of the convening date, the promotion zone to be considered, the officers eligible for consideration, and the number of officers the board may recommend for promotion shall be given to the service at large.
+
+(b) Each officer eligible for consideration by a selection board convened under section 251 of this title may send a communication through official channels to the board, to arrive not later than the date the board convenes, inviting attention to any matter of record in the armed forces concerning himself. A communication sent under this section may not criticize any officer or reflect upon the character, conduct, or motive of any officer.
+
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 179; amended Pub. L. 89–444, §1(15), June 9, 1966, 80 Stat. 196.)
+
+#### Amendments
+
+1966—Subsec. (a). Pub. L. 89–444 added officers eligible for consideration to list of items for which notice must be given to the service at large before a board is convened under section 251 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 289, 290 of this title.
+

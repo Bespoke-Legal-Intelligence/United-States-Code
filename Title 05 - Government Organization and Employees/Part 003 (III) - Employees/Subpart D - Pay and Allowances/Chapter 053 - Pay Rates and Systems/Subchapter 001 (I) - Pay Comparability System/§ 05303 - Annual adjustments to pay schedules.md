@@ -1,0 +1,376 @@
+### §5303. Annual adjustments to pay schedules
+
+(a) Effective as of the first day of the first applicable pay period beginning on or after January 1 of each calendar year, the rates of basic pay for each statutory pay system shall be increased by the percentage (rounded to the nearest one-tenth of 1 percent) equal to one-half of 1 percentage point less than the percentage by which the ECI for the base quarter of the year before the preceding calendar year exceeds the ECI for the base quarter of the second year before the preceding calendar year (if at all).
+
+(b)(1) If, because of national emergency or serious economic conditions affecting the general welfare, the President should consider the pay adjustment which would otherwise be required by subsection (a) in any year to be inappropriate, the President shall—
+
+&emsp;(A) prepare and transmit to Congress before September 1 of the preceding calendar year a plan for such alternative pay adjustments as he considers appropriate, together with the reasons therefor; and
+
+&emsp;(B) adjust the rates of pay of each statutory pay system, in accordance with such plan, effective on the same day as the increase under subsection (a) would otherwise take effect.
+
+(2) In evaluating an economic condition affecting the general welfare under this subsection, the President shall consider pertinent economic measures including, but not limited to, the Indexes of Leading Economic Indicators, the Gross National Product, the unemployment rate, the budget deficit, the Consumer Price Index, the Producer Price Index, the Employment Cost Index, and the Implicit Price Deflator for Personal Consumption Expenditures.
+
+(3) The President shall include in the report to Congress under paragraph (1)(A) his assessment of the impact that the alternative pay adjustments under this subsection will have on the Government's ability to recruit and retain well-qualified employees.
+
+(c) The rates of basic pay that take effect under this section—
+
+&emsp;(1) shall modify, supersede, or render inapplicable, as the case may be, to the extent inconsistent therewith, any prior rates of basic pay under the statutory pay system involved (as last adjusted under this section or prior provisions of law); and
+
+&emsp;(2) shall be printed in the Federal Register and the Code of Federal Regulations.
+
+(d) An increase in rates of basic pay that takes effect under this section is not an equivalent increase in pay within the meaning of section 5335.
+
+(e) This section does not impair any authority pursuant to which rates of basic pay may be fixed by administrative action.
+
+(f) Pay may not be paid, by reason of any provision of this section (disregarding any comparability payment payable), at a rate in excess of the rate of basic pay payable for level V of the Executive Schedule.
+
+(g) Any rate of pay under this section shall be initially adjusted, effective on the effective date of the rate of pay, under conversion rules prescribed by the President or by such agency or agencies as the President may designate.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458; Pub. L. 90–206, title II, §207, Dec. 16, 1967, 81 Stat. 631; Pub. L. 91–375, §6(c)(10), Aug. 12, 1970, 84 Stat. 776; Pub. L. 94–183, §2(16), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, §2314(c)(2), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1430.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 1173.
+
+Oct. 11, 1962, Pub. L. 87–793, §504, 76 Stat. 842.
+
+Aug. 14, 1964, Pub. L. 88–426, §123, 78 Stat. 412.
+
+In subsection (a), the words “the provisions of this title governing appointment in the competitive service” are substituted for “the civil service laws and regulations”.
+
+In subsections (a), (b), and (d), the word “agency” is substituted for “agency or agencies” because the singular imports the plural, see 1 U.S.C. 1.
+
+In subsection (d), the word “officer” is omitted as included in “employee”, “agency” is substituted for “department”, and “rules” is omitted as included in “regulations”.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### References in Text
+
+Level V of the Executive Schedule, referred to in subsec. (f), is set out in section 5316 of this title.
+
+#### Amendments
+
+1990—Pub. L. 101–509 amended section generally, substituting provisions relating to annual adjustments to pay schedules for provisions relating to President's authority to set higher minimum rates of basic pay.
+
+1980—Subsec. (a)(4). Pub. L. 96–465 substituted “section 403 of the Foreign Service Act of 1980” for “sections 867 and 870 of title 22”.
+
+1978—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+
+1975—Subsec. (c). Pub. L. 94–183 struck out “and section 3552 of title 39” after “of section 5335(a) of this title”.
+
+1970—Subsec. (a)(2). Pub. L. 91–375 repealed cl. (2) making positions paid under provisions of part III of title 39 relating to employees in the postal field service subject to higher minimum rates established by the President.
+
+1967—Subsec. (a). Pub. L. 90–206, §207(a), substituted “maximum pay rate” for “seventh pay rate”.
+
+Subsec. (d). Pub. L. 90–206, §207(b), inserted provisions that permitted an initial adjustment to be made to statutory increases which become effective prior to, on, or after the date of enactment of the statute.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Effective Date of 1970 Amendment
+
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+
+#### Effective Date of 1967 Amendment
+
+Amendment by Pub. L. 90–206 effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as an Effective Date note under section 3110 of this title.
+
+#### Delegation of Functions
+
+For designation of agencies to perform functions of President under subsec. (g) of this section, see Ex. Ord. No. 12748, §1, Feb. 1, 1991, 56 F.R. 4521, eff. Feb. 3, 1991, set out as a note under section 5301 of this title.
+
+#### Pay Raises for Programs Funded by Energy and Water Development Appropriations Acts To Be Absorbed Within Such Acts
+
+Pub. L. 102–377, title V, §506, Oct. 2, 1992, 106 Stat. 1343, provided that: “Such sums as may be necessary for Federal employee pay raises for programs funded by this Act or subsequent Energy and Water Development Appropriations Acts hereafter shall be absorbed within the levels appropriated in such Acts.”
+
+#### Sense of Congress
+
+Section 529 \[title I, §101(e)\] of Pub. L. 101–509 provided that: “It is the sense of the Congress that the total funds dedicated to adjustments under sections 5303 and 5304 \[of this title\] for any year be no less than the total funds that would have been dedicated to adjustments under such section 5303 for such year had the full change in the ECI been applied to pay rates for such year.”
+
+#### Federal Employee Pay Adjustments
+
+1994—Pub. L. 103–329, title VI, §630(a), Sept. 30, 1994, 108 Stat. 2424, provided that:
+
+“(1) The adjustment in rates of basic pay for the statutory pay systems that takes effect in fiscal year 1995 under section 5303 of title 5, United States Code, shall be an increase of 2 percent.
+
+“(2) For purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note), no adjustment under section 5303 of title 5, United States Code, shall be considered to have taken effect in fiscal year 1995 in the rates of basic pay for the statutory pay systems.
+
+“(3) For purposes of this subsection, the term ‘statutory pay system’ shall have the meaning given such term by section 5302(1) of title 5, United States Code.”
+
+1993—Pub. L. 103–123, title V, §517B, Oct. 28, 1993, 107 Stat. 1253, provided that:
+
+“(a) Any adjustment required by section 5303 of title 5, United States Code, to become effective in fiscal year 1994 in the rates of basic pay for the statutory pay systems shall not be made.
+
+“(b) For the purpose of this section, the term ‘statutory pay system’ has the meaning given such term by section 5302(1) of title 5, United States Code.”
+
+1990—Pub. L. 101–509, title VI, §618, Nov. 5, 1990, 104 Stat. 1475, provided that:
+
+“(a) Notwithstanding any other provision of law, in the case of fiscal year 1991, the overall average percentage of the adjustment under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule, and in the rates of pay under the other statutory pay systems (as defined by section 5301(c) of such title), shall be an increase of 4.1 percent.
+
+“(b) Any increase in a pay rate or schedule which takes effect under such section 5305 in fiscal year 1991 (in accordance with subsection (a)) shall, to the maximum extent practicable, be of the same percentage, and shall take effect as of the first day of the first applicable pay period commencing on or after January 1, 1991.”
+
+Pub. L. 101–509, title VI, §633, Nov. 5, 1990, 104 Stat. 633, provided that:
+
+“(a)
+
+In General.—Notwithstanding any other provision of law (including any provision of the Federal Employees Pay Comparability Act of 1990 \[see Short Title of 1990 Amendment note set out under section 5301 ofthis title\] and any provision of law amended by such Act), for purposes of any adjustment scheduled to take effect under section 5303 of title 5, United States Code (as amended by section 101 \[section 529 \[title I, §101\] of Pub. L. 101–509\]) during the period beginning on October 1, 1991, and ending on September 30, 1994, the provisions of section 5303 of such title (as so amended) shall be applied in accordance with the following:
+
+&emsp;“(1) For purposes of the adjustment taking effect in each of fiscal years 1992 and 1993, respectively, deem subsection (a) to be amended by striking ‘one-half of 1 percentage point less than’.
+
+&emsp;“(2) Deem subsection (b) to be amended as follows:
+
+&emsp;&emsp;“(A) In paragraph (1), strike ‘if’ and all that follows thereafter through ‘welfare,’ and insert ‘Subject to paragraph (2), if’.
+
+&emsp;&emsp;“(B) Redesignate paragraphs (2) and (3) as paragraphs (3) and (4), respectively.
+
+&emsp;&emsp;“(C) Insert after paragraph (1) the following:
+
+&emsp;“ ‘(2) Authority to provide alternative pay adjustments under this subsection in any year may not be exercised except in accordance with the following:
+
+&emsp;&emsp;“ ‘(A) If the adjustment which (but for this subsection) would otherwise take effect under this section in a fiscal year would be 5 percent or less, no reduction may be made unless necessary because a state of war or severe economic conditions exist.
+
+&emsp;&emsp;“ ‘(B) If the adjustment which (but for this subsection) would otherwise take effect under this section in a fiscal year would be greater than 5 percent, no reduction may be made—
+
+&emsp;&emsp;&emsp;“ ‘(i) to a level of 5 percent or greater, unless necessary because of national emergency or serious economic conditions affecting the general welfare; or
+
+&emsp;&emsp;&emsp;“ ‘(ii) to a level of less than 5 percent, unless necessary because of either of the reasons set forth in subparagraph (A).’
+
+&emsp;&emsp;“(D) Add after paragraph (4) (as so redesignated by subparagraph (B) the following:
+
+&emsp;“ ‘(5) For the purpose of this subsection, “severe economic conditions” shall be considered to exist relative to an adjustment scheduled to take effect on a given date if, during the 12-month period ending 2 calendar quarters before such date, there occurred 2 consecutive quarters of negative growth in the GNP.’
+
+“(b)
+
+References.—Notwithstanding any other provision of law (including any provision of the Federal Employees Pay Comparability Act of 1990 \[see Short Title of 1990 Amendment note set out under section 5301 of this title\] and any provision of law amended made by such Act), effective for purposes of any pay adjustment scheduled to take effect during the period described in subsection (a), any reference in a provision of law to section 5303 of title 5, United States Code, as amended by section 101 \[section 529 \[title I, §101\] of Pub. L. 101–509\] (or to the effective date of a pay adjustment, the size of an adjustment, a rate payable after an adjustment, or other related matter under such section 5303) shall be considered a reference to such section as applied in accordance with this section (or to the corresponding matter, as determined under such section 5303, as applied in accordance with this section).”
+
+1989—Pub. L. 101–194, title VII, §702, Nov. 30, 1989, 103 Stat. 1767, provided that:
+
+“(a)
+
+Restoration.—
+
+&emsp;“(1)
+
+In general.—Effective for pay periods beginning on or after the date of enactment of this Act \[Nov. 30, 1989\], the rate of basic pay for any office or position in the executive, legislative, or judicial branch of the Government or in the government of the District of Columbia shall be determined as if the provisions of law cited in paragraph (2) had never been enacted.
+
+&emsp;“(2)
+
+Citations.—The provisions of law referred to in paragraph (1) are as follows:
+
+&emsp;&emsp;“(A) Section 620(b) of the Treasury, Postal Service and General Government Appropriations Act, 1989 (2 U.S.C. 5305 note) \[Pub. L. 100–440, set out below\].
+
+&emsp;&emsp;“(B) Section 619(b) of the Treasury, Postal Service and General Government Appropriations Act, 1990 (Public Law 101–136) \[set out below\].
+
+“(b)
+
+Exceptions.—Notwithstanding any other provision of this section, the rate of basic pay for a Senator, the President pro tempore of the Senate, and the majority leader and the minority leader of the Senate shall be determined as if subsection (a) had not been enacted.
+
+“(c)
+
+Specific Authority.—For purposes of section 140 of Public Law 97–92 (28 U.S.C. 461 note), appropriate salary increases are hereby authorized for Federal judges and Justices of the Supreme Court pursuant to subsection (a).
+
+“(d)
+
+Special Rule.—Notwithstanding any other provision of this section, no adjustment in any rate of pay shall become effective, as a result of the enactment of this section, before the first applicable pay period beginning on or after the date as of which the order issued by the President on October 16, 1989, pursuant to section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901\] is rescinded.”
+
+Pub. L. 101–194, title XI, §1101(a), Nov. 30, 1989, 103 Stat. 1781, provided that:
+
+“(1)
+
+Adjustments in Rates of Pay.—Notwithstanding any other provision of law (including any provision of this Act or amendment made by this Act), effective as provided in paragraph (2), the rate of pay of each office and position of United States Senator, the President pro tempore of the Senate, and the majority and minority leaders of the Senate shall be increased by—
+
+&emsp;“(A) the percentage increase that would have taken effect in fiscal year 1988 if the provisions of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) were applied to the rate of pay of each such office and position in effect on January 1, 1988 without regard to section 108 of the resolution entitled ‘Joint resolution making further continuing appropriations for the fiscal year 1988, and for other purposes’, approved December 22, 1987 \[Pub. L. 100–202\]; (101 Stat. 1329–434; 5 U.S.C. 5305 note \[set out below\]);
+
+&emsp;“(B) the percentage increase that would have taken effect in fiscal year 1989 if the provisions of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) were applied to the rate of pay of each such office and position in effect on January 1, 1989 (as adjusted under subparagraph (A) of this paragraph) without regard to subsection (b) of section 620 of the Treasury, Postal Service and General Government Appropriations Act, 1989 (Public Law 100–440; 102 Stat. 1756; 5 U.S.C. 5305 note \[set out below\]); and
+
+&emsp;“(C) the percentage increase that would take effect in fiscal year 1990 by the application of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) (as adjusted under subparagraphs (A) and (B) of this paragraph) without regard to subsection (b) of section 619 of the Treasury, Postal Service and General Government Appropriations Act, 1990 (Public Law 101–136) \[set out below\].
+
+“(2) The increase in the rates of pay for each office and position described under paragraph (1) shall be effective on the first day of the first pay period beginning on or after January 1, 1990.”
+
+Pub. L. 101–136, title VI, §619, Nov. 3, 1989, 103 Stat. 820, provided that:
+
+“(a)(1) Notwithstanding any other provision of law, in the case of fiscal year 1990, the overall average percentage of the adjustment under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule, and in the rates of pay under the other statutory pay systems (as defined by section 5301(c) of such title), shall be an increase of 3.6 percent.
+
+“(2) Each increase in a pay rate or schedule which takes effect pursuant to paragraph (1) shall, to the maximum extent practicable, be of the same percentage, and shall take effect as of the first day of the first applicable pay period commencing on or after January 1, 1990.
+
+“(b)(1) Notwithstanding any other provision of this Act or any other law, no adjustment in rates of payunder section 5305 of title 5, United States Code, which becomes effective on or after October 1, 1989, and before October 1, 1990, shall have the effect of increasing the rate of salary or basic pay for any office or position in the legislative, executive, or judicial branch or in the government of the District of Columbia—
+
+&emsp;“(A) if the rate of salary or basic pay payable for that office or position as of September 30, 1989, was equal to or greater than the rate of basic pay described in paragraph (3); or
+
+&emsp;“(B) to a rate exceeding the rate of basic pay described in paragraph (3) if, as of September 30, 1989, the rate of salary or basic pay payable for that office or position was less than the rate described in such paragraph.
+
+“(2) For purposes of paragraph (1), the rate of salary or basic pay payable as of September 30, 1989, for any office or position which was not in existence on such date shall be deemed to be the rate of salary or basic pay payable to individuals in comparable offices or positions on such date, as determined under regulations prescribed—
+
+&emsp;“(A) by the President, in the case of any office or position within the executive branch or in the government of the District of Columbia;
+
+&emsp;“(B) jointly by the Speaker of the House of Representatives and the President pro tempore of the Senate, in the case of any office or position within the legislative branch; or
+
+&emsp;“(C) by the Chief Justice of the United States, in the case of any office or position within the judicial branch.
+
+“(3) The rate of basic pay described in this paragraph is the rate equal to the rate of basic pay payable for level III of the Executive Schedule under section 5314 of title 5, United States Code, as of September 30, 1989, increased by 3.6 percent.”
+
+1988—Pub. L. 100–440, title VI, §620, Sept. 22, 1988, 102 Stat. 1756, provided that:
+
+“(a)(1) Notwithstanding any other provision of law, in the case of fiscal year 1989, the overall percentage of the adjustment under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule, and in the rates of pay under the other statutory pay systems (as defined by section 5301(c) of such title), shall be an increase of 4.1 percent.
+
+“(2) Each increase in a pay rate or schedule which takes effect pursuant to paragraph (1) shall, to the maximum extent practicable, be of the same percentage, and shall take effect as of the first day of the first applicable pay period commencing on or after January 1, 1989.
+
+“(b)(1) Notwithstanding any other provision of this Act or any other law, no adjustment in rates of pay under section 5305 of title 5, United States Code, which becomes effective on or after October 1, 1988, and before October 1, 1989, shall have the effect of increasing the rate of salary or basic pay for any office or position in the legislative, executive, or judicial branch or in the government of the District of Columbia—
+
+&emsp;“(A) if the rate of salary or basic pay payable for that office or position as of September 30, 1988, was equal to or greater than the rate of basic pay then payable for level III of the Executive Schedule under section 5314 of title 5, United States Code; or
+
+&emsp;“(B) to a rate exceeding the rate of basic pay payable for level III of the Executive Schedule under such section 5314 as of September 30, 1988, if, as of that date, the rate of salary or basic pay payable for that office or position was less than the rate of basic pay then payable for such level III.
+
+“(2) For purposes of paragraph (1), the rate of salary or basic pay payable as of September 30, 1988, for any office or position which was not in existence on such date shall be deemed to be the rate of salary or basic pay payable to individuals in comparable offices or positions on such date, as determined under regulations prescribed—
+
+&emsp;“(A) by the President, in the case of any office or position within the executive branch or in the government of the District of Columbia;
+
+&emsp;“(B) jointly by the Speaker of the House of Representatives and the President pro tempore of the Senate, in the case of any office or position within the legislative branch; or
+
+&emsp;“(C) by the Chief Justice of the United States, in the case of any office or position within the judicial branch.”
+
+1987—Pub. L. 100–202, §108, Dec. 22, 1987, 101 Stat. 1329–434, provided that:
+
+“(a) Notwithstanding any other provision of this resolution or any other law, no adjustment in rates of pay under section 5305 of title 5, United States Code, which becomes effective on or after October 1, 1987, and before October 1, 1988, shall have the effect of increasing the rate of salary or basic pay for any office or position in the legislative, executive, or judicial branch or in the government of the District of Columbia—
+
+&emsp;“(1) if the rate of salary or basic pay payable for that office or position as of September 30, 1987, was equal to or greater than the rate of basic pay then payable for level V of the Executive Schedule under section 5316 of title 5, United States Code; or
+
+&emsp;“(2) to a rate exceeding the rate of basic pay payable for level V of the Executive Schedule under such section 5316 as of September 30, 1987, if, as of that date, the rate of salary or basic pay payable for that office or position was less than the rate of basic pay then payable for such level V.
+
+“(b) For purposes of subsection (a), the rate of salary or basic pay payable as of September 30, 1987, for any office or position which was not in existence on such date shall be deemed to be the rate of salary or basic pay payable to individuals in comparable offices or positions on such date, as determined under regulations prescribed—
+
+&emsp;“(1) by the President, in the case of any office or position within the executive branch or in the government of the District of Columbia;
+
+&emsp;“(2) jointly by the Speaker of the House of Representatives and the President pro tempore of the Senate, in the case of any office or position within the legislative branch; or
+
+&emsp;“(3) by the Chief Justice of the United States, in the case of any office or position within the judicial branch.”
+
+Pub. L. 100–202, §110(a), Dec. 22, 1987, 101 Stat. 1329–436, provided that:
+
+“(1)
+
+Two-percent increase.—Notwithstanding any other provision of law, in the case of fiscal year 1988, the overall percentage of the adjustment under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule, and in the rates of pay under the other statutory pay systems (as defined by section 5301(c) of such title), shall be an increase of 2 percent.
+
+“(2)
+
+Uniform adjustments; delayed effective date.—Each increase in a pay rate or schedule which takes effect pursuant to paragraph (1) shall, to the maximum extent practicable, be of the same percentage and shall take effect as of the beginning of the first applicable pay period beginning on or after January 1, 1988.”
+
+1986—Pub. L. 99–500, §144(a), Oct. 18, 1986, 100 Stat. 1783–350, and Pub. L. 99–591, §144(a), Oct. 30, 1986, 100 Stat. 3341–353, provided that:
+
+“(1) Notwithstanding any other provision of law, in the case of fiscal year 1987, the overall percentage of the adjustment under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule, and in the rates of pay under the other statutory pay systems, shall be an increase of 3 percent.
+
+“(2) Each increase in a pay rate or schedule which takes effect pursuant to paragraph (1) shall, to the maximum extent practicable, be of the same percentage, and shall take effect as of the first day of the first applicable pay period commencing on or after January 1, 1987.
+
+“(3)(A) Notwithstanding any other provision of law, determinations relating to amounts to be appropriated in order to provide for the adjustment described inparagraph (1) shall be made based on the assumption that the various departments and agencies of the Government will, in the aggregate, absorb 50 percent of the increase in total pay for fiscal year 1987.
+
+“(B) Subparagraph (A) does not apply with respect to the Department of Defense or pay for employees of the Department of Defense.
+
+“(4) For purposes of this subsection—
+
+&emsp;“(A) the term ‘total pay’ means, with respect to a fiscal year, the total amount of basic pay which will be payable to employees covered by statutory pay systems for service performed during such fiscal year;
+
+&emsp;“(B) the term ‘increase in total pay’ means, with respect to a fiscal year, that part of total pay for such year which is attributable to the adjustment taking effect under this section during such year; and
+
+&emsp;“(C) the term ‘statutory pay system’ has the meaning given such term by section 5301(c) of title 5, United States Code.”
+
+Pub. L. 99–272, title XV, §15201(a), Apr. 7, 1986, 100 Stat. 332, provided that:
+
+“(1) The rates of pay under the General Schedule and the rates of pay under the other statutory pay systems referred to in section 5301(c) of title 5, United States Code, shall not be adjusted under section 5305 of such title during fiscal year 1986.
+
+“(2)(A)(i) For fiscal years 1987 and 1988, the President shall provide for the adjustment of rates of pay under section 5305 of title 5, United States Code, as appropriate to reduce outlays, relating to pay of officers and employees of the Federal Government, by at least $746,000,000 in fiscal year 1987 and $1,264,000,000 in fiscal year 1988 (without regard to reductions in outlays which result by reason of subparagraph (B)(ii) of this paragraph, paragraph (1) of this subsection, subsection (b) of this section, and the application of section 1009 of title 37, United States Code), computed using the baseline used for the First Concurrent Resolution on the Budget for Fiscal Year 1986 (S. Con. Res. 32, 99th Congress), agreed to on August 1, 1985.
+
+“(ii) Clause (i) of this subparagraph shall not be construed to suspend the requirements of section 5305 of title 5, United States Code, with respect to fiscal years 1987 and 1988.
+
+“(B) Each adjustment in a pay rate or schedule which takes effect pursuant to subparagraph (A) of this paragraph—
+
+&emsp;“(i) shall, to the maximum extent practicable, be of the same percentage; and
+
+&emsp;“(ii) shall be effective with respect to pay periods beginning on or after January 1 of the fiscal year involved.”
+
+1984—Pub. L. 98–270, title II, §202(a), Apr. 18, 1984, 98 Stat. 158, provided that:
+
+“(1) Notwithstanding any other provision of law, in the case of fiscal year 1984, the overall percentage of the adjustment under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule, and in the rates of pay under the other statutory pay systems, shall be an increase of 4 percent.
+
+“(2) Each increase in a pay rate or schedule which takes effect pursuant to paragraph (1) shall, to the maximum extent practicable, be of the same percentage, and shall take effect as of the first day of the first applicable pay period commencing on or after January 1 of such fiscal year.”
+
+1982—Pub. L. 97–253, title III, §310(a), Sept. 8, 1982, 96 Stat. 799, provided that:
+
+“(1) Notwithstanding any other provision of law, if—
+
+&emsp;“(A) before September 1, 1982, the President transmits to the Congress pursuant to section 5305(c)(1) of title 5, United States Code, an alternative plan which provides for an overall percentage pay adjustment which is less than 4 percent, and
+
+&emsp;“(B) the alternative plan referred to in subparagraph (A) is disapproved pursuant to such section 5305,
+
+> the rates of pay under the General Schedule and the rates of pay under the other statutory pay systems shall be increased under the provisions of such section 5305 by 4 percent in the case of fiscal year 1983.
+
+“(2) Each increase in a pay rate or schedule which takes effect pursuant to paragraph (1) shall, to the maximum extent practicable, be of the same percentage, and shall take effect on the first day of the first applicable pay period commencing on or after October 1 of such fiscal year.”
+
+1981—Pub. L. 97–35, title XVII, §1701(a), Aug. 13, 1981, 95 Stat. 753, provided that: “Notwithstanding any other provision of law, the overall percentage of the adjustment of the rates of pay under the General Schedule or any other statutory pay system under section 5305 of title 5, United States Code, which is to become effective with the first applicable pay period commencing on or after October 1, 1981, shall not exceed 4.8 percent.”
+
+1978—Pub. L. 95–429, title VI, §614, Oct. 10, 1978, 92 Stat. 1018, provided that:
+
+“(a) No part of any of the funds appropriated for the fiscal year ending September 30, 1979, by this Act or any other Act, may be used to pay the salary or pay of any individual in any office or position in an amount which exceeds the rate of salary or basic pay payable for such office or position on September 30, 1978, by more than 5.5 percent, as a result of any adjustments which take effect during such fiscal year under—
+
+&emsp;“(1) section 5305 of title 5, United States Code;
+
+&emsp;“(2) any other provision of law if such adjustment is determined by reference to such section 5305; or
+
+&emsp;“(3) section 5343 of title 5, United States Code, if such adjustment is granted pursuant to a wage survey (but only with respect to prevailing rate employees described in section 5342(a)(2)(A) of that title).
+
+“(b) For the purpose of administering any provision of law, rule, or regulation which provides premium pay, retirement, life insurance, or other employee benefit, which requires any deduction or contribution, or which imposes any requirement or limitation, on the basis of a rate of salary or basic pay, the rate of salary or basic pay payable after the application of this section shall be treated as the rate of salary or basic pay.”
+
+1971—Pub. L. 92–210, §3, Dec. 22, 1971, 85 Stat. 753, provided that: “Notwithstanding any provision of section 3(c) of the Federal Pay Comparability Act of 1970 (Public Law 91–656), or of section 5305 of title 5, United States Code, as added by section 3(a) of Public Law 91–656, and the provisions of the alternative plan submitted by the President to the Congress pursuant thereto on August 31, 1971, such comparability adjustments in the rates of pay of each Federal statutory pay system as may be required under such sections 5305 and 3(c), based on the 1971 Bureau of Labor Statistics survey—
+
+&emsp;“(1) shall not be greater than the guidelines established for the wage and salary adjustments for the private sector that may be authorized under authority of any statute of the United States, including the Economic Stabilization Act of 1970 (Public Law 91–379; 84 Stat. 799), as amended \[set out as a note under section 1904 of Title 12, Banks and Banking\], and that may be in effect on December 31, 1971; and
+
+&emsp;“(2) shall be placed into effect on the first day of the first pay period that begins on or after January 1, 1972.
+
+> Nothing in this section shall be construed to provide any adjustments in rates of pay of any Federal statutory pay system which are greater than the adjustments based on the 1971 Bureau of Labor Statistics survey.”
+
+Section 3(c) of Pub. L. 91–656 provided that: “The President may make the initial adjustment required by subchapter I of chapter 53 of title 5, United States Code, as amended by this Act, without regard to the provisions of such subchapter relating to the Advisory Committee on Federal Pay and the Federal Employees Pay Council. Notwithstanding any provision of such subchapter I prescribing an effective date of October 1 for any pay adjustment made by the President, the initial adjustment based on the 1970 Bureau of Labor Statistics survey and the adjustment based on the 1971 Bureau of Labor Statistics survey shall become effectiveon the first day of the first applicable pay period that begins on or after January 1, 1971, and January 1, 1972, respectively. Notwithstanding the provisions of such subchapter I, the President's agent for purposes of the 1971 and 1972 adjustments shall be the Director, Office of Management and Budget and the Chairman, United States Civil Service Commission. Adjustments under the provisions of such subchapter I shall not apply to employees of the Post Office Department whose basic pay is fixed under the General Schedule.”
+
+1967—Pub. L. 90–206, title II, §212, Dec. 16, 1967, 81 Stat. 634, provided that: “In order to complete the implementation of the policy of the Congress set forth in paragraph (2) of section 5301 of title 5, United States Code, the President, after seeking the views of such employee organizations as he considers appropriate and in such manner as he may provide, shall—
+
+&emsp;“(1) effective on the first day of the first pay period beginning on or after July 1, 1968, adjust the rates of basic pay, basic compensation, and salary, as in effect by reason of the enactment of the provisions of this title \[see Short Title note under section 5332 of this title\] other than this section and sections 205, 210, 213, 214, 215, and 219—
+
+&emsp;&emsp;“(A) by amounts equal, as nearly as may be practicable, to one-half of the amounts by which such rates are exceeded by rates of pay paid for the same levels of work in private enterprise as determined on the basis of the 1967 annual survey conducted by the Bureau of Labor Statistics in accordance with the provisions of section 5302 of title 5, United States Code, or
+
+&emsp;&emsp;“(B) by 3 per centum,
+
+whichever is greater; and
+
+&emsp;“(2) effective on the first day of the first pay period beginning on or after July 1, 1969, adjust the rates he has established under subparagraph (1) of this section, and the rates established by Postal Field Service Schedule II, and Rural Carrier Schedule II (contained in the amendments made by subsections (a) and (b) of section 205 \[amending sections 3542 and 3543 of Title 39, Postal Service\], by amounts equal, as nearly as may be practicable, to the amounts by which such rates are exceeded by rates of pay paid for the same levels of work in private enterprise as determined on the basis of the 1968 annual survey conducted by the Bureau of Labor Statistics in accordance with the provisions of section 5302 of title 5, United States Code.
+
+> Adjustments made by the President under this section shall have the force and effect of statute. The rates of pay of personnel subject to sections 210, 213 (except subsections (d) and (e) ), and 214 of this title \[see Short Title note under section 5332 of this title\], and any minimum or maximum rate, limitation, or allowance applicable to any such personnel, shall be adjusted, by amounts which are equal, insofar as practicable and with such exceptions as may be necessary to provide for appropriate relationships between positions, to the amounts of the adjustments made by the President under subparagraphs (1) and (2) of this section, by the following authorities—
+
+&emsp;“(i) the President pro tempore of the Senate, with respect to the United States Senate;
+
+&emsp;“(ii) the Speaker of the House of Representatives with respect to the United States House of Representatives;
+
+&emsp;“(iii) the Architect of the Capitol, with respect to the Office of the Architect of the Capitol;
+
+&emsp;“(iv) the Director of the Administrative Office of the United States Courts, with respect to the judicial branch of the Government; and
+
+&emsp;“(v) the Secretary of Agriculture, with respect to persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b) ).
+
+> Such adjustments shall be made in such manner as the appropriate authority concerned deems advisable and shall have the force and effect of statute. Nothing in this section shall impair any authority pursuant to which rates of pay may be fixed by administrative action.” \[Section 212 of Pub. L. 90–206 effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under section 3110 of this title.\]
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5304, 5304a, 5306, 5318, 5332, 5376, 5382, 5392, 8431 of this title; title 2 sections 31, 60a–1, 60a–1b, 60a–2, 60a–2a, 84a–1, 906; title 3 section 104; title 22 section 3963; title 28 section 461; title 31 section 325; title 42 section 254<i>l.</i>
+

@@ -1,0 +1,20 @@
+### §5552. Definitions
+
+For the purposes of this subchapter—
+
+&emsp;(1) the term “solar energy” means energy which has recently originated in the Sun, including direct and indirect solar radiation and intermediate solar energy forms such as wind, sea thermal gradients, products of photosynthetic processes, organic wastes, and others;
+
+&emsp;(2) the term “byproducts” includes, with respect to any solar energy technology or process, any solar energy products (including energy forms) other than those associated with or constituting the primary product of such technology or process;
+
+&emsp;(3) the term “insolation” means the rate at which solar energy is received at the surface of the Earth;
+
+&emsp;(4) the term “Project” means the Solar Energy Coordination and Management Project; and
+
+&emsp;(5) the term “Chairman” means the Chairman of the Project.
+
+(Pub. L. 93–473, §3, Oct. 26, 1974, 88 Stat. 1431.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 29 section 1531.
+

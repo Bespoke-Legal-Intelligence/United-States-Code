@@ -1,0 +1,66 @@
+### §7152. Transfers from Department of the Interior
+
+#### (a) Functions relating to electric power
+
+(1) There are transferred to, and vested in, the Secretary all functions of the Secretary of the Interior under section 825s of title 16, and all other functions of the Secretary of the Interior, and officers and components of the Department of the Interior, with respect to—
+
+&emsp;(A) the Southeastern Power Administration;
+
+&emsp;(B) the Southwestern Power Administration;
+
+&emsp;(C) the Alaska Power Administration;
+
+&emsp;(D) the Bonneville Power Administration including but not limited to the authority contained in the Bonneville Project Act of 1937 \[16 U.S.C. 832 et seq.\] and the Federal Columbia River Transmission System Act \[16 U.S.C. 838 et seq.\];
+
+&emsp;(E) the power marketing functions of the Bureau of Reclamation, including the construction, operation, and maintenance of transmission lines and attendant facilities; and
+
+&emsp;(F) the transmission and disposition of the electric power and energy generated at Falcon Dam and Amistad Dam, international storage reservoir projects on the Rio Grande, pursuant to the Act of June 18, 1954, as amended by the Act of December 23, 1963.
+
+(2) The Southeastern Power Administration, the Southwestern Power Administration, the Bonneville Power Administration, and the Alaska Power Administration shall be preserved as separate and distinct organizational entities within the Department. Each such entity shall be headed by an Administrator appointed by the Secretary. The functions transferred to the Secretary in paragraphs (1)(A), (1)(B), (1)(C), and (1)(D) shall be exercised by the Secretary, acting by and through such Administrators. Each such Administrator shall maintain his principal office at a place located in the region served by his respective Federal power marketing entity.
+
+(3) The functions transferred in paragraphs (1)(E) and (1)(F) of this subsection shall be exercised by the Secretary, acting by and through a separate and distinct Administration within the Department which shall be headed by an Administrator appointed by the Secretary. The Administrator shall establish and shall maintain such regional offices as necessary to facilitate the performance of such functions. Neither the transfer of functions effected by paragraph (1)(E) of this subsection nor any changes in cost allocation or project evaluation standards shall be deemed to authorize the reallocation of joint costs of multipurpose facilities theretofore allocated unless and to the extent that such change is hereafter approved by Congress.
+
+#### (b), (c) Repealed. Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407
+
+#### (d) Functions of Bureau of Mines
+
+There are transferred to, and vested in, the Secretary those functions of the Secretary of the Interior, the Department of the Interior, and officers and components of that Department under the Act of May 15, 1910, and other authorities, exercised by the Bureau of Mines, but limited to—
+
+&emsp;(1) fuel supply and demand analysis and data gathering;
+
+&emsp;(2) research and development relating to increased efficiency of production technology of solid fuel minerals, other than research relating to mine health and safety and research relating to the environmental and leasing consequences of solid fuel mining (which shall remain in the Department of the Interior); and
+
+&emsp;(3) coal preparation and analysis.
+
+(Pub. L. 95–91, title III, §302, Aug. 4, 1977, 91 Stat. 578; Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407.)
+
+#### References in Text
+
+The Bonneville Project Act of 1937, referred to in subsec. (a)(1)(D), is act Aug. 20, 1937, ch. 720, 50 Stat. 731,as amended, which is classified generally to chapter 12B (§832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 832 of Title 16 and Tables.
+
+The Federal Columbia River Transmission System Act, referred to in subsec. (a)(1)(D), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, as amended, which is classified generally to chapter 12G (§838 et seq.) of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 838 of Title 16 and Tables.
+
+Act of June 18, 1954, as amended by the Act of December 23, 1963, referred to in subsec. (a)(1)(F), is act June 18, 1954, ch. 310, 68 Stat. 255, which was not classified to the Code.
+
+Act of May 15, 1910, referred to in subsec. (d), as amended, probably means act May 16, 1910, ch. 240, 36 Stat. 369, which is classified to sections 1, 3, and 5 to 7 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+1981—Subsecs. (b), (c). Pub. L. 97–100 struck out subsecs. (b) and (c) which related, respectively, to the functions of the Secretary of Energy to promulgate regulations under certain provisions of the Outer Continental Shelf Lands Act, the Mineral Lands Leasing Act, the Mineral Leasing Act for Acquired Lands, the Geothermal Steam Act of 1970, and the Energy Policy and Conservation Act and to the functions of establishing production rates for all Federal leases.
+
+#### Change of Name
+
+Bureau of Mines redesignated United States Bureau of Mines by section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining.
+
+#### Use of Funds To Study Noncost-Based Methods of Pricing Hydroelectric Power
+
+Pub. L. 102–377, title V, §505, Oct. 2, 1992, 106 Stat. 1343, provided that: “Notwithstanding any other provision of this Act, subsequent Energy and Water Development Appropriations Acts or any other provision of law hereafter, none of the funds made available under this Act, subsequent Energy and Water Development Appropriations Acts or any other law hereafter shall be used for the purposes of conducting any studies relating or leading to the possibility of changing from the currently required ‘at cost’ to a ‘market rate’ or any other noncost-based method for the pricing of hydroelectric power by the six Federal public power authorities, or other agencies or authorities of the Federal Government, except as may be specifically authorized by Act of Congress hereafter enacted.”
+
+#### Transfers to Secretary of the Interior of Certain Fossil Energy Research and Development Authorities
+
+Pub. L. 97–257, title I, §100, Sept. 10, 1982, 96 Stat. 841, provided: “That there are transferred to, and vested in, the Secretary of the Interior all functions vested in, or delegated to, the Secretary of Energy and the Department of Energy under or with respect to (1) the Act of May 16, 1910 \[30 U.S.C. 1, 3, 5–7\], and other authorities formerly exercised by the Bureau of Mines \[now United States Bureau of Mines\], but limited to research and development relating to increased efficiency of production technology of solid fuel minerals; (2) section 908 of the Surface Mining Control and Reclamation Act of 1977, relating to research and development concerning alternative coal mining technologies (30 U.S.C. 1328); (3) sections 5(g)(2), 8(a)(4), 8(a)(9), 27(b)(2)(3) of the Outer Continental Shelf Lands Act (43 U.S.C. 1334(g)(2) and 1337(a)(4) and 1337(a)(9) \[and 1353(b)(2) and (3)\]); and (4) section 105 of the Energy Policy and Conservation Act (42 U.S.C. 6213): <i>Provided further,</i> That the personnel employed, personnel positions, equipment, facilities, and unexpended balances of the aforementioned transferred programs shall be merged with the ‘Mines and minerals’ account of the Bureau of Mines.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7153 of this title; title 16 section 839f; title 33 section 2213.
+

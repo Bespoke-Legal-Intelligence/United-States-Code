@@ -1,0 +1,16 @@
+### §3786. Delegation of functions
+
+The Attorney General, the Assistant Attorney General, the Director of the National Institute of Justice, the Director of the Bureau of Justice Statistics, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, and the Director of the Bureau of Justice Assistance may delegate to any of their respective officers or employees such functions under this chapter as they deem appropriate.
+
+(Pub. L. 90–351, title I, §805, as added Pub. L. 98–473, title II, §609B(g), Oct. 12, 1984, 98 Stat. 2093.)
+
+#### Prior Provisions
+
+A prior section 3786, Pub. L. 90–351, title I, §806, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1204, contained provisions similar to this section, prior to repeal by section 609B(e) of Pub. L. 98–473.
+
+A prior section 805 of Pub. L. 90–351 was renumbered section 804 and is classified to section 3785 of this title.
+
+#### Effective Date
+
+Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as a note under section 3711 of this title.
+

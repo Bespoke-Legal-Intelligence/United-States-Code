@@ -1,0 +1,48 @@
+### §184. Filing of application in foreign country
+
+Except when authorized by a license obtained from the Commissioner a person shall not file or cause or authorize to be filed in any foreign country prior to six months after filing in the United States an application for patent or for the registration of a utility model, industrial design, or model in respect of an invention made in this country. A license shall not be granted with respect to an invention subject to an orderissued by the Commissioner pursuant to section 181 of this title without the concurrence of the head of the departments and the chief officers of the agencies who caused the order to be issued. The license may be granted retroactively where an application has been filed abroad through error and without deceptive intent and the application does not disclose an invention within the scope of section 181 of this title.
+
+The term “application” when used in this chapter includes applications and any modifications, amendments, or supplements thereto, or divisions thereof.
+
+The scope of a license shall permit subsequent modifications, amendments, and supplements containing additional subject matter if the application upon which the request for the license is based is not, or was not, required to be made available for inspection under section 181 of this title and if such modifications, amendments, and supplements do not change the general nature of the invention in a manner which would require such application to be made available for inspection under such section 181. In any case in which a license is not, or was not, required in order to file an application in any foreign country, such subsequent modifications, amendments, and supplements may be made, without a license, to the application filed in the foreign country if the United States application was not required to be made available for inspection under section 181 and if such modifications, amendments, and supplements do not, or did not, change the general nature of the invention in a manner which would require the United States application to have been made available for inspection under such section 181.
+
+(July 19, 1952, ch. 950, 66 Stat. 807; Aug. 23, 1988, Pub. L. 100–418, title IX, §9101(b)(1), 102 Stat. 1567.)
+
+#### Historical and Revision Notes
+
+Based on Title 35, U.S.C., 1946 ed., §154 (Feb. 1, 1952, ch. 4, §4, 66 Stat. 5).
+
+Language is changed.
+
+#### Amendments
+
+1988—Pub. L. 100–418, §9101(b)(1)(A), substituted “filed abroad through error and without deceptive intent” for “inadvertently filed abroad” in first par.
+
+Pub. L. 100–418, §9101(b)(1)(B), added third par. relating to scope of a license.
+
+#### Effective Date of 1988 Amendment
+
+Section 9101(d) of Pub. L. 100–418 provided that:
+
+“(1) Subject to paragraphs (2), (3), and (4) of this subsection, the amendments made by this section \[amending sections 184 to 186 of this title\] shall apply to all United States patents granted before, on, or after the date of enactment of this section \[Aug. 23, 1988\], to all applications for United States patents pending on or filed after such date of enactment, and to all licenses under section 184 granted before, on, or after the date of enactment of this section.
+
+“(2) The amendments made by this section shall not affect any final decision made by a court or the Patent and Trademark Office before the date of enactment of this section \[Aug. 23, 1988\] with respect to a patent or application for patent, if no appeal from such decision is pending and the time for filing an appeal has expired.
+
+“(3) No United States patent granted before the date of enactment of this section \[Aug. 23, 1988\] shall abridge or affect the right of any person or his successors in business who made, purchased, or used, prior to such date of enactment, anything protected by the patent, to continue the use of, or to sell to others to be used or sold, the specific thing so made, purchased, or used, if the patent claims were invalid or otherwise unenforceable on a ground obviated by this section and the person made, purchased, or used the specific thing in reasonable reliance on such invalidity or unenforceability. If a person reasonably relied on such invalidity or unenforceability, the court before which such matter is in question may provide for the continued manufacture, use, or sale of the thing made, purchased, or used as specified, or for the manufacture, use, or sale of which substantial preparation was made before the date of enactment of this section, and it may also provide for the continued practice of any process practiced, or for the practice of which substantial preparation was made, prior to the date of enactment of this section, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced before such date of enactment.
+
+“(4) The amendments made by this section shall not affect the right of any party in any case pending in court on the date of enactment of this section \[Aug. 23, 1988\] to have its rights or liabilities—
+
+&emsp;“(A) under any patent before the court, or
+
+&emsp;“(B) under any patent granted after such date of enactment which is related to the patent before the court by deriving priority rights under section 120 or 121 of title 35, United States Code, from a patent or an application for patent common to both patents,
+
+> determined on the basis of the substantive law in effect before the date of enactment of this section.”
+
+#### Promulgation of Regulations
+
+Section 9101(c) of Pub. L. 100–418 provided that: “The Commissioner of Patents and Trademarks shall prescribe such regulations as may be necessary to implement the amendments made by this section \[amending sections 184 to 186 of this title\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 185, 186 of this title.
+

@@ -1,0 +1,24 @@
+### §409. Obstruction of navigable waters by vessels; floating timber; marking and removal of sunken vessels
+
+It shall not be lawful to tie up or anchor vessels or other craft in navigable channels in such a manner as to prevent or obstruct the passage of other vessels or craft; or to sink, or permit or cause to be sunk, vessels or other craft in navigable channels; or to float loose timber and logs, or to float what is known as “sack rafts of timber and logs” in streams or channels actuallynavigated by steamboats in such manner as to obstruct, impede, or endanger navigation. And whenever a vessel, raft or other craft is wrecked and sunk in a navigable channel, it shall be the duty of the owner, lessee, or operator of such sunken craft to immediately mark it with a buoy or beacon during the day and a lighted lantern at night, and to maintain such marks until the sunken craft is removed or abandoned, and the neglect or failure of the said owner, lessee, or operator so to do shall be unlawful; and it shall be the duty of the owner, lessee, or operator of such sunken craft to commence the immediate removal of the same, and prosecute such removal diligently, and failure to do so shall be considered as an abandonment of such craft, and subject the same to removal by the United States as provided for in sections 411 to 416, 418, and 502 of this title.
+
+(Mar. 3, 1899, ch. 425, §15, 30 Stat. 1152; Nov. 17, 1986, Pub. L. 99–662, title IX, §939(a), 100 Stat. 4199.)
+
+#### Codification
+
+Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”.
+
+#### Amendments
+
+1986—Pub. L. 99–662 substituted “or to sink” for “or to voluntarily or carelessly sink”, struck out “accidentally or otherwise,” after “navigable channel,”, and inserted “, lessee, or operator” after “owner” in three places.
+
+#### Cross References
+
+Marking of obstructions, see section 86 of Title 14, Coast Guard.
+
+Sunken craft, see section 86 of Title 14.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 410, 411, 412, 413, 418 of this title.
+

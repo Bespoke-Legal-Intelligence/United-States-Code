@@ -1,0 +1,22 @@
+### §4025. Grant program
+
+#### (a) General authority
+
+The Secretary is authorized to award grants to Indian tribes for the purpose of developing and implementing plans for the investment of Indian tribal trust funds.
+
+#### (b) Use of funds
+
+The purposes for which funds provided under this section may be used include (but are not limited to)—
+
+&emsp;(1) the training and education of employees responsible for monitoring the investment of trust funds;
+
+&emsp;(2) the building of tribal capacity for the investment and management of trust funds;
+
+&emsp;(3) the development of a comprehensive tribal investment plan;
+
+&emsp;(4) the implementation and management of tribal trust fund investment plans; and
+
+&emsp;(5) such other purposes related to this subchapter that the Secretary deems appropriate.
+
+(Pub. L. 103–412, title II, §205, Oct. 25, 1994, 108 Stat. 4243.)
+

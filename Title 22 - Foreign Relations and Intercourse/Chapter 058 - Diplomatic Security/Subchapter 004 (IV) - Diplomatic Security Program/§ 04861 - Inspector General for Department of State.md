@@ -1,0 +1,38 @@
+### §4861. Inspector General for Department of State
+
+#### (a) Direction to establish
+
+The Congress directs the Secretary of State to proceed immediately to establish an Office of Inspector General of the Department of State not later than October 1, 1986. Not later than January 31, 1987, the Secretary of State shall submit a report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on theprogress in establishing that office. Such report shall include an accounting of the obligation of funds for fiscal year 1987 for that office.
+
+#### (b) Duties and responsibilities
+
+The Inspector General of the Department of State (as established by the amendment made by section 150(a) of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987) is authorized to perform all duties and responsibilities, and to exercise the authorities, stated in section 3929 of this title and in the Inspector General Act of 1978.
+
+#### (c) Earmark
+
+Of the amounts made available for fiscal year 1987 for salaries and expenses under the heading “Administration of Foreign Affairs”, not less than $6,500,000 shall be used for the sole purpose of establishing and maintaining the Office of Inspector General of the Department of State.
+
+#### (d) Limitation on appointment
+
+No career member of the Foreign Service, as defined by section 3903 of this title, may be appointed Inspector General of the Department of State.
+
+(Pub. L. 99–399, title IV, §413, Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–204, title I, §134, Dec. 22, 1987, 101 Stat. 1344.)
+
+#### References in Text
+
+The amendment made by section 150(a) of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987, referred to in subsec. (b), is the amendment made by section 150(a) of Pub. L. 99–93, title I, Aug. 16, 1985, 99 Stat. 427, to sections 2 and 11 of the Inspector General Act of 1978. See note below.
+
+The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Codification
+
+Section is comprised of section 413 of Pub. L. 99–399, as amended. Subsec. (e), formerly subsec. (a)(5), of section 413 amended section 5315 of Title 5, Government Organization and Employees. A former subsec. (a)(6) of section 413, which amended section 3929 of this title, was repealed by Pub. L. 99–529, title IV, §405, Oct. 24, 1986, 100 Stat. 3020. Another subsec. (c) of section 413 amended section 3929a of this title.
+
+#### Amendments
+
+1987—Pub. L. 100–204 struck out former subsec. (a) designation and heading “Inspector General of Department of State”, redesignated former pars. (1) to (5) as subsecs. (a) to (e), respectively, and struck out former subsec. (b) which related to establishment of the Office of Policy and Program Review. See Codification note above.
+
+#### Change of Name
+
+Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+

@@ -1,0 +1,38 @@
+### §70109. Preemption of scheduled launches
+
+(a)
+
+General.—With the cooperation of the Secretary of Defense and the Administrator of the National Aeronautics and Space Administration, the Secretary of Transportation shall act to ensure that a launch of a payload is not preempted from access to a United States Government launch site or launch property, except for imperative national need, when a launch date commitment from the Government has been obtained for a launch licensed under this chapter. A licensee or transferee preempted from access to a launch site or launch property does not have to pay the Government any amount for launch services attributable only to the scheduled launch prevented by the preemption.
+
+(b)
+
+Imperative National Need Decisions.—In consultation with the Secretary of Transportation, the Secretary of Defense or the Administrator shall decide when an imperative national need requires preemption under subsection (a) of this section. That decision may not be delegated.
+
+(c)
+
+Reports.—In cooperation with the Secretary of Transportation, the Secretary of Defense or the Administrator, as appropriate, shall submit to Congress not later than 7 days after a decision to preempt under subsection (a) of this section, a report that includes an explanation of the circumstances justifying the decision and a schedule for ensuring the prompt launching of a preempted payload.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1335.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+70109(a)
+
+49 App.:2614(b) (4)(A) (1st, last sentences).
+
+Oct. 30, 1984, Pub. L. 98–575, 98 Stat. 3055, §15(b)(4); added Nov. 15, 1988, Pub. L. 100–657, §7, 102 Stat. 3906.
+
+70109(b)
+
+49 App.:2614(b) (4)(A) (2d sentence).
+
+70109(c)
+
+49 App.:2614(b) (4)(B).
+

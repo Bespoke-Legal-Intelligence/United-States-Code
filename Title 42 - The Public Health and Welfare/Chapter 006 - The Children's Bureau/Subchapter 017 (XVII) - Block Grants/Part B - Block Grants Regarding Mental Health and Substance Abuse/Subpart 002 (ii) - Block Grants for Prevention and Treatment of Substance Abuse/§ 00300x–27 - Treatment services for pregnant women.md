@@ -1,0 +1,44 @@
+### §300x–27. Treatment services for pregnant women
+
+#### (a) In general
+
+A funding agreement for a grant under section 300x–21 of this title is that the State involved—
+
+&emsp;(1) will ensure that each pregnant woman in the State who seeks or is referred for and would benefit from such services is given preference in admissions to treatment facilities receiving funds pursuant to the grant; and
+
+&emsp;(2) will, in carrying out paragraph (1), publicize the availability to such women of services from the facilities and the fact that the women receive such preference.
+
+#### (b) Referrals regarding States
+
+A funding agreement for a grant under section 300x–21 of this title is that, in carrying out subsection (a)(1) of this section—
+
+&emsp;(1) the State involved will require that, in the event that a treatment facility has insufficient capacity to provide treatment services to any woman described in such subsection who seeks the services from the facility, the facility refer the woman to the State; and
+
+&emsp;(2) the State, in the case of each woman for whom a referral under paragraph (1) is made to the State—
+
+&emsp;&emsp;(A) will refer the woman to a treatment facility that has the capacity to provide treatment services to the woman; or
+
+&emsp;&emsp;(B) will, if no treatment facility has the capacity to admit the woman, make interim services available to the woman not later than 48 hours after the women <sup>1</sup> seeks the treatment services.
+
+(July 1, 1944, ch. 373, title XIX, §1927, as added July 10, 1992, Pub. L. 102–321, title II, §202, 106 Stat. 395; amended Aug. 26, 1992, Pub. L. 102–352, §2(a)(10), 106 Stat. 938.)
+
+#### Prior Provisions
+
+A prior section 1927 of act July 1, 1944, was classified to section 300x–12 of this title prior to repeal by Pub. L. 102–321.
+
+Another prior section 1927 of act July 1, 1944, was classified to section 300y–6 of this title prior to repeal by Pub. L. 99–280.
+
+#### Amendments
+
+1992—Subsec. (b)(2)(B). Pub. L. 102–352 struck out “available” before “interim services available”.
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendment made by Pub. L. 102–321, see section 3(1) of Pub. L. 102–352, set out as a note under section 285n of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 300x–29 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “woman”.</i>
+

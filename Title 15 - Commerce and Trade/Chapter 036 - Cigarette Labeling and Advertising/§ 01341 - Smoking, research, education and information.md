@@ -1,0 +1,58 @@
+### §1341. Smoking, research, education and information
+
+#### (a) Establishment of program; Secretary; functions
+
+The Secretary of Health and Human Services (hereinafter in this section referred to as the “Secretary”) shall establish and carry out a program to inform the public of any dangers to human health presented by cigarette smoking. In carrying out such program, the Secretary shall—
+
+&emsp;(1) conduct and support research on the effect of cigarette smoking on human health and develop materials for informing the public of such effect;
+
+&emsp;(2) coordinate all research and educational programs and other activities within the Department of Health and Human Services (hereinafter in this section referred to as the “Department”) which relate to the effect of cigarette smoking on human health and coordinate, through the Interagency Committee on Smoking and Health (established under subsection (b) of this section), such activities with similar activities of other Federal agencies and of private agencies;
+
+&emsp;(3) establish and maintain a liaison with appropriate private entities, other Federal agencies, and State and local public agencies respecting activities relating to the effect of cigarette smoking on human health;
+
+&emsp;(4) collect, analyze, and disseminate (through publications, bibliographies, and otherwise) information, studies, and other data relating to the effect of cigarette smoking on human health, and develop standards, criteria, and methodologies for improved information programs related to smoking and health;
+
+&emsp;(5) compile and make available information on State and local laws relating to the use and consumption of cigarettes; and
+
+&emsp;(6) undertake any other additional information and research activities which the Secretary determines necessary and appropriate to carry out this section.
+
+#### (b) Interagency Committee on Smoking and Health; composition; chairman; compensation; staffing and other assistance
+
+(1) To carry out the activities described in paragraphs (2) and (3) of subsection (a) of this section there is established an Interagency Committee on Smoking and Health. The Committee shall be composed of—
+
+&emsp;(A) members appointed by the Secretary from appropriate institutes and agencies of the Department, which may include the National Cancer Institute, the National Heart, Lung, and Blood Institute, the National Institute of Child Health and Human Development, the National Institute on Drug Abuse, the Health Resources and Services Administration, and the Centers for Disease Control and Prevention;
+
+&emsp;(B) at least one member appointed from the Federal Trade Commission, the Department of Education, the Department of Labor, and any other Federal agency designated by the Secretary, the appointment of whom shall be made by the head of the entity from which the member is appointed; and
+
+&emsp;(C) five members appointed by the Secretary from physicians and scientists who represent private entities involved in informing the public about the health effects of smoking.
+
+> The Secretary shall designate the chairman of the Committee.
+
+(2) While away from their homes or regular places of business in the performance of services for the Committee, members of the Committee shall be allowed travel expenses, including per diem in lieu of subsistance,<sup>1</sup> in the manner provided by sections 5702 and 5703 of title 5.
+
+(3) The Secretary shall make available to the Committee such staff, information, and other assistance as it may require to carry out its activities effectively.
+
+#### (c) Report to Congress; contents
+
+The Secretary shall transmit a report to Congress not later than January 1, 1986, and biennially thereafter which shall contain—
+
+&emsp;(1) an overview and assessment of Federal activities undertaken to inform the public of the health consequences of smoking and the extent of public knowledge of such consequences,
+
+&emsp;(2) a description of the Secretary's and Committee's activities under subsection (a) of this section,
+
+&emsp;(3) information regarding the activities of the private sector taken in response to the effects of smoking on health, and
+
+&emsp;(4) such recommendations as the Secretary may consider appropriate.
+
+(Pub. L. 98–474, §3, Oct. 12, 1984, 98 Stat. 2200; Pub. L. 99–92, §13, Aug. 16, 1985, 99 Stat. 404; Pub. L. 102–531, title III, §312(a), Oct. 27, 1992, 106 Stat. 3504.)
+
+#### Codification
+
+Section was enacted as part of the Comprehensive Smoking Education Act, and not as part of the Federal Cigarette Labeling and Advertising Act which comprises this chapter.
+
+#### Amendments
+
+1992—Subsec. (b)(1)(A), Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+
+1985—Subsec. (c). Pub. L. 99–92 substituted “1986” for “1985”.
+

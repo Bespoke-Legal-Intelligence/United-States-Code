@@ -1,0 +1,16 @@
+### §7213. Authorization of appropriations; reservation
+
+#### (a) Authorization
+
+For the purpose of carrying out this part, there are authorized to be appropriated $120,000,000 for fiscal year 1995 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+
+#### (b) Availability of funds for grants to agencies not previously assisted
+
+In any fiscal year for which the amount appropriated pursuant to subsection (a) of this section exceeds $75,000,000, the Secretary shall give priority to using such amounts in excess of $75,000,000 to award grants to local educational agencies or consortia of such agencies that did not receive a grant under this part in the preceding fiscal year.
+
+(Pub. L. 89 10, title V, §5113, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3695.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7211, 7212 of this title.
+

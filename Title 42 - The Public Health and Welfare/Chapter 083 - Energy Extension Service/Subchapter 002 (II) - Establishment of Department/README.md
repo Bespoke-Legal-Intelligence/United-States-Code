@@ -1,0 +1,25 @@
+### SUBCHAPTER II—ESTABLISHMENT OF DEPARTMENT
+
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in sections 7232, 7341 of this title.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 07131 - Establishment](%C2%A7%2007131%20-%20Establishment.md)
+- [&sect; 07132 - Principal officers](%C2%A7%2007132%20-%20Principal%20officers.md)
+- [&sect; 07133 - Assistant Secretaries; appointment and confirmation; identification of responsibilities](%C2%A7%2007133%20-%20Assistant%20Secretaries%3B%20appointment%20and%20confirmation%3B%20identification%20of%20responsibilities.md)
+- [&sect; 07134 - Federal Energy Regulatory Commission; compensation of Chairman and members](%C2%A7%2007134%20-%20Federal%20Energy%20Regulatory%20Commission%3B%20compensation%20of%20Chairman%20and%20members.md)
+- [&sect; 07135 - Energy Information Administration](%C2%A7%2007135%20-%20Energy%20Information%20Administration.md)
+- [&sect; 07135a - Delegation by Secretary of Energy of energy research, etc., functions to Administrator of Energy Information Administration; prohibition&#8230;](%C2%A7%2007135a%20-%20Delegation%20by%20Secretary%20of%20Energy%20of%20energy%20research%2C%20etc.%2C%20functions%20to%20Administrator%20of%20Energy%20Information%20Administration%3B%20prohibition%E2%80%A6.md)
+- [&sect; 07136 - Economic Regulatory Administration; appointment of Administrator; compensation; qualifications; functions](%C2%A7%2007136%20-%20Economic%20Regulatory%20Administration%3B%20appointment%20of%20Administrator%3B%20compensation%3B%20qualifications%3B%20functions.md)
+- [&sect; 07137 - Functions of Comptroller General](%C2%A7%2007137%20-%20Functions%20of%20Comptroller%20General.md)
+- [&sect; 07138 - Repealed. Pub. L. 100&#8211;504, title I, &sect;102(e)(1)(A), Oct. 18, 1988, 102 Stat. 2517](%C2%A7%2007138%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93504%2C%20title%20I%2C%20%C2%A7102%28e%29%281%29%28A%29%2C%20Oct.%2018%2C%201988%2C%20102%20Stat.%202517.md)
+- [&sect; 07139 - Office of Energy Research; establishment; appointment of Director; compensation; duties](%C2%A7%2007139%20-%20Office%20of%20Energy%20Research%3B%20establishment%3B%20appointment%20of%20Director%3B%20compensation%3B%20duties.md)
+- [&sect; 07140 - Leasing Liaison Committee; establishment; composition](%C2%A7%2007140%20-%20Leasing%20Liaison%20Committee%3B%20establishment%3B%20composition.md)
+- [&sect; 07141 - Office of Minority Economic Impact](%C2%A7%2007141%20-%20Office%20of%20Minority%20Economic%20Impact.md)
+- [&sect; 07142 - National Atomic Museum](%C2%A7%2007142%20-%20National%20Atomic%20Museum.md)
+- [&sect; 07143 - Office of Fissile Materials Disposition](%C2%A7%2007143%20-%20Office%20of%20Fissile%20Materials%20Disposition.md)

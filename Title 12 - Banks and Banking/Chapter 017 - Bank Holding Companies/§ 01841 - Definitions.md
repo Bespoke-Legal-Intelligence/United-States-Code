@@ -1,0 +1,406 @@
+### §1841. Definitions
+
+(a)(1) Except as provided in paragraph (5) of this subsection, “bank holding company” means any company which has control over any bank or over any company that is or becomes a bank holding company by virtue of this chapter.
+
+(2) Any company has control over a bank or over any company if—
+
+&emsp;(A) the company directly or indirectly or acting through one or more other persons owns, controls, or has power to vote 25 per centum or more of any class of voting securities of the bank or company;
+
+&emsp;(B) the company controls in any manner the election of a majority of the directors or trustees of the bank or company; or
+
+&emsp;(C) the Board determines, after notice and opportunity for hearing, that the company directly or indirectly exercises a controlling influence over the management or policies of the bank or company.
+
+(3) For the purposes of any proceeding under paragraph (2)(C) of this subsection, there is a presumption that any company which directly or indirectly owns, controls, or has power to vote less than 5 per centum of any class of voting securities of a given bank or company does not have control over that bank or company.
+
+(4) In any administrative or judicial proceeding under this chapter, other than a proceeding under paragraph (2)(C) of this subsection, a company may not be held to have had control over any given bank or company at any given time unless that company, at the time in question, directly or indirectly owned, controlled, or had power to vote 5 per centum or more of any class of voting securities of the bank or company, or had already been found to have control in a proceeding under paragraph (2)(C).
+
+(5) Notwithstanding any other provision of this subsection—
+
+&emsp;(A) No bank and no company owning or controlling voting shares of a bank is a bank holding company by virtue of its ownership or control of shares in a fiduciary capacity, except as provided in paragraphs (2) and (3) of subsection (g) of this section. For the purpose of the preceding sentence, bank shares shall not be deemed to have been acquired in a fiduciary capacity if the acquiring bank or company has sole discretionary authority to exercise voting rights with respect thereto; except that this limitation is applicable in the case of a bank or company acquiring such shares prior to December 31, 1970, only if the bank or company has the right consistent with its obligations under the instrument, agreement, or other arrangement establishing the fiduciary relationship to divest itself of such voting rights and fails to exercise that right to divest within a reasonable period not to exceed one year after December 31, 1970.
+
+&emsp;(B) No company is a bank holding company by virtue of its ownership or control of shares acquired by it in connection with its underwriting of securities if such shares are held only for such period of time as will permit the sale thereof on a reasonable basis.
+
+&emsp;(C) No company formed for the sole purpose of participating in a proxy solicitation is a bank holding company by virtue of its control of voting rights of shares acquired in the course of such solicitation.
+
+&emsp;(D) No company is a bank holding company by virtue of its ownership or control of sharesacquired in securing or collecting a debt previously contracted in good faith, until two years after the date of acquisition. The Board is authorized upon application by a company to extend, from time to time for not more than one year at a time, the two-year period referred to herein for disposing of any shares acquired by a company in the regular course of securing or collecting a debt previously contracted in good faith, if, in the Board's judgment, such an extension would not be detrimental to the public interest, but no such extension shall in the aggregate exceed three years.
+
+&emsp;(E) No company is a bank holding company by virtue of its ownership or control of any State-chartered bank or trust company which—
+
+&emsp;&emsp;(i) is wholly owned by thrift institutions or savings banks; and
+
+&emsp;&emsp;(ii) is restricted to accepting—
+
+&emsp;&emsp;&emsp;(I) deposits from thrift institutions or savings banks;
+
+&emsp;&emsp;&emsp;(II) deposits arising out of the corporate business of the thrift institutions or savings banks that own the bank or trust company; or
+
+&emsp;&emsp;&emsp;(III) deposits of public moneys.
+
+&emsp;(F) No trust company or mutual savings bank which is an insured bank under the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] is a bank holding company by virtue of its direct or indirect ownership or control of one bank located in the same State, if (i) such ownership or control existed on December 31, 1970, authorized by applicable State law, and (ii) the trust company or mutual savings bank does not after that date acquire an interest in any company that, together with any other interest it holds in that company, will exceed 5 per centum of any class of the voting shares of that company, except that this limitation shall not be applicable to investments of the trust company or mutual savings bank, direct and indirect, which are otherwise in accordance with the limitations applicable to national banks under section 24 of this title.
+
+(6) For the purposes of this chapter, any successor to a bank holding company shall be deemed to be a bank holding company from the date on which the predecessor company became a bank holding company.
+
+(b) “Company” means any corporation, partnership, business trust, association, or similar organization, or any other trust unless by its terms it must terminate within twenty-five years or not later than twenty-one years and ten months after the death of individuals living on the effective date of the trust but shall not include any corporation the majority of the shares of which are owned by the United States or by any State. “Company covered in 1970” means a company which becomes a bank holding company as a result of the enactment of the Bank Holding Company Act Amendments of 1970 and which would have been a bank holding company on June 30, 1968, if those amendments had been enacted on that date.
+
+(c)
+
+Bank Defined.—For purposes of this chapter—
+
+&emsp;(1)
+
+In general.—Except as provided in paragraph (2), the term “bank” means any of the following:
+
+&emsp;&emsp;(A) An insured bank as defined in section 3(h) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(h)\].
+
+&emsp;&emsp;(B) An institution organized under the laws of the United States, any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands which both—
+
+&emsp;&emsp;&emsp;(i) accepts demand deposits or deposits that the depositor may withdraw by check or similar means for payment to third parties or others; and
+
+&emsp;&emsp;&emsp;(ii) is engaged in the business of making commercial loans.
+
+&emsp;(2)
+
+Exceptions.—The term “bank” does not include any of the following:
+
+&emsp;&emsp;(A) A foreign bank which would be a bank within the meaning of paragraph (1) solely because such bank has an insured or uninsured branch in the United States.
+
+&emsp;&emsp;(B) An insured institution (as defined in subsection (j) of this section).
+
+&emsp;&emsp;(C) An organization that does not do business in the United States except as an incident to its activities outside the United States.
+
+&emsp;&emsp;(D) An institution that functions solely in a trust or fiduciary capacity, if—
+
+&emsp;&emsp;&emsp;(i) all or substantially all of the deposits of such institution are in trust funds and are received in a bona fide fiduciary capacity;
+
+&emsp;&emsp;&emsp;(ii) no deposits of such institution which are insured by the Federal Deposit Insurance Corporation are offered or marketed by or through an affiliate of such institution;
+
+&emsp;&emsp;&emsp;(iii) such institution does not accept demand deposits or deposits that the depositor may withdraw by check or similar means for payment to third parties or others or make commercial loans; and
+
+&emsp;&emsp;&emsp;(iv) such institution does not—
+
+&emsp;&emsp;&emsp;&emsp;(I) obtain payment or payment related services from any Federal Reserve bank, including any service referred to in section 11A of the Federal Reserve Act \[12 U.S.C. 248a\]; or
+
+&emsp;&emsp;&emsp;&emsp;(II) exercise discount or borrowing privileges pursuant to section 19(b)(7) of the Federal Reserve Act \[12 U.S.C. 461(b)(7)\].
+
+&emsp;&emsp;(E) A credit union (as described in section 19(b)(1)(A)(iv) of the Federal Reserve Act \[12 U.S.C. 461(b)(1)(A)(iv)\]).
+
+&emsp;&emsp;(F) An institution which—
+
+&emsp;&emsp;&emsp;(i) engages only in credit card operations;
+
+&emsp;&emsp;&emsp;(ii) does not accept demand deposits or deposits that the depositor may withdraw by check or similar means for payment to third parties or others;
+
+&emsp;&emsp;&emsp;(iii) does not accept any savings or time deposit of less than $100,000;
+
+&emsp;&emsp;&emsp;(iv) maintains only one office that accepts deposits; and
+
+&emsp;&emsp;&emsp;(v) does not engage in the business of making commercial loans.
+
+&emsp;&emsp;(G) An organization operating under section 25 or section 25(a) <sup>1</sup> of the Federal Reserve Act.
+
+&emsp;&emsp;(H) An industrial loan company, industrial bank, or other similar institution which is—
+
+&emsp;&emsp;&emsp;(i) an institution organized under the laws of a State which, on March 5, 1987, had in effect or had under consideration in such State's legislature a statute which required or would require such institution to obtain insurance under the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\]—
+
+&emsp;&emsp;&emsp;&emsp;(I) which does not accept demand deposits that the depositor may withdraw by check or similar means for payment to third parties;
+
+&emsp;&emsp;&emsp;&emsp;(II) which has total assets of less than $100,000,000; or
+
+&emsp;&emsp;&emsp;&emsp;(III) the control of which is not acquired by any company after August 10, 1987; or
+
+&emsp;&emsp;&emsp;(ii) an institution which does not, directly, indirectly, or through an affiliate, engage in any activity in which it was not lawfully engaged as of March 5, 1987,
+
+> &emsp;&emsp;except that this subparagraph shall cease to apply to any institution which permits any overdraft (including any intraday overdraft), or which incurs any such overdraft in such institution's account at a Federal Reserve bank, on behalf of an affiliate if such overdraft is not the result of an inadvertent computer or accounting error that is beyond the control of both the institution and the affiliate.
+
+&emsp;&emsp;(I) The Investors Fiduciary Trust Company, located in Kansas City, Missouri, so long as such institution—
+
+&emsp;&emsp;&emsp;(i) engages only in trust, fiduciary, and agency activities in which it was lawfully engaged on March 5, 1987;
+
+&emsp;&emsp;&emsp;(ii) engages in such activities only at the same number of locations at which such activities were conducted on such date;
+
+&emsp;&emsp;&emsp;(iii) does not accept demand deposits other than demand deposits which are maintained by such institution in—
+
+&emsp;&emsp;&emsp;&emsp;(I) a trust or fiduciary capacity;
+
+&emsp;&emsp;&emsp;&emsp;(II) the institution's capacity as a custodian or as a paying, transfer, shareholder servicing, securities clearing, escrow, or dividend disbursing agent; or
+
+&emsp;&emsp;&emsp;&emsp;(III) any capacity which is incidental to the trust or fiduciary activities of the institution;
+
+&emsp;&emsp;&emsp;(iv) does not engage in the business of making commercial loans;
+
+&emsp;&emsp;&emsp;(v) does not exercise discount or borrowing privileges pursuant to section 19(b)(7) of the Federal Reserve Act \[12 U.S.C. 461(b)(7)\]; and
+
+&emsp;&emsp;&emsp;(vi) is not directly or indirectly controlled by any company other than a company which directly or indirectly controlled such institution on March 5, 1987.
+
+&emsp;&emsp;(J) A savings bank (as defined in section 3(g) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(g)\]) which—
+
+&emsp;&emsp;&emsp;(i) is an insured bank (as defined in section 3(h) of such Act \[12 U.S.C. 1813(h)\]);
+
+&emsp;&emsp;&emsp;(ii) is a subsidiary of the Great Western Financial Corporation as a result of an approval in writing by the State bank supervisor of the State of New York before June 30, 1987;
+
+&emsp;&emsp;&emsp;(iii) meets or exceeds the investment requirements which an insured institution must meet in order to be a qualified thrift lender under section 1730a(<i>o</i>) <sup>1</sup> of this title; and
+
+&emsp;&emsp;&emsp;(iv) does not, directly, or through insurance products such savings bank receives from or provides to the Great Western Financial Corporation, engage in the sale or underwriting of insurance,
+
+> &emsp;&emsp;except that this subparagraph shall cease to apply with respect to such savings bank or any successor institution if any deposits of any other subsidiary or affiliate of the Great Western Financial Corporation which are subject to an assessment of an insurance premium under subsection (b) or (c) of section 1727 <sup>1</sup> of this title are, directly or indirectly by any device whatsoever, transferred to or acquired by such savings bank or any successor institution which would have the effect of materially reducing such premium assessments. The exemption provided by this subparagraph shall cease to apply if Great Western Financial Corporation uses such savings bank or any successor institution as a vehicle to move such Corporation from Federal Savings and Loan Insurance Corporation insurance to Federal Deposit Insurance Corporation insurance.
+
+&emsp;(3)
+
+District bank.—The term “District bank” means any bank operating under the Code of Law for the District of Columbia.
+
+(d) “Subsidiary”, with respect to a specified bank holding company, means (1) any company 25 per centum or more of whose voting shares (excluding shares owned by the United States or by any company wholly owned by the United States) is directly or indirectly owned or controlled by such bank holding company, or is held by it with power to vote; (2) any company the election of a majority of whose directors is controlled in any manner by such bank holding company; or (3) any company with respect to the management of policies of which such bank holding company has the power, directly or indirectly, to exercise a controlling influence, as determined by the Board, after notice and opportunity for hearing.
+
+(e) The term “successor” shall include any company which acquires directly or indirectly from a bank holding company shares of any bank, when and if the relationship between such company and the bank holding company is such that the transaction effects no substantial change in the control of the bank or beneficial ownership of such shares of such bank. The Board may, by regulation, further define the term “successor” to the extent necessary to prevent evasion of the purposes of this chapter.
+
+(f) “Board” means the Board of Governors of the Federal Reserve System.
+
+(g) For the purposes of this chapter—
+
+&emsp;(1) shares owned or controlled by any subsidiary of a bank holding company shall be deemed to be indirectly owned or controlled by such bank holding company;
+
+&emsp;(2) shares held or controlled directly or indirectly by trustees for the benefit of (A) a company, (B) the shareholders or members of a company, or (C) the employees (whether exclusively or not) of a company, shall be deemed to be controlled by such company; and
+
+&emsp;(3) shares transferred after January 1, 1966, by any bank holding company (or by any company which, but for such transfer, would be a bank holding company) directly or indirectly to any transferee that is indebted to the transferor, or has one or more officers, directors, trustees, or beneficiaries in common with or subject to control by the transferor, shall be deemed to be indirectly owned or controlled by the transferor unless the Board, after opportunity for hearing, determines that the transferor is not in fact capable of controlling the transferee.
+
+(h)(1) Except as provided by paragraph (2), the application of this chapter and of section 371c of this title shall not be affected by the fact that a transaction takes place wholly or partly outside the United States or that a company is organized or operates outside the United States.
+
+(2) Except as provided in paragraph (3), the prohibitions of section 1843 of this title shall not apply to shares of any company organized under the laws of a foreign country (or to shares held by such company in any company engaged in the same general line of business as the investor company or in a business related to the business of the investor company) that is principally engaged in business outside the United States if such shares are held or acquired by a bank holding company organized under the laws of a foreign country that is principally engaged in the banking business outside the United States. For the purpose of this subsection, the term “section 2(h)(2) company” means any company whose shares are held pursuant to this paragraph.
+
+(3) Nothing in paragraph (2) authorizes a section 2(h)(2) company to engage in (or acquire or hold more than 5 percent of the outstanding shares of any class of voting securities of a company engaged in) any banking, securities, insurance, or other financial activities, as defined by the Board, in the United States. This paragraph does not prohibit a section 2(h)(2) company from holding shares that were lawfully acquired before August 10, 1987.
+
+(4) No domestic office or subsidiary of a bank holding company or subsidiary thereof holding shares of a section 2(h)(2) company may extend credit to a domestic office or subsidiary of such section 2(h)(2) company on terms more favorable than those afforded similar borrowers in the United States.
+
+(5) No domestic banking office or bank subsidiary of a bank holding company that controls a section 2(h)(2) company may offer or market products or services of such section 2(h)(2) company, or permit its products or services to be offered or marketed by or through such section 2(h)(2) company, unless such products or services were being so offered or marketed as of March 5, 1987, and then only in the same manner in which they were being offered or marketed as of that date.
+
+(i)
+
+Thrift Institution.—For purposes of this chapter, the term “thrift institution” means—
+
+&emsp;(1) any domestic building and loan or savings and loan association;
+
+&emsp;(2) any cooperative bank without capital stock organized and operated for mutual purposes and without profit;
+
+&emsp;(3) any Federal savings bank; and
+
+&emsp;(4) any State-chartered savings bank the holding company of which is registered pursuant to section 1730a <sup>2</sup> of this title.
+
+(j)
+
+Definition of Savings Associations and Related Term.—The term “savings association” or “insured institution” means—
+
+&emsp;(1) any Federal savings association or Federal savings bank;
+
+&emsp;(2) any building and loan association, savings and loan association, homestead association, or cooperative bank if such association or cooperative bank is a member of the Savings Association Insurance Fund; and
+
+&emsp;(3) any savings bank or cooperative bank which is deemed by the Director of the Office of Thrift Supervision to be a savings association under section 1467a(<i>l</i>) of this title.
+
+(k)
+
+Affiliate.—For purposes of this chapter, the term “affiliate” means any company that controls, is controlled by, or is under common control with another company.
+
+(<i>l</i>)
+
+Savings Bank Holding Company.—For purposes of this chapter, the term “savings bank holding company” means any company which controls one or more qualified savings banks if the aggregate total assets of such savings banks constitute, upon formation of the holding company and at all times thereafter, at least 70 percent of the total assets of such company.
+
+(m)
+
+Qualified Savings Bank.—For purposes of this chapter, the term “qualified savings bank”—
+
+&emsp;(1) means any savings bank (as defined in section 3(g) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(g)\]) which was organized on or before March 5, 1987; and
+
+&emsp;(2) includes any cooperative bank that is an insured bank (as defined in section 3(h) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(h)\]) and any interim savings bank that is established to facilitate a corporate reorganization, or the formation of a holding company, involving a savings bank described in paragraph (1).
+
+(n)
+
+Incorporated Definitions.—For purposes of this chapter, the terms “insured depository institution”, “appropriate Federal banking agency”, “default”, “in danger of default”, and “State bank supervisor” have the same meanings as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].
+
+(<i>o)</i>
+
+Other Definitions.—For purposes of this chapter, the following definitions shall apply:
+
+&emsp;(1)
+
+Adequately capitalized.—The term “adequately capitalized” means a level of capitalization which meets or exceeds all applicable Federal regulatory capital standards.
+
+&emsp;(2)
+
+Antitrust laws.—Except as provided in section 1849 of this title, the term “antitrust laws”—
+
+&emsp;&emsp;(A) has the same meaning as in subsection (a) of section 12 of title 15; and
+
+&emsp;&emsp;(B) includes section 45 of title 15 to the extent that such section 45 relates to unfair methods of competition.
+
+&emsp;(3)
+
+Branch.—The term “branch” means a domestic branch (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]).
+
+&emsp;(4)
+
+Home state.—The term “home State” means—
+
+&emsp;&emsp;(A) with respect to a national bank, the State in which the main office of the bank is located;
+
+&emsp;&emsp;(B) with respect to a State bank, the State by which the bank is chartered; and
+
+&emsp;&emsp;(C) with respect to a bank holding company, the State in which the total deposits of all banking subsidiaries of such company are the largest on the later of—
+
+&emsp;&emsp;&emsp;(i) July 1, 1966; or
+
+&emsp;&emsp;&emsp;(ii) the date on which the company becomes a bank holding company under this chapter.
+
+&emsp;(5)
+
+Host state.—The term “host State” means—
+
+&emsp;&emsp;(A) with respect to a bank, a State, other than the home State of the bank, in which the bank maintains, or seeks to establish and maintain, a branch; and
+
+&emsp;&emsp;(B) with respect to a bank holding company, a State, other than the home State of the company, in which the company controls, or seeks to control, a bank subsidiary.
+
+&emsp;(6)
+
+Out-of-state bank.—The term “out-of-State bank” means, with respect to any State, a bank whose home State is another State.
+
+&emsp;(7)
+
+Out-of-state bank holding company.—The term “out-of-State bank holding company” means, with respect to any State, a bank holding company whose home State is another State.
+
+(May 9, 1956, ch. 240, §2, 70 Stat. 133; July 1, 1966, Pub. L. 89–485, §§1–6, 80 Stat. 236, 237; Dec. 31, 1970, Pub. L. 91–607, title I, §101, 84 Stat. 1760; Nov. 16, 1977, Pub. L. 95–188, title III, §301(b), 91 Stat. 1389; Sept. 17, 1978, Pub. L. 95–369, §8(e), 92 Stat. 623; Oct. 15, 1982, Pub. L. 97–320, title I, §118(b), title III, §333, title IV, §404(d)(1), 96 Stat. 1479, 1504, 1512; Aug. 10, 1987, Pub. L. 100–86, title I, §101(a), (e), title II, §205(a), 101 Stat. 554, 562, 584; Aug. 9, 1989, Pub. L. 101–73, title VI, §602(a), 103 Stat. 409; Sept. 29, 1994, Pub. L. 103–328, title I, §101(c), 108 Stat. 2341.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(1), (4), (c), and (g) to (<i>o</i>), was in the original “this Act”, meaning act May 9, 1956, ch. 240, 70 Stat. 133, as amended, known as the Bank Holding Company Act of 1956, which enacted this chapter and sections 1101 to 1103 of Title 26, Internal Revenue Code, and enacted provisions set out as notes under this section. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+The Federal Deposit Insurance Act, referred to in subsecs. (a)(5)(F) and (c)(2)(H)(i), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+
+Enactment of the Bank Holding Company Act Amendments of 1970, referred to in subsec. (b), means enactment of Pub. L. 91–607, on Dec. 31, 1970. For classification of Pub. L. 91–607, see Short Title of 1970 Amendment note below.
+
+Section 25 of the Federal Reserve Act, referred to in subsec. (c)(2)(G), is classified to subchapter I (§601 et seq.) of chapter 6 of this title. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§611 et seq.) of chapter 6 of this title, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
+
+Sections 1727 and 1730a of this title, referred to in subsecs. (c)(2)(J) and (i)(4), were repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
+
+A section 2(h)(2) company, referred to in subsec. (h)(3) to (5), is defined in subsec. (h)(2) of this section.
+
+#### Amendments
+
+1994—Subsecs. (n), (<i>o</i>). Pub. L. 103–328 added subsecs. (n) and (<i>o).</i>
+
+1989—Subsec. (j). Pub. L. 101–73 amended subsec. (j) generally, substituting provisions defining “saving association” or “insured institution” for provisions defining “insured institution”.
+
+1987—Subsec. (a)(5)(E). Pub. L. 100–86, §101(e), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “No company is a bank holding company by virtue of its ownership or control of any State chartered bank or trust company which is wholly owned by thrift institutions and which restricts itself to the acceptance of deposits from thrift institutions, deposits arising out of the corporate business of its owners, and deposits of public moneys.”
+
+Subsec. (c). Pub. L. 100–86, §101(a)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “ ‘Bank’ means any institution organized under the laws of the United States, any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands, except an institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation or an institution chartered by the Federal Home Loan Bank Board, which (1) accepts deposits that the depositor has a legal right to withdraw on demand, and (2) engages in the business of making commercial loans. Such term does not include any organization operating under section 25 or section 25 (a) of the Federal Reserve Act, or any organization which does not do business within the United States except as an incident to its activities outside the United States. ‘District bank’ means any bank organized or operating under the Code of Law for the District of Columbia. The term ‘bank’ also includes a State chartered bank or a national banking association which is owned exclusively (except to the extent directors’ qualifying shares are required by law) by other depository institutions or by a bank holding company which is owned exclusively by other depository institutions and is organized to engage exclusively in providing services for other depository institutions and their officers, directors, and employees.”
+
+Subsec. (h)(2). Pub. L. 100–86, §205(a), added par. (2) and struck out former par. (2) which read as follows: “The prohibitions of section 1843 of this title shall not apply to shares of any company organized under the laws of a foreign country (or to shares held by such company in any company engaged in the same general line of business as the investor company or in a business related to the business of the investor company) that is principally engaged in business outside the United States if such shares are held or acquired by a bank holding company organized under the laws of aforeign country that is principally engaged in the banking business outside the United States, except that (1) such exempt foreign company (A) may engage in or hold shares of a company engaged in the business of underwriting, selling or distributing securities in the United States only to the extent that a bank holding company may do so under this chapter and under regulations or orders issued by the Board under this chapter, and (B) may engage in the United States in any banking or financial operations or types of activities permitted under section 1843(c)(8) of this title or in any order or regulation issued by the Board under such section only with the Board's prior approval under that section, and (2) no domestic office or subsidiary of a bank holding company or subsidiary thereof holding shares of such company may extend credit to a domestic office or subsidiary of such exempt company on terms more favorable than those afforded similar borrowers in the United States.”
+
+Subsec. (h)(3) to (5). Pub. L. 100–86, §205(a), added pars. (3) to (5).
+
+Subsec. (i). Pub. L. 100–86, §101(a)(2), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “The term ‘thrift institution’ means (1) a domestic building and loan or savings and loan association, (2) a cooperative bank without capital stock organized and operated for mutual purposes and without profit, (3) a mutual savings bank not having capital stock represented by shares or (4) a Federal savings bank.”
+
+Subsecs. (j) to (m). Pub. L. 100–86, §101(a)(3), added subsecs. (j) to (m).
+
+1982—Subsec. (c). Pub. L. 97–320, §404(d)(1), inserted references to State chartered banks and national banking associations as being included in definition of “bank”.
+
+Pub. L. 97–320, §333, excepted from term “bank” an institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation or an institution chartered by the Federal Home Loan Bank Board.
+
+Subsec. (i)(4). Pub. L. 97–320, §118(b), added cl. (4).
+
+1978—Subsec. (h). Pub. L. 95–369 designated existing provisions as par. (1), substituted “Except as provided by paragraph (2), the application” for “The application”; struck out a proviso holding the prohibitions of section 1843 not applicable to shares of any company organized under the laws of a foreign country not doing business within the United States, if such shares are held or acquired by a bank holding company principally engaged in banking business outside the United States; and added par. (2).
+
+1977—Subsec. (a)(5)(D). Pub. L. 95–188 authorized the Board to extend the time for disposition of acquired shares for not more than one year at a time and three years in the aggregate.
+
+1970—Subsec. (a). Pub. L. 91–607, §101(a), in revising the provisions, added par. (1) definition of bank holding company; incorporated provisions of former cl. (1) in provisions designated as par. (2)(A), inserting text respecting company acting through one or more other persons, substituting “power to vote” for “holds with power to vote” and provision for voting of any class of voting securities of the bank or company for prior provision for voting of voting shares of each of two or more banks; incorporated former provisions of former cl. (2) in provisions designated as par. (2)(B), providing for election of trustees and substituting bank or company for directors of each of two or more banks designated cl. (A) as par. (5)(A), inserting provision that acquisition of shares shall not be deemed acquisition of shares in a fiduciary capacity if the banks or company has sole discretionary authority to exercise voting rights with respect thereto, and making such limitation applicable to bank or company acquiring the shares prior to Dec. 31, 1970, where there is right of divestiture of voting rights and there is a failure to exercise that right within reasonable time not exceeding one year after Dec. 31, 1970; incorporated former cls. (B) and (C) in provisions designated as pars. (5)(B) and (C); added par. (5)(D) to (F); and designated concluding part of first sentence as par. (6), substituting “from the date on which” for “from the date as of which”.
+
+Subsec. (b). Pub. L. 91–607, §101(b), redefined term “company” to include “partnership”, which has been expressly excluded, and inserted definition of “company covered in 1970”.
+
+Subsec. (c). Pub. L. 91–607, §101(c), redefined term “bank” to mean any institution organized under Federal, State, District of Columbia, etc., laws, designated existing provisions as cl. (1), added cl. (2), and excepted from exclusion from such term an organization which does business within the United States as an incident to its activities outside the United States.
+
+Subsec. (d)(3). Pub. L. 91–607, §101(d), added cl. (3).
+
+Subsec. (i). Pub. L. 91–607, §101(e), added subsec. (i).
+
+1966—Subsec. (a). Pub. L. 89–485, §1, struck out provision placing within the classification of bank holding company any company for the benefit of whose shareholders or members 25 per centum or more of the voting shares of each of two or more banks or a bank holding company is held by trustees, struck out provision exempting from classification as bank holding companies any companies that are registered under the Investment Company Act of 1940, and were so registered prior to May 15, 1955 (or which is affiliated with any such company in such manner as to constitute an affiliated company within the meaning of that Act), unless that company (or affiliated company), as the case may be, directly owns 25 per centum or more of the voting shares of each of two or more banks, struck out provision exempting from classification as bank holding companies any companies having 80 per centum or more of their total assets composed of holdings in the field of agriculture, substituted voting shares for shares in the description of the securities the ownership or control of which, in a fiduciary capacity, would be exempted from causing the formation of a bank holding company, added “company” to “bank” as the business entities eligible for the fiduciary ownership exemption, and inserted reference in the fiduciary ownership exemption to pars. (2) and (3) of subsec. (g) of this section.
+
+Subsec. (b). Pub. L. 89–485, §2, exempted from definition of “company” any trust which by its terms must terminate within twenty-five years or not later than twenty-one years and ten months after the death of individuals living on the effective date of the trust, and struck out the exemption formerly granted to nonprofit religious, charitable, and educational organizations.
+
+Subsec. (c). Pub. L. 89–485, §3, substituted “any institution that accepts deposits that the depositor has a legal right to withdraw on demand” for “any national banking institution or any state bank, savings bank, or trust company” in the definition of “bank” and extended the exemption for foreign banking corporations to include “agreement” foreign banking corporations under section 25 of the Federal Reserve Act.
+
+Subsec. (d). Pub. L. 89–485, §4, inserted provision relating to indirect ownership or control and the holding of power to vote to direct ownership or control as the methods by which the holding of 25 per centum or more of voting shares in a company will qualify that company as a subsidiary, and struck out provisions under which any company 25 per centum or more of whose voting shares are held by trustees for the benefit of the shareholders or members of a bank holding company qualifies as a subsidiary.
+
+Subsec. (g). Pub. L. 89–485, §§5, 6, substituted provisions setting out treatment to be accorded shares owned or controlled by subsidiaries of bank holding companies, shares held or controlled by trustees for the benefit of companies, shareholders or members of companies, and employees of companies, and shares transferred after January 1, 1966, by bank holding companies to transferees that are indebted to the transferor or have one or more officers, directors, trustees, or beneficiaries in common with the transferor for provisions defining “agriculture”.
+
+Subsec. (h). Pub. L. 89–485, §6, added subsec. (h).
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–328 effective at end of 1-year period beginning on Sept. 29, 1994, see section 101(e) of Pub. L. 103–328, set out as a note under section 1828 of this title.
+
+#### Short Title of 1988 Amendment
+
+Pub. L. 100–418, title III, §3401, Aug. 23, 1988, 102 Stat. 1384, provided that: “This subtitle \[subtitle E (§§3401, 3402) of title III of Pub. L. 100–418, amending section 1843 of this title\] may be cited as the ‘Export Trading Company Act Amendments of 1988’.”
+
+#### Short Title of 1982 Amendment
+
+Pub. L. 97–290, title II, §201, Oct. 8, 1982, 96 Stat. 1235, provided that: “This title \[enacting section 635a–4 of this title, amending sections 372 and 1843 of this title, and enacting provisions set out as notes under section 1843 of this title\] may be cited as the ‘Bank Export Services Act’.”
+
+#### Short Title of 1970 Amendment
+
+Section 1 of Pub. L. 91–607 provided: “That this Act \[enacting chapter 22 (§1971 et seq.) and section 1850 of this title and sections 324b and 324c of former Title 31, Money and Finance, amending sections 1841 to 1843 and 1849 of this title and sections 324, 391 of former Title 31, repealing sections 316 and 458 of former Title 31, enacting provisions set out as notes under sections 317e and 391 of former Title 31, and amending provisions set out as a note under section 405a–1 of former Title 31\] may be cited as the ‘Bank Holding Company Act Amendments of 1970’.”
+
+#### Short Title
+
+Section 1 of act May 9, 1956, provided: “That this Act \[enacting this chapter and sections 1101 to 1103 of Title 26, Internal Revenue Code\] may be cited as the ‘Bank Holding Company Act of 1956’.”
+
+#### Separability
+
+Section 12 of act May 9, 1956, provided that: “If any provision of this Act \[enacting this chapter and sections 1101 to 1103 of Title 26, Internal Revenue Code\], or the application of such provision to any person or circumstance, shall be held invalid, the remainder of the Act, and the application of such provision to persons or circumstances other than those to which it is held invalid, shall not be affected thereby.”
+
+#### Transfer of Functions
+
+Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
+
+#### Transitional Rule for 1987 Amendment
+
+Section 101(h) of Pub. L. 100–86 provided that:
+
+“(1)
+
+Delay in application of amendment to certain institutions.—If—
+
+&emsp;“(A) on March 5, 1987, an institution was not a bank (as defined in section 2(c) of the Bank Holding Company Act of 1956 \[12 U.S.C. 1841(c)\]), as in effect on such date; and
+
+&emsp;“(B) any person which had a controlling interest in such institution on March 5, 1987, made a public announcement before such date that the transfer or other disposition of such person's controlling interest in such institution was being considered,
+
+> the institution shall not become a bank (for purposes of the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\]) due to the amendment made to such section 2(c) by this section before the date on which such institution fails to meet any requirement of paragraph (2).
+
+“(2)
+
+Requirements for application of subsection.—This subsection shall not apply with respect to any institution described in paragraph (1) unless—
+
+&emsp;“(A) the transfer or other disposition of the controlling interest referred to in such paragraph is completed, or an agreement to make such transfer or other disposition is in effect (or is subject only to final approval by the appropriate Federal and State regulatory agencies), before the end of the 180-day period beginning on the date of the enactment of this title \[Aug. 10, 1987\];
+
+&emsp;“(B) a written notice by the person acquiring a controlling interest in such institution (pursuant to the transfer or other disposition described in subparagraph (A)) of such person's intention to operate such institution as an institution described in section 2(c)(2)(F) of the Bank Holding Company Act of 1956, as in effect after the enactment of this title is filed with the Board before the end of the 7-day period beginning on the later of the date of such transfer (or other disposition) or the date of the enactment of this title; and
+
+&emsp;“(C) the operation of such institution as an institution described in such section 2(c)(2)(F) begins before the end of the 180-day period beginning on the date the transfer (or other disposition) described in subparagraph (A) is completed.
+
+“(3)
+
+Controlling interest.—For purposes of this subsection, a person has a controlling interest in any institution if such person controls—
+
+&emsp;“(A) such institution; or
+
+&emsp;“(B) any company which controls such institution,
+
+> as determined in accordance with the provisions of subsections (b) and (g) of section 2 of the Bank Holding Company Act of 1956.”
+
+#### Moratorium on Certain Nonbanking Activities
+
+Pub. L. 100–86, title II, §§201–203, Aug. 10, 1987, 101 Stat. 581–584, provided for the period of Mar. 6, 1987, to Mar. 1, 1988, a moratorium on certain nonbanking activities, including expansion of activities of foreign banks and authority of Federal banking agencies to authorize or allow certain security, insurance, or real estate activities.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 72, 248, 375b, 619, 1441a, 1467a, 1813, 1818, 1823, 1831<i>o</i>, 1831u, 1834a, 1842, 1843, 1971, 3101, 3102, 3106, 3401, 3413, 4702 of this title; title 15 sections 78c, 1639; title 26 sections 304, 864.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+

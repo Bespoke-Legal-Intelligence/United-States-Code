@@ -1,0 +1,16 @@
+### §4518. Prohibition of excessive compensation
+
+#### (a) In general
+
+The Director shall prohibit the enterprises from providing compensation to any executive officer of the enterprise that is not reasonable and comparable with compensation for employment in other similar businesses (including other publicly held financial institutions or major financial services companies) involving similar duties and responsibilities.
+
+#### (b) Prohibition of setting compensation
+
+In carrying out subsection (a) of this section, the Director may not prescribe or set a specific level or range of compensation.
+
+(Pub. L. 102–550, title XIII, §1318, Oct. 28, 1992, 106 Stat. 3949.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4513 of this title.
+

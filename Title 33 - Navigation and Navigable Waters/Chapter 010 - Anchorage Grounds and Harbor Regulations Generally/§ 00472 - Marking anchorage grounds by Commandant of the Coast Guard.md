@@ -1,0 +1,14 @@
+### §472. Marking anchorage grounds by Commandant of the Coast Guard
+
+The Commandant of the Coast Guard shall provide, establish, and maintain, out of the annual appropriations for the Coast Guard, buoys or other suitable marks for marking anchorage grounds for vessels in waters of the United States, when such anchorage grounds have been defined and established by proper authority in accordance with the laws of the United States.
+
+(Sept. 15, 1922, ch. 313, 42 Stat. 844; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432.)
+
+#### Transfer of Functions
+
+“Commandant of the Coast Guard” and “Coast Guard” substituted in text for “Commissioner of Lighthouses” and “Lighthouse Service”, respectively, on authority of Reorg. Plan No. II of 1939, §2(a), set out in the Appendix to Title 5, Government Organization and Employees, which transferred and consolidated the Bureau of Lighthouses (of which the Lighthouse Service was a part and of which the Commissioner of Lighthouses was the head) and its functions with the Coast Guard (of which the Commandant was the Chief).
+
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
+
+Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of the Navy in time of war or when President directs as provided in section 3 of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
+

@@ -1,0 +1,10 @@
+### §513. Proceeds from disposals; foreign currencies; United States currency; disposition
+
+Proceeds from the sale, lease, or other disposition of foreign excess property, (a) shall, if in the form of foreign currencies or credits, be administered in accordance with procedures that may from time to time be established by the Secretary of the Treasury, and (b) shall, if in United States currency, or when any proceeds in foreign currencies or credits shall be reduced to United States currency, be covered into the Treasury as miscellaneous receipts: <i>Provided</i>, That the provisions of section 485(b) of this title (which by their terms apply to property disposed of under subchapter II of this chapter) shall be applicable to proceeds of foreign excess property disposed of for United States currency under this subchapter: <i>And provided further</i>, That any executive agency disposing of foreign excess property under this subchapter (1) may deposit, in a special account with the Treasurer of the United States, such amount of the proceeds of such dispositions as it deems necessary to permit appropriate refunds to purchasers when any disposition is rescinded or does not become final, or payments for breach of any warranty, and (2) may withdraw therefrom amounts so to be refunded or paid, without regard to the origin of the funds withdrawn.
+
+(June 30, 1949, ch. 288, title IV, §403, 63 Stat. 398.)
+
+#### Transfer of Functions
+
+Functions of all officers of Department of the Treasury, and all functions of all agencies and employees of that Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. The Treasurer of the United States, referred to in this section, is an officer of Department of the Treasury.
+

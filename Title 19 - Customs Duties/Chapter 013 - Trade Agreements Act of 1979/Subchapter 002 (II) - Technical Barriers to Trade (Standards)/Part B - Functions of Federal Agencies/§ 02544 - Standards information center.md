@@ -1,0 +1,60 @@
+### §2544. Standards information center
+
+#### (a) Establishment
+
+The Secretary of Commerce shall maintain within the Department of Commerce a standards information center.
+
+#### (b) Functions
+
+The standards information center shall—
+
+&emsp;(1) serve as the central national collection facility for information relating to (A) standards, technical regulations, conformity assessment procedures,,<sup>1</sup> and standards-related activities, whether such standards, technical regulations, conformity assessment procedures,,<sup>1</sup> or activities are public or private, domestic or foreign, or international, regional, national, or local and (B) the membership and participation of Federal, State, or local government bodies or private bodies in the United States in international and regional standardizing bodies and conformity assessment systems, as well as in bilateral and multilateral arrangements concerning standards-related activities;
+
+&emsp;(2) make available to the public at such reasonable fee as the Secretary shall prescribe, copies of information required to be collected under paragraph (1) other than information to which paragraph (3) applies;
+
+&emsp;(3) use its best efforts to make available to the public, at such reasonable fees as the Secretary shall prescribe, copies of information required to be collected under paragraph (1) that is of private origin, on a cooperative basis with the private individual or entity, foreign or domestic, who holds the copyright on the information;
+
+&emsp;(4) in case of such information that is of foreign origin, provide, at such reasonable fee as the Secretary shall prescribe, such translation services as may be necessary;
+
+&emsp;(5) serve as the inquiry point for requests for information regarding standards-related activities, whether adopted or proposed, within the United States, except that in carrying out this paragraph, the Secretary of Commerce shall refer all inquiries regarding agricultural products to the technical office established under section 2542(a)(2) of this title within the Department of Agriculture; and
+
+&emsp;(6) provide such other services as may be appropriate, including but not limited to, such services to the technical offices established under section 2542 of this title as may be requested by those offices in carrying out their functions.
+
+#### (c) Sanitary and phytosanitary measures
+
+#### (1) Public information
+
+&emsp;The standards information center shall, in addition to the functions specified under subsection (b) of this section, make available to the public relevant documents, at such reasonable fees as the Secretary of Commerce may prescribe, and information regarding—
+
+&emsp;&emsp;(A) any sanitary or phytosanitary measure of general application, including any inspection procedure or approval procedure proposed, adopted, or maintained by a Federal agency or agency of a State or local government;
+
+&emsp;&emsp;(B) the procedures of a Federal agency or an agency of a State or local government for risk assessment and factors the agency considers in conducting the assessment;
+
+&emsp;&emsp;(C) the determination of the levels of protection that a Federal agency or an agencyof a State or local government considers appropriate; and
+
+&emsp;&emsp;(D) the membership and participation of the Federal Government and State and local governments in international and regional sanitary and phytosanitary organizations and systems, and in bilateral and multilateral arrangements regarding sanitary and phytosanitary measures, and the provisions of those systems and arrangements.
+
+#### (2) Definitions
+
+&emsp;The definitions in section 2575b of this title apply for purposes of this subsection.
+
+(Pub. L. 96–39, title IV, §414, July 26, 1979, 93 Stat. 245; Pub. L. 103–465, title III, §351(d), title IV, §431(a), Dec. 8, 1994, 108 Stat. 4956, 4966.)
+
+#### Amendments
+
+1994—Subsec. (b)(1). Pub. L. 103–465, §351(d), inserted “(A)” after “relating to”, substituted “technical regulations, conformity assessment procedures,” for “certification systems” and “such standards, technical regulations, conformity assessment procedures,” for “such standards, systems”, and inserted “and” and cl. (B) before semicolon at end.
+
+Subsec. (c). Pub. L. 103–465, §431(a), added subsec. (c).
+
+#### Effective Date of 1994 Amendment
+
+Amendment by section 351(d) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 352 of Pub. L. 103–465, set out as a note under section 2531 of this title.
+
+Amendment by section 431(a) of Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\], except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2575a, 2576a of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
+

@@ -1,0 +1,51 @@
+### SUBCHAPTER III—FARM HOUSING
+
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in sections 1382a, 11408a, 11501, 11504, 12709 of this title; title 7 sections 1932, 1933, 6943; title 12 sections 1441a, 1701r–1, 1701x, 1717, 1721, 1831q, 2803; title 26 sections 32, 1250; title 38 section 3711.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 01471 - Financial assistance by Secretary of Agriculture](%C2%A7%2001471%20-%20Financial%20assistance%20by%20Secretary%20of%20Agriculture.md)
+- [&sect; 01472 - Loans for housing and buildings on adequate farms](%C2%A7%2001472%20-%20Loans%20for%20housing%20and%20buildings%20on%20adequate%20farms.md)
+- [&sect; 01473 - Loans for housing and buildings on potentially adequate farms; conditions and terms](%C2%A7%2001473%20-%20Loans%20for%20housing%20and%20buildings%20on%20potentially%20adequate%20farms%3B%20conditions%20and%20terms.md)
+- [&sect; 01474 - Loans and grants for repairs or improvements of rural dwellings](%C2%A7%2001474%20-%20Loans%20and%20grants%20for%20repairs%20or%20improvements%20of%20rural%20dwellings.md)
+- [&sect; 01474a - Security for direct or insured rural housing loans to farmer applicants](%C2%A7%2001474a%20-%20Security%20for%20direct%20or%20insured%20rural%20housing%20loans%20to%20farmer%20applicants.md)
+- [&sect; 01475 - Loan payment moratorium and foreclosure procedures](%C2%A7%2001475%20-%20Loan%20payment%20moratorium%20and%20foreclosure%20procedures.md)
+- [&sect; 01476 - Buildings and repairs](%C2%A7%2001476%20-%20Buildings%20and%20repairs.md)
+- [&sect; 01477 - Preferences for veterans and families of deceased servicemen](%C2%A7%2001477%20-%20Preferences%20for%20veterans%20and%20families%20of%20deceased%20servicemen.md)
+- [&sect; 01478 - Local committees to assist Secretary](%C2%A7%2001478%20-%20Local%20committees%20to%20assist%20Secretary.md)
+- [&sect; 01479 - General powers of Secretary](%C2%A7%2001479%20-%20General%20powers%20of%20Secretary.md)
+- [&sect; 01480 - Administrative powers of Secretary](%C2%A7%2001480%20-%20Administrative%20powers%20of%20Secretary.md)
+- [&sect; 01481 - Issuance of notes and obligations for loan funds; amount; limitation; security; form and denomination; interest; purchase and sale by&#8230;](%C2%A7%2001481%20-%20Issuance%20of%20notes%20and%20obligations%20for%20loan%20funds%3B%20amount%3B%20limitation%3B%20security%3B%20form%20and%20denomination%3B%20interest%3B%20purchase%20and%20sale%20by%E2%80%A6.md)
+- [&sect; 01482 - Repealed. Pub. L. 98&#8211;181, title V, &sect;509, Nov. 30, 1983, 97 Stat. 1243](%C2%A7%2001482%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93181%2C%20title%20V%2C%20%C2%A7509%2C%20Nov.%2030%2C%201983%2C%2097%20Stat.%201243.md)
+- [&sect; 01483 - Program levels and authorizations](%C2%A7%2001483%20-%20Program%20levels%20and%20authorizations.md)
+- [&sect; 01484 - Insurance of loans for housing and related facilities for domestic farm labor](%C2%A7%2001484%20-%20Insurance%20of%20loans%20for%20housing%20and%20related%20facilities%20for%20domestic%20farm%20labor.md)
+- [&sect; 01485 - Housing and related facilities for elderly persons and families or other persons and families of low income](%C2%A7%2001485%20-%20Housing%20and%20related%20facilities%20for%20elderly%20persons%20and%20families%20or%20other%20persons%20and%20families%20of%20low%20income.md)
+- [&sect; 01486 - Financial assistance to provide low-rent housing for domestic farm labor](%C2%A7%2001486%20-%20Financial%20assistance%20to%20provide%20low-rent%20housing%20for%20domestic%20farm%20labor.md)
+- [&sect; 01487 - Rural Housing Insurance Fund](%C2%A7%2001487%20-%20Rural%20Housing%20Insurance%20Fund.md)
+- [&sect; 01488 - Repealed. Pub. L. 91&#8211;152, title IV, &sect;413(e)(3), Dec. 24, 1969, 83 Stat. 399](%C2%A7%2001488%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93152%2C%20title%20IV%2C%20%C2%A7413%28e%29%283%29%2C%20Dec.%2024%2C%201969%2C%2083%20Stat.%20399.md)
+- [&sect; 01489 - Transfer of excess funds out of Rural Housing Insurance Fund](%C2%A7%2001489%20-%20Transfer%20of%20excess%20funds%20out%20of%20Rural%20Housing%20Insurance%20Fund.md)
+- [&sect; 01490 - &#8220;Rural&#8221; and &#8220;rural area&#8221; defined](%C2%A7%2001490%20-%20%E2%80%9CRural%E2%80%9D%20and%20%E2%80%9Crural%20area%E2%80%9D%20defined.md)
+- [&sect; 01490a - Loans to provide occupant owned, rental, and cooperative housing for low and moderate income, elderly or handicapped persons or families](%C2%A7%2001490a%20-%20Loans%20to%20provide%20occupant%20owned%2C%20rental%2C%20and%20cooperative%20housing%20for%20low%20and%20moderate%20income%2C%20elderly%20or%20handicapped%20persons%20or%20families.md)
+- [&sect; 01490b - Housing for rural trainees](%C2%A7%2001490b%20-%20Housing%20for%20rural%20trainees.md)
+- [&sect; 01490c - Mutual and self-help housing](%C2%A7%2001490c%20-%20Mutual%20and%20self-help%20housing.md)
+- [&sect; 01490d - Loans to nonprofit organizations to provide building sites for eligible families, nonprofit organizations, public agencies, and&#8230;](%C2%A7%2001490d%20-%20Loans%20to%20nonprofit%20organizations%20to%20provide%20building%20sites%20for%20eligible%20families%2C%20nonprofit%20organizations%2C%20public%20agencies%2C%20and%E2%80%A6.md)
+- [&sect; 01490e - Programs of technical and supervisory assistance for low-income individuals and families in rural areas](%C2%A7%2001490e%20-%20Programs%20of%20technical%20and%20supervisory%20assistance%20for%20low-income%20individuals%20and%20families%20in%20rural%20areas.md)
+- [&sect; 01490f - Loans and insurance of loans for condominium housing in rural areas](%C2%A7%2001490f%20-%20Loans%20and%20insurance%20of%20loans%20for%20condominium%20housing%20in%20rural%20areas.md)
+- [&sect; 01490g - Repealed. Pub. L. 98&#8211;181, title V, &sect;503(c), Nov. 30, 1983, 97 Stat. 1241](%C2%A7%2001490g%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93181%2C%20title%20V%2C%20%C2%A7503%28c%29%2C%20Nov.%2030%2C%201983%2C%2097%20Stat.%201241.md)
+- [&sect; 01490h - Taxation of property held by Secretary](%C2%A7%2001490h%20-%20Taxation%20of%20property%20held%20by%20Secretary.md)
+- [&sect; 01490i - Repealed. Pub. L. 98&#8211;181, title V, &sect;506(b), Nov. 30, 1983, 97 Stat. 1242](%C2%A7%2001490i%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93181%2C%20title%20V%2C%20%C2%A7506%28b%29%2C%20Nov.%2030%2C%201983%2C%2097%20Stat.%201242.md)
+- [&sect; 01490j - Conditions on rent increases in projects receiving assistance under other provisions of law](%C2%A7%2001490j%20-%20Conditions%20on%20rent%20increases%20in%20projects%20receiving%20assistance%20under%20other%20provisions%20of%20law.md)
+- [&sect; 01490k - FHA insurance](%C2%A7%2001490k%20-%20FHA%20insurance.md)
+- [&sect; 01490l - Processing of applications; preliminary reservation of assistance at time of initial approval of project](%C2%A7%2001490l%20-%20Processing%20of%20applications%3B%20preliminary%20reservation%20of%20assistance%20at%20time%20of%20initial%20approval%20of%20project.md)
+- [&sect; 01490m - Housing preservation grants](%C2%A7%2001490m%20-%20Housing%20preservation%20grants.md)
+- [&sect; 01490n - Review of rules and regulations](%C2%A7%2001490n%20-%20Review%20of%20rules%20and%20regulations.md)
+- [&sect; 01490o - Reciprocity in approval of housing subdivisions among Federal agencies](%C2%A7%2001490o%20-%20Reciprocity%20in%20approval%20of%20housing%20subdivisions%20among%20Federal%20agencies.md)
+- [&sect; 01490p - Accountability](%C2%A7%2001490p%20-%20Accountability.md)
+- [&sect; 01490p&#8211;1 - Office of Rural Housing Preservation](%C2%A7%2001490p%E2%80%931%20-%20Office%20of%20Rural%20Housing%20Preservation.md)
+- [&sect; 01490q - Disaster assistance](%C2%A7%2001490q%20-%20Disaster%20assistance.md)
+- [&sect; 01490r - Rural housing voucher program](%C2%A7%2001490r%20-%20Rural%20housing%20voucher%20program.md)

@@ -1,0 +1,96 @@
+### §2280. Violence against maritime navigation
+
+(a)
+
+Offenses.—
+
+&emsp;(1)
+
+In general.—A person who unlawfully and intentionally—
+
+&emsp;&emsp;(A) seizes or exercises control over a ship by force or threat thereof or any other form of intimidation;
+
+&emsp;&emsp;(B) performs an act of violence against a person on board a ship if that act is likely to endanger the safe navigation of that ship;
+
+&emsp;&emsp;(C) destroys a ship or causes damage to a ship or to its cargo which is likely to endanger the safe navigation of that ship;
+
+&emsp;&emsp;(D) places or causes to be placed on a ship, by any means whatsoever, a device or substance which is likely to destroy that ship, or cause damage to that ship or its cargo which endangers or is likely to endanger the safe navigation of that ship;
+
+&emsp;&emsp;(E) destroys or seriously damages maritime navigational facilities or seriously interferes with their operation, if such act is likely to endanger the safe navigation of a ship;
+
+&emsp;&emsp;(F) communicates information, knowing the information to be false and under circumstances in which such information may reasonably be believed, thereby endangering the safe navigation of a ship;
+
+&emsp;&emsp;(G) injures or kills any person in connection with the commission or the attempted commission of any of the offenses set forth in subparagraphs (A) through (F); or
+
+&emsp;&emsp;(H) attempts to do any act prohibited under subparagraphs (A) through (G),
+
+> &emsp;shall be fined under this title, imprisoned not more than 20 years, or both; and if the death of any person results from conduct prohibited by this paragraph, shall be punished by death or imprisoned for any term of years or for life.
+
+&emsp;(2)
+
+Threat to navigation.—A person who threatens to do any act prohibited under paragraph (1)(B), (C) or (E), with apparent determination and will to carry the threat into execution, if the threatened act is likely to endanger the safe navigation of the ship in question, shall be fined under this title, imprisoned not more than 5 years, or both.
+
+(b)
+
+Jurisdiction.—There is jurisdiction over the activity prohibited in subsection (a)—
+
+&emsp;(1) in the case of a covered ship, if—
+
+&emsp;&emsp;(A) such activity is committed—
+
+&emsp;&emsp;&emsp;(i) against or on board a ship flying the flag of the United States at the time the prohibited activity is committed;
+
+&emsp;&emsp;&emsp;(ii) in the United States and the activity is not prohibited as a crime by the State in which the activity takes place; or
+
+&emsp;&emsp;&emsp;(iii) the activity takes place on a ship flying the flag of a foreign country or outside the United States, by a national of the United States or by a stateless personwhose habitual residence is in the United States;
+
+&emsp;&emsp;(B) during the commission of such activity, a national of the United States is seized, threatened, injured or killed; or
+
+&emsp;&emsp;(C) the offender is later found in the United States after such activity is committed;
+
+&emsp;(2) in the case of a ship navigating or scheduled to navigate solely within the territorial sea or internal waters of a country other than the United States, if the offender is later found in the United States after such activity is committed; and
+
+&emsp;(3) in the case of any vessel, if such activity is committed in an attempt to compel the United States to do or abstain from doing any act.
+
+(c)
+
+Bar To Prosecution.—It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 2(c) <sup>1</sup> of the Norris-LaGuardia Act, as amended (29 U.S.C. 113(c)).
+
+(d)
+
+Delivery of Suspected Offender.—The master of a covered ship flying the flag of the United States who has reasonable grounds to believe that there is on board that ship any person who has committed an offense under Article 3 of the Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation may deliver such person to the authorities of a State Party to that Convention. Before delivering such person to the authorities of another country, the master shall notify in an appropriate manner the Attorney General of the United States of the alleged offense and await instructions from the Attorney General as to what action to take. When delivering the person to a country which is a State Party to the Convention, the master shall, whenever practicable, and if possible before entering the territorial sea of such country, notify the authorities of such country of the master's intention to deliver such person and the reasons therefor. If the master delivers such person, the master shall furnish to the authorities of such country the evidence in the master's possession that pertains to the alleged offense.
+
+(e)
+
+Definitions.—In this section—
+
+&emsp;“covered ship” means a ship that is navigating or is scheduled to navigate into, through or from waters beyond the outer limit of the territorial sea of a single country or a lateral limit of that country's territorial sea with an adjacent country.
+
+&emsp;“national of the United States” has the meaning stated in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
+
+&emsp;“territorial sea of the United States” means all waters extending seaward to 12 nautical miles from the baselines of the United States determined in accordance with international law.
+
+&emsp;“ship” means a vessel of any type whatsoever not permanently attached to the sea-bed, including dynamically supported craft, submersibles or any other floating craft, but does not include a warship, a ship owned or operated by a government when being used as a naval auxiliary or for customs or police purposes, or a ship which has been withdrawn from navigation or laid up.
+
+&emsp;“United States”, when used in a geographical sense, includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands and all territories and possessions of the United States.
+
+(Added Pub. L. 103–322, title VI, §60019(a), Sept. 13, 1994, 108 Stat. 1975.)
+
+#### Effective Date
+
+Section 60019(c) of Pub. L. 103–322 provided that: “This section \[enacting this section and section 2281 of this title\] and the amendments made by this section shall take effect on the later of—
+
+&emsp;“(1) the date of the enactment of this Act \[Sept. 13, 1994\]; or
+
+&emsp;“(2)(A) in the case of section 2280 of title 18, United States Code, the date the Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation has come into force and the United States has become a party to that Convention; and
+
+&emsp;“(B) in the case of section 2281 of title 18, United States Code, the date the Protocol for the Suppression of Unlawful Acts Against the Safety of Fixed Platforms Located on the Continental Shelf has come into force and the United States has become a party to that Protocol.”
+
+> \[Convention and Protocol came into force Mar. 1, 1992, and entered into force with respect to the United States Mar. 6, 1995, Treaty Doc. 101–1.\]
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2339A, 3286, 3592 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be section “13(c)”.</i>
+

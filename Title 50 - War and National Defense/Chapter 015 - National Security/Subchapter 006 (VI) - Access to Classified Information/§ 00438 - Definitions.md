@@ -1,0 +1,26 @@
+### §438. Definitions
+
+For purposes of this subchapter—
+
+&emsp;(1) the term “authorized investigative agency” means an agency authorized by law or regulation to conduct a counterintelligence investigation or investigations of persons who are proposed for access to classified information to ascertain whether such persons satisfy the criteria for obtaining and retaining access to such information;
+
+&emsp;(2) the term “classified information” means any information that has been determined pursuant to Executive Order No. 12356 of April 2, 1982, or successor orders, or the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\], to require protection against unauthorized disclosure and that is so designated;
+
+&emsp;(3) the term “consumer reporting agency” has the meaning given such term in section 1681a of title 15;
+
+&emsp;(4) the term “employee” includes any person who receives a salary or compensation of any kind from the United States Government, is a contractor of the United States Government or an employee thereof, is an unpaid consultant of the United States Government, or otherwise acts for or on behalf of the United States Government, except as otherwise determined by the President;
+
+&emsp;(5) the terms “financial agency” and “financial institution” have the meanings given to such terms in section 5312(a) of title 31 and the term “holding company” has the meaning given to such term in section 3401(6) of title 12;
+
+&emsp;(6) the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in sections <sup>1</sup> 1801(a) and (b), respectively, of this title; and
+
+&emsp;(7) the term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, and any other possession of the United States.
+
+(July 26, 1947, ch. 343, title VIII, §804, as added Oct. 14, 1994, Pub. L. 103–359, title VIII, §802(a), 108 Stat. 3438.)
+
+#### References in Text
+
+Executive Order No. 12356, referred to in par. (2), is set out as a note under section 435 of this title.
+
+The Atomic Energy Act of 1954, referred to in par. (2), is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+

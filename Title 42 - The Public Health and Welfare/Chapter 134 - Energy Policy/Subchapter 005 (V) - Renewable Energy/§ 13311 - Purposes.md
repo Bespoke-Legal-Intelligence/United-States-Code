@@ -1,0 +1,20 @@
+### §13311. Purposes
+
+The purposes of this subchapter are to promote—
+
+&emsp;(1) increases in the production and utilization of energy from renewable energy resources;
+
+&emsp;(2) further advances of renewable energy technologies; and
+
+&emsp;(3) exports of United States renewable energy technologies and services.
+
+(Pub. L. 102–486, title XII, §1201, Oct. 24, 1992, 106 Stat. 2956.)
+
+#### References in Text
+
+This subchapter, referred to in text, was in the original “this title” meaning title XII of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2956, which enacted this subchapter and amended sections 6276, 12001 to 12003, 12005, and 12006 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 13316 of this title.
+

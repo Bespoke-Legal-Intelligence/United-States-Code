@@ -1,0 +1,8 @@
+### §718. Repealed. Aug. 4, 1949, ch. 393, §20, 63 Stat. 561
+
+Section, act Feb. 26, 1907, ch. 1638, §6, 34 Stat. 997, related to traveling expenses of Army and Navy officers. See section 404 et seq. of Title 37, Pay and Allowances of the Uniformed Services.
+
+#### Effective Date of Repeal
+
+Repeal effective first day of third month after approval by President \[Aug. 4, 1949\], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
+

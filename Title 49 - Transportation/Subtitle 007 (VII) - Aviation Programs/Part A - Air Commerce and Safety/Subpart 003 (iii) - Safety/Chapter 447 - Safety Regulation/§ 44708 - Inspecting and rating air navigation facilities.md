@@ -1,0 +1,32 @@
+### §44708. Inspecting and rating air navigation facilities
+
+The Administrator of the Federal Aviation Administration may inspect, classify, and rate an air navigation facility available for the use of civil aircraft on the suitability of the facility for that use.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1190.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+44708
+
+49 App.:1426 (1st sentence).
+
+Aug. 23, 1958, Pub. L. 85–726, §606 (1st sentence), 72 Stat. 779.
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
+
+The word “Administrator” in section 606 (1st sentence) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 779) is retained on authority of 49:106(g).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 106, 44701, 44711, 45302, 46301, 46310, 46316, 47531 of this title.
+

@@ -1,0 +1,82 @@
+### §1504. Limitation on liquidation
+
+#### (a) Liquidation
+
+Unless an entry is extended under subsection (b) of this section or suspended as required bystatute or court order, except as provided in section 1675(a)(3) of this title, an entry of merchandise not liquidated within one year from:
+
+&emsp;(1) the date of entry of such merchandise;
+
+&emsp;(2) the date of the final withdrawal of all such merchandise covered by a warehouse entry;
+
+&emsp;(3) the date of withdrawal from warehouse of such merchandise for consumption where, pursuant to regulations issued under section 1505(a) of this title, duties may be deposited after the filing of an entry or withdrawal from warehouse; or
+
+&emsp;(4) if a reconciliation is filed, or should have been filed, the date of the filing under section 1484 of this title or the date the reconciliation should have been filed;
+
+> shall be deemed liquidated at the rate of duty, value, quantity, and amount of duties asserted at the time of entry by the importer of record. Notwithstanding section 1500(e) of this title, notice of liquidation need not be given of an entry deemed liquidated.
+
+#### (b) Extension
+
+The Secretary may extend the period in which to liquidate an entry if—
+
+&emsp;(1) the information needed for the proper appraisement or classification of the merchandise, or for insuring compliance with applicable law, is not available to the Customs Service; or
+
+&emsp;(2) the importer of record requests such extension and shows good cause therefor.
+
+> The Secretary shall give notice of an extension under this subsection to the importer of record and the surety of such importer of record. Notice shall be in such form and manner (which may include electronic transmittal) as the Secretary shall by regulation prescribe. Any entry the liquidation of which is extended under this subsection shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted at the time of entry by the importer of record at the expiration of 4 years from the applicable date specified in subsection (a) of this section.
+
+#### (c) Notice of suspension
+
+If the liquidation of any entry is suspended, the Secretary shall by regulation require that notice of the suspension be provided, in such manner as the Secretary considers appropriate, to the importer of record and to any authorized agent and surety of such importer of record.
+
+#### (d) Removal of suspension
+
+Except as provided in section 1675(a)(3) of this title, when a suspension required by statute or court order is removed, the Customs Service shall liquidate the entry within 6 months after receiving notice of the removal from the Department of Commerce, other agency, or a court with jurisdiction over the entry. Any entry not liquidated by the Customs Service within 6 months after receiving such notice shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted at the time of entry by the importer of record.
+
+(June 17, 1930, ch. 497, title IV, §504, as added Oct. 3, 1978, Pub. L. 95–410, title II, §209(a), 92 Stat. 902; amended Oct. 30, 1984, Pub. L. 98–573, title I, §191(d), 98 Stat. 2971; Dec. 8, 1993, Pub. L. 103–182, title VI, §641, 107 Stat. 2204; Dec. 8, 1994, Pub. L. 103–465, title II, §220(c), 108 Stat. 4865.)
+
+#### Prior Provisions
+
+A prior section 1504, act June 17, 1930, ch. 497, title IV, §504, 46 Stat. 732, related to duties on coverings and containers, prior to repeal by Pub. L. 87–456, title III, §301(a), May 24, 1962, 76 Stat. 75, effective, pursuant to section 501(a) of Pub. L. 87–456, with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–465, §220(c)(1), inserted “except as provided in section 1675(a)(3) of this title,” before “an entry of merchandise not liquidated” in introductory provisions.
+
+Subsec. (d). Pub. L. 103–465, §220(c)(2), substituted “Except as provided in section 1675(a)(3) of this title, when a suspension” for “When a suspension”.
+
+1993—Subsec. (a). Pub. L. 103–182, §641(1)(A), substituted “Unless an entry is extended under subsection (b) or suspended as required by statute or court order” for “Except as provided in subsection (b) of this section” in introductory provisions.
+
+Subsec. (a)(4). Pub. L. 103–182, §641(1)(B)–(D), added par. (4).
+
+Subsec. (b). Pub. L. 103–182, §641(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary may extend the period in which to liquidate an entry by giving notice of such extension to the importer of record in such form and manner as the Secretary shall prescribe in regulations, if—
+
+&emsp;“(1) information needed for the proper appraisement or classification of the merchandise is not available to the appropriate customs officer;
+
+&emsp;“(2) liquidation is suspended as required by statute or court order; or
+
+&emsp;“(3) the importer of record requests such extension and shows good cause therefor.”
+
+Subsec. (c). Pub. L. 103–182, §641(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the liquidation of any entry is suspended, the Secretary shall, by regulation, require that notice of such suspension be provided to the importer of record concerned and to any authorized agent and surety of such importer of record.”
+
+Subsec. (d). Pub. L. 103–182, §641(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) “Limitation” read as follows: “Any entry of merchandise not liquidated at the expiration of four years from the applicable date specified in subsection (a) of this section, shall be deemed liquidated at the rate of duty, value, quantity, and amount of duty asserted at the time of entry by the importer of record, unless liquidation continues to be suspended as required by statute or court order. When such a suspension of liquidation is removed, the entry shall be liquidated within 90 days therefrom.”
+
+1984—Subsec. (a). Pub. L. 98–573, §191(d)(1), substituted “importer of record” for “importer, his consignee, or agent” in provisions following par. (3).
+
+Subsec. (b). Pub. L. 98–573, §191(d)(2), substituted “importer of record” for “importer, his consignee, or agent” in provisions preceding par. (1), and substituted “importer of record” for “importer, consignee, or his agent” in par. (3).
+
+Subsec. (c). Pub. L. 98–573, §191(d)(3), substituted “importer of record” for “importer or consignee” in two places.
+
+Subsec. (d). Pub. L. 98–573, §191(d)(4), substituted “importer of record” for “importer, his consignee, or agent”.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTOAgreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–573 applicable with respect to articles entered on or after 15th day after Oct. 30, 1984, see section 195(a) of Pub. L. 98–573, set out as a note under section 1322 of this title.
+
+#### Effective Date
+
+Section 209(b) of Pub. L. 95–410 provided that: “The amendment made by this section \[enacting this section\] applies to the entry or withdrawal of merchandise for consumption on or after 180 days after the enactment of this Act \[Oct. 3, 1978\].”
+

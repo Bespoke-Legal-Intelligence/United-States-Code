@@ -1,0 +1,16 @@
+### §12506. Delegation of authority
+
+The Secretary of Transportation may delegate to an agency, a State, or a qualified person the authority to—
+
+&emsp;(1) establish and maintain the vessel identification system; and
+
+&emsp;(2) charge fees under section 12505 of this title to a person making information available to or requesting information from the vessel identification system.
+
+(Pub. L. 100–710, title I, §101(a), Nov. 23, 1988, 102 Stat. 4737.)
+
+#### Historical and Revision Notes
+
+#### <i>Revised section 12506</i>
+
+This section allows the Secretary to delegate the authority to establish and maintain the vessel identification system to an agency, a State, or a qualified person. The Secretary may also delegate the authority to charge fees under section 12505 for requesting information from or making information available to the vessel identification system.
+

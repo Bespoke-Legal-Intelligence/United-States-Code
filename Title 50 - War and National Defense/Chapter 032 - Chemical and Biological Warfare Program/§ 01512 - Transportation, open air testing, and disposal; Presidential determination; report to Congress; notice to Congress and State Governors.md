@@ -1,0 +1,30 @@
+### §1512. Transportation, open air testing, and disposal; Presidential determination; report to Congress; notice to Congress and State Governors
+
+None of the funds authorized to be appropriated by this Act or any other Act may be used for the transportation of any lethal chemical or any biological warfare agent to or from any military installation in the United States, or the open air testing of any such agent within the United States, or the disposal of any such agent within the United States until the following procedures have been implemented:
+
+&emsp;(1) the Secretary of Defense (hereafter referred to in this chapter as the “Secretary”) has determined that the transportation or testing proposed to be made is necessary in the interests of national security;
+
+&emsp;(2) the Secretary has brought the particulars of the proposed transportation, testing, or disposal to the attention of the Secretary of Health and Human Services, who in turn may direct the Surgeon General of the Public Health Service and other qualified persons to review such particulars with respect to any hazards to public health and safety which such transportation, testing, or disposal may pose and to recommend what precautionary measures are necessary to protect the public health and safety;
+
+&emsp;(3) the Secretary has implemented any precautionary measures recommended in accordance with paragraph (2) above (including, where practicable, the detoxification of any such agent, if such agent is to be transported to or from a military installation for disposal): <i>Provided, however</i>, That in the event the Secretary finds the recommendation submitted by the Surgeon General would have the effect of preventing the proposed transportation, testing, or disposal, the President may determine that overriding considerations of national security require such transportation, testing, or disposal be conducted. Any transportation, testing, or disposal conducted pursuant to such a Presidential determination shall be carried out in the safest practicable manner, and the President shall report his determination and an explanation thereof to the President of the Senate and the Speaker of the House of Representatives as far in advance as practicable; and
+
+&emsp;(4) the Secretary has provided notification that the transportation, testing, or disposal will take place, except where a Presidential determination has been made: (A) to the President of the Senate and the Speaker of the House of Representatives at least 10 days before any such transportation will be commenced and at least 30 days before any such testing or disposal will be commenced; (B) to the Governor of any State through which such agents will be transported, such notification to be provided appropriately in advance of any such transportation.
+
+(Pub. L. 91–121, title IV, §409(b), Nov. 19, 1969, 83 Stat. 209; Pub. L. 91–441, title V, §506(b)(1), Oct. 7, 1970, 84 Stat. 912; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+
+#### References in Text
+
+This Act, referred to in provision preceding par. (1), means Pub. L. 91–121, Nov. 19, 1969, 83 Stat. 204, as amended. Provisions authorizing the appropriation of funds are not classified to the Code. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+1970—Pub. L. 91–441 inserted reference to the disposal of lethal chemical or biological warfare agents in the United States.
+
+#### Change of Name
+
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (2), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+
+#### Chemical Munitions Transportation From Okinawa to the United States
+
+Pub. L. 91–672, §13, Jan. 12, 1971, 84 Stat. 2055, provided that: “No funds authorized or appropriated pursuant to this or any other law may be used to transport chemical munitions from the Island of Okinawa to the United States. Such funds as are necessary for the detoxification or destruction of the above described chemical munitions are hereby authorized and shall be used for thedetoxification or destruction of chemical munitions only outside the United States. For purposes of this section, the term ‘United States’ means the several States and the District of Columbia.”
+

@@ -1,0 +1,36 @@
+### §300c–12. Sudden infant death syndrome research and research reports
+
+#### (a) Adequate amounts for identification and prevention progress
+
+From the sums appropriated to the National Institute of Child Health and Human Development, the Secretary shall assure that there are applied to research of the type described in subparagraphs (A) and (B) of subsection (b)(1) of this section such amounts each year as will be adequate, given the leads and findings then available from such research, in order to make maximum feasible progress toward identification of infants at risk of sudden infant death syndrome and prevention of sudden infant death syndrome.
+
+#### (b) Reports to Congressional committees; contents: data as to applications and funds for specific and general research, summary of findings and plan for taking advantage of research leads and findings
+
+(1) Not later than ninety days after the close of the fiscal year ending September 30, 1979, and of each fiscal year thereafter, the Secretary shall report to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives specific information for such fiscal year on—
+
+&emsp;(A) the (i) number of applications approved by the Secretary in the fiscal year reported on for grants and contracts under this chapter for research which relates specifically to sudden infant death syndrome, (ii) total amount requested under such applications, (iii) number of such applications for which funds were provided in such fiscal year, and (iv) total amount of such funds; and
+
+&emsp;(B) the (i) number of applications approved by the Secretary in such fiscal year for grants and contracts under this chapter for research which relates generally to sudden infant death syndrome, including high-risk pregnancy and high-risk infancy research which directly relates to sudden infant death syndrome, (ii) relationship of the high-risk pregnancy and high-risk infancy research to sudden infant death syndrome, (iii) total amount requested under such applications, (iv) number of such applications for which funds were provided in such fiscal year, and (v) total amount of such funds.
+
+(2) Each report submitted under paragraph (1) of this subsection shall—
+
+&emsp;(A) contain a summary of the findings of intramural and extramural research supported by the National Institute of Child Health and Human Development relating to sudden infant death syndrome as described in subparagraphs (A) and (B) of such paragraph (1), and the plan of such Institute for taking maximum advantage of such research leads and findings; and
+
+&emsp;(B) provide an estimate of the need for additional funds over each of the next five fiscal years for grants and contracts under this chapter for research activities described in such subparagraphs.
+
+#### (c) Reports to Congressional committees; current and past estimates for research
+
+Within five days after the Budget is transmitted by the President to the Congress for each fiscal year after fiscal year 1980, the Secretary shall transmit to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives an estimate of the amounts requested for the National Institute of Child Health and Human Development and any other Institutes of the National Institutes of Health, respectively, for research relating to sudden infant death syndrome as described in subparagraphs (A) and (B) of subsection (b)(1) of this section, and a comparison of such amounts with the amounts requested for the preceding fiscal year.
+
+(July 1, 1944, ch. 373, title XI, §1122, as added Dec. 12, 1979, Pub. L. 96–142, title II, §202, 93 Stat. 1072; amended Nov. 20, 1985, Pub. L. 99–158, §3(a)(6), 99 Stat. 879; Nov. 2, 1994, Pub. L. 103–437, §15(a)(1), 108 Stat. 4591.)
+
+#### Amendments
+
+1994—Subsecs. (b)(1), (c). Pub. L. 103–437 substituted “Energy and Commerce” for “Interstate and Foreign Commerce”.
+
+1985—Subsec. (a). Pub. L. 99–158 struck out “under section 289d of this title” before “, the Secretary”.
+
+#### Change of Name
+
+Committee on Energy and Commerce of House of Representatives changed to Committee on Commerceof House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+

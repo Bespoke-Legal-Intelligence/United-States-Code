@@ -1,0 +1,26 @@
+### §5401. Findings
+
+The Congress finds and declares the following:
+
+&emsp;(1) The United States is a nation with a rich maritime history, and it is desirable to foster in the American public a greater awareness and appreciation of the role of maritime endeavors in our Nation's history and culture.
+
+&emsp;(2) The maritime historical and cultural foundations of the Nation should be preserved as a part of our community life and development.
+
+&emsp;(3) National, State, and local groups have been working independently to preserve the maritime heritage of the United States.
+
+&emsp;(4) Historic resources significant to the Nation's maritime heritage are being lost or substantially altered, often inadvertently, with increasing frequency.
+
+&emsp;(5) The preservation of this irreplaceable maritime heritage is in the public interest so that its vital legacy of cultural, educational, aesthetic, inspirational, and economic benefits will be maintained and enriched for future generations of Americans.
+
+&emsp;(6) The current governmental and nongovernmental historic preservation programs and activities are inadequate to ensure future generations a genuine opportunity to appreciate and enjoy the rich maritime heritage of our Nation.
+
+&emsp;(7) A coordinated national program is needed immediately to redress the adverse consequences of a period of indifference during which the maritime heritage of the United States has become endangered and to ensure the future preservation of the Nation's maritime heritage.
+
+&emsp;(8) A national maritime heritage policy would greatly increase public awareness of, and participation in, the preservation of the Nation's maritime heritage.
+
+(Pub. L. 103–451, §2, Nov. 2, 1994, 108 Stat. 4769.)
+
+#### Short Title
+
+Section 1 of Pub. L. 103–451 provided that: “This Act \[enacting this chapter\] may be cited as the ‘National Maritime Heritage Act of 1994’.”
+

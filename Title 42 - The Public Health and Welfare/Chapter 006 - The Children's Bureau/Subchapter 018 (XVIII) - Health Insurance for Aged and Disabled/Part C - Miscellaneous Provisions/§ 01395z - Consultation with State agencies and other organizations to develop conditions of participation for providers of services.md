@@ -1,0 +1,88 @@
+### §1395z. Consultation with State agencies and other organizations to develop conditions of participation for providers of services
+
+In carrying out his functions, relating to determination of conditions of participation by providers of services, under subsections (e)(9), (f)(4), (j)(15),<sup>1</sup> (<i>o</i>)(6), (cc)(2)(I), and <sup>2</sup> (dd)(2), and (mm)(1) of section 1395x of this title, or by ambulatory surgical centers under section 1395k(a)(2)(F)(i) of this title, the Secretary shall consult with appropriate State agencies and recognized national listing or accrediting bodies, and may consult with appropriate local agencies. Such conditions prescribed under any of such subsections may be varied for different areas or different classes of institutions or agencies and may, at the request of a State, provide higher requirements for such State than for other States; except that, in the case of any State or political subdivision of a State which imposes higher requirements on institutions as a condition to the purchase of services (or of certain specified services) in such institutions under a State plan approved under subchapter I, XVI, or XIX of this chapter, the Secretary shall impose like requirements as a condition to the payment for services (or for the services specified by the State or subdivision) in such institutions in such State or subdivision.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1863, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 325; amended Oct. 30, 1972, Pub. L. 92–603, title II, §234(g)(2), 86 Stat. 1413; Dec. 5, 1980, Pub. L. 96–499, title IX, §§933(f), 934(c)(1), 94 Stat. 2636, 2639; Sept. 3, 1982, Pub. L. 97–248, title I, §122(g)(2), 96 Stat. 362; July 18, 1984, Pub. L. 98–369, div. B, title III, §§2335(c), 2349(b)(1), 2354(b)(32), 98 Stat. 1090, 1097, 1102; July 1, 1988, Pub. L. 100–360, title II, §§203(e)(2), 204(c)(1), 102 Stat. 725, 728; Dec. 13, 1989, Pub. L. 101–234, title II, §201(a), 103 Stat. 1981; Dec. 19, 1989, Pub. L. 101–239, title VI, §6003(g)(3)(C)(ii), 103 Stat. 2152; Nov. 5, 1990, Pub. L. 101–508, title IV, §4163(c)(1), 104 Stat. 1388–99; Oct. 31, 1994, Pub. L. 103–432, title I, §145(c)(2), 108 Stat. 4427.)
+
+#### References in Text
+
+Subsection (j) of section 1395x of this title, referred to in text, was amended generally by Pub. L. 100–203, title IV, §4201(a)(1), Dec. 22, 1987, 101 Stat. 1330–160, and, as so amended, does not contain a par. (15).
+
+#### Amendments
+
+1994—Pub. L. 103–432 struck out “or whether screening mammography meets the standards established under section 1395m(c)(3) of this title,” before “the Secretary shall consult”.
+
+1990—Pub. L. 101–508 inserted “or whether screening mammography meets the standards established under section 1395m(c)(3) of this title,” after “section 1395k(a)(2)(F)(i) of this title,”.
+
+1989—Pub. L. 101–239 substituted “(jj)(3), and (mm)(1)” for “and (jj)(3)”.
+
+Pub. L. 101–234 repealed Pub. L. 100–360, §§203(e)(2), 204(c)(1), and provided that the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted, see 1988 Amendment notes below.
+
+1988—Pub. L. 100–360, §204(c)(1), inserted “or whether screening mammography meets the standards established under section 1395m(e)(3) of this title,” after “1395k(a)(2)(F)(i) of this title,”.
+
+Pub. L. 100–360, §203(e)(2), substituted “(dd)(2), and (jj)(3)” for “and (dd)(2)”.
+
+1984—Pub. L. 98–369, §2335(c), struck out “(g)(4),” after “(e)(9), (f)(4),”.
+
+Pub. L. 98–369, §2354(b)(32), substituted “(j)(15)” for “(j)(11)”.
+
+Pub. L. 98–369, §2349(b)(1), substituted “appropriate State agencies” for “the Health Insurance Benefits Advisory Council established by section 1395dd of this title, appropriate State agencies,”.
+
+1982—Pub. L. 97–248 substituted “(cc)(2)(I), and (dd)(2)” for “and (cc)(2)(I)”.
+
+1980—Pub. L. 96–499, §933(f), substituted “(<i>o</i>)(6), and (cc)(2)(I) of section 1395x” for “and (<i>o</i>)(6) of section 1395x”.
+
+Pub. L. 96–499, §934(c)(1), inserted “or by ambulatory surgical centers under section 1395k(a)(2)(F)(i) of this title,”.
+
+1972—Pub. L. 92–603 substituted “subsections (e)(9), (f)(4), (g)(4), (j)(11), and (<i>o</i>)(6) of section 1395x of this title” for “subsections (e)(8), (f)(4), (g)(4), (j)(10), and (<i>o</i>)(5) of section 1395x of this title”.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–432 applicable to mammography furnished by a facility on and after the first date that the certificate requirements of section 263b(b) of this title apply to such mammography conducted by such facility, see section 145(d) of Pub. L. 103–432, set out as a note under section 1395m of this title.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–508 applicable to screening mammography performed on or after Jan. 1, 1991, see section 4163(e) of Pub. L. 101–508, set out as a note under section 1395<i>l</i> of this title.
+
+#### Effective Date of 1989 Amendment
+
+Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 201(c) of Pub. L. 101–234, set out as a note under section 1320a–7a of this title.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by section 203(e)(2) of Pub. L. 100–360 applicable to items and services furnished on or after Jan. 1, 1990, see section 203(g) of Pub. L. 100–360, set out as a note under section 1320c–3 of this title.
+
+Amendment by section 204(c)(1) of Pub. L. 100–360 applicable to screening mammography performed on or after Jan. 1, 1990, see section 204(e) of Pub. L. 100–360, set out as a note under section 1395m of this title.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by section 2335(c) of Pub. L. 98–369 effective July 18, 1984, see section 2335(g) of Pub. L. 98–369, set out as a note under section 1395f of this title.
+
+Amendment by section 2349(b)(1) of Pub. L. 98–369 effective July 18, 1984, see section 2349(c) of Pub. L. 98–369, set out as a note under section 907a of this title.
+
+Amendment by section 2354(b)(32) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
+
+#### Effective Date of 1982 Amendment
+
+Amendment by Pub. L. 97–248 applicable to hospice care provided on or after Nov. 1, 1983, see section 122(h)(1) of Pub. L. 97–248, as amended, set out as a note under section 1395c of this title.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by section 933(f) of Pub. L. 96–499 effective with respect to a comprehensive outpatient rehabilitation facility's first accounting period beginning on or after July 1, 1981, see section 933(h) of Pub. L. 96–499, set out as a note under section 1395k of this title.
+
+#### Effective Date of 1972 Amendment
+
+Amendment by Pub. L. 92–603 applicable with respect to providers of services for fiscal years beginning after the fifth month following October 1972, see section 234(i) of Pub. L. 92–603, set out as a note under section 1395x of this title.
+
+#### Termination of Advisory Councils
+
+Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1395bb of this title; title 45 section 231f.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
+

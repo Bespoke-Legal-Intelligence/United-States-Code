@@ -1,0 +1,66 @@
+### §46105. Regulations and orders
+
+(a)
+
+Effectiveness of Orders.—Except as provided in this part, a regulation prescribed or order issued by the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) takes effect within a reasonable time prescribed by the Secretary or Administrator. The regulation or order remains in effect under its own terms or until superseded. Except as provided in this part, the Secretary or Administrator may amend, modify, or suspend an order in the way, and by giving the notice, the Secretary or Administrator decides.
+
+(b)
+
+Contents and Service of Orders.—An order of the Secretary or Administrator shall include the findings of fact on which the order is based and shall be served on the parties to the proceeding and the persons affected by the order.
+
+(c)
+
+Emergencies.—When the Administrator is of the opinion that an emergency exists related to safety in air commerce and requires immediate action, the Administrator, on the initiative of the Administrator or on complaint, may prescribe regulations and issue orders immediately to meet the emergency, with or without notice and without regard to this part and subchapter II of chapter 5 of title 5. The Administrator shall begin a proceeding immediately about an emergency under this subsection and give preference, when practicable, to the proceeding.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1228.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+46105(a)
+
+49 App.:1485(a) (words before 1st proviso), (d), (e).
+
+Aug. 23, 1958, Pub. L. 85–726, §1005(a), (d)–(f), 72 Stat. 794.
+
+&nbsp;
+
+49 App.:1551(b) (1)(E).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
+
+46105(b)
+
+49 App.:1485(f).
+
+&nbsp;
+
+49 App.:1551(b) (1)(E).
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+46105(c)
+
+49 App.:1485(a) (provisos).
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+In subsection (a), the words “under its own terms or until superseded” are substituted for “until their further order, rule, or regulation, or for a specified period of time, as shall be prescribed in the order, rule, or regulation” for clarity and to eliminate unnecessary words. The word “amend” is added for consistency in the revised title. The text of 49 App.:1485(e) is omitted as surplus.
+
+In subsection (c), the words “without complaint” and “if he so orders” are omitted as surplus. The words “prescribe . . . issue” are substituted for “make” for consistency in the revised title and with other titles of the United States Code. The words “just and reasonable” and “as may be essential in the interest of safety in air commerce” are omitted as surplus. The words “without regard to this part and subchapter II of chapter 5 of title 5” are substituted for “without answer or other form of pleading by the interested person or persons, and . . . hearing, or the making or filing of a report” to eliminate unnecessary words. The words “over all others under this chapter” are omitted as surplus.
+

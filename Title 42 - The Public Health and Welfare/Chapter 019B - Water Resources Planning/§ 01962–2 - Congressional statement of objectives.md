@@ -1,0 +1,14 @@
+### §1962–2. Congressional statement of objectives
+
+It is the intent of Congress that the objectives of enhancing regional economic development, the quality of the total environment, including its protection and improvement, the well-being of the people of the United States, and the national economic development are the objectives to be included in federally financed water resource projects, and in the evaluation of benefits and cost attributable thereto, giving due consideration to the most feasible alternative means of accomplishing these objectives.
+
+(Pub. L. 91–611, title II, §209, Dec. 31, 1970, 84 Stat. 1829.)
+
+#### Codification
+
+Section was enacted as a part of the Flood Control Act of 1970 and not as a part of the Water Resources Planning Act which comprises this chapter.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1962d–17 of this title.
+

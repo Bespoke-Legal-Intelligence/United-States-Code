@@ -1,0 +1,82 @@
+### §2277a–7. General corporate powers
+
+On January 6, 1988, the Corporation shall become a body corporate and as such shall have the following powers:
+
+#### (1) Seal
+
+&emsp;The Corporation may adopt and use a corporate seal.
+
+#### (2) Succession
+
+&emsp;The Corporation may have succession until dissolved by an Act of Congress. The Corporation shall succeed to the rights of the Farm Credit System Assistance Board under agreements between the Farm Credit System Assistance Board and System institutions certifying the institutions as eligible to issue preferred stock pursuant to subchapter VI of this chapter on the termination of the Assistance Board on the date provided in section 2278a–12 of this title.
+
+#### (3) Contracts
+
+&emsp;The Corporation may make contracts.
+
+#### (4) Legal actions
+
+#### (A) In general
+
+&emsp;&emsp;The Corporation may sue and be sued, complain and defend, in any court of law or equity, State or Federal.
+
+#### (B) Jurisdiction
+
+&emsp;&emsp;All suits of a civil nature at common law or in equity to which the Corporation shall be a party shall be deemed to arise under the laws of the United States, and the United States district courts shall have original jurisdiction thereof, without regard to the amount in controversy, and the Corporation, in any capacity, without bond or security, may remove any such action, suit, or proceeding from a State court to the United States district court for the district or division embracing the place where the same is pending by following any procedure for removal then in effect.
+
+#### (C) Attachment and execution
+
+&emsp;&emsp;No attachment or execution may be issued against the Corporation or its property before final judgment in any suit, action, or proceeding in any State, county, municipal, or United States court.
+
+#### (D) Agent for service of process
+
+&emsp;&emsp;The Board of Directors shall designate an agent on whom service of process may be made in any State or jurisdiction in which any insured System bank is located.
+
+#### (5) Officers and employees
+
+#### (A) In general
+
+&emsp;&emsp;The Corporation may appoint by its Board of Directors such officers and employees as are not otherwise provided for in this part, define their duties, fix their compensation, and require bonds of them and fix the penalty thereof, and dismiss at pleasure such officers or employees.
+
+#### (B) Employees of the United States
+
+&emsp;&emsp;Nothing in this chapter or any other Act shall be construed to prevent the appointment and compensation, as an officer or employee of the Corporation, of any officer or employee of the United States in any board, commission, independent establishment, or executive department thereof.
+
+#### (6) Bylaws
+
+&emsp;The Corporation may prescribe, by its Board of Directors, bylaws not inconsistent with law, regulating the manner in which its general business may be conducted, and the privileges granted to it by law may be exercised and enjoyed.
+
+#### (7) Incidental powers
+
+&emsp;The Corporation may exercise by its Board of Directors, or duly authorized officers or agents, all powers specifically granted by the provisions of this part, and such incidental powers as shall be necessary to carry out the powers so granted.
+
+#### (8) Information
+
+&emsp;The Corporation may, when necessary, make examinations of, and require information and reports from, System institutions, as provided in this part.
+
+#### (9) Receiver
+
+&emsp;The Corporation may act as receiver.
+
+#### (10) Rules and regulations
+
+&emsp;The Corporation may prescribe by its Board of Directors such rules and regulations as it considers necessary to carry out this part (except to the extent that authority to issue such rules and regulations has been expressly and exclusively granted to any other regulatory agency).
+
+(Pub. L. 92–181, title V, §5.58, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1614; amended Pub. L. 100–399, title III, §302(i), Aug. 17, 1988, 102 Stat. 994; Pub. L. 102–237, title V, §502(j), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title II, §202(a), Oct. 28, 1992, 106 Stat. 4105.)
+
+#### Amendments
+
+1992—Par. (2). Pub. L. 102–552 inserted at end “The Corporation shall succeed to the rights of the Farm Credit System Assistance Board under agreements between the Farm Credit System Assistance Board and System institutions certifying the institutions as eligible to issue preferred stock pursuant to subchapter VI of this chapter on the termination of the Assistance Board on the date provided in section 2278a–12 of this title.”
+
+1991—Par. (4)(B). Pub. L. 102–237 inserted “in any capacity,” after “and the Corporation,”.
+
+1988—Par. (5)(A). Pub. L. 100–399 struck out “to” before “define” and “dismiss”.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2278b–6 of this title.
+

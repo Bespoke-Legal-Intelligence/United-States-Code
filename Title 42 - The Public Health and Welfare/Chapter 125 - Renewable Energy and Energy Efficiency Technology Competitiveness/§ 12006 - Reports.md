@@ -1,0 +1,56 @@
+### §12006. Reports
+
+#### (a) Report by Secretary
+
+One year after December 11, 1989, and annually thereafter, the Secretary shall report to Congress on the programs and projects supported under this chapter and the progress being made toward accomplishing the goals and purposes set forth in this chapter.
+
+#### (b) National renewable energy and energy efficiency management plan
+
+(1) The Secretary, in consultation with the Advisory Committee, shall prepare a three-year management plan to be administered and carried out by the Secretary in the conduct of activities under this chapter.
+
+(2) After opportunity for public comment and consideration, as appropriate, of such comment, the Secretary shall publish the plan.
+
+(3) In addition to describing the Secretary's intentions for administering this chapter, the plan shall include a comprehensive strategy for assisting the private sector—
+
+&emsp;(A) in commercializing the renewable energy and energy efficiency technologies developed under this chapter; and
+
+&emsp;(B) in meeting competition from foreign suppliers of products derived from renewable energy and energy efficiency technologies.
+
+(4) The plan shall address the role of federally-assisted research, development, and demonstration in the achievement of applicable national policy goals of the National Energy Policy Plan required under section 7321 of this title and the plan developed under section 5905 of this title.
+
+(5) In addition, the Plan <sup>1</sup> shall—
+
+&emsp;(A) contain a detailed assessment of program needs, objectives, and priorities for each of the programs authorized under section 12005 of this title;
+
+&emsp;(B) use a uniform prioritization methodology to facilitate cost-benefit analyses of proposals in various program areas;
+
+&emsp;(C) establish milestones for setting forth specific technology transfer activities under each program area;
+
+&emsp;(D) include annual and five-year cost estimates for individual programs under this chapter; and
+
+&emsp;(E) identify program areas for which funding levels have been changed from the previous year's Plan.<sup>1</sup>
+
+(6) Within one year after October 24, 1992, the Secretary shall submit a revised management plan under this section to Congress. Thereafter, the Secretary shall submit a management plan every three years at the time of submittal of the President's annual budget submission to the Congress.
+
+#### (c) Report on options
+
+As part of the first report submitted under subsection (a) of this section, the Secretary shall submit to Congress a report analyzing options available to the Secretary under existing law to assist the private sector with the timely commercialization of wind, photovoltaic, solar thermal, biofuels, hydrogen, solar buildings, ocean, geothermal, low-head hydro, and energy storage renewable energy technologies and energy efficiency technologies through emphasis on development and demonstration assistance to specific technologies in the research, development, and demonstration programs of the Department of Energy that are near commercial application.
+
+(Pub. L. 101–218, §9, Dec. 11, 1989, 103 Stat. 1868; Pub. L. 102–486, title XII, §1202(c), (d)(5), title XXIII, §2303(b), Oct. 24, 1992, 106 Stat. 2959, 2960, 3093.)
+
+#### Amendments
+
+1992—Subsec. (a). Pub. L. 102–486, §1202(d)(5), substituted “and projects” for “, projects, and joint ventures”.
+
+Subsec. (b)(1). Pub. L. 102–486, §1202(c)(1), inserted “three-year” before “management plan”.
+
+Subsec. (b)(4). Pub. L. 102–486, §2303(b), inserted before period at end “and the plan developed under section 5905 of this title”.
+
+Subsec. (b)(5), (6). Pub. L. 102–486, §1202(c)(2), added pars. (5) and (6) and struck out former par. (5) which read as follows: “The plan shall accompany the President's annual budget submission to the Congress.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 12003 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+

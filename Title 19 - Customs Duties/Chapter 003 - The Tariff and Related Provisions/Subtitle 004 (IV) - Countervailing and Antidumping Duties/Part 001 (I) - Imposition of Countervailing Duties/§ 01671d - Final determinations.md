@@ -1,0 +1,200 @@
+### §1671d. Final determinations
+
+#### (a) Final determination by administering authority
+
+#### (1) In general
+
+&emsp;Within 75 days after the date of the preliminary determination under section 1671b(b) of this title, the administering authority shall make a final determination of whether or not a countervailable subsidy is being provided with respect to the subject merchandise; except that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries,the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
+
+#### (2) Critical circumstances determinations
+
+&emsp;If the final determination of the administering authority is affirmative, then that determination, in any investigation in which the presence of critical circumstances has been alleged under section 1671b(e) of this title, shall also contain a finding as to whether—
+
+&emsp;&emsp;(A) the countervailable subsidy is inconsistent with the Subsidies Agreement, and
+
+&emsp;&emsp;(B) there have been massive imports of the subject merchandise over a relatively short period.
+
+> &emsp;Such findings may be affirmative even though the preliminary determination under section 1671b(e)(1) of this title was negative.
+
+#### (3) De minimis countervailable subsidy
+
+&emsp;In making a determination under this subsection, the administering authority shall disregard any countervailable subsidy that is de minimis as defined in section 1671b(b)(4) of this title.
+
+#### (b) Final determination by Commission
+
+#### (1) In general
+
+&emsp;The Commission shall make a final determination of whether—
+
+&emsp;&emsp;(A) an industry in the United States—
+
+&emsp;&emsp;&emsp;(i) is materially injured, or
+
+&emsp;&emsp;&emsp;(ii) is threatened with material injury, or
+
+&emsp;&emsp;(B) the establishment of an industry in the United States is materially retarded,
+
+> &emsp;by reason of imports, or sales (or the likelihood of sales) for importation, of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a) of this section. If the Commission determines that imports of the subject merchandise are negligible, the investigation shall be terminated.
+
+#### (2) Period for injury determination following affirmative preliminary determination by administering authority
+
+&emsp;If the preliminary determination by the administering authority under section 1671b(b) of this title is affirmative, then the Commission shall make the determination required by paragraph (1) before the later of—
+
+&emsp;&emsp;(A) the 120th day after the day on which the administering authority makes its affirmative preliminary determination under section 1671b(b) of this title, or
+
+&emsp;&emsp;(B) the 45th day after the day on which the administering authority makes its affirmative final determination under subsection (a) of this section.
+
+#### (3) Period for injury determination following negative preliminary determination by administering authority
+
+&emsp;If the preliminary determination by the administering authority under section 1671b(b) of this title is negative, and its final determination under subsection (a) of this section is affirmative, then the final determination by the Commission under this subsection shall be made within 75 days after the date of that affirmative final determination.
+
+#### (4) Certain additional findings
+
+&emsp;(A)
+
+Commission standard for retroactive application.—
+
+&emsp;&emsp;(i)
+
+In general.—If the finding of the administering authority under subsection (a)(2) of this section is affirmative, then the final determination of the Commission shall include a finding as to whether the imports subject to the affirmative determination under subsection (a)(2) of this section are likely to undermine seriously the remedial effect of the countervailing duty order to be issued under section 1671e of this title.
+
+&emsp;&emsp;(ii)
+
+Factors to consider.—In making the evaluation under clause (i), the Commission shall consider, among other factors it considers relevant—
+
+&emsp;&emsp;&emsp;(I) the timing and the volume of the imports,
+
+&emsp;&emsp;&emsp;(II) any rapid increase in inventories of the imports, and
+
+&emsp;&emsp;&emsp;(III) any other circumstances indicating that the remedial effect of the countervailing duty order will be seriously undermined.
+
+&emsp;(B) If the final determination of the Commission is that there is no material injury but that there is threat of material injury, then its determination shall also include a finding as to whether material injury by reason of imports of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a) of this section would have been found but for any suspension of liquidation of entries of that merchandise.
+
+#### (c) Effect of final determinations
+
+#### (1) Effect of affirmative determination by the administering authority
+
+&emsp;If the determination of the administering authority under subsection (a) of this section is affirmative, then—
+
+&emsp;&emsp;(A) the administering authority shall make available to the Commission all information upon which such determination was based and which the Commission considers relevant to its determination, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information to which confidential treatment has been given by the administering authority,
+
+&emsp;&emsp;(B)(i) the administering authority shall—
+
+&emsp;&emsp;&emsp;(I) determine an estimated individual countervailable subsidy rate for each exporter and producer individually investigated, and, in accordance with paragraph (5), an estimated all-others rate for all exporters and producers not individually investigated and for new exporters and producers within the meaning of section 1675(a)(2)(B) of this title, or
+
+&emsp;&emsp;&emsp;(II) if 1677f–1(e)(2)(B) <sup>1</sup> of this title applies, determine a single estimated country-wide subsidy rate, applicable to all exporters and producers,
+
+&emsp;&emsp;(ii) shall order the posting of a cash deposit, bond, or other security, as the administering authority deems appropriate, for each entry of the subject merchandise in an amount based on the estimated individual countervailable subsidy rate, the estimated all-others rate, or the estimated country-wide subsidy rate, whichever is applicable, and
+
+&emsp;&emsp;(C) in cases where the preliminary determination by the administering authority under section 1671b(b) of this title was negative, the administering authority shall order the suspension of liquidation under paragraph (2) of section 1671b(d) of this title.
+
+#### (2) Issuance of order; effect of negative determination
+
+&emsp;If the determinations of the administering authority and the Commission under subsections (a)(1) and (b)(1) of this section are affirmative, then the administering authority shall issue a countervailing duty order under section 1671e(a) of this title. If either of such determinations is negative, the investigation shall be terminated upon the publication of notice of that negative determination and the administering authority shall—
+
+&emsp;&emsp;(A) terminate the suspension of liquidation under section 1671b(d)(2) of this title, and
+
+&emsp;&emsp;(B) release any bond or other security and refund any cash deposit required under section 1671b(d)(1)(B) of this title.
+
+#### (3) Effect of negative determinations under subsections (a)(2) and (b)(4)(A) of this section
+
+&emsp;If the determination of the administering authority or the Commission under subsection (a)(2) and (b)(4)(A) of this section, respectively, is negative, then the administering authority shall—
+
+&emsp;&emsp;(A) terminate any retroactive suspension of liquidation required under paragraph (4) or section 1671b(e)(2) of this title, and
+
+&emsp;&emsp;(B) release any bond or other security, and refund any cash deposit required, under section 1671b(d)(1)(B) of this title with respect to entries of the merchandise the liquidation of which was suspended retroactively under section 1671b(e)(2) of this title.
+
+#### (4) Effect of affirmative determination under subsection (a)(2) of this section
+
+&emsp;If the determination of the administering authority under subsection (a)(2) of this section is affirmative, then the administering authority shall—
+
+&emsp;&emsp;(A) in cases where the preliminary determinations by the administering authority under sections 1671b(b) and 1671b(e)(1) of this title were both affirmative, continue the retroactive suspension of liquidation and the posting of a cash deposit, bond, or other security previously ordered under section 1671b(e)(2) of this title;
+
+&emsp;&emsp;(B) in cases where the preliminary determination by the administering authority under section 1671b(b) of this title was affirmative, but the preliminary determination under section 1671b(e)(1) of this title was negative, shall modify any suspension of liquidation and security requirement previously ordered under section 1671b(d) of this title to apply to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation was first ordered; or
+
+&emsp;&emsp;(C) in cases where the preliminary determination by the administering authority under section 1671b(b) of this title was negative, shall apply any suspension of liquidation and security requirement ordered under subsection (c)(1)(B) of this section to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation is first ordered.
+
+#### (5) Method for determining the all-others rate and the country-wide subsidy rate
+
+#### (A) All-others rate
+
+#### (i) General rule
+
+&emsp;&emsp;&emsp;For purposes of this subsection and section 1671b(d) of this title, the all-others rate shall be an amount equal to the weighted average countervailable subsidy rates established for exporters and producers individually investigated, excluding any zero and de minimis countervailable subsidy rates, and any rates determined entirely under section 1677e of this title.
+
+#### (ii) Exception
+
+&emsp;&emsp;&emsp;If the countervailable subsidy rates established for all exporters and producers individually investigated are zero or de minimis rates, or are determined entirely under section 1677e of this title, the administering authority may use any reasonable method to establish an all-others rate for exporters and producers not individually investigated, including averaging the weighted average countervailable subsidy rates determined for the exporters and producers individually investigated.
+
+#### (B) Country-wide subsidy rate
+
+&emsp;&emsp;The administering authority may calculate a single country-wide subsidy rate, applicable to all exporters and producers, if the administering authority limits its examination pursuant to section 1677f–1(e)(2)(B) of this title. The estimated country-wide rate determined under section 1671b(d)(1)(A)(ii) of this title or paragraph (1)(B)(i)(II) of this subsection shall be based on industry-wide data regarding the use of subsidies determined to be countervailable.
+
+#### (d) Publication of notice of determinations
+
+Whenever the administering authority or the Commission makes a determination under thissection, it shall notify the petitioner, other parties to the investigation, and the other agency of its determination and of the facts and conclusions of law upon which the determination is based, and it shall publish notice of its determination in the Federal Register.
+
+#### (e) Correction of ministerial errors
+
+The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonable time after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present their views regarding any such errors. As used in this subsection, the term “ministerial error” includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
+
+(June 17, 1930, ch. 497, title VII, §705, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 159; amended Oct. 30, 1984, Pub. L. 98–573, title VI, §§602(a)(2), 605(a), 606, 98 Stat. 3024, 3028, 3029; Aug. 23, 1988, Pub. L. 100–418, title I, §§1324(a)(3), 1333(a), 102 Stat. 1200, 1209; Dec. 8, 1994, Pub. L. 103–465, title II, §§212(b)(1)(B), 214(a)(2), 233(a)(5)(N), 263(b), 264(b), (c)(7), (8), 270(a)(1)(F), (G), 108 Stat. 4848, 4850, 4899, 4912–4914, 4917.)
+
+#### Amendments
+
+1994—Subsec. (a)(1). Pub. L. 103–465, §§233(a)(5)(N), 270(a)(1)(F), substituted “countervailable subsidy” for “subsidy” and “the subject merchandise” for “the merchandise”.
+
+Subsec. (a)(2)(A). Pub. L. 103–465, §§214(a)(2)(A)(i), 270(a)(1)(G), substituted “countervailable subsidy” for “subsidy” and “Subsidies Agreement” for “Agreement”.
+
+Subsec. (a)(2)(B). Pub. L. 103–465, §214(a)(2)(A)(ii), substituted “subject merchandise” for “class or kind of merchandise involved”.
+
+Subsec. (a)(3). Pub. L. 103–465, §263(b), added par. (3).
+
+Subsec. (b)(1). Pub. L. 103–465, §212(b)(1)(B), inserted at end of concluding provisions “If the Commission determines that imports of the subject merchandise are negligible, the investigation shall be terminated.”
+
+Subsec. (b)(4)(A). Pub. L. 103–465, §214(a)(2)(B), amended subpar. (A) generally, substituting present provisions for provisions requiring, in the case of an affirmative critical circumstances determination, an additional finding as to whether retroactive imposition of a countervailing duty would be necessary to prevent recurrence of material injury caused by massive imports of subject merchandise over a relatively short period of time.
+
+Subsec. (c)(1). Pub. L. 103–465, §264(b)(1), struck out “and” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C) and substituted “the suspension of liquidation under paragraph (2) of section 1671b(d) of this title” for “under paragraphs (1) and (2) of section 1671b(d) of this title the suspension of liquidation and the posting of a cash deposit, bond, or other security”.
+
+Subsec. (c)(2). Pub. L. 103–465, §264(c)(7), in subpar. (A), substituted “1671b(d)(2)” for “1671b(d)(1)” and in subpar. (B), substituted “1671b(d)(1)(B)” for “1671b(d)(2)”.
+
+Subsec. (c)(3)(B). Pub. L. 103–465, §264(c)(8), substituted “1671b(d)(1)(B)” for “1671b(d)(2)”.
+
+Subsec. (c)(5). Pub. L. 103–465, §264(b)(2), added par. (5).
+
+1988—Subsec. (b)(4)(A). Pub. L. 100–418, §1324(a)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If the finding of the administering authority under subsection (a)(2) of this section is affirmative, then the final determination of the Commission shall include findings as to whether—
+
+&emsp;“(i) there is material injury which will be difficult to repair, and
+
+&emsp;“(ii) the material injury was by reason of such massive imports of the subsidized merchandise over a relatively short period.”
+
+Subsec. (e). Pub. L. 100–418, §1333(a), added subsec. (e).
+
+1984—Subsec. (a)(1). Pub. L. 98–573, §606, inserted provision that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
+
+Subsec. (a)(2). Pub. L. 98–573, §605(a)(1), inserted provision after subpar. (B) that such findings may be affirmative even though the preliminary determination under section 1671b(e)(1) of this title was negative.
+
+Subsec. (b)(1). Pub. L. 98–573, §602(a)(2), inserted “, or sales (or the likelihood of sales for importation,” in provision after subpar. (B).
+
+Subsec. (c)(3)(A). Pub. L. 98–573, §605(a)(3), inserted reference to par. (4).
+
+Subsec. (c)(4). Pub. L. 98–573, §605(a)(2), added par. (4).
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by section 1333(a) of Pub. L. 100–418 effective Aug. 23, 1988, and amendment by section 1324(a)(3) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, see section 1337(a), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by section 602(a)(2) of Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, on or after Oct. 30, 1984, and amendment by sections 605(a) and 606 of Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a), (b)(1) of Pub. L. 98–573, as amended, set out as a note under section 1671 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1516a, 1671, 1671a, 1671b, 1671c, 1671e, 1671f, 1675, 1675a, 1675b, 1676a, 1677, 1677c, 1677f, 1677f–1, 1677m of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+

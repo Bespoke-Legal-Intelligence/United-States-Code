@@ -1,0 +1,104 @@
+### §5924. Cost-of-living allowances
+
+The following cost-of-living allowances may be granted, when applicable, to an employee in a foreign area:
+
+&emsp;(1) A post allowance to offset the difference between the cost of living at the post of assignment of the employee in a foreign area and the cost of living in the District of Columbia, except that employees receiving the temporary subsistence allowance under section 5923(1) are ineligible for a post allowance under this paragraph.
+
+&emsp;(2) A transfer allowance for extraordinary, necessary, and reasonable subsistence and other relocation expenses (including unavoidable lease penalties), not otherwise compensated for, incurred by an employee incident to establishing himself at a post of assignment in—
+
+&emsp;&emsp;(A) a foreign area (including costs incurred in the United States, its territories or possessions, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements prior to departure for a post of assignment in a foreign area); or
+
+&emsp;&emsp;(B) the United States after the employee agrees in writing to remain in Government service for 12 months after transfer, unless separated for reasons beyond the control of the employee that are acceptable to the agency concerned.
+
+&emsp;(3) A separate maintenance allowance to assist an employee who is compelled or authorized, because of dangerous, notably unhealthful, or excessively adverse living conditions at the employee's post of assignment in a foreign area, or for the convenience of the Government, or who requests such an allowance because of special needs or hardship involving the employee or the employee's spouse or dependents, to meet the additional expenses of maintaining, elsewhere than at the post, the employee's spouse or dependents, or both. Notwithstanding section 1217(d) of the Panama Canal Act of 1979 (22 U.S.C. 3657(d)), for the purposes of this paragraph, the term “foreign area” includes the Republic of Panama.
+
+&emsp;(4) An education allowance or payment of travel costs to assist an employee with the extraordinary and necessary expenses, not otherwise compensated for, incurred because of his service in a foreign area or foreign areas in providing adequate education for his dependents (or, to the extent education away from post is involved, official assignment to service in such area or areas), as follows:
+
+&emsp;&emsp;(A) An allowance not to exceed the cost of obtaining such kindergarten, elementary and secondary educational services as are ordinarily provided without charge by the public schools in the United States (including such educational services as are provided by the States under the Individuals with Disabilities Education Act), plus, in those cases when adequate schools are not available at the post of the employee, board and room, and periodic transportation between that post and the nearest locality where adequate schools are available, without regard to section 3324(a) and (b) of title 31. When travel from school to post is infeasible, travel may be allowed between the school attended and the home of a designated relative or family friend or to join a parent at any location, with the allowable travel expense not to exceed the cost of travel between the school and the post. The amount of the allowance granted shall be determined on the basis of the educational facility used.
+
+&emsp;&emsp;(B) The travel expenses of dependents of an employee to and from a school in the United States (or to and from a school outside the United States if the dependent is attendingthat school for less than one year under a program approved by the school in the United States at which the dependent is enrolled, with the allowable travel expense not to exceed the cost of travel to and from the school in the United States) to obtain an American secondary or postsecondary educational institution education (other than a program of post-baccalaureate education), not to exceed one annual trip each way for each dependent. An allowance payment under subparagraph (A) of this paragraph (4) may not be made for a dependent during the 12 months following his arrival in the United States for secondary education under authority contained in this subparagraph (B). Notwithstanding section 5921(6) of this title, travel expenses, for the purpose of obtaining postsecondary educational institution education (other than a program of post-baccalaureate education), may be authorized under this subparagraph (B), under such regulations as the President may prescribe, for dependents of employees who are citizens of the United States stationed in the Canal Zone. For the purposes of this subparagraph, the term “educational institution” has the meaning defined under section 1701(a)(6) <sup>1</sup> of title 38.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 511; Pub. L. 92–187, §2, Dec. 15, 1971, 85 Stat. 644; Pub. L. 93–126, §12, Oct. 18, 1973, 87 Stat. 454; Pub. L. 93–475, §13, Oct. 26, 1974, 88 Stat. 1443; Pub. L. 94–141, title IV, §405, Nov. 29, 1975, 89 Stat. 770; Pub. L. 96–53, title V, §510, Aug. 14, 1979, 93 Stat. 380; Pub. L. 96–100, title V, §502, Nov. 2, 1979, 93 Stat. 734; Pub. L. 96–132, §4(h), Nov. 30, 1979, 93 Stat. 1045; Pub. L. 96–465, title II, §§2307, 2308, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 97–258, §3(a)(15), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 99–251, title III, §303, Feb. 27, 1986, 100 Stat. 26; Pub. L. 101–510, div. A, title XII, §1206(h), Nov. 5, 1990, 104 Stat. 1662; Pub. L. 102–138, title I, §147(e), Oct. 28, 1991, 105 Stat. 670; Pub. L. 103–236, title I, §176, Apr. 30, 1994, 108 Stat. 413.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 3037.
+
+Sept. 6, 1960, Pub. L. 86–707, §221, 74 Stat. 794.
+
+In paragraph (1), the word “Washington” is omitted as covered by “District of Columbia”.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### References in Text
+
+The Individuals with Disabilities Education Act, referred to in par. (4)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+
+Section 1701(a)(6) of title 38, referred to in par. (4)(B), was renumbered section 3501(a)(6) of title 38 by Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.
+
+For definition of Canal Zone, referred to in par. (4)(B), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
+
+#### Amendments
+
+1994—Par. (4)(A). Pub. L. 103–236, §176(a), inserted after first sentence “When travel from school to post is infeasible, travel may be allowed between the school attended and the home of a designated relative or family friend or to join a parent at any location, with the allowable travel expense not to exceed the cost of travel between the school and the post.”
+
+Par. (4)(B). Pub. L. 103–236, §176(b), inserted “(or to and from a school outside the United States if the dependent is attending that school for less than one year under a program approved by the school in the United States at which the dependent is enrolled, with the allowable travel expense not to exceed the cost of travel to and from the school in the United States)” after “in the United States”.
+
+1991—Par. (1). Pub. L. 102–138, §147(e)(1), substituted “Columbia, except that employees receiving the temporary subsistence allowance under section 5923(1) are ineligible for a post allowance under this paragraph” for “Columbia”.
+
+Par. (2). Pub. L. 102–138, §147(e)(2), in introductory provisions substituted “subsistence and other relocation expenses (including unavoidable lease penalties)” for “expenses”, in subpar. (A) inserted “the Commonwealth of the Northern Mariana Islands,” after “Puerto Rico,” and in subpar. (B) substituted “after the employee agrees in writing to remain in Government service for 12 months after transfer, unless separated for reasons beyond the control of the employee that are acceptable to the agency concerned” for “between assignments to posts in foreign areas”.
+
+Par. (4). Pub. L. 102–138, §147(e)(3), in introductory provisions substituted “dependents (or, to the extent education away from post is involved, official assignment to service in such area or areas)” for “dependents”, in subpar. (A) substituted “United States (including such educational services as are provided by the States under the Individuals with Disabilities Education Act)” for “United States”, and in subpar. (B) substituted “postsecondary educational institution education (other than a program of post-baccalaureate education)” for “undergraduate college education” in two places and inserted at end provision defining “educational institution” for purposes of subpar. (B).
+
+1990—Par. (3). Pub. L. 101–510 inserted at end “Notwithstanding section 1217(d) of the Panama Canal Act of 1979 (22 U.S.C. 3657(d)), for the purposes of this paragraph, the term ‘foreign area’ includes the Republic of Panama.”
+
+1986—Par. (2)(A). Pub. L. 99–251 inserted “, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements”.
+
+1982—Par. (4)(A). Pub. L. 97–258 substituted “section 3324(a) and (b)” for “section 529”.
+
+1980—Par. (3). Pub. L. 96–465, §2307, inserted “or authorized” after “compelled” and “or who requests such an allowance because of special needs or hardship involving the employee or the employee's spouse or dependents” after “of the Government,”.
+
+Par. (4)(B). Pub. L. 96–465, §2308, substituted “one annual trip each way for each dependent” for “(i) in the case of dependents traveling to obtain secondary education, one annual trip, or in the case of dependents traveling to obtain undergraduate college education, two annual trips, each way for each dependent of an employee of the Department of State, of the International Communication Agency, of the Department of Justice, of the Agency for International Development, of the Central Intelligence Agency, or of the National Security Agency, or (ii) or one trip each way for each dependent of any other employee, for the purpose of obtaining each type of education”.
+
+1979—Par. (4)(B). Pub. L. 96–132 inserted reference to the Department of Justice.
+
+Pub. L. 96–100 inserted provisions relating to applicability to dependents of employees of the Central Intelligence Agency and the National Security Agency.
+
+Pub. L. 96–53 substituted “(i) in the case of dependents traveling to obtain secondary education, one annual trip, or in the case of dependents traveling to obtain undergraduate college education, two annual trips, each way for each dependent of an employee of the Department of State, of the International Communication Agency, or of the Agency for International Development, or (ii)” for “one annual trip each way for each dependent of an employee of the Department of State or the United States Information Agency, or”.
+
+1975—Par. (2)(A). Pub. L. 94–141 expanded applicability to include costs incurred in the United States prior to departure for a post of assignment in a foreign area.
+
+1974—Par. (4)(B). Pub. L. 93–475 substituted “one annual trip each way for each dependent of an employee of the Department of State or the United States Information Agency, or one trip each way for each dependent of any other employee,” for “one trip each way for each dependent”.
+
+1973—Par. (4)(A). Pub. L. 93–126 inserted “kindergarten,” before “elementary”.
+
+1971—Par. (3). Pub. L. 92–187 substituted “the employee's post” for “his post” and “the employee's spouse or” for “his wife or his”.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+
+#### Effective Date of 1979 Amendment
+
+Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note under section 2151 of Title 22, Foreign Relations and Intercourse.
+
+#### Delegation of Functions
+
+Secretary of State empowered to prescribe regulations governing travel expenses for dependents of certain employees, see section 1(b) of Ex. Ord. No. 10903, Jan. 11, 1961, 26 F.R. 217, set out as a note under section 5921 of this title.
+
+#### Cross References
+
+Employee entitled to cost-of-living allowance under this section ineligible for allowance under subsec. (a) of this section based on living costs substantially higher than in District of Columbia, see section 5941 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5941 of this title; title 10 section 1605; title 20 section 906; title 22 sections 1474, 2506, 4081; title 26 section 912; title 37 section 431.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

@@ -1,0 +1,18 @@
+### §31303. Certain civil actions not authorized
+
+If a mortgage covers a vessel and additional property that is not a vessel, this chapter does not authorize a civil action in rem to enforce the rights of the mortgagee under the mortgage against the additional property.
+
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4740.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source section (U.S. Code)</i>
+
+31303
+
+46:954(b)
+
+Section 31303 makes it clear that, if a mortgage covers a vessel and additional property that is not a vessel, this chapter does not authorize a civil action <i>in rem</i> in admiralty to enforce rights against the additional property. This section makes no substantive change to law.
+

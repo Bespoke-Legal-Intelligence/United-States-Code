@@ -1,0 +1,8 @@
+### §1009. Repealed. Oct. 31, 1951, ch. 655, §56(d), 65 Stat. 729
+
+Section, act Mar. 8, 1902, ch. 140, §9, 32 Stat. 55, related to requirements as to evidence in treason cases in Philippines.
+
+#### Savings Provision
+
+Section 56(<i>l</i>) of act Oct. 31, 1951, provided that the repeal of this section should not affect any rights or liabilities existing hereunder on the effective date of that repeal (Oct. 31, 1951).
+

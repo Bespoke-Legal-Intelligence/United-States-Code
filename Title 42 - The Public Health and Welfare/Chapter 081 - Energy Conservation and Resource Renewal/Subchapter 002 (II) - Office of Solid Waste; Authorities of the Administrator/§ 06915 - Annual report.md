@@ -1,0 +1,30 @@
+### §6915. Annual report
+
+The Administrator shall transmit to the Congress and the President, not later than ninety days after the end of each fiscal year, a comprehensive and detailed report on all activities of the Office during the preceding fiscal year. Each such report shall include—
+
+&emsp;(1) a statement of specific and detailed objectives for the activities and programs conducted and assisted under this chapter;
+
+&emsp;(2) statements of the Administrator's conclusions as to the effectiveness of such activities and programs in meeting the stated objectives and the purposes of this chapter, measured through the end of such fiscal year;
+
+&emsp;(3) a summary of outstanding solid waste problems confronting the Administrator, in order of priority;
+
+&emsp;(4) recommendations with respect to such legislation which the Administrator deems necessary or desirable to assist in solving problems respecting solid waste;
+
+&emsp;(5) all other information required to be submitted to the Congress pursuant to any other provision of this chapter; and
+
+&emsp;(6) the Administrator's plans for activities and programs respecting solid waste during the next fiscal year.
+
+(Pub. L. 89–272, title II, §2006, formerly §2005, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2805, and renumbered Pub. L. 96–463, §4(a), Oct. 15, 1980, 94 Stat. 2056; Pub. L. 98–616, title V, §502(b), Nov. 8, 1984, 98 Stat. 3276.)
+
+#### Prior Provisions
+
+A prior section 2006 of Pub. L. 89–272 was renumbered section 2007 and is classified to section 6916 of this title.
+
+#### Amendments
+
+1984—Par. (1). Pub. L. 98–616 substituted “detailed” for “detail”.
+
+#### Transfer of Functions
+
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
+

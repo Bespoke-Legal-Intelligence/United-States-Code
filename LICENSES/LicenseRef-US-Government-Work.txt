@@ -1,0 +1,9 @@
+United States Government work: not subject to copyright in the United States
+
+The text of the United States Code in this repository is a work of the United States Government. Under 17 U.S.C.
+section 105, copyright protection under title 17 is not available for any work of the United States Government. No
+copyright is claimed in that text here. The House report on section 105 (H.R. Rep. No. 94-1476) says the provision is not
+intended to have any effect on protection of these works abroad.
+
+This statement covers the statute text only. The arrangement, names, guides and page tables around it are covered
+by CC BY 4.0: see LICENSE and LICENSES/CC-BY-4.0.txt.

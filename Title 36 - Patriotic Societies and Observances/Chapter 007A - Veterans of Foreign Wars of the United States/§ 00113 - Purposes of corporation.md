@@ -1,0 +1,6 @@
+### §113. Purposes of corporation
+
+The purposes of this corporation shall be fraternal, patriotic, historical, and educational; to preserve and strengthen comradeship among its members; to assist worthy comrades; to perpetuate the memory and history of our dead, and to assist their widows and orphans; to maintain true allegiance to the Government of the United States of America, and fidelity to its Constitution and laws; to foster true patriotism; to maintain and extend the institutions of American freedom; and to preserve and defend the United States from all her enemies, whomsoever.
+
+(May 28, 1936, ch. 471, §3, 49 Stat. 1391.)
+

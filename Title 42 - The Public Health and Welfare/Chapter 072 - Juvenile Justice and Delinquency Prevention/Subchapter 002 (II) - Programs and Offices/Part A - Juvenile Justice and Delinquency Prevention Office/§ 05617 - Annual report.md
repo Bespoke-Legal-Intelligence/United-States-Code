@@ -1,0 +1,48 @@
+### §5617. Annual report
+
+Not later than 180 days after the end of a fiscal year, the Administrator shall submit to the President, the Speaker of the House of Representatives, and the President pro tempore of the Senate a report that contains the following with respect to such fiscal year:
+
+&emsp;(1) A detailed summary and analysis of the most recent data available regarding the number of juveniles taken into custody, the rate at which juveniles are taken into custody, and the trends demonstrated by the data required by subparagraphs (A), (B), and (C). Such summary and analysis shall set out the information required by subparagraphs (A), (B), (C), and (D) separately for juvenile nonoffenders, juvenile status offenders, and other juvenile offenders. Such summary and analysis shall separately address with respect to each category of juveniles specified in the preceding sentence—
+
+&emsp;&emsp;(A) the types of offenses with which the juveniles are charged;
+
+&emsp;&emsp;(B) the race and gender of the juveniles;
+
+&emsp;&emsp;(C) the ages of the juveniles;
+
+&emsp;&emsp;(D) the types of facilities used to hold the juveniles (including juveniles treated as adults for purposes of prosecution) in custody, including secure detention facilities, secure correctional facilities, jails, and lockups;
+
+&emsp;&emsp;(E) the number of juveniles who died while in custody and the circumstances under which they died; and
+
+&emsp;&emsp;(F) the educational status of juveniles, including information relating to learning disabilities, failing performance, grade retention, and dropping out of school.
+
+&emsp;(2) A description of the activities for which funds are expended under this part, including the objectives, priorities, accomplishments, and recommendations of the Council.
+
+&emsp;(3) A description, based on the most recent data available, of the extent to which each State complies with section 5633 of this title and with the plan submitted under such section by the State for such fiscal year.
+
+&emsp;(4) A summary of each program or activity for which assistance is provided under part C or D of this subchapter, an evaluation of the results of such program or activity, and a determination of the feasibility and advisability of replicating such program or activity in other locations.
+
+&emsp;(5) A description of selected exemplary delinquency prevention programs for which assistance is provided under this subchapter, with particular attention to community-based juvenile delinquency prevention programs that involve and assist families of juveniles.
+
+(Pub. L. 93–415, title II, §207, as added Pub. L. 100–690, title VII, §7255, Nov. 18, 1988, 102 Stat. 4437; amended Pub. L. 102–586, §2(e), Nov. 4, 1992, 106 Stat. 4986.)
+
+#### Prior Provisions
+
+A prior section 5617, Pub. L. 93–415, title II, §207, as added Pub. L. 96–509, §9, Dec. 8, 1980, 94 Stat. 2753, related to establishment and functions of National Advisory Committee for Juvenile Justice and Delinquency Prevention, prior to repeal eff. Oct. 12, 1984, by Pub. L. 98–473, title II, §624, Oct. 12, 1984, 98 Stat. 2111.
+
+Another prior section 5617, Pub. L. 93–415, title II, §207, Sept. 7, 1974, 88 Stat. 1117; Pub. L. 95–115, §3(e), Oct. 3, 1977, 91 Stat. 1050, related to National Advisory Committee for Juvenile Justice and Delinquency Prevention, its membership, terms of office, etc., prior to repeal by Pub. L. 96–509, §9, Dec. 8, 1980, 94 Stat. 2753.
+
+#### Amendments
+
+1992—Par. (1)(D). Pub. L. 102–586, §2(e)(1)(A), inserted “(including juveniles treated as adults for purposes of prosecution)”.
+
+Par. (1)(F). Pub. L. 102–586, §2(e)(1)(B), (2), (3), added subpar. (F).
+
+#### Effective Date
+
+Section effective Oct. 1, 1988, with the report required by this section with respect to fiscal year 1988 to be submitted not later than Aug. 1, 1989, notwithstanding the 180-day period provided in this section, see section 7296(a), (b)(3) of Pub. L. 100–690, as amended, set out as an Effective Date of 1988 Amendment note under section 5601 of this title.
+
+#### Use of Court Orders To Place Juveniles in Secure Facilities, Jails and Lockups for Adults; Investigation and Report
+
+Section 7295 of Pub. L. 100–690 directed Comptroller General of the United States, not later than 180 days after Nov. 18, 1988, to conduct an investigation of extent to which valid court orders and court orders other than valid court orders, used in the 5-year period ending on Dec. 31, 1988, to place juveniles in secure detention facilities, in secure correctional facilities, and in jails and lockups for adults, and submit, not later than 3 years after Nov. 18, 1988, a report to certain congressional committees of results of investigation.
+

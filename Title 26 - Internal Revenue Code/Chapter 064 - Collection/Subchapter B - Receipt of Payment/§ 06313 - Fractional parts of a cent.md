@@ -1,0 +1,14 @@
+### §6313. Fractional parts of a cent
+
+In the payment of any tax imposed by this title, a fractional part of a cent shall be disregarded unless it amounts to one-half cent or more, in which case it shall be increased to 1 cent.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 778; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(a)(19), 90 Stat. 1825.)
+
+#### Amendments
+
+1976—Pub. L. 94–455 struck out “not payable by stamp” after “title”.
+
+#### Cross References
+
+Fractional parts of a dollar, see section 7504 of this title.
+

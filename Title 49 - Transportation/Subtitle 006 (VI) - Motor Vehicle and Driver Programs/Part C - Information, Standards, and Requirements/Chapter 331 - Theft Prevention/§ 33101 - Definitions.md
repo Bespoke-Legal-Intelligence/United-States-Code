@@ -1,0 +1,152 @@
+### §33101. Definitions
+
+In this chapter—
+
+&emsp;(1) “chop shop” means a building, lot, facility, or other structure or premise at which at least one person engages in receiving, concealing, destroying, disassembling, dismantling, reassembling, or storing a passenger motor vehicle or passenger motor vehicle part that has been unlawfully obtained—
+
+&emsp;&emsp;(A) to alter, counterfeit, deface, destroy, disguise, falsify, forge, obliterate, or remove the identity of the vehicle or part, including the vehicle identification number or a derivative of that number; and
+
+&emsp;&emsp;(B) to distribute, sell, or dispose of the vehicle or part in interstate or foreign commerce.
+
+&emsp;(2) “covered major part” means a major part selected under section 33104 of this title for coverage by the vehicle theft prevention standard prescribed under section 33102 or 33103 of this title.
+
+&emsp;(3) “existing line” means a line introduced into commerce before January 1, 1990.
+
+&emsp;(4) “first purchaser” means the person making the first purchase other than for resale.
+
+&emsp;(5) “line” means a name that a manufacturer of motor vehicles applies to a group of motor vehicle models of the same make that have the same body or chassis, or otherwise are similar in construction or design.
+
+&emsp;(6) “major part” means—
+
+&emsp;&emsp;(A) the engine;
+
+&emsp;&emsp;(B) the transmission;
+
+&emsp;&emsp;(C) each door to the passenger compartment;
+
+&emsp;&emsp;(D) the hood;
+
+&emsp;&emsp;(E) the grille;
+
+&emsp;&emsp;(F) each bumper;
+
+&emsp;&emsp;(G) each front fender;
+
+&emsp;&emsp;(H) the deck lid, tailgate, or hatchback;
+
+&emsp;&emsp;(I) each rear quarter panel;
+
+&emsp;&emsp;(J) the trunk floor pan;
+
+&emsp;&emsp;(K) the frame or, for a unitized body, the supporting structure serving as the frame; and
+
+&emsp;&emsp;(L) any other part of a passenger motor vehicle that the Secretary of Transportation by regulation specifies as comparable in design or function to any of the parts listed in subclauses (A)–(K) of this clause.
+
+&emsp;(7) “major replacement part” means a major part that is—
+
+&emsp;&emsp;(A) an original major part in or on a completed motor vehicle and customized or modified after manufacture of the vehicle but before the time of its delivery to the first purchaser; or
+
+&emsp;&emsp;(B) not installed in or on a motor vehicle at the time of its delivery to the first purchaser and the equitable or legal title to the vehicle has not been transferred to a first purchaser.
+
+&emsp;(8) “model year” has the same meaning given that term in section 32901(a) of this title.
+
+&emsp;(9) “new line” means a line introduced into commerce after December 31, 1989.
+
+&emsp;(10) “passenger motor vehicle” includes a multipurpose passenger vehicle or light duty truck when that vehicle or truck is rated at not more than 6,000 pounds gross vehicle weight.
+
+&emsp;(11) “vehicle theft prevention standard” means a minimum performance standard for identifying major parts of new motor vehicles and major replacement parts by inscribing or affixing numbers or symbols on those parts.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1076; Pub. L. 103–429, §6(44), Oct. 31, 1994, 108 Stat. 4383.)
+
+Historical and Revision Notes
+
+Pub. L. 103–272
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+33101(1)
+
+15:2021(11).
+
+Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §601(11); added Oct. 25, 1992, Pub. L. 102–519, §301(b), 106 Stat. 3394.
+
+33101(2)
+
+15:2021(6).
+
+Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §601(2)–(7), (9), (10); added Oct. 25, 1984, Pub. L. 98–547, §101(a), 98 Stat. 2755, 2756.
+
+33101(3)
+
+15:2021(3).
+
+33101(4)
+
+15:2021(5).
+
+33101(5)
+
+15:2021(2).
+
+33101(6)
+
+15:2021(7).
+
+33101(7)
+
+15:2021(8).
+
+Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §601(1), (8); added Oct. 25, 1984, Pub. L. 98–547, §101(a), 98 Stat. 2755; restated Oct. 25, 1992, Pub. L. 102–519, §301(a), (c), 106 Stat. 3393, 3394.
+
+33101(8)
+
+15:2021(9).
+
+33101(9)
+
+15:2021(4).
+
+33101(10)
+
+15:2021(1).
+
+33101(11)
+
+15:2021(10).
+
+In clause (2), the words “section 33102(c)(1)” are substituted for “section 2022(d)(1)(B)” to correct an erroneous cross-reference. Section 302(1) of the Act of October 25, 1992 (Public Law 102–519, 106 Stat. 3394), restated section 602(d)(1)(A) and (B) of the Motor Vehicle Information and Cost Savings Act (Public Law 92–513, 86 Stat. 947) as section 602(d)(1) without making a corresponding change in the cross-reference restated in this section.
+
+In clause (3), the words “before January 1, 1990” are substituted for “before the beginning of the 2-year period specified in section 2023(a)(1)(A) of this title” for clarity. See the revision notes for section 33104 of the revised title.
+
+In clause (5), the words “of motor vehicles” are added for consistency in this chapter.
+
+Clause (6)(I) is substituted for “rear quarter panels” for clarity and consistency.
+
+In clause (7)(A), the word “completed” is omitted as unnecessary because of the restatement.
+
+In clause (9), the words “after December 31, 1989” are substituted for “on or after the beginning of the 2-year period specified in section 2023(a)(1)(A) of this title” for clarity and consistency.
+
+#### Pub. L. 103–429, §6(44)(A)
+
+This corrects a cross-reference in 49:33101(2) by eliminating the reference to 49:33102(c)(1). Section 302(1) of the Anti Car Theft Act of 1992 (Public Law 102–519, 106 Stat. 3394) restated section 602(d)(1)(A) and (B) of the Motor Vehicle Information and Cost Savings Act (Public Law 92–513, 86 Stat. 947) as section 602(d)(1) without making a change in the cross-reference in section 601(6) to section 602(d)(1)(B).
+
+#### Pub. L. 103–429, §6(44)(B)
+
+This makes a conforming amendment for consistency with the style of title 49.
+
+#### Amendments
+
+1994—Par. (2). Pub. L. 103–429 substituted “section 33104” for “sections 33102(c)(1) and 33104” and inserted “of this title” at end.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 32101 of this title.
+

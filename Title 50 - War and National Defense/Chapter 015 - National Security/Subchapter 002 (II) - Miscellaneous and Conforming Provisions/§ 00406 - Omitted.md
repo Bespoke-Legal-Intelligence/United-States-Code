@@ -1,0 +1,6 @@
+### §406. Omitted
+
+#### Codification
+
+Section, act June 24, 1948, ch. 632, 62 Stat. 648, which related to authority of former Chairman of National Security Resources Board to appoint advisory committee members and part-time advisory personnel at rates up to $50 per day, has been superseded by section 405(a) of this title.
+

@@ -1,0 +1,26 @@
+### §46504. Interference with flight crew members and attendants
+
+An individual on an aircraft in the special aircraft jurisdiction of the United States who, by assaulting or intimidating a flight crew member or flight attendant of the aircraft, interferes with the performance of the duties of the member or attendant or lessens the ability of the member or attendant to perform those duties, shall be fined under title 18, imprisoned for not more than 20 years, or both. However, if a dangerous weapon is used in assaulting or intimidating the member or attendant, the individual shall be imprisoned for any term of years or for life.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1244.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+46504
+
+49 App.:1472(j).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §902(j); added Sept. 5, 1961, Pub. L. 87–197, §1, 75 Stat. 466; Oct. 14, 1970, Pub. L. 91–449, §1(3), 84 Stat. 921.
+
+The words “or threatens” are omitted as being included in “intimidating”. The words “(including any steward or stewardess)” are omitted as being included in “attendant”. The words “fined under title 18” are substituted for “fined not more than $10,000” for consistency with title 18. The words “deadly or” are omitted as surplus.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 46302, 46507 of this title; title 18 sections 3286, 3663.
+

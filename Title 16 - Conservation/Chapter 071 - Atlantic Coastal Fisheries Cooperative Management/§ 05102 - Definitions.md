@@ -1,0 +1,60 @@
+### §5102. Definitions
+
+In this chapter, the following definitions apply:
+
+&emsp;(1) The term “coastal fishery management plan” means a plan for managing a coastal fishery resource, or an amendment to such plan, prepared and adopted by the Commission, that—
+
+&emsp;&emsp;(A) contains information regarding the status of the resource and related fisheries;
+
+&emsp;&emsp;(B) specifies conservation and management actions to be taken by the States; and
+
+&emsp;&emsp;(C) recommends actions to be taken by the Secretary in the exclusive economic zone to conserve and manage the fishery.
+
+&emsp;(2) The term “coastal fishery resource” means any fishery, any species of fish, or any stock of fish that moves among, or is broadly distributed across, waters under the jurisdiction of two or more States or waters under the jurisdiction of one or more States and the exclusive economic zone.
+
+&emsp;(3) The term “Commission” means the Atlantic States Marine Fisheries Commission established under the interstate compact consented to and approved by the Congress in Public Laws 77–539 and 81–721.
+
+&emsp;(4) The term “conservation” means the restoring, rebuilding, and maintaining of any coastal fishery resource and the marine environment, in order to assure the availability of coastal fishery resources on a long-term basis.
+
+&emsp;(5) The term “Councils” means Regional Fishery Management Councils established under section 1852 of this title.
+
+&emsp;(6) The term “exclusive economic zone” means the exclusive economic zone of the United States established by Proclamation Number 5030, dated March 10, 1983. For the purposes of this chapter, the inner boundary of that zone is a line coterminous with the seaward boundary of each of the coastal States, and the outer boundary of that zone is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured.
+
+&emsp;(7) The term “fish” means finfish, mollusks, crustaceans, and all other forms of marine animal life other than marine mammals and birds.
+
+&emsp;(8) The term “fishery” means—
+
+&emsp;&emsp;(A) one or more stocks of fish that can be treated as a unit for purposes of conservation and management and that are identified on the basis of geographical, scientific, technical, commercial, recreational, or economic characteristics; or
+
+&emsp;&emsp;(B) any fishing for such stocks.
+
+&emsp;(9) The term “fishing” means—
+
+&emsp;&emsp;(A) the catching, taking, or harvesting of fish;
+
+&emsp;&emsp;(B) the attempted catching, taking, or harvesting of fish;
+
+&emsp;&emsp;(C) any other activity that can be reasonably expected to result in the catching, taking, or harvesting of fish; or
+
+&emsp;&emsp;(D) any operations at sea in support of, or in preparation for, any activity described in subparagraphs (A) through (C).
+
+> &emsp;Such term does not include any scientific research activity or the catching, taking, or harvesting of fish in an aquaculture operation.
+
+&emsp;(10) The term “implement and enforce” means to enact and implement laws or regulations as required to conform with the provisions of a coastal fishery management plan and to assure compliance with such laws or regulations by persons participating in a fishery that is subject to such plan.
+
+&emsp;(11) The term “person” means any individual (whether or not a citizen or national of the United States), any corporation, partnership, association, or other entity (whether or not organized or existing under the laws of any State), and any Federal, State, local, or foreign government or any entity of any such government.
+
+&emsp;(12) The term “Secretary” means the Secretary of Commerce.
+
+&emsp;(13) The term “State” means Maine, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, North Carolina, South Carolina, Georgia, Florida, the District of Columbia, or the Potomac River Fisheries Commission.
+
+(Pub. L. 103–206, title VIII, §803, Dec. 20, 1993, 107 Stat. 2448.)
+
+#### References in Text
+
+Public Law 77–539, referred to in par. (3), is act May 4, 1942, ch. 283, 56 Stat. 267, which is not classified to the Code.
+
+Public Law 81–721, referred to in par. (3), is act Aug. 19, 1950, ch. 763, 64 Stat. 467, which is not classified to the Code.
+
+Proclamation Number 5030, referred to in par. (6), is set out as a note under section 1453 of this title.
+

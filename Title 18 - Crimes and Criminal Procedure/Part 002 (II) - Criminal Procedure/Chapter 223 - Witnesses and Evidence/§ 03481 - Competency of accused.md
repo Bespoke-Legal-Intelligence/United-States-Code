@@ -1,0 +1,18 @@
+### §3481. Competency of accused
+
+In trial of all persons charged with the commission of offenses against the United States and in all proceedings in courts martial and courts of inquiry in any State, District, Possession or Territory, the person charged shall, at his own request, be a competent witness. His failure to make such request shall not create any presumption against him.
+
+(June 25, 1948, ch. 645, 62 Stat. 833.)
+
+#### Historical and Revision Notes
+
+Based on section 632 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary, and section 1200, Art. 42(a), of Title 34, Navy. (Mar. 16, 1878, ch. 37, 20 Stat. 30).
+
+Section was rewritten without change of substance.
+
+#### Federal Rules of Criminal Procedure
+
+Harmless and plain error, see rule 52, Appendix to this title.
+
+Instructions, see rule 30.
+

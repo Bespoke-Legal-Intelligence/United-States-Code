@@ -1,0 +1,20 @@
+### §3057g. Findings
+
+The Congress finds the older Native Hawaiians—
+
+&emsp;(1) have a life expectancy 10 years less than any other ethnic group in the State of Hawaii;
+
+&emsp;(2) rank lowest on 9 of 11 standard health indicies <sup>1</sup> for all ethnic groups in Hawaii;
+
+&emsp;(3) are often unaware of social services and do not know how to go about seeking such assistance; and
+
+&emsp;(4) live in poverty at a rate of 34 percent.
+
+(Pub. L. 89–73, title VI, §621, as added Pub. L. 100–175, title I, §171, Nov. 29, 1987, 101 Stat. 961.)
+
+#### Prior Provisions
+
+A prior section 3057g, Pub. L. 89–73, title VI, §608, as added Pub. L. 95–478, title I, §106, Oct. 18, 1978, 92 Stat. 1551; amended Pub. L. 97–115, §13(d), Dec. 29, 1981, 95 Stat. 1608; Pub. L. 98–459, title VI, §603, Oct. 9, 1984, 98 Stat. 1788, authorized appropriations for grants for Indian tribes, prior to the general amendment of this subchapter by Pub. L. 100–175. See section 3057n of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “indices”.</i>
+

@@ -1,0 +1,10 @@
+### §450<i>oo</i>–9. Administration, protection, and development
+
+When establishment of the monument has been effected, pursuant to sections 450<i>oo</i> to 450<i>oo</i>–10 of this title, the Secretary of the Interior shall administer, protect, and develop the monument in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended.
+
+(Pub. L. 85–910, §10, Sept. 2, 1958, 72 Stat. 1753.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 450<i>oo</i> of this title.
+

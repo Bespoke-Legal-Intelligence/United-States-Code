@@ -1,0 +1,78 @@
+### §300d–61. Establishment of Program
+
+#### (a) In general
+
+The Secretary, acting through the Director of the National Institutes of Health (in this section referred to as the “Director”), shall establish a comprehensive program of conducting basic and clinical research on trauma (in this section referred to as the “Program”). The Program shall include research regarding the diagnosis, treatment, rehabilitation, and general management of trauma.
+
+#### (b) Plan for Program
+
+#### (1) In general
+
+&emsp;The Director, in consultation with the Trauma Research Interagency Coordinating Committee established under subsection (g) of this section, shall establish and implement a plan for carrying out the activities of the Program, including the activities described in subsection (d) of this section. All such activities shall be carried out in accordance with the plan. The plan shall be periodically reviewed, and revised as appropriate.
+
+#### (2) Submission to Congress
+
+&emsp;Not later than December 1, 1993, the Director shall submit the plan required in paragraph (1) to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, together with an estimate of the funds needed for each of the fiscal years 1994 through 1996 to implement the plan.
+
+#### (c) Participating agencies; coordination and collaboration
+
+The Director—
+
+&emsp;(1) shall provide for the conduct of activities under the Program by the Directors of the agencies of the National Institutes of Health involved in research with respect to trauma;
+
+&emsp;(2) shall ensure that the activities of the Program are coordinated among such agencies; and
+
+&emsp;(3) shall, as appropriate, provide for collaboration among such agencies in carrying out such activities.
+
+#### (d) Certain activities of Program
+
+The Program shall include—
+
+&emsp;(1) studies with respect to all phases of trauma care, including prehospital, resuscitation, surgical intervention, critical care, infection control, wound healing, nutritional care and support, and medical rehabilitation care;
+
+&emsp;(2) basic and clinical research regarding the response of the body to trauma and the acute treatment and medical rehabilitation of individuals who are the victims of trauma; and
+
+&emsp;(3) basic and clinical research regarding trauma care for pediatric and geriatric patients.
+
+#### (e) Mechanisms of support
+
+In carrying out the Program, the Director, acting through the Directors of the agencies referred to in subsection (c)(1) of this section, may make grants to public and nonprofit entities, including designated trauma centers.
+
+#### (f) Resources
+
+The Director shall assure the availability of appropriate resources to carry out the Program, including the plan established under subsection (b) of this section (including the activities described in subsection (d) of this section).
+
+#### (g) Coordinating Committee
+
+#### (1) In general
+
+&emsp;There shall be established a Trauma Research Interagency Coordinating Committee (in this section referred to as the “Coordinating Committee”).
+
+#### (2) Duties
+
+&emsp;The Coordinating Committee shall make recommendations regarding—
+
+&emsp;&emsp;(A) the activities of the Program to be carried out by each of the agencies represented on the Committee and the amount of funds needed by each of the agencies for such activities; and
+
+&emsp;&emsp;(B) effective collaboration among the agencies in carrying out the activities.
+
+#### (3) Composition
+
+&emsp;The Coordinating Committee shall be composed of the Directors of each of the agencies that, under subsection (c) of this section, have responsibilities under the Program, and any other individuals who are practitioners in the trauma field as designated by the Director of the National Institutes of Health.
+
+#### (h) Definitions
+
+For purposes of this section:
+
+&emsp;(1) The term “designated trauma center” has the meaning given such term in section 300d–31(1) of this title.
+
+&emsp;(2) The term “Director” means the Director of the National Institutes of Health.
+
+&emsp;(3) The term “trauma” means any serious injury that could result in loss of life or in significant disability and that would meet pre-hospital triage criteria for transport to a designated trauma center.
+
+(July 1, 1944, ch. 373, title XII, §1261, as added June 10, 1993, Pub. L. 103–43, title III, §303(a), 107 Stat. 151.)
+
+#### Change of Name
+
+Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+

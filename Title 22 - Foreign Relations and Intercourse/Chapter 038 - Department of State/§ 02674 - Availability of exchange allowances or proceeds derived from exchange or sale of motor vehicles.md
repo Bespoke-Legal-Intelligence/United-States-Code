@@ -1,0 +1,10 @@
+### §2674. Availability of exchange allowances or proceeds derived from exchange or sale of motor vehicles
+
+The exchange allowances or proceeds derived from the exchange or sale of passenger motor vehicles in possession of the Foreign Service abroad, in accordance with section 481(c) of title 40, shall be available without fiscal year limitation for replacement of an equal number of such vehicles.
+
+(Aug. 1, 1956, ch. 841, title I, §7, 70 Stat. 891; renumbered title I, Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282.)
+
+#### Codification
+
+Section was formerly classified to section 170<i>l</i> of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+

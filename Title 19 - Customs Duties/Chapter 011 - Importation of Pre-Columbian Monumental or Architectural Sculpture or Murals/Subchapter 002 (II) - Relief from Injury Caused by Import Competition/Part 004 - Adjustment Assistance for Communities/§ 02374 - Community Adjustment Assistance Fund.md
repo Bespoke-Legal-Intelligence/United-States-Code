@@ -1,0 +1,20 @@
+### §2374. Community Adjustment Assistance Fund
+
+#### (a) Establishment
+
+There is established on the books of the Treasury of the United States a revolving fund to be known as the Community Adjustment Assistance Fund. The fund shall consist of such amounts as may be deposited in it pursuant to the authorization in subsection (b) of this section and any collections, repayments of loans, or other receipts received under the program established in section 2373(a) of this title. Amounts in the fund may be used only to carry out the provisions of sections 2372 and 2373(b) of this title, including administrative costs. Amounts appropriated to the fund shall be available to the Secretary without fiscal year limitation. Upon liquidation of all remaining obligations, any balances remaining in the fund after September 30, 1980, shall be transferred to the general fund of the Treasury.
+
+#### (b) Authorization of appropriations
+
+There are authorized to be appropriated to the Community Adjustment Assistance Fund, for the purpose of carrying out the provisions of sections 2372 and 2373(a) of this title, $100,000,000 for the fiscal year ending June 30, 1975, and such sums as may be necessary for the succeeding 7 fiscal years.
+
+#### (c) Authorization for loan guarantees
+
+There are authorized to be appropriated to the Secretary such sums as may be necessary for carrying out the loan guarantee program under section 2373(d) of this title.
+
+(Pub. L. 93–618, title II, §274, Jan. 3, 1975, 88 Stat. 2040.)
+
+#### Termination of Section
+
+<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
+

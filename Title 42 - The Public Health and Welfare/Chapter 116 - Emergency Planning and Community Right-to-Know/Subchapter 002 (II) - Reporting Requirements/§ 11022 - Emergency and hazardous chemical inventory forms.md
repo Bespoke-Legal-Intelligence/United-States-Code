@@ -1,0 +1,116 @@
+### §11022. Emergency and hazardous chemical inventory forms
+
+#### (a) Basic requirement
+
+(1) The owner or operator of any facility which is required to prepare or have available a material safety data sheet for a hazardous chemical under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\] and regulations promulgated under that Act shall prepare and submit an emergency and hazardous chemical inventory form (hereafter in this chapter referred to as an “inventory form”) to each of the following:
+
+&emsp;(A) The appropriate local emergency planning committee.
+
+&emsp;(B) The State emergency response commission.
+
+&emsp;(C) The fire department with jurisdiction over the facility.
+
+(2) The inventory form containing tier I information (as described in subsection (d)(1) of this section) shall be submitted on or before March 1, 1988, and annually thereafter on March 1, and shall contain data with respect to the preceding calendar year. The preceding sentence does not apply if an owner or operator provides, by the same deadline and with respect to the same calendar year, tier II information (as described in subsection (d)(2) of this section) to the recipients described in paragraph (1).
+
+(3) An owner or operator may meet the requirements of this section with respect to a hazardous chemical which is a mixture by doing one of the following:
+
+&emsp;(A) Providing information on the inventory form on each element or compound in the mixture which is a hazardous chemical. If more than one mixture has the same element or compound, only one listing on the inventory form for the element or compound at the facility is necessary.
+
+&emsp;(B) Providing information on the inventory form on the mixture itself.
+
+#### (b) Thresholds
+
+The Administrator may establish threshold quantities for hazardous chemicals covered by this section below which no facility shall be subject to the provisions of this section. The threshold quantities may, in the Administrator's discretion, be based on classes of chemicals or categories of facilities.
+
+#### (c) Hazardous chemicals covered
+
+A hazardous chemical subject to the requirements of this section is any hazardous chemical for which a material safety data sheet or a listing is required under section 11021 of this title.
+
+#### (d) Contents of form
+
+#### (1) Tier I information
+
+#### (A) Aggregate information by category
+
+&emsp;&emsp;An inventory form shall provide the information described in subparagraph (B) in aggregate terms for hazardous chemicals in categories of health and physical hazards as set forth under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\] and regulations promulgated under that Act.
+
+#### (B) Required information
+
+&emsp;&emsp;The information referred to in subparagraph (A) is the following:
+
+&emsp;&emsp;&emsp;(i) An estimate (in ranges) of the maximum amount of hazardous chemicals in each category present at the facility at any time during the preceding calendar year.
+
+&emsp;&emsp;&emsp;(ii) An estimate (in ranges) of the average daily amount of hazardous chemicals in each category present at the facility during the preceding calendar year.
+
+&emsp;&emsp;&emsp;(iii) The general location of hazardous chemicals in each category.
+
+#### (C) Modifications
+
+&emsp;&emsp;For purposes of reporting information under this paragraph, the Administrator may—
+
+&emsp;&emsp;&emsp;(i) modify the categories of health and physical hazards as set forth under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\] and regulations promulgated under that Act by requiring information to be reported in terms of groups of hazardous chemicals which present similar hazards in an emergency, or
+
+&emsp;&emsp;&emsp;(ii) require reporting on individual hazardous chemicals of special concern to emergency response personnel.
+
+#### (2) Tier II information
+
+&emsp;An inventory form shall provide the following additional information for each hazardous chemical present at the facility, but only upon request and in accordance with subsection (e) of this section:
+
+&emsp;&emsp;(A) The chemical name or the common name of the chemical as provided on the material safety data sheet.
+
+&emsp;&emsp;(B) An estimate (in ranges) of the maximum amount of the hazardous chemical present at the facility at any time during the preceding calendar year.
+
+&emsp;&emsp;(C) An estimate (in ranges) of the average daily amount of the hazardous chemical present at the facility during the preceding calendar year.
+
+&emsp;&emsp;(D) A brief description of the manner of storage of the hazardous chemical.
+
+&emsp;&emsp;(E) The location at the facility of the hazardous chemical.
+
+&emsp;&emsp;(F) An indication of whether the owner elects to withhold location information of a specific hazardous chemical from disclosure to the public under section 11044 of this title.
+
+#### (e) Availability of tier II information
+
+#### (1) Availability to State commissions, local committees, and fire departments
+
+&emsp;Upon request by a State emergency planning commission, a local emergency planning committee, or a fire department with jurisdiction over the facility, the owner or operator of a facility shall provide tier II information, as described in subsection (d) of this section, to the person making the request. Any such request shall be with respect to a specific facility.
+
+#### (2) Availability to other State and local officials
+
+&emsp;A State or local official acting in his or her official capacity may have access to tier II information by submitting a request to the State emergency response commission or the local emergency planning committee. Upon receipt of a request for tier II information, the State commission or local committee shall, pursuant to paragraph (1), request the facility owner or operator for the tier II information and make available such information to the official.
+
+#### (3) Availability to public
+
+#### (A) In general
+
+&emsp;&emsp;Any person may request a State emergency response commission or local emergency planning committee for tier II information relating to the preceding calendar year with respect to a facility. Any such request shall be in writing and shall be with respect to a specific facility.
+
+#### (B) Automatic provision of information to public
+
+&emsp;&emsp;Any tier II information which a State emergency response commission or local emergency planning committee has in its possession shall be made available to a person making a request under this paragraph in accordance with section 11044 of this title. If the State emergency response commission or local emergency planning committee does not have the tier II information in its possession, upon a request for tier II information the State emergency response commission or local emergency planning committee shall, pursuant to paragraph (1), request the facility owner or operator for tier II information with respect to a hazardous chemical which a facility has stored in an amount in excess of 10,000 pounds present at the facility at any time during the preceding calendar year and make such information available inaccordance with section 11044 of this title to the person making the request.
+
+#### (C) Discretionary provision of information to public
+
+&emsp;&emsp;In the case of tier II information which is not in the possession of a State emergency response commission or local emergency planning committee and which is with respect to a hazardous chemical which a facility has stored in an amount less than 10,000 pounds present at the facility at any time during the preceding calendar year, a request from a person must include the general need for the information. The State emergency response commission or local emergency planning committee may, pursuant to paragraph (1), request the facility owner or operator for the tier II information on behalf of the person making the request. Upon receipt of any information requested on behalf of such person, the State emergency response commission or local emergency planning committee shall make the information available in accordance with section 11044 of this title to the person.
+
+#### (D) Response in 45 days
+
+&emsp;&emsp;A State emergency response commission or local emergency planning committee shall respond to a request for tier II information under this paragraph no later than 45 days after the date of receipt of the request.
+
+#### (f) Fire department access
+
+Upon request to an owner or operator of a facility which files an inventory form under this section by the fire department with jurisdiction over the facility, the owner or operator of the facility shall allow the fire department to conduct an on-site inspection of the facility and shall provide to the fire department specific location information on hazardous chemicals at the facility.
+
+#### (g) Format of forms
+
+The Administrator shall publish a uniform format for inventory forms within three months after October 17, 1986. If the Administrator does not publish such forms, owners and operators of facilities subject to the requirements of this section shall provide the information required under this section by letter.
+
+(Pub. L. 99–499, title III, §312, Oct. 17, 1986, 100 Stat. 1738.)
+
+#### References in Text
+
+The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1) and (d)(1)(A), (C)(i), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 11001, 11042, 11043, 11044, 11045, 11046 of this title.
+

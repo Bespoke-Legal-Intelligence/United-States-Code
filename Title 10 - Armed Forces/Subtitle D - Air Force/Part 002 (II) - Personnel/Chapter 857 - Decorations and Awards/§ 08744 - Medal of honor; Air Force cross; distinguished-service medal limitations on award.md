@@ -1,0 +1,72 @@
+### §8744 . Medal of honor; Air Force cross; distinguished-service medal: limitations on award
+
+(a) No more than one medal of honor, Air Force cross, or distinguished-service medal may be awarded to a person. However, for each succeeding act that would otherwise justify the award of such a medal or cross, the President may award a suitable bar or other device to be worn as he directs.
+
+(b) Except as provided in subsection (d), no medal of honor, Air Force cross, distinguished-service medal, or device in place thereof, may be awarded to a person unless—
+
+&emsp;(1) the award is made within three years after the date of the act justifying the award;
+
+&emsp;(2) a statement setting forth the distinguished service and recommending official recognition of it was made within two years after the distinguished service; and
+
+&emsp;(3) it appears from records of the Department of the Air Force that the person is entitled to the award.
+
+(c) No medal of honor, Air Force cross, distinguished-service medal, or device in place thereof, may be awarded or presented to a person whose service after he distinguished himself has not been honorable.
+
+(d) If the Secretary of the Air Force determines that—
+
+&emsp;(1) a statement setting forth the distinguished service and recommending official recognition of it was made and supported by sufficient evidence within two years after the distinguished service; and
+
+&emsp;(2) no award was made, because the statement was lost or through inadvertence the recommendation was not acted on;
+
+> a medal of honor, Air Force cross, distinguished-service medal, or device in place thereof, as the case may be, may be awarded to the person concerned within two years after the date of that determination.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 540; July 5, 1960, Pub. L. 86–582, §1(3), 74 Stat. 320; July 6, 1960, Pub. L. 86–593, §1(2), 74 Stat. 331.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+8744(a)
+
+8744(b)
+
+8744(c)
+
+10:1411.
+
+10:1409 (words before 1st semicolon).
+
+10:1409 (words after 2d semicolon).
+
+July 9, 1918, ch. 143 (12th par., less words after 2d semicolon, under “Ordnance Department”); restated Jan. 24, 1920, ch. 55, §1 (less last sentence), 41 Stat. 398.
+
+&nbsp;
+
+July 9, 1918, ch. 143 (less words between 1st and 2d semicolons of 15th par. under “Ordnance Department”), 40 Stat. 871.
+
+In subsection (a), the words “may be awarded to a person” are substituted for the words “shall be issued to any one person” to conform to the other subsections of the revised section.
+
+In subsection (b), the word “thereof” is substituted for the words “of either of said medal or of said cross”. The words “Except as otherwise prescribed in this section”, “at the time of”, “specific”, “official”, and “has so distinguished himself as” are omitted as surplusage.
+
+In subsection (c), 10:1409 (words after 3d semicolon) is omitted as executed. The words “hereinbefore authorized” are omitted as surplusage.
+
+#### Amendments
+
+1960—Pub. L. 86–593 substituted “Air Force cross” for “distinguished-service cross” in section catchline and wherever appearing in subsecs. (a) to (d).
+
+Subsec. (b). Pub. L. 86–582, §1(3)(A), substituted “Except as provided in subsection (d), no” for “No”.
+
+Subsec. (d). Pub. L. 86–582, §1(3)(B), added subsec. (d).
+
+#### Persons Awarded Distinguished-Service Cross or Soldier's Medal Before July 6, 1960
+
+Section 2 of Pub. L. 86–593 provided that: “For the purposes of sections 8744(a) and 8750(b) of title 10, United States Code, a person who was awarded a distinguished-service cross or Soldier's Medal before the date of enactment of this Act \[July 6, 1960\] shall be treated as if he had not been awarded an Air Force cross or Airman's Medal, as the case may be.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 8748 of this title.
+

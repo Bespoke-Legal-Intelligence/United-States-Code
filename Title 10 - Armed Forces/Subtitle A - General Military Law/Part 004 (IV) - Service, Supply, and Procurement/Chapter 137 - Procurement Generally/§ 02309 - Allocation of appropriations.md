@@ -1,0 +1,38 @@
+### §2309. Allocation of appropriations
+
+(a) Appropriations available for procurement by an agency named in section 2303 of this title may, through administrative allotment, be made available for obligation for procurement by any other agency in amounts authorized by the head of the allotting agency and without transfer of funds on the books of the Department of the Treasury.
+
+(b) A disbursing official of the allotting agency may make any disbursement chargeable to an allotment under subsection (a) upon a voucher certified by an officer or civilian employee of the procuring agency.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Sept. 13, 1982, Pub. L. 97–258, §2(b)(1)(B), 96 Stat. 1052.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+2309(a)
+
+2309(b)
+
+41:159 (2d sentence).
+
+41:159 (less 1st and 2d sentences).
+
+Feb. 19, 1948, ch. 65, §10 (less 1st sentence), 62 Stat. 25.
+
+In subsection (a), the words “an agency named in section 2303 of this title” are substituted for the words “any such agency”.
+
+In subsection (b), the words “an allotment under subsection (a)” are substituted for the words “such allotments”.
+
+#### Amendments
+
+1982—Subsec. (b). Pub. L. 97–258 substituted “disbursing official” for “disbursing officer”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 50 section 403c.
+

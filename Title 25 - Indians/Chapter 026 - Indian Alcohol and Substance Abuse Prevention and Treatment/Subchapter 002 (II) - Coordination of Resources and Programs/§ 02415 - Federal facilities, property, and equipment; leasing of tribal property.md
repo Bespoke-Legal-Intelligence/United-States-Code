@@ -1,0 +1,46 @@
+### §2415. Federal facilities, property, and equipment; leasing of tribal property
+
+#### (a) Facility availability
+
+In the furtherance of the purposes and goals of this chapter, the Secretary of the Interior and the Secretary of Health and Human Services shall make available for community use, to the extent permitted by law and as may be provided in a Tribal Action Plan, local Federal facilities, property, and equipment, including school facilities. Such facility availability shall include school facilities under the Secretary of the Interior's jurisdiction: <i>Provided</i>, That the use of any school facilities shall be conditioned upon approval of the local school board with jurisdiction over such school.
+
+#### (b) Costs
+
+Any additional cost associated with the use of Federal facilities, property, or equipment under subsection (a) of this section may be borne by the Secretary of the Interior and the Secretary of Health and Human Services out of available Federal, tribal, State, local, or private funds, if not otherwise prohibited by law. This subsection does not require the Secretary of the Interior nor the Secretary of Health and Human Services to expend additional funds to meet the additional costs which may be associated with the provision of such facilities, property, or equipment for community use. Where the use of Federal facilities, property, or equipment under subsection (a) of this section furthers the purposes and goals of this chapter, the use of funds other than those funds appropriated to the Department of the Interior or the Department of Health and Human Services to meet the additional costs associated with such use shall not constitute an augmentation of Federal appropriations.
+
+#### (c) Leases
+
+(1) The Secretary of the Interior and the Secretary of Health and Human Services are authorized to enter into long-term leases of tribally owned or leased facilities to house programs established by this chapter where they determine that there is no Federal facility reasonably available for such purpose and the cost of constructing a new Federal facility would exceed the cost of such Federal lease unless they determine that mitigating factors favor such a lease.
+
+(2) A tribally owned or leased facility may be leased pursuant to this authority to house a regional treatment center to be established pursuant to section 2474(b) <sup>1</sup> of this title only if all the tribes within the Indian Health Service area to be served by such regional treatment center initially consent to such Federal lease.
+
+(Pub. L. 99–570, title IV, §4209, Oct. 27, 1986, 100 Stat. 3207–142; Pub. L. 100–690, title II, §2205, Nov. 18, 1988, 102 Stat. 4217.)
+
+#### References in Text
+
+Section 2474(b) of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 102–573, title VII, §702(b)(2), Oct. 29, 1992, 106 Stat. 4582. See section 1665c(b) of this title.
+
+#### Amendments
+
+1988—Pub. L. 100–690, §2205(1), inserted “; leasing of tribal property” in section catchline.
+
+Subsec. (c). Pub. L. 100–690, §2205(2), added subsec. (c).
+
+#### Lease and Operation of Facilities in Fairbanks, Alaska
+
+Pub. L. 101–630, title V, §509(b), (c), Nov. 28, 1990, 104 Stat. 4567, provided that:
+
+“(b)
+
+Lease of Facilities.—The Secretary of Health and Human Services, acting under section 4209(c) and4227(b) of the Indian Alcohol and Substance Abuse Prevention and Treatment Act \[of 1986, 25 U.S.C. 2415(c), 2474(b)\], may—
+
+&emsp;“(1) without regard to section 4209(c)(2) of that Act, lease from the Tanana Chiefs Conference facilities that are located in Fairbanks, Alaska, and that the Tanana Chiefs Conference has leased from another entity, and
+
+&emsp;“(2) if the Secretary enters into a lease under paragraph (1) for at least 40 years, renovate the facilities to the extent needed.
+
+“(c)
+
+Self-Determination Contracts for Staffing and Operation.—The Secretary of Health and Human Services, acting under section 102 of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450f\], may contract with the Tanana Chiefs Conference to staff and operate the facilities leased under subsection (b), without a request of an Indian tribe, and without regard to the definition and proviso in section 4(<i>l</i>) of that Act \[25 U.S.C. 450b(<i>l</i>)\].”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

@@ -1,0 +1,16 @@
+### §825<i>o</i>–1. Enforcement of certain provisions
+
+#### (a) Violations
+
+It shall be unlawful for any person to violate any provision of section 824j, 824k, 824<i>l</i>, or 824m of this title or any rule or order issued under any such provision.
+
+#### (b) Civil penalties
+
+Any person who violates any provision of section 824j, 824k, 824<i>l</i>, or 824m of this title or any provision of any rule or order thereunder shall be subject to a civil penalty of not more than $10,000 for each day that such violation continues. Such penalty shall be assessed by the Commission, after notice and opportunity for public hearing, in accordance with the same provisions as are applicable under section 823b(d) of this title in the case of civil penalties assessed under section 823b of this title. In determining the amount of a proposed penalty, the Commission shall take into consideration the seriousness of the violation and the efforts of such person to remedy the violation in a timely manner.
+
+(June 10, 1920, ch. 285, pt. III, §316A, as added Oct. 24, 1992, Pub. L. 102–486, title VII, §725(b), 106 Stat. 2920.)
+
+#### State Authorities; Construction
+
+Nothing in this section to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 79 of Title 15, Commerce and Trade.
+

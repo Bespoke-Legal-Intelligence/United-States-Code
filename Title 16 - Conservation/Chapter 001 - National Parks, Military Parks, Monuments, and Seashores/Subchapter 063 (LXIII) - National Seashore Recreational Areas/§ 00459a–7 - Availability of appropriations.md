@@ -1,0 +1,10 @@
+### §459a–7. Availability of appropriations
+
+Any funds appropriated to the Department of the Interior for the acquisition of non-Federal lands within areas of the National Park System shall after August 6, 1956, be available for the acquisition of non-Federal lands within the Cape Hatteras National Seashore Recreational Area, and the appropriation of funds for the acquisition of such lands is authorized.
+
+(Aug. 6, 1956, ch. 988, §2, 70 Stat. 1066.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 459a–8 of this title.
+

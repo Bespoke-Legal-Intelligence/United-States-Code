@@ -1,0 +1,6 @@
+### §1165a. Transferred
+
+#### Codification
+
+Section transferred to section 1293a of this title.
+

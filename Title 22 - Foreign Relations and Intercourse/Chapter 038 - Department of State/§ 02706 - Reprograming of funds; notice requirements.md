@@ -1,0 +1,42 @@
+### §2706. Reprograming of funds; notice requirements
+
+(a) Unless the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate are notified fifteen days in advance of the proposed reprograming, funds appropriated for the Department of State shall not be available for obligation or expenditure through any reprograming of funds—
+
+&emsp;(1) which creates new programs;
+
+&emsp;(2) which eliminates a program, project, or activity;
+
+&emsp;(3) which increases funds or personnel by any means for any project or activity for which funds have been denied or restricted by the Congress;
+
+&emsp;(4) which relocates an office or employees;
+
+&emsp;(5) which reorganizes offices, programs, or activities;
+
+&emsp;(6) which involves contracting out functions which had been performed by Federal employees; or
+
+&emsp;(7) which involves a reprograming in excess of $1,000,000 or 10 per centum, whichever is less, and which (A) augments existing programs, projects, or activities, (B) reduces by 10 per centum or more the funding for any existing program, project, activity, or personnel approved by the Congress, or (C) results from any general savings from a reduction in personnel which would result in a change in existing programs, activities, or projects approved by the Congress.
+
+(b) Funds appropriated for the Department of State may not be available for obligation or expenditure through any reprogramming described in subsection (a) of this section during the period which is the last 15 days in which such funds are available unless notice of such reprogramming is made before such period.
+
+(Aug. 1, 1956, ch. 841, title I, §34, as added Nov. 22, 1983, Pub. L. 98–164, title I, §123, 97 Stat. 1025; amended Dec. 22, 1987, Pub. L. 100–204, title I, §121, 101 Stat. 1339; Oct. 28, 1991, Pub. L. 102–138, title I, §117(b), 105 Stat. 657; Apr. 30, 1994, Pub. L. 103–236, title I, §122(c), 108 Stat. 392.)
+
+#### Prior Provisions
+
+A prior section 34 of act Aug. 1, 1956, was renumbered sections 35 and 36 by sections 123 and 124 of Pub. L. 98–164, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
+
+#### Amendments
+
+1994—Subsec. (a)(7). Pub. L. 103–236 substituted “$1,000,000” for “$500,000”.
+
+1991—Subsec. (a)(7). Pub. L. 102–138 substituted “$500,000” for “$250,000”.
+
+1987—Pub. L. 100–204 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Change of Name
+
+Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2684a, 2696, 2710, 2720, 4855 of this title.
+

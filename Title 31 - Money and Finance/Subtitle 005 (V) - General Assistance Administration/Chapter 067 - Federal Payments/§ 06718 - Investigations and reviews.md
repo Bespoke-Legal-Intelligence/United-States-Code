@@ -1,0 +1,34 @@
+### §6718. Investigations and reviews
+
+(a)
+
+Investigations by Secretary.—
+
+&emsp;(1)
+
+In general.—The Secretary shall within a reasonable time limit—
+
+&emsp;&emsp;(A) carry out an investigation and make a finding after receiving a complaint referred to in section 6716(b), a determination by a State or local administrative agency, or other information about a possible violation of this chapter;
+
+&emsp;&emsp;(B) carry out audits and reviews (including investigations of allegations) about possible violations of this chapter; and
+
+&emsp;&emsp;(C) advise a complainant of the status of an audit, investigation, or review of an allegation by the complainant of a violation of section 6711(a) or (b) or other provision of this chapter.
+
+&emsp;(2)
+
+Time limit.—The maximum time limit under paragraph (1)(A) is 120 days.
+
+(b)
+
+Reviews by Comptroller General.—The Comptroller General of the United States shall carry out reviews of the activities of the Secretary, State governments, and units of general local government necessary for the Congress to evaluate compliance and operations under this chapter. These reviews shall include a comparison of the waste and inefficiency of local governments using funds under this chapter compared to waste and inefficiency with other comparable Federal programs.
+
+(Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1879.)
+
+#### Prior Provisions
+
+A prior section 6718, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1026; Pub. L. 98–185, §9(i), Nov. 30, 1983, 97 Stat. 1312, related to suspension and termination of payments in discrimination proceedings, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6703 of this title.
+

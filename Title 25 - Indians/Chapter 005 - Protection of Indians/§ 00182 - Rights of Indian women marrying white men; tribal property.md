@@ -1,0 +1,10 @@
+### §182. Rights of Indian women marrying white men; tribal property
+
+Every Indian woman, member of any such tribe of Indians, who may be married after August 9, 1888, to any citizen of the United States, is hereby declared to become by such marriage a citizen of the United States, with all the rights, privileges, and immunities of any such citizen, being a married woman: <i>Provided</i>, That nothing in sections 181 to 183 of this title contained shall impair or in any way affect the right or title of such married woman to any tribal property or any interest therein.
+
+(Aug. 9, 1888, ch. 818, §2, 25 Stat. 392.)
+
+#### Cross References
+
+Indians born within territorial limits of United States declared citizens but grant of citizenship does not affect right to tribal property, see section 1401 of Title 8, Aliens and Nationality.
+

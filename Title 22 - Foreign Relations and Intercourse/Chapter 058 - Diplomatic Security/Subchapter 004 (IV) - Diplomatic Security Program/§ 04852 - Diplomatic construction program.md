@@ -1,0 +1,92 @@
+### §4852. Diplomatic construction program
+
+#### (a) Preference for United States contractors
+
+Notwithstanding section 302 of this title, and where adequate competition exists, only United States persons and qualified United States joint venture persons may—
+
+&emsp;(1) bid on a diplomatic construction or design project which has an estimated total project value exceeding $10,000,000; and
+
+&emsp;(2) bid on a diplomatic construction or design project which involves technical security, unless the project involves low-level technology, as determined by the Secretary of State.
+
+#### (b) Exception
+
+Subsection (a) of this section shall not apply with respect to any diplomatic construction or design project in a foreign country whose statutes prohibit the use of United States contractors on such projects. The exception contained in this subsection shall only become effective with respect to a foreign country 30 days after the Secretary of State certifies to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate what specific actions he has taken to urge such foreign country to permit the use of United States contractors on such projects, and what actions he shall take with respect to that country as authorized by title II of the State Department Basic Authorities Act of 1956 (22 U.S.C. 4301 et seq.; commonly referred to as the “Foreign Missions Act”).
+
+#### (c) Definitions
+
+For the purposes of this section—
+
+&emsp;(1) the term “adequate competition” means with respect to a construction or design project, the presence of two or more qualified bidders submitting responsive bids for that project;
+
+&emsp;(2) the term “United States person” means a person which—
+
+&emsp;&emsp;(A) is incorporated or legally organized under the laws of the United States, including State, the District of Columbia, and local laws;
+
+&emsp;&emsp;(B) has its principal place of business in the United States;
+
+&emsp;&emsp;(C) has been incorporated or legally organized in the United States—
+
+&emsp;&emsp;&emsp;(i) for more than 5 years before the issuance date of the invitation for bids or request for proposals with respect to a construction project under subsection (a)(1) of this section; and
+
+&emsp;&emsp;&emsp;(ii) for more than 2 years before the issuance date of the invitation for bids or request for proposals with respect to a construction or design project which involves physical or technical security under subsection (a)(2) of this section;
+
+&emsp;&emsp;(D) has performed within the United States administrative and technical, professional, or construction services similar in complexity, type of construction, and value to the project being bid;
+
+&emsp;&emsp;(E) with respect to a construction project under subsection (a)(1) of this section, has achieved total business volume equal to or greater than the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C)(i);
+
+&emsp;&emsp;(F)(i) employs United States citizens in at least 80 percent of its principal management positions in the United States,
+
+&emsp;&emsp;(ii) employs United States citizens in more than half of its permanent, full-time positions in the United States, and
+
+&emsp;&emsp;(iii) will employ United States citizens in at least 80 percent of the supervisory positions on the foreign buildings office project site; and
+
+&emsp;&emsp;(G) has the existing technical and financial resources in the United States to perform the contract; and
+
+&emsp;(3) the term “qualified United States joint venture person” means a joint venture in which a United States person or persons owns at least 51 percent of the assets of the joint venture.
+
+#### (d) American minority contractors
+
+Not less than 10 percent of the amount appropriated pursuant to section 4851(a) of this title for diplomatic construction or design projects each fiscal year shall be allocated to the extent practicable for contracts with American minority contractors.
+
+#### (e) American small business contractors
+
+Not less than 10 percent of the amount appropriated pursuant to section 4851(a) of this title for diplomatic construction or design projects each fiscal year shall be allocated to the extent practicable for contracts with American small business contractors.
+
+#### (f) Limitation on subcontracting
+
+With respect to a diplomatic construction project, a prime contractor may not subcontract more than 50 percent of the total value of its contract for that project.
+
+(Pub. L. 99–399, title IV, §402, Aug. 27, 1986, 100 Stat. 864; Pub. L. 101–246, title I, §132, Feb. 16, 1990, 104 Stat. 32; Pub. L. 102–138, title I, §131, Oct. 28, 1991, 105 Stat. 662; Pub. L. 103–236, title I, §162(g)(10), Apr. 30, 1994, 108 Stat. 407.)
+
+#### References in Text
+
+Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (b), is title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§4301 et seq.) of this title. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
+
+#### Amendments
+
+1994—Subsec. (a)(2). Pub. L. 103–236 substituted “Secretary of State” for “Assistant Secretary for Diplomatic Security”.
+
+1991—Subsec. (a)(1). Pub. L. 102–138, §131(1), substituted “$10,000,000” for “$5,000,000”.
+
+Subsec. (a)(2). Pub. L. 102–138, §131(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “bid on a diplomatic construction or design project which involves physical or technical security, unless the project—
+
+&emsp;“(A) involves nonsophisticated, low-level technology, as determined by the Assistant Secretary for Diplomatic Security;
+
+&emsp;“(B) is for the design or construction of a facility that does not process or store classified material; and
+
+&emsp;“(C) does not exceed a total value of $500,000.”
+
+1990—Subsec. (a)(2). Pub. L. 101–246 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “bid on a diplomatic construction or design project which involves physical or technical security.”
+
+#### Change of Name
+
+Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+
+#### Construction of United States Embassy in Ottawa
+
+Section 125 of Pub. L. 101–246 provided that: “Section 402(a) of the Diplomatic Security Act (22 U.S.C. 4852(a)) shall not apply to the construction or renovation of the United States Embassy in Ottawa, Canada.”
+

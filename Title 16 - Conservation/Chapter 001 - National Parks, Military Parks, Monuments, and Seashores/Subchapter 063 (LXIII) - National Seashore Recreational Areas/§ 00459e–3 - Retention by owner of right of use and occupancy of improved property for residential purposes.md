@@ -1,0 +1,16 @@
+### §459e–3. Retention by owner of right of use and occupancy of improved property for residential purposes
+
+#### (a) Time limit; value of reserved right
+
+Owners of improved property acquired by the Secretary may reserve for themselves and their successors or assigns a right of use and occupancy of the improved property for noncommercial residential purposes for a term that is not more than twenty-five years. The value of the reserved right shall be deducted from the fair market value paid for the property.
+
+#### (b) Termination of right; compensation
+
+A right of use and occupancy reserved pursuant to this section shall be subject to termination by the Secretary upon his determination that the use and occupancy is not consistent with an applicable zoning ordinance approved by the Secretary in accordance with the provisions of section 459e–2 of this title, and upon tender to the owner of the right an amount equal to the fair market value of that portion of the right which remains unexpired on the date of termination.
+
+(Pub. L. 88–587, §4, Sept. 11, 1964, 78 Stat. 931.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 459e–1, 459e–2, 459e–5, 459e–6, 459e–7, 459e–9 of this title.
+

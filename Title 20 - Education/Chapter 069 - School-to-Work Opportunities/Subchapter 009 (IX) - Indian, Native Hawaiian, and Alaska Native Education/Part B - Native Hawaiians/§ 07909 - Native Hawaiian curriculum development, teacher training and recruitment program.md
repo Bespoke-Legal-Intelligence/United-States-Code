@@ -1,0 +1,44 @@
+### §7909. Native Hawaiian curriculum development, teacher training and recruitment program
+
+#### (a) General authority
+
+The Secretary is authorized to make direct grants, to Native Hawaiian educational organizations or educational entities with experience in developing or operating Native Hawaiian programs or programs of instruction conducted in the Native Hawaiian language, for the following purposes:
+
+#### (1) Curricula
+
+&emsp;The development of curricula to address the needs of Native Hawaiian students, particularly elementary and secondary school students, which may include programs of instruction conducted in the Native Hawaiian language, and mathematics and science curricula incorporating the relevant application of Native Hawaiian culture and traditions.
+
+#### (2) Preteacher training
+
+&emsp;The development and implementation of preteacher training programs in order to ensure that student teachers within the State of Hawai‘i, particularly student teachers who are likely to be employed in schools with a high concentration of Native Hawaiian students, are prepared to better address the unique needs of Native Hawaiian students, within the context of Native Hawaiian culture, language and traditions.
+
+#### (3) Inservice teacher training
+
+&emsp;The development and implementation of inservice teacher training programs, in order to ensure that teachers, particularly teachers employed in schools with a high concentration of Native Hawaiian students, are prepared to better address the unique needs of Native Hawaiian students, within the context of Native Hawaiian culture, language and traditions.
+
+#### (4) Teacher recruitment
+
+&emsp;The development and implementation of teacher recruitment programs to meet the objectives of—
+
+&emsp;&emsp;(A) enhancing teacher recruitment within communities with a high concentration of Native Hawaiian students; and
+
+&emsp;&emsp;(B) increasing the numbers of teachers who are of Native Hawaiian ancestry.
+
+#### (b) Priority
+
+In awarding grants under this section, the Secretary shall give priority to awarding grants for activities described in subsection (a) of this section that—
+
+&emsp;(1) focus on the needs of at-risk youth; or
+
+&emsp;(2) employ a program of instruction conducted in the Native Hawaiian language, except that entities receiving grants awarded pursuant to subsection (a)(2) of this section shall coordinate in the development of new curricula.
+
+#### (c) Administrative costs
+
+Not more than 7 percent of the funds appropriated to carry out the provisions of this section for any fiscal year may be used for administrative purposes.
+
+#### (d) Authorization of appropriations
+
+There are authorized to be appropriated $2,000,000 for fiscal year 1995, and such sums asmay be necessary for each of the four succeeding fiscal years, to carry out this section. Funds appropriated under the authority of this subsection shall remain available until expended.
+
+(Pub. L. 89 10, title IX, §9209, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3803.)
+

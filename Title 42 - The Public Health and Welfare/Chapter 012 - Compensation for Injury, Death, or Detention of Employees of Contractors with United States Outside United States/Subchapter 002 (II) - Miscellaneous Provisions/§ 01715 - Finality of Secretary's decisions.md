@@ -1,0 +1,14 @@
+### §1715. Finality of Secretary's decisions
+
+The action of the Secretary in allowing or denying any payment under subchapter I of this chapter shall be final and conclusive on all questions of law and fact and not subject to review by any other official of the United States or by any court by mandamus or otherwise, and the Comptroller General is authorized and directed to allow credit in the accounts of any certifying or disbursing officer for payments in accordance with such action.
+
+(Dec. 2, 1942, ch. 668, title II, §205, 56 Stat. 1034.)
+
+#### Transfer of Functions
+
+For transfer of functions to Secretary of Labor, see note set out under section 1711 of this title.
+
+#### Federal Rules of Civil Procedure
+
+Writ of mandamus abolished in United States district courts, but relief available by appropriate action or motion, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
+

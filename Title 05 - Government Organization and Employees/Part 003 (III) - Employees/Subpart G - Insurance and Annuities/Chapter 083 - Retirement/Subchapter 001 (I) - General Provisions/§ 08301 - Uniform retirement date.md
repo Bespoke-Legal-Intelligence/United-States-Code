@@ -1,0 +1,28 @@
+### §8301 . Uniform retirement date
+
+(a) Except as otherwise specifically provided by this title or other statute, retirement authorized by statute is effective on the first day of the month following the month in which retirement would otherwise be effective.
+
+(b) Notwithstanding subsection (a) of this section, the rate of active or retired pay or allowance is computed as of the date retirement would have occurred but for subsection (a) of this section.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 557.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 47a.
+
+Apr. 23, 1930, ch. 209, §1, 46 Stat. 253.
+
+In subsection (a), the words “Except as otherwise specifically provided by this title or other statute” are added because of the statutes carried into subchapter III of chapter 83. The words “of Federal personnel of whatever class, civil, military, naval, judicial, legislative, or otherwise, and for whatever cause retired” are omitted as unnecessary. The words “and said first day of the month for retirements made after July 1, 1930, shall be for all purposes in lieu of such date for retirement as was on April 23, 1930, authorized” are omitted as executed.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 10 sections 580, 1164, 1210, 1221, 1263, 1305, 1404, 12731.
+

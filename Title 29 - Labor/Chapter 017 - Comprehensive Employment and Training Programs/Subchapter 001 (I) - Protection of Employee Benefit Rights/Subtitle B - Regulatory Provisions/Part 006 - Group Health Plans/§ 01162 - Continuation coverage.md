@@ -1,0 +1,152 @@
+### §1162. Continuation coverage
+
+For purposes of section 1161 of this title, the term “continuation coverage” means coverage under the plan which meets the following requirements:
+
+#### (1) Type of benefit coverage
+
+&emsp;The coverage must consist of coverage which, as of the time the coverage is being provided, is identical to the coverage provided under the plan to similarly situated beneficiaries under the plan with respect to whom a qualifying event has not occurred. If coverage is modified under the plan for any group of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part in connection with such group.
+
+#### (2) Period of coverage
+
+&emsp;The coverage must extend for at least the period beginning on the date of the qualifying event and ending not earlier than the earliest of the following:
+
+#### (A) Maximum required period
+
+#### (i) General rule for terminations and reduced hours
+
+&emsp;&emsp;&emsp;In the case of a qualifying event described in section 1163(2) of this title, except as provided in clause (ii), the date which is 18 months after the date of the qualifying event.
+
+#### (ii) Special rule for multiple qualifying events
+
+&emsp;&emsp;&emsp;If a qualifying event (other than a qualifying event described in section 1163(6) of this title) occurs during the 18 months after the date of a qualifying event described in section 1163(2) of this title, the date which is 36 months after the date of the qualifying event described in section 1163(2) of this title.
+
+#### (iii) Special rule for certain bankruptcy proceedings
+
+&emsp;&emsp;&emsp;In the case of a qualifying event described in section 1163(6) of this title (relating to bankruptcy proceedings), the date of the death of the covered employee or qualified beneficiary (described in section 1167(3)(C)(iii) of this title), or in the case of the surviving spouse or dependent children of the covered employee, 36 months after the date of the death of the covered employee.
+
+#### (iv) General rule for other qualifying events
+
+&emsp;&emsp;&emsp;In the case of a qualifying event not described in section 1163(2) or 1163(6) of this title, the date which is 36 months after the date of the qualifying event.
+
+> &emsp;&emsp;In the case of an individual who is determined, under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], to have been disabled at the time of a qualifying event described in section 1163(2) of this title, any reference in clause (i) or (ii) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under section 1166(3) <sup>1</sup> of this title before the end of such 18 months.
+
+#### (v) <sup>2</sup> Qualifying event involving medicare entitlement
+
+&emsp;&emsp;&emsp;In the case of an event described in section 1163(4) of this title (without regard to whether such event is a qualifying event), the period of coverage for qualified beneficiaries other than the covered employee for such event or any subsequent qualifying event shall not terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\].
+
+#### (B) End of plan
+
+&emsp;&emsp;The date on which the employer ceases to provide any group health plan to any employee.
+
+#### (C) Failure to pay premium
+
+&emsp;&emsp;The date on which coverage ceases under the plan by reason of a failure to make timely payment of any premium required under the plan with respect to the qualified beneficiary. The payment of any premium (other than any payment referred to in the last sentence of paragraph (3)) shall be considered to be timely if made within 30 days after the date due or within such longer period as applies to or under the plan.
+
+#### (D) Group health plan coverage or medicare entitlement
+
+&emsp;&emsp;The date on which the qualified beneficiary first becomes, after the date of the election—
+
+&emsp;&emsp;&emsp;(i) covered under any other group health plan (as an employee or otherwise) which does not contain any exclusion or limitation with respect to any preexisting condition of such beneficiary, or
+
+&emsp;&emsp;&emsp;(ii) in the case of a qualified beneficiary other than a qualified beneficiary described in section 1167(3)(C) of this title, entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\].
+
+#### (E) Termination of extended coverage for disability
+
+&emsp;&emsp;In the case of a qualified beneficiary who is disabled at the time of a qualifying event described in section 1163(2) of this title, the month that begins more than 30 days after the date of the final determination under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\] that the qualified beneficiary is no longer disabled.
+
+#### (3) Premium requirements
+
+&emsp;The plan may require payment of a premium for any period of continuation coverage, except that such premium—
+
+&emsp;&emsp;(A) shall not exceed 102 percent of the applicable premium for such period, and
+
+&emsp;&emsp;(B) may, at the election of the payor, be made in monthly installments.
+
+> &emsp;In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage. In the case of an individual described in the last sentence of paragraph (2)(A), any reference in subparagraph (A) of this paragraph to “102 percent” is deemed a reference to “150 percent” for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A).
+
+#### (4) No requirement of insurability
+
+&emsp;The coverage may not be conditioned upon, or discriminate on the basis of lack of, evidence of insurability.
+
+#### (5) Conversion option
+
+&emsp;In the case of a qualified beneficiary whose period of continuation coverage expires under paragraph (2)(A), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
+
+(Pub. L. 93–406, title I, §602, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 228; amended Pub. L. 99–509, title IX, §9501(b)(1)(B), (2)(B), Oct. 21, 1986, 100 Stat. 2076, 2077; Pub. L. 99–514, title XVIII, §1895(d)(1)(B), (2)(B), (3)(B), (4)(B), Oct. 22, 1986, 100 Stat. 2936–2938; Pub. L. 101–239, title VI, §6703(a), (b), title VII, §§7862(c)(3)(B), (4)(A), (5)(B), 7871(c), Dec. 19, 1989, 103 Stat. 2296, 2432, 2433, 2435.)
+
+#### References in Text
+
+The Social Security Act, referred to in par. (2)(A), (D)(ii), (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+Section 1166(3) of this title, referred to in par. (2)(A), was redesignated as section 1166(a)(3) of this title by Pub. L. 101–239, title VII, §7891(d)(1)(A)(ii)(I), Dec. 19, 1989, 103 Stat. 2445.
+
+#### Amendments
+
+1989—Par. (2)(A). Pub. L. 101–239, §6703(a)(1), inserted after and below cl. (iv) “In the case of an individual who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in section 1163(2) of this title, any reference in clause (i) or (ii) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under section 1166(3) of this title before the end of such 18 months.”
+
+Par. (2)(A)(iii). Pub. L. 101–239, §7871(c), substituted “described in section 1163(6)” for “described in 1163(6)”.
+
+Par. (2)(A)(v). Pub. L. 101–239, §7862(c)(5)(B), added cl. (v).
+
+Par. (2)(D). Pub. L. 101–239, §7862(c)(3)(B), substituted “entitlement” for “eligibility” in heading and inserted “which does not contain any exclusion or limitation with respect to any preexisting condition of such beneficiary” after “or otherwise)” in cl. (i).
+
+Par. (2)(E). Pub. L. 101–239, §6703(a)(2), added subpar. (E).
+
+Par. (3). Pub. L. 101–239, §7862(c)(4)(A), which directed substitution of “In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage.” for last sentence of par. (3), was executed by making the substitution for the following sentence: “If an election is made after the qualifying event, the plan shall permit payment for continuation coverage during the period preceding the election to be made within 45 days of the date of the election.”, notwithstanding the sentence added at the end of par. (3) by Pub. L. 101–239, §6703(b).
+
+Pub. L. 101–239, §6703(b), inserted at end “In the case of an individual described in the last sentence of paragraph (2)(A), any reference in subparagraph (A) of this paragraph to ‘102 percent’ is deemed a reference to ‘150 percent’ for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A).”
+
+1986—Par. (1). Pub. L. 99–514, §1895(d)(1)(B), inserted “If coverage is modified under the plan for any group of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part in connection with such group.”
+
+Par. (2)(A). Pub. L. 99–514, §1895(d)(2)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
+
+“(A)
+
+Maximum period.—In the case of—
+
+&emsp;“(i) a qualifying event described in section 1163(2) of this title (relating to terminations and reduced hours), the date which is 18 months after the date of the qualifying event, and
+
+&emsp;“(ii) any qualifying event not described in clause (i), the date which is 36 months after the date of the qualifying event.”
+
+Par. (2)(A)(ii). Pub. L. 99–509, §9501(b)(1)(B)(i), inserted “(other than a qualifying event described in section 1163(6) of this title)”.
+
+Par. (2)(A)(iii). Pub. L. 99–509, §9501(b)(1)(B)(iv), added cl. (iii). Former cl. (iii) redesignated (iv).
+
+Par. (2)(A)(iv). Pub. L. 99–509, §9501(b)(1)(B)(ii), (iii), redesignated cl. (iii) as (iv) and inserted “or 1163(6)”.
+
+Par. (2)(C). Pub. L. 99–514, §1895(d)(3)(B), inserted “The payment of any premium (other than any payment referred to in the last sentence of paragraph (3)) shall be considered to be timely if made within 30 days after the date due or within such longer period as applies to or under the plan.”
+
+Par. (2)(D). Pub. L. 99–514, §1895(d)(4)(B)(ii), (iii), substituted “Group health plan coverage or medicare eligibility” for “Reemployment or medicare eligibility” as heading and substituted “covered under any other group health plan (as an employee or otherwise)” for “a covered employee under any other group health plan” in cl. (i).
+
+Par. (2)(D)(ii). Pub. L. 99–509, §9501(b)(2)(B), inserted “in the case of a qualified beneficiary other than a qualified beneficiary described in section 1167(3)(C) of this title” before “entitled”.
+
+Par. (2)(E). Pub. L. 99–514, §1895(d)(4)(B)(i), struck out subpar. (E), remarriage of spouse, which read as follows: “In the case of an individual who is a qualified beneficiary by reason of being the spouse of a covered employee, the date on which the beneficiary remarries and becomes covered under a group health plan.”
+
+#### Effective Date of 1989 Amendment
+
+Section 6703(d) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section and section 1166 of this title\] shall apply to plan years beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\], regardless of whether the qualifying event occurred before, on, or after such date.”
+
+Amendment by section 7862(c)(3)(B) of Pub. L. 101–239 applicable to (i) qualifying events occurring after Dec. 31, 1989, and (ii) in the case of qualified beneficiaries who elected continuation coverage after Dec. 31, 1988, the period for which the required premium was paid (or was attempted to be paid but was rejected as such), see section 7862(c)(3)(D) of Pub. L. 101–239, set out as a note under section 162 of Title 26, Internal Revenue Code.
+
+Amendment by section 7862(c)(4)(A) of Pub. L. 101–239 applicable to plan years beginning after Dec. 31, 1989, see section 7862(c)(4)(C) of Pub. L. 101–239, set out as a note under section 4980B of Title 26.
+
+Amendment by section 7862(c)(5)(B) of Pub. L. 101–239 applicable to plan years beginning after Dec. 31, 1989, see section 7862(c)(5)(C) of Pub. L. 101–239, set out as a note under section 4980B of Title 26.
+
+#### Effective Date of 1986 Amendments
+
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
+
+Amendment by Pub. L. 99–509 effective, except as otherwise provided, as if included in title X of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 9501(e) of Pub. L. 99–509, set out as a note under section 162 of Title 26.
+
+#### Plan Amendments Not Required Until January 1, 1989
+
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1167 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Clause (v) probably should immediately follow clause (iv).</i>
+

@@ -1,0 +1,20 @@
+### §6422. Payments for programs under this part
+
+#### (a) Agency subgrants
+
+Based on the allocation amount computed under section 6432 of this title, the Secretary shall allocate to each State educational agency amounts necessary to make subgrants to State agencies.
+
+#### (b) Local subgrants
+
+Each State shall retain, for purposes of subpart 2 of this part, funds generated throughout the State under part A of this subchapter based on youth residing in local correctional facilities, or attending community day programs for delinquent children and youth.
+
+#### (c) Use of remaining funds
+
+Each State shall use any funds remaining after allocations are made under subsection (a) of this section.
+
+(Pub. L. 89 10, title I, §1402, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3592.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6452 of this title.
+

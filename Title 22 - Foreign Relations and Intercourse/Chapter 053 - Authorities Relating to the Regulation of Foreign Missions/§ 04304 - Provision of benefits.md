@@ -1,0 +1,94 @@
+### §4304. Provision of benefits
+
+#### (a) Request by foreign mission; terms and conditions as approved by Secretary
+
+Upon the request of a foreign mission, benefits may be provided to or for that foreign mission by or through the Secretary on such terms and conditions as the Secretary may approve.
+
+#### (b) Benefits through Secretary as mandatory; compliance with terms and conditions
+
+If the Secretary determines that such action is reasonably necessary on the basis of reciprocity or otherwise—
+
+&emsp;(1) to facilitate relations between the United States and a sending State,
+
+&emsp;(2) to protect the interests of the United States,
+
+&emsp;(3) to adjust for costs and procedures of obtaining benefits for missions of the United States abroad,
+
+&emsp;(4) to assist in resolving a dispute affecting United States interests and involving a foreign mission or sending State, or
+
+&emsp;(5) subject to subsection (f) of this section, to implement an exchange of property between the Government of the United States and the government of a foreign country, such property to be used by each government in the respective receiving state for, or in connection with, diplomatic or consular establishments,
+
+> then the Secretary may require a foreign mission (A) to obtain benefits from or through the Secretary on such terms and conditions as the Secretary may approve, or (B) to forego the acceptance, use, or relation of any benefit or to comply with such terms and conditions as the Secretary may determine as a condition to the execution or performance in the United States of any contract or other agreement, the acquisition, retention, or use of any real property, or the application for or acceptance of any benefit (including any benefit from or authorized by any Federal, State, or municipal governmental authority, or any entity providing public services).
+
+#### (c) Surcharge or fee; waiver of recourse
+
+Terms and conditions established by the Secretary under this section may include—
+
+&emsp;(1) a requirement to pay to the Secretary a surcharge or fee, and
+
+&emsp;(2) a waiver by a foreign mission (or any assignee of or person deriving rights from a foreign mission) of any recourse against any governmental authority, any entity providing public services, any employee or agent of such an authority or entity, or any other person, in connection with any action determined by the Secretary to be undertaken in furtherance of this chapter.
+
+#### (d) Agent for waiver of recourse
+
+For purposes of effectuating a waiver of recourse which is required under this section, the Secretary may designate any officer of the Department of State as the agent of a foreign mission (or of any assignee of or person deriving rights from a foreign mission). Any such waiver by an officer so designated shall for all purposes (including any court or administrative proceeding) be deemed to be a waiver by the foreign mission (or the assignee of or other person deriving rights from a foreign mission).
+
+#### (e) Secret Service protection
+
+Nothing in this chapter shall be deemed to preclude or limit in any way the authority of the United States Secret Service to provide protective services pursuant to section 202 of title 3 or section 3056 of title 18 at a level commensurate with protective requirements as determined by the United States Secret Service.
+
+#### (f) In-kind exchange of properties with foreign government; transfer of funds; reciprocal agreement; regulations
+
+(1) Upon a determination in each specific case by the Secretary of State or the Secretary's designee that the purpose of the Foreign Service Buildings Act, 1926 \[22 U.S.C. 292 et seq.\], can best be met on the basis of an in-kind exchange of properties with a foreign country pursuant to subsection (b)(5) of this section, the Secretary of State may transfer funds made available under the heading “Acquisition and Maintenance of Buildings Abroad” (including funds held in the Foreign Service Buildings Fund) for such purpose to the Working Capital Fund, as provided in section 4308(h)(1) of this title. Except for funds that may be provided by a foreign government for the purchase of property, only funds transferred under the preceding sentence may be used for the purposes of subsection (b)(5) of this section.
+
+(2) The Secretary of State may acquire property in the United States for the purposes of subsection (b)(5) of this section only in the context of a specific reciprocal agreement with a specified foreign government. Property acquired by the United States in the foreign country through such an exchange shall benefit the United States at least to the same extent as the property acquired in the United States benefits the foreign government.
+
+(3) The Secretary of State shall prescribe regulations for the implementation of any in-kind exchange of properties pursuant to subsection (b)(5) of this section.
+
+(4) At least 15 days before entering into any reciprocal agreement for the exchange of property with another foreign government, the Secretary of State shall notify the Committee on Foreign Affairs and the Committee on Public Works and Transportation of the House of Representatives and the Committee on Foreign Relations of the Senate.
+
+(5)(A) Proceeds from the disposition of properties acquired pursuant to this subsection shall be credited to the Foreign Service Buildings Fund (referred to in section 9 of the Foreign Service Buildings Act, 1926 \[22 U.S.C. 300\]).
+
+(B) The authority to spend proceeds received under subparagraph (A) may be exercised only to such extent or in such amounts as are provided in advance in an appropriation Act.
+
+(Aug. 1, 1956, ch. 841, title II, §204, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 284; amended Aug. 16, 1985, Pub. L. 99–93, title I, §§126(b), 127(c), 99 Stat. 418; Feb. 16, 1990, Pub. L. 101–246, title I, §116(b), 104 Stat. 24; Apr. 30, 1994, Pub. L. 103–236, title I, §162(<i>o</i>)(3), 108 Stat. 410; Oct. 25, 1994, Pub. L. 103–415, §1(cc), 108 Stat. 4302.)
+
+#### References in Text
+
+The Foreign Service Buildings Act, 1926, referred to in subsec. (f)(1), is act May 7, 1926, ch. 250, 44 Stat. 403, as amended, which is classified generally to chapter 8 (§292 et seq.) of this title. For complete classification of this Act to the Code, see section 299 of this title and Tables.
+
+#### Codification
+
+Section is also set out in D.C. Code, §5–1204.
+
+#### Amendments
+
+1994—Subsecs. (a) to (c)(1). Pub. L. 103–236, §162(<i>o</i>)(3)(A), substituted “Secretary on such terms” for “Director on such terms” in subsecs. (a) and (b) and “Secretary” for “Director” in subsec. (c)(1).
+
+Subsec. (d). Pub. L. 103–236, §162(<i>o</i>)(3)(B), as amended by Pub. L. 103–415, substituted “any officer” for “the Director or any other officer”.
+
+1990—Subsec. (b)(5). Pub. L. 101–246, §116(b)(1), added par. (5).
+
+Subsec. (f). Pub. L. 101–246, §116(b)(2), added subsec. (f).
+
+1985—Subsec. (b). Pub. L. 99–93, §127(c), inserted “to forego the acceptance, use, or relation of any benefit or” after “(B)” in provisions following par. (4).
+
+Subsec. (e). Pub. L. 99–93, §126(b), substituted “chapter” for “section” and was executed by making the substitution to first reference to “section” as the probable intent of Congress.
+
+#### Change of Name
+
+Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+
+#### Effective Date of 1985 Amendment
+
+Amendment by section 126(b) of Pub. L. 99–93 effective Oct. 1, 1985, see section 126(e) of Pub. L. 99–93, set out as an Effective Date note under section 4314 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 300, 4303, 4307, 4309 of this title; title 40 section 1107.
+

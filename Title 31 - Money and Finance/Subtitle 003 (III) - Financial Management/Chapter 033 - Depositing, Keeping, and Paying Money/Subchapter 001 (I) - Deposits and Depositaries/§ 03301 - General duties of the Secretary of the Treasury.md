@@ -1,0 +1,50 @@
+### §3301. General duties of the Secretary of the Treasury
+
+(a) The Secretary of the Treasury shall—
+
+&emsp;(1) receive and keep public money;
+
+&emsp;(2) take receipts for money paid out by the Secretary;
+
+&emsp;(3) give receipts for money deposited in the Treasury;
+
+&emsp;(4) endorse warrants for receipts for money deposited in the Treasury;
+
+&emsp;(5) submit the accounts of the Secretary to the Comptroller General every 3 months, or more often if required by the Comptroller General; and
+
+&emsp;(6) submit to inspection at any time by the Comptroller General of money in the possession of the Secretary.
+
+(b) Except as provided in section 3326 of this title, an acknowledgment for money deposited in the Treasury is not valid if the Secretary does not endorse a warrant as required by subsection (a)(4) of this section.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 948.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+3301
+
+31:44(1st sentence).
+
+June 10, 1921, ch. 18, §304(1st par. 1st sentence), 42 Stat. 24.
+
+&nbsp;
+
+31:147(less disbursement).
+
+R.S. §305(less disbursement).
+
+In subsection (a), the words “public money” are substituted for “the moneys of the United States” to eliminate unnecessary words and for consistency. The words “Secretary of the Treasury” are substituted for “Treasurer” because of the source provisions restated in section 321(c) of the revised title. In clauses (3) and (4), the words “deposited in the Treasury” are substituted for “received by him” for clarity and consistency in the revised title. In clause (4), the words “signed by the Secretary of the Treasury” are omitted as surplus. In clauses (5) and (6), the words “Comptroller General” are substituted for “General Accounting Office” for consistency. In clause (5), the word “submit” is substituted for “render” for consistency. The words “and shall transmit a copy thereof, when settled, to the Secretary of the Treasury” are omitted because of the restatement. In clause (6), the words “Secretary of the Treasury . . . or either of them” are omitted because of the restatement. The word “public” is added for consistency.
+
+In subsection (b), the words “Except as provided in section 3326 of this title” are added for clarity. The words “endorse . . . as required by subsection (a)(4) of this section” are substituted for “so signed” for clarity and consistency.
+
+#### Short Title of 1994 Amendment
+
+Pub. L. 103–356, §1(a), Oct. 13, 1994, 108 Stat. 3410, provided that: “This Act \[amending sections 331, 3332, 3515, and 3521 of this title, section 31 of Title 2, The Congress, section 104 of Title 3, The President, sections 5318 and 6304 of Title 5, Government Organization and Employees, and section 461 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section, sections 501 and 1113 of this title, section 31 of Title 2, and section 6304 of Title 5\] may be cited as the ‘Government Management Reform Act of 1994’.”
+
+Pub. L. 103–356, title IV, §401, Oct. 13, 1994, 108 Stat. 3412, provided that: “This title \[amending sections 331, 3332, 3515, and 3521 of this title and enacting provisions set out as notes under section 501 of this title\] may be cited as the ‘Federal Financial Management Act of 1994’.”
+

@@ -1,0 +1,24 @@
+### §407. Sale of timber on unallotted lands
+
+Under regulations prescribed by the Secretary of the Interior, the timber on unallotted trust land in Indian reservations or on other land held in trust for tribes may be sold in accordance with the principles of sustained-yield management or to convert the land to a more desirable use. After deduction, if any, for administrativeexpenses under section 413 of this title, the proceeds of the sale shall be used—
+
+&emsp;(1) as determined by the governing bodies of the tribes concerned and approved by the Secretary, or
+
+&emsp;(2) in the absence of such a governing body, as determined by the Secretary for the tribe concerned.
+
+(June 25, 1910, ch. 431, §7, 36 Stat. 857; Apr. 30, 1964, Pub. L. 88–301, 78 Stat. 186; Oct. 31, 1988, Pub. L. 100–580, §13, 102 Stat. 2936.)
+
+#### Amendments
+
+1988—Pub. L. 100–580 amended section generally. Prior to amendment, section read as follows: “The timber on unallotted lands of any Indian reservation may be sold in accordance with the principles of sustained yield, or in order to convert the land to a more desirable use, under regulations to be prescribed by the Secretary of the Interior, and the proceeds from such sales, after deductions for administrative expenses pursuant to section 413 of this title, shall be used for the benefit of the Indians who are members of the tribe or tribes concerned in such manner as he may direct.”
+
+1964—Pub. L. 88–301 substituted “timber” for “mature living and dead and down timber”, provided for sale of timber in accordance with principles of sustained yield or in order to convert the land to a more desirable use, provided for deductions for administrative expenses from proceeds of sales, made the Indians who were tribal members the beneficiaries instead of the Indians of the reservation, and struck out proviso which made section inapplicable to Minnesota and Wisconsin.
+
+#### Cross References
+
+Klamath Tribe timber sales, see section 564x of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 353, 564h, 697, 747, 1724 of this title; title 43 section 1617.
+

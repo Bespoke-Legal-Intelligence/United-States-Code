@@ -1,0 +1,24 @@
+### §1836. Authorization of appropriations
+
+(a) There are authorized to be appropriated to carry out the provisions of this subchapter, $10,000,000 for fiscal year 1993 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+
+(b) Any funds appropriated pursuant to subsection (a) of this section are authorized to remain available until expended.
+
+(Pub. L. 95–471, title III, §306, as added Pub. L. 98–192, §13, Dec. 1, 1983, 97 Stat. 1343; amended Pub. L. 99–428, §2(b), Sept. 30, 1986, 100 Stat. 982; Pub. L. 101–477, §1(d)(1)(F), Oct. 30, 1990, 104 Stat. 1153; Pub. L. 102–325, title XIII, §1301(b), July 23, 1992, 106 Stat. 797.)
+
+#### Amendments
+
+1992—Subsec. (a). Pub. L. 102–325 amended subsec. (a) generally, substituting provisions authorizing appropriations for fiscal years 1993 to 1997 for provisions authorizing appropriations for fiscal years 1987 to 1992.
+
+1990—Subsec. (a). Pub. L. 101–477 substituted “1990 and 1991, and for fiscal year 1992, $10,000,000” for “and 1990”.
+
+1986—Subsec. (a). Pub. L. 99–428 substituted “1987, 1988, 1989, and 1990” for “1985, 1986, and 1987”.
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of Title 20, Education.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1832, 1835 of this title.
+

@@ -1,0 +1,104 @@
+### §8311 . Definitions
+
+For the purpose of this subchapter—
+
+&emsp;(1) “employee” means—
+
+&emsp;&emsp;(A) an employee as defined by section 2105 of this title:
+
+&emsp;&emsp;(B) a Member of Congress as defined by section 2106 of this title and a Delegate to Congress;
+
+&emsp;&emsp;(C) a member or former member of a uniformed service; and
+
+&emsp;&emsp;(D) an individual employed by the government of the District of Columbia;
+
+&emsp;(2) “annuity” means a retirement benefit, including a disability insurance benefit and a dependent's or survivor's benefit under subchapter II of chapter 7 of title 42, and a monthly annuity under section 228b or 228e of title 45, payable by an agency of the Government of the United States or the government of the District of Columbia on the basis of service as a civilian employee and other service which is creditable to an employee toward the benefit under the statute, regulation, or agreementwhich provides the benefit, but does not include—
+
+&emsp;&emsp;(A) a benefit provided under statutes administered by the Department of Veterans Affairs;
+
+&emsp;&emsp;(B) pay or compensation which may not be diminished under section 1 of Article III of the Constitution of the United States;
+
+&emsp;&emsp;(C) that portion of a benefit payable under subchapter II of chapter 7 of title 42 which would be payable without taking into account, for any of the purposes of that subchapter, including determinations of periods of disability under section 416(i) of title 42, pay for services as an employee;
+
+&emsp;&emsp;(D) monthly annuity awarded under section 228b or 228e of title 45 before September 26, 1961, whether or not computed under section 228c(e) of title 45;
+
+&emsp;&emsp;(E) that portion of an annuity awarded under section 228b or 228e of title 45 after September 25, 1961, which would be payable without taking into account military service creditable under section 228c–1 of title 45;
+
+&emsp;&emsp;(F) a retirement benefit, including a disability insurance benefit and a dependent's or survivor's benefit under subchapter II of chapter 7 of title 42, awarded before September 1, 1954, to an individual or his survivor or beneficiary, insofar as the individual, before September 1, 1954—
+
+&emsp;&emsp;&emsp;(i) was convicted of an offense named by subsection (b) of section 8312 of this title, to the extent provided by that subsection; or
+
+&emsp;&emsp;&emsp;(ii) violated section 8314 or 8315(a)(1) of this title; or
+
+&emsp;&emsp;(G) a retirement benefit, including a disability insurance benefit and a dependent's or survivor's benefit under subchapter II of chapter 7 of title 42, awarded before September 26, 1961, to an individual or his survivor or beneficiary, insofar as the individual, before September 26, 1961—
+
+&emsp;&emsp;&emsp;(i) was convicted of an offense named by subsection (c) of section 8312 of this title, to the extent provided by that subsection; or
+
+&emsp;&emsp;&emsp;(ii) violated section 8315(a)(2) of this title; and
+
+&emsp;(3) “retired pay” means retired pay, retirement pay, retainer pay, or equivalent pay, payable under a statute to a member or former member of a uniformed service, and an annuity payable to an eligible beneficiary of the member or former member under chapter 73 of title 10 or section 5 of the Uniformed Services Contingency Option Act of 1953 (67 Stat. 504), but does not include—
+
+&emsp;&emsp;(A) a benefit provided under statutes administered by the Department of Veterans Affairs;
+
+&emsp;&emsp;(B) retired pay, retirement pay, retainer pay, or equivalent pay, awarded before September 1, 1954, to an individual, insofar as the individual, before September 1, 1954—
+
+&emsp;&emsp;&emsp;(i) was convicted of an offense named by subsection (b) of section 8312 of this title, to the extent provided by that subsection; or
+
+&emsp;&emsp;&emsp;(ii) violated section 8314 or 8315(a)(1) of this title;
+
+&emsp;&emsp;(C) retired pay, retirement pay, retainer pay, or equivalent pay, awarded before September 26, 1961, to an individual, insofar as the individual, before September 26, 1961—
+
+&emsp;&emsp;&emsp;(i) was convicted of an offense named by subsection (c) of section 8312 of this title, to the extent provided by that subsection; or
+
+&emsp;&emsp;&emsp;(ii) violated section 8315(a)(2) of this title; or
+
+&emsp;&emsp;(D) an annuity payable to an eligible beneficiary of an individual under chapter 73 of title 10 or section 5 of the Uniformed Services Contingency Option Act of 1953 (67 Stat. 504), if the annuity was awarded to the beneficiary, or if retired pay was awarded to the individual, before September 26, 1961, insofar as the individual, on the basis of whose service the annuity was awarded, before September 26, 1961—
+
+&emsp;&emsp;&emsp;(i) was convicted of an offense named by section 8312 of this title, to the extent provided by that section; or
+
+&emsp;&emsp;&emsp;(ii) violated section 8314 or 8315 of this title.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 557; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 2281.
+
+Sept. 26, 1961, Pub. L. 87–299, §1 “Sec. 10”, 75 Stat. 646.
+
+The words “and section 3282 of Title 18” are omitted as unnecessary.
+
+In paragraph (1)(A), the words “an employee as defined by section 2105 of this title” are coextensive with and substituted for “an officer or employee in or under the legislative, executive, or judicial branch of the Government of the United States”.
+
+In paragraph (1)(B), the reference to “Resident Commissioner” is omitted as included in “Member of Congress” in view of the definition of “Member of Congress” in section 2106.
+
+In paragraph (1)(C), the words “uniformed service” are coextensive with and substituted for “armed forces, the Coast and Geodetic Survey, or the Public Health Service” in view of the definition of “uniformed services” in section 2101.
+
+In paragraph (3), the words “uniformed service” are coextensive with and substituted for “armed forces, the Coast and Geodetic Survey, and the Public Health Service” in view of the definition of “uniformed services” in section 2101.
+
+The definition of “armed forces” in former section 2281(4) is omitted as unnecessary in view of the definition of “armed forces” in section 2101.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### References in Text
+
+Subchapter II of chapter 7 of title 42, referred to in par. (2), is classified to section 401 et seq. of Title 42, The Public Health and Welfare.
+
+Sections 228b, 228c(e), 228c–1, and 228e of title 45, referred to in par. (2), are references to sections 2, 3(e), 4, and 5 of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. The Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified to subchapter IV (section 231 et seq.) of chapter 9 of Title 45, Railroads.
+
+Section 5 of the Uniformed Services Contingency Option Act of 1953 (67 Stat. 504), referred to in text, is covered by section 1438 of Title 10, Armed Forces.
+
+#### Amendments
+
+1991—Pars. (2)(A), (3)(A). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5531, 8312, 8313, 8314, 8315 of this title.
+

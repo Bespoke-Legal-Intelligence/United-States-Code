@@ -1,0 +1,46 @@
+### §2001. Definitions
+
+As used in this chapter:
+
+#### (1) Commerce
+
+&emsp;The term “commerce” has the meaning provided by section 203(b) of this title.
+
+#### (2) Employer
+
+&emsp;The term “employer” includes any person acting directly or indirectly in the interest of an employer in relation to an employee or prospective employee.
+
+#### (3) Lie detector
+
+&emsp;The term “lie detector” includes a polygraph, deceptograph, voice stress analyzer, psychological stress evaluator, or any other similar device (whether mechanical or electrical) that is used, or the results of which are used, for the purpose of rendering a diagnostic opinion regarding the honesty or dishonesty of an individual.
+
+#### (4) Polygraph
+
+&emsp;The term “polygraph” means an instrument that—
+
+&emsp;&emsp;(A) records continuously, visually, permanently, and simultaneously changes in cardiovascular, respiratory, and electrodermal patterns as minimum instrumentation standards; and
+
+&emsp;&emsp;(B) is used, or the results of which are used, for the purpose of rendering a diagnostic opinion regarding the honesty or dishonesty of an individual.
+
+#### (5) Secretary
+
+&emsp;The term “Secretary” means the Secretary of Labor.
+
+(Pub. L. 100–347, §2, June 27, 1988, 102 Stat. 646.)
+
+#### Effective Date
+
+Section 11 of Pub. L. 100–347 provided that:
+
+“(a)
+
+In General.—Except as provided in subsection (b), this Act \[enacting this chapter\] shall become effective 6 months after the date of enactment of this Act \[June 27, 1988\].
+
+“(b)
+
+Regulations.—Not later than 90 days after the date of enactment of this Act, the Secretary shall issue such rules and regulations as may be necessary or appropriate to carry out this Act.”
+
+#### Short Title
+
+Section 1 of Pub. L. 100–347 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Employee Polygraph Protection Act of 1988’.”
+

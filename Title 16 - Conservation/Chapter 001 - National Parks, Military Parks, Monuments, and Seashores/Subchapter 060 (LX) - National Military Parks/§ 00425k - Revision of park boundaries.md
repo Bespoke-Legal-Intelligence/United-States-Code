@@ -1,0 +1,38 @@
+### §425k. Revision of park boundaries
+
+#### (a) Boundary revision
+
+In furtherance of the purposes of sections 425 to 425j of this title, the Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park (hereinafter in sections 425k to 425<i>o</i> of this title referred to as the “park”) shall hereafter comprise the lands and interests in lands within the boundary generally depicted as “Proposed Park Boundary” on the maps entitled “Fredericksburg and Spotslyvania <sup>1</sup> National Military Park”, numbered 326–40075D/89, 326–40074E/89, 326–40069B/89, 326–40070D/89, 326–40071C/89, 326–40072E/89, 326–40076A/89, and 326–40073D/89, and dated June 1989. The maps shall be on file and available for public inspection in the Office of the National Park Service, Department of the Interior.
+
+#### (b) Excluded lands
+
+Lands and interests in lands within the boundary depicted on the maps referred to in subsection (a) of this section as “Existing Park Boundary” but outside of the boundary depicted as “Proposed Park Boundary” are hereby excluded from the park, in accordance with the provisions of section 425<i>l</i>(b) of this title. The Secretary of the Interior (hereinafter referred to as the “Secretary”) may relinquish to the Commonwealth of Virginia exclusive or concurrent legislative jurisdiction over lands excluded from the park by this section by filing with the Governor a notice of relinquishment. Such relinquishment shall take effect upon acceptance thereof, or as the laws of the Commonwealth may otherwise provide.
+
+(Pub. L. 101–214, §2, Dec. 11, 1989, 103 Stat. 1849; Pub. L. 102–541, §2(a), Oct. 27, 1992, 106 Stat. 3565.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 102–541, §2(a), Oct. 27, 1992, 106 Stat. 3565, provided that, effective when lands included within proposed new boundaries of the Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park, pursuant to Pub. L. 102–541, have been donated to the Secretary of the Interior, subsection (a) of this section is amended by striking out “326–40072E/89,” after “326–40071C/89,” and by substituting “1989, and the map entitled ‘Fredericksburg and Spotsylvania National Military Park,’ numbered 326–40072E/89/A and dated September, 1990.” for “1989.”</i>
+
+#### Effective Date of 1992 Amendment
+
+Section 2(a)(2) of Pub. L. 102–541 provided in part: “That this subsection \[amending this section\] shall not be effective until the lands included within the proposed new boundaries of the Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park pursuant to this Act \[amending this section and section 450e–1 of this title and enacting provisions set out as notes under this section and section 450e–1 of this title\] have been donated to the Secretary of the Interior.”
+
+#### Short Title
+
+Section 1 of Pub. L. 101–214 provided that: “This Act \[enacting this section and sections 425<i>l</i> to 425<i>o</i> of this title\] may be cited as the ‘Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park Expansion Act of 1989’.”
+
+#### Congressional Findings Relating to Park Expansion
+
+Section 1 of Pub. L. 102–541 provided that: “Congress finds that the land area near Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park, Virginia, located south and west of the intersection of the Orange Plank Road and Brock Road in Spotsylvania County was strategically significant ground associated with the battle of the Civil War known as the Battle of the Wilderness, and that the tract of land adjacent to such area known as ‘Longstreet's Flank Attack’ was also strategically significant to that battle.”
+
+#### Acquisition of Certain Lands by Donation Only
+
+Section 2(b) of Pub. L. 102–541 provided that: “Lands included within the boundaries of the Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park pursuant to this section \[amending this section and enacting provisions set out as a note above\] may be acquired only by donation.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 425<i>l</i>, 425m, 425<i>o</i> of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Spotsylvania”.</i>
+

@@ -1,0 +1,32 @@
+### §4907. Moratoria for species not covered by Convention
+
+#### (a) In general
+
+The Secretary shall—
+
+&emsp;(1) review periodically the trade in species of exotic birds that are not listed in any Appendix to the Convention; and
+
+&emsp;(2) after notice and an opportunity for public comment, establish a moratorium or quota on—
+
+&emsp;&emsp;(A) importation of any species of exotic birds from one or more countries of origin for the species, if the Secretary determines that—
+
+&emsp;&emsp;&emsp;(i) the findings described in section 4905(c)(2), (3), and (4) of this title cannot be made with respect to the species; and
+
+&emsp;&emsp;&emsp;(ii) the moratorium or quota is necessary for the conservation of the species or is otherwise consistent with the purpose of this chapter; or
+
+&emsp;&emsp;(B) the importation of all species of exotic birds from a particular country, if—
+
+&emsp;&emsp;&emsp;(i) the country has not developed and implemented a management program for exotic birds in trade generally, that ensures both the conservation and the humane treatment of exotic birds during capture, transport, and maintenance; and
+
+&emsp;&emsp;&emsp;(ii) the Secretary finds that the moratorium or quota is necessary for the conservation of the species or is otherwise consistent with the purpose of this chapter.
+
+#### (b) Termination of quota or moratorium
+
+The Secretary shall terminate a quota or moratorium established under subsection (a) of this section if the Secretary finds that the reasons for establishing the quota or moratorium no longer exist.
+
+(Pub. L. 102–440, title I, §108, Oct. 23, 1992, 106 Stat. 2229.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4910 of this title.
+

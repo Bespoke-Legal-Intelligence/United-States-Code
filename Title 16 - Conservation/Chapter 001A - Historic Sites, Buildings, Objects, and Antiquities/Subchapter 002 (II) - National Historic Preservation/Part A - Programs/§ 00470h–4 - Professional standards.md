@@ -1,0 +1,40 @@
+### §470h–4. Professional standards
+
+#### (a) In general
+
+Each Federal agency that is responsible for the protection of historic resources, including archaeological resources pursuant to this subchapter or any other law shall ensure each of the following—
+
+&emsp;(1)(A) All actions taken by employees or contractors of such agency shall meet professional standards under regulations developed by the Secretary in consultation with the Council, other affected agencies, and the appropriate professional societies of the disciplines involved, specifically archaeology, architecture, conservation, history, landscape architecture, and planning.
+
+&emsp;(B) Agency personnel or contractors responsible for historic resources shall meet qualification standards established by the Office of Personnel Management in consultation with the Secretary and appropriate professional societies of the disciplines involved. The Office of Personnel Management shall revise qualification standards within 2 years after October 30, 1992, for the disciplines involved, specifically archaeology, architecture, conservation, curation, history, landscape architecture, and planning. Such standards shall consider the particular skills and expertise needed for the preservation of historic resources and shall be equivalent requirements for the disciplines involved.
+
+&emsp;(2) Records and other data, including data produced by historical research and archaeological surveys and excavations are permanently maintained in appropriate data bases and made available to potential users pursuant to such regulations as the Secretary shall promulgate.
+
+#### (b) Guidelines
+
+In order to promote the preservation of historic resources on properties eligible for listing in the National Register, the Secretary shall, in consultation with the Council, promulgate guidelines to ensure that Federal, State, and tribal historic preservation programs subject to this subchapter include plans to—
+
+&emsp;(1) provide information to the owners of properties containing historic (including architectural, curatorial, and archaeological) resources with demonstrated or likely research significance, about the need for protection of such resources, and the available means of protection;
+
+&emsp;(2) encourage owners to preserve such resources intact and in place and offer the owners of such resources information on the tax and grant assistance available for the donation of the resources or of a preservation easement of the resources;
+
+&emsp;(3) encourage the protection of Native American cultural items (within the meaning of section 3001(3) and (9) of title 25 <sup>1</sup> and of properties of religious or cultural importance to Indian tribes, Native Hawaiians, or other Native American groups; and
+
+&emsp;(4) encourage owners who are undertaking archaeological excavations to—
+
+&emsp;&emsp;(A) conduct excavations and analyses that meet standards for federally-sponsored excavations established by the Secretary;
+
+&emsp;&emsp;(B) donate or lend artifacts of research significance to an appropriate research institution;
+
+&emsp;&emsp;(C) allow access to artifacts for research purposes; and
+
+&emsp;&emsp;(D) prior to excavating or disposing of a Native American cultural item in which an Indian tribe or Native Hawaiian organization may have an interest under section 3002(a)(2)(B) or (C) of title 25, given notice to and consult with such Indian tribe or Native Hawaiian organization.
+
+(Pub. L. 89–665, title I, §112, as added Pub. L. 102–575, title XL, §4014, Oct. 30, 1992, 106 Stat. 4761.)
+
+#### Codification
+
+October 30, 1992, referred to in subsec. (a)(1)(B), was in the original “the date of enactment of this Act” which was translated as meaning the date of enactment of Pub. L. 102–575 which enacted this section, to reflect the probable intent of Congress.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by closing parenthesis.</i>
+

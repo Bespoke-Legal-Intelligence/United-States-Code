@@ -1,0 +1,136 @@
+### §4043. Authorities and functions of Special Trustee
+
+#### (a) Comprehensive strategic plan
+
+#### (1) In general
+
+&emsp;The Special Trustee shall prepare and, after consultation with Indian tribes and appropriate Indian organizations, submit to the Secretary and the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate, within one year after the initial appointment is made under section 4042(b) of this title, a comprehensive strategic plan for all phases of the trust management business cycle that will ensure proper and efficient discharge of the Secretary's trust responsibilities to Indian tribes and individual Indians in compliance with this chapter.
+
+#### (2) Plan requirements
+
+&emsp;The plan prepared under paragraph (1) shall include the following:
+
+&emsp;&emsp;(A) Identification of all reforms to the policies, procedures, practices and systems of the Department, the Bureau, the Bureau of Land Management, and the Minerals Management Service necessary to ensure the proper and efficient discharge of the Secretary's trust responsibilities in compliance with this chapter.
+
+&emsp;&emsp;(B) Provisions for opportunities for Indian tribes to assist in the management of their trust accounts and to identify for the Secretary options for the investment of their trust accounts, in a manner consistent with the trust responsibilities of the Secretary, in ways that will help promote economic development in their communities.
+
+&emsp;&emsp;(C) A timetable for implementing the reforms identified in the plan, including a date for the proposed termination of the Office.
+
+#### (b) Duties
+
+#### (1) General oversight of reform efforts
+
+&emsp;The Special Trustee shall oversee all reform efforts within the Bureau, the Bureau of Land Management, and the Minerals Management Service relating to the trust responsibilities of the Secretary to ensure the establishment of policies, procedures, systems and practices to allow the Secretary to discharge his trust responsibilities in compliance with this chapter.
+
+#### (2) Bureau of Indian Affairs
+
+#### (A) Monitor reconciliation of trust accounts
+
+&emsp;&emsp;The Special Trustee shall monitor the reconciliation of tribal and Individual Indian Money trust accounts to ensure that the Bureau provides the account holders, with a fair and accurate accounting of all trust accounts.
+
+#### (B) Investments
+
+&emsp;&emsp;The Special Trustee shall ensure that the Bureau establishes appropriate policies and procedures, and develops necessary systems, that will allow it—
+
+&emsp;&emsp;&emsp;(i) properly to account for and invest, as well as maximize, in a manner consistent with the statutory restrictions imposed on the Secretary's investment options, the return on the investment of all trust fund monies, and
+
+&emsp;&emsp;&emsp;(ii) to prepare accurate and timely reports to account holders (and others, as required) on a periodic basis regarding all collections, disbursements, investments, and return on investments related to their accounts.
+
+#### (C) Ownership and lease data
+
+&emsp;&emsp;The Special Trustee shall ensure that the Bureau establishes policies and practices to maintain complete, accurate, and timely data regarding the ownership and lease of Indian lands.
+
+#### (3) Bureau of Land Management
+
+&emsp;The Special Trustee shall ensure that the Bureau of Land Management establishes policies and practices adequate to enforce compliance with Federal requirements for drilling, production, accountability, environmental protection, and safety with respect to the lease of Indian lands.
+
+#### (4) Minerals Management Service
+
+&emsp;The Special Trustee shall ensure that the Minerals Management Service establishes policies and practices to enforce compliance by lessees of Indian lands with all requirements for timely and accurate reporting of production and payment of lease royalties and other revenues, including the audit of leases to ensure that lessees are accurately reporting production levels and calculating royalty payments.
+
+#### (c) Coordination of policies
+
+#### (1) In general
+
+&emsp;The Special Trustee shall ensure that—
+
+&emsp;&emsp;(A) the policies, procedures, practices, and systems of the Bureau, the Bureau of Land Management, and the Minerals ManagementService related to the discharge of the Secretary's trust responsibilities are coordinated, consistent, and integrated, and
+
+&emsp;&emsp;(B) the Department prepares comprehensive and coordinated written policies and procedures for each phase of the trust management business cycle.
+
+#### (2) Standardized procedures
+
+&emsp;The Special Trustee shall ensure that the Bureau imposes standardized trust fund accounting procedures throughout the Bureau.
+
+#### (3) Integration of ledger with investment system
+
+&emsp;The Special Trustee shall ensure that the trust fund investment, general ledger, and subsidiary accounting systems of the Bureau are integrated and that they are adequate to support the trust fund investment needs of the Bureau.
+
+#### (4) Integration of land records, trust funds accounting, and asset management systems among agencies
+
+&emsp;The Special Trustee shall ensure that—
+
+&emsp;&emsp;(A) the land records system of the Bureau interfaces with the trust fund accounting system, and
+
+&emsp;&emsp;(B) the asset management systems of the Minerals Management Service and the Bureau of Land Management interface with the appropriate asset management and accounting systems of the Bureau, including ensuring that—
+
+&emsp;&emsp;&emsp;(i) the Minerals Management Service establishes policies and procedures that will allow it to properly collect, account for, and disburse to the Bureau all royalties and other revenues generated by production from leases on Indian lands; and
+
+&emsp;&emsp;&emsp;(ii) the Bureau of Land Management and the Bureau provide Indian landholders with accurate and timely reports on a periodic basis that cover all transactions related to leases of Indian resources.
+
+#### (5) Trust Management program budget
+
+#### (A) Development and submission
+
+&emsp;&emsp;The Special Trustee shall develop for each fiscal year, with the advice of program managers of each office within the Bureau of Indian Affairs, Bureau of Land Management and Minerals Management Service that participates in trust management, including the management of trust funds or natural resources, or which is charged with any responsibility under the comprehensive strategic plan prepared under subsection (a) of this section, a consolidated Trust Management program budget proposal that would enable the Secretary to efficiently and effectively discharge his trust responsibilities and to implement the comprehensive strategic plan, and shall submit such budget proposal to the Secretary, the Director of the Office of Management and Budget, and to the Congress.
+
+#### (B) Duty of certain program managers
+
+&emsp;&emsp;Each program manager participating in trust management or charged with responsibilities under the comprehensive strategic plans shall transmit his office's budget request to the Special Trustee at the same time as such request is submitted to his superiors (and before submission to the Office of Management and Budget) in the preparation of the budget of the President submitted to the Congress under section 1105(a) of title 31.
+
+#### (C) Certification of adequacy of budget request
+
+&emsp;&emsp;The Special Trustee shall—
+
+&emsp;&emsp;&emsp;(i) review each budget request submitted under subparagraph (B);
+
+&emsp;&emsp;&emsp;(ii) certify in writing as to the adequacy of such request to discharge, effectively and efficiently, the Secretary's trust responsibilities and to implement the comprehensive strategic plan; and
+
+&emsp;&emsp;&emsp;(iii) notify the program manager of the Special Trustee's certification under clause (ii).
+
+#### (D) Maintenance of records
+
+&emsp;&emsp;The Special Trustee shall maintain records of certifications made under paragraph (3)(B).<sup>1</sup>
+
+#### (E) Limitation on reprogramming or transfer
+
+&emsp;&emsp;No program manager shall submit, and no official of the Department of the Interior may approve or otherwise authorize, a reprogramming or transfer request with respect to any funds appropriated for trust management which is included in the Trust Management Program Budget unless such request has been approved by the Special Trustee.
+
+#### (d) Problem resolution
+
+The Special Trustee shall provide such guidance as necessary to assist Department personnel in identifying problems and options for resolving problems, and in implementing reforms to Department, Bureau, Bureau of Land Management, and Minerals Management Service policies, procedures, systems and practices.
+
+#### (e) Special Trustee access
+
+The Special Trustee, and his staff, shall have access to all records, reports, audits, reviews, documents, papers, recommendations, files and other material, as well as to any officer and employee, of the Department and any office or bureau thereof, as the Special Trustee deems necessary for the accomplishment of his duties under this chapter.
+
+#### (f) Annual report
+
+The Special Trustee shall report to the Secretary and the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate each year on the progress of the Department, the Bureau, the Bureau of Land Management, and the Minerals Management Service in implementing the reforms identified in the comprehensive strategic plan under subsection (a)(1) of this section and in meeting the timetable established in the strategic plan under subsection (a)(2)(C) of this section.
+
+(Pub. L. 103–412, title III, §303, Oct. 25, 1994, 108 Stat. 4245.)
+
+#### References in Text
+
+Paragraph (3)(B), referred to in subsec. (c)(5)(D), probably should be a reference to subparagraph (C) of par. (5), because par. (3) contains no subparagraphs and subpar. (C) of par. (5) relates to certification.
+
+#### Change of Name
+
+Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4042 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

@@ -1,0 +1,22 @@
+### §7651e. Allowances for States with emissions rates at or below 0.80 lbs/mmBtu
+
+#### (a) Election of Governor
+
+In addition to basic Phase II allowance allocations, upon the election of the Governor of any State, with a 1985 state-wide annual sulfur dioxide emissions rate equal to or less than, 0.80 lbs/mmBtu, averaged over all fossil fuel-fired utility steam generating units, beginning January 1, 2000, and for each calendar year thereafter until and including 2009, the Administrator shall allocate, in lieu of other Phase II bonus allowance allocations, allowances from the reserve created pursuant to section 7651d(a)(2) of this title to all such units in the State in an amount equal to 125,000 multiplied by the unit's pro rata share of electricity generated in calendar year 1985 at fossil fuel-fired utility steam units in all States eligible for the election.
+
+#### (b) Notification of Administrator
+
+Pursuant to section 7651b(a)(1) of this title, each Governor of a State eligible to make an election under paragraph <sup>1</sup> (a) shall notify the Administrator of such election. In the event that the Governor of any such State fails to notify the Administrator of the Governor's elections, the Administrator shall allocate allowances pursuant to section 7651d of this title.
+
+#### (c) Allowances after January 1, 2010
+
+After January 1, 2010, the Administrator shall allocate allowances to units subject to the provisions of this section pursuant to section 7651d of this title.
+
+(July 14, 1955, ch. 360, title IV, §406, as added Nov. 15, 1990, Pub. L. 101–549, title IV, §401, 104 Stat. 2613.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7651a, 7651b, 7651d, 7651j of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+

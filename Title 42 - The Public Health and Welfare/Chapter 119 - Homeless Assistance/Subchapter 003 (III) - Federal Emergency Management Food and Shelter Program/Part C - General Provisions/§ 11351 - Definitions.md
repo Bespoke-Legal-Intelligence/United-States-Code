@@ -1,0 +1,36 @@
+### §11351. Definitions
+
+For purposes of this subchapter:
+
+&emsp;(1) The term “Director” means the Director of the Federal Emergency Management Agency.
+
+&emsp;(2) The term “emergency shelter” means a facility all or a part of which is used or designed to be used to provide temporary housing.
+
+&emsp;(3) The term “local government” means a unit of general purpose local government.
+
+&emsp;(4) The term “locality” means the geographical area within the jurisdiction of a local government.
+
+&emsp;(5) The term “National Board” means the Emergency Food and Shelter Program National Board.
+
+&emsp;(6) The term “private nonprofit organization” means an organization—
+
+&emsp;&emsp;(A) no part of the net earnings of which inures to the benefit of any member, founder, contributor, or individual;
+
+&emsp;&emsp;(B) that has a voluntary board;
+
+&emsp;&emsp;(C) that has an accounting system, or has designated a fiscal agent in accordance with requirements established by the Director; and
+
+&emsp;&emsp;(D) that practices nondiscrimination in the provision of assistance.
+
+&emsp;(7) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+
+(Pub. L. 100–77, title III, §321, July 22, 1987, 101 Stat. 493.)
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1766d of this title.
+

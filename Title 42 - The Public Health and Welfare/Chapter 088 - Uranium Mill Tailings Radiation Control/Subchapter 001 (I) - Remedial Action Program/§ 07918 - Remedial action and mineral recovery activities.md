@@ -1,0 +1,30 @@
+### §7918. Remedial action and mineral recovery activities
+
+#### (a) General standards for remedial action; Federal performance and State participation; use of technology; promulgation of standards
+
+(1) The Secretary or such person as he may designate shall select and perform remedial actions at designated processing sites and disposal sites in accordance with the general standards prescribed by the Administrator pursuant to section 275 a. of the Atomic Energy Act of 1954 \[42 U.S.C. 2022(a)\]. The State shall participate fully in the selection and performance of a remedial action for which it pays part of the cost. Such remedial action shall be selected and performed with the concurrence of the Commission and in consultation, as appropriate, with the Indian tribe and the Secretary of the Interior.
+
+(2) The Secretary shall use technology in performing such remedial action as will insure compliance with the general standards promulgated by the Administrator under section 275 a. of the Atomic Energy Act of 1954 \[42 U.S.C. 2022(a)\] and will assure the safe and environmentally sound stabilization of residual radioactive materials, consistent with existing law.
+
+(3) Notwithstanding paragraphs (1) and (2) of this subsection, after October 31, 1982, if the Administrator has not promulgated standards under section 275 a. of the Atomic Energy Act of 1954 \[42 U.S.C. 2022(a)\] in final form by such date, remedial action taken by the Secretary under this subchapter shall comply with the standards proposed by the Administrator under such section 275 a. until such time as the Administrator promulgates the standards in final form.
+
+#### (b) Mineral concentration evaluation; terms and conditions for mineral recovery; payment of Federal and State share of net profits; recovery costs; licenses
+
+Prior to undertaking any remedial action at a designated site pursuant to this subchapter, the Secretary shall request expressions of interest from private parties regarding the remilling of the residual radioactive materials and the site and, upon receipt of any expression of interest, the Secretary shall evaluate among other things the mineral concentration of the residual radioactive materials at each designated processing site to determine whether, as a part of any remedial action program, recovery of such minerals is practicable. The Secretary, with the concurrence of the Commission, may permit the recovery of such minerals, under such terms and conditions as he may prescribe to carry out the purposes of this subchapter. No such recovery shall be permitted unless such recovery is consistent with remedial action. Any person permitted by the Secretary to recover such mineral shall pay to the Secretary a share of the net profits derived from such recovery, as determined by the Secretary. Such share shall not exceed the total amount paid by the Secretary for carrying out remedial action at such designated site. After payment of such share to the United States under this subsection, such person shall pay to the State in which the residual radioactive materials are located a share of the net profits derived from such recovery, as determined by the Secretary. The person recovering such minerals shall bear all costs of such recovery. Any person carrying out mineral recovery activities under this paragraph shall be required to obtain any necessary license under the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] or under State law as permitted under section 274 of such Act \[42 U.S.C. 2021\].
+
+(Pub. L. 95–604, title I, §108, Nov. 8, 1978, 92 Stat. 3029; Pub. L. 97–415, §18(b), Jan. 4, 1983, 96 Stat. 2078.)
+
+#### References in Text
+
+The Atomic Energy Act of 1954, referred to in subsec. (b), is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
+#### Amendments
+
+1983—Subsec. (a)(2). Pub. L. 97–415, §18(b)(2), struck out provision that no such remedial action could be undertaken under this section before the promulgation by the Administrator of general standards pursuant to section 275 a. of the Atomic Energy Act of 1954.
+
+Subsec. (a)(3). Pub. L. 97–415, §18(b)(1), added par. (3).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7911, 7913, 7915 of this title.
+

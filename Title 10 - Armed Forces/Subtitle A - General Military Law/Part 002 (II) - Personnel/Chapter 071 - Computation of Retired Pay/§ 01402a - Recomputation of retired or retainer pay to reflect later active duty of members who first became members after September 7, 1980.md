@@ -1,0 +1,119 @@
+### §1402a. Recomputation of retired or retainer pay to reflect later active duty of members who first became members after September 7, 1980
+
+(a)
+
+In General.—A member of an armed force—
+
+&emsp;(1) who first became a member of a uniformed service after September 7, 1980;
+
+&emsp;(2) who has become entitled to retired pay or retainer pay; and
+
+&emsp;(3) who thereafter serves on active duty (other than for training),
+
+> is entitled to recompute his retired pay or retainer pay upon release from that duty according to the following table.
+
+&nbsp;
+
+| &nbsp; | &nbsp; |
+| :--- | ---: |
+| Column 1 | Column 2 |
+| Take | Multiply by |
+|  |  |
+| Retired pay base or retainer pay base under section 1407 which he would be entitled to use if— | The retired pay multiplier or retainer pay multiplier prescribed in section 1409 for the sum of— |
+| &nbsp;&nbsp;(1) he were retiring upon release from that active duty; or | &nbsp;&nbsp;(1) the years of service that may be credited to him in computing retired pay or retainer pay; and |
+| &nbsp;&nbsp;(2) he were transferring to the Fleet Reserve or Fleet Marine Corps Reserve upon that release from active duty. | &nbsp;&nbsp;(2) his years of active service after becoming entitled to retired pay or retainer pay. |
+
+(b)
+
+New Disability Incurred During Later Active Duty.—A member of an armed force who first became a member of a uniformed service after September 7, 1980, who has been retired other than for physical disability and who while on active duty incurs a physical disability of at least 30 percent for which he would otherwise be eligible for retired pay under chapter 61 of this title, is entitled, upon his release from active duty, to retired pay under subsection (d).
+
+(c)
+
+Additional or Aggravated Disability Incurred During Later Active Duty.—A member of an armed force who first became a member of a uniformed service after September 7, 1980, and who—
+
+&emsp;(1) was retired for physical disability under section 1201 or 1204 of this title or any other law or whose name is on the temporary disability retired list;
+
+&emsp;(2) incurs, while on active duty after retirement or after his name was placed on the temporary disability retired list, a physical disability that is in addition to or that aggravates the physical disability for which he was retired or for which his name was placed on that list; and
+
+&emsp;(3) is qualified under section 1201, 1202, 1204, or 1205 of this title;
+
+> is entitled, upon his release from active duty, to retired pay under subsection (d).
+
+(d)
+
+Computation for Later Disability.—A member of an armed force covered by subsection (b) or (c) may elect to receive either (1) the retired pay to which he became entitled when he retired, increased by any applicable adjustments in that pay under section 1401a of this title after he initially became entitled to that pay, or (2) retired pay computed according to the following table.
+
+&nbsp;
+
+| Column 1Take | Column 2Multiply by | Column 3Add | Column 4Subtract |
+| --- | --- | --- | --- |
+| The retired pay base computed under section 1407(b) of this title. | As member elects—  (1) 21/2 percent of years of service credited under section 1208 of this title; <sup>1</sup> or  (2) the highest percentage of disability attained while on active duty after retirement or after the date when his name was placed on temporary disability retired list, as the case may be. | Amount necessary to increase product of columns 1 and 2 to 50 percent of pay upon which computation is based, if member is on temporary disability retired list | Excess over 75 percent of retired or retainer pay base upon which computation is based. |
+
+<sup>1</sup> Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
+
+(e)
+
+Alternative Recomputation to Subsection (a)
+
+Formula.—Notwithstanding subsection (a), a member covered by that subsection may elect, upon his release from that active duty, to have his retired pay or retainer pay—
+
+&emsp;(1) computed according to the formula set forth in subsection (a) but using the monthly retired pay base under which his retired pay or retainer pay was computed when he entered on that active duty; and
+
+&emsp;(2) increased by any applicable adjustments in that pay under section 1401a of this title after he initially became entitled to that pay.
+
+(f)
+
+Additional 10
+
+Percent for Certain Enlisted Members Credited With Extraordinary Heroism.—(1) In the case of a member who is entitled to recompute retired pay under this section upon release from active duty served after retiring under section 3914 or 8914 of this title, the member's retired pay as recomputed under another provision of this section shall be increased by 10 percent of the amount so recomputed if the member has been credited by the Secretary concerned with extraordinary heroism in the line of duty during any period of active duty service in the armed forces.
+
+(2) The amount of the retired pay as recomputed under another provision of this section and as increased under paragraph (1) may not exceed the amount equal to 75 percent of the retired pay base upon which the recomputation of such retired pay is based.
+
+(3) The determination of the Secretary concerned as to extraordinary heroism is conclusive for all purposes.
+
+(Added Pub. L. 96–342, title VIII, §813(b)(3)(A), Sept. 8, 1980, 94 Stat. 1102; amended Pub. L. 96–513, title V, §511(51)(A), (B), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §§922(a)(5), (6), 923(a)(1), (2)(D), (E), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 99–348, title II, §201(b)(1), (2), July 1, 1986, 100 Stat. 693; Pub. L. 102–484, div. A, title VI, §642(b), Oct. 23, 1992, 106 Stat. 2425.)
+
+#### Amendments
+
+1992—Subsec. (f). Pub. L. 102–484 added subsec. (f).
+
+1986—Subsec. (a). Pub. L. 99–348, §201(b)(1), amended subsec. (a) generally. Prior to the amendment, subsec. (a) read as follows: “A member of an armed force who first became a member of a uniformed service (as defined in section 1407(a)(2) of this title) after September 7, 1980, who has become entitled to retired pay or retainer pay, and who thereafter serves on active duty (other than for training), is entitled to recompute hisretired pay or retainer pay upon his release from that duty according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
+
+Subsec. (b). Pub. L. 99–348, §201(b)(2)(A), inserted heading.
+
+Subsec. (c). Pub. L. 99–348, §201(b)(2)(B), inserted heading.
+
+Subsec. (d). Pub. L. 99–348, §201(b)(2)(C), inserted heading, struck out provision that if the amount recomputed is not a multiple of $1, it be rounded to the next lower multiple of $1, and in column 1 of table struck out “monthly” before “retired pay” and in column 4 of table struck out “monthly” before “retired or”.
+
+Subsec. (e). Pub. L. 99–348, §201(b)(2)(D), inserted heading.
+
+1983—Subsec. (a). Pub. L. 98–94, §922(a)(5), substituted “according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.” for “as follows:”.
+
+Pub. L. 98–94, §923(a)(1), (2)(D), in footnote 1 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
+
+Subsec. (d). Pub. L. 98–94, §922(a)(6), substituted “according to the following table. The amount computed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.” for “as follows:”.
+
+Pub. L. 98–94, §923(a)(1), (2)(E), in footnote 1 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
+
+1980—Pub. L. 96–513, §511(51)(B), substituted “of members who first became members after September 7, 1980” for “in case of members who first became members after the enactment of the Department of Defense Authorization Act, 1981” in section catchline.
+
+Subsecs. (a) to (c). Pub. L. 96–513, §511(51)(A), substituted “after September 7, 1980” for “on or after the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing.
+
+#### Effective Date of 1983 Amendment
+
+Amendment by section 922 of Pub. L. 98–94 effective Oct. 1, 1983, see section 922(e) of Pub. L. 98–94, set out as a note under section 1401 of this title.
+
+Amendment by section 923 of Pub. L. 98–94 applicable with respect to (1) the computation of retired or retainer pay of any individual who becomes entitled to that pay after Sept. 30, 1983, and (2) the recomputation of retired pay under this section, of any individual who after Sept. 30, 1983, becomes entitled to recompute retired pay under this section, see section 923(g) of Pub. L. 98–94, set out as a note under section 1174 of this title.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Accrual of Benefits; Prospective Applicability
+
+No benefits to accrue for months beginning before Oct. 23, 1992, by reason of the amendment by Pub. L. 102–484, see section 642(c) of Pub. L. 102–484, set out as a note under section 1402 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1373, 1403, 6330 of this title; title 37 section 205.
+

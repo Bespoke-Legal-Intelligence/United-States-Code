@@ -1,0 +1,158 @@
+### §5603. Definitions
+
+For purposes of this chapter—
+
+&emsp;(1) the term “community based” facility, program, or service means a small, open group home or other suitable place located near the juvenile's home or family and programs of community supervision and service which maintain community and consumer participation in the planning operation, and evaluation of their programs which may include, but are not limited to, medical, educational, vocational, social, and psychological guidance, training, special education, counseling, alcoholism treatment, drug treatment, and other rehabilitative services;
+
+&emsp;(2) the term “Federal juvenile delinquency program” means any juvenile delinquency program which is conducted, directly, or indirectly, or is assisted by any Federal department or agency, including any program funded under this chapter;
+
+&emsp;(3) the term “juvenile delinquency program” means any program or activity related to juvenile delinquency prevention, control, diversion, treatment, rehabilitation, planning, education, training, and research, including drug and alcohol abuse programs; the improvement of the juvenile justice system; and any program or activity to help prevent juvenile delinquency;
+
+&emsp;(4)(A) the term “Bureau of Justice Assistance” means the bureau established by section 3741 of this title;
+
+&emsp;(B) the term “Office of Justice Programs” means the office established by section 3711 of this title;
+
+&emsp;(C) the term “National Institute of Justice” means the institute established by section 3722(a) of this title; and
+
+&emsp;(D) the term “Bureau of Justice Statistics” means the bureau established by section 3732(a) of this title;
+
+&emsp;(5) the term “Administrator” means the agency head designated by section 5611(b) of this title;
+
+&emsp;(6) the term “law enforcement and criminal justice” means any activity pertaining to crime prevention, control, or reduction or the enforcement of the criminal law, including, but not limited to police efforts to prevent, control, or reduce crime or to apprehend criminals, activities of courts having criminal jurisdiction and related agencies (including prosecutorial and defender services), activities of corrections, probation, or parole authorities, and programs relating to the prevention, control, or reduction of juvenile delinquency or narcotic addiction;
+
+&emsp;(7) the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands;
+
+&emsp;(8) the term “unit of general local government” means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government performing law enforcement functions in and for the District of Columbia and funds appropriated by the Congress for the activities of such agency may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter;
+
+&emsp;(9) the term “combination” as applied to States or units of general local government means any grouping or joining together of such States or units for the purpose of preparing, developing, or implementing a juvenile justice and delinquency prevention plan;
+
+&emsp;(10) the term “construction” means acquisition, expansion, remodeling, and alteration of existing buildings, and initial equipment of any such buildings, or any combination of such activities (including architects’ fees but not the cost of acquisition of land for buildings);
+
+&emsp;(11) the term “public agency” means any State, unit of local government, combinationof such States or units, or any department, agency, or instrumentality of any of the foregoing;
+
+&emsp;(12) the term “secure detention facility” means any public or private residential facility which—
+
+&emsp;&emsp;(A) includes construction fixtures designed to physically restrict the movements and activities of juveniles or other individuals held in lawful custody in such facility; and
+
+&emsp;&emsp;(B) is used for the temporary placement of any juvenile who is accused of having committed an offense, of any nonoffender, or of any other individual accused of having committed a criminal offense;
+
+&emsp;(13) the term “secure correctional facility” means any public or private residential facility which—
+
+&emsp;&emsp;(A) includes construction fixtures designed to physically restrict the movements and activities of juveniles or other individuals held in lawful custody in such facility; and
+
+&emsp;&emsp;(B) is used for the placement, after adjudication and disposition, of any juvenile who has been adjudicated as having committed an offense, any nonoffender, or any other individual convicted of a criminal offense;
+
+&emsp;(14) the term “serious crime” means criminal homicide, forcible rape or other sex offenses punishable as a felony, mayhem, kidnapping, aggravated assault, robbery, larceny or theft punishable as a felony, motor vehicle theft, burglary or breaking and entering, extortion accompanied by threats of violence, and arson punishable as a felony;
+
+&emsp;(15) the term “treatment” includes but is not limited to medical, educational, special education, social, psychological, and vocational services, corrective and preventive guidance and training, and other rehabilitative services designed to protect the public, including services designed to benefit addicts and other users by eliminating their dependence on alcohol or other addictive or nonaddictive drugs or by controlling their dependence and susceptibility to addiction or use;
+
+&emsp;(16) the term “valid court order” means a court order given by a juvenile court judge to a juvenile—
+
+&emsp;&emsp;(A) who was brought before the court and made subject to such order;
+
+&emsp;&emsp;(B) who received, before the issuance of such order, the full due process rights guaranteed to such juvenile by the Constitution of the United States;
+
+&emsp;&emsp;(C) with respect to whom an appropriate public agency (other than a court or law enforcement agency), before the issuance of such order—
+
+&emsp;&emsp;&emsp;(i) reviewed the behavior of such juvenile and the circumstances under which such juvenile was brought before the court and made subject to such order;
+
+&emsp;&emsp;&emsp;(ii) determined the reasons for the behavior that caused such juvenile to be brought before the court and made subject to such order;
+
+&emsp;&emsp;&emsp;(iii) determined that all dispositions (including treatment), other than placement in a secure detention facility or a secure correctional facility, have been exhausted or are clearly inappropriate; and
+
+&emsp;&emsp;&emsp;(iv) submitted to the court a written report stating the results of the review conducted under clause (i) and the determinations made under clauses (ii) and (iii);
+
+&emsp;(17) the term “Council” means the Coordinating Council on Juvenile Justice and Delinquency Prevention established in section 5616(a)(1) of this title;
+
+&emsp;(18) the term “Indian tribe” means—
+
+&emsp;&emsp;(A) a federally recognized Indian tribe; or
+
+&emsp;&emsp;(B) an Alaskan Native organization;
+
+&emsp;(19) the term “comprehensive and coordinated system of services” means a system that—
+
+&emsp;&emsp;(A) ensures that services and funding for the prevention and treatment of juvenile delinquency are consistent with policy goals of preserving families and providing appropriate services in the least restrictive environment so as to simultaneously protect juveniles and maintain public safety;
+
+&emsp;&emsp;(B) identifies, and intervenes early for the benefit of, young children who are at risk of developing emotional or behavioral problems because of physical or mental stress or abuse, and for the benefit of their families;
+
+&emsp;&emsp;(C) increases interagency collaboration and family involvement in the prevention and treatment of juvenile delinquency; and
+
+&emsp;&emsp;(D) encourages private and public partnerships in the delivery of services for the prevention and treatment of juvenile delinquency;
+
+&emsp;(20) the term “gender-specific services” means services designed to address needs unique to the gender of the individual to whom such services are provided;
+
+&emsp;(21) the term “home-based alternative services” means services provided to a juvenile in the home of the juvenile as an alternative to incarcerating the juvenile, and includes home detention;
+
+&emsp;(22) the term “jail or lockup for adults” means a locked facility that is used by a State, unit of local government, or any law enforcement authority to detain or confine adults—
+
+&emsp;&emsp;(i) pending the filing of a charge of violating a criminal law;
+
+&emsp;&emsp;(ii) awaiting trial on a criminal charge; or
+
+&emsp;&emsp;(iii) convicted of violating a criminal law; and
+
+&emsp;(23) the term “nonprofit organization” means an organization described in section 501(c)(3) of title 26 that is exempt from taxation under section 501(a) of title 26.
+
+(Pub. L. 93–415, title I, §103, Sept. 7, 1974, 88 Stat. 1111; Pub. L. 95–115, §2, Oct. 3, 1977, 91 Stat. 1048; Pub. L. 96–509, §§5, 19(a), Dec. 8, 1980, 94 Stat. 2751, 2762; Pub. L. 98–473, title II, §613, Oct. 12, 1984, 98 Stat. 2108; Pub. L. 100–690, title VII, §§7251(a), 7252(b)(1), Nov. 18, 1988, 102 Stat. 4435, 4436; Pub. L. 102–586, §1(c), Nov. 4, 1992, 106 Stat. 4983.)
+
+#### Amendments
+
+1992—Par. (16). Pub. L. 102–586, §1(c)(1), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “the term ‘valid court order’ means a court order given by a juvenile court judge to a juvenile who has been brought before the court and made subject to a court order. The use of the word ‘valid’ permits the incarceration of juveniles for violation of a valid court order only if they received their full due process rights as guaranteed by the Constitution of the United States;”.
+
+Pars. (19) to (23). Pub. L. 102–586, §1(c)(2)–(4), added pars. (19) to (23).
+
+1988—Par. (5). Pub. L. 100–690, §7252(b)(1), substituted “section 5611(b)” for “section 5611(c)”.
+
+Pars. (17), (18). Pub. L. 100–690, §7251(a), added pars. (17) and (18).
+
+1984—Par. (3). Pub. L. 98–473, §613(1), struck out “for neglected, abandoned, or dependent youth and other youth” before “to help” and inserted “juvenile” after “prevent”.
+
+Par. (4)(A). Pub. L. 98–473, §613(2), substituted “ ‘Bureau of Justice Assistance’ means the bureau established by section 3741 of this title” for “ ‘Office of Justice Assistance, Research, and Statistics’ means the office established by section 3781(a) of this title”.
+
+Par. (4)(B). Pub. L. 98–473, §613(2), substituted “ ‘Office of Justice Programs’ means the office established by section 3711 of this title” for “ ‘Law Enforcement Assistance Administration’ means the administration established by section 3711 of this title”.
+
+Par. (6). Pub. L. 98–473, §613(3), substituted “services),” for “services,” before “activities of”.
+
+Par. (14). Pub. L. 98–473, §613(4)(A), inserted “or other sex offenses punishable as a felony”.
+
+Par. (16). Pub. L. 98–473, §613(4)(B)–(6), added par. (16).
+
+1980—Par. (1). Pub. L. 96–509, §5(a), inserted reference to special education.
+
+Par. (4). Pub. L. 96–509, §5(b), designated existing provisions as subpar. (B) and added subpars. (A), (C), and (D).
+
+Par. (5). Pub. L. 96–509, §19(a), substituted “section 5611(c) of this title” for “section 3711(c) of this title”.
+
+Par. (7). Pub. L. 96–509, §5(c), substituted “the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands” for “and any territory or possession of the United States”.
+
+Par. (9). Pub. L. 96–509, §5(d), substituted “juvenile justice and delinquency prevention” for “law enforcement”.
+
+Par. (12). Pub. L. 96–509, §5(e), substituted definition of “secure detention facility” for definition of “correctional institution or facility”.
+
+Pars. (13), (14). Pub. L. 96–509, §5(f), added pars. (13) and (14). Former par. (13) redesignated (15).
+
+Par. (15). Pub. L. 96–509, §5(f), (g), redesignated former par. (13) as (15), inserted reference to special education, and substituted “protect the public, including services designed to benefit addicts and other users by eliminating their dependence on alcohol or other addictive or nonaddictive drugs or by controlling their dependence and susceptibility to addiction or use” for “protect the public and benefit the addict or other user by eliminating his dependence on addicting or other drugs or by controlling his dependence, and his susceptibility to addiction or use”.
+
+1977—Par. (3). Pub. L. 95–115 substituted “to help prevent delinquency” for “who are in danger of becoming delinquent”.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as a note under section 5601 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub. L. 98–473, set out as a note under section 5601 of this title.
+
+#### Effective Date of 1977 Amendment
+
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as a note under section 5601 of this title.
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5633, 11851, 13791 of this title.
+

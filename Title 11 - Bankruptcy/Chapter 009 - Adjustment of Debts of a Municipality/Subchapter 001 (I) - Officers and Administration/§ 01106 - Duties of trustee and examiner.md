@@ -1,0 +1,112 @@
+### §1106. Duties of trustee and examiner
+
+(a) A trustee shall—
+
+&emsp;(1) perform the duties of a trustee specified in sections 704(2), 704(5), 704(7), 704(8), and 704(9) of this title;
+
+&emsp;(2) if the debtor has not done so, file the list, schedule, and statement required under section 521(1) of this title;
+
+&emsp;(3) except to the extent that the court orders otherwise, investigate the acts, conduct, assets, liabilities, and financial condition of the debtor, the operation of the debtor's business and the desirability of the continuance of such business, and any other matter relevant to the case or to the formulation of a plan;
+
+&emsp;(4) as soon as practicable—
+
+&emsp;&emsp;(A) file a statement of any investigation conducted under paragraph (3) of this subsection, including any fact ascertained pertaining to fraud, dishonesty, incompetence, misconduct, mismanagement, or irregularity in the management of the affairs of the debtor, or to a cause of action available to the estate; and
+
+&emsp;&emsp;(B) transmit a copy or a summary of any such statement to any creditors’ committee or equity security holders’ committee, to any indenture trustee, and to such other entity as the court designates;
+
+&emsp;(5) as soon as practicable, file a plan under section 1121 of this title, file a report of why the trustee will not file a plan, or recommend conversion of the case to a case under chapter 7, 12, or 13 of this title or dismissal of the case;
+
+&emsp;(6) for any year for which the debtor has not filed a tax return required by law, furnish, without personal liability, such information as may be required by the governmental unit with which such tax return was to be filed, in light of the condition of the debtor's books and records and the availability of such information; and
+
+&emsp;(7) after confirmation of a plan, file such reports as are necessary or as the court orders.
+
+(b) An examiner appointed under section 1104(d) of this title shall perform the duties specified in paragraphs (3) and (4) of subsection (a) of this section, and, except to the extent that the court orders otherwise, any other duties of the trustee that the court orders the debtor in possession not to perform.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2628; Pub. L. 98–353, title III, §§311(b)(1), 502, July 10, 1984, 98 Stat. 355, 384; Pub. L. 99–554, title II, §257(c), Oct. 27, 1986, 100 Stat. 3114; Pub. L. 103–394, title II, §211(b), Oct. 22, 1994, 108 Stat. 4125.)
+
+#### Historical and Revision Notes
+
+I74senate report no. 95–989
+
+Subsection (a) of this section prescribes the trustee's duties. He is required to perform the duties of a trustee in a liquidation case specified in section 704 (2), (4), (6), (7), (8), and (9). These include reporting and informational duties, and accountability for all property received. Paragraph (2) of this subsection requires the trustee to file with the court, if the debtor has not done so, the list of creditors, schedule of assets and liabilities, and statement of affairs required under section 521(1).
+
+Paragraph (3) of S. 1106 requires the trustee to investigate the acts, conduct, assets, liabilities, and financial condition of the debtor, the operation of the debtor's business, and the desirability of the continuance of the business, and any other matter relevant to the case or to the formulation of a plan. Paragraph (4) requires the trustee to report the results of his investigation to the court and to creditors’ committees, equity security holders’ committees, indenture trustees and any other entity the court designates.
+
+Paragraph (5) requires the trustee to file a plan or to report why a plan cannot be formulated, or to recommend conversion to liquidation or to an individual repayment plan case, or dismissal. It is anticipated that the trustee will consult with creditors and other parties in interest in the formulation of a plan, just as the debtor in possession would.
+
+Paragraph (6) \[enacted as (7)\] requires final reports by the trustee, as the court orders.
+
+Subsection (b) gives the trustee's investigative duties to an examiner, if one is appointed. The court is authorized to give the examiner additional duties as the circumstances warrant.
+
+Paragraphs (3), (4), and (5) of subsection (a) are derived from sections 165 and 169 of chapter X \[sections 565 and 569 of former title 11\].
+
+#### Amendments
+
+1994—Subsec. (b). Pub. L. 103–394 substituted “1104(d)” for “1104(c)”.
+
+1986—Subsec. (a)(5). Pub. L. 99–554 inserted reference to chapter 12.
+
+1984—Subsec. (a)(1). Pub. L. 98–353, §311(b)(1), substituted “704(5), 704(7), 704(8), and 704(9)” for “704(4), 704(6), 704(7) and 704(8)”.
+
+Subsec. (b). Pub. L. 98–353, §502, inserted “, except to the extent that the court orders otherwise,”.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commencedunder this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+#### Payment of Certain Benefits to Retired Former Employees
+
+Pub. L. 99–500, §101(b) \[title VI, §608\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–74, and Pub. L. 99–591, §101(b) \[title VI, §608\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–74, as amended by Pub. L. 100–41, May 15, 1987, 101 Stat. 309; Pub. L. 100–99, Aug. 18, 1987, 101 Stat. 716; Pub. L. 100–334, §3(a), June 16, 1988, 102 Stat. 613, provided that:
+
+“(a)(1) Subject to paragraphs (2), (3), (4), and (5), and notwithstanding title 11 of the United States Code, the trustee shall pay benefits to retired former employees under a plan, fund, or program maintained or established by the debtor prior to filing a petition (through the purchase of insurance or otherwise) for the purpose of providing medical, surgical, or hospital care benefits, or benefits in the event of sickness, accident, disability, or death.
+
+“(2) The level of benefits required to be paid by this subsection may be modified prior to confirmation of a plan under section 1129 of such title if—
+
+&emsp;“(A) the trustee and an authorized representative of the former employees with respect to whom such benefits are payable agree to the modification of such benefit payments; or
+
+&emsp;“(B) the court finds that a modification proposed by the trustee meets the standards of section 1113(b)(1)(A) of such title and the balance of the equities clearly favors the modification.
+
+> If such benefits are covered by a collective bargaining agreement, the authorized representative shall be the labor organization that is signatory to such collective bargaining agreement unless there is a conflict of interest.
+
+“(3) The trustee shall pay benefits in accordance with this subsection until—
+
+&emsp;“(A) the dismissal of the case involved; or
+
+&emsp;“(B) the effective date of a plan confirmed under section 1129 of such title which provides for the continued payment after confirmation of the plan of all such benefits at the level established under paragraph (2) of this subsection, at any time prior to the confirmation of the plan, for the duration of the period the debtor (as defined in such title) has obligated itself to provide such benefits.
+
+“(4) No such benefits paid between the filing of a petition in a case covered by this section and the time a plan confirmed under section 1129 of such title with respect to such case becomes effective shall be deducted or offset from the amount allowed as claims for any benefits which remain unpaid, or from the amount to be paid under the plan with respect to such claims for unpaid benefits, whether such claims for unpaid benefits are based upon or arise from a right to future benefits or from any benefit not paid as a result of modifications allowed pursuant to this section.
+
+“(5) No claim for benefits covered by this section shall be limited by section 502(b)(7) of such title.
+
+“(b)(1) Notwithstanding any provision of title 11 of the United States Code, the trustee shall pay an allowable claim of any person for a benefit paid—
+
+&emsp;“(A) before the filing of the petition under title 11 of the United States Code; and
+
+&emsp;“(B) directly or indirectly to a retired former employee under a plan, fund, or program described in subsection (a)(1);
+
+> if, as determined by the court, such person is entitled to recover from such employee, or any provider of health care to such employee, directly or indirectly, the amount of such benefit for which such person receives no payment from the debtor.
+
+“(2) For purposes of paragraph (1), the term ‘provider of health care’ means a person who—
+
+&emsp;“(A) is the direct provider of health care (including a physician, dentist, nurse, podiatrist, optometrist, physician assistant, or ancillary personnel employed under the supervision of a physician); or
+
+&emsp;“(B) administers a facility or institution (including a hospital, alcohol and drug abuse treatment facility, outpatient facility, or health maintenance organization) in which health care is provided.
+
+“(c) This section is effective with respect to cases commenced under chapter 11, of title 11, United States Code, in which a plan for reorganization has not been confirmed by the court and in which any such benefit is still being paid on October 2, 1986, and in cases that become subject to chapter 11, title 11, United States Code, after October 2, 1986 and before the date of the enactment of the Retiree Benefits Bankruptcy Protection Act of 1988 \[June 16, 1988\].
+
+“(d) This section shall not apply during any period in which a case is subject to chapter 7, title 11, United States Code.”
+
+Similar provisions were contained in Pub. L. 99–656, §2, Nov. 14, 1986, 100 Stat. 3668, as amended by Pub. L. 100–41, May 15, 1987, 101 Stat. 309; Pub. L. 100–99, Aug. 18, 1987, 101 Stat. 716, and were repealed by Pub. L. 100–334, §3(b), June 16, 1988, 102 Stat. 614.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1107, 1111, 1202, 1203, 1301 of this title.
+

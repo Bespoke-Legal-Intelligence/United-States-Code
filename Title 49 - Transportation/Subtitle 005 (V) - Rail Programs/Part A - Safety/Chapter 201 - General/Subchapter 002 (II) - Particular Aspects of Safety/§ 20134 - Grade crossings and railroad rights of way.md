@@ -1,0 +1,64 @@
+### §20134. Grade crossings and railroad rights of way
+
+(a)
+
+General.—To the extent practicable, the Secretary of Transportation shall maintain a coordinated effort to develop and carry out solutions to the railroad grade crossing problem and measures to protect pedestrians in densely populated areas along railroad rights of way. To carry out this subsection, the Secretary may use the authority of the Secretary under this chapter and over highway, traffic, and motor vehicle safety and over highway construction.
+
+(b)
+
+Signal Systems and Other Devices.—Not later than June 22, 1989, the Secretary shall prescribe regulations and issue orders to ensure the safe maintenance, inspection, and testing of signal systems and devices at railroad highway grade crossings.
+
+(c)
+
+Demonstration Projects.—(1) The Secretary shall establish demonstration projects to evaluate whether accidents and incidents involving trains would be reduced by—
+
+&emsp;(A) reflective markers installed on the road surface or on a signal post at railroad grade crossings;
+
+&emsp;(B) stop signs or yield signs installed at grade crossings; and
+
+&emsp;(C) speed bumps or rumble strips installed on the road surfaces at the approaches to grade crossings.
+
+(2) Not later than June 22, 1990, the Secretary shall submit a report on the results of the demonstration projects to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 873.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+20134(a)
+
+45:433(b).
+
+Oct. 16, 1970, Pub. L. 91–458, §204(b), 84 Stat. 972.
+
+20134(b)
+
+45:431(q).
+
+Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §§202(q), 215(a), (b); added June 22, 1988, Pub. L. 100–342, §§20, 23, 102 Stat. 638, 639; Sept. 3, 1992, Pub. L. 102–365, §2(4), 106 Stat. 972.
+
+20134(c)
+
+45:445(a), (b).
+
+In subsection (a), the words “In addition” are omitted as surplus. The word “maintain” is substituted for “undertake” for clarity because the effort has begun. The words “the objective of” are omitted as surplus. The words “To carry out this section, the Secretary may use” are added for clarity.
+
+In subsection (b), the words “Not later than June 22, 1989” are substituted for “within one year after June 22, 1988” for clarity.
+
+In subsection (c)(1), before clause (A), and (2), the word “Secretary” is substituted for “Federal Railroad Administration” for clarity and consistency in the revised title. In this restatement, the Secretary of Transportation carries out all laws. However, this subsection is based on source provisions that provide that the Federal Railroad Administration carries out the subsection. A cross-reference to this subsection has been included in 49:103 to preserve duties and powers under this subsection to the Administrator of the Federal Railroad Administration.
+
+In subsection (c)(1), before clause (A), the words “and incidents” are added for consistency in this part.
+
+#### Change of Name
+
+Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives, with certain jurisdiction relating to railroads, railway labor, or railway retirement and unemployment given to Committee on Transportation and Infrastructure of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 103, 20117 of this title.
+

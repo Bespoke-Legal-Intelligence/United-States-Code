@@ -1,0 +1,44 @@
+### §912. Office of Rural Health Policy
+
+(a) There shall be established in the Department of Health and Human Services (in this section referred to as the “Department”) an Office of Rural Health Policy (in this section referred to as the “Office”). The Office shall be headed by a Director, who shall advise the Secretary on the effects of current policies and proposed statutory, regulatory, administrative, and budgetary changes in the programs established under subchapters XVIII and XIX of this chapter on the financial viability of small rural hospitals, the ability of rural areas (and rural hospitals in particular) to attract and retain physicians and other health professionals, and access to (and the quality of) health care in rural areas.
+
+(b) In addition to advising the Secretary with respect to the matters specified in subsection (a) of this section, the Director, through the Office, shall—
+
+&emsp;(1) oversee compliance with the requirements of section 1302(b) of this title and section 4403 of the Omnibus Budget Reconciliation Act of 1987 (as such section pertains to rural health issues),
+
+&emsp;(2) establish and maintain a clearinghouse for collecting and disseminating information on—
+
+&emsp;&emsp;(A) rural health care issues, including rural mental health, rural infant mortality prevention, and rural occupational safety and preventive health promotion,
+
+&emsp;&emsp;(B) research findings relating to rural health care, and
+
+&emsp;&emsp;(C) innovative approaches to the delivery of health care in rural areas, including programs providing community-based mental health services, pre-natal and infant care services, and rural occupational safety and preventive health education and promotion,
+
+&emsp;(3) coordinate the activities within the Department that relate to rural health care, and
+
+&emsp;(4) provide information to the Secretary and others in the Department with respect to the activities, of other Federal departments and agencies, that relate to rural health care, including activities relating to rural mental health, rural infant mortality, and rural occupational safety and preventive health promotion.
+
+(Aug. 14, 1935, ch. 531, title VII, §711, as added Dec. 22, 1987, Pub. L. 100–203, title IV, §4401, 101 Stat. 1330–225; amended July 1, 1988, Pub. L. 100–360, title IV, §411(m)(1), 102 Stat. 806; Dec. 19, 1989, Pub. L. 101–239, title VI, §6213(g), 103 Stat. 2251.)
+
+#### References in Text
+
+Section 4403 of the Omnibus Budget Reconciliation Act of 1987, referred to in subsec. (b)(1), is section 4403 of Pub. L. 100–203, which is set out as a note under section 1395b–1 of this title.
+
+#### Amendments
+
+1989—Subsec. (b)(2)(A). Pub. L. 101–239, §6213(g)(1), substituted “health care issues, including rural mental health, rural infant mortality prevention, and rural occupational safety and preventive health promotion” for “health care issues”.
+
+Subsec. (b)(2)(C). Pub. L. 101–239, §6213(g)(2), substituted “health care in rural areas, including programs providing community-based mental health services, pre-natal and infant care services, and rural occupational safety and preventive health education and promotion” for “health care in rural areas”.
+
+Subsec. (b)(4). Pub. L. 101–239, §6213(g)(3), substituted “rural health care, including activities relating to rural mental health, rural infant mortality, and rural occupational safety and preventive health promotion” for “rural health care”.
+
+1988—Subsec. (b)(1). Pub. L. 100–360 substituted “section 4403 of the Omnibus Budget Reconciliation Act of 1987 (as such section pertains to rural health issues)” for “section 4083 of the Omnibus Budget Reconciliation Act of 1987”.
+
+#### Effective Date of 1988 Amendment
+
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 254r of this title.
+

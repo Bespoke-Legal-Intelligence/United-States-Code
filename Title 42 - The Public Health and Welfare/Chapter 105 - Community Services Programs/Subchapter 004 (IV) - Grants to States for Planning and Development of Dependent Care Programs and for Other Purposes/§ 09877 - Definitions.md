@@ -1,0 +1,62 @@
+### §9877. Definitions
+
+For purposes of this subchapter—
+
+&emsp;(1) the term “community center” means facilities operated by nonprofit community-based organizations for the provision of recreational, social, or educational services to the general public;
+
+&emsp;(2) the term “dependent” means—
+
+&emsp;&emsp;(A) an individual who has not attained the age of 17 years;
+
+&emsp;&emsp;(B) an individual who has attained the age of 55 years; or
+
+&emsp;&emsp;(C) an individual with a developmental disability;
+
+&emsp;(3) the term “developmental disability” has the same meaning as in section 6001(7) <sup>1</sup> of this title;
+
+&emsp;(4) the term “equipment” has the same meaning given that term by section 198(a)(8) of the Elementary and Secondary Education Act of 1965; <sup>1</sup>
+
+&emsp;(5) the term “institution of higher education” has the same meaning given that term under section 1141(a) of title 20;
+
+&emsp;(6) the term “local educational agency” has the same meaning given that term under section 8801 of title 20;
+
+&emsp;(7) the term “school-age children” means children aged five through thirteen, except that in any State in which by State law children at an earlier age are provided free public education, the age provided in State law shall be substituted for age five;
+
+&emsp;(8) the term “school facilities” means classrooms and related facilities used for the provision of education;
+
+&emsp;(9) the term “Secretary” means the Secretary of Health and Human Services;
+
+&emsp;(10) the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, Palau, and the Commonwealth of the Northern Mariana Islands; and
+
+&emsp;(11) the term “State educational agency” has the meaning given that term under section 8801 of title 20.
+
+(Pub. L. 97–35, title VI, §670G, as added Pub. L. 98–558, title I, §109, Oct. 30, 1984, 98 Stat. 2883; amended Pub. L. 99–425, title III, §303, Sept. 30, 1986, 100 Stat. 967; Pub. L. 101–501, title III, §305(c), Nov. 3, 1990, 104 Stat. 1250; Pub. L. 103–382, title III, §394(<i>l</i>), Oct. 20, 1994, 108 Stat. 4029.)
+
+#### References in Text
+
+Section 6001(7) of this title, referred to in par. (3), was subsequently amended, and section 6001(7) no longer defines the term “developmental disability”. However, such term is defined elsewhere in that section.
+
+Section 198 of the Elementary and Secondary Education Act of 1965, referred to in par. (4), is section 198 of Pub. L. 89–10, title I, as added Pub. L. 95–561, title I, §101(a), Nov. 1, 1978, 92 Stat. 2198, as amended, which was classified to section 2854 of Title 20, Education, prior to the general revision of Pub. L. 89–10 by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 140.
+
+#### Amendments
+
+1994—Par. (6). Pub. L. 103–382, §394(<i>l</i>)(1), substituted “section 8801 of title 20” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
+
+Par. (11). Pub. L. 103–382, §394(<i>l</i>)(2), substituted “section 8801 of title 20” for “section 198(a)(17) of the Elementary and Secondary Education Act of 1965”.
+
+1990—Par. (2)(C). Pub. L. 101–501, §305(c)(1), substituted “an individual” for “a person”.
+
+Par. (7). Pub. L. 101–501, §305(c)(2), inserted “in” after first reference to “State”.
+
+Par. (10). Pub. L. 101–501, §305(c)(3), substituted “Federated States of Micronesia, the Republic of the Marshall Islands, Palau” for “Trust Territory of the Pacific Islands”.
+
+1986—Par. (7). Pub. L. 99–425 inserted “, except that in any State which by State law children at an earlier age are provided free public education, the age provided in State law shall be substituted for age five”.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as a note under section 8621 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as a note under section 8621 of this title.
+

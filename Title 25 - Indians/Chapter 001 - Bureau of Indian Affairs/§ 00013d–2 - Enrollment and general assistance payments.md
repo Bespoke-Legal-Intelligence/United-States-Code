@@ -1,0 +1,40 @@
+### §13d–2. Enrollment and general assistance payments
+
+#### (a) In general
+
+The Secretary of the Interior shall not disqualify from continued receipt of general assistance payments from the Bureau of Indian Affairs an otherwise eligible Indian for whom the Bureau has been making general assistance payments for at least 3 months (or exclude such an individual from continued consideration in determining the amount of general assistance payments for a household) because the individual is enrolled (and is making satisfactory progress toward completion of a program or training that can reasonably be expected to lead to gainful employment) for at least half-time study or training in—
+
+&emsp;(1) a college assisted by the Bureau under the Tribally Controlled Community College Assistance Act of 1978 (92 Stat. 1325; 25 U.S.C. 1801) or the Navajo Community College Act (85 Stat. 645; 25 U.S.C. 640a);
+
+&emsp;(2) an institution of higher education or a vocational school (as defined for purposes of any program of assistance to students under the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\]);
+
+&emsp;(3) a course the Secretary determines will lead to a high school diploma or an equivalent certificate; or
+
+&emsp;(4) other programs or training approved by the Secretary.
+
+#### (b) Factors not to be considered
+
+In determining the amount of general assistance provided by the Bureau of Indian Affairs, the Secretary of the Interior shall not include consideration of—
+
+&emsp;(1) additional expenses in connection with the study or training described in subsection (a) of this section, and
+
+&emsp;(2) the amount of any financial assistance received by the individual as a student or trainee.
+
+#### (c) No effect on other eligibility requirements
+
+This section does not alter any eligibility requirement for general assistance from the Bureau of Indian Affairs other than the requirement to be available for employment and to seek employment.
+
+(Pub. L. 100–297, title V, §5404, Apr. 28, 1988, 102 Stat. 416.)
+
+#### References in Text
+
+The Tribally Controlled Community College Assistance Act of 1978, referred to in subsec. (a)(1), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+The Navajo Community College Act, referred to in subsec. (a)(1), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a etseq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 640a of this title and Tables.
+
+The Higher Education Act of 1965, referred to in subsec. (a)(2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+
+#### Effective Date
+
+For effective date and applicability of section, see section 6303 of Pub. L. 100–297, set out as a note under section 1201 of Title 20, Education.
+

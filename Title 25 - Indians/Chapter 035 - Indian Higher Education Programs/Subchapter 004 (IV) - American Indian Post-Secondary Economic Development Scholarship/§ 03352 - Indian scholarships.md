@@ -1,0 +1,16 @@
+### §3352. Indian scholarships
+
+#### (a) Selection
+
+Each Indian tribe receiving a grant pursuant to this subchapter for the purpose of providing scholarships shall select tribal members eligible to receive such scholarships. In determining grant recipients the Secretary of Education shall consider—
+
+&emsp;(1) geographic distribution of grants; and
+
+&emsp;(2) a tribal economic plan which demonstrates how individual recipients shall benefit the economic conditions of the tribe.
+
+#### (b) Criteria
+
+Each Indian tribe, in consultation with the Secretary of Education, shall give preference to select, as those tribal members eligible to receive such scholarships, tribal members who have successfully completed at least 30 hours of postsecondary education and who are eligible for readmission to a postsecondary institution.
+
+(Pub. L. 102–325, title XIII, §1362, July 23, 1992, 106 Stat. 813.)
+

@@ -1,0 +1,8 @@
+### §2610c. Repealed. Pub. L. 93–203, title VII, §714, formerly title VI, §614, Dec. 28, 1973, 87 Stat. 883; renumbered title VII, §714, Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1845.
+
+Section, Pub. L. 87–415, title II, §261, as added Pub. L. 89–794, Title X, §1001(c), Nov. 8, 1966, 80 Stat. 1475, made provision for programs for needy persons requiring work experience, supportive services, or training. See section 1501 et seq. of Title 29, Labor.
+
+#### Effective Date of Repeal
+
+Section 714, formerly §614, of Pub. L. 93–203 provided that the repeal is effective with respect to fiscal years after June 30, 1974.
+

@@ -1,0 +1,24 @@
+### §300aa–6. Authorization of appropriations
+
+(a) To carry out this part other than section 300aa–2(9) of this title there are authorized to be appropriated $4,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995.
+
+(b) To carry out section 300aa–2(9) of this title there are authorized to be appropriated $30,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995.
+
+(July 1, 1944, ch. 373, title XXI, §2106, as added Nov. 14, 1986, Pub. L. 99–660, title III, §311(a), 100 Stat. 3758; amended Nov. 3, 1990, Pub. L. 101–502, §4, 104 Stat. 1286.)
+
+#### Prior Provisions
+
+A prior section 300aa–6, act July 1, 1944, §2107, was successively renumbered by subsequent acts and transferred, see section 238d of this title.
+
+A prior section 2106 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238c of this title.
+
+Prior sections 300aa–7 to 300aa–9, act July 1, 1944, §§2108–2110, respectively, were successively renumbered by subsequent acts and transferred, see sections 238e to 238g, respectively, of this title.
+
+#### Amendments
+
+1990—Pub. L. 101–502 substituted provisions authorizing appropriations for fiscal years 1991 through 1995 for provisions authorizing appropriations for fiscal years 1987 through 1991 in subsecs. (a) and (b).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 300aa–2 of this title.
+

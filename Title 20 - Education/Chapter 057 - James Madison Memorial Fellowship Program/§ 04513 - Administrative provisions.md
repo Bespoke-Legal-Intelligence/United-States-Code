@@ -1,0 +1,64 @@
+### §4513. Administrative provisions
+
+#### (a) General powers
+
+The Foundation is authorized—
+
+&emsp;(1) to appoint and fix the compensation of such personnel as may be necessary to carry out this chapter,<sup>1</sup> without regard to the provisions of title 5 governing appointments in the competitive service, but at General Schedule pay rates not in excess of the maximum rate for grade GS 15 of the General Schedule under section 5332 of that title;
+
+&emsp;(2) to procure temporary and intermittent services of such experts and consultants as are necessary to the extent authorized by section 3109 of title 5, but at rates not to exceed the rate specified at the time of such service for grade GS 18 in section 5332 of such title;
+
+&emsp;(3) to prescribe such regulations as it deems necessary governing the manner in which its functions shall be carried out;
+
+&emsp;(4) to receive money and other property donated, bequeathed, or devised, without condition or restriction other than it be used for the purposes of the Foundation; and to use, sell, or otherwise dispose of such property for the purpose of carrying out its functions;
+
+&emsp;(5) to accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
+
+&emsp;(6) to enter into contracts, grants, or other arrangements, or modifications thereof, to carry out the provisions of this chapter, and such contracts or modifications thereof may, with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds, and without regard to section 5 of title 41;
+
+&emsp;(7) to make advances, progress, and other payments which the Board deems necessary under this chapter without regard to the provisions of section 3324(a) and (b) of title 31;
+
+&emsp;(8) to rent office space in the District of Columbia or its environs;
+
+&emsp;(9) to conduct programs in addition to or in conjunction with the Fellowship program which shall further the Foundation's purpose of encouraging research and study of constitutionalism in America;
+
+&emsp;(10) to expend not more than 5 percent of its annual operating budget to pay the costs of fundraising activities, including public and private gatherings; and
+
+&emsp;(11) to make other necessary expenditures.
+
+#### (b) Annual report
+
+The foundation<sup>2</sup> shall submit to the President and to the Congress an annual report of its operations under this chapter.
+
+#### (c) Detailing of agency personnel to Foundation
+
+On request of the Chairman of the Foundation, the head of a Federal agency may detail personnel of the agency to the Foundation to assist the Foundation in carrying out this chapter.<sup>1</sup> Details under this subsection shall be without reimbursement by the Foundation to the agency from which personnel are detailed.
+
+(Pub. L. 99 500, §101(b) \[title VIII, §814\], Oct. 18, 1986, 100 Stat. 1783 39, 1783 80, and Pub. L. 99 591, §101(b) \[title VIII, §814\], Oct. 30, 1986, 100 Stat. 3341 39, 3341 80; Pub. L. 101 208, §3, Dec. 7, 1989, 103 Stat. 1837.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(1) and (c), was in the original “this Act” and was translated as reading “this title” meaning title VIII of section 101(b) of Pub. L. 99 500 and Pub. L. 99 591 which enacted this chapter, to reflect the probable intent of Congress.
+
+Provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+
+#### Codification
+
+In subsec. (a)(7), “section 3324(a) and (b) of title 31” substituted for “section 529 of title 31” on authority of Pub. L. 97 258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+Pub. L. 99 591 is a corrected version of Pub. L. 99 500.
+
+#### Amendments
+
+1989—Subsec. (a)(1). Pub. L. 101 208, §3(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case shall employees other than the Executive Secretary be compensated at a rate to exceed the rate provided for employees in grade GS 15 of the General Schedule set forth in section 5332 of title 5;”.
+
+Subsec. (a)(8). Pub. L. 101 208, §3(1)(B), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “to rent office space;”.
+
+Subsec. (a)(10), (11). Pub. L. 101 208, §3(1)(C) (E), added par. (10) and redesignated former par. (10) as (11).
+
+Subsec. (c). Pub. L. 101 208, §3(2), added subsec. (c).
+
+<i><sup>1</sup></i><i>See References in Text note below.</i>
+
+<i><sup>2</sup></i><i>So in original. Probably should be capitalized.</i>
+

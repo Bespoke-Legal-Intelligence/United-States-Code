@@ -1,0 +1,6 @@
+### §14051. Increased penalties for drug-dealing in “drug-free” zones
+
+Pursuant to its authority under section 994 of title 28, the United States Sentencing Commission shall amend its sentencing guidelines to provide an appropriate enhancement for a defendant convicted of violating section 860 of title 21.
+
+(Pub. L. 103–322, title IX, §90102, Sept. 13, 1994, 108 Stat. 1987.)
+

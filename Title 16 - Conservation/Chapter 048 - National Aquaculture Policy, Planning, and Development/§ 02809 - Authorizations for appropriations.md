@@ -1,0 +1,32 @@
+### §2809. Authorizations for appropriations
+
+For purposes of carrying out the provisions of this chapter, there are authorized to be appropriated—
+
+&emsp;(1) to the Department of Agriculture, $1,000,000 for each of the fiscal years 1991, 1992, and 1993;
+
+&emsp;(2) to the Department of Commerce, $1,000,000 for each of the fiscal years 1991, 1992, and 1993; and
+
+&emsp;(3) to the Department of <sup>1</sup> Interior, $1,000,000 for each of the fiscal years 1991, 1992, and 1993.
+
+> Funds authorized by this section shall be in addition to, and not in lieu of, funds authorized by any other Act.
+
+(Pub. L. 96–362, §10, Sept. 26, 1980, 94 Stat. 1205; Pub. L. 98–623, title IV, §402, Nov. 8, 1984, 98 Stat. 3407; Pub. L. 99–198, title XVII, §1737, Dec. 23, 1985, 99 Stat. 1643; Pub. L. 101–624, title XVI, §1614(d), Nov. 28, 1990, 104 Stat. 3728.)
+
+#### Amendments
+
+1990—Pars. (1) to (3). Pub. L. 101–624 amended pars. (1) to (3) generally. Prior to amendment, pars. (1) to (3) read as follows:
+
+“(1) to the Department of Agriculture, $2,000,000 for each of fiscal years 1984 and 1985, and $1,000,000 for each of fiscal years 1986, 1987, and 1988;
+
+“(2) to the Department of Commerce, $2,000,000 for each of fiscal years 1984 and 1985, and $1,000,000 for each of fiscal years 1986, 1987, and 1988; and
+
+“(3) to the Department of the Interior, $1,000,000 for each of fiscal years 1984 and 1985, and $1,000,000 for each of fiscal years 1986, 1987, and 1988.”
+
+1985—Pars. (1) to (3). Pub. L. 99–198 inserted provisions authorizing appropriations of $1,000,000 for each of fiscal years 1986, 1987, and 1988.
+
+1984—Pars. (1), (2). Pub. L. 98–623 substituted provisions authorizing appropriations of $2,000,000 for each of fiscal years 1984 and 1985 for provisions which had authorized appropriations of $7,000,000 for fiscal year 1981, $10,000,000 for fiscal year 1982, and $12,000,000 for fiscal year 1983.
+
+Par. (3). Pub. L. 98–623 substituted provisions authorizing appropriations of $1,000,000 for each of fiscal years 1984 and 1985 for provisions which had authorized appropriations of $3,000,000 for fiscal year 1981, $4,000,000 for fiscal year 1982, and $5,000,000 for fiscal year 1983.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
+

@@ -1,0 +1,14 @@
+### §8a. National-park approach roads; designation
+
+Whenever the Secretary of the Interior shall determine it to be in the public interest he may designate as national-park approach roads and as supplementary parts of the highway systems of any of the national parks roads whose primary value is to carry national-park travel and which lead across lands wholly or to the extent of 90 per centum owned by the Government of the United States and which will connect the highways within a national park with a convenient point on or leading to the Federal 7 per centum highway system: <i>Provided</i>, That such approach roads so designated shall be limited to not to exceed sixty miles in length between a park gateway and such point on or leading to the nearest convenient 7 per centum system road; or, if such approach road is on the 7 per centum system, it shall be limited to not to exceed thirty miles: <i>Provided further</i>, That not to exceed forty miles of any one approach road shall be designated in any one county.
+
+(Apr. 9, 1924, ch. 86, §4, as added Jan. 31, 1931, ch. 79, 46 Stat. 1053.)
+
+#### Cross References
+
+Uniform application of this section to all areas of national park system when not in conflict with specific provisions applicable to an area, see section 1c of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1c, 8b, 8c, 8d of this title.
+

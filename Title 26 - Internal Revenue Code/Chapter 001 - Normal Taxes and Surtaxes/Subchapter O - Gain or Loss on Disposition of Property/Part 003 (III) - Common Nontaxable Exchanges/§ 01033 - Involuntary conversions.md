@@ -1,0 +1,254 @@
+### §1033. Involuntary conversions
+
+#### (a) General rule
+
+If property (as a result of its destruction in whole or in part, theft, seizure, or requisition or condemnation or threat or imminence thereof) is compulsorily or involuntarily converted—
+
+#### (1) Conversion into similar property
+
+&emsp;Into property similar or related in service or use to the property so converted, no gain shall be recognized.
+
+#### (2) Conversion into money
+
+&emsp;Into money or into property not similar or related in service or use to the converted property, the gain (if any) shall be recognized except to the extent hereinafter provided in this paragraph:
+
+#### (A) Nonrecognition of gain
+
+&emsp;&emsp;If the taxpayer during the period specified in subparagraph (B), for the purpose of replacing the property so converted, purchases other property similar or related in service or use to the property so converted, or purchases stock in the acquisition of control of a corporation owning such other property, at the election of the taxpayer the gain shall be recognized only to the extent that the amount realized upon such conversion (regardless of whether such amount is received in one or more taxable years) exceeds the cost of such other property or such stock. Such election shall be made at such time and in such manner as the Secretary may by regulations prescribe. For purposes of this paragraph—
+
+&emsp;&emsp;&emsp;(i) no property or stock acquired before the disposition of the converted property shall be considered to have been acquired for the purpose of replacing such converted property unless held by the taxpayer on the date of such disposition; and
+
+&emsp;&emsp;&emsp;(ii) the taxpayer shall be considered to have purchased property or stock only if, but for the provisions of subsection (b) of this section, the unadjusted basis of such property or stock would be its cost within the meaning of section 1012.
+
+#### (B) Period within which property must be replaced
+
+&emsp;&emsp;The period referred to in subparagraph (A) shall be the period beginning with the date of the disposition of the converted property, or the earliest date of the threat or imminence of requisition or condemnation of the converted property, whichever is the earlier, and ending—
+
+&emsp;&emsp;&emsp;(i) 2 years after the close of the first taxable year in which any part of the gain upon the conversion is realized, or
+
+&emsp;&emsp;&emsp;(ii) subject to such terms and conditions as may be specified by the Secretary, at the close of such later date as the Secretary may designate on application by the taxpayer. Such application shall be made at such time and in such manner as the Secretary may by regulations prescribe.
+
+#### (C) Time for assessment of deficiency attributable to gain upon conversion
+
+&emsp;&emsp;If a taxpayer has made the election provided in subparagraph (A), then—
+
+&emsp;&emsp;&emsp;(i) the statutory period for the assessment of any deficiency, for any taxable year in which any part of the gain on such conversion is realized, attributable to such gain shall not expire prior to the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may by regulations prescribe) of the replacement of the converted property or of an intention not to replace, and
+
+&emsp;&emsp;&emsp;(ii) such deficiency may be assessed before the expiration of such 3–year period notwithstanding the provisions of section 6212(c) or the provisions of any other law or rule of law which would otherwise prevent such assessment.
+
+#### (D) Time for assessment of other deficiencies attributable to election
+
+&emsp;&emsp;If the election provided in subparagraph (A) is made by the taxpayer and such other property or such stock was purchased before the beginning of the last taxable year in which any part of the gain upon such conversion is realized, any deficiency, to the extent resulting from such election, for any taxable year ending before such last taxable year may be assessed (notwithstanding the provisions of section 6212(c) or 6501 or the provisions of any other law or rule of law which would otherwise prevent such assessment) at any time before the expiration of the period within which a deficiency for such last taxable year may be assessed.
+
+#### (E) Definitions
+
+&emsp;&emsp;For purposes of this paragraph—
+
+#### (i) Control
+
+&emsp;&emsp;&emsp;The term “control” means the ownership of stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
+
+#### (ii) Disposition of the converted property
+
+&emsp;&emsp;&emsp;The term “disposition of the converted property” means the destruction, theft, seizure, requisition, or condemnation of the converted property, or the sale or exchange of such property under threat or imminence of requisition or condemnation.
+
+#### (b) Basis of property acquired through involuntary conversion
+
+If the property was acquired, after February 28, 1913, as the result of a compulsory or involuntary conversion described in subsection (a)(1) or section 112(f)(2) of the Internal Revenue Code of 1939, the basis shall be the same as in the case of the property so converted, decreased in the amount of any money received by the taxpayer which was not expended in accordance with the provisions of law (applicable to the year in which such conversion was made) determining the taxable status of the gain or loss upon such conversion, and increased in the amount of gain or decreased in the amount of loss to the taxpayer recognized upon such conversion under the law applicable to the year in which such conversion was made. This subsection shall not apply in respect of property acquired as a result of a compulsory or involuntary conversion of property used by the taxpayer as his principal residence if the destruction, theft, seizure, requisition, or condemnation of such residence, or the sale or exchange of such residence under threat or imminence thereof, occurred after December 31, 1950, and before January 1, 1954. In the case of property purchased by the taxpayer in a transaction described in subsection (a)(3) which resulted in the nonrecognition of any part of the gain realized as the result of a compulsory or involuntary conversion, the basis shall be the cost of such property decreased in the amount of the gain not so recognized; and if the property purchased consists of more than one piece of property, the basis determined under this sentence shall be allocated to the purchased properties in proportion to their respective costs.
+
+#### (c) Property sold pursuant to reclamation laws
+
+For purposes of this subtitle, if property lying within an irrigation project is sold or otherwise disposed of in order to conform to the acreage limitation provisions of Federal reclamation laws, such sale or disposition shall be treated as an involuntary conversion to which this section applies.
+
+#### (d) Livestock destroyed by disease
+
+For purposes of this subtitle, if livestock are destroyed by or on account of disease, or are sold or exchanged because of disease, such destruction or such sale or exchange shall be treated as an involuntary conversion to which this section applies.
+
+#### (e) Livestock sold on account of drought
+
+For purposes of this subtitle, the sale or exchange of livestock (other than poultry) held by a taxpayer for draft, breeding, or dairy purposes in excess of the number the taxpayer would sell if he followed his usual business practices shall be treated as an involuntary conversion to which this section applies if such livestock are sold or exchanged by the taxpayer solely on account of drought.
+
+#### (f) Replacement of livestock with other farm property where there has been environmental contamination
+
+For purposes of subsection (a), if, because of soil contamination or other environmental contamination, it is not feasible for the taxpayer to reinvest the proceeds from compulsorily or involuntarily converted livestock in property similar or related in use to the livestock so converted, other property (including real property) used for farming purposes shall be treated as property similar or related in service or use to the livestock so converted.
+
+#### (g) Condemnation of real property held for productive use in trade or business or for investment
+
+#### (1) Special rule
+
+&emsp;For purposes of subsection (a), if real property (not including stock in trade or other property held primarily for sale) held for productive use in trade or business or for investment is (as the result of its seizure, requisition, or condemnation, or threat or imminence thereof) compulsorily or involuntarily converted, property of a like kind to be held either for productive use in trade or business or for investment shall be treated as property similar or related in service or use to the property so converted.
+
+#### (2) Limitations
+
+&emsp;Paragraph (1) shall not apply to the purchase of stock in the acquisition of control of a corporation described in subsection (a)(2)(A).
+
+#### (3) Election to treat outdoor advertising displays as real property
+
+#### (A) In general
+
+&emsp;&emsp;A taxpayer may elect, at such time and in such manner as the Secretary may prescribe, to treat property which constitutes an outdoor advertising display as real property for purposes of this chapter. The election provided by this subparagraph may not be made with respect to any property with respect to which an election under section 179(a) (relating to election to expense certain depreciable business assets) is in effect.
+
+#### (B) Election
+
+&emsp;&emsp;An election made under subparagraph (A) may not be revoked without the consent of the Secretary.
+
+#### (C) Outdoor advertising display
+
+&emsp;&emsp;For purposes of this paragraph, the term “outdoor advertising display” means a rigidly assembled sign, display, or device permanently affixed to the ground or permanently attached to a building or other inherently permanent structure constituting, or used for the display of, a commercial or other advertisement to the public.
+
+#### (D) Character of replacement property
+
+&emsp;&emsp;For purposes of this subsection, an interest in real property purchased as replacement property for a compulsorily or involuntarily converted outdoor advertising display defined in subparagraph (C) (and treated by the taxpayer as real property) shall be considered property of a like kind as the property converted without regard to whether the taxpayer's interest in the replacement property is the same kind of interest the taxpayer held in the converted property.
+
+#### (4) Special rule
+
+&emsp;In the case of a compulsory or involuntary conversion described in paragraph (1), subsection (a)(2)(B)(i) shall be applied by substituting “3 years” for “2 years”.
+
+#### (h) Special rules for principal residences damaged by Presidentially declared disasters
+
+#### (1) In general
+
+&emsp;If the taxpayer's principal residence or any of its contents is compulsorily or involuntarily converted as a result of a Presidentially declared disaster—
+
+#### (A) Treatment of insurance proceeds
+
+#### (i) Exclusion for unscheduled personal property
+
+&emsp;&emsp;&emsp;No gain shall be recognized by reason of the receipt of any insurance proceeds for personal property which was part of such contents and which was not scheduled property for purposes of such insurance.
+
+#### (ii) Other proceeds treated as common fund
+
+&emsp;&emsp;&emsp;In the case of any insurance proceeds (not described in clause (i)) for such residence or contents—
+
+&emsp;&emsp;&emsp;&emsp;(I) such proceeds shall be treated as received for the conversion of a single item of property, and
+
+&emsp;&emsp;&emsp;&emsp;(II) any property which is similar or related in service or use to the residence so converted (or contents thereof) shall be treated for purposes of subsection (a)(2) as property similar or related in service or use to such single item of property.
+
+#### (B) Extension of replacement period
+
+&emsp;&emsp;Subsection (a)(2)(B) shall be applied with respect to any property so converted by substituting “4 years” for “2 years”.
+
+#### (2) Presidentially declared disaster
+
+&emsp;For purposes of this subsection, the term “Presidentially declared disaster” means any disaster which, with respect to the area in which the residence is located, resulted in a subsequent determination by the President that such area warrants assistance by the Federal Government under the Disaster Relief and Emergency Assistance Act.
+
+#### (3) Principal residence
+
+&emsp;For purposes of this subsection, the term “principal residence” has the same meaning as when used in section 1034, except that such term shall include a residence not treated as a principal residence solely because the taxpayer does not own the residence.
+
+#### (i) Cross references
+
+&emsp;&emsp;<b>(1) For determination of the period for which the taxpayer has held property involuntarily converted, see section 1223.</b>
+
+&emsp;&emsp;<b>(2) For treatment of gains from involuntary conversions as capital gains in certain cases, see section 1231(a).</b>
+
+&emsp;&emsp;<b>(3) For one-time exclusion from gross income of gain from involuntary conversion of principal residence by individual who has attained age 55, see section 121.</b>
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 303; June 29, 1956, ch. 464, §5(a), 70 Stat. 407; Sept. 2, 1958, Pub. L. 85–866, title I, §§45, 46(a), 72 Stat. 1641; Feb. 26, 1964, Pub. L. 88–272, title II, §206(b)(3), 78 Stat. 40; Dec. 30, 1969, Pub. L. 91–172, title IX, §915(a), 83 Stat. 723; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(a)(128), 1906(b)(13)(A), title XXI, §§2127(a), 2140(a), 90 Stat. 1785, 1834, 1920, 1932; Nov. 6, 1978, Pub. L. 95–600, title IV, §404(c)(4), title V, §542(a), title VII, §703(j)(5), 92 Stat. 2870, 2888, 2941; Aug. 13, 1981, Pub. L. 97–34, title II,§202(d)(2), 95 Stat. 221; July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(r)(24), 98 Stat. 844; Nov. 5, 1990, Pub. L. 101–508, title XI, §11813(b)(20), 104 Stat. 1388–555; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13431(a), 107 Stat. 567.)
+
+#### References in Text
+
+Section 112 of the Internal Revenue Code of 1939, referred to in subsec. (b), was classified to section 112 of former Title, 26, Internal Revenue Code. Section 112 was repealed by section 7851(a)(1) of this title. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See, also, section 7851(e) of this title, for provisions that references in the 1986 Code to provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
+
+The Disaster Relief and Emergency Assistance Act, referred to in subsec. (h)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+
+#### Amendments
+
+1993—Subsecs. (h), (i). Pub. L. 103–66 added subsec. (h) and redesignated former subsec. (h) as (i).
+
+1990—Subsec. (g)(3)(A). Pub. L. 101–508 struck out “with respect to which the investment credit determined under section 46(a) is or has been claimed or” after “to any property”.
+
+1984—Subsec. (g)(3)(A). Pub. L. 98–369 substituted “the investment credit determined under section 46(a)” for “the credit allowed by section 38 (relating to investment in certain depreciable property)”.
+
+1981—Subsec. (g)(3)(A). Pub. L. 97–34 substituted “(relating to election to expense certain depreciable business assets)” for “(relating to additional first-year depreciation allowance for small business)”.
+
+1978—Subsec. (a)(2)(A)(ii). Pub. L. 95–600, §703(j)(5), substituted “subsection (b)” for “subsection (c)”.
+
+Subsecs. (f), (g). Pub. L. 95–600, §542(a), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+
+Subsec. (h). Pub. L. 95–600, §§404(c)(4), 542(a), redesignated subsec. (g) as (h) and substituted in par. (3) “one-time exclusion” for “exclusion” and “age 55” for “age 65”.
+
+1976—Subsec. (a)(2), (3). Pub. L. 94–455, §§1901(a)(128)(A), (B), 1906(b)(13)(A), redesignated par. (3) as (2), struck out in heading “where disposition occurred after 1950” after “Conversion into money”, in provisions preceding subpar. (A) “and the disposition of the converted property (as defined in paragraph (2)) occurred after December 31, 1950,” after “use to the converted property,” and in subpar. (B)(ii) “or his delegate” after “Secretary” wherever appearing, and added subpar. (E). Former par. (2), which related to involuntary conversions into money where dispositions occurred prior to 1951, was struck out.
+
+Subsec. (b). Pub. L. 94–455, §1901(a)(128)(C), (D), redesignated subsec. (c) as (b) and substituted “or section 112(f)(2) of the Internal Revenue Code of 1939” for “or (2)”. Former subsec. (b), which related to application of subsec. (a) in the case of property used by taxpayer as his principal residence, if the destruction, theft, etc., occurred after 1950 and before 1954, was struck out.
+
+Subsecs. (c) to (e). Pub. L. 94–455, §1901(a)(128)(C), redesignated subsecs. (d) to (f) as (c) to (e), respectively. Former subsec. (c) redesignated (b).
+
+Subsec. (f). Pub. L. 94–455, §§1901(a)(128)(C), (E), (F), 2127(a), 2140(a), redesignated subsec. (g) as (f), in par. (2) struck out provisions relating to conversion of real property before Jan. 1, 1958, and substituted reference to subsection (a)(2)(A) for reference to subsection (a)(3)(A), and added pars. (3) and (4). Former subsec. (f) redesignated (e).
+
+Subsecs. (g), (h). Pub. L. 94–455, §1901(a)(128)(C), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+
+1969—Subsec. (a)(3)(B). Pub. L. 91–172 substituted “2 years” for “one year”.
+
+1964—Subsec. (h)(3). Pub. L. 88–272 added par. (3).
+
+1958—Subsec. (a)(2). Pub. L. 85–866, §45, inserted provision defining “control”.
+
+Subsecs. (g), (h). Pub. L. 85–866, §46(a), added subsec. (g) and redesignated former subsec. (g) as (h).
+
+1956—Subsecs. (f), (g). Act June 29, 1956, added subsec. (f) and redesignated former subsec. (f) as (g).
+
+#### Effective Date of 1993 Amendment
+
+Section 13431(b) of Pub. L. 103–66 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to property compulsorily or involuntarily converted as a result of disasters for which the determination referred to in section 1033(h)(2) of the Internal Revenue Code of 1986 (as added by this section) is made on or after September 1, 1991, and to taxable years ending on or after such date.”
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+
+#### Effective Date of 1981 Amendment
+
+Amendment by Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, in taxable years ending after that date, see section 209(a) of Pub. L. 97–34, set out as an Effective Date note under section 168 of this title.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by section 404(c)(4) of Pub. L. 95–600 applicable to sales or exchanges after July 26, 1978, in taxable years ending after such date, see section 404(d)(1) of Pub. L. 95–600, set out as a note under section 121 of this title.
+
+Section 542(b) of Pub. L. 95–600 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1974.”
+
+Amendment by section 703(j)(5) of Pub. L. 95–600 effective on Oct. 4, 1976, see section 703(r) of Pub. L. 95–600, set out as a note under section 46 of this title.
+
+#### Effective Date of 1976 Amendment
+
+Amendment by section 1901(a)(128) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+
+Section 2127(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1970.”
+
+Section 2140(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to any disposition of converted property (within the meaning of section1033(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) after December 31, 1974, unless a condemnation proceeding with respect to such property began before the date of the enactment of this Act \[Oct. 4, 1976\].”
+
+#### Effective Date of 1969 Amendment
+
+Section 915(b) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply only if the disposition of the converted property (within the meaning of section 1033(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) occurs after the date of the enactment of this Act \[Dec. 30, 1969\].”
+
+#### Effective Date of 1964 Amendment
+
+Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending after such date, see section 206(c) of Pub. L. 88–272, set out as an Effective Date note under section 121 of this title.
+
+#### Effective Date of 1958 Amendment
+
+Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
+
+#### Effective Date of 1956 Amendment
+
+Section 5(b) of act June 29, 1956, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to taxable years ending after December 31, 1955, but only in the case of sales and exchanges of livestock after December 31, 1955.”
+
+#### Savings Provision
+
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+
+#### Cross References
+
+Gain from sale or exchange to effectuate policies of F.C.C., see section 1071 of this title.
+
+Gain or loss from involuntary conversion, see section 1231 of this title.
+
+Holding period of property, see section 1223 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 121, 143, 197, 381, 453, 1016, 1031, 1071, 1223, 1245, 1250, 1351, 2032A, 6212, 6504 of this title; title 25 sections 1716, 1729, 1754.
+

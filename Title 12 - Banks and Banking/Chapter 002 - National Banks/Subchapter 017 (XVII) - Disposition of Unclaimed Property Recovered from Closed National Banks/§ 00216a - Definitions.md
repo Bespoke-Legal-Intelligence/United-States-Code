@@ -1,0 +1,12 @@
+### §216a. Definitions
+
+For purposes of this subchapter—
+
+&emsp;(1) the term “Comptroller” means the Comptroller of the Currency;
+
+&emsp;(2) the term “unclaimed property” means any articles, items, assets, other property, orthe proceeds thereof from safe deposit boxes or other safekeeping arrangements with closed national banks or closed banks in the District of Columbia, which are in the possession, custody, or control of the Comptroller in its capacity as successor to receivers of those banks; and
+
+&emsp;(3) the term “claimant” means any person or entity, including a State under applicable statutory law, asserting a demonstrable legal interest in title to, or custody or possession of, unclaimed property.
+
+(Pub. L. 96–221, title VII, §732, as added Pub. L. 97–320, title IV, §408, Oct. 15, 1982, 96 Stat. 1513.)
+

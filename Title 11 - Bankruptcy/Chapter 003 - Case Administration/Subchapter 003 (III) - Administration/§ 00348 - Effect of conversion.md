@@ -1,0 +1,64 @@
+### §348. Effect of conversion
+
+(a) Conversion of a case from a case under one chapter of this title to a case under another chapter of this title constitutes an order for relief under the chapter to which the case is converted, but, except as provided in subsections (b) and (c) of this section, does not effect a change in the date of the filing of the petition, the commencement of the case, or the order for relief.
+
+(b) Unless the court for cause orders otherwise, in sections 701(a), 727(a)(10), 727(b), 728(a), 728(b), 1102(a), 1110(a)(1), 1121(b), 1121(c), 1141(d)(4), 1146(a), 1146(b), 1201(a), 1221, 1228(a), 1301(a), and 1305(a) of this title, “the order for relief under this chapter” in a chapter to which a case has been converted under section 706, 1112, 1208, or 1307 of this title means the conversion of such case to such chapter.
+
+(c) Sections 342 and 365(d) of this title apply in a case that has been converted under section 706, 1112, 1208, or 1307 of this title, as if the conversion order were the order for relief.
+
+(d) A claim against the estate or the debtor that arises after the order for relief but before conversion in a case that is converted under section 1112, 1208, or 1307 of this title, other than a claim specified in section 503(b) of this title, shall be treated for all purposes as if such claim had arisen immediately before the date of the filing of the petition.
+
+(e) Conversion of a case under section 706, 1112, 1208, or 1307 of this title terminates the service of any trustee or examiner that is serving in the case before such conversion.
+
+(f)(1) Except as provided in paragraph (2), when a case under chapter 13 of this title is converted to a case under another chapter under this title—
+
+&emsp;(A) property of the estate in the converted case shall consist of property of the estate, as of the date of filing of the petition, that remains in the possession of or is under the control of the debtor on the date of conversion; and
+
+&emsp;(B) valuations of property and of allowed secured claims in the chapter 13 case shall apply in the converted case, with allowed secured claims reduced to the extent that they have been paid in accordance with the chapter 13 plan.
+
+(2) If the debtor converts a case under chapter 13 of this title to a case under another chapter under this title in bad faith, the property in the converted case shall consist of the property of the estate as of the date of conversion.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2568; Pub. L. 99–554, title II, §257(i), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title III, §311, title V, §501(d)(5), Oct. 22, 1994, 108 Stat. 4138, 4144.)
+
+#### Historical and Revision Notes
+
+I74legislative statements
+
+The House amendment adopts section 348(b) of the Senate amendment with slight modifications, as more accurately reflecting sections to which this particular effect of conversion should apply.
+
+Section 348(e) of the House amendment is a stylistic revision of similar provisions contained in H.R. 8200 as passed by the House and in the Senate amendment. Termination of services is expanded to cover any examiner serving in the case before conversion, as done in H.R. 8200 as passed by the House.
+
+#### senate report no. 95–989
+
+This section governs the effect of the conversion of a case from one chapter of the bankruptcy code to another chapter. Subsection (a) specifies that the date of the filing of the petition, the commencement of the case, or the order for relief are unaffected by conversion, with some exceptions specified in subsections (b) and (c).
+
+Subsection (b) lists certain sections in the operative chapters of the bankruptcy code in which there is a reference to “the order for relief under this chapter.” In those sections, the reference is to be read as a reference to the conversion order if the case has been converted into the particular chapter. Subsection (c) specifies that notice is to be given of the conversion order the same as notice was given of the order for relief, and that the time the trustee (or debtor in possession) has for assuming or rejecting executory contracts recommences, thus giving an opportunity for a newly appointed trustee to familiarize himself with the case.
+
+Subsection (d) provides for special treatment of claims that arise during chapter 11 or 13 cases before the case is converted to a liquidation case. With the exception of claims specified in proposed 11 U.S.C. 503(b) (administrative expenses), preconversion claims are treated the same as prepetition claims.
+
+Subsection (e) provides that conversion of a case terminates the service of any trustee serving in the case prior to conversion.
+
+#### Amendments
+
+1994—Subsec. (b). Pub. L. 103–394, §501(d)(5), substituted “1201(a), 1221, 1228(a), 1301(a), and 1305(a)” for “1301(a), 1305(a), 1201(a), 1221, and 1228(a)” and “1208, or 1307” for “1307, or 1208”.
+
+Subsecs. (c) to (e). Pub. L. 103–394, §501(d)(5)(B), substituted “1208, or 1307” for “1307, or 1208”.
+
+Subsec. (f). Pub. L. 103–394, §311, added subsec. (f).
+
+1986—Subsec. (b). Pub. L. 99–554, §257(i)(1), substituted references to sections 1201(a), 1221, and 1228(a) of this title for reference to section 1328(a) of this title, and inserted reference to section 1208 of this title.
+
+Subsecs. (c) to (e). Pub. L. 99–554, §257(i)(2), (3), inserted reference to section 1208 of this title.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 101 of this title.
+

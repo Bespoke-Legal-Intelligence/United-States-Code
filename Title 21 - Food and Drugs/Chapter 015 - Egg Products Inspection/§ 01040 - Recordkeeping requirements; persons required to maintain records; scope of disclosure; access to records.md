@@ -1,0 +1,14 @@
+### §1040. Recordkeeping requirements; persons required to maintain records; scope of disclosure; access to records
+
+For the purpose of enforcing the provisions of this chapter and the regulations promulgated thereunder, all persons engaged in the business of transporting, shipping, or receiving any eggs or egg products in commerce or holding such articles so received, and all egg handlers, shall maintain such records showing, for such time and in such form and manner, as the Secretary of Agriculture or the Secretary of Health and Human Services may prescribe, to the extent that they are concerned therewith, the receipt, delivery, sale, movement, and disposition of all eggs and egg products handled by them, and shall, upon the request of a duly authorized representative of either of said Secretaries, permit him at reasonable times to have access to and to copy all such records.
+
+(Pub. L. 91–597, §11, Dec. 29, 1970, 84 Stat. 1627; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+
+#### Change of Name
+
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1034, 1037, 1041, 1052 of this title.
+

@@ -1,0 +1,74 @@
+### §178. The Henry M. Jackson Foundation for the Advancement of Military Medicine
+
+(a) There is authorized to be established a nonprofit corporation to be known as the Henry M. Jackson Foundation for the Advancement of Military Medicine (hereinafter in this section referred to as the “Foundation”) which shall not for any purpose be an agency or instrumentality of the United States Government. The Foundation shall be subject to the provisions of this section and, to the extent not inconsistent with this section, the Corporations and Associations Articles of the State of Maryland.
+
+(b) It shall be the purpose of the Foundation (1) to carry out medical research and education projects under cooperative arrangements with the Uniformed Services University of the Health Sciences, (2) to serve as a focus for the interchange between military and civilian medical personnel, and (3) to encourage the participation of the medical, dental, nursing, veterinary, and other biomedical sciences in the work of the Foundation for the mutual benefit of military and civilian medicine.
+
+(c)(1) The Foundation shall have a Council of Directors (hereinafter in this section referred to as the “Council”) composed of—
+
+&emsp;(A) the Chairmen and ranking minority members of the Committees on Armed Services of the Senate and the House of Representatives (or their designees from the membership of such committees), who shall be ex officio members,
+
+&emsp;(B) the Dean of the Uniformed Services University of the Health Sciences, who shall be an ex officio member, and
+
+&emsp;(C) four members appointed by the ex officio members of the Council designated in clauses (A) and (B).
+
+(2) The term of office of each member of the Council appointed under clause (C) of paragraph (1) shall be four years, except that—
+
+&emsp;(A) any person appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term; and
+
+&emsp;(B) the terms of office of members first taking office shall expire, as designated by the ex officio members of the Council at the time of the appointment, two at the end of two years and two at the end of four years.
+
+(3) The Council shall elect a chairman from among its members.
+
+(d)(1) The Foundation shall have an Executive Director who shall be appointed by the Council and shall serve at the pleasure of the Council. The Executive Director shall be responsible for the day-to-day operations of the Foundation and shall have such specific duties and responsibilities as the Council shall prescribe.
+
+(2) The rate of compensation of the Executive Director shall be fixed by the Council.
+
+(e) The initial members of the Council shall serve as incorporators and take whatever actions as are necessary to establish under the Corporations and Associations Articles of the State of Maryland the corporation authorized by subsection (a).
+
+(f) Any vacancy in the Council shall not affect its powers, but shall be filled in the same manner in which the original designation or appointment was made.
+
+(g) In order to carry out the purposes of this section, the Foundation is authorized to—
+
+&emsp;(1) enter into contracts with, accept grants from, and make grants to the Uniformed Services University of the Health Sciences for the purpose of carrying out cooperative enterprises in medical research, medical consultation, and medical education, including contracts for provision of such personnel and services as may be necessary to carry out such cooperative enterprises;
+
+&emsp;(2) enter into contracts with public and private organizations for the writing, editing, printing, and publishing of books and other material;
+
+&emsp;(3) take such action as may be necessary to obtain patents and licenses for devices and procedures developed by the Foundation and its employees;
+
+&emsp;(4) accept, hold, administer, invest, and spend any gift, devise, or bequest of real or personal property made to the Foundation;
+
+&emsp;(5) enter into contracts with individuals, public or private organizations, professional societies, and government agencies for the purpose of carrying out the functions of the Foundation;
+
+&emsp;(6) enter into such other contracts, leases, cooperative agreements, and other transactions as the Executive Director considers appropriate to conduct the activities of the Foundation; and
+
+&emsp;(7) charge such fees for professional services furnished by the Foundation as the Executive Director determines reasonable and appropriate.
+
+(h) A person who is a full-time or part-time employee of the Foundation may not be an employee (full-time or part-time) of the Federal Government.
+
+(i) The Council shall transmit to the President annually, and at such other times as the Council considers desirable, a report on the operations, activities, and accomplishments of the Foundation.
+
+(Added Pub. L. 98–36, §2(a), May 27, 1983, 97 Stat. 200; amended Pub. L. 98–132, §2(a)(1), Oct. 17,1983, 97 Stat. 849; Pub. L. 101–189, div. A, title VII, §726(b)(2), Nov. 29, 1989, 103 Stat. 1480.)
+
+#### Amendments
+
+1989—Subsec. (g)(1). Pub. L. 101–189 inserted “, accept grants from, and make grants to” after “contracts with”.
+
+1983—Pub. L. 98–132, §2(a)(1)(A), inserted “The Henry M. Jackson” before “Foundation” in section catchline.
+
+Subsec. (a). Pub. L. 98–132, §2(a)(1)(B), inserted “Henry M. Jackson”.
+
+#### Change of Name
+
+Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Change of Name to “Henry M. Jackson Foundation for the Advancement of Military Medicine”
+
+Section 1 of Pub. L. 98–132 provided: “That (a) the Foundation for the Advancement of Military Medicine established pursuant to section 178 of title 10, United States Code, shall be designated and hereafter known as the ‘Henry M. Jackson Foundation for the Advancement of Military Medicine’, in honor of the late Henry M. Jackson, United States Senator from the State of Washington. Any reference to the Foundation for the Advancement of Military Medicine in any law, regulation, document, record, or other paper of the United States shall be held and considered to be a reference to the ‘Henry M. Jackson Foundation for the Advancement of Military Medicine’.
+
+“(b) The Council of Directors referred to in subsection (c) of section 178 of such title shall take such action as is necessary under the Corporations and Associations Articles of the State of Maryland to amend the corporate name of the Foundation for the Advancement of Military Medicine established under such section to reflect the designation made by the first sentence of subsection (a).”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2113 of this title.
+

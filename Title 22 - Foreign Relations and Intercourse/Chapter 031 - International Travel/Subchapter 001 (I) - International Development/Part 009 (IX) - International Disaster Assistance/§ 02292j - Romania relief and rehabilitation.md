@@ -1,0 +1,38 @@
+### §2292j. Romania: relief and rehabilitation
+
+#### (a) Authorization of assistance
+
+The Congress, recognizing that prompt United States assistance is necessary to alleviate the human suffering arising from recent earthquakes in Romania, authorizes the President to furnish assistance, on such terms and conditions as he may determine, for the relief and rehabilitation of refugees and other earthquake victims in Romania.
+
+#### (b) Authorization of appropriations
+
+There are hereby authorized to be appropriated to the President for the fiscal year 1977, notwithstanding any other provisions of this chapter, in addition to amounts otherwise available for such purposes, not to exceed $20,000,000, which amount is authorized to remain available until expended.
+
+#### (c) Policies and general authority
+
+Assistance under this section shall be provided in accordance with the policies and general authority contained in section 2292 of this title.
+
+#### (d) Obligations charged against appropriations
+
+Obligations incurred prior to April 18, 1977, against other appropriations or accounts for the purpose of providing relief and rehabilitation assistance to the people of Romania may be charged to the appropriations authorized under this section.
+
+#### (e) Repealed. Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560
+
+#### (f) Human rights
+
+Nothing in this section shall be interpreted as endorsing any measure undertaken by the Government of Romania which would suppress human rights as defined in the Conference on Security and Co-operation in Europe (Helsinki) Final Act and the United Nations Declaration on Human Rights, or as constituting a precedent for or commitment to provide United States development assistance to Romania, and the Romanian Government shall be so notified when aid is furnished under this section.
+
+(Pub. L. 87–195, pt. I, §495D, as added Pub. L. 95–21, Apr. 18, 1977, 91 Stat. 48; amended Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+#### Amendments
+
+1981—Subsec. (e). Pub. L. 97–113 repealed subsec. (e) which required quarterly reports on the programming and obligation of funds under this section.
+
+#### Delegation of Functions; Allocation of Funds
+
+Functions of President under this section delegated and funds available under this chapter allocated to Director of United States International Development Cooperation Agency, with certain exceptions, by sections 1–102(a)(1), (e) and 1–801(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+

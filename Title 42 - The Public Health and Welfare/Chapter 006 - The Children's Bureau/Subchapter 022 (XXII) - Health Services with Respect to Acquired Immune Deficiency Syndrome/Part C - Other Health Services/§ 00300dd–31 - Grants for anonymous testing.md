@@ -1,0 +1,14 @@
+### §300dd–31. Grants for anonymous testing
+
+The Secretary may make grants to the States for the purpose of providing opportunities for individuals—
+
+&emsp;(1) to undergo counseling and testing with respect to the etiologic agent for acquired immune deficiency syndrome without being required to provide any information relating to the identity of the individuals; and
+
+&emsp;(2) to undergo such counseling and testing through the use of a pseudonym.
+
+(July 1, 1944, ch. 373, title XXIV, §2431, as added Nov. 4, 1988, Pub. L. 100–607, title II, §211, 102 Stat. 3090.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 300dd–32, 300dd–33 of this title.
+

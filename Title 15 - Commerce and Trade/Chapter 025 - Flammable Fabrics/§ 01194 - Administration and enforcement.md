@@ -1,0 +1,82 @@
+### §1194. Administration and enforcement
+
+#### (a) Enforcement under Federal Trade Commission Act provisions; civil action to enforce standard or regulation
+
+Except as otherwise specifically provided herein, sections 1192, 1194, 1195, and 1197(b) of this title shall be enforced by the Commission under rules, regulations and procedures provided for inthe Federal Trade Commission Act \[15 U.S.C. 41 et seq.\]. In the case of an attorney general of a State alleging a violation of a standard or regulation under section 1193 of this title that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce the requirement of such standard or regulation. The procedural requirements of section 2073 of this title shall apply to any such action.
+
+#### (b) Application of Federal Trade Commission Act provisions
+
+The Commission is authorized and directed to prevent any person from violating the provisions of section 1192 of this title in the same manner, by the same means and with the same jurisdiction, powers and duties as though all applicable terms and provisions of the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] were incorporated into and made a part of this chapter; and any such person violating any provision of section 1192 of this title shall be subject to the penalties and entitled to the privileges and immunities provided in said Federal Trade Commission Act as though the applicable terms and provisions of the said Federal Trade Commission Act were incorporated into and made a part of this chapter.
+
+#### (c) Rules and regulations
+
+The Commission is authorized and directed to prescribe such rules and regulations, including provisions for maintenance of records relating to fabrics, related materials, and products, as may be necessary and proper for administration and enforcement of this chapter. The violation of such rules and regulations shall be unlawful and shall be an unfair method of competition and an unfair and deceptive act or practice, in commerce, under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
+
+#### (d) Inspection and analysis of products; cooperation with other governmental entities
+
+The Commission is authorized to—
+
+&emsp;(1) cause inspections, analyses, tests, and examinations to be made of any product, fabric or related material which it has reason to believe falls within the prohibitions of this chapter; and
+
+&emsp;(2) cooperate on matters related to the purposes of this chapter with any department or agency of the Government; with any State or territory or with the District of Columbia or the Commonwealth of Puerto Rico; or with any department, agency, or political subdivision thereof; or with any person.
+
+#### (e) Penalties
+
+(1) Any person who knowingly violates a regulation or standard under section 1193 of this title shall be subject to a civil penalty not to exceed $5,000 for each such violation, except that the maximum civil penalty shall not exceed $1,250,000 for any related series of violations.
+
+(2) In determining the amount of any penalty to be sought upon commencing an action seeking to assess a penalty for a violation of a regulation or standard under section 1193 of this title, the Commission shall consider the nature and number of the violations, the severity of the risk of injury, the occurrence or absence of injury, and the appropriateness of such penalty in relation to the size of the business of the person charged.
+
+(3) Any civil penalty under this subsection may be compromised by the Commission. In determining the amount of such penalty or whether it should be remitted or mitigated, and in what amount, the Commission shall consider the nature and number of the violations, the appropriateness of such penalty to the size of the business of the persons charged, the severity of the risk of injury, and the occurrence or absence of injury. The amount of such penalty when finally determined, or the amount agreed on compromise, may be deducted from any sums owing by the United States to the person charged.
+
+(4) As used in paragraph (1), the term “knowingly” means (A) having actual knowledge, or (B) the presumed having of knowledge deemed to be possessed by a reasonable person who acts in the circumstances, including knowledge obtainable upon the exercise of due care to ascertain the truth of representations.
+
+(5)(A) The maximum penalty amounts authorized in paragraph (1) shall be adjusted for inflation as provided in this paragraph.
+
+(B) Not later than December 1, 1994, and December 1 of each fifth calendar year thereafter, the Commission shall prescribe and publish in the Federal Register a schedule of maximum authorized penalties that shall apply for violations that occur after January 1 of the year immediately following such publication.
+
+(C) The schedule of maximum authorized penalties shall be prescribed by increasing each of the amounts referred to in paragraph (1) by the cost-of-living adjustment for the preceding five years. Any increase determined under the preceding sentence shall be rounded to—
+
+&emsp;(i) in the case of penalties greater than $1,000 but less than or equal to $10,000, the nearest multiple of $1,000;
+
+&emsp;(ii) in the case of penalties greater than $10,000 but less than or equal to $100,000, the nearest multiple of $5,000;
+
+&emsp;(iii) in the case of penalties greater than $100,000 but less than or equal to $200,000, the nearest multiple of $10,000; and
+
+&emsp;(iv) in the case of penalties greater than $200,000, the nearest multiple of $25,000.
+
+(D) For purposes of this subsection:
+
+&emsp;(i) The term “Consumer Price Index” means the Consumer Price Index for all-urban consumers published by the Department of Labor.
+
+&emsp;(ii) The term “cost-of-living adjustment for the preceding five years” means the percentage by which—
+
+&emsp;&emsp;(I) the Consumer Price Index for the month of June of the calendar year preceding the adjustment; exceeds
+
+&emsp;&emsp;(II) the Consumer Price Index for the month of June preceding the date on which the maximum authorized penalty was last adjusted.
+
+(June 30, 1953, ch. 164, §5, 67 Stat. 112; Dec. 14, 1967, Pub. L. 90–189, §4, 81 Stat. 570; Nov. 16, 1990, Pub. L. 101–608, title I, §§115(c), 118(b), 104 Stat. 3120, 3122.)
+
+#### References in Text
+
+The Federal Trade Commission Act, referred to in subsecs. (a), (b), and (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+
+#### Amendments
+
+1990—Subsec. (a). Pub. L. 101–608, §118(b), inserted at end “In the case of an attorney general of a State alleging a violation of a standard or regulation under section 1193 of this title that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce the requirement of such standard or regulation. The procedural requirements of section 2073 of this title shall apply to any such action.”
+
+Subsec. (e). Pub. L. 101–608, §115(c), added subsec. (e).
+
+1967—Subsec. (c). Pub. L. 90–189, §4(a), inserted “, including provisions for maintenance of records relating to fabrics, related materials, and products,” after “rules and regulations” and inserted sentence making violations of such rules and regulations unlawful and an unfair method of competition and an unfair and deceptive act or practice, in commerce, under the Federal Trade Commission Act.
+
+Subsec. (d)(1). Pub. L. 90–189, §4(b), substituted “product, fabric or related material” for “article of wearing apparel or fabric”.
+
+Subsec. (d)(2). Pub. L. 90–189, §4(b), substituted “or territory or with the District of Columbia or the Commonwealth of Puerto Rico” for “, Territory, or possession or with the District of Columbia”.
+
+#### Transfer of Functions
+
+Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under Federal Trade Commission Act, to extent such functions relate to administration and enforcement of this chapter, see section 2079 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1195 of this title.
+

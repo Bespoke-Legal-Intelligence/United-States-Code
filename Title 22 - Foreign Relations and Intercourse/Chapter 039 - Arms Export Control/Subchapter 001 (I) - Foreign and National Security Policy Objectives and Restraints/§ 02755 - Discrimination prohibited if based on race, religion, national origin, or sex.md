@@ -1,0 +1,68 @@
+### §2755. Discrimination prohibited if based on race, religion, national origin, or sex
+
+#### (a) Congressional declaration of policy
+
+It is the policy of the United States that no sales should be made, and no credits (including participations in credits) or guaranties extended to or for any foreign country, the laws, regulations, official policies, or governmental practices of which prevent any United States person (as defined in section 7701(a)(30) of title 26) from participating in the furnishing of defense articles or defense services under this chapter on the basis of race, religion, national origin, or sex.
+
+#### (b) Employment of personnel; required contractual provision
+
+(1) No agency performing functions under this chapter shall, in employing or assigning personnel to participate in the performance of any such function, whether in the United States or abroad, take into account the exclusionary policies or practices of any foreign government where such policies or practices are based upon race, religion, national origin, or sex.
+
+(2) Each contract entered into by any such agency for the performance of any function under this chapter shall contain a provision to the effect that no person, partnership, corporation, or other entity performing functions pursuant to such contract, shall, in employing or assigning personnel to participate in the performance of any such function, whether in the United States or abroad, take into account the exclusionary policies or practices of any foreign government where such policies or practices are based upon race, religion, national origin, or sex.
+
+#### (c) Report by President; contents
+
+The President shall promptly transmit reports to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate concerning any instance in which any United States person (as defined in section 7701(a)(30) of title 26) is prevented by a foreign government on the basis of race, religion, national origin, or sex, from participating in the performance of any sale or licensed transaction under this chapter. Such reports shall include (1) a description of the facts and circumstances of any such discrimination, (2) the response thereto on the part of the United States or any agency or employee thereof, and (3) the result of such response, if any.
+
+#### (d) Congressional request for information from President; information required; 60 day period; failure to supply information; termination or restriction of sale
+
+(1) Upon the request of the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, the President shall, within 60 days after receipt of such request, transmit to both such committees a statement, prepared with the assistance of the Secretary of State, with respect to the country designated in such request, setting forth—
+
+&emsp;(A) all the available information about the exclusionary policies or practices of the government of such country when such policies or practices are based upon race, religion, national origin or sex and prevent any such person from participating in the performance of any sale or licensed transaction under this chapter;
+
+&emsp;(B) the response of the United States thereto and the results of such response;
+
+&emsp;(C) whether, in the opinion of the President, notwithstanding any such policies or practices—
+
+&emsp;&emsp;(i) extraordinary circumstances exist which necessitate a continuation of such sale or licensed transaction, and, if so, a description of such circumstances and the extent to which such sale or licensed transaction should be continued (subject to such conditions as Congress may impose under this section), and
+
+&emsp;&emsp;(ii) on all the facts it is in the national interest of the United States to continue such sale or licensed transaction; and
+
+&emsp;(D) such other information as such committee may request.
+
+(2) In the event a statement with respect to a sale or licensed transaction is requested pursuant to paragraph (1) of this subsection but is not transmitted in accordance therewith within 60 days after receipt of such request, such sale or licensed transaction shall be suspended unless and until such statement is transmitted.
+
+(3)(A) In the event a statement with respect to a sale or licensed transaction is transmitted under paragraph (1) of this subsection, the Congress may at any time thereafter adopt a joint resolution terminating or restricting such sale or licensed transaction.
+
+(B) Any such resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
+
+(C) The term “certification”, as used in section 601 of such Act, means, for the purposes of this paragraph, a statement transmitted under paragraph (1) of this subsection.
+
+(Pub. L. 90–629, ch. 1, §5, as added Pub. L. 94–329, title III, §302(b), June 30, 1976, 90 Stat. 752; amended Pub. L. 95–105, title I, §109(a)(5), Aug. 17, 1977, 91 Stat. 846; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–236, title I, §162(f), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(7), Nov. 2, 1994, 108 Stat. 4588.)
+
+#### References in Text
+
+Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (d)(3)(B), (C), is section 601(b) of Pub. L. 94–329, June 30, 1976, 90 Stat. 729, which made provision for expedited procedures in the Senate, and was not classified to the Code.
+
+#### Amendments
+
+1994—Subsec. (d)(1). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations” in introductory provisions.
+
+Pub. L. 103–236 substituted “Secretary of State” for “Assistant Secretary of State for Human Rights and Humanitarian Affairs” in introductory provisions.
+
+1986—Subsecs. (a), (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+1977—Subsec. (d)(1). Pub. L. 95–105 substituted “Assistant Secretary of State” for “Coordinator” in introductory provisions.
+
+#### Change of Name
+
+Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+
+#### Delegation of Functions
+
+Functions of President under this section delegated to Secretary of State by section 1(b) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+

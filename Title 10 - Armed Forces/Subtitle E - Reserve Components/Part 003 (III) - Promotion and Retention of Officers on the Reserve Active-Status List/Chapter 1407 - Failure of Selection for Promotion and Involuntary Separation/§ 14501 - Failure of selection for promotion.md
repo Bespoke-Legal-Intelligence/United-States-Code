@@ -1,0 +1,80 @@
+### §14501. Failure of selection for promotion
+
+(a) An officer on the reserve active-status list in a grade below the grade of colonel or, in the case of an officer in the Naval Reserve, captain who is in or above the promotion zone established for that officer's grade and competitive category and who (1) is considered but not recommended for promotion (other than by a vacancy promotion board), or (2) declines to accept a promotion for which selected (other than by a vacancy promotion board), shall be considered to have failed of selection for promotion.
+
+(b)
+
+Officers Twice Failed of Selection.—An officer shall be considered for all purposes to have twice failed of selection for promotion if any of the following applies:
+
+&emsp;(1) The officer is considered but not recommended for promotion a second time by a mandatory promotion board convened under section 14101(a) or a special selection board convened under section 14502(a) of this title.
+
+&emsp;(2) The officer declines to accept a promotion for which recommended by a mandatory promotion board convened under section 14101(a) or a special selection board convened under section 14502(a) or 14502(b) of this title after previously failing of selection or after the officer's name was removed from the report of a selection board under section 14111(b) or from a promotion list under section 14310 of this title after recommendation for promotion by an earlier selection board described in subsection (a).
+
+&emsp;(3) The officer's name has been removed from the report of a selection board under section 14111(b) or from a promotion list under section 14310 of this title after recommendation by a mandatory promotion board convened under section 14101(a) or by a special selection board convened under section 14502(a) or 14502(b) of this title and—
+
+&emsp;&emsp;(A) the officer is not recommended for promotion by the next mandatory promotion board convened under section 14101(a) or special selection board convened under section 14502(a) of this title for that officer's grade and competitive category; or
+
+&emsp;&emsp;(B) the officer's name is again removed from the report of a selection board under section 14111(b) or from a promotion list under section 14310 of this title.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2946.)
+
+#### Effective Date of Section
+
+<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
+
+#### Effective Date
+
+Chapter effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
+
+#### Continuation on Reserve Active-Status List of Certain Reserve Colonels of Army and Air Force
+
+Section 1681 of title XVI of div. A of Pub. L. 103–337 provided that:
+
+“(a)
+
+Continuation Under Old Law.—Except as provided in subsection (b), a reserve officer of the Army or the Air Force who, on the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\]—
+
+&emsp;“(1) is subject to placement on the reserve active-status list of the Army or the Air Force; and
+
+&emsp;“(2)(A) holds the reserve grade of colonel, (B) is on a list of officers recommended for promotion to the reserve grade of colonel, or (C) has been nominated by the President for appointment in the reserve grade of colonel,
+
+> shall continue to be subject to mandatory transfer to the Retired Reserve or discharge from the officer's reserve appointment under section 3851 or 8851 of title 10, United States Code, as in effect on the day before the effective date of this title.
+
+“(b)
+
+Exemption.—This section does not apply to an officer who is—
+
+&emsp;“(1) sooner transferred from an active status or discharged under some other provision of law;
+
+&emsp;“(2) promoted to a higher grade, unless the officer was on a list of officers recommended for promotion to the reserve grade of colonel before the effective date of this title; or
+
+&emsp;“(3) continued on the reserve active-status list under section 14701 of title 10, United States Code, as added by this title.”
+
+#### Mandatory Separation for Age for Certain Reserve Officers of Navy and Marine Corps
+
+Section 1690 of title XVI of div. A of Pub. L. 103–337 provided that:
+
+“(a)
+
+Savings Provisions for Required Separation Age.—A reserve officer of the Navy or the Marine Corps—
+
+&emsp;“(1) who—
+
+&emsp;&emsp;“(A) on the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\] is in an active status, and
+
+&emsp;&emsp;“(B) on the day before the effective date of this title was an officer described in section 6389(e), 6397(a), 6403(a), or 6403(b) of title 10, United States Code; and
+
+&emsp;“(2) who, on or after the effective date of this title is subject to elimination from an active status under any provision of such title,
+
+> is entitled to be treated as that officer would have been treated under section 6397 or 6403 as applicable, as in effect on the day before the effective date of this title, if that treatment would result in the date for the officer's separation from an active status being a later date than the date established under the law in effect on or after the effective date of this title.
+
+“(b)
+
+Savings Provisions for Mandatory Separation for Age.—An officer who was initially appointed in the Naval Reserve or the Marine Corps Reserve before January 1, 1953, and who cannot complete 20 years of service computed under section 12732 of this title before he becomes 62 years of age, but can complete this service by the time he becomes 64 years of age, may be retained in an active status not later than the date he becomes 64 years of age.
+
+“(c) An officer who was initially appointed in the Naval Reserve or the Marine Corps Reserve before the effective date of this title, and who cannot complete 20 years of service computed under section 12732 of this title before he becomes 60 years of age, but can complete this service by the time he becomes 62 years of age, may be retained in an active status not later than the date he becomes 62 years of age.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 14315, 14316 of this title.
+

@@ -1,0 +1,196 @@
+### §4703. Establishment of national Fund for community development banking
+
+#### (a) Establishment
+
+#### (1) In general
+
+&emsp;There is established a corporation to be known as the Community Development Financial Institutions Fund that shall have the duties and responsibilities specified by this subchapter and subchapter II of this chapter. The Fund shall have succession until dissolved. The offices of the Fund shall be in Washington, D.C. The Fund shall not be affiliated with or be within any other agency or department of the Federal Government.
+
+#### (2) Wholly owned Government corporation
+
+&emsp;The Fund shall be a wholly owned Government corporation in the executive branch and shall be treated in all respects as an agency of the United States, except as otherwise provided in this subchapter.
+
+#### (b) Management of Fund
+
+#### (1) Appointment of Administrator
+
+&emsp;The management of the Fund shall be vested in an Administrator, who shall be appointed by the President, by and with the advice and consent of the Senate. The Administrator shall not engage in any other business or employment during service as the Administrator.
+
+#### (2) Chief financial officer
+
+&emsp;The Administrator shall appoint a chief financial officer, who shall have the authority and functions of an agency Chief Financial Officer under section 902 of title 31. In the event of a vacancy in the position of the Administrator or during the absence or disability of the Administrator, the chief financial officer shall perform the duties of the position of Administrator.
+
+#### (3) Other officers and employees
+
+&emsp;The Administrator may appoint such other officers and employees of the Fund as the Administrator determines to be necessary or appropriate.
+
+#### (4) Expedited hiring
+
+&emsp;During the 2-year period beginning on September 23, 1994, the Administrator may—
+
+&emsp;&emsp;(A) appoint and terminate the individuals referred to in paragraphs (2) and (3) without regard to the civil service laws and regulations; and
+
+&emsp;&emsp;(B) fix the compensation of the individuals referred to in paragraph (3) without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates, except that the rate of pay for such individuals may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+
+#### (c) General powers
+
+In carrying out the functions of the Fund, the Administrator—
+
+&emsp;(1) shall have all necessary and proper authority to carry out this subchapter and subchapter II of this chapter;
+
+&emsp;(2) shall have the power to adopt, alter, and use a corporate seal for the Fund, which shall be judicially noticed;
+
+&emsp;(3) may adopt, amend, and repeal bylaws, rules, and regulations governing the manner in which business of the Fund may be conducted and such rules and regulations as may be necessary or appropriate to implement this subchapter and subchapter II of this chapter;
+
+&emsp;(4) may enter into, perform, and enforce such agreements, contracts, and transactions as may be deemed necessary or appropriate to the conduct of activities authorized under this subchapter and subchapter II of this chapter;
+
+&emsp;(5) may determine the character of and necessity for expenditures of the Fund and the manner in which they shall be incurred, allowed, and paid;
+
+&emsp;(6) may utilize or employ the services of personnel of any agency or instrumentality of the United States with the consent of the agency or instrumentality concerned on a reimbursable or nonreimbursable basis; and
+
+&emsp;(7) may execute all instruments necessary or appropriate in the exercise of any of the functions of the Fund under this subchapter and subchapter II of this chapter and may delegate to the officers of the Fund such of the powers and responsibilities of the Administrator as the Administrator deems necessary or appropriate for the administration of the Fund.
+
+#### (d) Advisory Board
+
+#### (1) Establishment
+
+&emsp;There is established an advisory board to the Fund to be known as the Community Development Advisory Board, which shall be operated in accordance with the provisions of the Federal Advisory Committee Act, except that section 14 of that Act does not apply to the Board.
+
+#### (2) Membership
+
+&emsp;The Board shall consist of 15 members, including—
+
+&emsp;&emsp;(A) the Secretary of Agriculture or his or her designee;
+
+&emsp;&emsp;(B) the Secretary of Commerce or his or her designee;
+
+&emsp;&emsp;(C) the Secretary of Housing and Urban Development or his or her designee;
+
+&emsp;&emsp;(D) the Secretary of the Interior or his or her designee;
+
+&emsp;&emsp;(E) the Secretary of the Treasury or his or her designee;
+
+&emsp;&emsp;(F) the Administrator of the Small Business Administration or his or her designee; and
+
+&emsp;&emsp;(G) 9 private citizens, appointed by the President, who shall be selected, to the maximum extent practicable, to provide for national geographic representation and racial, ethnic, and gender diversity, including—
+
+&emsp;&emsp;&emsp;(i) 2 individuals who are officers of existing community development financial institutions;
+
+&emsp;&emsp;&emsp;(ii) 2 individuals who are officers of insured depository institutions;
+
+&emsp;&emsp;&emsp;(iii) 2 individuals who are officers of national consumer or public interest organizations;
+
+&emsp;&emsp;&emsp;(iv) 2 individuals who have expertise in community development; and
+
+&emsp;&emsp;&emsp;(v) 1 individual who has personal experience and specialized expertise in the unique lending and community development issues confronted by Indian tribes on Indian reservations.
+
+#### (3) Chairperson
+
+&emsp;The members of the Board specified in paragraph (2)(G) shall select, by majority vote, a chairperson of the Board, who shall serve for a term of 2 years.
+
+#### (4) Board function
+
+&emsp;It shall be the function of the Board to advise the Administrator on the policies of the Fund regarding activities under this subchapter. The Board shall not advise the Administrator on the granting or denial of any particular application.
+
+#### (5) Terms of private members
+
+#### (A) In general
+
+&emsp;&emsp;Each member of the Board appointed under paragraph (2)(G) shall serve for a term of 4 years.
+
+#### (B) Vacancies
+
+&emsp;&emsp;Any member appointed to fill a vacancy occurring prior to the expiration of the term for which the previous member was appointed shall be appointed for the remainder of such term. Members may continue to serve following the expiration of their terms until a successor is appointed.
+
+#### (6) Meetings
+
+&emsp;The Board shall meet at least annually and at such other times as requested by the Administrator or the chairperson. A majority of the members of the Board shall constitute a quorum.
+
+#### (7) Reimbursement for expenses
+
+&emsp;The members of the Board may receive reimbursement for travel, per diem, and other necessary expenses incurred in the performance of their duties, in accordance with the Federal Advisory Committee Act.
+
+#### (8) Costs and expenses
+
+&emsp;The Fund shall provide to the Board all necessary staff and facilities.
+
+#### (e) Omitted
+
+#### (f) Government Corporation Control Act exemption
+
+Section 9107(b) of title 31, shall not apply to deposits of the Fund made pursuant to section 4707 of this title.
+
+#### (g) Limitation of Fund and Federal liability
+
+The liability of the Fund and the United States Government arising out of any investment in a community development financial institution in accordance with this subchapter shall be limited to the amount of the investment. The Fund shall be exempt from any assessments and other liabilities that may be imposed on controlling or principal shareholders by any Federal law or the law of any State, Territory, or the District of Columbia. Nothing in this subsection shall affect the application of any Federal tax law.
+
+#### (h) Prohibition on issuance of securities
+
+The Fund may not issue stock, bonds, debentures, notes, or other securities.
+
+#### (i) Omitted
+
+#### (j) Assisted institutions not United States instrumentalities
+
+A community development financial institution or other organization that receives assistance pursuant to this subchapter shall not be deemed to be an agency, department, or instrumentality of the United States.
+
+#### (k) Transition period
+
+#### (1) In general
+
+&emsp;During the transition period, the Secretary of the Treasury may—
+
+&emsp;&emsp;(A) assist in the establishment of the administrative functions of the Fund listed in paragraph (2); and
+
+&emsp;&emsp;(B) hire not more than 6 individuals to serve as employees of the Fund during the transition period.
+
+#### (2) Continued service
+
+&emsp;Individuals hired in accordance with paragraph (1)(B) may continue to serve as employees of the Fund after the transition period.
+
+#### (3) Administrative functions
+
+&emsp;The administrative functions referred to in paragraph (1)(A) shall be limited to—
+
+&emsp;&emsp;(A) establishing accounting, information, and recordkeeping systems for the Fund; and
+
+&emsp;&emsp;(B) procuring office space, equipment, and supplies.
+
+#### (4) Expedited hiring
+
+&emsp;During the transition period, the Secretary of the Treasury may—
+
+&emsp;&emsp;(A) appoint and terminate the individuals referred to in paragraph (1)(B) without regard to the civil service laws and regulations; and
+
+&emsp;&emsp;(B) fix the compensation of the individuals referred to in paragraph (1)(B) without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates, except that the rate of pay for such individuals may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+
+#### (5) Certain employees
+
+&emsp;During the transition period, employees of the Department of the Treasury may only comprise less than one-half of the total number of individuals hired in accordance with paragraph (1)(B).
+
+#### (6) Transition expenses
+
+&emsp;Amounts previously appropriated to the Department of the Treasury may be used to pay obligations and expenses of the Fund incurred under this section, and such amounts may be reimbursed by the Fund to the Department of the Treasury from amounts appropriated to the Fund for fiscal year 1995.
+
+#### (7) “Transition period” defined
+
+&emsp;For purposes of this subsection, the term “transition period” means the period beginning on September 23, 1994, and ending on the date on which the Administrator is appointed.
+
+(Pub. L. 103–325, title I, §104, Sept. 23, 1994, 108 Stat. 2166.)
+
+#### References in Text
+
+The civil service laws, referred to in subsecs. (b)(4)(A) and (k)(4)(A), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
+
+The Federal Advisory Committee Act, referred to in subsec. (d)(1), (7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
+
+Federal tax law, referred to in subsec. (g), is classified generally to Title 26, Internal Revenue Code.
+
+#### Codification
+
+Section is comprised of section 104 of Pub. L. 103–325. Subsecs. (e) and (i) of section 104 of Pub. L. 103–325 amended section 9101 of Title 31, Money and Finance, and section 5313 of Title 5, Government Organization and Employees, respectively.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 4702, 4713, 4742 of this title.
+

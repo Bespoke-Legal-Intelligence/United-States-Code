@@ -1,0 +1,362 @@
+### §5305. Activities eligible for assistance
+
+#### (a) Enumeration of eligible activities
+
+Activities assisted under this chapter may include only—
+
+&emsp;(1) the acquisition of real property (including air rights, water rights, and other interests therein) which is (A) blighted, deteriorated, deteriorating, undeveloped, or inappropriately developed from the standpoint of sound community development and growth; (B) appropriate for rehabilitation or conservation activities; (C) appropriate for the preservation or restoration of historic sites, the beautification of urban land, the conservation of open spaces, natural resources, and scenic areas, the provision of recreational opportunities, or the guidance of urban development; (D) to be used for the provision of public works, facilities, and improvements eligible for assistance under this chapter; or (E) to be used for other public purposes;
+
+&emsp;(2) the acquisition, construction, reconstruction, or installation (including design features and improvements with respect to such construction, reconstruction, or installation that promote energy efficiency) of public works, facilities (except for buildings for the general conduct of government), and site or other improvements;
+
+&emsp;(3) code enforcement in deteriorated or deteriorating areas in which such enforcement, together with public or private improvements or services to be provided, may be expected to arrest the decline of the area;
+
+&emsp;(4) clearance, demolition, removal, and rehabilitation (including rehabilitation which promotes energy efficiency) of buildings and improvements (including interim assistance, and financing public or private acquisition for rehabilitation, and rehabilitation, of privately owned properties, and including the renovation of closed school buildings);
+
+&emsp;(5) special projects directed to the removal of material and architectural barriers which restrict the mobility and accessibility of elderly and handicapped persons;
+
+&emsp;(6) payments to housing owners for losses of rental income incurred in holding for temporary periods housing units to be utilized for the relocation of individuals and families displaced by activities under this chapter;
+
+&emsp;(7) disposition (through sale, lease, donation, or otherwise) of any real property acquired pursuant to this chapter or its retention for public purposes;
+
+&emsp;(8) provision of public services, including but not limited to those concerned with employment, crime prevention, child care, health, drug abuse, education, energy conservation, welfare or recreation needs, if such services have not been provided by the unit of general local government (through funds raised by such unit, or received by such unit from the State in which it is located) during any part of the twelve-month period immediately preceding the date of submission of the statement with respect to which funds are to be made available under this chapter, and which are to be used for such services, unless the Secretary finds that the discontinuation of such services was the result of events not within the control of the unit of general local government, except that not more than 15 per centum of the amount of any assistance to a unit of general local government (or in the case of nonentitled communities not more than 15 per centum statewide) under this chapter including program income may be used for activities under this paragraph unless such unit of general local government used more than 15 percent of the assistance received under this chapter for fiscal year 1982 or fiscal year 1983 for such activities (excluding any assistance received pursuant to Public Law 98–8), in which case such unit of general local government may use not more than the percentage or amount of such assistance used for such activities for such fiscal year, whichever method of calculation yields the higher amount, except that of any amount of assistance under this chapter (including program income) in each of fiscal years 1993 through 1997 to the City of Los Angeles and County of Los Angeles, each such unit of general government may use not more than 25 percent in each such fiscal year for activities under this paragraph, and except that of any amount of assistance under this chapter (including program income) in fiscal year 1994 to the City of Pittsburgh, Pennsylvania, such city may use not more than 20 percent in each such fiscal year for activities under this paragraph;
+
+&emsp;(9) payment of the non-Federal share required in connection with a Federal grant-in-aid program undertaken as part of activities assisted under this chapter;
+
+&emsp;(10) payment of the cost of completing a project funded under title I of the Housing Act of 1949 \[42 U.S.C. 1450 et seq.\];
+
+&emsp;(11) relocation payments and assistance for displaced individuals, families, businesses, organizations, and farm operations, when determined by the grantee to be appropriate;
+
+&emsp;(12) activities necessary (A) to develop a comprehensive community development plan, and (B) to develop a policy-planning-management capacity so that the recipient of assistance under this chapter may more rationally and effectively (i) determine its needs, (ii) set long-term goals and short-term objectives, (iii) devise programs and activities to meet these goals and objectives, (iv) evaluate the progress of such programs in accomplishing these goals and objectives, and (v) carry out management, coordination, and monitoring of activities necessary for effective planning implementation;
+
+&emsp;(13) payment of reasonable administrative costs related to establishing and administering federally approved enterprise zones and payment of reasonable administrative costs and carrying charges related to (A) administering the HOME program under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\]; and (B) the planning and execution of community development and housing activities, including the provision of information and resources to residents of areas in which community development and housing activities are to be concentrated with respect to the planning and execution of such activities, and including the carrying out of activities as described in section 461(e) <sup>1</sup> of title 40 on August 12, 1981; and
+
+&emsp;(14) provision of assistance including loans (both interim and long-term) and grants for activities which are carried out by public or private nonprofit entities, including (A) acquisition of real property; (B) acquisition, construction, reconstruction, rehabilitation, or installation of (i) public facilities (except forbuildings for the general conduct of government), site improvements, and utilities, and (ii) commercial or industrial buildings or structures and other commercial or industrial real property improvements; and (C) planning;
+
+&emsp;(15) assistance to neighborhood-based nonprofit organizations, local development corporations, nonprofit organizations serving the development needs of the communities in nonentitlement areas, or entities organized under section 681(d) of title 15 to carry out a neighborhood revitalization or community economic development or energy conservation project in furtherance of the objectives of section 5301(c) of this title, and assistance to neighborhood-based nonprofit organizations, or other private or public nonprofit organizations, for the purpose of assisting, as part of neighborhood revitalization or other community development, the development of shared housing opportunities (other than by construction of new facilities) in which elderly families (as defined in section 1437a(b)(3) of this title) benefit as a result of living in a dwelling in which the facilities are shared with others in a manner that effectively and efficiently meets the housing needs of the residents and thereby reduces their cost of housing;
+
+&emsp;(16) activities necessary to the development of energy use strategies related to a recipient's development goals, to assure that those goals are achieved with maximum energy efficiency, including items such as—
+
+&emsp;&emsp;(A) an analysis of the manner in, and the extent to, which energy conservation objectives will be integrated into local government operations, purchasing and service delivery, capital improvements budgeting, waste management, district heating and cooling, land use planning and zoning, and traffic control, parking, and public transportation functions; and
+
+&emsp;&emsp;(B) a statement of the actions the recipient will take to foster energy conservation and the use of renewable energy resources in the private sector, including the enactment and enforcement of local codes and ordinances to encourage or mandate energy conservation or use of renewable energy resources, financial and other assistance to be provided (principally for the benefit of low- and moderate-income persons) to make energy conserving improvements to residential structures, and any other proposed energy conservation activities;
+
+&emsp;(17) provision of assistance to private, for-profit entities, when the assistance is appropriate to carry out an economic development project (that shall minimize, to the extent practicable, displacement of existing businesses and jobs in neighborhoods) that—
+
+&emsp;&emsp;(A) creates or retains jobs for low- and moderate-income persons;
+
+&emsp;&emsp;(B) prevents or eliminates slums and blight;
+
+&emsp;&emsp;(C) meets urgent needs;
+
+&emsp;&emsp;(D) creates or retains businesses owned by community residents;
+
+&emsp;&emsp;(E) assists businesses that provide goods or services needed by, and affordable to, low- and moderate-income residents; or
+
+&emsp;&emsp;(F) provides technical assistance to promote any of the activities under subparagraphs (A) through (E);
+
+&emsp;(18) the rehabilitation or development of housing assisted under section 1437<i>o</i> <sup>2</sup> of this title;
+
+&emsp;(19) provision of assistance to facilitate substantial reconstruction of housing owned and occupied by low and moderate income persons (A) where the need for the reconstruction was not determinable until after rehabilitation under this section had already commenced, or (B) where the reconstruction is part of a neighborhood rehabilitation effort and the grantee (i) determines the housing is not suitable for rehabilitation, and (ii) demonstrates to the satisfaction of the Secretary that the cost of substantial reconstruction is significantly less than the cost of new construction and less than the fair market value of the property after substantial reconstruction;
+
+&emsp;(20) provision of technical assistance to public or nonprofit entities to increase the capacity of such entities to carry out eligible neighborhood revitalization or economic development activities, which assistance shall not be considered a planning cost as defined in paragraph (12) or administrative cost as defined in paragraph (13);
+
+&emsp;(21) <sup>3</sup> housing services, such as housing counseling in connection with tenant-based rental assistance and affordable housing projects assisted under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\], energy auditing, preparation of work specifications, loan processing, inspections, tenant selection, management of tenant-based rental assistance, and other services related to assisting owners, tenants, contractors, and other entities, participating or seeking to participate in housing activities assisted under title II of the Cranston-Gonzalez National Affordable Housing Act;
+
+&emsp;(22) provision of assistance by recipients under this chapter to institutions of higher education having a demonstrated capacity to carry out eligible activities under this subsection for carrying out such activities;
+
+&emsp;(23) provision of assistance to public and private organizations, agencies, and other entities (including nonprofit and for-profit entities) to enable such entities to facilitate economic development by—
+
+&emsp;&emsp;(A) providing credit (including providing direct loans and loan guarantees, establishing revolving loan funds, and facilitating peer lending programs) for the establishment, stabilization, and expansion of microenterprises;
+
+&emsp;&emsp;(B) providing technical assistance, advice, and business support services (including assistance, advice, and support relating to developing business plans, securing funding, conducting marketing, and otherwise engaging in microenterprise activities) to owners of microenterprises and persons developing microenterprises; and
+
+&emsp;&emsp;(C) providing general support (such as peer support programs and counseling) to ownersof microenterprises and persons developing microenterprises;
+
+&emsp;(24) activities necessary to make essential repairs and to pay operating expenses necessary to maintain the habitability of housing units acquired through tax foreclosure proceedings in order to prevent abandonment and deterioration of such housing in primarily low- and moderate-income neighborhoods; and
+
+&emsp;(25) provision of direct assistance to facilitate and expand homeownership among persons of low and moderate income (except that such assistance shall not be considered a public service for purposes of paragraph (8)) by using such assistance to—
+
+&emsp;&emsp;(A) subsidize interest rates and mortgage principal amounts for low- and moderate-income homebuyers;
+
+&emsp;&emsp;(B) finance the acquisition by low- and moderate-income homebuyers of housing that is occupied by the homebuyers;
+
+&emsp;&emsp;(C) acquire guarantees for mortgage financing obtained by low- and moderate-income homebuyers from private lenders (except that amounts received under this chapter may not be used under this subparagraph to directly guarantee such mortgage financing and grantees under this chapter may not directly provide such guarantees);
+
+&emsp;&emsp;(D) provide up to 50 percent of any downpayment required from low- or moderate-income homebuyer; or
+
+&emsp;&emsp;(E) pay reasonable closing costs (normally associated with the purchase of a home) incurred by a low- or moderate-income homebuyer.
+
+&emsp;(21) <sup>4</sup> lead-based paint hazard evaluation and reduction, as defined in section 4851b of this title.
+
+#### (b) Reimbursement of Secretary for administrative services connected with rehabilitation of properties
+
+Upon the request of the recipient of assistance under this chapter, the Secretary may agree to perform administrative services on a reimbursable basis on behalf of such recipient in connection with loans or grants for the rehabilitation of properties as authorized under subsection (a)(4) of this section.
+
+#### (c) Activities benefiting persons of low and moderate income
+
+(1) In any case in which an assisted activity described in paragraph (14) or (17) of subsection (a) of this section is identified as principally benefiting persons of low and moderate income, such activity shall—
+
+&emsp;(A) be carried out in a neighborhood consisting predominately of persons of low and moderate income and provide services for such persons; or
+
+&emsp;(B) involve facilities designed for use predominately by persons of low and moderate income; or
+
+&emsp;(C) involve employment of persons, a majority of whom are persons of low and moderate income.
+
+(2)(A) In any case in which an assisted activity described in subsection (a) of this section is designed to serve an area generally and is clearly designed to meet identified needs of persons of low and moderate income in such area, such activity shall be considered to principally benefit persons of low and moderate income if (i) not less than 51 percent of the residents of such area are persons of low and moderate income; (ii) in any metropolitan city or urban county, the area served by such activity is within the highest quartile of all areas within the jurisdiction of such city or county in terms of the degree of concentration of persons of low and moderate income; or (iii) the assistance for such activity is limited to paying assessments (including any charge made as a condition of obtaining access) levied against properties owned and occupied by persons of low and moderate income to recover the capital cost for a public improvement.
+
+(B) The requirements of subparagraph (A) do not prevent the use of assistance under this chapter for the development, establishment, and operation for not to exceed 2 years after its establishment of a uniform emergency telephone number system if the Secretary determines that—
+
+&emsp;(i) such system will contribute substantially to the safety of the residents of the area served by such system;
+
+&emsp;(ii) not less than 51 percent of the use of the system will be by persons of low and moderate income; and
+
+&emsp;(iii) other Federal funds received by the grantee are not available for the development, establishment, and operation of such system due to the insufficiency of the amount of such funds, the restrictions on the use of such funds, or the prior commitment of such funds for other purposes by the grantee.
+
+> The percentage of the cost of the development, establishment, and operation of such a system that may be paid from assistance under this chapter and that is considered to benefit low and moderate income persons is the percentage of the population to be served that is made up of persons of low and moderate income.
+
+(3) Any assisted activity under this chapter that involves the acquisition or rehabilitation of property to provide housing shall be considered to benefit persons of low and moderate income only to the extent such housing will, upon completion, be occupied by such persons.
+
+(4) For the purposes of subsection (c)(1)(C) of this section—
+
+&emsp;(A) if an employee resides in, or the assisted activity through which he or she is employed, is located in a census tract that meets the Federal enterprise zone eligibility criteria, the employee shall be presumed to be a person of low- or moderate-income; or
+
+&emsp;(B) if an employee resides in a census tract where not less than 70 percent of the residents have incomes at or below 80 percent of the area median, the employee shall be presumed to be a person of low or moderate income.
+
+#### (d) Training program
+
+The Secretary shall implement, using funds recaptured pursuant to section 5318(<i>o</i>) of this title, an on-going education and training program for officers and employees of the Department, especially officers and employees of areaand other field offices of the Department, who are responsible for monitoring and administering activities pursuant to paragraphs (14), (15), and (17) of subsection (a) of this section for the purpose of ensuring that (A) such personnel possess a thorough understanding of such activities; and (B) regulations and guidelines are implemented in a consistent fashion.
+
+#### (e) Guidelines for evaluating and selecting economic development projects
+
+#### (1) Establishment
+
+&emsp;The Secretary shall establish, by regulation, guidelines to assist grant recipients under this chapter to evaluate and select activities described in subsection (a)(14), (15), and (17) of this section for assistance with grant amounts. The Secretary shall not base a determination of eligibility of the use of funds under this chapter for such assistance solely on the basis that the recipient fails to achieve one or more of the guidelines’ objectives as stated in paragraph (2).
+
+#### (2) Project costs and financial requirements
+
+&emsp;The guidelines established under this subsection shall include the following objectives:
+
+&emsp;&emsp;(A) The project costs of such activities are reasonable.
+
+&emsp;&emsp;(B) To the extent practicable, reasonable financial support has been committed for such activities from non-Federal sources prior to disbursement of Federal funds.
+
+&emsp;&emsp;(C) To the extent practicable, any grant amounts to be provided for such activities do not substantially reduce the amount of non-Federal financial support for the activity.
+
+&emsp;&emsp;(D) Such activities are financially feasible.
+
+&emsp;&emsp;(E) To the extent practicable, such activities provide not more than a reasonable return on investment to the owner.
+
+&emsp;&emsp;(F) To the extent practicable, grant amounts used for the costs of such activities are disbursed on a pro rata basis with amounts from other sources.
+
+#### (3) Public benefit
+
+&emsp;The guidelines established under this subsection shall provide that the public benefit provided by the activity is appropriate relative to the amount of assistance provided with grant amounts under this chapter.
+
+#### (f) Assistance to for-profit entities
+
+In any case in which an activity described in paragraph (17) of subsection (a) of this section is provided assistance such assistance shall not be limited to activities for which no other forms of assistance are available or could not be accomplished but for that assistance.
+
+#### (g) Microenterprise and small business program requirements
+
+In developing program requirements and providing assistance pursuant to paragraph (17) of subsection (a) of this section to a microenterprise or small business, the Secretary shall—
+
+&emsp;(1) take into account the special needs and limitations arising from the size of the entity; and
+
+&emsp;(2) not consider training, technical assistance, or other support services costs provided to small businesses or microenterprises or to grantees and subgrantees to develop the capacity to provide such assistance, as a planning cost pursuant to subsection (a)(12) of this section or an administrative cost pursuant to subsection (a)(13) of this section.
+
+(Pub. L. 93–383, title I, §105, Aug. 22, 1974, 88 Stat. 641; Pub. L. 94–375, §15(b), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 95–128, title I, §105, Oct. 12, 1977, 91 Stat. 1116; Pub. L. 95–557, title I, §103(e), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–399, title I, §104(c)–(e), Oct. 8, 1980, 94 Stat. 1616–1618; Pub. L. 97–35, title III, §§303(a), 309(e)–(g), Aug. 13, 1981, 95 Stat. 387, 396; Pub. L. 98–181, title I, §105(a), (b)(1), (c)–(e), title III, §302(a), Nov. 30, 1983, 97 Stat. 1163, 1164, 1206; Pub. L. 98–479, title I, §101(a)(8), (9)(A), Oct. 17, 1984, 98 Stat. 2219; Pub. L. 100–242, title V, §§504, 510, 511, Feb. 5, 1988, 101 Stat. 1925, 1929; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1019; Pub. L. 101–625, title IX, §§907, 908, Nov. 28, 1990, 104 Stat. 4387, 4389; Pub. L. 102–550, title VIII, §§805, 806(a), (b), (c), 807(a), (b)(3), (c)(1), (d)–(f), 809, title X, §1012(f), Oct. 28, 1992, 106 Stat. 3846, 3847, 3849, 3850, 3905; Pub. L. 103–195, §2(a), Dec. 14, 1993, 107 Stat. 2297; Pub. L. 103–233, title II, §207, Apr. 11, 1994, 108 Stat. 365.)
+
+#### Amendment of Subsection (a)(23) to (25)
+
+<i>Section 907(b)(2) of Pub. L. 101–625, as amended by Pub. L. 102–550, title VIII, §807(b), Oct. 28, 1992, 106 Stat. 3848, provided that, effective Oct. 1, 1995, subsection (a) of this section is amended (A) in paragraph (23), by inserting “and” at the end; (B) in paragraph (24), by striking “; and” at the end and inserting a period; and (C) by striking paragraph (25). See Effective Date of 1990 Amendment note below.</i>
+
+#### References in Text
+
+Public Law 98–8, referred to in subsec. (a)(8), is Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 13. Provisions of that Act relating to assistance under this chapter are not classified to the Code. For complete classification of this Act to the Code, see Tables.
+
+The Housing Act of 1949, referred to in subsec. (a)(10), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title I of the Housing Act of 1949 was classified generally to subchapter II (§1450 et seq.) of chapter 8A of this title, and was omitted from the Code pursuant to section 5316 of this title which terminated authority to make grants and loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
+
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(13)(A), (21), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+
+Section 461(e) of title 40, referred to in subsec. (a)(13)(B), was repealed by Pub. L. 97–35, title III, §313(b), Aug. 13, 1981, 95 Stat. 398.
+
+Section 1437<i>o</i> of this title, referred to in subsec. (a)(18), was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
+
+#### Codification
+
+In subsec. (a)(13), “August 12, 1981” substituted for “the date prior to the date of enactment of the Housing and Community Development Amendments of 1981”.
+
+#### Amendments
+
+1994—Subsec. (a)(13). Pub. L. 103–233, §207(a), inserted cl. (A) and designated provisions after cl. (A) as cl. (B).
+
+Subsec. (a)(21). Pub. L. 103–233, §207(b), inserted “in connection with tenant-based rental assistance and affordable housing projects assisted under title II of the Cranston-Gonzalez National Affordable Housing Act” after “housing counseling” and substituted “assisted under title II of the Cranston-Gonzalez National Affordable Housing Act” for “authorized under this section, or under title II of the Cranston-Gonzalez National Affordable Housing Act, except that activities under this paragraph shall be subject to any limitation on administrative expenses imposed by any law”.
+
+1993—Subsec. (a)(8). Pub. L. 103–195 struck out “and” after “higher amount,” and inserted before semicolon at end “, and except that of any amount of assistance under this chapter (including program income) in fiscal year 1994 to the City of Pittsburgh, Pennsylvania, such city may use not more than 20 percent in each such fiscal year for activities under this paragraph”.
+
+1992—Subsec. (a)(3). Pub. L. 102–550, §807(e), substituted “public or private improvements or” for “public improvements and”.
+
+Subsec. (a)(8). Pub. L. 102–550, §807(a)(1), inserted before semicolon at end “, and except that of any amount of assistance under this chapter (including program income) in each of fiscal years 1993 through 1997 to the City of Los Angeles and County of Los Angeles, each such unit of general government may use not more than 25 percent in each such fiscal year for activities under this paragraph”.
+
+Subsec. (a)(13). Pub. L. 102–550, §809, inserted “payment of reasonable administrative costs related to establishing and administering federally approved enterprise zones and” after “(13)”.
+
+Subsec. (a)(14). Pub. L. 102–550, §807(d), inserted “provision of assistance including loans (both interim and long-term) and grants for” before “activities”.
+
+Subsec. (a)(15). Pub. L. 102–550, §807(f), inserted “nonprofit organizations serving the development needs of the communities in nonentitlement areas,” after “corporations,”.
+
+Subsec. (a)(20). Pub. L. 102–550, §807(a)(2)–(4), added par. (20) and redesignated former par. (20) as (25).
+
+Subsec. (a)(21). Pub. L. 102–550, §1012(f), added par. (21) relating to lead-based paint hazard evaluation and reduction.
+
+Pub. L. 102–550, §807(a)(2)–(4), added par. (21) relating to housing services.
+
+Subsec. (a)(22) to (25). Pub. L. 102–550, §807(a)(2)–(4), added pars. (22) to (24) and redesignated former par. (20) as (25).
+
+Subsec. (c)(4). Pub. L. 102–550, §806(e), added par. (4).
+
+Subsec. (d). Pub. L. 102–550, §805, added subsec. (d).
+
+Subsec. (e). Pub. L. 102–550, §806(a), added subsec. (e).
+
+Subsec. (f). Pub. L. 102–550, §806(b), added subsec. (f).
+
+Subsec. (g). Pub. L. 102–550, §807(c)(1), added subsec. (g).
+
+1990—Subsec. (a)(8). Pub. L. 101–625, §908, inserted “(or in the case of nonentitled communities not more than 15 per centum statewide)” after “assistance to a unit of general local government” and “including program income” before “may be used for activities”.
+
+Subsec. (a)(17). Pub. L. 101–625, §907(a), amended par. (17) generally. Prior to amendment, par. (17) read as follows: “provision of assistance to private, for-profit entities, when the assistance is necessary or appropriate to carry out an economic development project;”.
+
+Subsec. (a)(20). Pub. L. 101–625, §907(b)(1), added par. (20).
+
+1988—Subsec. (a)(15). Pub. L. 100–242, §504(a), substituted “assistance” for “grants” in two places.
+
+Subsec. (a)(16). Pub. L. 100–242, §504(b), amended par. (16) generally, revising and restating as subpars. (A) and (B) provisions of former subpars. (A) to (I).
+
+Subsec. (a)(19). Pub. L. 100–242, §510, added par. (19).
+
+Subsec. (c)(2). Pub. L. 100–242, §511, designated existing provision as subpar. (A), redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
+
+Subsec. (c)(2)(A)(iii). Pub. L. 100–404 added cl. (iii).
+
+1984—Subsec. (a)(8). Pub. L. 98–479, §101(a)(8)(A), inserted “fiscal year 1982 or”.
+
+Subsec. (a)(15). Pub. L. 98–479, §101(a)(8)(B), substituted “and” for “including” before “grants to neighborhood-based nonprofit organizations”.
+
+Subsec. (c)(2)(B). Pub. L. 98–479, §101(a)(9)(A), substituted “in any metropolitan city or urban county, the area served by such activity is within the highest quartile of all areas within the jurisdiction of such city or county in terms of the degree of concentration of persons of low and moderate income” for “in any jurisdiction having no areas meeting the requirements of subparagraph (A), the area served by such activity has a larger proportion of persons of low and moderate income than not less than 75 percent of the other areas in the jurisdiction of the recipient”.
+
+1983—Subsec. (a)(2). Pub. L. 98–181, §105(a), amended par. (2) generally, inserting exception for buildings for the general conduct of government, and striking out provisions which enumerated types of public works, facilities, and site or other improvements, including neighborhood facilities, centers for the handicapped, senior centers, historic properties, etc.
+
+Subsec. (a)(8). Pub. L. 98–181, §105(b)(1), substituted “not more than 15 per centum” for “not more than 10 per centum” and inserted at the end thereof “unless such unit of general local government used more than 15 percent of the assistance received under this chapter for fiscal year 1983 for such activities (excluding any assistance received pursuant to Public Law 98–8), in which case such unit of general local government may use not more than the percentage or amount of such assistance used for such activities for such fiscal year, whichever method of calculation yields the higher amount”.
+
+Subsec. (a)(14). Pub. L. 98–181, §105(c), substituted “public facilities (except for buildings for the general conduct of government)” for “public facilities”.
+
+Subsec. (a)(15). Pub. L. 98–181, §105(d), inserted provision for assistance for shared housing facilities for elderly families, as defined in section 1437a(b)(3) of this title.
+
+Subsec. (a)(18). Pub. L. 98–181, §302(a), added par. (18).
+
+Subsec. (c). Pub. L. 98–181, §105(e), added subsec. (c).
+
+1981—Subsec. (a). Pub. L. 97–35, §309(f)(1), in provisions preceding par. (1) substituted provisions relating to activities eligible for assistance for provisions relating to activities of a Community Development Program eligible for assistance.
+
+Subsec. (a)(6). Pub. L. 97–35, §309(f)(2), struck out “program” after “displaced by”.
+
+Subsec. (a)(8). Pub. L. 97–35, §303(a)(1), added new par. (8) which generally revised and restructured provisions relating to provision of public services if such services have not been provided by the relevant unit of local government or State in which such unit is located, and limited amount of assistance under this paragraph to not more than 10 per centum of the amount of any assistance to a unit of general local government under this chapter.
+
+Subsec. (a)(9). Pub. L. 97–35, §309(f)(3), substituted “activities assisted under this chapter” for “Community Development Program”.
+
+Subsec. (a)(11). Pub. L. 97–35, §309(f)(4), struck out “to the community development program” after “appropriate”.
+
+Subsec. (a)(13). Pub. L. 97–35, §303(a)(2), inserted reference to the carrying out of activities as described in section 461(e) of title 40 on Aug. 12, 1981.
+
+Subsec. (a)(14). Pub. L. 97–35, §309(f)(5), substituted “which are carried out by public or private non-profit entities” for “(as specifically described in the application submitted pursuant to section 5304 of this title) which are carried out by public or private non-profit entities when such activities are necessary or appropriate to meeting the needs and objectives of the community development plan described in section 5304(a)(1) of this title”.
+
+Subsec. (a)(15). Pub. L. 97–35, §309(f)(6), struck out “(as specifically described in the application submitted pursuant to section 5304 of this title)” after “conservation project”.
+
+Subsec. (a)(17). Pub. L. 97–35, §303(a)(5), added par. (17).
+
+Subsec. (b). Pub. L. 97–35, §309(g), substituted “assistance” for “a grant”.
+
+1980—Subsec. (a)(2). Pub. L. 96–399, §104(c)(1), inserted provisions respecting design features and improvements, power generation and distribution facilities, park, etc., facilities, and recycling and conversion facilities.
+
+Subsec. (a)(4). Pub. L. 96–399, §104(c)(2), (d), inserted provisions respecting rehabilitation which promotes energy efficiency and the renovation of closed school buildings.
+
+Subsec. (a)(8). Pub. L. 96–399, §104(c)(3), inserted reference to energy conservation.
+
+Subsec. (a)(14). Pub. L. 96–399, §104(c)(5), (e)(1), inserted provision respecting the application pursuant to section 5304 of this title.
+
+Subsec. (a)(15). Pub. L. 96–399, §104(c)(4), (5), (e)(2), inserted provisions respecting energy conservation, and the application submitted pursuant to section 5304 of this title.
+
+Subsec. (a)(16). Pub. L. 96–399, §104(c)(5), added par. (16).
+
+1978—Subsec. (a)(11). Pub. L. 95–557 inserted “displaced” after “payments and assistance for” and substituted “when determined by the grantee to be appropriate to the community development program” for “displaced by activities assisted under this chapter”.
+
+1977—Subsec. (a). Pub. L. 95–128, §105(a), inserted in introductory text description of activities covered including the words “These activities”.
+
+Subsec. (a)(4). Pub. L. 95–128, §105(b), substituted “(including interim assistance, and financing public or private acquisition for rehabilitation, and rehabilitation, of privately owned properties)” for “(including interim assistance and financing rehabilitation of privately owned properties when incidental to other activities)”.
+
+Subsec. (a)(8). Pub. L. 95–128, §105(c), struck out from cl. (A) “economic development,” before “crime prevention” and authorized the program to provide public services only if such services have not been provided by the unit of general local government during any part of the twelve-month period preceding the date of application submission for funds to be made available under this chapter, and to be utilized for such services, unless the Secretary finds that the discontinuation of such services was the result of events not within the control of the applicant.
+
+Subsec. (a)(14), (15). Pub. L. 95–128, §105(d), added pars. (14) and (15).
+
+1976—Subsec. (a)(2). Pub. L. 94–375 inserted “centers for the handicapped,” after “neighborhood facilities,”.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–233 applicable with respect to any amounts made available to carry out subchapter II (§12721 et seq.) of chapter 130 of this title after Apr. 11, 1994, and any amounts made available to carry out that subchapter before that date that remain uncommitted on that date, with Secretary to issue any regulations necessary to carry out such amendment not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as a note under section 5301 of this title.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by section 907(b)(2) of Pub. L. 101–625, as amended by Pub. L. 102–550, title VIII, §807(b)(1), (2), Oct. 28, 1992, 106 Stat. 3849, effective “October 1, 1994 (or October 1, 1995, if the Secretary determines that such later date is necessary to continue to provide homeownership assistance until homeownership assistance is available under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\])”. \[Date extended by Secretary to Oct. 1, 1995, see 59 F.R. 49954, Sept. 30, 1994.\]
+
+#### Effective Date of 1984 Amendment
+
+Section 101(a)(9)(B) of Pub. L. 98–479 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect upon the enactment of this Act \[Oct. 17, 1984\] and shall be implemented through an interim instruction issued by the Secretary of Housing and Urban Development. Not later than June 1, 1985, the Secretary of Housing and Urban Development shall issue a final regulation regarding the provisions of such amendment.”
+
+#### Effective Date of 1983 Amendment
+
+Amendment by Pub. L. 98–181 applicable only to funds available for fiscal year 1984 and thereafter, see section 110(b) of Pub. L. 98–181, as amended, set out as a note under section 5316 of this title.
+
+#### Effective Date of 1981 Amendment
+
+Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of Title 12, Banks and Banking.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–557 effective Oct. 1, 1978, see section 104 of Pub. L. 95–557, set out as a note under section 1709 of Title 12, Banks and Banking.
+
+#### Effective Date of 1977 Amendment
+
+Amendment by Pub. L. 95–128 effective Oct. 1, 1977, see section 114 of Pub. L. 95–128, set out as a note under section 5301 of this title.
+
+#### GAO Study of Use of Grants for Economic Development Projects
+
+Section 806(c) of Pub. L. 102–550 directed Comptroller General to conduct a study of use of grant amounts under this chapter for activities described in paragraphs (14), (15), and (17) of subsec. (a) of this section, including an evaluation of whether the activities for which such amounts are being used under such paragraphs further the goals and objectives of such program, as established in section 5301 of this title, and directed Comptroller General to submit a report to Congress regarding the findings of the study and recommendations not later than the expiration of the 18-month period beginning on Oct. 28, 1992.
+
+#### Enhancing Job Quality; Report to Congress
+
+Section 806(d) of Pub. L. 102–550 directed Comptroller General, not later than 1 year after Oct. 28, 1992, to submit to Congress a report on types and quality of jobs created or retained through assistance provided pursuant to this chapter and the extent to which projects and activities assisted under this chapter enhance the upward mobility and future earning capacity of low- and moderate-income persons who are benefited by such projects and activities.
+
+#### Report to Congress on Effectiveness of Assistance in Promoting Development of Microenterprises
+
+Section 807(c)(4) of Pub. L. 102–550 directed Secretary, not later than 18 months after Oct. 28, 1992, to submit to Congress a report on effectiveness of assistance provided through this chapter in promoting development of microenterprises, including a review of any statutory or regulatory provision that impedes development of microenterprises.
+
+#### Community Investment Corporation Demonstration
+
+Section 853 of Pub. L. 102–550 provided for establishment of a demonstration program to develop ways to improve access to capital for initiatives which would benefit specific targeted geographic areas and to test new models for bringing credit and investment capitalto low-income persons in targeted geographic areas, using depository institution holding companies and eligible local nonprofit organizations selected by Secretary of Housing and Urban Development to provide capital assistance, grants, and training under direction of an advisory board. Funds for the program were authorized for fiscal years 1993 and 1994 to remain available until expended.
+
+#### Waiver of Limitation on Amount of Funds Which May Be Used in Fiscal Years 1982, 1983, and 1984 for Public Service Activities
+
+Section 303(b) of Pub. L. 97–35, as amended Pub. L. 98–181, title I, §105(b)(2), Nov. 30, 1983, 97 Stat. 1164, authorized Secretary, in fiscal years 1982 and 1983, to waive the limitation on amount of funds which could be used for public services activities under subsec. (a)(8) of this section, in the case of a unit of general local government which, during fiscal year 1981, allocated more than 10 per centum of funds received under this chapter for such activities.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5304, 5306, 5307, 5308, 5318 of this title; title 12 sections 4707, 4712.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> Another par. (21) is set out after par. (25).</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “(26)”.</i>
+

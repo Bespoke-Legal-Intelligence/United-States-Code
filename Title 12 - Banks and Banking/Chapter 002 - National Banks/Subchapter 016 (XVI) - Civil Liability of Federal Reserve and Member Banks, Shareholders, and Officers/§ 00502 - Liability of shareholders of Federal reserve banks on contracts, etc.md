@@ -1,0 +1,10 @@
+### §502. Liability of shareholders of Federal reserve banks on contracts, etc.
+
+The shareholders of every Federal reserve bank shall be held individually responsible equally and ratably, and not one for another, for all contracts, debts, and engagements of such bank to the extent of the amount of their subscriptions to such stock at the par value thereof in addition to the amount subscribed, whether such subscriptions have been paid up in whole or in part under the provisions of this chapter.
+
+(Dec. 23, 1913, ch. 6, §2, 38 Stat. 252.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 377, 481 of this title.
+

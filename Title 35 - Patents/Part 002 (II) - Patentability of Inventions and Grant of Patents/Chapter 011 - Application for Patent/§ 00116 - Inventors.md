@@ -1,0 +1,32 @@
+### §116. Inventors
+
+When an invention is made by two or more persons jointly, they shall apply for patent jointly and each make the required oath, except as otherwise provided in this title. Inventors may apply for a patent jointly even though (1) they did not physically work together or at the same time, (2) each did not make the same type or amount of contribution, or (3) each did not make a contribution to the subject matter of every claim of the patent.
+
+If a joint inventor refuses to join in an application for patent or cannot be found or reached after diligent effort, the application may be made by the other inventor on behalf of himself and the omitted inventor. The Commissioner, on proof of the pertinent facts and after such notice to the omitted inventor as he prescribes, may grant a patent to the inventor making the application, subject to the same rights which the omitted inventor would have had if he had been joined. The omitted inventor may subsequently join in the application.
+
+Whenever through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application, and such error arose without any deceptive intention on his part, the Commissioner may permit the application to be amended accordingly, under such terms as he prescribes.
+
+(July 19, 1952, ch. 950, 66 Stat. 799; Aug. 27, 1982, Pub. L. 97–247, §6(a), 96 Stat. 320; Nov. 8, 1984, Pub. L. 98–622, title I, §104(a), 98 Stat. 3384.)
+
+#### Historical and Revision Notes
+
+The first paragraph is implied in the present statutes, and the part of the last paragraph relating to omission of an erroneously joined inventor is in the Patent Office rules. The remainder is new and provides for the correction of a mistake in erroneously joining a person as inventor, and for filing an application when one of several joint inventors cannot be found. This section is ancillary to section 256.
+
+#### Amendments
+
+1984—Pub. L. 98–622 amended first par. generally, striking out “and each sign the application” after “patent jointly” and inserting sentence beginning “Inventors may apply”.
+
+1982—Pub. L. 97–247 substituted “Inventors” for “Joint inventors” as section catchline, and substituted “through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application” for “a person is joined in an application for patent as joint inventor through error, or a joint inventor is not included in an application through error”.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–622 applicable to all United States patents granted before, on, or after Nov. 8, 1984, and to all applications for United States patents pending on or filed after that date, except as otherwise provided, see section 106 of Pub. L. 98–622, set out as a note under section 103 of this title.
+
+#### Effective Date of 1982 Amendment
+
+Amendment by Pub. L. 97–247 effective six months after Aug. 27, 1982, see section 17(c) of Pub. L. 97–247, set out as an Effective Date note under section 294 of this title.
+
+#### Cross References
+
+Joint owners, see section 262 of this title.
+

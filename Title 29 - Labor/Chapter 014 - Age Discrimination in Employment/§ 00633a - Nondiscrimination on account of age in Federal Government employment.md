@@ -1,0 +1,72 @@
+### §633a. Nondiscrimination on account of age in Federal Government employment
+
+#### (a) Federal agencies affected
+
+All personnel actions affecting employees or applicants for employment who are at least 40 years of age (except personnel actions with regard to aliens employed outside the limits of the United States) in military departments as defined in section 102 of title 5, in executive agencies as defined in section 105 of title 5 (including employees and applicants for employment who are paid from nonappropriated funds), in the United States Postal Service and the Postal Rate Commission, in those units in the government of the District of Columbia having positions in the competitive service, and in those units of the legislative and judicial branches of the Federal Government having positions in the competitive service, and in the Library of Congress shall be made free from any discrimination based on age.
+
+#### (b) Enforcement by Equal Employment Opportunity Commission and by Librarian of Congress in the Library of Congress; remedies; rules, regulations, orders, and instructions of Commission: compliance by Federal agencies; powers and duties of Commission; notification of final action on complaint of discrimination; exemptions: bona fide occupational qualification
+
+Except as otherwise provided in this subsection, the Equal Employment Opportunity Commission is authorized to enforce the provisions of subsection (a) of this section through appropriate remedies, including reinstatement or hiring of employees with or without backpay, as will effectuate the policies of this section. The Equal Employment Opportunity Commission shall issue such rules, regulations, orders, and instructions as it deems necessary and appropriate to carry out its responsibilities under this section. The Equal Employment Opportunity Commission shall—
+
+&emsp;(1) be responsible for the review and evaluation of the operation of all agency programs designed to carry out the policy of this section, periodically obtaining and publishing (on at least a semiannual basis) progress reports from each department, agency, or unit referred to in subsection (a) of this section;
+
+&emsp;(2) consult with and solicit the recommendations of interested individuals, groups, and organizations relating to nondiscrimination in employment on account of age; and
+
+&emsp;(3) provide for the acceptance and processing of complaints of discrimination in Federal employment on account of age.
+
+> The head of each such department, agency, or unit shall comply with such rules, regulations, orders, and instructions of the Equal Employment Opportunity Commission which shall include a provision that an employee or applicant for employment shall be notified of any final action taken on any complaint of discrimination filed by him thereunder. Reasonable exemptions to the provisions of this section may be established by the Commission but only when the Commission has established a maximum age requirement on the basis of a determination that age is a bona fide occupational qualification necessary to the performance of the duties of the position. With respect to employment in the Library of Congress, authorities granted in this subsection to the Equal Employment Opportunity Commission shall be exercised by the Librarian of Congress.
+
+#### (c) Civil actions; jurisdiction; relief
+
+Any person aggrieved may bring a civil action in any Federal district court of competent jurisdiction for such legal or equitable relief as will effectuate the purposes of this chapter.
+
+#### (d) Notice to Commission; time of notice; Commission notification of prospective defendants; Commission elimination of unlawful practices
+
+When the individual has not filed a complaint concerning age discrimination with the Commission, no civil action may be commenced by any individual under this section until the individual has given the Commission not less than thirty days’ notice of an intent to file such action. Such notice shall be filed within one hundred and eighty days after the alleged unlawful practice occurred. Upon receiving a notice of intent to sue, the Commission shall promptly notify all persons named therein as prospective defendants in the action and take any appropriate action to assure the elimination of any unlawful practice.
+
+#### (e) Duty of Government agency or official
+
+Nothing contained in this section shall relieve any Government agency or official of the responsibility to assure nondiscrimination on account of age in employment as required under any provision of Federal law.
+
+#### (f) Applicability of statutory provisions to personnel action of Federal departments, etc.
+
+Any personnel action of any department, agency, or other entity referred to in subsection (a) of this section shall not be subject to, or affected by, any provision of this chapter, other than the provisions of section 631(b) of this title and the provisions of this section.
+
+#### (g) Study and report to President and Congress by Equal Employment Opportunity Commission; scope
+
+(1) The Equal Employment Opportunity Commission shall undertake a study relating to the effects of the amendments made to this section by the Age Discrimination in Employment Act Amendments of 1978, and the effects of section 631(b) of this title.
+
+(2) The Equal Employment Opportunity Commission shall transmit a report to the President and to the Congress containing the findings of the Commission resulting from the study of the Commission under paragraph (1) of this subsection. Such report shall be transmitted no later than January 1, 1980.
+
+(Pub. L. 90–202, §15, as added Pub. L. 93–259, §28(b)(2), Apr. 8, 1974, 88 Stat. 74; amended Pub. L. 95–256, §5(a), (e), Apr. 6, 1978, 92 Stat. 191; 1978 Reorg. Plan No. 1, eff. Jan. 1, 1979, §2, 43 F.R. 19807, 92 Stat. 3781.)
+
+#### References in Text
+
+The amendments made to this section by the Age Discrimination in Employment Act Amendments of 1978, referred to in subsec. (g)(1), are amendments by section 5(a) and (e) of Pub. L. 95–256, which amended subsecs. (a), (f), and (g) of this section.
+
+#### Amendments
+
+1978—Subsec. (a). Pub. L. 95–256, §5(a), inserted age requirement of at least 40 years of age, and “personnel actions” after “except”.
+
+Subsecs. (f), (g). Pub. L. 95–256, §5(e), added subsecs. (f) and (g).
+
+#### Effective Date of 1978 Amendment
+
+Section 5(f) of Pub. L. 95–256 provided that: “The amendments made by this section \[amending this section and sections 8335 and 8339 of Title 5, Government Organization and Employees, and repealing section 3322 of Title 5\] shall take effect on September 30, 1978, except that section 15(g) of the Age Discrimination in Employment Act of 1967, as amended by subsection (e) of this section \[subsec. (g) of this section\], shall take effect on the date of enactment of this Act \[Apr. 6, 1978\].”
+
+#### Effective Date
+
+Section effective May 1, 1974, see section 29(a) of Pub. L. 93–259, set out as an Effective Date of 1974 Amendment note under section 202 of this title.
+
+#### Transfer of Functions
+
+“Equal Employment Opportunity Commission” substituted for “Civil Service Commission” in subsecs. (b) and (g) pursuant to Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Civil Service Commission to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+
+#### Cross References
+
+Equal employment opportunities for Federal employees without discrimination because of race, color, religion, sex, or national origin, see section 7201 of Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 626, 631 of this title; title 2 sections 1202, 1207; title 5 sections 2302, 7702, 7703; title 22 sections 3905, 4131; title 40 section 166b–7.
+

@@ -1,0 +1,6 @@
+### §291j–10. Payments
+
+Grants under this part shall be paid in advance or by way of reimbursement, in such installments and on such conditions, as in the judgment of the Secretary will best carry out the purposes of this part.
+
+(July 1, 1944, ch. 373, title VI, §633, as added June 30, 1970, Pub. L. 91–296, title III, §301, 84 Stat. 351.)
+

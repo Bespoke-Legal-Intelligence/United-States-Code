@@ -1,0 +1,22 @@
+### §580p–1. Property of the United States
+
+The following are hereby declared the property of the United States:
+
+&emsp;(1) The name and character “Smokey Bear”.
+
+&emsp;(2) The name and character “Woodsy Owl” and the associated slogan, “Give a Hoot, Don't Pollute”.
+
+(Pub. L. 93–318, §2, June 22, 1974, 88 Stat. 245.)
+
+#### Codification
+
+Section was formerly classified to section 488b–4 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
+
+#### Cross References
+
+Penalty for unauthorized use of “Woodsy Owl” character, name, or slogan, see section 711a of Title 18, Crimes and Criminal Procedure.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 580p, 580p–3 of this title.
+

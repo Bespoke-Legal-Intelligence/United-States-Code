@@ -1,0 +1,46 @@
+### §7541 . Obsolete and other material: gift or sale to Boy Scouts of America, Naval Sea Cadet Corps and Young Marines of the Marine Corps League
+
+Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of the Navy may—
+
+&emsp;(1) give obsolete material not needed for naval purposes; and
+
+&emsp;(2) sell other material that may be spared at a price representing its fair value;
+
+> to the Boy Scouts of America for the sea scouts, to the Naval Sea Cadet Corps for the sea cadets, and to the Young Marines of the Marine Corps League for the young marines. The cost of transportation and delivery of material given or sold under this section shall be charged to the Boy Scouts of America, to the Naval Sea Cadets, or to the Young Marines of the Marine Corps League, as the case may be.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 465; Jan. 3, 1975, Pub. L. 93–628, §1, 88 Stat. 2147; Dec. 12, 1980, Pub. L. 96–513, title V, §513(39), 94 Stat. 2934.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+7541
+
+34 U.S.C. 546b.
+
+Mar. 1, 1929, ch. 429, 45 Stat. 1430; Oct. 31, 1951, ch. 654, §2(21), 65 Stat. 707.
+
+The word “give” is substituted for the words “dispose of without charge”; the words “naval purposes” are substituted for the words “the Navy”; and the word “sell” is substituted for the words “dispose of \* \* \* at prices”. The words “to the Navy” are omitted as surplusage. Since the corporate name of the organization is “Boy Scouts of America”, that name is used to designate the transferee in lieu of words “sea scout department”, and the words “for the sea scouts” are added.
+
+#### Amendments
+
+1980—Pub. L. 96–513 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” for “section 486 of title 40”.
+
+1975—Pub. L. 93–628 inserted “Naval Sea Cadet Corps and Young Marines of the Marine Corps League” in section catchline, and authorized the Secretary of the Navy to gift obsolete materials and to sell surplus materials to the Naval Sea Cadet Corps and the Young Marines of the Marine Corps League with the requirement that the cost of transportation and delivery of such materials be charged to the recipient.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Effective Date of 1975 Amendment
+
+Section 2 of Pub. L. 93–628 provided that: “The amendments made by the first section \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 3, 1975\].”
+
+#### Cross References
+
+Coast Guard, disposal of materials to Boy Scouts, see section 641 of Title 14, Coast Guard.
+

@@ -1,0 +1,92 @@
+### §12637. Nonduplication and nondisplacement
+
+#### (a) Nonduplication
+
+#### (1) In general
+
+&emsp;Assistance provided under this subchapter shall be used only for a program that does not duplicate, and is in addition to, an activity otherwise available in the locality of such program.
+
+#### (2) Private nonprofit entity
+
+&emsp;Assistance made available under this subchapter shall not be provided to a private nonprofit entity to conduct activities that are the same or substantially equivalent to activities provided by a State or local government agency that such entity resides in, unless the requirements of subsection (b) of this section are met.
+
+#### (b) Nondisplacement
+
+#### (1) In general
+
+&emsp;An employer shall not displace an employee or position, including partial displacement such as reduction in hours, wages, or employment benefits, as a result of the use by such employer of a participant in a program receiving assistance under this subchapter.
+
+#### (2) Service opportunities
+
+&emsp;A service opportunity shall not be created under this subchapter that will infringe in any manner on the promotional opportunity of an employed individual.
+
+#### (3) Limitation on services
+
+#### (A) Duplication of services
+
+&emsp;&emsp;A participant in a program receiving assistance under this subchapter shall not perform any services or duties or engage in activities that would otherwise be performed by an employee as part of the assigned duties of such employee.
+
+#### (B) Supplantation of hiring
+
+&emsp;&emsp;A participant in any program receiving assistance under this subchapter shall not perform any services or duties, or engage in activities, that—
+
+&emsp;&emsp;&emsp;(i) will supplant the hiring of employed workers; or
+
+&emsp;&emsp;&emsp;(ii) are services, duties, or activities with respect to which an individual has recall rights pursuant to a collective bargaining agreement or applicable personnel procedures.
+
+#### (C) Duties formerly performed by another employee
+
+&emsp;&emsp;A participant in any program receiving assistance under this subchapter shall not perform services or duties that have been performed by or were assigned to any—
+
+&emsp;&emsp;&emsp;(i) presently employed worker;
+
+&emsp;&emsp;&emsp;(ii) employee who recently resigned or was discharged;
+
+&emsp;&emsp;&emsp;(iii) employee who—
+
+&emsp;&emsp;&emsp;&emsp;(I) is subject to a reduction in force; or
+
+&emsp;&emsp;&emsp;&emsp;(II) has recall rights pursuant to a collective bargaining agreement or applicable personnel procedures;
+
+&emsp;&emsp;&emsp;(iv) employee who is on leave (terminal, temporary, vacation, emergency, or sick); or
+
+&emsp;&emsp;&emsp;(v) employee who is on strike or who is being locked out.
+
+#### (c) Labor market information
+
+The Secretary of Labor shall make available to the Corporation and to any program agency under this subchapter such labor market information as is appropriate for use in carrying out the purposes of this subchapter.
+
+#### (d) Treatment of benefits
+
+Section 142(b) of the Job Training Partnership Act \[29 U.S.C. 1552(b)\] shall apply to the projects conducted under this subchapter as <sup>1</sup> such projects were conducted under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\].
+
+#### (e) Standards of conduct
+
+Programs that receive assistance under this subchapter shall establish and stringently enforce standards of conduct at the program site to promote proper moral and disciplinary conditions.
+
+(Pub. L. 101–610, title I, §177, Nov. 16, 1990, 104 Stat. 3163; Pub. L. 103–82, title I, §117, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 864, 918.)
+
+#### References in Text
+
+The Job Training Partnership Act, referred to in subsec. (d), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+
+#### Amendments
+
+1993—Subsec. (b)(3)(B). Pub. L. 103–82, §117(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “A participant in any program receiving assistance under this subchapter shall not perform any services or duties or engage in activities that will supplant the hiring of employed workers.”
+
+Subsec. (b)(3)(C)(iii). Pub. L. 103–82, §117(2), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “employee who is subject to a reduction in force;”.
+
+Subsec. (c). Pub. L. 103–82, §402(b)(1), substituted “Corporation” for “Commission”.
+
+#### Effective Date of 1993 Amendment
+
+Amendment by section 117 of Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
+
+Amendment by section 402(b)(1) of Pub. L. 103–82 effective Oct. 1, 1993, see section 406(a) of Pub. L. 103–82, set out as a note under section 5061 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 12525, 12526, 12544, 12561, 12583, 12632, 12636, 12653c, 12656 of this title; title 16 section 1728.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “as if”.</i>
+

@@ -1,0 +1,100 @@
+### §6374c. Interagency Commission on Alternative Motor Fuels
+
+#### (a) Establishment
+
+There is established a Commission to be known as the Interagency Commission on Alternative Motor Fuels.
+
+#### (b) Membership
+
+The Commission shall be composed of members as follows:
+
+&emsp;(1) the Secretary of Energy, or the designee of the Secretary, who shall be the chairperson of the Commission;
+
+&emsp;(2) the Secretary of Defense or the designee of such Secretary;
+
+&emsp;(3) the Administrator of the Environmental Protection Agency or the designee of such Administrator;
+
+&emsp;(4) the Secretary of Transportation or the designee of such Secretary;
+
+&emsp;(5) the Postmaster General or the designee of the Postmaster General;
+
+&emsp;(6) the Administrator of the General Services Administration or the designee of such Administrator;
+
+&emsp;(7) the Administrator of the Occupational Safety and Health Administration or the designee of such Administrator; and
+
+&emsp;(8) such other officers and employees of the Federal Government as may be appointed to the Commission by the President.
+
+#### (c) Operations
+
+(1) The Commission shall meet regularly as necessary to carry out the purposes of this section. Meetings shall be at the call of the chairperson of the Commission. The Commission shall meet to consider any report of the Commission before such report is submitted to the Congress.
+
+(2) The Secretary shall provide the Commission with such staff and office facilities as the Secretary, following consultation with the Commission, considers necessary to permit the Commission to carry out its functions under this section.
+
+(3) Subject to applicable law, all expenses of the Commission shall be paid from funds available to the Secretary, except that salaries of Commission members shall be paid by their home agencies.
+
+#### (d) Functions
+
+(1) The Commission shall coordinate Federal agency efforts to develop and implement a national alternative fuels policy.
+
+(2) The Commission shall ensure the development of a long-term plan for the commercialization of alternative fuels.
+
+(3) The Commission shall ensure communication among representatives of all Federal agencies that are involved in alternative fuels projects or that have an interest in such projects.
+
+(4) The Commission shall provide for the exchange of information among persons working with, or interested in working with, the commercialization of alternative fuels.
+
+#### (e) United States Alternative Fuels Council
+
+(1) The chairperson of the Commission shall, consistent with the Federal Advisory Committee Act, establish a United States Alternative Fuels Council to report to the Commission about matters related to alternative fuels.
+
+(2) The Council shall be composed of members as follows:
+
+&emsp;(A) one Member of the House of Representatives appointed by the Speaker of the House of Representatives;
+
+&emsp;(B) one Member of the House of Representatives appointed by the Minority Leader of the House of Representatives;
+
+&emsp;(C) one Member of the Senate appointed by the Majority Leader of the Senate;
+
+&emsp;(D) one Member of the Senate appointed by the Minority Leader of the Senate; and
+
+&emsp;(E) 16 persons from the private sector or from State or local government who are knowledgeable about alternative fuels and their possible uses and the production of alternative fuels and vehicles powered by such fuels, to be appointed by the chairperson of the Commission.
+
+(3) The Council shall meet at the call of the chairperson of the Commission.
+
+#### (f) Detail of Federal personnel
+
+Upon request of the Commission, the head of any Federal agency may detail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist the Commission in carrying out its duties under this section.
+
+#### (g) Reports
+
+(1) The Commission shall, not later than September 30 of each of the years 1990 and 1991, submit an interim report to the Committees on Commerce, Science, and Transportation and Governmental Affairs of the Senate, and the Committee on Energy and Commerce of the House of Representatives, setting forth the actions taken by the Commission under this section.
+
+(2) The Commission shall, not later than September 30, 1992, submit a final report to the Committees on Commerce, Science, and Transportation and Governmental Affairs of the Senate, and the Committee on Energy and Commerce of the House of Representatives, setting forth the actions taken by the Commission under this section.
+
+#### (h) Termination
+
+The Commission and the Council shall terminate upon submission of the final report of the Commission under subsection (g)(2) of this section.
+
+#### (i) Definitions
+
+For purposes of this section—
+
+&emsp;(1) the term “Commission” means the Interagency Commission on Alternative Motor Fuels established in subsection (a) of this section; and
+
+&emsp;(2) the term “Council” means the United States Alternative Fuels Council established under subsection (e)(1) of this section.
+
+(Pub. L. 94–163, title III, §400DD, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2445; amended Pub. L. 102–486, title IV, §402(2), (3), Oct. 24, 1992, 106 Stat. 2876.)
+
+#### References in Text
+
+The Federal Advisory Committee Act, referred to in subsec. (e)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1992—Subsec. (d). Pub. L. 102–486 substituted “alternative fuels” for “alternative motor fuels” in pars. (1), (3), and (4) and “alternative fuels” for “alcohols, natural gas, and other potential alternative motor fuels” in par. (2).
+
+Subsec. (e). Pub. L. 102–486, §402(3), substituted “alternative fuels” for “alternative motor fuels” in par. (1) and in two places in par. (2)(E).
+
+#### Change of Name
+
+Committee on Energy and Commerce of House of Representatives changed to Committee on Commerceof House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+

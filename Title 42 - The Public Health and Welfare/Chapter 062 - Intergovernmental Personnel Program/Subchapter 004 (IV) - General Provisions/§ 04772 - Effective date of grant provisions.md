@@ -1,0 +1,14 @@
+### §4772. Effective date of grant provisions
+
+Grant provisions of this chapter shall become effective one hundred and eighty days following January 5, 1971.
+
+(Pub. L. 91–648, title V, §513, Jan. 5, 1971, 84 Stat. 1929.)
+
+#### References in Text
+
+This chapter, referred to in text, means the provisions of subchapters I, II, III, and IV of this chapter. See section 4761 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 4723, 4743 of this title.
+

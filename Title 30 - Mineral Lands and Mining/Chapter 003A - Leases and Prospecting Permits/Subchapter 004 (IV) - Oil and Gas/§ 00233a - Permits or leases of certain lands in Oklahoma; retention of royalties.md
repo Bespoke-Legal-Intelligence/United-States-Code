@@ -1,0 +1,16 @@
+### §233a. Permits or leases of certain lands in Oklahoma; retention of royalties
+
+The Secretary of the Interior is directed to retain in his custody until otherwise directed by law the 121/2 per centum and other royalties heretofore or hereafter received by him in pursuance of section 233 <sup>1</sup> of this title.
+
+(Mar. 4, 1925, ch. 550, §2, 43 Stat. 1302.)
+
+#### References in Text
+
+Section 233 of this title, referred to in text, was repealed by act June 22, 1948, ch. 605, §3, 62 Stat. 576.
+
+#### Codification
+
+Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

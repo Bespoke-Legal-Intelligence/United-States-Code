@@ -1,0 +1,16 @@
+### §2680–1. Deadline for responses to questions from Congressional committees
+
+#### (a) In general
+
+An officer or employee of the Department of State to whom a written or oral question is addressed by any member of a committee specified in subsection (b) of this section, acting within his official capacity, shall respond to such question within 21 days unless the Secretary of State submits a letter to such member explaining why a timely response cannot be made.
+
+#### (b) Specified committees
+
+The committees referred to in subsection (a) of this section are the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+(Pub. L. 102–138, title I, §196, Oct. 28, 1991, 105 Stat. 684.)
+
+#### Change of Name
+
+Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+

@@ -1,0 +1,54 @@
+### §31329. Court sales of documented vessels
+
+(a) A documented vessel may be sold by order of a district court only to—
+
+&emsp;(1) a person eligible to own a documented vessel under section 12102 of this title; or
+
+&emsp;(2) a mortgagee of that vessel.
+
+(b) When a vessel is sold to a mortgagee not eligible to own a documented vessel—
+
+&emsp;(1) the vessel must be held by the mortgagee for resale;
+
+&emsp;(2) the vessel held by the mortgagee is subject to section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242); and
+
+&emsp;(3) the sale of the vessel to the mortgagee is not a sale foreign within the terms of the first proviso of section 27 of the Merchant Marine Act, 1920 (46 App. U.S.C. 883).
+
+(c) Unless waived by the Secretary of Transportation, a person purchasing a vessel by court order under subsection (a)(1) of this section or from a mortgagee under subsection (a)(2) of this section must document the vessel under chapter 121 of this title.
+
+(d) The vessel may be operated by the mortgagee not eligible to own a documented vessel only with the approval of the Secretary.
+
+(e) A sale of a vessel contrary to this section is void.
+
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4747.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source section (U.S. Code)</i>
+
+31329
+
+46:961(f)
+
+Section 31329 sets out certain restrictions on the court sale of a documented vessel.
+
+Section 31329(a) restricts the sale only to a person eligible to own a documented vessel under section 12102 of title 46 or to the mortgagee, which may be a trustee acting as a holder of a preferred mortgage on a documented vessel for the benefit of a person not eligible to be the holder of a preferred mortgage on that vessel.
+
+Section 31329(b) sets out conditions on the sale to a trustee acting as a holder of a preferred mortgage on a documented vessel for the benefit of a person not eligible to be the holder of a preferred mortgage on that vessel. First, the vessel must be held by the trustee for resale. Second, while being held for resale, the vessel is subject to requisition or purchase during a national emergency under section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242). And third, the sale of the vessel to the trustee is not a sale foreign within the terms of the First Proviso of section 27 of the Merchant Marine Act, 1920 (46 App. U.S.C. 883).
+
+Section 31329(c) requires a person that is eligible to document the vessel that purchases a vessel from the court to document the vessel. This subsection also requires the person purchasing the vessel from the trustee to document it, thereby restricting to whom the trustee can sell the vessel. Many documented vessels have no national defense utility, such as recreational vessels and fishing vessels. Therefore, both of these restrictions can be waived by the Secretary. As previously discussed, these waivers can be on a case-by-case basis or with a blanket waiver.
+
+Section 31329(d) prohibits a trustee from operating the vessel without the approval of the Secretary.
+
+Section 31329(e) voids any sale that is done contrary to this section.
+
+#### house floor statement
+
+Under section 31329(d) a vessel may be operated by the trustee only with the approval of the Secretary. Under current law a vessel may be documented by a trust if all of the members of the trust are citizens of the United States. If the trust buying the vessel at the court sale includes foreign investors, the vessel cannot be documented. The Committee intends in this section that the vessel will only be “operated” in a maintenance manner, but not in a commercial service.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 31330 of this title.
+

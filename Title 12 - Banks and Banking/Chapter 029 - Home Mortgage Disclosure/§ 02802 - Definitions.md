@@ -1,0 +1,50 @@
+### §2802. Definitions
+
+For purposes of this chapter—
+
+&emsp;(1) the term “mortgage loan” means a loan which is secured by residential real property or a home improvement loan;
+
+&emsp;(2) the term “depository institution”—
+
+&emsp;&emsp;(A) means—
+
+&emsp;&emsp;&emsp;(i) any bank (as defined in section 1813(a)(1) of this title);
+
+&emsp;&emsp;&emsp;(ii) any savings association (as defined in section 1813(b)(1) of this title); and
+
+&emsp;&emsp;&emsp;(iii) any credit union,
+
+> &emsp;&emsp;which makes federally related mortgage loans as determined by the Board; and
+
+&emsp;&emsp;(B) includes any other lending institution (as defined in paragraph (4)) other than any institution described in subparagraph (A);
+
+&emsp;(3) the term “completed application” means an application in which the creditor has received the information that is regularly obtained in evaluating applications for the amount and type of credit requested;
+
+&emsp;(4) the term “other lending institutions” means any person engaged for profit in the business of mortgage lending;
+
+&emsp;(5) the term “Board” means the Board of Governors of the Federal Reserve System; and
+
+&emsp;(6) the term “Secretary” means the Secretary of Housing and Urban Development.
+
+(Pub. L. 94–200, title III, §303, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 100–242, title V, §565(a)(1), Feb. 5, 1988, 101 Stat. 1945; Pub. L. 101–73, title XII, §1211(d), (e), Aug. 9, 1989, 103 Stat. 525.)
+
+#### Amendments
+
+1989—Par. (2). Pub. L. 101–73, §1211(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘depository institution’ means any commercial bank, savings bank, savings and loan association, building and loan association, homestead association (including cooperative banks) or credit union which makes federally related mortgage loans as determined by the Board, mortgage banking subsidiary of a bank holding company or savings and loan holding company, or savings and loan service corporation that originates or purchases mortgage loans;”.
+
+Pars. (3) to (6). Pub. L. 101–73, §1211(e), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
+
+1988—Par. (2). Pub. L. 100–242 struck out “or” before “homestead association” and inserted before semicolon at end “, mortgage banking subsidiary of a bank holding company or savings and loan holding company, or savings and loan service corporation that originates or purchases mortgage loans”.
+
+#### Effective Date of 1989 Amendment
+
+Section 1211(k) of Pub. L. 101–73 provided that: “The amendments made by this section \[amending this section and sections 2803, 2804, 2807, and 2810 of this title\] shall apply to each calendar year beginning after December 31, 1989.”
+
+#### Effective Date of 1988 Amendment
+
+Section 565(a)(4) of Pub. L. 100–242, as amended by Pub. L. 100–628, title X, §1087(a), Nov. 7, 1988, 102 Stat. 3280, provided that: “The amendments made by this subsection \[amending sections 2802, 2803, and 2810 of this title\] shall be applicable to the portion of calendar year 1988 that begins August 19, 1988, and to each calendar year beginning after December 31, 1988.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2803, 2808 of this title.
+

@@ -1,0 +1,90 @@
+### §5546. Pay for Sunday and holiday work
+
+(a) An employee who performs work during a regularly scheduled 8-hour period of service which is not overtime work as defined by section 5542(a) of this title a part of which is performed on Sunday is entitled to pay for the entire period of service at the rate of his basic pay, plus premium pay at a rate equal to 25 percent of his rate of basic pay.
+
+(b) An employee who performs work on a holiday designated by Federal Statute, Executive order, or with respect to an employee of the government of the District of Columbia, by order of the District of Columbia Council, is entitled to pay at the rate of his basic pay, plus premium pay at a rate equal to the rate of his basic pay, for that holiday work which is not—
+
+&emsp;(1) in excess of 8 hours; or
+
+&emsp;(2) overtime work as defined by section 5542(a) of this title.
+
+(c) An employee who is required to perform any work on a designated holiday is entitled to pay for at least 2 hours of holiday work.
+
+(d) An employee who performs overtime work as defined by section 5542(a) of this title on a Sunday or a designated holiday is entitled to pay for that overtime work in accordance with section 5542(a) of this title.
+
+(e) Premium pay under this section is in addition to premium pay which may be due for the same work under section 5545(a) and (b) of this title, providing premium pay for nightwork.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 488; Pub. L. 90–83, §1(29), Sept. 11, 1967, 81 Stat. 201; Pub. L. 90–623, §1(13), Oct. 22, 1968, 82 Stat. 1312.)
+
+Historical and Revision Notes<br>1966
+
+Act
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 922.
+
+June 30, 1945, ch. 212, §302, 59 Stat. 298.
+
+&nbsp;
+
+May 24, 1946, ch. 270, §11, 60 Stat. 218.
+
+&nbsp;
+
+Sept. 1, 1954, ch. 1208, §207, 68 Stat. 1110.
+
+&nbsp;
+
+July 18, 1958, Pub. L. 85–533, §1, 72 Stat. 377.
+
+In subsections (a) and (b), the word “officer” is omitted as included in “employee”.
+
+In subsections (b) and (c), the word “designated” is substituted for “such a” and “such” in former section 922(b) and (c) to identify the holiday as one designated by statute, Executive order, or the Board of Commissioners of the District of Columbia.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+1967
+
+Act
+
+<i>Section of title 5</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+5546(a)
+
+5 App.: 921a.
+
+July 18, 1966, Pub. L. 89–504, §405(b)(1), (c), 80 Stat. 297.
+
+In subsection (a), the words “An employee who performs work . . . is entitled to pay . . . at the rate of his basic pay” are coextensive with and substituted for “Any . . . service . . . performed . . . shall be compensated . . . at the rate of basic compensation of the officer or employee performing such work.” The words “section 5542(a) of this title” are substituted for “section 201 of this Act” to reflect the codification of that section in title 5, United States Code. The words “between midnight Saturday and midnight Sunday” are coextensive with and substituted for “within the period commencing at midnight Saturday and ending at midnight Sunday”.
+
+#### Amendments
+
+1968—Subsec. (b). Pub. L. 90–623, §1(13)(A), substituted “District of Columbia Council” for “Board of Commissioners of the District of Columbia”.
+
+Subsec. (d). Pub. L. 90–623, §1(13)(B), substituted “5542(a)” for “5442(a)”.
+
+#### Effective Date of 1968 Amendment
+
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, but amendment of subsec. (d) of this section by section 1(13)(B) of Pub. L. 90–623 effective as of Sept. 6, 1966, for all purposes, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
+
+#### Transfer of Functions
+
+District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, classified to section 1–211 of the District of Columbia Code, and replaced by Council of District of Columbia, as provided by Pub. L. 93–198, title IV, §401, Dec. 24, 1973, 87 Stat. 785, classified to section 1–221 of the District of Columbia Code.
+
+#### Cross References
+
+Legal public holidays, see section 6103 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5541, 5547, 6128 of this title; title 14 section 432; title 15 section 278e; title 20 section 241.
+

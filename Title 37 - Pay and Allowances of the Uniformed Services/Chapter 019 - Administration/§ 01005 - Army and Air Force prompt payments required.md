@@ -1,0 +1,22 @@
+### §1005. Army and Air Force: prompt payments required
+
+Members of the Army and of the Air Force shall be paid at such times that arrears will at no time be more than two months, unless circumstances make further arrears unavoidable.
+
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 490.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+1005
+
+37:310b.
+
+R.S. 1189.
+
+The applicability of this section to members of the Air Force is based on Department of Defense Transfer Order No. 25, dated October 14, 1948.
+

@@ -1,0 +1,130 @@
+### §458cc. Funding agreements
+
+#### (a) Authorization
+
+The Secretary shall negotiate and enter into an annual written funding agreement with the governing body of each participating tribal government in a manner consistent with the Federal Government's laws and trust relationship to and responsibility for the Indian people.
+
+#### (b) Contents
+
+Each funding agreement shall—
+
+&emsp;(1) authorize the tribe to plan, conduct, consolidate, and administer programs, services, functions, and activities, or portions thereof, administered by the Department of the Interior through the Bureau of Indian Affairs, without regard to the agency or office of the Bureau of Indian Affairs within which the program, service, function, and activity, or portion thereof, is performed, including funding for agency, area, and central office functions in accordance with subsection (g)(3) of this section, and including any program, service, function, and activity, or portion thereof, administered under the authority of—
+
+&emsp;&emsp;(A) the Act of April 16, 1934 (25 U.S.C. 452 et seq.);
+
+&emsp;&emsp;(B) section 13 of this title; and
+
+&emsp;&emsp;(C) programs, services, functions, and activities or portions thereof administered by the Secretary of the Interior that are otherwise available to Indian tribes or Indians for which appropriations are made to agencies other than the Department of the Interior;
+
+&emsp;(2) subject to such terms as may be negotiated, authorize the tribe to plan, conduct, consolidate, and administer programs, services, functions, and activities, or portions thereof, administered by the Department of the Interior, other than through the Bureau of Indian Affairs, that are otherwise available to Indian tribes or Indians, as identified in section 458ee(c) of this title, except that nothing in this subsection may be construed to provide any tribe with a preference with respect to the opportunity of the tribe to administer programs, services, functions, and activities, or portions thereof, unless such preference is otherwise provided for by law;
+
+&emsp;(3) subject to the terms of the agreement, authorize the tribe to redesign or consolidate programs, services, functions, and activities, or portions thereof, and reallocate funds for such programs, services, functions, and activities, or portions thereof, except that, with respect to the reallocation, consolidation, and redesign of programs described in paragraph (2), a joint agreement between the Secretary and the tribe shall be required;
+
+&emsp;(4) prohibit the inclusion of funds provided—
+
+&emsp;&emsp;(A) pursuant to the Tribally Controlled Community College Assistance Act of 1978 (25 U.S.C. 1801 et seq.);
+
+&emsp;&emsp;(B) for elementary and secondary schools under the formula developed pursuant to section 2008 of this title; and
+
+&emsp;&emsp;(C) the Flathead Agency Irrigation Division or the Flathead Agency Power Division, except that nothing in this section shall affect the contract authority of such divisions under section 450f of this title;
+
+&emsp;(5) specify the services to be provided, the functions to be performed, and the responsibilities of the tribe and the Secretary pursuant to the agreement;
+
+&emsp;(6) authorize the tribe and the Secretary to reallocate funds or modify budget allocationswithin any year, and specify the procedures to be used;
+
+&emsp;(7) allow for retrocession of programs or portions of programs pursuant to section 450j(e) of this title;
+
+&emsp;(8) provide that, for the year for which, and to the extent to which, funding is provided to a tribe under this section, the tribe—
+
+&emsp;&emsp;(A) shall not be entitled to contract with the Secretary for such funds under section 450f of this title, except that such tribe shall be eligible for new programs on the same basis as other tribes; and
+
+&emsp;&emsp;(B) shall be responsible for the administration of programs, services, functions, and activities pursuant to agreements entered into under this section; and
+
+&emsp;(9) prohibit the Secretary from waiving, modifying, or diminishing in any way the trust responsibility of the United States with respect to Indian tribes and individual Indians that exists under treaties, Executive orders, and other laws.
+
+#### (c) Additional activities
+
+Each funding agreement negotiated pursuant to subsections (a) and (b) of this section may, in accordance to such additional terms as the parties deem appropriate, also include other programs, services, functions, and activities, or portions thereof, administered by the Secretary of the Interior which are of special geographic, historical, or cultural significance to the participating Indian tribe requesting a compact.
+
+#### (d) Provisions relating to Secretary
+
+Funding agreements negotiated between the Secretary and an Indian tribe shall include provisions—
+
+&emsp;(1) to monitor the performance of trust functions by the tribe through the annual trust evaluation, and
+
+&emsp;(2) for the Secretary to reassume a program, service, function, or activity, or portions thereof, if there is a finding of imminent jeopardy to a physical trust asset, natural resources, or public health and safety.
+
+#### (e) Construction projects
+
+(1) Regarding construction programs or projects, the Secretary and Indian tribes may negotiate for the inclusion of specific provisions of the Office of Federal Procurement and Policy Act \[41 U.S.C. 401 et seq.\] and Federal acquisition regulations in any funding agreement entered into under this subchapter. Absent a negotiated agreement, such provisions and regulatory requirements shall not apply.
+
+(2) In all construction projects performed pursuant to this part, the Secretary shall ensure that proper health and safety standards are provided for in the funding agreements.
+
+#### (f) Submission for review
+
+Not later than 90 days before the proposed effective date of an agreement entered into under this section, the Secretary shall submit a copy of such agreement to—
+
+&emsp;(1) each Indian tribe that is served by the Agency that is serving the tribe that is a party to the funding agreement;
+
+&emsp;(2) the Committee on Indian Affairs of the Senate; and
+
+&emsp;(3) the Subcommittee on Native American Affairs of the Committee on Natural Resources of the House of Representatives.
+
+#### (g) Payment
+
+(1) At the request of the governing body of the tribe and under the terms of an agreement entered into under this section, the Secretary shall provide funding to the tribe to carry out the agreement.
+
+(2) The funding agreements authorized by this part and title III of this Act shall provide for advance payments to the tribes in the form of annual or semi-annual installments at the discretion of the tribes.
+
+(3) Subject to paragraph (4) of this subsection and paragraphs (1) through (3) of subsection (b) of this section, the Secretary shall provide funds to the tribe under an agreement under this part for programs, services, functions, and activities, or portions thereof, in an amount equal to the amount that the tribe would have been eligible to receive under contracts and grants under this subchapter, including amounts for direct program and contract support costs and, in addition, any funds that are specifically or functionally related to the provision by the Secretary of services and benefits to the tribe or its members, without regard to the organization level within the Department where such functions are carried out.
+
+(4) Funds for trust services to individual Indians shall be available under an agreement entered into under this section only to the extent that the same services that would have been provided by the Secretary are provided to individual Indians by the tribe.
+
+#### (h) Civil actions
+
+(1) Except as provided in paragraph (2), for the purposes of section 450m–1 of this title, the term “contract” shall include agreements entered into under this part.
+
+(2) For the period that an agreement entered into under this part is in effect, the provisions of section 81 of this title, and section 476 of this title, shall not apply to attorney and other professional contracts by Indian tribal governments participating in Self-Governance under this part.
+
+#### (i) Facilitation
+
+(1) Except as otherwise provided by law, the Secretary shall interpret each Federal law and regulation in a manner that will facilitate—
+
+&emsp;(A) the inclusion of programs, services, functions, and activities in the agreements entered into under this section; and
+
+&emsp;(B) the implementation of agreements entered into under this section.
+
+(2)(A) A tribe may submit a written request for a waiver to the Secretary identifying the regulation sought to be waived and the basis for the request.
+
+(B) Not later than 60 days after receipt by the Secretary of a written request by a tribe to waive application of a Federal regulation for an agreement entered into under this section, the Secretary shall either approve or deny the requested waiver in writing to the tribe. A denial may be made only upon a specific finding by the Secretary that identified language in the regulation may not be waived because such waiver is prohibited by Federal law. The Secretary's decision shall be final for the Department.
+
+#### (j) Funds
+
+All funds provided under funding agreements entered into pursuant to this subchapter, and all funds provided under contracts or grants made pursuant to this subchapter, shall be treated as non-Federal funds for purposes of meeting matching requirements under any other Federal law.
+
+#### (k) Disclaimer
+
+Nothing in this section is intended or shall be construed to expand or alter existing statutory authorities in the Secretary so as to authorize the Secretary to enter into any agreement under subsection (b)(2) of this section and section 458ee(c)(1) of this title with respect to functions that are inherently Federal or where the statute establishing the existing program does not authorize the type of participation sought by the tribe: <i>Provided</i>, however an Indian tribe or tribes need not be identified in the authorizing statute in order for a program or element of a program to be included in a compact under subsection (b)(2) of this section.
+
+(Pub. L. 93–638, title IV, §403, as added Pub. L. 103–413, title II, §204, Oct. 25, 1994, 108 Stat. 4272.)
+
+#### References in Text
+
+Act of April 16, 1934, referred to in subsec. (b)(1)(A), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, as amended, popularly known as the Johnson-O'Malley Act, which is classified generally to section 452 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 452 of this title and Tables.
+
+The Tribally Controlled Community College Assistance Act of 1978, referred to in subsec. (b)(4)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+The Office of Federal Procurement Policy Act, referred to in subsec. (e)(1), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, as amended, which is classified principally to chapter 7 (§401 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 41 and Tables.
+
+This subchapter, referred to in subsecs. (e)(1), (g)(3), and (j), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
+Title III of this Act, referred to in subsec. (g)(2), is title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296, which is set out as a note under section 450f of this title.
+
+#### Change of Name
+
+Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 458ee of this title.
+

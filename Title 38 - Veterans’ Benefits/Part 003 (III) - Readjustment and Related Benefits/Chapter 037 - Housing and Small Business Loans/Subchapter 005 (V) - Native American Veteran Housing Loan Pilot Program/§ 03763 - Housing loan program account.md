@@ -1,0 +1,8 @@
+### §3763. Housing loan program account
+
+(a) There is hereby established in the Treasury of the United States an account known as the “Native American Veteran Housing Loan Program Account” (hereafter in this subchapter referred to as the “Account”).
+
+(b) The Account shall be available to the Secretary to carry out all operations relating to the making of direct housing loans to Native American veterans under this subchapter, including any administrative expenses relating to the making of such loans. Amounts in the Account shall be available without fiscal year limitation.
+
+(Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3639.)
+

@@ -1,0 +1,42 @@
+### §1958. Use of interstate commerce facilities in the commission of murder-for-hire
+
+(a) Whoever travels in or causes another (including the intended victim) to travel in interstate or foreign commerce, or uses or causes another (including the intended victim) to use the mail or any facility in interstate or foreign commerce, with intent that a murder be committed in violation of the laws of any State or the United States as consideration for the receipt of, or as consideration for a promise or agreement to pay, anything of pecuniary value, or who conspires to do so <sup>1</sup> shall be fined under this title or imprisoned for not more than ten years, or both; and if personal injury results, shall be fined under this title and <sup>2</sup> imprisoned for not more than twenty years, or both; and if death results, shall be punished by death or life imprisonment, or shall be fined not more than $250,000, or both.
+
+(b) As used in this section and section 1959—
+
+&emsp;(1) “anything of pecuniary value” means anything of value in the form of money, a negotiable instrument, a commercial interest, or anything else the primary significance of which is economic advantage;
+
+&emsp;(2) “facility of interstate commerce” includes means of transportation and communication; and
+
+&emsp;(3) “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+(Added Pub. L. 98–473, title II, §1002(a), Oct. 12, 1984, 98 Stat. 2136, §1952A; renumbered §1958 and amended Pub. L. 100–690, title VII, §§7053(a), 7058(b), Nov. 18, 1988, 102 Stat. 4402, 4403; Pub. L. 101–647, title XII, §1205(k), title XXXV, §3558, Nov. 29, 1990, 104 Stat. 4831, 4927; Pub. L. 103–322, title VI, §60003(a)(11), title XIV, §140007(b), title XXXII, §320105, title XXXIII, §330016(1)(L), (N), (Q), Sept. 13, 1994, 108 Stat. 1969, 2033, 2111, 2147, 2148.)
+
+#### Amendments
+
+1994—Pub. L. 103–322, §330016(1)(Q), which directed the amendment of this section by substituting “under this title” for “not more than $50,000”, could not be executed because the phrase “not more than $50,000” did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 103–322, §60003(a)(11). See below.
+
+Subsec. (a). Pub. L. 103–322, §330016(1)(N), substituted “fined under this title” for “fined not more than $20,000” after “injury results, shall be”.
+
+Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” before “or imprisoned for not more than ten years”.
+
+Pub. L. 103–322, §§140007(b), 320105, amended subsec. (a) identically, inserting “or who conspires to do so” after “anything of pecuniary value,”.
+
+Pub. L. 103–322, §60003(a)(11), substituted “and if death results, shall be punished by death or life imprisonment, or shall be fined not more than $250,000, or both” for “and if death results, shall be subject to imprisonment for any term of years or for life, or shall be fined not more than $50,000, or both” before period at end.
+
+1990—Subsec. (b). Pub. L. 101–647, §3558, substituted “section 1959” for “section 1952B” in introductory provisions.
+
+Subsec. (b)(3). Pub. L. 101–647, §1205(k), added par. (3).
+
+1988—Pub. L. 100–690, §7053(a), renumbered section 1952A of this title as this section.
+
+Subsec. (a). Pub. L. 100–690, §7058(b), substituted “ten years” for “five years”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1961, 2516 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “or”.</i>
+

@@ -1,0 +1,88 @@
+### §1720D. Counseling and treatment for sexual trauma
+
+(a)(1) During the period through December 31, 1998, the Secretary may provide counseling to a veteran who the Secretary determines requires such counseling to overcome psychological trauma, which in the judgment of a mental health professional employed by the Department, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred while the veteran was serving on active duty.
+
+(2) During the period referred to in paragraph (1), the Secretary may provide appropriate care and services to a veteran for an injury, illness, or other psychological condition that the Secretary determines to be the result of a physical assault, battery, or harassment referred to in that paragraph.
+
+(3) In furnishing counseling to a veteran under this subsection, the Secretary may, during the period through December 31, 1998, provide such counseling pursuant to a contract with a qualified mental health professional if (A) in the judgment of a mental health professional employed by the Department, the receipt of counseling by that veteran in facilities of the Department would be clinically inadvisable, or (B) Department facilities are not capable of furnishing such counseling to that veteran economically because of geographical inaccessibility.
+
+(b)(1) The Secretary shall give priority to the establishment and operation of the program to provide counseling and care and services under subsection (a). In the case of a veteran eligible for counseling and care and services under subsection (a), the Secretary shall ensure that the veteran is furnished counseling and care and services under this section in a way that is coordinated with the furnishing of such care and services under this chapter.
+
+(2) In establishing a program to provide counseling under subsection (a), the Secretary shall—
+
+&emsp;(A) provide for appropriate training of mental health professionals and such other health care personnel as the Secretary determines necessary to carry out the program effectively;
+
+&emsp;(B) seek to ensure that such counseling is furnished in a setting that is therapeutically appropriate, taking into account the circumstances that resulted in the need for such counseling; and
+
+&emsp;(C) provide referral services to assist veterans who are not eligible for services under this chapter to obtain those from sources outside the Department.
+
+(c) The Secretary shall provide information on the counseling available to veterans under this section. Efforts by the Secretary to provide such information—
+
+&emsp;(1) shall include availability of a toll-free telephone number (commonly referred to as an 800 number); and
+
+&emsp;(2) shall include coordination with the Secretary of Defense seeking to ensure that individuals who are being separated from active military, naval, or air service are provided appropriate information about programs, requirements, and procedures for applying for counseling under this section.
+
+(d) In this section, the term “sexual harassment” means repeated, unsolicited verbal or physical contact of a sexual nature which is threatening in character.
+
+(Added Pub. L. 102–585, title I, §102(a)(1), Nov. 4, 1992, 106 Stat. 4945; amended Pub. L. 103–452, title I, §101(a)–(d), (f)(1), (2)(A), (g)(1), Nov. 2, 1994, 108 Stat. 4783, 4784.)
+
+#### Amendments
+
+1994—Pub. L. 103–452, §101(f)(2)(A), substituted “and treatment” for “to women veterans” in section catchline.
+
+Subsec. (a)(1). Pub. L. 103–452, §101(b)(1), (f)(1)(A), substituted “December 31, 1998,” for “December 31, 1995,” and struck out “woman” after “counseling to a”.
+
+Subsec. (a)(2). Pub. L. 103–452, §101(a), added par. (2) and struck out former par. (2) which read as follows: “To be eligible to receive counseling under this subsection, a veteran must seek such counseling from the Secretary within two years after the date of the veteran's discharge or release from active military, naval, or air service.”
+
+Subsec. (a)(3). Pub. L. 103–452, §101(b)(2), substituted “December 31, 1998,” for “December 31, 1994,”.
+
+Subsec. (b). Pub. L. 103–452, §101(c), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “In providing services to a veteran under subsection (a), the period for which counseling is provided may not exceed one year from the date of the commencement of the furnishing of such counseling to the veteran. However, the Secretary may authorize a longer period in any case if, in the judgment of the Secretary, a longer period of counseling is required.”
+
+Subsec. (b)(1). Pub. L. 103–452, §101(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall give priority to the establishment and operation of the program to provide counseling under subsection (a). In the case of a veteran eligible for such counseling who requires other care or services under this chapter for trauma described in subsection (a)(1), the Secretary shall ensure that the veteran is furnished counseling under this section in a way that is coordinated with the furnishing of such other care and services under this chapter.”
+
+Subsec. (b)(2)(C). Pub. L. 103–452, §101(f)(1)(B), struck out “women” after “assist”.
+
+Subsec. (c). Pub. L. 103–452, §101(f)(1)(B), struck out “women” after “available to” in introductory provisions.
+
+Pub. L. 103–452, §101(c)(2), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+
+Subsec. (c)(1). Pub. L. 103–452, §101(g)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “may include establishment of an information system involving the use of a toll-free telephone number (commonly referred to as an 800 number), and”.
+
+Subsec. (c)(2). Pub. L. 103–452, §101(f)(1)(C), substituted “individuals” for “women”.
+
+Subsecs. (d), (e). Pub. L. 103–452, §101(c)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+
+#### Information on Telephone Counseling Availability; Personnel Training; Client Confidentiality; Publicity; Report
+
+Section 101(g)(2) to (5) of Pub. L. 103–452 provided that:
+
+“(2) In providing information on counseling available to veterans as required under section 1720D(c)(1) of title 38, United States Code (as amended by paragraph (1)), the Secretary of Veterans Affairs shall ensure that theDepartment of Veterans Affairs personnel who provide assistance under such section are trained in the provision to persons who have experienced sexual trauma of information about the care and services relating to sexual trauma that are available to veterans in the communities in which such veterans reside, including care and services available under programs of the Department (including the care and services available under section 1720D of such title) and from non-Department agencies or organizations.
+
+“(3) The telephone assistance service shall be operated in a manner that protects the confidentiality of persons who place calls to the system.
+
+“(4) The Secretary shall ensure that information about the availability of the telephone assistance service is visibly posted in Department medical facilities and is advertised through public service announcements, pamphlets, and other means.
+
+“(5) Not later than 18 months after the date of the enactment of this Act \[Nov. 2, 1994\], the Secretary shall submit to Congress a report on the operation of the telephone assistance service required under section 1720D(c)(1) of title 38, United States Code (as amended by paragraph (1)). The report shall set forth the following:
+
+&emsp;“(A) The number of persons who sought information during the period covered by the report through a toll-free telephone number regarding services available to veterans relating to sexual trauma, with a separate display of the number of such persons arrayed by State (as such term is defined in section 101(20) of title 38, United States Code).
+
+&emsp;“(B) A description of the training provided to the personnel who provide such assistance.
+
+&emsp;“(C) The recommendations and plans of the Secretary for the improvement of the service.”
+
+#### Transition Period for Eligibility for Counseling
+
+Section 102(b) of Pub. L. 102–585, as amended by Pub. L. 103–210, §2(b), Dec. 20, 1993, 107 Stat. 2497, provided that in the case of a veteran who was discharged or released from active military, naval, or air service before Dec. 31, 1992, the two-year period specified in 38 U.S.C. 1720D(a)(2) was to be treated as ending on Dec. 31, 1994, prior to repeal by Pub. L. 103–452, title I, §101(h), Nov. 2, 1994, 108 Stat. 4785.
+
+#### Commencement of Provision of Information on Services
+
+Section 104 of Pub. L. 102–585 directed Secretary of Veterans Affairs, not later than 90 days after Nov. 4, 1992, to commence the provision of information on the counseling relating to sexual trauma that is available to women veterans under 38 U.S.C. 1720D.
+
+#### Report on Implementation of Sexual Trauma Counseling Program
+
+Section 105 of Pub. L. 102–585 directed Secretary of Veterans Affairs, not later than Mar. 31, 1994, to submit to Congress a comprehensive report on the Secretary's actions under 38 U.S.C. 1720D.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1712 of this title.
+

@@ -1,0 +1,26 @@
+### §1351. Reports on violations
+
+If an officer or employee of an executive agency or an officer or employee of the District ofColumbia government violates section 1341(a) or 1342 of this title, the head of the agency or the Mayor of the District of Columbia, as the case may be, shall report immediately to the President and Congress all relevant facts and a statement of actions taken.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 926.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+1351
+
+31:665(i)(2)(related to (a), (b)).
+
+R.S. §3679(i)(2)(related to (a), (b)); Mar. 3, 1905, ch. 1404, §4(1st par.), 33 Stat. 1257; Feb. 27, 1906, ch. 510, §3, 34 Stat. 48; restated Sept. 6, 1950, ch. 896, §1211, 64 Stat. 768.
+
+The words “executive agency” are substituted for “agency” because the definition of “agency” in 31:665(d)(2) applies to the source provisions restated in the section and because of section 102 of the revised title. The word “Mayor” is used because of Reorganization Plan No. 3 of 1967 (eff. Aug. 11, 1967, 81 Stat. 948) and sections 421, 422, and 771 of the District of Columbia Self-Government and Governmental Reorganization Act (Pub. L. 93–198, 87 Stat. 789, 818). The word “President” is substituted for “President, through the Director of the Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 2 section 60a–2; title 5 section 5306; title 22 sections 277d–3, 1461b, 3723; title 42 sections 2204, 2204a, 2210, 2295, 2394.
+

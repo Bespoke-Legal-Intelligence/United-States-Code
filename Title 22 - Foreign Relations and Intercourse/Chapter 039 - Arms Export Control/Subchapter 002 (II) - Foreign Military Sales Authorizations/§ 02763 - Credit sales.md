@@ -1,0 +1,82 @@
+### §2763. Credit sales
+
+#### (a) Financing procurement of defense articles and services, and design and construction services
+
+The President is authorized to finance the procurement of defense articles, defense services, and design and construction services by friendly foreign countries and international organizations, on such terms and conditions as he may determine consistent with the requirements of this section. Notwithstanding any other provision of law, and subject to the regular notification requirements of the Committees on Appropriations, the authority of this section may be used to provide financing to Israel and Egypt for the procurement by leasing (including leasing with an option to purchase) of defense articles from United States commercial suppliers, not including Major Defense Equipment (other than helicopters and other types of aircraft having possible civilian application), if the President determines that there are compelling foreign policy or national security reasons for those defense articles being provided by commercial lease rather than by government-to-government sale under this chapter.
+
+#### (b) Repayment period
+
+The President shall require repayment in United States dollars within a period not to exceed twelve years after the loan agreement with the country or international organization is signed on behalf of the United States Government, unless a longer period is specifically authorized by statute for that country or international organization.
+
+#### (c) Interest rate; definitions
+
+(1) The President shall charge interest under this section at such rate as he may determine, except that such rate may not be less than 5 percent per year.
+
+(2) For purposes of financing provided under this section—
+
+&emsp;(A) the term “concessional rate of interest” means any rate of interest which is less than market rates of interest; and
+
+&emsp;(B) the term “market rate of interest” means any rate of interest which is equal to or greater than the current average interest rate (as of the last day of the month preceding the financing of the procurement under this section) that the United States Government pays on outstanding marketable obligations of comparable maturity.
+
+#### (d) Participations in credits
+
+References in any law to credits extended under this section shall be deemed to include reference to participations in credits.
+
+#### (e) Payments on account of prior credits or loans
+
+(1) Funds made available to carry out this section may be used by a foreign country to make payments of principal and interest which it owes to the United States Government on account of credits previously extended under this section or loans previously guaranteed under section 2764 of this title, subject to paragraph (2).
+
+(2) Funds made available to carry out this section may not be used for prepayment of principal or interest pursuant to the authority of paragraph (1).
+
+(Pub. L. 90–629, ch. 2, §23, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 93–559, §45(a)(2), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §208(a), June 30, 1976, 90 Stat. 739; Pub. L. 96–533, title I, §105(b)(3), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 99–83, title I, §102, Aug. 8, 1985, 99 Stat. 195; Pub. L. 100–202, §101(e) \[title V, §572\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–176; Pub. L. 101–513, title V, §580, Nov. 5, 1990, 104 Stat. 2045.)
+
+#### Amendments
+
+1990—Subsec. (e). Pub. L. 101–513 added subsec. (e).
+
+1987—Subsec. (a). Pub. L. 100–202 inserted sentence at end authorizing financing to Israel and Egypt for commercial leasing of defense articles, not including Major Defense Equipment, with exception for certain aircraft, upon a Presidential determination that there are compelling foreign policy or national defense reasons for such leasing.
+
+1985—Pub. L. 99–83 amended section generally. Prior to amendment, section read as follows: “The President is authorized to finance procurements of defense articles, defense services, and design and construction services by friendly foreign countries and international organizations on terms requiring the payment to the United States Government in United States dollars of—
+
+&emsp;“(1) the value of such articles or services within a period not to exceed twelve years after the delivery of such articles or the rendering of such services; and
+
+&emsp;“(2) interest on the unpaid balance of that obligation for payment of the value of such articles or services, at a rate equivalent to the current average interest rate, as of the last day of the month preceding the financing of such procurement, that the United States Government pays on outstanding marketable obligations of comparable maturity, unless the President certifies to Congress that the national interest requires a lesser rate of interest and states in the certification the lesser rate so required and the justification therefor.”
+
+1980—Pub. L. 96–533 substituted “defense articles, defense services, and design and construction services” for “defense articles and defense services”.
+
+1976—Par. (1). Pub. L. 94–329 substituted “twelve years” for “ten years”.
+
+1974—Pub. L. 93–559 incorporated existing provisions in cl. (1) and added cl. (2).
+
+#### Effective Date of 1985 Amendment
+
+Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
+
+#### Effective Date of 1976 Amendment
+
+Section 208(b) of Pub. L. 94–329 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to financing under agreements entered into on or after the date of enactment of this Act \[June 30, 1976\] for the procurement of defense articles to be delivered, or defense services to be rendered, after such date.”
+
+#### Delegation of Functions
+
+Functions of President under this section and section 580 of Pub. L. 100–461, see Similar Provisions note below, except those functions relating to determinations of a rate of interest which is less than the market rate, delegated to Secretary of Defense, to be exercised in consultation with Secretary of State and Secretary of the Treasury, by section 1(e) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+
+#### Similar Provisions
+
+Provisions similar to those in last sentence of subsec. (a) of this section are contained in the following appropriation acts:
+
+Pub. L. 103–306, title V, §530, Aug. 23, 1994, 108 Stat. 1635.
+
+Pub. L. 103–87, title V, §530, Sept. 30, 1993, 107 Stat. 954.
+
+Pub. L. 102–391, title V, §558, Oct. 6, 1992, 106 Stat. 1676.
+
+Pub. L. 101–513, title V, §561, Nov. 5, 1990, 104 Stat. 2026.
+
+Pub. L. 101–167, title V, §571, Nov. 21, 1989, 103 Stat. 1245.
+
+Pub. L. 100–461, title V, §580, Oct. 1, 1988, 102 Stat. 2268–48.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2291c, 2311, 2360, 2761, 2764, 2771, 2774, 2775, 2776, 2777, 2791, 5854 of this title.
+

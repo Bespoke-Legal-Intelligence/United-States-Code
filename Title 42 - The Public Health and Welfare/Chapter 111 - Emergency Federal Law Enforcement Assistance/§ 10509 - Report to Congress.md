@@ -1,0 +1,6 @@
+### §10509. Report to Congress
+
+Not later than April 1 of each year, the Attorney General shall submit to the President, to the Speaker of the House of Representatives, and to the President of the Senate a report describing Federal law enforcement assistance provided under this chapter during the calendar year preceding the date such report is made.
+
+(Pub. L. 98–473, title II, §609U, Oct. 12, 1984, 98 Stat. 2106.)
+

@@ -1,0 +1,8529 @@
+{
+ "built_by": "uscode_git_v0.1.12",
+ "eid": "USCODE-title21",
+ "package": "USCODE-1994-title21",
+ "pieces": [
+  {
+   "id": "21_",
+   "marks": [
+    [
+     "L",
+     3,
+     "[Page 1]",
+     true
+    ]
+   ],
+   "path": "README.md",
+   "printed_pages": [
+    1,
+    1
+   ]
+  },
+  {
+   "id": "21_-ch1",
+   "marks": [],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/README.md",
+   "printed_pages": [
+    1,
+    1
+   ]
+  },
+  {
+   "id": "21_-ch1-scI",
+   "marks": [],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 001 (I) - Federal Food and Drugs Act of 1906/README.md",
+   "printed_pages": [
+    1,
+    1
+   ]
+  },
+  {
+   "id": "21_1_to_5",
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       496,
+       "[Page 2]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 001 (I) - Federal Food and Drugs Act of 1906/§ 00001 to 5 - Repealed. June 25, 1938, ch. 675, §902(a), 52 Stat. 1059.md",
+   "printed_pages": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "21_6",
+   "marks": [],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 001 (I) - Federal Food and Drugs Act of 1906/§ 00006 - Transferred.md",
+   "printed_pages": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "21_7_to_14",
+   "marks": [],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 001 (I) - Federal Food and Drugs Act of 1906/§ 00007 to 14 - Repealed. June 25, 1938, ch. 675, §902(a), 52 Stat. 1059.md",
+   "printed_pages": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "21_14a",
+   "marks": [],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 001 (I) - Federal Food and Drugs Act of 1906/§ 00014a - Transferred.md",
+   "printed_pages": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "21_15",
+   "marks": [],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 001 (I) - Federal Food and Drugs Act of 1906/§ 00015 - Repealed. June 25, 1938, ch. 675, §902(a), 52 Stat. 1059.md",
+   "printed_pages": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "21_-ch1-scII",
+   "marks": [],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 002 (II) - Miscellaneous Provisions/README.md",
+   "printed_pages": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "21_16",
+   "marks": [],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 002 (II) - Miscellaneous Provisions/§ 00016 - Introduction into, or sale in, State or Territory or District of Columbia of dairy or food products falsely labeled or branded.md",
+   "printed_pages": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "21_17",
+   "marks": [],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 002 (II) - Miscellaneous Provisions/§ 00017 - Penalty for sale or introduction of falsely labeled dairy or food products; venue.md",
+   "printed_pages": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "21_18",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       141,
+       "[Page 3]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 002 (II) - Miscellaneous Provisions/§ 00018 - Suspension of importation of adulterated articles.md",
+   "printed_pages": [
+    2,
+    3
+   ]
+  },
+  {
+   "id": "21_19",
+   "marks": [],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 002 (II) - Miscellaneous Provisions/§ 00019 - Repealed. May 29, 1928, ch. 901, §1(100), 45 Stat. 993.md",
+   "printed_pages": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "21_20",
+   "marks": [],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 002 (II) - Miscellaneous Provisions/§ 00020 - Apples in interstate commerce; standard grades.md",
+   "printed_pages": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "21_21",
+   "marks": [],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 002 (II) - Miscellaneous Provisions/§ 00021 - Branding grades on barrels of apples.md",
+   "printed_pages": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "21_22",
+   "marks": [],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 002 (II) - Miscellaneous Provisions/§ 00022 - Barrels misbranded.md",
+   "printed_pages": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "21_23",
+   "marks": [],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 002 (II) - Miscellaneous Provisions/§ 00023 - Penalties.md",
+   "printed_pages": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "21_24",
+   "marks": [],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 002 (II) - Miscellaneous Provisions/§ 00024 - Omitted.md",
+   "printed_pages": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "21_25",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       834,
+       "[Page 4]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 002 (II) - Miscellaneous Provisions/§ 00025 - Oleomargarine, butterine, or imitation butter or cheese transported into a State subject to its police powers.md",
+   "printed_pages": [
+    3,
+    4
+   ]
+  },
+  {
+   "id": "21_26",
+   "marks": [],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 002 (II) - Miscellaneous Provisions/§ 00026 - Omitted.md",
+   "printed_pages": [
+    4,
+    4
+   ]
+  },
+  {
+   "id": "21_-ch2",
+   "marks": [],
+   "path": "Chapter 002 - Teas/README.md",
+   "printed_pages": [
+    4,
+    4
+   ]
+  },
+  {
+   "id": "21_41",
+   "marks": [],
+   "path": "Chapter 002 - Teas/§ 00041 - Importation of tea inferior to standard.md",
+   "printed_pages": [
+    4,
+    4
+   ]
+  },
+  {
+   "id": "21_42",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       692,
+       "[Page 5]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 002 - Teas/§ 00042 - Board of experts; appointment; term; vacancies; compensation.md",
+   "printed_pages": [
+    4,
+    5
+   ]
+  },
+  {
+   "id": "21_43",
+   "marks": [],
+   "path": "Chapter 002 - Teas/§ 00043 - Standards of purity; duplicate samples at customhouses and for importers and dealers.md",
+   "printed_pages": [
+    5,
+    5
+   ]
+  },
+  {
+   "id": "21_44",
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       275,
+       "[Page 6]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 002 - Teas/§ 00044 - Bonds of importers; examination; importations at ports having no examiner.md",
+   "printed_pages": [
+    5,
+    6
+   ]
+  },
+  {
+   "id": "21_45",
+   "marks": [],
+   "path": "Chapter 002 - Teas/§ 00045 - Permit for delivery; retention of inferior grades; reexamination; partial delivery.md",
+   "printed_pages": [
+    6,
+    6
+   ]
+  },
+  {
+   "id": "21_46",
+   "marks": [],
+   "path": "Chapter 002 - Teas/§ 00046 - Examiners; examination according to usages of trade.md",
+   "printed_pages": [
+    6,
+    6
+   ]
+  },
+  {
+   "id": "21_46a",
+   "marks": [],
+   "path": "Chapter 002 - Teas/§ 00046a - Deposit of fee before examination of tea.md",
+   "printed_pages": [
+    6,
+    6
+   ]
+  },
+  {
+   "id": "21_47",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       209,
+       "[Page 7]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 002 - Teas/§ 00047 - United States Board of Tea Appeals; permit for delivery; exportation or destruction of inferior grades.md",
+   "printed_pages": [
+    6,
+    7
+   ]
+  },
+  {
+   "id": "21_48",
+   "marks": [],
+   "path": "Chapter 002 - Teas/§ 00048 - Reexamination; findings by examiner; assistance of experts.md",
+   "printed_pages": [
+    7,
+    7
+   ]
+  },
+  {
+   "id": "21_49",
+   "marks": [],
+   "path": "Chapter 002 - Teas/§ 00049 - Reimporting rejected teas; forfeiture.md",
+   "printed_pages": [
+    7,
+    7
+   ]
+  },
+  {
+   "id": "21_50",
+   "marks": [],
+   "path": "Chapter 002 - Teas/§ 00050 - Regulations.md",
+   "printed_pages": [
+    7,
+    7
+   ]
+  },
+  {
+   "id": "21_-ch3",
+   "marks": [],
+   "path": "Chapter 003 - Filled Milk/README.md",
+   "printed_pages": [
+    7,
+    7
+   ]
+  },
+  {
+   "id": "21_61",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       462,
+       "[Page 8]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 003 - Filled Milk/§ 00061 - Definitions.md",
+   "printed_pages": [
+    7,
+    8
+   ]
+  },
+  {
+   "id": "21_62",
+   "marks": [],
+   "path": "Chapter 003 - Filled Milk/§ 00062 - Manufacture, shipment, or delivery for shipment in interstate or foreign commerce prohibited.md",
+   "printed_pages": [
+    8,
+    8
+   ]
+  },
+  {
+   "id": "21_63",
+   "marks": [],
+   "path": "Chapter 003 - Filled Milk/§ 00063 - Penalties; acts of agents deemed acts of principals.md",
+   "printed_pages": [
+    8,
+    8
+   ]
+  },
+  {
+   "id": "21_64",
+   "marks": [],
+   "path": "Chapter 003 - Filled Milk/§ 00064 - Regulations for enforcement.md",
+   "printed_pages": [
+    8,
+    8
+   ]
+  },
+  {
+   "id": "21_-ch4",
+   "marks": [
+    [
+     "I",
+     51,
+     [
+      [
+       36,
+       "[Page 9]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/README.md",
+   "printed_pages": [
+    8,
+    9
+   ]
+  },
+  {
+   "id": "21_-ch4-scI",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 001 (I) - Examination of Animals, Meats, and Meat and Dairy Products/README.md",
+   "printed_pages": [
+    9,
+    9
+   ]
+  },
+  {
+   "id": "21_71_to_92",
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 10]",
+     true
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 001 (I) - Examination of Animals, Meats, and Meat and Dairy Products/§ 00071 to 92 - Transferred.md",
+   "printed_pages": [
+    9,
+    10
+   ]
+  },
+  {
+   "id": "21_93",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 001 (I) - Examination of Animals, Meats, and Meat and Dairy Products/§ 00093 - Repealed. May 29, 1928, ch. 901, §1(92), 45 Stat. 993.md",
+   "printed_pages": [
+    10,
+    10
+   ]
+  },
+  {
+   "id": "21_94_to_95",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 001 (I) - Examination of Animals, Meats, and Meat and Dairy Products/§ 00094 to 95 - Transferred.md",
+   "printed_pages": [
+    10,
+    10
+   ]
+  },
+  {
+   "id": "21_96",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 001 (I) - Examination of Animals, Meats, and Meat and Dairy Products/§ 00096 - Repealed. Pub. L. 90–201, §18, Dec. 15, 1967, 81 Stat. 600.md",
+   "printed_pages": [
+    10,
+    10
+   ]
+  },
+  {
+   "id": "21_97_to_97d",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 001 (I) - Examination of Animals, Meats, and Meat and Dairy Products/§ 00097 to 97d - Omitted.md",
+   "printed_pages": [
+    10,
+    10
+   ]
+  },
+  {
+   "id": "21_98",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 001 (I) - Examination of Animals, Meats, and Meat and Dairy Products/§ 00098 - Transferred.md",
+   "printed_pages": [
+    10,
+    10
+   ]
+  },
+  {
+   "id": "21_99._Repealed",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 001 (I) - Examination of Animals, Meats, and Meat and Dairy Products/§ 00099 - Repealed. July 28, 1953, ch. 251, title I, §101, 67 Stat. 208.md",
+   "printed_pages": [
+    10,
+    10
+   ]
+  },
+  {
+   "id": "21_-ch4-scII",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 002 (II) - Importation of Cattle and Quarantine/README.md",
+   "printed_pages": [
+    10,
+    10
+   ]
+  },
+  {
+   "id": "21_101",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 002 (II) - Importation of Cattle and Quarantine/§ 00101 - Suspension of importation of all animals.md",
+   "printed_pages": [
+    10,
+    10
+   ]
+  },
+  {
+   "id": "21_102",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       569,
+       "[Page 11]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 002 (II) - Importation of Cattle and Quarantine/§ 00102 - Quarantine of imported animals.md",
+   "printed_pages": [
+    10,
+    11
+   ]
+  },
+  {
+   "id": "21_103",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 002 (II) - Importation of Cattle and Quarantine/§ 00103 - Importation, except at quarantine ports, prohibited; slaughter of infected animals; appraisal; payment.md",
+   "printed_pages": [
+    11,
+    11
+   ]
+  },
+  {
+   "id": "21_104",
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       1024,
+       "[Page 12]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 002 (II) - Importation of Cattle and Quarantine/§ 00104 - Importation of animals.md",
+   "printed_pages": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "21_105",
+   "marks": [
+    [
+     "L",
+     24,
+     "[Page 13]",
+     true
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 002 (II) - Importation of Cattle and Quarantine/§ 00105 - Inspection of animals.md",
+   "printed_pages": [
+    12,
+    13
+   ]
+  },
+  {
+   "id": "21_106,_107",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 002 (II) - Importation of Cattle and Quarantine/§ 00106, 107 - Omitted.md",
+   "printed_pages": [
+    13,
+    13
+   ]
+  },
+  {
+   "id": "21_-ch4-scIII",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/README.md",
+   "printed_pages": [
+    13,
+    13
+   ]
+  },
+  {
+   "id": "21_111",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00111 - Regulations to prevent contagious diseases.md",
+   "printed_pages": [
+    13,
+    13
+   ]
+  },
+  {
+   "id": "21_112",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00112 - Investigations as to pleuropneumonia, and other diseases; regulations.md",
+   "printed_pages": [
+    13,
+    13
+   ]
+  },
+  {
+   "id": "21_112a",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00112a - Omitted.md",
+   "printed_pages": [
+    13,
+    13
+   ]
+  },
+  {
+   "id": "21_113",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       322,
+       "[Page 14]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00113 - Measures to prevent exportation of diseased livestock and live poultry.md",
+   "printed_pages": [
+    13,
+    14
+   ]
+  },
+  {
+   "id": "21_113a",
+   "marks": [
+    [
+     "L",
+     34,
+     "[Page 15]",
+     true
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00113a - Establishment of research laboratories for foot-and-mouth disease and other animal diseases; research contracts; employment of….md",
+   "printed_pages": [
+    14,
+    15
+   ]
+  },
+  {
+   "id": "21_114",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00114 - Regulations for suppression of diseases; cooperation of States and Territories.md",
+   "printed_pages": [
+    15,
+    15
+   ]
+  },
+  {
+   "id": "21_114a",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00114a - Control and eradication of diseases; cooperation of States and farmers’ associations; purchase and destruction of diseased animals….md",
+   "printed_pages": [
+    15,
+    15
+   ]
+  },
+  {
+   "id": "21_114a-1",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       419,
+       "[Page 16]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00114a–1 - Interstate movement of domestic animals reacting to tests for brucellosis; immediate slaughter; rules and regulations.md",
+   "printed_pages": [
+    15,
+    16
+   ]
+  },
+  {
+   "id": "21_114b",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00114b - Cooperation in animal disease control.md",
+   "printed_pages": [
+    16,
+    16
+   ]
+  },
+  {
+   "id": "21_114c",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       110,
+       "[Page 17]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00114c - Use of funds.md",
+   "printed_pages": [
+    16,
+    17
+   ]
+  },
+  {
+   "id": "21_114d",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00114d - Sale of sterile screwworms.md",
+   "printed_pages": [
+    17,
+    17
+   ]
+  },
+  {
+   "id": "21_114d-1",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00114d–1 - Cooperation with public and private entities.md",
+   "printed_pages": [
+    17,
+    17
+   ]
+  },
+  {
+   "id": "21_114d-2_to_114d-6",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00114d–2 to 114d–6 - Repealed. Pub. L. 92–152, §3, Nov. 5, 1971, 85 Stat. 419.md",
+   "printed_pages": [
+    17,
+    17
+   ]
+  },
+  {
+   "id": "21_114e",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00114e - Control and eradication of cattle grubs; research and investigations.md",
+   "printed_pages": [
+    17,
+    17
+   ]
+  },
+  {
+   "id": "21_114f",
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 18]",
+     true
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00114f - “State” defined; authorization of appropriations.md",
+   "printed_pages": [
+    17,
+    18
+   ]
+  },
+  {
+   "id": "21_114g",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00114g - Hog cholera eradication program.md",
+   "printed_pages": [
+    18,
+    18
+   ]
+  },
+  {
+   "id": "21_114h",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00114h - Advisory committee.md",
+   "printed_pages": [
+    18,
+    18
+   ]
+  },
+  {
+   "id": "21_114i",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00114i - Pseudorabies eradication.md",
+   "printed_pages": [
+    18,
+    18
+   ]
+  },
+  {
+   "id": "21_115",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       1077,
+       "[Page 19]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00115 - Transportation of diseased livestock and live poultry prohibited.md",
+   "printed_pages": [
+    18,
+    19
+   ]
+  },
+  {
+   "id": "21_116",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00116 - Shipment of certain cattle excepted.md",
+   "printed_pages": [
+    19,
+    19
+   ]
+  },
+  {
+   "id": "21_117",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00117 - Penalties for transportation of diseased livestock or live poultry.md",
+   "printed_pages": [
+    19,
+    19
+   ]
+  },
+  {
+   "id": "21_118",
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 20]",
+     true
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00118 - Duty of United States attorneys.md",
+   "printed_pages": [
+    19,
+    20
+   ]
+  },
+  {
+   "id": "21_119",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00119 - Agents to examine and report on methods of treatment of animals, and means for suppression of diseases.md",
+   "printed_pages": [
+    20,
+    20
+   ]
+  },
+  {
+   "id": "21_120",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00120 - Regulation of exportation and transportation of infected livestock and live poultry.md",
+   "printed_pages": [
+    20,
+    20
+   ]
+  },
+  {
+   "id": "21_121",
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 21]",
+     true
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00121 - Shipments from areas suspected infected; control of animals and live poultry.md",
+   "printed_pages": [
+    20,
+    21
+   ]
+  },
+  {
+   "id": "21_122",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00122 - Offenses; penalty.md",
+   "printed_pages": [
+    21,
+    21
+   ]
+  },
+  {
+   "id": "21_123",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00123 - Quarantine.md",
+   "printed_pages": [
+    21,
+    21
+   ]
+  },
+  {
+   "id": "21_124",
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 22]",
+     true
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00124 - Transportation or delivery therefor from quarantined State or Territory or portion thereof, of quarantined animals and live poultry….md",
+   "printed_pages": [
+    21,
+    22
+   ]
+  },
+  {
+   "id": "21_125",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00125 - Regulations for inspection, disinfection, and certification, and delivery and shipment of quarantined animals and live poultry from State….md",
+   "printed_pages": [
+    22,
+    22
+   ]
+  },
+  {
+   "id": "21_126",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00126 - Moving quarantined animals and live poultry from State or Territory, under regulations.md",
+   "printed_pages": [
+    22,
+    22
+   ]
+  },
+  {
+   "id": "21_127",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00127 - Transportation from quarantined State, Territory, etc.; penalty.md",
+   "printed_pages": [
+    22,
+    22
+   ]
+  },
+  {
+   "id": "21_128",
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 23]",
+     true
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00128 - Extension of quarantine law to carriers in interstate commerce.md",
+   "printed_pages": [
+    22,
+    23
+   ]
+  },
+  {
+   "id": "21_129",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00129 - Expenses for arrest and eradication of contagious or infectious diseases or pests of animals, poultry, or plants.md",
+   "printed_pages": [
+    23,
+    23
+   ]
+  },
+  {
+   "id": "21_130",
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 24]",
+     true
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00130 - Pleuropneumonia in District of Columbia; duties of Council of the District of Columbia.md",
+   "printed_pages": [
+    23,
+    24
+   ]
+  },
+  {
+   "id": "21_131",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00131 - Fences along international boundary lines to keep out diseased animals.md",
+   "printed_pages": [
+    24,
+    24
+   ]
+  },
+  {
+   "id": "21_132",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00132 - Transferred.md",
+   "printed_pages": [
+    24,
+    24
+   ]
+  },
+  {
+   "id": "21_133",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00133 - Repealed. July 13, 1949, ch. 307, 63 Stat. 410.md",
+   "printed_pages": [
+    24,
+    24
+   ]
+  },
+  {
+   "id": "21_134",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00134 - Definitions.md",
+   "printed_pages": [
+    24,
+    24
+   ]
+  },
+  {
+   "id": "21_134a",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       741,
+       "[Page 25]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00134a - Seizure, quarantine, and disposal of livestock or poultry to guard against introduction or dissemination of communicable disease.md",
+   "printed_pages": [
+    24,
+    25
+   ]
+  },
+  {
+   "id": "21_134b",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00134b - Regulations for clean and sanitary movement of animals.md",
+   "printed_pages": [
+    25,
+    25
+   ]
+  },
+  {
+   "id": "21_134c",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00134c - Regulations for movement of animals affected or exposed to communicable disease.md",
+   "printed_pages": [
+    25,
+    25
+   ]
+  },
+  {
+   "id": "21_134d",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       922,
+       "[Page 26]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00134d - Inspections and seizures; issuance of warrants.md",
+   "printed_pages": [
+    25,
+    26
+   ]
+  },
+  {
+   "id": "21_134e",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00134e - Enforcement provisions.md",
+   "printed_pages": [
+    26,
+    26
+   ]
+  },
+  {
+   "id": "21_134f",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00134f - Promulgation of regulations.md",
+   "printed_pages": [
+    26,
+    26
+   ]
+  },
+  {
+   "id": "21_134g",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00134g - Authority in addition to other laws; repeal of inconsistent provisions.md",
+   "printed_pages": [
+    26,
+    26
+   ]
+  },
+  {
+   "id": "21_134h",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       229,
+       "[Page 27]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00134h - Separability.md",
+   "printed_pages": [
+    26,
+    27
+   ]
+  },
+  {
+   "id": "21_135",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00135 - International animal quarantine station; establishment; acceptance of gifts; cooperation with breeders’ organizations; collection of fees.md",
+   "printed_pages": [
+    27,
+    27
+   ]
+  },
+  {
+   "id": "21_135a",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00135a - Smuggling penalties.md",
+   "printed_pages": [
+    27,
+    27
+   ]
+  },
+  {
+   "id": "21_135b",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00135b - Authorization of appropriations.md",
+   "printed_pages": [
+    27,
+    27
+   ]
+  },
+  {
+   "id": "21_136",
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 28]",
+     true
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00136 - Additional inspection services.md",
+   "printed_pages": [
+    27,
+    28
+   ]
+  },
+  {
+   "id": "21_136a",
+   "marks": [
+    [
+     "I",
+     70,
+     [
+      [
+       180,
+       "[Page 29]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     144,
+     "[Page 30]",
+     true
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00136a - Collection of fees for inspection services.md",
+   "printed_pages": [
+    28,
+    30
+   ]
+  },
+  {
+   "id": "21_-ch4-scIV",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 004 (IV) - Importation of Milk and Cream/README.md",
+   "printed_pages": [
+    30,
+    30
+   ]
+  },
+  {
+   "id": "21_141",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 004 (IV) - Importation of Milk and Cream/§ 00141 - Prohibition of importation without permit.md",
+   "printed_pages": [
+    30,
+    30
+   ]
+  },
+  {
+   "id": "21_142",
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 31]",
+     true
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 004 (IV) - Importation of Milk and Cream/§ 00142 - Milk or cream when unfit for importation.md",
+   "printed_pages": [
+    30,
+    31
+   ]
+  },
+  {
+   "id": "21_143",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 004 (IV) - Importation of Milk and Cream/§ 00143 - Inspection; certified statement in lieu thereof; waiver of requirements of section 142; regulations; suspension and revocation of permits.md",
+   "printed_pages": [
+    31,
+    31
+   ]
+  },
+  {
+   "id": "21_144",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 004 (IV) - Importation of Milk and Cream/§ 00144 - Unlawful receiving of imported milk or cream.md",
+   "printed_pages": [
+    31,
+    31
+   ]
+  },
+  {
+   "id": "21_145",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       229,
+       "[Page 32]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 004 (IV) - Importation of Milk and Cream/§ 00145 - Penalties.md",
+   "printed_pages": [
+    31,
+    32
+   ]
+  },
+  {
+   "id": "21_146",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 004 (IV) - Importation of Milk and Cream/§ 00146 - Authorization of appropriations.md",
+   "printed_pages": [
+    32,
+    32
+   ]
+  },
+  {
+   "id": "21_147",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 004 (IV) - Importation of Milk and Cream/§ 00147 - Repeal of inconsistent laws.md",
+   "printed_pages": [
+    32,
+    32
+   ]
+  },
+  {
+   "id": "21_148",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 004 (IV) - Importation of Milk and Cream/§ 00148 - Powers of State with respect to milk or cream lawfully imported.md",
+   "printed_pages": [
+    32,
+    32
+   ]
+  },
+  {
+   "id": "21_149",
+   "marks": [],
+   "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 004 (IV) - Importation of Milk and Cream/§ 00149 - Definitions.md",
+   "printed_pages": [
+    32,
+    32
+   ]
+  },
+  {
+   "id": "21_-ch5",
+   "marks": [],
+   "path": "Chapter 005 - Viruses, Serums, Toxins, Antitoxins, and Analogous Products/README.md",
+   "printed_pages": [
+    32,
+    32
+   ]
+  },
+  {
+   "id": "21_151",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       105,
+       "[Page 33]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 005 - Viruses, Serums, Toxins, Antitoxins, and Analogous Products/§ 00151 - Preparation and sale of worthless or harmful products for domestic animals prohibited; preparation to be in compliance with rules at….md",
+   "printed_pages": [
+    32,
+    33
+   ]
+  },
+  {
+   "id": "21_152",
+   "marks": [],
+   "path": "Chapter 005 - Viruses, Serums, Toxins, Antitoxins, and Analogous Products/§ 00152 - Importation regulated and prohibited.md",
+   "printed_pages": [
+    33,
+    33
+   ]
+  },
+  {
+   "id": "21_153",
+   "marks": [],
+   "path": "Chapter 005 - Viruses, Serums, Toxins, Antitoxins, and Analogous Products/§ 00153 - Inspection of imports; denial of entry and destruction.md",
+   "printed_pages": [
+    33,
+    33
+   ]
+  },
+  {
+   "id": "21_154",
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 34]",
+     true
+    ]
+   ],
+   "path": "Chapter 005 - Viruses, Serums, Toxins, Antitoxins, and Analogous Products/§ 00154 - Regulations for preparation and sale; licenses.md",
+   "printed_pages": [
+    33,
+    34
+   ]
+  },
+  {
+   "id": "21_154a",
+   "marks": [],
+   "path": "Chapter 005 - Viruses, Serums, Toxins, Antitoxins, and Analogous Products/§ 00154a - Special licenses for special circumstances; expedited procedure; conditions; exemptions; criteria.md",
+   "printed_pages": [
+    34,
+    34
+   ]
+  },
+  {
+   "id": "21_155",
+   "marks": [],
+   "path": "Chapter 005 - Viruses, Serums, Toxins, Antitoxins, and Analogous Products/§ 00155 - Permits for importation.md",
+   "printed_pages": [
+    34,
+    34
+   ]
+  },
+  {
+   "id": "21_156",
+   "marks": [],
+   "path": "Chapter 005 - Viruses, Serums, Toxins, Antitoxins, and Analogous Products/§ 00156 - Licenses conditioned on permitting inspection; suspension of licenses.md",
+   "printed_pages": [
+    34,
+    34
+   ]
+  },
+  {
+   "id": "21_157",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       91,
+       "[Page 35]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 005 - Viruses, Serums, Toxins, Antitoxins, and Analogous Products/§ 00157 - Inspection.md",
+   "printed_pages": [
+    34,
+    35
+   ]
+  },
+  {
+   "id": "21_158",
+   "marks": [],
+   "path": "Chapter 005 - Viruses, Serums, Toxins, Antitoxins, and Analogous Products/§ 00158 - Offenses; punishment.md",
+   "printed_pages": [
+    35,
+    35
+   ]
+  },
+  {
+   "id": "21_159",
+   "marks": [],
+   "path": "Chapter 005 - Viruses, Serums, Toxins, Antitoxins, and Analogous Products/§ 00159 - Enforcement; penalties applicable; Congressional findings.md",
+   "printed_pages": [
+    35,
+    35
+   ]
+  },
+  {
+   "id": "21_-ch5A",
+   "marks": [],
+   "path": "Chapter 005A - Bureau of Narcotics/README.md",
+   "printed_pages": [
+    35,
+    35
+   ]
+  },
+  {
+   "id": "21_161_to_165",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       314,
+       "[Page 36]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 005A - Bureau of Narcotics/§ 00161 to 165 - Omitted.md",
+   "printed_pages": [
+    35,
+    36
+   ]
+  },
+  {
+   "id": "21_-ch6",
+   "marks": [],
+   "path": "Chapter 006 - Narcotic Drugs/README.md",
+   "printed_pages": [
+    36,
+    36
+   ]
+  },
+  {
+   "id": "21_-ch6-IMPORTATION_OR_EXPORTATION",
+   "marks": [],
+   "path": "Chapter 006 - Narcotic Drugs/Importation or Exportation/README.md",
+   "printed_pages": [
+    36,
+    36
+   ]
+  },
+  {
+   "id": "21_171_to_174",
+   "marks": [],
+   "path": "Chapter 006 - Narcotic Drugs/Importation or Exportation/§ 00171 to 174 - Repealed. Pub. L. 91–513, title III, §1101(a)(2), (4), Oct. 27, 1970, 84 Stat. 1291.md",
+   "printed_pages": [
+    36,
+    36
+   ]
+  },
+  {
+   "id": "21_175",
+   "marks": [],
+   "path": "Chapter 006 - Narcotic Drugs/Importation or Exportation/§ 00175 - Repealed. June 27, 1952, ch. 477, title IV, §403(a)(10), 66 Stat. 279.md",
+   "printed_pages": [
+    36,
+    36
+   ]
+  },
+  {
+   "id": "21_176_to_185",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       118,
+       "[Page 37]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 006 - Narcotic Drugs/Importation or Exportation/§ 00176 to 185 - Repealed. Pub. L. 91–513, title III, §1101(a)(2), (9), Oct. 27, 1970, 84 Stat. 1291, 1292.md",
+   "printed_pages": [
+    36,
+    37
+   ]
+  },
+  {
+   "id": "21_-ch6-MARIHUANA_AND_HEALTH_REPORTING",
+   "marks": [],
+   "path": "Chapter 006 - Narcotic Drugs/Marihuana and Health Reporting/README.md",
+   "printed_pages": [
+    37,
+    37
+   ]
+  },
+  {
+   "id": "21_186,_187",
+   "marks": [],
+   "path": "Chapter 006 - Narcotic Drugs/Marihuana and Health Reporting/§ 00186, 187 - Transferred.md",
+   "printed_pages": [
+    37,
+    37
+   ]
+  },
+  {
+   "id": "21_-ch6-DOMESTIC_CONTROL_OF_PRODUCTION_AND_DISTRIBUTION_OF_THE_OPIUM_POPPY",
+   "marks": [],
+   "path": "Chapter 006 - Narcotic Drugs/Domestic Control of Production and Distribution of the Opium Poppy/README.md",
+   "printed_pages": [
+    37,
+    37
+   ]
+  },
+  {
+   "id": "21_188_to_188n",
+   "marks": [],
+   "path": "Chapter 006 - Narcotic Drugs/Domestic Control of Production and Distribution of the Opium Poppy/§ 00188 to 188n - Repealed. Pub. L. 91–513, title III, §1101(a)(7), Oct. 27, 1970, 84 Stat. 1292.md",
+   "printed_pages": [
+    37,
+    37
+   ]
+  },
+  {
+   "id": "21_-ch6-IMPORTATION_BY_CHINESE_SUBJECTS_OR_TRAFFICKING_IN,_IN_CHINA,_BY_UNITED_STATES_CITIZENS",
+   "marks": [],
+   "path": "Chapter 006 - Narcotic Drugs/Importation by Chinese Subjects or Trafficking in, in China, by United States Citizens/README.md",
+   "printed_pages": [
+    37,
+    37
+   ]
+  },
+  {
+   "id": "21_191_to_193",
+   "marks": [],
+   "path": "Chapter 006 - Narcotic Drugs/Importation by Chinese Subjects or Trafficking in, in China, by United States Citizens/§ 00191 to 193 - Repealed. Pub. L. 91–513, title III, §1101(a)(1), Oct. 27, 1970, 84 Stat. 1291.md",
+   "printed_pages": [
+    37,
+    37
+   ]
+  },
+  {
+   "id": "21_-ch6-MISCELLANEOUS",
+   "marks": [],
+   "path": "Chapter 006 - Narcotic Drugs/Miscellaneous/README.md",
+   "printed_pages": [
+    37,
+    37
+   ]
+  },
+  {
+   "id": "21_196",
+   "marks": [],
+   "path": "Chapter 006 - Narcotic Drugs/Miscellaneous/§ 00196 - Repealed. July 1, 1944, ch. 373, title XIII, §1313, 58 Stat. 714.md",
+   "printed_pages": [
+    37,
+    37
+   ]
+  },
+  {
+   "id": "21_197,_198",
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 38]",
+     true
+    ]
+   ],
+   "path": "Chapter 006 - Narcotic Drugs/Miscellaneous/§ 00197, 198 - Repealed. Pub. L. 91–513, title III, §1101(a)(4), Oct. 27, 1970, 84 Stat. 1291.md",
+   "printed_pages": [
+    37,
+    38
+   ]
+  },
+  {
+   "id": "21_198a_to_198c",
+   "marks": [],
+   "path": "Chapter 006 - Narcotic Drugs/Miscellaneous/§ 00198a to 198c - Transferred.md",
+   "printed_pages": [
+    38,
+    38
+   ]
+  },
+  {
+   "id": "21_199",
+   "marks": [],
+   "path": "Chapter 006 - Narcotic Drugs/Miscellaneous/§ 00199 - Repealed. Pub. L. 91–513, title III, §1101(a)(5), Oct. 27, 1970, 84 Stat. 1292.md",
+   "printed_pages": [
+    38,
+    38
+   ]
+  },
+  {
+   "id": "21_200_to_200b",
+   "marks": [],
+   "path": "Chapter 006 - Narcotic Drugs/Miscellaneous/§ 00200 to 200b - Repealed. Nov. 2, 1951, ch. 666, §5(2), 65 Stat. 769.md",
+   "printed_pages": [
+    38,
+    38
+   ]
+  },
+  {
+   "id": "21_-ch7",
+   "marks": [],
+   "path": "Chapter 007 - Practice of Pharmacy and Sale of Poisons in Consular Districts in China/README.md",
+   "printed_pages": [
+    38,
+    38
+   ]
+  },
+  {
+   "id": "21_201",
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 39]",
+     true
+    ]
+   ],
+   "path": "Chapter 007 - Practice of Pharmacy and Sale of Poisons in Consular Districts in China/§ 00201 - Doing business without a license unlawful; employment of Chinese subjects.md",
+   "printed_pages": [
+    38,
+    39
+   ]
+  },
+  {
+   "id": "21_202",
+   "marks": [],
+   "path": "Chapter 007 - Practice of Pharmacy and Sale of Poisons in Consular Districts in China/§ 00202 - Certain classes of persons and corporations excepted; insecticides.md",
+   "printed_pages": [
+    39,
+    39
+   ]
+  },
+  {
+   "id": "21_203",
+   "marks": [],
+   "path": "Chapter 007 - Practice of Pharmacy and Sale of Poisons in Consular Districts in China/§ 00203 - Application for license; requirements; qualifications for license.md",
+   "printed_pages": [
+    39,
+    39
+   ]
+  },
+  {
+   "id": "21_204",
+   "marks": [],
+   "path": "Chapter 007 - Practice of Pharmacy and Sale of Poisons in Consular Districts in China/§ 00204 - Issuance of license.md",
+   "printed_pages": [
+    39,
+    39
+   ]
+  },
+  {
+   "id": "21_205",
+   "marks": [],
+   "path": "Chapter 007 - Practice of Pharmacy and Sale of Poisons in Consular Districts in China/§ 00205 - Display of license in pharmacy.md",
+   "printed_pages": [
+    39,
+    39
+   ]
+  },
+  {
+   "id": "21_206",
+   "marks": [],
+   "path": "Chapter 007 - Practice of Pharmacy and Sale of Poisons in Consular Districts in China/§ 00206 - Revocation of license.md",
+   "printed_pages": [
+    39,
+    39
+   ]
+  },
+  {
+   "id": "21_207",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       1041,
+       "[Page 40]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 007 - Practice of Pharmacy and Sale of Poisons in Consular Districts in China/§ 00207 - Restrictions on sales; written orders or prescriptions.md",
+   "printed_pages": [
+    39,
+    40
+   ]
+  },
+  {
+   "id": "21_208",
+   "marks": [],
+   "path": "Chapter 007 - Practice of Pharmacy and Sale of Poisons in Consular Districts in China/§ 00208 - Certain preparations and sales excepted.md",
+   "printed_pages": [
+    40,
+    40
+   ]
+  },
+  {
+   "id": "21_209",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       2138,
+       "[Page 41]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 007 - Practice of Pharmacy and Sale of Poisons in Consular Districts in China/§ 00209 - Poisons; book entry of sale; labels.md",
+   "printed_pages": [
+    40,
+    41
+   ]
+  },
+  {
+   "id": "21_210",
+   "marks": [],
+   "path": "Chapter 007 - Practice of Pharmacy and Sale of Poisons in Consular Districts in China/§ 00210 - Pharmacist; unauthorized use of title.md",
+   "printed_pages": [
+    41,
+    41
+   ]
+  },
+  {
+   "id": "21_211",
+   "marks": [],
+   "path": "Chapter 007 - Practice of Pharmacy and Sale of Poisons in Consular Districts in China/§ 00211 - Preservation of originals of prescriptions compounded and copies thereof; inspection of prescriptions by consular officers; marking….md",
+   "printed_pages": [
+    41,
+    41
+   ]
+  },
+  {
+   "id": "21_212",
+   "marks": [],
+   "path": "Chapter 007 - Practice of Pharmacy and Sale of Poisons in Consular Districts in China/§ 00212 - Offenses; punishment; duty to enforce provisions.md",
+   "printed_pages": [
+    41,
+    41
+   ]
+  },
+  {
+   "id": "21_213",
+   "marks": [],
+   "path": "Chapter 007 - Practice of Pharmacy and Sale of Poisons in Consular Districts in China/§ 00213 - Fraudulent representations to evade or defeat restrictions.md",
+   "printed_pages": [
+    41,
+    41
+   ]
+  },
+  {
+   "id": "21_214",
+   "marks": [],
+   "path": "Chapter 007 - Practice of Pharmacy and Sale of Poisons in Consular Districts in China/§ 00214 - Previous laws unaffected.md",
+   "printed_pages": [
+    41,
+    41
+   ]
+  },
+  {
+   "id": "21_215",
+   "marks": [],
+   "path": "Chapter 007 - Practice of Pharmacy and Sale of Poisons in Consular Districts in China/§ 00215 - “Consul” defined.md",
+   "printed_pages": [
+    41,
+    41
+   ]
+  },
+  {
+   "id": "21_-ch8",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/README.md",
+   "printed_pages": [
+    41,
+    41
+   ]
+  },
+  {
+   "id": "21_221_to_237",
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 42]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/§ 00221 to 237 - Repealed. July 1, 1944, ch. 373, title XIII, §1313, 58 Stat. 714.md",
+   "printed_pages": [
+    41,
+    42
+   ]
+  },
+  {
+   "id": "21_&nbsp;",
+   "marks": [
+    [
+     "I",
+     87,
+     [
+      [
+       62,
+       "[Page 43]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     190,
+     [
+      [
+       86,
+       "[Page 44]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     260,
+     [
+      [
+       54,
+       "[Page 45]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     351,
+     [
+      [
+       21,
+       "[Page 46]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     489,
+     [
+      [
+       85,
+       "[Page 47]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/10.md",
+   "printed_pages": [
+    42,
+    47
+   ]
+  },
+  {
+   "id": "21_-ch8-scI",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 001 (I) - Short Title/README.md",
+   "printed_pages": [
+    47,
+    47
+   ]
+  },
+  {
+   "id": "21_301",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       792,
+       "[Page 48]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     58,
+     [
+      [
+       122,
+       "[Page 49]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     118,
+     [
+      [
+       284,
+       "[Page 50]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 001 (I) - Short Title/§ 00301 - Short title.md",
+   "printed_pages": [
+    47,
+    50
+   ]
+  },
+  {
+   "id": "21_-ch8-scII",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 002 (II) - Definitions/README.md",
+   "printed_pages": [
+    50,
+    50
+   ]
+  },
+  {
+   "id": "21_321",
+   "marks": [
+    [
+     "I",
+     40,
+     [
+      [
+       90,
+       "[Page 51]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     86,
+     "[Page 52]",
+     true
+    ],
+    [
+     "I",
+     148,
+     [
+      [
+       92,
+       "[Page 53]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     216,
+     "[Page 54]",
+     true
+    ],
+    [
+     "I",
+     300,
+     [
+      [
+       602,
+       "[Page 55]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     350,
+     [
+      [
+       390,
+       "[Page 56]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     416,
+     "[Page 57]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 002 (II) - Definitions/§ 00321 - Definitions; generally.md",
+   "printed_pages": [
+    50,
+    57
+   ]
+  },
+  {
+   "id": "21_321a",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 002 (II) - Definitions/§ 00321a - “Butter” defined.md",
+   "printed_pages": [
+    57,
+    57
+   ]
+  },
+  {
+   "id": "21_321b",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 002 (II) - Definitions/§ 00321b - “Package” defined.md",
+   "printed_pages": [
+    57,
+    57
+   ]
+  },
+  {
+   "id": "21_321c",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       93,
+       "[Page 58]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 002 (II) - Definitions/§ 00321c - Nonfat dry milk; “milk” defined.md",
+   "printed_pages": [
+    57,
+    58
+   ]
+  },
+  {
+   "id": "21_-ch8-scIII",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 003 (III) - Prohibited Acts and Penalties/README.md",
+   "printed_pages": [
+    58,
+    58
+   ]
+  },
+  {
+   "id": "21_331",
+   "marks": [
+    [
+     "I",
+     36,
+     [
+      [
+       149,
+       "[Page 59]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     98,
+     "[Page 60]",
+     true
+    ],
+    [
+     "L",
+     198,
+     "[Page 61]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 003 (III) - Prohibited Acts and Penalties/§ 00331 - Prohibited acts.md",
+   "printed_pages": [
+    58,
+    61
+   ]
+  },
+  {
+   "id": "21_332",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 003 (III) - Prohibited Acts and Penalties/§ 00332 - Injunction proceedings.md",
+   "printed_pages": [
+    61,
+    61
+   ]
+  },
+  {
+   "id": "21_333",
+   "marks": [
+    [
+     "I",
+     34,
+     [
+      [
+       92,
+       "[Page 62]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     70,
+     "[Page 63]",
+     true
+    ],
+    [
+     "I",
+     114,
+     [
+      [
+       284,
+       "[Page 64]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     196,
+     [
+      [
+       422,
+       "[Page 65]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 003 (III) - Prohibited Acts and Penalties/§ 00333 - Penalties.md",
+   "printed_pages": [
+    61,
+    65
+   ]
+  },
+  {
+   "id": "21_333a",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 003 (III) - Prohibited Acts and Penalties/§ 00333a - Repealed. Pub. L. 101–647, title XIX, §1905, Nov. 29, 1990, 104 Stat. 4853.md",
+   "printed_pages": [
+    65,
+    65
+   ]
+  },
+  {
+   "id": "21_334",
+   "marks": [
+    [
+     "I",
+     26,
+     [
+      [
+       808,
+       "[Page 66]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     54,
+     [
+      [
+       475,
+       "[Page 67]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     132,
+     [
+      [
+       105,
+       "[Page 68]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 003 (III) - Prohibited Acts and Penalties/§ 00334 - Seizure.md",
+   "printed_pages": [
+    65,
+    68
+   ]
+  },
+  {
+   "id": "21_335",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 003 (III) - Prohibited Acts and Penalties/§ 00335 - Hearing before report of criminal violation.md",
+   "printed_pages": [
+    68,
+    68
+   ]
+  },
+  {
+   "id": "21_335a",
+   "marks": [
+    [
+     "I",
+     64,
+     [
+      [
+       402,
+       "[Page 69]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     126,
+     [
+      [
+       97,
+       "[Page 70]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     194,
+     "[Page 71]",
+     true
+    ],
+    [
+     "L",
+     262,
+     "[Page 72]",
+     true
+    ],
+    [
+     "I",
+     322,
+     [
+      [
+       96,
+       "[Page 73]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 003 (III) - Prohibited Acts and Penalties/§ 00335a - Debarment, temporary denial of approval, and suspension.md",
+   "printed_pages": [
+    68,
+    73
+   ]
+  },
+  {
+   "id": "21_335b",
+   "marks": [
+    [
+     "I",
+     42,
+     [
+      [
+       180,
+       "[Page 74]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 003 (III) - Prohibited Acts and Penalties/§ 00335b - Civil penalties.md",
+   "printed_pages": [
+    73,
+    74
+   ]
+  },
+  {
+   "id": "21_335c",
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 75]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 003 (III) - Prohibited Acts and Penalties/§ 00335c - Authority to withdraw approval of abbreviated drug applications.md",
+   "printed_pages": [
+    74,
+    75
+   ]
+  },
+  {
+   "id": "21_336",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 003 (III) - Prohibited Acts and Penalties/§ 00336 - Report of minor violations.md",
+   "printed_pages": [
+    75,
+    75
+   ]
+  },
+  {
+   "id": "21_337",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 003 (III) - Prohibited Acts and Penalties/§ 00337 - Proceedings in name of United States; provision as to subpoenas.md",
+   "printed_pages": [
+    75,
+    75
+   ]
+  },
+  {
+   "id": "21_-ch8-scIV",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/README.md",
+   "printed_pages": [
+    75,
+    75
+   ]
+  },
+  {
+   "id": "21_341",
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 76]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/§ 00341 - Definitions and standards for food.md",
+   "printed_pages": [
+    75,
+    76
+   ]
+  },
+  {
+   "id": "21_342",
+   "marks": [
+    [
+     "I",
+     22,
+     [
+      [
+       368,
+       "[Page 77]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     76,
+     [
+      [
+       437,
+       "[Page 78]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     124,
+     [
+      [
+       330,
+       "[Page 79]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/§ 00342 - Adulterated food.md",
+   "printed_pages": [
+    76,
+    79
+   ]
+  },
+  {
+   "id": "21_343",
+   "marks": [
+    [
+     "I",
+     42,
+     [
+      [
+       778,
+       "[Page 80]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     100,
+     "[Page 81]",
+     true
+    ],
+    [
+     "L",
+     132,
+     "[Page 82]",
+     true
+    ],
+    [
+     "I",
+     178,
+     [
+      [
+       319,
+       "[Page 83]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     230,
+     [
+      [
+       147,
+       "[Page 84]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     270,
+     [
+      [
+       88,
+       "[Page 85]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     330,
+     [
+      [
+       99,
+       "[Page 86]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     424,
+     [
+      [
+       112,
+       "[Page 87]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     484,
+     [
+      [
+       423,
+       "[Page 88]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     560,
+     [
+      [
+       452,
+       "[Page 89]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     636,
+     [
+      [
+       262,
+       "[Page 90]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/§ 00343 - Misbranded food.md",
+   "printed_pages": [
+    79,
+    90
+   ]
+  },
+  {
+   "id": "21_343-1",
+   "marks": [
+    [
+     "I",
+     54,
+     [
+      [
+       110,
+       "[Page 91]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/§ 00343–1 - National uniform nutrition labeling.md",
+   "printed_pages": [
+    90,
+    91
+   ]
+  },
+  {
+   "id": "21_343-2",
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 92]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/§ 00343–2 - Dietary supplement labeling exemptions.md",
+   "printed_pages": [
+    91,
+    92
+   ]
+  },
+  {
+   "id": "21_343a",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/§ 00343a - Health risks presented by use of saccharin.md",
+   "printed_pages": [
+    92,
+    92
+   ]
+  },
+  {
+   "id": "21_344",
+   "marks": [
+    [
+     "L",
+     24,
+     "[Page 93]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/§ 00344 - Emergency permit control.md",
+   "printed_pages": [
+    92,
+    93
+   ]
+  },
+  {
+   "id": "21_345",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/§ 00345 - Regulations making exemptions.md",
+   "printed_pages": [
+    93,
+    93
+   ]
+  },
+  {
+   "id": "21_346",
+   "marks": [
+    [
+     "L",
+     38,
+     "[Page 94]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/§ 00346 - Tolerances for poisonous or deleterious substances in food; regulations.md",
+   "printed_pages": [
+    93,
+    94
+   ]
+  },
+  {
+   "id": "21_346a",
+   "marks": [
+    [
+     "I",
+     46,
+     [
+      [
+       143,
+       "[Page 95]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     62,
+     "[Page 96]",
+     true
+    ],
+    [
+     "I",
+     88,
+     [
+      [
+       693,
+       "[Page 97]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     114,
+     [
+      [
+       1260,
+       "[Page 98]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/§ 00346a - Tolerances for pesticide chemicals in or on raw agricultural commodities.md",
+   "printed_pages": [
+    94,
+    98
+   ]
+  },
+  {
+   "id": "21_346b",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/§ 00346b - Authorization of appropriations.md",
+   "printed_pages": [
+    98,
+    98
+   ]
+  },
+  {
+   "id": "21_347",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       90,
+       "[Page 99]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/§ 00347 - Intrastate sales of colored oleomargarine.md",
+   "printed_pages": [
+    98,
+    99
+   ]
+  },
+  {
+   "id": "21_347a",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/§ 00347a - Congressional declaration of policy regarding oleomargarine sales.md",
+   "printed_pages": [
+    99,
+    99
+   ]
+  },
+  {
+   "id": "21_347b",
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 100]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/§ 00347b - Contravention of State laws.md",
+   "printed_pages": [
+    99,
+    100
+   ]
+  },
+  {
+   "id": "21_348",
+   "marks": [
+    [
+     "I",
+     50,
+     [
+      [
+       96,
+       "[Page 101]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     94,
+     [
+      [
+       178,
+       "[Page 102]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/§ 00348 - Food additives.md",
+   "printed_pages": [
+    100,
+    102
+   ]
+  },
+  {
+   "id": "21_349",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/§ 00349 - Bottled drinking water standards; publication in Federal Register.md",
+   "printed_pages": [
+    102,
+    102
+   ]
+  },
+  {
+   "id": "21_350",
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 103]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/§ 00350 - Vitamins and minerals.md",
+   "printed_pages": [
+    102,
+    103
+   ]
+  },
+  {
+   "id": "21_350a",
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       93,
+       "[Page 104]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     64,
+     [
+      [
+       142,
+       "[Page 105]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     122,
+     "[Page 106]",
+     true
+    ],
+    [
+     "I",
+     196,
+     [
+      [
+       96,
+       "[Page 107]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/§ 00350a - Infant formulas.md",
+   "printed_pages": [
+    103,
+    107
+   ]
+  },
+  {
+   "id": "21_350b",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 004 (IV) - Food/§ 00350b - New dietary ingredients.md",
+   "printed_pages": [
+    107,
+    107
+   ]
+  },
+  {
+   "id": "21_-ch8-scV",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/README.md",
+   "printed_pages": [
+    107,
+    107
+   ]
+  },
+  {
+   "id": "21_-ch8-scV-Part_A",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/README.md",
+   "printed_pages": [
+    107,
+    107
+   ]
+  },
+  {
+   "id": "21_351",
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       702,
+       "[Page 108]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     54,
+     "[Page 109]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00351 - Adulterated drugs and devices.md",
+   "printed_pages": [
+    107,
+    109
+   ]
+  },
+  {
+   "id": "21_352",
+   "marks": [
+    [
+     "I",
+     22,
+     [
+      [
+       186,
+       "[Page 110]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     52,
+     [
+      [
+       146,
+       "[Page 111]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     84,
+     [
+      [
+       90,
+       "[Page 112]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     162,
+     [
+      [
+       167,
+       "[Page 113]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00352 - Misbranded drugs and devices.md",
+   "printed_pages": [
+    109,
+    113
+   ]
+  },
+  {
+   "id": "21_353",
+   "marks": [
+    [
+     "I",
+     22,
+     [
+      [
+       371,
+       "[Page 114]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     82,
+     [
+      [
+       235,
+       "[Page 115]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     134,
+     [
+      [
+       94,
+       "[Page 116]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     204,
+     "[Page 117]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00353 - Exemptions and consideration for certain drugs, devices, and biological products.md",
+   "printed_pages": [
+    113,
+    117
+   ]
+  },
+  {
+   "id": "21_354",
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       114,
+       "[Page 118]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00354 - Repealed. Pub. L. 86–618, title I, §103(a)(2), July 12, 1960, 74 Stat. 398.md",
+   "printed_pages": [
+    117,
+    118
+   ]
+  },
+  {
+   "id": "21_355",
+   "marks": [
+    [
+     "L",
+     42,
+     "[Page 119]",
+     true
+    ],
+    [
+     "I",
+     62,
+     [
+      [
+       1332,
+       "[Page 120]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     76,
+     [
+      [
+       92,
+       "[Page 121]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     88,
+     [
+      [
+       2186,
+       "[Page 122]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     124,
+     "[Page 123]",
+     true
+    ],
+    [
+     "I",
+     176,
+     [
+      [
+       93,
+       "[Page 124]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     216,
+     [
+      [
+       93,
+       "[Page 125]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     242,
+     [
+      [
+       146,
+       "[Page 126]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     296,
+     [
+      [
+       145,
+       "[Page 127]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     346,
+     [
+      [
+       557,
+       "[Page 128]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00355 - New drugs.md",
+   "printed_pages": [
+    118,
+    128
+   ]
+  },
+  {
+   "id": "21_356",
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 129]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00356 - Certification of drugs containing insulin.md",
+   "printed_pages": [
+    128,
+    129
+   ]
+  },
+  {
+   "id": "21_357",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       265,
+       "[Page 130]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     38,
+     [
+      [
+       1183,
+       "[Page 131]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     70,
+     [
+      [
+       696,
+       "[Page 132]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00357 - Certification of drugs containing penicillin, streptomycin, chlortetracycline, chloramphenicol, bacitracin, or any other antibiotic drug.md",
+   "printed_pages": [
+    129,
+    132
+   ]
+  },
+  {
+   "id": "21_358",
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       91,
+       "[Page 133]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00358 - Authority to designate official names.md",
+   "printed_pages": [
+    132,
+    133
+   ]
+  },
+  {
+   "id": "21_359",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00359 - Nonapplicability of subchapter to cosmetics.md",
+   "printed_pages": [
+    133,
+    133
+   ]
+  },
+  {
+   "id": "21_360",
+   "marks": [
+    [
+     "L",
+     34,
+     "[Page 134]",
+     true
+    ],
+    [
+     "L",
+     66,
+     "[Page 135]",
+     true
+    ],
+    [
+     "I",
+     110,
+     [
+      [
+       169,
+       "[Page 136]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     170,
+     [
+      [
+       323,
+       "[Page 137]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360 - Registration of producers of drugs or devices.md",
+   "printed_pages": [
+    133,
+    137
+   ]
+  },
+  {
+   "id": "21_360a",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360a - Repealed. Pub. L. 91–513, title II, §701(a), Oct. 27, 1970, 84 Stat. 1281.md",
+   "printed_pages": [
+    137,
+    137
+   ]
+  },
+  {
+   "id": "21_360b",
+   "marks": [
+    [
+     "L",
+     44,
+     "[Page 138]",
+     true
+    ],
+    [
+     "I",
+     70,
+     [
+      [
+       142,
+       "[Page 139]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     98,
+     [
+      [
+       701,
+       "[Page 140]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     126,
+     "[Page 141]",
+     true
+    ],
+    [
+     "I",
+     148,
+     [
+      [
+       339,
+       "[Page 142]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     180,
+     [
+      [
+       141,
+       "[Page 143]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     220,
+     [
+      [
+       742,
+       "[Page 144]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     250,
+     [
+      [
+       93,
+       "[Page 145]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     290,
+     [
+      [
+       231,
+       "[Page 146]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     334,
+     [
+      [
+       91,
+       "[Page 147]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     390,
+     [
+      [
+       187,
+       "[Page 148]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     462,
+     [
+      [
+       109,
+       "[Page 149]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360b - New animal drugs.md",
+   "printed_pages": [
+    137,
+    149
+   ]
+  },
+  {
+   "id": "21_360c",
+   "marks": [
+    [
+     "L",
+     32,
+     "[Page 150]",
+     true
+    ],
+    [
+     "L",
+     76,
+     "[Page 151]",
+     true
+    ],
+    [
+     "L",
+     118,
+     "[Page 152]",
+     true
+    ],
+    [
+     "I",
+     154,
+     [
+      [
+       97,
+       "[Page 153]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     220,
+     [
+      [
+       126,
+       "[Page 154]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360c - Classification of devices intended for human use.md",
+   "printed_pages": [
+    149,
+    154
+   ]
+  },
+  {
+   "id": "21_360d",
+   "marks": [
+    [
+     "L",
+     42,
+     "[Page 155]",
+     true
+    ],
+    [
+     "I",
+     70,
+     [
+      [
+       1162,
+       "[Page 156]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360d - Performance standards.md",
+   "printed_pages": [
+    154,
+    156
+   ]
+  },
+  {
+   "id": "21_360e",
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 157]",
+     true
+    ],
+    [
+     "I",
+     66,
+     [
+      [
+       96,
+       "[Page 158]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     108,
+     [
+      [
+       278,
+       "[Page 159]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     158,
+     [
+      [
+       417,
+       "[Page 160]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     190,
+     [
+      [
+       1485,
+       "[Page 161]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360e - Premarket approval.md",
+   "printed_pages": [
+    156,
+    161
+   ]
+  },
+  {
+   "id": "21_360f",
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 162]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360f - Banned devices.md",
+   "printed_pages": [
+    161,
+    162
+   ]
+  },
+  {
+   "id": "21_360g",
+   "marks": [
+    [
+     "I",
+     34,
+     [
+      [
+       532,
+       "[Page 163]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360g - Judicial review.md",
+   "printed_pages": [
+    162,
+    163
+   ]
+  },
+  {
+   "id": "21_360h",
+   "marks": [
+    [
+     "I",
+     26,
+     [
+      [
+       883,
+       "[Page 164]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     90,
+     "[Page 165]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360h - Notification and other remedies.md",
+   "printed_pages": [
+    163,
+    165
+   ]
+  },
+  {
+   "id": "21_360i",
+   "marks": [
+    [
+     "L",
+     68,
+     "[Page 166]",
+     true
+    ],
+    [
+     "L",
+     148,
+     "[Page 167]",
+     true
+    ],
+    [
+     "I",
+     230,
+     [
+      [
+       216,
+       "[Page 168]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360i - Records and reports on devices.md",
+   "printed_pages": [
+    165,
+    168
+   ]
+  },
+  {
+   "id": "21_360j",
+   "marks": [
+    [
+     "I",
+     36,
+     [
+      [
+       241,
+       "[Page 169]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     84,
+     [
+      [
+       423,
+       "[Page 170]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     124,
+     [
+      [
+       233,
+       "[Page 171]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     162,
+     "[Page 172]",
+     true
+    ],
+    [
+     "L",
+     210,
+     "[Page 173]",
+     true
+    ],
+    [
+     "I",
+     248,
+     [
+      [
+       224,
+       "[Page 174]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360j - General provisions respecting control of devices intended for human use.md",
+   "printed_pages": [
+    168,
+    174
+   ]
+  },
+  {
+   "id": "21_360k",
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 175]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360k - State and local requirements respecting devices.md",
+   "printed_pages": [
+    174,
+    175
+   ]
+  },
+  {
+   "id": "21_360l",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360l - Postmarket surveillance.md",
+   "printed_pages": [
+    175,
+    175
+   ]
+  },
+  {
+   "id": "21_-ch8-scV-Part_B",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part B - Drugs for Rare Diseases or Conditions/README.md",
+   "printed_pages": [
+    175,
+    175
+   ]
+  },
+  {
+   "id": "21_360aa",
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 176]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part B - Drugs for Rare Diseases or Conditions/§ 00360aa - Recommendations for investigations of drugs for rare diseases or conditions.md",
+   "printed_pages": [
+    175,
+    176
+   ]
+  },
+  {
+   "id": "21_360bb",
+   "marks": [
+    [
+     "I",
+     32,
+     [
+      [
+       104,
+       "[Page 177]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part B - Drugs for Rare Diseases or Conditions/§ 00360bb - Designation of drugs for rare diseases or conditions.md",
+   "printed_pages": [
+    176,
+    177
+   ]
+  },
+  {
+   "id": "21_360cc",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part B - Drugs for Rare Diseases or Conditions/§ 00360cc - Protection for drugs for rare diseases or conditions.md",
+   "printed_pages": [
+    177,
+    177
+   ]
+  },
+  {
+   "id": "21_360dd",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       95,
+       "[Page 178]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part B - Drugs for Rare Diseases or Conditions/§ 00360dd - Open protocols for investigations of drugs for rare diseases or conditions.md",
+   "printed_pages": [
+    177,
+    178
+   ]
+  },
+  {
+   "id": "21_360ee",
+   "marks": [
+    [
+     "L",
+     60,
+     "[Page 179]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part B - Drugs for Rare Diseases or Conditions/§ 00360ee - Grants and contracts for development of drugs for rare diseases and conditions.md",
+   "printed_pages": [
+    178,
+    179
+   ]
+  },
+  {
+   "id": "21_-ch8-scV-Part_C",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/README.md",
+   "printed_pages": [
+    179,
+    179
+   ]
+  },
+  {
+   "id": "21_360hh",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360hh - Definitions.md",
+   "printed_pages": [
+    179,
+    179
+   ]
+  },
+  {
+   "id": "21_360ii",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       217,
+       "[Page 180]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360ii - Program of control.md",
+   "printed_pages": [
+    179,
+    180
+   ]
+  },
+  {
+   "id": "21_360jj",
+   "marks": [
+    [
+     "I",
+     26,
+     [
+      [
+       92,
+       "[Page 181]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360jj - Studies by Secretary.md",
+   "printed_pages": [
+    180,
+    181
+   ]
+  },
+  {
+   "id": "21_360kk",
+   "marks": [
+    [
+     "I",
+     30,
+     [
+      [
+       87,
+       "[Page 182]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     70,
+     [
+      [
+       811,
+       "[Page 183]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360kk - Performance standards for electronic products.md",
+   "printed_pages": [
+    181,
+    183
+   ]
+  },
+  {
+   "id": "21_360ll",
+   "marks": [
+    [
+     "I",
+     26,
+     [
+      [
+       96,
+       "[Page 184]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360ll - Notification of defects in and repair or replacement of electronic products.md",
+   "printed_pages": [
+    183,
+    184
+   ]
+  },
+  {
+   "id": "21_360mm",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       90,
+       "[Page 185]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360mm - Imports.md",
+   "printed_pages": [
+    184,
+    185
+   ]
+  },
+  {
+   "id": "21_360nn",
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 186]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360nn - Inspection, records, and reports.md",
+   "printed_pages": [
+    185,
+    186
+   ]
+  },
+  {
+   "id": "21_360oo",
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 187]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360oo - Prohibited acts.md",
+   "printed_pages": [
+    186,
+    187
+   ]
+  },
+  {
+   "id": "21_360pp",
+   "marks": [
+    [
+     "L",
+     30,
+     "[Page 188]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360pp - Enforcement.md",
+   "printed_pages": [
+    187,
+    188
+   ]
+  },
+  {
+   "id": "21_360qq",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360qq - Annual report.md",
+   "printed_pages": [
+    188,
+    188
+   ]
+  },
+  {
+   "id": "21_360rr",
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 189]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360rr - Federal-State cooperation.md",
+   "printed_pages": [
+    188,
+    189
+   ]
+  },
+  {
+   "id": "21_360ss",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360ss - State standards.md",
+   "printed_pages": [
+    189,
+    189
+   ]
+  },
+  {
+   "id": "21_-ch8-scVI",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 006 (VI) - Cosmetics/README.md",
+   "printed_pages": [
+    189,
+    189
+   ]
+  },
+  {
+   "id": "21_361",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 006 (VI) - Cosmetics/§ 00361 - Adulterated cosmetics.md",
+   "printed_pages": [
+    189,
+    189
+   ]
+  },
+  {
+   "id": "21_362",
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 190]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 006 (VI) - Cosmetics/§ 00362 - Misbranded cosmetics.md",
+   "printed_pages": [
+    189,
+    190
+   ]
+  },
+  {
+   "id": "21_363",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 006 (VI) - Cosmetics/§ 00363 - Regulations making exemptions.md",
+   "printed_pages": [
+    190,
+    190
+   ]
+  },
+  {
+   "id": "21_364",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 006 (VI) - Cosmetics/§ 00364 - Repealed. Pub. L. 86–618, title I, §103(a)(3), July 12, 1960, 74 Stat. 398.md",
+   "printed_pages": [
+    190,
+    190
+   ]
+  },
+  {
+   "id": "21_-ch8-scVII",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/README.md",
+   "printed_pages": [
+    190,
+    190
+   ]
+  },
+  {
+   "id": "21_-ch8-scVII-Part_A",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/README.md",
+   "printed_pages": [
+    190,
+    190
+   ]
+  },
+  {
+   "id": "21_371",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       90,
+       "[Page 191]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     42,
+     [
+      [
+       434,
+       "[Page 192]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00371 - Regulations and hearings.md",
+   "printed_pages": [
+    190,
+    192
+   ]
+  },
+  {
+   "id": "21_372",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       608,
+       "[Page 193]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00372 - Examinations and investigations.md",
+   "printed_pages": [
+    192,
+    193
+   ]
+  },
+  {
+   "id": "21_372a",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       111,
+       "[Page 194]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00372a - Transferred.md",
+   "printed_pages": [
+    193,
+    194
+   ]
+  },
+  {
+   "id": "21_373",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00373 - Records of interstate shipment.md",
+   "printed_pages": [
+    194,
+    194
+   ]
+  },
+  {
+   "id": "21_374",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       491,
+       "[Page 195]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     58,
+     [
+      [
+       587,
+       "[Page 196]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00374 - Inspection.md",
+   "printed_pages": [
+    194,
+    196
+   ]
+  },
+  {
+   "id": "21_375",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00375 - Publicity.md",
+   "printed_pages": [
+    196,
+    196
+   ]
+  },
+  {
+   "id": "21_376",
+   "marks": [
+    [
+     "I",
+     24,
+     [
+      [
+       152,
+       "[Page 197]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00376 - Examination of sea food on request of packer; marking food with results; fees; penalties.md",
+   "printed_pages": [
+    196,
+    197
+   ]
+  },
+  {
+   "id": "21_377",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00377 - Revision of United States Pharmacopoeia; development of analysis and mechanical and physical tests.md",
+   "printed_pages": [
+    197,
+    197
+   ]
+  },
+  {
+   "id": "21_378",
+   "marks": [
+    [
+     "L",
+     42,
+     "[Page 198]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00378 - Advertising of foods.md",
+   "printed_pages": [
+    197,
+    198
+   ]
+  },
+  {
+   "id": "21_379",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00379 - Confidential information.md",
+   "printed_pages": [
+    198,
+    198
+   ]
+  },
+  {
+   "id": "21_379a",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00379a - Presumption of existence of jurisdiction.md",
+   "printed_pages": [
+    198,
+    198
+   ]
+  },
+  {
+   "id": "21_379b",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00379b - Consolidated administrative and laboratory facility.md",
+   "printed_pages": [
+    198,
+    198
+   ]
+  },
+  {
+   "id": "21_379c",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00379c - Transferred.md",
+   "printed_pages": [
+    198,
+    198
+   ]
+  },
+  {
+   "id": "21_379d",
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 199]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00379d - Automation of Food and Drug Administration.md",
+   "printed_pages": [
+    198,
+    199
+   ]
+  },
+  {
+   "id": "21_-ch8-scVII-Part_B",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part B - Colors/README.md",
+   "printed_pages": [
+    199,
+    199
+   ]
+  },
+  {
+   "id": "21_379e",
+   "marks": [
+    [
+     "I",
+     34,
+     [
+      [
+       243,
+       "[Page 200]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     52,
+     [
+      [
+       95,
+       "[Page 201]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     84,
+     [
+      [
+       467,
+       "[Page 202]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     146,
+     [
+      [
+       502,
+       "[Page 203]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     180,
+     [
+      [
+       536,
+       "[Page 204]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part B - Colors/§ 00379e - Listing and certification of color additives for foods, drugs, devices, and cosmetics.md",
+   "printed_pages": [
+    199,
+    204
+   ]
+  },
+  {
+   "id": "21_-ch8-scVII-Part_C",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part C - Fees/README.md",
+   "printed_pages": [
+    204,
+    204
+   ]
+  },
+  {
+   "id": "21_-ch8-scVII-Part_C-subpart_1",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part C - Fees/Subpart 001 - Freedom of Information Fees/README.md",
+   "printed_pages": [
+    204,
+    204
+   ]
+  },
+  {
+   "id": "21_379f",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part C - Fees/Subpart 001 - Freedom of Information Fees/§ 00379f - Recovery and retention of fees for freedom of information requests.md",
+   "printed_pages": [
+    204,
+    204
+   ]
+  },
+  {
+   "id": "21_-ch8-scVII-Part_C-subpart_2",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part C - Fees/Subpart 002 - Fees Relating to Drugs/README.md",
+   "printed_pages": [
+    204,
+    204
+   ]
+  },
+  {
+   "id": "21_379g",
+   "marks": [
+    [
+     "L",
+     36,
+     "[Page 205]",
+     true
+    ],
+    [
+     "L",
+     100,
+     "[Page 206]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part C - Fees/Subpart 002 - Fees Relating to Drugs/§ 00379g - Definitions.md",
+   "printed_pages": [
+    204,
+    206
+   ]
+  },
+  {
+   "id": "21_379h",
+   "marks": [
+    [
+     "L",
+     50,
+     "[Page 207]",
+     true
+    ],
+    [
+     "I",
+     121,
+     [
+      [
+       97,
+       "[Page 208]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 007 (VII) - General Authority/Part C - Fees/Subpart 002 - Fees Relating to Drugs/§ 00379h - Authority to assess and use drug fees.md",
+   "printed_pages": [
+    206,
+    208
+   ]
+  },
+  {
+   "id": "21_-ch8-scVIII",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 008 (VIII) - Imports and Exports/README.md",
+   "printed_pages": [
+    208,
+    208
+   ]
+  },
+  {
+   "id": "21_381",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       565,
+       "[Page 209]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     44,
+     [
+      [
+       436,
+       "[Page 210]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 008 (VIII) - Imports and Exports/§ 00381 - Imports and exports.md",
+   "printed_pages": [
+    208,
+    210
+   ]
+  },
+  {
+   "id": "21_382",
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 211]",
+     true
+    ],
+    [
+     "L",
+     84,
+     "[Page 212]",
+     true
+    ],
+    [
+     "I",
+     168,
+     [
+      [
+       94,
+       "[Page 213]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     212,
+     [
+      [
+       528,
+       "[Page 214]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     270,
+     "[Page 215]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 008 (VIII) - Imports and Exports/§ 00382 - Exports of certain unapproved products.md",
+   "printed_pages": [
+    210,
+    215
+   ]
+  },
+  {
+   "id": "21_383",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 008 (VIII) - Imports and Exports/§ 00383 - Office of International Relations.md",
+   "printed_pages": [
+    215,
+    215
+   ]
+  },
+  {
+   "id": "21_-ch8-scIX",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 009 (IX) - Miscellaneous/README.md",
+   "printed_pages": [
+    215,
+    215
+   ]
+  },
+  {
+   "id": "21_391",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 009 (IX) - Miscellaneous/§ 00391 - Separability clause.md",
+   "printed_pages": [
+    215,
+    215
+   ]
+  },
+  {
+   "id": "21_392",
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 216]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 009 (IX) - Miscellaneous/§ 00392 - Exemption of meats and meat food products.md",
+   "printed_pages": [
+    215,
+    216
+   ]
+  },
+  {
+   "id": "21_393",
+   "marks": [
+    [
+     "L",
+     48,
+     "[Page 217]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 009 (IX) - Miscellaneous/§ 00393 - Food and Drug Administration.md",
+   "printed_pages": [
+    216,
+    217
+   ]
+  },
+  {
+   "id": "21_394",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 009 (IX) - Miscellaneous/§ 00394 - Scientific review groups.md",
+   "printed_pages": [
+    217,
+    217
+   ]
+  },
+  {
+   "id": "21_395",
+   "marks": [],
+   "path": "Chapter 008 - Narcotic Farms/Subchapter 009 (IX) - Miscellaneous/§ 00395 - Loan repayment program.md",
+   "printed_pages": [
+    217,
+    217
+   ]
+  },
+  {
+   "id": "21_-ch10",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       58,
+       "[Page 218]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/README.md",
+   "printed_pages": [
+    217,
+    218
+   ]
+  },
+  {
+   "id": "21_451",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       324,
+       "[Page 219]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00451 - Congressional statement of findings.md",
+   "printed_pages": [
+    218,
+    219
+   ]
+  },
+  {
+   "id": "21_452",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       95,
+       "[Page 220]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00452 - Congressional declaration of policy.md",
+   "printed_pages": [
+    219,
+    220
+   ]
+  },
+  {
+   "id": "21_453",
+   "marks": [
+    [
+     "L",
+     40,
+     "[Page 221]",
+     true
+    ],
+    [
+     "I",
+     82,
+     [
+      [
+       136,
+       "[Page 222]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00453 - Definitions.md",
+   "printed_pages": [
+    220,
+    222
+   ]
+  },
+  {
+   "id": "21_454",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       403,
+       "[Page 223]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     22,
+     [
+      [
+       889,
+       "[Page 224]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00454 - Federal and State cooperation in development and administration of State poultry product inspection programs.md",
+   "printed_pages": [
+    222,
+    224
+   ]
+  },
+  {
+   "id": "21_455",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       416,
+       "[Page 225]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00455 - Inspection in official establishments.md",
+   "printed_pages": [
+    224,
+    225
+   ]
+  },
+  {
+   "id": "21_456",
+   "marks": [],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00456 - Operation of premises, facilities and equipment.md",
+   "printed_pages": [
+    225,
+    225
+   ]
+  },
+  {
+   "id": "21_457",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       95,
+       "[Page 226]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00457 - Labeling and container standards.md",
+   "printed_pages": [
+    225,
+    226
+   ]
+  },
+  {
+   "id": "21_458",
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 227]",
+     true
+    ]
+   ],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00458 - Prohibited acts.md",
+   "printed_pages": [
+    226,
+    227
+   ]
+  },
+  {
+   "id": "21_459",
+   "marks": [],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00459 - Compliance by all establishments.md",
+   "printed_pages": [
+    227,
+    227
+   ]
+  },
+  {
+   "id": "21_460",
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 228]",
+     true
+    ]
+   ],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00460 - Miscellaneous activities subject to regulation.md",
+   "printed_pages": [
+    227,
+    228
+   ]
+  },
+  {
+   "id": "21_461",
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 229]",
+     true
+    ]
+   ],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00461 - Offenses and punishment.md",
+   "printed_pages": [
+    228,
+    229
+   ]
+  },
+  {
+   "id": "21_462",
+   "marks": [],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00462 - Reporting of violations; notice; opportunity to present views.md",
+   "printed_pages": [
+    229,
+    229
+   ]
+  },
+  {
+   "id": "21_463",
+   "marks": [],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00463 - Rules and regulations.md",
+   "printed_pages": [
+    229,
+    229
+   ]
+  },
+  {
+   "id": "21_464",
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       272,
+       "[Page 230]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     46,
+     [
+      [
+       135,
+       "[Page 231]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00464 - Exemptions.md",
+   "printed_pages": [
+    229,
+    231
+   ]
+  },
+  {
+   "id": "21_465",
+   "marks": [],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00465 - Limitations upon entry of poultry products and other materials into official establishments.md",
+   "printed_pages": [
+    231,
+    231
+   ]
+  },
+  {
+   "id": "21_466",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       92,
+       "[Page 232]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     62,
+     [
+      [
+       112,
+       "[Page 233]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00466 - Imports.md",
+   "printed_pages": [
+    231,
+    233
+   ]
+  },
+  {
+   "id": "21_467",
+   "marks": [],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00467 - Inspection services.md",
+   "printed_pages": [
+    233,
+    233
+   ]
+  },
+  {
+   "id": "21_467a",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       519,
+       "[Page 234]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00467a - Administrative detention; duration; pending judicial proceedings; notification of government authorities; release; removal of official….md",
+   "printed_pages": [
+    233,
+    234
+   ]
+  },
+  {
+   "id": "21_467b",
+   "marks": [
+    [
+     "I",
+     40,
+     [
+      [
+       168,
+       "[Page 235]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00467b - Seizure and condemnation.md",
+   "printed_pages": [
+    234,
+    235
+   ]
+  },
+  {
+   "id": "21_467c",
+   "marks": [],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00467c - Federal court jurisdiction of enforcement and injunction proceedings and other kinds of cases; limitations; United States as plaintiff….md",
+   "printed_pages": [
+    235,
+    235
+   ]
+  },
+  {
+   "id": "21_467d",
+   "marks": [],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00467d - Administration and enforcement; applicability of penalty provisions; conduct of inquiries; power and jurisdiction of courts.md",
+   "printed_pages": [
+    235,
+    235
+   ]
+  },
+  {
+   "id": "21_467e",
+   "marks": [],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00467e - Non-Federal jurisdiction of federally regulated matters; prohibition of additional or different requirements for establishments with….md",
+   "printed_pages": [
+    235,
+    235
+   ]
+  },
+  {
+   "id": "21_467f",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       286,
+       "[Page 236]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00467f - Federal Food, Drug, and Cosmetic Act applications.md",
+   "printed_pages": [
+    235,
+    236
+   ]
+  },
+  {
+   "id": "21_468",
+   "marks": [],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00468 - Cost of inspection; overtime.md",
+   "printed_pages": [
+    236,
+    236
+   ]
+  },
+  {
+   "id": "21_469",
+   "marks": [],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00469 - Authorization of appropriations.md",
+   "printed_pages": [
+    236,
+    236
+   ]
+  },
+  {
+   "id": "21_470",
+   "marks": [],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00470 - Reports to Congress.md",
+   "printed_pages": [
+    236,
+    236
+   ]
+  },
+  {
+   "id": "21_-ch11",
+   "marks": [],
+   "path": "Chapter 011 - Manufacture of Narcotic Drugs/README.md",
+   "printed_pages": [
+    236,
+    236
+   ]
+  },
+  {
+   "id": "21_501_to_517",
+   "marks": [],
+   "path": "Chapter 011 - Manufacture of Narcotic Drugs/§ 00501 to 517 - Repealed. Pub. L. 91–513, title III, §1101(a)(10), Oct. 27, 1970, 84 Stat. 1292.md",
+   "printed_pages": [
+    236,
+    236
+   ]
+  },
+  {
+   "id": "21_-ch12",
+   "marks": [
+    [
+     "I",
+     15,
+     [
+      [
+       120,
+       "[Page 237]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     93,
+     [
+      [
+       149,
+       "[Page 238]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/README.md",
+   "printed_pages": [
+    236,
+    238
+   ]
+  },
+  {
+   "id": "21_-ch12-scI",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/README.md",
+   "printed_pages": [
+    238,
+    238
+   ]
+  },
+  {
+   "id": "21_601",
+   "marks": [
+    [
+     "I",
+     32,
+     [
+      [
+       231,
+       "[Page 239]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     76,
+     [
+      [
+       287,
+       "[Page 240]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     148,
+     "[Page 241]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00601 - Definitions.md",
+   "printed_pages": [
+    238,
+    241
+   ]
+  },
+  {
+   "id": "21_602",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00602 - Congressional statement of findings.md",
+   "printed_pages": [
+    241,
+    241
+   ]
+  },
+  {
+   "id": "21_603",
+   "marks": [
+    [
+     "L",
+     36,
+     "[Page 242]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00603 - Inspection of meat and meat food products.md",
+   "printed_pages": [
+    241,
+    242
+   ]
+  },
+  {
+   "id": "21_604",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00604 - Post mortem examination of carcasses and marking or labeling; destruction of carcasses condemned; reinspection.md",
+   "printed_pages": [
+    242,
+    242
+   ]
+  },
+  {
+   "id": "21_605",
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 243]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00605 - Examination of carcasses brought into slaughtering or packing establishments, and of meat food products issued from and returned thereto….md",
+   "printed_pages": [
+    242,
+    243
+   ]
+  },
+  {
+   "id": "21_606",
+   "marks": [
+    [
+     "L",
+     48,
+     "[Page 244]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00606 - Inspectors of meat food products; marks of inspection; destruction of condemned products; products for export.md",
+   "printed_pages": [
+    243,
+    244
+   ]
+  },
+  {
+   "id": "21_607",
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       144,
+       "[Page 245]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00607 - Labeling, marking, and container requirements.md",
+   "printed_pages": [
+    244,
+    245
+   ]
+  },
+  {
+   "id": "21_608",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00608 - Sanitary inspection and regulation of slaughtering and packing establishments; rejection of adulterated meat or meat food products.md",
+   "printed_pages": [
+    245,
+    245
+   ]
+  },
+  {
+   "id": "21_609",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       321,
+       "[Page 246]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00609 - Examination of animals and food products thereof, slaughtered and prepared during nighttime.md",
+   "printed_pages": [
+    245,
+    246
+   ]
+  },
+  {
+   "id": "21_610",
+   "marks": [
+    [
+     "L",
+     46,
+     "[Page 247]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00610 - Prohibited acts.md",
+   "printed_pages": [
+    246,
+    247
+   ]
+  },
+  {
+   "id": "21_611",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00611 - Devices, marks, labels, and certificates; simulations.md",
+   "printed_pages": [
+    247,
+    247
+   ]
+  },
+  {
+   "id": "21_612",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00612 - Inspection of animals for export.md",
+   "printed_pages": [
+    247,
+    247
+   ]
+  },
+  {
+   "id": "21_613",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00613 - Inspectors of animals for export; certificates of condition.md",
+   "printed_pages": [
+    247,
+    247
+   ]
+  },
+  {
+   "id": "21_614",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       94,
+       "[Page 248]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00614 - Clearance prohibited to vessel carrying animals for export without inspector's certificate.md",
+   "printed_pages": [
+    247,
+    248
+   ]
+  },
+  {
+   "id": "21_615",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00615 - Inspection of carcasses, meat of which is intended for export.md",
+   "printed_pages": [
+    248,
+    248
+   ]
+  },
+  {
+   "id": "21_616",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00616 - Inspectors of carcasses, etc., meat of which is intended for export; certificates of condition.md",
+   "printed_pages": [
+    248,
+    248
+   ]
+  },
+  {
+   "id": "21_617",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       162,
+       "[Page 249]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00617 - Clearance prohibited to vessel carrying meat for export without inspector's certificate.md",
+   "printed_pages": [
+    248,
+    249
+   ]
+  },
+  {
+   "id": "21_618",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00618 - Delivery of inspectors’ certificates, and of copies.md",
+   "printed_pages": [
+    249,
+    249
+   ]
+  },
+  {
+   "id": "21_619",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00619 - Marking, labeling, or other identification of kinds of animals of articles’ derivation; separate establishments for preparation and….md",
+   "printed_pages": [
+    249,
+    249
+   ]
+  },
+  {
+   "id": "21_620",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       319,
+       "[Page 250]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     46,
+     "[Page 251]",
+     true
+    ],
+    [
+     "I",
+     100,
+     [
+      [
+       558,
+       "[Page 252]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00620 - Imports.md",
+   "printed_pages": [
+    249,
+    252
+   ]
+  },
+  {
+   "id": "21_621",
+   "marks": [
+    [
+     "I",
+     28,
+     [
+      [
+       108,
+       "[Page 253]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00621 - Inspectors to make examinations provided for; appointment; duties; regulations.md",
+   "printed_pages": [
+    252,
+    253
+   ]
+  },
+  {
+   "id": "21_622",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00622 - Bribery of or gifts to inspectors or other officers and acceptance of gifts.md",
+   "printed_pages": [
+    253,
+    253
+   ]
+  },
+  {
+   "id": "21_623",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       607,
+       "[Page 254]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00623 - Exemptions from inspection requirements.md",
+   "printed_pages": [
+    253,
+    254
+   ]
+  },
+  {
+   "id": "21_624",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00624 - Storage and handling regulations; violations; exemption of establishments subject to non-Federal jurisdiction.md",
+   "printed_pages": [
+    254,
+    254
+   ]
+  },
+  {
+   "id": "21_-ch12-scII",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Meat Processors and Related Industries/README.md",
+   "printed_pages": [
+    254,
+    254
+   ]
+  },
+  {
+   "id": "21_641",
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 255]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Meat Processors and Related Industries/§ 00641 - Prohibition of subchapter I inspection of articles not intended for use as human food; denaturation or other identification prior to….md",
+   "printed_pages": [
+    254,
+    255
+   ]
+  },
+  {
+   "id": "21_642",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Meat Processors and Related Industries/§ 00642 - Recordkeeping requirements.md",
+   "printed_pages": [
+    255,
+    255
+   ]
+  },
+  {
+   "id": "21_643",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Meat Processors and Related Industries/§ 00643 - Registration of business, name of person, and trade names.md",
+   "printed_pages": [
+    255,
+    255
+   ]
+  },
+  {
+   "id": "21_644",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Meat Processors and Related Industries/§ 00644 - Regulation of transactions, transportation, or importation of 4–D animals to prevent use as human food.md",
+   "printed_pages": [
+    255,
+    255
+   ]
+  },
+  {
+   "id": "21_645",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       1089,
+       "[Page 256]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Meat Processors and Related Industries/§ 00645 - Federal provisions applicable to State or Territorial business transactions of a local nature and not subject to local authority.md",
+   "printed_pages": [
+    255,
+    256
+   ]
+  },
+  {
+   "id": "21_-ch12-scIII",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 003 (III) - Federal and State Cooperation/README.md",
+   "printed_pages": [
+    256,
+    256
+   ]
+  },
+  {
+   "id": "21_661",
+   "marks": [
+    [
+     "I",
+     30,
+     [
+      [
+       838,
+       "[Page 257]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     54,
+     "[Page 258]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 003 (III) - Federal and State Cooperation/§ 00661 - Federal and State cooperation.md",
+   "printed_pages": [
+    256,
+    258
+   ]
+  },
+  {
+   "id": "21_-ch12-scIV",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 004 (IV) - Auxiliary Provisions/README.md",
+   "printed_pages": [
+    258,
+    258
+   ]
+  },
+  {
+   "id": "21_671",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 004 (IV) - Auxiliary Provisions/§ 00671 - Inspection services; refusal or withdrawal; hearing; business unfitness based upon certain convictions; other provisions for withdrawal of….md",
+   "printed_pages": [
+    258,
+    258
+   ]
+  },
+  {
+   "id": "21_672",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       138,
+       "[Page 259]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 004 (IV) - Auxiliary Provisions/§ 00672 - Administrative detention; duration; pending judicial proceedings; notification of governmental authorities; release.md",
+   "printed_pages": [
+    258,
+    259
+   ]
+  },
+  {
+   "id": "21_673",
+   "marks": [
+    [
+     "L",
+     30,
+     "[Page 260]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 004 (IV) - Auxiliary Provisions/§ 00673 - Seizure and condemnation.md",
+   "printed_pages": [
+    259,
+    260
+   ]
+  },
+  {
+   "id": "21_674",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 004 (IV) - Auxiliary Provisions/§ 00674 - Federal court jurisdiction of enforcement and injunction proceedings and other kinds of cases; limitations of section 607(e) of this title.md",
+   "printed_pages": [
+    260,
+    260
+   ]
+  },
+  {
+   "id": "21_675",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 004 (IV) - Auxiliary Provisions/§ 00675 - Assaulting, resisting, or impeding certain persons; murder; protection of such persons.md",
+   "printed_pages": [
+    260,
+    260
+   ]
+  },
+  {
+   "id": "21_676",
+   "marks": [
+    [
+     "L",
+     26,
+     "[Page 261]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 004 (IV) - Auxiliary Provisions/§ 00676 - Violations.md",
+   "printed_pages": [
+    260,
+    261
+   ]
+  },
+  {
+   "id": "21_677",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 004 (IV) - Auxiliary Provisions/§ 00677 - Other Federal laws applicable for administration and enforcement of chapter; location of inquiries; jurisdiction of Federal courts.md",
+   "printed_pages": [
+    261,
+    261
+   ]
+  },
+  {
+   "id": "21_678",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 004 (IV) - Auxiliary Provisions/§ 00678 - Non-Federal jurisdiction of federally regulated matters; prohibition of additional or different requirements for establishments with….md",
+   "printed_pages": [
+    261,
+    261
+   ]
+  },
+  {
+   "id": "21_679",
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 262]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 004 (IV) - Auxiliary Provisions/§ 00679 - Application of Federal Food, Drug, and Cosmetic Act.md",
+   "printed_pages": [
+    261,
+    262
+   ]
+  },
+  {
+   "id": "21_680",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 004 (IV) - Auxiliary Provisions/§ 00680 - Authorization of appropriations.md",
+   "printed_pages": [
+    262,
+    262
+   ]
+  },
+  {
+   "id": "21_-ch12-scV",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 005 (V) - Miscellaneous Provisions/README.md",
+   "printed_pages": [
+    262,
+    262
+   ]
+  },
+  {
+   "id": "21_691",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 005 (V) - Miscellaneous Provisions/§ 00691 - Reports to Congressional committees.md",
+   "printed_pages": [
+    262,
+    262
+   ]
+  },
+  {
+   "id": "21_692",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 005 (V) - Miscellaneous Provisions/§ 00692 - Inspection extended to reindeer.md",
+   "printed_pages": [
+    262,
+    262
+   ]
+  },
+  {
+   "id": "21_693",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 005 (V) - Miscellaneous Provisions/§ 00693 - Inspection of dairy products for export.md",
+   "printed_pages": [
+    262,
+    262
+   ]
+  },
+  {
+   "id": "21_694",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       270,
+       "[Page 263]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 005 (V) - Miscellaneous Provisions/§ 00694 - Authorization of appropriations.md",
+   "printed_pages": [
+    262,
+    263
+   ]
+  },
+  {
+   "id": "21_695",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 005 (V) - Miscellaneous Provisions/§ 00695 - Payment of cost of meat-inspection service; exception.md",
+   "printed_pages": [
+    263,
+    263
+   ]
+  },
+  {
+   "id": "21_&nbsp;",
+   "marks": [
+    [
+     "I",
+     88,
+     [
+      [
+       45,
+       "[Page 264]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     220,
+     [
+      [
+       86,
+       "[Page 265]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     349,
+     [
+      [
+       73,
+       "[Page 266]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 005 (V) - Miscellaneous Provisions/10.md",
+   "printed_pages": [
+    263,
+    266
+   ]
+  },
+  {
+   "id": "21_-ch12-scI_2",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/README.md",
+   "printed_pages": [
+    266,
+    266
+   ]
+  },
+  {
+   "id": "21_-ch12-scI_2-Part_A",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part A - Introductory Provisions/README.md",
+   "printed_pages": [
+    266,
+    266
+   ]
+  },
+  {
+   "id": "21_801",
+   "marks": [
+    [
+     "I",
+     28,
+     [
+      [
+       111,
+       "[Page 267]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     88,
+     [
+      [
+       294,
+       "[Page 268]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     168,
+     [
+      [
+       90,
+       "[Page 269]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     244,
+     [
+      [
+       96,
+       "[Page 270]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     328,
+     [
+      [
+       90,
+       "[Page 271]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part A - Introductory Provisions/§ 00801 - Congressional findings and declarations controlled substances.md",
+   "printed_pages": [
+    266,
+    271
+   ]
+  },
+  {
+   "id": "21_801a",
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 272]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part A - Introductory Provisions/§ 00801a - Congressional findings and declarations psychotropic substances.md",
+   "printed_pages": [
+    271,
+    272
+   ]
+  },
+  {
+   "id": "21_802",
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 273]",
+     true
+    ],
+    [
+     "I",
+     70,
+     [
+      [
+       91,
+       "[Page 274]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     160,
+     "[Page 275]",
+     true
+    ],
+    [
+     "L",
+     232,
+     "[Page 276]",
+     true
+    ],
+    [
+     "L",
+     340,
+     "[Page 277]",
+     true
+    ],
+    [
+     "I",
+     428,
+     [
+      [
+       443,
+       "[Page 278]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part A - Introductory Provisions/§ 00802 - Definitions.md",
+   "printed_pages": [
+    272,
+    278
+   ]
+  },
+  {
+   "id": "21_803",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part A - Introductory Provisions/§ 00803 - Repealed. Pub. L. 95–137, §1(b), Oct. 18, 1977, 91 Stat. 1169.md",
+   "printed_pages": [
+    278,
+    278
+   ]
+  },
+  {
+   "id": "21_-ch12-scI_2-Part_B",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part B - Authority to Control; Standards and Schedules/README.md",
+   "printed_pages": [
+    278,
+    278
+   ]
+  },
+  {
+   "id": "21_811",
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 279]",
+     true
+    ],
+    [
+     "I",
+     58,
+     [
+      [
+       180,
+       "[Page 280]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     80,
+     [
+      [
+       519,
+       "[Page 281]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     132,
+     "[Page 282]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part B - Authority to Control; Standards and Schedules/§ 00811 - Authority and criteria for classification of substances.md",
+   "printed_pages": [
+    278,
+    282
+   ]
+  },
+  {
+   "id": "21_812",
+   "marks": [
+    [
+     "L",
+     124,
+     "[Page 283]",
+     true
+    ],
+    [
+     "I",
+     294,
+     [
+      [
+       137,
+       "[Page 284]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     400,
+     "[Page 285]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part B - Authority to Control; Standards and Schedules/§ 00812 - Schedules of controlled substances.md",
+   "printed_pages": [
+    282,
+    285
+   ]
+  },
+  {
+   "id": "21_813",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part B - Authority to Control; Standards and Schedules/§ 00813 - Treatment of controlled substance analogues.md",
+   "printed_pages": [
+    285,
+    285
+   ]
+  },
+  {
+   "id": "21_814",
+   "marks": [
+    [
+     "L",
+     48,
+     "[Page 286]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part B - Authority to Control; Standards and Schedules/§ 00814 - Removal of exemption of certain drugs.md",
+   "printed_pages": [
+    285,
+    286
+   ]
+  },
+  {
+   "id": "21_-ch12-scI_2-Part_C",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/README.md",
+   "printed_pages": [
+    286,
+    286
+   ]
+  },
+  {
+   "id": "21_821",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00821 - Rules and regulations.md",
+   "printed_pages": [
+    286,
+    286
+   ]
+  },
+  {
+   "id": "21_822",
+   "marks": [
+    [
+     "L",
+     42,
+     "[Page 287]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00822 - Persons required to register.md",
+   "printed_pages": [
+    286,
+    287
+   ]
+  },
+  {
+   "id": "21_823",
+   "marks": [
+    [
+     "I",
+     38,
+     [
+      [
+       237,
+       "[Page 288]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     94,
+     [
+      [
+       91,
+       "[Page 289]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00823 - Registration requirements.md",
+   "printed_pages": [
+    287,
+    289
+   ]
+  },
+  {
+   "id": "21_824",
+   "marks": [
+    [
+     "I",
+     28,
+     [
+      [
+       89,
+       "[Page 290]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     92,
+     "[Page 291]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00824 - Denial, revocation, or suspension of registration.md",
+   "printed_pages": [
+    289,
+    291
+   ]
+  },
+  {
+   "id": "21_825",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00825 - Labeling and packaging.md",
+   "printed_pages": [
+    291,
+    291
+   ]
+  },
+  {
+   "id": "21_826",
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       278,
+       "[Page 292]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00826 - Production quotas for controlled substances.md",
+   "printed_pages": [
+    291,
+    292
+   ]
+  },
+  {
+   "id": "21_827",
+   "marks": [
+    [
+     "I",
+     30,
+     [
+      [
+       91,
+       "[Page 293]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00827 - Records and reports of registrants.md",
+   "printed_pages": [
+    292,
+    293
+   ]
+  },
+  {
+   "id": "21_828",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       95,
+       "[Page 294]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00828 - Order forms.md",
+   "printed_pages": [
+    293,
+    294
+   ]
+  },
+  {
+   "id": "21_829",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00829 - Prescriptions.md",
+   "printed_pages": [
+    294,
+    294
+   ]
+  },
+  {
+   "id": "21_830",
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 295]",
+     true
+    ],
+    [
+     "I",
+     66,
+     [
+      [
+       274,
+       "[Page 296]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00830 - Regulation of listed chemicals and certain machines.md",
+   "printed_pages": [
+    294,
+    296
+   ]
+  },
+  {
+   "id": "21_-ch12-scI_2-Part_D",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/README.md",
+   "printed_pages": [
+    296,
+    296
+   ]
+  },
+  {
+   "id": "21_841",
+   "marks": [
+    [
+     "I",
+     40,
+     [
+      [
+       240,
+       "[Page 297]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     70,
+     [
+      [
+       1145,
+       "[Page 298]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     110,
+     [
+      [
+       94,
+       "[Page 299]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     160,
+     "[Page 300]",
+     true
+    ],
+    [
+     "I",
+     222,
+     [
+      [
+       105,
+       "[Page 301]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00841 - Prohibited acts A.md",
+   "printed_pages": [
+    296,
+    301
+   ]
+  },
+  {
+   "id": "21_842",
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       100,
+       "[Page 302]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00842 - Prohibited acts B.md",
+   "printed_pages": [
+    301,
+    302
+   ]
+  },
+  {
+   "id": "21_843",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       187,
+       "[Page 303]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     52,
+     [
+      [
+       104,
+       "[Page 304]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00843 - Prohibited acts C.md",
+   "printed_pages": [
+    302,
+    304
+   ]
+  },
+  {
+   "id": "21_844",
+   "marks": [
+    [
+     "I",
+     24,
+     [
+      [
+       107,
+       "[Page 305]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00844 - Penalties for simple possession.md",
+   "printed_pages": [
+    304,
+    305
+   ]
+  },
+  {
+   "id": "21_844a",
+   "marks": [
+    [
+     "L",
+     52,
+     "[Page 306]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00844a - Civil penalty for possession of small amounts of certain controlled substances.md",
+   "printed_pages": [
+    305,
+    306
+   ]
+  },
+  {
+   "id": "21_845_to_845b",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00845 to 845b - Transferred.md",
+   "printed_pages": [
+    306,
+    306
+   ]
+  },
+  {
+   "id": "21_846",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00846 - Attempt and conspiracy.md",
+   "printed_pages": [
+    306,
+    306
+   ]
+  },
+  {
+   "id": "21_847",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00847 - Additional penalties.md",
+   "printed_pages": [
+    306,
+    306
+   ]
+  },
+  {
+   "id": "21_848",
+   "marks": [
+    [
+     "I",
+     24,
+     [
+      [
+       94,
+       "[Page 307]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     78,
+     [
+      [
+       1127,
+       "[Page 308]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     118,
+     [
+      [
+       95,
+       "[Page 309]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     174,
+     [
+      [
+       190,
+       "[Page 310]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     214,
+     "[Page 311]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00848 - Continuing criminal enterprise.md",
+   "printed_pages": [
+    306,
+    311
+   ]
+  },
+  {
+   "id": "21_849",
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 312]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00849 - Transportation safety offenses.md",
+   "printed_pages": [
+    311,
+    312
+   ]
+  },
+  {
+   "id": "21_850",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00850 - Information for sentencing.md",
+   "printed_pages": [
+    312,
+    312
+   ]
+  },
+  {
+   "id": "21_851",
+   "marks": [
+    [
+     "L",
+     30,
+     "[Page 313]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00851 - Proceedings to establish prior convictions.md",
+   "printed_pages": [
+    312,
+    313
+   ]
+  },
+  {
+   "id": "21_852",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00852 - Application of treaties and other international agreements.md",
+   "printed_pages": [
+    313,
+    313
+   ]
+  },
+  {
+   "id": "21_853",
+   "marks": [
+    [
+     "I",
+     48,
+     [
+      [
+       90,
+       "[Page 314]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     96,
+     [
+      [
+       293,
+       "[Page 315]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     158,
+     [
+      [
+       380,
+       "[Page 316]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00853 - Criminal forfeitures.md",
+   "printed_pages": [
+    313,
+    316
+   ]
+  },
+  {
+   "id": "21_853a",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00853a - Transferred.md",
+   "printed_pages": [
+    316,
+    316
+   ]
+  },
+  {
+   "id": "21_854",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00854 - Investment of illicit drug profits.md",
+   "printed_pages": [
+    316,
+    316
+   ]
+  },
+  {
+   "id": "21_855",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00855 - Alternative fine.md",
+   "printed_pages": [
+    316,
+    316
+   ]
+  },
+  {
+   "id": "21_856",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00856 - Establishment of manufacturing operations.md",
+   "printed_pages": [
+    316,
+    316
+   ]
+  },
+  {
+   "id": "21_857",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00857 - Repealed. Pub. L. 101–647, title XXIV, §2401(d), Nov. 29, 1990, 104 Stat. 4859.md",
+   "printed_pages": [
+    316,
+    316
+   ]
+  },
+  {
+   "id": "21_858",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       90,
+       "[Page 317]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00858 - Endangering human life while illegally manufacturing controlled substance.md",
+   "printed_pages": [
+    316,
+    317
+   ]
+  },
+  {
+   "id": "21_859",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00859 - Distribution to persons under age twenty-one.md",
+   "printed_pages": [
+    317,
+    317
+   ]
+  },
+  {
+   "id": "21_860",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       432,
+       "[Page 318]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     52,
+     [
+      [
+       160,
+       "[Page 319]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00860 - Distribution or manufacturing in or near schools and colleges.md",
+   "printed_pages": [
+    317,
+    319
+   ]
+  },
+  {
+   "id": "21_861",
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       275,
+       "[Page 320]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00861 - Employment or use of persons under 18 years of age in drug operations.md",
+   "printed_pages": [
+    319,
+    320
+   ]
+  },
+  {
+   "id": "21_862",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       233,
+       "[Page 321]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     90,
+     [
+      [
+       108,
+       "[Page 322]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00862 - Denial of Federal benefits to drug traffickers and possessors.md",
+   "printed_pages": [
+    320,
+    322
+   ]
+  },
+  {
+   "id": "21_863",
+   "marks": [
+    [
+     "L",
+     108,
+     "[Page 323]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00863 - Drug paraphernalia.md",
+   "printed_pages": [
+    322,
+    323
+   ]
+  },
+  {
+   "id": "21_-ch12-scI_2-Part_E",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/README.md",
+   "printed_pages": [
+    323,
+    323
+   ]
+  },
+  {
+   "id": "21_871",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00871 - Attorney General.md",
+   "printed_pages": [
+    323,
+    323
+   ]
+  },
+  {
+   "id": "21_872",
+   "marks": [
+    [
+     "I",
+     52,
+     [
+      [
+       161,
+       "[Page 324]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00872 - Education and research programs of Attorney General.md",
+   "printed_pages": [
+    323,
+    324
+   ]
+  },
+  {
+   "id": "21_873",
+   "marks": [
+    [
+     "L",
+     66,
+     "[Page 325]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00873 - Cooperative arrangements.md",
+   "printed_pages": [
+    324,
+    325
+   ]
+  },
+  {
+   "id": "21_874",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00874 - Advisory committees.md",
+   "printed_pages": [
+    325,
+    325
+   ]
+  },
+  {
+   "id": "21_875",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00875 - Administrative hearings.md",
+   "printed_pages": [
+    325,
+    325
+   ]
+  },
+  {
+   "id": "21_876",
+   "marks": [
+    [
+     "L",
+     24,
+     "[Page 326]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00876 - Subpenas.md",
+   "printed_pages": [
+    325,
+    326
+   ]
+  },
+  {
+   "id": "21_877",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00877 - Judicial review.md",
+   "printed_pages": [
+    326,
+    326
+   ]
+  },
+  {
+   "id": "21_878",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00878 - Powers of enforcement personnel.md",
+   "printed_pages": [
+    326,
+    326
+   ]
+  },
+  {
+   "id": "21_879",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00879 - Search warrants.md",
+   "printed_pages": [
+    326,
+    326
+   ]
+  },
+  {
+   "id": "21_880",
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 327]",
+     true
+    ],
+    [
+     "L",
+     60,
+     "[Page 328]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00880 - Administrative inspections and warrants.md",
+   "printed_pages": [
+    326,
+    328
+   ]
+  },
+  {
+   "id": "21_881",
+   "marks": [
+    [
+     "I",
+     36,
+     [
+      [
+       225,
+       "[Page 329]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     98,
+     "[Page 330]",
+     true
+    ],
+    [
+     "L",
+     144,
+     "[Page 331]",
+     true
+    ],
+    [
+     "L",
+     228,
+     "[Page 332]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00881 - Forfeitures.md",
+   "printed_pages": [
+    328,
+    332
+   ]
+  },
+  {
+   "id": "21_881-1,_881a",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00881–1, 881a - Transferred.md",
+   "printed_pages": [
+    332,
+    332
+   ]
+  },
+  {
+   "id": "21_882",
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 333]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00882 - Injunctions.md",
+   "printed_pages": [
+    332,
+    333
+   ]
+  },
+  {
+   "id": "21_883",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00883 - Enforcement proceedings.md",
+   "printed_pages": [
+    333,
+    333
+   ]
+  },
+  {
+   "id": "21_884",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00884 - Immunity and privilege.md",
+   "printed_pages": [
+    333,
+    333
+   ]
+  },
+  {
+   "id": "21_885",
+   "marks": [
+    [
+     "I",
+     18,
+     [
+      [
+       335,
+       "[Page 334]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00885 - Burden of proof; liabilities.md",
+   "printed_pages": [
+    333,
+    334
+   ]
+  },
+  {
+   "id": "21_886",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00886 - Payments and advances.md",
+   "printed_pages": [
+    334,
+    334
+   ]
+  },
+  {
+   "id": "21_886a",
+   "marks": [
+    [
+     "I",
+     18,
+     [
+      [
+       152,
+       "[Page 335]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00886a - Diversion Control Fee Account.md",
+   "printed_pages": [
+    334,
+    335
+   ]
+  },
+  {
+   "id": "21_887",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00887 - Coordination and consolidation of post-seizure administration.md",
+   "printed_pages": [
+    335,
+    335
+   ]
+  },
+  {
+   "id": "21_888",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00888 - Expedited procedures for seized conveyances.md",
+   "printed_pages": [
+    335,
+    335
+   ]
+  },
+  {
+   "id": "21_889",
+   "marks": [
+    [
+     "I",
+     18,
+     [
+      [
+       140,
+       "[Page 336]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00889 - Production control of controlled substances.md",
+   "printed_pages": [
+    335,
+    336
+   ]
+  },
+  {
+   "id": "21_-ch12-scI_2-Part_F",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part F - General Provisions/README.md",
+   "printed_pages": [
+    336,
+    336
+   ]
+  },
+  {
+   "id": "21_901",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part F - General Provisions/§ 00901 - Severability.md",
+   "printed_pages": [
+    336,
+    336
+   ]
+  },
+  {
+   "id": "21_902",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part F - General Provisions/§ 00902 - Savings provisions.md",
+   "printed_pages": [
+    336,
+    336
+   ]
+  },
+  {
+   "id": "21_903",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       378,
+       "[Page 337]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part F - General Provisions/§ 00903 - Application of State law.md",
+   "printed_pages": [
+    336,
+    337
+   ]
+  },
+  {
+   "id": "21_904",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Control and Enforcement/Part F - General Provisions/§ 00904 - Payment of tort claims.md",
+   "printed_pages": [
+    337,
+    337
+   ]
+  },
+  {
+   "id": "21_-ch12-scII_2",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/README.md",
+   "printed_pages": [
+    337,
+    337
+   ]
+  },
+  {
+   "id": "21_951",
+   "marks": [
+    [
+     "I",
+     34,
+     [
+      [
+       677,
+       "[Page 338]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00951 - Definitions.md",
+   "printed_pages": [
+    337,
+    338
+   ]
+  },
+  {
+   "id": "21_952",
+   "marks": [
+    [
+     "I",
+     28,
+     [
+      [
+       89,
+       "[Page 339]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00952 - Importation of controlled substances.md",
+   "printed_pages": [
+    338,
+    339
+   ]
+  },
+  {
+   "id": "21_953",
+   "marks": [
+    [
+     "I",
+     34,
+     [
+      [
+       329,
+       "[Page 340]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00953 - Exportation of controlled substances.md",
+   "printed_pages": [
+    339,
+    340
+   ]
+  },
+  {
+   "id": "21_954",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00954 - Transshipment and in-transit shipment of controlled substances.md",
+   "printed_pages": [
+    340,
+    340
+   ]
+  },
+  {
+   "id": "21_955",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00955 - Possession on board vessels, etc., arriving in or departing from United States.md",
+   "printed_pages": [
+    340,
+    340
+   ]
+  },
+  {
+   "id": "21_955a_to_955d",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00955a to 955d - Transferred.md",
+   "printed_pages": [
+    340,
+    340
+   ]
+  },
+  {
+   "id": "21_956",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       89,
+       "[Page 341]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00956 - Exemption authority.md",
+   "printed_pages": [
+    340,
+    341
+   ]
+  },
+  {
+   "id": "21_957",
+   "marks": [
+    [
+     "I",
+     66,
+     [
+      [
+       110,
+       "[Page 342]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00957 - Persons required to register.md",
+   "printed_pages": [
+    341,
+    342
+   ]
+  },
+  {
+   "id": "21_958",
+   "marks": [
+    [
+     "L",
+     36,
+     "[Page 343]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00958 - Registration requirements.md",
+   "printed_pages": [
+    342,
+    343
+   ]
+  },
+  {
+   "id": "21_959",
+   "marks": [
+    [
+     "L",
+     36,
+     "[Page 344]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00959 - Possession, manufacture, or distribution of controlled substance.md",
+   "printed_pages": [
+    343,
+    344
+   ]
+  },
+  {
+   "id": "21_960",
+   "marks": [
+    [
+     "I",
+     68,
+     [
+      [
+       94,
+       "[Page 345]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     90,
+     [
+      [
+       231,
+       "[Page 346]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     170,
+     [
+      [
+       387,
+       "[Page 347]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00960 - Prohibited acts A.md",
+   "printed_pages": [
+    344,
+    347
+   ]
+  },
+  {
+   "id": "21_961",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00961 - Prohibited acts B.md",
+   "printed_pages": [
+    347,
+    347
+   ]
+  },
+  {
+   "id": "21_962",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00962 - Second or subsequent offenses.md",
+   "printed_pages": [
+    347,
+    347
+   ]
+  },
+  {
+   "id": "21_963",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       91,
+       "[Page 348]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00963 - Attempt and conspiracy.md",
+   "printed_pages": [
+    347,
+    348
+   ]
+  },
+  {
+   "id": "21_964",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00964 - Additional penalties.md",
+   "printed_pages": [
+    348,
+    348
+   ]
+  },
+  {
+   "id": "21_965",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00965 - Applicability of part E of subchapter I.md",
+   "printed_pages": [
+    348,
+    348
+   ]
+  },
+  {
+   "id": "21_966",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00966 - Authority of Secretary of the Treasury.md",
+   "printed_pages": [
+    348,
+    348
+   ]
+  },
+  {
+   "id": "21_967",
+   "marks": [
+    [
+     "I",
+     24,
+     [
+      [
+       161,
+       "[Page 349]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00967 - Smuggling of controlled substances; investigations; oaths; subpenas; witnesses; evidence; production of records; territorial limits; fees….md",
+   "printed_pages": [
+    348,
+    349
+   ]
+  },
+  {
+   "id": "21_968",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00968 - Service of subpena; proof of service.md",
+   "printed_pages": [
+    349,
+    349
+   ]
+  },
+  {
+   "id": "21_969",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00969 - Contempt proceedings.md",
+   "printed_pages": [
+    349,
+    349
+   ]
+  },
+  {
+   "id": "21_970",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00970 - Criminal forfeitures.md",
+   "printed_pages": [
+    349,
+    349
+   ]
+  },
+  {
+   "id": "21_971",
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 350]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Import and Export/§ 00971 - Notification, suspension of shipment, and penalties with respect to importation and exportation of listed chemicals.md",
+   "printed_pages": [
+    349,
+    350
+   ]
+  },
+  {
+   "id": "21_-ch14",
+   "marks": [],
+   "path": "Chapter 014 - Alcohol and Drug Abuse Educational Programs and Activities/README.md",
+   "printed_pages": [
+    350,
+    350
+   ]
+  },
+  {
+   "id": "21_1001_to_1007",
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 351]",
+     true
+    ]
+   ],
+   "path": "Chapter 014 - Alcohol and Drug Abuse Educational Programs and Activities/§ 01001 to 1007 - Repealed. Pub. L. 97–35, title V, §587(a)(3), Aug. 13, 1981, 95 Stat. 480.md",
+   "printed_pages": [
+    350,
+    351
+   ]
+  },
+  {
+   "id": "21_-ch15",
+   "marks": [
+    [
+     "I",
+     52,
+     [
+      [
+       26,
+       "[Page 352]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 015 - Egg Products Inspection/README.md",
+   "printed_pages": [
+    351,
+    352
+   ]
+  },
+  {
+   "id": "21_1031",
+   "marks": [],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01031 - Congressional statement of findings.md",
+   "printed_pages": [
+    352,
+    352
+   ]
+  },
+  {
+   "id": "21_1032",
+   "marks": [],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01032 - Congressional declaration of policy.md",
+   "printed_pages": [
+    352,
+    352
+   ]
+  },
+  {
+   "id": "21_1033",
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       98,
+       "[Page 353]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     72,
+     [
+      [
+       145,
+       "[Page 354]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01033 - Definitions.md",
+   "printed_pages": [
+    352,
+    354
+   ]
+  },
+  {
+   "id": "21_1034",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       669,
+       "[Page 355]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01034 - Inspection of egg products.md",
+   "printed_pages": [
+    354,
+    355
+   ]
+  },
+  {
+   "id": "21_1035",
+   "marks": [],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01035 - Sanitary operating practices in official plants.md",
+   "printed_pages": [
+    355,
+    355
+   ]
+  },
+  {
+   "id": "21_1036",
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 356]",
+     true
+    ]
+   ],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01036 - Pasteurization and labeling of egg products at official plants.md",
+   "printed_pages": [
+    355,
+    356
+   ]
+  },
+  {
+   "id": "21_1037",
+   "marks": [
+    [
+     "I",
+     40,
+     [
+      [
+       245,
+       "[Page 357]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01037 - Prohibited acts.md",
+   "printed_pages": [
+    356,
+    357
+   ]
+  },
+  {
+   "id": "21_1038",
+   "marks": [],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01038 - Cooperation with appropriate State and other governmental agencies; utilization of employees; reimbursement.md",
+   "printed_pages": [
+    357,
+    357
+   ]
+  },
+  {
+   "id": "21_1039",
+   "marks": [],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01039 - Eggs and egg products not intended for use as human food; inspection; denaturing or otherwise identifying.md",
+   "printed_pages": [
+    357,
+    357
+   ]
+  },
+  {
+   "id": "21_1040",
+   "marks": [],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01040 - Recordkeeping requirements; persons required to maintain records; scope of disclosure; access to records.md",
+   "printed_pages": [
+    357,
+    357
+   ]
+  },
+  {
+   "id": "21_1041",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       428,
+       "[Page 358]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01041 - Enforcement provisions.md",
+   "printed_pages": [
+    357,
+    358
+   ]
+  },
+  {
+   "id": "21_1042",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       102,
+       "[Page 359]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01042 - Reporting of violation to United States attorney for institution of criminal proceedings; procedure; presentation of views.md",
+   "printed_pages": [
+    358,
+    359
+   ]
+  },
+  {
+   "id": "21_1043",
+   "marks": [],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01043 - Rules and regulations; administration and enforcement.md",
+   "printed_pages": [
+    359,
+    359
+   ]
+  },
+  {
+   "id": "21_1044",
+   "marks": [],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01044 - Exemption of certain activities.md",
+   "printed_pages": [
+    359,
+    359
+   ]
+  },
+  {
+   "id": "21_1045",
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 360]",
+     true
+    ]
+   ],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01045 - Limitation on entry of eggs and egg products and other materials into official plants.md",
+   "printed_pages": [
+    359,
+    360
+   ]
+  },
+  {
+   "id": "21_1046",
+   "marks": [],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01046 - Imports.md",
+   "printed_pages": [
+    360,
+    360
+   ]
+  },
+  {
+   "id": "21_1047",
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 361]",
+     true
+    ]
+   ],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01047 - Refusal or withdrawal of inspection services; hearing; grounds; person deemed to have responsible connection with business; finality of….md",
+   "printed_pages": [
+    360,
+    361
+   ]
+  },
+  {
+   "id": "21_1048",
+   "marks": [],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01048 - Administrative detention of violative articles; duration; release; removal of official marks.md",
+   "printed_pages": [
+    361,
+    361
+   ]
+  },
+  {
+   "id": "21_1049",
+   "marks": [],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01049 - Seizure and condemnation proceedings.md",
+   "printed_pages": [
+    361,
+    361
+   ]
+  },
+  {
+   "id": "21_1050",
+   "marks": [],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01050 - Jurisdiction of district courts; United States as plaintiff in enforcement and restraining proceedings; subpenas for witnesses.md",
+   "printed_pages": [
+    361,
+    361
+   ]
+  },
+  {
+   "id": "21_1051",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       91,
+       "[Page 362]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01051 - Other Federal laws applicable for administration and enforcement of chapter; prosecution of inquiries; exercise of jurisdiction.md",
+   "printed_pages": [
+    361,
+    362
+   ]
+  },
+  {
+   "id": "21_1052",
+   "marks": [
+    [
+     "L",
+     24,
+     "[Page 363]",
+     true
+    ]
+   ],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01052 - State or local regulation.md",
+   "printed_pages": [
+    362,
+    363
+   ]
+  },
+  {
+   "id": "21_1053",
+   "marks": [],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01053 - Inspection and administration costs.md",
+   "printed_pages": [
+    363,
+    363
+   ]
+  },
+  {
+   "id": "21_1054",
+   "marks": [],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01054 - Annual report to Congressional committees.md",
+   "printed_pages": [
+    363,
+    363
+   ]
+  },
+  {
+   "id": "21_1055",
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 364]",
+     true
+    ]
+   ],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01055 - Authorization of appropriations.md",
+   "printed_pages": [
+    363,
+    364
+   ]
+  },
+  {
+   "id": "21_1056",
+   "marks": [],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01056 - Separability.md",
+   "printed_pages": [
+    364,
+    364
+   ]
+  },
+  {
+   "id": "21_-ch16",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/README.md",
+   "printed_pages": [
+    364,
+    364
+   ]
+  },
+  {
+   "id": "21_-ch16-scI",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 001 (I) - General Provisions/README.md",
+   "printed_pages": [
+    364,
+    364
+   ]
+  },
+  {
+   "id": "21_1101",
+   "marks": [
+    [
+     "I",
+     28,
+     [
+      [
+       136,
+       "[Page 365]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 001 (I) - General Provisions/§ 01101 - Congressional findings.md",
+   "printed_pages": [
+    364,
+    365
+   ]
+  },
+  {
+   "id": "21_1102",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 001 (I) - General Provisions/§ 01102 - Congressional declaration of national policy.md",
+   "printed_pages": [
+    365,
+    365
+   ]
+  },
+  {
+   "id": "21_1103",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 001 (I) - General Provisions/§ 01103 - Repealed. Pub. L. 100–690, title I, §1007(c)(1), Nov. 18, 1988, 102 Stat. 4187.md",
+   "printed_pages": [
+    365,
+    365
+   ]
+  },
+  {
+   "id": "21_1104",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 001 (I) - General Provisions/§ 01104 - Repealed. Pub. L. 94–237, §4(c)(1), Mar. 19, 1976, 90 Stat. 244.md",
+   "printed_pages": [
+    365,
+    365
+   ]
+  },
+  {
+   "id": "21_-ch16-scII",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 002 (II) - Drug Abuse Policy Coordination/README.md",
+   "printed_pages": [
+    365,
+    365
+   ]
+  },
+  {
+   "id": "21_1111_to_1114",
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 366]",
+     true
+    ]
+   ],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 002 (II) - Drug Abuse Policy Coordination/§ 01111 to 1114 - Repealed. Pub. L. 100–690, title I, §1007(c)(1), Nov. 18, 1988, 102 Stat. 4187.md",
+   "printed_pages": [
+    365,
+    366
+   ]
+  },
+  {
+   "id": "21_1115",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 002 (II) - Drug Abuse Policy Coordination/§ 01115 - Notice relating to the control of dangerous drugs.md",
+   "printed_pages": [
+    366,
+    366
+   ]
+  },
+  {
+   "id": "21_1116",
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       219,
+       "[Page 367]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 002 (II) - Drug Abuse Policy Coordination/§ 01116 - Repealed. Pub. L. 100–690, title I, §1007(c)(1), Nov. 18, 1988, 102 Stat. 4187.md",
+   "printed_pages": [
+    366,
+    367
+   ]
+  },
+  {
+   "id": "21_1117",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 002 (II) - Drug Abuse Policy Coordination/§ 01117 - Repealed. Pub. L. 98–24, §4(b), Apr. 26, 1983, 97 Stat. 183.md",
+   "printed_pages": [
+    367,
+    367
+   ]
+  },
+  {
+   "id": "21_1118_to_1120",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 002 (II) - Drug Abuse Policy Coordination/§ 01118 to 1120 - Omitted.md",
+   "printed_pages": [
+    367,
+    367
+   ]
+  },
+  {
+   "id": "21_1121_to_1123",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 002 (II) - Drug Abuse Policy Coordination/§ 01121 to 1123 - Repealed. Pub. L. 92–255, title I, §104, Mar. 21, 1972, 86 Stat. 67.md",
+   "printed_pages": [
+    367,
+    367
+   ]
+  },
+  {
+   "id": "21_1131_to_1133",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 002 (II) - Drug Abuse Policy Coordination/§ 01131 to 1133 - Omitted.md",
+   "printed_pages": [
+    367,
+    367
+   ]
+  },
+  {
+   "id": "21_1134_to_1143",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       165,
+       "[Page 368]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 002 (II) - Drug Abuse Policy Coordination/§ 01134 to 1143 - Repealed. Pub. L. 92–255, title I, §104, Mar. 21, 1972, 86 Stat. 67.md",
+   "printed_pages": [
+    367,
+    368
+   ]
+  },
+  {
+   "id": "21_1151_to_1155",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 002 (II) - Drug Abuse Policy Coordination/§ 01151 to 1155 - Repealed. Pub. L. 92–255, title I, §104, Mar. 21, 1972, 86 Stat. 67.md",
+   "printed_pages": [
+    368,
+    368
+   ]
+  },
+  {
+   "id": "21_-ch16-scIII",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 003 (III) - National Drug Abuse Strategy/README.md",
+   "printed_pages": [
+    368,
+    368
+   ]
+  },
+  {
+   "id": "21_1161_to_1165",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 003 (III) - National Drug Abuse Strategy/§ 01161 to 1165 - Repealed. Pub. L. 98–509, title III, §301(d), Oct. 19, 1984, 98 Stat. 2364.md",
+   "printed_pages": [
+    368,
+    368
+   ]
+  },
+  {
+   "id": "21_-ch16-scIV",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 004 (IV) - Other Federal Programs/README.md",
+   "printed_pages": [
+    368,
+    368
+   ]
+  },
+  {
+   "id": "21_1171",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 004 (IV) - Other Federal Programs/§ 01171 - Drug abuse prevention function appropriations.md",
+   "printed_pages": [
+    368,
+    368
+   ]
+  },
+  {
+   "id": "21_1172",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 004 (IV) - Other Federal Programs/§ 01172 - Repealed. Pub. L. 98–24, §2(c)(2), Apr. 26, 1983, 97 Stat. 182.md",
+   "printed_pages": [
+    368,
+    368
+   ]
+  },
+  {
+   "id": "21_1173",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 004 (IV) - Other Federal Programs/§ 01173 - Transferred and Omitted.md",
+   "printed_pages": [
+    368,
+    368
+   ]
+  },
+  {
+   "id": "21_1174,_1175",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 004 (IV) - Other Federal Programs/§ 01174, 1175 - Transferred.md",
+   "printed_pages": [
+    368,
+    368
+   ]
+  },
+  {
+   "id": "21_1176",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       236,
+       "[Page 369]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 004 (IV) - Other Federal Programs/§ 01176 - Repealed. Pub. L. 97–35, title IX, §969(a), Aug. 13, 1981, 95 Stat. 595.md",
+   "printed_pages": [
+    368,
+    369
+   ]
+  },
+  {
+   "id": "21_1177",
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 370]",
+     true
+    ],
+    [
+     "L",
+     74,
+     "[Page 371]",
+     true
+    ]
+   ],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 004 (IV) - Other Federal Programs/§ 01177 - Special project grants and contracts.md",
+   "printed_pages": [
+    369,
+    371
+   ]
+  },
+  {
+   "id": "21_1178",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 004 (IV) - Other Federal Programs/§ 01178 - Records and audit.md",
+   "printed_pages": [
+    371,
+    371
+   ]
+  },
+  {
+   "id": "21_1179",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 004 (IV) - Other Federal Programs/§ 01179 - National Drug Abuse Training Center.md",
+   "printed_pages": [
+    371,
+    371
+   ]
+  },
+  {
+   "id": "21_1180",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       122,
+       "[Page 372]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 004 (IV) - Other Federal Programs/§ 01180 - Transferred.md",
+   "printed_pages": [
+    371,
+    372
+   ]
+  },
+  {
+   "id": "21_1181",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 004 (IV) - Other Federal Programs/§ 01181 - Contract authority.md",
+   "printed_pages": [
+    372,
+    372
+   ]
+  },
+  {
+   "id": "21_-ch16-scV",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 005 (V) - National Institute on Drug Abuse/README.md",
+   "printed_pages": [
+    372,
+    372
+   ]
+  },
+  {
+   "id": "21_1191_to_1193",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 005 (V) - National Institute on Drug Abuse/§ 01191 to 1193 - Transferred.md",
+   "printed_pages": [
+    372,
+    372
+   ]
+  },
+  {
+   "id": "21_1194",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 005 (V) - National Institute on Drug Abuse/§ 01194 - Repealed. Pub. L. 98–24, §2(c)(2), Apr. 26, 1983, 97 Stat. 182.md",
+   "printed_pages": [
+    372,
+    372
+   ]
+  },
+  {
+   "id": "21_-ch17",
+   "marks": [],
+   "path": "Chapter 017 - National Drug Enforcement Policy/README.md",
+   "printed_pages": [
+    372,
+    372
+   ]
+  },
+  {
+   "id": "21_1201_to_1204",
+   "marks": [],
+   "path": "Chapter 017 - National Drug Enforcement Policy/§ 01201 to 1204 - Repealed. Pub. L. 100–690, title I, §1007(a)(3), Nov. 18, 1988, 102 Stat. 4187.md",
+   "printed_pages": [
+    372,
+    372
+   ]
+  },
+  {
+   "id": "21_-ch18",
+   "marks": [],
+   "path": "Chapter 018 - President's Media Commission on Alcohol and Drug Abuse Prevention/README.md",
+   "printed_pages": [
+    372,
+    372
+   ]
+  },
+  {
+   "id": "21_1301",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       84,
+       "[Page 373]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 018 - President's Media Commission on Alcohol and Drug Abuse Prevention/§ 01301 - Establishment.md",
+   "printed_pages": [
+    372,
+    373
+   ]
+  },
+  {
+   "id": "21_1302",
+   "marks": [],
+   "path": "Chapter 018 - President's Media Commission on Alcohol and Drug Abuse Prevention/§ 01302 - Duties of Commission.md",
+   "printed_pages": [
+    373,
+    373
+   ]
+  },
+  {
+   "id": "21_1303",
+   "marks": [],
+   "path": "Chapter 018 - President's Media Commission on Alcohol and Drug Abuse Prevention/§ 01303 - Membership.md",
+   "printed_pages": [
+    373,
+    373
+   ]
+  },
+  {
+   "id": "21_1304",
+   "marks": [],
+   "path": "Chapter 018 - President's Media Commission on Alcohol and Drug Abuse Prevention/§ 01304 - Meetings.md",
+   "printed_pages": [
+    373,
+    373
+   ]
+  },
+  {
+   "id": "21_1305",
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       141,
+       "[Page 374]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 018 - President's Media Commission on Alcohol and Drug Abuse Prevention/§ 01305 - Director and staff; experts and consultants.md",
+   "printed_pages": [
+    373,
+    374
+   ]
+  },
+  {
+   "id": "21_1306",
+   "marks": [],
+   "path": "Chapter 018 - President's Media Commission on Alcohol and Drug Abuse Prevention/§ 01306 - Powers of Commission.md",
+   "printed_pages": [
+    374,
+    374
+   ]
+  },
+  {
+   "id": "21_1307",
+   "marks": [],
+   "path": "Chapter 018 - President's Media Commission on Alcohol and Drug Abuse Prevention/§ 01307 - Report.md",
+   "printed_pages": [
+    374,
+    374
+   ]
+  },
+  {
+   "id": "21_1308",
+   "marks": [],
+   "path": "Chapter 018 - President's Media Commission on Alcohol and Drug Abuse Prevention/§ 01308 - Termination.md",
+   "printed_pages": [
+    374,
+    374
+   ]
+  },
+  {
+   "id": "21_-ch19",
+   "marks": [],
+   "path": "Chapter 019 - Pesticide Monitoring Improvements/README.md",
+   "printed_pages": [
+    374,
+    374
+   ]
+  },
+  {
+   "id": "21_1401",
+   "marks": [
+    [
+     "I",
+     36,
+     [
+      [
+       183,
+       "[Page 375]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 019 - Pesticide Monitoring Improvements/§ 01401 - Pesticide monitoring and enforcement information.md",
+   "printed_pages": [
+    374,
+    375
+   ]
+  },
+  {
+   "id": "21_1402",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       271,
+       "[Page 376]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 019 - Pesticide Monitoring Improvements/§ 01402 - Foreign pesticide information.md",
+   "printed_pages": [
+    375,
+    376
+   ]
+  },
+  {
+   "id": "21_1403",
+   "marks": [],
+   "path": "Chapter 019 - Pesticide Monitoring Improvements/§ 01403 - Pesticide analytical methods.md",
+   "printed_pages": [
+    376,
+    376
+   ]
+  },
+  {
+   "id": "21_-ch20",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       45,
+       "[Page 377]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 020 - National Drug Control Program/README.md",
+   "printed_pages": [
+    376,
+    377
+   ]
+  },
+  {
+   "id": "21_1501",
+   "marks": [
+    [
+     "I",
+     66,
+     [
+      [
+       106,
+       "[Page 378]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 020 - National Drug Control Program/§ 01501 - Establishment of Office of National Drug Control Policy.md",
+   "printed_pages": [
+    377,
+    378
+   ]
+  },
+  {
+   "id": "21_1502",
+   "marks": [
+    [
+     "L",
+     52,
+     "[Page 379]",
+     true
+    ],
+    [
+     "L",
+     112,
+     "[Page 380]",
+     true
+    ],
+    [
+     "L",
+     200,
+     "[Page 381]",
+     true
+    ],
+    [
+     "I",
+     270,
+     [
+      [
+       104,
+       "[Page 382]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 020 - National Drug Control Program/§ 01502 - Appointment and duties of Director, Deputy Directors, and Associate Director.md",
+   "printed_pages": [
+    378,
+    382
+   ]
+  },
+  {
+   "id": "21_1502a",
+   "marks": [],
+   "path": "Chapter 020 - National Drug Control Program/§ 01502a - Transferred.md",
+   "printed_pages": [
+    382,
+    382
+   ]
+  },
+  {
+   "id": "21_1503",
+   "marks": [],
+   "path": "Chapter 020 - National Drug Control Program/§ 01503 - Coordination with executive branch departments and agencies.md",
+   "printed_pages": [
+    382,
+    382
+   ]
+  },
+  {
+   "id": "21_1504",
+   "marks": [
+    [
+     "L",
+     30,
+     "[Page 383]",
+     true
+    ],
+    [
+     "I",
+     102,
+     [
+      [
+       98,
+       "[Page 384]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 020 - National Drug Control Program/§ 01504 - Development and submission of National Drug Control Strategy.md",
+   "printed_pages": [
+    382,
+    384
+   ]
+  },
+  {
+   "id": "21_1505",
+   "marks": [
+    [
+     "L",
+     26,
+     "[Page 385]",
+     true
+    ]
+   ],
+   "path": "Chapter 020 - National Drug Control Program/§ 01505 - Counter-Drug Technology Assessment Center.md",
+   "printed_pages": [
+    384,
+    385
+   ]
+  },
+  {
+   "id": "21_1506",
+   "marks": [],
+   "path": "Chapter 020 - National Drug Control Program/§ 01506 - Termination of Office of National Drug Control Policy.md",
+   "printed_pages": [
+    385,
+    385
+   ]
+  },
+  {
+   "id": "21_1507",
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 386]",
+     true
+    ]
+   ],
+   "path": "Chapter 020 - National Drug Control Program/§ 01507 - Definitions.md",
+   "printed_pages": [
+    385,
+    386
+   ]
+  },
+  {
+   "id": "21_1508",
+   "marks": [],
+   "path": "Chapter 020 - National Drug Control Program/§ 01508 - Authorization of appropriations.md",
+   "printed_pages": [
+    386,
+    386
+   ]
+  },
+  {
+   "id": "21_1509",
+   "marks": [
+    [
+     "I",
+     32,
+     [
+      [
+       102,
+       "[Page 387]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 020 - National Drug Control Program/§ 01509 - Establishment of Special Forfeiture Fund.md",
+   "printed_pages": [
+    386,
+    387
+   ]
+  }
+ ],
+ "provenance_line": "<!-- USCODE-1994-title21 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "title_folder": "Title 21 - Food and Drugs"
+}

@@ -1,0 +1,46 @@
+### §14302. Promotion zones
+
+(a)
+
+Promotion Zones Generally.—For purposes of this chapter, a promotion zone is an eligibility category for the consideration of officers by a mandatory promotion board. A promotion zone consists of those officers on the reserve active-status list who are in the same grade and competitive category and who meet the requirements of both paragraphs (1) and (2) or the requirements of paragraph (3), as follows:
+
+&emsp;(1)(A) In the case of officers in grades below colonel, for reserve officers of the Army, Air Force, and Marine Corps, or captain, for officers of the Naval Reserve, those who have neither (i) failed of selection for promotion to the next higher grade, nor (ii) been removed from a list of officers recommended for promotion to that grade.
+
+&emsp;(B) In the case of officers in the grade of colonel or brigadier general, for reserve officers of the Army and Marine Corps, or in the grade of captain or rear admiral (lower half), for reserve officers of the Navy, those who have neither (i) been recommended for promotion to the next higher grade when considered in the promotion zone, nor (ii) been removed from a list of officers recommended for promotion to that grade.
+
+&emsp;(2) Those officers who are senior to the officer designated by the Secretary of the military department concerned to be the junior officer in the promotion zone eligible for consideration for promotion to the next higher grade and the officer so designated.
+
+&emsp;(3) Those officers who—
+
+&emsp;&emsp;(A) have been selected from below the zone for promotion to the next higher grade or by a vacancy promotion board, but whose names were removed from the list of officers recommended for promotion to that next higher grade resulting from that selection;
+
+&emsp;&emsp;(B) have not failed of selection for promotion to that next higher grade; and
+
+&emsp;&emsp;(C) are senior to the officer designated by the Secretary of the military department concerned to be the junior officer in the promotion zone eligible for consideration for promotion to that next higher grade and the officer so designated.
+
+(b)
+
+Officers Above the Zone.—Officers on the reserve active-status list are considered to be above the promotion zone for a grade and competitive category if they—
+
+&emsp;(1) are eligible for consideration for promotion to the next higher grade;
+
+&emsp;(2) are in the same grade as those officers in the promotion zone for that competitive category; and
+
+&emsp;(3) are senior to the senior officer in the promotion zone for that competitive category.
+
+(c)
+
+Officers Below the Zone.—Officers on the reserve active-status list are considered to be below the promotion zone for a grade and competitive category if they—
+
+&emsp;(1) are eligible for consideration for promotion to the next higher grade;
+
+&emsp;(2) are in the same grade as those officers in the promotion zone for that competitive category; and
+
+&emsp;(3) are junior to the junior officer in the promotion zone for that competitive category.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2932.)
+
+#### Effective Date of Section
+
+<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
+

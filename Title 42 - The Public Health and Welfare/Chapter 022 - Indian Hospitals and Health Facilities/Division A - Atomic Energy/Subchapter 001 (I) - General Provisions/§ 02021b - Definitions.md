@@ -1,0 +1,92 @@
+### §2021b. Definitions
+
+For purposes of sections 2021b to 2021j of this title:
+
+#### (1) Agreement State
+
+&emsp;The term “agreement State” means a State that—
+
+&emsp;&emsp;(A) has entered into an agreement with the Nuclear Regulatory Commission under section 2021 of this title; and
+
+&emsp;&emsp;(B) has authority to regulate the disposal of low-level radioactive waste under such agreement.
+
+#### (2) Allocation
+
+&emsp;The term “allocation” means the assignment of a specific amount of low-level radioactive waste disposal capacity to a commercial nuclear power reactor for which access is required to be provided by sited States subject to the conditions specified under sections 2021b to 2021j of this title.
+
+#### (3) Commercial nuclear power reactor
+
+&emsp;The term “commercial nuclear power reactor” means any unit of a civilian light-water moderated utilization facility required to be licensed under section 2133 or 2134(b) of this title.
+
+#### (4) Compact
+
+&emsp;The term “compact” means a compact entered into by two or more States pursuant to sections 2021b to 2021j of this title.
+
+#### (5) Compact commission
+
+&emsp;The term “compact commission” means the regional commission, committee, or board established in a compact to administer such compact.
+
+#### (6) Compact region
+
+&emsp;The term “compact region” means the area consisting of all States that are members of a compact.
+
+#### (7) Disposal
+
+&emsp;The term “disposal” means the permanent isolation of low-level radioactive waste pursuant to the requirements established by the Nuclear Regulatory Commission under applicable laws, or by an agreement State if such isolation occurs in such agreement State.
+
+#### (8) Generate
+
+&emsp;The term “generate”, when used in relation to low-level radioactive waste, means to produce low-level radioactive waste.
+
+#### (9) Low-level radioactive waste
+
+&emsp;The term “low-level radioactive waste” means radioactive material that—
+
+&emsp;&emsp;(A) is not high-level radioactive waste, spent nuclear fuel, or byproduct material (as defined in section 2014(e)(2) of this title); and
+
+&emsp;&emsp;(B) the Nuclear Regulatory Commission, consistent with existing law and in accordance with paragraph (A), classifies as low-level radioactive waste.
+
+#### (10) Non-sited compact region
+
+&emsp;The term “non-sited compact region” means any compact region that is not a sited compact region.
+
+#### (11) Regional disposal facility
+
+&emsp;The term “regional disposal facility” means a non-Federal low-level radioactive waste disposal facility in operation on January 1, 1985, or subsequently established and operated under a compact.
+
+#### (12) Secretary
+
+&emsp;The term “Secretary” means the Secretary of Energy.
+
+#### (13) Sited compact region
+
+&emsp;The term “sited compact region” means a compact region in which there is located one of the regional disposal facilities at Barnwell, in the State of South Carolina; Richland, in the State of Washington; or Beatty, in the State of Nevada.
+
+#### (14) State
+
+&emsp;The term “State” means any State of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+(Pub. L. 96–573, §2, as added Pub. L. 99–240, title I, §102, Jan. 15, 1986, 99 Stat. 1842.)
+
+#### Codification
+
+Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### Prior Provisions
+
+A prior section 2021b, Pub. L. 96–573, §2, Dec. 22, 1980, 94 Stat. 3347, related to definitions respecting low-level radioactive waste policy as used in former sections 2021b to 2021d of this title, prior to repeal by Pub. L. 99–240, §102.
+
+#### Short Title of 1986 Amendment
+
+Section 101 of title I of Pub. L. 99–240 provided that: “This Title \[enacting sections 2021b to 2021j of this title, repealing former sections 2021b to 2021d of this title, and enacting and repealing a provision set out as a note under this section\] may be cited as the ‘Low-Level Radioactive Waste Policy Amendments Act of 1985’.”
+
+#### Short Title
+
+Section 1 of Pub. L. 96–573, as added by Pub. L. 99–240, title I, §102, Jan. 15, 1986, 99 Stat. 1842, provided that: “This Act \[enacting sections 2021b to 2021j of this title\] may be cited as the ‘Low-Level Radioactive Waste Policy Act’.”
+
+A prior section 1 of Pub. L. 96–573 which provided that Pub. L. 96–573 \[enacting former sections 2021b to 2021d of this title\] could be cited as the “Low-Level Radioactive Waste Policy Act” was repealed by Pub. L. 99–240, title I, §102, Jan. 15, 1986, 99 Stat. 1842.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2021d, 2021e, 2021f, 2021g, 2023 of this title.
+

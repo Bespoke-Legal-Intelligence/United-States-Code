@@ -1,0 +1,140 @@
+### §1201. Kidnapping
+
+(a) Whoever unlawfully seizes, confines, inveigles, decoys, kidnaps, abducts, or carries away and holds for ransom or reward or otherwise any person, except in the case of a minor by the parent thereof, when—
+
+&emsp;(1) the person is willfully transported in interstate or foreign commerce;
+
+&emsp;(2) any such act against the person is done within the special maritime and territorial jurisdiction of the United States;
+
+&emsp;(3) any such act against the person is done within the special aircraft jurisdiction of the United States as defined in section 46501 of title 49;
+
+&emsp;(4) the person is a foreign official, an internationally protected person, or an official guest as those terms are defined in section 1116(b) of this title; or
+
+&emsp;(5) the person is among those officers and employees designated in section 1114 of this title and any such act against the person is done while the person is engaged in, or on account of, the performance of official duties,
+
+> shall be punished by imprisonment for any term of years or for life and, if the death of any person results, shall be punished by death or life imprisonment.
+
+(b) With respect to subsection (a)(1), above, the failure to release the victim within twenty-four hours after he shall have been unlawfully seized, confined, inveigled, decoyed, kidnapped, abducted, or carried away shall create a rebuttable presumption that such person has been transported to interstate or foreign commerce.
+
+(c) If two or more persons conspire to violate this section and one or more of such persons do any overt act to effect the object of the conspiracy, each shall be punished by imprisonment for any term of years or for life.
+
+(d) Whoever attempts to violate subsection (a) shall be punished by imprisonment for not more than twenty years.
+
+(e) If the victim of an offense under subsection (a) is an internationally protected person, the United States may exercise jurisdiction over the offense if the alleged offender is present within the United States, irrespective of the place where the offense was committed or the nationality of the victim or the alleged offender. As used in this subsection, the United States includes all areas under the jurisdiction of the United States including any of the places within the provisions of sections 5 and 7 of this title and section 46501(2) of title 49.
+
+(f) In the course of enforcement of subsection (a)(4) and any other sections prohibiting a conspiracy or attempt to violate subsection (a)(4),the Attorney General may request assistance from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary notwithstanding.
+
+(g)
+
+Special Rule for Certain Offenses Involving Children.—
+
+&emsp;(1)
+
+To whom applicable.—If—
+
+&emsp;&emsp;(A) the victim of an offense under this section has not attained the age of eighteen years; and
+
+&emsp;&emsp;(B) the offender—
+
+&emsp;&emsp;&emsp;(i) has attained such age; and
+
+&emsp;&emsp;&emsp;(ii) is not—
+
+&emsp;&emsp;&emsp;&emsp;(I) a parent;
+
+&emsp;&emsp;&emsp;&emsp;(II) a grandparent;
+
+&emsp;&emsp;&emsp;&emsp;(III) a brother;
+
+&emsp;&emsp;&emsp;&emsp;(IV) a sister;
+
+&emsp;&emsp;&emsp;&emsp;(V) an aunt;
+
+&emsp;&emsp;&emsp;&emsp;(VI) an uncle; or
+
+&emsp;&emsp;&emsp;&emsp;(VII) an individual having legal custody of the victim;
+
+> &emsp;the sentence under this section for such offense shall be subject to paragraph (2) of this subsection.
+
+&emsp;(2)
+
+Guidelines.—The United States Sentencing Commission is directed to amend the existing guidelines for the offense of “kidnapping, abduction, or unlawful restraint,” by including the following additional specific offense characteristics: If the victim was intentionally maltreated (i.e., denied either food or medical care) to a life-threatening degree, increase by 4 levels; if the victim was sexually exploited (i.e., abused, used involuntarily for pornographic purposes) increase by 3 levels; if the victim was placed in the care or custody of another person who does not have a legal right to such care or custody of the child either in exchange for money or other consideration, increase by 3 levels; if the defendant allowed the child to be subjected to any of the conduct specified in this section by another person, then increase by 2 levels.
+
+(h) As used in this section, the term “parent” does not include a person whose parental rights with respect to the victim of an offense under this section have been terminated by a final court order.
+
+(June 25, 1948, ch. 645, 62 Stat. 760; Aug. 6, 1956, ch. 971, 70 Stat. 1043; Oct. 24, 1972, Pub. L. 92–539, title II, §201, 86 Stat. 1072; Oct. 8, 1976, Pub. L. 94–467, §4, 90 Stat. 1998; Nov. 9, 1977, Pub. L. 95–163, §17(b)(1), 91 Stat. 1286; Oct. 24, 1978, Pub. L. 95–504, §2(b), 92 Stat. 1705; Oct. 12, 1984, Pub. L. 98–473, title II, §1007, 98 Stat. 2139; Nov. 10, 1986, Pub. L. 99–646, §§36, 37(b), 100 Stat. 3599; Nov. 29, 1990, Pub. L. 101–647, title IV, §401, title XXXV, §3538, 104 Stat. 4819, 4925; July 5, 1994, Pub. L. 103–272, §5(e)(2), (8), 108 Stat. 1373, 1374; Sept. 13, 1994, Pub. L. 103–322, title VI, §60003(a)(6), title XXXII, §§320903(b), 320924, title XXXIII, §330021, 108 Stat. 1969, 2124, 2131, 2150.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §§408a, 408c (June 22, 1932, ch. 271, §§1, 3, 47 Stat. 326; May 18, 1934, ch. 301, 48 Stat. 781, 782).
+
+Section consolidates sections 408a and 408c of title 18 U.S.C., 1940 ed.
+
+Reference to persons aiding, abetting or causing was omitted as unnecessary because such persons are made principals by section 22 of this title.
+
+Words “upon conviction” were omitted as surplusage, because punishment cannot be imposed until a conviction is secured.
+
+Direction as to confinement “in the penitentiary” was omitted because of section 4082 of this title which commits all prisoners to the custody of the Attorney General. (See reviser's note under section 1 of this title.)
+
+The phrase “for any term of years or for life” was substituted for the words “for such term of years as the court in its discretion shall determine” which appeared in said section 408a of Title 18, U.S.C., 1940 ed. This change was made in order to remove all doubt as to whether “term of years” includes life imprisonment.
+
+Minor changes were made in phraseology.
+
+#### Amendments
+
+1994—Pub. L. 103–322, §330021(1), which directed the amendment of this title “by striking ‘kidnaping’ each place it appears and inserting ‘kidnapping’ ”, was executed by substituting “Kidnapping” for “Kidnaping” as section catchline, to reflect the probable intent of Congress.
+
+Subsec. (a). Pub. L. 103–322, §60003(a)(6), in concluding provisions, inserted “and, if the death of any person results, shall be punished by death or life imprisonment” after “or for life”.
+
+Subsec. (a)(3). Pub. L. 103–272, §5(e)(8), substituted “section 46501 of title 49” for “section 101(38) of the Federal Aviation Act of 1958”.
+
+Subsec. (b). Pub. L. 103–322, §330021(2), substituted “kidnapped” for “kidnaped”.
+
+Subsec. (d). Pub. L. 103–322, §320903(b), substituted “(a)” for “(a)(4) or (a)(5)”.
+
+Subsec. (e). Pub. L. 103–272, §5(e)(2), substituted “section 46501(2) of title 49” for “section 101(38) of the Federal Aviation Act of 1958, as amended (49 U.S.C. 1301(38))”.
+
+Subsec. (h). Pub. L. 103–322, §320924, added subsec. (h).
+
+1990—Subsec. (a)(3). Pub. L. 101–647, §3538, substituted “101(38)” for “101(36)” and struck out “, as amended (49 U.S.C. 1301(36))” after “Federal Aviation Act of 1958”.
+
+Subsec. (g). Pub. L. 101–647, §401, added subsec. (g).
+
+1986—Subsec. (a). Pub. L. 99–646, §36, substituted “when—” for “when:” in introductory text, substituted “the person” for “The person” and “official duties” for “his official duties” in par. (5), and aligned the margin of par. (5) with the margins of pars. (1) to (4).
+
+Subsec. (d). Pub. L. 99–646, §37(b), inserted “or (a)(5)” after “subsection (a)(4)”.
+
+1984—Subsec. (a)(5). Pub. L. 98–473 added par. (5).
+
+1978—Subsec. (a)(3). Pub. L. 95–504 substituted reference to section 101(36) of the Federal Aviation Act of 1958 for reference to section 101(33) of such Act. See References in Text note above.
+
+Subsec. (e). Pub. L. 95–504 substituted reference to section 101(38) of the Federal Aviation Act of 1958 for section 101(35) of such Act.
+
+1977—Subsec. (a)(3). Pub. L. 95–163 substituted reference to section 101(33) of the Federal Aviation Act of 1958 for reference to section 101(32) of such Act. See References in Text note above.
+
+Subsec. (e). Pub. L. 95–163 substituted reference to section 101(35) of the Federal Aviation Act of 1958 for reference to section 101(34) of such Act.
+
+1976—Subsec. (a)(4). Pub. L. 94–467, §4(a), substituted provision which includes acts committed against an internationally protected person and an official guest as defined in section 1116(b) of this title for provision which included acts committed against an official guest as defined in section 1116(c) of this title.
+
+Subsecs. (d) to (f). Pub. L. 94–467, §4(b), added subsecs. (d) to (f).
+
+1972—Subsec. (a). Pub. L. 92–539 substituted “Kidnaping” for “Transportation” in section catchline and, in subsec. (a), extended the jurisdictional base to include acts committed within the special maritime, territorial, and aircraft jurisdiction of the United States, and to include acts committed against foreign officials and official guests, and struck out provisions relating to death penalty.
+
+Subsec. (b). Pub. L. 92–539 inserted reference to subsec. (a)(1).
+
+Subsec. (c). Pub. L. 92–539 substituted “by imprisonment for any term of years or for life” for “as provided in subsection (a)”.
+
+1956—Subsec. (b). Act Aug. 6, 1956, substituted “twenty-four hours” for “seven days”.
+
+#### Short Title of 1993 Amendment
+
+Pub. L. 103–173, §1, Dec. 2, 1993, 107 Stat. 1998, provided that: “This Act \[enacting section 1204 of this title and provisions set out as a note under section 1204 of this title\] may be cited as the ‘International Parental Kidnapping Crime Act of 1993’.”
+
+#### Short Title of 1984 Amendment
+
+Section 2001 of part A (§§2001–2003) of chapter XX of title II of Pub. L. 98–473 provided that: “This part \[enacting section 1203 of this title and provisions set out as a note under section 1203 of this title\] may be cited as the ‘Act for the Prevention and Punishment of the Crime of Hostage-Taking’.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 11, 115, 878, 1202, 1956, 2333, 3592 of this title.
+

@@ -1,0 +1,32 @@
+### §5963. Eligible applicants
+
+#### (a) In general
+
+To be eligible to receive a grant under this subchapter, a local educational agency shall demonstrate in the application submitted pursuant to section 5964(a) of this title that such agency—
+
+&emsp;(1) serves an area in which there is a high rate of—
+
+&emsp;&emsp;(A) homicides committed by persons between the ages 5 to 18, inclusive;
+
+&emsp;&emsp;(B) referrals of youth to juvenile court;
+
+&emsp;&emsp;(C) youth under the supervision of the courts;
+
+&emsp;&emsp;(D) expulsions and suspensions of students from school;
+
+&emsp;&emsp;(E) referrals of youth, for disciplinary reasons, to alternative schools; or
+
+&emsp;&emsp;(F) victimization of youth by violence, crime, or other forms of abuse; and
+
+&emsp;(2) has serious school crime, violence, and discipline problems, as indicated by other appropriate data.
+
+#### (b) Priority
+
+In awarding grants under this subchapter, the Secretary shall give priority to a local educational agency that submits an application that assures a strong local commitment to the projects or activities assisted under this subchapter, such as—
+
+&emsp;(1) the formation of partnerships among the local educational agency, a community-based organization, a nonprofit organization with a demonstrated commitment to or expertise in developing education programs or providing educational services to students or the public, a local law enforcement agency, or any combination thereof; and
+
+&emsp;(2) a high level of youth participation in such projects or activities.
+
+(Pub. L. 103 227, title VII, §703, Mar. 31, 1994, 108 Stat. 205.)
+

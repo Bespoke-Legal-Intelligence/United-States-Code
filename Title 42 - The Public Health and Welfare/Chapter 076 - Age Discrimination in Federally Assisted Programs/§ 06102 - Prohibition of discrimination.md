@@ -1,0 +1,10 @@
+### §6102. Prohibition of discrimination
+
+Pursuant to regulations prescribed under section 6103 of this title, and except as provided by section 6103(b) and section 6103(c) of this title, no person in the United States shall, on the basis of age, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under, any program or activity receiving Federal financial assistance.
+
+(Pub. L. 94–135, title III, §303, Nov. 28, 1975, 89 Stat. 728.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6103, 6106a of this title.
+

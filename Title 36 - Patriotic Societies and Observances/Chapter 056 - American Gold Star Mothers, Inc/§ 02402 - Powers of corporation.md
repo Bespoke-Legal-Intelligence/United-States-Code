@@ -1,0 +1,6 @@
+### §2402. Powers of corporation
+
+American Gold Star Mothers, Incorporated (hereinafter referred to as the “corporation”) shall have only those powers granted to it through its bylaws and articles of incorporation filed in the State or States which it is incorporated and subject to the laws of such State or States.
+
+(Pub. L. 98–314, §2, June 12, 1984, 98 Stat. 237.)
+

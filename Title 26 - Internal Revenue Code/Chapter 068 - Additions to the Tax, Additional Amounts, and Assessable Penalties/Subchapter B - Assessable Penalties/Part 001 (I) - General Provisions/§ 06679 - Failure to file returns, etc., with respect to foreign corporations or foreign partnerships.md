@@ -1,0 +1,46 @@
+### §6679. Failure to file returns, etc., with respect to foreign corporations or foreign partnerships
+
+#### (a) Civil penalty
+
+In addition to any criminal penalty provided by law, any person required to file a return under section 6035, 6046, or 6046A who fails to file such return at the time provided in such section, or who files a return which does not show the information required pursuant to such section, shall pay a penalty of $1,000, unless it is shown that such failure is due to reasonable cause.
+
+#### (b) Deficiency procedures not to apply
+
+Subchapter B of chapter 63 (relating to deficiency procedure for income, estate, gift, and certain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by subsection (a).
+
+(Added Pub. L. 87–834, §20(c), Oct. 16, 1962, 76 Stat. 1062; amended Pub. L. 91–172, title I, §101(j)(54), Dec. 30, 1969, 83 Stat. 532; Pub. L. 93–406, title II, §1016(a)(22), Sept. 2, 1974, 88 Stat. 931; Pub. L. 97–248, title III, §340(b)(1), (2), title IV, §405(b), (c)(2), Sept. 3, 1982, 96 Stat. 634, 670; Pub. L. 97–448, title III, §306(c)(2), Jan. 12, 1983, 96 Stat. 2406.)
+
+#### Amendments
+
+1983—Pub. L. 97–448 amended language of Pub. L. 97–248, §405(b), (c)(2), to clarify an ambiguity created by the conflicting language of §§340(b)(1), (2) and 405(b), (c)(2) of Pub. L. 97–248. See 1982 Amendment note below.
+
+1982—Pub. L. 97–248, §§340(b)(2), 405(c)(2), as amended by Pub. L. 97–448, §306(c)(2)(B), substituted “Failure to file returns, etc., with respect to foreign corporations or foreign partnerships” for “Failure to file returns as to organization or reorganization of foreign corporations and as to acquisitions of their stock” in section catchline.
+
+Subsec. (a). Pub. L. 97–248, §§340(b)(1), 405(b), as amended by Pub. L. 97–448, §306(a)(2)(A), substituted “section 6035, 6046, or 6046A” for “section 6046”.
+
+1974—Subsec. (b). Pub. L. 93–406 substituted “and certain excise” for “chapter 42”.
+
+1969—Subsec. (b). Pub. L. 91–172 inserted reference to chapter 42 taxes.
+
+#### Effective Date of 1983 Amendment
+
+Amendment by Pub. L. 97–448 effective as if included in the provisions of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 311(d) of Pub. L. 97–448, set out as a note under section 31 of this title.
+
+#### Effective Date of 1982 Amendment
+
+Amendment by section 340(b)(1), (2) of Pub. L. 97–248 applicable to taxable years of foreign corporations beginning after Sept. 3, 1982, see section 340(c) of Pub. L. 97–248, set out as a note under section 6035 of this title.
+
+Amendment by section 405(b), (c)(2) of Pub. L. 97–248 applicable with respect to acquisitions or dispositions of, or substantial changes in, interests in foreign partnerships occurring after Sept. 3, 1982, see section 407(b) of Pub. L. 97–248, set out as an Effective Date note under section 6046A of this title.
+
+#### Effective Date of 1974 Amendment
+
+Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+
+#### Effective Date of 1969 Amendment
+
+Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6046A of this title.
+

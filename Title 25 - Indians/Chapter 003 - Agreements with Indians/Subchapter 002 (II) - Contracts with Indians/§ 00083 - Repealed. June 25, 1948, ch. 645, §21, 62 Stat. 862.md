@@ -1,0 +1,8 @@
+### §83. Repealed. June 25, 1948, ch. 645, §21, 62 Stat. 862
+
+Section, R.S. §2105, related to payments under prohibited contracts. See section 438 of Title 18, Crimes and Criminal Procedure.
+
+#### Effective Date of Repeal
+
+Repeal by act June 25, 1948 effective Sept. 1, 1948.
+

@@ -1,0 +1,150 @@
+### §4802. Responsibility of Secretary of State
+
+#### (a) Security functions
+
+(1) The Secretary of State shall develop and implement (in consultation with the heads of other Federal agencies having personnel or missions abroad where appropriate and within the scope of the resources made available) policies and programs, including funding levels and standards, to provide for the security of United States Government operations of a diplomatic nature and foreign government operations of a diplomatic nature in the United States. Such policies and programs shall include—
+
+&emsp;(A) protection of all United States Government personnel on official duty abroad (other than those personnel under the command of a United States area military commander) and their accompanying dependents;
+
+&emsp;(B) establishment and operation of security functions at all United States Government missions abroad (other than facilities or installations subject to the control of a United States area military commander);
+
+&emsp;(C) establishment and operation of security functions at all Department of State facilities in the United States; and
+
+&emsp;(D) protection of foreign missions, international organizations, and foreign officials and other foreign persons in the United States, as authorized by law.
+
+(2) Security responsibilities shall include the following:
+
+#### (A) Former Office of Security functions
+
+&emsp;Functions and responsibilities exercised by the Office of Security, Department of State, before November 11, 1985.
+
+#### (B) Security and protective operations
+
+&emsp;(i) Establishment and operation of post security and protective functions abroad.
+
+&emsp;(ii) Development and implementation of communications, computer, and information security.
+
+&emsp;(iii) Emergency planning.
+
+&emsp;(iv) Establishment and operation of local guard services abroad.
+
+&emsp;(v) Supervision of the United States Marine Corps security guard program.
+
+&emsp;(vi) Liaison with American overseas private sector security interests.
+
+&emsp;(vii) Protection of foreign missions and international organizations, foreign officials, and diplomatic personnel in the United States, as authorized by law.
+
+&emsp;(viii) Protection of the Secretary of State and other persons designated by the Secretary of State, as authorized by law.
+
+&emsp;(ix) Physical protection of Department of State facilities, communications, and computer and information systems in the United States.
+
+&emsp;(x) Conduct of investigations relating to protection of foreign officials and diplomatic personnel and foreign missions in the United States, suitability for employment, employee security, illegal passport and visa issuance or use, and other investigations, as authorized by law.
+
+&emsp;(xi) Carrying out the rewards program for information concerning international terrorism authorized by section 2708(a) of this title.
+
+&emsp;(xii) Performance of other security, investigative, and protective matters as authorized by law.
+
+#### (C) Counterterrorism planning and coordination
+
+&emsp;Development and coordination of counterterrorism planning, emergency action planning, threat analysis programs, and liaison with other Federal agencies to carry out this paragraph.
+
+#### (D) Security technology
+
+&emsp;Development and implementation of technical and physical security programs, including security-related construction, radio and personnel security communications, armored vehicles, computer and communications security, and research programs necessary to develop such measures.
+
+#### (E) Diplomatic courier service
+
+&emsp;Management of the diplomatic courier service.
+
+#### (F) Personnel training
+
+&emsp;Development of facilities, methods, and materials to develop and upgrade necessary skills in order to carry out this section.
+
+#### (G) Foreign government training
+
+&emsp;Management and development of antiterrorism assistance programs to assist foreign government security training which are administered by the Department of State under chapter 8 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2349aa et seq.).
+
+#### (b) Overseas evacuations
+
+The Secretary of State shall develop and implement policies and programs to provide for the safe and efficient evacuation of United States Government personnel, dependents, and private United States citizens when their lives are endangered. Such policies shall include measures to identify high risk areas where evacuation may be necessary and, where appropriate, providing staff to United States Government missions abroad to assist in those evacuations. In carrying out these responsibilities, the Secretary shall—
+
+&emsp;(1) develop a model contingency plan for evacuation of personnel, dependents, and United States citizens from foreign countries;
+
+&emsp;(2) develop a mechanism whereby United States citizens can voluntarily request to beplaced on a list in order to be contacted in the event of an evacuation, or which, in the event of an evacuation, can maintain information on the location of United States citizens in high risk areas submitted by their relatives;
+
+&emsp;(3) assess the transportation and communications resources in the area being evacuated and determine the logistic support needed for the evacuation; and
+
+&emsp;(4) develop a plan for coordinating communications between embassy staff, Department of State personnel, and families of United States citizens abroad regarding the whereabouts of those citizens.
+
+#### (c) Oversight of posts abroad
+
+The Secretary of State shall—
+
+&emsp;(1) have full responsibility for the coordination of all United States Government personnel assigned to diplomatic or consular posts or other United States missions abroad pursuant to United States Government authorization (except for facilities, installations, or personnel under the command of a United States area military commander) <sup>1</sup>
+
+&emsp;(2) establish appropriate overseas staffing levels for all such posts or missions for all Federal agencies with activities abroad (except for personnel and activities under the command of a United States area military commander or regional inspector general offices under the jurisdiction of the inspector <sup>2</sup> General, Agency for International Development).
+
+#### (d) Federal agency
+
+As used in this subchapter and subchapter III of this chapter, the term “Federal agency” includes any department or agency of the United States Government.
+
+(Pub. L. 99–399, title I, §103, Aug. 27, 1986, 100 Stat. 856; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 100–461, title II, §201, Oct. 1, 1988, 102 Stat. 2268–10; Pub. L. 101–246, title I, §115(b), Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, §162(g)(2), Apr. 30, 1994, 108 Stat. 406; Pub. L. 103–415, §1(f)(4)(A)(i), Oct. 25, 1994, 108 Stat. 4300.)
+
+#### References in Text
+
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(G), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 8 of part II of the Act is classified generally to part VIII (§2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–415 substituted “operation” for “operations” in par. (2)(B)(i).
+
+Pub. L. 103–236 designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, and added par. (2).
+
+1990—Subsecs. (b) to (d). Pub. L. 101–246 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
+1988—Subsec. (b)(2). Pub. L. 100–461 inserted “or regional inspector general offices under the jurisdiction of the inspector General, Agency for International Development” after “commander”, and substituted a period for “; and” at end.
+
+Subsec. (b)(3). Pub. L. 100–461 struck out par. (3) which read as follows: “establish, notwithstanding any other provision of law, appropriate overseas staffing levels of the Regional Offices of the Inspector General of the Agency for International Development in effective consultation with the Inspector General of the Agency: <i>Provided</i>, That the authority of the Secretary of State shall be exercised only by the Secretary and shall not be delegated to a subordinate officer of the Department of State: <i>Provided further</i>, That the Inspector General must report to the appropriate committees of both Houses of the Congress within thirty days the denial by the Secretary of State of a request by the Inspector General to increase or reduce an existing position level of a regional office: <i>Provided further</i>, That the total number of positions authorized for the Office of the Inspector General in Washington and overseas shall be determined by the Inspector General within the limitation of the appropriations level provided.”
+
+1987—Subsec. (b)(3). Pub. L. 100–202 added par. (3).
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+
+#### Personnel Security Program for Embassies in High Intelligence Threat Countries
+
+Pub. L. 100–204, title I, §155, Dec. 22, 1987, 101 Stat. 1353, provided that:
+
+“(a)
+
+Special Security Program.—The Secretary of State shall develop and implement, within three months after the date of enactment of this Act \[Dec. 22, 1987\], a special personnel security program for personnel of the Department of State assigned to United States diplomatic and consular posts in high intelligence threat countries who are responsible for security at those posts and for any individuals performing guard functions at those posts. Such program shall include—
+
+&emsp;“(1) selection criteria and screening to ensure suitability for assignment to high intelligence threat countries;
+
+&emsp;“(2) counterintelligence awareness and related training;
+
+&emsp;“(3) security reporting and command arrangements designed to counter intelligence threats; and
+
+&emsp;“(4) length of duty criteria and policies regarding rest and recuperative absences.
+
+“(b)
+
+Report to Congress.—Not later than 6 months after the date of enactment of this subsection \[Dec. 22, 1987\], the Secretary of State shall report to the Congress on the special personnel security program required by subsection (a).
+
+“(c)
+
+Definition.—As used in subsection (a), the term ‘high intelligence threat country’ means—
+
+&emsp;“(1) a country listed as a Communist country in section 620(f) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2370(f)\]; and
+
+&emsp;“(2) any other country designated as a high intelligence threat country for purposes of this section by the Secretary of State, the Secretary of Defense, the Director of Central Intelligence, or the Director of the Federal Bureau of Investigation.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4805 of this title; title 15 section 4721; title 49 section 44934.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “; and”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
+

@@ -1,0 +1,68 @@
+### §48108. Availability and uses of amounts
+
+(a)
+
+Availability of Amounts.—Amounts equal to the amounts authorized under sections 48101–48105 of this title remain in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) until appropriated for the purposes of sections 48101–48105.
+
+(b)
+
+Limitations on Uses.—(1) Amounts in the Fund may be appropriated only to carry out a program or activity referred to in this chapter.
+
+(2) Amounts in the Fund may be appropriated for administrative expenses of the Department of Transportation or a component of the Department only to the extent authorized by section 48104 of this title.
+
+(c)
+
+Limitation on Obligating or Expending Amounts.—In a fiscal year beginning after September 30, 1996, the Secretary of Transportation may obligate or expend an amount appropriated out of the Fund under section 48104 of this title only if a law expressly amends section 48104.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1297; Pub. L. 103–305, title I, §102(c), Aug. 23, 1994, 108 Stat. 1571.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+48108(a)
+
+49 App.:2202(a)(24).
+
+Sept. 3, 1982, Pub. L. 97–248, §503(a)(24), 96 Stat. 674; Dec. 30, 1987, Pub. L. 100–223, §103(c)(1), 101 Stat. 1488.
+
+&nbsp;
+
+49 App.:2205(e)(2).
+
+Sept. 3, 1982, Pub. L. 97–248, §506(e)(2), 96 Stat. 679; Dec. 30, 1987, Pub. L. 100–223, §105(g)(3), 101 Stat. 1494.
+
+48108(b)(1)
+
+49 App.:2205(e)(1).
+
+Sept. 3, 1982, Pub. L. 97–248, §506(e)(1), 96 Stat. 679; Dec. 30, 1987, Pub. L. 100–223, §105(d)(1), 101 Stat. 1493.
+
+48108(b)(2)
+
+49 App.:2205(e)(3).
+
+Sept. 3, 1982, Pub. L. 97–248, §506(e)(3), 96 Stat. 679.
+
+48108(c)
+
+49 App.:2205(e)(5).
+
+Sept. 3, 1982, Pub. L. 97–248, §506(e)(5), 96 Stat. 679; Dec. 30, 1987, Pub. L. 100–223, §105(d)(2), 101 Stat. 1493; Oct. 31, 1992, Pub. L. 102–581, §103(c)(2), 106 Stat. 4877.
+
+In subsection (a), the words “for each fiscal year” are omitted as surplus.
+
+In subsection (b)(1), the words “Notwithstanding any other provision of law to the contrary” are omitted as surplus. The reference to “this chapter” is intended to include sections 48106 and 48107 of the revised title for accuracy because the source provisions for those sections were enacted after the source provisions being restated in this section.
+
+In subsection (b)(2), the words “for any fiscal year” are omitted as surplus.
+
+In subsection (c), the words “be construed as” and “the purposes described in” are omitted as surplus.
+
+#### Amendments
+
+1994—Subsec. (c). Pub. L. 103–305 substituted “1996” for “1995”.
+

@@ -1,0 +1,44 @@
+### §1103. Establishment of John C. Stennis Center for Public Service Training and Development
+
+#### (a) Establishment
+
+There is established in the legislative branch of the Government a center to be known as the “John C. Stennis Center for Public Service Training and Development”.
+
+#### (b) Board of Trustees
+
+The Center shall be subject to the supervision and direction of a Board of Trustees. The Board shall be composed of seven members, as follows:
+
+&emsp;(1) Two members to be appointed by the majority leader of the Senate.
+
+&emsp;(2) One member to be appointed by the minority leader of the Senate.
+
+&emsp;(3) Two members to be appointed by the Speaker of the House of Representatives.
+
+&emsp;(4) One member to be appointed by the minority leader of the House of Representatives.
+
+&emsp;(5) The Executive Director of the Center, who shall serve as an ex officio member of the Board.
+
+#### (c) Term of office
+
+The term of office of each member of the Board appointed under paragraphs (1), (2), (3), and (4) of subsection (b) of this section shall be six years, except that—
+
+&emsp;(1) the members first appointed under paragraphs (1) and (2) shall serve, as designated by the majority leader of the Senate, one for a term of two years, one for a term of four years, and one for a term of six years;
+
+&emsp;(2) the members first appointed under paragraphs (3) and (4) shall serve, as designated by the Speaker of the House of Representatives, one for a term of two years, one for a term of four years, and one for a term of six years; and
+
+&emsp;(3) a member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed and shall be appointed in the same manner as the original appointment for that vacancy was made.
+
+#### (d) Travel and subsistence pay
+
+Members of the Board (other than the Executive Director) shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
+
+#### (e) Location of Center
+
+The Center shall be located at or near Starkville, Mississippi, the location of Mississippi State University.
+
+(Pub. L. 100–458, title I, §114, Oct. 1, 1988, 102 Stat. 2173.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1102 of this title.
+

@@ -1,0 +1,24 @@
+### §179c. Responsibilities and powers of Board
+
+#### (a) In general
+
+The Board shall review nominations of films submitted to it for inclusion in the National Film Registry and shall consult with the Librarian, as provided in section 179a of this title, with respect to the inclusion of such films in the Registry and the preservation of these and other films that are culturally, historically, or aesthetically significant.
+
+#### (b) Nomination of films
+
+The Board shall consider, for inclusion in the National Film Registry, nominations submitted by the general public as well as representatives of the film industry, such as the guilds and societies representing actors, directors, screenwriters, cinematographers and other creative artists, producers, film critics, film preservation organizations, and representatives of academic institutions with film study programs. The Board shall nominate not more than 25 films each year for inclusion in the Registry.
+
+#### (c) General powers
+
+The Board may, for the purpose of carrying out its duties, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Librarian and the Board considers appropriate.
+
+(Pub. L. 102–307, title II, §205, June 26, 1992, 106 Stat. 270.)
+
+#### Termination of Section
+
+<i>For termination of section, see section 179k of this title.</i>
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 179, 179g, 179h, 179i, 179j, 179k of this title.
+

@@ -1,0 +1,10 @@
+### §1642i. Certification of awards
+
+The Commission shall certify to the Secretary of the Treasury, in terms of United States currency, each award made pursuant to this subchapter.
+
+(Mar. 10, 1950, ch. 54, title IV, §410, as added Aug. 8, 1958, Pub. L. 85–604, §1, 72 Stat. 529.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1642a of this title.
+

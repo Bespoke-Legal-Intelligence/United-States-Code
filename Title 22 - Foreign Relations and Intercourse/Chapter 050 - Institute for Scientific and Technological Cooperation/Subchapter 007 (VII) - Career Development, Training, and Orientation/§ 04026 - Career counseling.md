@@ -1,0 +1,24 @@
+### §4026. Career counseling
+
+#### (a) Facilitation of transition from Service
+
+In order to facilitate their transition from the Service, the Secretary may provide (by contract or otherwise, subject to the availability of appropriations) professional career counseling, advice, and placement assistance to members of the Service, and to former members of the Service who were assigned to receive counseling and assistance under this subsection before they were separated from the Service, other than those separated for cause.
+
+#### (b) Facilitation of employment of spouses of members; establishment of family liaison office
+
+(1) The Secretary may facilitate the employment of spouses of members of the Service by—
+
+&emsp;(A) providing regular career counseling for such spouses;
+
+&emsp;(B) maintaining a centralized system for cataloging their skills and the various governmental and nongovernmental employment opportunities available to them; and
+
+&emsp;(C) otherwise assisting them in obtaining employment.
+
+(2) The Secretary shall establish a family liaison office to carry out this subsection and such other functions as the Secretary may determine.
+
+(Pub. L. 96–465, title I, §706, Oct. 17, 1980, 94 Stat. 2101.)
+
+#### Authority of Secretary of State
+
+Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
+

@@ -1,0 +1,26 @@
+### §5902. Congressional declaration of policy and purpose; implementation and administration of program by Secretary of Energy
+
+(a) It is the policy of the Congress to develop on an urgent basis the technological capabilities to support the broadest range of energy policy options through conservation and use of domestic resources by socially and environmentally acceptable means.
+
+(b)(1) The Congress declares the purpose of this chapter to be to establish and vigorously conduct a comprehensive, national program of basic and applied research and development, including but not limited to demonstrations of practical applications, of all potentially beneficial energy sources and utilization technologies, within the Department of Energy.
+
+(2) In carrying out this program, the Secretary of Energy (hereinafter in this chapter referred to as the “Secretary”) shall be governed by the terms of this chapter and other applicable provisions of law with respect to all nonnuclear aspects of the research, development, and demonstration program; and the policies and provisions of the Atomic Energy Act of 1954 \[42 U.S.C.2011 et seq.\], and other provisions of law shall continue to apply to the nuclear research, development, and demonstration program.
+
+(3) In implementing and conducting the research, development, and demonstration programs pursuant to this chapter, the Secretary shall incorporate programs in specific nonnuclear technologies previously enacted into law, including those established by the Solar Heating and Cooling Act of 1974 (Public Law 93–409) \[42 U.S.C. 5501 et seq.\], the Geothermal Energy Research, Development, and Demonstration Act of 1974 (Public Law 93–410) \[30 U.S.C. 1101 et seq.\], and the Solar Energy Research, Development, and Demonstration Act of 1974 (Public Law 93–473) \[42 U.S.C. 5551 et seq.\].
+
+(Pub. L. 93–577, §3, Dec. 31, 1974, 88 Stat. 1879; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607.)
+
+#### References in Text
+
+The Atomic Energy Act of 1954, referred to in subsec. (b)(2), is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
+The Solar Heating and Cooling Act of 1974, referred to in subsec. (b)(3), probably means the Solar Heating and Cooling Demonstration Act of 1974, Pub. L. 93–409, Sept. 3, 1974, 88 Stat. 1069, as amended, which is classified generally to subchapter I (§5501 et seq.) of chapter 71 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5501 of this title and Tables.
+
+The Geothermal Energy Research, Development, and Demonstration Act of 1974, referred to in subsec. (b)(3), is Pub. L. 93–410, Sept. 3, 1974, 88 Stat. 1079, as amended, which is classified generally to chapter 24 (§1101 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 30 and Tables.
+
+The Solar Energy Research, Development, and Demonstration Act of 1974, referred to in subsec. (b)(3), is Pub. L. 93–473, Oct. 26, 1974, 88 Stat. 1431, as amended, which is classified generally to subchapter II (§5551 et seq.) of chapter 71 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5501 of this title and Tables.
+
+#### Transfer of Functions
+
+“Department of Energy”, “Secretary of Energy”, and “Secretary” substituted for “Energy Research and Development Administration”, “Administrator of the Energy Research and Development Administration”, and “Administrator”, respectively, in subsec. (b) pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
+

@@ -1,0 +1,26 @@
+### §3710. Evidence of compliance by vessels of the United States
+
+(a) A vessel of the United States to which this chapter applies that has on board oil or hazardous material in bulk as cargo or cargo residue must have a certificate of inspection issued under this part, endorsed to indicate that thevessel complies with regulations prescribed under this chapter.
+
+(b) Each certificate endorsed under this section is valid for not more than 24 months and may be renewed as specified by the Secretary. In appropriate circumstances, the Secretary may issue a temporary certificate valid for not more than 30 days. A certificate shall be suspended or revoked if the Secretary finds that the vessel does not comply with the conditions under which the certificate was issued.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 524.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source section (U.S. Code)</i>
+
+3710
+
+46:391a(8)(A)
+
+46:391a(8)(E)
+
+Section 3710 prohibits any vessels of the United States subject to this chapter from having on board oil or hazardous material in bulk as cargo or in residue, unless it has a required Certificate of Inspection endorsed to indicate vessel compliance with applicable regulations. Certificates shall be valid for a period not to exceed two years and may be renewed as specified by the Secretary. The Secretary may issue temporary certificates of not more than thirty days duration and may revoke or suspend any certificate under designated circumstances.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3715 of this title.
+

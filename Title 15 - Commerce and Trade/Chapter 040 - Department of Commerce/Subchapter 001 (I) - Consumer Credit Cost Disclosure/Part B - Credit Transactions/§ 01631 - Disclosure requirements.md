@@ -1,0 +1,62 @@
+### §1631. Disclosure requirements
+
+#### (a) Duty of creditor or lessor respecting one or more than one obligor
+
+Subject to subsection (b) of this section, a creditor or lessor shall disclose to the person who is obligated on a consumer lease or a consumer credit transaction the information required under this subchapter. In a transaction involving more than one obligor, a creditor or lessor, except in a transaction under section 1635 of this title, need not disclose to more than one of such obligors if the obligor given disclosure is a primary obligor.
+
+#### (b) Creditor or lessor required to make disclosure
+
+If a transaction involves one creditor as defined in section 1602(f) of this title, or one lessor as defined in section 1667(3) of this title, such creditor or lessor shall make the disclosures. If a transaction involves more than one creditor or lessor, only one creditor or lessor shall by required to make the disclosures. The Board shall by regulation specify which creditor or lessor shall make the disclosures.
+
+#### (c) Estimates as satisfying statutory requirements
+
+The Board may provide by regulation that any portion of the information required to be disclosed by this subchapter may be given in the form of estimates where the provider of such information is not in a position to know exact information.
+
+#### (d) Tolerances for numerical disclosures
+
+The Board shall determine whether tolerances for numerical disclosures other than the annual percentage rate are necessary to facilitate compliance with this subchapter, and if it determines that such tolerances are necessary to facilitate compliance, it shall by regulation permit disclosures within such tolerances. The Board shall exercise its authority to permit tolerances for numerical disclosures other than the annual percentage rate so that such tolerances are narrow enough to prevent such tolerances from resulting in misleading disclosures or disclosures that circumvent the purposes of this subchapter.
+
+(Pub. L. 90 321, title I, §121, May 29, 1968, 82 Stat. 152; Pub. L. 93 495, title III, §307(c), (d), title IV, §409, Oct. 28, 1974, 88 Stat. 1516, 1519; Pub. L. 94 205, §11, Jan. 2, 1976, 89 Stat. 1159; Pub. L. 96 221, title VI, §611, Mar. 31, 1980, 94 Stat. 174.)
+
+#### Amendments
+
+1980—Subsec. (a). Pub. L. 96 221 substituted provisions respecting to which obligor duty of creditor or lessor, where one or more than one obligor is involved, is owed, for provisions setting forth clear and conspicuous disclosure requirements for creditors to persons extended consumer credit.
+
+Subsec. (b). Pub. L. 96 221 substituted provisions relating to disclosure requirements of creditor or lessor, for provisions relating to statement of information where more than one obligor is involved.
+
+Subsecs. (c), (d). Pub. L. 96 221 added subsecs. (c) and (d).
+
+1976—Subsec. (c). Pub. L. 94 205 struck out subsec. (c) which related to disclosure including a full statement of closing costs incurred and permitted estimates of such information where the lender was not in a position to know exact information.
+
+1974—Subsec. (a). Pub. L. 93 495, §307(c), inserted reference to part D of this subchapter and struck out “and upon whom a finance charge is or may be imposed” after “extended”.
+
+Subsec. (b). Pub. L. 93 495, §307(d), inserted reference to part D of this subchapter.
+
+Subsec. (c). Pub. L. 93 495, §409, added subsec (c).
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96 221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96 221, set out as a note under section 1602 of this title.
+
+#### Effective Date of 1976 Amendment
+
+Amendment by Pub. L. 94 205 effective Jan. 2, 1976, see section 12 of Pub. L. 94 205, set out as a note under section 2602 of Title 12, Banks and Banking.
+
+#### Effective Date of 1974 Amendment
+
+For effective date of amendment by section 307(c), (d) of Pub. L. 93 495, see section 308 of Pub. L. 93 495, set out as an Effective Date note under section 1666 of this title.
+
+For effective date of amendment by section 409 of Pub. L. 93 495, see section 416 of Pub. L. 93 495, set out as an Effective Date note under section 1665a of this title.
+
+#### Effective Date
+
+Section 504(b) of Pub. L. 90 321 provided in part that chapter 2 of title I, which enacted sections 1631 to 1641 of this title, is effective July 1, 1969.
+
+#### Real Estate Settlement Procedures
+
+Provisions of Real Estate Settlement Procedures Act of 1974, as superseding provisions of subsec. (c) of this section insofar as applying to federally related mortgage loans, see section 2605 of Title 12, Banks and Banking.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1638 of this title.
+

@@ -1,0 +1,10 @@
+### §181. Rights of white men marrying Indian women; tribal property
+
+No white man, not otherwise a member of any tribe of Indians, who may after August 9, 1888, marry an Indian woman, member of any Indian tribe in the United States, or any of its Territories except the Five Civilized Tribes in the Indian Territory, shall by such marriage after August 9, 1888, acquire any right to any tribal property, privilege, or interest whatever to which any member of such tribe is entitled.
+
+(Aug. 9, 1888, ch. 818, §1, 25 Stat. 392.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 182 of this title.
+

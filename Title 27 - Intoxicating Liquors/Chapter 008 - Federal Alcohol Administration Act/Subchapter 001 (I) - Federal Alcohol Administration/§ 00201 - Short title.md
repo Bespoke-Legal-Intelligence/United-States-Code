@@ -1,0 +1,18 @@
+### §201. Short title
+
+This subchapter may be cited as the “Federal Alcohol Administration Act”.
+
+(Aug. 29, 1935, ch. 814, title I, §101, formerly §1, 49 Stat. 977; renumbered title I, §101, and amended Nov. 18, 1988, Pub. L. 100–690, title VIII, §8001(a)(1), (2), (b)(1), 102 Stat. 4517, 4521.)
+
+#### Amendments
+
+1988—Pub. L. 100–690, §8001(b)(1), amended section generally, substituting “subchapter” for “chapter”.
+
+#### Short Title
+
+Section 201 of title II of act Aug. 29, 1935, as added Nov. 18, 1988, Pub. L. 100–690, title VIII, §8001(a)(3), 102 Stat. 4518, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Alcoholic Beverage Labeling Act of 1988’.”
+
+#### Transfer of Functions
+
+Federal Alcohol Administration and offices of members and Administrator thereof were abolished and their functions directed to be administered under direction and supervision of Secretary of Treasury through Bureau of Internal Revenue \[now Internal Revenue Service\] in Department of Treasury, by Reorg. Plan No. III of 1940, §2, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees. See also, sections 8 and 9 of said plan for provisions relating to transfer of records, property, personnel, and funds. Section 2 of Reorg. Plan No. III of 1940 was repealed as executed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1085, the first section of which enacted Title 31, Money and Finance. Department of the Treasury Order 221 of July 1, 1972, established the Bureau of Alcohol, Tobacco and Firearms and transferred to it the alcohol and functions of the Internal Revenue Service.
+

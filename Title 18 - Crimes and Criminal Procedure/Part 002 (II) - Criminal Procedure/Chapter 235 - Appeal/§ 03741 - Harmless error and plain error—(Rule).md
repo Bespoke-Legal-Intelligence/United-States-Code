@@ -1,0 +1,16 @@
+### §3741. Harmless error and plain error—(Rule)
+
+#### See Federal Rules of Criminal Procedure
+
+Error or defect as affecting substantial rights, Rule 52.
+
+Defects in indictment, Rule 7.
+
+Waiver of error, Rules 12(b)(2) and 30.
+
+(June 25, 1948, ch. 645, 62 Stat. 846.)
+
+#### Cross References
+
+Harmless error, see section 2111 of Title 28, Judiciary and Judicial Procedure.
+

@@ -1,0 +1,56 @@
+### §243. General grant of authority for cooperation
+
+#### (a) Enforcement of quarantine regulations; prevention of communicable diseases
+
+The Secretary is authorized to accept from State and local authorities any assistance in the enforcement of quarantine regulations made pursuant to this chapter which such authorities may be able and willing to provide. The Secretary shall also assist States and their political subdivisions in the prevention and suppression of communicable diseases and with respect to other public health matters, shall cooperate with and aid State and local authorities in the enforcement of their quarantine and other health regulations, and shall advise the several States on matters relating to the preservation and improvement of the public health.
+
+#### (b) Comprehensive and continuing planning; training of personnel for State and local health work; fees
+
+The Secretary shall encourage cooperative activities between the States with respect to comprehensive and continuing planning as to their current and future health needs, the establishment and maintenance of adequate public health services, and otherwise carrying out public health activities. The Secretary is also authorized to train personnel for State and local health work. The Secretary may charge only private entities reasonable fees for the training of their personnel under the preceding sentence.
+
+#### (c) Development of plan to control epidemics and meet emergencies or problems resulting from disasters; cooperative planning; temporary assistance; reimbursement of United States
+
+(1) The Secretary is authorized to develop (and may take such action as may be necessary to implement) a plan under which personnel, equipment, medical supplies, and other resources of the Service and other agencies under the jurisdiction of the Secretary may be effectively used to control epidemics of any disease or condition and to meet other health emergencies or problems. The Secretary may enter into agreements providing for the cooperative planning between the Service and public and private community health programs and agencies to cope with health problems (including epidemics and health emergencies).
+
+(2) The Secretary may, at the request of the appropriate State or local authority, extend temporary (not in excess of six months) assistance to States or localities in meeting health emergencies of such a nature as to warrant Federal assistance. The Secretary may require such reimbursement of the United States for assistance provided under this paragraph as he may determine to be reasonable under the circumstances. Any reimbursement so paid shall be credited to the applicable appropriation for the Service for the year in which such reimbursement is received.
+
+(July 1, 1944, ch. 373, title III, §311, 58 Stat. 693; Nov. 3, 1966, Pub. L. 89–749, §5, 80 Stat. 1190; Dec. 5, 1967, Pub. L. 90–174, §4, 81 Stat. 536; Oct. 30, 1970, Pub. L. 91–515, title II, §282, 84 Stat. 1308; June 23, 1976, Pub. L. 94–317, title II, §202(b), (c), 90 Stat. 703; Aug. 13, 1981, Pub. L. 97–35, title IX, §902(c), 95 Stat. 559; Jan. 4, 1983, Pub. L. 97–414, §8(d), 96 Stat. 2060; Oct. 7, 1985, Pub. L. 99–117, §11(a), 99 Stat. 494.)
+
+#### Amendments
+
+1985—Subsec. (c)(1). Pub. L. 99–117 struck out “referred to in section 247b(f) of this title” after “epidemics of any disease or condition”, “involving or resulting from disasters or any such disease” after “health emergencies or problems” in first sentence, and struck out “resulting from disasters or any disease or condition referred to in section 247b(f) of this title” after “(including epidemics and health emergencies)” in second sentence.
+
+1983—Subsec. (c)(2). Pub. L. 97–414 substituted “six months” for “forty-five days” after “not in excess of”.
+
+1981—Subsec. (a). Pub. L. 97–35, §902(c)(1), inserted applicability to other public health matters, and struck out reference to section 246 of this title.
+
+Subsec. (b). Pub. L. 97–35, §902(c)(2), substituted “public health activities” for “the purposes of section 246 of this title”.
+
+1976—Subsec. (b). Pub. L. 94–317, §202(c), inserted provision authorizing Secretary to charge only private entities reasonable fees for training of their personnel.
+
+Subsec. (c). Pub. L. 94–317, §202(b), made changes in phraseology and restructured provisions into pars. (1) and (2) and, in par. (1), as so restructured, inserted provisions authorizing Secretary to develop a plan utilizing Public Health Service personnel, equipment, medical supplies and other resources to control epidemics of any disease referred to in section 247b of this title.
+
+1970—Subsecs. (a), (b). Pub. L. 91–515 substituted “Secretary” for “Surgeon General” wherever appearing.
+
+1967—Subsec. (c). Pub. L. 90–174 added subsec. (c).
+
+1966—Pub. L. 89–749 designated existing provisions as subsec. (a), added subsec. (b), and amended subsec. (b) to permit Surgeon General to train personnel for State and local health work.
+
+#### Effective Date of 1981 Amendment
+
+Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as a note under section 238<i>l</i> of this title.
+
+#### Effective Date of 1966 Amendment
+
+Section 5(a) of Pub. L. 89–749 provided that subsec. (b) of this section is effective July 1, 1966.
+
+Section 5(b) of Pub. L. 89–749 provided that the amendment of subsec. (b) of this section, permitting the Surgeon General to train personnel for State and local health work, is effective July 1, 1967.
+
+#### Training of Private Persons Subject to Reimbursement or Advances to Appropriations
+
+Pub. L. 103–333, title II, Sept. 30, 1994, 108 Stat. 2550, provided in part: “That for fiscal year 1995 and subsequent fiscal years training of private persons shall be made subject to reimbursement or advances to this appropriation for not in excess of the full cost of such training”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7610 of this title.
+

@@ -1,0 +1,36 @@
+### §4244. Definitions
+
+In this chapter—
+
+&emsp;(1) the term “African elephant” means any animal of the species loxodonta africana;
+
+&emsp;(2) the term “CITES” means the Convention on the International Trade in Endangered Species of Wild Fauna and Flora;
+
+&emsp;(3) the term “CITES Ivory Control System” means the ivory quota and marking system established by CITES to curtail illegal trade in African elephant ivory;
+
+&emsp;(4) the term “Fund” means the African Elephant Conservation Fund established by section 4212 of this title;
+
+&emsp;(5) the terms “import” and “importation” have the meanings such terms have in the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
+
+&emsp;(6) the term “intermediary country” means a country that exports raw or worked ivory that does not originate in that country;
+
+&emsp;(7) the term “ivory producing country” means any African country within which is located any part of the range of a population of African elephants;
+
+&emsp;(8) the term “ivory quota” means a quota submitted by an ivory producing country to the CITES Secretariat in accordance with the CITES Ivory Control System;
+
+&emsp;(9) the term “personal effects” means articles which are not intended for sale and are part of a shipment of the household effects of a person who is moving his or her residence to or from the United States, or are included in personal accompanying baggage;
+
+&emsp;(10) the term “raw ivory” means any African elephant tusk, and any piece thereof, the surface of which, polished or unpolished, is unaltered or minimally carved;
+
+&emsp;(11) the term “Secretary” means the Secretary of the Interior;
+
+&emsp;(12) the term “United States” means the fifty States, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, and the territories and possessions of the United States; and
+
+&emsp;(13) the term “worked ivory” means any African elephant tusk, and any piece thereof, which is not raw ivory.
+
+(Pub. L. 100–478, title II, §2305, Oct. 7, 1988, 102 Stat. 2322.)
+
+#### References in Text
+
+The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+

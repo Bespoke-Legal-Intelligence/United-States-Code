@@ -1,0 +1,36 @@
+### SUBCHAPTER I—FEDERAL ENERGY ADMINISTRATION
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 00761 - Congressional declaration of purpose](%C2%A7%2000761%20-%20Congressional%20declaration%20of%20purpose.md)
+- [&sect; 00762 - Establishment](%C2%A7%2000762%20-%20Establishment.md)
+- [&sect; 00763 - Repealed. Pub. L. 95&#8211;91, title VII, &sect;709(a)(1), Aug. 4, 1977, 91 Stat. 607](%C2%A7%2000763%20-%20Repealed.%20Pub.%20L.%2095%E2%80%9391%2C%20title%20VII%2C%20%C2%A7709%28a%29%281%29%2C%20Aug.%204%2C%201977%2C%2091%20Stat.%20607.md)
+- [&sect; 00764 - Specific functions and purposes](%C2%A7%2000764%20-%20Specific%20functions%20and%20purposes.md)
+- [&sect; 00765 - Transfer of functions](%C2%A7%2000765%20-%20Transfer%20of%20functions.md)
+- [&sect; 00766 - Administrative provisions](%C2%A7%2000766%20-%20Administrative%20provisions.md)
+- [&sect; 00767 - Transitional and savings provisions](%C2%A7%2000767%20-%20Transitional%20and%20savings%20provisions.md)
+- [&sect; 00768 - Repealed. Pub. L. 95&#8211;91, title VII, &sect;709(a)(1), Aug. 4, 1977, 91 Stat. 607](%C2%A7%2000768%20-%20Repealed.%20Pub.%20L.%2095%E2%80%9391%2C%20title%20VII%2C%20%C2%A7709%28a%29%281%29%2C%20Aug.%204%2C%201977%2C%2091%20Stat.%20607.md)
+- [&sect; 00769 - Definitions](%C2%A7%2000769%20-%20Definitions.md)
+- [&sect; 00770 - Appointments](%C2%A7%2000770%20-%20Appointments.md)
+- [&sect; 00771 - Comptroller General, powers and duties](%C2%A7%2000771%20-%20Comptroller%20General%2C%20powers%20and%20duties.md)
+- [&sect; 00772 - Administrator's information-gathering power](%C2%A7%2000772%20-%20Administrator%27s%20information-gathering%20power.md)
+- [&sect; 00773 - Public disclosure of information](%C2%A7%2000773%20-%20Public%20disclosure%20of%20information.md)
+- [&sect; 00774 - Reports and recommendations](%C2%A7%2000774%20-%20Reports%20and%20recommendations.md)
+- [&sect; 00775 - Sex discrimination; enforcement; other legal remedies](%C2%A7%2000775%20-%20Sex%20discrimination%3B%20enforcement%3B%20other%20legal%20remedies.md)
+- [&sect; 00776 - Advisory committees](%C2%A7%2000776%20-%20Advisory%20committees.md)
+- [&sect; 00777 - Economic analysis of proposed actions](%C2%A7%2000777%20-%20Economic%20analysis%20of%20proposed%20actions.md)
+- [&sect; 00778 - Management oversight review; report to Administrator](%C2%A7%2000778%20-%20Management%20oversight%20review%3B%20report%20to%20Administrator.md)
+- [&sect; 00779 - Coordination with, and technical assistance to, State governments](%C2%A7%2000779%20-%20Coordination%20with%2C%20and%20technical%20assistance%20to%2C%20State%20governments.md)
+- [&sect; 00780 - Office of Private Grievances and Redress](%C2%A7%2000780%20-%20Office%20of%20Private%20Grievances%20and%20Redress.md)
+- [&sect; 00781 - Comprehensive energy plan](%C2%A7%2000781%20-%20Comprehensive%20energy%20plan.md)
+- [&sect; 00782 - Petrochemical report to Congress](%C2%A7%2000782%20-%20Petrochemical%20report%20to%20Congress.md)
+- [&sect; 00783 - Hydroelectric generating facilities; lists, transmittal to Congress; construction schedule and cost estimates for expedited construction&#8230;](%C2%A7%2000783%20-%20Hydroelectric%20generating%20facilities%3B%20lists%2C%20transmittal%20to%20Congress%3B%20construction%20schedule%20and%20cost%20estimates%20for%20expedited%20construction%E2%80%A6.md)
+- [&sect; 00784 - Exports of coal and refined petroleum products](%C2%A7%2000784%20-%20Exports%20of%20coal%20and%20refined%20petroleum%20products.md)
+- [&sect; 00785 - Foreign ownership; comprehensive review; sources of information; report to Congress; monitoring activity](%C2%A7%2000785%20-%20Foreign%20ownership%3B%20comprehensive%20review%3B%20sources%20of%20information%3B%20report%20to%20Congress%3B%20monitoring%20activity.md)
+- [&sect; 00786 - Repealed. Pub. L. 95&#8211;91, title VII, &sect;709(a)(1), Aug. 4, 1977, 91 Stat. 607](%C2%A7%2000786%20-%20Repealed.%20Pub.%20L.%2095%E2%80%9391%2C%20title%20VII%2C%20%C2%A7709%28a%29%281%29%2C%20Aug.%204%2C%201977%2C%2091%20Stat.%20607.md)
+- [&sect; 00787 - Project Independence Evaluation System documentation; access to model by Congress and public](%C2%A7%2000787%20-%20Project%20Independence%20Evaluation%20System%20documentation%3B%20access%20to%20model%20by%20Congress%20and%20public.md)
+- [&sect; 00788 - Use of commercial standards](%C2%A7%2000788%20-%20Use%20of%20commercial%20standards.md)
+- [&sect; 00789 - Organizational conflicts](%C2%A7%2000789%20-%20Organizational%20conflicts.md)

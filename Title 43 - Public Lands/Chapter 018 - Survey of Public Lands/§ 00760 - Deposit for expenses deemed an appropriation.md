@@ -1,0 +1,18 @@
+### §760. Deposit for expenses deemed an appropriation
+
+The deposit of money in a proper United States depository, under the provisions of section 759 of this title, shall be deemed an appropriation of the sums so deposited for the objects contemplated by said section, and the Secretary of the Treasury is authorized to cause the sums so deposited to be placed to the credit of the proper appropriations for the surveying service; but any excesses in such sums over and above the actual cost of the surveys, comprising all expenses incident thereto, for which they were severally deposited, shall be repaid to the depositors respectively.
+
+(R.S. §2402.)
+
+#### Codification
+
+R.S. §2402 derived from Res. July 1, 1864, No. 60, 13 Stat. 414.
+
+#### Cross References
+
+Classification as trust funds, appropriation and disbursement of funds for “Expenses, public survey work,” see section 1321 of Title 31, Money and Finance.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 763 of this title.
+

@@ -1,0 +1,48 @@
+### §229. Communications Assistance for Law Enforcement Act compliance
+
+#### (a) In general
+
+The Commission shall prescribe such rules as are necessary to implement the requirements of the Communications Assistance for Law Enforcement Act \[47 U.S.C. 1001 et seq.\].
+
+#### (b) Systems security and integrity
+
+The rules prescribed pursuant to subsection (a) of this section shall include rules to implement section 105 of the Communications Assistance for Law Enforcement Act \[47 U.S.C. 1004\] that require common carriers—
+
+&emsp;(1) to establish appropriate policies and procedures for the supervision and control of its officers and employees—
+
+&emsp;&emsp;(A) to require appropriate authorization to activate interception of communications or access to call-identifying information; and
+
+&emsp;&emsp;(B) to prevent any such interception or access without such authorization;
+
+&emsp;(2) to maintain secure and accurate records of any interception or access with or without such authorization; and
+
+&emsp;(3) to submit to the Commission the policies and procedures adopted to comply with the requirements established under paragraphs (1) and (2).
+
+#### (c) Commission review of compliance
+
+The Commission shall review the policies and procedures submitted under subsection (b)(3) of this section and shall order a common carrier to modify any such policy or procedure that the Commission determines does not comply with Commission regulations. The Commission shall conduct such investigations as may be necessary to insure compliance by common carriers with the requirements of the regulations prescribed under this section.
+
+#### (d) Penalties
+
+For purposes of this chapter, a violation by an officer or employee of any policy or procedure adopted by a common carrier pursuant to subsection (b) of this section, or of a rule prescribed by the Commission pursuant to subsection (a) of this section, shall be considered to be a violation by the carrier of a rule prescribed by the Commission pursuant to this chapter.
+
+#### (e) Cost recovery for Communications Assistance for Law Enforcement Act compliance
+
+#### (1) Petitions authorized
+
+&emsp;A common carrier may petition the Commission to adjust charges, practices, classifications, and regulations to recover costs expended for making modifications to equipment, facilities, or services pursuant to the requirements of section 103 of the Communications Assistance for Law Enforcement Act \[47 U.S.C. 1002\].
+
+#### (2) Commission authority
+
+&emsp;The Commission may grant, with or without modification, a petition under paragraph (1) if the Commission determines that such costs are reasonable and that permitting recovery is consistent with the public interest. The Commission may, consistent with maintaining just and reasonable charges, practices, classifications, and regulations in connection with the provision of interstate or foreign communication by wire or radio by a common carrier, allow carriers to adjust such charges, practices, classifications, and regulations in order to carry out the purposes of this chapter.
+
+#### (3) Joint board
+
+&emsp;The Commission shall convene a Federal-State joint board to recommend appropriate changes to part 36 of the Commission's rules with respect to recovery of costs pursuant to charges, practices, classifications, and regulations under the jurisdiction of the Commission.
+
+(June 19, 1934, ch. 652, title II, §229, as added Oct. 25, 1994, Pub. L. 103–414, title III, §301, 108 Stat. 4292.)
+
+#### References in Text
+
+The Communications Assistance for Law Enforcement Act, referred to in subsecs. (a) and (e), is title I of Pub. L. 103–414, Oct. 25, 1994, 108 Stat. 4279, which is classified generally to chapter 9 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+

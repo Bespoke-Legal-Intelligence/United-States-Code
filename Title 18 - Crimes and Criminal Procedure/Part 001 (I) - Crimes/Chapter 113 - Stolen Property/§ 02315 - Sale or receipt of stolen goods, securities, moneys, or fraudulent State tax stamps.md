@@ -1,0 +1,46 @@
+### §2315. Sale or receipt of stolen goods, securities, moneys, or fraudulent State tax stamps
+
+Whoever receives, possesses, conceals, stores, barters, sells, or disposes of any goods, wares, or merchandise, securities, or money of the value of $5,000 or more, or pledges or accepts as security for a loan any goods, wares, or merchandise, or securities, of the value of $500 or more, which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken, knowing the same to have been stolen, unlawfully converted, or taken; or
+
+Whoever receives, possesses, conceals, stores, barters, sells, or disposes of any falsely made, forged, altered, or counterfeited securities or tax stamps, or pledges or accepts as security for a loan any falsely made, forged, altered, or counterfeited securities or tax stamps, moving as, or which are a part of, or which constitute interstate or foreign commerce, knowing the same to have been so falsely made, forged, altered, or counterfeited; or
+
+Whoever receives in interstate or foreign commerce, or conceals, stores, barters, sells, or disposes of, any tool, implement, or thing used or intended to be used in falsely making, forging, altering, or counterfeiting any security or tax stamp, or any part thereof, moving as, or which is a part of, or which constitutes interstate or foreign commerce, knowing that the same is fitted to be used, or has been used, in falsely making, forging, altering, or counterfeiting any security or tax stamp, or any part thereof—
+
+Shall be fined under this title or imprisoned not more than ten years, or both.
+
+This section shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of an obligation or other security of the United States or of an obligation, bond,certificate, security, treasury note, bill, promise to pay, or bank note, issued by any foreign government. This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.
+
+For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+(June 25, 1948, ch. 645, 62 Stat. 806; Oct. 4, 1961, Pub. L. 87–371, §3, 75 Stat. 802; Nov. 10, 1986, Pub. L. 99–646, §76, 100 Stat. 3618; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7048, 7057(b), 102 Stat. 4401, 4402; Nov. 29, 1990, Pub. L. 101–647, title XII, §1205(m), 104 Stat. 4831; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §416 (May 22, 1934, ch. 333, §4, 48 Stat. 795; Aug. 3, 1939, ch. 413, §2, 53 Stat. 1178).
+
+(See reviser's notes under sections 10, 2311 and 2314 of this title for explanation of consolidation or omission of other sections of title 18, U.S.C., 1940 ed., which were derived from the National Stolen Property Act.)
+
+Minor changes were made in phraseology.
+
+#### Amendments
+
+1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in fourth par.
+
+1990—Pub. L. 101–647 inserted par. at end defining “State”.
+
+1988—Pub. L. 100–690, §7048, substituted “moving as, or which are a part of, or which constitute interstate or foreign commerce” for “which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken” in second par.
+
+Pub. L. 100–690, §7057(b), struck out “or by a bank or corporation of any foreign country” after “foreign government” in last par. and inserted at end “This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.”
+
+1986—Pub. L. 99–646 substituted “receives, possesses, conceals” for “receives, conceals” and “which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken” for “moving as, or which are part of, or which constitute interstate or foreign commerce” in first and second pars.
+
+1961—Pub. L. 87–371 inserted “or tax stamps” after “securities”, wherever appearing, in second par., and “or tax stamp” after “security”, wherever appearing, in third par., and substituted “moneys, or fraudulent State tax stamps” for “or monies” in section catchline.
+
+#### Cross References
+
+Wire or oral communications, authorization for interception, to provide evidence of offenses under this section, see section 2516 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1961, 2516 of this title.
+

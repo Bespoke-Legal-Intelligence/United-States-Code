@@ -1,0 +1,6 @@
+### §967. Rules and regulations
+
+The Secretary is authorized to prescribe rules and regulations to carry out the provisions of this subchapter.
+
+(Pub. L. 87–235, §7, Sept. 14, 1961, 75 Stat. 509.)
+

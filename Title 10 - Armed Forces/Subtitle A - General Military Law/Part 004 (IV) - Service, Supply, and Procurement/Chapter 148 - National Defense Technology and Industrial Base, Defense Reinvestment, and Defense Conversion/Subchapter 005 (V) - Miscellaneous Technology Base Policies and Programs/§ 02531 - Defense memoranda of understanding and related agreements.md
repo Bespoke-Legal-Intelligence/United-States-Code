@@ -1,0 +1,34 @@
+### §2531. Defense memoranda of understanding and related agreements
+
+(a)
+
+Considerations in Making and Implementing MOUs and Related Agreements.—In the negotiation, renegotiation, and implementation of any existing or proposed memorandum of understanding, or any existing or proposed agreement related to a memorandum of understanding, between the Secretary of Defense, acting on behalf of the United States, and one or more foreign countries (or any instrumentality of a foreign country) relating to research, development, or production of defense equipment, or to the reciprocal procurement of defense items, the Secretary of Defense shall—
+
+&emsp;(1) consider the effects of such existing or proposed memorandum of understanding or related agreement on the defense technology and industrial base of the United States; and
+
+&emsp;(2) regularly solicit and consider comments and recommendations from the Secretary of Commerce with respect to the commercial implications of such memorandum of understanding or related agreement and the potential effects of such memorandum of understanding or related agreement on the international competitive position of United States industry.
+
+(b)
+
+Inter-Agency Review of Effects on United States Industry.—Whenever the Secretary of Commerce has reason to believe that an existing or proposed memorandum of understanding or related agreement has, or threatens to have, a significant adverse effect on the international competitive position of United States industry, the Secretary may request an inter-agency review of the memorandum of understanding or related agreement. If, as a result of the review, the Secretary determines that the commercial interests of the United States are not being served or would not be served by adhering to the terms of such existing memorandum or related agreement or agreeing to such proposed memorandum or related agreement, as the case may be, the Secretary shall recommend to the President the renegotiation of the existing memorandum or related agreement or any modification to the proposed memorandum of understanding or related agreement that he considers necessary to ensure an appropriate balance of interests.
+
+(c)
+
+Limitation on Entering into MOUs and Related Agreements.—A memorandum of understanding or related agreement referred to in subsection (a) may not be entered into or implemented if the President, taking into consideration the results of the inter-agency review, determines that such memorandum of understanding or related agreement has or is likely to have a significant adverse effect on United States industry that outweighs the benefits of entering into or implementing such memorandum or agreement.
+
+(Added Pub. L. 100–456, div. A, title VIII, §824, Sept. 29, 1988, 102 Stat. 2019, §2504; amended Pub. L. 101–189, div. A, title VIII, §815(a), Nov. 29, 1989, 103 Stat. 1500; Pub. L. 101–510, div. A, title XIV, §1453, Nov. 5, 1990, 104 Stat. 1694; renumbered §2531 and amended Pub. L. 102–484, div. D, title XLII, §§4202(a), 4271(c), Oct. 23, 1992, 106 Stat. 2659, 2696.)
+
+#### Amendments
+
+1992—Pub. L. 102–484, §4202(a), renumbered section 2504 of this title as this section.
+
+Subsec. (a)(1). Pub. L. 102–484, §4271(c), substituted “defense technology and industrial base” for “defense industrial base”.
+
+1990—Subsec. (a). Pub. L. 101–510 inserted “or to the reciprocal procurement of defense items,” after “defense equipment,” in introductory provisions.
+
+1989—Pub. L. 101–189 inserted “and related agreements” after “understanding” in section catchline and amended text generally. Prior to amendment, text read as follows: “In the negotiation and renegotiation of each memorandum of understanding between the Secretary of Defense, acting on behalf of the United States, and one or more foreign countries (or any instrumentality of a foreign country) relating to research, development, or production of defense equipment, the Secretary of Defense shall—
+
+&emsp;“(1) consider the effect of such proposed memorandum of understanding on the defense industrial base of the United States; and
+
+&emsp;“(2) regularly solicit and consider information or recommendations from the Secretary of Commerce with respect to the effect on the United States industrial base of such memorandum of understanding.”
+

@@ -1,0 +1,38 @@
+### SUBCHAPTER I—CHARTER PROVISIONS
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 00041 - Incorporation of institution](%C2%A7%2000041%20-%20Incorporation%20of%20institution.md)
+- [&sect; 00042 - Board of Regents; members](%C2%A7%2000042%20-%20Board%20of%20Regents%3B%20members.md)
+- [&sect; 00043 - Appointment of regents; terms of office; vacancies](%C2%A7%2000043%20-%20Appointment%20of%20regents%3B%20terms%20of%20office%3B%20vacancies.md)
+- [&sect; 00044 - Organization of board; expenses; gratuitous services](%C2%A7%2000044%20-%20Organization%20of%20board%3B%20expenses%3B%20gratuitous%20services.md)
+- [&sect; 00045 - Special meetings of members](%C2%A7%2000045%20-%20Special%20meetings%20of%20members.md)
+- [&sect; 00046 - Duties of Secretary](%C2%A7%2000046%20-%20Duties%20of%20Secretary.md)
+- [&sect; 00046a - Employment of aliens by Secretary](%C2%A7%2000046a%20-%20Employment%20of%20aliens%20by%20Secretary.md)
+- [&sect; 00047 - Acting Secretary](%C2%A7%2000047%20-%20Acting%20Secretary.md)
+- [&sect; 00048 - Salary and removal of Secretary and assistants](%C2%A7%2000048%20-%20Salary%20and%20removal%20of%20Secretary%20and%20assistants.md)
+- [&sect; 00049 - Statement of expenditures](%C2%A7%2000049%20-%20Statement%20of%20expenditures.md)
+- [&sect; 00050 - Reception and arrangement of specimens and objects of art](%C2%A7%2000050%20-%20Reception%20and%20arrangement%20of%20specimens%20and%20objects%20of%20art.md)
+- [&sect; 00050a - Gellatly art collection; estimates of sums needed for preservation and maintenance](%C2%A7%2000050a%20-%20Gellatly%20art%20collection%3B%20estimates%20of%20sums%20needed%20for%20preservation%20and%20maintenance.md)
+- [&sect; 00051 - Library](%C2%A7%2000051%20-%20Library.md)
+- [&sect; 00052 - Evidence of title to site and buildings](%C2%A7%2000052%20-%20Evidence%20of%20title%20to%20site%20and%20buildings.md)
+- [&sect; 00053 - Protection of property](%C2%A7%2000053%20-%20Protection%20of%20property.md)
+- [&sect; 00053a - Authorization of appropriations](%C2%A7%2000053a%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00054 - Appropriation of interest](%C2%A7%2000054%20-%20Appropriation%20of%20interest.md)
+- [&sect; 00055 - Acceptance of other sums](%C2%A7%2000055%20-%20Acceptance%20of%20other%20sums.md)
+- [&sect; 00056 - Disposal of unappropriated money](%C2%A7%2000056%20-%20Disposal%20of%20unappropriated%20money.md)
+- [&sect; 00057 - Disbursements](%C2%A7%2000057%20-%20Disbursements.md)
+- [&sect; 00058 - Annual report of salaries](%C2%A7%2000058%20-%20Annual%20report%20of%20salaries.md)
+- [&sect; 00059 - Collections of National Ocean Survey, United States Geological Survey, and others deposited in National Museum](%C2%A7%2000059%20-%20Collections%20of%20National%20Ocean%20Survey%2C%20United%20States%20Geological%20Survey%2C%20and%20others%20deposited%20in%20National%20Museum.md)
+- [&sect; 00060 - Army articles furnished to National Museum](%C2%A7%2000060%20-%20Army%20articles%20furnished%20to%20National%20Museum.md)
+- [&sect; 00061 to 64 - Repealed. Oct. 31, 1951, ch. 654, &sect;1(37)&#8211;(40), 65 Stat. 702](%C2%A7%2000061%20to%2064%20-%20Repealed.%20Oct.%2031%2C%201951%2C%20ch.%20654%2C%20%C2%A71%2837%29%E2%80%93%2840%29%2C%2065%20Stat.%20702.md)
+- [&sect; 00065 - Repealed. Pub. L. 89&#8211;674, &sect;3, Oct. 15, 1966, 80 Stat. 953](%C2%A7%2000065%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93674%2C%20%C2%A73%2C%20Oct.%2015%2C%201966%2C%2080%20Stat.%20953.md)
+- [&sect; 00065a - Director of the National Museum](%C2%A7%2000065a%20-%20Director%20of%20the%20National%20Museum.md)
+- [&sect; 00066 - Repealed. June 30, 1949, ch. 288, title VI, &sect;602(a)(19), 63 Stat. 400, eff. July 1, 1949; renumbered Sept. 5, 1950, ch. 849, &sect;6(a), (b)&#8230;](%C2%A7%2000066%20-%20Repealed.%20June%2030%2C%201949%2C%20ch.%20288%2C%20title%20VI%2C%20%C2%A7602%28a%29%2819%29%2C%2063%20Stat.%20400%2C%20eff.%20July%201%2C%201949%3B%20renumbered%20Sept.%205%2C%201950%2C%20ch.%20849%2C%20%C2%A76%28a%29%2C%20%28b%29%E2%80%A6.md)
+- [&sect; 00067 - Right of repeal](%C2%A7%2000067%20-%20Right%20of%20repeal.md)
+- [&sect; 00068 - Repealed. Oct. 10, 1940, ch. 851, &sect;4, 54 Stat. 1111](%C2%A7%2000068%20-%20Repealed.%20Oct.%2010%2C%201940%2C%20ch.%20851%2C%20%C2%A74%2C%2054%20Stat.%201111.md)
+- [&sect; 00069 - Anthropological researches; cooperation of Institution with States, educational institutions, or scientific organizations](%C2%A7%2000069%20-%20Anthropological%20researches%3B%20cooperation%20of%20Institution%20with%20States%2C%20educational%20institutions%2C%20or%20scientific%20organizations.md)
+- [&sect; 00070 - Authorization of appropriations; cooperative work](%C2%A7%2000070%20-%20Authorization%20of%20appropriations%3B%20cooperative%20work.md)

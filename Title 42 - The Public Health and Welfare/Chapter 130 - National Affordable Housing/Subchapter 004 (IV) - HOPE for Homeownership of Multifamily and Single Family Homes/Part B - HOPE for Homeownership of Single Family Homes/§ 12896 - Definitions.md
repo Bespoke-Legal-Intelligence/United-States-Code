@@ -1,0 +1,48 @@
+### §12896. Definitions
+
+For purposes of this part:
+
+&emsp;(1) The term “applicant” means a private nonprofit organization, cooperative association, or a public agency (including an agency or instrumentality thereof) in cooperation with a private nonprofit organization.
+
+&emsp;(2) The term “displaced homemaker” has the same meaning as in section 12704 of this title.
+
+&emsp;(3) The term “eligible family” means a family or individual who—
+
+&emsp;&emsp;(A) has an income that does not exceed 80 percent of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families; and
+
+&emsp;&emsp;(B) is a first-time homebuyer.
+
+&emsp;(4) The term “eligible property” means a single family property, containing no more than four units, that is owned or held by the Secretary, the Secretary of Veterans Affairs, the Secretary of Agriculture, the ResolutionTrust Corporation, the Federal Deposit Insurance Corporation, the Secretary of Defense, the Secretary of Transportation, the General Services Administration, any other Federal agency, a State or local government (including any in rem property), or a public housing agency or an Indian housing authority (excluding public or Indian housing under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] and including properties held by institutions within the jurisdiction of the Resolution Trust Corporation).
+
+&emsp;(5) The term “first-time homebuyer” has the same meaning as in section 12704 of this title.
+
+&emsp;(6) The term “homeownership program” means a program for homeownership under this part.
+
+&emsp;(7) The term “Indian housing authority” has the meaning given such term in section 1437a(b)(11) of this title.
+
+&emsp;(8) The term “low-income family” has the meaning given such term in section 1437a(b)(2) of this title.
+
+&emsp;(9) The term “public housing agency” has the meaning given such term in section 1437a(b)(6) of this title.
+
+&emsp;(10) The term “recipient” means an applicant approved to receive a grant under this part or such other entity specified in the approved application that will assume the obligations of the recipient under this part.
+
+&emsp;(11) The term “Secretary” means the Secretary of Housing and Urban Development.
+
+&emsp;(12) The term “single parent” means an individual who—
+
+&emsp;&emsp;(A) is unmarried or legally separated from a spouse; and
+
+&emsp;&emsp;(B)(i) has 1 or more minor children for whom the individual has custody or joint custody; or
+
+&emsp;&emsp;(ii) is pregnant.
+
+(Pub. L. 101–625, title IV, §446, Nov. 28, 1990, 104 Stat. 4179; Pub. L. 102–550, title I, §181(g)(2), (h), Oct. 28, 1992, 106 Stat. 3736.)
+
+#### References in Text
+
+The United States Housing Act of 1937, referred to in par. (4), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
+
+#### Amendments
+
+1992—Par. (4). Pub. L. 102–550 inserted “the Federal Deposit Insurance Corporation, the Secretary of Defense, the Secretary of Transportation, the General Services Administration, any other Federal agency,” after “Corporation,” and substituted “(excluding public or Indian housing under the United States Housing Act of 1937 and including” for “(including scattered site single family properties, and”.
+

@@ -1,0 +1,16 @@
+### §300w–8. Criminal penalty for false statements
+
+Whoever—
+
+&emsp;(1) knowingly and willfully makes or causes to be made any false statement or representation of a material fact in connection with the furnishing of items or services for which payment may be made by a State from funds allotted to the State under this part, or
+
+&emsp;(2) having knowledge of the occurrence of any event affecting his initial or continued right to any such payment conceals or fails to disclose such event with an intent fraudulently to secure such payment either in a greater amount than is due or when no such payment is authorized,
+
+> shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
+
+(July 1, 1944, ch. 373, title XIX, §1909, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 542.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 300w–10, 9875 of this title.
+

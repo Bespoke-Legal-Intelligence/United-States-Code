@@ -1,0 +1,20 @@
+### §45101. Definition
+
+In this chapter, “controlled substance” means any substance under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) specified by the Administrator of the Federal Aviation Administration.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1221.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+45101
+
+49 App.:1434(f).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §614(f); added Oct. 28, 1991, Pub. L. 102–143, §3(a), 105 Stat. 956.
+

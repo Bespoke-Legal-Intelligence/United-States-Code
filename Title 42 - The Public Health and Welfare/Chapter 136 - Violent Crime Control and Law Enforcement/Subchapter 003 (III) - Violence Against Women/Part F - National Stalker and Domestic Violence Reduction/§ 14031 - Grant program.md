@@ -1,0 +1,24 @@
+### §14031. Grant program
+
+#### (a) In general
+
+The Attorney General is authorized to provide grants to States and units of local government to improve processes for entering data regarding stalking and domestic violence into local, State, and national crime information databases.
+
+#### (b) Eligibility
+
+To be eligible to receive a grant under subsection (a) of this section, a State or unit of local government shall certify that it has or intends to establish a program that enters into the National Crime Information Center records of—
+
+&emsp;(1) warrants for the arrest of persons violating protection orders intended to protect victims from stalking or domestic violence;
+
+&emsp;(2) arrests or convictions of persons violating protection <sup>1</sup> or domestic violence; and
+
+&emsp;(3) protection orders for the protection of persons from stalking or domestic violence.
+
+(Pub. L. 103–322, title IV, §40602, Sept. 13, 1994, 108 Stat. 1951.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 14214 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “orders intended to protect victims from stalking”.</i>
+

@@ -1,0 +1,56 @@
+### §47153. Waiving and adding terms
+
+(a)
+
+General Authority.—(1) The Secretary of Transportation may waive, without charge, a term of a gift of an interest in property under this subchapter if the Secretary decides that—
+
+&emsp;(A) the property no longer serves the purpose for which it was given; or
+
+&emsp;(B) the waiver will not prevent carrying out the purpose for which the gift was made and is necessary to advance the civil aviation interests of the United States.
+
+(2) The Secretary of Transportation shall waive a term under paragraph (1) of this subsection on terms the Secretary considers necessary to protect or advance the civil aviation interests of the United States.
+
+(b)
+
+Waivers and Inclusion of Additional Terms on Request.—On request of the Secretary of Transportation or the Secretary of a military department, a department, agency, or instrumentality of the executive branch of the United States Government or a wholly owned Government corporation may waive a term required by section 47152 of this title or add another term if the appropriate Secretary decides it is necessary to protect or advance the interests of the United States in civil aviation or for national defense.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1280.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+47153(a)
+
+49 App.:1655(c)(1).
+
+Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
+
+&nbsp;
+
+50 App.:1622c.
+
+Oct. 1, 1949, ch. 589, §4, 63 Stat. 700; Aug. 23, 1958, Pub. L. 85–726, §1402(c), 72 Stat. 807.
+
+47153(b)
+
+49 App.:1655(c)(1).
+
+&nbsp;
+
+50 App.:1622(g)(3).
+
+Oct. 3, 1944, ch. 479, 58 Stat. 765, §13(g)(3); added July 30, 1947, ch. 404, §2, 61 Stat. 680; Aug. 23, 1958, Pub. L. 85–726, §1402(c), 72 Stat. 807.
+
+In subsection (a), before clause (1), the words “Notwithstanding any other provision of law” and “further” are omitted as surplus. The word “waive” is substituted for “grant releases from” and “and to convey, quitclaim, or release any right or interest reserved to the United States by” to eliminate unnecessary words. The words “a term of a gift of an interest in property under this subchapter” are substituted for “any of the terms, conditions, reservations, and restrictions contained in . . . any such instrument of disposal” for clarity and consistency. In clause (1), the words “transferred by such instrument” are omitted as surplus. In clause (2), the text of 50 App.:1622c (last proviso) is omitted as executed. The words “protect or” are omitted as surplus.
+
+In subsection (b), the words “In making any disposition of surplus property under this subsection” are omitted as surplus. The words “Secretary of a military department” are substituted for “the Secretary of the Army, or the Secretary of the Navy” for consistency with other titles of the United States Code and to eliminate unnecessary words. The words “Secretary of the Army” are substituted for “Secretary of War” in section 13(g)(3) of the Surplus Property Act of 1944 (ch. 479, 58 Stat. 765) because of section 205(a) of the National Security Act of 1947 (ch. 343, 61 Stat. 501). The Secretary of the Air Force is included in “Secretary of a military department” because of section 207(a) and (f) of the National Security Act of 1947 (ch. 343, 61 Stat. 502, 503). The word “waive” is substituted for “omit from the instrument of disposal” to eliminate unnecessary words and for consistency in this subchapter. The words “conditions, reservations, and restrictions” are omitted as surplus.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 47151, 47152 of this title.
+

@@ -1,0 +1,22 @@
+### §21a. National mining and minerals policy; “minerals” defined; execution of policy under other authorized programs; report to Congress
+
+The Congress declares that it is the continuing policy of the Federal Government in the national interest to foster and encourage private enterprise in (1) the development of economically sound and stable domestic mining, minerals, metal and mineral reclamation industries, (2) the orderly and economic development of domestic mineral resources, reserves, and reclamation of metals and minerals to help assure satisfaction of industrial, security and environmental needs, (3) mining, mineral, and metallurgical research, including the use and recycling of scrap to promote the wise and efficient use of our natural and reclaimable mineral resources, and (4) the study and development of methods for the disposal, control, and reclamation of mineral waste products, and the reclamation of mined land, so as to lessen any adverse impact of mineral extraction and processing upon the physical environment that may result from mining or mineral activities.
+
+For the purpose of this section “minerals” shall include all minerals and mineral fuels including oil, gas, coal, oil shale and uranium.
+
+It shall be the responsibility of the Secretary of the Interior to carry out this policy when exercising his authority under such programs as may be authorized by law other than this section. For this purpose the Secretary of the Interior shall include in his annual report to the Congress a report on the state of the domestic mining, minerals, and mineral reclamation industries, including a statement of the trend in utilization and depletion of these resources, together with such recommendations for legislative programs as may be necessary to implement the policy of this section.
+
+(Pub. L. 91–631, §2, Dec. 31, 1970, 84 Stat. 1876.)
+
+#### Short Title
+
+Section 1 of Pub. L. 91–631 provided: “That this Act \[enacting this section\] may be cited as the ‘Mining and Minerals Policy Act of 1970’.”
+
+#### Cross References
+
+Control of mining operations in areas of the National Park System to minimize damage to the environment and other resources, see section 1901 et seq. of Title 16, Conservation.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1292, 1601, 1605 of this title; title 43 sections 1701, 1866.
+

@@ -1,0 +1,28 @@
+### §12507. Penalties
+
+(a) A person shall be fined under title 18, imprisoned for not more than 2 years, or both, if the person with the intent to defraud—
+
+&emsp;(1) provides false information to the Secretary of Transportation or a State issuing authority regarding the identification of a vessel under this chapter; or
+
+&emsp;(2) tampers with, removes, or falsifies the unique vessel identification number assigned to a vessel under section 12502 of this title.
+
+(b) A person is liable to the United States Government for a civil penalty of not more than $10,000 if the person—
+
+&emsp;(1) provides false information to the Secretary or a State issuing authority regarding the identification of a vessel under this chapter;
+
+&emsp;(2) violates section 12502 of this title; or
+
+&emsp;(3) fails to comply with requirements prescribed by the Secretary under section 12505 of this title.
+
+(c) A vessel involved in a violation of this chapter, or regulation under this chapter, and its equipment, may be seized by, and forfeited to, the Government.
+
+(d) If a person, not an individual, is involved in a violation of this chapter, the president or chief executive of the person also is subject to any penalty provided under this section.
+
+(Pub. L. 100–710, title I, §101(a), Nov. 23, 1988, 102 Stat. 4737.)
+
+#### Historical and Revision Notes
+
+#### <i>Revised section 12507</i>
+
+This section establishes criminal and civil penalties for certain violations of chapter 125 of title 46 (as enacted by this Act).
+

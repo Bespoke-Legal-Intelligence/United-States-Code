@@ -1,0 +1,114 @@
+### §5724a. Relocation expenses of employees transferred or reemployed
+
+(a) Under such regulations as the President may prescribe and to the extent considered necessary and appropriate, as provided therein, appropriations or other funds available to an agency for administrative expenses are available for the reimbursement of all or part of the following expenses of an employee for whom the Government pays expenses of travel and transportation under section 5724(a) of this title:
+
+&emsp;(1) Expenses of per diem allowance or the subsistence expenses of the immediate family of the employee while en route between his old and new official stations, not in excess of the maximum payment permitted under regulations which implement section 5702 of this title.
+
+&emsp;(2) Expenses of per diem allowance or subsistence of the employee and his spouse, not in excess of the maximum payment permitted under regulations which implement section 5702 of this title. Expenses of transportation to seek permanent residence quarters at a new official station when both the old and new stations are located within the United States. However, expenses under this paragraph may be allowed only for one round trip in connection with each change of station of the employee.
+
+&emsp;(3) Subsistence expenses of the employee and his immediate family for a period of 60 days while occupying temporary quarters when the new official station is located within the United States, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979). The period of residence in temporary quarters may be extended for an additional 60 days if the head of the agency concerned or his designee determines that there are compelling reasons for the continued occupancy of temporary quarters. The regulations shall prescribe daily rates and amounts for subsistence expenses per individual, not in excess of the maximum payment permitted under regulations which implement section 5702 of this title, for the location in which the temporary quarters are located.
+
+&emsp;(4)(A) Expenses of the sale of the residence (or the settlement of an unexpired lease) of the employee at the old station and purchase of a home at the new official station required to be paid by him when the old and new official stations are located within the United States, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979); and expenses, required to be paid by the employee, (i) of the sale of the residence (or the settlement of an unexpired lease) of the employee at the official station from which the employee was transferred when he was assigned to a post of duty located outside the United States, its territories or possessions, the Commonwealth of Puerto Rico, or areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979) and (ii) of the purchase of a residence at the new official station when the employee is transferred in the interest of the Government from a post of duty located outside the United States, its territories or possessions, the Commonwealth of Puerto Rico, or areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979), to an official station (other than the official station from which he was transferred when assigned to the foreign tour of duty) within the United States, its territories or possessions, the Commonwealth of Puerto Rico, or such areas and installations in the Republic of Panama. However, reimbursement for brokerage fees on the sale of the residence and other expenses under this paragraph may not exceed those customarily charged in the locality where the residence is located, and reimbursement may not be made for losses on the sale of the residence. This paragraph applies regardless of whether title to the residence or the unexpired lease is in the name of the employee alone, in the joint names of the employee and a member of his immediate family, or in the name of a member of his immediate family alone. Reimbursement of expenses prescribed under this paragraph in connection with transfers from a post of duty located outside the United States, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979), shall not be allowed for any sale or settlement of unexpired lease or purchase transaction that occurs prior to official notification that the employee's return to the United States would be to an official station other than the official station from which the employee was transferred when assigned to the foreign post of duty.
+
+&emsp;(B)(i) In connection with the sale of the residence at the old official station, reimbursement under this paragraph shall not exceed 10 percent of the sale price or $15,000, whichever is the lesser amount.
+
+&emsp;(ii) In connection with the purchase of a residence at the new official station, reimbursement under this paragraph shall not exceed 5 percent of the purchase price or $7,500, whichever is the lesser amount.
+
+&emsp;(iii) Effective October 1 of each year, the respective maximum dollar amounts applicable under clauses (i) and (ii) shall be increased by the percent change, if any, in the Consumer Price Index published for December of the preceding year over that published for December of the second preceding year, adjusted to the nearest one-tenth of 1 percent. For the purpose of this clause, “Consumer Price Index” means the Consumer Price Index for All Urban Consumers, United States City Average, Housing Component (1967G8=100), prepared by the Bureau of Labor Statistics, Department of Labor.
+
+(b) Under such regulations as the President may prescribe and to the extent considered necessary and appropriate, as provided therein, and notwithstanding other reimbursement authorized under this subchapter, an employee who is reimbursed under subsection (a) of this section or section 5724(a) of this title is entitled to—
+
+&emsp;(1) an amount not to exceed 2 weeks’ basic pay, if he has an immediate family; or
+
+&emsp;(2) an amount not to exceed 1 week's basic pay, if he does not have an immediate family.
+
+> However, the amounts may not exceed amounts determined from the maximum rate for GS–13.
+
+(c) Under such regulations as the President may prescribe, a former employee separated by reason of reduction in force or transfer of function who within 1 year after the separation is reemployed by a nontemporary appointment at adifferent geographical location from that where the separation occurred may be allowed and paid the expenses authorized by sections 5724, 5725, 5726(b), and 5727 of this title, and may receive the benefits authorized by subsections (a) and (b) of this section, in the same manner as though he had been transferred in the interest of the Government without a break in service to the location of reemployment from the location where separated.
+
+(Added Pub. L. 90–83, §1(37)(A), Sept. 11, 1967, 81 Stat. 204; amended Pub. L. 96–70, title I, §1231(d), Sept. 27, 1979, 93 Stat. 470; Pub. L. 98–151, §118(a)(5), (6), Nov. 14, 1983, 97 Stat. 977, 978; Pub. L. 99–234, title I, §105, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 100–202, §101(m) \[title VI, §628(a)(1)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 101–510, div. A, title XII, §1206(c), Nov. 5, 1990, 104 Stat. 1661.)
+
+Historical and Revision Notes
+
+<i>Section of title 5</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+5724a(a)
+
+5 App.: 73b–4a.
+
+July 21, 1966, Pub. L. 89–516, §2 “Sec. 23”, 80 Stat. 323.
+
+5724a(b)
+
+5 App.: 73b–4b.
+
+July 21, 1966, Pub. L. 89–516, §2 “Sec. 24”, 80 Stat. 324.
+
+5724a(c)
+
+5 App.: 73b–4e.
+
+July 21, 1966, Pub. L. 89–516, §2 “Sec. 27”, 80 Stat. 325.
+
+In subsection (a), the word “agency” is substituted for “department” to conform to the definition in 5 U.S.C. 5721(1). The word “employee” is substituted for “officers or employees” and “officer or employee” to conform to the definitions in 5 U.S.C. 5721(2) and 2105. The words “section 5724(a) of this title” and “section 5702 of this title” are substituted for “subsection (a) of section 1 of this Act” and “section 3 of the Travel Expense Act of 1949 (63 Stat. 166, as amended; 5 U.S.C. 836)” to reflect the codification of the cited acts in 5 U.S.C. In subsection (a)(2), the words “within the continental United States” are coextensive with and substituted for “within the continental United States, excluding Alaska” on authority of the definition of “continental United States” in 5 U.S.C. 5721(3).
+
+In subsection (b), the words “this subchapter” and “subsection (a) of this section or section 5724(a) of this title” are substituted for “this Act” and “section 1(a) or section 23 of this Act”, respectively, to reflect the codification of the act in 5 U.S.C. The word “officer” is omitted as included in “employee”. The words “in the General Schedule of the Classification Act of 1949, as amended” are omitted as unnecessary.
+
+In subsection (c), the word “officer” is omitted as included in “employee”. The words “sections 5724, 5725, 5726(b), and 5727 of this title” and “subsections (a) and (b) of this section” are substituted for “section 1 of this Act” and “sections 23 and 24 of this Act”, respectively, to reflect the codification of the act in title 5, United States Code.
+
+#### References in Text
+
+Section 3(a) of the Panama Canal Act of 1979, referred to in subsec. (a)(3), (4)(A), is classified to section 3602(a) of Title 22, Foreign Relations and Intercourse.
+
+#### Amendments
+
+1990—Subsec. (a)(2). Pub. L. 101–510 struck out “continental” before “United States” in second sentence.
+
+1987—Subsec. (a)(4)(A). Pub. L. 100–202 inserted provisions authorizing reimbursement of expenses of selling residence of employee at official station from which employee was transferred when assigned to duty outside United States, its territories or possessions, Puerto Rico, or parts of Panama, provisions authorizing reimbursement of expenses of purchasing residence at new official station in United States, its territories or possessions, Puerto Rico, or parts of Panama, and provisions disallowing reimbursement of expenses in connection with transfers from a post of duty located outside the United States, its territories or possessions, Puerto Rico, or parts of Panama, for any transaction that occurs prior to official notification that employee's return to the United States would be to official station other than official station from which employee was transferred.
+
+1986—Subsec. (a)(1). Pub. L. 99–234, §105(1), (2), substituted “allowance or” for “allowance instead of” and “maximum payment permitted under regulations which implement section 5702 of this title” for “maximum per diem rates prescribed by or under section 5702 of this title”.
+
+Subsec. (a)(2). Pub. L. 99–234, §105(1), (2), substituted “allowance or” for “allowance instead of” and “maximum payment permitted under regulations which implement section 5702 of this title” for “maximum per diem rates prescribed by or under section 5702 of this title”.
+
+Subsec. (a)(3). Pub. L. 99–234, §105(2), (3), substituted “maximum payment permitted under regulations which implement section 5702 of this title” for “maximum per diem rates prescribed by or under section 5702 of this title” and “daily rates and amounts” for “average daily rates”.
+
+1983—Subsec. (a)(3). Pub. L. 98–151, §118(a)(5)(A), in first sentence substituted “60 days” for “30 days”.
+
+Pub. L. 98–151, §118(a)(5)(B), substituted provisions authorizing extension for an additional 60 days if agency head or designee determines existence of compelling reasons for continued occupancy, for provisions authorizing extension for an additional 30 days if the employee moves to or from Alaska, Hawaii, the territories or possessions, etc., and struck out provisions relating to additional limitations on daily rates for reimbursement for subsistence expenses.
+
+Subsec. (a)(4). Pub. L. 98–151, §118(a)(6), redesignated existing provisions as subpar. (A) and added subpar. (B).
+
+1979—Subsec. (a)(3), (4). Pub. L. 96–70 substituted in pars. (3) and (4) “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone” wherever appearing.
+
+#### Effective Date of 1987 Amendment
+
+Section 101(m) \[title VI, §628(a)(2)\] of Pub. L. 100–202 provided that: “The amendments made by paragraph (2) \[probably means par. (1) which amended this section\] shall be applicable with respect to any employee transferred to or from a post of duty on or after 60 days after the date of enactment of this section \[Dec. 22, 1987\].”
+
+#### Effective Date of 1986 Amendment
+
+Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of this title.
+
+#### Effective Date of 1983 Amendment; Promulgation of Regulations
+
+Amendment by Pub. L. 98–151 and promulgation of regulations for amendments by Pub. L. 98–151 effective Nov. 14, 1983, see section 118(c) of Pub. L. 98–151, set out as a note under section 5724 of this title.
+
+#### Effective Date of 1979 Amendment
+
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
+
+#### Delegation of Functions
+
+Authority of President under this section to prescribe regulations provided for in this section, relating to (i)availability of appropriations or other funds of agencies for reimbursement of described expenses of employees for whom Government pays expenses of travel and transportation under section 5724(a) of this title, (ii) entitlement of employees to amounts related to their basic pay, and (iii) allowance, payment, and receipt of expenses and benefits to former employees who are reemployed by nontemporary appointments delegated to Administrator of General Services, see section 1(7)(a) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+
+#### Funding of Amendments by Pub. L. 98–151
+
+Amendments by Pub. L. 98–151 to be carried out be agencies by use of funds appropriated or otherwise available for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3375, 5724, 5724b of this title; title 22 section 3691; title 38 section 707; title 42 sections 290aa, 299c–4; title 50 section 403e.
+

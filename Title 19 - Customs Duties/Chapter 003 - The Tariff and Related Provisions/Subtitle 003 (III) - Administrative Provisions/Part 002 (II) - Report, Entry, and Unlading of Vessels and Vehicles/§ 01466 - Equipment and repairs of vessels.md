@@ -1,0 +1,170 @@
+### §1466. Equipment and repairs of vessels
+
+#### (a) Vessels subject to duty; penalties
+
+The equipments, or any part thereof, including boats, purchased for, or the repair parts or materials to be used, or the expenses of repairs made in a foreign country upon a vessel documented under the laws of the United States to engage in the foreign or coasting trade, or a vessel intended to be employed in such trade, shall, on the first arrival of such vessel in any port of the United States, be liable to entry and the payment of an ad valorem duty of 50 per centum on the cost thereof in such foreign country. If the owner or master willfully or knowingly neglects or fails to report, make entry, and pay duties as herein required, or if he makes any false statement in respect of such purchases or repairs without reasonable cause to believe the truth of such statements, or aids or procures the making of any false statement as to any matter material thereto without reasonable cause to believe the truth of such statement, such vessel, or a monetary amount up to the value thereof as determined by the Secretary, to be recovered from the owner, shall be subject to seizure and forfeiture. For the purposes of this section, compensation paid to members of the regular crew of such vessel in connection with the installation of any such equipments or any part thereof, or the making of repairs, in a foreign country, shall not be included in the cost of such equipment or part thereof, or of such repairs.
+
+#### (b) Notice
+
+If the appropriate customs officer has reasonable cause to believe a violation has occurred and determines that further proceedings are warranted, he shall issue to the person concerned a written notice of his intention to issue a penalty claim. Such notice shall—
+
+&emsp;(1) describe the circumstances of the alleged violation;
+
+&emsp;(2) specify all laws and regulations allegedly violated;
+
+&emsp;(3) disclose all the material facts which establish the alleged violation;
+
+&emsp;(4) state the estimated loss of lawful duties, if any, and taking into account all of the circumstances, the amount of the proposed penalty; and
+
+&emsp;(5) inform such person that he shall have a reasonable opportunity to make representations, both oral and written, as to why such penalty claim should not be issued.
+
+#### (c) Violation
+
+After considering representations, if any, made by the person concerned pursuant to the notice issued under subsection (b) of this section, the appropriate customs officer shall determine whether any violation of subsection (a) of this section, as alleged in the notice, has occurred. If such officer determines that there was no violation, he shall promptly notify, in writing, the person to whom the notice was sent. If such officer determines that there was a violation, he shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under paragraphs (1) through (4) of subsection (b) of this section.
+
+#### (d) Remission for necessary repairs
+
+If the owner or master of such vessel furnishes good and sufficient evidence that—
+
+&emsp;(1) such vessel, while in the regular course of her voyage, was compelled, by stress of weather or other casualty, to put into such foreign port and purchase such equipments, or make such repairs, to secure the safety and seaworthiness of the vessel to enable her to reach her port of destination;
+
+&emsp;(2) such equipments or parts thereof or repair parts or materials, were manufactured or produced in the United States, and the labor necessary to install such equipments or to make such repairs was performed by residents of the United States, or by members of the regular crew of such vessel; or
+
+&emsp;(3) such equipments, or parts thereof, or materials, or labor, were used as dunnage for cargo, or for the packing or shoring thereof, or in the erection of temporary bulkheads or other similar devices for the control of bulk cargo, or in the preparation (without permanent repair or alteration) of tanks for the carriage of liquid cargo;
+
+> then the Secretary of the Treasury is authorized to remit or refund such duties, and such vessel shall not be liable to forfeiture, and no license or enrollment and license, or renewal of either, shall hereafter be issued to any such vessel until the collector to whom application is made for the same shall be satisfied, from the oath of the owner or master, that all such equipments or parts thereof or materials and repairs made within the year immediately preceding such application have been duly accounted for under the provisions of this section, and the duties accruing thereon duly paid; and if such owner or master shall refuse to take such oath, or take it falsely, the vessel shall be seized and forfeited.
+
+#### (e) Exclusions for arrivals two or more years after last departure
+
+(1) In the case of any vessel referred to in subsection (a) of this section that arrives in a port of the United States two years or more after its last departure from a port in the United States, the duties imposed by this section shall apply only with respect to—
+
+&emsp;(A) fish nets and netting, and
+
+&emsp;(B) other equipments and parts thereof, repair parts and materials purchased, or repairs made, during the first six months after the last departure of such vessel from a port of the United States.
+
+(2) If such vessel is designed and used primarily for transporting passengers or property, paragraph (1) shall not apply if the vessel departed from the United States for the sole purpose of obtaining such equipments, parts, materials, or repairs.
+
+#### (f) Civil aircraft exception
+
+The duty imposed under subsection (a) of this section shall not apply to the cost of equipments, or any part thereof, purchased, of repair parts or materials used, or of repairs made in a foreign country with respect to a United States civil aircraft, within the meaning of general note 3(c)(iv) of the Harmonized Tariff Schedule of the United States.
+
+#### (g) Fish net and netting purchases and repairs
+
+The duty imposed by subsection (a) of this section shall not apply to entries on and after October 1, 1979, and before January 1, 1982, of—
+
+&emsp;(1) tuna purse seine nets and netting which are equipments or parts thereof,
+
+&emsp;(2) repair parts for such nets and netting, or materials used in repairing such nets and netting, or
+
+&emsp;(3) the expenses of repairs of such nets and netting,
+
+> for any United States documented tuna purse seine vessel of greater than 500 tons carrying capacity or any United States tuna purse seine vessel required to carry a certificate of inclusion under the general permit issued to the American Tunaboat Association pursuant to section 1374 of title 16.
+
+#### (h) Foreign repair of vessels
+
+The duty imposed by subsection (a) of this section shall not apply to—
+
+&emsp;(1) the cost of any equipment, or any part of equipment, purchased for, or the repair parts or materials to be used, or the expense of repairs made in a foreign country with respect to, LASH (Lighter Aboard Ship) barges documented under the laws of the United States and utilized as cargo containers,
+
+&emsp;(2) the cost of spare repair parts or materials (other than nets or nettings) which the owner or master of the vessel certifies are intended for use aboard a cargo vessel, documented under the laws of the United States and engaged in the foreign or coasting trade, for installation or use on such vessel, as needed, in the United States, at sea, or in a foreign country, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country, or
+
+&emsp;(3) the cost of spare parts necessarily installed before the first entry into the United States, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country.
+
+(June 17, 1930, ch. 497, title IV, §466, 46 Stat. 719; Jan. 5, 1971, Pub. L. 91–654, §1, 84 Stat. 1944; Oct. 3, 1978, Pub. L. 95–410, title II, §206, 92 Stat. 900; July 26, 1979, Pub. L. 96–39, title VI, §601(a)(3), 93 Stat. 268; Oct. 17, 1980, Pub. L. 96–467, §14(a)(3)(B), 94 Stat. 2225; Dec. 28, 1980, Pub. L. 96–609, title I, §115(a), 94 Stat. 3558; Oct. 30, 1984, Pub. L. 98–573, title II, §208, 98 Stat. 2976; Aug. 23, 1988, Pub. L. 100–418, title I, §1214(h)(4), 102 Stat. 1157; Aug. 20, 1990, Pub. L. 101–382, title III, §484E(a), 104 Stat. 709; Dec. 8, 1994, Pub. L. 103–465, title I, §112(b), 108 Stat. 4825.)
+
+#### References in Text
+
+The Harmonized Tariff Schedule of the United States, referred to in subsecs. (f) and (h)(2), (3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+
+#### Prior Provisions
+
+Provisions similar to those of subsecs. (a) and (b) of this section were contained respectively in R.S. §§3114 and 3115, as amended, which were formerly classified to sections 257 and 258 of this title prior to repeal by section 3 of Pub. L. 91–654.
+
+#### Amendments
+
+1994—Subsec. (h)(3). Pub. L. 103–465 added par. (3).
+
+1990—Subsec. (h). Pub. L. 101–382 added subsec. (h).
+
+1988—Subsec. (f). Pub. L. 100–418 substituted “general note 3(c)(iv) of the Harmonized Tariff Schedule of the United States” for “headnote 3 to schedule 6, part 6, subpart C of the Tariff Schedules of the United States”.
+
+1984—Subsec. (e). Pub. L. 98–573 designated existing provisions as par. (1), in par. (1) as so designated substituted reference to any vessel referred to in subsec. (a) for reference to any vessel designed and used primarily for purposes other than transporting passengers or property in the foreign or coasting trade, redesignated former cls. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+
+1980—Subsec. (f). Pub. L. 96–467 substituted “of equipments, or any part thereof, purchased, of repair parts or materials used, or of repairs made in a foreign country with respect to” for “of repair parts, materials, or expenses of repairs in a foreign country upon” and “schedule 6” for “Schedule 6”.
+
+Subsec. (g). Pub. L. 96–609 added subsec. (g).
+
+1979—Subsec. (f). Pub. L. 96–39 added subsec. (f).
+
+1978—Subsec. (a). Pub. L. 95–410, §206(1), incorporated seizure and forfeiture provision formerly a part of first sentence in an inserted second sentence; substituted therein “willfully or knowingly” for “willfully and knowingly” and “such vessel, or a monetary amount up to the value thereof as determined by the Secretary, to be recovered from the owner, shall be subject to seizure and forfeiture” for “such vessel, with her tackle, apparel, and furniture, shall be seized and forfeited”; and authorized the seizure and forfeiture for making false statements in respect of purchases or repairs or aiding or procuring the making of false statements.
+
+Subsecs. (b) to (e). Pub. L. 95–410, §206(2), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
+
+1971—Subsec. (c). Pub. L. 91–654 added subsec. (c).
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 116(a) of Pub. L. 103–465, set out as an Effective Date note under section 3521 of this title.
+
+#### Effective Date of 1990 Amendment
+
+Section 484E(b) of Pub. L. 101–382, as amended by Pub. L. 103–465, title I, §112(a), Dec. 8, 1994, 108 Stat. 4825, provided that: “The amendment made by this section \[amending this section\] shall apply to—
+
+&emsp;“(1) any entry made before the date of enactment of this Act \[Aug. 20, 1990\] that is not liquidated on the date of enactment of this Act,
+
+&emsp;“(2) any entry made—
+
+&emsp;&emsp;“(A) on or after the date of enactment of this Act, and
+
+&emsp;&emsp;“(B) on or before December 31, 1992, and
+
+&emsp;“(3) any entry made pursuant to section 466(h)(1) or (2) of the Tariff Act of 1930 (19 U.S.C. 1466(h)(1) or (2)),on or after the date of the entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\].”
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–573 applicable with respect to entries made in connection with arrivals of vessels on or after the 15th day after Oct. 30, 1984, with certain exceptions for vessels transporting passengers or property, see section 214(a), (c)(3) of Pub. L. 98–573, set out as a note under section 1304 of this title.
+
+#### Effective Date of 1980 Amendment
+
+Section 14(b) of Pub. L. 96–467 provided in part that: “The amendment made by paragraph (3) of subsection (a) \[amending this section\] shall apply with respect to entries made under section 466 of the Tariff Act of 1930 \[this section\] on or after January 1, 1980.”
+
+#### Effective Date of 1979 Amendment
+
+Section 601(a) of Pub. L. 96–39 provided that the amendment made by that section is effective upon a Presidential proclamation authorized to be made after Sept. 30, 1979, when the conditions under section 2503(b) of this title on acceptance of the Agreement on Trade in Civil Aircraft are fulfilled.
+
+#### Entries Made in Connection With Arrival of Vessels On or After October 1, 1979, and Before December 28, 1980
+
+Section 115(b) of Pub. L. 96–609 provided that: “Upon request therefor filed with the customs officer concerned on or before the 90th day after the date of the enactment of this Act \[Dec. 28, 1980\], the entry of any article to which section 466(a) of the Tariff Act of 1930 \[subsec. (a) of this section\] applied and—
+
+&emsp;“(1) that was made on or after October 1, 1979, and before the date of the enactment of this Act; and
+
+&emsp;“(2) with respect to which there would have been no duty if the amendment made by subsection (a) \[adding subsec. (g) of this section\] applied to such entry or withdrawal;
+
+> shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 \[section 1514 of this title\] or any other provision of law, be liquidated or reliquidated as though such entry or withdrawal had been made on the date of the enactment of this Act.”
+
+#### Entries Made in Connection With Arrivals of Vessels On or After January 5, 1971; Entries in Connection With the Arrival of Shrimp Vessels After January 1, 1969, and Before January 5, 1971
+
+Section 2 of Pub. L. 91–654 provided that:
+
+“(a) The amendment made by the first section of this Act \[amending this section\] shall apply with respect to entries made in connection with arrivals of vessels on or after the date of the enactment of this Act \[Jan. 5, 1971\].
+
+“(b) Upon request therefor filed with the customs officer concerned on or before the ninetieth day after the date of the enactment of this Act, any entry in connection with the arrival of a vessel used primarily for the catching of shrimp—
+
+&emsp;“(1) which was made after January 1, 1969, and before the date of the enactment of this Act, and
+
+&emsp;“(2) with respect to which there would have been no duty if the amendment made by the first section of this Act applied to such entry,
+
+> shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 \[section 1514 of this title\] or any other provision of law, be liquidated or reliquidated as though such entry had been made on the day after the date of the enactment of this Act.”
+
+#### Cross References
+
+Definitions with respect to vessel documentation, see section 12101 of Title 46, Shipping.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1498 of this title.
+

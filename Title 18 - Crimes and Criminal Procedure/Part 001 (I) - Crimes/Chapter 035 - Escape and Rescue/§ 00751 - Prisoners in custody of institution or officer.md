@@ -1,0 +1,50 @@
+### §751. Prisoners in custody of institution or officer
+
+(a) Whoever escapes or attempts to escape from the custody of the Attorney General or his authorized representative, or from any institution or facility in which he is confined by direction of the Attorney General, or from any custody under or by virtue of any process issued under the laws of the United States by any court, judge, or commissioner, or from the custody of an officer or employee of the United States pursuant to lawful arrest, shall, if the custody or confinement is by virtue of an arrest on a charge of felony, or conviction of any offense, be fined under this title or imprisoned not more than five years, or both; or if the custody or confinement is for extradition, or for exclusion or expulsion proceedings under the immigration laws, or by virtue of an arrest or charge of or for a misdemeanor, and prior to conviction, be fined under this title or imprisoned not more than one year, or both.
+
+(b) Whoever escapes or attempts to escape from the custody of the Attorney General or his authorized representative, or from any institution or facility in which he is confined by direction of the Attorney General, or from any custody under or by virtue of any process issued under the laws of the United States by any court, judge, or commissioner, or from the custody of an officer or employee of the United States pursuant to lawful arrest, shall, if the custody or confinement is by virtue of a lawful arrest for a violation of any law of the United States not punishable by death or life imprisonment and committed before such person's eighteenth birthday, and as to whom the Attorney General has not specifically directed the institution of criminal proceedings, or by virtue of a commitment as a juvenile delinquent under section 5034 of this title, be fined under this title or imprisoned not more than one year, or both. Nothing herein contained shall be construed to affect the discretionary authority vested in the Attorney General pursuant to section 5032 of this title.
+
+(June 25, 1948, ch. 645, 62 Stat. 734; Dec. 30, 1963, Pub. L. 88–251, §1, 77 Stat. 834; Sept. 10, 1965, Pub. L. 89–176, §3, 79 Stat. 675; Nov. 18, 1988, Pub. L. 100–690, title VII, §7055, 102 Stat. 4402; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), 108 Stat. 2147.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §§753h, 909 (May 14, 1930, ch. 274, §9, 46 Stat. 327; May 27, 1930, ch. 339, §9, 46 Stat. 390; Aug. 3, 1935, ch. 432, 49 Stat. 513).
+
+Sections 753h and 909 of title 18, U.S.C., 1940 ed., were consolidated. Section 753h is later and more comprehensive. The substance of its provisions was adopted.
+
+References to offenses as felonies or misdemeanors were omitted in view of definitive section 1 of this title. (See also reviser's notes under section 550 of this title.)
+
+Mandatory provision as to separate sentences and order of service was omitted in order to permit court to exercise discretion as to whether sentences should be concurrent or consecutive and to obviate administration problems in enforcement of section.
+
+Words “or employee” were inserted to remove ambiguity as to scope of section.
+
+Reference to “custody or confinement is for extradition” was inserted to avoid possible ambiguity.
+
+Changes were made in phraseology and arrangement.
+
+#### Amendments
+
+1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” after “any offense, be” and for “fined not more than $1,000” after “conviction, be” in subsec. (a) and substituted “fined under this title” for “fined not more than $1,000” in subsec. (b).
+
+1988—Subsec. (a). Pub. L. 100–690 inserted “, or for exclusion or expulsion proceedings under the immigration laws,” after “extradition”.
+
+1965—Pub. L. 89–176 inserted “or facility” after “institution”.
+
+1963—Pub. L. 88–251 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Change of Name
+
+United States commissioners, referred to in text, were replaced by United States magistrates pursuant to Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118. See chapter 43 (§631 et seq.) of Title 28, Judiciary and Judicial Procedure.
+
+Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28.
+
+#### Cross References
+
+Bureau of Prisons employees, power to arrest without warrant for violations of this section, see section 3050 of this title.
+
+Civil commitment and rehabilitation of narcotic addicts, penalties for escape or rescue from custody, see section 2902 of Title 28, Judiciary and Judicial Procedure.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2516, 3050, 3592 of this title; title 28 section 2902; title 42 section 3425.
+

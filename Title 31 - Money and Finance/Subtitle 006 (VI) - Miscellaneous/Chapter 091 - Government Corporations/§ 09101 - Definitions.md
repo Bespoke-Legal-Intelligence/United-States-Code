@@ -1,0 +1,154 @@
+### §9101. Definitions
+
+In this chapter—
+
+&emsp;(1) “Government corporation” means a mixed-ownership Government corporation and a wholly owned Government corporation.
+
+&emsp;(2) “mixed-ownership Government corporation” means—
+
+&emsp;&emsp;(A) Amtrak.
+
+&emsp;&emsp;(B) the Central Bank for Cooperatives.
+
+&emsp;&emsp;(C) the Federal Deposit Insurance Corporation.
+
+&emsp;&emsp;(D) the Federal Home Loan Banks.
+
+&emsp;&emsp;(E) the Federal Intermediate Credit Banks.
+
+&emsp;&emsp;(F) the Federal Land Banks.
+
+&emsp;&emsp;(G) the National Credit Union Administration Central Liquidity Facility.
+
+&emsp;&emsp;(H) the Regional Banks for Cooperatives.
+
+&emsp;&emsp;(I) the Rural Telephone Bank when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 (7 U.S.C. 950(a)).
+
+&emsp;&emsp;(J) the United States Railway Association.
+
+&emsp;&emsp;(K) the Financing Corporation.
+
+&emsp;&emsp;(L) the Resolution Trust Corporation.
+
+&emsp;&emsp;(M) the Resolution Funding Corporation.
+
+&emsp;(3) “wholly owned Government corporation” means—
+
+&emsp;&emsp;(A) the Commodity Credit Corporation.
+
+&emsp;&emsp;(B) the Community Development Financial Institutions Fund; <sup>1</sup>
+
+&emsp;&emsp;(C) the Export-Import Bank of the United States.
+
+&emsp;&emsp;(D) the Federal Crop Insurance Corporation.
+
+&emsp;&emsp;(E) Federal Prison Industries, Incorporated.
+
+&emsp;&emsp;(F) the Corporation for National and Community Service.
+
+&emsp;&emsp;(G) the Government National Mortgage Association.
+
+&emsp;&emsp;(H) the Overseas Private Investment Corporation.
+
+&emsp;&emsp;(I) the Pennsylvania Avenue Development Corporation.
+
+&emsp;&emsp;(J) the Pension Benefit Guaranty Corporation.
+
+&emsp;&emsp;(K) the Rural Telephone Bank until the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 (7 U.S.C. 950(a)).
+
+&emsp;&emsp;(L) the Saint Lawrence Seaway Development Corporation.
+
+&emsp;&emsp;(M) the Secretary of Housing and Urban Development when carrying out duties and powers related to the Federal Housing Administration Fund.
+
+&emsp;&emsp;(N) the Tennessee Valley Authority.
+
+&emsp;&emsp;(N) <sup>2</sup> the Uranium Enrichment Corporation.
+
+(Pub. L. 97–258, §§1, 2(<i>l</i>)(1), Sept. 13, 1982, 96 Stat. 1041, 1062; Pub. L. 97–452, §1(26), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 100–86, title III, §303, Aug. 10, 1987, 101 Stat. 597; Pub. L. 101–73, title III, §307(e), title V, §§501(d), 511(b)(1), Aug. 9, 1989, 103 Stat. 353, 394, 406; Pub. L. 102–486, title IX, §902(b), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–82, title II, §202(e)(1), Sept. 21, 1993, 107 Stat. 888; Pub. L. 103–272, §4(f)(1)(Z), July 5, 1994, 108 Stat. 1363; Pub. L. 103–325, title I, §104(e), Sept. 23, 1994, 108 Stat. 2168.)
+
+Historical and Revision Notes<br>1982
+
+Act
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+9101(1)
+
+(no source).
+
+9101(2)
+
+31:856.
+
+Dec. 6, 1945, ch. 557, §201, 59 Stat. 600; July 26, 1956, ch. 741, §201(a)(2), (3), 70 Stat. 667; Oct. 30, 1970, Pub. L. 91–518, §804, 84 Stat. 1340; May 7, 1971, Pub. L. 92–12, §4, 85 Stat. 37; Jan. 2, 1974, Pub. L. 93–236, §§202(g)(1), 301(f) (last sentence), 87 Stat. 992, 1005; Feb. 5, 1976, Pub. L. 94–210, §612(b), 90 Stat. 108; Aug. 20, 1978, Pub. L. 95–351, §301(a), 92 Stat. 513; Nov. 10, 1978, Pub. L. 95–630, §1805, 92 Stat. 3724; Aug. 13, 1981, Pub. L. 97–35, §396(h)(1), 95 Stat. 440.
+
+9101(3)
+
+31:846.
+
+Dec. 6, 1945, ch. 577, §101, 59 Stat. 597; Aug. 10, 1948, ch. 832, §501(b)(less proviso), 62 Stat. 1283; June 30, 1949, ch. 285, §13, 63 Stat. 356; May 13, 1954, ch. 201, §6, 68 Stat. 95; July 26, 1956, ch. 741, §201(a)(1), 70 Stat. 667; June 30, 1958, Pub. L. 85–477, §502(c), 72 Stat. 272; Oct. 4, 1961, Pub. L. 87–353, §3(u), 75 Stat. 774; May 25, 1967, Pub. L. 90–19, §4, 81 Stat. 20; Aug. 1, 1968, Pub. L. 90–448, §§807(e), 1719(d), 82 Stat. 544, 610; Dec. 30, 1969, Pub. L. 91–175, §501, 83 Stat. 825; Oct. 27, 1972, Pub. L. 92–578, §15, 86 Stat. 1274; Sept. 2, 1974, Pub. L. 93–406, §4002(g)(3), 88 Stat. 1005.
+
+Clause (1) is included because a number of the provisions of the chapter apply to mixed-ownership and wholly owned Government corporations, and the term “Government corporation” provides a simple phrase to refer to both of those kinds of corporations.
+
+In clause (2)(A), “Amtrak” is substituted for “National Railroad Passenger Corporation” to conform to section 103(1) of the Rail Passenger Service Act (45 U.S.C. 502(1)).
+
+In clause (2)(I), the words “when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 (7 U.S.C. 950(a))” are added because of 7:943(c) and 950(a).
+
+In clause (3), the words “Regional Agricultural Credit Corporations” are omitted because the corporationswere merged with and liquidated by the Regional Agricultural Credit Corporation of Washington, D.C., which was dissolved on April 16, 1949. The words “Farmers Home Corporation” are omitted because the corporation never was activated. The words “Federal Surplus Commodities Corporation” are omitted because the corporation and the Division of Marketing and Marketing Agreements were consolidated into the Surplus Marketing Administration, which was merged into the Agricultural Marketing Administration, which was dissolved on March 14, 1947. The words “Reconstruction Finance Corporation” are omitted because the corporation was abolished on June 30, 1957. The words “Defense Plant Corporation; Defense Supplies Corporation; Metals Reserve Company; Rubber Reserve Company” are omitted because the corporations and companies were dissolved on July 1, 1945. The words “War Damage Corporation” are omitted because the corporation was terminated on January 22, 1947. The words “the RFC Mortgage Company” are omitted because the company was transferred to the Reconstruction Finance Corporation, which was abolished on June 30, 1957. The words “Disaster Loan Corporation” are omitted because the corporation was dissolved on July 1, 1945. The words “Inland Waterways Corporation” are omitted because the corporation was liquidated on July 19, 1963. The words “Warrior River Terminal Company” are omitted because the company was transferred to the Inland Waterways Corporation, which was liquidated on July 13, 1963. The words “Virgin Islands Corporation” are omitted because the corporation was dissolved on July 1, 1966. The words “United States Spruce Production Corporation” are omitted because the corporation was dissolved on December 12, 1946. The words “Institute of Inter-American Affairs” are omitted because the institute was transferred to the Foreign Operations Administration, which was abolished on May 9, 1955. The words “Institute of Inter-American Transportation” are omitted because the institute was dissolved August 24, 1949. The words “Inter-American Educational Foundation, Incorporated” are omitted because the foundation was succeeded by the Institute of Inter-American Affairs, which was transferred to the Foreign Operations Administration, which was abolished on May 9, 1955. The words “Inter-American Navigation Corporation” are omitted because the corporation was dissolved on February 25, 1947. The words “Prencinradio, Incorporated” are omitted because Prencinradio, Incorporated was dissolved May 10, 1949. The words “Cargoes, Incorporated” are omitted because Cargoes, Incorporated was dissolved April 30, 1945. The words “Export-Import Bank of the United States” are substituted for “Export-Import Bank of Washington” because of section 1(a) of the Act of March 13, 1968 (Pub. L. 90–267, 82 Stat. 47). The words “Petroleum Reserves Corporation” are omitted because the corporation was transferred to the Office of Economic Warfare, which was consolidated into the Foreign Economic Administration, which was transferred to the Reconstruction Finance Corporation and changed to the War Assets Corporation. The War Assets Corporation was dissolved as soon as practicable after March 25, 1946. The words “Rubber Development Corporation” are omitted because the certificate of incorporation expired on June 30, 1947. The words “U. S. Commercial Company” are omitted because the company was liquidated after June 30, 1948. The words “Smaller War Plants Corporation” are omitted because the corporation was abolished on June 30, 1947. The words “Defense Homes Corporation” are omitted because the corporation was liquidated on June 30, 1948. The words “Home Owners’ Loan Corporation” are omitted because the corporation was dissolved on February 3, 1954. The words “United States Housing Corporation” are omitted because the corporation was terminated on September 8, 1952. The words “Panama Railroad Company” (subsequently changed to “Panama Canal Company” by section 2(a)(2) of the Act of September 26, 1950 (ch. 1049, 64 Stat. 1038)), are omitted because of 22:ch. 51. The words “Tennessee Valley Associated Cooperatives, Incorporated” are omitted because the corporation was dissolved on January 18, 1950.
+
+In clause (3)(J), the words “until the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 (7 U.S.C. 950(a))” are added because of 7:943(c) and 950(a). Clause (L) is substituted for the “Federal Housing Administration” because of section 5 of the Department of Housing and Urban Development Act (Pub. L. 89–174, 79 Stat. 669).
+
+#### 1983 Act
+
+This amends 31:9101(2) because the National Consumer Cooperative Bank is no longer a mixed-ownership Government corporation. Section 396(h)(1) and (i) of the Omnibus Budget Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 440) provided that the Bank would cease being a mixed-ownership Government corporation on the day after the Final Government Equity Redemption Date. Section 501(36) of the Act of December 23, 1981 (Pub. L. 97–101, 95 Stat. 1440), provided that the Redemption Date was December 31, 1981.
+
+#### Amendments
+
+1994—Par. (2)(K). Pub. L. 103–272 substituted “the” for “The”.
+
+Par. (3)(B) to (N). Pub. L. 103–325 added subpar. (B) and redesignated former subpars. (B) to (M) as (C) to (N), respectively.
+
+1993—Par. (3)(E). Pub. L. 103–82 added subpar. (E).
+
+1992—Par. (3)(N). Pub. L. 102–486 added subpar. (N) relating to the Uranium Enrichment Corporation.
+
+1989—Par. (2)(L). Pub. L. 101–73, §501(d), added subpar. (L).
+
+Par. (2)(M). Pub. L. 101–73, §511(b)(1), added subpar. (M).
+
+Par. (3)(E). Pub. L. 101–73, §307(e), struck out subpar. (E) relating to Federal Savings and Loan Insurance Corporation.
+
+1987—Par. (2)(K). Pub. L. 100–86 added subpar. (K).
+
+1983—Par. (2)(K). Pub. L. 97–452 struck out subpar. (K) which had already been struck out by Pub. L. 97–258. See 1982 Amendment note below.
+
+1982—Par. (2)(K). Pub. L. 97–258, §2(<i>l</i>)(1), struck out subpar. (K) relating to National Consumer Cooperative Bank.
+
+#### Effective Date of 1993 Amendment
+
+Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out as an Effective Date note under section 12651 of Title 42, The Public Health and Welfare.
+
+#### Effective Date of 1983 Amendment
+
+Amendment effective Sept. 13, 1982, see section 2(i) of Pub. L. 97–452, set out as a note under section 3331 of this title.
+
+#### Effective Date of 1982 Amendment
+
+Section 2(<i>l</i>) of Pub. L. 97–258 provided that the amendment made by that section is effective Jan. 1, 1982.
+
+#### Abolition of United States Railway Association and Transfer of Functions
+
+The United States Railway Association was abolished effective Apr. 1, 1987, with all powers, duties, rights, and obligations of Association relating to Consolidated Rail Corporation under the Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.) transferred to Secretary of Transportation on Jan. 1, 1987, and any securities of Corporation held by Association transferred to Secretary of Transportation on Oct. 21, 1986, see section 1341 of Title 45, Railroads.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1105, 1344, 1352 of this title; title 2 section 651; title 5 sections 2302, 8147; title 7 section 943; title 12 sections 1757, 2293; title 16 section 838i; title 40 section 481; title 41 section 601.
+
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “(O)”.</i>
+

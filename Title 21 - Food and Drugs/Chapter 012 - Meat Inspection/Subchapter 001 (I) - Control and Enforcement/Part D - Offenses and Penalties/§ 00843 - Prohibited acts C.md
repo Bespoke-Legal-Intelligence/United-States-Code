@@ -1,0 +1,88 @@
+### §843. Prohibited acts C
+
+#### (a) Unlawful acts
+
+It shall be unlawful for any person knowingly or intentionally—
+
+&emsp;(1) who is a registrant to distribute a controlled substance classified in schedule I or II, in the course of his legitimate business, except pursuant to an order or an order form as required by section 828 of this title;
+
+&emsp;(2) to use in the course of the manufacture, distribution, or dispensing of a controlled substance, or to use for the purpose of acquiring or obtaining a controlled substance, a registration number which is fictitious, revoked, suspended, expired, or issued to another person;
+
+&emsp;(3) to acquire or obtain possession of a controlled substance by misrepresentation, fraud, forgery, deception, or subterfuge;
+
+&emsp;(4)(A) to furnish false or fraudulent material information in, or omit any material information from, any application, report, record, or other document required to be made, kept, or filed under this subchapter or subchapter II of this chapter, or (B) to present false or fraudulent identification where the person is receiving or purchasing a listed chemical and the person is required to present identification under section 830(a) of this title;
+
+&emsp;(5) to make, distribute, or possess any punch, die, plate, stone, or other thing designed to print, imprint, or reproduce the trademark, trade name, or other identifying mark, imprint, or device of another or any likeness of any of the foregoing upon any drug or container or labeling thereof so as to render such drug a counterfeit substance;
+
+&emsp;(6) to possess any three-neck round-bottom flask, tableting machine, encapsulating machine, or gelatin capsule, or any equipment, chemical, product, or material which may be used to manufacture a controlled substance or listed chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II of this chapter;
+
+&emsp;(7) to manufacture, distribute, export, or import any three-neck round-bottom flask, tableting machine, encapsulating machine, or gelatin capsule, or any equipment, chemical, product, or material which may be used to manufacture a controlled substance or listed chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II of this chapter or, in the case of an exportation, in violation of this subchapter or subchapter II of this chapter or of the laws of the country to which it is exported;
+
+&emsp;(8) to create a chemical mixture for the purpose of evading a requirement of section 830 of this title or to receive a chemical mixture created for that purpose; or
+
+&emsp;(9) to distribute, import, or export a list I chemical without the registration required by this subchapter or subchapter II of this chapter.
+
+#### (b) Communication facility
+
+It shall be unlawful for any person knowingly or intentionally to use any communication facility in committing or in causing or facilitating the commission of any act or acts constituting a felony under any provision of this subchapter or subchapter II of this chapter. Each separate use of a communication facility shall be a separate offense under this subsection. For purposes of this subsection, the term “communication facility” means any and all public and private instrumentalities used or useful in the transmission of writing, signs, signals, pictures, or sounds of all kinds and includes mail, telephone, wire, radio, and all other means of communication.
+
+#### (c) Advertisement
+
+It shall be unlawful for any person to place in any newspaper, magazine, handbill, or other publications, any written advertisement knowing that it has the purpose of seeking or offering illegally to receive, buy, or distribute a Schedule <sup>1</sup> I controlled substance. As used in this section the term “advertisement” includes, in addition to its ordinary meaning, such advertisements as those for a catalog of Schedule <sup>1</sup> I controlled substances and any similar written advertisement that has the purpose of seeking or offering illegally to receive, buy, or distribute a Schedule <sup>1</sup> I controlled substance. The term “advertisement” does not include material which merely advocates the use of a similar material, which advocates a position or practice, and does not attempt to propose or facilitate an actual transaction in a Schedule <sup>1</sup> I controlled substance.
+
+#### (d) Penalties
+
+Any person who violates this section shall be sentenced to a term of imprisonment of not more than 4 years, a fine of not more than $30,000, or both; except that if any person commits such a violation after one or more prior convictions of him for violation of this section, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of the United States relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 8 years, a fine of not more than $60,000, or both.
+
+#### (e) Additional penalties
+
+In addition to any other applicable penalty, any person convicted of a felony violation of this section relating to the receipt, distribution, or importation of a listed chemical may be enjoined from engaging in any regulated transaction involving a listed chemical for not more than ten years.
+
+(Pub. L. 91–513, title II, §403, Oct. 27, 1970, 84 Stat. 1263; Pub. L. 95–633, title II, §202(b)(3), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 98–473, title II, §516, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 99–570, title I, §1866(a), Oct. 27, 1986, 100 Stat. 3207–54; Pub. L. 100–690, title VI, §6057, Nov. 18, 1988, 102 Stat. 4319; Pub. L. 103–200, §3(g), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title IX, §90106, Sept. 13, 1994, 108 Stat. 1988.)
+
+#### References in Text
+
+Schedules I and II, referred to in subsecs. (a)(1) and (c), are set out in section 812(c) of this title.
+
+#### Amendments
+
+1994—Subsecs. (c) to (e). Pub. L. 103–322 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+1993—Subsec. (a)(6), (7). Pub. L. 103–200, §3(g)(1), amended pars. (6) and (7) generally. Prior to amendment, pars. (6) and (7) read as follows:
+
+“(6) to possess any three-neck round-bottom flask, tableting machine, encapsulating machine, gelatin capsule, or equipment specially designed or modified to manufacture a controlled substance, with intent to manufacture a controlled substance except as authorized by this subchapter;
+
+“(7) to manufacture, distribute, or import any three-neck round-bottom flask, tableting machine, encapsulating machine, gelatin capsule, or equipment specially designed or modified to manufacture a controlled substance, knowing that it will be used to manufacture a controlled substance except as authorized by this subchapter; or”.
+
+Subsec. (a)(9). Pub. L. 103–200, §3(g)(2), (3), added par. (9).
+
+1988—Subsec. (a)(4)(B). Pub. L. 100–690, §6057(a)(1), substituted “a listed chemical” for “piperidine”.
+
+Subsec. (a)(6) to (8). Pub. L. 100–690, §6057(a)(2)–(4), added pars. (6) to (8).
+
+Subsec. (d). Pub. L. 100–690, §6057(b), added subsec. (d).
+
+1986—Subsec. (a)(2). Pub. L. 99–570 substituted a semicolon for the period at end.
+
+1984—Subsec. (a)(2). Pub. L. 98–473 added applicability to dispensing, acquiring, or obtaining a controlled substance, and applicability to an expired number.
+
+1978—Subsec. (a)(4). Pub. L. 95–633, §202(b)(3), designated existing provisions as subpar. (A) and added subpar. (B).
+
+#### Effective Date of 1993 Amendment
+
+Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17, 1993, see section 11 of Pub. L. 103–200, set out as a note under section 802 of this title.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see section 6061 of Pub. L. 100–690, set out as a note under section 802 of this title.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–633 effective Nov. 10, 1978, except as otherwise provided, see section 203(a) of Pub. L. 95–633, set out as an Effective Date note under section 830 of this title.
+
+#### Repeals
+
+Pub. L. 96–359, §8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d) of Pub. L. 95–633, which had provided for the repeal of subsec. (a)(4)(B) of this section effective Jan. 1, 1981.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+

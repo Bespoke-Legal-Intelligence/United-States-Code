@@ -1,0 +1,38 @@
+### §1517. Prohibited obligations and expenditures
+
+(a) An officer or employee of the United States Government or of the District of Columbia government may not make or authorize an expenditure or obligation exceeding—
+
+&emsp;(1) an apportionment; or
+
+&emsp;(2) the amount permitted by regulations prescribed under section 1514(a) of this title.
+
+(b) If an officer or employee of an executive agency or of the District of Columbia government violates subsection (a) of this section, the head of the executive agency or the Mayor of the District of Columbia, as the case may be, shall report immediately to the President and Congress all relevant facts and a statement of actions taken.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 932.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+1517(a)
+
+31:665(h).
+
+R.S. §3679(h), (i)(2)(related to (h)); Mar. 3, 1905, ch. 1484, §4(1st par.), 33 Stat. 1257; Feb. 27, 1906, ch. 510, §3, 34 Stat. 48; restated Sept. 6, 1950, ch. 896, §1211, 64 Stat. 768.
+
+1517(b)
+
+31:665(i)(2)(related to (h)).
+
+In subsection (a), before clause (1), the words “District of Columbia government” are added because of section 9 of the Act of June 26, 1912 (ch. 182, 37 Stat. 184). In clause (1), the word “apportionment” is substituted for “apportionment or reapportionment” because of section 1512(a)(last sentence) of the revised title.
+
+In subsection (b), the word “Mayor” is used because of Reorganization Plan No. 3 of 1967 (eff. Aug. 11, 1967, 81 Stat. 948) and sections 421, 422, and 771 of the District of Columbia Self-Government and Governmental Reorganization Act (Pub. L. 93–198, 87 Stat. 789, 818). The word “President” is substituted for “President, through the Director of the Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1518, 1519 of this title.
+

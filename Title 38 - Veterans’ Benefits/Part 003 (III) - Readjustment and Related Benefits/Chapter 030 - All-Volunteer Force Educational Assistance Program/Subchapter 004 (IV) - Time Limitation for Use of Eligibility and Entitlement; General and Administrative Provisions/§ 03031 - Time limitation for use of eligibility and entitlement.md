@@ -1,0 +1,80 @@
+### §3031. Time limitation for use of eligibility and entitlement
+
+(a) Except as provided in subsections (b) through (e), and subject to subsection (g), of this section, the period during which an individual entitled to educational assistance under this chapter may use such individual's entitlement expires at the end of the 10-year period beginning on the date of such individual's last discharge or release from active duty, except that such 10-year period shall begin—
+
+&emsp;(1) in the case of an individual who becomes entitled to such assistance under clause (A) or (B) of section 3012(a)(1) of this title, on the later of the date of such individual's last discharge or release from active duty or the date on which the four-year requirement described in clause (A)(ii) or (B)(ii), respectively, of such section 3012(a)(1) is met; and
+
+&emsp;(2) in the case of an individual who becomes entitled to such assistance under section 3011(a)(1)(B), on the later of the date of such individual's last discharge or release from active duty or January 1, 1990.
+
+(b) In the case of any eligible individual who has been prevented, as determined by the Secretary, from pursuing a program of education under this chapter within the 10-year period prescribed by subsection (a) of this section because such individual had not met the nature of discharge requirement of this chapter before the nature of such individual's discharge or release was changed by appropriate authority, such 10-year period shall not run during the period of time that such individual was so prevented from pursuing such program of education.
+
+(c) In the case of an individual eligible for educational assistance under the provisions of this chapter who, after such individual's last discharge or release from active duty, was detained by a foreign government or power, the 10-year period described in subsection (a) of this section shall not run (1) while such individual is so detained, or (2) during any period immediately following such individual's release from such detention during which such individual is hospitalized at a military, civilian, or Department of Veterans Affairs medical facility.
+
+(d) In the case of an individual eligible for educational assistance under this chapter—
+
+&emsp;(1) who was prevented from pursuing such individual's chosen program of education before the expiration of the 10-year period for use of entitlement under this chapter otherwise applicable under this section because of a physical or mental disability which was not the result of the individual's own willful misconduct, and
+
+&emsp;(2) who applies for an extension of such 10-year period within one year after (A) the last day of such period, or (B) the last day on which such individual was so prevented from pursuing such program, whichever is later,
+
+> such 10-year period shall not run with respect to such individual during the period of time that such individual was so prevented from pursuing such program and such 10-year period will again begin running on the first day following such individual's recovery from such disability on which it is reasonably feasible, as determined under regulations which the Secretary shall prescribe, for such individual to initiate or resume pursuit of a program of education with educational assistance under this chapter.
+
+(e)(1) Except as provided in paragraph (2) of this subsection, in the case of an individual described in section 3011(a)(1)(B) or 3012(a)(1)(B) of this title who is entitled to basic educational assistance under this chapter, the 10-year period prescribed in subsection (a) of this section shall be reduced by an amount of time equal to the amount of time that such individual was not serving on active duty during the period beginning on January 1, 1977, and ending on June 30, 1985.
+
+(2) In the case of an individual to which paragraph (1) of this subsection is applicable and who is described in section 3452(a)(1)(B) of this title, the 10-year period prescribed in subsection (a) of this section shall not be reduced by any period in 1977 before the individual began serving on active duty.
+
+(f)(1) If an individual eligible for educational assistance under this chapter is enrolled under this chapter in an educational institution regularly operated on the quarter or semester system and the period of such individual's entitlement under this chapter would, under section 3013, expire during a quarter or semester, such period shall be extended to the end of such quarter or semester.
+
+(2) If an individual eligible for educational assistance under this chapter is enrolled under this chapter in an educational institution not regularly operated on the quarter or semester system and the period of such individual's entitlement under this chapter would, under section 3013, expire after a major portion of the course is completed, such period shall be extended to the end of the course or for 12 weeks, whichever is the lesser period of extension.
+
+(g) For purposes of subsection (a) of this section, an individual's last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service unless the individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force as described in section 3011(a)(1)(A)(ii)(III) of this title.
+
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2560, §1431; amended Pub. L. 99–576, title III, §§307(b), 321(7), Oct. 28, 1986, 100 Stat. 3270, 3278; Pub. L. 100–689, title I, §111(a)(6), Nov. 18, 1988, 102 Stat. 4171; Pub. L. 101–237, title IV, §§420(a)(1), (b), 423(a)(4), (b)(1), Dec. 18, 1989, 103 Stat. 2087, 2088, 2091, 2092; renumbered §3031 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §302(a)(3), Oct. 29, 1992, 106 Stat. 4327.)
+
+#### Amendments
+
+1992—Subsec. (e)(1). Pub. L. 102–568 substituted “June 30, 1985” for “October 18, 1984”.
+
+1991—Pub. L. 102–83, §5(a), renumbered section 1431 of this title as this section.
+
+Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3012(a)(1)” for “1412(a)(1)” in two places in par. (1) and “3011(a)(1)(B)” for “1411(a)(1)(B)” in par. (2).
+
+Subsec. (e). Pub. L. 102–83, §5(c)(1), substituted “3011(a)(1)(B) or 3012(a)(1)(B)” for “1411(a)(1)(B) or 1412(a)(1)(B)” in par. (1) and “3452(a)(1)(B)” for “1652(a)(1)(B)” in par. (2).
+
+Subsec. (f). Pub. L. 102–83, §5(c)(1), substituted “3013” for “1413” in pars. (1) and (2).
+
+Subsec. (g). Pub. L. 102–83, §5(c)(1), substituted “3011(a)(1)(A)(ii)(III)” for “1411(a)(1)(A)(ii)(III)”.
+
+1989—Subsec. (a). Pub. L. 101–237, §420(a)(1)(B), inserted “, and subject to subsection (g),” before “of this section”.
+
+Subsec. (b). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
+
+Subsec. (c). Pub. L. 101–237, §423(b)(1)(B), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+
+Subsec. (d). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
+
+Subsec. (e). Pub. L. 101–237, §420(b), designated existing provisions as par. (1), and substituted “Except as provided in paragraph (2) of this subsection, in” for “In”, and added par. (2).
+
+Subsec. (f)(1), (2). Pub. L. 101–237, §423(a)(4), substituted “, under section 1413,” for “, under this section,”.
+
+Subsec. (g). Pub. L. 101–237, §420(a)(1)(A), added subsec. (g).
+
+1988—Subsec. (a). Pub. L. 100–689 substituted “beginning on the date of such individual's last discharge or release from active duty, except that such 10-year period shall begin—” and pars. (1) and (2) for “beginning on (1) the date of such individual's last discharge or release from active duty, or (2) the last day on which such individual becomes entitled to such assistance, whichever is later”.
+
+1986—Subsec. (a). Pub. L. 99–576, §§307(b)(1), 321(7)(A), made identical amendments, substituting “(e)” for “(d)”.
+
+Subsec. (b). Pub. L. 99–576, §321(7)(B), struck out “subchapter II or III of” after “program of education under”, substituted “requirement of this chapter” for “requirement of such subchapter”, struck out the cl. (1) designation before “the nature of such individual's discharge” and struck out “or (2) with respect to educational assistance under subchapter II of this chapter, the Administrator determined, under regulations prescribed by the Administrator, that such discharge or release was under conditions described in section 1411(a)(3) or 1412(a)(3) of this title,” after “appropriate authority,”.
+
+Subsec. (e). Pub. L. 99–576, §307(b)(3), added subsec. (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 99–576, §307(b)(2), redesignated former subsec. (e) as (f).
+
+Subsec. (f)(2). Pub. L. 99–576, §321(7)(C), which directed that subsec. (e)(2) be amended by inserting “not” after “educational institution” was executed to subsec. (f)(2) to reflect the probable intent of Congress and the intervening redesignation of subsec. (e) as (f) by section 307(b)(3) of Pub. L. 99–576.
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–568 effective Oct. 28, 1986, see section 302(b) of Pub. L. 102–568, set out as a note under section 3011 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 10 section 16133.
+

@@ -1,0 +1,22 @@
+### §578. Authority of the arbitrator
+
+An arbitrator to whom a dispute is referred under this subchapter may—
+
+&emsp;(1) regulate the course of and conduct arbitral hearings;
+
+&emsp;(2) administer oaths and affirmations;
+
+&emsp;(3) compel the attendance of witnesses and production of evidence at the hearing under the provisions of section 7 of title 9 only to the extent the agency involved is otherwise authorized by law to do so; and
+
+&emsp;(4) make awards.
+
+(Added Pub. L. 101–552, §4(b), Nov. 15, 1990, 104 Stat. 2742, §588; renumbered §578, Pub. L. 102–354, §3(b)(2), Aug. 26, 1992, 106 Stat. 944.)
+
+#### Termination of Section
+
+<i>For termination of section by section 11 of Pub. L. 101–552, see Termination Date; Savings Provision note set out under section 571 of this title.</i>
+
+#### Amendments
+
+1992—Pub. L. 102–354 renumbered section 588 of this title as this section.
+

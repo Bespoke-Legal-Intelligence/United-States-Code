@@ -1,0 +1,68 @@
+### §2239. Repealed. Pub. L. 101–640, title IV, §412(f), Nov. 28, 1990, 104 Stat. 4650
+
+Section, Pub. L. 99–662, title II, §211, Nov. 17, 1986, 100 Stat. 4106; Pub. L. 100–676, §32, Nov. 17, 1988, 102 Stat. 4030, directed Administrator of Environmental Protection Agency to designate one or more sites for disposal of dredged material as an alternative to disposal at the Mud Dump in New Jersey.
+
+#### Sediments Decontamination Technology
+
+Pub. L. 102–580, title IV, §405, Oct. 31, 1992, 106 Stat. 4863, provided that:
+
+“(a)
+
+Decontamination Project.—
+
+&emsp;“(1)
+
+Selection of technologies.—Based upon a review of decontamination technologies identified pursuant to section 412(c) of the Water Resources Development Act of 1990 \[Pub. L. 101–640, set out below\], the Administrator of the Environmental Protection Agency and the Secretary shall, within 1 year after the date of the enactment of this Act \[Oct. 31, 1992\], jointly select removal, pre-treatment, post-treatment, and decontamination technologies for contaminated marine sediments for a decontamination project in the New York/New Jersey Harbor.
+
+&emsp;“(2)
+
+Recommended program.—Upon selection of technologies, the Administrator and the Secretary shall jointly recommend a program of selected technologies to assess their effectiveness in rendering sediments acceptable for unrestricted ocean disposal or beneficial reuse, or both.
+
+“(b)
+
+Decontamination Defined.—For purposes of this section, ‘decontamination’ may include local or remote prototype or production and laboratory decontamination technologies, sediment pre-treatment and post-treatment processes, and siting, economic, or other measures necessary to develop a matrix for selection of interim prototype of long-term processes. Decontamination techniques need not be preproven in terms of likely success.
+
+“(c)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $5,000,000 for fiscal years beginning after September 30, 1992. Such sums shall remain available until expended.”
+
+#### Alternatives to Mud Dump Site for Disposal of Dredged Material
+
+Section 412 of Pub. L. 101–640 provided that:
+
+“(a)
+
+Report.—Within 90 days after the date of the enactment of this Act \[Nov. 28, 1990\], the Administrator of the Environmental Protection Agency shall submit to the Congress a final report on the feasibility of designating an alternative site to the Mud Dump Site at a distance not less than 20 miles from the shoreline.
+
+“(b)
+
+Plan.—Within 180 days after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary and the Administrator of the Environmental Protection Agency shall submit to Congress a plan for the long-term management of dredged material from the New York/New Jersey Harbor region. The plan shall include—
+
+&emsp;“(1) an identification of the source, quantities, and characteristics of material to be dredged;
+
+&emsp;“(2) a discussion of potential alternative sites for disposal of dredged material, including the feasibility of altering the boundaries of the Mud Dump Site;
+
+&emsp;“(3) measures to reduce the quantities of dredged material proposed for ocean disposal;
+
+&emsp;“(4) measures to reduce the amount of contaminants in materials proposed to be dredged from the Harbor through source controls and decontamination technology;
+
+&emsp;“(5) a program for monitoring the physical, chemical, and biological effects of dumping dredged material at the Mud Dump Site; and
+
+&emsp;“(6) a study of the characteristics of the bottom sediments, including type and distribution.
+
+“(c)
+
+Demonstration Project.—The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall implement a demonstration project for disposing on an annual basis up to 10 percent of the material dredged from the New York/New Jersey Harbor region in an environmentally sound manner other than by ocean disposal. Environmentally sound alternatives may include, among others, capping of borrow pits, construction of a containment island, application for landfill cover, habitat restoration, and use of decontamination technology.
+
+“(d)
+
+Mud Dump Site Defined.—For purposes of this section, the term ‘Mud Dump Site’ means the area located approximately 53/4 miles east of Sandy Hook, New Jersey, with boundary coordinates of 40 degrees, 23 minutes, 48 seconds North, 73 degrees, 51 minutes, 28 seconds West; 40 degrees, 21 minutes, 48 seconds North, 73 degrees, 50 minutes, 00 seconds West; 40 degrees, 21 minutes, 48 seconds North; 73 degrees, 51 minutes, 28 seconds West; and 40 degrees, 23 minutes, 48 seconds North; 73 degrees, 50 minutes, 00 seconds West.
+
+“(e)
+
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary for fiscal year 1991, $3,000,000 to implement subsection (b) and $1,000,000 to implement subsection (c), and such sums as may be necessary for fiscal year 1992.
+
+“(f)
+
+Repeal.—Section 211 of the Water Resources Development Act of 1986 (33 U.S.C. 2239) is repealed.”
+

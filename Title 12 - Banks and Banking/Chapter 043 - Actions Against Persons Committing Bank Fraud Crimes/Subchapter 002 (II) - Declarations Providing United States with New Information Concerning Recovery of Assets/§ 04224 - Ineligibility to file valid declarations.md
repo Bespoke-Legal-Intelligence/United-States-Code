@@ -1,0 +1,32 @@
+### §4224. Ineligibility to file valid declarations
+
+#### (a) In general
+
+A declaration filed pursuant to section 4221 of this title and in accordance with sections 4222 and 4223 of this title is valid unless—
+
+&emsp;(1) the declaration is filed by a current or former officer or employee of a Federal or State government agency or instrumentality who discovered or gathered the information in the declaration, in whole or in part, while acting within the course of the declarant's government employment;
+
+&emsp;(2) the declaration is filed by a person who knowingly participated in the violation of section 1517 of title 18 or any of the sections of title 18 referred to in section 4201 <sup>1</sup> of this title, or any other fraudulent conduct with respect to which the declaration is made;
+
+&emsp;(3) the declaration is filed by an institution-affiliated party (as defined in section 1813(u) of this title) who withheld information during the course of any bank examination or investigation authorized pursuant to section 1820 of this title which such party owed a fiduciary duty to disclose;
+
+&emsp;(4) the declaration is filed by a member of the immediate family of the individual whose activities are the subject of the declaration or where, in the discretion of the Attorney General, it appears the individual could benefit from the award; or
+
+&emsp;(5) the declaration identifies an asset or assets the nature, location, or possible recovery of which has been disclosed to a member of the public in a criminal, civil, or administrativeproceeding, in a congressional, administrative, or General Accounting Office report, hearing, audit or investigation, by any other government source, or by the news media, unless the person providing the declaration is the original source of the information.
+
+#### (b) “Original source” defined
+
+For the purposes of subsection (a)(5) of this section, the term “original source” means a person who has direct and independent knowledge of the information contained in the declaration and who voluntarily provided the information to the government prior to the disclosure.
+
+#### (c) Notice of invalidity
+
+If the Attorney General determines at any time that a declaration is invalid under this section, that a declaration fails to meet the requirements of section 4222 of this title, or that a declaration has been disclosed in violation of section 4223 of this title, the Attorney General shall notify the person who filed the declaration in writing that the declaration is invalid, and the declarant shall not enjoy any of the rights of the declarant listed in section 4225 or 4226 of this title.
+
+(Pub. L. 101–647, title XXV, §2579, Nov. 29, 1990, 104 Stat. 4900.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 4225, 4226 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be section “1833a(c)”.</i>
+

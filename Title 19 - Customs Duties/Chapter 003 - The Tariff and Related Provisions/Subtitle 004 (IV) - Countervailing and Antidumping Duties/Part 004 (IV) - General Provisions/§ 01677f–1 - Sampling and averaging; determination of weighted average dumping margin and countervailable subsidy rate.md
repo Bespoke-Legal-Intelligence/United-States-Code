@@ -1,0 +1,94 @@
+### §1677f–1. Sampling and averaging; determination of weighted average dumping margin and countervailable subsidy rate
+
+#### (a) In general
+
+For purposes of determining the export price (or constructed export price) under section 1677a of this title or the normal value under section 1677b of this title, and in carrying out reviews under section 1675 of this title, the administering authority may—
+
+&emsp;(1) use averaging and statistically valid samples, if there is a significant volume of sales of the subject merchandise or a significant number or types of products, and
+
+&emsp;(2) decline to take into account adjustments which are insignificant in relation to the price or value of the merchandise.
+
+#### (b) Selection of averages and samples
+
+The authority to select averages and statistically valid samples shall rest exclusively withthe administering authority. The administering authority shall, to the greatest extent possible, consult with the exporters and producers regarding the method to be used to select exporters, producers, or types of products under this section.
+
+#### (c) Determination of dumping margin
+
+#### (1) General rule
+
+&emsp;In determining weighted average dumping margins under section 1673b(d), 1673d(c), or 1675(a) of this title, the administering authority shall determine the individual weighted average dumping margin for each known exporter and producer of the subject merchandise.
+
+#### (2) Exception
+
+&emsp;If it is not practicable to make individual weighted average dumping margin determinations under paragraph (1) because of the large number of exporters or producers involved in the investigation or review, the administering authority may determine the weighted average dumping margins for a reasonable number of exporters or producers by limiting its examination to—
+
+&emsp;&emsp;(A) a sample of exporters, producers, or types of products that is statistically valid based on the information available to the administering authority at the time of selection, or
+
+&emsp;&emsp;(B) exporters and producers accounting for the largest volume of the subject merchandise from the exporting country that can be reasonably examined.
+
+#### (d) Determination of less than fair value
+
+#### (1) Investigations
+
+#### (A) In general
+
+&emsp;&emsp;In an investigation under part II of this subtitle, the administering authority shall determine whether the subject merchandise is being sold in the United States at less than fair value—
+
+&emsp;&emsp;&emsp;(i) by comparing the weighted average of the normal values to the weighted average of the export prices (and constructed export prices) for comparable merchandise, or
+
+&emsp;&emsp;&emsp;(ii) by comparing the normal values of individual transactions to the export prices (or constructed export prices) of individual transactions for comparable merchandise.
+
+#### (B) Exception
+
+&emsp;&emsp;The administering authority may determine whether the subject merchandise is being sold in the United States at less than fair value by comparing the weighted average of the normal values to the export prices (or constructed export prices) of individual transactions for comparable merchandise, if—
+
+&emsp;&emsp;&emsp;(i) there is a pattern of export prices (or constructed export prices) for comparable merchandise that differ significantly among purchasers, regions, or periods of time, and
+
+&emsp;&emsp;&emsp;(ii) the administering authority explains why such differences cannot be taken into account using a method described in paragraph (1)(A)(i) or (ii).
+
+#### (2) Reviews
+
+&emsp;In a review under section 1675 of this title, when comparing export prices (or constructed export prices) of individual transactions to the weighted average price of sales of the foreign like product, the administering authority shall limit its averaging of prices to a period not exceeding the calendar month that corresponds most closely to the calendar month of the individual export sale.
+
+#### (e) Determination of countervailable subsidy rate
+
+#### (1) General rule
+
+&emsp;In determining countervailable subsidy rates under section 1671b(d), 1671d(c), or 1675(a) of this title, the administering authority shall determine an individual countervailable subsidy rate for each known exporter or producer of the subject merchandise.
+
+#### (2) Exception
+
+&emsp;If the administering authority determines that it is not practicable to determine individual countervailable subsidy rates under paragraph (1) because of the large number of exporters or producers involved in the investigation or review, the administering authority may—
+
+&emsp;&emsp;(A) determine individual countervailable subsidy rates for a reasonable number of exporters or producers by limiting its examination to—
+
+&emsp;&emsp;&emsp;(i) a sample of exporters or producers that the administering authority determines is statistically valid based on the information available to the administering authority at the time of selection, or
+
+&emsp;&emsp;&emsp;(ii) exporters and producers accounting for the largest volume of the subject merchandise from the exporting country that the administering authority determines can be reasonably examined; or
+
+&emsp;&emsp;(B) determine a single country-wide subsidy rate to be applied to all exporters and producers.
+
+> &emsp;The individual countervailable subsidy rates determined under subparagraph (A) shall be used to determine the all-others rate under section 1671d(c)(5) of this title.
+
+(June 17, 1930, ch. 497, title VII, §777A, as added Oct. 30, 1984, Pub. L. 98–573, title VI, §620(a), 98 Stat. 3039; amended Dec. 8, 1994, Pub. L. 103–465, title II, §§229(a), 269(a), (b)(1), 108 Stat. 4889, 4916.)
+
+#### Amendments
+
+1994—Pub. L. 103–465, §269(b)(1), inserted “and countervailable subsidy rate” after “margin” in section catchline.
+
+Pub. L. 103–465, §269(a), added subsec. (e).
+
+Pub. L. 103–465, §229(a), amended section generally, substituting present provisions for provisions authorizing use of averaging or generally recognized sampling techniques for purposes of determining United States price or foreign market value and for purposes of annual reviews under section 1675 of this title, and providing for selection of samples and averages by administering authority.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+
+#### Effective Date
+
+Section applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, on or after Oct. 30, 1984, see section 626(b)(1) of Pub. L. 98–573, as amended, set out as an Effective Date of 1984 Amendment note under section 1671 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1671b, 1671d, 1677m of this title.
+

@@ -1,0 +1,6 @@
+### §4515. Use of assets on dissolution or liquidation
+
+Upon final dissolution or liquidation of the corporation, and after discharge or satisfaction of all outstanding obligations and liabilities, the remaining assets of the corporation may be distributed in accordance with the determination of the board of directors of the corporation and in compliance with the bylaws of the corporation and all Federal and State laws applicable thereto. Such distribution shall be consistent with the purposes of the corporation.
+
+(Pub. L. 88–376, §15, July 14, 1964, 78 Stat. 324.)
+

@@ -1,0 +1,52 @@
+### §1006. Entitlement to royalty payments
+
+(a)
+
+Interested Copyright Parties.—The royalty payments deposited pursuant to section 1005 shall, in accordance with the procedures specified in section 1007, be distributed to any interested copyright party—
+
+&emsp;(1) whose musical work or sound recording has been—
+
+&emsp;&emsp;(A) embodied in a digital musical recording or an analog musical recording lawfully made under this title that has been distributed, and
+
+&emsp;&emsp;(B) distributed in the form of digital musical recordings or analog musical recordings or disseminated to the public in transmissions, during the period to which such payments pertain; and
+
+&emsp;(2) who has filed a claim under section 1007.
+
+(b)
+
+Allocation of Royalty Payments to Groups.—The royalty payments shall be divided into 2 funds as follows:
+
+&emsp;(1)
+
+The sound recordings fund.—662/3 percent of the royalty payments shall be allocated to the Sound Recordings Fund. 25/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians or any successor entity) who have performed on sound recordings distributed in the United States. 13/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Television and Radio Artists (or any successor entity) to be distributed to nonfeatured vocalists (whether or not members of the American Federation <sup>1</sup> Television and Radio Artists or any successor entity) who have performed on sound recordings distributed in the United States. 40 percent of the remaining royalty payments in the Sound Recordings Fund shall be distributed to the interested copyright parties described in section 1001(7)(C), and 60 percent of such remaining royalty payments shall be distributed to the interested copyright parties described in section 1001(7)(A).
+
+&emsp;(2)
+
+The musical works fund.—
+
+&emsp;&emsp;(A) 331/3 percent of the royalty payments shall be allocated to the Musical Works Fund for distribution to interested copyright parties described in section 1001(7)(B).
+
+&emsp;&emsp;(B)(i) Music publishers shall be entitled to 50 percent of the royalty payments allocated to the Musical Works Fund.
+
+&emsp;&emsp;(ii) Writers shall be entitled to the other 50 percent of the royalty payments allocated to the Musical Works Fund.
+
+(c)
+
+Allocation of Royalty Payments Within Groups.—If all interested copyright parties within a group specified in subsection (b) do not agree on a voluntary proposal for the distribution of the royalty payments within each group, the Librarian of Congress shall convene a copyright arbitration royalty panel which shall, pursuant to the procedures specified under section 1007(c), allocate royalty payments under this section based on the extent to which, during the relevant period—
+
+&emsp;(1) for the Sound Recordings Fund, each sound recording was distributed in the form of digital musical recordings or analog musical recordings; and
+
+&emsp;(2) for the Musical Works Fund, each musical work was distributed in the form of digital musical recordings or analog musical recordings or disseminated to the public in transmissions.
+
+(Added Pub. L. 102–563, §2, Oct. 28, 1992, 106 Stat. 4242; amended Pub. L. 103–198, §6(b)(3), Dec. 17, 1993, 107 Stat. 2312.)
+
+#### Amendments
+
+1993—Subsec. (c). Pub. L. 103–198 substituted “Librarian of Congress shall convene a copyright arbitration royalty panel which” for “Copyright Royalty Tribunal” in introductory provisions.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 802, 1007 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Federation of”.</i>
+

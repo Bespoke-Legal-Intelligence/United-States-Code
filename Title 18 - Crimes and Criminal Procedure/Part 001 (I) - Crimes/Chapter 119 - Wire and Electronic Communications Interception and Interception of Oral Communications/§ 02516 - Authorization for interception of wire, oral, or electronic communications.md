@@ -1,0 +1,170 @@
+### §2516. Authorization for interception of wire, oral, or electronic communications
+
+(1) The Attorney General, Deputy Attorney General, Associate Attorney General,<sup>1</sup> or any Assistant Attorney General, any acting Assistant Attorney General, or any Deputy Assistant Attorney General or acting Deputy Assistant Attorney General in the Criminal Division specially designated by the Attorney General, may authorize an application to a Federal judge of competent jurisdiction for, and such judge may grant in conformity with section 2518 of this chapter an order authorizing or approving the interception of wire or oral communications by the Federal Bureau of Investigation, or a Federal agency having responsibility for the investigation of the offense as to which the application is made, when such interception may provide or has provided evidence of—
+
+&emsp;(a) any offense punishable by death or by imprisonment for more than one year under sections 2274 through 2277 of title 42 of the United States Code (relating to the enforcement of the Atomic Energy Act of 1954), section 2284 of title 42 of the United States Code (relating to sabotage of nuclear facilities or fuel), or under the following chapters of this title: chapter 37 (relating to espionage), chapter 105 (relating to sabotage), chapter 115 (relating to treason), chapter 102 (relating to riots), chapter 65 (relating to malicious mischief), chapter 111 (relating to destruction of vessels), or chapter 81 (relating to piracy);
+
+&emsp;(b) a violation of section 186 or section 501(c) of title 29, United States Code (dealing with restrictions on payments and loans to labor organizations), or any offense which involves murder, kidnapping, robbery, or extortion, and which is punishable under this title;
+
+&emsp;(c) any offense which is punishable under the following sections of this title: section 201 (bribery of public officials and witnesses), section 215 (relating to bribery of bank officials), section 224 (bribery in sporting contests), subsection (d), (e), (f), (g), (h), or (i) of section 844 (unlawful use of explosives), section 1032 (relating to concealment of assets), section 1084 (transmission of wagering information), section 751 (relating to escape), section 1014 (relating to loans and credit applications generally; renewals and discounts), sections 1503, 1512, and 1513 (influencing or injuring an officer, juror, or witness generally), section 1510 (obstruction of criminal investigations), section 1511 (obstruction of State or local law enforcement), section 1751 (Presidential and Presidential staff assassination, kidnapping, and assault), section 1951 (interference with commerce by threats or violence), section 1952 (interstate and foreign travel or transportation in aid of racketeering enterprises), section 1958 (relating to use of interstate commerce facilities in the commission of murder for hire), section 1959 (relating to violent crimes in aid of racketeering activity), section 1954 (offer, acceptance, or solicitation to influence operations of employee benefit plan), section 1955 (prohibition of business enterprises of gambling), section 1956 (laundering of monetary instruments), section 1957 (relating to engaging in monetary transactions in property derived from specified unlawful activity), section 659 (theft from interstate shipment), section 664 (embezzlement from pension and welfare funds), section 1343 (fraud by wire, radio, or television), section 1344 (relating to bank fraud), sections 2251 and 2252 (sexual exploitation of children), sections 2312, 2313, 2314, and 2315 (interstate transportation of stolen property), section 2321 (relating to trafficking in certain motor vehicles or motor vehicle parts), section 1203 (relating to hostage taking), section 1029 (relating to fraud and related activity in connection with access devices), section 3146 (relating to penalty for failure to appear), section 3521(b)(3) (relating to witness relocation and assistance), section 32 (relating to destruction of aircraft or aircraft facilities), section 1963 (violations with respect to racketeer influenced and corrupt organizations), section 115 (relating to threatening or retaliating against a Federal official), and section 1341 (relating to mail fraud), section 351 (violations with respect to congressional, Cabinet, or Supreme Court assassinations, kidnapping, and assault), section 831 (relating to prohibited transactions involving nuclear materials), section 33 (relating to destruction of motor vehicles or motor vehicle facilities), section 175 (relating to biological weapons), or section 1992 (relating to wrecking trains);
+
+&emsp;(d) any offense involving counterfeiting punishable under section 471, 472, or 473 of this title;
+
+&emsp;(e) any offense involving fraud connected with a case under title 11 or the manufacture, importation, receiving, concealment, buying, selling, or otherwise dealing in narcotic drugs, marihuana, or other dangerous drugs, punishable under any law of the United States;
+
+&emsp;(f) any offense including extortionate credit transactions under sections 892, 893, or 894 of this title;
+
+&emsp;(g) a violation of section 5322 of title 31, United States Code (dealing with the reporting of currency transactions);
+
+&emsp;(h) any felony violation of sections 2511 and 2512 (relating to interception and disclosure of certain communications and to certain intercepting devices) of this title;
+
+&emsp;(i) any felony violation of chapter 71 (relating to obscenity) of this title;
+
+&emsp;(j) any violation of section 60123(b) (relating to destruction of a natural gas pipeline) or 46502 (relating to aircraft piracy) of title 49;
+
+&emsp;(k) any criminal violation of section 2778 of title 22 (relating to the Arms Export Control Act);
+
+&emsp;(<i>l</i>) the location of any fugitive from justice from an offense described in this section; or <sup>2</sup>
+
+&emsp;(m) any felony violation of sections 922 and 924 of title 18, United States Code (relating to firearms);
+
+&emsp;(n) any violation of section 5861 of the Internal Revenue Code of 1986 (relating to firearms); and <sup>3</sup>
+
+&emsp;(<i>o</i>) any conspiracy to commit any offense described in any subparagraph of this paragraph.
+
+(2) The principal prosecuting attorney of any State, or the principal prosecuting attorney of any political subdivision thereof, if such attorney is authorized by a statute of that State to make application to a State court judge of competent jurisdiction for an order authorizing or approving the interception of wire, oral, or electronic communications, may apply to such judge for, and such judge may grant in conformity with section 2518 of this chapter and with the applicable State statute an order authorizing, or approving the interception of wire, oral, or electronic communications by investigative or law enforcement officers having responsibility for the investigation of the offense as to which the application is made, when such interception may provide or has provided evidence of the commission of the offense of murder, kidnapping, gambling, robbery, bribery, extortion, or dealing in narcotic drugs, marihuana or other dangerous drugs, or other crime dangerous to life, limb, or property, and punishable by imprisonment for more than one year, designated in any applicable State statute authorizing such interception, or any conspiracy to commit any of the foregoing offenses.
+
+(3) Any attorney for the Government (as such term is defined for the purposes of the Federal Rules of Criminal Procedure) may authorize an application to a Federal judge of competent jurisdiction for, and such judge may grant, in conformity with section 2518 of this title, an order authorizing or approving the interception of electronic communications by an investigative or law enforcement officer having responsibility for the investigation of the offense as to which the application is made, when such interception may provide or has provided evidence of any Federal felony.
+
+(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 216; amended Pub. L. 91–452, title VIII, §810, title IX, §902(a), title XI, §1103, Oct. 15, 1970, 84 Stat. 940, 947, 959; Pub. L. 91–644, title IV, §16, Jan. 2, 1971, 84 Stat. 1891; Pub. L. 95–598, title III, §314(h), Nov. 6, 1978, 92 Stat. 2677; Pub. L. 97–285, §§2(e), 4(e), Oct. 6, 1982, 96 Stat. 1220, 1221; Pub. L. 98–292, §8, May 21, 1984, 98 Stat. 206; Pub. L. 98–473, title II, §1203(c), Oct. 12, 1984, 98 Stat. 2152; Pub. L. 99–508, title I, §§101(c)(1)(A), 104, 105, Oct. 21, 1986, 100 Stat. 1851, 1855; Pub. L. 99–570, title I, §1365(c), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 100–690, title VI, §6461, title VII, §§7036, 7053(d), 7525, Nov. 18, 1988, 102 Stat. 4374, 4399, 4402, 4502; Pub. L. 101–298, §3(b), May 22, 1990, 104 Stat. 203; Pub. L. 101–647, title XXV, §2531, title XXXV, §3568, Nov. 29, 1990, 104 Stat. 4879, 4928; Pub. L. 103–272, §5(e)(11), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §§330011(c)(1), (q)(1), (r), 330021(1), Sept. 13, 1994, 108 Stat. 2144, 2145, 2150; Pub. L. 103–414, title II, §208, Oct. 25, 1994, 108 Stat. 4292; Pub. L. 103–429, §7(a)(4)(A), Oct. 31, 1994, 108 Stat. 4389.)
+
+#### References in Text
+
+The Atomic Energy Act of 1954, referred to in par. (1)(a), is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+
+The Arms Export Control Act, referred to in par. (1)(k), is Pub. L. 90–269, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+
+Section 5861 of the Internal Revenue Code of 1986, referred to in par. (1)(n), is classified to section 5861 of Title 26, Internal Revenue Code.
+
+The Federal Rules of Criminal Procedure, referred to in par. (3), are set out in the Appendix to this title.
+
+#### Amendments
+
+1994—Par. (1). Pub. L. 103–414 in introductory provisions inserted “or acting Deputy Assistant Attorney General” after “Deputy Assistant Attorney General”.
+
+Par. (1)(c). Pub. L. 103–322, §330021(1), substituted “kidnapping” for “kidnaping” in two places.
+
+Pub. L. 103–322, §330011(c)(1), amended directory language of Pub. L. 101–298, §3(b). See 1990 Amendment note below.
+
+Par. (1)(j). Pub. L. 103–322, §330011(r), amended directory language of Pub. L. 101–647, §2531(3). See 1990 Amendment note below.
+
+Pub. L. 103–322, §330011(q)(1), repealed Pub. L. 101–647, §3568. See 1990 Amendment note below.
+
+Pub. L. 103–272, §5(e)(11), as amended by Pub. L. 103–429, §7(a)(4)(A), which directed the substitution of “section 60123(b) (relating to destruction of a natural gas pipeline) or 46502 (relating to aircraft piracy) of title 49;” for “section 1679a(c)(2)” and all that follows, was executed by making the substitution for “section 11(c)(2) of the Natural Gas Pipeline Safety Act of 1968 (relating to destruction of a natural gas pipeline) or subsection (i) or (n) of section 902 of the Federal Aviation Act of 1958 (relating to aircraft piracy);”, to reflect the probable intent of Congress and prior amendment by Pub. L. 101–647, §2531(3), as amended. See 1990 Amendment note below.
+
+1990—Par. (1)(c). Pub. L. 101–647, §2531(1), inserted “section 215 (relating to bribery of bank officials),” before “section 224”, “section 1032 (relating to concealment of assets),” before section 1084, “section 1014 (relating to loans and credit applications generally; renewals and discounts),” before “sections 1503,” and “section 1344 (relating to bank fraud),” before “sections 2251 and 2252” and struck out “the section in chapter 65 relating to destruction of an energy facility,” after “retaliating against a Federal official),”.
+
+Pub. L. 101–298, §3(b), as amended by Pub. L. 103–322, §330011(c)(1), inserted “section 175 (relating to biological weapons),” after “section 33 (relating to destruction of motor vehicles or motor vehicle facilities),”.
+
+Par. (1)(j). Pub. L. 101–647, §3568, which directed amendment of subsec. (j) by substituting “any violation of section 11(c)(2) of the Natural Gas Pipeline Safety Act of 1968 (relating to destruction of a natural gas pipeline) or section 902(i) or (n) of the Federal Aviation Act of 1958 (relating to aircraft piracy)” for “any violation of section 1679a(c)(2) (relating to destruction of a natural gas pipeline) or subsection (i) or (n) of section 1472 (relating to aircraft piracy) of title 49, of the United States Code”, and which was probably intended as an amendment to par. (1)(j), was repealed by Pub. L. 103–322, §330011(q)(1).
+
+Pub. L. 101–647, §2531(3), as amended by Pub. L. 103–322, §330011(r), substituted “any violation of section 11(c)(2) of the Natural Gas Pipeline Safety Act of 1968 (relating to destruction of a natural gas pipeline) or subsection (i) or (n) of section 902 of the Federal Aviation Act of 1958 (relating to aircraft piracy)” for “any violation of section 1679a(c)(2) (relating to destruction of a natural gas pipeline) or subsection (i) or (n) of section 1472 (relating to aircraft piracy) of title 49, of the United States Code”.
+
+Par. (1)(m). Pub. L. 101–647, §2531(2)(A), struck out subpar. (m) relating to conspiracy which read as follows: “any conspiracy to commit any of the foregoing offenses.”
+
+Par. (1)(<i>o</i>). Pub. L. 101–647, §2531(2)(B)–(D), added subpar. (<i>o).</i>
+
+1988—Par. (1). Pub. L. 100–690, §7036(a)(1), inserted “or” after “Associate Attorney General,” in introductory provisions.
+
+Par. (1)(a). Pub. L. 100–690, §7036(c)(1), which directed the amendment of subpar. (a) by substituting “(relating to riots),” for “(relating to riots);” was executed by substituting “(relating to riots),” for “(relating to riots)” as the probable intent of Congress.
+
+Par. (1)(c). Pub. L. 100–690, §7053(d), which directed the amendment of section 2516(c) by substituting “1958” for “1952A” and “1959” for “1952B” was executed by making the substitutions in par. (1)(c) as the probable intent of Congress.
+
+Pub. L. 100–690, §7036(b), struck out “section 2252 or 2253 (sexual exploitation of children),” after “wire, radio, or television),” and substituted “section 2321” for “the second section 2320”.
+
+Pub. L. 100–690, §7036(a)(2), which directed the amendment of par. (1) by striking the comma that follows a comma was executed to subpar. (c) by striking out the second comma after “to mail fraud)”.
+
+Par. (1)(i). Pub. L. 100–690, §7525, added subpar. (i) and redesignated former subpar. (i) as (j).
+
+Par. (1)(j). Pub. L. 100–690, §7525, redesignated former subpar. (i) as (j). Former subpar. (j) redesignated (k).
+
+Pub. L. 100–690, §7036(c)(2), which directed amendment of subpar. (j) by striking “or;” was executed by striking “or” after “Export Control Act);” to reflect the probable intent of Congress.
+
+Par. (1)(k). Pub. L. 100–690, §7525, redesignated former subpar. (j) as (k). Former subpar. (k) redesignated (<i>l</i>).
+
+Pub. L. 100–690, §7036(c)(3), struck out “or” at end.
+
+Par. (1)(<i>l</i>). Pub. L. 100–690, §7525, redesignated former subpar. (k) as (<i>l</i>). Former subpar. (<i>l</i>) redesignated (m).
+
+Par. (1)(m). Pub. L. 100–690, §7525, redesignated former subpar. (<i>l</i>) relating to conspiracy as (m).
+
+Pub. L. 100–690, §6461, added subpar. (m) relating to sections 922 and 924.
+
+Par. (1)(n). Pub. L. 100–690, §6461, added subpar. (n).
+
+1986—Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
+
+Par. (1). Pub. L. 99–508, §104, substituted “any Assistant Attorney General, any acting Assistant Attorney General, or any Deputy Assistant Attorney General in the Criminal Division” for “or any Assistant Attorney General” in introductory provisions.
+
+Par. (1)(a). Pub. L. 99–508, §105(a)(5), inserted “section 2284 of title 42 of the United States Code (relating to sabotage of nuclear facilities or fuel),” struck out “or” after “(relating to treason),” and inserted “chapter 65 (relating to malicious mischief), chapter 111 (relating to destruction of vessels), or chapter 81 (relating to piracy)”.
+
+Par. (1)(c). Pub. L. 99–570, which directed the amendment of subpar. (c) by inserting “section 1956 (laundering of monetary instruments), section 1957 (relating to engaging in monetary transactions in property derived from specified unlawful activity),” after “section 1955 (prohibition of relating to business enterprises of gambling),” was executed by inserting this phrase after “section 1955 (prohibition of business enterprises of gambling),” as the probable intent of Congress.
+
+Pub. L. 99–508, §105(a)(1), inserted “section 751 (relating to escape),” “the second section 2320 (relating to trafficking in certain motor vehicles or motor vehicle parts), section 1203 (relating to hostage taking), section 1029 (relating to fraud and related activity in connection with access devices), section 3146 (relating to penalty for failure to appear), section 3521(b)(3) (relating to witness relocation and assistance), section 32 (relating to destruction of aircraft or aircraft facilities),” and “section 1952A (relating to use of interstate commerce facilities in the commission of murder for hire), section 1952B (relating to violent crimes in aid of racketeering activity),” substituted “2312, 2313, 2314,” for “2314”, inserted “, section 115 (relating to threatening or retaliating against a Federal official), the section in chapter 65 relating to destruction of an energy facility, and section 1341 (relating to mail fraud),” substituted “, section 351” for “or section 351”, and inserted “, section 831 (relating to prohibited transactions involving nuclear materials), section 33 (relating to destruction of motor vehicles or motor vehicle facilities), or section 1992 (relating to wrecking trains)”.
+
+Par. (1)(h) to (<i>l</i>). Pub. L. 99–508, §105(a)(2)–(4), added subpars. (h) to (k) and redesignated former subpar. (h) as (<i>l</i>).
+
+Par. (2). Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in two places.
+
+Par. (3). Pub. L. 99–508, §105(b), added par. (3).
+
+1984—Par. (1). Pub. L. 98–473, §1203(c)(4), which directed the amendment of the first par. of par. (1) by inserting “Deputy Attorney General, Associate Attorney General,” after “Attorney General.” was executed by making the insertion after the first reference to “Attorney General,” to reflect the probable intent of Congress.
+
+Par. (1)(c). Pub. L. 98–473, §1203(c)(2), inserted references to sections 1512 and 1513 after “1503”.
+
+Pub. L. 98–473, §1203(c)(1), inserted “section 1343 (fraud by wire, radio, or television), section 2252 or 2253 (sexual exploitation of children),” after “section 664 (embezzlement from pension and welfare funds),”.
+
+Pub. L. 98–292 inserted “sections 2251 and 2252 (sexual exploitation of children),” after “section 664 (embezzlement from pension and welfare funds),”.
+
+Par. (1)(g), (h). Pub. L. 98–473, §1203(c)(3), added par. (g) and redesignated former par. (g) as (h).
+
+1982—Par. (1)(c). Pub. L. 97–285 substituted “(Presidential and Presidential staff assassination, kidnaping, and assault)” for “(Presidential assassinations, kidnapping, and assault)” after “section 1751” and substituted “(violations with respect to congressional, Cabinet, or Supreme Court assassinations, kidnaping, and assault)” for “(violations with respect to congressional assassination, kidnapping, and assault)” after “section 351”.
+
+1978—Par. (1)(e). Pub. L. 95–598 substituted “fraud connected with a case under title 11” for “bankruptcy fraud”.
+
+1971—Par. (1)(c). Pub. L. 91–644 inserted reference to section 351 offense (violations with respect to congressional assassination, kidnaping, and assault).
+
+1970—Par. (1)(c). Pub. L. 91–452 inserted reference to sections 844(d), (e), (f), (g), (h), or (i), 1511, 1955, and 1963 of this title.
+
+#### Effective Date of 1994 Amendments
+
+Section 7(a) of Pub. L. 103–429 provided that the amendment made by section 7(a)(4)(A) of Pub. L. 103–429 is effective July 5, 1994.
+
+Section 330011(c)(1) of Pub. L. 103–322 provided that the amendment made by that section is effective as of the date on which section 3(b) of Pub. L. 101–298 took effect.
+
+Section 330011(q)(1) of Pub. L. 103–322 provided that the amendment made by that section is effective as of the date on which section 3568 of Pub. L. 101–647 took effect.
+
+Section 330011(r) of Pub. L. 103–322 provided that the amendment made by that section is effective as of the date on which section 2531(3) of Pub. L. 101–647 took effect.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by sections 101(c)(1)(A) and 105 of Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions pursuant to section 2516(2) of this title, and amendment by section 104 of Pub. L. 99–508 effective Oct. 21, 1986, see section 111 of Pub. L. 99–508, set out as a note under section 2510 of this title.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+#### Savings Provision
+
+Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§151 et seq.), chapter 96 (§1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2511, 2518 of this title; title 28 section 594.
+
+<i><sup>1</sup></i><i> See 1984 Amendment note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “or” probably should not appear.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “or”.</i>
+

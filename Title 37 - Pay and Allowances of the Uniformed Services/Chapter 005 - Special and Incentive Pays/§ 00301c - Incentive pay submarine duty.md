@@ -1,0 +1,182 @@
+### §301c. Incentive pay: submarine duty
+
+(a)(1) Subject to regulations prescribed by the President, a member of the naval service who is entitled to basic pay, and (A) holds (or is in training leading to) a submarine duty designator, (B) is in and remains in the submarine service on a career basis, and (C) meets the requirements of paragraph (3), is entitled to continuous monthly submarine duty incentive pay in the amount set forth in subsection (b).
+
+(2) Subject to regulations prescribed by the President, a member of the naval service who is entitled to basic pay but is not entitled to continuous monthly submarine duty incentive pay under paragraph (1) is entitled to submarine duty incentive pay in the amount set forth in subsection (b) for any period during which such member performs frequent an regular operational submarine duty (as defined in paragraph (5)) required by orders.
+
+(3) To be entitled to continuous monthly submarine duty incentive pay through 26 years of service (as computed under section 205 of this title, but excluding, in the case of an officer, periods as an enlisted member before initial appointment as an officer), a member must perform operational submarine duties for at least 6 of the first 12, and at least 10 of the first 18, years of his submarine service. However, if a member performs the prescribed operational submarine duties for at least 8 but less than 10 of the first 18 years of his submarine service, he is entitled to continuous monthly submarine duty incentive pay for the first 22 years of his service (as computed under section 205 of this title, but excluding, in the case of an officer, periods as an enlisted member before initial appointment as an officer).
+
+(4) If upon completion of either 12 or 18 year sof submarine service it is determined that a member has failed to perform the minimum prescribed operational submarine duty requirements during the prescribed periods of time, his entitlement to continuous monthly submarine duty incentive pay ceases. If entitlement to continuous monthly submarine duty incentive pay ceases upon completion of 12 years of submarine service, entitlement to that pay may again commence upon completion of 18 years of submarine service if the minimum operational submarine duty requirements have been met, and such pay shall continue for the period of time prescribed in accordance with this section. However, if entitlement to continuous monthly submarine duty incentive pay ceases in the case of any member at the completion of either 12 or 18 years of submarine service or 26 years of service (as computed under section 205 of this title, but excluding, in the case of an officer, periods as an enlisted member before initial appointment as an officer), such member shall be entitled to that pay in the amount set forth in subsection (b) for the performance of subsequent operational submarine duty, or for the performance of service as a member of a submarine operational command staff, if such member's duties require serving on a submarine during underway operations.
+
+(5) In this section:
+
+&emsp;(A) The term “operational submarine duty” means duty—
+
+&emsp;&emsp;(i) while attached under competent orders to a submarine, while serving as an operator or crew member of an operational submersible (including an undersea exploration or research vehicle), while undergoing training preliminary to assignment to a nuclear-powered submarine, while undergoing rehabilitation after assignment to a nuclear-powered submarine, or, in the case of a member qualified in submarines, while attached as a member of a submarine operational command staff whose duties require serving on a submarine during underway operations—
+
+&emsp;&emsp;&emsp;(I) during one calendar month: 48 hours, except that hours served underway in excess of 48 as a member of a submarine operational command staff during any of the immediately preceding five calendar months and not already used to qualify for incentive pay may be applied to satisfy the underway time requirements for the current month;
+
+&emsp;&emsp;&emsp;(II) during any two consecutive calendar months when the requirements of subclause (I) of this clause have not been met: 96 hours; or
+
+&emsp;&emsp;&emsp;(III) during any three consecutive calendar months when the requirements of subclause (II) of this clause have not been met: 144 hours;
+
+&emsp;&emsp;(ii) while receiving instruction to prepare for assignment to a submarine of advanced design, or
+
+&emsp;&emsp;(iii) while receiving instruction to prepare for a position of increased responsibility on a submarine.
+
+&emsp;(B) The term “submarine service” means the service performed, under regulations prescribed by the Secretary of the Navy, by a member, and the years of submarine service are computed beginning with the effective date of the initial order to perform submarine service.
+
+(b) A member who meets the requirements prescribed in subsection (a) is entitled to monthly submarine duty incentive pay as follows:
+
+ENLISTED MEMBERS
+
+| Pay grade | Years of service computed under section 205 |  |  |  |  |  |  |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | ---: |
+| 2 or less | Over 2 | Over 3 | Over 4 | Over 6 | Over 8 | Over 10 |  |
+| E–9 | $225 | $225 | $225 | $270 | $295 | $310 | $315 |
+| E–8 | 225 | 225 | 225 | 250 | 270 | 295 | 310 |
+| E–7 | 225 | 225 | 225 | 250 | 255 | 265 | 275 |
+| E–6 | 155 | 170 | 175 | 215 | 230 | 245 | 255 |
+| E–5 | 140 | 155 | 155 | 175 | 190 | 195 | 195 |
+| E–4 | 80 | 95 | 100 | 170 | 175 | 175 | 175 |
+| E–3 | 80 | 90 | 100 | 170 | 175 | 175 | 90 |
+| E–2 | 75 | 90 | 90 | 90 | 90 | 90 | 90 |
+| E–1 | 75 | 75 | 75 | 75 | 75 | 75 | 75 |
+|  |  |  |  |  |  |  |  |
+|  | Over | Over | Over | Over | Over | Over | Over |
+|  | 12 | 14 | 16 | 18 | 20 | 22 | 26 |
+|  |  |  |  |  |  |  |  |
+| E–9 | $330 | $345 | $355 | $355 | $355 | $355 | $355 |
+| E–8 | 315 | 330 | 330 | 345 | 345 | 345 | 345 |
+| E–7 | 295 | 310 | 310 | 310 | 310 | 310 | 310 |
+| E–6 | 265 | 265 | 265 | 265 | 265 | 265 | 265 |
+| E–5 | 195 | 195 | 195 | 195 | 195 | 195 | 195 |
+| E–4 | 175 | 175 | 175 | 175 | 175 | 175 | 175 |
+| E–3 | 90 | 90 | 90 | 90 | 90 | 90 | 90 |
+| E–2 | 90 | 90 | 90 | 90 | 90 | 90 | 90 |
+| E–1 | 75 | 75 | 75 | 75 | 75 | 75 | 75 |
+
+COMMISSIONED OFFICERS
+
+| Pay grade | Years of service computed under section 205 |  |  |  |  |  |  |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | ---: |
+| 2 or less | Over 2 | Over 3 | Over 4 | Over 6 | Over 8 | Over 10 |  |
+| O–10 | $355 | $355 | $355 | $355 | $355 | $355 | $355 |
+| O–9 | 355 | 355 | 355 | 355 | 355 | 355 | 355 |
+| O–8 | 355 | 355 | 355 | 355 | 355 | 355 | 355 |
+| O–7 | 355 | 355 | 355 | 355 | 355 | 355 | 355 |
+| O–6 | 595 | 595 | 595 | 595 | 595 | 595 | 595 |
+| O–5 | 595 | 595 | 595 | 595 | 595 | 595 | 595 |
+| O–4 | 365 | 365 | 365 | 405 | 595 | 595 | 595 |
+| O–3 | 355 | 355 | 355 | 390 | 595 | 595 | 595 |
+| O–2 | 235 | 235 | 235 | 235 | 235 | 235 | 355 |
+| O–1 | 175 | 175 | 175 | 175 | 175 | 175 | 355 |
+|  |  |  |  |  |  |  |  |
+|  | Over | Over | Over | Over | Over | Over | Over |
+|  | 12 | 14 | 16 | 18 | 20 | 22 | 26 |
+|  |  |  |  |  |  |  |  |
+| O–10 | $355 | $355 | $355 | $355 | $355 | $355 | $355 |
+| O–9 | 355 | 355 | 355 | 355 | 355 | 355 | 355 |
+| O–8 | 355 | 355 | 355 | 355 | 355 | 355 | 355 |
+| O–7 | 355 | 355 | 540 | 535 | 535 | 410 | 355 |
+| O–6 | 595 | 595 | 595 | 595 | 595 | 595 | 595 |
+| O–5 | 595 | 595 | 595 | 595 | 595 | 595 | 595 |
+| O–4 | 595 | 595 | 595 | 595 | 595 | 595 | 595 |
+| O–3 | 595 | 595 | 595 | 595 | 595 | 595 | 595 |
+| O–2 | 355 | 355 | 355 | 355 | 355 | 355 | 355 |
+| O–1 | 355 | 355 | 355 | 355 | 355 | 355 | 355 |
+
+WARRANT OFFICERS
+
+| Pay grade | Years of service computed under section 205 |  |  |  |  |  |  |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | ---: |
+| 2 or less | Over 2 | Over 3 | Over 4 | Over 6 | Over 8 | Over 10 |  |
+| W–5 | $235 | $310 | $310 | $355 | $355 | $355 | $355 |
+| W–4 | 235 | 310 | 310 | 355 | 355 | 355 | 355 |
+| W–3 | 235 | 310 | 310 | 355 | 355 | 355 | 355 |
+| W–2 | 235 | 310 | 310 | 355 | 355 | 355 | 355 |
+| W–1 | 235 | 310 | 310 | 355 | 355 | 355 | 355 |
+|  |  |  |  |  |  |  |  |
+|  | Over | Over | Over | Over | Over | Over | Over |
+|  | 12 | 14 | 16 | 18 | 20 | 22 | 26 |
+|  |  |  |  |  |  |  |  |
+| W–5 | $355 | $355 | $355 | $355 | $355 | $355 | $355 |
+| W–4 | 355 | 355 | 355 | 355 | 355 | 355 | 355 |
+| W–3 | 355 | 355 | 355 | 355 | 355 | 355 | 355 |
+| W–2 | 355 | 355 | 355 | 355 | 355 | 355 | 355 |
+| W–1 | 355 | 355 | 355 | 355 | 355 | 355 | 355 |
+
+(c)(1) An officer who fails of selection for assignment as an executive officer or commanding officer of a submarine or who declines to serve in either such position may not be paid submarine duty incentive pay except for periods during which the officer is serving on a submarine during underway operations.
+
+(2) An enlisted member may not be paid continuous submarine duty incentive pay while serving ashore between submarine sea duty assignments unless the member has a sufficient period of enlistment (including any extension of an enlistment) remaining to be reassigned to submarine sea duty.
+
+(d) Under regulations prescribed by the President and to the extent provided for by appropriations, when a member of the Naval Reserve who is entitled to compensation under section 206 of this title, performs, under orders, duty on a submarine during underway operations, he is eligible for an increase in such compensation equal to one-thirtieth of the monthly incentive pay authorized by subsection (b) for the performance of that duty by a member of a corresponding grade and years of service who is entitled to basic pay. Such a member is eligible for the increase for each day served, for as long as he is qualified for it, during each regular period of appropriate duty.
+
+(Added Pub. L. 96–579, §3(d), Dec. 23, 1980, 94 Stat. 3360; amended Pub. L. 97–39, title VII, §701(a), (b), Aug. 14, 1981, 95 Stat. 942; Pub. L. 97–60, title I, §114, Oct. 14, 1981, 95 Stat. 995; Pub.L. 99–145, title VI, §633(a), Nov. 8, 1985, 99 Stat. 646; Pub. L. 100–26, §8(e)(4), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–180, div. A, title VI, §623(a), (b), Dec. 4, 1987, 101 Stat. 1101; Pub. L. 100–224, §5(a)(2), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(1), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–510, div. A, title XIII, §1322(c)(1), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, §1111(d)(2), Dec. 5, 1991, 105 Stat. 1492.)
+
+#### Amendments
+
+1991—Pub. L. 102–25 struck out “of this section” and “of this subsection” wherever appearing in subsecs. (a) and (d).
+
+Subsec. (b). Pub. L. 102–190, in table pertaining to warrant officers, added provisions relating to pay grade W–5 in two places.
+
+1990—Subsec. (e). Pub. L. 101–510 struck out subsec. (e) which read as follows: “The Secretary of Defense shall report to the Congress before January 1 each year—
+
+&emsp;“(1) the number of enlisted members and officers, by pay grade, who, during the preceding fiscal year, had at least 12 but less than 18 years of submarine service and who were entitled to continuous monthly submarine duty incentive pay under subsection (a) of this section; and
+
+&emsp;“(2) the number of enlisted members and officers, by pay grade, who, during such fiscal year, had at least 18 years of submarine service and who were entitled to such incentive pay.
+
+> The Secretary shall include in each such report the number of enlisted members and the number of officers in each category referred to in the first sentence of this subsection, the number of such officers who, during the fiscal year concerned, were performing operational submarine duties, who were performing submarine command staff duties, and who were not performing submarine duties at all.”
+
+1988—Subsec. (a). Pub. L. 100–456 made clarifying amendment to directory language of Pub. L. 100–180, §623(a). See 1987 Amendment note below.
+
+1987—Subsec. (a)(1), (2). Pub. L. 100–180, §623(a), as amended by Pub. L. 100–456, substituted “naval service” for “Navy”.
+
+Subsec. (a)(5). Pub. L. 100–26 substituted “In this section:” for “For the purposes of this section, the term—”, inserted “The term” at beginning of subpars. (A) and (B), and substituted “operational” for “Operational” and “submarine” for “Submarine” in subpars. (A) and (B), respectively.
+
+Subsec. (b). Pub. L. 100–224 struck out, preceding table for enlisted members, “(b) The monthly rates for special pay under subsection (a) are as follows:” which had inadvertently been inserted as a second subsec. (b) by Pub. L. 100–180, §623(b).
+
+Pub. L. 100–180, §623(b), amended tables generally so as to reflect an upward adjustment in monthly incentive pay rates for enlisted members, commissioned officers, and warrant officers of all pay grades and years of service encompassed by tables.
+
+1985—Subsec. (b). Pub. L. 99–145 amended table pertaining to commissioned officers generally, so as to reflect an upward adjustment in monthly incentive pay rates for persons in pay grades O–6 through O–3 having over 18, over 20, over 22, and over 26 years of service, respectively.
+
+1981—Subsec. (a)(1). Pub. L. 97–39, §701(a), substituted provisions set forth as cls. (A) to (C) respecting conditions for continuous monthly submarine duty incentive pay for provisions relating to payment of incentive pay for the frequent and regular performance of operational submarine duty required by orders.
+
+Subsec. (a)(2). Pub. L. 97–39, §701(a), substituted provisions relating to payment of submarine duty incentive pay for provisions relating to restrictions on payment of submarine duty incentive pay.
+
+Subsec. (a)(3), (4). Pub. L. 97–60 inserted “, but excluding, in the case of an officer, periods as an enlisted member before initial appointment as an officer” after “(as computed under section 205 of this title” in three places.
+
+Subsec. (a)(5)(A)(i). Pub. L. 97–39, §701(b), inserted provisions relating to service as an operator or crew member of an operational submersible.
+
+#### Effective Date of 1991 Amendment
+
+Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as a note under section 521 of Title 10, Armed Forces.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–456 applicable as if included in enactment of Pub. L. 100–180, see section 1233(<i>l</i>)(5) of Pub. L. 100–456, set out as a note under section 2366 of Title 10, Armed Forces.
+
+#### Effective Date of 1987 Amendment
+
+Section 623(c) of Pub. L. 100–180 provided that:
+
+“(1) Subject to paragraph (2), the amendments made by this section \[amending this section\] shall take effect on the first day of the first month beginning after the date of the enactment of this Act \[Dec. 4, 1987\] and shall apply only with respect to duty performed on or after that date.
+
+“(2) The amendments made by this section shall take effect only if legislation as described in section 3(c) is enacted \[section 3(c) of Pub. L. 100–180, which is not classified to the Code\].”
+
+#### Effective Date of 1985 Amendment
+
+Section 633(b) of Pub. L. 99–145 provided that: “The amendment made by this section \[amending this section\] shall take effect on October 1, 1985.”
+
+#### Effective Date of 1981 Amendment
+
+Section 701(c) of Pub. L. 97–39 provided that: “The amendments made by this section \[amending this section\] shall take effect as of January 1, 1981.”
+
+#### Effective Date
+
+Section 3(g) of Pub. L. 96–579 provided: “The amendments made by this subsection \[probably means section 3 of Pub. L. 96–579, which enacted this section and amended sections 301 and 308 of this title\] shall become effective on the first day of the first month following the month in which this Act is enacted \[December, 1980\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 308 of this title.
+

@@ -1,0 +1,100 @@
+### §1213. Provisions relating to disclosures of violations of law, gross mismanagement, and certain other matters
+
+(a) This section applies with respect to—
+
+&emsp;(1) any disclosure of information by an employee, former employee, or applicant for employment which the employee, former employee, or applicant reasonably believes evidences—
+
+&emsp;&emsp;(A) a violation of any law, rule, or regulation; or
+
+&emsp;&emsp;(B) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
+
+> &emsp;if such disclosure is not specifically prohibited by law and if such information is not specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs; and
+
+&emsp;(2) any disclosure by an employee, former employee, or applicant for employment to the Special Counsel or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures of information which the employee, former employee, or applicant reasonably believes evidences—
+
+&emsp;&emsp;(A) a violation of any law, rule, or regulation; or
+
+&emsp;&emsp;(B) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
+
+(b) Whenever the Special Counsel receives information of a type described in subsection (a) of this section, the Special Counsel shall review such information and, within 15 days after receiving the information, determine whether there is a substantial likelihood that the information discloses a violation of any law, rule, or regulation, or gross mismanagement, gross waste of funds, abuse of authority, or substantial and specific danger to public health and safety.
+
+(c)(1) Subject to paragraph (2), if the Special Counsel makes a positive determination under subsection (b) of this section, the Special Counsel shall promptly transmit the information with respect to which the determination was made to the appropriate agency head and require that the agency head—
+
+&emsp;(A) conduct an investigation with respect to the information and any related matters transmitted by the Special Counsel to the agency head; and
+
+&emsp;(B) submit a written report setting forth the findings of the agency head within 60 days after the date on which the information is transmitted to the agency head or within any longer period of time agreed to in writing by the Special Counsel.
+
+(2) The Special Counsel may require an agency head to conduct an investigation and submit a written report under paragraph (1) only if the information was transmitted to the Special Counsel by—
+
+&emsp;(A) an employee, former employee, or applicant for employment in the agency which the information concerns; or
+
+&emsp;(B) an employee who obtained the information in connection with the performance of the employee's duties and responsibilities.
+
+(d) Any report required under subsection (c) shall be reviewed and signed by the head of the agency and shall include—
+
+&emsp;(1) a summary of the information with respect to which the investigation was initiated;
+
+&emsp;(2) a description of the conduct of the investigation;
+
+&emsp;(3) a summary of any evidence obtained from the investigation;
+
+&emsp;(4) a listing of any violation or apparent violation of any law, rule, or regulation; and
+
+&emsp;(5) a description of any action taken or planned as a result of the investigation, such as—
+
+&emsp;&emsp;(A) changes in agency rules, regulations, or practices;
+
+&emsp;&emsp;(B) the restoration of any aggrieved employee;
+
+&emsp;&emsp;(C) disciplinary action against any employee; and
+
+&emsp;&emsp;(D) referral to the Attorney General of any evidence of a criminal violation.
+
+(e)(1) Any such report shall be submitted to the Special Counsel, and the Special Counselshall transmit a copy to the complainant, except as provided under subsection (f) of this section. The complainant may submit comments to the Special Counsel on the agency report within 15 days of having received a copy of the report.
+
+(2) Upon receipt of any report of the head of an agency required under subsection (c) of this section, the Special Counsel shall review the report and determine whether—
+
+&emsp;(A) the findings of the head of the agency appear reasonable; and
+
+&emsp;(B) the report of the agency under subsection (c)(1) of this section contains the information required under subsection (d) of this section.
+
+(3) The Special Counsel shall transmit any agency report received pursuant to subsection (c) of this section, any comments provided by the complainant pursuant to subsection (e)(1), and any appropriate comments or recommendations by the Special Counsel to the President, the congressional committees with jurisdiction over the agency which the disclosure involves, and the Comptroller General.
+
+(4) Whenever the Special Counsel does not receive the report of the agency within the time prescribed in subsection (c)(2) of this section, the Special Counsel shall transmit a copy of the information which was transmitted to the agency head to the President, the congressional committees with jurisdiction over the agency which the disclosure involves, and the Comptroller General together with a statement noting the failure of the head of the agency to file the required report.
+
+(f) In any case in which evidence of a criminal violation obtained by an agency in an investigation under subsection (c) of this section is referred to the Attorney General—
+
+&emsp;(1) the report shall not be transmitted to the complainant; and
+
+&emsp;(2) the agency shall notify the Office of Personnel Management and the Office of Management and Budget of the referral.
+
+(g)(1) If the Special Counsel receives information of a type described in subsection (a) from an individual other than an individual described in subparagraph (A) or (B) of subsection (c)(2), the Special Counsel may transmit the information to the head of the agency which the information concerns. The head of such agency shall, within a reasonable time after the information is transmitted, inform the Special Counsel in writing of what action has been or is being taken and when such action shall be completed. The Special Counsel shall inform the individual of the report of the agency head. If the Special Counsel does not transmit the information to the head of the agency, the Special Counsel shall return any documents and other matter provided by the individual who made the disclosure.
+
+(2) If the Special Counsel receives information of a type described in subsection (a) from an individual described in subparagraph (A) or (B) of subsection (c)(2), but does not make a positive determination under subsection (b), the Special Counsel may transmit the information to the head of the agency which the information concerns, except that the information may not be transmitted to the head of the agency without the consent of the individual. The head of such agency shall, within a reasonable time after the information is transmitted, inform the Special Counsel in writing of what action has been or is being taken and when such action will be completed. The Special Counsel shall inform the individual of the report of the agency head.
+
+(3) If the Special Counsel does not transmit the information to the head of the agency under paragraph (2), the Special Counsel shall—
+
+&emsp;(A) return any documents and other matter provided by the individual who made the disclosure; and
+
+&emsp;(B) inform the individual of—
+
+&emsp;&emsp;(i) the reasons why the disclosure may not be further acted on under this chapter; and
+
+&emsp;&emsp;(ii) other offices available for receiving disclosures, should the individual wish to pursue the matter further.
+
+(h) The identity of any individual who makes a disclosure described in subsection (a) may not be disclosed by the Special Counsel without such individual's consent unless the Special Counsel determines that the disclosure of the individual's identity is necessary because of an imminent danger to public health or safety or imminent violation of any criminal law.
+
+(i) Except as specifically authorized under this section, the provisions of this section shall not be considered to authorize disclosure of any information by any agency or any person which is—
+
+&emsp;(1) specifically prohibited from disclosure by any other provision of law; or
+
+&emsp;(2) specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs.
+
+(j) With respect to any disclosure of information described in subsection (a) which involves foreign intelligence or counterintelligence information, if the disclosure is specifically prohibited by law or by Executive order, the Special Counsel shall transmit such information to the National Security Advisor, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate.
+
+(Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 21.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1212, 1219, 2105 of this title.
+

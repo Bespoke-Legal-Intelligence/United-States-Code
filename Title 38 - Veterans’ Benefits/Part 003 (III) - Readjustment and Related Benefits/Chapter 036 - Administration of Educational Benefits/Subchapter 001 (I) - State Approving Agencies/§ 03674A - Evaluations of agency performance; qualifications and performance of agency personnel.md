@@ -1,0 +1,56 @@
+### §3674A. Evaluations of agency performance; qualifications and performance of agency personnel
+
+(a) The Secretary shall—
+
+&emsp;(1)(A) conduct, in conjunction with State approving agencies, an annual evaluation of each State approving agency on the basis of standards developed by the Secretary in conjunction with the State approving agencies, and (B) provide each such agency an opportunity to comment on the evaluation;
+
+&emsp;(2) take into account the results of annual evaluations carried out under clause (1) when negotiating the terms and conditions of a contract or agreement under section 3674 of this title;
+
+&emsp;(3) cooperate with State approving agencies in developing and implementing a uniform national curriculum, to the extent practicable, for training new employees and for continuing the training of employees of such agencies, and sponsor, with the agencies, such training and continuation of training; and
+
+&emsp;(4) prescribe prototype qualification and performance standards, developed in conjunction with State approving agencies, for use by such agencies in the development of qualification and performance standards for State approving agency personnel carrying out approval responsibilities under a contract or agreement entered into under section 3674(a).
+
+(b)(1) Each State approving agency carrying out a contract or agreement with the Secretary under section 3674(a) of this title after the 18-month period beginning on the date of the enactment of this section shall—
+
+&emsp;(A) apply qualification and performance standards based on the standards developed under subsection (a)(4); and
+
+&emsp;(B) make available to any person, upon request, the criteria used to carry out its functions under a contract or agreement entered into under section 3674(a) of this title.
+
+(2) In developing and applying standards described in subsection (a)(4), the State approving agency may take into consideration the State's merit system requirements and other local requirements and conditions.
+
+(3) The Secretary shall provide assistance in developing such standards to a State approving agency that requests it.
+
+(Added Pub. L. 100–323, §13(b)(1)(A), May 20, 1988, 102 Stat. 572, §1774A; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3674A and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §606(c), Nov. 2, 1994, 108 Stat. 4672.)
+
+#### References in Text
+
+The date of the enactment of this section, referred to in subsec. (b)(1), is the date of enactment of Pub. L. 100–323, which was approved May 20, 1988.
+
+#### Amendments
+
+1994—Subsec. (a)(3) to (5). Pub. L. 103–446, §606(c)(1), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “supervise functionally the provision of course-approval services by State approving agencies under this subchapter;”.
+
+Subsec. (b). Pub. L. 103–446, §606(c)(2)(A), substituted “subsection (a)(4)” for “subsection (a)(5) of this section” in pars. (1)(A) and (2).
+
+Subsec. (b)(1). Pub. L. 103–446, §606(c)(2)(B), inserted “of this title” after “section 3674(a)” in introductory provisions and subpar. (B).
+
+1991—Pub. L. 102–83, §5(a), renumbered section 1774A of this title as this section.
+
+Subsec. (a)(2), (5). Pub. L. 102–83, §5(c)(1), substituted “3674” for “1774” in par. (2) and “3674(a)” for “1774(a)” in par. (5).
+
+Subsec. (b)(1). Pub. L. 102–83, §5(c)(1), substituted “3674(a)” for “1774(a)” in introductory provisions and in subpar. (B).
+
+1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+
+#### Implementation
+
+Section 13(b)(2) of Pub. L. 100–323 directed Administrator, for purposes of implementing amendments by section 13(b)(1) of Pub. L. 100–323, and within 120 days after May 20, 1988, to publish prototype standards developed under subsec. (a)(5) of this section, directed each State approving agency, within 1 year after Administrator published the standards, to submit to Administrator a copy of the standards to be implemented by such agency under subsec. (b)(1)(A) of this section, and provided that Administrator could comment on consistency of the State's standards and prototype standards.
+
+#### Applicability of Qualification Standards to Persons Employed on May 20, 1988
+
+Section 13(b)(3) of Pub. L. 100–323 provided that: “None of the qualification standards implemented pursuant to the amendments made by paragraph (1) \[enacting this section\] shall apply to any person employed by a State approving agency on the date of the enactment of this Act \[May 20, 1988\] as long as such person remains in the position in which the person is employed on such date.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3674, 3682 of this title.
+

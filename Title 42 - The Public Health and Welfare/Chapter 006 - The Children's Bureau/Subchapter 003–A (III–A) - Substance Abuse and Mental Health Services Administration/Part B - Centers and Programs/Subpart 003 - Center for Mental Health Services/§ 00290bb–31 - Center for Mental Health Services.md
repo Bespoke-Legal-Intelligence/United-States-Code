@@ -1,0 +1,68 @@
+### §290bb–31. Center for Mental Health Services
+
+#### (a) Establishment
+
+There is established in the Administration a Center for Mental Health Services (hereafter in this section referred to as the “Center”). The Center shall be headed by a Director (hereafter in this section referred to as the “Director”) appointed by the Secretary from among individuals with extensive experience or academic qualifications in the provision of mental health services or in the evaluation of mental health service systems.
+
+#### (b) Duties
+
+The Director of the Center shall—
+
+&emsp;(1) design national goals and establish national priorities for—
+
+&emsp;&emsp;(A) the prevention of mental illness; and
+
+&emsp;&emsp;(B) the promotion of mental health;
+
+&emsp;(2) encourage and assist local entities and State agencies to achieve the goals and priorities described in paragraph (1);
+
+&emsp;(3) develop and coordinate Federal prevention policies and programs and to assure increased focus on the prevention of mental illness and the promotion of mental health;
+
+&emsp;(4) develop improved methods of treating individuals with mental health problems and improved methods of assisting the families of such individuals;
+
+&emsp;(5) administer the mental health services block grant program authorized in section 300x of this title;
+
+&emsp;(6) promote policies and programs at Federal, State, and local levels and in the private sector that foster independence and protect the legal rights of persons with mental illness, including carrying out the provisions of the Protection and Advocacy of Mentally Ill Individuals Act \[42 U.S.C. 10801 et seq.\];
+
+&emsp;(7) carry out the programs authorized under sections 290bb–32 and 290cc–21 of this title, including the Community Support Program and the Child and Adolescent Service System Programs;
+
+&emsp;(8) carry out responsibilities for the Human Resource Development program, and programs of clinical training for professional and paraprofessional personnel pursuant to section 242a of this title;
+
+&emsp;(9) conduct services-related assessments, including evaluations of the organization and financing of care, self-help and consumer-run programs, mental health economics, mental health service systems, rural mental health, and improve the capacity of State to conduct evaluations of publicly funded mental health programs;
+
+&emsp;(10) establish a clearinghouse for mental health information to assure the widespread dissemination of such information to States, political subdivisions, educational agencies and institutions, treatment and prevention service providers, and the general public, including information concerning the practical application of research supported by the National Institute of Mental Health that is applicable to improving the delivery of services;
+
+&emsp;(11) provide technical assistance to public and private entities that are providers of mental health services;
+
+&emsp;(12) monitor and enforce obligations incurred by community mental health centers pursuant to the Community Mental Health Centers Act (as in effect prior to the repeal of such Act on August 13, 1981, by section 902(e)(2)(B) of Public Law 97–35 (95 Stat. 560));
+
+&emsp;(13) conduct surveys with respect to mental health, such as the National Reporting Program; and
+
+&emsp;(14) assist States in improving their mental health data collection.
+
+#### (c) Grants and contracts
+
+In carrying out the duties established in subsection (b) of this section, the Director may make grants to and enter into contracts and cooperative agreements with public and nonprofit private entities.
+
+(July 1, 1944, ch. 373, title V, §520, as added July 10, 1992, Pub. L. 102–321, title I, §115(a), 106 Stat. 346.)
+
+#### References in Text
+
+The Protection and Advocacy of Mentally Ill Individuals Act, referred to in subsec. (b)(6), probably means the Protection and Advocacy for Mentally Ill Individuals Act of 1986, which is Pub. L. 99–319, May 23, 1986, 100 Stat. 478, which is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
+
+The Community Mental Health Centers Act, referred to in subsec. (b)(12), is title II of Pub. L. 88–164, as added by Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 309, and amended, which was classified principally to subchapter III (§2689 et seq.) of chapter 33 of this title prior to its repeal by Pub. L. 97–35, title IX, §902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560.
+
+#### Prior Provisions
+
+A prior section 520 of act July 1, 1944, which was classified to section 290cc–13 of this title, was renumbered section 520A of act July 1, 1944, by Pub. L. 102–321 and transferred to section 290bb–32 of this title.
+
+Another prior section 520 of act July 1, 1944, was renumbered section 519 by Pub. L. 101–93 and classified to section 290cc–12 of this title, prior to repeal by Pub. L. 102–321, §117.
+
+#### Effective Date
+
+Section effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+
+#### Mental Health Services for Individuals in Correctional Facilities
+
+Section 703 of Pub. L. 102–321 provided that: “Not later than 18 months after the date of enactment of this Act \[July 10, 1992\], the Secretary of Health and Human Services, acting through the Director of the Center for Mental Health Services, shall prepare and submit to the appropriate committees of Congress a report concerning the most effective methods for providing mental health services to individuals who come into contact with the criminal justice system, including those individuals incarcerated in correctional facilities (including local jails and detention facilities), and the obstacles to providing such services. Such study shall be carried out in consultation with the National Institute of Mental Health, the Department of Justice, and other appropriate public and private entities.”
+

@@ -1,0 +1,10 @@
+### §4310. Privileges and immunities
+
+Nothing in this chapter shall be construed to limit the authority of the United States to carry out its international obligations, or to supersede or limit immunities otherwise available by law. No act or omission by any foreign mission, public international organization, or official mission to such an organization, in compliance with this chapter shall be deemed to be an implied waiver of any immunity otherwise provided for by law.
+
+(Aug. 1, 1956, ch. 841, title II, §210, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 290.)
+
+#### Codification
+
+Section is also set out in D.C. Code, §5–1210.
+

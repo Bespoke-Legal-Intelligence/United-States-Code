@@ -1,0 +1,28 @@
+### §2325. Sales price
+
+#### (a) Government-owned single or duplex houses
+
+In the sale to priority purchasers of properties on which are located Government-owned single or duplex houses, the sales price shall be the appraised value less a deduction of 15 per centum of the appraised value and less the deductions provided by section 2326 of this title.
+
+#### (b) Other properties
+
+In all other cases the sales price to priority purchasers shall be the appraised value less the deductions provided by section 2326 of this title, except that sales made under sections 2343(b) and 2343(c) of this title shall be made at the prices set forth therein.
+
+#### (c) Appraised value of interest in commercial property
+
+The appraised value of the Government's interest in commercial property shall, in the cases where renegotiation of the lease is requested by the lessee under the provisions of section 2201(e) of this title be based upon the renegotiated lease if any is agreed on. Where such renegotiationsare requested, the sales proceedings shall not be initiated until the completion of the renegotiation.
+
+(Aug. 4, 1955, ch. 543, ch. 3, §35, 69 Stat. 474; Aug. 21, 1957, Pub. L. 85–162, title II, §202, 71 Stat. 410.)
+
+#### Amendments
+
+1957—Subsec. (c). Pub. L. 85–162 added subsec. (c).
+
+#### Report With Respect to Renegotiations, Reappraisals, and Sales Proceedings
+
+Atomic Energy Commission, Federal Housing Administration, and Housing and Home Finance Agency required to report to Joint Committee by Jan. 31, 1958, with respect to renegotiations, reappraisals, and sales proceedings authorized under subsec. (c) of this section, see section 203 of Pub. L. 85–162.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2348 of this title.
+

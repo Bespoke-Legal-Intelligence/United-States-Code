@@ -1,0 +1,16 @@
+### §1600d. Limitations on Federal expenditures affecting Floodway
+
+(a) Except as provided in section 1600e of this title, no new expenditures or new financial assistance may be made available under authority of any Federal law for any purpose within the Floodway established under section 1600c of this title.
+
+(b) An expenditure or financial assistance made available under authority of Federal law shall, for purposes of this chapter, be a new expenditure or new financial assistance if—
+
+&emsp;(1) in any case with respect to which specific appropriations are required, no money for construction or purchase purposes was appropriated before October 8, 1986; or
+
+&emsp;(2) no legally binding commitment for the expenditure or financial assistance was made before October 8, 1986.
+
+(Pub. L. 99–450, §6, Oct. 8, 1986, 100 Stat. 1132.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1600e, 1600<i>l</i> of this title.
+

@@ -1,0 +1,36 @@
+### §460. Natchez Trace Parkway
+
+All lands and easements heretofore and hereafter conveyed to the United States by the States of Mississippi, Alabama, and Tennessee for the right-of-way for the projected parkway between Natchez, Mississippi, and Nashville, Tennessee, together with sites acquired or to be acquired for recreational areas in connection therewith, and a right-of-way for said parkway of a width sufficient to include the highway and all bridges, ditches, cuts, and fills appurtenant thereto, but not exceeding a maximum of two hundred feet through Government-owned lands (except that where small parcels of Government-owned lands would otherwise be isolated, or where topographic conditions or scenic requirements are such that bridges, ditches, cuts, fills, parking overlooks, and landscape development could not reasonably be confined to a width of two hundred feet, the said maximum may be increased to such width as may be necessary, with the written approval of the department or agency having jurisdiction over such lands) as designated on maps heretofore or hereafter approved by the Secretary of the Interior, shall be known as the Natchez Trace Parkway and shall be administered and maintained by the Secretary of the Interior through the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title, the provisions of which sections, as amended and supplemented, are extended over and made applicable to said parkway: <i>Provided</i>, That the Secretary of Agriculture is authorized, with the concurrence of the Secretary of the Interior, to connect with said parkway such roads and trails as may be necessary for the protection, administration, or utilization of adjacent and nearby national forests and the resources thereof: <i>And provided further</i>, That the Forest Service and the National Park Service shall, insofar as practicable, coordinate and correlate such recreational developments as each may plan, construct, or permit to be constructed, on lands within their respective jurisdictions, which, by mutual agreement, should be given special treatment for recreational purposes.
+
+(May 18, 1938, ch. 251, §1, 52 Stat. 407.)
+
+#### Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+
+Functions of Administrator of General Services transferred to Secretary of Commerce by Reorg. Plan No. 7 of 1949, §2, eff. Aug. 20, 1949, 14 F.R. 5228, 63 Stat. 1070, set out in the Appendix to Title 5.
+
+Functions, powers, and duties of Secretary of Commerce and other officers and offices of Department of Commerce relating generally to highways under Reorg. Plan No. 7 of 1949 transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(a)(1)(M), Oct. 15, 1966, 80 Stat. 938. Reorg. Plan No. 7 of 1949 was amended by section 2(b) of Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2439, to reflect such transfer.
+
+Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator transferred to Administrator of General Services by section 103(a) of act June 30, 1949, ch. 288, title I, 63 Stat. 380. Both Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of that act. Section 103 is classified to section 753 of Title 40, Public Buildings, Property, and Works.
+
+#### Effective Date of Transfer of Functions
+
+Transfer of functions by act June 30, 1949, as effective July 1, 1949, see note set out under section 471 of Title 40, Public Buildings, Property, and Works.
+
+#### Relocation of Portions of Parkway
+
+Pub. L. 85–746, Aug. 25, 1958, 72 Stat. 839, provided: “That the Secretary of the Interior is authorized to enter into an agreement with the Pearl River Valley Water Supply District which shall provide for the district, upon terms and conditions which the Secretary determines are in the public interest, to relocate those portions of sections 3–O and 3–N of the Natchez Trace Parkway in Madison County, Mississippi, required in connection with the Pearl River Reservoir.
+
+“
+
+Sec. 2. To cooperate in the relocation, the Secretary of the Interior is authorized to transfer to the Pearl River Valley Water Supply District the aforesaid portions of the existing Natchez Trace Parkway lands and roadway in exchange for the contemporaneous transfer to the United States of relocated parkway lands and roadway situated and constructed in accordance with the terms and conditions of the agreement authorized by the first section of this Act: <i>Provided</i>, That such exchange shall be made on the basis of approximately equal values.
+
+“
+
+Sec. 3. The Secretary of the Interior is authorized to accept and to use until expended without additional authority any funds provided by the district for the purpose of this Act pursuant to agreement with the Secretary of the Interior, and any such funds shall be placed in a separate account in the Treasury which shall be available for such purpose.”
+
+#### Lands in French Camp
+
+The Secretary of the Interior was authorized to relinquish or modify certain restrictions upon the use of privately owned lands in the village of French Camp along the Natchez Trace Parkway by act Jan. 7, 1941, ch. 939, 54 Stat. 1227.
+

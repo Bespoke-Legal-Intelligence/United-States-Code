@@ -1,0 +1,38 @@
+### §2124. Members of the program: numbers appointed
+
+The number of persons who may be designated as members of the program for training in each health profession shall be as prescribed by the Secretary of Defense, except that the total number of persons so designated may not, at any time, exceed 6,000.
+
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 99–145, title VI, §672(i), Nov. 8, 1985, 99 Stat. 664; Pub. L. 100–180,div. A, title VII, §§711(a)(2), 712(b)(1), Dec. 4, 1987, 101 Stat. 1108, 1112; Pub. L. 101–189, div. A, title VII, §725(g), Nov. 29, 1989, 103 Stat. 1480; Pub. L. 102–190, div. A, title VII, §717, Dec. 5, 1991, 105 Stat. 1404.)
+
+#### Amendments
+
+1991—Pub. L. 102–190 substituted “except that the total number of persons so designated may not, at any time, exceed 6,000.” for “except that—
+
+&emsp;“(1) the total number of persons so designated in all of the programs authorized by this subchapter shall not, at any time, exceed 6,000; and
+
+&emsp;“(2) after September 30, 1991, of the total number of persons so designated, at least 2,500 shall be persons—
+
+&emsp;&emsp;“(A) who are in the final two years of their course of study; and
+
+&emsp;&emsp;“(B) who have agreed to accept, if offered, residency training in a health profession skill which has been designated by the Secretary as a critically needed wartime skill.”
+
+1989—Par. (2). Pub. L. 101–189 inserted “after September 30, 1991,” after “(2)”.
+
+1987—Pub. L. 100–180, §712(b)(1), substituted “except that—” and pars. (1) and (2) for “except that the total number of persons so designated in all of the programs authorized by this subchapter shall not, at any time, exceed 6,000.”
+
+Pub. L. 100–180, §711(a)(2), substituted “subchapter” for “chapter”.
+
+1985—Pub. L. 99–145 substituted “6,000” for “5,000”.
+
+#### Effective Date of 1987 Amendment
+
+Section 712(b)(2) provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1989.”
+
+#### Effective Date of 1985 Amendment
+
+Section 672(j) of Pub. L. 99–145, which provided that amendment made by that section was to take effect on Oct. 1, 1985, was repealed by Pub. L. 100–180, §711(c)(1), (e)(1), eff. Dec. 4, 1987.
+
+#### Repeals
+
+The directory language of, but not the amendment made by, Pub. L. 99–145, title VI, §672(i), Nov. 8, 1985, 99 Stat. 664, cited as a credit to this section, was repealed by Pub. L. 100–180, §711(c)(1), (e)(1), eff. Dec. 4, 1987.
+

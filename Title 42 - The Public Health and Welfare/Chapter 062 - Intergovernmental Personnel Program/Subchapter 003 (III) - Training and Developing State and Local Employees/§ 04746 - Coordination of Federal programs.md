@@ -1,0 +1,20 @@
+### §4746. Coordination of Federal programs
+
+The Office, after consultation with other agencies concerned, shall—
+
+&emsp;(1) prescribe regulations concerning administration of training for employees and officials of State and local governments provided for in this subchapter, including requirements for coordination of and reasonable consistency in such training programs;
+
+&emsp;(2) coordinate the training support given to State and local governments under authority of this chapter with training support given such governments under other Federal programs; and
+
+&emsp;(3) make such arrangements, including the collection and maintenance of data on training grants and programs, as may be necessary to avoid duplication of programs providing for training and to insure consistent administration of related Federal training activities, with particular regard to title IX of the Higher Education Act of 1965 \[20 U.S.C. 1134 et seq.\].
+
+(Pub. L. 91–648, title III, §306, Jan. 5, 1971, 84 Stat. 1920; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
+
+#### References in Text
+
+The Higher Education Act of 1965, referred to in par. (3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IX of the Act is classified generally to subchapter IX (§1134 et seq.) of chapter 28 of Title 20, Education. Title IX as originally added by Pub. L. 89–329 related to education for the public service. Pub. L. 92–318 struck out title IX and inserted in lieu thereof a new title IX relating to graduate programs. Subsequently Pub. L. 99–498 extensively revised title IX relating to graduate programs. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+
+#### Transfer of Functions
+
+“Office”, meaning Office of Personnel Management, substituted in text for “Commission”, meaning Civil Service Commission, pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission and Chairman thereof to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+

@@ -1,0 +1,24 @@
+### §2471. Persons outside the Department of Defense: lease of excess depot-level equipment and facilities by
+
+(a)
+
+Authority To Lease Excess Equipment and Facilities.—Subject to subsection (b), the Secretary of a military department and, with respect to a Defense Agency, the Secretary of Defense, may lease excess equipment and facilities of a depot-level activity of the military department, or the Defense Agency, to a person outside the Department of Defense.
+
+(b)
+
+Limitations.—A lease under subsection (a) may be entered into only if—
+
+&emsp;(1) the lease of any such equipment or facilities will not have a significant adverse effect on the readiness of the armed forces, as determined by the Secretary concerned;
+
+&emsp;(2) the person leasing such equipment or facilities agrees to reimburse the Department of Defense for the costs (both direct and indirect costs, including any rental costs, as determined <sup>1</sup> the Secretary concerned) attributable to the lease of such equipment or facilities;
+
+&emsp;(3) the person leasing such equipment or facilities agrees to hold harmless and indemnify the United States, except in cases of willful conduct or gross negligence, from any claim for damages or injury to any person or property arising out <sup>2</sup> the lease of such equipment or facilities; and
+
+&emsp;(4) the person leasing such equipment or facilities agrees to hold harmless and indemnify the United States from any liability or claim for damages or injury to any person or property arising out of a decision by the Secretary concerned to suspend or terminate the lease during a war or national emergency.
+
+(c)
+
+Credit to Treasury.—Any reimbursement (including the payment of rental costs) received under this section shall be credited to the Treasury as miscellaneous receipts.
+
+(Added Pub. L. 103–337, div. A, title III, §336(a), Oct. 5, 1994, 108 Stat. 2717.)
+

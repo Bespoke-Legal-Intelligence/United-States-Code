@@ -1,0 +1,26 @@
+### §360. Receiving checks and drafts on deposit at par; charges for collections, exchange, and clearances
+
+Every Federal reserve bank shall receive on deposit at par from depository institutions or from Federal reserve banks checks and other items, including negotiable orders of withdrawal and share drafts and drafts drawn upon any of its depositors, and when remitted by a Federal reserve bank, checks and other items, including negotiable orders of withdrawal and share drafts and drafts drawn by any depositor in any other Federal reserve bank or depository institution upon funds to the credit of said depositor in said reserve bank or depository institution. Nothing herein contained shall be construed as prohibiting a depository institution from charging its actual expense incurred in collecting and remitting funds, or for exchange sold to its patrons. The Board of Governors of the Federal Reserve System shall, by rule, fix the charges to be collected by the depository institutions from its patrons whose checks and other items, including negotiable orders of withdrawal and share drafts are cleared through the Federal reserve bank and the charge which may be imposed for the service of the clearing or collection rendered by the Federal reserve bank.
+
+(Dec. 23, 1913, ch. 6, §16 (par.), 38 Stat. 265; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; Mar. 31, 1980, Pub. L. 96–221, title I, §105(c), 94 Stat. 140.)
+
+#### Codification
+
+Section is comprised of thirteenth par. of section 16 of act Dec. 23, 1913. For classification to this title of other paragraphs of section 16, see Codification note set out under section 411 of this title.
+
+#### Amendments
+
+1980—Pub. L. 96–221 substituted references to depository institutions for references to member banks wherever appearing and inserted references to applicability to other items, including negotiable orders of withdrawal and share drafts.
+
+#### Change of Name
+
+Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–221 effective on first day of sixth month which begins after Mar. 31, 1980, see section 108 of Pub. L. 96–221, set out as a note under section 248 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 348, 461 of this title.
+

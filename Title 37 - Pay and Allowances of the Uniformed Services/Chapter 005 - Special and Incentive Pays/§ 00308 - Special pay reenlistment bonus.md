@@ -1,0 +1,226 @@
+### §308. Special pay: reenlistment bonus
+
+(a)(1) A member of a uniformed service who—
+
+&emsp;(A) has completed at least twenty-one months of continuous active duty (other than for training) but not more than fourteen years of active duty;
+
+&emsp;(B) is qualified in a military skill designated as critical by the Secretary of Defense, or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as service in the Navy;
+
+&emsp;(C) is not receiving special pay under section 312a of this title; and
+
+&emsp;(D) reenlists or voluntarily extends his enlistment in a regular component of the service concerned for a period of at least three years;
+
+> may be paid a bonus as provided in paragraph (2).
+
+(2) The bonus to be paid under paragraph (1) may not exceed the lesser of the following amounts:
+
+&emsp;(A) The amount equal to the product of—
+
+&emsp;&emsp;(i) ten times the monthly rate of basic pay to which the member was entitled at the time of the discharge or release of the member; and
+
+&emsp;&emsp;(ii) the number of years (or the monthly fractions thereof) of the term of reenlistment or extension of enlistment, not to exceed six.
+
+&emsp;(B) $45,000.
+
+(3) Any portion of a term of reenlistment or extension of enlistment of a member that, when added to the total years of service of the member at the time of discharge or release, exceeds 16 years may not be used in computing a bonus under paragraph (2)(A).
+
+(4) Notwithstanding paragraph (1)(B), a member who agrees to train and reenlist for service in a military skill which, at the time of that agreement, is designated as critical, may be paid the bonus approved for that skill, at the rate in effect at the time of agreement, upon completion of training and qualification in that skill, if otherwise qualified under this subsection and even if that skill is no longer designated as critical at the time the member becomes eligible for payment of the bonus.
+
+(b)(1) Bonus payments authorized under this section may be paid in either a lump sum or in installments. If the bonus is paid in installments, the initial payment shall be not less than 50 percent of the total bonus amount.
+
+(2) Of the bonuses paid under this section to members of a uniformed service during a fiscal year, not more than 10 percent may exceed $20,000.
+
+(c) For the purpose of computing the reenlistment bonus in the case of an officer with prior enlisted service who may be entitled to a bonus under subsection (a), the monthly basic pay of the grade in which he is enlisted, computed in accordance with his years of service computed under section 205 of this title, shall be used instead of the monthly basic pay to which he was entitled at the time of his release from active duty as an officer.
+
+(d)(1) A member who voluntarily, or because of his misconduct, does not complete the term of enlistment for which a bonus was paid to him under this section or a member who is not technically qualified in the skill for which a bonus was paid to him under this section (other than a member who is not qualified because of injury, illness, or other impairment not the result of his own misconduct) shall refund that percentage of the bonus that the unexpired part of his additional obligated service is of the total reenlistment or extension period for which the bonus was paid.
+
+(2) If a refund is not required under paragraph (1) in the case of a member who fails to complete a term of enlistment, the Secretary of Defense with respect to the armed forces under the Secretary's jurisdiction, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, may decline to make any payment of a bonus installment under this section that is due to be paid to the member after the date on which the member fails to complete the term of enlistment for which the bonus is being paid. The Secretary of Defense and the Secretary of Transportation may prescribe the circumstances under which bonus installments may be terminated under this paragraph.
+
+(e) For the purposes of determining the eligibility of a member for a bonus under this section and of computing the amount of that bonus—
+
+&emsp;(1) any period of enlistment (including any extension of an enlistment) (A) that is incurred by the member for the purpose of continuing to qualify for continuous submarine duty incentive pay under section 301c of this title, and (B) for which no bonus is otherwise payable; or
+
+&emsp;(2) any unserved period of two years or less of an extension of an enlistment for which no bonus has been paid or for which no bonus is otherwise payable under this section,
+
+> may, under regulations prescribed by the Secretary concerned, be considered as part of an immediately subsequent term of reenlistment (or as part of an immediately subsequent voluntary extension of an enlistment).
+
+(f) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction, and by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.
+
+(g) No bonus shall be paid under this section with respect to any reenlistment, or voluntary extension of an active-duty enlistment, in the armed forces entered into after September 30, 1996.
+
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 467; Pub. L. 89–132, §3, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 93–277, §2(1), May 10, 1974, 88 Stat. 119; Pub. L. 95–57, §1, June 29, 1977, 91 Stat. 253; Pub. L. 95–485, title VIII, §802(a)(1), (b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–342, title VIII, §804(a), Sept. 8, 1980, 94 Stat. 1092; Pub. L. 96–579, §3(f), Dec. 23, 1980, 94 Stat. 3364; Pub. L. 97–60, title I, §117(a), Oct. 14, 1981, 95 Stat. 996; Pub. L. 97–276, title I, §131, Oct. 2, 1982, 96 Stat. 1197; Pub. L. 97–377, title I, §101(c) \[title VII, §798\], Dec. 21, 1982, 96 Stat. 1833, 1865; Pub. L. 98–14, §1, Mar. 30, 1983, 97 Stat. 55; Pub. L. 98–525, title VI, §621, Oct. 19, 1984, 98 Stat. 2540; Pub. L. 99–145, title VI, §631(a), Nov. 8, 1985, 99 Stat. 643; Pub. L. 100–180, div. A, title VI, §§625(a), 626(a), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §611(a), Nov. 29, 1989, 103 Stat. 1445; Pub. L. 101–510, div. A, title VI, §615(a), Nov. 5, 1990, 104 Stat. 1578; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(a), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(b), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(b), Oct. 5, 1994, 108 Stat. 2783.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+308(a)
+
+308(b)
+
+308(c)
+
+308(d)
+
+308(e)
+
+308(f)
+
+37:239(a).
+
+37:239(e).
+
+37:239(b).
+
+37:239(c).
+
+37:239(d).
+
+37:239(f).
+
+37:239(g).
+
+Oct. 12, 1949, ch. 681, §208; added July 16, 1954, ch. 535, §2, 68 Stat. 488; July 25, 1961, Pub. L. 87–103, §1 (as applicable to §208), 75 Stat. 219.
+
+In subsection (a), the words “reenlists . . . after . . . compulsory or voluntary active duty or who voluntarily extends his enlistment for at least two years” are substituted for the words “reenlists . . . after . . . active duty” and section 239(e) of existing title 37. The words “(other than for training)” are inserted, since the source statute has been consistently interpreted to exclude that kind of duty. The words “or release” are inserted in column 1 of the table and in footnotes 2, 4, and 5 to conform to the introductory language preceding the tables.
+
+In subsection (b), the words “a total of” are omitted as surplusage.
+
+#### Amendments
+
+1994—Subsec. (g). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
+
+1993—Subsec. (g). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
+
+1992—Subsec. (g). Pub. L. 102–484 substituted “September 30, 1993” for “September 30, 1992”.
+
+1991—Subsec. (c). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+
+1990—Subsec. (d). Pub. L. 101–510 designated existing provisions as par. (1) and added par. (2).
+
+1989—Subsec. (a)(1). Pub. L. 101–189, §611(a)(1), substituted “may be paid a bonus as provided in paragraph (2)” for “may be paid a bonus, not to exceed six months of the basic pay to which he was entitled at the time of his discharge or release, multiplied by the number of years, or the monthly fractions thereof, of additional obligated service, not to exceed six years, or $30,000, whichever is the lesser amount. Obligated service in excess of sixteen years will not be used for bonus computation”.
+
+Subsec. (a)(2), (3). Pub. L. 101–189, §611(a)(3), added pars. (2) and (3). Former par. (2) redesignated (4).
+
+Subsec. (a)(4). Pub. L. 101–189, §611(a)(2), redesignated former par. (2) as (4) and struck out “of this subsection” after “paragraph (1)(B)”.
+
+1987—Subsec. (b)(1). Pub. L. 100–180, §625(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Not less than 75 percent of the amount of a bonus under this section shall be paid in a lump sum at the beginning of the period for which the bonus is paid, with any remaining amount paid in equal annual installments.”
+
+Subsec. (g). Pub. L. 100–180, §626(a), substituted “September 30, 1992” for “September 30, 1987”.
+
+1985—Subsec. (b)(1). Pub. L. 99–145 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Bonus payments authorized under this section may be paid in either a lump sum or in installments.”
+
+1984—Subsec. (a)(1). Pub. L. 98–525, §621(b)(1), substituted “$30,000” for “$20,000” in provisions following subpar. (D).
+
+Subsec. (b). Pub. L. 98–525, §621(b)(2), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (g). Pub. L. 98–525, §621(a), substituted “September 30, 1987” for “September 30, 1984”.
+
+1983—Subsec. (g). Pub. L. 98–14 substituted “September 30, 1984” for “March 31, 1983”.
+
+1982—Subsec. (g). Pub. L. 97–377 substituted “March 31, 1983” for “December 17, 1982”.
+
+Pub. L. 97–276 substituted “December 17, 1982” for “September 30, 1982”. Notwithstanding directory language that amendment be made to section 308(g) of “title 35, United States Code”, amendment was executed to this section as the probable intent of Congress.
+
+1981—Subsec. (e). Pub. L. 97–60 inserted provision that any unserved period of two years or less of an extension of an enlistment for which no bonus has been paid or for which no bonus is otherwise payable under this section may be considered as part of an immediately subsequent term of reenlistment (or as part of an immediately subsequent voluntary extension of an enlistment) and substituted “Secretary concerned” for “Secretary of the Navy” as authority authorized to prescribe regulations.
+
+1980—Subsec. (a)(1). Pub. L. 96–342, §804(a)(1), substituted “fourteen years” for “ten years” in subpar. (A) and, in provisions following subpar. (D), substituted “$20,000” for “$15,000” and “sixteen years” for “twelve years”.
+
+Subsec. (e). Pub. L. 96–579 added subsec. (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 96–579 redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+Pub. L. 96–342, §804(a)(2), substituted “September 30, 1982” for “September 30, 1980”.
+
+Subsec. (g). Pub. L. 96–579 redesignated former subsec. (f) as (g).
+
+1978—Subsec. (a). Pub. L. 95–485, §802(a)(1), designated existing provision as par. (1) and existing pars. (1) to (4) thereof as subpars. (A) to (D), in subpar. (B) as so redesignated, substituted “qualified in a military skill designated as critical” for “designated as having a critical military skill”, and added par. (2).
+
+Subsec. (f). Pub. L. 95–485, §802(b), substituted “September 30, 1980” for “September 30, 1978”.
+
+1977—Subsec. (d). Pub. L. 95–57, §1(a), substituted “or a member who is not technically qualified in the skill for which a bonus was paid to him under this section (other than a member who is not qualified because of injury, illness, or other impairment not the result of his own misconduct) shall refund that percentage of the bonus, that the unexpired part of his additional obligated service is of the total reenlistment or extension period for which the bonus was paid” for “shall refund that percentage of the bonus that the unexpired part of his enlistment is of the total enlistment period for which the bonus was paid”.
+
+Subsec. (f). Pub. L. 95–57, §1(b), substituted “September 30, 1978” for “June 30, 1977”.
+
+1974—Pub. L. 93–277 amended section generally.
+
+1968—Subsecs. (e), (g). Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+
+1965—Subsec. (g). Pub. L. 89–132 added subsec. (g).
+
+#### Effective Date of 1993 Amendment
+
+Section 613(h)(1) of Pub. L. 103–160 provided that: “The amendments made by subsections (b) and (c) \[amending this section and section 308a of this title\] shall take effect as of September 30, 1993, and shall apply with respect to an enlistment, reenlistment, or extension of an enlistment described in section 308 or 308a of title 37, United States Code, occurring on or after that date.”
+
+#### Effective Date of 1990 Amendment
+
+Section 615(b) of Pub. L. 101–510 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to any bonus paid under section 308 of title 37, United States Code, to a person in connection with the reenlistment or extension of the term of enlistment of the person in the Armed Forces on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
+
+#### Effective Date of 1989 Amendment
+
+Section 611(b) of Pub. L. 101–189 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to reenlistment and extension of enlistment agreements entered into under section 308(a) of title 37, United States Code, after September 30, 1989.”
+
+#### Effective Date of 1987 Amendment
+
+Section 625(b) of Pub. L. 100–180 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to bonuses paid for reenlistment or extension of enlistment agreements entered into after September 30, 1987.”
+
+#### Effective Date of 1985 Amendment
+
+Section 631(b) of Pub. L. 99–145 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to bonuses paid for reenlistments or extensions of enlistment effective after September 30, 1986.”
+
+#### Effective Date of 1981 Amendment
+
+Section 117(d) of Pub. L. 97–60 provided that: “The amendments made by this section \[enacting section 308f of this title and amending this section and section 308a of this title\] shall apply to enlistments and reenlistments after the date of enactment of this Act \[Oct. 14, 1981\].”
+
+#### Effective Date of 1980 Amendments
+
+Section 804(c) of Pub. L. 96–342 provided that: “The amendments made by this section \[amending this section and section 308a of this title\] shall only apply to enlistments, reenlistments, and extensions of enlistments made after September 30, 1980.”
+
+Amendment by Pub. L. 96–579 effective Jan. 1, 1981, see section 3(g) of Pub. L. 96–579, set out as an Effective Date note under section 301c of this title.
+
+#### Effective Date of 1978 Amendment
+
+Section 802(a)(2) of Pub. L. 95–485 provided that: “The amendments made by paragraph (12) \[amending this section\] shall take effect on October 1, 1978.”
+
+#### Effective Date of 1977 Amendment
+
+Section 3 of Pub. L. 95–57 provided that: “The amendments made by this Act \[amending this section and section 308a of this title\] shall become effective on July 1, 1977.”
+
+#### Effective Date of 1974 Amendment
+
+Section 4 of Pub. L. 93–277 provided that: “The amendments made by this Act \[amending this section and section 308a of this title and enacting provisions set out below\] become effective on the first day of the month following the date of enactment \[May 10, 1974\].”
+
+#### Effective Date of 1968 Amendment
+
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+
+#### Effective Date of 1965 Amendment
+
+Amendment by Pub. L. 89–132 effective Sept. 1, 1965, see section 10 of Pub. L. 89–132, set out as a note under section 203 of this title.
+
+#### Coverage of Period of Lapsed Authority
+
+For provisions relating to coverage of period of lapsed authority from Oct. 1, 1992, to Oct. 23, 1992, for payment of bonuses or other special pay under this section, see section 612(j)(2) of Pub. L. 102–484, set out as a note under section 301b of this title.
+
+Section 626(c) of Pub. L. 100–180 provided that:
+
+“(1) The Secretary concerned, in the case of any person who during the period beginning on October 1, 1987, and ending on the date of the enactment of this Act \[Dec. 4, 1987\] would have qualified for an agreement with the Secretary described in paragraph (2) but for the fact that the authority for the payment of bonuses provided by that section had lapsed, shall pay to that person a bonus under the terms of the appropriate section specified in that paragraph (and related regulations) as in effect on September 30, 1987.
+
+“(2) An agreement referred to in paragraph (1) is an agreement with the Secretary for the payment of a bonus under section 308, 308a, 308b, 308c, 308e, 308f, 308g, 308h, or 308i of title 37, United States Code.”
+
+#### Cost Reductions for Fiscal Year 1987; Selective Reimbursement Bonus
+
+Pub. L. 99–661, div. A, title VI, §663(a), Nov. 14, 1986, 100 Stat. 3894, provided that: “During fiscal year 1987, the Secretary concerned may not pay more than 50 percent of an amount paid to any person under section 308 of title 37, United States Code, in a lump sum.”.
+
+#### Optional Choice of Reenlistment Bonus
+
+Section 3 of Pub. L. 93–277 provided that: “Notwithstanding section 308 of title 37, United States Code, asamended by this Act, a member of a uniformed service on active duty on the effective date of this Act, who would have been eligible, at the end of his current or subsequent enlistment, for the reenlistment bonus prescribed in section 308(a) or (d) of that title, as it existed on the day before the effective date of this Act, shall continue to be eligible for the reenlistment bonus under that section as it existed on the day before the effective date of this act. If a member is also eligible for the reenlistment bonus prescribed in that section as amended by this Act, he may elect to receive either one of those reenlistment bonuses. However, a member's eligibility under section 308(a) or (d) of that title, as it existed on the day before the effective date of this Act, terminates when he has received a total of $2,000 in reenlistment bonus payments, received under either section 308(a) or (d) of that title as it existed on the day before the effective date of this Act, or under section 308 of that title, as amended by this Act, or from a combination of both.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 312a of this title.
+

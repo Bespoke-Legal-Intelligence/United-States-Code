@@ -1,0 +1,16 @@
+### §14002. Authorization of appropriations
+
+There are authorized to be appropriated—
+
+&emsp;(1) to the Salaries and Expenses Account of the Courts of Appeals, District Courts, and other Judicial Services to carry out section 14001(a) of this title $500,000 for fiscal year 1996;
+
+&emsp;(2) to the Federal Judicial Center to carry out section 14001(d) of this title $100,000 for fiscal year 1996; and
+
+&emsp;(3) to the Administrative Office of the United States Courts to carry out section 14001(c) of this title $100,000 for fiscal year 1996.
+
+(Pub. L. 103–322, title IV, §40422, Sept. 13, 1994, 108 Stat. 1945.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 14214 of this title.
+

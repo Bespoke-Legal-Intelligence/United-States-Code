@@ -1,0 +1,6 @@
+### §632. Completion of organization
+
+The persons named in section 631 of this title are authorized to complete the organization of the corporation by the selection of officers and employees, the adoption of a constitution and bylaws, not inconsistent with the provisions of this chapter, and the doing of such other acts as may be necessary for such purpose. Five of such persons shall constitute a quorum for the purposes enumerated in this section.
+
+(Aug. 4, 1955, ch. 546, §2, 69 Stat. 487.)
+

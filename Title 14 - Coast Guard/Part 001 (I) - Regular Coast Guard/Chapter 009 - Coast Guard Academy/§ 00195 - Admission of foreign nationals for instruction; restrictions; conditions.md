@@ -1,0 +1,28 @@
+### §195. Admission of foreign nationals for instruction; restrictions; conditions
+
+(a) A foreign national may not receive instruction at the Academy except as authorized by this section.
+
+(b) The President may designate not more than 36 foreign nationals whom the Secretary may permit to receive instruction at the Academy.
+
+(c) A person receiving instruction under this section is entitled to the same pay and allowances, to be paid from the same appropriations, as a cadet appointed pursuant to section 182 ofthis title. A person may receive instruction under this section only if his country agrees in advance to reimburse the United States, at a rate determined by the Secretary, for the cost of providing such instruction, including pay and allowances, unless a waiver therefrom has been granted to that country by the Secretary. Funds received by the Secretary for this purpose shall be credited to the appropriations bearing the cost thereof, and may be apportioned between fiscal years.
+
+(d) A person receiving instruction under this section is—
+
+&emsp;(1) not entitled to any appointment in the Coast Guard by reason of his graduation from the Academy; and
+
+&emsp;(2) subject to those regulations applicable to the Academy governing admission, attendance, discipline, resignation, discharge, dismissal, and graduation, except as may otherwise be prescribed by the Secretary.
+
+(Added Pub. L. 91–278, §1(6), June 12, 1970, 84 Stat. 304; amended Pub. L. 94–468, Oct. 11, 1976, 90 Stat. 2002.)
+
+#### Amendments
+
+1976—Pub. L. 94–468 substituted “foreign nationals” for “foreigners” in section catchline.
+
+Subsec. (a). Pub. L. 94–468 substituted provision barring foreign nationals from receiving instruction at the Academy unless authorized by this section, for provision which authorized the Secretary to permit four persons at a time from the Republic of the Philippines, as designated by the President, to attend the Academy.
+
+Subsec. (b). Pub. L. 94–468 substituted provision authorizing the President to designate not more than thirty-six foreign nationals whom the Secretary may permit to attend the Academy, for provision which authorized foreign nationals to receive the same pay and allowances as cadets at the Academy.
+
+Subsec. (c). Pub. L. 94–468 substituted provision authorizing a foreign national to receive the same pay and allowances as a cadet providing his country agree in advance to reimburse the United States and directing the Secretary to credit any funds so received to the appropriations for pay and allowances, for provision which required that foreign nationals be subject to the same rules and regulations as cadets.
+
+Subsec. (d). Pub. L. 94–468 added subsec. (d).
+

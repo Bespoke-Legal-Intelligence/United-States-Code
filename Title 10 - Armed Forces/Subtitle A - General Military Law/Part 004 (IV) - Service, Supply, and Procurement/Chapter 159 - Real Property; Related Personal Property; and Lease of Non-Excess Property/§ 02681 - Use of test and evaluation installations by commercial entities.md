@@ -1,0 +1,54 @@
+### §2681. Use of test and evaluation installations by commercial entities
+
+(a)
+
+Contract Authority.—The Secretary of Defense may enter into contracts with commercial entities that desire to conduct commercial test and evaluation activities at a Major Range and Test Facility Installation.
+
+(b)
+
+Termination or Limitation of Contract Under Certain Circumstances.—A contract entered into under subsection (a) shall contain a provision that the Secretary of Defense may terminate, prohibit, or suspend immediately any commercial test or evaluation activity to be conducted at the Major Range and Test Facility Installation under the contract if the Secretary of Defense certifies in writing that the test or evaluation activity is or would be detrimental—
+
+&emsp;(1) to the public health and safety;
+
+&emsp;(2) to property (either public or private); or
+
+&emsp;(3) to any national security interest or foreign policy interest of the United States.
+
+(c)
+
+Contract Price.—A contract entered into under subsection (a) shall include a provision that requires a commercial entity using a Major Range and Test Facility Installation under the contract to reimburse the Department of Defense for all direct costs to the United States that are associated with the test and evaluation activities conducted by the commercial entity under the contract. In addition, the contract may include a provision that requires the commercial entity to reimburse the Department of Defense for such indirect costs related to the use of the installation as the Secretary of Defense considers to be appropriate. The Secretary may delegate to the commander of the Major Range and Test Facility Installation the authority to determine the appropriateness of the amount of indirect costs included in such a contract provision.
+
+(d)
+
+Retention of Funds Collected From Commercial Users.—Amounts collected under subsection (c) from a commercial entity conducting test and evaluation activities at a Major Range and Test Facility Installation shall be credited to the appropriation accounts under which the costs associated with the test and evaluation activities of the commercial entity were incurred.
+
+(e)
+
+Regulations and Limitations.—The Secretary of Defense shall prescribe regulations to carry out this section.
+
+(f)
+
+Definitions.—In this section:
+
+&emsp;(1) The term “Major Range and Test Facility Installation” means a test and evaluation installation under the jurisdiction of the Department of Defense and designated as a Major Range and Test Facility Installation by the Secretary.
+
+&emsp;(2) The term “direct costs” includes the cost of—
+
+&emsp;&emsp;(A) labor, material, facilities, utilities, equipment, supplies, and any other resources damaged or consumed during test or evaluation activities or maintained for a particular commercial entity; and
+
+&emsp;&emsp;(B) construction specifically performed for a commercial entity to conduct test and evaluation activities.
+
+(g)
+
+Termination of Authority.—The authority provided to the Secretary of Defense by subsection (a) shall terminate on September 30, 1998.
+
+(h)
+
+Report.—Not later than January 1, 1998, the Secretary of Defense shall submit to Congress a report describing the number and purposes of contracts entered into under subsection (a) and evaluating the extent to which the authority under this section is exercised to open Major Range and Test Facility Installations to commercial test and evaluation activities.
+
+(Added Pub. L. 103–160, div. A, title VIII, §846(a), Nov. 30, 1993, 107 Stat. 1722.)
+
+#### Prior Provisions
+
+A prior section, added Pub. L. 87–651, title II, §209(a), Sept. 7, 1962, 76 Stat. 523; amended Pub. L. 88–174, title V, §508, Nov. 7, 1963, 77 Stat. 326; Pub. L. 96–513, title V, §511(93), Dec. 12, 1980, 94 Stat. 2928, related to construction or acquisition of family housing and community facilities in foreign countries, prior to repeal by Pub. L. 97–214, §§7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date.
+

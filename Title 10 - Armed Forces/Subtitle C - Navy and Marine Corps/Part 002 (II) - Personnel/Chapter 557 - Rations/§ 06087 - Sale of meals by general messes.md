@@ -1,0 +1,20 @@
+### §6087. Sale of meals by general messes
+
+Under such regulations as the Secretary of the Navy prescribes, meals may be sold by general messes afloat and ashore.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 381.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+6087
+
+34 U.S.C. 915b(c).
+
+Aug. 2, 1946, ch. 756, §16(c), 60 Stat. 855.
+

@@ -1,0 +1,72 @@
+### §4015. Chargeable premium rates
+
+#### (a) Establishment; terms and conditions
+
+On the basis of estimates made under section 4014 of this title, and such other information as may be necessary, the Director shall from time to time, after consultation with the advisory committee authorized under section 4025 of this title, appropriate representatives of the pool formed or otherwise created under section 4051 of this title, and appropriate representatives of the insurance authorities of the respective States, prescribe by regulation—
+
+&emsp;(1) chargeable premium rates for any types and classes of properties for which insurance coverage shall be available under section 4012 of this title (at less than the estimated risk premium rates under section 4014(a)(1) of this title, where necessary), and
+
+&emsp;(2) the terms and conditions under which, and the areas (including subdivisions thereof) within which, such rates shall apply.
+
+#### (b) Considerations for rates
+
+Such rates shall, insofar as practicable, be—
+
+&emsp;(1) based on a consideration of the respective risks involved, including differences in risks due to land use measures, flood-proofing, flood forecasting, and similar measures.
+
+&emsp;(2) adequate, on the basis of accepted actuarial principles, to provide reserves for anticipated losses, or, if less than such amount, consistent with the objective of making flood insurance available where necessary at reasonable rates so as to encourage prospective insureds to purchase such insurance and with the purposes of this chapter,
+
+&emsp;(3) adequate, together with the fee under paragraph (1)(B)(iii) or (2) of section 4014(a) of this title, to provide for any administrative expenses of the flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title), and
+
+&emsp;(4) stated so as to reflect the basis for such rates, including the differences (if any) between the estimated risk premium rates under section 4014(a)(1) of this title and the estimated rates under section 4014(a)(2) of this title.
+
+#### (c) Rate with respect to property the construction or substantial improvement of which has been started after December 31, 1974, or effective date of initial rate map published for area in which property is located, whichever is later
+
+Subject only to the limitation under subsection (e) of this section, the chargeable rate with respect to any property, the construction or substantial improvements of which the Director determines has been started after December 31, 1974, or the effective date of the initial rate map published by the Director under paragraph (2) of section 4101 of this title for the area in which such property is located, whichever is later, shall not be less than the applicable estimated risk premium rate for such area (or subdivision thereof) under section 4014(a)(1) of this title.
+
+#### (d) Payment of certain sums to Director; deposits in Fund
+
+With respect to any chargeable premium rate prescribed under this section, a sum equal to the portion of the rate that covers any administrative expenses of carrying out the flood insurance and floodplain management programs which have been estimated under paragraphs (1)(B)(ii) and (1)(B)(iii) of section 4014(a) of this title or paragraph (2) of such section (including the fees under such paragraphs), shall be paid to the Director. The Director shall deposit the sum in the National Flood Insurance Fund established under section 4017 of this title.
+
+#### (e) Annual limitation on premium increases
+
+Notwithstanding any other provision of this chapter, the chargeable risk premium rates for flood insurance under this chapter for any properties within any single risk classification may not be increased by an amount that would result in the average of such rate increases for properties within the risk classification during any 12-month period exceeding 10 percent of the average of the risk premium rates for properties within the risk classification upon the commencement of such 12-month period.
+
+(Pub. L. 90–448, title XIII, §1308, Aug. 1, 1968, 82 Stat. 576; Pub. L. 93–234, title I, §103, Dec. 31, 1973, 87 Stat. 978; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 101–508, title II, §2302(e)(2), Nov. 5, 1990, 104 Stat. 1388–24; Pub. L. 103–325, title V, §572(a), Sept. 23, 1994, 108 Stat. 2277.)
+
+#### Amendments
+
+1994—Subsec. (c). Pub. L. 103–325, §572(a)(1), substituted “Subject only to the limitation under subsection (e) of this section” for “Notwithstanding any other provision of this chapter”.
+
+Subsec. (e). Pub. L. 103–325, §572(a)(2), added subsec. (e).
+
+1990—Subsec. (b)(3), (4). Pub. L. 101–508, §2302(e)(2)(A), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (d). Pub. L. 101–508, §2302(e)(2)(B), added subsec. (d) and struck out former subsec. (d) which read as follows: “In the event any chargeable premium rate prescribed under this section—
+
+&emsp;“(1) is a rate which is not less than the applicable estimated risk premium rate under section 4014(a)(1) of this title, and
+
+&emsp;“(2) includes any amount for administrative expenses of carrying out the flood insurance program which have been estimated under clause (ii) of section 4014(a)(1)(B) of this title,
+
+> a sum equal to such amount shall be paid to the Director, and he shall deposit such sum in the National Flood Insurance Fund established under section 4017 of this title.”
+
+1983—Subsecs. (a), (c), (d). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+
+1973—Subsec. (c). Pub. L. 93–234 substituted “started after December 31, 1974, or the effective date of the initial rate map published by the Secretary under paragraph (2) of section 4101 of this title for the area in which such property is located, whichever is later” for “started after the identification of the area in which such property is located has been published under paragraph (1) of section 4101 of this title”.
+
+#### Limitation on Premiums
+
+Section 2302(e)(5) of Pub. L. 101–508 provided that, notwithstanding section 541(d) of Pub. L. 100–242, formerly set out below, premium rates charged for flood insurance under any program established pursuant to this chapter could be increased by more than 10 percent during fiscal year 1991, with certain exceptions.
+
+Pub. L. 100–242, title V, §541(d), Feb. 5, 1988, 101 Stat. 1939, as amended by Pub. L. 101–137, §1(d), Nov. 3, 1989, 103 Stat. 824; Pub. L. 101–508, title II, §2302(c), Nov. 5, 1990, 104 Stat. 1388–23, limited increases in premium rates charged for flood insurance under programs established pursuant to this chapter during period beginning Feb. 5, 1988, and ending Sept. 30, 1995, to prorated annual rate of 10 percent, prior to repeal by Pub. L. 103–325, title V, §572(b), Sept. 23, 1994, 108 Stat. 2278.
+
+Section 451(g)(1) of Pub. L. 98–181 provided that premium rates charged for flood insurance under any program established pursuant to this chapter could not be increased during the period beginning Nov. 30, 1983, and ending Sept. 30, 1984.
+
+#### Termination of Advisory Committees
+
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 4013, 4017, 4020, 4022, 4054 of this title.
+

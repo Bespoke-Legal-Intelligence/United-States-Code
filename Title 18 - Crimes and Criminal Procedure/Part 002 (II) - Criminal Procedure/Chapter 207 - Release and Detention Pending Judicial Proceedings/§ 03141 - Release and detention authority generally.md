@@ -1,0 +1,70 @@
+### §3141. Release and detention authority generally
+
+(a)
+
+Pending Trial.—A judicial officer authorized to order the arrest of a person under section 3041 of this title before whom an arrested person is brought shall order that such person be released or detained, pending judicial proceedings, under this chapter.
+
+(b)
+
+Pending Sentence or Appeal.—A judicial officer of a court of original jurisdiction over an offense, or a judicial officer of a Federal appellate court, shall order that, pending imposition or execution of sentence, or pending appeal of conviction or sentence, a person be released or detained under this chapter.
+
+(Added Pub. L. 98–473, title II, §203(a), Oct. 12, 1984, 98 Stat. 1976; amended Pub. L. 99–646, §55(a), (b), Nov. 10, 1986, 100 Stat. 3607.)
+
+#### Prior Provisions
+
+A prior section 3141, acts June 25, 1948, ch. 645, 62 Stat. 821; June 22, 1966, Pub. L. 89–465, §5(b), 80 Stat. 217, related to powers of courts and magistrates with respect to release on bail or otherwise, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
+
+#### Amendments
+
+1986—Subsec. (a). Pub. L. 99–646, §55(a), (b), substituted “authorized to order the arrest of a person under section 3041 of this title before whom an arrested person is brought shall order that such person be released” for “who is authorized to order the arrest of a person pursuant to section 3041 of this title shall order that an arrested person who is brought before him be released” and “under this chapter” for “pursuant to the provisions of this chapter”.
+
+Subsec. (b). Pub. L. 99–646, §55(a), substituted “under this chapter” for “pursuant to the provisions of this chapter”.
+
+#### Effective Date of 1986 Amendment
+
+Section 55(j) of Pub. L. 99–646 provided that: “The amendments made by this section \[amending this section and sections 3142 to 3144, 3146 to 3148, and 3156 of this title\] shall take effect 30 days after the date of enactment of this Act \[Nov. 10, 1986\].”
+
+#### Short Title of 1990 Amendment
+
+Pub. L. 101–647, title IX, §901, Nov. 29, 1990, 104 Stat. 4826, provided that: “This title \[amending sections 3143 and 3145 of this title\] may be cited as the ‘Mandatory Detention for Offenders Convicted of Serious Crimes Act’.”
+
+#### Short Title of 1984 Amendment
+
+Section 202 of chapter I (§§202–210) of title II of Pub. L. 98–473 provided that: “This chapter \[enacting sections 3062 and 3141 to 3150 of this title, amending sections 3041, 3042, 3154, 3156, 3731, 3772, and 4282 of this title and section 636 of Title 28, Judiciary and Judicial Procedure, repealing sections 3043 and 3141 to 3151 of this title, and amending rules 5, 15, 40, 46, and 54 of the Federal Rules of Criminal Procedure, set out in the Appendix to this title, and rule 9 of the Federal Rules of Appellate Procedure, set out in the Appendix to Title 28\] may be cited as the ‘Bail Reform Act of 1984’.”
+
+#### Short Title of 1982 Amendment
+
+Pub. L. 97–267, §1, Sept. 27, 1982, 96 Stat. 1136, provided: “That this Act \[amending sections 3152 to 3155 of this title and section 604 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 3141 and 3152 of this title\] may be cited as the ‘Pretrial Services Act of 1982’.”
+
+#### Short Title
+
+Section 1 of Pub. L. 89–465 provided: “That this Act \[enacting sections 3146 to 3152 of this title, amending sections 3041, 3141 to 3143, and 3568 of this title, and enacting provisions set out as a note below\] may be cited as the ‘Bail Reform Act of 1966’.”
+
+#### Purpose of Bail Reform Act of 1966
+
+Section 2 of Pub. L. 89–465 provided that: “The purpose of this Act \[enacting sections 3146 to 3152 of this title, amending sections 3041, 3141 to 3143, and 3568 of this title and enacting provisions set out as a note above\] is to revise the practices relating to bail to assure that all persons, regardless of their financial status, shall not needlessly be detained pending their appearance to answer charges, to testify, or pending appeal, when detention serves neither the ends of justice nor the public interest.”
+
+#### Federal Rules of Criminal Procedure
+
+Amount of bail may be fixed by court and endorsed on warrant, see rule 9, Appendix to this title.
+
+Release from custody—
+
+&emsp;Generally, see rule 46.
+
+&emsp;Criminal contempt proceedings, see rule 42.
+
+&emsp;Removal proceedings, see rule 40.
+
+Secrecy of indictment pending defendant's custody or release pending trial, see rule 6.
+
+United States magistrate judges authorized to detain or conditionally release arrested persons, see rule 5.
+
+#### Cross References
+
+Power of courts and magistrate judges to arrest, detain, or conditionally release Federal offenders, see section 3041 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3156 of this title.
+

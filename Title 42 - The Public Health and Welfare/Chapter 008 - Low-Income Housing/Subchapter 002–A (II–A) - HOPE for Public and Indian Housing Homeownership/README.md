@@ -1,0 +1,20 @@
+### SUBCHAPTER II–A—HOPE FOR PUBLIC AND INDIAN HOUSING HOMEOWNERSHIP
+
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in sections 1437f, 1437<i>l</i>, 1437p, 1437r, 1437w, 3535, 12870, 12873, 12874, 12876, 12894 of this title; title 12 sections 1709, 1831q, 1834a.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 01437aaa - Program authority](%C2%A7%2001437aaa%20-%20Program%20authority.md)
+- [&sect; 01437aaa&#8211;1 - Planning grants](%C2%A7%2001437aaa%E2%80%931%20-%20Planning%20grants.md)
+- [&sect; 01437aaa&#8211;2 - Implementation grants](%C2%A7%2001437aaa%E2%80%932%20-%20Implementation%20grants.md)
+- [&sect; 01437aaa&#8211;3 - Homeownership program requirements](%C2%A7%2001437aaa%E2%80%933%20-%20Homeownership%20program%20requirements.md)
+- [&sect; 01437aaa&#8211;4 - Other program requirements](%C2%A7%2001437aaa%E2%80%934%20-%20Other%20program%20requirements.md)
+- [&sect; 01437aaa&#8211;5 - Definitions](%C2%A7%2001437aaa%E2%80%935%20-%20Definitions.md)
+- [&sect; 01437aaa&#8211;6 - Relationship to other homeownership opportunities](%C2%A7%2001437aaa%E2%80%936%20-%20Relationship%20to%20other%20homeownership%20opportunities.md)
+- [&sect; 01437aaa&#8211;7 - Limitation on selection criteria](%C2%A7%2001437aaa%E2%80%937%20-%20Limitation%20on%20selection%20criteria.md)
+- [&sect; 01437aaa&#8211;8 - Annual report](%C2%A7%2001437aaa%E2%80%938%20-%20Annual%20report.md)

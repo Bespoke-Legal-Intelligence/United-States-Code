@@ -1,0 +1,14 @@
+### §1125. Applications for enrollment
+
+An application for addition of a name to the roll pursuant to section 1124 of this title must be filed with the area director of the Bureau of Indian Affairs, Muskogee, Oklahoma, on forms prescribed for that purpose. The determination of the Secretary regarding the eligibility of an applicant shall be final.
+
+(Pub. L. 92–309, §4, June 2, 1972, 86 Stat. 200.)
+
+#### Codification
+
+Section was not enacted as part of Pub. L. 89–659, Oct. 14, 1966, 80 Stat. 909, which comprises this subchapter.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1122, 1123, 1129, 1130 of this title.
+

@@ -1,0 +1,18 @@
+### §215b. Definitions
+
+As used in this subchapter, the term—
+
+&emsp;(1) “State bank” means any bank, banking association, trust company, savings bank (other than a mutual savings bank), or other banking institution which is engaged in the business of receiving deposits and which is incorporated under the laws of any State, or which is operating under the Code of Law for the District of Columbia (except a national banking association located in the District of Columbia);
+
+&emsp;(2) “State” means the several States and Territories, the Commonwealth of Puerto Rico, the Virgin Islands, and the District of Columbia;
+
+&emsp;(3) “Comptroller” means the Comptroller of the Currency; and
+
+&emsp;(4) “Receiving association” means the national banking association into which one or more national banking associations or one or more State banks, located within the same State, merge.
+
+(Nov. 7, 1918, ch. 209, §5, formerly §3, as added Sept. 8, 1959, Pub. L. 86–230, §20, 73 Stat. 465; renumbered §5, Sept. 29, 1994, Pub. L. 103–328, title I, §102(b)(4)(B), 108 Stat. 2351.)
+
+#### Codification
+
+Provisions similar to those comprising this section were contained in section 5 of act Nov. 7, 1918, ch. 209, as added July 14, 1952, ch. 722, §1, 66 Stat. 601 (formerly classified to section 34c of this title), prior to the complete amendment and renumbering of act Nov. 7, 1918, by Pub. L. 86–230.
+

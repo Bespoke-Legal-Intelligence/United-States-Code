@@ -1,0 +1,34 @@
+Part I—General Provisions
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 02351 - Encouragement of free enterprise and private participation](%C2%A7%2002351%20-%20Encouragement%20of%20free%20enterprise%20and%20private%20participation.md)
+- [&sect; 02352 - Small business](%C2%A7%2002352%20-%20Small%20business.md)
+- [&sect; 02353 - Shipping on United States vessels](%C2%A7%2002353%20-%20Shipping%20on%20United%20States%20vessels.md)
+- [&sect; 02354 - Procurement](%C2%A7%2002354%20-%20Procurement.md)
+- [&sect; 02355 - Retention and use of certain items and funds](%C2%A7%2002355%20-%20Retention%20and%20use%20of%20certain%20items%20and%20funds.md)
+- [&sect; 02356 - Patents and technical information](%C2%A7%2002356%20-%20Patents%20and%20technical%20information.md)
+- [&sect; 02357 - Furnishing of services and commodities](%C2%A7%2002357%20-%20Furnishing%20of%20services%20and%20commodities.md)
+- [&sect; 02358 - Foreign and domestic excess property](%C2%A7%2002358%20-%20Foreign%20and%20domestic%20excess%20property.md)
+- [&sect; 02359 - Special accounts](%C2%A7%2002359%20-%20Special%20accounts.md)
+- [&sect; 02360 - Transfer of funds between accounts](%C2%A7%2002360%20-%20Transfer%20of%20funds%20between%20accounts.md)
+- [&sect; 02361 - Completion of plans and cost estimates](%C2%A7%2002361%20-%20Completion%20of%20plans%20and%20cost%20estimates.md)
+- [&sect; 02362 - Use of foreign currencies](%C2%A7%2002362%20-%20Use%20of%20foreign%20currencies.md)
+- [&sect; 02363 - Accounting, valuation, reporting, and administration of foreign currencies](%C2%A7%2002363%20-%20Accounting%2C%20valuation%2C%20reporting%2C%20and%20administration%20of%20foreign%20currencies.md)
+- [&sect; 02364 - Special authorities](%C2%A7%2002364%20-%20Special%20authorities.md)
+- [&sect; 02365 - Contract authority](%C2%A7%2002365%20-%20Contract%20authority.md)
+- [&sect; 02366 - Availability of funds](%C2%A7%2002366%20-%20Availability%20of%20funds.md)
+- [&sect; 02367 - Termination of assistance; availability of funds for winding up programs; participant training](%C2%A7%2002367%20-%20Termination%20of%20assistance%3B%20availability%20of%20funds%20for%20winding%20up%20programs%3B%20participant%20training.md)
+- [&sect; 02368, 2369 - Repealed. Pub. L. 95&#8211;424, title VI, &sect;604, Oct. 6, 1978, 92 Stat. 961](%C2%A7%2002368%2C%202369%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93424%2C%20title%20VI%2C%20%C2%A7604%2C%20Oct.%206%2C%201978%2C%2092%20Stat.%20961.md)
+- [&sect; 02370 - Prohibitions against furnishing assistance](%C2%A7%2002370%20-%20Prohibitions%20against%20furnishing%20assistance.md)
+- [&sect; 02370a - Expropriation of United States property](%C2%A7%2002370a%20-%20Expropriation%20of%20United%20States%20property.md)
+- [&sect; 02371 - Prohibition on assistance to governments supporting international terrorism](%C2%A7%2002371%20-%20Prohibition%20on%20assistance%20to%20governments%20supporting%20international%20terrorism.md)
+- [&sect; 02372 - Repealed. Pub. L. 97&#8211;113, title VII, &sect;725(a), Dec. 29, 1981, 95 Stat. 1553](%C2%A7%2002372%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93113%2C%20title%20VII%2C%20%C2%A7725%28a%29%2C%20Dec.%2029%2C%201981%2C%2095%20Stat.%201553.md)
+- [&sect; 02372a - Renewal, reissuance, etc., of export licenses to or for Argentina](%C2%A7%2002372a%20-%20Renewal%2C%20reissuance%2C%20etc.%2C%20of%20export%20licenses%20to%20or%20for%20Argentina.md)
+- [&sect; 02373 - Eastern Mediterranean policy requirements](%C2%A7%2002373%20-%20Eastern%20Mediterranean%20policy%20requirements.md)
+- [&sect; 02374 - Prohibition on assistance to Afghanistan](%C2%A7%2002374%20-%20Prohibition%20on%20assistance%20to%20Afghanistan.md)
+- [&sect; 02375 - Assistance to Pakistan](%C2%A7%2002375%20-%20Assistance%20to%20Pakistan.md)
+- [&sect; 02376 - Nuclear non-proliferation policy in South Asia](%C2%A7%2002376%20-%20Nuclear%20non-proliferation%20policy%20in%20South%20Asia.md)

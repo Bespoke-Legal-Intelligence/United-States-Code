@@ -1,0 +1,56 @@
+### §1788. Special assistance to avoid liquidation
+
+#### (a) Loans; purchase of assets; accounts; agreements affecting interest of Board in any asset acquired by it
+
+(1) In order to reopen a closed insured credit union or in order to prevent the closing of an insured credit union which the Board has determined is in danger of closing or in order to assist in the voluntary liquidation of a solvent credit union, the Board, in its discretion, is authorized to make loans to, or purchase the assets of, or establish accounts in such insured credit union upon such terms and conditions as it may prescribe. Except with respect to the voluntary liquidation of a solvent credit union, such loans shall be made and such accounts shall be established only when, in the opinion of the Board, such action is necessary to protect the fund or the interests of the members of the credit union.
+
+(2) Whenever in the judgment of the Board such action will reduce the risk or avert a threatened loss to the fund and will facilitate a merger or consolidation of an insured credit union with another insured credit union, or will facilitate the sale of the assets of an open or closed insured credit union to and assumption of its liability by another person, the Board may, upon such terms and conditions as it may determine, make loans secured in whole or in part by assets of an open or closed insured credit union, which loans may be in subordination to the rights of members and creditors of such credit union, or the Board may purchase any of such assets or may guarantee any person against loss by reason of its assuming the liabilities and purchasing the assets of an open or closed insured credit union. For purposes of this paragraph, the term “person” means any credit union, individual, partnership, corporation, trust, estate, cooperative, association, government or governmental subdivision or agency, or other entity.
+
+(3) No agreement which tends to diminish or defeat the right, title, or interest of the Board, in any asset acquired by it under this subsection, either as security for a loan or by purchase, shall be valid against the Board unless such agreement—
+
+&emsp;(A) shall be in writing;
+
+&emsp;(B) shall have been executed by the credit union and the person or persons claiming an adverse interest thereunder, including the obligor, contemporaneously with the acquisition of the asset by the credit union;
+
+&emsp;(C) shall have been approved by the board of directors of the credit union, which approval shall be reflected in the minutes of such board; and
+
+&emsp;(D) shall have been continuously, from the time of its execution, an official record of the credit union.
+
+#### (b) Protection of Fund
+
+For the protection of the Fund, the Board, without regard to the Federal Property and Administrative Services Act of 1949, may—
+
+&emsp;(1) deal with, complete, reconstruct, rent, renovate, modernize, insure, make contracts for the management of, sell for cash or credit, or lease, in its discretion, any real property acquired or held by it under this section; and
+
+&emsp;(2) assign or sell at public or private sale, or otherwise dispose of, any evidence of debt, contract, claim, personal property, or security assigned to or held by it under this section.
+
+> Section 5 of title 41 shall not apply to any purchase or contract for services or supplies made or entered into by the Board under this section if the amount thereof does not exceed $1,000, or to any contract for hazard insurance on any real property acquired or held by it under this section.
+
+#### (c) Money paid into Fund
+
+Money received by the Board in carrying out this section shall be paid into the Fund.
+
+(June 26, 1934, ch. 750, title II, §208, as added Oct. 19, 1970, Pub. L. 91–468, §1(3), 84 Stat. 1013; amended Dec. 23, 1971, Pub. L. 92–221, §3, 85 Stat. 797; Aug. 22, 1974, Pub. L. 93–383, title VII, §729, 88 Stat. 721; Nov. 10, 1978, Pub. L. 95–630, title V, §502(b), 92 Stat. 3681; Aug. 10, 1987, Pub. L. 100–86, title VII, §714(b), (c), 101 Stat. 655.)
+
+#### References in Text
+
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. The provisions of that act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note under section 471 of Title 40 and Tables.
+
+#### Amendments
+
+1987—Subsecs. (c), (d). Pub. L. 100–86 redesignated subsec. (c) as section 1787(j) of this title and subsec. (d) as (c).
+
+1978—Pub. L. 95–630 substituted “Board” for “Administrator” wherever appearing, “it” for “he” and “its” for “him”, and “its” for “his”, where appropriate.
+
+1974—Subsec. (a)(1). Pub. L. 93–383 inserted provisions relating to the voluntary liquidation of a solvent credit union and struck out provisions subordinating loans and accounts to the rights of members and creditors of the credit union.
+
+1971—Subsec. (a)(2). Pub. L. 92–221 substituted “assumption of its liability by another person” for “assumption of its liability by another insured credit union” and “may guarantee any person against loss by reason of his” for “may guarantee any other insured credit union against loss by reason of its” and inserted definition of “person” as that term is used in par. (2).
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1783, 1787 of this title.
+

@@ -1,0 +1,384 @@
+### §2511. General authority to modify discriminatory purchasing requirements
+
+#### (a) Presidential waiver of discriminatory purchasing requirements
+
+Subject to subsection (f) of this section, the President may waive, in whole or in part, with respect to eligible products of any foreign country or instrumentality designated under subsection (b) of this section, and suppliers of such products, the application of any law, regulation, procedure, or practice regarding Government procurement that would, if applied to such products and suppliers, result in treatment less favorable than that accorded—
+
+&emsp;(1) to United States products and suppliers of such products; or
+
+&emsp;(2) to eligible products of another foreign country or instrumentality which is a party to the Agreement and suppliers of such products.
+
+#### (b) Designation of eligible countries and instrumentalities
+
+The President may designate a foreign country or instrumentality for purposes of subsection (a) of this section only if he determines that such country or instrumentality—
+
+&emsp;(1) is a country or instrumentality which (A) has become a party to the Agreement or the North American Free Trade Agreement, and (B) will provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products;
+
+&emsp;(2) is a country or instrumentality, other than a major industrial country, which (A) will otherwise assume the obligations of the Agreement, and (B) will provide such opportunities to such products and suppliers;
+
+&emsp;(3) is a country or instrumentality, other than a major industrial country, which will provide such opportunities to such products and suppliers; or
+
+&emsp;(4) is a least developed country.
+
+#### (c) Modification or withdrawal of waivers and designations
+
+The President may modify or withdraw any waiver granted pursuant to subsection (a) of this section or designation made pursuant to subsection (b) of this section.
+
+#### (d) Limitations on waiver authority not effective unless provision amended
+
+The authority of the President under subsection (a) of this section to waive any laws, regulation, procedure, or practice shall be effective notwithstanding any other provision of law hereafter enacted (excluding the provisions of and amendments made by the Buy American Act of 1988) unless such other provision specifically refers to and amends this section.
+
+#### (e) Procurement procedures by certain Federal agencies
+
+Notwithstanding any other provision of law, the President may direct any agency of the United States listed in Annex 1001.1a–2 of the North American Free Trade Agreement to procure eligible products in compliance with the procedural provisions of chapter 10 of such Agreement.
+
+#### (f) Small business and minority preferences
+
+The authority of the President under subsection (a) of this section to waive any law, regulation, procedure, or practice regarding Government procurement does not authorize the waiver of any small business or minority preference.
+
+(Pub. L. 96–39, title III, §301, July 26, 1979, 93 Stat. 236; Pub. L. 100–418, title VII, §7005(e), Aug. 23, 1988, 102 Stat. 1553; Pub. L. 103–182, title III, §381(a), Dec. 8, 1993, 107 Stat. 2128.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 7004 of Pub. L. 100–418, see Termination Date of 1988 Amendment note below.</i>
+
+#### References in Text
+
+The Buy American Act of 1988, referred to in subsec. (d), is title VII of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1545, which enacted section 10b–1 of Title 41, Public Contracts, amended sections 2511 and 2515 of this title and sections 10a, 10b, 10c, and 10d of Title 41, enacted provisions set out as notes under section 10a of Title 41, and amended provisions set out as notes under section 10c of Title 41. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 10a of Title 41 and Tables.
+
+#### Amendments
+
+1993—Subsec. (a). Pub. L. 103–182, §381(a)(1), substituted “Subject to subsection (f) of this section, the President” for “The President”.
+
+Subsec. (b)(1). Pub. L. 103–182, §381(a)(2), inserted “or the North American Free Trade Agreement” after “the Agreement”.
+
+Subsecs. (e), (f). Pub. L. 103–182, §381(a)(3), added subsecs. (e) and (f).
+
+1988—Subsec. (d). Pub. L. 100–418, §§7004, 7005(e), temporarily added subsec. (d). See Termination Date of 1988 Amendment note below.
+
+#### Effective Date of 1993 Amendment
+
+Section 381(e) of title III of Pub. L. 103–182 provided that: “The provisions of this subtitle \[subtitle G (§381) of title III of Pub. L. 103–182, amending this section, sections 2512 and 2518 of this title, and provisions set out as a note under section 903 of Title 7, Agriculture\] take effect on the date the Agreement \[North American Free Trade Agreement\] enters into force with respect to the United States \[Jan. 1, 1994\].”
+
+#### Termination Date of 1988 Amendment
+
+Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless Congress, after reviewing report required by section 2515(k) of this title, extends such date, see section 7004 of Pub. L. 100–418, set out as an Effective and Termination Dates of 1988 Amendments note under section 10a of Title 41, Public Contracts.
+
+#### Effective Date
+
+Section 309 of title III of Pub. L. 96–39 provided that: “The provisions of this title \[this subchapter\] shall be effective on the date of enactment of this Act \[July 26, 1979\], except that—
+
+&emsp;“(1) the authority of the President to grant waivers under section 303 \[section 2513 of this title\] shall be effective on January 1, 1980; and
+
+&emsp;“(2) the authority of the President to grant waivers under section 301 \[this section\] shall be effective on January 1, 1981.”
+
+#### Delegation of Functions
+
+Functions of President under this section delegated to United States Trade Representative, see section 1–201 of Ex. Ord. No. 12260, set out as a note below.
+
+#### Ex. Ord. No. 12260. Agreement on Government Procurement
+
+Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, as amended by Ex. Ord. No. 12347, Feb. 23, 1982, 47 F.R. 8149; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12474, Apr. 17, 1984, 49 F.R. 15539, provided:
+
+By the authority vested in me as President by the Constitution and statutes of the United States of America, including Title III of the Trade Agreements Act of 1979 (19 U.S.C. 2511–2518), and Section 301 of Title 3 of the United States Code, and in order to implement the Agreement on Government Procurement, as defined in 19 U.S.C. 2518(1), it is hereby ordered as follows:
+
+#### 1–1.
+
+Responsibilities
+
+1–101. The obligations of the Agreement on Government Procurement (Agreement on Government Procurement, General Agreement on Tariffs and Trade, 12 April 1979, Geneva (GATT 1979)) apply to any procurement of eligible products by the Executive agencies listed in the Annex to this Order (eligible products are defined in Section 308 of the Trade Agreements Act of 1979; 19 U.S.C. 2518(4)). Such procurement shall be in accord with the policies and procedures of the Office of Federal Procurement Policy (41 U.S.C. 401 et seq.).
+
+1–102. The United States Trade Representative, hereinafter referred to as the Trade Representative, shall be responsible for interpretation of the Agreement. The Trade Representative shall seek the advice of the interagency organization established under Section 242(a) of the Trade Expansion Act of 1962 (19 U.S.C. 1872(a)) and consult with affected Executive agencies, including the Office of Federal Procurement Policy.
+
+1–103. The interpretation of Article VIII:1 of the Agreement shall be subject to the concurrence of the Secretary of Defense
+
+1–104. The Trade Representative shall determine, from time to time, the dollar equivalent of 150,000 Special Drawing Right units and shall publish that determination in the Federal Register. Procurement of less than 150,000 Special Drawing Right units is not subject to the Agreement or this Order (Article I:1(b) of the Agreement).
+
+1–105. In order to ensure coordination of international trade policy with regard to the implementation of the Agreement, agencies shall consult in advance with the Trade Representative about negotiations with foreign governments or instrumentalities which concern government procurement.
+
+#### 1–2.
+
+Delegations and Authorization
+
+1–201. The functions vested in the President by Sections 301, 302, 304, 305(c) and 306 of the Trade Agreements Act of 1979 (19 U.S.C. 2511, 2512, 2514, 2515(c) and 2516) are delegated to the Trade Representative.
+
+1–202. Notwithstanding the delegation in Section 1–201, the Secretary of Defense is authorized, in accord with Section 302(b)(3) of the Trade Agreements Act of 1979 (19 U.S.C. 2512(b)(3)), to waive the prohibitions specified therein.
+
+#### Annex
+
+1\. ACTION
+
+2\. Administrative Conference of the United States
+
+3\. American Battle Monuments Commission
+
+4\. Board for International Broadcasting
+
+5\. Civil Aeronautics Board
+
+6\. Commission on Civil Rights
+
+7\. Commodity Futures Trading Commission
+
+8\. Consumer Product Safety Commission
+
+9\. Department of Agriculture (The Agreement on Government Procurement does not apply to procurement of agricultural products made in furtherance of agricultural support programs or human feeding programs)
+
+10\. Department of Commerce
+
+11\. Department of Defense (Excludes Corps of Engineers)
+
+12\. Department of Education
+
+13\. Department of Health and Human Services
+
+14\. Department of Housing and Urban Development
+
+15\. Department of the Interior (Excludes the Bureau of Reclamation)
+
+16\. Department of Justice
+
+17\. Department of Labor
+
+18\. Department of State
+
+19\. Department of the Treasury
+
+20\. Environmental Protection Agency
+
+21\. Equal Employment Opportunity Commission
+
+22\. Executive Office of the President
+
+23\. Export-Import Bank of the United States
+
+24\. Farm Credit Administration
+
+25\. Federal Communications Commission
+
+26\. Federal Deposit Insurance Corporation
+
+27\. Federal Home Loan Bank Board
+
+28\. Federal Maritime Commission
+
+29\. Federal Mediation and Conciliation Service
+
+30\. Federal Trade Commission
+
+31\. General Services Administration (Purchases by the Tools Commodity Center, and the Region 9 Office in San Francisco, California are not included)
+
+32\. Interstate Commerce Commission
+
+33\. Merit Systems Protection Board
+
+34\. National Aeronautics and Space Administration
+
+35\. National Credit Union Administration
+
+36\. National Labor Relations Board
+
+37\. National Mediation Board
+
+38\. National Science Foundation
+
+39\. National Transportation Safety Board
+
+40\. Nuclear Regulatory Commission
+
+41\. Office of Personnel Management
+
+42\. Overseas Private Investment Corporation
+
+43\. Panama Canal Commission
+
+44\. Railroad Retirement Board
+
+45\. Securities and Exchange Commission
+
+46\. Selective Service System
+
+47\. Smithsonian Institution
+
+48\. United States Arms Control and Disarmament Agency
+
+49\. United States Information Agency
+
+50\. United States International Development Cooperation Agency
+
+51\. United States International Trade Commission
+
+52\. Veterans Administration
+
+53\. Maritime Administration of the Department of Transportation
+
+54\. The Peace Corps
+
+#### Ex. Ord. No. 12849. Implementation of Agreement With European Community on Government Procurement
+
+Ex. Ord. No. 12849, May 25, 1993, 58 F.R. 30931, provided:
+
+WHEREAS, the United States and the European Community (EC) have entered into a Memorandum of Understanding on Government Procurement (Agreement) that provides appropriate reciprocal competitive government procurement opportunities;
+
+WHEREAS, the commitments made in the Agreement are intended to become part of an expanded General Agreement on Tariffs and Trade Agreement on Government Procurement (GATT Code) and are an important step toward an expanded GATT Code;
+
+WHEREAS, as a result of these commitments, U.S. businesses will obtain increased access to EC member state procurement for U.S. goods and services;
+
+WHEREAS, I have determined that it is inconsistent with the public interest to apply the restrictions of the Buy American Act, as amended (41 U.S.C. 10a–10d) \[41 U.S.C. 10a, 10b, 10b–1, 10c\], to procurement covered by the Agreement;
+
+NOW, THEREFORE, by virtue of the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and title III of the Trade Agreements Act of 1979, as amended (19 U.S.C. 2511–2518), and in order to implement the Agreement, it is hereby ordered as follows:
+
+Section 1. In applying the provisions of the Buy American Act, the heads of the agencies listed in Annex 1, Parts A and B, of this order are requested, as of the date of this order, to apply no price differential between articles, materials, or supplies of U.S. origin and those originating in the member states of the EC.
+
+Sec. 2. For purposes of this order, the rule of origin specified in section 308 of the Trade Agreements Act of 1979, as amended (19 U.S.C. 2518), shall apply in determining whether goods originate in the member states of the EC.
+
+Sec. 3. This order shall apply only to solicitations, issued by agencies listed in Annex 1, Parts A and B, of this order, above the threshold amounts set forth in Annex 2.
+
+Sec. 4. This order shall apply to solicitations outstanding on the date of this order, except for those for which the initial deadline for receipt of bids or proposals has passed, and to all solicitations issued after the date of this order.
+
+Sec. 5. Except for procurements by the Department of Defense, the United States Trade Representative (USTR) shall be responsible for interpretation of the Agreement. The USTR shall seek the advice of the interagency organization established under section 242(a) of the Trade Expansion Act of 1962 (19 U.S.C. 1872(a)) and consult with affected agencies, including the Office of Federal Procurement Policy.
+
+Sec. 6. This Executive order is effective immediately. Although regulatory implementation of this order must await revisions to the Federal Acquisition Regulation (FAR), it is expected that agencies listed in Annex 1, Parts A and B, of this order will take all appropriate actions in the interim to implement those aspects of the order that are not dependent upon regulatory revision.
+
+Sec. 7. Pursuant to section 25 of the Office of Federal Procurement Policy Act, as amended (41 U.S.C. 421(a)), the Federal Acquisition Regulatory Council shall ensure that the policies established herein are incorporated in the FAR within 30 days from the date this order is issued.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Annex 1A
+
+Department of Agriculture
+
+Department of Commerce
+
+Department of Defense
+
+Department of Education
+
+Department of Energy (Not including national security procurement made in support of safeguarding nuclear materials or technology and entered into under the authority of the Atomic Energy Act \[42 U.S.C. 2011 et seq.\]; and oil purchases related to the Strategic Petroleum Reserve)
+
+Department of Health and Human Services
+
+Department of Housing and Urban Development
+
+Department of the Interior
+
+Department of Justice
+
+Department of Labor
+
+Department of State
+
+Department of Transportation (The national security consideration currently applicable to the Department of Defense under the GATT Government Procurement Code is equally applicable under this Agreement to the Coast Guard)
+
+Department of the Treasury
+
+United States Agency for International Development
+
+General Services Administration (other than Federal Supply Groups 51 and 52 and Federal Supply Class 7340)
+
+National Aeronautics and Space Administration
+
+Department of Veterans Affairs
+
+Environmental Protection Agency
+
+United States Information Agency
+
+National Science Foundation
+
+Panama Canal Commission
+
+Executive Office of the President
+
+Farm Credit Administration
+
+National Credit Union Administration
+
+Merit Systems Protection Board
+
+ACTION Agency
+
+United States Arms Control and Disarmament Agency
+
+Office of Thrift Supervision
+
+Federal Housing Finance Board
+
+National Labor Relations Board
+
+National Mediation Board
+
+Railroad Retirement Board
+
+American Battle Monuments Commission
+
+Federal Communications Commission
+
+Federal Trade Commission
+
+Interstate Commerce Commission
+
+Securities and Exchange Commission
+
+Office of Personnel Management
+
+United States International Trade Commission
+
+Export-Import Bank of the United States
+
+Federal Mediation and Conciliation Service
+
+Selective Service System
+
+Smithsonian Institution
+
+Federal Deposit Insurance Corporation
+
+Consumer Product Safety Commission
+
+Equal Employment Opportunity Commission
+
+Federal Maritime Commission
+
+National Transportation Safety Board
+
+Nuclear Regulatory Commission
+
+Overseas Private Investment Corporation
+
+Administrative Conference of the United States
+
+Board for International Broadcasting
+
+Commission on Civil Rights
+
+Commodity Futures Trading Commission
+
+The Peace Corps
+
+National Archives and Records Administration
+
+#### Annex 1B
+
+The Power Marketing Administrations of the Department of Energy
+
+Tennessee Valley Authority
+
+#### Annex 2
+
+#### Thresholds Applicable to Agencies listed in Annex 1A
+
+Goods contracts—130,000 SDRs (currently $176,000)
+
+Construction contracts—$6,500,000
+
+#### Thresholds Applicable to Agencies listed in Annex 1B
+
+Goods contracts—$450,000
+
+Construction contracts—$6,500,000
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2512, 2514, 2515 of this title.
+

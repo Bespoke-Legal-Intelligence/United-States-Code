@@ -1,0 +1,6 @@
+### §20e. First meeting
+
+The first meeting of this corporation shall be held on a call issued by any fifteen of the above-named corporators by a written notice signed by them, stating the time and place of meeting, addressed to each of the corporators personally named herein and deposited in the post-office at least five days before the day of meeting.
+
+(June 9, 1906, ch. 3065, §5, 34 Stat. 228.)
+

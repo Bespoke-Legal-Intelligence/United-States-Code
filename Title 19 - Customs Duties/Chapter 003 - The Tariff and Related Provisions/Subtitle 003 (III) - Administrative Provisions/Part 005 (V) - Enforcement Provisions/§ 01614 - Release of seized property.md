@@ -1,0 +1,40 @@
+### §1614. Release of seized property
+
+If any person claiming an interest in any vessel, vehicle, aircraft, merchandise, or baggage seized under the provisions of this chapter offers to pay the value of such vessel, vehicle, aircraft, merchandise, or baggage, as determined under section 1606 of this title, and it appears that such person has in fact a substantial interest therein, the appropriate customs officer may, subject to the approval of the Secretary of the Treasury if under the customs laws, or the Commandant of the Coast Guard or the Commissioner of Customs, as the case may be, if under the navigation laws, accept such offer and release the vessel, vehicle, aircraft, merchandise, or baggage seized upon the payment of such value thereof, which shall be distributed in the order provided in section 1613 of this title.
+
+(June 17, 1930, ch. 497, title IV, §614, 46 Stat. 757; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; June 2, 1970, Pub. L. 91–271, title III, §301(b), 84 Stat. 287; Oct. 12, 1984, Pub. L. 98–473, title II, §321, 98 Stat. 2056; Oct. 30, 1984, Pub. L. 98–573, title II, §213(a)(12), 98 Stat. 2987.)
+
+#### References in Text
+
+The customs laws, referred to in text, are classified generally to this title.
+
+The navigation laws, referred to in text, are classified generally to Title 33, Navigation and Navigable Waters.
+
+#### Prior Provisions
+
+Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §614, 42 Stat. 987. That section was superseded by section 614 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+
+A prior provision authorizing collectors, subject to the approval of the Secretary of the Treasury, to release seized merchandise on payment of the appraised value when the appraised value did not exceed $1,000, were contained in R.S. §3081, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+
+#### Amendments
+
+1984—Pub. L. 98–573 and Pub. L. 98–473 inserted reference to aircraft in three places.
+
+1970—Pub. L. 91–271 substituted reference to the appropriate customs officer for reference to the collector.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–573 effective Oct. 15, 1984, see section 214(e) of Pub. L. 98–573, set out as a note under section 1304 of this title.
+
+#### Effective Date of 1970 Amendment
+
+For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
+
+#### Transfer of Functions
+
+Substitution in text of reference to Commandant of the Coast Guard or Commissioner of Customs for “the Secretary of Commerce” under the authority of Reorg. Plan No. 3 of 1946, see Transfer of Functions note set out under section 1613 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1600, 2254 of this title.
+

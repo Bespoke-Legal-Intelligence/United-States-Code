@@ -1,0 +1,92 @@
+### §3401. Definitions
+
+For the purpose of this chapter—
+
+&emsp;(1) “agency” means—
+
+&emsp;&emsp;(A) an Executive agency;
+
+&emsp;&emsp;(B) a military department;
+
+&emsp;&emsp;(C) an agency in the judicial branch;
+
+&emsp;&emsp;(D) the Library of Congress;
+
+&emsp;&emsp;(E) the Botanic Garden; and
+
+&emsp;&emsp;(F) the Office of the Architect of the Capitol; but does not include—
+
+&emsp;&emsp;(i) a Government controlled corporation;
+
+&emsp;&emsp;(ii) the Tennessee Valley Authority;
+
+&emsp;&emsp;(iii) the Virgin Islands Corporation;
+
+&emsp;&emsp;(iv) the Panama Canal Company;
+
+&emsp;&emsp;(v) the Federal Bureau of Investigation, Department of Justice;
+
+&emsp;&emsp;(vi) the Central Intelligence Agency; and
+
+&emsp;&emsp;(vii) the National Security Agency, Department of Defense; and
+
+&emsp;(2) “part-time career employment” means part-time employment of 16 to 32 hours a week (or 32 to 64 hours during a biweekly pay period in the case of a flexible or compressed work schedule under subchapter II of chapter 61 of this title) under a schedule consisting of an equal or varied number of hours per day, whether in a position which would be part-time without regard to this section or one established to allow job-sharing or comparable arrangements, but does not include employment on a temporary or intermittent basis.
+
+(Added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 1056, §3391; renumbered §3401 and amended Pub. L. 95–454, title IX, §906(c)(1)(B), (2)(A), Oct. 13, 1978, 92 Stat. 1226; Pub. L. 97–221, §3, July 23, 1982, 96 Stat. 233; Pub. L. 97–468, title VI, §615(b)(1)(B), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 102–378, §2(15), Oct. 2, 1992, 106 Stat. 1347.)
+
+#### References in Text
+
+For definition of Panama Canal Company, referred to in par. (1)(iv), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
+
+#### Amendments
+
+1992—Par. (1)(iii). Pub. L. 102–378, which directed the amendment of cl. (iv) by substituting “Virgin Islands” for “Virgin Island”, was executed by making the substitution in cl. (iii) to reflect the probable intent of Congress.
+
+1983—Par. (1)(iii) to (viii). Pub. L. 97–468 struck out cl. (iii) which excluded the Alaska Railroad, and redesignated cls. (iv) to (viii) as (iii) to (vii), respectively.
+
+1982—Par. (2). Pub. L. 97–221 inserted “(or 32 to 64 hours during a biweekly pay period in the case of a flexible or compressed work schedule under subchapter II of chapter 61 of this title)” after “week”.
+
+1978—Pub. L. 95–454, §906(c)(1)(B), renumbered section 3391 of this title as this section.
+
+Pub. L. 95–454, §906(c)(2)(A), substituted “chapter” for “subchapter”.
+
+#### Effective Date of 1983 Amendment
+
+Amendment by Pub. L. 97–468 effective on date of transfer of Alaska Railroad to the State \[Jan. 5, 1985\], pursuant to section 1203 of Title 45, Railroads, see section 615(b) of Pub. L. 97–468.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Short Title of 1978 Amendment
+
+Section 1 of Pub. L. 95–437 provided that: “This Act \[enacting this chapter, amending sections 8347, 8716, 8906, and 8913 of this title, and enacting provisions set out as notes under this section and sections 3407 and 8906 of this title\] may be cited as the ‘Federal Employees Part-Time Career Employment Act of 1978’.”
+
+#### Congressional Findings and Purpose
+
+Section 2 of Pub. L. 95–437 provided that:
+
+“(a) The Congress finds that—
+
+&emsp;“(1) many individuals in our society possess great productive potential which goes unused because they cannot meet the requirements of a standard workweek; and
+
+&emsp;“(2) part-time permanent employment—
+
+&emsp;&emsp;“(A) provides older individuals with a gradual transition into retirement;
+
+&emsp;&emsp;“(B) provides employment opportunities to handicapped individuals or others who require a reduced workweek;
+
+&emsp;&emsp;“(C) provides parents opportunities to balance family responsibilities with the need for additional income;
+
+&emsp;&emsp;“(D) benefits students who must finance their own education or vocational training;
+
+&emsp;&emsp;“(E) benefits the Government, as an employer, by increasing productivity and job satisfaction, while lowering turnover rates and absenteeism, offering management more flexibility in meeting work requirements, and filling shortages in various occupations; and
+
+&emsp;&emsp;“(F) benefits society by offering a needed alternative for those individuals who require or prefer shorter hours (despite the reduced income), thus increasing jobs available to reduce unemployment while retaining the skills of individuals who have training and experience.
+
+“(b) The purpose of this Act \[enacting this chapter, amending sections 8347, 8716, 8906, and 8913 of this title, and enacting provisions set out as notes under this section and sections 3407 and 8906 of this title\] is to provide increased part-time career employment opportunities throughout the Federal Government.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6323, 8347, 8402, 8716, 8906, 8913 of this title.
+

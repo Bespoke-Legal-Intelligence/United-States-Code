@@ -1,0 +1,80 @@
+### §4309. Rifle ranges: availability for use by members and civilians
+
+(a)
+
+Ranges Available.—All rifle ranges constructed in whole or in part with funds provided by the United States may be used by members of the armed forces and by persons capable of bearing arms.
+
+(b)
+
+Military Ranges.—(1) In the case of a rifle range referred to in subsection (a) that is located on a military installation, the Secretary concerned may establish reasonable fees for the use by civilians of that rifle range to cover the material and supply costs incurred by the armed forces to make that rifle range available to civilians.
+
+(2) Fees collected pursuant to paragraph (1) in connection with the use of a rifle range shall be credited to the appropriation available for the operation and maintenance of that rifle range and shall be available for the operation and maintenance of that rifle range.
+
+(3) Use of a rifle range referred to in paragraph (1) by civilians may not interfere with the use of the range by members of the armed forces.
+
+(c)
+
+Regulations.—Regulations to carry out this section with respect to a rifle range shall be prescribed, subject to the approval of the Secretary concerned, by the authorities controlling the rifle range.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 236; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1301(b)(3)(A), 99 Stat. 735; Nov. 5, 1990, Pub. L. 101–510, div. A, title III, §328(e), 104 Stat. 1533; Oct. 23, 1992, Pub. L. 102–484, div. A, title III, §380(b)(1), 106 Stat. 2390.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+4309(a)
+
+4309(b)
+
+32:186 (1st sentence).
+
+32:186 (less 1st sentence).
+
+June 3, 1916, ch. 134, §113 (1st 2 sentences), 39 Stat. 211.
+
+In subsection (a), the words “such a comprehensive \* \* \* as will ultimately result in” are omitted as surplusage.
+
+In subsection (b), the words “United States” are substituted for the word “Congress”. The words “members of the armed forces” are substituted for the words “those in any branch of the military or naval service”. The words “of the United States” are omitted as surplusage.
+
+#### Amendments
+
+1992—Pub. L. 102–484 amended section generally. Prior to amendment section read as follows:
+
+“(a)
+
+Ranges Available.—(1) All rifle ranges constructed in whole or in part with funds provided by the United States may be used by members of the armed forces and by able-bodied persons capable of bearing arms.
+
+“(b)
+
+Military Ranges.—(1) In the case of a rifle range referred to in subsection (a) located on a military installation, the Secretary of the Army shall establish reasonable fees for the use by civilians of that rifle range to cover any costs incurred by the Army to make that rifle range available to civilians.
+
+“(2) Use of a rifle range referred to in paragraph (1) by civilians may not interfere with the use of those ranges by members of the armed forces.
+
+“(c)
+
+Regulations.—Regulations to carry out this section shall be prescribed by the authorities controlling the rifle range, subject to the approval of the Secretary of the Army.”
+
+1990—Pub. L. 101–510 substituted “Rifle ranges: available for use by members and civilians” for “Rifle ranges: recommendations to Congress; regulations” in section catchline and amended text generally. Prior to amendment, text read as follows:
+
+“(a) The Secretary of the Army shall submit annually to Congress recommendations and estimates for the establishment and maintenance of indoor and outdoor rifle ranges under a plan to provide facilities for rifle practice in all sections of the country.
+
+“(b) All rifle ranges established under subsection (a) and all rifle ranges already constructed, in whole or in part with funds provided by the United States, may be used by members of the armed forces and by all able-bodied persons capable of bearing arms, under regulations prescribed by the authorities controlling those ranges and approved by the Secretary.”
+
+1985—Subsec. (b). Pub. L. 99–145 substituted “persons” for “males”.
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–484 effective Oct. 1, 1992, and to be considered executed immediately following the amendments made by section 328 of Pub. L. 101–510, see section 380(e) of Pub. L. 102–484, set out as a note under section 4308 of this title.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–510, effective Oct. 1, 1992, see section 328(h) of Pub. L. 101–510, set out as a note under section 4308 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4311 of this title.
+

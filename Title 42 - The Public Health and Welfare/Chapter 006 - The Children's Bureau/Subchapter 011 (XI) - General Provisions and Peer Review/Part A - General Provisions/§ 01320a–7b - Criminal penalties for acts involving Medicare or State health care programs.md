@@ -1,0 +1,178 @@
+### §1320a–7b. Criminal penalties for acts involving Medicare or State health care programs
+
+#### (a) Making or causing to be made false statements or representations
+
+Whoever—
+
+&emsp;(1) knowingly and willfully makes or causes to be made any false statement or representation of a material fact in any application for any benefit or payment under a program under subchapter XVIII of this chapter or a State health care program (as defined in section 1320a–7(h) of this title),
+
+&emsp;(2) at any time knowingly and willfully makes or causes to be made any false statement or representation of a material fact for use in determining rights to such benefit or payment,
+
+&emsp;(3) having knowledge of the occurrence of any event affecting (A) his initial or continued right to any such benefit or payment, or (B) the initial or continued right to any such benefit or payment of any other individual in whose behalf he has applied for or is receiving such benefit or payment, conceals or fails to disclose such event with an intent fraudulently to secure such benefit or payment either in a greater amount or quantity than is due or when no such benefit or payment is authorized,
+
+&emsp;(4) having made application to receive any such benefit or payment for the use and benefit of another and having received it, knowingly and willfully converts such benefit or payment or any part thereof to a use other than for the use and benefit of such other person, or
+
+&emsp;(5) presents or causes to be presented a claim for a physician's service for which payment may be made under a program under subchapter XVIII of this chapter or a State health care program and knows that the individual who furnished the service was not licensed as a physician,
+
+> shall (i) in the case of such a statement, representation, concealment, failure, or conversion by any person in connection with the furnishing (by that person) of items or services for which payment is or may be made under the program, be guilty of a felony and upon conviction thereof fined not more than $25,000 or imprisoned for not more than five years or both, or (ii) in the case of such a statement, representation, concealment, failure, or conversion by any other person, be guilty of a misdemeanor and upon conviction thereof fined not more than $10,000 or imprisoned for not more than one year, or both. In addition, in any case where an individual who is otherwise eligible for assistance under a State plan approved under subchapter XIX of this chapter is convicted of an offense under the preceding provisions of this subsection, the State may at its option (notwithstanding any other provision of that subchapter or of such plan) limit, restrict, or suspend the eligibility of that individual for such period (not exceeding one year) as it deems appropriate; but the imposition of a limitation, restriction, or suspension with respect to the eligibility of any individual under this sentence shall not affect the eligibility of any other person for assistance under the plan, regardless of the relationship between that individual and such other person.
+
+#### (b) Illegal remunerations
+
+(1) Whoever knowingly and willfully solicits or receives any remuneration (including any kickback, bribe, or rebate) directly or indirectly, overtly or covertly, in cash or in kind—
+
+&emsp;(A) in return for referring an individual to a person for the furnishing or arranging for the furnishing of any item or service for which payment may be made in whole or in part under subchapter XVIII of this chapter or a State health care program, or
+
+&emsp;(B) in return for purchasing, leasing, ordering, or arranging for or recommending purchasing, leasing, or ordering any good, facility, service, or item for which payment may be made in whole or in part under subchapter XVIII of this chapter or a State health care program,
+
+> shall be guilty of a felony and upon conviction thereof, shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
+
+(2) Whoever knowingly and willfully offers or pays any remuneration (including any kickback, bribe, or rebate) directly or indirectly, overtly or covertly, in cash or in kind to any person to induce such person—
+
+&emsp;(A) to refer an individual to a person for the furnishing or arranging for the furnishing of any item or service for which payment may be made in whole or in part under subchapter XVIII of this chapter or a State health care program, or
+
+&emsp;(B) to purchase, lease, order, or arrange for or recommend purchasing, leasing, or ordering any good, facility, service, or item for which payment may be made in whole or in part under subchapter XVIII of this chapter or a State health care program,
+
+> shall be guilty of a felony and upon conviction thereof, shall be fined not more than $25,000 orimprisoned for not more than five years, or both.
+
+(3) Paragraphs (1) and (2) shall not apply to—
+
+&emsp;(A) a discount or other reduction in price obtained by a provider of services or other entity under subchapter XVIII of this chapter or a State health care program if the reduction in price is properly disclosed and appropriately reflected in the costs claimed or charges made by the provider or entity under subchapter XVIII of this chapter or a State health care program;
+
+&emsp;(B) any amount paid by an employer to an employee (who has a bona fide employment relationship with such employer) for employment in the provision of covered items or services;
+
+&emsp;(C) any amount paid by a vendor of goods or services to a person authorized to act as a purchasing agent for a group of individuals or entities who are furnishing services reimbursed under subchapter XVIII of this chapter or a State health care program if—
+
+&emsp;&emsp;(i) the person has a written contract, with each such individual or entity, which specifies the amount to be paid the person, which amount may be a fixed amount or a fixed percentage of the value of the purchases made by each such individual or entity under the contract, and
+
+&emsp;&emsp;(ii) in the case of an entity that is a provider of services (as defined in section 1395x(u) of this title), the person discloses (in such form and manner as the Secretary requires) to the entity and, upon request, to the Secretary the amount received from each such vendor with respect to purchases made by or on behalf of the entity;
+
+&emsp;(D) a waiver of any coinsurance under part B of subchapter XVIII of this chapter by a Federally qualified health care center with respect to an individual who qualifies for subsidized services under a provision of the Public Health Service Act \[42 U.S.C. 201 et seq.\]; and
+
+&emsp;(E) any payment practice specified by the Secretary in regulations promulgated pursuant to section 14(a) of the Medicare and Medicaid Patient and Program Protection Act of 1987.
+
+#### (c) False statements or representations with respect to condition or operation of institutions
+
+Whoever knowingly and willfully makes or causes to be made, or induces or seeks to induce the making of, any false statement or representation of a material fact with respect to the conditions or operation of any institution, facility, or entity in order that such institution, facility, or entity may qualify (either upon initial certification or upon recertification) as a hospital, rural primary care hospital, skilled nursing facility, nursing facility, intermediate care facility for the mentally retarded, home health agency, or other entity (including an eligible organization under section 1395mm(b) of this title) for which certification is required under subchapter XVIII of this chapter or a State health care program, or with respect to information required to be provided under section 1320a–3a of this title, shall be guilty of a felony and upon conviction thereof shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
+
+#### (d) Illegal patient admittance and retention practices
+
+Whoever knowingly and willfully—
+
+&emsp;(1) charges, for any service provided to a patient under a State plan approved under subchapter XIX of this chapter, money or other consideration at a rate in excess of the rates established by the State, or
+
+&emsp;(2) charges, solicits, accepts, or receives, in addition to any amount otherwise required to be paid under a State plan approved under subchapter XIX of this chapter, any gift, money, donation, or other consideration (other than a charitable, religious, or philanthropic contribution from an organization or from a person unrelated to the patient)—
+
+&emsp;&emsp;(A) as a precondition of admitting a patient to a hospital, nursing facility, or intermediate care facility for the mentally retarded, or
+
+&emsp;&emsp;(B) as a requirement for the patient's continued stay in such a facility,
+
+> &emsp;when the cost of the services provided therein to the patient is paid for (in whole or in part) under the State plan,
+
+> shall be guilty of a felony and upon conviction thereof shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
+
+#### (e) Violation of assignment terms
+
+Whoever accepts assignments described in section 1395u(b)(3)(B)(ii) of this title or agrees to be a participating physician or supplier under section 1395u(h)(1) of this title and knowingly, willfully, and repeatedly violates the term of such assignments or agreement, shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $2,000 or imprisoned for not more than six months, or both.
+
+(Aug. 14, 1935, ch. 531, title XI, §1128B, formerly title XVIII, §1877(d), and title XIX, §1909, as added and amended Oct. 30, 1972, Pub. L. 92–603, title II, §§242(c), 278(b)(9), 86 Stat. 1419, 1454; Oct. 25, 1977, Pub. L. 95–142, §4(a), (b), 91 Stat. 1179, 1181; Dec. 5, 1980, Pub. L. 96–499, title IX, §917, 94 Stat. 2625; July 18, 1984, Pub. L. 98–369, div. B, title III, §2306(f)(2), 98 Stat. 1073; renumbered title XI, §1128B, and amended Aug. 18, 1987, Pub. L. 100–93, §§4(a)–(d), 14(b), 101 Stat. 688, 689, 697; Dec. 22, 1987, Pub. L. 100–203, title IV, §§4039(a), 4211(h)(7), 101 Stat. 1330–81, 1330–206; July 1, 1988, Pub. L. 100–360, title IV, §411(a)(3)(A), (B)(i), 102 Stat. 768; Dec. 19, 1989, Pub. L. 101–239, title VI, §6003(g)(3)(D)(ii), 103 Stat. 2153; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4161(a)(4), 4164(b)(2), 104 Stat. 1388–94, 1388–102; Oct. 31, 1994, Pub. L. 103–432, title I, §133(a)(2), 108 Stat. 4421.)
+
+#### References in Text
+
+Part B of subchapter XVIII of this chapter, referred to in subsec. (b)(3)(D), is classified to section 1395j et seq. of this title.
+
+The Public Health Service Act, referred to in subsec. (b)(3)(D), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification ofthis Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+
+Section 14(a) of the Medicare and Medicaid Patient and Program Protection Act of 1987, referred to in subsec. (b)(3)(E), is section 14(a) of Pub. L. 100–93, which is set out below.
+
+#### Codification
+
+Prior to redesignation by Pub. L. 100–93, subsecs. (a) to (d) of this section were subsecs. (a) to (d) of section 1909 of act Aug. 14, 1935, which was classified to section 1396h of this title, and subsec. (e) of this section was subsec. (d) of section 1877 of act Aug. 14, 1935, which was classified to section 1395nn of this title.
+
+#### Amendments
+
+1994—Subsec. (b)(3)(B). Pub. L. 103–432, which directed substitution of “1395m(j)(5)” for “1395m(j)(4)” in subpar. (B) as amended by section 134(a) of Pub. L. 103–432, could not be executed because “1395m(j)(4)” does not appear in subpar. (B) and section 134(a) of Pub. L. 103–432 did not amend this section.
+
+1990—Subsec. (b)(3)(D), (E). Pub. L. 101–508, §4161(a)(4), added subpar. (D) and redesignated former subpar. (D) as (E).
+
+Subsec. (c). Pub. L. 101–508, §4164(b)(2), substituted “health care program, or with respect to information required to be provided under section 1320a–3a of this title,” for “health care program”.
+
+1989—Subsec. (c). Pub. L. 101–239 inserted “rural primary care hospital,” after “hospital,”.
+
+1988—Subsec. (c). Pub. L. 100–360 made technical correction to directory language of Pub. L. 100–203, §4039(a), see 1987 Amendment note below.
+
+Pub. L. 100–203, §4211(h)(7)(A), substituted “nursing facility, intermediate care facility for the mentally retarded” for “intermediate care facility”.
+
+Subsec. (d)(2)(A). Pub. L. 100–203, §4211(h)(7)(B), substituted “nursing facility, or intermediate care facility for the mentally retarded” for “skilled nursing facility, or intermediate care facility”.
+
+1987—Pub. L. 100–93, §4(a)(1), substituted “Criminal penalties for acts involving Medicare or State health care programs” for “Offenses and penalties” in section catchline.
+
+Subsec. (a). Pub. L. 100–93, §4(a)(3), (4), in concluding provisions, substituted “made under the program” for “made under this subchapter”, “approved under subchapter XIX of this chapter” for “approved under this subchapter”, and “provision of that subchapter” for “provision of this subchapter”.
+
+Subsec. (a)(1). Pub. L. 100–93, §4(a)(2), substituted “a program under subchapter XVIII of this chapter or a State health care program (as defined in section 1320a–7(h) of this title)” for “a State plan approved under this subchapter”.
+
+Subsec. (a)(5). Pub. L. 100–93, §4(b), added par. (5).
+
+Subsec. (b)(1)(A), (B), (2)(A), (B). Pub. L. 100–93, §4(a)(5), substituted “subchapter XVIII of this chapter or a State health care program” for “this subchapter”.
+
+Subsec. (b)(3). Pub. L. 100–93, §§4(a)(5), (6), 14(b), substituted “subchapter XVIII of this chapter or a State health care program” for “this subchapter” in two places in subpar. (A) and added subpars. (C) and (D).
+
+Subsec. (c). Pub. L. 100–203, §4039(a), as amended by Pub. L. 100–360, substituted “institution, facility, or entity” for “institution or facility” wherever appearing and inserted “(including an eligible organization under section 1395mm(b) of this title)” after “other entity”.
+
+Pub. L. 100–93, §4(a)(7), substituted “home health agency, or other entity for which certification is required under subchapter XVIII of this chapter or a State health care program” for “or home health agency (as those terms are employed in this subchapter)”.
+
+Subsec. (d)(1), (2). Pub. L. 100–93, §4(a)(8), substituted “subchapter XIX of this chapter” for “this subchapter”.
+
+Subsec. (e). Pub. L. 100–93, §4(c), redesignated subsec. (d) of section 1395nn of this title as subsec. (e) of this section.
+
+1984—Subsec. (e). Pub. L. 98–369 inserted “or agrees to be a participating physician or supplier under section 1395u(h)(1) of this title” after “section 1395u(b)(3)(B)(ii) of this title”, and substituted “or agreement” for “specified in subclause (I) of such section”.
+
+1980—Subsec. (b)(1), (2). Pub. L. 96–499 inserted “knowingly and willfully” after “Whoever”.
+
+1977—Subsec. (a). Pub. L. 95–142, §4(b), designated existing provisions following par. (4) as cl. (ii) and, as so designated, inserted provisions relating to activities of other persons, and inserted provisions authorizing the State to limit, restrict, or suspend, the eligibility of any convicted persons for benefits, and added cl. (i). See Codification note above.
+
+Subsec. (b). Pub. L. 95–142, §4(b), redesignated existing provisions as par. (1), substituted provisions relating to solicitation or receiving of any remuneration in return for referring an individual to a person for the furnishing or arranging the furnishing of any item or service, or in return for purchasing, leasing, ordering, or arranging for or recommending purchasing, etc., as constituting a felony punishable by a fine of not more than $25,000 and/or imprisonment for not more than five years, for provisions relating to furnishing items or services and soliciting, offering or receiving any kickback, bribe, or rebate in connection with furnishing, etc. items or services as constituting a misdemeanor punishable by a fine of not more than $10,000 and/or imprisonment for not more than one year, and added pars. (2) and (3). See Codification note above.
+
+Subsec. (c). Pub. L. 95–142, §4(b), substituted provisions setting forth felony nature of criminal activities with a fine of not more than $25,000, or imprisonment for not more than five years, or both, for provisions setting forth misdemeanor nature of criminal activities with a fine of not more than $2,000, or imprisonment for not more than six months, or both. See Codification note above.
+
+Subsec. (d). Pub. L. 95–142, §4(b), added subsec. (d). See Codification note above.
+
+Subsec. (e). Pub. L. 95–142, §4(a), added subsec. (e). See Codification note above.
+
+1972—Subsec. (c). Pub. L. 92–603, §278(b)(9), substituted “skilled nursing facility” for “skilled nursing home”.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by section 133(a)(2) of Pub. L. 103–432 applicable to items or services furnished on or after Jan. 1, 1995, see section 133(c) of Pub. L. 103–432, set out as a note under section 1395m of this title.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by section 4161(a)(4) of Pub. L. 101–508 applicable to services furnished on or after Oct. 1, 1991, see section 4161(a)(8) of Pub. L. 101–508, set out as a note under section 1395k of this title.
+
+Amendment by section 4164(b)(2) of Pub. L. 101–508 applicable with respect to items or services furnished on or after Jan. 1, 1993, in the case of items or services furnished by a provider who, on or before Nov. 5, 1990, has furnished items or services for which payment may be made under part B of subchapter XVIII of this chapter or Jan. 1, 1992, in the case of items or services furnished by any other provider, see section 4164(b)(4) of Pub. L. 101–508, set out as an Effective Date note under section 1320a–3a of this title.
+
+#### Effective Date of 1988 Amendment
+
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+
+#### Effective Date of 1987 Amendments
+
+Amendment by section 4211(h)(7) of Pub. L. 100–203 applicable to nursing facility services furnished on orafter Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
+
+Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, see section 15(a) of Pub. L. 100–93, set out as a note under section 1320a–7 of this title.
+
+#### Effective Date of 1977 Amendment
+
+Section 4(d) of Pub. L. 95–142 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to acts occurring and statements or representations made on or after the date of the enactment of this Act \[Oct. 25, 1977\].”
+
+#### Effective Date
+
+Section 242(d) of Pub. L. 92–603 provided that: “The provisions of amendments made by this section \[enacting this section and section 1396h of this title and amending section 1395ii of this title\] shall not be applicable to any acts, statements, or representations made or committed prior to the enactment of this Act \[Oct. 30, 1972\].”
+
+#### Anti-Kickback Regulations
+
+Section 14(a) of Pub. L. 100–93 provided that: “The Secretary of Health and Human Services, in consultation with the Attorney General, not later than 1 year after the date of the enactment of this Act \[Aug. 18, 1987\] shall publish proposed regulations, and not later than 2 years after the date of the enactment of this Act shall promulgate final regulations, specifying payment practices that shall not be treated as a criminal offense under section 1128B(b) of the Social Security Act \[subsec. (b) of this section\] and shall not serve as the basis for an exclusion under section 1128(b)(7) of such Act. Any practices specified in regulations pursuant to the preceding sentence shall be in addition to the practices described in subparagraphs (A) through (C) of section 1128B(b)(3).”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1320a–3a, 1320a–7, 1396r–6 of this title.
+

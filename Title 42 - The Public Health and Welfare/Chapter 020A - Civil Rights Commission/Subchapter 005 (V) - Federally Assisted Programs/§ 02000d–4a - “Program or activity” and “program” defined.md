@@ -1,0 +1,38 @@
+### §2000d–4a. “Program or activity” and “program” defined
+
+For the purposes of this subchapter, the term “program or activity” and the term “program” mean all of the operations of—
+
+&emsp;(1)(A) a department, agency, special purpose district, or other instrumentality of a State or of a local government; or
+
+&emsp;(B) the entity of such State or local government that distributes such assistance and each such department or agency (and each other State or local government entity) to which the assistance is extended, in the case of assistance to a State or local government;
+
+&emsp;(2)(A) a college, university, or other postsecondary institution, or a public system of higher education; or
+
+&emsp;(B) a local educational agency (as defined in section 8801 of title 20), system of vocational education, or other school system;
+
+&emsp;(3)(A) an entire corporation, partnership, or other private organization, or an entire sole proprietorship—
+
+&emsp;&emsp;(i) if assistance is extended to such corporation, partnership, private organization, or sole proprietorship as a whole; or
+
+&emsp;&emsp;(ii) which is principally engaged in the business of providing education, health care, housing, social services, or parks and recreation; or
+
+&emsp;(B) the entire plant or other comparable, geographically separate facility to which Federal financial assistance is extended, in the case of any other corporation, partnership, private organization, or sole proprietorship; or
+
+&emsp;(4) any other entity which is established by two or more of the entities described in paragraph (1), (2), or (3);
+
+> any part of which is extended Federal financial assistance.
+
+(Pub. L. 88–352, title VI, §606, as added Pub. L. 100–259, §6, Mar. 22, 1988, 102 Stat. 31; amended Pub. L. 103–382, title III, §391(q), Oct. 20, 1994, 108 Stat. 4024.)
+
+#### Amendments
+
+1994—Par. (2)(B). Pub. L. 103–382 substituted “section 8801 of title 20” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
+
+#### Exclusion From Coverage
+
+This section not to be construed to extend application of Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\] to ultimate beneficiaries of Federal financial assistance excluded from coverage before Mar. 22, 1988, see section 7 of Pub. L. 100–259, set out as a Construction note under section 1687 of Title 20, Education.
+
+#### Abortion Neutrality
+
+This section not to be construed to force or require any individual or hospital or any other institution, program, or activity receiving Federal funds to perform or pay for an abortion, see section 8 of Pub. L. 100–259, set out as a note under section 1688 of Title 20, Education.
+

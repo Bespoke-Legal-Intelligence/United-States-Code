@@ -1,0 +1,14 @@
+### §284d. “Health services research” defined
+
+For purposes of this subchapter, the term “health services research” means research endeavors that study the impact of the organization, financing and management of health services on the quality, cost, access to and outcomes of care. Such term does not include research on the efficacy of services to prevent, diagnose, or treat medical conditions.
+
+(July 1, 1944, ch. 373, title IV, §409, as added July 10, 1992, Pub. L. 102–321, title I, §121(b), 106 Stat. 358; amended June 10, 1993, Pub. L. 103–43, title XX, §2016(a), 107 Stat. 218.)
+
+#### Amendments
+
+1993—Pub. L. 103–43 inserted at end “Such term does not include research on the efficacy of services to prevent, diagnose, or treat medical conditions.”
+
+#### Effective Date
+
+Section effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+

@@ -1,0 +1,88 @@
+### §1546. Fraud and misuse of visas, permits, and other documents
+
+(a) Whoever knowingly forges, counterfeits, alters, or falsely makes any immigrant or nonimmigrant visa, permit, border crossing card, alien registration receipt card, or other document prescribed by statute or regulation for entry into or as evidence of authorized stay or employment in the United States, or utters, uses, attempts to use, possesses, obtains, accepts, or receives any such visa, permit, border crossing card, alien registration receipt card, or other document prescribed by statute or regulation for entry into or as evidence of authorized stay or employment in the United States, knowing it to be forged, counterfeited, altered, or falsely made, or to have been procured by means of any false claim or statement, or to have been otherwise procured by fraud or unlawfully obtained; or
+
+Whoever, except under direction of the Attorney General or the Commissioner of the Immigration and Naturalization Service, or other proper officer, knowingly possesses any blank permit, or engraves, sells, brings into the United States, or has in his control or possession any plate in the likeness of a plate designed for the printing of permits, or makes any print, photograph, or impression in the likeness of any immigrant or nonimmigrant visa, permit or other document required for entry into the United States, or has in his possession a distinctive paper which has been adopted by the Attorney General or the Commissioner of the Immigration and Naturalization Service for the printing of such visas, permits, or documents; or
+
+Whoever, when applying for an immigrant or nonimmigrant visa, permit, or other document required for entry into the United States, or for admission to the United States personates another, or falsely appears in the name of a deceased individual, or evades or attempts to evade the immigration laws by appearing under an assumed or fictitious name without disclosing his true identity, or sells or otherwise disposes of, or offers to sell or otherwise dispose of, or utters, such visa, permit, or other document, to any person not authorized by law to receive such document; or
+
+Whoever knowingly makes under oath, or as permitted under penalty of perjury under section 1746 of title 28, United States Code, knowingly subscribes as true, any false statement with respect to a material fact in any application, affidavit, or other document required by the immigration laws or regulations prescribed thereunder, or knowingly presents any such application, affidavit, or other document containing any such false statement—
+
+Shall be fined under this title or imprisoned not more than 10 years, or both.
+
+(b) Whoever uses—
+
+&emsp;(1) an identification document, knowing (or having reason to know) that the document was not issued lawfully for the use of the possessor,
+
+&emsp;(2) an identification document knowing (or having reason to know) that the document is false, or
+
+&emsp;(3) a false attestation,
+
+> for the purpose of satisfying a requirement of section 274A(b) of the Immigration and Nationality Act, shall be fined under this title, imprisoned not more than 5 years, or both.
+
+(c) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a subdivision of a State, or of an intelligence agency of the United States, or any activity authorized under title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481).<sup>1</sup>
+
+(June 25, 1948, ch. 645, 62 Stat. 771; June 27, 1952, ch. 477, title IV, §402(a), 66 Stat. 275; Oct. 18, 1976, Pub. L. 94–550, §5, 90 Stat. 2535; Nov. 6, 1986, Pub. L. 99–603, title I, §103(a), 100 Stat. 3380; Oct. 24, 1988, Pub. L. 100–525, §2(c), 102 Stat. 2610; Nov. 29, 1990, Pub. L. 101–647, title XXXV, §3550, 104 Stat. 4926; Sept. 13, 1994, Pub. L. 103–322, title XIII, §130009(a)(4), (5), title XXXIII, §330011(p), 108 Stat. 2030, 2145.)
+
+#### Historical and Revision Notes
+
+Based on section 220 of title 8, U.S.C., 1940 ed., Aliens and Nationality (May 26, 1924, ch. 190, §22, 43 Stat. 165).
+
+Words “upon conviction thereof” were omitted as surplusage since punishment can be imposed only after a conviction.
+
+Fine of $10,000 was reduced to $2,000 to conform with sections embracing offences of comparable gravity.
+
+Minor changes were made in phraseology.
+
+#### References in Text
+
+The immigration laws, referred to in subsec. (a), are classified generally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. See also section 1101(a)(17) of Title 8.
+
+Section 274A(b) of the Immigration and Nationality Act, referred to in subsec. (b), is classified to section 1324a(b) of Title 8.
+
+Title V of the Organized Crime Control Act of 1970, referred to in subsec. (c), is title V of Pub. L. 91–452, Oct. 15, 1970, 84 Stat. 933, which was set out as a note preceding section 3481 of this title, and was repealed by Pub. L. 98–473, title II, §1209(b), Oct. 12, 1984, 98 Stat. 2163. See section 3521 et seq. of this title.
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–322, §330011(p), amended directory language of Pub. L. 101–647, §3550. See 1990 Amendment note below.
+
+Pub. L. 103–322, §130009(a)(4), substituted “10 years” for “five years” in concluding par.
+
+Subsec. (b). Pub. L. 103–322, §130009(a)(5), in concluding provisions, substituted “under this title, imprisoned not more than 5 years” for “in accordance with this title, or imprisoned not more than two years”.
+
+1990—Subsec. (a). Pub. L. 101–647, §3550, as amended by Pub. L. 103–322, §330011(p), substituted “Shall be fined under this title” for “Shall be fined in accordance with this title” in concluding par.
+
+1988—Pub. L. 100–525 amended Pub. L. 99–603. See 1986 Amendment note below.
+
+1986—Pub. L. 99–603, as amended by Pub. L. 100–525, substituted “other documents” for “other entry documents” in section catchline, designated existing provisions as subsec. (a), substituted “permit, border crossing card, alien registration receipt card, or other document prescribed by statute or regulation for entry into or as evidence of authorized stay or employment in the United States” for “or other document required for entry into the United States” and for “or document” in first par., substituted “in accordance with this title” for “not more than $2,000” in concluding par., and added subsecs. (b) and (c).
+
+1976—Pub. L. 94–550 inserted “, or as permitted under penalty of perjury under section 1746 of title 28, United States Code, knowingly subscribes as true,” after “Whoever knowingly makes under oath” in fourth par.
+
+1952—Act June 27, 1952, made section applicable to entry documents other than visas and permits.
+
+#### Effective Date of 1994 Amendment
+
+Section 330011(p) of Pub. L. 103–322 provided that the amendment made by that section is effective as of the date on which section 3550 of Pub. L. 101–647 took effect.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of Title 8, Aliens and Nationality.
+
+#### Transfer of Functions
+
+Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to the inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, §2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
+
+#### Canal Zone
+
+Applicability of section to Canal Zone, see section 14 of this title.
+
+#### Cross References
+
+Immigration visas and permits, see section 1201 et seq. of Title 8, Aliens and Nationality.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 14 of this title; title 8 sections 1101, 1251, 1324a.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

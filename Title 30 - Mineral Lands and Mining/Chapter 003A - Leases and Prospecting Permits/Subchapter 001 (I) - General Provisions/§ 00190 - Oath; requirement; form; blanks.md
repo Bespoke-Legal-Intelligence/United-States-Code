@@ -1,0 +1,14 @@
+### §190. Oath; requirement; form; blanks
+
+All statements, representations, or reports required by the Secretary of the Interior under this chapter shall be upon oath, unless otherwise specified by him, and in such form and upon such blanks as the Secretary of the Interior may require.
+
+(Feb. 25, 1920, ch. 85, §33, 41 Stat. 450.)
+
+#### Cross References
+
+Laws applicable, see sections 275 and 285 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 275, 285 of this title; title 10 sections 7421, 7435.
+

@@ -1,0 +1,368 @@
+### §1430. Advances
+
+#### (a) Authorization to make secured advances
+
+Each Federal Home Loan Bank is authorized to make secured advances to its members upon collateral sufficient, in the judgment of the Bank, to fully secure advances obtained from the Bank under this section or section 1431(g) of this title. All long-term advances shall only be made for the purpose of providing funds for residential housing finance. A Bank, at the time of origination or renewal of a loan or advance, shall obtain and maintain a security interest in collateral eligible pursuant to one or more of the following categories:
+
+&emsp;(1) Fully disbursed, whole first mortgages on improved residential property (not more than 90 days delinquent), or securities representing a whole interest in such mortgages.
+
+&emsp;(2) Securities issued, insured, or guaranteed by the United States Government or any agency thereof (including without limitation, mortgage-backed securities issued or guaranteed by the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Corporation, and the Government National Mortgage Association).
+
+&emsp;(3) Deposits of a Federal Home Loan Bank.
+
+&emsp;(4) Other real estate related collateral acceptable to the Bank if such collateral has a readily ascertainable value and the Bank can perfect its interest in the collateral. The aggregate amount of outstanding advances secured by such other real estate related collateral shall not exceed 30 percent of such member's capital.
+
+&emsp;(5) Paragraphs (1) through (4) shall not affect the ability of any Federal Home Loan Bank to take such steps as it deems necessary to protect its security position with respect to outstanding advances, including requiring deposits of additional collateral security, whether or not such additional security would be eligible to originate an advance. If an advance existing on August 9, 1989, matures and the member does not have sufficient eligible collateral to fully secure a renewal of such advance, a Bank may renew such advance secured by such collateral as the Bank and the Board determines is appropriate. A member that has an advance secured by such insufficient eligible collateral must reduce its level of outstanding advances promptly and prudently in accordance with a schedule determined by the Board.
+
+#### (b) Appraisals and other investigations; acceptance of home mortgages as collateral security only by formal Board resolution
+
+For the purposes of this section, each Home Loan Bank shall have power to make, or to cause or require to be made, such appraisals andother investigations as it may deem necessary. No home mortgage otherwise eligible to be accepted as collateral security for an advance by a Home Loan Bank shall be accepted if any director, officer, employee, attorney or agent of the Home Loan Bank or of the borrowing institution is personally liable thereon, unless the Board has specifically approved by formal resolution such acceptance.
+
+#### (c) Notes of borrowing members; interest rate; limitations on loans; lien on stock
+
+Such advances shall be made upon the note or obligation of the member secured as provided in this section, bearing such rate of interest as the Board may approve or determine, and the Federal Home Loan Bank shall have a lien upon and shall hold the stock of such member as further collateral security for all indebtedness of the member to the Federal Home Loan Bank. At no time shall the aggregate outstanding advances made by any Federal Home Loan Bank to any member exceed twenty times the amounts paid in by such member for outstanding capital stock held by it <sup>1</sup> exceed twenty times the value of the security required to be deposited under subsection (e) of section 1426 <sup>2</sup> of this title.
+
+#### (d) Obligation to repay; additional security; sale of advances to other banks
+
+The institution applying for an advance shall enter into a primary and unconditional obligation to pay off all advances, together with interest and any unpaid costs and expenses in connection therewith according to the terms under which they were made, in such form as shall meet the requirements of the bank and the approval of the Board. The bank shall reserve the right to require at any time, when deemed necessary for its protection, deposits of additional collateral security or substitutions of security by the borrowing institution, and each borrowing institution shall assign additional or substituted security when and as so required. Subject to the approval of the Board, any Federal Home Loan Bank shall have power to sell to any other Federal Home Loan Bank, with or without recourse, any advance made under the provisions of this chapter, or to allow to such bank a participation therein, and any other Federal Home Loan Bank shall have power to purchase such advance or to accept a participation therein, together with an appropriate assignment of security therefor.
+
+#### (e) Qualified thrift lender status
+
+#### (1) In general
+
+&emsp;A member that is not a qualified thrift lender may only receive an advance if it holds stock in its Federal Home Loan Bank at the time it receives that advance in an amount equal to at least—
+
+&emsp;&emsp;(A) 5 percent of that member's total advances, divided by
+
+&emsp;&emsp;(B) such member's actual thrift investment percentage.
+
+> &emsp;Such members that are not qualified thrift lenders may only apply for advances under this section for the purpose of obtaining funds for housing finance.
+
+#### (2) Priority
+
+&emsp;The Board, by regulation, shall establish a priority for advances to members that are qualified thrift lenders. The aggregate amount of the advances by the Federal Home Loan Bank System to members that are not qualified thrift lenders shall not exceed 30 percent of the total advances of the Federal Home Loan Bank System.
+
+#### (3) Minimum stock purchase requirement for membership
+
+&emsp;Each member of a Federal Home Loan Bank shall, at a minimum, purchase and maintain stock in its Federal Home Loan Bank in the amount that would be required under section 1426(b) of this title if at least 30 percent of such member's assets were home mortgage loans.
+
+#### (4) Exceptions
+
+&emsp;Paragraphs (1) and (2) of this subsection do not apply to—
+
+&emsp;&emsp;(A) a savings bank as defined in section 1813 of this title; or
+
+&emsp;&emsp;(B) a Federal savings association in existence as a Federal savings association on August 9, 1989—
+
+&emsp;&emsp;&emsp;(i) that was chartered as a savings bank or cooperative bank prior to October 15, 1982; or
+
+&emsp;&emsp;&emsp;(ii) that acquired its principal assets from an institution which was chartered prior to October 15, 1982, as a savings bank or cooperative bank under State law.
+
+#### (5) Definitions
+
+&emsp;As used in this subsection—
+
+#### (A) Savings association
+
+&emsp;&emsp;The term “savings association” has the same meaning as in section 1467a(a)(1)(A) of this title.
+
+#### (B) Qualified thrift lender
+
+&emsp;&emsp;The term “qualified thrift lender” has the same meaning as in section 1467a(m) of this title.
+
+#### (C) Actual thrift investment percentage
+
+&emsp;&emsp;The term “actual thrift investment percentage” has the same meaning as in section 1467a(m) of this title.
+
+#### (e) <sup>3</sup> Priority of certain secured interests
+
+Notwithstanding any other provision of law, any security interest granted to a Federal Home Loan Bank by any member of any Federal Home Loan Bank or any affiliate of any such member shall be entitled to priority over the claims and rights of any party (including any receiver, conservator, trustee, or similar party having rights of a lien creditor) other than claims and rights that—
+
+&emsp;(1) would be entitled to priority under otherwise applicable law; and
+
+&emsp;(2) are held by actual bona fide purchasers for value or by actual secured parties that are secured by actual perfected security interests.
+
+#### (g) Community support requirements
+
+#### (1) In general
+
+&emsp;Before the end of the 2-year period beginning on August 9, 1989, the Board shall adopt regulations establishing standards of community investment or service for members of Banks to maintain continued access to long-term advances.
+
+#### (2) Factors to be included
+
+&emsp;The regulations promulgated pursuant to paragraph (1) shall take into account factors such as a member's performance under the Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\] and the member's record of lending to first-time homebuyers.
+
+#### (h) Special liquidity advances
+
+#### (1) In general
+
+&emsp;Subject to paragraph (2), the Federal Home Loan Banks may, upon the request of the Director of the Office of Thrift Supervision, make short-term liquidity advances to a savings association that—
+
+&emsp;&emsp;(A) is solvent but presents a supervisory concern because of such association's poor financial condition; and
+
+&emsp;&emsp;(B) has reasonable and demonstrable prospects of returning to a satisfactory financial condition.
+
+#### (2) Interest on and security for special liquidity advances
+
+&emsp;Any loan by a Federal Home Loan Bank pursuant to paragraph (1) shall be subject to all applicable collateral requirements, including the requirements of subsection (a) of this section, and shall be at an interest rate no less favorable than those made available for similar short-term liquidity advances to savings associations that do not present such supervisory concern.
+
+#### (i) Community investment program
+
+#### (1) In general
+
+&emsp;Each Bank shall establish a program to provide funding for members to undertake community-oriented mortgage lending. Each Bank shall designate a community investment officer to implement community lending and affordable housing advance programs of the Banks under this subsection and subsection (j) of this section and provide technical assistance and outreach to promote such programs. Advances under this program shall be priced at the cost of consolidated Federal Home Loan Bank obligations of comparable maturities, taking into account reasonable administrative costs.
+
+#### (2) Community-oriented mortgage lending
+
+&emsp;For purposes of this subsection, the term “community-oriented mortgage lending” means providing loans—
+
+&emsp;&emsp;(A) to finance home purchases by families whose income does not exceed 115 percent of the median income for the area,
+
+&emsp;&emsp;(B) to finance purchase or rehabilitation of housing for occupancy by families whose income does not exceed 115 percent of median income for the area,
+
+&emsp;&emsp;(C) to finance commercial and economic development activities that benefit low- and moderate-income families or activities that are located in low- and moderate-income neighborhoods, and
+
+&emsp;&emsp;(D) to finance projects that further a combination of the purposes described in subparagraphs (A) through (C).
+
+#### (j) Affordable housing program
+
+#### (1) In general
+
+&emsp;Pursuant to regulations promulgated by the Board, each Bank shall establish an Affordable Housing Program to subsidize the interest rate on advances to members engaged in lending for long term, low- and moderate-income, owner-occupied and affordable rental housing at subsidized interest rates.
+
+#### (2) Standards
+
+&emsp;The Board's regulations shall permit Bank members to use subsidized advances received from the Banks to—
+
+&emsp;&emsp;(A) finance homeownership by families with incomes at or below 80 percent of the median income for the area; or
+
+&emsp;&emsp;(B) finance the purchase, construction, or rehabilitation of rental housing, at least 20 percent of the units of which will be occupied by and affordable for very low-income households for the remaining useful life of such housing or the mortgage term.
+
+#### (3) Priorities for making advances
+
+&emsp;In using advances authorized under paragraph (1), each Bank member shall give priority to qualified projects such as the following:
+
+&emsp;&emsp;(A) purchase of homes by families whose income is 80 percent or less of the median income for the area,
+
+&emsp;&emsp;(B) purchase or rehabilitation of housing owned or held by the United States Government or any agency or instrumentality of the United States; and
+
+&emsp;&emsp;(C) purchase or rehabilitation of housing sponsored by any nonprofit organization, any State or political subdivision of any State, any local housing authority or State housing finance agency.
+
+#### (4) Report
+
+&emsp;Each member receiving advances under this program shall report annually to the Bank making such advances concerning the member's use of advances received under this program.
+
+#### (5) Contribution to program
+
+&emsp;Each Bank shall annually contribute the percentage of its annual net earnings prescribed in the following subparagraphs to support subsidized advances through the Affordable Housing Program:
+
+&emsp;&emsp;(A) In 1990, 1991, 1992, and 1993, 5 percent of the preceding year's net income, or such prorated sums as may be required to assure that the aggregate contribution of all the Banks shall not be less than $50,000,000 for each such year.
+
+&emsp;&emsp;(B) In 1994, 6 percent of the preceding year's net income, or such prorated sum as may be required to assure that the aggregatecontribution of the Banks shall not be less than $75,000,000 for such year.
+
+&emsp;&emsp;(C) In 1995, and subsequent years, 10 percent of the preceding year's net income, or such prorated sums as may be required to assure that the aggregate contribution of the Banks shall not be less than $100,000,000 for each such year.
+
+#### (6) Grounds for suspending contributions
+
+#### (A) In general
+
+&emsp;&emsp;If a Bank finds that the payments required under this paragraph are contributing to the financial instability of such Bank, it may apply to the Federal Housing Finance Board for a temporary suspension of such payments.
+
+#### (B) Financial instability
+
+&emsp;&emsp;In determining the financial instability of a Bank, the Federal Housing Finance Board shall consider such factors as (i) whether the Bank's earnings are severely depressed, (ii) whether there has been a substantial decline in membership capital, and (iii) whether there has been a substantial reduction in advances outstanding.
+
+#### (C) Review
+
+&emsp;&emsp;The Board shall review the application and any supporting financial data and issue a written decision approving or disapproving such application. The Board's decision shall be accompanied by specific findings and reasons for its action.
+
+#### (D) Monitoring suspension
+
+&emsp;&emsp;If the Board grants a suspension, it shall specify the period of time such suspension shall remain in effect and shall continue to monitor the Bank's financial condition during such suspension.
+
+#### (E) Limitations on grounds for suspension
+
+&emsp;&emsp;The Board shall not suspend payments to the Affordable Housing Program if the Bank's reduction in earnings is a result of (i) a change in the terms for advances to members which is not justified by market conditions, (ii) inordinate operating and administrative expenses, or (iii) mismanagement.
+
+#### (F) Congressional notification and action
+
+&emsp;&emsp;The Federal Housing Finance Board shall notify the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate not less than 60 days before such suspension takes effect. Such suspension shall become effective unless a joint resolution is enacted disapproving such suspension.
+
+#### (7) Failure to use amounts for affordable housing
+
+&emsp;If any Bank fails to utilize or commit the full amount provided in this subsection in any year, 90 percent of the amount that has not been utilized or committed in that year shall be deposited by the Bank in an Affordable Housing Reserve Fund administered by the Board. The 10 percent of the unutilized and uncommitted amount retained by a Bank should be fully utilized or committed by that Bank during the following year and any remaining portion must be deposited in the Affordable Housing Reserve Fund. Under regulations established by the Board, funds from the Affordable Housing Reserve Fund may be made available to any Bank to meet additional affordable housing needs in such Bank's district pursuant to this section.
+
+#### (8) Net earnings
+
+&emsp;The net earnings of any Federal Home Loan Bank shall be determined for purposes of this paragraph—
+
+&emsp;&emsp;(A) after reduction for any payment required under section 1441 or 1441b of this title; and
+
+&emsp;&emsp;(B) before declaring any dividend under section 1436 of this title.
+
+#### (9) Regulations
+
+&emsp;The Federal Housing Finance Board shall promulgate regulations to implement this subsection. Such regulations shall, at a minimum—
+
+&emsp;&emsp;(A) specify activities eligible to receive subsidized advances from the Banks under this program;
+
+&emsp;&emsp;(B) specify priorities for the use of such advances;
+
+&emsp;&emsp;(C) ensure that advances made under this program will be used only to assist projects for which adequate long-term monitoring is available to guarantee that affordability standards and other requirements of this subsection are satisfied;
+
+&emsp;&emsp;(D) ensure that a preponderance of assistance provided under this subsection is ultimately received by low- and moderate-income households;
+
+&emsp;&emsp;(E) ensure that subsidies provided by Banks to member institutions under this program are passed on to the ultimate borrower;
+
+&emsp;&emsp;(F) establish uniform standards for subsidized advances under this program and subsidized lending by member institutions supported by such advances, including maximum subsidy and risk limitations for different categories of loans made under this subsection; and
+
+&emsp;&emsp;(G) coordinate activities under this subsection with other Federal or federally-subsidized affordable housing activities to the maximum extent possible.
+
+#### (10) Other programs
+
+&emsp;No provision of this subsection or subsection (i) of this section shall preclude any Bank from establishing additional community investment cash advance programs or contributing additional sums to the Affordable Housing Reserve Fund.
+
+#### (11) Advisory Council
+
+&emsp;Each Bank shall appoint an Advisory Council of 7 to 15 persons drawn from community and nonprofit organizations actively involved in providing or promoting low- and moderate-income housing in its district. The Advisory Council shall meet with representatives of the board of directors of the Bank quarterly to advise the Bank on low- and moderate-income housing programs and needs in the district and on the utilization of the advances for these purposes. Each Advisory Council established under this paragraph shall submit to the Board at least annually its analysis of the low-income housing activity of the Bank by which it is appointed.
+
+#### (12) Reports to Congress
+
+&emsp;(A) The Board shall monitor and report annually to the Congress and the Advisory Council for each Bank the support of low-income housing and community development by the Banks and the utilization of advances for these purposes.
+
+&emsp;(B) The analyses submitted by the Advisory Councils to the Board under paragraph (11) shall be included as part of the report required by this paragraph.
+
+&emsp;(C) The Comptroller General of the United States shall audit and evaluate the Affordable Housing Program established by this subsection after such program has been operating for 2 years. The Comptroller General shall report to Congress on the conclusions of the audit and recommend improvements or modifications to the program.
+
+#### (13) Definitions
+
+&emsp;For purposes of this subsection—
+
+#### (A) Low- or moderate-income household
+
+&emsp;&emsp;The term “low- or moderate-income household” means any household which has an income of 80 percent or less of the area median.
+
+#### (B) Very low-income household
+
+&emsp;&emsp;The term “very low-income household” means any household that has an income of 50 percent or less of the area median.
+
+#### (C) Low- or moderate-income neighborhood
+
+&emsp;&emsp;The term “low- or moderate-income neighborhood” means any neighborhood in which 51 percent or more of the households are low- or moderate-income households.
+
+#### (D) Affordable for very-low income households
+
+&emsp;&emsp;For purposes of paragraph (2)(B) the term “affordable for very-low income households” means that rents charged to tenants for units made available for occupancy by low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 50 percent of the income for the area (as determined by the Secretary of Housing and Urban Development) with adjustment for family size.
+
+(July 22, 1932, ch. 522, §10, 47 Stat. 731; Apr. 27, 1934, ch. 168, §10, 48 Stat. 646; June 27, 1934, ch. 847, §501, 48 Stat. 1261; May 28, 1935, ch. 150, §§5, 6, 49 Stat. 294, 295; Mar. 28, 1941, ch. 31, §7, 55 Stat. 62; Aug. 1, 1947, ch. 431, 61 Stat. 714; Apr. 20, 1950, ch. 94, title V, §501, 64 Stat. 80; Sept. 1, 1951, ch. 378, title II, §208, 65 Stat. 303; Aug. 2, 1954, ch. 649, title V, §502, 68 Stat. 634; Sept. 2, 1958, Pub. L. 85–857, §13(e), 72 Stat. 1264; Oct. 9, 1962, Pub. L. 87–779, §2(b), 76 Stat. 779; Sept. 2, 1964, Pub. L. 88–560, title IX, §906, 78 Stat. 805; Oct. 18, 1974, Pub. L. 93–449, §4(c), 88 Stat. 1367; Oct. 12, 1977, Pub. L. 95–128, title IV, §406, 91 Stat. 1137; Oct. 15, 1982, Pub. L. 97–320, title III, §352, 96 Stat. 1507; Jan. 12, 1983, Pub. L. 97–457, §15, 96 Stat. 2509; Aug. 10, 1987, Pub. L. 100–86, title I, §105, title III, §306(d), 101 Stat. 575, 601; Aug. 9, 1989, Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 710(b)(4), (5), (c), 714, 721, 103 Stat. 412, 418, 419, 423; Oct. 28, 1992, Pub. L. 102–550, title XIII, §1392(a), 106 Stat. 4009.)
+
+#### References in Text
+
+Subsection (e) of section 1426 of this title, referred to in subsec. (c), was repealed and subsec. (i) of section 1426 redesignated (e) by Pub. L. 101–73, title VII, §706(1), Aug. 9, 1989, 103 Stat. 416.
+
+The Community Reinvestment Act of 1977, referred to in subsec. (g)(2), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, as amended, which is classified generally to chapter 30 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
+
+#### Amendments
+
+1992—Subsec. (e)(2). Pub. L. 102–550 added sentence at end and struck out former second sentence which read as follows: “The aggregate amount of any Bank's advances to members that are not qualified thrift lenders shall not exceed 30 percent of a Bank's total advances.”
+
+1989—Subsec. (a). Pub. L. 101–73, §714(a), substituted “upon collateral sufficient, in the judgment of the Bank, to fully secure advances obtained from the Bank under this section or section 1431(g) of this title. All long-term advances shall only be made for the purpose of providing funds for residential housing finance. A Bank, at the time of origination or renewal of a loan or advance, shall obtain and maintain a security interest in collateral eligible pursuant to one or more of the following categories:” and pars. (1) to (5) for “upon such security as the Board may prescribe.”
+
+Subsec. (b). Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board”.
+
+Subsec. (c). Pub. L. 101–73, §710(b)(4), (5), struck out “or nonmember borrower” after “obligation of the member”, and “, or made to a nonmember borrower” after “stock held by it”. Pub. L. 101–73, §719(b)(5), probably should have struck out all of the text after “stock held by it”.
+
+Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board”.
+
+Subsec. (d). Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
+
+Subsec. (e). Pub. L. 101–73, §714(b), which directed the general amendment of subsec. (e), was executed to the subsec. (e) added by section 105 of Pub. L. 100–86, as the probable intent of Congress. As thus executed, the amendment substituted provisions relating to qualified thrift lender status for provisions relating to reduced eligibility for advances for certain members which were not qualified thrift lenders.
+
+Subsec. (g). Pub. L. 101–73, §710(c), added subsec. (g).
+
+Subsec. (h). Pub. L. 101–73, §714(c), added subsec. (h).
+
+Subsecs. (i), (j). Pub. L. 101–73, §721, added subsecs. (i) and (j).
+
+1987—Subsec. (e). Pub. L. 100–86, §306(d), added subsec. (e) relating to priority of certain secured interests.
+
+Pub. L. 100–86, §105, added subsec. (e) relating to reduced eligibility for advances for certain members which are not qualified thrift lenders.
+
+1982—Subsec. (a). Pub. L. 97–320, §352(1), as amended by Pub. L. 97–457, amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “Each Federal Home Loan Bank is authorized to make advances to its members upon the security of home mortgages, or obligations of the United States, or obligations fully guaranteed by the United States, subject to such regulations, restrictions, and limitations as the Board may prescribe. Any such advance shall be subject to the following limitations as to amount:
+
+&emsp;“(1) If secured by a mortgage insured under the provisions of title I, title II, title VI, title VIII, or title IX of the National Housing Act \[12 U.S.C. 1702 et seq., 1707 et seq., 1736 et seq., 1748 et seq., and 1750 et seq., respectively\], the advance may be for an amount not in excess of 90 per centum of the unpaid principal of the mortgage loan.
+
+&emsp;“(2) If secured by a home mortgage given in respect of an amortized home mortgage loan which was for an original term of six years or more, or in cases where shares of stock, which are pledged as security for such loan, mature in a period of six years or more, the advance may be for an amount not in excess of 65 per centum of the unpaid principal of the home mortgage loan; but in no case shall the amount of the advance exceed 60 per centum of the value of the real estate securing the home mortgage loan.
+
+&emsp;“(3) If secured by a home mortgage given in respect of any other home mortgage loan, the advance shall not be for an amount in excess of 50 per centum of the unpaid principal of the home mortgage loan; but in no case shall the amount of such advance exceed 40 per centum of the value of the real estate securing the home mortgage loan.
+
+&emsp;“(4) If secured by obligations of the United States, or obligations fully guaranteed by the United States, the advance shall not be for an amount in excess of the face value of such obligations.”
+
+Subsec. (b). Pub. L. 97–320, §352(2), struck out provisions relating to acceptance of home mortgages as collateral security for advances by a Home Loan Bank.
+
+Subsec. (c). Pub. L. 97–320, §352(3), substituted “twenty” for “twelve” wherever appearing.
+
+1977—Subsec. (b). Pub. L. 95–128 substituted prohibition against acceptance of a home mortgage as collateral security for an advance by a Federal Home Loan Bank if, at the time the advance is made, the home mortgage exceeds a sum equal to the dollar limitation under the first proviso of the first sentence of section 1464(c) of this title for each home or other dwelling unit covered by such mortgage for prior prohibition where the home mortgage exceeded a sum equal to $55,000 (except that with respect to dwellings in Alaska, Guam, and Hawaii the foregoing limitation, might, by regulation of the Board, be increased by not to exceed 50 per centum) for each home or other dwelling unit covered by the mortgage.
+
+1974—Subsec. (b). Pub. L. 93–449 substituted provisions limiting the home mortgage to a sum not to exceed $55,000, except with respect to dwellings in Alaska, Guam, etc., for provisions limiting the home mortgage to a sum not to exceed $40,000.
+
+1964—Subsec. (b). Pub. L. 88–560 substituted “thirty” for “twenty-five” in cl. (1) and “$40,000” for “$35,000” in cl. (2).
+
+1962—Subsec. (b). Pub. L. 87–779 substituted “exceeds a sum equal to $35,000 for each home or other dwelling unit covered by such mortgage” for “exceeds $35,000”.
+
+1958—Subsec. (b). Pub. L. 85–857 inserted “chapter 37 of title 38,” after “Servicemen's Readjustment Act of 1944, as amended,”.
+
+1954—Subsec. (b)(2). Act Aug. 2, 1954, substituted “$35,000” for “$20,000”.
+
+1951—Subsec. (a)(1). Act Sept. 1, 1951, inserted a reference to subchapter X of chapter 13 of this title.
+
+1950—Subsec. (a) (1). Act Apr. 20, 1950, §501(1), substituted “subchapters I, II, VI, and VIII of chapter 13 of this title” for “sections 1707–1715b and 1736–1742 of this title”.
+
+Subsec. (b). Act Apr. 20, 1950, §501(2), inserted “unless such home mortgage is insured under the National Housing Act, as amended, or insured or guaranteed under the Servicemen's Readjustment Act of 1944, as amended” after “Maturity” in first sentence.
+
+1947—Subsec. (b). Act Aug. 1, 1947, increased period collateral security can run from twenty years to twenty-five years.
+
+1941—Subsec. (a)(1). Act Mar. 28, 1941, inserted reference to sections 1736–1742 of this title.
+
+1935—Subsec. (a). Act May 28, 1935, §5, added cl. (4).
+
+Subsec. (b)(1). Act May 28, 1935, §6, substituted “twenty” for “fifteen” and omitted reference to value of real estate in cl. 2.
+
+1934—Subsec. (a). Act June 27, 1934, amended subsec. (a) generally.
+
+Subsec. (b). Act Apr. 27, 1934, inserted “unless the amount,” etc. to end of first sentence.
+
+#### Change of Name
+
+Committee on Banking, Finance and Urban Affairs of House of Representatives changed to Committee on Banking and Financial Services of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Effective Date of 1958 Amendment
+
+Amendment by Pub. L. 85–857 effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as an Effective Date note preceding Part 1 of Title 38, Veterans’ Benefits.
+
+#### Authorization of Appropriations for Disbursement to Federal Home Loan Banks for Adjustment of Interest Charges
+
+Pub. L. 91–351, title I, §101, July 24, 1970, 84 Stat. 450, provided that:
+
+“(a) There is authorized to be appropriated not to exceed $250,000,000, without fiscal year limitation, to be used by the Federal Home Loan Bank Board for disbursement to Federal home loan banks for the purpose of adjusting the effective interest charged by such banks on short-term and long-term borrowing to promote an orderly flow of funds into residential construction. The disbursement of sums appropriated hereunder shall be made under such terms and conditions as may be prescribed by the Board to assure that such sums are used to assist in the provision of housing for low- and middle-income families, and that such families share fully in the benefits resulting from the disbursement of such sums. No member of a Federal home loan bank shall use funds the interest charges on which have been adjusted pursuant to the provisions of this section to make any loan, if—
+
+&emsp;“(1) the effective rate of interest on such loan exceeds the effective rate of interest on such funds payable by such member by a percentile amount which is in excess of such amount as the Board determines to be appropriate in furtherance of the purposes of this section; or
+
+&emsp;“(2) the principal obligation of any such loan which is secured by a mortgage on a residential structure exceeds the dollar limitations on the maximum mortgage amount, in effect on the date the mortgage was originated, which would be applicable if the mortgage was insured by the Secretary of Housing and Urban Development under section 203(b) or 207 of the National Housing Act \[section 1709(b) or 1713 of this title\].
+
+“(b) Not more than 20 per centum of the sums appropriated pursuant to subsection (a) shall be disbursed in any one Federal home loan bank district.”
+
+#### Cross References
+
+National Housing Act, applicability to, see section 1733 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1426, 1430b, 1431, 1733, 2705 of this title; title 42 sections 1591a.
+
+<i><sup>1</sup></i><i> So in original. The text following “it” probably should not appear. See 1989 Amendment note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “(f)”.</i>
+

@@ -1,0 +1,106 @@
+### §6959. Midshipmen: agreement for length of service
+
+(a) Each midshipman shall sign an agreement with respect to the midshipman's length of service in the armed forces. The agreement shall provide that the midshipman agrees to the following:
+
+&emsp;(1) That the midshipman will complete the course of instruction at the Naval Academy.
+
+&emsp;(2) That upon graduation from the Naval Academy the midshipman—
+
+&emsp;&emsp;(A) will accept an appointment, if tendered, as a commissioned officer of the Regular Navy, the Regular Marine Corps, or the Regular Air Force; and
+
+&emsp;&emsp;(B) will serve on active duty for at least six years immediately after such appointment.
+
+&emsp;(3) That if an appointment described in paragraph (2) is not tendered or if the midshipman is permitted to resign as a regular officer before completion of the commissioned service obligation of the midshipman, the midshipman—
+
+&emsp;&emsp;(A) will accept an appointment as a commissioned officer in the Naval Reserve or the Marine Corps Reserve or as a Reserve in the Air Force for service in the Air Force Reserve; and
+
+&emsp;&emsp;(B) will remain in that reserve component until completion of the commissioned service obligation of the midshipman.
+
+(b)(1) The Secretary of the Navy may transfer to the Naval Reserve or the Marine Corps Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a midshipman who breaches an agreement under subsection (a). The period of time for which a midshipman is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title.
+
+(2) A midshipman who is transferred to the Naval Reserve or Marine Corps Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
+
+(3) For the purposes of paragraph (1), a midshipman shall be considered to have breached an agreement under subsection (a) if the midshipman is separated from the Naval Academy under circumstances which the Secretary determines constitute a breach by the midshipman of the midshipman's agreement to complete the course of instruction at the Naval Academy and accept an appointment as a commissioned officer upon graduation from the Naval Academy.
+
+(c) The Secretary of the Navy shall prescribe regulations to carry out this section. Those regulations shall include—
+
+&emsp;(1) standards for determining what constitutes, for the purpose of subsection (b), a breach of an agreement under subsection (a);
+
+&emsp;(2) procedures for determining whether such a breach has occurred; and
+
+&emsp;(3) standards for determining the period of time for which a person may be ordered to serve on active duty under subsection (b).
+
+(d) In this section, “commissioned service obligation”, with respect to an officer who is a graduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense, any later date up to the eighth anniversary of such appointment.
+
+(e)(1) This section does not apply to a midshipman who is not a citizen or national of the United States.
+
+(2) In the case of a midshipman who is a minor and who has parents or a guardian, the midshipman may sign the agreement required by subsection (a) only with the consent of a parent or guardian.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 432; Mar. 3, 1964, Pub. L. 88–276, §5(a), 78 Stat. 153; Oct. 13, 1964, Pub. L. 88–647, title III, §301(19), 78 Stat. 1072; Oct. 19, 1984, Pub. L. 98–525, title V, §§541(b), 542(c), 98 Stat. 2529; Nov. 8, 1985, Pub. L. 99–145, title V, §512(b), 99 Stat. 624; Nov. 29, 1989, Pub. L. 101–189, div. A, title V, §511(c), 103 Stat. 1439.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+6959
+
+34 U.S.C. 1048.
+
+June 30, 1950, ch. 421, §3, 64 Stat. 304.
+
+The words “Hereafter” and “appointed to the United States Naval Academy” are omitted as surplusage. The words “an agreement that \* \* \* he will” are substituted for the words “articles \* \* \* by which he shall engage”. The word “separated” is substituted for the words “discharged by competent authority”. The words “if tendered an appointment”, “upon graduation from the United States Naval Academy”, and “consecutive” are omitted as surplusage. The words “if he is permitted to resign” are substituted for the words “in the event of the acceptance of his resignation”, since a resignation is effective only if accepted. The first 43 words of clause (3) are substituted for 34 U.S.C. 1048 (last 30 words of clause (3)). The last sentence is substituted for the words “with the consent of his parents or guardian if he be a minor, and if any he have.”
+
+#### Amendments
+
+1989—Subsec. (a)(2)(B). Pub. L. 101–189 substituted “six years” for “five years”.
+
+1985—Pub. L. 99–145 amended section generally. Prior to amendment, section read as follows:
+
+“(a) Each midshipman who is a citizen or national of the United States shall sign an agreement that he will—
+
+&emsp;“(1) unless sooner separated from the Naval Academy, complete the course of instruction at the Naval Academy;
+
+&emsp;“(2) accept an appointment and, unless sooner separated from the naval service, serve as a commissioned officer of the Regular Navy, the Regular Marine Corps, or the Regular Air Force for at least five years immediately after graduation; and
+
+&emsp;“(3) accept an appointment as a commissioned officer in the reserve component of the Navy or the Marine Corps or as a Reserve in the Air Force for service in the Air Force Reserve and, unless sooner separated from the naval service, remain therein until at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary of his graduation if an appointment in the regular component of that armed force is not tendered to him or if he is permitted to resign as a commissioned officer of that component before that anniversary.
+
+> If the midshipman is a minor and has parents or a guardian, he may sign the agreement only with the consent of the parents or guardian.
+
+“(b) A midshipman who does not fulfill his agreement under subsection (a) may be transferred by the Secretary of the Navy to the Naval Reserve or the Marine Corps Reserve in an appropriate enlisted grade or rating, and, notwithstanding section 651 of this title, may be ordered to active duty to serve in that grade or rating for such period of time as the Secretary prescribes but not for more than four years.”
+
+1984—Subsec. (a). Pub. L. 98–525, §541(b), struck out “, unless sooner separated,” in introductory text preceding “he will”; inserted in cl. (1) “unless sooner separated from the Naval Academy,”; and inserted “, unless sooner separated from the naval service,” in cls. (2) and (3).
+
+Subsec. (a)(3). Pub. L. 98–525, §542(c), substituted “at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary” for “the sixth anniversary”.
+
+1964—Pub. L. 88–647 designated existing provisions as subsec. (a) and added subsec. (b).
+
+Subsec. (a)(2). Pub. L. 88–276 substituted “five” for “three”.
+
+#### Effective Date of 1989 Amendment
+
+Amendment by Pub. L. 101–189 applicable to persons who are first admitted to one of the military service academies after Dec. 31, 1991, see section 511(e) of Pub. L. 101–189, as amended, set out as a note under section 2114 of this title.
+
+#### Effective Date of 1985 Amendment
+
+Amendment by Pub. L. 99–145 (other than with respect to the authority of the Secretary of the Navy to prescribe regulations) effective on the date on which regulations prescribed by the Secretary take effect and applicable to agreements entered into under this section on or after the effective date of such regulations and also with respect to each such agreement that was entered into before the effective date of such regulations by an individual who is a midshipman on such date, see section 512(e) of Pub. L. 99–145, set out as a note under section 4348 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by section 541(b) of Pub. L. 98–525 applicable with respect to agreements entered into under this section before, on, or after Oct. 19, 1984, see section 541(d) of Pub. L. 98–525, set out as a note under section 4348 of this title.
+
+#### Effective Date of 1964 Amendment; Obligated Period of Service
+
+For effective date of amendment by Pub. L. 88–276, see section 5(c) of Pub. L. 88–276, set out as a note under section 4348 of this title.
+
+#### Regulations Implementing 1985 Amendment
+
+Secretary of the Navy to prescribe regulations required by subsec. (c) of this section as added by Pub. L. 99–145 not later than the end of the 90-day period beginning on Nov. 8, 1985, see section 512(d) of Pub. L. 99–145, set out as a note under section 4348 of this title.
+
+#### Cross References
+
+Effect upon enlisted status of acceptance of appointment as midshipman, see section 516 of this title.
+

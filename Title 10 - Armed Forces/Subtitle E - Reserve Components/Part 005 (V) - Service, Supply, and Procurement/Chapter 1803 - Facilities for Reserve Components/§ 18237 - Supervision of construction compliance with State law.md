@@ -1,0 +1,84 @@
+### §18237. Supervision of construction: compliance with State law
+
+(a) Any construction, expansion, rehabilitation, or conversion under section 2233(a)(1) <sup>1</sup> of this title may be performed under the supervision of the Chief of Engineers of the Army or the head of such office or agency in the Department of the Navy as the Secretary of the Navy may designate.
+
+(b) The construction, expansion, rehabilitation, or conversion of facilities in a State under paragraph (2), (3), (4), (5), or (6) of section 2233(a) <sup>1</sup> of this title shall be done according to the laws of that jurisdiction and under the supervision of its officials, subject to the inspection and approval of the Secretary of Defense.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 123, §2237; Sept. 2, 1958, Pub. L. 85–861, §1(41), 72 Stat. 1457; Nov. 2, 1966, Pub. L. 89–718, §19, 80 Stat. 1118; July 12, 1982, Pub. L. 97–214, §3(d)(2), 96 Stat. 170; renumbered §18237 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (9), div. B, title XXVIII, §2852, 108 Stat. 3010, 3011, 3072.)
+
+Historical and Revision Notes<br>1956
+
+Act
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+2237
+
+50:885.
+
+Sept. 11, 1950, ch. 945, §6, 64 Stat. 831.
+
+The words “of facilities” are omitted as surplusage. The words “Chief of Engineers” are substituted for the words “Chief, Corps of Engineers” to conform to section 3036(a)(1) of this title. The words “of the Army” and “of the Navy” are inserted for clarity.
+
+1958
+
+Act
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+2237(a)
+
+2237(b)
+
+50:885(a).
+
+50:885 (less (a)).
+
+Aug. 9, 1955, ch. 662, §1(f), 69 Stat. 594.
+
+In subsection (b), the words “Territory, Puerto Rico, or the District of Columbia” are inserted to reflect 50:886(c).
+
+#### References in Text
+
+Section 2233 of this title, referred to in text, was renumbered section 18233 of this title by Pub. L. 103–337, div. A, title XVI, §1664(b)(2), Oct. 5, 1994, 108 Stat. 3010.
+
+#### Amendments
+
+1994—Pub. L. 103–337, §1664(b)(2), renumbered section 2237 of this title as this section.
+
+Subsec. (a). Pub. L. 103–337, §1664(b)(9)(A), which directed amendment of subsec. (a) by substituting “paragraph (2), (3), or (4) of section 18233(a)” for “section 2233(a)(2), (3) and (4)”, could not be executed because the words “section 2233(a)(2), (3) and (4)” did not appear subsequent to intervening amendment by Pub. L. 103–337, §2852(a). See below.
+
+Pub. L. 103–337, §2852(a), substituted “under section 2233(a)(1)” for “under any provision of this chapter except section 2233(a)(2), (3), and (4)”.
+
+Subsec. (b). Pub. L. 103–337, §1664(b)(9)(B), which directed amendment of subsec. (b) by substituting “paragraph (2), (3), or (4) of section 18233(a)” for “section 2233(a)(2), (3) or (4)”, could not be executed because the words “section 2233(a)(2), (3) or (4)” did not appear subsequent to intervening amendment by Pub. L. 103–337, §2852(b). See below.
+
+Pub. L. 103–337, §2852(b), substituted “paragraph (2), (3), (4), (5), or (6) of section 2233(a)” for “section 2233(a)(2), (3), or (4)”.
+
+1982—Subsec. (b). Pub. L. 97–214 struck out “or Territory, Puerto Rico, or the District of Columbia” after “facilities in a State”.
+
+1966—Subsec. (a). Pub. L. 89–718 substituted “the head of such office or agency in the Department of the Navy as the Secretary of the Navy may designate” for “the Chief of the Bureau of Yards and Docks of the Navy”.
+
+1958—Pub. L. 85–861 inserted “: compliance with State law” in section catchline.
+
+Subsec. (a). Pub. L. 85–861 designated existing provisions as subsec. (a) and substituted “under any provision of this chapter except section 2233(a)(2), (3), and (4) of this title” for “under this chapter”.
+
+Subsec. (b). Pub. L. 85–861 added subsec. (b).
+
+#### Effective Date of 1994 Amendment
+
+Amendment by section 1664(b)(2), (9) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+
+#### Effective Date of 1982 Amendment
+
+Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

@@ -1,0 +1,24 @@
+### §4304. Disclosure requirements for certain accounts
+
+The Board shall require, in regulations which the Board shall prescribe, such modification in the disclosure requirements under this chapter relating to annual percentage yield as may be necessary to carry out the purposes of this chapter in the case of—
+
+&emsp;(1) accounts with respect to which determination of annual percentage yield is based on an annual rate of interest that is guaranteed for a period of less than 1 year;
+
+&emsp;(2) variable rate accounts;
+
+&emsp;(3) accounts which, pursuant to law, do not guarantee payment of a stated rate;
+
+&emsp;(4) multiple rate accounts; and
+
+&emsp;(5) accounts with respect to which determination of annual percentage yield is based on an annual rate of interest that is guaranteed for a stated term.
+
+(Pub. L. 102–242, title II, §265, Dec. 19, 1991, 105 Stat. 2336; Pub. L. 102–550, title XVI, §1604(e)(2)(A), Oct. 28, 1992, 106 Stat. 4084.)
+
+#### Amendments
+
+1992—Pub. L. 102–550 made technical amendment to references to “this chapter” wherever appearing to reflect correction of corresponding provision of original act.
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
+

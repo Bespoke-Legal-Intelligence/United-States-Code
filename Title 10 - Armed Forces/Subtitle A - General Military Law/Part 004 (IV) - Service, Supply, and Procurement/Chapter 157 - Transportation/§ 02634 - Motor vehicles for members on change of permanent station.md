@@ -1,0 +1,88 @@
+### §2634. Motor vehicles: for members on change of permanent station
+
+(a) When a member of an armed force is ordered to make a change of permanent station, one motor vehicle that is owned or leased by the member (or a dependent of the member) and is for the personal use of the member or his dependents may, unless a motor vehicle owned or leased by him (or a dependent of his) was transported in advance of that change of permanent station under section 406(h) of title 37, be transported, at the expense of the United States, to his new station or such other place as the Secretary concerned may authorize—
+
+&emsp;(1) on a vessel owned, leased, or chartered by the United States;
+
+&emsp;(2) by privately owned American shipping services;
+
+&emsp;(3) by foreign-flag shipping services if shipping services described in clauses (1) and (2) are not reasonably available; or
+
+&emsp;(4) by other surface transportation if such means of transport does not exceed the cost to the United States of other authorized means.
+
+> When the Secretary concerned determines that a replacement for that motor vehicle is necessary for reasons beyond the control of the member and is in the interest of the United States, and he approves the transportation in advance, one additional motor vehicle of the member (or a dependent of the member) may be so transported.
+
+(b) In this section:
+
+&emsp;(1) The term “change of permanent station” means the transfer or assignment of a member of the armed forces from a permanent station inside the continental United States to a permanent station outside the continental United States or from a permanent station outside the continental United States to another permanent station. It also includes an authorized change in home port of a vessel, or a transferor assignment between two permanent stations in the continental United States when the member cannot, because of injury or the conditions of the order, drive the motor vehicle between the permanent duty stations.
+
+&emsp;(2) The term “continental United States” does not include Alaska.
+
+(c) When there has been a shipping error, or when orders directing a change of permanent station have been canceled, revoked, or modified after receipt by the member, a motor vehicle transported pursuant to this section may also be reshipped or transshipped in accordance with this section.
+
+(d) When the Secretary concerned makes a determination under section 406(l) of title 37 that the dependents of a member on a permanent change of station are unable to accompany the member to an overseas duty station because of unexpected and uncontrollable circumstances, and the member shipped a motor vehicle pursuant to this section in anticipation of a dependent accompanying the member to the new duty station, the member may reship or transship such motor vehicle in accordance with this section.
+
+(e) The Secretary of Defense (and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy) may prescribe regulations limiting those leased motor vehicles that may be transported pursuant to this section based upon the length of the lease and other terms and conditions of the lease that the Secretary considers appropriate.
+
+(f) No carrier, port agent, warehouseman, freight forwarder, or other person involved in the transportation of property may have any lien on, or hold, impound, or otherwise interfere with, the movement of a motor vehicle being transported under this section.
+
+(Added Pub. L. 87–651, title I, §111(b), Sept. 7, 1962, 76 Stat. 510; amended Pub. L. 88–431, §1(b), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–101, §1(1), July 30, 1965, 79 Stat. 425; Pub. L. 93–548, §§1, 2, Dec. 26, 1974, 88 Stat. 1743; Pub. L. 97–60, title II, §202, Oct. 14, 1981, 95 Stat. 1005; Pub. L. 99–661, div. A, title VI, §§611, 620(b)(2), Nov. 14, 1986, 100 Stat. 3878, 3883; Pub. L. 100–26, §7(j)(6), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–180, div. A, title VI, §616(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 102–484, div. A, title VI, §622(b), Oct. 23, 1992, 106 Stat. 2422.)
+
+#### Historical and Revision Notes
+
+The new section 2634 of title 10 combines sections 4748, 6157, and 9748 of this title and section 471a of title 14 (which are being repealed), and reflects the Act of May 28, 1956, ch. 325 (46 U.S.C. 1241(c)).
+
+#### Amendments
+
+1992—Subsec. (f). Pub. L. 102–484 added subsec. (f).
+
+1987—Subsec. (a). Pub. L. 100–180, §616(a)(1), inserted “or leased” after “owned” in two places in introductory text.
+
+Subsec. (d). Pub. L. 100–26 redesignated subsec. (f) as (d).
+
+Subsec. (e). Pub. L. 100–180, §616(a)(2), added subsec. (e).
+
+Subsec. (f). Pub. L. 100–26 redesignated subsec. (f) as (d).
+
+1986—Subsec. (a). Pub. L. 99–661, §611(a), substituted “by other surface transportation” for “in the case of movement, the major portion of which is by shipping services described in clause (1) or (2), by other surface transportation between customary ports of embarkation and debarkation” in par. (4), and struck out “, or his designee,” after “When the Secretary concerned” in last sentence.
+
+Subsec. (b). Pub. L. 99–661, §611(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In this section, ‘change of permanent station’ means the transfer or assignment of a member of the armed forces from one permanent station to another. It includes the change from home or from the place from which ordered to active duty to first station upon appointment, call to active duty, enlistment, or induction, and from last duty station to home or to the place from which ordered to active duty upon separation from the service, placement upon the temporary disability retired list, release from active duty, or retirement. It also includes an authorized change in home yard or home port of a vessel.”
+
+Subsec. (f). Pub. L. 99–661, §620(b)(2), added subsec. (f).
+
+1981—Subsec. (a). Pub. L. 97–60 substituted “one motor vehicle that is owned by the member (or a dependent of the member) and is for the personal use of the member or his dependents may, unless a motor vehicle owned by him (or a dependent of his) was transported” for “one motor vehicle owned by him and for his personal use or the use of his dependents may, unless a motor vehicle owned by him was transported” in provisions preceding par. (1) and, in provisions following par. (4), inserted “(or a dependent of the member)” after “one additional motor vehicle of the member”.
+
+1974—Subsec. (a)(4). Pub. L. 93–548, §1, added par. (4).
+
+Subsec. (c). Pub. L. 93–548, §2, added subsec. (c).
+
+1965—Pub. L. 89–101 substituted “change of permanent station” for “permanent change of station” in section catchline, designated existing provisions as subsec. (a), substituted “change of permanent station” for “permanent change of station” in two places, inserted “or for the use of his dependents” and “or such other place as the Secretary concerned may authorize”, added cl. 3, provided for the transportation of one additional motor vehicle when replacement is necessary, and added subsec. (b).
+
+1964—Pub. L. 88–431 inserted “, leased, or chartered” and “unless a motor vehicle owned by him was transported in advance of that permanent change of station under section 406(h) of title 37”.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by Pub. L. 99–661, applicable with respect to members whose dependents are unable to accompany them to an overseas permanent duty station because of circumstances arising on or after Nov. 14, 1986, see section 620(c)(2) of Pub. L. 99–661, set out as a note under section 406 of Title 37, Pay and Allowances of the Uniformed Services.
+
+#### Effective Date of 1965 Amendment; Reimbursement of Expenses
+
+Section 3 of Pub. L. 89–101 provided that: “This Act \[amending this section and section 406 of title 37\] shall be effective May 1, 1965. Any member who—
+
+&emsp;“(1) transported a motor vehicle at his personal expense after April 30, 1965, and before the enactment of this Act \[July 30, 1965\]; and
+
+&emsp;“(2) would have been entitled to the transportation of such motor vehicle at Government expense under the provisions of this Act;
+
+> shall be reimbursed for the allowable transportation cost actually expended by him. Appropriations available for permanent change of station travel shall be available for the reimbursements authorized by this Act.”
+
+#### Public Health Service
+
+Authority vested by this section in “the Secretary concerned” to be exercised, with respect to commissioned officers of Public Health Service, by Secretaryof Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
+
+#### National Oceanic and Atmospheric Administration
+
+Authority vested by this section in “the Secretary concerned” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or his designee, see section 857a of Title 33, Navigation and Navigable Waters.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 33 section 857a; title 37 sections 406, 406b, 406c; title 42 section 213a.
+

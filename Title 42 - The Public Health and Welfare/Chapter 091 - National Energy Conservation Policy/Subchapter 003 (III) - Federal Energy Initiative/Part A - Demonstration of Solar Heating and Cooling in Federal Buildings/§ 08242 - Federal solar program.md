@@ -1,0 +1,10 @@
+### §8242. Federal solar program
+
+The Secretary, in consultation with the Administrator of the General Services Administration, shall develop and carry out a program to demonstrate the application to buildings of solar heating and solar heating and cooling technology in Federal buildings.
+
+(Pub. L. 95–619, title V, §522, Nov. 9, 1978, 92 Stat. 3276.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 8243 of this title.
+

@@ -1,0 +1,34 @@
+### §13456. Improving efficiency in energy-intensive industries
+
+#### (a) Secretarial action
+
+The Secretary, in accordance with sections 13541 and 13542 of this title, shall—
+
+&emsp;(1) pursue a research, development, demonstration and commercial application program intended to improve energy efficiency and productivity in energy-intensive industries and industrial processes; and
+
+&emsp;(2) undertake joint ventures to encourage the commercialization of technologies developed under paragraph (1).
+
+#### (b) Joint ventures
+
+(1) The Secretary shall—
+
+&emsp;(A) conduct a competitive solicitation for proposals from private firms and investors for such joint ventures under subsection (a)(2) of this section; and
+
+&emsp;(B) provide financial assistance to at least five such joint ventures.
+
+(2) The purpose of the joint ventures shall be to design, test, and demonstrate changes to industrial processes that will result in improved energy efficiency and productivity. The joint ventures may also demonstrate other improvements of benefit to such industries so long as demonstration of energy efficiency improvements is the principal objective of the joint venture.
+
+(3) In evaluating proposals for financial assistance and joint ventures under this section, the Secretary shall consider—
+
+&emsp;(A) whether the activities conducted under this section improve the quality and energy efficiency of industries or industrial processes;
+
+&emsp;(B) the regional distribution of the energy-intensive industries and industrial processes; and
+
+&emsp;(C) whether the proposed joint venture project would be located in the region which has the energy-intensive industry and industrial processes that would benefit from the project.
+
+(Pub. L. 102–486, title XXI, §2107, Oct. 24, 1992, 106 Stat. 3070.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 13451 of this title.
+

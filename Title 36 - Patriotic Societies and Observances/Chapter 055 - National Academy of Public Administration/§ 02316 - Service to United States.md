@@ -1,0 +1,6 @@
+### §2316. Service to United States
+
+The National Academy of Public Administration shall, whenever called upon by Congress, or the Federal Government, investigate, examine, experiment, and report upon any subject of government, the actual expense of such investigations, examinations, and reports to be paid by the Federal Government from appropriations available for such purpose.
+
+(Pub. L. 98–257, §17, Apr. 10, 1984, 98 Stat. 129.)
+

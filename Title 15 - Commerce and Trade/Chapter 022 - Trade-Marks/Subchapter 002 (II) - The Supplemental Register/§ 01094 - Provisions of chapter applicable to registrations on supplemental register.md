@@ -1,0 +1,24 @@
+### §1094. Provisions of chapter applicable to registrations on supplemental register
+
+The provisions of this chapter shall govern so far as applicable applications for registration and registrations on the supplemental register as well as those on the principal register, but applications for and registrations on the supplemental register shall not be subject to or receive the advantages of sections 1051(b), 1052(e), 1052(f), 1057(b) 1057(c),,<sup>1</sup> 1062(a), 1063 to 1068, inclusive, 1072, 1115 and 1124 of this title.
+
+(July 5, 1946, ch. 540, title II, §26, 60 Stat. 436; Nov. 16, 1988, Pub. L. 100–667, title I, §123, 102 Stat. 3943.)
+
+#### Prior Provisions
+
+Act Mar. 19, 1920, ch. 104, §6, 41 Stat. 535.
+
+#### Amendments
+
+1988—Pub. L. 100–667 inserted reference to sections 1051(b) and 1057(c).
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see section 136 of Pub. L. 100–667, set out as a note under section 1051 of this title.
+
+#### Repeal and Effect on Existing Rights
+
+Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “1057(b), 1057(c),”.</i>
+

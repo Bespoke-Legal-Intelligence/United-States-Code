@@ -1,0 +1,32 @@
+### §4521. Definition
+
+For the purpose of this subchapter, the term “law enforcement officer” means—
+
+&emsp;(1) a law enforcement officer within the meaning of section 5541(3) and to whom the provisions of chapter 51 apply;
+
+&emsp;(2) a member of the United States Secret Service Uniformed Division;
+
+&emsp;(3) a member of the United States Park Police;
+
+&emsp;(4) a special agent in the Diplomatic Security Service;
+
+&emsp;(5) a probation officer (referred to in section 3672 of title 18); and
+
+&emsp;(6) a pretrial services officer (referred to in section 3153 of title 18).
+
+(Added Pub. L. 101–509, title V, §529 \[title IV, §408(a)\], Nov. 5, 1990, 104 Stat. 1427, 1467; amended Pub. L. 102–141, title VI, §627, Oct. 28, 1991, 105 Stat. 874; Pub. L. 102–378, §2(21), Oct. 2, 1992, 106 Stat. 1348.)
+
+#### Amendments
+
+1992—Pub. L. 102–378 amended section generally, substituting in par. (1) “section 5541(3)” for “section 8331(20) or section 8401(17)”.
+
+1991—Pub. L. 102–141 amended section generally. Prior to amendment, section read as follows: “For the purpose of this subchapter, the term ‘law enforcement officer’ has the same meaning as under section 5949(a).”
+
+#### Effective Date
+
+Section 529 \[title IV, §408(d)\] of Pub. L. 101–509 provided that: “The amendments made by this section \[enacting this subchapter and amending provisions set out as a note under section 5541 of this title\] shall be effective on January 1, 1992.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 19 section 267a.
+

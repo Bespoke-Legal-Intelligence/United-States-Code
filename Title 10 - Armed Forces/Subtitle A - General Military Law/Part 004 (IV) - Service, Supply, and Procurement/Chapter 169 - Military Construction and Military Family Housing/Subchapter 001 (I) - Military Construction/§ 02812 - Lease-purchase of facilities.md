@@ -1,0 +1,52 @@
+### §2812. Lease-purchase of facilities
+
+(a)(1) The Secretary concerned may enter into an agreement with a private contractor for the lease of a facility of the kind specified in paragraph (2) if the facility is provided at the expense of the contractor on a military installation under the jurisdiction of the Department of Defense.
+
+(2) The facilities that may be leased pursuant to paragraph (1) are as follows:
+
+&emsp;(A) Administrative office facilities.
+
+&emsp;(B) Troop housing facilities.
+
+&emsp;(C) Energy production facilities.
+
+&emsp;(D) Utilities, including potable and waste water treatment facilities.
+
+&emsp;(E) Hospital and medical facilities.
+
+&emsp;(F) Transient quarters.
+
+&emsp;(G) Depot or storage facilities.
+
+&emsp;(H) Child care centers.
+
+&emsp;(I) Classroom and laboratories.
+
+(b) Leases entered into under subsection (a)—
+
+&emsp;(1) may not exceed a term of 32 years;
+
+&emsp;(2) shall provide that, at the end of the term of the lease, title to the leased facility shall vest in the United States; and
+
+&emsp;(3) shall include such other terms and conditions as the Secretary concerned determines are necessary or desirable to protect the interests of the United States.
+
+(c)(1) The Secretary concerned may not enter into a lease under this section until—
+
+&emsp;(A) the Secretary submits to the appropriate committees of Congress a justification of the need for the facility for which the proposed lease is being entered into and an economic analysis (based upon accepted life-cycle costing procedures) that demonstrates the cost effectiveness of the proposed lease compared with a military construction project for the same facility; and
+
+&emsp;(B) a period of 21 days has expired following the date on which the justification and economic analysis are received by the committees.
+
+(2) Each Secretary concerned may, under this section, enter into—
+
+&emsp;(A) not more than three leases in fiscal year 1990; and
+
+&emsp;(B) not more than five leases in each of the fiscal years 1991 and 1992.
+
+(d) Each lease entered into under this section shall include a provision that the obligation of the United States to make payments under the lease in any fiscal year is subject to the availability of appropriations for that purpose.
+
+(Added Pub. L. 101–189, div. B, title XXVIII, §2809(a), Nov. 29, 1989, 103 Stat. 1649; amended Pub. L. 101–510, div. B, title XXVIII, §2864, Nov. 5, 1990, 104 Stat. 1806.)
+
+#### Amendments
+
+1990—Subsec. (a)(2)(I). Pub. L. 101–510 added subpar. (I).
+

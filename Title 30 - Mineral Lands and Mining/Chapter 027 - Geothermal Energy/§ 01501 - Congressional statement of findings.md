@@ -1,0 +1,16 @@
+### §1501. Congressional statement of findings
+
+The Congress finds that—
+
+&emsp;(1) domestic geothermal reserves can be developed into regionally significant energy sources promoting the economic health and national security of the Nation;
+
+&emsp;(2) there are institutional and economic barriers to the commercialization of geothermal technology; and
+
+&emsp;(3) Federal agencies should consider the use of geothermal energy in the Government's buildings.
+
+(Pub. L. 96–294, title VI, §602, June 30, 1980, 94 Stat. 763.)
+
+#### Short Title
+
+Section 601 of title VI of Pub. L. 96–294 provided that: “This title \[enacting this chapter and sections 1146 and 1147 of this title and amending sections 1141 and 1143 of this title and sections 796, 824a–3, 824i, and 824j of Title 16, Conservation\] may be cited as the ‘Geothermal Energy Act of 1980’.”
+

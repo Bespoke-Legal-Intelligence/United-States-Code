@@ -1,0 +1,400 @@
+### §431. National monuments; reservation of lands; relinquishment of private claims
+
+The President of the United States is authorized, in his discretion, to declare by public proclamation historic landmarks, historic and prehistoric structures, and other objects of historic or scientific interest that are situated upon the lands owned or controlled by the Government of the United States to be national monuments, and may reserve as a part thereof parcels of land, the limits of which in all cases shall be confined to the smallest area compatible with the proper care and management of the objects to be protected. When such objects are situated upon a tract covered by a bona fide unperfected claim or held in private ownership, the tract, or so much thereof as may be necessary for the proper care and management of the object, may be relinquished to the Government, and the Secretary of the Interior is authorized to accept the relinquishment of such tracts in behalf of the Government of the United States.
+
+(June 8, 1906, ch. 3060, §2, 34 Stat. 225.)
+
+#### Short Title
+
+Act June 8, 1906, ch. 3060, 34 Stat. 225, which is classified generally to sections 431, 432, and 433 of this title, is popularly known as the “Antiquities Act of 1906”.
+
+#### National Monument Commission
+
+Act Aug. 31, 1954, ch. 1160, 68 Stat. 1029, provided for a Commission to obtain plans and designs for a useful monument to the nation symbolizing to the United States and the world the ideals of a democracy as embodied in the five freedoms (speech, religion, press, assembly, and petition) and to submit such plans to Congress for legislative authorization after approval by the Secretary of the Interior, the National Capital Planning Commission, and the Commission of Fine Arts, The Commission terminated 30 days after submission of required report which was submitted in 1957 but audit of business was not completed until September 1964.
+
+National Monuments Established Under Presidential Proclamation
+
+&nbsp;
+
+Ackia Battleground National Monument, Mississippi \[see section 450r of this title\].—Proc. No. 2307, Oct. 25, 1938, 53 Stat. 2494.
+
+Admiralty Island National Monument, Alaska \[Monument established within Tongass National Forest by Pub. L. 96–487, title V, §503(b), Dec. 2, 1980, 94 Stat. 2399\].—Proc. No. 4611, Dec. 1, 1978, 93 Stat. 1446.
+
+Andrew Johnson National Monument, Tennessee \[Monument redesignated Andrew Johnson National Historical Site, see section 450<i>o</i> of this title\].—Proc. No. 2554, Apr. 27, 1942, 56 Stat. 1955.
+
+Aniakchak National Monument, Alaska \[Monument established as unit of National Park System, see section 410hh(1) of this title\].—Proc. No. 4612, Dec. 1, 1978, 93 Stat. 1448.
+
+Arches National Monument, Utah \[Monument abolished and funds made available to Arches National Park, see section 272 of this title\].—Proc. No. 1875, Apr. 12, 1929, 46 Stat. 2988; Proc. No. 2312, Nov. 25, 1938, 53 Stat. 2504; Proc. No. 3360, July 22, 1960, 74 Stat.
+
+c79; Proc. No. 3887, Jan. 20, 1969, 83 Stat. 920.
+
+Aztec Ruins National Monument, New Mexico.—Proc. No. 1650, Jan. 24, 1923, 42 Stat. 2295; Proc. No. 1840, July 2, 1928, 45 Stat. 2954; Proc. No. 1928, Dec. 19, 1930, 46 Stat. 3040; Proc. No. 2787, May 27, 1948, 62 Stat. 1513; Pub. L. 100–559, title VI, §§601–604, Oct. 28, 1988, 102 Stat. 2800.
+
+Badlands National Monument, South Dakota \[Monument redesignated Badlands National Park, see section 441e–1 of this title\].—Proc. No. 2320, Jan. 25, 1939, 53 Stat. 2521.
+
+Bandelier National Monument, New Mexico.—Proc. No. 1322, Feb. 11, 1916, 39 Stat. 1764; Proc. No. 3388, Jan. 9, 1961, 75 Stat. 1014; Proc. No. 3539, May 27, 1963, 77 Stat. 1006.
+
+Becharof National Monument, Alaska.—Proc. No. 4613, Dec. 1, 1978, 93 Stat. 1450.
+
+Bering Land Bridge National Monument, Alaska.—Proc. No. 4614, Dec. 1, 1978, 93 Stat. 1451.
+
+Big Hole Battlefield National Monument, Montana \[Monument redesignated Big Hole National Battlefield, see section 430uu of this title\].—Ex. Ord. No. 1216, June 23, 1910; Proc. No. 2339, June 29, 1939, 53 Stat. 2544.
+
+Black Canyon of the Gunnison National Monument, Colorado.—Proc. No. 2033, Mar. 2, 1933, 47 Stat. 2558; Proc. No. 2286, May 16, 1938, 52 Stat. 1548; Proc. No. 2372, Oct. 28, 1939, 54 Stat. 2669; Proc. No. 3344, Apr. 8, 1960, 74 Stat.
+
+c56; Pub. L. 98–357, July 13, 1984, 98 Stat. 397.
+
+Bryce Canyon National Monument, Utah.—Proc. No. 1664, June 8, 1923, 43 Stat. 1914; Proc. No. 1930, Jan. 5, 1931, 46 Stat. 3042; Proc. No. 1952, May 4, 1931, 47 Stat. 2455.
+
+Buck Island Reef National Monument, Virgin Islands.—Proc. No. 3443, Dec. 28, 1961, 76 Stat. 1441; Proc. No. 4346, Feb. 1, 1975, 89 Stat. 1237; Proc. No. 4359, Mar. 28, 1975, 89 Stat. 1254.
+
+Cabrillo National Monument, California.—Proc. No. 1255, Oct. 14, 1913, 38 Stat. 1965; Proc. No. 3273, Feb. 2, 1959, 73 Stat.
+
+c19; Proc. No. 4319, Sept. 28, 1974, 88 Stat. 2514.
+
+Canyon De Chelly National Monument, Arizona \[see section 445 of this title\].—Proc. No. 1945, Apr. 1, 1931, 47 Stat. 2448; Proc. No. 2036, Mar. 3, 1933, 47 Stat. 2562.
+
+Cape Krusenstern National Monument, Alaska \[Monument established as unit of National Park System, see section 410hh(3) of this title\].—Proc. No. 4615, Dec. 1, 1978, 93 Stat. 1453.
+
+Capitol Reef National Monument, Utah \[Monument abolished and funds made available to Capitol Reef National Park, see section 273 of this title\].—Proc. No. 2246, Aug. 2, 1937, 50 Stat. 1856; Proc. No. 3249, July 2, 1958, 72 Stat.
+
+c48; Proc. No. 3888, Jan. 20, 1969, 83 Stat. 922.
+
+Capulin Volcano National Monument, New Mexico \[see section 460uu–46(g) of this title\].—Proc. No. 1340, Aug. 9, 1916, 39 Stat. 1792.
+
+Carlsbad Cave National Monument, New Mexico \[Monument redesignated Carlsbad Caverns National Park, see section 407 of this title\].—Proc. No. 1679, Oct. 25, 1923, 43 Stat. 1929.
+
+Casa Grande National Monument, Arizona.—Proc. No. 1470, Aug. 3, 1918, 40 Stat. 1818.
+
+Castillo de San Marcos National Monument, Florida \[Monument changed from Fort Marion National Monument by act June 5, 1942, ch. 337, 56 Stat. 312\].—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968.
+
+Castle Pinckney National Monument, South Carolina.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968.
+
+Cedar Breaks National Monument, Utah.—Proc. No. 2054, Aug. 22, 1933, 48 Stat. 1705.
+
+Chaco Canyon National Monument, New Mexico \[Monument abolished and funds made available to Chaco Culture National Historical Park, see section 410ii–1(a) of this title\].—Proc. No. 740, Mar. 11, 1907, 35 Stat. 2119; Proc. No. 1826, Jan. 10, 1928, 45 Stat. 2937.
+
+Channel Islands National Monument, California \[Monument abolished and incorporated in Channel Islands National Park, see section 410ff of this title\].—Proc. No. 2281, Apr. 26, 1938, 52 Stat. 1541; Proc. No. 2825, Feb. 9, 1949, 63 Stat. 1258.
+
+Chesapeake and Ohio Canal National Monument, Maryland.—Proc. No. 3391, Jan. 18, 1961, 75 Stat. 1023.
+
+Chiricahua National Monument, Arizona.—Proc. No. 1692, Apr. 18, 1924, 43 Stat. 1946; Proc. No. 2288, June 10, 1938, 52 Stat. 1551.
+
+Cinder Cone National Monument, California.—Proc. No. 753, May 6, 1907, 35 Stat. 2131.
+
+Colonial National Monument, Virginia \[Monument redesignated Colonial National Historical Park, see section 81 of this title\].—Proc. No. 1929, Dec. 30, 1930, 46 Stat. 3041; Proc. No. 2055, Aug. 22, 1933, 48 Stat. 1706.
+
+Colorado National Monument, Colorado.—Proc. No. 1126, May 24, 1911, 37 Stat. 1681; Proc. No. 2037, Mar. 3, 1933, 47 Stat. 2563; Proc. No. 3307, Aug. 7, 1959, 73 Stat.
+
+c69.
+
+Craters of the Moon National Monument, Idaho.—Proc. No. 1694, May 2, 1924, 43 Stat. 1947; Proc. No. 1843, July 23, 1928, 45 Stat. 2959; Proc. No. 1916, July 9, 1930, 46 Stat. 3029; Proc. No. 2499, July 18, 1941, 55 Stat. 1660; Proc. No. 3506, Nov. 19, 1962, 77 Stat. 960.
+
+Death Valley National Monument, California and Nevada \[Monument abolished and incorporated in Death Valley National Park, see section 410aaa–1 of this title\].—Proc. No. 2028, Feb. 11, 1933, 47 Stat. 2554; Proc. No. 2228, Mar. 26, 1937, 50 Stat. 1823; Proc. No. 2961, Jan. 17, 1952, 66 Stat.
+
+c18; Pub. L. 103–433, title III, §302, Oct. 31, 1994, 108 Stat. 4485.
+
+Denali National Monument, Alaska.—Proc. No. 4616, Dec. 1, 1978, 93 Stat. 1455.
+
+Devil Postpile National Monument, California.—Proc. No. 1166, July 6, 1911, 37 Stat. 1715.
+
+Devils Tower National Monument, Wyoming.—Proc. No. 658, Sept. 24, 1906, 34 Stat. 3236; act Aug. 9, 1955, ch. 647, 69 Stat. 575.
+
+Dinosaur National Monument, Utah-Colorado.—Proc. No. 1313, Oct. 4, 1915, 39 Stat. 1752; Proc. No. 2290, July 14, 1938, 53 Stat. 2454; Pub. L. 100–701, §§2–4, Nov. 19, 1988, 102 Stat. 4641.
+
+Edison Laboratory National Monument, New Jersey \[Monument and Edison Home National Historic Site together with certain adjacent lands redesignated Edison National Historic Site by Pub. L. 87–628, §1, Sept. 5, 1962, 76 Stat. 428\].—Proc. No. 3148, July 14, 1956, 70 Stat.
+
+c49.
+
+Effigy Mounds National Monument, Iowa.—Proc. No. 2860, Oct. 25, 1949, 64 Stat.
+
+a371.
+
+El Morro National Monument, New Mexico.—Proc. No. 695, Dec. 8, 1906, 34 Stat. 3264; Proc. No. 1377, June 18, 1917, 40 Stat. 1673.
+
+Fort Jefferson National Monument, Florida \[Monument abolished and incorporated in Dry Tortugas National Park, see section 410xx of this title\].—Proc. No. 2112, Jan. 4, 1935, 49 Stat. 3430; Pub. L. 96–287, title II, June 28, 1980, 94 Stat. 600; Pub. L. 102–525, title II, §201(c), Oct. 26, 1992, 106 Stat. 3440.
+
+Fort Laramie National Monument, Wyoming \[Monument redesignated Fort Laramie Historic Site by Pub. L. 86–444, §3, Apr. 29, 1960, 74 Stat. 84\].—Proc. No. 2292, July 16, 1938, 53 Stat. 2461.
+
+Fort Marion National Monument, Florida \[Monument redesignated Castillo de San Marcos National Monument by act June 5, 1942, ch. 337, 56 Stat. 312\].—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968.
+
+Fort Matanzas National Monument, Florida.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968; Proc. No. 2114, Jan. 9, 1935, 49 Stat. 3433; Proc. No. 2773, Mar. 24, 1948, 62 Stat. 1491.
+
+Fort Niagara National Monument, New York.—Proc. No. 1745, Sept. 5, 1925, 44 Stat. 2582.
+
+Fort Pulaski National Monument, Georgia.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968.
+
+Fort Wood National Monument, New York.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968.
+
+Fossil Cycad National Monument, South Dakota.—Proc. No. 1641, Oct. 21, 1922, 42 Stat. 2286.
+
+Gates of the Arctic National Monument, Alaska.—Proc. No. 4617, Dec. 1, 1978, 93 Stat. 1457.
+
+Gila Cliff-Dwellings National Monument, New Mexico.—Proc. No. 781, Nov. 16, 1907, 35 Stat. 2162; Proc. No. 3467, Apr. 17, 1962, 76 Stat. 1465.
+
+Glacier Bay National Monument, Alaska \[Monument redesignated Glacier Bay National Park, see section 410hh–1(1) of this title\].—Proc. No. 1733, Feb. 26, 1925, 43 Stat. 1988; Proc. No. 2330, Apr. 18, 1939, 53 Stat. 2534; Proc. No. 3089, Mar. 31, 1955, 69 Stat.
+
+c27; Proc. No. 4618, Dec. 1, 1978, 93 Stat. 1458.
+
+Grand Canyon National Monument, Arizona.—Proc. No. 794, Jan. 11, 1908, 35 Stat. 2175; Proc. No. 2022, Dec. 22, 1932, 47 Stat. 2547; Proc. No. 2393, Apr. 4, 1940, 54 Stat. 2692.
+
+Gran Quivira National Monument, New Mexico \[Monument abolished and funds made available to Salinas National Monument by Pub. L. 96–550, title VI, §601(b), Dec. 19, 1980, 94 Stat. 3231. Salinas National Monument redesignated Salinas Pueblo Missions National Monument by Pub. L. 100–559, title I, §101, Oct. 28, 1988, 102 Stat. 2797\].—Proc. No. 882, Nov. 1, 1909, 36 Stat. 2503; Proc. No. 1545, Nov. 25, 1919, 41 Stat. 1778.
+
+Great Sand Dunes National Monument, Colorado.—Proc. No. 1994, Mar. 17, 1932, 47 Stat. 2506; Proc. No. 2681, Mar. 12, 1946, 60 Stat. 1339; Proc. No. 3138, June 7, 1956, 70 Stat.
+
+c31.
+
+Holy Cross National Monument, Colorado \[Monument abolished by act Aug. 3, 1950, ch. 530, 64 Stat. 404\].—Proc. No. 1877, May 11, 1929, 46 Stat. 2993.
+
+Hovenweep National Monument, Colorado-Utah.—Proc. No. 1654, Mar. 2, 1923, 42 Stat. 2299; Proc. No. 2924, Apr. 26, 1951, 65 Stat.
+
+c8; Proc. No. 2998, Nov. 20, 1952, 67 Stat.
+
+c21; Proc. No. 3132, Apr. 6, 1956, 70 Stat.
+
+c26.
+
+Jackson Hole National Monument, Wyoming \[Monument abolished and incorporated in Grand Teton National Park, see section 406d–1 of this title\].—Proc. No. 2578, Mar. 15, 1943, 57 Stat. 731.
+
+Jewel Cave National Monument, South Dakota.—Proc. No. 799, Feb. 7, 1908, 35 Stat. 2180.
+
+Joshua Tree National Monument, California \[see section 450ii of this title\] \[Monument abolished and incorporated in Joshua Tree National Park, see section 410aaa–22 of this title\].—Proc. No. 2193, Aug. 10, 1936, 50 Stat. 1760; Pub. L. 103–433, title IV, §402, Oct. 31, 1994, 108 Stat. 4488.
+
+Katmai National Monument, Alaska \[Monument redesignated Katmi National Park, see section 410hh–1(2) of this title\].—Proc. No. 1487, Sept. 24, 1918, 40 Stat. 1855; Proc. No. 1950, Apr. 24, 1931, 47 Stat. 2453; Proc. No. 2177, June 15, 1936, 49 Stat. 3523; Proc. No. 2564, Aug. 4, 1942, 56 Stat. 1972; Proc. No. 3890, Jan. 20, 1969, 83 Stat. 926; Proc. No. 4619, Dec. 1, 1978, 93 Stat. 1460.
+
+Kenai Fjords National Monument, Alaska.—Proc. No. 4620, Dec. 1, 1978, 93 Stat. 1462.
+
+Kobuk Valley National Monument, Alaska.—Proc. No. 4621, Dec. 1, 1978, 93 Stat. 1463.
+
+Lake Clark National Monument, Alaska.—Proc. No. 4622, Dec. 1, 1978, 93 Stat. 1465.
+
+Lassen Peak National Monument, California.—Proc. No. 754, May 6, 1907, 35 Stat. 2132.
+
+Lava Beds National Monument, California.—Proc. No. 1755, Nov. 21, 1925, 44 Stat. 2591; Proc. No. 2925, Apr. 27, 1951, 65 Stat.
+
+c9.
+
+Lehman Caves National Monument, Nevada \[Monument abolished and lands incorporated in, and funds made available for, Great Basin National Park, see section 410mm(d) of this title\].—Proc. No. 1618, Jan. 24, 1922, 42 Stat. 2260.
+
+Lewis and Clark Cavern National Monument, Montana.—Proc. No. 807, May 11, 1908, 35 Stat. 2187; Proc. No. 1123, May 16, 1911, 37 Stat. 1679.
+
+Marble Canyon National Monument, Arizona.—Proc. No. 3889, Jan. 20, 1969, 83 Stat. 924.
+
+Meriwether Lewis National Monument, Tennessee \[Monument included in Natchez Trace Parkway, see section 460–1 of this title\].—Proc. No. 1730, Feb. 6, 1925, 43 Stat. 1986; Proc. No. 1825, Dec. 6, 1927, 45 Stat. 2935.
+
+Misty Fjords National Monument, Alaska \[Monument established within Tongass National Forest by Pub. L. 96–487, title V, §503(b), Dec. 2, 1980, 94 Stat. 2399\].—Proc. No. 4623, Dec. 1, 1978, 93 Stat. 1466.
+
+Montezuma Castle National Monument, Arizona.—Proc. No. 696, Sept. 8, 1906, 93 Stat. 3265; Proc. No. 2226, Feb. 23, 1937, 50 Stat. 1817.
+
+Mound City Group National Monument, Ohio \[Monument redesignated Hopewell Culture National Historic Park, see section 401uu of this title\].—Proc. No. 1653, Mar. 2, 1923, 42 Stat. 2298; Pub. L. 96–607, title VII, §701, Dec. 28, 1980, 94 Stat. 3540.
+
+Mount Olympus National Monument, Washington \[Monument abolished and lands incorporated in Mount Olympus National Park, see section 251 of this title\].—Proc. No. 869, Mar. 2, 1909, 35 Stat. 2247; Proc. No. 1191, Apr. 17, 1912, 37 Stat. 1737; Proc. No. 1293, May 11, 1915, 39 Stat. 1726; Proc. No. 1862, Jan. 7, 1929, 45 Stat. 2984.
+
+Muir Woods National Monument, California.—Proc. No. 793, Jan. 9, 1908, 35 Stat. 2174; Proc. No. 1608, Sept. 22, 1921, 42 Stat. 2249; Proc. No. 2122, Apr. 5, 1935, 49 Stat. 3443; Proc. No. 2932, June 26, 1951, 65 Stat.
+
+c20; Proc. No. 3311, Sept. 8, 1959, 73 Stat.
+
+c76.
+
+Mukuntuweap National Monument, Utah \[Monument redesignated Zion National Monument by Proc. No. 1435, Mar. 18, 1918, 40 Stat. 1760, and later redesignated Zion National Park, see section 344 of this title\].—Proc. No. 877, July 31, 1909, 36 Stat. 2498.
+
+Natural Bridges National Monument, Utah.—Proc. No. 804, Apr. 16, 1908, 35 Stat. 2183; Proc. No. 881, Sept. 25, 1909, 36 Stat. 2502; Proc. No. 1323, Feb. 11, 1916, 39 Stat. 1764; Proc. No. 3486, Aug. 14, 1962, 76 Stat. 1495.
+
+Navajo National Monument, Arizona.—Proc. No. 873, May 20, 1909, 36 Stat. 2491; Proc. No. 1186, Mar. 14, 1912, 37 Stat. 1733.
+
+Noatak National Monument, Alaska.—Proc. No. 4624, Dec. 1, 1978, 93 Stat. 1468.
+
+Ocmulgee National Monument, Georgia \[see section 447a of this title\].—Proc. No. 2212, Dec. 23, 1936, 50 Stat. 1798; Proc. No. 2493, June 13, 1941, 55 Stat. 1654; Pub. L. 102–67, July 9, 1991, 105 Stat. 325.
+
+Old Kasaan National Monument, Alaska \[Monument abolished and incorporated in Tongass National Forest by act July 26, 1955, ch. 387, 69 Stat. 380\].—Proc. No. 1351, Oct. 25, 1916, 39 Stat. 1812.
+
+Oregon Caves National Monument, Oregon.—Proc. No. 876, July 12, 1909, 36 Stat. 2497.
+
+Organ Pipe Cactus National Monument, Arizona.—Proc. No. 2232, Apr. 13, 1937, 50 Stat. 1827.
+
+Papago Saguaro National Monument, Arizona.—Proc. No. 1262, Jan. 31, 1914, 38 Stat. 1991.
+
+Perry's Victory and International Peace Memorial National Monument, Ohio.—Proc. No. 2182, July 6, 1936, 50 Stat. 1734.
+
+Petrified Forest National Monument \[Monument disestablished on establishment of Petrified Forest National Park, see sections 119 and 444 of this title\].—Proc. No. 697, Dec. 8, 1906, 34 Stat. 3266; Proc. No. 1167, July 31, 1911, 37 Stat. 1716; Proc. No. 1927, Nov. 14, 1930, 46 Stat. 3040; Proc. No. 1975, Nov. 30, 1931, 47 Stat. 2486; Proc. No. 2011, Sept. 23, 1932, 47 Stat. 2532.
+
+Pinnacles National Monument, California.—Proc. No. 796, Jan. 16, 1908, 35 Stat. 2177; Proc. No. 1660, May 7, 1923, 43 Stat. 1911; Proc. No. 1704, July 2, 1924, 43 Stat. 1961; Proc. No. 1948, Apr. 13, 1931, 47 Stat. 2451; Proc. No. 2050, July 11, 1933, 48 Stat. 1701; Proc. No. 2528, Dec. 5, 1941, 55 Stat. 1709.
+
+Pipe Spring National Monument, Arizona.—Proc. No. 1663, May 31, 1923, 43 Stat. 1913.
+
+Port Chicago National Memorial, California.—Pub. L. 102–562, title II, Oct. 28, 1992, 106 Stat. 4235.
+
+Rainbow Bridge National Monument, Utah.—Proc. No. 1043, May 30, 1910, 36 Stat. 2703.
+
+Russell Cave National Monument, Alabama.—Proc. No. 3413, May 11, 1961, 75 Stat. 1058.
+
+Saguaro National Monument, Arizona \[Monument abolished and incorporated in Saguaro National Park, see section 410zz–1 of this title\].—Proc. No. 2032, Mar. 1, 1933, 47 Stat. 2557; Proc. No. 3439, Nov. 15, 1961, 76 Stat. 1437; Pub. L. 102–61, June 19, 1991, 105 Stat. 303; Pub. L. 103–364, §3, Oct. 14, 1994, 108 Stat. 3467.
+
+Santa Rosa Island National Monument, Florida.—Proc. No. 2337, May 17, 1939, 53 Stat. 2542; Proc. No. 2659, Aug. 13, 1945, 59 Stat. 877.
+
+Scotts Bluff National Monument, Nebraska.—Proc. No. 1547, Dec. 12, 1919, 41 Stat. 1779; Proc. No. 1999, June 1, 1932, 47 Stat. 2512; Proc. No. 2391, Mar. 29, 1940, 54 Stat. 2690.
+
+Shoshone Cavern National Monument, Wyoming \[Monument abolished by act May 17, 1954, ch. 203, 68 Stat. 98\].—Proc. No. 880, Sept. 21, 1909, 36 Stat. 2501.
+
+Sieur de Monts National Monument, Maine.—Proc. No. 1339, July 8, 1916, 39 Stat. 1785.
+
+Sitka National Monument, Alaska \[Monument redesignated Sitka National Historical Park by Pub. L. 92–501, Oct. 18, 1972, 86 Stat. 904\].—Proc. No. 959, Mar. 23, 1910, 36 Stat. 2601; Proc. No. 2965, Feb. 25, 1952, 66 Stat.
+
+c22.
+
+Statue of Liberty National Monument.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968; Proc. No. 2250, Sept. 7, 1937, 51 Stat. 393; Proc. No. 3656, May 11, 1965, 79 Stat. 1490.
+
+Sunset Crater Volcano National Monument, Arizona \[Monument changed from Sunset Crater National Monument by Pub. L. 101–612, §15, Nov. 16, 1990, 104 Stat. 3222\].—Proc. No. 1911, May 26, 1930, 46 Stat. 3023.
+
+Timpanogos Cave National Monument, Utah.—Proc. No. 1640, Oct. 14, 1922, 42 Stat. 2285; Proc. No. 3457, Mar. 27, 1962, 76 Stat. 1457.
+
+Tonto National Monument, Arizona.—Proc. No. 787, Dec. 19, 1907, 35 Stat. 2168; Proc. No. 2230, Apr. 1, 1937, 50 Stat. 1825.
+
+Tumacacori National Monument, Arizona \[Monument abolished and lands incorporated in, and funds made available for, Tumacacori National Historical Park, see section 410ss of this title\].—Proc. No. 821, Sept. 15, 1908, 35 Stat. 2205; Proc. No. 3228, Mar. 28, 1958, 72 Stat.
+
+c30.
+
+Tuzigoot National Monument, Arizona.—Proc. No. 2344, July 25, 1939, 53 Stat. 2548.
+
+Verendrye National Monument, North Dakota.—Proc. No. 1380, June 29, 1917, 40 Stat. 1677.
+
+Walnut Canyon National Monument, Arizona.—Proc. No. 1318, Nov. 30, 1915, 39 Stat. 1761; Proc. No. 2300, Sept. 24, 1938, 53 Stat. 2469.
+
+Wheeler National Monument, Colorado \[Monument abolished by act Aug. 3, 1950, ch. 534, 64 Stat. 405\].—Proc. No. 831, Dec. 7, 1908, 35 Stat. 2214.
+
+White Sands National Monument, New Mexico.—Proc. No. 2025, Jan. 18, 1933, 47 Stat. 2551; Proc. No. 2108, Nov. 28, 1934, 49 Stat. 3426; Proc. No. 2295, Aug. 29, 1938, 53 Stat. 2465; Proc. No. 3024, June 24, 1953, 67 Stat.
+
+c53.
+
+Wrangell-St. Elias National Monument, Alaska.—Proc. No. 4625, Dec. 1, 1978, 93 Stat. 1470.
+
+Wupatki National Monument, Arizona.—Proc. No. 1721, Dec. 9, 1924, 43 Stat. 1977; Proc. No. 2243, July 9, 1937, 52 Stat. 1841; Proc. No. 2454, Jan. 20, 1941, 55 Stat. 1608.
+
+Yucca House National Monument, Colorado.—Proc. No. 1549, Dec. 19, 1919, 41 Stat. 1781.
+
+Yukon-Charley National Monument, Alaska.—Proc. No. 4626, Dec. 1, 1978, 93 Stat. 1472.
+
+Yukon Flats National Monument, Alaska.—Proc. No. 4627, Dec. 1, 1978, 93 Stat. 1473.
+
+Zion National Monument, Utah \[Monument combined with Zion National Park into a single National park unit, see section 346b of this title. A prior Zion National Monument, formerly Mukuntuweap National Monument, Proc. No. 877, July 31, 1909, 36 Stat. 2498, and Proc. No. 1435, Mar. 18, 1918, 40 Stat. 1760, was redesignated Zion National Park, see section 344 of this title\].—Proc. No. 2221, Jan. 22, 1937, 50 Stat. 1809.
+
+Miscellaneous National Monuments
+
+&nbsp;
+
+Agate Fossil Beds National Monument, Nebraska.—Pub. L. 89–33, June 5, 1965, 79 Stat. 123.
+
+Alibates Flint Quarries National Monument, Texas.—Pub. L. 89–154, Aug. 31, 1965, 79 Stat. 587. Name changed from Alibates Flint Quarries and Texas Panhandle Pueblo Culture National Monument by Pub. L. 95–625, title III, §321(c), Nov. 10, 1978, 92 Stat. 3488.
+
+Congaree Swamp National Monument, South Carolina.—Pub. L. 94–545, Oct. 18, 1976, 90 Stat. 2517, as amended by Pub. L. 100–524, §§5, 6, Oct. 24, 1988, 102 Stat. 2607.
+
+El Malpais National Monument, New Mexico.—Pub. L. 100–225, title I, §§101–104, Dec. 31, 1987, 101 Stat. 1539 (16 U.S.C. 460uu et seq.).
+
+Florissant Fossil Beds National Monument, Colorado.—Pub. L. 91–60, Aug. 20, 1969, 83 Stat. 101.
+
+Fossil Butte National Monument, Wyoming.—Pub. L. 92–537, Oct. 23, 1972, 86 Stat. 1069.
+
+Hagerman Fossil Beds National Monument, Idaho.—Pub. L. 100–696, title III, §§301–308, Nov. 18, 1988, 102 Stat. 4575, as amended by Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1923.
+
+Hohokam Pima National Monument, Arizona.—Pub. L. 92–525, Oct. 21, 1972, 86 Stat. 1047.
+
+John Day Fossil Beds National Monument, Oregon.—Pub. L. 93–486, title I, §101(a)(2), Oct. 26, 1974, 88 Stat. 1461.
+
+Kill Devil National Monument, North Carolina.—Act Mar. 2, 1927, ch. 251, 44 Stat. 1264. Name change to Wright Brothers National Memorial, Dec. 1, 1953.
+
+Little Bighorn Battlefield National Monument, Montana.—Pub. L. 102–201, titles I, II, Dec. 10, 1991, 105 Stat. 1631.
+
+Mount St. Helens National Volcanic Monument, Washington.—Pub. L. 97–243, Aug. 26, 1982, 96 Stat. 301.
+
+Newberry National Volcanic Monument, Oregon.—Pub. L. 101–522, Nov. 5, 1990, 104 Stat. 2288.
+
+Pecos National Monument, New Mexico \[included in Pecos National Historical Park by Pub. L. 101–313, title II, §202(b), June 27, 1990, 104 Stat. 278 (16 U.S.C. 410rr–1(b))\].—Pub. L. 89–54, June 28, 1965, 79 Stat. 195; repealed by Pub. L. 101–313, title II, §202(c), June 27, 1990, 104 Stat. 278 (16 U.S.C. 410rr–1(c)).
+
+Petroglyph National Monument, New Mexico.—Pub. L. 101–313, title I, June 27, 1990, 104 Stat. 272, as amended by Pub. L. 103–50, ch. IV, §401, July 2, 1993, 107 Stat. 252.
+
+Poverty Point National Monument, Louisiana.—Pub. L. 100–560, Oct. 31, 1988, 102 Stat. 2803.
+
+Salinas Pueblo Missions National Monument, New Mexico.—Pub. L. 96–550, title VI, §601, Dec. 19, 1980, 94 Stat. 3231, as amended by Pub. L. 100–559, title I, §101, Oct. 28, 1988, 102 Stat. 2797.
+
+National Memorials
+
+&nbsp;
+
+Arkansas Post National Memorial, Arkansas.—Pub. L. 86–595, July 6, 1960, 74 Stat. 333.
+
+Astronauts Memorial, John F. Kennedy Space Center, Florida.—Recognized as national memorial to astronauts who die in line of duty by Pub. L. 102–41, May 8, 1991, 105 Stat. 242.
+
+Benjamin Franklin National Memorial, Pennsylvania.—Designation of Benjamin Franklin Memorial Hall as National Memorial by Pub. L. 92–551, Oct. 25, 1972, 86 Stat. 1164.
+
+Chamizal National Memorial, Texas.—Pub. L. 89–479, June 30, 1966, 80 Stat. 232.
+
+Coronado National Memorial, Arizona.—Acts Aug. 18, 1941, ch. 365, §1, 55 Stat. 630, and July 9, 1952, ch. 610, 66 Stat. 510 (16 U.S.C. 450y); Proc. No. 2995, Nov. 5, 1952, 67 Stat.
+
+c18.
+
+Custis-Lee Mansion National Memorial, Virginia.—Act Mar. 4, 1925, ch. 562, 43 Stat. 1356. Made permanent memorial by act June 29, 1955, ch. 223, 69 Stat. 190.
+
+David Berger Memorial, Ohio.—Pub. L. 96–199, title I, §116, Mar. 5, 1980, 94 Stat. 71.
+
+Disabled American Veterans Vietnam Veterans National Memorial, New Mexico.—Recognized as a memorial of national significance by Pub. L. 100–164, Nov. 13, 1987, 101 Stat. 905.
+
+Father Marquette National Memorial, Michigan.—Pub. L. 94–160, Dec. 20, 1975, 89 Stat. 848.
+
+Federal Hall National Memorial, New York.—Designated May 26, 1939. Designation changed from Federal Hall Memorial Historic Site by act Aug. 11, 1955, ch. 779, 69 Stat. 632.
+
+Fort Caroline National Memorial, Florida.—Act Sept. 21, 1950, ch. 973, 64 Stat. 897. Established Jan. 16, 1953.
+
+Franklin Delano Roosevelt National Memorial, District of Columbia.—Pub. L. 97–224, July 28, 1982, 96 Stat. 243.
+
+Hamilton Grange National Memorial, New York.—Pub. L. 87–438, Apr. 27, 1962, 76 Stat. 57, as amended by Pub. L. 100–701, §1, Nov. 19, 1988, 102 Stat. 4640.
+
+House Where Lincoln Died National Memorial, District of Columbia.—Act June 11, 1896, ch. 420, 29 Stat. 439.
+
+Johnstown Flood National Memorial, Pennsylvania.—Pub. L. 88–546, Aug. 31, 1964, 78 Stat. 752.
+
+Lincoln Boyhood National Memorial, Indiana.—Pub. L. 87–407, Feb. 19, 1962, 76 Stat. 9.
+
+Lincoln Museum National Memorial, District of Columbia.—Act Apr. 7, 1866, ch. 28, §1, 14 Stat. 23.
+
+Lincoln National Memorial, District of Columbia.—Act Feb. 9, 1911, ch. 42, 36 Stat. 898.
+
+Mount Rushmore National Memorial, South Dakota.—Act Feb. 25, 1929, ch. 315, 45 Stat. 1300.
+
+National Fallen Firefighters’ Memorial, Maryland.—Pub. L. 101–347, Aug. 9, 1990, 104 Stat. 398.
+
+Patrick Henry National Memorial, Virginia.—Pub. L. 99–296, May 12, 1986, 100 Stat. 429.
+
+Seabees of the United States Navy Memorial.—Pub. L. 92–422, Sept. 18, 1972, 86 Stat. 678.
+
+Signers of the Declaration of Independence Memorial, District of Columbia.—Pub. L. 95–260, Apr. 17, 1978, 92 Stat. 197.
+
+Thomas Jefferson National Memorial, District of Columbia.—Act June 26, 1934, ch. 763, 48 Stat. 1243.
+
+United States Marine Corps Memorial, Virginia.—Act July 1, 1947, ch. 196, 61 Stat. 242, as amended July 7, 1952, ch. 585, 66 Stat. 441; June 16, 1953, ch. 120, 67 Stat. 64.
+
+United States Navy Memorial, District of Columbia.—Pub. L. 96–199, title I, §113, Mar. 5, 1980, 94 Stat. 70.
+
+U.S.S. Indianapolis Memorial, Indiana.—Pub. L. 103–160, div. A, title XI, §1165, Nov. 30, 1993, 107 Stat. 1765.
+
+Vietnam Veterans Memorial, District of Columbia.—Pub. L. 96–297, July 1, 1980, 94 Stat. 827.
+
+Washington Monument National Memorial, District of Columbia.—Act Aug. 2, 1876, ch. 250, §1, 19 Stat. 123.
+
+Wright Brothers National Memorial, North Carolina.—Kill Devil Hill National Monument authorized by act Mar. 2, 1927, ch. 251, 44 Stat. 1264. Name changed to Wright Brothers National Memorial, Dec. 1, 1953.
+
+#### Albert Einstein Memorial
+
+Conveyance of property to National Academy of Sciences for erection and maintenance of a Memorial to Albert Einstein on south side of Square Numbered 88 between 21st Street, 22d Street, and Constitution Avenue, District of Columbia, with reverter of title whenno longer used for memorial purposes or public access is restricted, was authorized by Pub. L. 95–625, title VI, §612, Nov. 10, 1978, 92 Stat. 3521, as amended Pub. L. 96–87, title IV, §401(<i>o</i>), Oct. 12, 1979, 93 Stat. 666.
+
+#### Study To Add Alaska and Hawaii to Lincoln National Memorial
+
+Pub. L. 94–556, Oct. 19, 1976, 90 Stat. 2632, directed Secretary of the Interior to study feasibility of and make recommendations for recognition at an appropriate place at Lincoln National Memorial of the addition to the Union of the States of Alaska and Hawaii, directed that recommendations, after review and approval by Commission of Fine Arts, National Capital Planning Commission, and Advisory Council on Historic Preservation, be submitted to Committees on Interior and Insular Affairs of the Senate and the House of Representatives, and, if neither committee adopted a resolution of disapproval, directed Secretary to carry out recommendations.
+
+#### Cross Reference
+
+National Capital memorials and commemorative works, see section 1001 et seq. of Title 40, Public Buildings, Property, and Works.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 407, 410mm, 432, 434, 470cc, 470dd, 1133 of this title; title 43 section 1714.
+

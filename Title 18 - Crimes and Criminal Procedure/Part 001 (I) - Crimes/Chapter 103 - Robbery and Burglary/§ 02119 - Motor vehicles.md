@@ -1,0 +1,26 @@
+### §2119. Motor vehicles
+
+Whoever, with the intent to cause death or serious bodily harm <sup>1</sup> takes a motor vehicle that has been transported, shipped, or received in interstate or foreign commerce from the person or presence of another by force and violence or by intimidation, or attempts to do so, shall—
+
+&emsp;(1) be fined under this title or imprisoned not more than 15 years, or both,
+
+&emsp;(2) if serious bodily injury (as defined in section 1365 of this title) results, be fined under this title or imprisoned not more than 25 years, or both, and
+
+&emsp;(3) if death results, be fined under this title or imprisoned for any number of years up to life, or both, or sentenced to death.
+
+(Added Pub. L. 102–519, title I, §101(a), Oct. 25, 1992, 106 Stat. 3384; amended Pub. L. 103–322, title VI, §60003(a)(14), Sept. 13, 1994, 108 Stat. 1970.)
+
+#### Amendments
+
+1994—Pub. L. 103–322, §60003(a)(14), which directed the amendment of section 2119(3) of title 18 by substituting “, with the intent to cause death or serious bodily harm” for “, possessing a firearm as defined in section 921 of this title,”, was executed by making the substitution in introductory provisions rather than in par. (3), to reflect the probable intent of Congress.
+
+Par. (3). Pub. L. 103–322, §60003(a)(14), inserted before period at end “, or sentenced to death”.
+
+#### Federal Cooperation To Prevent “Carjacking” and Motor Vehicle Theft
+
+Section 101(b) of Pub. L. 102–519 provided that: “In view of the increase of motor vehicle theft with its growing threat to human life and to the economic well-being of the Nation, the Attorney General, acting through the Federal Bureau of Investigation and the United States Attorneys, is urged to work with State and local officials to investigate car thefts, including violations of section 2119 of title 18, United States Code, for armed carjacking, and as appropriate and consistent with prosecutorial discretion, prosecute persons who allegedly violate such law and other relevant Federal statutes.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 981, 982, 3559 of this title.
+

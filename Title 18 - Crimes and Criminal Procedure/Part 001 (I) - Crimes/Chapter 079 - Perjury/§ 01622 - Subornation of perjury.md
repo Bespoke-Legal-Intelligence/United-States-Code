@@ -1,0 +1,30 @@
+### §1622. Subornation of perjury
+
+Whoever procures another to commit any perjury is guilty of subornation of perjury, and shall be fined under this title or imprisoned not more than five years, or both.
+
+(June 25, 1948, ch. 645, 62 Stat. 774; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(I), 108 Stat. 2147.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §232 (Mar. 4, 1909, ch. 321, §126, 35 Stat. 1111).
+
+The punishment prescribed in section 1621 of this title was substituted for the reference thereto.
+
+Minor change was made in phraseology.
+
+#### Amendments
+
+1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
+
+#### Canal Zone
+
+Applicability of section to Canal Zone, see section 14 of this title.
+
+#### Cross References
+
+Federal retirement benefits, forfeiture upon conviction of offenses described under this section committed in connection with certain national security offenses, see section 8312 of Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 14 of this title; title 30 section 49e.
+

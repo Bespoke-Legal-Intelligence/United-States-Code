@@ -1,0 +1,54 @@
+### §2113. Authority to exempt certain vessels
+
+If the Secretary decides that the application of a provision of part B, C, F, or G of this subtitle is not necessary in performing the mission of the vessel engaged in excursions or an oceanographic research vessel, or not necessary for the safe operation of certain vessels carrying passengers, the Secretary by regulation may—
+
+&emsp;(1) for a vessel, issue a special permit specifying the conditions of operation and equipment;
+
+&emsp;(2) exempt an oceanographic research vessel from that provision under conditions the Secretary may specify;
+
+&emsp;(3) establish different operating and equipment requirements for vessels defined in section 2101(42)(A) of this title;
+
+&emsp;(4) establish different structural fire protection, manning, operating, and equipment requirements for vessels of at least 100 gross tons but less than 300 gross tons carrying not more than 150 passengers on domestic voyages if the owner of the vessel—
+
+&emsp;&emsp;(A) makes application for inspection to the Coast Guard within 6 months of the date of enactment of the Passenger Vessel Safety Act of 1993; and
+
+&emsp;&emsp;(B) provides satisfactory documentation that the vessel was chartered at least once within the previous 12 months prior to the date of enactment of that Act; and
+
+&emsp;(5) establish different structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 gross tons but less than 500 gross tons, carrying not more than 150 passengers on domestic voyages, if the owner of the vessel—
+
+&emsp;&emsp;(A) makes application for inspection to the Coast Guard within 6 months of the date of enactment of the Passenger Vessel Safety Act of 1993; and
+
+&emsp;&emsp;(B) provides satisfactory documentation that the vessel was chartered at least once within the previous 12 months prior to the date of enactment of that Act.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 508; Pub. L. 103–206, title V, §511(a), Dec. 20, 1993, 107 Stat. 2441.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source section (U.S. Code)</i>
+
+2113
+
+46:445
+
+46:453
+
+Section 2113 provides the Secretary with the authority to exempt certain vessels from the inspection and manning requirements of law when vessels are engaged in excursions or oceanographic research. This is the authority of the issuance of excursion permits when special circumstances justify the waiver of certain maritime safety and seamen's welfare laws for a short period of time. It also contains flexible exemption authority for regulation of oceanographic research vessels.
+
+#### References in Text
+
+The date of enactment of the Passenger Vessel Safety Act of 1993, referred to in pars. (4) and (5), is the date of the enactment of Pub. L. 103–206, which was approved Dec. 20, 1993.
+
+#### Amendments
+
+1993—Pub. L. 103–206 amended section catchline and text generally. Prior to amendment, text read as follows: “If the Secretary decides that the application of a provision of part B or F of this subtitle is not necessary in performing the mission of a vessel engaged in excursions or an oceanographic research vessel, the Secretary by regulation may—
+
+&emsp;“(1) for an excursion vessel, issue a special permit specifying the conditions of operation and equipment; and
+
+&emsp;“(2) exempt the oceanographic research vessel from that provision under conditions the Secretary may specify.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3306 of this title.
+

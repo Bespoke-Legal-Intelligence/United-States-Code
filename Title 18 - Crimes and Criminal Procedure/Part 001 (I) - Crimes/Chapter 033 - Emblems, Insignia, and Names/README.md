@@ -1,0 +1,83 @@
+### <b>CHAPTER 33—EMBLEMS, INSIGNIA, AND NAMES</b>
+
+| Sec. |  |
+| :--- | ---: |
+| [700\.](%C2%A7%2000700%20-%20Desecration%20of%20the%20flag%20of%20the%20United%20States%3B%20penalties.md) | Desecration of the flag of the United States; penalties. |
+| [701\.](%C2%A7%2000701%20-%20Official%20badges%2C%20identification%20cards%2C%20other%20insignia.md) | Official badges, identification cards, other insignia. |
+| [702\.](%C2%A7%2000702%20-%20Uniform%20of%20armed%20forces%20and%20Public%20Health%20Service.md) | Uniform of armed forces and Public Health Service. |
+| [703\.](%C2%A7%2000703%20-%20Uniform%20of%20friendly%20nation.md) | Uniform of friendly nation. |
+| [704\.](%C2%A7%2000704%20-%20Military%20medals%20or%20decorations.md) | Military medals or decorations. |
+| [705\.](%C2%A7%2000705%20-%20Badge%20or%20medal%20of%20veterans%E2%80%99%20organizations.md) | Badge or medal of veterans’ organizations. |
+| [706\.](%C2%A7%2000706%20-%20Red%20Cross.md) | Red Cross. |
+| [707\.](%C2%A7%2000707%20-%204%E2%80%93H%20club%20emblem%20fraudulently%20used.md) | 4–H Club emblem fraudulently used.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| [708\.](%C2%A7%2000708%20-%20Swiss%20Confederation%20coat%20of%20arms.md) | Swiss Confederation coat of arms. |
+| [709\.](%C2%A7%2000709%20-%20False%20advertising%20or%20misuse%20of%20names%20to%20indicate%20Federal%20agency.md) | False advertising or misuse of names to indicate Federal agency. |
+| [710\.](%C2%A7%2000710%20-%20Cremation%20urns%20for%20military%20use.md) | Cremation urns for military use. |
+| [711\.](%C2%A7%2000711%20-%20%E2%80%9CSmokey%20Bear%E2%80%9D%20character%20or%20name.md) | “Smokey Bear” character or name. |
+| [711a.](%C2%A7%2000711a%20-%20%E2%80%9CWoodsy%20Owl%E2%80%9D%20character%2C%20name%2C%20or%20slogan.md) | “Woodsy Owl” character, name, or slogan. |
+| [712\.](%C2%A7%2000712%20-%20Misuse%20of%20names%2C%20words%2C%20emblems%2C%20or%20insignia.md) | Misuse of names, words, emblems, or insignia. |
+| [713\.](%C2%A7%2000713%20-%20Use%20of%20likenesses%20of%20the%20great%20seal%20of%20the%20United%20States%2C%20the%20seals%20of%20the%20President%20and%20Vice%20President%2C%20and%20the%20seal%20of%20the%20United%20States%E2%80%A6.md) | Use of likenesses of the great seal of the United States, the seals of the President and Vice President, and the seal of the United States Senate. |
+| \[714. | Repealed.\] |
+| [715\.](%C2%A7%2000715%20-%20%E2%80%9CThe%20Golden%20Eagle%20Insignia%E2%80%9D.md) | “The Golden Eagle Insignia”. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1991—Pub. L. 102–229, title II, §210(e), Dec. 12, 1991, 105 Stat. 1717, substituted “Use of likenesses of the great seal of the United States, the seals of the President and Vice President, and the seal of the United States Senate.” for “Use of likenesses of the great seal of the United States, and of the seals of the President and Vice President.” in item 713.
+
+1990—Pub. L. 101–647, title XXXV, §3518, Nov. 29, 1990, 104 Stat. 4923, inserted a comma after “INSIGNIA” in chapter heading.
+
+1982—Pub. L. 97–258, §2(d)(1)(A), Sept. 13, 1982, 96 Stat. 1058, struck out item 714 relating to “Johnny Horizon” character or name.
+
+1974—Pub. L. 93–318, §8, June 22, 1974, 88 Stat. 245, added item 711a.
+
+1973—Pub. L. 93–147, §1(b), Nov. 3, 1973, 87 Stat. 555, substituted “Misuse of names, words, emblems, or insignia” for “Misuse of names by collecting agencies to indicate Federal agency” in item 712.
+
+1972—Pub. L. 92–347, §3(c), July 11, 1972, 86 Stat. 462, added item 715.
+
+1971—Pub. L. 91–651, §2, Jan. 5, 1971, 84 Stat. 1941, inserted “, and of the seals of the President and Vice President” after “United States” in item 713.
+
+1970—Pub. L. 91–419, §4, Sept. 25, 1970, 84 Stat. 871, added item 714.
+
+1968—Pub. L. 90–381, §2, July 5, 1968, 82 Stat. 291, added item 700.
+
+1966—Pub. L. 89–807, §1(b), Nov. 11, 1966, 80 Stat. 1525, added item 713.
+
+1959—Pub. L. 86–291, §3, Sept. 21, 1959, 73 Stat. 570, added item 712.
+
+1952—Act May 23, 1952, ch. 327, §2, 66 Stat. 92, added item 711.
+
+1950—Act Sept. 28, 1950, ch. 1092, §1(a), 64 Stat. 1077, added item 710.
+
+1949—Act May 24, 1949, ch. 139, §14, 63 Stat. 91, inserted “Uniform of armed forces and Public Health Service” in lieu of enumerating the specific branches in item 702.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 00700 - Desecration of the flag of the United States; penalties](%C2%A7%2000700%20-%20Desecration%20of%20the%20flag%20of%20the%20United%20States%3B%20penalties.md)
+- [&sect; 00701 - Official badges, identification cards, other insignia](%C2%A7%2000701%20-%20Official%20badges%2C%20identification%20cards%2C%20other%20insignia.md)
+- [&sect; 00702 - Uniform of armed forces and Public Health Service](%C2%A7%2000702%20-%20Uniform%20of%20armed%20forces%20and%20Public%20Health%20Service.md)
+- [&sect; 00703 - Uniform of friendly nation](%C2%A7%2000703%20-%20Uniform%20of%20friendly%20nation.md)
+- [&sect; 00704 - Military medals or decorations](%C2%A7%2000704%20-%20Military%20medals%20or%20decorations.md)
+- [&sect; 00705 - Badge or medal of veterans&#8217; organizations](%C2%A7%2000705%20-%20Badge%20or%20medal%20of%20veterans%E2%80%99%20organizations.md)
+- [&sect; 00706 - Red Cross](%C2%A7%2000706%20-%20Red%20Cross.md)
+- [&sect; 00707 - 4&#8211;H club emblem fraudulently used](%C2%A7%2000707%20-%204%E2%80%93H%20club%20emblem%20fraudulently%20used.md)
+- [&sect; 00708 - Swiss Confederation coat of arms](%C2%A7%2000708%20-%20Swiss%20Confederation%20coat%20of%20arms.md)
+- [&sect; 00709 - False advertising or misuse of names to indicate Federal agency](%C2%A7%2000709%20-%20False%20advertising%20or%20misuse%20of%20names%20to%20indicate%20Federal%20agency.md)
+- [&sect; 00710 - Cremation urns for military use](%C2%A7%2000710%20-%20Cremation%20urns%20for%20military%20use.md)
+- [&sect; 00711 - &#8220;Smokey Bear&#8221; character or name](%C2%A7%2000711%20-%20%E2%80%9CSmokey%20Bear%E2%80%9D%20character%20or%20name.md)
+- [&sect; 00711a - &#8220;Woodsy Owl&#8221; character, name, or slogan](%C2%A7%2000711a%20-%20%E2%80%9CWoodsy%20Owl%E2%80%9D%20character%2C%20name%2C%20or%20slogan.md)
+- [&sect; 00712 - Misuse of names, words, emblems, or insignia](%C2%A7%2000712%20-%20Misuse%20of%20names%2C%20words%2C%20emblems%2C%20or%20insignia.md)
+- [&sect; 00713 - Use of likenesses of the great seal of the United States, the seals of the President and Vice President, and the seal of the United States&#8230;](%C2%A7%2000713%20-%20Use%20of%20likenesses%20of%20the%20great%20seal%20of%20the%20United%20States%2C%20the%20seals%20of%20the%20President%20and%20Vice%20President%2C%20and%20the%20seal%20of%20the%20United%20States%E2%80%A6.md)
+- [&sect; 00714 - Repealed. Pub. L. 97&#8211;258, &sect;2(d)(1)(B), Sept. 13, 1982, 96 Stat. 1058](%C2%A7%2000714%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93258%2C%20%C2%A72%28d%29%281%29%28B%29%2C%20Sept.%2013%2C%201982%2C%2096%20Stat.%201058.md)
+- [&sect; 00715 - &#8220;The Golden Eagle Insignia&#8221;](%C2%A7%2000715%20-%20%E2%80%9CThe%20Golden%20Eagle%20Insignia%E2%80%9D.md)

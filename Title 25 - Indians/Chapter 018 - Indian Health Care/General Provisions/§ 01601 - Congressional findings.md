@@ -1,0 +1,46 @@
+### §1601. Congressional findings
+
+The Congress finds the following:
+
+(a) Federal health services to maintain and improve the health of the Indians are consonant with and required by the Federal Government's historical and unique legal relationship with, and resulting responsibility to, the American Indian people.
+
+(b) A major national goal of the United States is to provide the quantity and quality of health services which will permit the health status of Indians to be raised to the highest possible level and to encourage the maximum participation of Indians in the planning and management of those services.
+
+(c) Federal health services to Indians have resulted in a reduction in the prevalence and incidence of preventable illnesses among, and unnecessary and premature deaths of, Indians.
+
+(d) Despite such services, the unmet health needs of the American Indian people are severe and the health status of the Indians is far below that of the general population of the United States.
+
+(Pub. L. 94–437, §2, Sept. 30, 1976, 90 Stat. 1400; Pub. L. 102–573, §3(a), Oct. 29, 1992, 106 Stat. 4526.)
+
+#### Amendments
+
+1992—Pub. L. 102–573 substituted “finds the following:” for “finds that—” in introductory provisions and struck out last sentence of subsec. (d) which compared death rates of Indians to those of all Americans for tuberculosis, influenza and pneumonia, and compared death rates for infants, subsec. (e) which related to threat to fulfillment of Federal responsibility to Indians posed by low health status of American Indian people, subsec. (f) which enumerated causes imperiling improvements in Indian health, and subsec. (g) which related to confidence of Indian people in Federal Indian health services.
+
+#### Short Title of 1992 Amendment
+
+Section 1 of Pub. L. 102–573 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Indian Health Amendments of 1992’.”
+
+#### Short Title of 1990 Amendment
+
+Pub. L. 101–630, title V, §501, Nov. 28, 1990, 104 Stat. 4556, provided that: “This title \[enacting sections 1621h, 1637, 1659, and 1660 of this title, amending sections 1653, 1657, and 2474 of this title, and enacting provisions set out as notes under sections 1621h, 1653, and 2415 of this title\] may be cited as the ‘Indian Health Care Amendments of 1990’.”
+
+#### Short Title of 1988 Amendment
+
+Pub. L. 100–713, §1, Nov. 23, 1988, 102 Stat. 4784, provided that: “This Act \[enacting sections 1616 to 1616j, 1621a to 1621g, 1636, 1651 to 1658, 1661, 1662, and 1680a to 1680j of this title and sections 254s and 295j of Title 42, The Public Health and Welfare, amending sections 1603, 1612 to 1613a, 1614, 1615, 1621, 1631, 1632, 1634, 1674, 1676, and 1678 to 1680 of this title and section 5316 of Title 5, Government Organization and Employees, repealing section 1635 of this title and section 254r of Title 42, enacting provisions set out as notes under this section and sections 1611, 1621b, 1661, and 1677 of this title and sections 254r, 1395qq, and 1396j of Title 42, amending provisions set out as a note under section 1396j of Title 42, and repealing provisions set out as a note under section 1396j of Title 42\] may be cited as the ‘Indian Health Care Amendments of 1988’.”
+
+#### Short Title of 1980 Amendment
+
+Pub. L. 96–537, §1(a), Dec. 17, 1980, 94 Stat. 3173, provided that: “this Act \[enacting sections 1622, 1634, and 1676 to 1680 of this title, amending sections 1603, 1612 to 1614, 1621, 1651 to 1657, and 1674 of this title and section 294y–1 of Title 42, The Public Health and Welfare, and repealing section 1658 of this title\] may be cited as the ‘Indian Health Care Amendments of 1980’.”
+
+#### Short Title
+
+Section 1 of Pub. L. 94–437 provided: “That this Act \[enacting this chapter and sections 1395qq and 1396j of Title 42, The Public Health and Welfare, amending sections 234, 1395f, 1395n, and 1396d of Title 42, and enacting provisions set out as notes under section 1671 of this title and sections 1395qq and 1396j of Title 42\] may be cited as the ‘Indian Health Care Improvement Act’.”
+
+#### Separability
+
+Pub. L. 100–713, title VIII, §801, Nov. 23, 1988, 102 Stat. 4839, provided that: “If any provision of this Act, any amendment made by this Act \[see Short Title of 1988 Amendment note above\], or the application of such provision or amendment to any person or circumstances is held to be invalid, the remainder of this Act, the remaining amendments made by this Act, and the application of such provision or amendment to persons or circumstances other than those to which it is held invalid, shall not be affected thereby.”
+
+#### Availability of Appropriations
+
+Pub. L. 100–713, §4, Nov. 23, 1988, 102 Stat. 4785, provided that: “Any new spending authority (described in subsection (c)(2)(A) or (B) of section 401 of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)(A), (B)\]) which is provided under this Act \[see Short Title of 1988 Amendment note above\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
+

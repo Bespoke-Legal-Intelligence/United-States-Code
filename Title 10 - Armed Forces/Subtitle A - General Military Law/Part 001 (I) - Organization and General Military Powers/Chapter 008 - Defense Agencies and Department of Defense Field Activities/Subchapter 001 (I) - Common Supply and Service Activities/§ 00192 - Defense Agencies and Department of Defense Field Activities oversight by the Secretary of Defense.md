@@ -1,0 +1,38 @@
+### §192. Defense Agencies and Department of Defense Field Activities: oversight by the Secretary of Defense
+
+(a)
+
+Overall Supervision.—(1) The Secretary of Defense shall assign responsibility for the overall supervision of each Defense Agency and Department of Defense Field Activity designated under section 191(b) of this title—
+
+&emsp;(A) to a civilian officer within the Office of the Secretary of Defense listed in section 131(b) of this title; or
+
+&emsp;(B) to the Chairman of the Joint Chiefs of Staff.
+
+(2) An official assigned such a responsibility with respect to a Defense Agency or Department of Defense Field Activity shall advise the Secretary of Defense on the extent to which the program recommendations and budget proposals of such agency or activity conform with the requirements of the military departments and of the unified and specified combatant commands.
+
+(3) This subsection does not apply to the Defense Intelligence Agency or the National Security Agency.
+
+(b)
+
+Program and Budget Review.—The Secretary of Defense shall establish procedures to ensure that there is full and effective review of the program recommendations and budget proposals of each Defense Agency and Department of Defense Field Activity.
+
+(c)
+
+Periodic Review.—(1) Periodically (and not less often than every two years), the Secretary of Defense shall review the services and supplies provided by each Defense Agency and Department of Defense Field Activity to ensure that—
+
+&emsp;(A) there is a continuing need for each such agency and activity; and
+
+&emsp;(B) the provision of those services and supplies by each such agency and activity, rather than by the military departments, is a more effective, economical, or efficient manner of providing those services and supplies or ofmeeting the requirements for combat readiness of the armed forces.
+
+(2) Paragraph (1) shall apply to the National Security Agency as determined appropriate by the Secretary, in consultation with the Director of Central Intelligence. The Secretary shall establish procedures under which information required for review of the National Security Agency shall be obtained.
+
+(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020.)
+
+#### Prior Provisions
+
+A prior section 192, Pub. L. 98–215, title V, §501(a), Dec. 9, 1983, 97 Stat. 1478, which related to benefits for certain personnel of the Defense Intelligence Agency, was redesignated as section 1605 of this title and amended by Pub. L. 99–145, title XIII, §1302(a)(1), Nov. 8, 1985, 99 Stat. 737. Provisions of prior section 192 as related to members of the armed forces were enacted as section 431 of Title 37, Pay and Allowances of the Uniformed Services, by section 1302(b)(1) of Pub. L. 99–145.
+
+#### First Review of Defense Agencies by Secretary of Defense
+
+Section 304(a) of Pub. L. 99–433 provided that: “The first review under section 192(c) of title 10, United States Code (as added by section 301(a)), shall be completed not later than two years after the date that the report under section 303(e) \[see section 303(f) of Pub. L. 99–433, set out as a note under section 191 of this title\] is required to be submitted to Congress.”
+

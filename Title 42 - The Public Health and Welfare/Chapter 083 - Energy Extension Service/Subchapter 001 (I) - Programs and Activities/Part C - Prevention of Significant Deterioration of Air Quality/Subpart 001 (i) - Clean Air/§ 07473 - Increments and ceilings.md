@@ -1,0 +1,144 @@
+### §7473. Increments and ceilings
+
+#### (a) Sulfur oxide and particulate matter; requirement that maximum allowable increases and maximum allowable concentrations not be exceeded
+
+In the case of sulfur oxide and particulate matter, each applicable implementation plan shall contain measures assuring that maximum allowable increases over baseline concentrations of, and maximum allowable concentrations of, such pollutant shall not be exceeded. In the case of any maximum allowable increase (except an allowable increase specified under section 7475(d)(2)(C)(iv) of this title) for a pollutant based on concentrations permitted under national ambient air quality standards for any period other than an annual period, such regulations shall permit such maximum allowable increase to be exceeded during one such period per year.
+
+#### (b) Maximum allowable increases in concentrations over baseline concentrations
+
+(1) For any class I area, the maximum allowable increase in concentrations of sulfur dioxide and particulate matter over the baseline concentration of such pollutants shall not exceed the following amounts:
+
+&nbsp;&nbsp;&nbsp;&nbsp;Pollutant       Maximum allowable increase (in
+
+micrograms per cubic meter)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+> Particulate matter:
+
+&nbsp;&nbsp;Annual geometric mean
+
+&nbsp;&nbsp;&nbsp;5
+
+&nbsp;&nbsp;Twenty-four-hour maximum
+
+&nbsp;&nbsp;10
+
+> Sulfur dioxide:
+
+&nbsp;&nbsp;Annual arithmetic mean
+
+&nbsp;&nbsp;&nbsp;2
+
+&nbsp;&nbsp;Twenty-four-hour maximum
+
+&nbsp;&nbsp;&nbsp;5
+
+&nbsp;&nbsp;Three-hour maximum
+
+&nbsp;&nbsp;25
+
+(2) For any class II area, the maximum allowable increase in concentrations of sulfur dioxide and particulate matter over the baseline concentration of such pollutants shall not exceed the following amounts:
+
+&nbsp;&nbsp;&nbsp;&nbsp;Pollutant       Maximum allowable increase (in
+
+micrograms per cubic meter)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+> Particulate matter:
+
+&nbsp;&nbsp;Annual geometric mean
+
+&nbsp;&nbsp;&nbsp;19
+
+&nbsp;&nbsp;Twenty-four-hour maximum
+
+&nbsp;&nbsp;&nbsp;37
+
+> Sulfur dioxide:
+
+&nbsp;&nbsp;Annual arithmetic mean
+
+&nbsp;&nbsp;&nbsp;20
+
+&nbsp;&nbsp;Twenty-four-hour maximum
+
+&nbsp;&nbsp;&nbsp;91
+
+&nbsp;&nbsp;Three-hour maximum
+
+&nbsp;&nbsp;512
+
+(3) For any class III area, the maximum allowable increase in concentrations of sulfur dioxide and particulate matter over the baseline concentration of such pollutants shall not exceed the following amounts:
+
+&nbsp;&nbsp;&nbsp;&nbsp;Pollutant       Maximum allowable increase (in
+
+micrograms per cubic meter)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+> Particulate matter:
+
+&nbsp;&nbsp;Annual geometric mean
+
+&nbsp;&nbsp;&nbsp;37
+
+&nbsp;&nbsp;Twenty-four-hour maximum
+
+&nbsp;&nbsp;&nbsp;75
+
+> Sulfur dioxide:
+
+&nbsp;&nbsp;Annual arithmetic mean
+
+&nbsp;&nbsp;&nbsp;40
+
+&nbsp;&nbsp;Twenty-four-hour maximum
+
+&nbsp;&nbsp;182
+
+&nbsp;&nbsp;Three-hour maximum
+
+&nbsp;&nbsp;700
+
+(4) The maximum allowable concentration of any air pollutant in any area to which this part applies shall not exceed a concentration for such pollutant for each period of exposure equal to—
+
+&emsp;(A) the concentration permitted under the national secondary ambient air quality standard, or
+
+&emsp;(B) the concentration permitted under the national primary ambient air quality standard,
+
+> whichever concentration is lowest for such pollutant for such period of exposure.
+
+#### (c) Orders or rules for determining compliance with maximum allowable increases in ambient concentrations of air pollutants
+
+(1) In the case of any State which has a plan approved by the Administrator for purposes of carrying out this part, the Governor of such State may, after notice and opportunity for public hearing, issue orders or promulgate rules providing that for purposes of determining compliance with the maximum allowable increases in ambient concentrations of an air pollutant, the following concentrations of such pollutant shall not be taken into account:
+
+&emsp;(A) concentrations of such pollutant attributable to the increase in emissions from stationary sources which have converted from the use of petroleum products, or natural gas, or both, by reason of an order which is in effect under the provisions of sections 792(a) and (b) of title 15 (or any subsequent legislation which supersedes such provisions) over the emissions from such sources before the effective date of such order.<sup>1</sup>
+
+&emsp;(B) the concentrations of such pollutant attributable to the increase in emissions from stationary sources which have converted from using natural gas by reason of a natural gas curtailment pursuant to a natural gas curtailment plan in effect pursuant to the Federal Power Act \[16 U.S.C. 791a et seq.\] over the emissions from such sources before the effective date of such plan,
+
+&emsp;(C) concentrations of particulate matter attributable to the increase in emissions from construction or other temporary emission-related activities, and
+
+&emsp;(D) the increase in concentrations attributable to new sources outside the United States over the concentrations attributable to existing sources which are included in the baseline concentration determined in accordance with section 7479(4) of this title.
+
+(2) No action taken with respect to a source under paragraph (1)(A) or (1)(B) shall apply more than five years after the effective date of the order referred to in paragraph (1)(A) or the plan referred to in paragraph (1)(B), whichever is applicable. If both such order and plan are applicable, no such action shall apply more than five years after the later of such effective dates.
+
+(3) No action under this subsection shall take effect unless the Governor submits the order or rule providing for such exclusion to the Administrator and the Administrator determines that such order or rule is in compliance with the provisions of this subsection.
+
+(July 14, 1955, ch. 360, title I, §163, as added Aug. 7, 1977, Pub. L. 95–95, title I, §127(a), 91 Stat. 732; amended Nov. 16, 1977, Pub. L. 95–190, §14(a)(41), 91 Stat. 1401.)
+
+#### References In Text
+
+The Federal Power Act, referred to in subsec. (c)(1)(B), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
+
+#### Amendments
+
+1977—Subsec. (a). Pub. L. 95–190 inserted “section” before “7475”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7407, 7476, 7478 of this title.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
+

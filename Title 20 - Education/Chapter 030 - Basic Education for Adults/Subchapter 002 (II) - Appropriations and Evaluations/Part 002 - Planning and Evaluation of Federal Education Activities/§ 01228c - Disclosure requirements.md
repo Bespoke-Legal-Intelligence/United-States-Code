@@ -1,0 +1,164 @@
+### §1228c. Disclosure requirements
+
+#### (a) In general
+
+Each educational organization, prior to enrolling a minor and prior to accepting funds for the cost of a minor's participation in an educational program operated by such organization, shall disclose the following information in written form to the minor or the minor's parent.
+
+#### (1) Method of solicitation and selection
+
+&emsp;The method of solicitation and selection of participants in the educational program, including—
+
+&emsp;&emsp;(A) the origin of any mailing list used for such solicitation and selection;
+
+&emsp;&emsp;(B) any recruitment through a local school official, teacher, or school personnel, including any compensation or other benefit offered to such official, teacher, or personnel for the recommendation of a minor for participation in the educational program;
+
+&emsp;&emsp;(C) any open enrollment activity, including the method of outreach; and
+
+&emsp;&emsp;(D) any cooperation with, or sponsorship by, a membership organization, including a description of the cooperation or sponsorship and the name of each such organization.
+
+#### (2) Cost and fees
+
+&emsp;Information regarding the cost of the educational program and information regarding the distribution of any enrollment fee, including—
+
+&emsp;&emsp;(A) the amount paid for, and the percentage of the total educational program cost of, each feature of the educational program, including—
+
+&emsp;&emsp;&emsp;(i) food;
+
+&emsp;&emsp;&emsp;(ii) lodging;
+
+&emsp;&emsp;&emsp;(iii) transportation;
+
+&emsp;&emsp;&emsp;(iv) program staffing;
+
+&emsp;&emsp;&emsp;(v) textbooks, syllabi, or other scholastic educational program materials;
+
+&emsp;&emsp;&emsp;(vi) speaker fees; and
+
+&emsp;&emsp;&emsp;(vii) administrative expenses, including expenses related to—
+
+&emsp;&emsp;&emsp;&emsp;(I) the preparation of nonscholastic educational program materials;
+
+&emsp;&emsp;&emsp;&emsp;(II) the provision of financial assistance;
+
+&emsp;&emsp;&emsp;&emsp;(III) mailing list rental or other recruitment activity; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) administrative salaries and consulting fees;
+
+&emsp;&emsp;(B) the identity of the organization or business providing each of the features described in clauses (i) through (vii) of subparagraph (A); and
+
+&emsp;&emsp;(C) the nature of any relationship of any board member, officer, or employee of the educational organization to any organization or business described in subparagraph (B), including the salary or other compensation paid by such organization or business to such board member, officer, or employee.
+
+#### (b) Nondiscriminatory enrollment and service policy
+
+#### (1) In general
+
+&emsp;Each educational organization shall include a verifiable statement in all enrollment or recruitment material that the educational organization does not—
+
+&emsp;&emsp;(A) fail or refuse to hire, or discharge, any individual, or otherwise discriminate against any individual with respect to compensation, terms, conditions, or privileges of employment; or
+
+&emsp;&emsp;(B) exclude any student from participation in an educational program, discriminate against any student in providing the benefits associated with such program (including any scholarship or financial assistance, and use of any facility), or subject the student to discrimination under such program, on the basis of race, disability, or residence in a low-income area.
+
+#### (2) Construction
+
+&emsp;Nothing in this subsection shall be construed to entitle a student to—
+
+&emsp;&emsp;(A) participation in an educational program or any benefit associated with such program; or
+
+&emsp;&emsp;(B) a waiver of any fee charged for such participation or benefit.
+
+#### (c) Enforcement
+
+The Secretary shall—
+
+&emsp;(1)(A) widely disseminate information about the requirements of this section to State and local school officials and parents; and
+
+&emsp;(B) require educational organizations to submit appropriate information or assurances regarding such organizations’ compliance with this section; and
+
+&emsp;(2) take whatever other steps the Secretary determines are appropriate to enforce this section, including—
+
+&emsp;&emsp;(A) promulgating regulations;
+
+&emsp;&emsp;(B) establishing a complaint process;
+
+&emsp;&emsp;(C) referring complaints to the relevant Federal, State, or local authorities for appropriate action;
+
+&emsp;&emsp;(D) alerting educational agencies, schools, and parents to the practices of educational organizations that violate the provisions of this section; and
+
+&emsp;&emsp;(E) imposing civil fines (not to exceed $1,000 per violation) on educational organizations that knowingly violate this section.
+
+#### (d) Definitions
+
+As used in this section:
+
+#### (1) Disability
+
+&emsp;The term “disability” has the same meaning given to such term by section 12102(2) of title 42.
+
+#### (2) Educational organization
+
+&emsp;(A) Except as provided in subparagraphs (B) and (C), the term “educational organization” means any organization or entity that—
+
+&emsp;&emsp;(i) provides an educational program for a fee; and
+
+&emsp;&emsp;(ii) recruits students through means such as commercial media, direct mailings, school recruitment programs, school administrators, teachers or staff, or current or former participants in an educational program offered by such organization or entity.
+
+&emsp;(B) The definition in subparagraph (A) shall not include—
+
+&emsp;&emsp;(i) a local educational agency, State educational agency, a State department of education, or an elementary or secondary school as defined by the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\];
+
+&emsp;&emsp;(ii) an institution of higher education as defined by section 1141(a) of this title; or
+
+&emsp;&emsp;(iii) a local organization sponsored by an elementary or secondary school, a recreational organization, an entertainment organization, a local sports activity group, or a social club.
+
+&emsp;(C) For the purpose of subsection (a) of this section only, such term does not include an organization or entity that provides an educational program if such organization or entity—
+
+&emsp;&emsp;(i) recruits, for participation in such program, solely through a local school official; and
+
+&emsp;&emsp;(ii) does not offer a local school official, teacher, or other school personnel compensation (other than compensation for actual expenses incurred in performing chaperon activities or for participating in separate, professionally-staffed teacher training and technical assistance seminars and workshops related to such program) or any other benefit for such recruitment.
+
+#### (3) Educational program
+
+&emsp;(A) Except as provided in subparagraph (B), the term “educational program” means a special honors program, seminar, citizenship experience, government study program, educational vacation, student exchange program, or other educational experience or honor—
+
+&emsp;&emsp;(i) that is generally directed toward minors or secondary school students;
+
+&emsp;&emsp;(ii) for which a tuition or enrollment fee is charged;
+
+&emsp;&emsp;(iii) that is offered away from a student's regular place of school attendance;
+
+&emsp;&emsp;(iv) that includes not less than one supervised night away from home; and
+
+&emsp;&emsp;(v) that is intended to enhance a student's regular course of study.
+
+&emsp;(B) Such term does not include a recreational program,<sup>1</sup> or a social or religious activity.
+
+#### (4) Local school official
+
+&emsp;The term “local school official” means the highest administrative official serving a school district, or such individual's designee.
+
+#### (5) Minor
+
+&emsp;The term “minor” means an individual who has not attained the age of 18 years.
+
+#### (6) Membership organization
+
+&emsp;The term “membership organization” includes any organization that maintains a membership list or collects dues or membership fees from its members.
+
+#### (7) Recreational organization
+
+&emsp;The term “recreational organization” includes any organization or entity that has as its primary function pleasure, amusement, or sports activities.
+
+#### (8) Recreational program
+
+&emsp;The term “recreational program” includes any activity or service that is intended as an entertainment pastime.
+
+(Pub. L. 90 247, title IV, §429, as added Pub. L. 103 382, title II, §238, Oct. 20, 1994, 108 Stat. 3918.)
+
+#### References in Text
+
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(B)(i), is Pub. L. 89 10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+
+#### Prior Provisions
+
+A prior section 429 of Pub. L. 90 247 was classified to section 1231f of this title prior to repeal by Pub. L. 103 382.
+

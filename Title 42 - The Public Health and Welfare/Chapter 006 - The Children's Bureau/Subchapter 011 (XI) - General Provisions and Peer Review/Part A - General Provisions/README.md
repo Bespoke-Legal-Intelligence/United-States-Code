@@ -1,0 +1,67 @@
+Part A—General Provisions
+
+#### Part Referred to in Other Sections
+
+This part is referred to in sections 1395mm, 1396a of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “needs”.</i>
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 01301 - Definitions](%C2%A7%2001301%20-%20Definitions.md)
+- [&sect; 01301&#8211;1 - Omitted](%C2%A7%2001301%E2%80%931%20-%20Omitted.md)
+- [&sect; 01301a - Omitted](%C2%A7%2001301a%20-%20Omitted.md)
+- [&sect; 01302 - Rules and regulations; impact analyses of Medicare and Medicaid rules and regulations on small rural hospitals](%C2%A7%2001302%20-%20Rules%20and%20regulations%3B%20impact%20analyses%20of%20Medicare%20and%20Medicaid%20rules%20and%20regulations%20on%20small%20rural%20hospitals.md)
+- [&sect; 01303 - Separability](%C2%A7%2001303%20-%20Separability.md)
+- [&sect; 01304 - Reservation of right to amend or repeal](%C2%A7%2001304%20-%20Reservation%20of%20right%20to%20amend%20or%20repeal.md)
+- [&sect; 01305 - Short title of chapter](%C2%A7%2001305%20-%20Short%20title%20of%20chapter.md)
+- [&sect; 01306 - Disclosure of information in possession of Social Security Administration or Department of Health and Human Services](%C2%A7%2001306%20-%20Disclosure%20of%20information%20in%20possession%20of%20Social%20Security%20Administration%20or%20Department%20of%20Health%20and%20Human%20Services.md)
+- [&sect; 01306a - Public access to State disbursement records](%C2%A7%2001306a%20-%20Public%20access%20to%20State%20disbursement%20records.md)
+- [&sect; 01307 - Penalty for fraud](%C2%A7%2001307%20-%20Penalty%20for%20fraud.md)
+- [&sect; 01308 - Limitation on payments to Puerto Rico, Virgin Islands, Guam, and American Samoa](%C2%A7%2001308%20-%20Limitation%20on%20payments%20to%20Puerto%20Rico%2C%20Virgin%20Islands%2C%20Guam%2C%20and%20American%20Samoa.md)
+- [&sect; 01309 - Amounts disregarded not to be taken into account in determining eligibility of other individuals](%C2%A7%2001309%20-%20Amounts%20disregarded%20not%20to%20be%20taken%20into%20account%20in%20determining%20eligibility%20of%20other%20individuals.md)
+- [&sect; 01310 - Cooperative research or demonstration projects](%C2%A7%2001310%20-%20Cooperative%20research%20or%20demonstration%20projects.md)
+- [&sect; 01311 - Public assistance payments to legal representatives](%C2%A7%2001311%20-%20Public%20assistance%20payments%20to%20legal%20representatives.md)
+- [&sect; 01312 - Medical care guides and reports for public assistance and medical assistance](%C2%A7%2001312%20-%20Medical%20care%20guides%20and%20reports%20for%20public%20assistance%20and%20medical%20assistance.md)
+- [&sect; 01313 - Assistance for United States citizens returned from foreign countries](%C2%A7%2001313%20-%20Assistance%20for%20United%20States%20citizens%20returned%20from%20foreign%20countries.md)
+- [&sect; 01314 - Public advisory groups](%C2%A7%2001314%20-%20Public%20advisory%20groups.md)
+- [&sect; 01314a - Measurement and reporting of welfare receipt](%C2%A7%2001314a%20-%20Measurement%20and%20reporting%20of%20welfare%20receipt.md)
+- [&sect; 01315 - Demonstration projects](%C2%A7%2001315%20-%20Demonstration%20projects.md)
+- [&sect; 01316 - Administrative and judicial review of public assistance determinations](%C2%A7%2001316%20-%20Administrative%20and%20judicial%20review%20of%20public%20assistance%20determinations.md)
+- [&sect; 01317 - Appointment of Administrator of Health Care Financing Administration](%C2%A7%2001317%20-%20Appointment%20of%20Administrator%20of%20Health%20Care%20Financing%20Administration.md)
+- [&sect; 01318 - Alternative Federal payment with respect to public assistance expenditures](%C2%A7%2001318%20-%20Alternative%20Federal%20payment%20with%20respect%20to%20public%20assistance%20expenditures.md)
+- [&sect; 01319 - Federal participation in payments for repairs to home owned by recipient of aid or assistance](%C2%A7%2001319%20-%20Federal%20participation%20in%20payments%20for%20repairs%20to%20home%20owned%20by%20recipient%20of%20aid%20or%20assistance.md)
+- [&sect; 01320 - Approval of certain projects](%C2%A7%2001320%20-%20Approval%20of%20certain%20projects.md)
+- [&sect; 01320a - Uniform reporting systems for health services facilities and organizations](%C2%A7%2001320a%20-%20Uniform%20reporting%20systems%20for%20health%20services%20facilities%20and%20organizations.md)
+- [&sect; 01320a&#8211;1 - Limitation on use of Federal funds for capital expenditures](%C2%A7%2001320a%E2%80%931%20-%20Limitation%20on%20use%20of%20Federal%20funds%20for%20capital%20expenditures.md)
+- [&sect; 01320a&#8211;1a - Reviews of child and family services programs, and of foster care and adoption assistance programs, for conformity with State plan&#8230;](%C2%A7%2001320a%E2%80%931a%20-%20Reviews%20of%20child%20and%20family%20services%20programs%2C%20and%20of%20foster%20care%20and%20adoption%20assistance%20programs%2C%20for%20conformity%20with%20State%20plan%E2%80%A6.md)
+- [&sect; 01320a&#8211;2 - Effect of failure to carry out State plan](%C2%A7%2001320a%E2%80%932%20-%20Effect%20of%20failure%20to%20carry%20out%20State%20plan.md)
+- [&sect; 01320a&#8211;3 - Disclosure of ownership and related information; procedure; definitions; scope of requirements](%C2%A7%2001320a%E2%80%933%20-%20Disclosure%20of%20ownership%20and%20related%20information%3B%20procedure%3B%20definitions%3B%20scope%20of%20requirements.md)
+- [&sect; 01320a&#8211;3a - Disclosure requirements for other providers under part B of Medicare](%C2%A7%2001320a%E2%80%933a%20-%20Disclosure%20requirements%20for%20other%20providers%20under%20part%20B%20of%20Medicare.md)
+- [&sect; 01320a&#8211;4 - Issuance of subpenas by Comptroller General](%C2%A7%2001320a%E2%80%934%20-%20Issuance%20of%20subpenas%20by%20Comptroller%20General.md)
+- [&sect; 01320a&#8211;5 - Disclosure by institutions, organizations, and agencies of owners, officers, etc., convicted of offenses related to programs&#8230;](%C2%A7%2001320a%E2%80%935%20-%20Disclosure%20by%20institutions%2C%20organizations%2C%20and%20agencies%20of%20owners%2C%20officers%2C%20etc.%2C%20convicted%20of%20offenses%20related%20to%20programs%E2%80%A6.md)
+- [&sect; 01320a&#8211;6 - Adjustments in SSI benefits on account of retroactive benefits under subchapter II](%C2%A7%2001320a%E2%80%936%20-%20Adjustments%20in%20SSI%20benefits%20on%20account%20of%20retroactive%20benefits%20under%20subchapter%20II.md)
+- [&sect; 01320a&#8211;7 - Exclusion of certain individuals and entities from participation in Medicare and State health care programs](%C2%A7%2001320a%E2%80%937%20-%20Exclusion%20of%20certain%20individuals%20and%20entities%20from%20participation%20in%20Medicare%20and%20State%20health%20care%20programs.md)
+- [&sect; 01320a&#8211;7a - Civil monetary penalties](%C2%A7%2001320a%E2%80%937a%20-%20Civil%20monetary%20penalties.md)
+- [&sect; 01320a&#8211;7b - Criminal penalties for acts involving Medicare or State health care programs](%C2%A7%2001320a%E2%80%937b%20-%20Criminal%20penalties%20for%20acts%20involving%20Medicare%20or%20State%20health%20care%20programs.md)
+- [&sect; 01320a&#8211;8 - Civil monetary penalties and assessments for subchapters II and XVI](%C2%A7%2001320a%E2%80%938%20-%20Civil%20monetary%20penalties%20and%20assessments%20for%20subchapters%20II%20and%20XVI.md)
+- [&sect; 01320a&#8211;9 - Demonstration projects](%C2%A7%2001320a%E2%80%939%20-%20Demonstration%20projects.md)
+- [&sect; 01320a&#8211;10 - Effect of failure to carry out State plan](%C2%A7%2001320a%E2%80%9310%20-%20Effect%20of%20failure%20to%20carry%20out%20State%20plan.md)
+- [&sect; 01320b - Repealed. Pub. L. 93&#8211;647, &sect;3(e)(1), Jan. 4, 1975, 88 Stat. 2349](%C2%A7%2001320b%20-%20Repealed.%20Pub.%20L.%2093%E2%80%93647%2C%20%C2%A73%28e%29%281%29%2C%20Jan.%204%2C%201975%2C%2088%20Stat.%202349.md)
+- [&sect; 01320b&#8211;1 - Notification of social security claimant with respect to deferred vested benefits](%C2%A7%2001320b%E2%80%931%20-%20Notification%20of%20social%20security%20claimant%20with%20respect%20to%20deferred%20vested%20benefits.md)
+- [&sect; 01320b&#8211;2 - Period within which certain claims must be filed](%C2%A7%2001320b%E2%80%932%20-%20Period%20within%20which%20certain%20claims%20must%20be%20filed.md)
+- [&sect; 01320b&#8211;3 - Applicants or recipients under public assistance programs not to be required to make election respecting certain veterans&#8217; benefits](%C2%A7%2001320b%E2%80%933%20-%20Applicants%20or%20recipients%20under%20public%20assistance%20programs%20not%20to%20be%20required%20to%20make%20election%20respecting%20certain%20veterans%E2%80%99%20benefits.md)
+- [&sect; 01320b&#8211;4 - Nonprofit hospital or rural primary care hospital philanthropy](%C2%A7%2001320b%E2%80%934%20-%20Nonprofit%20hospital%20or%20rural%20primary%20care%20hospital%20philanthropy.md)
+- [&sect; 01320b&#8211;5 - Development of model prospective rate methodology](%C2%A7%2001320b%E2%80%935%20-%20Development%20of%20model%20prospective%20rate%20methodology.md)
+- [&sect; 01320b&#8211;6 - Pilot projects to demonstrate the use of integrated service delivery systems for human services programs](%C2%A7%2001320b%E2%80%936%20-%20Pilot%20projects%20to%20demonstrate%20the%20use%20of%20integrated%20service%20delivery%20systems%20for%20human%20services%20programs.md)
+- [&sect; 01320b&#8211;7 - Income and eligibility verification system](%C2%A7%2001320b%E2%80%937%20-%20Income%20and%20eligibility%20verification%20system.md)
+- [&sect; 01320b&#8211;8 - Hospital protocols for organ procurement and standards for organ procurement agencies](%C2%A7%2001320b%E2%80%938%20-%20Hospital%20protocols%20for%20organ%20procurement%20and%20standards%20for%20organ%20procurement%20agencies.md)
+- [&sect; 01320b&#8211;9 - National Commission on Children](%C2%A7%2001320b%E2%80%939%20-%20National%20Commission%20on%20Children.md)
+- [&sect; 01320b&#8211;10 - Prohibition of misuse of symbols, emblems, or names in reference to Social Security or Medicare](%C2%A7%2001320b%E2%80%9310%20-%20Prohibition%20of%20misuse%20of%20symbols%2C%20emblems%2C%20or%20names%20in%20reference%20to%20Social%20Security%20or%20Medicare.md)
+- [&sect; 01320b&#8211;11 - Blood donor locator service](%C2%A7%2001320b%E2%80%9311%20-%20Blood%20donor%20locator%20service.md)
+- [&sect; 01320b&#8211;12 - Research on outcomes of health care services and procedures](%C2%A7%2001320b%E2%80%9312%20-%20Research%20on%20outcomes%20of%20health%20care%20services%20and%20procedures.md)
+- [&sect; 01320b&#8211;13 - Social security account statements](%C2%A7%2001320b%E2%80%9313%20-%20Social%20security%20account%20statements.md)
+- [&sect; 01320b&#8211;14 - Medicare and Medicaid Coverage Data Bank](%C2%A7%2001320b%E2%80%9314%20-%20Medicare%20and%20Medicaid%20Coverage%20Data%20Bank.md)

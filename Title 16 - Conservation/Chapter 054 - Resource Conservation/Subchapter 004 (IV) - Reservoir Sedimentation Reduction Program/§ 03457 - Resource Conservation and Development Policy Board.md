@@ -1,0 +1,16 @@
+### §3457. Resource Conservation and Development Policy Board
+
+#### (a) Establishment
+
+The Secretary shall establish within the Department of Agriculture a Resource Conservation and Development Policy Board.
+
+#### (b) Composition; chairman
+
+Such board shall be composed of seven employees of the Department of Agriculture selected by the Secretary. One member shall be designated by the Secretary to serve as chairman.
+
+#### (c) Functions
+
+It shall be the function of such board to advise the Secretary regarding the administration of the provisions of this subchapter, including the formulation of policies for carrying out the program provided for by this subchapter.
+
+(Pub. L. 97–98, title XV, §1534, Dec. 22, 1981, 95 Stat. 1340.)
+

@@ -1,0 +1,17 @@
+subpart i—panama canal commission personnel
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 03641 - Definitions](%C2%A7%2003641%20-%20Definitions.md)
+- [&sect; 03642 - Appointment of personnel](%C2%A7%2003642%20-%20Appointment%20of%20personnel.md)
+- [&sect; 03643 - Transfer of Federal employees](%C2%A7%2003643%20-%20Transfer%20of%20Federal%20employees.md)
+- [&sect; 03644 - Compensation of individuals in uniformed services](%C2%A7%2003644%20-%20Compensation%20of%20individuals%20in%20uniformed%20services.md)
+- [&sect; 03645 - Deduction from basic pay of amounts due for supplies or services](%C2%A7%2003645%20-%20Deduction%20from%20basic%20pay%20of%20amounts%20due%20for%20supplies%20or%20services.md)
+- [&sect; 03646 - Cost of living allowance](%C2%A7%2003646%20-%20Cost%20of%20living%20allowance.md)
+- [&sect; 03647 - Educational travel benefits](%C2%A7%2003647%20-%20Educational%20travel%20benefits.md)
+- [&sect; 03648 - Privileges and immunities of certain employees](%C2%A7%2003648%20-%20Privileges%20and%20immunities%20of%20certain%20employees.md)
+- [&sect; 03649 - Inapplicability of certain benefits to certain noncitizens](%C2%A7%2003649%20-%20Inapplicability%20of%20certain%20benefits%20to%20certain%20noncitizens.md)
+- [&sect; 03650 - Travel and transportation expenses](%C2%A7%2003650%20-%20Travel%20and%20transportation%20expenses.md)

@@ -1,0 +1,16 @@
+### §215a–1. Interstate consolidations and mergers
+
+#### (a) In general
+
+A national bank may engage in a consolidation or merger under this subchapter with an out-of-State bank if the consolidation or merger is approved pursuant to section 1831u of this title.
+
+#### (b) Scope of application
+
+Subsection (a) of this section shall not apply with respect to any consolidation or merger before June 1, 1997, unless the home State of each bank involved in the transaction has in effect a law described in section 1831u(a)(3) of this title.
+
+#### (c) Definitions
+
+The terms “home State” and “out-of-State bank” have the same meaning as in section 1831u(f) of this title.
+
+(Nov. 7, 1918, ch. 209, §4, as added Sept. 29, 1994, Pub. L. 103–328, title I, §102(b)(4)(D), 108 Stat. 2351.)
+

@@ -1,0 +1,104 @@
+### §1468. Transactions with affiliates; extensions of credit to executive officers, directors, and principal shareholders
+
+#### (a) Affiliate transactions
+
+#### (1) In general
+
+&emsp;Sections 23A and 23B of the Federal Reserve Act \[12 U.S.C. 371c and 371c–1\] shall apply to every savings association in the same manner and to the same extent as if the savings association were a member bank (as defined in such Act \[12 U.S.C. 221 et seq.\]), except that—
+
+&emsp;&emsp;(A) no loan or other extension of credit may be made to any affiliate unless that affiliate is engaged only in activities described in section 1467a(c)(2)(F)(i) of this title; and
+
+&emsp;&emsp;(B) no savings association may enter into any transaction described in section 23A(b)(7)(B) of the Federal Reserve Act with any affiliate other than with respect to shares of a subsidiary.
+
+#### (2) Sister bank exemption made available to savings associations
+
+#### (A) Savings associations controlled by bank holding companies
+
+&emsp;&emsp;Every savings association more than 80 percent of the voting stock of which is owned by a company described in section 1467a(c)(8) of this title shall be treated as a bank for purposes of section 23A(d)(1) and section 23B of the Federal Reserve Act, if every savings association and bank controlled by such company complies with all applicable capital requirements on a fully phased-in basis and without reliance on goodwill.
+
+#### (B) Savings associations generally
+
+&emsp;&emsp;Effective on and after January 1, 1995, every savings association shall be treated as a bank for purposes of section 23A(d)(1) and section 23B of the Federal Reserve Act.
+
+#### (3) Affiliates described
+
+&emsp;Any company that would be an affiliate (as defined in sections 23A and 23B of the Federal Reserve Act) of any savings association if such savings association were a member bank (as such term is defined in such Act) shall be deemed to be an affiliate of such savings association for purposes of paragraph (1).
+
+#### (4) Additional restrictions authorized
+
+&emsp;The Director may impose such additional restrictions on any transaction between any savings association and any affiliate of such savings association as the Director determines to be necessary to protect the safety and soundness of the savings association.
+
+#### (b) Extensions of credit to executive officers, directors, and principal shareholders
+
+#### (1) In general
+
+&emsp;Subsections (g) and (h) of section 22 of the Federal Reserve Act \[12 U.S.C. 375a, 375b\] shall apply to every savings association in the same manner and to the same extent as if the savings association were a member bank (as defined in such Act).
+
+#### (2) Additional restrictions authorized
+
+&emsp;The Director may impose such additional restrictions on loans or extensions of credit to any director or executive officer of any savings association, or any person who directly or indirectly owns, controls, or has the power to vote more than 10 percent of any class of voting securities of a savings association, as the Director determines to be necessary to protect the safety and soundness of the savings association.
+
+#### (c) Administrative enforcement
+
+The Director may take enforcement action with respect to violations of this section pursuant to section 8 or 18(j) of the Federal Deposit Insurance Act \[12 U.S.C. 1818 or 1828(j)\], as appropriate.
+
+(June 13, 1933, ch. 64, §11, formerly §9, 48 Stat. 135; Apr. 27, 1934, ch. 168, §15, 48 Stat. 647; renumbered §11, Aug. 10, 1987, Pub. L. 100–86, title IV, §402(a), 101 Stat. 605; Aug. 9, 1989, Pub. L. 101–73, title III, §301, 103 Stat. 342; Dec. 19, 1991, Pub. L. 102–242, title III, §306(i), 105 Stat. 2359; Sept. 23, 1994, Pub. L. 103–325, title III, §316, 108 Stat. 2223.)
+
+#### References in Text
+
+The Federal Reserve Act, referred to in subsecs. (a)(1), (3) and (b)(1), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+
+#### Amendments
+
+1994—Subsec. (a)(2)(C). Pub. L. 103–325, §316(b), struck out heading and text of subpar. (C) which read as follows:
+
+“(C)
+
+Transition rule for well capitalized savings associations.—
+
+&emsp;“(i)
+
+In general.—A savings association that is well capitalized (as defined in section 1831<i>o</i> of this title), as determined without including goodwill in calculating core capital, shall be treated as a bank for purposes of section 371c(d)(1) of this title and section 371c–1 of this title.
+
+&emsp;“(ii)
+
+Liability of commonly controlled depository institutions.—Any savings association that engages under clause (i) in a transaction that would not otherwise be permissible under this subsection, and any affiliated insured bank that is commonly controlled (as defined in section 1815(e)(9) of this title), shall be subject to subsection (e) of section 1815 of this title as if paragraph (6) of that subsection did not apply.”
+
+Pub. L. 103–325, §316(a), added subpar. (C).
+
+1991—Subsec. (b)(1). Pub. L. 102–242 substituted “Subsections (g) and (h) of section 22” for “Section 22(h)”.
+
+1989—Pub. L. 101–73 amended section generally, substituting subsecs. (a) to (c) relating to affiliate transactions, extensions of credit, and administrative enforcement, for former undesignated paragraph relating to separability of provisions.
+
+1934—Act Apr. 27, 1934, reenacted section without change.
+
+#### Effective Date of 1994 Amendment
+
+Section 316(b) of Pub. L. 103–325 provided that amendment made by that section is effective Jan. 1, 1995.
+
+#### Effective Date of 1991 Amendment
+
+Amendment by Pub. L. 102–242 effective upon the earlier of the date on which final regulations under section 306(m)(1) of Pub. L. 102–242 become effective or 150 days after Dec. 19, 1991, see section 306(<i>l</i>) of Pub. L. 102–242, set out as a note under section 375b of this title.
+
+#### Transitional Rule for Certain Transactions With Affiliates
+
+Section 304 of Pub. L. 101–73 provided that:
+
+“(a)
+
+Consistency of Certain Regulations With Section 23A
+
+of the Federal Reserve Act \[12 U.S.C. 371c\].—Not later than 6 months after the date of enactment of this Act \[Aug. 9, 1989\], the Director of the Office of Thrift Supervision shall revise the Director's conflicts regulations so as not to prohibit a thrift institution from purchasing mortgages from a mortgage-banking affiliate to the same extent as a member bank may do so under section 250.250 of title 12, Code of Federal Regulations.
+
+“(b)
+
+Transitional Period.—Notwithstanding section 11(a) of the Home Owners’ Loan Act \[12 U.S.C. 1468(a)\] (as added by section 301 of this Act), a thrift institution that, before May 1, 1989, had received approval from the Federal Savings and Loan Insurance Corporation pursuant to section 408(d)(6) of the National Housing Act \[former 12 U.S.C. 1730a(d)(6)\] as then in effect to purchase mortgages from a mortgage-banking affiliate may, during the 6-month period following the date on which final regulations are prescribed pursuant to subsection (a), continue to engage in transactions for which it had received such approval. Any savings association that engages in such transactions pursuant to this subsection shall comply with the standards that were applicable under section 408(d)(6) as in effect on May 1, 1989.
+
+“(c)
+
+Authority To Extend Regulatory Approvals That Would Otherwise Lapse During the Transitional Period.—The Director of the Office of Thrift Supervision may extend until the expiration of the 6-month period described in subsection (b) any approval granted by the Federal Savings and Loan Insurance Corporation that expires or would expire before the expiration of that 6-month period. In determining whether to grant such exemptions, the Director shall apply the standards that were applicable under section 408(d)(6) of the National Housing Act \[former 12 U.S.C. 1730a(d)(6)\] as in effect on May 1, 1989.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1467a, 1831e of this title.
+

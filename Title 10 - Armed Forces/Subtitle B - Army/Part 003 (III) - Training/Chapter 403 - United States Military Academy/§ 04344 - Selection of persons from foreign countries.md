@@ -1,0 +1,100 @@
+### §4344. Selection of persons from foreign countries
+
+(a)(1) The Secretary of the Army may permit not more than 40 persons at any one time from foreign countries to receive instruction at the Academy. Such persons shall be in addition to the authorized strength of the Corps of the Cadets of the Academy under section 4342 of this title.
+
+(2) The Secretary of the Army, upon approval by the Secretary of Defense, shall determine the countries from which persons may be selected for appointment under this section and the number of persons that may be selected from each country. The Secretary of the Army may establish entrance qualifications and methods of competition for selection among individual applicants under this section and shall select those persons who will be permitted to receive instruction at the Academy under this section.
+
+(b)(1) A person receiving instruction under this section is entitled to the pay, allowances, and emoluments of a cadet appointed from the United States, and from the same appropriations.
+
+(2) Each foreign country from which a cadet is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1) unless a written waiver of reimbursement is granted by the Secretary of Defense. The Secretary of the Army shall prescribe the rates for reimbursement under this paragraph.
+
+(c)(1) Except as the Secretary of the Army determines, a person receiving instruction under this section is subject to the same regulations governing admission, attendance, discipline, resignation, discharge, dismissal, and graduation as a cadet at the Academy appointed from the United States. The Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a cadet at the Academy appointed from the United States.
+
+(2) A person receiving instruction under this section is not entitled to an appointment in an armed force of the United States by reason of graduation from the Academy.
+
+(d) A person receiving instruction under this section is not subject to section 4346(d) of this title.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 242; Sept. 24, 1983, Pub. L. 98–94, title X, §1004(a)(1), 97 Stat. 657.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+4344(a)
+
+4344(b)
+
+4344(c)
+
+10:1093c (less 3d and last sentences).
+
+10:1093c (3d sentence).
+
+10:1093c (last sentence, less proviso).
+
+June 26, 1946, ch. 493, §1, 60 Stat. 311; June 1, 1948, ch. 357, §2, 62 Stat. 280.
+
+4344(d)
+
+10:1093c (proviso of last sentence).
+
+In subsection (a), the words “at West Point, New York” are omitted as surplusage.
+
+In subsection (b), the words “is entitled to” are substituted for the words “shall receive”. The words “performed in proceeding” are omitted as surplusage. The words “continental limits” are omitted, since section 101(1) of this title defines the United States to include only the States and the District of Columbia.
+
+In subsection (c), the words “to any office or position” are omitted as surplusage.
+
+In subsection (d), the words “and 1101” are omitted, since section 1321 of the Revised Statutes, previously codified in 10:1101, was repealed by section 6(b) of the Act of June 30, 1950, ch. 421, 64 Stat. 305.
+
+#### Amendments
+
+1983—Pub. L. 98–94 substituted “persons from foreign countries” for “persons from Canada and American Republics” in section catchline.
+
+Subsec. (a)(1). Pub. L. 98–94 substituted “The Secretary of the Army may permit not more than 40 persons at any one time from foreign countries to receive instruction at the Academy” for “Upon designation bythe President, the Secretary of the Army may permit not more than 20 persons at any one time from Canada and the American Republics, other than the United States, to receive instruction at the Academy” as the first sentence of existing subsec. (a), redesignated that first sentence as par. (1), and in par. (1) as so redesignated inserted second sentence providing that such persons shall be in addition to the authorized strength of the Corps of the Cadets of the Academy under section 4342 of this title.
+
+Subsec. (a)(2). Pub. L. 98–94 substituted “The Secretary of the Army, upon approval by the Secretary of Defense, shall determine the countries from which persons may be selected for appointment under this section and the number of persons that may be selected from each country” for “However, not more than three persons from any one of those republics or from Canada may receive instruction under this section at any one time” as the second sentence of existing subsec. (a), redesignated that second sentence as par. (2), and in par. (2) as so redesignated inserted second sentence providing that the Secretary of the Army may establish entrance qualifications and methods of competition for selection among individual applicants under this section and shall select those persons who will be permitted to receive instruction at the Academy under this section.
+
+Subsec. (b)(1). Pub. L. 98–94 redesignated first sentence of existing subsec. (b) as par. (1) thereof.
+
+Subsec. (b)(2). Pub. L. 98–94 substituted “Each foreign country from which a cadet is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1) unless a written waiver of reimbursement is granted by the Secretary of Defense” for “However, the mileage allowance payable to that person for travel to the Academy for initial admission is not limited to mileage for travel within the United States” as second sentence of existing subsec. (b), redesignated that second sentence as par. (2) and inserted second sentence providing that the Secretary of the Army shall prescribe the rates for reimbursement under this paragraph.
+
+Subsec. (c)(1). Pub. L. 98–94 redesignated first sentence of existing subsec. (c) as par. (1) and inserted second sentence providing that the Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a cadet at the Academy appointed from the United States.
+
+Subsec. (c)(2). Pub. L. 98–94 redesignated second sentence of existing subsec. (c) as par. (2) and substituted “appointment in an armed force of the United States” for “appointment in the United States Army”.
+
+Subsec. (d). Pub. L. 98–94 reenacted subsec. (d) without change.
+
+#### Effective Date of 1983 Amendment
+
+Section 1004(d) of Pub. L. 98–94 provided that:
+
+“Sections 4344(b)(2), 6957(b)(2), and 9344(b)(2) of title 10, United States Code, as added by this section, do not apply to the cost of providing instruction to a person who, before the effective date of this section, entered the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy under section 4344, 4345, 6957, 9344, or 9345 of such title, as in effect on the day before such date. Any such person shall be counted against the maximum of 40 persons who may attend the Academy concerned at any time under any of those sections.
+
+“The amendments made by subsections (a), (b), and (c) \[amending this section and sections 6957 and 9344 of this title and repealing sections 4345 and 9345 of this title\] shall take effect one year after the date of the enactment of this Act \[Sept. 24, 1983\] and shall apply to each person entering the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy after that effective date.”
+
+#### Persons From Countries Assisting U.S. in Vietnam: Service Academy Instruction; Benefits, Limitations, Restrictions, and Regulations; Oath of Trainees
+
+Pub. L. 89–802, Nov. 9, 1966, 80 Stat. 1518, provided that:
+
+“(a) Notwithstanding any other provision of law, upon designation by the President, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force, respectively, may permit persons from foreign countries to receive instruction at the Military Academy, the Naval Academy, and the Air Force Academy.
+
+“(b) A person may not be admitted to an Academy for instruction under this Act unless his country at the time of his admission is assisting the United States in Vietnam by the provision of manpower or bases.
+
+“(c) Not more than four persons may receive instruction under this Act at any one Academy at any one time.
+
+“(d) No person may be admitted to an Academy under this Act after October 1, 1970.
+
+“(e) A person receiving instruction under this Act is entitled to the pay, allowances, and emoluments of a cadet or midshipman appointed from the United States and from the same appropriations.
+
+“(f) Except as the Secretary determines, a person receiving instruction under this Act is subject to the same regulations governing admission, attendance, discipline, resignation, discharge, dismissal and graduation as a cadet or midshipman appointed from the United States. However, a person receiving instruction under this Act is not entitled to an appointment in the Armed Forces of the United States by reason of his graduation from an Academy.
+
+“(g) A person receiving instruction under this Act is not subject to section 4346(d) of title 10, United States Code.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 20 section 221a.
+

@@ -1,0 +1,12 @@
+### §3333. Chairperson of Appraisal Subcommittee; term of Chairperson; meetings
+
+#### (a) Chairperson
+
+The Council shall select the Chairperson of the subcommittee. The term of the Chairperson shall be 2 years.
+
+#### (b) Meetings; quorum; voting
+
+The Appraisal Subcommittee shall meet at the call of the Chairperson or a majority of its members when there is business to be conducted. A majority of members of the Appraisal Subcommittee shall constitute a quorum but 2 or more members may hold hearings. Decisions of the Appraisal Subcommittee shall be made by the vote of a majority of its members.
+
+(Pub. L. 101–73, title XI, §1104, Aug. 9, 1989, 103 Stat. 512.)
+

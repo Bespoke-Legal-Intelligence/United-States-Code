@@ -1,0 +1,10 @@
+### §2372. Date of transfer of utilities
+
+Transfers of utilities shall be made as soon as possible, but in any event, not later than five years after August 4, 1955, in the case of Oak Ridge and Richland, or, in the case of Los Alamos, not later than five years after the date it is included within this chapter.
+
+(Aug. 4, 1955, ch. 543, ch. 7, §72, 69 Stat. 480; Sept. 28, 1962, Pub. L. 87–719, §20, 76 Stat. 666.)
+
+#### Amendments
+
+1962—Pub. L. 87–719 inserted “in the case of Oak Ridge and Richland, or, in the case of Los Alamos, not later than five years after the date it is included within this chapter” after “August 4, 1955,”.
+

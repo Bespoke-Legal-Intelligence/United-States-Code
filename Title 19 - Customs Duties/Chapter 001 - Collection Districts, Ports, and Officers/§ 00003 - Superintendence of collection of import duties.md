@@ -1,0 +1,38 @@
+### §3. Superintendence of collection of import duties
+
+The Secretary of the Treasury shall direct the superintendence of the collection of the duties on imports as he shall judge best.
+
+(R.S. §249.)
+
+#### Codification
+
+R.S. §249 derived from act May 8, 1792, ch. 37, §6, 1 Stat. 280.
+
+Section, prior to its incorporation into the Code, contained the words “and tonnage” after “duties on imports.” These words were omitted as superseded by section 3 of Title 46, Appendix, Shipping, which charged the Chief of the Bureau of Navigation and Steamboat Inspection (now Commissioner of Customs) with the execution of the laws relating to the collection of the tonnage tax.
+
+#### Analysis Regarding CES Program; Effect on Implementation of Program
+
+Pub. L. 100–203, title IX, §9501(c), Dec. 22, 1987, 101 Stat. 1330–380, as amended by Pub. L. 103–182, title VI, §691(b)(1), Dec. 8, 1993, 107 Stat. 2224, provided that:
+
+“(1) The Comptroller General of the United States shall conduct a comprehensive analysis, including a cost-benefit study, of the centralized cargo examination station (CES) concept from the perspective of both the United States Customs Service and business community users. The analysis shall be submitted on the same day to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (hereinafter in this subsection referred to as the ‘Committees’) not later than March 30, 1988, and shall include recommendations as to how best to implement cargo inspection procedures.
+
+“(2) The United States Customs Service—
+
+&emsp;“(A) may not, after the date of the enactment of this Act \[Dec. 22, 1987\], establish any new centralized cargo examination station at any ocean port, airport, or land border location unless the Customs Service provides to the Committees advance notice, in writing, of not less than 90 days regarding the proposed establishment; and
+
+&emsp;“(B) shall, on such date of enactment, suspend operations at each centralized cargo examination station that was operating at an airport on the day before such date until the 90th day after a date—
+
+&emsp;&emsp;“(i) that is not earlier than the date on which the analysis required under paragraph (1) is submitted to the Committees, and
+
+&emsp;&emsp;“(ii) on which the Customs Service provides to the Committees notice, in writing, that it intends to resume such operations at the station.
+
+> During the period of suspension of operations under subparagraph (B) at any centralized cargo examination station at an airport, the Secretary of the Treasury shall maintain customs operations and staffing at that airport at a level not less than that which was in effect immediately before the suspension took effect.
+
+“(3) The Commissioner of Customs is authorized to obtain from the operators of centralized cargo examination stations information regarding the fees paid to them for the provision of services at these stations.”
+
+#### Cross References
+
+Instructions of Secretary of the Treasury and conclusiveness of decisions on customs officers, see section 1502 of this title.
+
+Reversal or modification of rulings or decisions by Secretary, restrictions on, see section 1502 of this title.
+

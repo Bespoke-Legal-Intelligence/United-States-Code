@@ -1,0 +1,72 @@
+### §422. Cadets and midshipmen
+
+(a) A cadet at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy, or a midshipman at the United States Naval Academy, is entitled to the allowances provided by law for a midshipman in the Navy, and to travel and transportation allowances prescribed under section 410 of this title while traveling under orders as a cadet or midshipman.
+
+(b) Each midshipman of the Navy to whom a Navy ration is not furnished is entitled to the commuted value of the ration in money for each day that he is on active duty, including each day that he is on leave. The Secretary of the Navy may prescribe regulations stating the conditions under which the commuted value shall be allowed and may prescribe regulations establishing the rates at which the ration shall be commuted.
+
+(c) A cadet or midshipman appointed under section 2107 of title 10 is entitled to the same allowances as are provided for cadets and midshipmen at the United States Military, Naval, and Air Force Academies for—
+
+&emsp;(1) initial travel to the educational institution in which matriculated;
+
+&emsp;(2) travel while under orders; and
+
+&emsp;(3) travel on discharge.
+
+> However, no allowance for travel on discharge may be paid to a discharged cadet or midshipman who continues his scholastic instruction at the same educational institution.
+
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 479; Pub. L. 88–647, title II, §202(4), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, §63, Nov. 2, 1966, 80 Stat. 1123.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+422(a)
+
+37:308 (less applicability to pay).
+
+Oct. 12, 1949, ch. 681, §508 (less applicability to pay), 63 Stat. 828.
+
+422(b)
+
+10:6081(b) (9th through 17th words).
+
+\[None.\]
+
+&nbsp;
+
+10:6081(c) (16th through 19th words).
+
+\[None.\]
+
+422(c)
+
+10:6904(c).
+
+\[None.\]
+
+&nbsp;
+
+10:6905(c).
+
+\[None.\]
+
+422(d)
+
+10:6906(c) (1st sentence, less applicability to pay).
+
+\[None.\]
+
+In subsection (a), the words “prescribed under section 410 of this title” are inserted to reflect that revised section.
+
+#### Amendments
+
+1966—Subsec. (c). Pub. L. 89–718 struck out “, United States Code,” after “title 10”.
+
+1964—Subsec. (c). Pub. L. 88–647, §202(4)(A), (B), among other changes, substituted provisions relating to a cadet or midshipman appointed under section 2107 of title 10, for provisions relating to a midshipman appointed under section 6904 of title 10, or a seaman recruit enlisted under section 6905 of title 10, and “educational institution” for “college or university”, in text, and “Cadets and midshipmen” for “Cadets, midshipmen, and naval officer candidates”, in section catchline.
+
+Subsec. (d). Pub. L. 88–647, §202(4)(C), struck out subsec. (d) which entitled a midshipman under section 6906 of title 10, while on flight training or duty, to the allowances of a midshipman at the United States Naval Academy.
+

@@ -1,0 +1,18 @@
+### §492. Bridge as post route; limitation as to charges against Government; telegraph and telephone lines
+
+Any bridge built in accordance with the provisions of sections 491 to 498 of this title, shall be a lawful structure and shall be recognized and known as a post route, upon which no higher charge shall be made for the transmission over the same of the mails, the troops, and the munitions of war of the United States than the rate per mile paid for the transportation over any railroad, street railway, or public highway leading to said bridge; and the United States shall have the right to construct, maintain, and repair, without any charge therefor, telegraph and telephone lines across and upon said bridge and its approaches; and equal privileges in the use of said bridge and its approaches shall be granted to all telegraph and telephone companies.
+
+(Mar. 23, 1906, ch. 1130, §2, 34 Stat. 85.)
+
+#### Cross References
+
+Government traffic and personnel subject to tolls—
+
+&emsp;&emsp;Golden Gate Bridge, see sections 1002 to 1004 of Title 15, Commerce and Trade.
+
+&emsp;&emsp;San Francisco to Oakland Bay Bridge, see sections 1005 to 1007 of Title 15.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 491, 493, 494, 495, 497, 498, 508, 530, 535 of this title.
+

@@ -1,0 +1,6 @@
+### §10309. New spending authority; amounts provided in advance
+
+Any new spending authority described in subsection (c)(2)(A) or (B) of section 651 of title 2 which is provided under this chapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriations Acts.
+
+(Pub. L. 98–242, title I, §111, Mar. 22, 1984, 98 Stat. 101.)
+

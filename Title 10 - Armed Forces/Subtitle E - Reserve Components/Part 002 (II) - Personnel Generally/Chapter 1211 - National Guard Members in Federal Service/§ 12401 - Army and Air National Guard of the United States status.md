@@ -1,0 +1,20 @@
+### §12401. Army and Air National Guard of the United States: status
+
+Members of the Army National Guard of the United States and the Air National Guard of the United States are not in active Federal service except when ordered thereto under law.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1662(f)(1), Oct. 5, 1994, 108 Stat. 2993.)
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in sections 3495 and 8495 of this title, prior to repeal by Pub. L. 103–337, §1662(f)(2).
+
+#### Effective Date
+
+Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
+
+#### Cross References
+
+Call into Federal service, see section 12406 of this title.
+
+Status when not in Federal service, see section 10107 of this title.
+

@@ -1,0 +1,64 @@
+### §2168. Dissemination of unclassified information
+
+#### (a) Dissemination prohibited; rules and regulations; determinations of Secretary prerequisite to issuance of prohibiting regulations or orders; criteria
+
+(1) In addition to any other authority or requirement regarding protection from dissemination of information, and subject to section 552(b)(3) of title 5, the Secretary of Energy (hereinafter in this section referred to as the “Secretary”), with respect to atomic energy defense programs, shall prescribe such regulations, after notice and opportunity for public comment thereon, or issue such orders as may be necessary to prohibit the unauthorized dissemination of unclassified information pertaining to—
+
+&emsp;(A) the design of production facilities or utilization facilities;
+
+&emsp;(B) security measures (including security plans, procedures, and equipment) for the physical protection of (i) production or utilization facilities, (ii) nuclear material contained in such facilities, or (iii) nuclear material in transit; or
+
+&emsp;(C) the design, manufacture, or utilization of any atomic weapon or component if the design, manufacture, or utilization of such weapon or component was contained in any information declassified or removed from the Restricted Data category by the Secretary (or the head of the predecessor agency of the Department of Energy) pursuant to section 2162 of this title.
+
+(2) The Secretary may prescribe regulations or issue orders under paragraph (1) to prohibit the dissemination of any information described in such paragraph only if and to the extent that the Secretary determines that the unauthorized dissemination of such information could reasonably be expected to have a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of (A) illegal production of nuclear weapons, or (B) theft, diversion, or sabotage of nuclear materials, equipment, or facilities.
+
+(3) In making a determination under paragraph (2), the Secretary may consider what the likelihood of an illegal production, theft, diversion, or sabotage referred to in such paragraph would be if the information proposed to be prohibited from dissemination under this section were at no time available for dissemination.
+
+(4) The Secretary shall exercise his authority under this subsection to prohibit the dissemination of any information described in paragraph (1) of this subsection—
+
+&emsp;(A) so as to apply the minimum restrictions needed to protect the health and safety of the public or the common defense and security; and
+
+&emsp;(B) upon a determination that the unauthorized dissemination of such information could reasonably be expected to result in a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of (i) illegal production of nuclear weapons, or (ii) theft, diversion, or sabotage of nuclear materials, equipment, or facilities.
+
+(5) Nothing in this section shall be construed to authorize the Secretary to authorize the withholding of information from the appropriate committees of the Congress.
+
+#### (b) Civil penalties
+
+(1) Any person who violates any regulation or order of the Secretary issued under this sectionwith respect to the unauthorized dissemination of information shall be subject to a civil penalty, to be imposed by the Secretary, of not to exceed $100,000 for each such violation. The Secretary may compromise, mitigate, or remit any penalty imposed under this subsection.
+
+(2) The provisions of subsections (b) and (c) of section 2282 of this title, shall be applicable with respect to the imposition of civil penalties by the Secretary under this section in the same manner that such provisions are applicable to the imposition of civil penalties by the Commission under subsection (a) of such section.
+
+#### (c) Criminal penalties
+
+For the purposes of section 2273 of this title, any regulation prescribed or order issued by the Secretary under this section shall also be deemed to be prescribed or issued under section 2201(b) of this title.
+
+#### (d) Judicial review
+
+Any determination by the Secretary concerning the applicability of this section shall be subject to judicial review pursuant to section 552(a)(4)(B) of title 5.
+
+#### (e) Quarterly reports for interested persons; contents
+
+The Secretary shall prepare on a quarterly basis a report to be made available upon the request of any interested person, detailing the Secretary's application during that period of each regulation or order prescribed or issued under this section. In particular, such report shall—
+
+&emsp;(1) identify any information protected from disclosure pursuant to such regulation or order;
+
+&emsp;(2) specifically state the Secretary's justification for determining that unauthorized dissemination of the information protected from disclosure under such regulation or order could reasonably be expected to have a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of illegal production of nuclear weapons, or theft, diversion, or sabotage of nuclear materials, equipment, or facilities, as specified under subsection (a) of this section; and
+
+&emsp;(3) provide justification that the Secretary has applied such regulation or order so as to protect from disclosure only the minimum amount of information necessary to protect the health and safety of the public or the common defense and security.
+
+(Aug. 1, 1946, ch. 724, title I, §148, as added Dec. 4, 1981, Pub. L. 97–90, title II, §210(a)(1), 95 Stat. 1169; amended Jan. 4, 1983, Pub. L. 97–415, §17, 96 Stat. 2076; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+
+#### Amendments
+
+1983—Subsec. (a)(1). Pub. L. 97–415, §17(a), inserted “, with respect to atomic energy defense programs,” after “(hereinafter in this section referred to as the ‘Secretary’)”.
+
+Subsecs. (d), (e). Pub. L. 97–415, §17(b), added subsecs. (d) and (e).
+
+#### Transfer of Functions
+
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2231, 2286b of this title.
+

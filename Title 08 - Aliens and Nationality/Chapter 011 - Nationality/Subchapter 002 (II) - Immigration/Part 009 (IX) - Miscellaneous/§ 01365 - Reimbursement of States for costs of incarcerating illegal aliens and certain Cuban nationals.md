@@ -1,0 +1,58 @@
+### §1365. Reimbursement of States for costs of incarcerating illegal aliens and certain Cuban nationals
+
+#### (a) Reimbursement of States
+
+Subject to the amounts provided in advance in appropriation Acts, the Attorney General shall reimburse a State for the costs incurred by the State for the imprisonment of any illegal alien or Cuban national who is convicted of a felony by such State.
+
+#### (b) Illegal aliens convicted of a felony
+
+An illegal alien referred to in subsection (a) of this section is any alien who is any alien convicted of a felony who is in the United States unlawfully and—
+
+&emsp;(1) whose most recent entry into the United States was without inspection, or
+
+&emsp;(2) whose most recent admission to the United States was as a nonimmigrant and—
+
+&emsp;&emsp;(A) whose period of authorized stay as a nonimmigrant expired, or
+
+&emsp;&emsp;(B) whose unlawful status was known to the Government,
+
+> &emsp;before the date of the commission of the crime for which the alien is convicted.
+
+#### (c) Marielito Cubans convicted of a felony
+
+A Marielito Cuban convicted of a felony referred to in subsection (a) of this section is a national of Cuba who—
+
+&emsp;(1) was allowed by the Attorney General to come to the United States in 1980,
+
+&emsp;(2) after such arrival committed any violation of State or local law for which a term of imprisonment was imposed, and
+
+&emsp;(3) at the time of such arrival and at the time of such violation was not an alien lawfully admitted to the United States—
+
+&emsp;&emsp;(A) for permanent or temporary residence, or
+
+&emsp;&emsp;(B) under the terms of an immigrant visa or a nonimmigrant visa issued,
+
+> &emsp;under the laws of the United States.
+
+#### (d) Authorization of appropriations
+
+There are authorized to be appropriated such sums as are necessary to carry out the purposes of this section.
+
+#### (e) “State” defined
+
+The term ‘State’ has the meaning given such term in section 1101(a)(36) of this title.
+
+(Pub. L. 99–603, title V, §501, Nov. 6, 1986, 100 Stat. 3443.)
+
+#### Codification
+
+Section was enacted as part of the Immigration Reform and Control Act of 1986, and not as part of the Immigration and Nationality Act which comprises this chapter.
+
+#### Regulations
+
+Pub. L. 103–317, title VIII, Aug. 26, 1994, 108 Stat. 1778, provided in part: “That the Attorney General shall promulgate regulations to (a) prescribe requirements for program participation eligibility for States, (b) require verification by States of the eligible incarcerated population data with the Immigration and Naturalization Service, (c) prescribe a formula for distributing assistance to eligible States, and (d) award assistance to eligible States”.
+
+#### Cross References
+
+Assistance to States and counties for costs of incarcerating certain Cuban nationals, see section 1522(f) of this title.
+

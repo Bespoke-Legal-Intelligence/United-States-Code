@@ -1,0 +1,6 @@
+### §289a. Transferred
+
+#### Codification
+
+Section, act Feb. 27, 1929, ch. 354, §6, 45 Stat. 1343, which related to control of space in buildings for use of General Supply Committee of the Treasury, was transferred to section 289 of this title.
+

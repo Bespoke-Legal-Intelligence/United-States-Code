@@ -1,0 +1,32 @@
+### §5955. Prior notice to Congress of obligation of funds
+
+#### (a) Notice of proposed obligation
+
+Not less than 15 days before obligation of any funds for programs under section 5952 of this title, the President shall transmit to the appropriate congressional committees as defined in section 5957 of this title a report on the proposed obligation. Each such report shall specify—
+
+&emsp;(1) the activities and forms of assistance for which the President plans to obligate such funds;
+
+&emsp;(2) the amount of the proposed obligation; and
+
+&emsp;(3) the projected involvement of the departments and agencies of the United States Government and the private sector of the United States.
+
+#### (b) Reports on demilitarization or conversion projects
+
+Any report under subsection (a) of this section that covers proposed demilitarization or conversion projects under paragraph (5) or (6) of section 5952(b) of this title shall contain additional information to assist the Congress in determining the merits of the proposed projects. Such information shall include descriptions of—
+
+&emsp;(1) the facilities to be demilitarized;
+
+&emsp;(2) the types of activities conducted at those facilities and of the types of nonmilitary activities planned for those facilities;
+
+&emsp;(3) the forms of assistance to be provided by the United States Government and by the private sector of the United States;
+
+&emsp;(4) the extent to which military activities and production capability will consequently be eliminated at those facilities; and
+
+&emsp;(5) the mechanisms to be established for monitoring progress on those projects.
+
+(Pub. L. 103–160, div. A, title XII, §1206, Nov. 30, 1993, 107 Stat. 1781.)
+
+#### Delegation of Functions
+
+For delegation of certain authorities and duties of the President under this section to Secretary of Defense, see Memorandum of President of the United States, Jan. 29, 1994, 59 F.R. 5929, set out as a note under section 5952 of this title.
+

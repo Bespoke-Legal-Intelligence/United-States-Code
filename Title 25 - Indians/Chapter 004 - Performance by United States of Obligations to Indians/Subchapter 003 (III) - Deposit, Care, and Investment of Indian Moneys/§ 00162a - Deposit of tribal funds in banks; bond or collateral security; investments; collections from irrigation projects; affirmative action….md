@@ -1,0 +1,88 @@
+### §162a. Deposit of tribal funds in banks; bond or collateral security; investments; collections from irrigation projects; affirmative action required
+
+#### (a) Deposit of tribal trust funds in banks
+
+The Secretary of the Interior is hereby authorized in his discretion, and under such rules and regulations as he may prescribe, to withdraw from the United States Treasury and to deposit in banks to be selected by him the common or community funds of any Indian tribe which are, or may hereafter be, held in trust by the United States and on which the United States is not obligated by law to pay interest at higher rates than can be procured from the banks. The said Secretary is also authorized, under such rules and regulations as he may prescribe, to withdraw from the United States Treasury and to deposit in banks to be selected by him the funds held in trust by the United States for the benefit of individual Indians: <i>Provided</i>, That no individual Indian money shall be deposited in any bank until the bank shall have agreed to pay interest thereon at a reasonable rate, subject, however, to the regulations of the Board of Governors of the Federal Reserve System in the case of member banks, and of the Board of Directors of the Federal Deposit Insurance Corporation in the case of insured nonmember banks, except that the payment of interest may be waived in the discretion of the Secretary of the Interior on any deposit which is payable on demand: <i>Provided further</i>, That no tribal or individual Indian money shall be deposited in any bank until the bank shall have furnished an acceptable bond or pledged collateral security therefor in the form of any public-debt obligations of the United States and any bonds, notes, or other obligations which are unconditionally guaranteed as to both interest and principal by the United States, except that no such bond or collateral shall be required to be furnished by any such bank which is entitled to the benefits of section 12B of the Federal Reserve Act, with respect to any deposits of such tribal or individual funds to the extent that such deposits are insured under such section: <i>Provided, however</i>, That nothing contained in this section, or in section 12B of the Federal Reserve Act, shall operate to deprive any Indian having unrestricted funds on deposit in any such bank of the full protection afforded by section 12B of the Federal Reserve Act, irrespective of any interest such Indian may have in any restricted Indian funds on deposit in the same bank to the creditof a disbursing agent of the United States. For the purpose of this section and said Act, said unrestricted funds shall constitute a separate and distinct basis for an insurance claim: <i>Provided further</i>, That the Secretary of the Interior, if he deems it advisable and for the best interest of the Indians, may invest the trust funds of any tribe or individual Indian in any public-debt obligations of the United States and in any bonds, notes, or other obligations which are unconditionally guaranteed as to both interest and principal by the United States: <i>And provided further</i>, That the foregoing shall apply to the funds of the Osage Tribe of Indians, and the individual members thereof, only with respect to the deposit of such funds in banks.
+
+#### (b) Investment of collections from irrigation projects and power operations on irrigation projects
+
+The Secretary of the Interior is authorized to invest any operation and maintenance collections from Indian irrigation projects and revenue collections from power operations on Indian irrigation projects in—
+
+&emsp;(1) any public-debt obligations of the United States;
+
+&emsp;(2) any bonds, notes, or other obligations which are unconditionally guaranteed as to both principal and interest by the United States; or
+
+&emsp;(3) any obligations which are lawful investments for trust funds under the authority or control of the United States.
+
+> The Secretary of the Interior is authorized to use earning <sup>1</sup> from investments under this subsection to pay operation and maintenance expenses of the project involved.
+
+#### (c) Investment of tribal trust funds in public debt obligations
+
+(1) Notwithstanding subsection (a) of this section, the Secretary of the Interior, at the request of any Indian tribe, in the case of trust funds of such tribe, or any individual Indian, in the case of trust funds of such individual, is authorized to invest such funds, or any part thereof, in guaranteed or public debt obligations of the United States or in a mutual fund, otherwise known as an open-ended diversified investment management company if—
+
+&emsp;(A) the portfolio of such mutual fund consists entirely of public-debt obligations of the United States, or bonds, notes, or other obligations which are unconditionally guaranteed as to both interest and principal by the United States, or a combination thereof;
+
+&emsp;(B) the trust funds to be invested exceed $50,000;
+
+&emsp;(C) the mutual fund is registered by the Securities and Exchange Commission; and
+
+&emsp;(D) the Secretary is satisfied with respect to the security and protection provided by the mutual fund against loss of the principal of such trust funds.
+
+(2) The Secretary, as a condition to complying with a request pursuant to paragraph (1) of this subsection, is authorized to require such tribe or individual Indian, as the case may be, to enter into an agreement with the Secretary for the purpose of relieving the United States of any liability in connection with the interest, or amount thereof, payable in connection with such trust funds so invested during the period of that investment.
+
+(3) Investments pursuant to paragraph (1) of this subsection shall be deemed to be the same as cash or a bank deposit for purposes of section 955 of this title.
+
+#### (d) Trust responsibilities of Secretary of the Interior
+
+The Secretary's proper discharge of the trust responsibilities of the United States shall include (but are not limited to) the following:
+
+&emsp;(1) Providing adequate systems for accounting for and reporting trust fund balances.
+
+&emsp;(2) Providing adequate controls over receipts and disbursements.
+
+&emsp;(3) Providing periodic, timely reconciliations to assure the accuracy of accounts.
+
+&emsp;(4) Determining accurate cash balances.
+
+&emsp;(5) Preparing and supplying account holders with periodic statements of their account performance and with balances of their account which shall be available on a daily basis.
+
+&emsp;(6) Establishing consistent, written policies and procedures for trust fund management and accounting.
+
+&emsp;(7) Providing adequate staffing, supervision, and training for trust fund management and accounting.
+
+&emsp;(8) Appropriately managing the natural resources located within the boundaries of Indian reservations and trust lands.
+
+(June 24, 1938, ch. 648, §1, 52 Stat. 1037; Nov. 4, 1983, Pub. L. 98–146, title I, 97 Stat. 929; Nov. 29, 1990, Pub. L. 101–644, title III, §302, 104 Stat. 4667; Oct. 25, 1994, Pub. L. 103–412, title I, §§101, 103(b), (c), 108 Stat. 4240, 4241.)
+
+#### References in Text
+
+Section 12B of the Federal Reserve Act, referred to in subsec. (a), formerly classified to section 264 of Title 12, Banks and Banking, has been withdrawn from the Federal Reserve Act and incorporated in the Federal Deposit Insurance Act which is classified to chapter 16 (§1811 et seq.) of Title 12.
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–412, §103(b), inserted “to withdraw from the United States Treasury and” after “prescribe,” in second sentence.
+
+Subsecs. (b), (c). Pub. L. 103–412, §103(c), redesignated subsec. (b), relating to investment of trust funds, as (c).
+
+Subsec. (d). Pub. L. 103–412, §101, added subsec. (d).
+
+1990—Subsec. (a). Pub. L. 101–644, which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b), was executed by adding subsec. (b) relating to investment of trust funds. See 1983 Amendment note below.
+
+1983—Pub. L. 98–146 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Repeal of Inconsistent Provisions and Construction With Other Laws
+
+Section 2 of act June 24, 1938, repealed act May 25, 1918, ch. 86, §28, 40 Stat. 591, which was contained in former section 162 of this title, and all other inconsistent acts.
+
+Section 3 of act June 24, 1938, provided: “Nothing contained in this act shall be construed as affecting the provisions of the Federal Reserve Act or regulations issued thereunder relating to the payment of interest on deposits.”
+
+#### Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 155b, 1300i–3, 1724, 1754, 1773d, 1776h, 4011 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “earnings”.</i>
+

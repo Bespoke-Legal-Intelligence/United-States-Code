@@ -1,0 +1,508 @@
+### §8334 . Deductions, contributions, and deposits
+
+(a)(1) The employing agency shall deduct and withhold 7 percent of the basic pay of an employee, 71/2 percent of the basic pay of a Congressional employee, a law enforcement officer, and a firefighter, and 8 percent of the basic pay of a Member, a Court of Federal Claims judge, a United States magistrate, a judge of the United States Court of Appeals for the Armed Forces, and a bankruptcy judge. An equal amount shall be contributed from the appropriation or fund used to pay the employee or, in the case of an elected official, from an appropriation or fund available for payment of other salaries of the same office or establishment. When an employee in the legislative branch is paid by the Clerk of the House of Representatives, the Clerk may pay from the contingent fund of the House the contribution that otherwise would be contributed from the appropriation or fund used to pay the employee.
+
+(2) The amounts so deducted and withheld, together with the amounts so contributed, shall be deposited in the Treasury of the United States to the credit of the Fund under such procedures as the Comptroller General of the United States may prescribe. Deposits made by an employee or Member also shall be credited to the Fund.
+
+(b) Each employee or Member is deemed to consent and agree to these deductions from basic pay. Notwithstanding any law or regulation affecting the pay of an employee or Member, payment less these deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to the benefits to which the employee or Member is entitled under this subchapter.
+
+(c) Each employee or Member credited with civilian service after July 31, 1920, for which retirement deductions or deposits have not been made, may deposit with interest an amount equal to the following percentages of his basic pay received for that service:
+
+&nbsp;
+
+| &nbsp; | Percentage of basic pay | Service period |
+| :--- | :---: | ---: |
+| Employee | 21/2 | August 1, 1920, to June 30, 1926. |
+| &nbsp; | 31/2 | July 1, 1926, to June 30, 1942. |
+| &nbsp; | 5 | July 1, 1942, to June 30, 1948. |
+| &nbsp; | 6 | July 1, 1948, to October 31, 1956. |
+| &nbsp; | 61/2 | November 1, 1956, to December 31, 1969. |
+| &nbsp; | 7 | After December 31, 1969. |
+| Member or employee for Congressional employee service | 21/2 31/2 5 6   61/2   71/2 | August 1, 1920, to June 30, 1926. July 1, 1926, to June 30, 1942. July 1, 1942, to June 30, 1948. July 1, 1948, to October 31, 1956. November 1, 1956, to December 31, 1969. After December 31, 1969. |
+| Member for     Member service | 21/2   31/2 5 6   71/2   8 | August 1, 1920, to June 30, 1926. July 1, 1926, to June 30, 1942. July 1, 1942, to August 1, 1946. August 2, 1946, to October 31, 1956. November 1, 1956, to December 31, 1969. After December 31, 1969. |
+| Law enforcement officer for law enforcement service and firefighter for firefighter service | 21/2 31/2 5 6   61/2   7   71/2 | August 1, 1920, to June 30, 1926. July 1, 1926, to June 30, 1942. July 1, 1942, to June 30, 1948. July 1, 1948, to October 31, 1956. November 1, 1956, to December 31, 1969. January 1, 1970, to December 31, 1974. After December 31, 1974. |
+| Bankruptcy judge | 21/2 | August 1, 1920, to June 30, 1926. |
+| &nbsp; | 31/2 | July 3, 1926, to June 30, 1942. |
+| &nbsp; | 5 | July 1, 1942, to June 30, 1948. |
+| &nbsp; | 6 | July 1, 1948, to October 31, 1956. |
+| &nbsp; | 61/2 | November 1, 1956, to December 31, 1969. |
+| &nbsp; | 7 | January 1, 1970, to December 31, 1983. |
+| &nbsp; | 8 | After December 31, 1983. |
+| Judge of the United States Court of Appeals for the Armed Forces for service as a judge of that court | 6   61/2   7         8 | May 5, 1950, to October 31, 1956. November 1, 1956, to December 31, 1969. January 1, 1970, to (but not including) the date of the enactment of the Department of Defense Authorization Act, 1984. On and after the date of the enactment of the Department of Defense Authorization Act, 1984. |
+| United States magistrate | 21/2 | August 1, 1920, to June 30, 1926. |
+| &nbsp; | 31/2 | July 1, 1926, to June 30, 1942. |
+| &nbsp; | 5 | July 1, 1942, to June 30, 1948. |
+| &nbsp; | 6 | July 1, 1948, to October 31, 1956. |
+| &nbsp; | 61/2 | November 1, 1956, to December 31, 1969. |
+| &nbsp; | 7 | January 1, 1970, to September 30, 1987. |
+| &nbsp; | 8 | After September 30, 1987. |
+| Court of Federal Claims Judge | 21/2 | August 1, 1920, to June 30, 1926. |
+| &nbsp; | 31/2 | July 1, 1926, to June 30, 1942. |
+| &nbsp; | 5 | July 1, 1942, to June 30, 1948. |
+| &nbsp; | 6 | July 1, 1948, to October 31, 1956. |
+| &nbsp; | 61/2 | November 1, 1956, to December 31, 1969. |
+| &nbsp; | 7 | January 1, 1970, to September 30, 1988. |
+| &nbsp; | 8 | After September 30, 1988. |
+
+> Notwithstanding the preceding provisions of this subsection and any provision of section 206(b)(3) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983,the percentage of basic pay required under this subsection in the case of an individual described in section 8402(b)(2) shall, with respect to any covered service (as defined by section 203(a)(3) of such Act) performed by such individual after December 31, 1983, and before January 1, 1987, be equal to 1.3 percent, and, with respect to any such service performed after December 31, 1986, be equal to the amount that would have been deducted from the employee's basic pay under subsection (k) of this section if the employee's pay had been subject to that subsection during such period.
+
+(d)(1) Each employee or Member who has received a refund of retirement deductions under this or any other retirement system established for employees of the Government covering service for which he may be allowed credit under this subchapter may deposit the amount received, with interest. Credit may not be allowed for the service covered by the refund until the deposit is made.
+
+(2)(A) This paragraph applies with respect to any employee or Member who—
+
+&emsp;(i) separates before October 1, 1990, and receives (or elects, in accordance with applicable provisions of this subchapter, to receive) a refund (described in paragraph (1)) which relates to a period of service ending before October 1, 1990;
+
+&emsp;(ii) is entitled to an annuity under this subchapter (other than a disability annuity) which is based on service of such employee or Member, and which commences on or after December 2, 1990; and
+
+&emsp;(iii) does not make the deposit (described in paragraph (1)) required in order to receive credit for the period of service with respect to which the refund relates.
+
+(B) Notwithstanding the second sentence of paragraph (1), the annuity to which an employee or Member under this paragraph is entitled shall (subject to adjustment under section 8340) be equal to an amount which, when taken together with the unpaid amount referred to in subparagraph (A)(iii), would result in the present value of the total being actuarially equivalent to the present value of the annuity which would otherwise be provided the employee or Member under this subchapter, as computed under subsections (a)–(i) and (n) of section 8339 (treating, for purposes of so computing the annuity which would otherwise be provided under this subchapter, the deposit referred to in subparagraph (A)(iii) as if it had been timely made).
+
+(C) The Office of Personnel Management shall prescribe such regulations as may be necessary to carry out this paragraph.
+
+(e)(1) Interest under subsection (c), (d)(1), (j), (k), or (<i>l</i>) of this section is computed in accordance with paragraphs (2) and (3) of this subsection and regulations prescribed by the Office of Personnel Management.
+
+(2) Interest accrues annually on the outstanding portion of any amount that may be deposited under subsection (c), (d)(1), (j), (k), or (<i>l</i>) of this section, and is compounded annually, until the portion is deposited. Such interest is computed from the mid-point of each service period included in the computation, or from the date refund was paid. The deposit may be made in one or more installments. Interest may not be charged for a period of separation from the service which began before October 1, 1956.
+
+(3) The rate of interest is 4 percent a year through December 31, 1947, and 3 percent a year beginning January 1, 1948, through December 31, 1984. Thereafter, the rate of interest for any calendar year shall be equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 8348(c), (d), and (e) of this title, as determined by the Secretary.
+
+(f) Under such regulations as the Office of Personnel Management may prescribe, amounts deducted under subsection (a) or (k) of this section and deposited under subsections (c) and (d)(1) of this section shall be entered on individual retirement records.
+
+(g) Deposit may not be required for—
+
+&emsp;(1) service before August 1, 1920;
+
+&emsp;(2) military service, except to the extent provided under section 8332(c) or 8334(j) of this title;
+
+&emsp;(3) service for the Panama Railroad Company before January 1, 1924;
+
+&emsp;(4) service performed before October 29, 1983,,<sup>1</sup> by natives of the Pribilof Islands in the taking and curing of fur seal skins and other activities in connection with the administration of the Pribilof Islands except where deductions, contributions, and deposits were made before October 29, 1983;
+
+&emsp;(5) days of unused sick leave credited under section 8339(m) of this title; or
+
+&emsp;(6) any period for which credit is allowed under section 8332<i>(l)</i> of this title.
+
+(h) For the purpose of survivor annuities, deposits authorized by subsections (c), (d)(1), (j), and (k) of this section may also be made by a survivor of an employee or Member.
+
+(i)(1) The Director of the Administrative Office of the United States Courts shall pay to the Fund the amount which an employee may deposit under subsection (c) of this section for service creditable under section 8332(b)(12) of this title if such creditable service immediately precedes service as an employee subject to this subchapter with a break in service of no more than ninety working days. The Director shall pay such amount from any appropriation available to him as a necessary expense of the appropriation concerned.
+
+(2) The amount the Director pays in accordance with paragraph (1) of this subsection shall be reduced by the amount of any refund to the employee under section 376 of title 28. Except to the extent of such reduction, the amount the Director pays to the Fund shall satisfy the deposit requirement of subsection (c) of this section.
+
+(3) Notwithstanding any other provision of law, the amount the Director pays under this subsection shall constitute an employer contribution to the Fund, excludable under section 402 of the Internal Revenue Code of 1986 from the employee's gross income until such time as the contribution is distributed or made available to the employee, and shall not be subject to refund or to lump-sum payment to the employee.
+
+(4) Notwithstanding any other provision of law, a bankruptcy judge or magistrate who is covered by section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988 shall not be subject to deductions and contributions to the Fund, if the judge or magistrate notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such an election, the judge or magistrate shall be entitled to a lump-sum credit under section 8342(a) of this title.
+
+(5) Notwithstanding any other provision of law, a judge who is covered by section 7296 of title 38 shall not be subject to deductions and contributions to the Fund, if the judge notifies the Director of the Office of Personnel Management of an election of a retirement annuity under that section. Upon such an election, the judge shall be entitled to a lump-sum credit under section 8342(a) of this title.
+
+(6) Notwithstanding any other provision of law, a judge of the United States Court of Federal Claims who is covered by section 178 of title 28 shall not be subject to deductions and contributions to the Fund if the judge notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such an election, the judge shall be entitled to a lump-sum credit under section 8342(a) of this title.
+
+(j)(1)(A) Except as provided in subparagraph (B), each employee or Member who has performed military service before the date of the separation on which the entitlement to any annuity under this subchapter is based may pay, in accordance with such regulations as the Office shall issue, to the agency by which the employee is employed, or, in the case of a Member or a Congressional employee, to the Secretary of the Senate or the Clerk of the House of Representatives, as appropriate, an amount equal to 7 percent of the amount of the basic pay paid under section 204 of title 37 to the employee or Member for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the employee or Member may provide, or if the Office determines sufficient evidence has not been so provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Office under paragraph (4).
+
+(B) In any case where military service interrupts creditable civilian service under this subchapter and reemployment pursuant to chapter 43 of title 38 occurs on or after August 1, 1990, the deposit payable under this paragraph may not exceed the amount that would have been deducted and withheld under subsection (a)(1) from basic pay during civilian service if the employee had not performed the period of military service.
+
+(2) Any deposit made under paragraph (1) of this subsection more than two years after the later of—
+
+&emsp;(A) October 1, 1983; or
+
+&emsp;(B) the date on which the employee or Member making the deposit first becomes an employee or Member following the period of military service for which such deposit is due,
+
+> shall include interest on such amount computed and compounded annually beginning on the date of the expiration of the two-year period. The interest rate that is applicable in computing interest in any year under this paragraph shall be equal to the interest rate that is applicable for such year under subsection (e) of this section.
+
+(3) Any payment received by an agency, the Secretary of the Senate, or the Clerk of the House of Representatives under this subsection shall be immediately remitted to the Office for deposit in the Treasury of the United States to the credit of the Fund.
+
+(4) The Secretary of Defense, the Secretary of Transportation, the Secretary of Commerce, or the Secretary of Health and Human Services, as appropriate, shall furnish such information to the Office as the Office may determine to be necessary for the administration of this subsection.
+
+(k)(1) Effective with respect to pay periods beginning after December 31, 1986, in administering this section in the case of an individual described in section 8402(b)(2) of this title—
+
+&emsp;(A) the amount to be deducted and withheld by the employing agency shall be determined in accordance with paragraph (2) of this subsection instead of the first sentence of subsection (a)(1) of this section; and
+
+&emsp;(B) the amount of the contribution under the second sentence of subsection (a)(1) of this section shall be the amount which would have been contributed under such sentence if this subsection had not been enacted.
+
+(2)(A) With respect to Federal wages of an employee or Member (or that portion thereof) not exceeding the contribution and benefit base during the calendar year involved, the appropriate amount to be deducted and withheld under this subsection is the amount by which—
+
+&emsp;(i) the total deduction for those wages (or for that portion) exceeds;
+
+&emsp;(ii) the OASDI contribution with respect to those wages (or that portion).
+
+(B) With respect to any portion of Federal wages of an employee or Member which exceed the contribution and benefit base during the calendar year involved, the appropriate amount to be deducted and withheld under this subsection is an amount equal to the total deduction for that portion.
+
+(C) For purposes of this paragraph—
+
+&emsp;(i) the term “Federal wages” means basic pay for service as an employee or Member, as the case may be;
+
+&emsp;(ii) the term “contribution and benefit base” means the contribution and benefit base in effect with respect to the period involved, as determined under section 230 of the Social Security Act;
+
+&emsp;(iii) the term “total deduction”, as used with respect to any Federal wages (or portion thereof), means an amount equal to the amount of those wages (or of that portion), multiplied by the percentage which (but for this subsection) would apply under the first sentence of subsection (a)(1) with respect to the individual involved; and
+
+&emsp;(iv) the term “OASDI contribution”, with respect to any income, means the amount of tax which may be imposed under section 3101(a) of the Internal Revenue Code of 1986 with respect to such income (determined without regard to any income which is not a part of Federal wages).
+
+(3) The amount of a deposit under subsection (c) of this section for any service with respect to which paragraph (1) of this subsection applies shall be equal to an amount determined based on the preceding provisions of this subsection, and shall include interest.
+
+(4) In administering paragraphs (1) through (3)—
+
+&emsp;(A) the term “an individual described in section 8402(b)(2) of this title” shall be considered to include any individual—
+
+&emsp;&emsp;(i) who is subject to this subchapter as a result of a provision of law described in section 8347(<i>o</i>), and
+
+&emsp;&emsp;(ii) whose employment (as described in section 8347(<i>o</i>)) is also employment for purposes of title II of the Social Security Act and chapter 21 of the Internal Revenue Code of 1986; and
+
+&emsp;(B) the term “Federal wages”, as applied with respect to any individual to whom this subsection applies as a result of subparagraph (A), means basic pay for any employment referred to in subparagraph (A)(ii).
+
+(<i>l</i>)(1) Each employee or Member who has performed service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act before the date of the separation on which the entitlement to any annuity under this subchapter is based may pay, in accordance with such regulations as the Office of Personnel Management shall issue, an amount equal to 7 percent of the readjustment allowance paid to the employee or Member under title VIII of the Economic Opportunity Act of 1964 or section 5(c) or 6(1) of the Peace Corps Act or the stipend paid to the employee or Member under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, for each period of service as such a volunteer or volunteer leader.
+
+(2) Any deposit made under paragraph (1) more than 2 years after the later of—
+
+&emsp;(A) October 1, 1993; or
+
+&emsp;(B) the date on which the employee or Member making the deposit first becomes an employee or Member,
+
+> shall include interest on such amount computed and compounded annually beginning on the date of the expiration of the 2-year period. The interest rate that is applicable in computing interest in any year under this paragraph shall be equal to the interest rate that is applicable for such year under subsection (e).
+
+(3) The Director of the Peace Corps and the Chief Executive Officer of the Corporation for National and Community Service shall furnish such information to the Office of Personnel Management as the Office may determine to be necessary for the administration of this subsection.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 569; Pub. L. 90–83, §1(74), Sept. 11, 1967, 81 Stat. 214; Pub. L. 90–486, §5(b), Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–93, title I, §102(a), title II, §202, Oct. 20, 1969, 83 Stat. 136, 138; Pub. L. 92–297, §7(2), May 16, 1972, 86 Stat. 144; Pub. L. 93–350, §3, July 12, 1974, 88 Stat. 356; Pub. L. 94–126, §§1(a), 2(a), Nov. 12, 1975, 89 Stat. 679; Pub. L. 95–382, §1(b), Sept. 22, 1978, 92 Stat. 727; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(b), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 97–164, title II, §207(b), Apr. 2, 1982, 96 Stat. 54; Pub. L. 97–253, title III, §§303(a)(1), 306(d), (e), Sept. 8, 1982, 96 Stat. 793, 796, 797; Pub. L. 97–346, §3(a), (c)–(e)(1), Oct. 15, 1982, 96 Stat. 1647, 1648; Pub. L. 98–94, title XII, §§1256(a), 1257, Sept. 24, 1983, 97 Stat. 701, 702; Pub. L. 89–702, title II, §209(f), as added Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 843; Pub. L. 98–353, title I, §116(b), July 10, 1984, 98 Stat. 344; Pub. L. 98–615, §2(2), Nov. 8, 1984, 98 Stat. 3195; Pub. L. 99–335, title II, §201(a), (c), June 6, 1986, 100 Stat. 588, 591; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–53, §2(b), June 18, 1987, 101 Stat. 367; Pub. L. 100–238, title I, §§102, 108(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1748; Pub. L. 100–659, §6(b), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, §102(a), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–508, title VII, §7001(b)(1), (2)(A), (B), Nov. 5, 1990, 104 Stat. 1388–328, 1388–329; Pub. L. 101–650, title III, §306(c)(2), (e)(2), Dec. 1, 1990, 104 Stat. 5110, 5112; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–378, §2(59), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XI, §11004(a)(3), Aug. 10, 1993, 107 Stat. 412; Pub. L. 103–82, title III, §371(a)(2), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 103–353, §5(b), Oct. 13, 1994, 108 Stat. 3173.)
+
+Historical and Revision Notes<br>1966
+
+Act
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+2 U.S.C. 129.
+
+July 1, 1957, Pub. L. 85–75, §101 (proviso on p. 248), 71 Stat. 248.
+
+5 U.S.C. 2254.
+
+July 31, 1956, ch. 804, §401 “Sec. 4”, 70 Stat. 747.
+
+&nbsp;
+
+June 29, 1957, Pub. L. 85–65, §1, 71 Stat. 209.
+
+&nbsp;
+
+May 27, 1958, Pub. L. 85–426, §214(b) (words before comma), 72 Stat. 143.
+
+&nbsp;
+
+Aug. 27, 1958, Pub. L. 85–772, §1(d), 72 Stat. 930.
+
+In subsection (a), the words “From and after the first day of the first pay period which begins on or after the effective date of the Civil Service Retirement Act Amendments of 1956” and “From and after the first day of the first pay period which begins after June 30, 1957” in former section 2254 are omitted as executed. The words “on and after July 1, 1957” in former section 129 of title 2 are omitted as executed.
+
+In subsection (b), the word “rule” is omitted as unnecessary.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+1967
+
+Act
+
+<i>Section of title 5</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+8334(g)(4)
+
+5 App.: 2254(g).
+
+Nov. 2, 1966, Pub. L. 89–702, §208(c), 80 Stat. 1096.
+
+#### References in Text
+
+The date of the enactment of the Department of Defense Authorization Act, 1984, referred to in the table in subsec. (c), is the date of enactment of Pub. L. 98–94 which was approved Sept. 24, 1983.
+
+Sections 203 and 206 of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 \[Pub. L. 98–168\], referred to in subsec. (c), are set out as a note under section 8331 of this title.
+
+Sections 402 and 3101(a) and chapter 21 of the Internal Revenue Code of 1986, referred to in subsecs. (i)(3) and (k)(2)(C)(iv), (4)(A)(ii), are classified to sections 402 and 3101(a) and chapter 21 (§3101 et seq.), respectively, of Title 26, Internal Revenue Code.
+
+Section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988, referred to in subsec. (i)(4), is section 2(c) of Pub. L. 100–659, which is set out as a note under section 377 of Title 28, Judiciary and Judicial Procedure.
+
+The Social Security Act, referred to in subsec. (k)(2)(C)(ii), (4)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 230 of the Social Security Act is classified to section 430 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+The Economic Opportunity Act of 1964, referred to in subsec. (<i>l</i>)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title VIII of the Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, §110, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, §603. See sections 4951 et seq. and 5055 of Title 42. For complete classification of this Act to the Code, see Tables.
+
+Parts A, B, and C of title I of the Domestic Volunteer Service Act of 1973, referred to in subsec. (<i>l</i>)(1), are classified to part A (§4951 et seq.), part B (§4971 et seq.), and part C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42.
+
+The Peace Corps Act, referred to in subsec. (<i>l</i>)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+
+#### Amendments
+
+1994—Subsec. (a)(1). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
+
+Subsec. (c). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in table.
+
+Subsec. (j)(1). Pub. L. 103–353, §5(b)(1), designated existing provisions as subpar. (A) and substituted “Except as provided in subparagraph (B), each employee” for “Each employee” and added subpar. (B).
+
+Subsec. (j)(2)(B). Pub. L. 103–353, §5(b)(2), inserted before comma at end “following the period of military service for which such deposit is due”.
+
+1993—Subsec. (e)(1), (2). Pub. L. 103–82, §371(a)(2)(B), substituted “(k), or (<i>l</i>)” for “or (k)”.
+
+Subsec. (h). Pub. L. 103–66 struck out “and by section 8339(j)(5)(C) and the last sentence of section 8339(k)(2) of this title” before “may also be made”.
+
+Subsec. (<i>l</i>). Pub. L. 103–82, §371(a)(2)(A), added subsec. (<i>l).</i>
+
+1992—Subsec. (a)(1). Pub. L. 102–572, §902(b)(2), substituted “Court of Federal Claims” for “Claims Court”.
+
+Subsec. (c). Pub. L. 102–572, §902(b)(2), substituted “Court of Federal Claims” for “Claims Court” in table.
+
+Subsec. (i)(5). Pub. L. 102–378 redesignated par. (5), relating to United States Claims Court judges, as (6).
+
+Subsec. (i)(6). Pub. L. 102–572, §902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+
+Pub. L. 102–378 redesignated par. (5), relating to United States Claims Court judges, as (6).
+
+1991—Subsec. (i)(5). Pub. L. 102–40 substituted “section 7296 of title 38” for “section 4096 of title 38”.
+
+1990—Subsec. (a)(1). Pub. L. 101–650, §306(c)(2)(A), inserted “a Claims Court Judge,” after “Member,”.
+
+Subsec. (c). Pub. L. 101–650, §306(c)(2)(B), inserted table covering percentages of pay and service periods for a Claims Court Judge.
+
+Subsec. (d). Pub. L. 101–508, §7001(b)(1), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (e)(1), (2). Pub. L. 101–508, §7001(b)(2)(A), substituted “(d)(1),” for “(d),”.
+
+Subsec. (f). Pub. L. 101–508, §7001(b)(2)(B), substituted “(d)(1)” for “(d)”.
+
+Subsec. (h). Pub. L. 101–508, §7001(b)(2)(A), substituted “(d)(1),” for “(d),”.
+
+Subsec. (i)(5). Pub. L. 101–650, §3069(e)(2), added par. (5) relating to judges covered by a section of title 28.
+
+1989—Subsec. (i)(5). Pub. L. 101–94 added par. (5) relating to judges covered by a section of title 38.
+
+1988—Subsec. (c). Pub. L. 100–238, §102, struck out period at end and inserted “, and, with respect to any such service performed after December 31, 1986, be equal to the amount that would have been deducted from the employee's basic pay under subsection (k) of this section if the employee's pay had been subject to that subsection during such period.”
+
+Subsec. (i)(4). Pub. L. 100–659 added par. (4).
+
+Subsec. (k)(4). Pub. L. 100–238, §108(b)(1), added par. (4).
+
+1987—Subsec. (a)(1). Pub. L. 100–53, §2(b)(1), substituted “Member, a United States magistrate, a judge” for “Member and a judge” and “Appeals,” for “Appeals”.
+
+Subsec. (c). Pub. L. 100–53, §2(b)(2), inserted table covering percentages of basic pay and service periods for United States magistrates.
+
+1986—Subsec. (c). Pub. L. 99–335, §201(c), inserted provision that notwithstanding preceding provisions of this subsection and any provision of section 206(b)(3) of Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, the percentage of basic pay required under this subsection in case of an individual described in section 8402(b)(2) of this title shall, with respect to any covered service performed after Dec. 31, 1983, and before Jan. 1, 1987, be equal to 1.3 percent.
+
+Subsec. (e)(1), (2). Pub. L. 99–335, §201(a)(2)(A), substituted “(j), or (k)” for “or (j)”.
+
+Subsec. (f). Pub. L. 99–335, §201(a)(2)(B), inserted “or (k)” after “subsection (a)”.
+
+Subsec. (h). Pub. L. 99–335, §201(a)(2)(C), substituted “(j), and (k)” for “and (j)”.
+
+Subsec. (i)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+
+Subsec. (k). Pub. L. 99–335, §201(a)(1), added subsec. (k).
+
+Subsec. (k)(2)(C)(iv). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+
+1984—Subsec. (a)(1). Pub. L. 98–353, §116(b)(1), inserted “and a bankruptcy judge”.
+
+Subsec. (c). Pub. L. 98–353, §116(b)(2), substituted in the table relating to bankruptcy judges the items relating to 7 percent for the period Jan. 1, 1970 to Dec. 31, 1983, and 8 percent for the period after Dec. 31, 1983, for the prior item relating to 7 percent for the period after Jan. 1, 1970.
+
+Subsec. (h). Pub. L. 98–615 substituted “annuities, deposits authorized by subsections (c), (d), and (j) of this section and by section 8339(j)(5)(C) and the last sentence of section 8339(k)(2) of this title may also be made by a survivor” for “annuity, deposits authorized by subsections (c), (d), and (j) of this section may also be made by the survivor”.
+
+1983—Subsec. (a)(1). Pub. L. 98–94, §1256(a)(1), inserted “and a judge of the United States Court of Military Appeals” after “and 8 percent of the basic pay of a Member”.
+
+Subsec. (c). Pub. L. 98–94, §1256(a)(2), added to the table items covering a judge of the United States Court of Military Appeals for service as a judge of that court.
+
+Subsec. (g)(4). Pub. L. 98–129 substituted “October 29, 1983,” for “January 1, 1950”, and directed that the phrase “except where deductions, contributions, and deposits were made before October 29, 1983” be inserted after “the Pribilof Islands” which amendment was executed by inserting that phrase after “the Pribilof Islands” the second time those words appear, as the probable intent of Congress.
+
+Subsec. (j)(2)(A). Pub. L. 98–94, §1257, substituted “October 1, 1983” for “October 1, 1982”.
+
+1982—Subsec. (e). Pub. L. 97–253, §303(a)(1), redesignated existing provisions as par. (2), inserted provision that interest accrues annually on the outstanding portion of any amount that may be deposited under subsec. (c), (d), or (j) of this section, and is compounded annually until the portion is deposited, substituted “Such interest” for “Interest under subsection (c) or (d) of this section”, struck out “, to the date of deposit or commencing date of annuity, whichever is earlier” after “date refund was paid”, and struck out provision that the interest was computed at the rate of four percent a year to Dec. 31, 1947, and 3 percent thereafter compounded annually, and added pars. (1) and (3).
+
+Subsec. (e)(3). Pub. L. 97–346, §3(c), substituted “the preceding fiscal year” for “the preceding calendar year” and “during such fiscal year” for “during such calendar year”.
+
+Subsec. (g)(2). Pub. L. 97–253, §306(e), inserted “, except to the extent provided under section 8332(c) or section 8334(j) of this title”.
+
+Subsec. (h). Pub. L. 97–346, §3(d), inserted reference to subsec. (j).
+
+Subsec. (i). Pub. L. 97–164 added subsec. (i).
+
+Subsec. (j). Pub. L. 97–253, §306(d), added subsec. (j).
+
+Subsec. (j)(1). Pub. L. 97–346, §3(a), substituted “period” for “month”.
+
+Pub. L. 97–346, §3(e)(1), struck out “within 90 days after the effective date of this subsection” after “regulations as the Office shall issue”, and substituted “The amount of such payments shall be based on such evidence of basic pay for military service as the employee or Member may provide, or if the Office determines sufficient evidence has not been so provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Office under paragraph (4)” for “as certified to the agency, the Secretary of the Senate, or the Clerk of the House of Representatives, as appropriate, by the Secretary of Defense, the Secretary of Transportation, the Secretary of Commerce, or the Secretary of Health and Human Services, as appropriate, upon the employee's or Member's request”.
+
+1978—Subsec. (c). Pub. L. 95–598 inserted bankruptcy judge schedule of deposits.
+
+Subsec. (f). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+
+Subsec. (g)(6). Pub. L. 95–382 added par. (6).
+
+1975—Subsec. (c), Pub. L. 94–126, §1(a), struck out last sentence requiring that deposit, with respect to a period of service referred to in section 8332(b)(6) of this title performed before Jan. 1, 1969, shall be an amount equal to 55 percent of a deposit computed in accordance with such provisions.
+
+Subsec. (g)(5). Pub. L. 94–126, §2(a), substituted reference to “section 8339(m) of this title” for “section 8339(n) of this title”.
+
+1974—Subsec. (a)(1). Pub. L. 93–350, §3(a), inserted “a law enforcement officer, and a firefighter,” after “Congressional employee,”.
+
+Subsec. (c). Pub. L. 93–350, §3(b), inserted schedule for law enforcement officer for law enforcement service and firefighter for firefighter service.
+
+1972—Subsec. (g)(5). Pub. L. 92–297 substituted “section 8339(n)” for “section 8339(m)”.
+
+1969—Subsec. (a)(1). Pub. L. 91–93, §102(a)(1), designated first and second sentences of subsec. (a) as subsec. (a)(1), increasing by one-half percent the deduction from the basic pay of an employee and a Member to 7 and 8 percent, respectively, and providing for a 71/2 percent deduction from basic pay of a Congressional employee.
+
+Subsec. (a)(2). Pub. L. 91–93, §102(a)(1), designated third and fourth sentences of subsec. (a) as subsec. (a)(2), deleting “under this section” after “Member”.
+
+Subsec. (c). Pub. L. 91–93, §102(a)(2), substituted service period Nov. 1, 1956, to Dec. 31, 1969, for prior service period after Oct. 31, 1956, for deductions of 61/2 percent of basic pay of an employee, inserted provision for 7 percent deduction from basic pay of an employee for service period after Dec. 31, 1969, inserted percentage of basic pay and service period provisions for Member or employee for Congressional employee service, substituted service period Nov. 1, 1956; to Dec. 31, 1969, for prior service period after Oct. 31, 1956, for deduction of 71/2 percent of basic pay of Member for Member service, inserted provision for 8 percent deduction from basic pay of Member for Member service after Dec. 31, 1969, and inserted provision for amount of deposit for period of service performed before Jan. 1, 1969.
+
+Subsec. (g)(5). Pub. L. 91–93, §202, added par. (5).
+
+1968—Subsec. (c). Pub. L. 90–486 inserted provisions that the deposit with respect to a period of service referred to in section 8332(b)(6) of this title which was performed prior to the specified effective date shall be an amount equal to 55 percent of a deposit computed in accordance with such provisions.
+
+#### Change of Name
+
+Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of Title 38, Veterans’ Benefits.
+
+#### Effective Date of 1993 Amendments
+
+Amendment by Pub. L. 103–82 effective Oct. 1, 1993, and applicable with respect to any individual entitled to an annuity on the basis of a separation from service occurring on or after Oct. 1, 1993, see sections 371(c) and 392 of Pub. L. 103–82, set out as notes under section 8332 of this title and section 4951 of Title 42, The Public Health and Welfare, respectively.
+
+Amendment by Pub. L. 103–66 effective on first day of first month beginning at least 30 days after Aug. 10, 1993, and applicable to all deposits required under section 8339(j)(3) or (5), 8339(k)(2), or 8418 of this title, on which no payment has been made prior to such effective date, see section 11004(c) of Pub. L. 103–66, set out as a note under section 8339 of this title.
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a noteunder section 171 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 1990 Amendments
+
+Amendment by Pub. L. 101–650 applicable to judges of, and senior judges in active service with, the United States Court of Federal Claims on or after Dec. 1, 1990, see section 306(f) of Pub. L. 101–650, set out as a note under section 8331 of this title.
+
+Section 7001(b)(3) of Pub. L. 101–508 provided that: “The amendments made by this subsection \[amending this section and sections 8339 and 8342 of this title\] shall be effective with respect to any annuity having a commencement date later than December 1, 1990.”
+
+#### Effective Date of 1988 Amendments
+
+Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankruptcy judges and magistrates \[now United States magistrate judges\] who retire on or after Nov. 15, 1988, with exception for judges and magistrates retiring on or after July 31, 1987, see section 9 of Pub. L. 100–659, set out as an Effective Date note under section 377 of Title 28, Judiciary and Judicial Procedure.
+
+Section 108(b)(3) of Pub. L. 100–238 provided that: “The amendments made by this subsection \[amending this section and section 8349 of this title\] shall be effective as of January 1, 1987.”
+
+#### Effective Date of 1987 Amendment
+
+Amendment by Pub. L. 100–53 effective Oct. 1, 1987, and applicable to bankruptcy judges and United States magistrate judges in office on that date and to individuals subsequently appointed to such positions to whom this chapter otherwise applies, see section 3 of Pub. L. 100–53, as amended, set out as a note under section 8331 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of this title.
+
+#### Effective Date of 1984 Amendments
+
+Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions and specific applicability provisions, see section 4(a)(1) of Pub. L. 98–615, as amended, set out as a note under section 8341 of this title.
+
+Amendment by Pub. L. 98–353 effective July 10, 1984, and applicable to bankruptcy judges who retire on or after such date, see section 116(e) of Pub. L. 98–353, set out as a note under section 8331 of this title. See, also, section 122(a) of Pub. L. 98–353, set out as an Effective Date note under section 151 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 1983 Amendment
+
+Section 1256(f) of Pub. L. 98–94 provided that: “The increase in deductions from the pay of a judge of the United States Court of Military Appeals \[now United States Court of Appeals for the Armed Forces\] required by section 8334(a) of title 5, United States Code, as amended by subsection (a), shall take effect with respect to the first pay period that begins after the date of the enactment of this Act \[Sept. 24, 1983\].”
+
+#### Effective Date of 1982 Amendments
+
+Section 303(d)(1) of Pub. L. 97–253, as amended by Pub. L. 97–346, §3(j)(1), Oct. 15, 1982, 96 Stat. 1649, provided that:
+
+“The amendments made by subsections (a) and (b) \[amending this section and sections 8339 and 8343 of this title\] shall apply with respect to deposits for service performed on or after October 1, 1982, and with respect to refunds for which application is received by either the employing agency or the Office of Personnel Management on or after such date. The provisions of section 8334 and section 8339(i) of title 5, United States Code, as in effect the day before the date of the enactment of this Act \[Sept. 7, 1982\], shall continue to apply with respect to periods of service and refunds occurring on or before September 30, 1982. Notwithstanding the preceding two sentences, the amendments made by subsection (a) shall apply in the case of any deposit for military service under section 8334(j) of title 5, United States Code (as added by section 306(d) of this Act), regardless of whether such military service was performed before or after October 1, 1982.”
+
+Amendment by section 306(d), (e) of Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title, to be issued by the Office of Personnel Management within 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
+
+Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 1978 Amendments
+
+Amendment by Pub. L. 95–598 effective Nov. 6, 1978, see section 402(d) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+Amendment by Pub. L. 95–382 effective Oct 1, 1978, and applicable to specified annuities, see section 2 of Pub. L. 95–382, set out as a note under section 8332 of this title.
+
+#### Effective Date of 1975 Amendment
+
+Section 3 of Pub. L. 94–126 provided that: “The amendments made by the first section of this Act \[amending this section and sections 8339 and 8345 of this title\] shall become effective as of January 1, 1969, except that such amendments shall not apply to a person who, on the date of enactment of this Act \[Nov. 12, 1975\], is receiving or is entitled to receive benefits under any retirement system established by the United States or any instrumentality thereof, unless such person requests, in writing, the office which administers his retirement system to apply such amendments to him. Any additional benefits payable pursuant to such a written request shall commence on the first day of the month \[December\] following the date of the enactment of this Act.”
+
+#### Effective Date of 1974 Amendment
+
+Amendment by Pub. L. 93–350 effective at beginning of first applicable pay period which begins after Dec. 31, 1974, see section 7 of Pub. L. 93–350, set out as a note under section 3307 of this title.
+
+#### Effective Date of 1972 Amendment
+
+Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see section 10 of Pub. L. 92–297, set out as an Effective Date note under section 3381 of this title.
+
+#### Effective Date of 1969 Amendment
+
+Section 102(b) of Pub. L. 91–93 provided that: “The amendment made by subsection (a)(1) of this section \[amending this section\] shall become effective at the beginning of the first applicable pay period beginning after December 31, 1969.”
+
+Amendment by Pub. L. 91–93 inapplicable in cases of persons retired or otherwise separated prior to Oct. 20, 1969, their rights and of their survivors continued as ifsuch amendment had not been enacted, see section 207(a) of Pub. L. 91–93, set out as a note under section 8331 of this title.
+
+#### Effective Date of 1968 Amendment
+
+Amendment by Pub. L. 90–486 effective Jan. 1, 1969, except that no deductions or withholding from salary which result therefrom shall commence before first day of first pay period that begins on or after Jan. 1, 1968, see section 11 of Pub. L. 90–486, set out as a note under section 709 of Title 32, National Guard.
+
+#### Transfer of Functions
+
+Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Offsets To Prevent Full Double Coverage for Employees of Park Police and Secret Service
+
+Section 103(e) of Pub. L. 100–238 provided that: “Notwithstanding any other provision of law, in the case of an employee of the United States Secret Service or the United States Park Police whose pay is simultaneously subject to a deposit requirement under the District of Columbia Police and Firefighters’ Retirement and Disability System and the contribution requirement under section 3101(a) of the Internal Revenue Code of 1986 \[26 U.S.C. 3101(a)\]—
+
+&emsp;“(1) any deposits under the District of Columbia Police and Firefighters’ Retirement and Disability System shall be adjusted in a manner consistent with section 8334(k) of title 5, United States Code (relating to offsets in deductions from pay to reflect OASDI contributions); and
+
+&emsp;“(2) any benefits payable under the District of Columbia Police and Firefighters’ Retirement and Disability System based on the service of any such employee shall be adjusted in a manner consistent with section 8349 of title 5, United States Code (relating to offsets to reflect benefits under title II of the Social Security Act \[42 U.S.C. 401 et seq.\]).”
+
+#### Refunds of Certain Excess Deductions Taken After 1983 To Offset Employees Under CSRS
+
+Section 128 of Pub. L. 100–238 provided that:
+
+“(a)
+
+Refund Eligibility.—An individual shall upon written application to the Office of Personnel Management, receive a refund under subsection (b), if such individual—
+
+&emsp;“(1) was subject to section 8334(a)(1) of title 5, United States Code, for any period of service after December 31, 1983, because of an election under section 208(a)(1)(B) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 (97 Stat. 1107; 5 U.S.C. 8331 note);
+
+&emsp;“(2) is not eligible to make an election under section 301(b) of the Federal Employees’ Retirement System Act of 1986 (Public Law 99–335; 100 Stat. 599) \[5 U.S.C. 8331 note\]; and
+
+&emsp;“(3) becomes subject to section 8334(k) of title 5, United States Code.
+
+“(b)
+
+Refund Computation.—An individual eligible for a refund under subsection (a) shall receive a refund—
+
+&emsp;“(1) for the period beginning on January 1, 1984, and ending on December 31, 1986, for the amount by which—
+
+&emsp;&emsp;“(A) the total amount deducted from such individual's basic pay under section 8334(a)(1) of title 5, United States Code, for service described in subsection (a)(1) of this section, exceeds
+
+&emsp;&emsp;“(B) 1.3 percent of such individual's total basic pay for such period; and
+
+&emsp;“(2) for the period beginning on January 1, 1987, and ending on the day before such individual becomes subject to section 8334(k) of title 5, United States Code, for the amount by which—
+
+&emsp;&emsp;“(A) the total amount deducted from such individual's basic pay under section 8334(a)(1) of title 5, United States Code, for service described in subsection (a)(1) of this section, exceeds
+
+&emsp;&emsp;“(B) the total amount which would have been deducted if such individual's basic pay had instead been subject to section 8334(k) of title 5, United States Code, during such period.
+
+“(c)
+
+Interest Computation.—A refund under this section shall be computed with interest in accordance with section 8334(e) of title 5, United States Code, and regulations prescribed by the Office of Personnel Management.”
+
+#### National Guard Technicians
+
+Amendment by Pub. L. 90–486 not applicable to persons employed prior to Jan. 1, 1969, whose employment was covered by the civil service retirement provisions of section 8331 et seq. of this title, see section 5(d) of Pub. L. 90–486, set out as a note under section 709 of Title 32, National Guard.
+
+#### Cross References
+
+Civil Service Retirement and Disability Fund as trust fund, see section 1321 of Title 31, Money and Finance.
+
+Contributions by Postal Service, see section 1005 of Title 39, Postal Service.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 8331, 8332, 8333, 8339, 8342, 8344, 8348, 8411, 8422, 8432 of this title; title 10 sections 942, 945; title 12 section 1723a; title 22 sections 3671, 3681, 3968, 4045; title 26 section 3121; title 28 sections 611, 627; title 40 section 881; title 42 section 410; title 45 section 1206; title 50 sections 2021, 2031, 2082, 2121.
+
+<i><sup>1</sup></i><i> So in original.</i>
+

@@ -1,0 +1,112 @@
+### §6293. Test procedures
+
+#### (a) General rule
+
+All test procedures and related determinations prescribed or made by the Secretary with respect to any covered product (or class thereof) which are in effect on March 17, 1987, shall remain in effect until the Secretary amends such test procedures and related determinations under subsection (b) of this section.
+
+#### (b) Amended and new procedures
+
+(1)(A) The Secretary may amend test procedures with respect to any covered product if the Secretary determines that amended test procedures would more accurately or fully comply with the requirements of paragraph (3).
+
+(B) The Secretary may, in accordance with the requirements of this subsection, prescribe test procedures for any consumer product classified as a covered product under section 6292(b) of this title.
+
+(C) The Secretary shall direct the National Institute of Standards and Technology to assist in developing new or amended test procedures.
+
+(2) If the Secretary determines, on his own behalf or in response to a petition by any interested person, that a test procedure should be prescribed or amended, the Secretary shall promptly publish in the Federal Register proposed test procedures and afford interested persons an opportunity to present oral and written data, views, and arguments with respect to such procedures. The comment period shall not be less than 60 days and may be extended for good cause shown to not more than 270 days. In prescribing or amending a test procedure, the Secretary shall take into account such information as the Secretary determines relevant to such procedure, including technological developments relating to energy use or energy efficiency of the type (or class) of covered products involved.
+
+(3) Any test procedures prescribed or amended under this section shall be reasonably designed to produce test results which measure energy efficiency, energy use, water use (in the case of showerheads, faucets, water closets and urinals), or estimated annual operating cost of a covered product during a representative average use cycle or period of use, as determined by the Secretary, and shall not be unduly burdensome to conduct.
+
+(4) If the test procedure is a procedure for determining estimated annual operating costs, such procedure shall provide that such costs shall be calculated from measurements of energy use or, in the case of showerheads, faucets, water closets, or urinals, water use in a representative average use cycle or period of use, as determined by the Secretary, and from representative average unit costs of the energy needed to operate such product during such cycle, or in the case of showerheads, faucets, water closets, or urinals, representative average unit costs of water and wastewater treatment service resulting from the operation of such products during such cycle. The Secretary shall provide information to manufacturers with respect to representative average unit costs of energy, water, and wastewater treatment.
+
+(5) With respect to fluorescent lamp ballasts manufactured on or after January 1, 1990, and to which standards are applicable under section 6295 of this title, the Secretary shall prescribe test procedures that are in accord with ANSI standard C82.2–1984 or other test procedures determined appropriate by the Secretary.
+
+(6) With respect to fluorescent lamps and incandescent reflector lamps to which standards are applicable under subsection (i) of section 6295 of this title, the Secretary shall prescribe test procedures, to be carried out by accredited test laboratories, that take into consideration the applicable IES or ANSI standard.
+
+(7)(A) Test procedures for showerheads and faucets to which standards are applicable under subsection (j) of section 6295 of this title shall be the test procedures specified in ASME A112.18.1M–1989 for such products.
+
+(B) If the test procedure requirements of ASME A112.18.1M–1989 are revised at any time and approved by ANSI, the Secretary shall amend the test procedures established by subparagraph (A) to conform to such revised ASME/ANSI requirements unless the Secretary determines, by rule, that to do so would not meet the requirements of paragraph (3).
+
+(8)(A) Test procedures for water closets and urinals to which standards are applicable under subsection (k) of section 6295 of this title shall be the test procedures specified in ASME A112.19.6–1990 for such products.
+
+(B) If the test procedure requirements of ASME A112.19.6–1990 are revised at any time and approved by ANSI, the Secretary shall amend the test procedures established by subparagraph (A) to conform to such revised ASME/ANSI requirements unless the Secretary determines, by rule, that to do so would not meet the requirements of paragraph (3).
+
+#### (c) Restriction on certain representations
+
+(1) No manufacturer, distributor, retailer, or private labeler may make any representation—
+
+&emsp;(A) in writing (including a representation on a label); or
+
+&emsp;(B) in any broadcast advertisement,
+
+> with respect to the energy use or efficiency or, in the case of showerheads, faucets, water closets, and urinals, water use of a covered product to which a test procedure is applicable under subsection (a) of this section or the cost of energy consumed by such product, unless such product has been tested in accordance with such test procedure and such representation fairly discloses the results of such testing.
+
+(2) Effective 180 days after an amended or new test procedure applicable to a covered product is prescribed or established under subsection (b) of this section, no manufacturer, distributor, retailer, or private labeler may make any representation—
+
+&emsp;(A) in writing (including a representation on a label); or
+
+&emsp;(B) in any broadcast advertisement,
+
+> with respect to energy use or efficiency or, in the case of showerheads, faucets, water closets, and urinals, water use of such product or cost of energy consumed by such product, unless such product has been tested in accordance with suchamended or new test procedures and such representation fairly discloses the results of such testing.
+
+(3) On the petition of any manufacturer, distributor, retailer, or private labeler, filed not later than the 60th day before the expiration of the period involved, the 180-day period referred to in paragraph (2) may be extended by the Secretary with respect to the petitioner (but in no event for more than an additional 180 days) if the Secretary determines that the requirements of paragraph (2) would impose an undue hardship on such petitioner.
+
+#### (d) Case in which test procedure is not required
+
+(1) The Secretary is not required to publish and prescribe test procedures for a covered product (or class thereof) if the Secretary determines, by rule, that test procedures cannot be developed which meet the requirements of subsection (b)(3) of this section and publishes such determination in the Federal Register, together with the reasons therefor.
+
+(2) For purposes of section 6297 of this title, a determination under paragraph (1) with respect to any covered product or class shall have the same effect as would a standard prescribed for a covered product (or class).
+
+#### (e) Amendment of standard
+
+(1) In the case of any amended test procedure which is prescribed pursuant to this section, the Secretary shall determine, in the rulemaking carried out with respect to prescribing such procedure, to what extent, if any, the proposed test procedure would alter the measured energy efficiency, measured energy use, or measured water use of any covered product as determined under the existing test procedure.
+
+(2) If the Secretary determines that the amended test procedure will alter the measured efficiency or measured use, the Secretary shall amend the applicable energy conservation standard during the rulemaking carried out with respect to such test procedure. In determining the amended energy conservation standard, the Secretary shall measure, pursuant to the amended test procedure, the energy efficiency, energy use, or water use of a representative sample of covered products that minimally comply with the existing standard. The average of such energy efficiency, energy use, or water use levels determined under the amended test procedure shall constitute the amended energy conservation standard for the applicable covered products.
+
+(3) Models of covered products in use before the date on which the amended energy conservation standard becomes effective (or revisions of such models that come into use after such date and have the same energy efficiency, energy use, or water use characteristics) that comply with the energy conservation standard applicable to such covered products on the day before such date shall be deemed to comply with the amended energy conservation standard.
+
+(4) The Secretary's authority to amend energy conservation standards under this subsection shall not affect the Secretary's obligation to issue final rules as described in section 6295 of this title.
+
+(Pub. L. 94–163, title III, §323, Dec. 22, 1975, 89 Stat. 919; Pub. L. 95–619, title IV, §§421, 425(a), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3257, 3265, 3288; Pub. L. 100–12, §4, Mar. 17, 1987, 101 Stat. 105; Pub. L. 100–357, §2(c), June 28, 1988, 102 Stat. 672; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §123(d), Oct. 24, 1992, 106 Stat. 2821.)
+
+#### Amendments
+
+1992—Subsec. (b)(3). Pub. L. 102–486, §123(d)(1)(A), inserted “water use (in the case of showerheads, faucets, water closets and urinals),” after “energy use,”.
+
+Subsec. (b)(4). Pub. L. 102–486, §123(d)(1)(B), in first sentence inserted “or, in the case of showerheads, faucets, water closets, or urinals, water use” after “energy use” and “, or in the case of showerheads, faucets, water closets, or urinals, representative average unit costs of water and wastewater treatment service resulting from the operation of such products during such cycle” after “such cycle”, and in second sentence inserted “, water, and wastewater treatment” before period at end.
+
+Subsec. (b)(6) to (8). Pub. L. 102–486, §123(d)(1)(C), added pars. (6) to (8).
+
+Subsec. (c)(1). Pub. L. 102–486, §123(d)(2), in closing provisions inserted “or, in the case of showerheads, faucets, water closets, and urinals, water use” after “efficiency”.
+
+Subsec. (c)(2). Pub. L. 102–486, §123(d)(3), in introductory provisions substituted “prescribed or established” for “prescribed”.
+
+Pub. L. 102–486, §123(d)(2), in closing provisions inserted “or, in the case of showerheads, faucets, water closets, and urinals, water use” after “efficiency”.
+
+Subsec. (e)(1) to (3). Pub. L. 102–486, §123(d)(4), substituted “, measured energy use, or measured water use” for “or measured energy use” in par. (1) and “energy efficiency, energy use, or water use” for “energy efficiency or energy use” in two places in par. (2) and once in par. (3).
+
+1988—Subsec. (b)(1)(C). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+
+Subsec. (b)(5). Pub. L. 100–357 added par. (5).
+
+1987—Pub. L. 100–12 amended section generally, revising and restating as subsecs. (a) to (e) provisions formerly contained in subsecs. (a) to (c).
+
+1978—Subsec. (a)(1), (2). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+
+Subsec. (a)(3). Pub. L. 95–619, §§425(a), 691(b)(2), struck out “Except as provided in paragraph (6),” before “The Secretary”, struck out provision requiring proposed test procedures to be published not later than June 30, 1976, with certain excepted cases not required to be published before Sept. 30, 1976 and June 30, 1977, and substituted “Secretary” for “Administrator”.
+
+Subsec. (a)(4). Pub. L. 95–619, §§421(a), 691(b)(2), redesignated provisions formerly classified to subpar. (A), as par. (4) and in par. (4), as so redesignated, struck out “Except as provided in paragraph (6),” before “The Secretary shall”, substituted “Secretary” for “Administrator” in two places, inserted provision requiring the prescription of test procedures not later than Jan. 31, 1978, and struck out subpar. (B) requiring the prescription of test procedures not later than Sept. 30, 1976, with certain excepted cases required to be prescribed not later than Dec. 31, 1976 and Sept. 30 1977.
+
+Subsec. (a)(5). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator” wherever appearing.
+
+Subsec. (a)(6). Pub. L. 95–619, §421(b), redesignated existing provisions as subpar. (A) and, in subpar. (A) as so redesignated, substituted “Secretary” for “Administrator”, struck out provisions relating to the authority to delay publication of proposed test procedures, inserted requirement that a determination of a necessary prescription delay be submitted in a report to Congress, inserted specific ninety day time limitation for delayed prescriptions, and added subpar. (B).
+
+Subsec. (a)(7). Pub. L. 95–619, §421(c), added par. (7).
+
+Subsec. (b). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator” wherever appearing.
+
+Subsec. (c). Pub. L. 95–619, §421(d), redesignated existing provisions as par. (1), substituted “180 days” for “90 days” and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6291, 6294, 6295, 6296, 6297, 6303, 6306, 6314, 6316 of this title.
+

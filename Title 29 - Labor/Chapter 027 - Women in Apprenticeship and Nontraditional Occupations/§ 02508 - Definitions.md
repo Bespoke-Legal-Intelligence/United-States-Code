@@ -1,0 +1,12 @@
+### §2508. Definitions
+
+For purposes of this chapter:
+
+&emsp;(1) The term “community-based organization” means a community-based organization as defined in section 1503(5) of this title, that has demonstrated experience administering programs that train women for apprenticeable occupations or other nontraditional occupations.
+
+&emsp;(2) The term “nontraditional occupation” means jobs in which women make up 25 percent or less of the total number of workers in that occupation.
+
+&emsp;(3) The term “Secretary” means the Secretary of Labor.
+
+(Pub. L. 102–530, §9, Oct. 27, 1992, 106 Stat. 3468.)
+

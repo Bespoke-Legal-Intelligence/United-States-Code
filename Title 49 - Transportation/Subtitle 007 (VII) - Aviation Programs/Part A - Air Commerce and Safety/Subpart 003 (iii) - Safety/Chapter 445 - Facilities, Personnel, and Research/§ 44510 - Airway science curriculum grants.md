@@ -1,0 +1,50 @@
+### §44510. Airway science curriculum grants
+
+(a)
+
+General Authority.—The Administrator of the Federal Aviation Administration may make competitive grant agreements with institutions of higher education having airway science curricula for the United States Government's share of the allowable direct costs of the following categories of items to the extent that the items are in support of airway science curricula:
+
+&emsp;(1) the construction, purchase, or lease with an option to purchase, of buildings and associated facilities.
+
+&emsp;(2) instructional material and equipment.
+
+(b)
+
+Cost Guidelines.—The Administrator shall establish guidelines to determine the direct costs allowable under a grant to be made under this section. The Government's share of the allowable cost of a project assisted by a grant under this section may not be more than 65 percent.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1181.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+44510(a)
+
+49 App.:1354a (1st sentence).
+
+Nov. 5, 1990, Pub. L. 101–516, (1st sentence last proviso, 3d, last sentences in par. under heading “Facilities and Equipment”), 104 Stat. 2160.
+
+&nbsp;
+
+Oct. 28, 1991, Pub. L. 102–143, (1st sentence last proviso, 3d, last sentences in par. under heading “Facilities and Equipment”), 105 Stat. 922.
+
+&nbsp;
+
+Oct. 6, 1992, Pub. L. 102–388, (1st sentence last proviso, 3d, last sentences in par. under heading “Facilities and Equipment”), 106 Stat. 1525.
+
+44510(b)
+
+49 App.:1354a (3d, last sentences).
+
+In subsection (a), before clause (1), the words “With appropriations made for the Airway Science Program, as authorized below in this section” are omitted as unnecessary because of section 48106 of the revised title.
+
+In subsection (b), the proviso is omitted as executed.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 48106 of this title.
+

@@ -1,0 +1,44 @@
+### §6025a. Federal and non-Federal share
+
+#### (a) Aggregate costs
+
+The Federal share of all projects in a State supported by an allotment to the State under this subchapter may not exceed 75 percent of the aggregate necessary costs of all such projects as determined by the Secretary, except that—
+
+&emsp;(1) in the case of projects whose activities or products target individuals with developmental disabilities who live in urban or rural poverty areas, the Federal share of all such projects may not exceed 90 percent of the aggregate necessary costs of such projects or activities, as determined by the Secretary; and
+
+&emsp;(2) in the case of projects or activities undertaken by the Council or Council staff to implement State plan priority activities, the Federal share of all such activities may be up to 100 percent of the aggregate necessary costs of such activities.
+
+#### (b) Nonduplication
+
+In determining the amount of any State's Federal share of the expenditures incurred by such State under a State plan approved under section 6022 of this title, the Secretary shall not consider—
+
+&emsp;(1) any portion of such expenditures that are financed by Federal funds provided under any provision of law other than section 6025 of this title; and
+
+&emsp;(2) the amount of any non-Federal funds required to be expended as a condition of receipt of such Federal funds.
+
+#### (c) Non-Federal share
+
+#### (1) In kind contributions
+
+&emsp;The non-Federal share of the cost of any project assisted by a grant or an allotment under this subchapter may be provided in kind.
+
+#### (2) Contributions of political subdivisions, public, or private entities
+
+#### (A) In general
+
+&emsp;&emsp;Expenditures on projects or activities by a political subdivision of a State or by a public or private entity shall, subject to such limitations and conditions as the Secretary may by regulation prescribe, be considered to be expenditures by such State in the case of a project under this subchapter.
+
+#### (B) State contributions
+
+&emsp;&emsp;State contributions, including contributions by the designated State agency to provide support services to the Council pursuant to section 6024(d)(4) of this title, may be counted as part of such State's non-Federal share of allotments under this subchapter.
+
+#### (3) Variations of the non-Federal share
+
+&emsp;The non-Federal share required on a grant-by-grant basis may vary.
+
+(Pub. L. 88–164, title I, §125A, as added Pub. L. 103–230, title II, §207, Apr. 6, 1994, 108 Stat. 312.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6024 of this title.
+

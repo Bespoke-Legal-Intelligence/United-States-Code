@@ -1,0 +1,78 @@
+### §2314. Transportation of stolen goods, securities, moneys, fraudulent State tax stamps, or articles used in counterfeiting
+
+Whoever transports, transmits, or transfers in interstate or foreign commerce any goods, wares, merchandise, securities or money, of the value of $5,000 or more, knowing the same to have been stolen, converted or taken by fraud; or
+
+Whoever, having devised or intending to devise any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent pretenses, representations, or promises, transports or causes to be transported, or induces any person or persons to travel in, or to be transported in interstate or foreign commerce in the execution or concealment of a scheme or artifice to defraud that person or those persons of money or property having a value of $5,000 or more; or
+
+Whoever, with unlawful or fraudulent intent, transports in interstate or foreign commerce any falsely made, forged, altered, or counterfeited securities or tax stamps, knowing the same to have been falsely made, forged, altered, or counterfeited; or
+
+Whoever, with unlawful or fraudulent intent, transports in interstate or foreign commerce any traveler's check bearing a forged countersignature; or
+
+Whoever, with unlawful or fraudulent intent, transports in interstate or foreign commerce, any tool, implement, or thing used or fitted to be used in falsely making, forging, altering, or counterfeiting any security or tax stamps, or any part thereof—
+
+Shall be fined under this title or imprisoned not more than ten years, or both.
+
+This section shall not apply to any falsely made, forged, altered, counterfeited or spurious representation of an obligation or other security of the United States, or of an obligation, bond, certificate, security, treasury note, bill, promise to pay or bank note issued by any foreign government. This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.
+
+(June 25, 1948, ch. 645, 62 Stat. 806; May 24, 1949, ch. 139, §45, 63 Stat. 96; July 9, 1956, ch. 519, 70 Stat. 507; Oct. 4, 1961, Pub. L. 87–371, §2, 75 Stat. 802; Sept. 28, 1968, Pub. L. 90–535, 82 Stat. 885; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7057, 7080, 102 Stat. 4402, 4406; Nov. 29, 1990, Pub. L. 101–647, title XII, §1208, 104 Stat. 4832; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), 108 Stat. 2147.)
+
+#### Historical and Revision Notes
+
+#### 1948 Act
+
+Based on title 18, U.S.C., 1940 ed., §§413, 415, 418, 418a, 419 (May 22, 1934, ch. 333, §§1, 3, 6, 48 Stat. 794, 795; May 22, 1934, ch. 333, §7, as added Aug. 3, 1939, ch. 413, §5, 53 Stat. 1179; May 22, 1934, ch. 333, §7, renumbered §8 by Aug. 3, 1939, ch. 413, §6, 53 Stat. 1179; Aug. 3, 1939, ch. 413, §§1, 4, 5, 53 Stat. 1178, 1179).
+
+Section consolidates sections 413, 415, 417, 418, 418a, and 419 of title 18, U.S.C., 1940 ed.
+
+Words “or with intent to steal or purloin, knowing the same to have been so stolen, converted, or taken” were omitted as surplusage, since property so “taken” is “stolen,” and insertion of word “knowingly” after “Whoever” at beginning of section renders such omission possible.
+
+Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
+
+Section 413 of title 18, U.S.C., 1940 ed., providing the short title “National Stolen Property Act,” was omitted as not appropriate in a revision.
+
+Section 414 of title 18, U.S.C., 1940 ed., containing definitions of “interstate or foreign commerce,” “securities,” and “money,” is incorporated in sections 10 and 2311 of this title.
+
+Section 417 of title 18, U.S.C., 1940 ed., relating to indictments and determination of “value” of goods, wares, merchandise, securities, and money referred to in indictments, is also incorporated in section 2311 of this title.
+
+Section 418 of title 18, U.S.C., 1940 ed., relating to venue, was omitted as completely covered by section 3237 of this title.
+
+Section 418a of title 18, U.S.C., 1940 ed., relating to conspiracy, was omitted as covered by section 371 of this title, the general conspiracy section.
+
+Section 419 of title 18, U.S.C., 1940 ed., providing that nothing contained in the National Stolen Property Act should be construed to repeal, modify, or amend any part of the National Motor Vehicle Theft Act, was omitted as unnecessary, in view of this revision and reenactment of the provisions of the latter act (sections 10, 2311–2313 of this title).
+
+Changes were made in phraseology and arrangement.
+
+#### 1949 Act
+
+This amendment \[see section 45\] restates and clarifies the first paragraph of section 2314 of title 18, U.S.C., to conform to the original law upon which the section is based.
+
+#### Amendments
+
+1994—Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” in penultimate par.
+
+Pub. L. 103–322, §330016(1)(K), which directed the amendment of this section by striking “not more than $5,000” and inserting “under this title”, could not be executed because the phrase “not more than $5,000” did not appear in text.
+
+1990—Pub. L. 101–647 inserted “or foreign” after “interstate” in second par.
+
+1988—Pub. L. 100–690, §7057(a), substituted “transports, transmits, or transfers” for “transports” in first par.
+
+Pub. L. 100–690, §7080, inserted “or persons” after “any person” and “or those persons” after “that person” in second par.
+
+Pub. L. 100–690, §7057(b), struck out “or by a bank or corporation of any foreign country” after “foreign government” in last par. and inserted at end “This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.”
+
+1968—Pub. L. 90–535 prohibited transportation with unlawful or fraudulent intent in interstate or foreign commerce of traveler's checks bearing forged countersignatures.
+
+1961—Pub. L. 87–371 inserted “or tax stamps” after “securities” in third par. and after “security” in fourth par., and “fraudulent State tax stamps,” in section catchline.
+
+1956—Act July 9, 1956, inserted par. relating to interstate transportation of persons in schemes to defraud.
+
+1949—Act May 24, 1949, substituted “knowing the same to have been stolen, converted or taken by fraud” for “theretofore stolen, converted, or taken by fraud” in first par.
+
+#### Cross References
+
+Wire or oral communications, authorization for interception, to provide evidence of offenses under this section, see section 2516 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1961, 2516 of this title; title 7 section 12a.
+

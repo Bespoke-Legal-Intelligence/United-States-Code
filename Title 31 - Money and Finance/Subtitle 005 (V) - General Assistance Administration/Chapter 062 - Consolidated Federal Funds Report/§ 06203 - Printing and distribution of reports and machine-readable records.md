@@ -1,0 +1,42 @@
+### §6203. Printing and distribution of reports and machine-readable records
+
+(a)(1) The Director shall—
+
+&emsp;(A) prepare—
+
+&emsp;&emsp;(i) printed copies of each of the reports required by this chapter; and
+
+&emsp;&emsp;(ii) machine-readable records of such reports; and
+
+&emsp;(B) make the printed copies of the reports and the machine-readable records available to the public for purchase at a price fixed under subsection (b).
+
+(2) The Director shall transmit free of charge one of each of the printed copies of the reports required by this chapter to—
+
+&emsp;(A) each Federal regional depository library;
+
+&emsp;(B) the Committees on Government Operations, the Budget, and Appropriations of the House of Representatives; and
+
+&emsp;(C) the Committees on Governmental Affairs, the Budget, and Appropriations of the Senate.
+
+(3) The Director shall also transmit promptly after the end of each calendar year, free of charge, one machine-readable record of the report required by section 6202 to the Committee on Rules and Administration of the Senate and to the Committee on House Administration of the House of Representatives.
+
+(4) Subject to subsection (b), the Director may, at his discretion, waive all or part of the fee required by subsection (a)(1)(B) of this section.
+
+(b) In carrying out subsection (a)(1)(B), the Director shall, based on the estimates made under paragraphs (1) and (2) of this subsection, fix the price of each printed copy and each machine-readable record of the report so that the aggregate revenues obtained in each fiscal year under subsection (a) will cover as much as is feasible of the incremental costs incurred in making these reports and machine-readable records available for purchase by the public. In computing these costs the Director shall not consider the costs of the activities set forth in sections 6102a and 6205 of this title but shall consider—
+
+&emsp;(1) the cost of compiling the reports required by this chapter; preparing the printed copies and machine-readable records under subsection (a); and distributing the printed copies and the machine-readable records of the report for each fiscal year; and
+
+&emsp;(2) the number of printed copies and the number of machine-readable records of the report that will be purchased.
+
+(Added Pub. L. 99–547, §2(a), Oct. 27, 1986, 100 Stat. 3058.)
+
+#### Change of Name
+
+Committee on Government Operations of House of Representatives changed to Committee on Government Reform and Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+Committee on House Administration of House of Representatives changed to Committee on House Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6204 of this title.
+

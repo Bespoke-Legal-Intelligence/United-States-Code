@@ -1,0 +1,18 @@
+### §509. Persons discharged as result of court-martial; allowances to
+
+The Secretary may furnish persons discharged pursuant to the sentence of a Coast Guard court-martial suitable civilian clothing and a monetary allowance not to exceed $25 if the person discharged would not otherwise have suitable clothing or funds to meet immediate needs.
+
+(Added May 5, 1950, ch. 169, §16(a), 64 Stat. 148; amended July 5, 1968, Pub. L. 90–377, §8, 82 Stat. 288.)
+
+#### Amendments
+
+1968—Pub. L. 90–377 substituted “Persons discharged as result of court-martial; allowances to” for “Prisoners; allowances to; transportation” in section catchline, and struck out provision that persons confined in prisons in pursuance of the sentence of a Coast Guard court shall during such confinement, be allowed a reasonable sum, not to exceed $3 per month, for necessary prison expenses and the provision that the Commandant of the Coast Guard may transport to their homes or places of enlistment, as he may designate, all discharged prisoners, the expense of such transportation to be paid out of any money to the credit of prisoners when discharged.
+
+#### Effective Date
+
+Section effective May 31, 1951, see section 5 of act May 5, 1950.
+
+#### Cross References
+
+Payment for apprehension of prisoners, see section 644 of this title.
+

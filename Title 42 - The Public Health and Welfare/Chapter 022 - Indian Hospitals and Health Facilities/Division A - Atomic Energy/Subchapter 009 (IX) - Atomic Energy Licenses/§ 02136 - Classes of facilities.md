@@ -1,0 +1,16 @@
+### §2136. Classes of facilities
+
+The Commission may—
+
+&emsp;(a) group the facilities licensed either under section 2133 or 2134 of this title into classes which may include either production or utilization facilities or both, upon the basis of the similarity of operating and technical characteristics of the facilities;
+
+&emsp;(b) define the various activities to be carried on at each such class of facility; and
+
+&emsp;(c) designate the amounts of special nuclear material available for use by each such facility.
+
+(Aug. 1, 1946, ch. 724, title I, §106, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 938; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+
+#### Transfer of Functions
+
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+

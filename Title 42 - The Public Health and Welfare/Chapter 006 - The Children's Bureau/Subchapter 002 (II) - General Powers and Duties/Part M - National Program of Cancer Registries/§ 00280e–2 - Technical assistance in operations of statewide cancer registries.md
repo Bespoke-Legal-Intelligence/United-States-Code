@@ -1,0 +1,14 @@
+### §280e–2. Technical assistance in operations of statewide cancer registries
+
+The Secretary, acting through the Director of the Centers for Disease Control, may, directly or through grants and contracts, or both, provide technical assistance to the States in the establishment and operation of statewide registries, including assistance in the development of model legislation for statewide cancer registries and assistance in establishing a computerized reporting and data processing system.
+
+(July 1, 1944, ch. 373, title III, §399J, as added Oct. 24, 1992, Pub. L. 102–515, §3, 106 Stat. 3376.)
+
+#### Change of Name
+
+Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 280e–4 of this title.
+

@@ -1,0 +1,164 @@
+### §4483. Exemptions
+
+#### (a) State and local governmental exemption
+
+Under regulations prescribed by the Secretary, no tax shall be imposed by section 4481 on the use of any highway motor vehicle by any State or any political subdivision of a State.
+
+#### (b) Exemption for United States
+
+The Secretary of the Treasury may authorize exemption from the tax imposed by section 4481 as to the use by the United States of any particular highway motor vehicle, or class of highway motor vehicles, if he determines that the imposition of such tax with respect to such use will cause substantial burden or expense which can be avoided by granting tax exemption and that full benefit of such exemption, if granted, will accrue to the United States.
+
+#### (c) Certain transit-type buses
+
+Under regulations prescribed by the Secretary, no tax shall be imposed by section 4481 on the use of any bus which is of the transit type (rather than of the intercity type) by a person who, for the last 3 months of the preceding year (or for such other period as the Secretary may by regulations prescribe for purposes of this subsection), met the 60-percent passenger fare revenue test set forth in section 6421(b)(2) (as in effect on the day before the date of the enactment of the Energy Tax Act of 1978) as applied to the period prescribed for purposes of this subsection.
+
+#### (d) Exemption for trucks used for less than 5,000 miles on public highways
+
+#### (1) Suspension of tax
+
+#### (A) In general
+
+&emsp;&emsp;If—
+
+&emsp;&emsp;&emsp;(i) it is reasonable to expect that the use of any highway motor vehicle on public highways during any taxable period will be less than 5,000 miles, and
+
+&emsp;&emsp;&emsp;(ii) the owner of such vehicle furnishes such information as the Secretary may by forms or regulations require with respect to the expected use of such vehicle,
+
+> &emsp;&emsp;then the collection of the tax imposed by section 4481 with respect to the use of such vehicle shall be suspended during the taxable period.
+
+#### (B) Suspension ceases to apply where use exceeds 5,000 miles
+
+&emsp;&emsp;Subparagraph (A) shall cease to apply with respect to any highway motor vehicle whenever the use of such vehicle on public highways during the taxable period exceeds 5,000 miles.
+
+#### (2) Exemption
+
+&emsp;If—
+
+&emsp;&emsp;(A) the collection of the tax imposed by section 4481 with respect to any highway motor vehicle is suspended under paragraph (1),
+
+&emsp;&emsp;(B) such vehicle is not used during the taxable period on public highways for more than 5,000 miles, and
+
+&emsp;&emsp;(C) except as otherwise provided in regulations, the owner of such vehicle furnishes such information as the Secretary may require with respect to the use of such vehicle during the taxable period,
+
+> &emsp;then no tax shall be imposed by section 4481 on the use of such vehicle for the taxable period.
+
+#### (3) Refund where tax paid and vehicle not used for more than 5,000 miles
+
+&emsp;If—
+
+&emsp;&emsp;(A) the tax imposed by section 4481 is paid with respect to any highway motor vehicle for any taxable period, and
+
+&emsp;&emsp;(B) the requirements of subparagraphs (B) and (C) of paragraph (2) are met with respect to such taxable period,
+
+> &emsp;the amount of such tax shall be credited or refunded (without interest) to the person who paid such tax.
+
+#### (4) Relief from liability for tax under certain circumstances where truck is transferred
+
+&emsp;Under regulations prescribed by the Secretary, the owner of a highway motor vehicle with respect to which the collection of the tax imposed by section 4481 is suspended under paragraph (1) shall not be liable for the tax imposed by section 4481 (and the new owner shall be liable for such tax) with respect to such vehicle if—
+
+&emsp;&emsp;(A) such vehicle is transferred to a new owner,
+
+&emsp;&emsp;(B) such suspension is in effect at the time of such transfer, and
+
+&emsp;&emsp;(C) the old owner furnishes such information as the Secretary by forms and regulations requires with respect to the transfer of such vehicle.
+
+#### (5) 7,500-miles exemption for agricultural vehicles
+
+#### (A) In general
+
+&emsp;&emsp;In the case of an agricultural vehicle, paragraphs (1) and (2) shall be applied by substituting “7,500” for “5,000” each place it appears.
+
+#### (B) Definitions
+
+&emsp;&emsp;For purposes of this paragraph—
+
+#### (i) Agricultural vehicle
+
+&emsp;&emsp;&emsp;The term “agricultural vehicle” means any highway motor vehicle—
+
+&emsp;&emsp;&emsp;&emsp;(I) used primarily for farming purposes, and
+
+&emsp;&emsp;&emsp;&emsp;(II) registered (under the laws of the State in which such vehicle is required to be registered) as a highway motor vehicle used for farming purposes.
+
+#### (ii) Farming purposes
+
+&emsp;&emsp;&emsp;The term “farming purposes” means the transporting of any farm commodity to or from a farm or the use directly in agricultural production.
+
+#### (iii) Farm commodity
+
+&emsp;&emsp;&emsp;The term “farm commodity” means any agricultural or horticultural commodity, feed, seed, fertilizer, livestock, bees, poultry, fur-bearing animals, or wildlife.
+
+#### (6) Owner defined
+
+&emsp;For purposes of this subsection, the term “owner” means, with respect to any highway motor vehicle, the person described in section 4481(b).
+
+#### (e) Reduction in tax for trucks used in logging
+
+The tax imposed by section 4481 shall be reduced by 25 percent with respect to any highway motor vehicle if—
+
+&emsp;(1) the exclusive use of such vehicle during any taxable period is the transportation, to and from a point located on a forested site, of products harvested from such forested site, and
+
+&emsp;(2) such vehicle is registered (under the laws of the State in which such vehicle is required to be registered) as a highway motor vehicle used in the transportation of harvested forest products.
+
+#### (f) Reduction in tax for trucks base-plated in a contiguous foreign country
+
+If the base for registration purposes of any highway motor vehicle is in a contiguous foreign country for any taxable period, the tax imposed by section 4481 for such period shall be 75 percent of the tax which would (but for this subsection) be imposed by section 4481 for such period.
+
+#### (g) Termination of exemptions
+
+Subsections (a) and (c) shall not apply on and after October 1, 1999.
+
+(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 391; amended Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), (B), 90 Stat. 1834; Nov. 9, 1978, Pub. L. 95–618, title II, §233(a)(3)(C), 92 Stat. 3191; Jan. 6, 1983, Pub. L. 97–424, title V, §§513(b), 516(b)(3), 96 Stat. 2177, 2183; July 18, 1984, Pub. L. 98–369, div. A, title IX, §§902(a), 903(a), 98 Stat. 1004; Apr. 2, 1987, Pub. L. 100–17, title V, §§502(b)(5), 507(b), 101 Stat. 257, 260; Nov. 5, 1990, Pub. L. 101–508, title XI, §11211(d)(4), 104 Stat. 1388–427; Dec. 18, 1991, Pub. L. 102–240, title VIII, §8002(b)(4), 105 Stat. 2203.)
+
+#### References in Text
+
+The date of the enactment of the Energy Tax Act of 1978, referred to in subsec. (c), is the date of enactment of Pub. L. 95–618, which was approved Nov. 9, 1978.
+
+#### Amendments
+
+1991—Subsec. (g). Pub. L. 102–240 substituted “1999” for “1995”.
+
+1990—Subsec. (g). Pub. L. 101–508 substituted “1995” for “1993”.
+
+1987—Subsec. (f). Pub. L. 100–17, §507(b), added subsec. (f). Former subsec. (f) redesignated (g).
+
+Pub. L. 100–17, §502(b)(5), substituted “1993” for “1988”.
+
+Subsec. (g). Pub. L. 100–17, §507(b), redesignated former subsec. (f) as (g).
+
+1984—Subsec. (d)(5), (6). Pub. L. 98–369, §903(a), added par. (5) and redesignated former par. (5) as (6).
+
+Subsecs. (e), (f). Pub. L. 98–369, §902(a), added subsec. (e) and redesignated former subsec. (e) as (f).
+
+1983—Subsec. (d). Pub. L. 97–424, §513(b), added subsec. (d).
+
+Subsec. (e). Pub. L. 97–424, §516(b)(3), added subsec. (e).
+
+1978—Subsec. (c). Pub. L. 95–618 inserted “(as in effect on the day before the date of the enactment of the Energy Tax Act of 1978)” after “section 6421(b)(2)”.
+
+1976—Subsecs. (a), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+
+Subsec. (b). Pub. L. 94–455, §1906(b)(13)(B), inserted “of the Treasury” after “Secretary”.
+
+#### Effective Date of 1987 Amendment
+
+Amendment by section 507(b) of Pub. L. 100–17 effective July 1, 1987, see section 507(d) of Pub. L. 100–17, set out as a note under section 4481 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Section 902(b) of Pub. L. 98–369 provided that: “The amendment made by this section \[amending this section\] shall take effect on July 1, 1984.”
+
+Section 903(b) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 513 of the Highway Revenue Act of 1982 \[Pub. L. 97–424, see section 513(f) of Pub. L. 97–424, set out as an Effective Date of 1983 Amendment note under section 4481 of this title\].”
+
+#### Effective Date of 1983 Amendment
+
+Amendment by section 513(b) of Pub. L. 97–424 effective July 1, 1984, see section 513(f) of Pub. L. 97–424, set out as a note under section 4481 of this title.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–618 effective on first day of first calendar month which begins more than 10 days after Nov. 9, 1978, see section 233(d) of Pub. L. 95–618, set out as a note under section 34 of this title.
+
+#### Special Rules in the Case of Small Owner-Operators
+
+Amendment by section 513(b) of Pub. L. 97–424 effective July 1, 1984, in the case of a small owner-operator, notwithstanding section 513(f)(2) of Pub. L. 97–424, see section 901(b)(2) of Pub. L. 98–369, set out as a note under section 4481 of this title.
+

@@ -1,0 +1,16 @@
+### §2501. Findings
+
+The Congress finds the following:
+
+&emsp;(1) The washing ashore of potentially infectious medical wastes from public vessels of the United States may pose serious and widespread risks to public health and to the welfare of coastal communities.
+
+&emsp;(2) Current Federal law provides inadequate protections against the disposal of such wastes from such vessels into ocean waters.
+
+&emsp;(3) Operators of such vessels must take immediate action to stop disposing of such wastes into ocean waters.
+
+(Pub. L. 100–688, title III, §3102, Nov. 18, 1988, 102 Stat. 4152.)
+
+#### Short Title
+
+Section 3101 of subtitle A \[§§3101–3105\] of title III of Pub. L. 100–688 provided that: “This subtitle \[enacting this chapter\] may be cited as the ‘United States Public Vessel Medical Waste Anti-Dumping Act of 1988’.”
+

@@ -1,0 +1,24 @@
+### §1598. Modification of projects; contract authority; authorization of appropriations
+
+(a) The Secretary is authorized to provide for modifications of the projects authorized by this subchapter as determined to be appropriate for purposes of meeting the objective of this subchapter. No funds for any such modification shall be expended until the expiration of sixty days after the proposed modification has been submitted to appropriate committees of the Congress, except that funds may be expended prior to the expiration of such sixty days in any case in which the Congress approves an earlier date by concurrent resolution. The Governors of the Colorado River Basin States shall be notified of these changes.
+
+(b) The Secretary is hereby authorized to enter into contracts that he deems necessary to carry out the provisions of this subchapter, in advance of the appropriation of funds therefor. There is hereby authorized to be appropriated the sum of $125,100,000 for the construction of the works and for other purposes authorized in section 1592(a) or (b) of this title, based on April 1973 prices, plus or minus such amounts as may be justified by reason of ordinary fluctuations in costs involved therein, and such sums as may be required to operate and maintain such works. The funds authorized to be appropriated by this section may be used for construction of any or all of the works or portions thereof and for other purposes authorized in subsection (a) of this section, including measures as provided for in subsection (b) of section 1592 of this title. There is further authorized to be appropriated such sums as may be necessary to pay condemnation awards in excess of appraised values and to cover costs required in connection with the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 \[42 U.S.C. 4601 et seq.\].
+
+(Pub. L. 93–320, title II, §208, June 24, 1974, 88 Stat. 274; Pub. L. 98–569, §5, Oct. 30, 1984, 98 Stat. 2939.)
+
+#### References in Text
+
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (b), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified generally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
+
+#### Amendments
+
+1984—Subsec. (a). Pub. L. 98–569, §5(a), struck out “and not then if disapproved by said committees” before “, except that funds may be expended”.
+
+Subsec. (b). Pub. L. 98–569, §5(b)(1), inserted “(a) or (b)” after “1592”.
+
+Pub. L. 98–569, §5(b)(2), inserted “The funds authorized to be appropriated by this section may be used for construction of any or all of the works or portions thereof and for other purposes authorized in subsection (a) of this section, including measures as provided for in subsection (b) of section 1592 of this title.”
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–569 effective Oct. 30, 1984, see section 6 of Pub. L. 98–569, set out as a note under section 1591 of this title.
+

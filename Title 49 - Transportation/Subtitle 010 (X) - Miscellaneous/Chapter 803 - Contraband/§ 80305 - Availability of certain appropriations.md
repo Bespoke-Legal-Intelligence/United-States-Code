@@ -1,0 +1,28 @@
+### §80305. Availability of certain appropriations
+
+Appropriations for enforcing customs, narcotics, counterfeiting, or internal revenue laws are available to carry out this chapter.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1355.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+80305
+
+49 App.:785.
+
+Aug. 9, 1939, ch. 618, §5, 53 Stat. 1292.
+
+The words “which has been or shall hereafter be made” and “for the defraying of expenses of” are omitted as surplus. The National Firearms Act referred to in the source provision has been repealed and replaced by chapter 53 of the Internal Revenue Code of 1986 (26 U.S.C. 5801 et seq.). A specific reference to chapter 53 is unnecessary because of the reference to the internal revenue laws.
+
+#### References in Text
+
+The customs laws, referred to in text, are classified generally to Title 19, Customs Duties.
+
+The internal revenue laws, referred to in text, are classified generally to Title 26, Internal Revenue Code.
+

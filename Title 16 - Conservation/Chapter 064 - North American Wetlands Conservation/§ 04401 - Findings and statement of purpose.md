@@ -1,0 +1,64 @@
+### §4401. Findings and statement of purpose
+
+#### (a) Findings
+
+The Congress finds and declares that—
+
+&emsp;(1) the maintenance of healthy populations of migratory birds in North America is dependent on the protection, restoration, and management of wetland ecosystems and other habitats in Canada, as well as in the United States and Mexico;
+
+&emsp;(2) wetland ecosystems provide essential and significant habitat for fish, shellfish, and other wildlife of commercial, recreational, scientific, and aesthetic values;
+
+&emsp;(3) almost 35 per centum of all rare, threatened, and endangered species of animals are dependent on wetland ecosystems;
+
+&emsp;(4) wetland ecosystems provide substantial flood and storm control values and can obviate the need for expensive manmade control measures;
+
+&emsp;(5) wetland ecosystems make a significant contribution to water availability and quality, recharging ground water, filtering surface runoff, and providing waste treatment;
+
+&emsp;(6) wetland ecosystems provide aquatic areas important for recreational and aesthetic purposes;
+
+&emsp;(7) more than 50 per centum of the original wetlands in the United States alone have been lost;
+
+&emsp;(8) wetlands destruction, loss of nesting cover, and degradation of migration and wintering habitat have contributed to long-term downward trends in populations of migratory bird species such as pintails, American bitterns, and black ducks;
+
+&emsp;(9) the migratory bird treaty obligations of the United States with Canada, Mexico, and other countries require protection of wetlands that are used by migratory birds for breeding, wintering, or migration and are needed to achieve and to maintain optimum population levels, distributions, and patterns of migration;
+
+&emsp;(10) the 1988 amendments to the Fish and Wildlife Conservation Act of 1980 require the Secretary of the Interior to identify conservation measures to assure that nongame migratory bird species do not reach the point at which measures of the Endangered Species Act \[16 U.S.C. 1531 et seq.\] are necessary;
+
+&emsp;(11) protection of migratory birds and their habitats requires long-term planning and the close cooperation and coordination of management activities by Canada, Mexico, and the United States within the framework of the 1916 and 1936 Migratory Bird Conventions and the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere;
+
+&emsp;(12) the North American Waterfowl Management Plan, signed in 1986 by the Minister of Environment for Canada and the Secretary of the Interior for the United States, provides a framework for maintaining and restoring an adequate habitat base to ensure perpetuation of populations of North American waterfowl and other migratory bird species;
+
+&emsp;(13) a tripartite agreement signed in March 1988, by the Director General for Ecological Conservation of Natural Resources of Mexico, the Director of the Canadian Wildlife Service, and the Director of the United States Fish and Wildlife Service, provides for expanded cooperative efforts in Mexico to conserve wetlands for migratory birds that spend the winter there;
+
+&emsp;(14) the long-term conservation of migratory birds and habitat for these species will require the coordinated action of governments, private organizations, landowners, and other citizens; and
+
+&emsp;(15) the treaty obligations of the United States under the Convention on Wetlands of International Importance especially as waterfowl habitat requires promotion of conservation and wise use of wetlands.
+
+#### (b) Purpose
+
+The purposes of this chapter are to encourage partnership among public agencies and other interests—
+
+&emsp;(1) to protect, enhance, restore, and manage an appropriate distribution and diversity of wetland ecosystems and other habitats for migratory birds and other fish and wildlife in North America;
+
+&emsp;(2) to maintain current or improved distributions of migratory bird populations; and
+
+&emsp;(3) to sustain an abundance of waterfowl and other migratory birds consistent with the goals of the North American Waterfowl Management Plan and the international obligations contained in the migratory bird treaties and conventions and other agreements with Canada, Mexico, and other countries.
+
+(Pub. L. 101–233, §2, Dec. 13, 1989, 103 Stat. 1968.)
+
+#### References in Text
+
+The Fish and Wildlife Conservation Act of 1980, referred to in subsec. (a)(10), is Pub. L. 96–366, Sept. 29, 1980, 94 Stat. 1322, as amended, which is classified generally to chapter 49 (§2901 et seq.) of this title. In 1988, section 2912 of that chapter was enacted and section 2910 of that chapter was amended by Pub. L. 100–653, title VIII, Nov. 14, 1988, 102 Stat. 3833. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
+
+The Endangered Species Act, referred to in subsec. (a)(10), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–233, Dec. 13, 1989, 103 Stat. 1968, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### Short Title of 1994 Amendment
+
+Pub. L. 103–375, §1, Oct. 19, 1994, 108 Stat. 3494, provided that: “This Act \[enacting section 4414 of this title and amending sections 3742 to 3744, 3955, 4406, 4407, 4409, and 4410 of this title\] may be cited as the ‘North American Wetlands Conservation Act Amendments of 1994’.”
+
+#### Short Title
+
+Section 1 of Pub. L. 101–233 provided that: “This Act \[enacting this chapter, amending sections 669b, 669c, 703, 715a, 2912, and 3931 of this title, enacting provisions set out as a note under section 669b of this title, and amending provisions set out as a note under section 668dd of this title\] may be cited as the ‘North American Wetlands Conservation Act’.”
+

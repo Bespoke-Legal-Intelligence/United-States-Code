@@ -1,0 +1,6 @@
+### §2909. Exclusive right to name, emblems, seals, and badges
+
+Subject to established or vested rights, the corporation shall have the sole and exclusive right to have and to use, in carrying out its purposes, the name National Society, Daughters of the American Colonists and any emblem, seal, or badge adopted or used by the corporation.
+
+(Pub. L. 98–561, §9, Oct. 30, 1984, 98 Stat. 2911.)
+

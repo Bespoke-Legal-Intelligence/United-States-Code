@@ -1,0 +1,56 @@
+### §2243. Licensing of uranium enrichment facilities
+
+#### (a) Environmental impact statement
+
+#### (1) Major Federal action
+
+&emsp;The issuance of a license under sections 2073 and 2093 of this title for the construction and operation of any uranium enrichment facility shall be considered a major Federal action significantly affecting the quality of the human environment for purposes of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+#### (2) Timing
+
+&emsp;An environmental impact statement prepared under paragraph (1) shall be prepared before the hearing on the issuance of a license for the construction and operation of a uranium enrichment facility is completed.
+
+#### (b) Adjudicatory hearing
+
+#### (1) In general
+
+&emsp;The Commission shall conduct a single adjudicatory hearing on the record with regard to the licensing of the construction and operation of a uranium enrichment facility under sections 2073 and 2093 of this title.
+
+#### (2) Timing
+
+&emsp;Such hearing shall be completed and a decision issued before the issuance of a license for such construction and operation.
+
+#### (3) Single proceeding
+
+&emsp;No further Commission licensing action shall be required to authorize operation.
+
+#### (c) Inspection and operation
+
+Prior to commencement of operation of a uranium enrichment facility licensed hereunder, the Commission shall verify through inspection that the facility has been constructed in accordance with the requirements of the license for construction and operation. The Commission shall publish notice of the inspection results in the Federal Register.
+
+#### (d) Insurance and decommissioning
+
+(1) The Commission shall require, as a condition of the issuance of a license under sections 2073 and 2093 of this title for a uranium enrichment facility, that the licensee have and maintain liability insurance of such type and in such amounts as the Commission judges appropriate to cover liability claims arising out of any occurrence within the United States, causing, within or outside the United States, bodily injury, sickness, disease, or death, or loss of or damage to property, or loss of use of property, arising out of or resulting from the radioactive, toxic, explosive, or other hazardous properties of chemical compounds containing source or special nuclear material.
+
+(2) The Commission shall require, as a condition for the issuance of a license under sections 2073 and 2093 of this title for a uranium enrichment facility, that the licensee provide adequate assurance of the availability of funds for the decommissioning (including decontamination) of such facility using funding mechanisms that may include, but are not necessarily limited to, the following:
+
+&emsp;(A) Prepayment (in the form of a trust, escrow account, government fund, certificate of deposit, or deposit of government securities).
+
+&emsp;(B) Surety (in the form of a surety or performance bond, letter of credit, or line of credit), insurance, or other guarantee (including parent company guarantee) method.
+
+&emsp;(C) External sinking fund in which deposits are made at least annually.
+
+#### (e) No Price-Anderson coverage
+
+Section 2210 of this title shall not apply to any license under section 2073 or 2093 of this title for a uranium enrichment facility constructed after November 15, 1990.
+
+(Aug. 1, 1946, ch. 724, title I, §193, as added Nov. 15, 1990, Pub. L. 101–575, §5(e), 104 Stat. 2835; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+
+#### References in Text
+
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2297f–1 this title.
+

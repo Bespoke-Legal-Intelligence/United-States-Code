@@ -1,0 +1,40 @@
+### §300x–30. Maintenance of effort regarding State expenditures
+
+#### (a) In general
+
+With respect to the principal agency of a State for carrying out authorized activities, a funding agreement for a grant under section 300x–21 of this title for the State for a fiscal year is that such agency will for such year maintain aggregate State expenditures for authorized activities at a level that is not less than the average level of such expenditures maintained by the State for the 2-year period preceding the fiscal year for which the State is applying for the grant.
+
+#### (b) Waiver
+
+#### (1) In general
+
+&emsp;Upon the request of a State, the Secretary may waive all or part of the requirement established in subsection (a) of this section if the Secretary determines that extraordinary economic conditions in the State justify the waiver.
+
+#### (2) Date certain for acting upon request
+
+&emsp;The Secretary shall approve or deny a request for a waiver under paragraph (1) not later than 120 days after the date on which the request is made.
+
+#### (3) Applicability of waiver
+
+&emsp;Any waiver provided by the Secretary under paragraph (1) shall be applicable only to the fiscal year involved.
+
+#### (c) Noncompliance by State
+
+#### (1) In general
+
+&emsp;In making a grant under section 300x–21 of this title to a State for a fiscal year, the Secretary shall make a determination of whether, for the previous fiscal year, the State maintained material compliance with any agreement made under subsection (a) of this section. If the Secretary determines that a State has failed to maintain such compliance, the Secretary shall reduce the amount of the allotment under section 300x–21 of this title forthe State for the fiscal year for which the grant is being made by an amount equal to the amount constituting such failure for the previous fiscal year.
+
+#### (2) Submission of information to Secretary
+
+&emsp;The Secretary may make a grant under section 300x–21 of this title for a fiscal year only if the State involved submits to the Secretary information sufficient for the Secretary to make the determination required in paragraph (1).
+
+(July 1, 1944, ch. 373, title XIX, §1930, as added July 10, 1992, Pub. L. 102–321, title II, §202, 106 Stat. 397.)
+
+#### Prior Provisions
+
+A prior section 1930 of act July 1, 1944, was classified to section 300y–9 of this title prior to repeal by Pub. L. 99–280.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 300x–32, 300x–54, 300x–55 of this title.
+

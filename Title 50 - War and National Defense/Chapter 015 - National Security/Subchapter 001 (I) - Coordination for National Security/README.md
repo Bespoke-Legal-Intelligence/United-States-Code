@@ -1,0 +1,48 @@
+### SUBCHAPTER I—COORDINATION FOR NATIONAL SECURITY
+
+<i><sup>1</sup></i><i> So in original. Probably should be section “403–3(b)(3)”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 00402 - National Security Council](%C2%A7%2000402%20-%20National%20Security%20Council.md)
+- [&sect; 00402a - Coordination of counterintelligence activities](%C2%A7%2000402a%20-%20Coordination%20of%20counterintelligence%20activities.md)
+- [&sect; 00403 - Central Intelligence Agency](%C2%A7%2000403%20-%20Central%20Intelligence%20Agency.md)
+- [&sect; 00403&#8211;1 - Repealed. Pub. L. 102&#8211;496, title VII, &sect;705(a)(1), Oct. 24, 1992, 106 Stat. 3190](%C2%A7%2000403%E2%80%931%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93496%2C%20title%20VII%2C%20%C2%A7705%28a%29%281%29%2C%20Oct.%2024%2C%201992%2C%20106%20Stat.%203190.md)
+- [&sect; 00403&#8211;2 - Intelligence Community contracting](%C2%A7%2000403%E2%80%932%20-%20Intelligence%20Community%20contracting.md)
+- [&sect; 00403&#8211;2a - Construction of intelligence community facilities; Presidential authorization](%C2%A7%2000403%E2%80%932a%20-%20Construction%20of%20intelligence%20community%20facilities%3B%20Presidential%20authorization.md)
+- [&sect; 00403&#8211;2b - Limitation on construction of facilities to be used primarily by intelligence community](%C2%A7%2000403%E2%80%932b%20-%20Limitation%20on%20construction%20of%20facilities%20to%20be%20used%20primarily%20by%20intelligence%20community.md)
+- [&sect; 00403&#8211;3 - Responsibilities of Director of Central Intelligence](%C2%A7%2000403%E2%80%933%20-%20Responsibilities%20of%20Director%20of%20Central%20Intelligence.md)
+- [&sect; 00403&#8211;4 - Authorities of Director of Central Intelligence](%C2%A7%2000403%E2%80%934%20-%20Authorities%20of%20Director%20of%20Central%20Intelligence.md)
+- [&sect; 00403&#8211;5 - Responsibilities of Secretary of Defense pertaining to National Foreign Intelligence Program](%C2%A7%2000403%E2%80%935%20-%20Responsibilities%20of%20Secretary%20of%20Defense%20pertaining%20to%20National%20Foreign%20Intelligence%20Program.md)
+- [&sect; 00403&#8211;6 - Administrative provisions pertaining to defense elements within intelligence community](%C2%A7%2000403%E2%80%936%20-%20Administrative%20provisions%20pertaining%20to%20defense%20elements%20within%20intelligence%20community.md)
+- [&sect; 00403a - Definitions relating to Central Intelligence Agency](%C2%A7%2000403a%20-%20Definitions%20relating%20to%20Central%20Intelligence%20Agency.md)
+- [&sect; 00403b - Seal of office of Central Intelligence Agency](%C2%A7%2000403b%20-%20Seal%20of%20office%20of%20Central%20Intelligence%20Agency.md)
+- [&sect; 00403c - Procurement authority of Central Intelligence Agency](%C2%A7%2000403c%20-%20Procurement%20authority%20of%20Central%20Intelligence%20Agency.md)
+- [&sect; 00403d - Repealed. Pub. L. 85&#8211;507, &sect;21(b)(2), July 7, 1958, 72 Stat. 337](%C2%A7%2000403d%20-%20Repealed.%20Pub.%20L.%2085%E2%80%93507%2C%20%C2%A721%28b%29%282%29%2C%20July%207%2C%201958%2C%2072%20Stat.%20337.md)
+- [&sect; 00403e - Central Intelligence Agency personnel; allowances and benefits](%C2%A7%2000403e%20-%20Central%20Intelligence%20Agency%20personnel%3B%20allowances%20and%20benefits.md)
+- [&sect; 00403e&#8211;1 - Eligibility for incentive awards](%C2%A7%2000403e%E2%80%931%20-%20Eligibility%20for%20incentive%20awards.md)
+- [&sect; 00403f - General authorities of Agency](%C2%A7%2000403f%20-%20General%20authorities%20of%20Agency.md)
+- [&sect; 00403g - Protection of nature of Agency's functions](%C2%A7%2000403g%20-%20Protection%20of%20nature%20of%20Agency%27s%20functions.md)
+- [&sect; 00403h - Admission of essential aliens; limitation on number](%C2%A7%2000403h%20-%20Admission%20of%20essential%20aliens%3B%20limitation%20on%20number.md)
+- [&sect; 00403i - Repealed. Sept. 1, 1954, ch. 1208, title VI, &sect;601(b), 68 Stat. 1115](%C2%A7%2000403i%20-%20Repealed.%20Sept.%201%2C%201954%2C%20ch.%201208%2C%20title%20VI%2C%20%C2%A7601%28b%29%2C%2068%20Stat.%201115.md)
+- [&sect; 00403j - Central Intelligence Agency; appropriations; expenditures](%C2%A7%2000403j%20-%20Central%20Intelligence%20Agency%3B%20appropriations%3B%20expenditures.md)
+- [&sect; 00403k - Authority to pay death gratuities](%C2%A7%2000403k%20-%20Authority%20to%20pay%20death%20gratuities.md)
+- [&sect; 00403l - Authority to accept gifts, devises and bequests](%C2%A7%2000403l%20-%20Authority%20to%20accept%20gifts%2C%20devises%20and%20bequests.md)
+- [&sect; 00403m - Misuse of Agency name, initials, or seal](%C2%A7%2000403m%20-%20Misuse%20of%20Agency%20name%2C%20initials%2C%20or%20seal.md)
+- [&sect; 00403n - Special provisions for spouses of Central Intelligence Agency employees applicable to Agency participants in Civil Service Retirement and&#8230;](%C2%A7%2000403n%20-%20Special%20provisions%20for%20spouses%20of%20Central%20Intelligence%20Agency%20employees%20applicable%20to%20Agency%20participants%20in%20Civil%20Service%20Retirement%20and%E2%80%A6.md)
+- [&sect; 00403o - Security personnel at Agency installations](%C2%A7%2000403o%20-%20Security%20personnel%20at%20Agency%20installations.md)
+- [&sect; 00403p - Health benefits for certain former spouses of Central Intelligence Agency employees](%C2%A7%2000403p%20-%20Health%20benefits%20for%20certain%20former%20spouses%20of%20Central%20Intelligence%20Agency%20employees.md)
+- [&sect; 00403q - Inspector General for Agency](%C2%A7%2000403q%20-%20Inspector%20General%20for%20Agency.md)
+- [&sect; 00403r - Special annuity computation rules for certain employees&#8217; service abroad](%C2%A7%2000403r%20-%20Special%20annuity%20computation%20rules%20for%20certain%20employees%E2%80%99%20service%20abroad.md)
+- [&sect; 00403r&#8211;1 - Portability of overseas service retirement benefit](%C2%A7%2000403r%E2%80%931%20-%20Portability%20of%20overseas%20service%20retirement%20benefit.md)
+- [&sect; 00403s - Special rules for disability retirement and death-in-service benefits with respect to certain employees](%C2%A7%2000403s%20-%20Special%20rules%20for%20disability%20retirement%20and%20death-in-service%20benefits%20with%20respect%20to%20certain%20employees.md)
+- [&sect; 00404 - Emergency preparedness](%C2%A7%2000404%20-%20Emergency%20preparedness.md)
+- [&sect; 00404a - Annual national security strategy report](%C2%A7%2000404a%20-%20Annual%20national%20security%20strategy%20report.md)
+- [&sect; 00404b - Multiyear national foreign intelligence program](%C2%A7%2000404b%20-%20Multiyear%20national%20foreign%20intelligence%20program.md)
+- [&sect; 00404c - Annual report on United States security arrangements and commitments with other nations](%C2%A7%2000404c%20-%20Annual%20report%20on%20United%20States%20security%20arrangements%20and%20commitments%20with%20other%20nations.md)
+- [&sect; 00404d - Annual report on intelligence community activities](%C2%A7%2000404d%20-%20Annual%20report%20on%20intelligence%20community%20activities.md)

@@ -1,0 +1,28 @@
+### §1681h. Conditions of disclosure to consumers
+
+#### (a) Times and notice
+
+A consumer reporting agency shall make the disclosures required under section 1681g of this title during normal business hours and on reasonable notice.
+
+#### (b) Identification of consumer
+
+The disclosures required under section 1681g of this title shall be made to the consumer—
+
+&emsp;(1) in person if he appears in person and furnishes proper identification; or
+
+&emsp;(2) by telephone if he has made a written request, with proper identification, for telephone disclosure and the toll charge, if any, for the telephone call is prepaid by or charged directly to the consumer.
+
+#### (c) Trained personnel
+
+Any consumer reporting agency shall provide trained personnel to explain to the consumer any information furnished to him pursuant to section 1681g of this title.
+
+#### (d) Persons accompanying consumer
+
+The consumer shall be permitted to be accompanied by one other person of his choosing, who shall furnish reasonable identification. A consumer reporting agency may require the consumer to furnish a written statement granting permission to the consumer reporting agency to discuss the consumer's file in such person's presence.
+
+#### (e) Limitation of liability
+
+Except as provided in sections 1681n and 1681<i>o</i> of this title, no consumer may bring any action or proceeding in the nature of defamation, invasion of privacy, or negligence with respect to the reporting of information against any consumer reporting agency, any user of information, or any person who furnishes information to a consumer reporting agency, based on information disclosed pursuant to section 1681g, 1681h, or 1681m of this title, except as to false information furnished with malice or willful intent to injure such consumer.
+
+(Pub. L. 90 321, title VI, §610, as added Pub. L. 91 508, title VI, §601, Oct. 26, 1970, 84 Stat. 1131.)
+

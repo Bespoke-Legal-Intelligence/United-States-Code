@@ -1,0 +1,20 @@
+### §9838. Submission of plans to chief executive officer
+
+In carrying out the provisions of this subchapter, no contract, agreement, grant, or other assistance shall be made for the purpose of carrying out a Head Start program within a State unless a plan setting forth such proposed contract, agreement, grant, or other assistance has been submitted to the chief executive officer of the State, and such plan has not been disapproved by such officer within 30 days of such submission, or, if so disapproved, has been reconsidered by the Secretary and found by the Secretary to be fully consistent with the provisions and in furtherance of the purposes of this subchapter. Funds to cover the costs of the proposed contract, agreement, grant, or other assistance shall be obligated from the appropriation which is current at the time the plan is submitted to such officer. This section shall not, however, apply to contracts, agreements, grants,loans, or other assistance to any institution of higher education in existence on August 13, 1981.
+
+(Pub. L. 97–35, title VI, §643, Aug. 13, 1981, 95 Stat. 502; Pub. L. 101–501, title I, §110, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 102–401, §2(k)(4), Oct. 7, 1992, 106 Stat. 1959.)
+
+#### Amendments
+
+1992—Pub. L. 102–401 substituted “such officer” for “the such officer” in two places.
+
+1990—Pub. L. 101–501 substituted “chief executive officer” for first reference to “Governor” and “such officer” for second and third references to “Governor”.
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–401 effective Oct. 7, 1992, but not applicable with respect to fiscal years beginning before Oct. 1, 1992, see section 4 of Pub. L. 102–401, set out as a note under section 9835 of this title.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as a note under section 8621 of this title.
+

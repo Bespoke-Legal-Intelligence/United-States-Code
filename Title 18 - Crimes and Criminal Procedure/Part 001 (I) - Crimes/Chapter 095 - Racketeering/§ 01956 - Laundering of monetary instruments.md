@@ -1,0 +1,234 @@
+### §1956. Laundering of monetary instruments
+
+(a)(1) Whoever, knowing that the property involved in a financial transaction represents the proceeds of some form of unlawful activity, conducts or attempts to conduct such a financial transaction which in fact involves the proceeds of specified unlawful activity—
+
+&emsp;(A)(i) with the intent to promote the carrying on of specified unlawful activity; or
+
+&emsp;(ii) with intent to engage in conduct constituting a violation of section 7201 or 7206 of the Internal Revenue Code of 1986; or
+
+&emsp;(B) knowing that the transaction is designed in whole or in part—
+
+&emsp;&emsp;(i) to conceal or disguise the nature, the location, the source, the ownership, or the control of the proceeds of specified unlawful activity; or
+
+&emsp;&emsp;(ii) to avoid a transaction reporting requirement under State or Federal law,
+
+> shall be sentenced to a fine of not more than $500,000 or twice the value of the property involved in the transaction, whichever is greater, or imprisonment for not more than twenty years, or both.
+
+(2) Whoever transports, transmits, or transfers, or attempts to transport, transmit, or transfer a monetary instrument or funds from a place in the United States to or through a place outside the United States or to a place in the United States from or through a place outside the United States—
+
+&emsp;(A) with the intent to promote the carrying on of specified unlawful activity; or
+
+&emsp;(B) knowing that the monetary instrument or funds involved in the transportation, transmission, or transfer represent the proceeds of some form of unlawful activity and knowing that such transportation, transmission, or transfer is designed in whole or in part—
+
+&emsp;&emsp;(i) to conceal or disguise the nature, the location, the source, the ownership, or the control of the proceeds of specified unlawful activity; or
+
+&emsp;&emsp;(ii) to avoid a transaction reporting requirement under State or Federal law,
+
+> shall be sentenced to a fine of not more than $500,000 or twice the value of the monetary instrument or funds involved in the transportation, transmission, or transfer, whichever is greater, or imprisonment for not more than twenty years, or both. For the purpose of the offense described in subparagraph (B), the defendant's knowledge may be established by proof that a law enforcement officer represented the matter specified in subparagraph (B) as true, and the defendant's subsequent statements or actions indicate that the defendant believed such representations to be true.
+
+(3) Whoever, with the intent—
+
+&emsp;(A) to promote the carrying on of specified unlawful activity;
+
+&emsp;(B) to conceal or disguise the nature, location, source, ownership, or control of property believed to be the proceeds of specified unlawful activity; or
+
+&emsp;(C) to avoid a transaction reporting requirement under State or Federal law,
+
+> conducts or attempts to conduct a financial transaction involving property represented to be the proceeds of specified unlawful activity, or property used to conduct or facilitate specified unlawful activity, shall be fined under this title or imprisoned for not more than 20 years, or both. For purposes of this paragraph and paragraph (2), the term “represented” means any representation made by a law enforcement officer or by another person at the direction of, or with the approval of, a Federal official authorized to investigate or prosecute violations of this section.
+
+(b) Whoever conducts or attempts to conduct a transaction described in subsection (a)(1) or (a)(3), or a transportation, transmission, or transfer described in subsection (a)(2), is liable to the United States for a civil penalty of not more than the greater of—
+
+&emsp;(1) the value of the property, funds, or monetary instruments involved in the transaction; or
+
+&emsp;(2) $10,000.
+
+(c) As used in this section—
+
+&emsp;(1) the term “knowing that the property involved in a financial transaction represents the proceeds of some form of unlawful activity” means that the person knew the property involved in the transaction represented proceeds from some form, though not necessarily which form, of activity that constitutes a felony under State, Federal, or foreign law, regardless of whether or not such activity is specified in paragraph (7);
+
+&emsp;(2) the term “conducts” includes initiating, concluding, or participating in initiating, or concluding a transaction;
+
+&emsp;(3) the term “transaction” includes a purchase, sale, loan, pledge, gift, transfer, delivery, or other disposition, and with respect to a financial institution includes a deposit, withdrawal, transfer between accounts, exchange of currency, loan, extension of credit, purchase or sale of any stock, bond, certificate of deposit, or other monetary instrument, use of a safe deposit box, or any other payment, transfer, or delivery by, through, or to a financial institution, by whatever means effected;
+
+&emsp;(4) the term “financial transaction” means (A) a transaction which in any way or degree affects interstate or foreign commerce (i) involving the movement of funds by wire or other means or (ii) involving one or more monetary instruments, or (iii) involving the transfer of title to any real property, vehicle, vessel, or aircraft, or (B) a transaction involving the use of a financial institution which is engaged in, or the activities of which affect, interstate or foreign commerce in any way or degree;
+
+&emsp;(5) the term “monetary instruments” means (i) coin or currency of the United States or of any other country, travelers’ checks, personal checks, bank checks, and money orders, or (ii) investment securities or negotiable instruments, in bearer form or otherwise in such form that title thereto passes upon delivery;
+
+&emsp;(6) the term “financial institution” has the definition given that term in section 5312(a)(2) of title 31, United States Code, or the regulations promulgated thereunder;
+
+&emsp;(7) the term “specified unlawful activity” means—
+
+&emsp;&emsp;(A) any act or activity constituting an offense listed in section 1961(1) of this title except an act which is indictable under subchapter II of chapter 53 of title 31;
+
+&emsp;&emsp;(B) with respect to a financial transaction occurring in whole or in part in the United States, an offense against a foreign nation involving—
+
+&emsp;&emsp;&emsp;(i) the manufacture, importation, sale, or distribution of a controlled substance (as such term is defined for the purposes of the Controlled Substances Act);
+
+&emsp;&emsp;&emsp;(ii) kidnapping, robbery, or extortion; or
+
+&emsp;&emsp;&emsp;(iii) fraud, or any scheme or attempt to defraud, by or against a foreign bank (as defined in paragraph 7 of section 1(b) of the International Banking Act of 1978);
+
+&emsp;&emsp;(C) any act or acts constituting a continuing criminal enterprise, as that term is defined in section 408 of the Controlled Substances Act (21 U.S.C. 848);
+
+&emsp;&emsp;(D) an offense under section 152 (relating to concealment of assets; false oaths and claims; bribery), section 215 (relating to commissions or gifts for procuring loans), any of sections 500 through 503 (relating to certain counterfeiting offenses), section 513 (relating to securities of States and private entities), section 542 (relating to entry of goods by means of false statements), section 545 (relating to smuggling goods into the United States), section 549 (relating to removing goods from Customs custody), section 641 (relating to public money, property, or records), section 656 (relating to theft, embezzlement, or misapplication by bank officer or employee), section 657 (relating to lending, credit, and insurance institutions), section 658 (relating to property mortgaged or pledged to farm credit agencies), section 666 (relating to theft or bribery concerning programs receiving Federal funds), section 793, 794, or 798 (relating to espionage), section 875 (relating to interstate communications), section 1005 (relating to fraudulent bank entries), 1006 (relating to fraudulent Federal credit institution entries), 1007 (relating to Federal Deposit Insurance transactions), 1014 (relating to fraudulent loan or credit applications), 1032 (relating to concealment of assets from conservator, receiver, or liquidating agent of financial institution), section 1201 (relating to kidnaping), section 1203 (relating to hostage taking), section 1708 (theft from the mail), section 2113 or 2114 (relating to bank and postal robbery and theft), section 2319 (relating to copyright infringement), or section 2320 (relating to trafficking in counterfeit goods and services), of this title, a felony violation of the Chemical Diversion and Trafficking Act of 1988 (relating to precursor and essential chemicals), section 590 of the Tariff Act of 1930 (19 U.S.C. 1590) (relating to aviation smuggling), section 422 of the Controlled Substances Act (relating to transportation of drug paraphernalia), section 38(c) (relating to criminal violations) of the Arms Export Control Act, section 11 (relating to violations) of the Export Administration Act of 1979, section 206 (relating to penalties) of the International Emergency Economic Powers Act, section 16 (relating to offenses and punishment) of the Trading with the Enemy Act, any felony violation of section 15 of the Food Stamp Act of 1977 (relating to food stamp fraud) involving a quantity of coupons having a value of not less than $5,000, or any felony violation of the Foreign Corrupt Practices Act; or
+
+environmental crimes
+
+&emsp;&emsp;(E) a felony violation of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), the Ocean Dumping Act (33 U.S.C. 1401 et seq.), the Act to Prevent Pollution from Ships (33 U.S.C. 1901 et seq.), the Safe Drinking Water Act (42 U.S.C. 300f et seq.), or the Resources Conservation and Recovery Act (42 U.S.C. 6901 et seq.).
+
+&emsp;(8) the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+(d) Nothing in this section shall supersede any provision of Federal, State, or other law imposing criminal penalties or affording civil remedies in addition to those provided for in this section.
+
+(e) Violations of this section may be investigated by such components of the Department of Justice as the Attorney General may direct, and by such components of the Department of the Treasury as the Secretary of the Treasury may direct, as appropriate and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service.Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Postal Service, and the Attorney General. Violations of this section involving offenses described in paragraph (c)(7)(E) may be investigated by such components of the Department of Justice as the Attorney General may direct, and the National Enforcement Investigations Center of the Environmental Protection Agency.
+
+(f) There is extraterritorial jurisdiction over the conduct prohibited by this section if—
+
+&emsp;(1) the conduct is by a United States citizen or, in the case of a non-United States citizen, the conduct occurs in part in the United States; and
+
+&emsp;(2) the transaction or series of related transactions involves funds or monetary instruments of a value exceeding $10,000.
+
+(g)
+
+Notice of Conviction of Financial Institutions.—If any financial institution or any officer, director, or employee of any financial institution has been found guilty of an offense under this section, section 1957 or 1960 of this title, or section 5322 or 5324 of title 31, the Attorney General shall provide written notice of such fact to the appropriate regulatory agency for the financial institution.
+
+(h) Any person who conspires to commit any offense defined in this section or section 1957 shall be subject to the same penalties as those prescribed for the offense the commission of which was the object of the conspiracy.
+
+(Added Pub. L. 99–570, title I, §1352(a), Oct. 27, 1986, 100 Stat. 3207–18; amended Pub. L. 100–690, title VI, §§6183, 6465, 6466, 6469(a)(1), 6471(a), (b), title VII, §7031, Nov. 18, 1988, 102 Stat. 4354, 4375, 4377, 4378, 4398; Pub. L. 101–647, title I, §§105–108, title XII, §1205(j), title XIV, §§1402, 1404, title XXV, §2506, title XXXV, §3557, Nov. 29, 1990, 104 Stat. 4791, 4792, 4831, 4835, 4862, 4927; Pub. L. 102–550, title XV, §§1504(c), 1524, 1526(a), 1527(a), 1530, 1531, 1534, 1536, Oct. 28, 1992, 106 Stat. 4055, 4064–4067; Pub. L. 103–322, title XXXII, §320104(b), title XXXIII, §§330008(2), 330011(<i>l</i>), 330012, 330019, 330021(1), Sept. 13, 1994, 108 Stat. 2111, 2142, 2145, 2146, 2149, 2150; Pub. L. 103–325, title IV, §§411(c)(2)(E), 413(c)(1), (d), Sept. 23, 1994, 108 Stat. 2253–2255.)
+
+#### References in Text
+
+Sections 7201 and 7206 of the Internal Revenue Code of 1986, referred to in subsec. (a)(1)(A)(ii), are classified, respectively, to sections 7201 and 7206 of Title 26, Internal Revenue Code.
+
+The Controlled Substances Act, referred to in subsec. (c)(7)(B)(i), (D), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. Section 422 of the Act is classified to section 863 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+
+Section 1(b) of the International Banking Act of 1978, referred to in subsec. (c)(7)(B)(iii), is classified to section 3101 of Title 12, Banks and Banking.
+
+The Chemical Diversion and Trafficking Act of 1988, referred to in subsec. (c)(7)(D), is subtitle A (§6051–6061) of title VI of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4312. For complete classification of subtitle A to the Code, see Short Title of 1988 Amendment note set out under section 801 of Title 21, Food and Drugs, and Tables.
+
+Section 38(c) of the Arms Export Control Act, referred to in subsec. (c)(7)(D), is classified to section 2778(c) of Title 22, Foreign Relations and Intercourse.
+
+Section 11 of the Export Administration Act of 1979, referred to in subsec. (c)(7)(D), is classified to section 2410 of Title 50, Appendix, War and National Defense.
+
+Section 206 of the International Emergency Economic Powers Act, referred to in subsec. (c)(7)(D), is classified to section 1705 of Title 50.
+
+Section 16 of the Trading with the Enemy Act, referred to in subsec. (c)(7)(D), is classified to section 16 of Title 50, Appendix.
+
+Section 15 of the Food Stamp Act of 1977, referred to in subsec. (c)(7)(D), is classified to section 2024 of Title 7, Agriculture.
+
+The Foreign Corrupt Practices Act, referred to in subsec. (c)(7)(D), probably means the “Foreign Corrupt Practices Act of 1977, title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, as amended, which enacted sections 78dd–1 and 78dd–2 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 78a of Title 15 and Tables.
+
+The Federal Water Pollution Control Act, referred to in subsec. (c)(7)(E), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+
+The Ocean Dumping Act, referred to in subsec. (c)(7)(E), probably means title I of the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1053, as amended, which is classified generally to subchapter I (§1411 et seq.) of chapter 27 of Title 33. For complete classification of title I to the Code, see Tables.
+
+The Act to Prevent Pollution from Ships, referred to in subsec. (c)(7)(E), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, as amended, which is classified principally to chapter 33 (§1901 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 33 and Tables.
+
+The Safe Drinking Water Act, referred to in subsec. (c)(7)(E), is Pub. L. 93–523, Dec. 16, 1974, 88 Stat. 1660, as amended, which is classified principally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1974 Amendments note set out under section 201 of Title 42 and Tables.
+
+The Resources Conservation and Recovery Act, referred to in subsec. (c)(7)(E), probably means the Resource Conservation and Recovery Act of 1976, Pub. L. 94–580, Oct. 21, 1976, 90 Stat. 2796, as amended, which is classified generally to chapter 82 (§6901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 6901 of Title 42 and Tables.
+
+#### Amendments
+
+1994—Subsec. (a)(2). Pub. L. 103–325, §413(c)(1)(A)(ii), substituted “transfer” for “transfer.” in concluding provisions and two times in subpar. (B).
+
+Pub. L. 103–322, §330019(a)(3), and Pub. L. 103–325, §413(c)(1)(A)(i), amended par. (2) identically, inserting “not more than” before “$500,000” in concluding provisions.
+
+Subsec. (b). Pub. L. 103–325, §413(c)(1)(B), inserted “or (a)(3)” after “(a)(1)” and substituted “transfer” for “transfer.”
+
+Subsec. (c)(7)(B)(ii). Pub. L. 103–322, §330021(1), substituted “kidnapping” for “kidnaping”.
+
+Subsec. (c)(7)(B)(iii). Pub. L. 103–322, §330019(a)(1), and Pub. L. 103–325, §413(c)(1)(C), amended cl. (iii) identically, substituting “1978)” for “1978”.
+
+Subsec. (c)(7)(D). Pub. L. 103–322, §330019(b), and Pub. L. 103–325, §413(c)(1)(D), amended subpar. (D) identically, substituting “section 15 of the Food Stamp Actof 1977” for “section 9(c) of the Food Stamp Act of 1977”.
+
+Pub. L. 103–322, §330011(<i>l</i>), and Pub. L. 103–325, §413(d), made identical amendments repealing Pub. L. 101–647, §3557(2)(E). See 1990 Amendment note below.
+
+Subsec. (c)(7)(D). Pub. L. 103–322, §320104(b), which directed the substitution of “section 2319 (relating to copyright infringement), or section 2320 (relating to trafficking in counterfeit goods and services),” for “or section 2319 (relating to copyright infringement),”, was executed by making the substitution for “or section 2319 (relating to copyright infringement)” to reflect the probable intent of Congress.
+
+Subsec. (c)(7)(E). Pub. L. 103–322, §330012, and Pub. L. 103–325, §413(c)(1)(E), amended subpar. (E) identically, striking out second period at end.
+
+Subsec. (e). Pub. L. 103–322, §330008(2), and Pub. L. 103–325, §413(c)(1)(F), amended subsec. (e) identically, substituting “Environmental Protection Agency” for “Evironmental Protection Agency”.
+
+Subsec. (g). Pub. L. 103–325, §411(c)(2)(E), in subsec. (g) relating to notice of conviction of financial institutions, substituted “section 5322 or 5324 of title 31” for “section 5322 of title 31”.
+
+Pub. L. 103–322, §330019(a)(2), and Pub. L. 103–325, §413(c)(1)(G), made identical amendments redesignating subsec. (g) relating to penalty for money laundering conspiracies as (h).
+
+Subsec. (h). Pub. L. 103–322, §330019(a)(2), and Pub. L. 103–325, §413(c)(1)(G), made identical amendments redesignating subsec. (g) relating to penalty for money laundering conspiracies as (h).
+
+1992—Subsec. (a)(2). Pub. L. 102–550, §1531(a), substituted “transportation, transmission, or transfer.” for “transportation” wherever appearing in subpar. (B) and concluding provisions.
+
+Subsec. (a)(3). Pub. L. 102–550, §1531(b), in concluding provisions, substituted “property represented to be the proceeds” for “property represented by a law enforcement officer to be the proceeds”.
+
+Subsec. (b). Pub. L. 102–550, §1531(a), substituted “transportation, transmission, or transfer.” for “transportation” in introductory provisions.
+
+Subsec. (c)(3). Pub. L. 102–550, §1527(a)(2), inserted “use of a safe deposit box,” before “or any other payment”.
+
+Subsec. (c)(4)(A). Pub. L. 102–550, §1527(a)(1), added clause (iii), struck out “which in any way or degree affects interstate or foreign commerce,” after “or aircraft,” and inserted “which in any way or degree affects interstate or foreign commerce” after “(A) or transaction”.
+
+Subsec. (c)(6). Pub. L. 102–550, §1526(a), substituted “or the regulations” for “and the regulations”.
+
+Subsec. (c)(7)(B). Pub. L. 102–550, §1536, designated part of existing provisions as cl. (i) and added cls. (ii) and (iii).
+
+Subsec. (c)(7)(D). Pub. L. 102–550, §§1524, 1534(1), (2), struck out “1341 (relating to mail fraud) or section 1343 (relating to wire fraud) affecting a financial institution, section 1344 (relating to bank fraud),” after “hostage taking),”, inserted “section 1708 (theft from the mail),” before “section 2113”, substituted “section 422 of the Controlled Substances Act” for “section 1822 of the Mail Order Drug Paraphernalia Control Act (100 Stat. 3207–51; 21 U.S.C. 857)”, and struck out “or” before “section 16”.
+
+Pub. L. 102–550, §1534(3), which directed insertion of “, any felony violation of section 9(c) of the Food Stamp Act of 1977 (relating to food stamp fraud) involving a quantity of coupons having a value of not less than $5,000, or any felony violation of the Foreign Corrupt Practices Act” before semicolon, was executed by making insertion before semicolon at end to reflect the probable intent of Congress.
+
+Subsec. (g). Pub. L. 102–550, §1530, added subsec. (g) relating to penalty for money laundering conspiracies.
+
+Pub. L. 102–550, §1504(c), added subsec. (g) relating to notice of conviction of financial institutions.
+
+1990—Subsec. (a)(2). Pub. L. 101–647, §108(1), inserted at end “For the purpose of the offense described in subparagraph (B), the defendant's knowledge may be established by proof that a law enforcement officer represented the matter specified in subparagraph (B) as true, and the defendant's subsequent statements or actions indicate that the defendant believed such representations to be true.”
+
+Subsec. (a)(3). Pub. L. 101–647, §108(2), inserted “and paragraph (2)” after “this paragraph” in last sentence.
+
+Subsec. (c)(1). Pub. L. 101–647, §106, substituted “State, Federal, or foreign” for “State or Federal”.
+
+Subsec. (c)(4). Pub. L. 101–647, §1402, inserted “(A)” before “a transaction” the first place it appears, “(B)” before “a transaction” the second place it appears, “(i)” before “involving” the first place it appears, and “(ii)” before “involving” the second place it appears.
+
+Subsec. (c)(5). Pub. L. 101–647, §105, amended par. (5) generally. Prior to amendment, par. (5) read as follows: “the term ‘monetary instruments’ means coin or currency of the United States or of any other country, travelers” checks, personal checks, bank checks, money orders, investment securities in bearer form or otherwise in such form that title thereto passes upon delivery, and negotiable instruments in bearer form or otherwise in such form that title thereto passes upon delivery;”.
+
+Subsec. (c)(7)(A). Pub. L. 101–647, §3557(1), substituted “subchapter II of chapter 53 of title 31” for “the Currency and Foreign Transactions Reporting Act”.
+
+Subsec. (c)(7)(C). Pub. L. 101–647, §1404(a)(1), struck out “or” at end.
+
+Subsec. (c)(7)(D). Pub. L. 101–647, §3557(2)(A)–(D), substituted “section 2113” for “or section 2113”, substituted “theft), or” for “theft) of this title,”, inserted “of this title” after “2319 (relating to copyright infringement)”, and substituted “paraphernalia” for “paraphenalia”.
+
+Pub. L. 101–647, §3557(2)(E), which directed the amendment of subpar. (D) by striking the final period, was repealed by Pub. L. 103–322, §330011(<i>l</i>), and Pub. L. 103–325, §413(d).
+
+Pub. L. 101–647, §2506(2), inserted “section 1341 (relating to mail fraud) or section 1343 (relating to wire fraud) affecting a financial institution,” after “section 1203 (relating to hostage taking),”.
+
+Pub. L. 101–647, §2506(1), inserted “section 1005 (relating to fraudulent bank entries), 1006 (relating to fraudulent Federal credit institution entries), 1007 (relating to Federal Deposit Insurance transactions), 1014 (relating to fraudulent loan or credit applications), 1032 (relating to concealment of assets from conservator, receiver, or liquidating agent of financial institution),” after “section 875 (relating to interstate communications),”.
+
+Pub. L. 101–647, §1404(a)(2), inserted “; or” after “Trading with the Enemy Act” at end.
+
+Pub. L. 101–647, §107, substituted “a felony violation of the Chemical Diversion and Trafficking Act of 1988” for “section 310 of the Controlled Substances Act (21 U.S.C. 830)”.
+
+Subsec. (c)(7)(E). Pub. L. 101–647, §1404(a)(2), amended par. (7) by inserting “; or” and subpar. (E) before the period.
+
+Subsec. (c)(8). Pub. L. 101–647, §1205(j), added par. (8).
+
+Subsec. (e). Pub. L. 101–647, §1404(b), inserted at end “Violations of this section involving offenses described in paragraph (c)(7)(E) may be investigated by such components of the Department of Justice as the Attorney General may direct, and the National Enforcement Investigations Center of the Evironmental \[sic\] Protection Agency.”
+
+1988—Subsec. (a)(1)(A). Pub. L. 100–690, §6471(a), amended subpar. (A) generally, designating existing provisions as cl. (i) and adding cl. (ii).
+
+Subsec. (a)(2). Pub. L. 100–690, §6471(b), substituted “transports, transmits, or transfers, or attempts to transport, transmit, or transfer” for “transports or attempts to transport” in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 100–690, §6465, added par. (3).
+
+Subsec. (c)(7)(D). Pub. L. 100–690, §7031, substituted “section 513” for “section 511” and “section 545” for“section 543” and inserted “section 657 (relating to lending, credit, and insurance institutions), section 658 (relating to property mortgaged or pledged to farm credit agencies),”.
+
+Pub. L. 100–690, §6466, inserted “section 542 (relating to entry of goods by means of false statements),”, “section 549 (relating to removing goods from Customs custody),”, and “section 2319 (relating to copyright infringement), section 310 of the Controlled Substances Act (21 U.S.C. 830) (relating to precursor and essential chemicals), section 590 of the Tariff Act of 1930 (19 U.S.C. 1590) (relating to aviation smuggling), section 1822 of the Mail Order Drug Paraphernalia Control Act (100 Stat. 3207–51; 21 U.S.C. 857) (relating to transportation of drug paraphenalia \[sic\]),”.
+
+Pub. L. 100–690, §6183, substituted “section 38(c) (relating to criminal violations) of the Arms Export Control Act, section 11 (relating to violations) of the Export Administration Act of 1979, section 206 (relating to penalties) of the International Emergency Economic Powers Act, or section 16 (relating to offenses and punishment) of the Trading with the Enemy Act.” for “section 38 of the Arms Export Control Act (22 U.S.C. 2778), section 2 (relating to criminal penalties) of the Export Administration Act of 1979 (50 U.S.C. App. 2401), section 203 (relating to criminal sanctions) of the International Emergency Economic Powers Act (50 U.S.C. 1702), or section 3 (relating to criminal violations) of the Trading with the Enemy Act (50 U.S.C. App. 3)”.
+
+Subsec. (e). Pub. L. 100–690, §6469(a)(1), substituted “and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Postal Service, and the Attorney General.” for “. Such authority of the Secretary of the Treasury shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General.”
+
+#### Effective Date of 1994 Amendments
+
+Section 330011(<i>l</i>) of Pub. L. 103–322 and section 413(d) of Pub. L. 103–325 provided that the repeal of section 3557(2)(E) of Pub. L. 101–647 made by those sections is effective as of the date of enactment of Pub. L. 101–647, which was approved Nov. 29, 1990.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 981, 982, 984, 986, 1510, 1952, 1957, 1961, 2516 of this title; title 8 section 1101; title 12 sections 93, 1464, 1772d, 1785, 1786, 1818, 1821, 1829, 3105, 3413, 3420; title 22 section 2714; title 26 section 6050I; title 28 section 524; title 31 sections 5328, 9703.
+

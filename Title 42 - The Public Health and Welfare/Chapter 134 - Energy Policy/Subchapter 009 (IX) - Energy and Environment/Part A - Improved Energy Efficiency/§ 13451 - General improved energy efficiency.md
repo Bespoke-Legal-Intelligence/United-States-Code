@@ -1,0 +1,106 @@
+### §13451. General improved energy efficiency
+
+#### (a) Program direction
+
+The Secretary shall conduct a 5-year program, in accordance with sections 13541 and 13542 of this title, on cost effective technologies to improve energy efficiency and increase the use of renewable energy in the buildings, industrial, and utility sectors. Such program shall include a broad range of technological approaches, and shall include field demonstrations of sufficient scale and number to prove technical and economic viability to meet the goals stated in section 13401 of this title. Such program shall include the activities required under sections 13452, 13453, 13454, 13455, 13456, and 13457 of this title and section 2106 <sup>1</sup> and ongoing activities of a similar nature at the Department of Energy. Such program shall also include the activities conducted pursuant to the Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988 (Public Law 100–680) \[15 U.S.C. 5101 et seq.\] and the Department of Energy Metal Casting Competitiveness Research Act of 1990 (Public Law 101–425) \[15 U.S.C. 5301 et seq.\].
+
+#### (b) Program goals
+
+The goals of the program established under subsection (a) of this section shall include—
+
+&emsp;(1) in the buildings sector—
+
+&emsp;&emsp;(A) to accelerate the development of technologies that will increase energy efficiency;
+
+&emsp;&emsp;(B) to increase the use of renewable energy; and
+
+&emsp;&emsp;(C) to reduce environmental impacts;
+
+&emsp;(2) in the industrial sector—
+
+&emsp;&emsp;(A) to accelerate the development of technologies that will increase energy efficiency in order to improve productivity;
+
+&emsp;&emsp;(B) to increase the use of renewable energy; and
+
+&emsp;&emsp;(C) to reduce environmental impacts; and
+
+&emsp;(3) in the utility sector—
+
+&emsp;&emsp;(A) to accelerate the development of technologies that will increase energy efficiency; and
+
+&emsp;&emsp;(B) to increase the use of integrated resource planning.
+
+#### (c) Program plan
+
+Within 180 days after October 24, 1992, the Secretary shall prepare and submit to the Congress a 5-year program plan to guide activities under this part. In preparing the program plan, the Secretary shall consult with appropriate representatives of industry, utilities, institutions of higher education, Federal agencies, includingnational laboratories, and professional and technical societies.
+
+#### (d) Proposals
+
+Within 1 year after October 24, 1992, the Secretary shall solicit proposals for conducting activities under this section.
+
+#### (e) Authorization of appropriations
+
+There are authorized to be appropriated to the Secretary for carrying out this part, including all building, industry, and utility sectors energy conservation research and development, and inventions and innovation under energy conservation technical and financial assistance, $178,250,000 for fiscal year 1993 and $275,000,000 for fiscal year 1994.
+
+(Pub. L. 102–486, title XXI, §2101, Oct. 24, 1992, 106 Stat. 3067.)
+
+#### References in Text
+
+Section 2106, referred to in subsec. (a), means section 2106 of Pub. L. 102–486, which amended sections 5103, 5107, 5108, 5110, and 5307 of Title 15, Commerce and Trade.
+
+The Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988, referred to in subsec. (a), is Pub. L. 100–680, Nov. 17, 1988, 102 Stat. 4073, as amended, which is classified generally to chapter 77 (§5101 et seq.) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 15 and Tables.
+
+The Department of Energy Metal Casting Competitiveness Research Act of 1990, referred to in subsec. (a), is Pub. L. 101–425, Oct. 15, 1990, 104 Stat. 915, as amended, which is classified generally to chapter 79 (§5301 et seq.) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 15 and Tables.
+
+This part, referred to in subsecs. (c) and (e), was in the original “this subtitle” meaning subtitle A of title XXI of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 3067, which enacted this part and amended sections 5103, 5107, 5108, 5110, and 5307 of Title 15.
+
+#### District Heating and Cooling Programs
+
+Section 172 of Pub. L. 102–486 provided that:
+
+“(a)
+
+In General.—The Secretary, in consultation with appropriate industry organizations, shall conduct a study to—
+
+&emsp;“(1) assess existing district heating and cooling technologies to determine cost-effectiveness, technical performance, energy efficiency, and environmental impacts as compared to alternative methods for heating and cooling buildings;
+
+&emsp;“(2) estimate the economic value of benefits that may result from implementation of district heating and cooling systems but that are not currently recognized, such as reduced emissions of air pollutants, local economic development, and energy security;
+
+&emsp;“(3) evaluate the cost-effectiveness, including the economic value referred to in paragraph (2), of cogenerated district heating and cooling technologies compared to other alternatives for generating or conserving electricity; and
+
+&emsp;“(4) assess and make recommendations for reducing institutional and other constraints on the implementation of district heating and cooling systems.
+
+“(b)
+
+Report.—Not later than 2 years after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary shall transmit to the Congress a report containing the findings, conclusions and recommendations, if any, of the Secretary for carrying out Federal, State, and local programs as a result of the study conducted under subsection (a).”
+
+#### Study and Report on Vibration Reduction Technologies
+
+Section 173 of Pub. L. 102–486 provided that:
+
+“(a)
+
+In General.—The Secretary shall, in consultation with the appropriate industry representatives, conduct a study to assess the cost-effectiveness, technical performance, energy efficiency, and environmental impacts of active noise and vibration cancellation technologies that use fast adapting algorithms.
+
+“(b)
+
+Procedure.—In carrying out such study, the Secretary shall—
+
+&emsp;“(1) estimate the potential for conserving energy and the economic and environmental benefits that may result from implementing active noise and vibration abatement technologies in demand side management; and
+
+&emsp;“(2) evaluate the cost-effectiveness of active noise and vibration cancellation technologies as compared to other alternatives for reducing noise and vibration.
+
+“(c)
+
+Report.—The Secretary shall transmit to the Congress, not later than 12 months after the date of the enactment of this Act \[Oct. 24, 1992\], a report containing the findings and conclusions of the study carried out under this section.
+
+“(d)
+
+Demonstration.—The Secretary may, based on the findings and conclusions of the study carried out under this section, conduct at least one project designed to demonstrate the commercial application of active noise and vibration cancellation technologies using fast adapting algorithms in products or equipment with a significant potential for increased energy efficiency.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 13472, 13501, 13502 of this title; title 15 sections 5108, 5307.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

@@ -1,0 +1,90 @@
+### §3901. Definitions and application
+
+(a) In this chapter—
+
+&emsp;(1) “agency” has the same meaning given that term in section 551(1) of title 5 and includes an entity being operated, and the head of the agency identifies the entity as being operated, only as an instrumentality of the agency to carry out a program of the agency.
+
+&emsp;(2) “business concern” means—
+
+&emsp;&emsp;(A) a person carrying on a trade or business; and
+
+&emsp;&emsp;(B) a nonprofit entity operating as a contractor.
+
+&emsp;(3) “proper invoice” is an invoice containing or accompanied by substantiating documentation the Director of the Office of Management and Budget may require by regulation and the head of the appropriate agency may require by regulation or contract.
+
+&emsp;(4) for the purposes of determining a payment due date and the date upon which any late payment interest penalty shall begin to accrue, the head of the agency is deemed to receive an invoice—
+
+&emsp;&emsp;(A) on the later of—
+
+&emsp;&emsp;&emsp;(i) the date on which the place or person designated by the agency to first receive such invoice actually receives a proper invoice; or
+
+&emsp;&emsp;&emsp;(ii) on the 7th day after the date on which, in accordance with the terms and conditions of the contract, the property is actually delivered or performance of the services is actually completed, as the case may be, unless—
+
+&emsp;&emsp;&emsp;&emsp;(I) the agency has actually accepted such property or services before such 7th day; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the contract (except in the case of a contract for the procurement of a brand-name commercial item for authorized resale) specifies a longer acceptance period, as determined by the contracting officer to be required to afford the agency a practicable opportunity to inspect and test the property furnished or evaluate the services performed; or
+
+&emsp;&emsp;(B) on the date of the invoice, if the agency has failed to annotate the invoice with the date of receipt at the time of actual receipt by the place or person designated by the agency to first receive such invoice.
+
+&emsp;(5) a payment is deemed to be made on the date a check for payment is dated or an electronic fund transfer is made.
+
+&emsp;(6) a contract to rent property is deemed to be a contract to acquire the property.
+
+(b) This chapter applies to the Tennessee Valley Authority. However, regulations prescribed under this chapter do not apply to the Authority, and the Authority alone is responsible for carrying out this chapter as it applies to contracts of the Authority.
+
+(c) This chapter, except section 3906 of this title, applies to the United States Postal Service. However, the Postmaster General shall be responsible for issuing the implementing procurement regulations, solicitation provisions, and contract clauses for the United States Postal Service.
+
+(Added Pub. L. 97–452, §1(18)(A), Jan. 12, 1983, 96 Stat. 2474; amended Pub. L. 100–496, §2(a)–(c)(1), Oct. 17, 1988, 102 Stat. 2455.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+3901(a)
+
+31 App.:1805.
+
+May 21, 1982, Pub. L. 97–177, §§6, 7(c), 96 Stat. 87, 88.
+
+3901(b)
+
+31 App.:1806.
+
+In the chapter, the words “the head of” are added for clarity and consistency in the revised title and with other titles of the United States Code.
+
+In subsection (a)(1), the word “Federal” is omitted as unnecessary and for consistency in the revised title and with other titles of the Code. The words “for this purpose” are omitted because of the restatement. The words “the purpose of” and “or more” are omitted as surplus.
+
+In subsection (a)(5), the words “deemed to be” are substituted for “considered” for consistency in the revised title and with other titles of the Code.
+
+In subsection (a)(6), the words “real or personal” are omitted as surplus. The words “deemed to be” are added for consistency in the revised title and with other titles of the Code.
+
+In subsection (b), the words “the authority of” are omitted as surplus.
+
+#### Amendments
+
+1988—Subsec. (a)(4). Pub. L. 100–496, §2(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the head of an agency is deemed to receive an invoice on the later of the dates that—
+
+&emsp;“(A) the designated payment office or finance center of the agency actually receives a proper invoice; or
+
+&emsp;“(B) the head of the agency accepts the applicable property or service.”
+
+Subsec. (a)(5). Pub. L. 100–496, §2(b), amended par. (5) generally, substituting “check for payment is dated or an electronic fund transfer is made” for “check for the payment is dated”.
+
+Subsec. (c). Pub. L. 100–496, §2(c)(1), added subsec. (c).
+
+#### Effective Date of 1988 Amendment
+
+Amendment by section 2(a), (b) of Pub. L. 100–496 applicable to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after Oct. 17, 1988, and amendment by section 2(c)(1) of Pub. L. 100–496 applicable with respect to all obligations incurred on or after Jan. 1, 1989, see section 14(a), (c) of Pub. L. 100–496, set out as a note under section 3902 of this title.
+
+#### Short Title of 1988 Amendment
+
+Section 1 of Pub. L. 100–496 provided that: “This Act \[enacting section 3905 of this title, amending this section, sections 3902 to 3904 and 3906 of this title, section 644 of Title 15, Commerce and Trade, and section 410 of Title 39, Postal Service, renumbering sections 3905 and 3906 of this title as 3906 and 3907, respectively, enacting provisions set out as notes under sections 3902, 3903, and 3906 of this title, and repealing provisions set out as a note under section 3903 of this title\] may be cited as the ‘Prompt Payment Act Amendments of 1988’.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3903 of this title.
+

@@ -1,0 +1,222 @@
+### §1343. Buying and leasing passenger motor vehicles and aircraft
+
+(a) In this section, buying a passenger motor vehicle or aircraft includes a transfer of the vehicle or aircraft between agencies.
+
+(b) An appropriation may be expended to buy or lease passenger motor vehicles only—
+
+&emsp;(1) for the use of—
+
+&emsp;&emsp;(A) the President;
+
+&emsp;&emsp;(B) the secretaries to the President; or
+
+&emsp;&emsp;(C) the heads of executive departments listed in section 101 of title 5; or
+
+&emsp;(2) as specifically provided by law.
+
+(c)(1) Except as specifically provided by law, an agency may use an appropriation to buy a passenger motor vehicle (except a bus or ambulance) only at a total cost (except costs required only for transportation) that—
+
+&emsp;(A) includes the price of systems and equipment the Administrator of General Services decides is incorporated customarily in standard passenger motor vehicles completely equipped for ordinary operation;
+
+&emsp;(B) includes the value of a vehicle used in exchange;
+
+&emsp;(C) is not more than the maximum price established by the agency having authority under law to establish a maximum price; and
+
+&emsp;(D) is not more than the amount specified in a law.
+
+(2) Additional systems and equipment may be bought for a passenger motor vehicle if the Administrator decides the purchase is appropriate. The price of additional systems or equipment is not included in deciding whether the cost of the vehicle is within a maximum price specified in a law.
+
+(d) An appropriation (except an appropriation for the armed forces) is available to buy, maintain, or operate an aircraft only if the appropriation specifically authorizes the purchase, maintenance, or operation.
+
+(e) This section does not apply to—
+
+&emsp;(1) buying, maintaining, and repairing passenger motor vehicles by the United States Capitol Police;
+
+&emsp;(2) buying, maintaining, and repairing vehicles necessary to carry out projects to improve, preserve, and protect rivers and harbors; or
+
+&emsp;(3) leasing, maintaining, repairing, or operating motor passenger vehicles necessary in the field work of the Department of Agriculture.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 924.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+1343(a)
+
+31:638a(e).
+
+July 16, 1914, ch. 141, §5(a), (b), (e), 38 Stat. 508; restated Aug. 2, 1946, ch. 744, §16(a), 60 Stat. 810, 811.
+
+1343(b)
+
+31:638a(a).
+
+1343(c)
+
+31:638a(c)(1).
+
+July 16, 1914, ch. 141, §5(c)(1), 38 Stat. 508; Aug. 2, 1946, ch. 744, §16(a), 60 Stat. 810; restated Sept. 26, 1970, Pub. L. 91–423, 84 Stat. 879.
+
+1343(d)
+
+31:638a(b).
+
+1343(e)
+
+31:638a–1.
+
+July 25, 1975, Pub. L. 94–59, §1108, 89 Stat. 300.
+
+&nbsp;
+
+31:638d.
+
+Mar. 4, 1915, ch. 142, §10, 38 Stat. 1054.
+
+&nbsp;
+
+31:638e.
+
+Aug. 11, 1916, ch. 313(last proviso on p. 491), 39 Stat. 491.
+
+In subsection (a), the word “agency” is substituted for “department of the Government” because of section 101 of the revised title and for consistency with the other source provisions restated in the section.
+
+In subsection (b), before clause (1), the words “buy or lease” are substituted for “purchase or hire” for consistency. In clause (1)(C), the words “section 101 of title 5” are used because of section 7(b) of the Act of September 6, 1966 (Pub. L. 89–554, 80 Stat. 631).
+
+In subsection (c)(1), before clause (A), the word “agency” is substituted for “department” for consistency. The words “total cost” are substituted for “cost” because of the restatement. The words “(except costs required only for transportation)” are substituted for “which shall be in addition to the amount required for transportation” for clarity. Clause (A) is substituted for “completely equipped for operation” and 31:638a(c)(1)(2d sentence) to eliminate unnecessary words.
+
+In subsection (c)(2), the words “Notwithstanding any other provisions of law” are omitted as surplus.
+
+In subsection (d), the words “armed forces” are substituted for “Military and Naval Establishments” for consistency.
+
+In subsection (e)(2), the words “motor boats, trucks” in 31:638d are omitted as being included in “vehicles”. The words “adopted by Congress” are omitted as surplus.
+
+In subsection (e)(3), the words “horse-drawn” in 31:638e are omitted because the section applies only to motor vehicles and aircraft described in 31:638a and also is obsolete. The words “motor boats” are omitted as being included in “vehicles”.
+
+#### Motor Vehicles Purchased for Intelligence Activities; Exception From Monetary Limitations
+
+Pub. L. 103–139, title VIII, §8105, Nov. 11, 1993, 107 Stat. 1464, provided that: “During the current fiscal year and thereafter, monetary limitations on the purchase price of a passenger motor vehicle shall not apply to vehicles purchased for intelligence activities conducted pursuant to Executive Order 12333 \[50 U.S.C. 401 note\] or successor orders.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 102–396, title IX, §9038, Oct. 6, 1992, 106 Stat. 1910.
+
+Pub. L. 102–172, title VIII, §8038, Nov. 26, 1991, 105 Stat. 1180.
+
+Pub. L. 101–511, title VIII, §8039, Nov. 5, 1990, 104 Stat. 1883.
+
+Pub. L. 101–165, title IX, §9049, Nov. 21, 1989, 103 Stat. 1139.
+
+Pub. L. 100–463, title VIII, §8086, Oct. 1, 1988, 102 Stat. 2270–32.
+
+Pub. L. 100–202, §101(b) \[title VIII, §8119\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–84.
+
+#### Maximum Purchase Price of Motor Vehicles; Exceptions
+
+Act Sept. 30, 1994, Pub. L. 103–329, title VI, §604, 108 Stat. 2416, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with section 16 of the Act of August 2, 1946 (60 Stat. 810 \[31 U.S.C. 1343\]), for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement, and undercover surveillance vehicles), is hereby fixed at $8,100 except station wagons for which the maximum shall be $9,100: <i>Provided</i>, That these limits may be exceeded by not to exceed $3,700 for police-type vehicles, and by not to exceed $4,000 for special heavy-duty vehicles: <i>Provided further</i>, That the limits set forth in this section may not be exceeded by more than five percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 \[15 U.S.C. 2501 et seq\]: <i>Provided further</i>, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 \[see Tables for classification\] over the cost of comparable conventionally fueled vehicles.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Oct. 28, 1993, Pub. L. 103–123, title VI, §604, 107 Stat. 1259.
+
+Oct. 6, 1992, Pub. L. 102–393, title VI, §605, 106 Stat. 1766.
+
+Oct. 28, 1991, Pub. L. 102–141, title VI, §605, 105 Stat. 868.
+
+Nov. 5, 1990, Pub. L. 101–509, title VI, §601, 104 Stat. 1470.
+
+Nov. 3, 1989, Pub. L. 101–136, title VI, §601, 103 Stat. 816.
+
+Sept. 22, 1988, Pub. L. 100–440, title VI, §601, 102 Stat. 1751.
+
+Dec. 22, 1987, Pub. L. 100–202, §101(m) \[title VI, §601\], 101 Stat. 1329–390, 1329–419.
+
+Oct. 18, 1986, Pub. L. 99–500, §101(m) \[title VI, §601\], 100 Stat. 1783–308, 1783–328, and Oct. 30, 1986, Pub. L. 99–591, §101(m) \[title VI, §601\], 100 Stat. 3341–308, 3341–328.
+
+Dec. 19, 1985, Pub. L. 99–190, §101(h) \[H.R. 3036, title VI, §601\], 99 Stat. 1291.
+
+Oct. 12, 1984, Pub. L. 98–473, title I, §101(j) \[H.R. 5798, title VI, §602\], 98 Stat. 1963.
+
+Nov. 14, 1983, Pub. L. 98–151, §101(f) \[H.R. 4139, title VI, §602\], 97 Stat. 973.
+
+Dec. 21, 1982, Pub. L. 97–377, title I, §101(a) \[H.R. 7158, title VI, §602\], 96 Stat. 1830.
+
+Dec. 15, 1981, Pub. L. 97–92, §101(a) \[H.R. 4121, title VI, §602\], 95 Stat. 1183.
+
+Dec. 16, 1980, Pub. L. 96–536, §113, 94 Stat. 3171.
+
+Sept. 29, 1979, Pub. L. 96–74, title VI, §601, 93 Stat. 573.
+
+Oct. 10, 1978, Pub. L. 95–429, title VI, §601, 92 Stat. 1015.
+
+July 31, 1977, Pub. L. 95–81, title VI, §601, 91 Stat. 354.
+
+July 14, 1976, Pub. L. 94–363, title VI, §601, 90 Stat. 977.
+
+Aug. 9, 1975, Pub. L. 94–91, title VI, §601, 89 Stat. 458.
+
+Aug. 21, 1974, Pub. L. 93–381, title VI, §601, 88 Stat. 630.
+
+Oct. 30, 1973, Pub. L. 93–143, title VI, §601, 87 Stat. 524.
+
+July 13, 1972, Pub. L. 92–351, title VI, §601, 86 Stat. 487.
+
+July 9, 1971, Pub. L. 92–49, title VI, §601, 85 Stat. 122.
+
+Oct. 7, 1970, Pub. L. 91–439, title V, §501, 84 Stat. 902.
+
+Dec. 11, 1969, Pub. L. 91–144, title V, §501, 83 Stat. 336.
+
+Aug. 12, 1968, Pub. L. 90–479, title V, §501, 82 Stat. 717.
+
+Nov. 20, 1967, Pub. L. 90–147, title V, §501, 81 Stat. 482.
+
+Oct. 15, 1966, Pub. L. 89–689, title V, §501, 80 Stat. 1014.
+
+Oct. 28, 1965, Pub. L. 89–299, title V, §501, 79 Stat. 1108.
+
+Aug. 30, 1964, Pub. L. 88–511, title V, §501, 78 Stat. 693.
+
+Dec. 31, 1963, Pub. L. 88–257, title V, §501, 77 Stat. 855.
+
+Oct. 24, 1962, Pub. L. 87–880, title V, §501, 76 Stat. 1227.
+
+Aug. 3, 1961, Pub. L. 87–125, title V, §501, 75 Stat. 282.
+
+July 12, 1960, Pub. L. 86–642, title II, §201, 74 Stat. 476.
+
+July 8, 1959, Pub. L. 86–79, title II, §201, 73 Stat. 165.
+
+June 25, 1958, Pub. L. 85–468, title II, §201, 72 Stat. 224.
+
+June 5, 1957, Pub. L. 85–48, title II, §201, 71 Stat. 53.
+
+June 13, 1956, ch. 385, title II, §201, 70 Stat. 279.
+
+June 29, 1955, ch. 226, title II, §201, 69 Stat. 195.
+
+Aug. 26, 1954, ch. 935, Ch. XIII, §1301, 68 Stat. 828.
+
+Aug. 7, 1953, ch. 340, Ch. XIII, §1301, 67 Stat. 435.
+
+July 15, 1952, ch. 758, Ch. XIV, §1401, 66 Stat. 659.
+
+Nov. 1, 1951, ch. 664, Ch. XIII, §1301, 65 Stat. 755.
+
+Sept. 6, 1950, ch. 896, Ch. XII, §1201, 64 Stat. 763.
+
+Aug. 24, 1949, ch. 506, title III, §301, 63 Stat. 661.
+
+Apr. 20, 1948, ch. 219, title II, §201, 62 Stat. 193.
+
+July 30, 1947, ch. 359, title II, §201, 61 Stat. 608.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 5 section 3374; title 22 sections 2514, 3622; title 33 section 576a; title 40 section 491.
+

@@ -1,0 +1,20 @@
+### §7729 . Investigation before issue of certificate
+
+The Secretary of the Navy may not issue a certificate under this chapter until he satisfies himself by investigation that it is necessary.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 485.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+7729
+
+46 U.S.C. 794 (less 1st 10 sentences).
+
+July 3, 1944, ch. 399, §4 (less 1st 10 sentences), 58 Stat. 724.
+

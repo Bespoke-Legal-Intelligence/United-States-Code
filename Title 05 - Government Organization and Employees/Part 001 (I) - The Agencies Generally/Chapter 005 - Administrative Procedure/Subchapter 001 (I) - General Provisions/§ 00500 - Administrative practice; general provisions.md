@@ -1,0 +1,68 @@
+### §500. Administrative practice; general provisions
+
+(a) For the purpose of this section—
+
+&emsp;(1) “agency” has the meaning given it by section 551 of this title; and
+
+&emsp;(2) “State” means a State, a territory or possession of the United States including a Commonwealth, or the District of Columbia.
+
+(b) An individual who is a member in good standing of the bar of the highest court of a State may represent a person before an agency on filing with the agency a written declaration that he is currently qualified as provided by this subsection and is authorized to represent the particular person in whose behalf he acts.
+
+(c) An individual who is duly qualified to practice as a certified public accountant in a State may represent a person before the Internal Revenue Service of the Treasury Department on filing with that agency a written declaration that he is currently qualified as provided by this subsection and is authorized to represent the particular person in whose behalf he acts.
+
+(d) This section does not—
+
+&emsp;(1) grant or deny to an individual who is not qualified as provided by subsection (b) or (c) of this section the right to appear for or represent a person before an agency or in an agency proceeding;
+
+&emsp;(2) authorize or limit the discipline, including disbarment, of individuals who appear in a representative capacity before an agency;
+
+&emsp;(3) authorize an individual who is a former employee of an agency to represent a person before an agency when the representation is prohibited by statute or regulation; or
+
+&emsp;(4) prevent an agency from requiring a power of attorney as a condition to the settlement of a controversy involving the payment of money.
+
+(e) Subsections (b)–(d) of this section do not apply to practice before the Patent Office with respect to patent matters that continue to be covered by chapter 3 (sections 31–33) of title 35.
+
+(f) When a participant in a matter before an agency is represented by an individual qualified under subsection (b) or (c) of this section, a notice or other written communication required or permitted to be given the participant in the matter shall be given to the representative in addition to any other service specifically required by statute. When a participant is represented by more than one such qualified representative, service on any one of the representatives is sufficient.
+
+(Added Pub. L. 90–83, §1(1)(A), Sept. 11, 1967, 81 Stat. 195.)
+
+Historical and Revision Notes
+
+<i>Section of title 5</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Revised Statutes at Large)</i>
+
+500(a)
+
+5 App.: 1014.
+
+Nov. 8, 1965, Pub. L. 89–332, §3, 79 Stat. 1281.
+
+500(b)–(e)
+
+5 App.: 1012.
+
+Nov. 8, 1965, Pub. L. 89–332, §1, 79 Stat. 1281.
+
+500(f)
+
+5 App.: 1013.
+
+Nov. 8, 1965, Pub. L. 89–332, §2, 79 Stat. 1281.
+
+The definition of “State” in subsection (a)(2) is supplied for convenience and is based on the words “State, possession, territory, Commonwealth, or District of Columbia” in subsections (a) and (b) of 5 App. U.S.C. 1012.
+
+In subsection (d), the words “This section does not” are substituted for “nothing herein shall be construed”.
+
+In subsection (d)(3), the word “employee” is substituted for “officer or employee” to conform to the definition of “employee” in 5 U.S.C. 2105.
+
+#### Change of Name
+
+Patent Office, referred to in subsec. (e), redesignated Patent and Trademark Office by Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949, set out as a note under section 1 of Title 35, Patents.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 31 section 330; title 38 section 5901; title 49 section 10308.
+

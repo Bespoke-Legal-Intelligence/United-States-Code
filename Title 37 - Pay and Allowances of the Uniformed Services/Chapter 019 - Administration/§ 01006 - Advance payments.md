@@ -1,0 +1,154 @@
+### §1006. Advance payments
+
+(a) Under regulations prescribed by the Secretary concerned, a member of a uniformed service may be paid in advance—
+
+&emsp;(1) not more than three months’ pay of such member upon such member's change of permanent station; or
+
+&emsp;(2) the amount of an allotment made from such member's pay to a dependent if such member is assigned or scheduled for assignment to sea duty or other duty with a unit or command deployed or to be deployed outside the United States and the allotment is made by such member not more than sixty days before the scheduled date of the assignment of such member to such duty.
+
+(b) Under regulations prescribed by the Secretary concerned, a member of a uniformed service who is on duty at a distant station where the pay and emoluments to which he is entitled cannot be disbursed regularly, may be paid in advance.
+
+(c) Under regulations prescribed by the Secretary concerned, an advance of pay to a member of a uniformed service who is on duty outside the United States, or other place designated by the Secretary of Defense, of not more than two months’ basic pay may be made to a member if the member or the dependents of the member are ordered evacuated by competent authority. An advance of pay under this subsection is not subject to the conditions under which advances of pay may be made under subsection (a) or (b). An advance may be made on the basis of the evacuation of a member's dependents only if all dependents of members of the uniformed services are ordered evacuated from the place where the member's dependents are located. In the case of a member with dependents, the payment may be made directly to dependents previously designated by the member. The Secretary concerned or his designee may waive any right of recovery of not more than one month's basic pay advanced under this subsection if he finds that recovery of the advance would be against equity and good conscience or against the public interest.
+
+(d) If a person to whom an advance of pay is made under subsection (a), (b), or (c) dies or is separated from his uniformed service, before liquidation of that advance, the amount re maining unliquidated at the time of his death or separation shall be credited to the account of the disbursing officer concerned. However, the unliquidated amount remains a debt of that person or his estate to the United States.
+
+(e) As far as practicable, regulations for the administration of subsections (a)–(d) shall be uniform for all of the uniformed services.
+
+(f) Under regulations prescribed by the Secretary of Transportation, an advance of pay of not more than three months’ pay may be made to an officer of the Coast Guard who is ordered to sea duty or to or from shore duty beyond the seas. In addition, the Commandant of the Coast Guard may direct such advances as he considers necessary and proper to members of the Coast Guard stationed at distant stations where the pay and emoluments to which they are entitled cannot be paid regularly.
+
+(g) Under regulations prescribed by the Secretary concerned, the dislocation allowance authorized by section 407 of this title for a member of a uniformed service whose dependents are covered by section 405a(a) of this title may be paid in advance of the evacuation of the dependents and to the dependents designated by the member.
+
+(h) Notwithstanding subsections (a) and (b) of section 3324 of title 31, the Secretary concerned may, when the last day of the pay period falls on a Saturday, Sunday, or legal holiday, authorize the payment of pay and allowances to members of uniformed service under his jurisdiction on the preceding workday but not more than three days before the last day of that pay period. If a member dies after he has received an advance payment under this subsection, but before the last day of the pay period for which the payment is made, no part of the amount so advance is recoverable by the United States.
+
+(i) Under regulations prescribed by the Secretary concerned, not more than one month's pay may be paid in advance to a member of the Armed Forces Health Professions Scholarship program upon reporting for a period of active duty required by section 2121(c) of title 10.
+
+(j) Under regulations prescribed by the Secretary concerned, not more than one month's pay may be paid in advance to a member of the Senior Reserve Officers’ Training Corps who is ordered to field training or a practice required under section 2109 of title 10.
+
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 490; Pub. L. 89–26, §1(6), May 22, 1965, 79 Stat. 117; Pub. L. 89–193, Sept. 21, 1965, 79 Stat. 823; Pub. L. 89–718, §70, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–623, §3(1), (9), Oct. 22, 1968, 82 Stat. 1314, 1315; Pub. L. 96–76, title III, §313(b), Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–215, §3, Mar. 25, 1980, 94 Stat. 123; Pub. L. 96–343, §8, Sept. 8, 1980, 94 Stat. 1128; Pub. L. 96–513, title V, §516(23), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 97–60, title I, §131(b), Oct. 14, 1981, 95 Stat. 1005; Pub. L. 97–258, §3(j), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 99–145, title XIII, §1303(b)(12), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title VI, §602(a), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §602(a), Oct. 23, 1992, 106 Stat. 2420; Pub. L. 103–160, div. A, title VI, §605(a), Nov. 30, 1993, 107 Stat. 1679.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+1006(a)
+
+37:310c(a).
+
+Oct. 5, 1949, ch. 600, §1, 63 Stat. 703.
+
+1006(b)
+
+37:319c(b).
+
+Oct. 5, 1949, ch. 600, §2; added Aug. 30, 1961, Pub. L. 87–188, §1, 75 Stat. 416.
+
+1006(c)
+
+37:310c–1.
+
+Oct. 5, 1949, ch. 600, §2, 63 Stat. 704; redesignated as section 3, Aug. 30, 1961, Pub. L. 87–188, §2, 75 Stat. 416.
+
+1006(d)
+
+37:310d.
+
+1006(e)
+
+37:310c (less (a) and (b)).
+
+1006(f)
+
+14:465.
+
+\[None.\]
+
+In subsections (a) and (b), the words “a member of an armed force” are substituted for the words “commissioned and warrant officers, and enlisted men of the armed services.” The words “Secretary concerned” are substituted for the words “heads of the departments concerned” to conform to the definition in section 101(5) of this revised title.
+
+In subsection (b), the words “may be paid in advance” are substituted for the words “may have their pay and emoluments advanced”.
+
+In subsection (c), the words “Secretary concerned” are substituted for the words “heads of the departments concerned” to conform to the definition in section 101(5) of this revised title. The words “member of an armed force” are substituted for the words “members of the armed services”. The words “who are” are substituted for the words “in the event such dependents are”. The words “under subsection (a) or (b) of this section” are substituted for the words “in section 310c of this title” to reflect the section of this revised title which restates that section. The words “dependents of members of the armed forces” are substituted for the words “military dependents.” The words “at a place” are omitted as surplusage.
+
+In subsection (d), the words “If a” are substituted for the words “In the event the”. The words “credited to the account” are substituted for the words “passed to credit in the account”.
+
+#### Amendments
+
+1993—Subsec. (c). Pub. L. 103–160 substituted “the Secretary of Defense” for “the President” in first sentence.
+
+1992—Subsec. (c). Pub. L. 102–484 inserted first four sentences and struck out former first and second sentences which read as follows: “Under regulations prescribed by the Secretary concerned, an advance of pay to a member of a uniformed service who is on duty outside the United States, or other place designated by the President, of not more than two months’ basic pay may be made directly to his previously designated dependents who are ordered evacuated by competent authority. An advance of pay under this subsection is not subject to the conditions under which advances of pay may be made under subsection (a) or (b), and may be made only if all dependents of members of the uniformed services are ordered evacuated from the place where the member's dependents are located.”
+
+1991—Subsec. (c). Pub. L. 102–25 struck out “of this section” after “subsection (a) or (b)”.
+
+Subsec. (d). Pub. L. 102–25 struck out “of this section” after “subsection (a), (b), or (c)”.
+
+Subsec. (e). Pub. L. 102–25 struck out “of this section” after “subsections (a)–(d)”.
+
+1986—Subsec. (j). Pub. L. 99–661 added subsec. (j).
+
+1985—Subsec. (h). Pub. L. 99–145 substituted “subsections (a) and (b) of section 3324” for “section 3324(a) and (b)”.
+
+1982—Subsec. (h). Pub. L. 97–258 substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes (31 U.S.C. 529)” after “Notwithstanding”.
+
+1981—Subsec. (i). Pub. L. 97–60 added subsec. (i).
+
+1980—Subsec. (a). Pub. L. 96–343 inserted provision authorizing an advance payment of the amount of an allotment made from the pay of a member of the uniformed services to a dependent if the member is scheduled for duty with a unit deployed outside the United States and the allotment is made not more than 60 days before the scheduled date of the assignment.
+
+Pub. L. 96–215, §3(1), substituted “a uniformed service” for “an armed force or of the Public Health Service”.
+
+Subsec. (b). Pub. L. 96–215, §3(1), substituted “a uniformed service” for “an armed force or of the Public Health Service”.
+
+Subsec. (c). Pub. L. 96–215, §3(1), (2), substituted “a uniformed service” for “an armed force or of the Public Health Service” and “members of the uniformed services” for “members of the armed forces or of the Public Health Service”.
+
+Subsec. (d). Pub. L. 96–215, §3(3), substituted “from his uniformed service” for “from his armed force or from the Public Health Service”.
+
+Subsec. (e). Pub. L. 96–215, §3(4), substituted “uniformed services” for “armed forces and the Public Health Service”.
+
+Subsec. (h). Pub. L. 96–513 substituted “3648 of the Revised Statutes (31 U.S.C. 529)” for “529 of title 31”.
+
+Pub. L. 96–215, §3(5), substituted “a uniformed service” for “an armed force or of the Public Health Service”.
+
+1979—Subsecs. (a) to (d) and (h). Pub. L. 96–76 inserted reference to the Public Health Service.
+
+1968—Subsec. (a). Pub. L. 90–623, §3(9), substituted “change of permanent station” for “permanent change of station”.
+
+Subsec. (f). Pub. L. 90–623, §3(1), substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+
+1966—Subsec. (h). Pub. L. 89–718 redesignated as subsec. (h) the subsection relating to advance payment of pay and allowances when the last day of the pay period falls on a Saturday, Sunday, or legal holiday, formerly designated as subsec. (g).
+
+1965—Subsec. (c). Pub. L. 89–26, §1(6)(A), empowered the Secretary concerned or his designee to waive any right of recovery of not more than one month's basic pay advanced if he finds that recovery of the advance would be against equity and good conscience or against the public interest.
+
+Subsec. (g). Pub. L. 89–193 added subsec. (g) relating to the payment of pay and allowances when the last day of the pay period falls on a Saturday, Sunday, or legal holiday.
+
+Pub. L. 89–26, §1(6)(B), added subsec. (g) relating to advance payment of the dislocation allowance.
+
+#### Effective Date of 1992 Amendment
+
+Section 602(b) of Pub. L. 102–484 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to evacuations on or after June 1, 1991.”
+
+#### Effective Date of 1986 Amendment
+
+Section 602(b) of Pub. L. 99–661, as amended by Pub. L. 100–26, §3(2), Apr. 21, 1987, 101 Stat. 273, provided that: “Subsection (j) of section 1006 of title 37, United States Code, as added by subsection (a), shall apply with respect to pay payable for months beginning after the date of the enactment of this Act \[Nov. 14, 1986\].”
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
+
+#### Effective Date of 1979 Amendment
+
+Amendment by Pub. L. 96–76 effective Oct. 1, 1979, see section 314 of Pub. L. 96–76, set out as a note under section 206 of Title 42, The Public Health and Welfare.
+
+#### Effective Date of 1968 Amendment
+
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+
+#### Effective Date of 1965 Amendment
+
+Amendment by Pub. L. 89–26 effective Feb. 1, 1965, see section 2 of Pub. L. 89–26, as amended, set out as an Effective Date note under section 405a of this title.
+
+#### Fiscal Year of Recordation of Obligations
+
+Pub. L. 94–212, title VII, §744, Feb. 9, 1976, 90 Stat. 175, provided that: “Obligations hereafter incurred for advance payments of pay and allowances pursuant to section 1006 of title 37, United States Code, shall be recorded as obligations only in the fiscal year in which such payments are earned.”
+

@@ -1,0 +1,10 @@
+### §208. Delegation of function of Committee on the Judiciary to other agencies; printing, and so forth, under direction of Joint Committee on Printing
+
+The functions vested by sections 201, 202, 204–207 of this title in the Committee on the Judiciary of the House of Representatives may from time to time be vested in such other agency as the Congress may by concurrent resolution provide: <i>Provided,</i> That the printing, binding, and distribution of the volumes and publications enumerated in sections 202, 203 of this title shall be done under the direction of the Joint Committee on Printing.
+
+(July 30, 1947, ch. 388, 61 Stat. 639.)
+
+#### Cross References
+
+Office of the Law Revision Counsel, functions respecting, see section 285b of Title 2, The Congress.
+

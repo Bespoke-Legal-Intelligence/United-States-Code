@@ -1,0 +1,72 @@
+### §1111. Murder
+
+(a) Murder is the unlawful killing of a human being with malice aforethought. Every murder perpetrated by poison, lying in wait, or any other kind of willful, deliberate, malicious, and premeditated killing; or committed in the perpetration of, or attempt to perpetrate, any arson, escape, murder, kidnapping, treason, espionage, sabotage, aggravated sexual abuse or sexual abuse, burglary, or robbery; or perpetrated from a premeditated design unlawfully and maliciously to effect the death of any human being other than him who is killed, is murder in the first degree.
+
+Any other murder is murder in the second degree.
+
+(b) Within the special maritime and territorial jurisdiction of the United States,
+
+Whoever is guilty of murder in the first degree shall be punished by death or by imprisonment for life;
+
+Whoever is guilty of murder in the second degree, shall be imprisoned for any term of years or for life.
+
+(June 25, 1948, ch. 645, 62 Stat. 756; Oct. 12, 1984, Pub. L. 98–473, title II, §1004, 98 Stat. 2138; Nov. 10, 1986, Pub. L. 99–646, §87(c)(4), 100 Stat. 3623; Nov. 14, 1986, Pub. L. 99–654, §3(a)(4), 100 Stat. 3663; Nov. 18, 1988, Pub. L. 100–690, title VII, §7025, 102 Stat. 4397; Sept. 13, 1994, Pub. L. 103–322, title VI, §60003(a)(4), 108 Stat. 1969.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §§452, 454, 567 (Mar. 4, 1909, ch. 321, §§273, 275, 330, 35 Stat. 1143, 1152).
+
+Section consolidates the punishment provision of sections 454 and 567 of title 18, U.S.C., 1940 ed., with section 452 of title 18, U.S.C., 1940 ed.
+
+The provision of said section 454 for the death penalty for first degree murder was consolidated with section 567 of said title 18, by adding the words “unless the jury qualifies its verdict by adding thereto ‘without capital punishment’ in which event he shall be sentenced to imprisonment for life”.
+
+The punishment for second degree murder was changed and the phrase “for any term of years or for life” was substituted for the words “not less than ten years and may be imprisoned for life”. This change conforms to a uniform policy of omitting the minimum punishment.
+
+Said section 567 was not included in section 2031 of this title since the rewritten punishment provision for rape removes the necessity for a qualified verdict.
+
+The special maritime and territorial jurisdiction provision was added in view of definitive section 7 of this title.
+
+#### Amendments
+
+1994—Subsec. (b). Pub. L. 103–322 amended second par. generally. Prior to amendment, second par. read as follows: “Whoever is guilty of murder in the first degree, shall suffer death unless the jury qualifies its verdict by adding thereto ‘without capital punishment’, in which event he shall be sentenced to imprisonment for life;”.
+
+1988—Subsec. (a). Pub. L. 100–690 inserted a comma after “arson”.
+
+1986—Subsec. (a). Pub. L. 99–646 and Pub. L. 99–654 amended subsec. (a) identically, substituting “aggravated sexual abuse or sexual abuse” for “, rape”.
+
+1984—Subsec. (a). Pub. L. 98–473 inserted “escape, murder, kidnapping, treason, espionage, sabotage,” after “arson”.
+
+#### Effective Date of 1986 Amendments
+
+Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective respectively 30 days after Nov. 10, 1986, and 30 days after Nov. 14, 1986, see section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of this title.
+
+#### Cross References
+
+Actions aboard aircraft in special aircraft jurisdiction of United States in violation of this section punishable as provided herein, see section 46506 of Title 49, Transportation.
+
+Assault with intent to murder, see section 113 of this title.
+
+Bank robbery, murder in committing, see section 2113 of this title.
+
+High seas, citizen committing murder as pirate, see section 1652 of this title.
+
+Indian country—
+
+&emsp;&emsp;Jurisdiction of offenses committed by Indians, see section 3242 of this title.
+
+&emsp;&emsp;Law governing offenses, see section 1153 of this title.
+
+Limitations, capital offenses, see section 3281 of this title.
+
+Mailing matter of character tending to incite murder, see section 1461 of this title.
+
+Railroads, entering train to commit murder, see section 1991 of this title.
+
+Sentences, see section 3551 of this title.
+
+Venue, see section 3236 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 36, 115, 351, 924, 930, 1114, 1116, 1117, 1118, 1119, 1120, 1121, 1503, 1512, 1513, 1751, 2332, 3559, 5032 of this title; title 7 section 2146; title 15 section 1825; title 21 sections 461, 675, 1041; title 42 section 2283; title 49 section 46506.
+

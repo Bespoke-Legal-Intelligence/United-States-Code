@@ -1,0 +1,10 @@
+### §2109. Report on employment and international competitiveness
+
+Two years after August 4, 1988, the Comptroller General shall submit to the Committee on Small Business of both the House and Senate, the Committee on Labor and Human Resources, and the Committee on Education and Labor a report containing a detailed and objective analysis of the effect of this chapter on employers (especially small- and medium-sized businesses), the economy (international competitiveness), and employees (in terms of levels and conditions of employment). The Comptroller General shall assess both costs and benefits, including the effect on productivity, competitiveness, unemployment rates and compensation, and worker retraining and readjustment.
+
+(Pub. L. 100–379, §10, Aug. 4, 1988, 102 Stat. 894.)
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+

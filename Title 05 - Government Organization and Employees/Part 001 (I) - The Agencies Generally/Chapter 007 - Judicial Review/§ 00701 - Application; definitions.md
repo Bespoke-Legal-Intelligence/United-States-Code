@@ -1,0 +1,72 @@
+### §701. Application; definitions
+
+(a) This chapter applies, according to the provisions thereof, except to the extent that—
+
+&emsp;(1) statutes preclude judicial review; or
+
+&emsp;(2) agency action is committed to agency discretion by law.
+
+(b) For the purpose of this chapter—
+
+&emsp;(1) “agency” means each authority of the Government of the United States, whether or not it is within or subject to review by another agency, but does not include—
+
+&emsp;&emsp;(A) the Congress;
+
+&emsp;&emsp;(B) the courts of the United States;
+
+&emsp;&emsp;(C) the governments of the territories or possessions of the United States;
+
+&emsp;&emsp;(D) the government of the District of Columbia;
+
+&emsp;&emsp;(E) agencies composed of representatives of the parties or of representatives of organizations of the parties to the disputes determined by them;
+
+&emsp;&emsp;(F) courts martial and military commissions;
+
+&emsp;&emsp;(G) military authority exercised in the field in time of war or in occupied territory; or
+
+&emsp;&emsp;(H) functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; chapter 2 of title 41; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix; and
+
+&emsp;(2) “person”, “rule”, “order”, “license”, “sanction”, “relief”, and “agency action” have the meanings given them by section 551 of this title.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 392; Pub. L. 103–272, §5(a), July 5, 1994, 108 Stat. 1373.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+(a)
+
+5 U.S.C. 1009 (introductory clause).
+
+June 11, 1946, ch. 324, §10 (introductory clause), 60 Stat. 243.
+
+In subsection (a), the words “This chapter applies, according to the provisions thereof,” are added to avoid the necessity of repeating the introductory clause of former section 1009 in sections 702–706.
+
+Subsection (b) is added on authority of section 2 of the Act of June 11, 1946, ch. 324, 60 Stat. 237, as amended, which is carried into section 551 of this title.
+
+In subsection (b)(1)(G), the words “or naval” are omitted as included in “military”.
+
+In subsection (b)(1)(H), the words “functions which by law expire on the termination of present hostilities, within any fixed period thereafter, or before July 1, 1947” are omitted as executed. Reference to the “Selective Training and Service Act of 1940” is omitted as that Act expired on Mar. 31, 1947. Reference to the “Sugar Control Extension Act of 1947” is omitted as that Act expired on Mar. 31, 1948. References to the “Housing and Rent Act of 1947, as amended” and the “Veterans’ Emergency Housing Act of 1946” have been consolidated as they are related. The reference to former section 1641(b)(2) of title 50, appendix, is retained notwithstanding its repeal by §111(a)(1) of the Act of Sept. 21, 1961, Pub. L. 87–256, 75 Stat. 538, since §111(c) of the Act provides that a reference in other Acts to a provision of law repealed by §111(a) shall be considered to be a reference to the appropriate provisions of Pub. L. 87–256.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### References in Text
+
+Sections 1891–1902 of title 50, appendix, referred to in subsec. (b)(1)(H), were omitted from the Code as executed.
+
+#### Amendments
+
+1994—Subsec. (b)(1)(H). Pub. L. 103–272 substituted “subchapter II of chapter 471 of title 49; or sections” for “or sections 1622,”.
+
+#### Cross References
+
+Atomic Energy Community Act of 1955, administrative review only, see section 2309 of Title 42, The Public Health and Welfare.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 2 sections 501, 502; title 7 sections 1508, 2143; title 16 section 839f; title 18 sections 843, 3625; title 20 section 1683; title 25 section 954; title 30 section 956; title 41 section 422; title 42 sections 5405, 6105, 6976; title 50 App. section 2412.
+

@@ -1,0 +1,10 @@
+### §1973gg–8. Designation of chief State election official
+
+Each State shall designate a State officer or employee as the chief State election official to be responsible for coordination of State responsibilities under this subchapter.
+
+(Pub. L. 103–31, §10, May 20, 1993, 107 Stat. 87.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1973gg–6 of this title.
+

@@ -1,0 +1,50 @@
+### §2083. Annual national trade and customs law violation estimates and enforcement strategy
+
+#### (a) Violation estimates
+
+Not later than 30 days before the beginning of each fiscal year after fiscal year 1991, the Commissioner of Customs shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (hereafter in this section referred to as the “Committees”) a report that contains estimates of—
+
+&emsp;(1) the number and extent of violations of the trade, customs, and illegal drug control laws listed under subsection (b) of this section that will likely occur during the fiscal year; and
+
+&emsp;(2) the relative incidence of the violations estimated under paragraph (1) among the various ports of entry and customs regions within the customs territory.
+
+#### (b) Applicable statutory provisions
+
+The Commissioner of Customs, after consultation with the Committees—
+
+&emsp;(1) shall, within 60 days after August 20, 1990, prepare a list of those provisions of the trade, customs, and illegal drug control laws of the United States for which the United States Customs Service has enforcement responsibility and to which the reports required under subsection (a) of this section will apply; and
+
+&emsp;(2) may from time-to-time amend the listing developed under paragraph (1).
+
+#### (c) Enforcement strategy
+
+Within 90 days after submitting a report under subsection (a) of this section for any fiscal year, the Commissioner of Customs shall—
+
+&emsp;(1) develop a nationally uniform enforcement strategy for dealing during that year with the violations estimated in the report; and
+
+&emsp;(2) submit to the Committees a report setting forth the details of the strategy.
+
+#### (d) Compliance program
+
+The Commissioner of Customs shall—
+
+&emsp;(1) devise and implement a methodology for estimating the level of compliance with the laws administered by the Customs Service; and
+
+&emsp;(2) include as an additional part of the report required to be submitted under subsection (a) of this section for each of fiscal years 1994, 1995, and 1996, an evaluation of the extent to which such compliance was obtained during the 12-month period preceding the 60th day before each such fiscal year.
+
+#### (e) Confidentiality
+
+The contents of any report submitted to the Committees under subsection (a) or (c)(2) of thissection are confidential and disclosure of all or part of the contents is restricted to—
+
+&emsp;(1) officers and employees of the United States designated by the Commissioner of Customs;
+
+&emsp;(2) the chairman of each of the Committees; and
+
+&emsp;(3) those members of each of the Committees and staff persons of each of the Committees who are authorized by the chairman thereof to have access to the contents.
+
+(Pub. L. 101–382, title I, §123, Aug. 20, 1990, 104 Stat. 642; Pub. L. 103–182, title VI, §691(c), Dec. 8, 1993, 107 Stat. 2224.)
+
+#### Amendments
+
+1993—Subsecs. (d), (e). Pub. L. 103–182 added subsec. (d) and redesignated former subsec. (d) as (e).
+

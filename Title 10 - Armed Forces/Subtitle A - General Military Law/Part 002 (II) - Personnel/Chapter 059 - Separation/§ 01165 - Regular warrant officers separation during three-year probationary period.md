@@ -1,0 +1,46 @@
+### §1165 . Regular warrant officers: separation during three-year probationary period
+
+The Secretary concerned may terminate the regular appointment of any permanent regular warrant officer at any time within three years after the date when the officer accepted his original permanent appointment as a warrant officer in that component. A warrant officer who is separated under this section is entitled, if eligible therefor, to separation pay under section 1174 or he may be enlisted under section 515 of this title. If such a warrant officer is enlisted under section 515 of this title, he is not entitled to separation pay.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 90; Dec. 12, 1980, Pub. L. 96–513, title I, §109(b)(1), 94 Stat. 2870.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+1165
+
+10:600d (less last 36 words of last sentence).
+
+34:135d (less last 36 words of last sentence).
+
+May 29, 1954, ch. 249, §6 (less last 36 words of last sentence), 68 Stat. 159.
+
+The words “in his discretion” are omitted as surplusage. The last 10 words of the last sentence are inserted for clarity.
+
+#### Amendments
+
+1980—Pub. L. 96–513 authorized entitlement, if the regular warrant officer is eligible therefor, to separation pay under section 1174.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Cross References
+
+Coast Guard temporary warrant officers, appointment, see section 214 of Title 14, Coast Guard.
+
+Elimination for unfitness or unsatisfactory performance, see sections 576, 1166 of this title.
+
+Promotion, see section 573 et seq. of this title.
+
+Suspension during war or emergency, see section 644 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 515, 1166, 1174 of this title.
+

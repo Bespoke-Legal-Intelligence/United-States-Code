@@ -1,0 +1,30 @@
+### §484. Limitation on visitorial powers
+
+(a) No national bank shall be subject to any visitorial powers except as authorized by Federal law, vested in the courts of justice or such as shall be, or have been exercised or directed by Congress or by either House thereof or by any committee of Congress or of either House duly authorized.
+
+(b) Notwithstanding subsection (a) of this section, lawfully authorized State auditors and examiners may, at reasonable times and upon reasonable notice to a bank, review its records solely to ensure compliance with applicable State unclaimed property or escheat laws upon reasonable cause to believe that the bank has failed to comply with such laws.
+
+(R.S. §5240 (par.); Feb. 19, 1875, ch. 89, 18 Stat. 329; Dec. 23, 1913, ch. 6, §21, 38 Stat. 272; Oct. 15, 1982, Pub. L. 97–320, title IV, §412, 96 Stat. 1521; Jan. 12, 1983, Pub. L. 97–457, §23(a), 96 Stat. 2510.)
+
+#### Codification
+
+R.S. §5240 derived from act June 3, 1864, ch. 106, §54, 13 Stat. 116, which was part of the National Bank Act. See section 38 of this title.
+
+Section is comprised of sixth par. of R.S. §5240, as amended. See Codification note set out under section 481 of this title.
+
+Section 412 of Pub. L. 97–320, set out in the credit of this section, was amended by section 23(a) of Pub. L. 97–457 to correct an error in the directory language of section 412 of Pub. L. 97–320. That amendment involved only directory language and not the content of the text being amended by Pub. L. 97–320 so no change in the text of this section resulted from the amendment by Pub. L. 97–457.
+
+#### Amendments
+
+1982—Subsec. (a). Pub. L. 97–320, as amended by Pub. L. 97–457, designated existing provisions as subsec. (a), and amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “No bank shall be subject to any visitorial powers other than such as are authorized by law, or vested in the courts of justice or such as shall be or shall have been exercised or directed by Congress, or by either House thereof or by any committee of Congress or of either House duly authorized”.
+
+Subsec. (b). Pub. L. 97–320, as amended by Pub. L. 97–457, added subsec. (b).
+
+#### Effective Date of 1983 Amendment
+
+Section 23(b) of Pub. L. 97–457 provided that: “The amendment made by subsection (a) \[amending section 412 of Pub. L. 97–320, which amended this section\] shall be deemed to have taken effect upon the enactment of Public Law 97–320 \[Oct. 15, 1982\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 10, 181, 1831k of this title; title 26 section 3305.
+

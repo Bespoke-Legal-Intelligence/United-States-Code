@@ -1,0 +1,24 @@
+### §10710. Unclaimed money, property, and wages
+
+(a) When a claim for the money, property, or wages of a deceased seaman held by a district court of the United States has not been substantiated within 6 years after their receipt by the court, the court, if a subsequent claim is made, may allow or refuse the claim.
+
+(b) If, after money, property, and wages have been held by the court for 6 years, it appears to the court that no claim will have to be satisfied, the property shall be sold. The money and wages and the proceeds from the sale shall be deposited in the Treasury trust fund receipt account “Unclaimed Moneys of Individuals Whose Whereabouts are Unknown”.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 574.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source section (U.S. Code)</i>
+
+10710
+
+46:628
+
+Section 10710 provides that if no claim is made to a deceased seaman's property and wages within six years, the court shall sell the property and deposit the proceeds into the Treasury trust fund receipt account “Unclaimed Moneys of Individuals Whose Whereabouts are Unknown”.
+
+#### Cross References
+
+Refund of amounts erroneously deposited in unclaimed trust fund, see section 1322 of Title 31, Money and Finance.
+

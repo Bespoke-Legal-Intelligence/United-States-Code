@@ -1,0 +1,50 @@
+### §3156 . Definitions
+
+(a) As used in sections 3141–3150 of this chapter—
+
+&emsp;(1) the term “judicial officer” means, unless otherwise indicated, any person or court authorized pursuant to section 3041 of this title, or the Federal Rules of Criminal Procedure, to detain or release a person before trial or sentencing or pending appeal in a court of the United States, and any judge of the Superior Court of the District of Columbia;
+
+&emsp;(2) the term “offense” means any criminal offense, other than an offense triable by court-martial, military commission, provost court, or other military tribunal, which is in violation of an Act of Congress and is triable in any court established by Act of Congress;
+
+&emsp;(3) the term “felony” means an offense punishable by a maximum term of imprisonment of more than one year; and
+
+&emsp;(4) the term “crime of violence” means—
+
+&emsp;&emsp;(A) an offense that has as an element of the offense the use, attempted use, or threatened use of physical force against the person or property of another;
+
+&emsp;&emsp;(B) any other offense that is a felony and that, by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense; or
+
+&emsp;&emsp;(C) any felony under chapter 109A or chapter 110.
+
+(b) As used in sections 3152–3155 of this chapter—
+
+&emsp;(1) the term “judicial officer” means, unless otherwise indicated, any person or court authorized pursuant to section 3041 of this title, or the Federal Rules of Criminal Procedure, to detain or release a person before trial or sentencing or pending appeal in a court of the United States, and
+
+&emsp;(2) the term “offense” means any Federal criminal offense which is in violation of any Act of Congress and is triable by any court established by Act of Congress (other than a Class B or C misdemeanor or an infraction, or an offense triable by court-martial, military commission, provost court, or other military tribunal).
+
+(Added Pub. L. 93–619, title II, §201, Jan. 3, 1975, 88 Stat. 2088; amended Pub. L. 98–473, title II, §§203(c), 223(h), Oct. 12, 1984, 98 Stat. 1985, 2029; Pub. L. 99–646, §55(i), Nov. 10, 1986, 100 Stat. 3610; Pub. L. 103–322, title IV, §40501, Sept. 13, 1994, 108 Stat. 1945.)
+
+#### Amendments
+
+1994—Subsec. (a)(4)(C). Pub. L. 103–322 added subpar. (C).
+
+1986—Subsec. (a). Pub. L. 99–646 substituted “the term” for “The term” in pars. (1) to (4) and struck out “and” after “Congress;” in par. (2).
+
+1984—Subsec. (a). Pub. L. 98–473, §203(c)(1), substituted “3141” for “3146” in provision preceding par. (1).
+
+Subsec. (a)(1). Pub. L. 98–473, §203(c)(2), substituted “to detain or release” for “to bail or otherwise release” and struck out “and” after “District of Columbia;”.
+
+Subsec. (a)(3), (4). Pub. L. 98–473, §203(c)(3), (4), added pars. (3) and (4).
+
+Subsec. (b)(1). Pub. L. 98–473, §203(c)(5), substituted “to detain or release” for “to bail or otherwise release”.
+
+Subsec. (b)(2). Pub. L. 98–473, §223(h), substituted “Class B or C misdemeanor or an infraction” for “petty offense as defined in section 1(3) of this title”.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by Pub. L. 99–646 effective 30 days after Nov. 10, 1986, see section 55(j) of Pub. L. 99–646, set out as a note under section 3141 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by section 223(h) of Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
+

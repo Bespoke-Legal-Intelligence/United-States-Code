@@ -1,0 +1,1127 @@
+{
+ "built_by": "uscode_git_v0.1.12",
+ "eid": "USCODE-title13",
+ "package": "USCODE-1994-title13",
+ "pieces": [
+  {
+   "id": "13_",
+   "marks": [
+    [
+     "L",
+     3,
+     "[Page 1]",
+     true
+    ],
+    [
+     "I",
+     284,
+     [
+      [
+       167,
+       "[Page 2]"
+      ]
+     ]
+    ]
+   ],
+   "path": "README.md",
+   "printed_pages": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "13_-ch1",
+   "marks": [],
+   "path": "Chapter 001 - Administration/README.md",
+   "printed_pages": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "13_-ch1-scI",
+   "marks": [],
+   "path": "Chapter 001 - Administration/Subchapter 001 (I) - General Provisions/README.md",
+   "printed_pages": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "13_1",
+   "marks": [],
+   "path": "Chapter 001 - Administration/Subchapter 001 (I) - General Provisions/§ 00001 - Definitions.md",
+   "printed_pages": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "13_2",
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 3]",
+     true
+    ]
+   ],
+   "path": "Chapter 001 - Administration/Subchapter 001 (I) - General Provisions/§ 00002 - Bureau of the Census.md",
+   "printed_pages": [
+    2,
+    3
+   ]
+  },
+  {
+   "id": "13_3",
+   "marks": [],
+   "path": "Chapter 001 - Administration/Subchapter 001 (I) - General Provisions/§ 00003 - Seal.md",
+   "printed_pages": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "13_4",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       112,
+       "[Page 4]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Administration/Subchapter 001 (I) - General Provisions/§ 00004 - Functions of Secretary; regulations; delegation.md",
+   "printed_pages": [
+    3,
+    4
+   ]
+  },
+  {
+   "id": "13_5",
+   "marks": [],
+   "path": "Chapter 001 - Administration/Subchapter 001 (I) - General Provisions/§ 00005 - Questionnaires; number, form, and scope of inquiries.md",
+   "printed_pages": [
+    4,
+    4
+   ]
+  },
+  {
+   "id": "13_6",
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       236,
+       "[Page 5]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Administration/Subchapter 001 (I) - General Provisions/§ 00006 - Information from other Federal departments and agencies; acquisition of reports from other governmental and private sources.md",
+   "printed_pages": [
+    4,
+    5
+   ]
+  },
+  {
+   "id": "13_7",
+   "marks": [],
+   "path": "Chapter 001 - Administration/Subchapter 001 (I) - General Provisions/§ 00007 - Printing; requisitions upon Public Printer; publication of bulletins and reports.md",
+   "printed_pages": [
+    5,
+    5
+   ]
+  },
+  {
+   "id": "13_8",
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       89,
+       "[Page 6]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Administration/Subchapter 001 (I) - General Provisions/§ 00008 - Authenticated transcripts or copies of certain returns; other data; restriction on use; disposition of fees received.md",
+   "printed_pages": [
+    5,
+    6
+   ]
+  },
+  {
+   "id": "13_9",
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       174,
+       "[Page 7]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Administration/Subchapter 001 (I) - General Provisions/§ 00009 - Information as confidential; exception.md",
+   "printed_pages": [
+    6,
+    7
+   ]
+  },
+  {
+   "id": "13_[10",
+   "marks": [],
+   "path": "Chapter 001 - Administration/Subchapter 001 (I) - General Provisions/§ 00010 - Repealed. Pub. L. 86–682, §12(a), Sept. 2, 1960, 74 Stat. 708, eff. Sept. 1, 1960.md",
+   "printed_pages": [
+    7,
+    7
+   ]
+  },
+  {
+   "id": "13_11",
+   "marks": [],
+   "path": "Chapter 001 - Administration/Subchapter 001 (I) - General Provisions/§ 00011 - Authorization of appropriations.md",
+   "printed_pages": [
+    7,
+    7
+   ]
+  },
+  {
+   "id": "13_12",
+   "marks": [],
+   "path": "Chapter 001 - Administration/Subchapter 001 (I) - General Provisions/§ 00012 - Mechanical and electronic development.md",
+   "printed_pages": [
+    7,
+    7
+   ]
+  },
+  {
+   "id": "13_13",
+   "marks": [],
+   "path": "Chapter 001 - Administration/Subchapter 001 (I) - General Provisions/§ 00013 - Procurement of professional services.md",
+   "printed_pages": [
+    7,
+    7
+   ]
+  },
+  {
+   "id": "13_[14",
+   "marks": [],
+   "path": "Chapter 001 - Administration/Subchapter 001 (I) - General Provisions/§ 00014 - Repealed. Pub. L. 89–473, §2(a), June 29, 1966, 80 Stat. 221.md",
+   "printed_pages": [
+    7,
+    7
+   ]
+  },
+  {
+   "id": "13_15",
+   "marks": [],
+   "path": "Chapter 001 - Administration/Subchapter 001 (I) - General Provisions/§ 00015 - Leases for 1980 decennial census.md",
+   "printed_pages": [
+    7,
+    7
+   ]
+  },
+  {
+   "id": "13_16",
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 8]",
+     true
+    ]
+   ],
+   "path": "Chapter 001 - Administration/Subchapter 001 (I) - General Provisions/§ 00016 - Address information reviewed by States and local governments.md",
+   "printed_pages": [
+    7,
+    8
+   ]
+  },
+  {
+   "id": "13_-ch1-scII",
+   "marks": [],
+   "path": "Chapter 001 - Administration/Subchapter 002 (II) - Officers and Employees/README.md",
+   "printed_pages": [
+    8,
+    8
+   ]
+  },
+  {
+   "id": "13_21",
+   "marks": [],
+   "path": "Chapter 001 - Administration/Subchapter 002 (II) - Officers and Employees/§ 00021 - Director of the Census; duties.md",
+   "printed_pages": [
+    8,
+    8
+   ]
+  },
+  {
+   "id": "13_22",
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 9]",
+     true
+    ]
+   ],
+   "path": "Chapter 001 - Administration/Subchapter 002 (II) - Officers and Employees/§ 00022 - Qualifications of permanent personnel.md",
+   "printed_pages": [
+    8,
+    9
+   ]
+  },
+  {
+   "id": "13_23",
+   "marks": [
+    [
+     "I",
+     32,
+     [
+      [
+       116,
+       "[Page 10]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Administration/Subchapter 002 (II) - Officers and Employees/§ 00023 - Additional officers and employees.md",
+   "printed_pages": [
+    9,
+    10
+   ]
+  },
+  {
+   "id": "13_24",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       133,
+       "[Page 11]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     48,
+     [
+      [
+       155,
+       "[Page 12]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Administration/Subchapter 002 (II) - Officers and Employees/§ 00024 - Special employment provisions.md",
+   "printed_pages": [
+    10,
+    12
+   ]
+  },
+  {
+   "id": "13_25",
+   "marks": [],
+   "path": "Chapter 001 - Administration/Subchapter 002 (II) - Officers and Employees/§ 00025 - Duties of supervisors, enumerators, and other employees.md",
+   "printed_pages": [
+    12,
+    12
+   ]
+  },
+  {
+   "id": "13_26",
+   "marks": [],
+   "path": "Chapter 001 - Administration/Subchapter 002 (II) - Officers and Employees/§ 00026 - Transportation by contract.md",
+   "printed_pages": [
+    12,
+    12
+   ]
+  },
+  {
+   "id": "13_-ch3",
+   "marks": [],
+   "path": "Chapter 003 - Collection and Publication of Statistics/README.md",
+   "printed_pages": [
+    12,
+    12
+   ]
+  },
+  {
+   "id": "13_-ch3-scI",
+   "marks": [],
+   "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 001 (I) - Cotton/README.md",
+   "printed_pages": [
+    12,
+    12
+   ]
+  },
+  {
+   "id": "13_41",
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 13]",
+     true
+    ]
+   ],
+   "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 001 (I) - Cotton/§ 00041 - Collection and publication.md",
+   "printed_pages": [
+    12,
+    13
+   ]
+  },
+  {
+   "id": "13_42",
+   "marks": [],
+   "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 001 (I) - Cotton/§ 00042 - Contents of reports; number of bales of linter; distribution; publication by Department of Agriculture.md",
+   "printed_pages": [
+    13,
+    13
+   ]
+  },
+  {
+   "id": "13_43",
+   "marks": [],
+   "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 001 (I) - Cotton/§ 00043 - Records and reports of cotton ginners.md",
+   "printed_pages": [
+    13,
+    13
+   ]
+  },
+  {
+   "id": "13_44",
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 14]",
+     true
+    ]
+   ],
+   "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 001 (I) - Cotton/§ 00044 - Foreign cotton statistics.md",
+   "printed_pages": [
+    13,
+    14
+   ]
+  },
+  {
+   "id": "13_45",
+   "marks": [],
+   "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 001 (I) - Cotton/§ 00045 - Simultaneous publication of cotton reports.md",
+   "printed_pages": [
+    14,
+    14
+   ]
+  },
+  {
+   "id": "13_-ch3-scII",
+   "marks": [],
+   "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 002 (II) - Oilseeds, Nuts, and Kernels; Fats, Oils, and Greases/README.md",
+   "printed_pages": [
+    14,
+    14
+   ]
+  },
+  {
+   "id": "13_61",
+   "marks": [],
+   "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 002 (II) - Oilseeds, Nuts, and Kernels; Fats, Oils, and Greases/§ 00061 - Collection and publication.md",
+   "printed_pages": [
+    14,
+    14
+   ]
+  },
+  {
+   "id": "13_62",
+   "marks": [],
+   "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 002 (II) - Oilseeds, Nuts, and Kernels; Fats, Oils, and Greases/§ 00062 - Additional statistics.md",
+   "printed_pages": [
+    14,
+    14
+   ]
+  },
+  {
+   "id": "13_63",
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       106,
+       "[Page 15]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 002 (II) - Oilseeds, Nuts, and Kernels; Fats, Oils, and Greases/§ 00063 - Duplicate collection of statistics prohibited; access to available statistics.md",
+   "printed_pages": [
+    14,
+    15
+   ]
+  },
+  {
+   "id": "13_-ch3-scIII",
+   "marks": [],
+   "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 003 (III) - Apparel and Textiles/README.md",
+   "printed_pages": [
+    15,
+    15
+   ]
+  },
+  {
+   "id": "13_81",
+   "marks": [],
+   "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 003 (III) - Apparel and Textiles/§ 00081 - Statistics on apparel and textile industries.md",
+   "printed_pages": [
+    15,
+    15
+   ]
+  },
+  {
+   "id": "13_-ch3-scIV",
+   "marks": [],
+   "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 004 (IV) - Quarterly Financial Statistics/README.md",
+   "printed_pages": [
+    15,
+    15
+   ]
+  },
+  {
+   "id": "13_91",
+   "marks": [],
+   "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 004 (IV) - Quarterly Financial Statistics/§ 00091 - Collection and publication.md",
+   "printed_pages": [
+    15,
+    15
+   ]
+  },
+  {
+   "id": "13_-ch3-scV",
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 16]",
+     true
+    ]
+   ],
+   "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 005 (V) - Miscellaneous/README.md",
+   "printed_pages": [
+    15,
+    16
+   ]
+  },
+  {
+   "id": "13_101",
+   "marks": [],
+   "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 005 (V) - Miscellaneous/§ 00101 - Defective, dependent, and delinquent classes; crime.md",
+   "printed_pages": [
+    16,
+    16
+   ]
+  },
+  {
+   "id": "13_102",
+   "marks": [],
+   "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 005 (V) - Miscellaneous/§ 00102 - Religion.md",
+   "printed_pages": [
+    16,
+    16
+   ]
+  },
+  {
+   "id": "13_103",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       108,
+       "[Page 17]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 005 (V) - Miscellaneous/§ 00103 - Designation of reports.md",
+   "printed_pages": [
+    16,
+    17
+   ]
+  },
+  {
+   "id": "13_-ch5",
+   "marks": [],
+   "path": "Chapter 005 - Censuses/README.md",
+   "printed_pages": [
+    17,
+    17
+   ]
+  },
+  {
+   "id": "13_-ch5-scI",
+   "marks": [],
+   "path": "Chapter 005 - Censuses/Subchapter 001 (I) - Manufactures, Mineral Industries, and Other Businesses/README.md",
+   "printed_pages": [
+    17,
+    17
+   ]
+  },
+  {
+   "id": "13_131",
+   "marks": [
+    [
+     "I",
+     22,
+     [
+      [
+       101,
+       "[Page 18]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 005 - Censuses/Subchapter 001 (I) - Manufactures, Mineral Industries, and Other Businesses/§ 00131 - Collection and publication; five-year periods.md",
+   "printed_pages": [
+    17,
+    18
+   ]
+  },
+  {
+   "id": "13_132",
+   "marks": [],
+   "path": "Chapter 005 - Censuses/Subchapter 001 (I) - Manufactures, Mineral Industries, and Other Businesses/§ 00132 - Controlling law; effect on other agencies.md",
+   "printed_pages": [
+    18,
+    18
+   ]
+  },
+  {
+   "id": "13_-ch5-scII",
+   "marks": [],
+   "path": "Chapter 005 - Censuses/Subchapter 002 (II) - Population, Housing, Agriculture, Irrigation,, and Unemployment/README.md",
+   "printed_pages": [
+    18,
+    18
+   ]
+  },
+  {
+   "id": "13_141",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       139,
+       "[Page 19]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     90,
+     "[Page 20]",
+     true
+    ]
+   ],
+   "path": "Chapter 005 - Censuses/Subchapter 002 (II) - Population, Housing, Agriculture, Irrigation,, and Unemployment/§ 00141 - Population and other census information.md",
+   "printed_pages": [
+    18,
+    20
+   ]
+  },
+  {
+   "id": "13_142",
+   "marks": [
+    [
+     "I",
+     22,
+     [
+      [
+       107,
+       "[Page 21]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 005 - Censuses/Subchapter 002 (II) - Population, Housing, Agriculture, Irrigation,, and Unemployment/§ 00142 - Agriculture and irrigation.md",
+   "printed_pages": [
+    20,
+    21
+   ]
+  },
+  {
+   "id": "13_[143_to_146",
+   "marks": [],
+   "path": "Chapter 005 - Censuses/Subchapter 002 (II) - Population, Housing, Agriculture, Irrigation,, and Unemployment/§ 00143 to 146 - Repealed. Pub. L. 85–207, §11, Aug. 28, 1957, 71 Stat. 483.md",
+   "printed_pages": [
+    21,
+    21
+   ]
+  },
+  {
+   "id": "13_-ch5-scIII",
+   "marks": [],
+   "path": "Chapter 005 - Censuses/Subchapter 003 (III) - Governments/README.md",
+   "printed_pages": [
+    21,
+    21
+   ]
+  },
+  {
+   "id": "13_161",
+   "marks": [],
+   "path": "Chapter 005 - Censuses/Subchapter 003 (III) - Governments/§ 00161 - Quinquennial censuses; inclusion of certain data.md",
+   "printed_pages": [
+    21,
+    21
+   ]
+  },
+  {
+   "id": "13_[162",
+   "marks": [],
+   "path": "Chapter 005 - Censuses/Subchapter 003 (III) - Governments/§ 00162 - Repealed. Pub. L. 85–207, §13, Aug. 28, 1957, 71 Stat. 483.md",
+   "printed_pages": [
+    21,
+    21
+   ]
+  },
+  {
+   "id": "13_163",
+   "marks": [],
+   "path": "Chapter 005 - Censuses/Subchapter 003 (III) - Governments/§ 00163 - Authority of other agencies.md",
+   "printed_pages": [
+    21,
+    21
+   ]
+  },
+  {
+   "id": "13_-ch5-scIV",
+   "marks": [],
+   "path": "Chapter 005 - Censuses/Subchapter 004 (IV) - Interim Current Data/README.md",
+   "printed_pages": [
+    21,
+    21
+   ]
+  },
+  {
+   "id": "13_181",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       653,
+       "[Page 22]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 005 - Censuses/Subchapter 004 (IV) - Interim Current Data/§ 00181 - Population.md",
+   "printed_pages": [
+    21,
+    22
+   ]
+  },
+  {
+   "id": "13_182",
+   "marks": [],
+   "path": "Chapter 005 - Censuses/Subchapter 004 (IV) - Interim Current Data/§ 00182 - Surveys.md",
+   "printed_pages": [
+    22,
+    22
+   ]
+  },
+  {
+   "id": "13_183",
+   "marks": [],
+   "path": "Chapter 005 - Censuses/Subchapter 004 (IV) - Interim Current Data/§ 00183 - Use of most recent population data.md",
+   "printed_pages": [
+    22,
+    22
+   ]
+  },
+  {
+   "id": "13_184",
+   "marks": [],
+   "path": "Chapter 005 - Censuses/Subchapter 004 (IV) - Interim Current Data/§ 00184 - Definitions.md",
+   "printed_pages": [
+    22,
+    22
+   ]
+  },
+  {
+   "id": "13_-ch5-scV",
+   "marks": [],
+   "path": "Chapter 005 - Censuses/Subchapter 005 (V) - Geographic Scope, Preliminary and Supplemental Statistics, and Use of Sampling/README.md",
+   "printed_pages": [
+    22,
+    22
+   ]
+  },
+  {
+   "id": "13_191",
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 23]",
+     true
+    ]
+   ],
+   "path": "Chapter 005 - Censuses/Subchapter 005 (V) - Geographic Scope, Preliminary and Supplemental Statistics, and Use of Sampling/§ 00191 - Geographic scope of censuses.md",
+   "printed_pages": [
+    22,
+    23
+   ]
+  },
+  {
+   "id": "13_193",
+   "marks": [],
+   "path": "Chapter 005 - Censuses/Subchapter 005 (V) - Geographic Scope, Preliminary and Supplemental Statistics, and Use of Sampling/§ 00193 - Preliminary and supplemental statistics.md",
+   "printed_pages": [
+    23,
+    23
+   ]
+  },
+  {
+   "id": "13_195",
+   "marks": [],
+   "path": "Chapter 005 - Censuses/Subchapter 005 (V) - Geographic Scope, Preliminary and Supplemental Statistics, and Use of Sampling/§ 00195 - Use of sampling.md",
+   "printed_pages": [
+    23,
+    23
+   ]
+  },
+  {
+   "id": "13_196",
+   "marks": [],
+   "path": "Chapter 005 - Censuses/Subchapter 005 (V) - Geographic Scope, Preliminary and Supplemental Statistics, and Use of Sampling/§ 00196 - Special censuses.md",
+   "printed_pages": [
+    23,
+    23
+   ]
+  },
+  {
+   "id": "13_-ch7",
+   "marks": [
+    [
+     "L",
+     37,
+     "[Page 24]",
+     true
+    ]
+   ],
+   "path": "Chapter 007 - Offenses and Penalties/README.md",
+   "printed_pages": [
+    23,
+    24
+   ]
+  },
+  {
+   "id": "13_-ch7-scI",
+   "marks": [],
+   "path": "Chapter 007 - Offenses and Penalties/Subchapter 001 (I) - Officers and Employees/README.md",
+   "printed_pages": [
+    24,
+    24
+   ]
+  },
+  {
+   "id": "13_211",
+   "marks": [],
+   "path": "Chapter 007 - Offenses and Penalties/Subchapter 001 (I) - Officers and Employees/§ 00211 - Receiving or securing compensation for appointment of employees.md",
+   "printed_pages": [
+    24,
+    24
+   ]
+  },
+  {
+   "id": "13_212",
+   "marks": [],
+   "path": "Chapter 007 - Offenses and Penalties/Subchapter 001 (I) - Officers and Employees/§ 00212 - Refusal or neglect of employees to perform duties.md",
+   "printed_pages": [
+    24,
+    24
+   ]
+  },
+  {
+   "id": "13_213",
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 25]",
+     true
+    ]
+   ],
+   "path": "Chapter 007 - Offenses and Penalties/Subchapter 001 (I) - Officers and Employees/§ 00213 - False statements, certificates, and information.md",
+   "printed_pages": [
+    24,
+    25
+   ]
+  },
+  {
+   "id": "13_214",
+   "marks": [
+    [
+     "L",
+     36,
+     "[Page 26]",
+     true
+    ]
+   ],
+   "path": "Chapter 007 - Offenses and Penalties/Subchapter 001 (I) - Officers and Employees/§ 00214 - Wrongful disclosure of information.md",
+   "printed_pages": [
+    25,
+    26
+   ]
+  },
+  {
+   "id": "13_-ch7-scII",
+   "marks": [],
+   "path": "Chapter 007 - Offenses and Penalties/Subchapter 002 (II) - Other Persons/README.md",
+   "printed_pages": [
+    26,
+    26
+   ]
+  },
+  {
+   "id": "13_221",
+   "marks": [],
+   "path": "Chapter 007 - Offenses and Penalties/Subchapter 002 (II) - Other Persons/§ 00221 - Refusal or neglect to answer questions; false answers.md",
+   "printed_pages": [
+    26,
+    26
+   ]
+  },
+  {
+   "id": "13_222",
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 27]",
+     true
+    ]
+   ],
+   "path": "Chapter 007 - Offenses and Penalties/Subchapter 002 (II) - Other Persons/§ 00222 - Giving suggestions or information with intent to cause inaccurate enumeration of population.md",
+   "printed_pages": [
+    26,
+    27
+   ]
+  },
+  {
+   "id": "13_223",
+   "marks": [
+    [
+     "L",
+     34,
+     "[Page 28]",
+     true
+    ]
+   ],
+   "path": "Chapter 007 - Offenses and Penalties/Subchapter 002 (II) - Other Persons/§ 00223 - Refusal, by owners, proprietors, etc., to assist census employees.md",
+   "printed_pages": [
+    27,
+    28
+   ]
+  },
+  {
+   "id": "13_224",
+   "marks": [
+    [
+     "L",
+     36,
+     "[Page 29]",
+     true
+    ]
+   ],
+   "path": "Chapter 007 - Offenses and Penalties/Subchapter 002 (II) - Other Persons/§ 00224 - Failure to answer questions affecting companies, businesses, religious bodies, and other organizations; false answers.md",
+   "printed_pages": [
+    28,
+    29
+   ]
+  },
+  {
+   "id": "13_225",
+   "marks": [],
+   "path": "Chapter 007 - Offenses and Penalties/Subchapter 002 (II) - Other Persons/§ 00225 - Applicability of penal provisions in certain cases.md",
+   "printed_pages": [
+    29,
+    29
+   ]
+  },
+  {
+   "id": "13_-ch7-scIII",
+   "marks": [],
+   "path": "Chapter 007 - Offenses and Penalties/Subchapter 003 (III) - Procedure/README.md",
+   "printed_pages": [
+    29,
+    29
+   ]
+  },
+  {
+   "id": "13_241",
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       221,
+       "[Page 30]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 007 - Offenses and Penalties/Subchapter 003 (III) - Procedure/§ 00241 - Evidence.md",
+   "printed_pages": [
+    29,
+    30
+   ]
+  },
+  {
+   "id": "13_-ch9",
+   "marks": [],
+   "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/README.md",
+   "printed_pages": [
+    30,
+    30
+   ]
+  },
+  {
+   "id": "13_301",
+   "marks": [
+    [
+     "I",
+     36,
+     [
+      [
+       647,
+       "[Page 31]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     100,
+     [
+      [
+       209,
+       "[Page 32]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00301 - Collection and publication.md",
+   "printed_pages": [
+    30,
+    32
+   ]
+  },
+  {
+   "id": "13_302",
+   "marks": [],
+   "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00302 - Rules, regulations, and orders.md",
+   "printed_pages": [
+    32,
+    32
+   ]
+  },
+  {
+   "id": "13_303",
+   "marks": [],
+   "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00303 - Secretary of Treasury functions.md",
+   "printed_pages": [
+    32,
+    32
+   ]
+  },
+  {
+   "id": "13_304",
+   "marks": [],
+   "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00304 - Filing export information, delayed filings, penalties for failure to file.md",
+   "printed_pages": [
+    32,
+    32
+   ]
+  },
+  {
+   "id": "13_305",
+   "marks": [],
+   "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00305 - Violations, penalties.md",
+   "printed_pages": [
+    32,
+    32
+   ]
+  },
+  {
+   "id": "13_306",
+   "marks": [],
+   "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00306 - Delegation of functions.md",
+   "printed_pages": [
+    32,
+    32
+   ]
+  },
+  {
+   "id": "13_307",
+   "marks": [],
+   "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00307 - Relationship to general census law.md",
+   "printed_pages": [
+    32,
+    32
+   ]
+  },
+  {
+   "id": "13_-ch10",
+   "marks": [],
+   "path": "Chapter 010 - Exchange of Census Information/README.md",
+   "printed_pages": [
+    32,
+    32
+   ]
+  },
+  {
+   "id": "13_401",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       126,
+       "[Page 33]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 010 - Exchange of Census Information/§ 00401 - Exchange of census information with Bureau of Economic Analysis.md",
+   "printed_pages": [
+    32,
+    33
+   ]
+  }
+ ],
+ "provenance_line": "<!-- USCODE-1994-title13 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "title_folder": "Title 13 - Census"
+}

@@ -1,0 +1,32 @@
+### §654. Officer or employee of United States converting property of another
+
+Whoever, being an officer or employee of the United States or of any department or agency thereof, embezzles or wrongfully converts to his own use the money or property of another which comes into his possession or under his control in the execution of such office or employment, or under color or claim of authority as such officer or employee, shall be fined under this title or not more than the value of the money and property thus embezzled or converted, whichever is greater, or imprisoned not more than ten years, or both; but if the sum embezzled is $100 or less, he shall be fined under this title or imprisoned not more than one year, or both.
+
+(June 25, 1948, ch. 645, 62 Stat. 728; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (2)(H), 108 Stat. 2147, 2148.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §183 (Mar. 4, 1909, ch. 321, §97, 35 Stat. 1106).
+
+The phrase “Whoever being an officer or agent of the United States or of any department or agency thereof,” was substituted for the words “Any officer connected with, or employed in the Internal Revenue Service of the United States \* \* \* And any officer of the United States, or any assistant of such officer,” in order to clarify scope of section. (See definitive section 6 and reviser's note thereunder.)
+
+The embezzlement of Government money or property is adequately covered by section 641 of this title.
+
+The smaller punishment for an offense involving $100 or less was added. (See reviser's notes under sections 641 and 645 of this title.)
+
+Minor changes were made in phraseology.
+
+#### Amendments
+
+1994—Pub. L. 103–322, §330016(2)(H), substituted “shall be fined under this title or not more than the value of the money and property thus embezzled or converted, whichever is greater, or imprisoned” for “shall be fined not more than the value of the money and property thus embezzled or converted, or imprisoned”.
+
+Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
+
+#### Cross References
+
+Postmaster or employee embezzling mail matter, see section 1709 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 5 section 3374.
+

@@ -1,0 +1,20 @@
+### §1007. Governing board
+
+#### (a) Executive officers
+
+During the intervals between the national convention the executive officers shall be the governing board of the corporation and shall be held responsible for the general policies, program, and activities of the corporation.
+
+#### (b) Initial officers
+
+Upon the enactment of this chapter the membership of the initial executive officers of the corporation shall consist of the executive officers of the National Woman's Relief Corps, Auxiliary to the Grand Army of the Republic, the corporation described in section 1018 of this title, or such of them as may then be living and are qualified members of said executive officers, to wit: Mabel R. Ginder, Jessie Johnston, Irene Randolph, Bessie K. Coughlin, Ocie M. Tumey, Mary J. Love, Laura I. Smith, Ethel Ferris Hasenbuhler, and Marie Morgan.
+
+#### (c) Council of administration
+
+Thereafter, the council of administration of the corporation shall consist of not less than seven members elected in the manner and for the term as may be prescribed in the constitution and bylaws of the corporation.
+
+(Pub. L. 87–650, §7, Sept. 7, 1962, 76 Stat. 504.)
+
+#### References in Text
+
+Upon the enactment of this chapter, referred to in subsec. (b), means the enactment of Pub. L. 87–650, which was enacted Sept. 7, 1962.
+

@@ -1,0 +1,29 @@
+### SUBCHAPTER I—RESEARCH AND DEMONSTRATIONS
+
+#### Codification
+
+In the original, section 4 of Pub. L. 93–644, Jan. 4, 1975, 88 Stat. 2292, provided in part that “Title I of the Economic Opportunity Act of 1964 is amended to read as follows: ‘Title II—Research and Demonstrations’ ”. Section 4 also added sections 101 to 105 to such title II of the Economic Opportunity Act of 1964. However, title II was subsequently redesignated title I of the Act by section 2(a)(3) of Pub. L. 94–341, July 6, 1976, 90 Stat. 803, and classified as subchapter I of this chapter.
+
+#### Executive Order No. 11330
+
+Ex. Ord. No. 11330, Mar. 5, 1967, 32 F.R. 3871, as amended by Ex. Ord. No. 11547, July 10, 1970, 35 Stat. 11221; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which established the President's Council on Youth Opportunity and the Citizens Advisory Board on Youth Opportunity and provided for their respective memberships, functions, etc., was revoked by Ex. Ord. No. 12379, §17, Aug. 17, 1982, 47 F.R. 36100, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+#### Authorization of Appropriations for President's Council on Youth Opportunity
+
+Pub. L. 91–176, Dec. 30, 1969, 83 Stat. 826, provided: “That there is hereby authorized to be appropriated such sums as may be necessary for the expenses of the President's Council on Youth Opportunity, established by Executive Order Numbered 11330 of March 5, 1967.”
+
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in section 2707 of this title; title 20 section 3286; title 29 section 795a.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [Part A - Research, Demonstration, and Pilot Projects](Part%20A%20-%20Research%2C%20Demonstration%2C%20and%20Pilot%20Projects/README.md)
+- [Part B - Work and Training for Youth and Adults](Part%20B%20-%20Work%20and%20Training%20for%20Youth%20and%20Adults/README.md)
+- [Part C - Federal Work-Study Programs](Part%20C%20-%20Federal%20Work-Study%20Programs/README.md)
+- [Part D - Special Impact Programs](Part%20D%20-%20Special%20Impact%20Programs/README.md)
+- [Part E - Special Work and Career Development Programs](Part%20E%20-%20Special%20Work%20and%20Career%20Development%20Programs/README.md)
+- [Part F - Duration of Programs](Part%20F%20-%20Duration%20of%20Programs/README.md)

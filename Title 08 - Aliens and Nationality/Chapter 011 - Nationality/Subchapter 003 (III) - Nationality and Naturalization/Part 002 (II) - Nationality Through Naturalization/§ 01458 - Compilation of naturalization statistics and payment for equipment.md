@@ -1,0 +1,22 @@
+### §1458. Compilation of naturalization statistics and payment for equipment
+
+The Attorney General is authorized and directed to prepare from the records in the custody of the Service a report upon those heretofore seeking citizenship to show by nationalities their relation to the numbers of aliens annually arriving and to the prevailing census populations of the foreign-born, their economic, vocational, and other classification, in statistical form, with analytical comment thereon, and to prepare such report annually hereafter. Payment for the equipment used in preparing such compilation shall be made from the appropriation for the enforcement of this chapter by the Service.
+
+(June 27, 1952, ch. 477, title III, ch. 2, §347, 66 Stat. 266.)
+
+#### Effective Date
+
+Section effective 180 days after June 27, 1952, see section 407 of act June 27, 1952, set out as a note under section 1101 of this title.
+
+#### Cross References
+
+Definition of the term—
+
+&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
+
+&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
+
+&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
+
+&emsp;&emsp;Service, see section 1101(a)(34) of this title.
+

@@ -1,0 +1,42 @@
+### §291. Congressional declaration of purpose
+
+It is the purpose of this chapter to provide a classification system for the equitable establishment and adjustment of rates of compensation for, and for the efficient utilization of personnel in, certain positions under the House of Representatives to which this chapter applies, through—
+
+&emsp;(1) the creation and maintenance of orderly and equitable compensation relationships for such positions—
+
+&emsp;&emsp;(A) in accordance with the principle of equal pay for substantially equal work, and
+
+&emsp;&emsp;(B) with due regard to (i) differences in the levels of difficulty, responsibility, and qualification requirements of the work, (ii) the kind of work performed, (iii) satisfactory performance, and (iv) length of service;
+
+&emsp;(2) the application of appropriate position standards and position descriptions for such positions; and
+
+&emsp;(3) the adoption of organization and position titles in the House which accurately reflect the respective functions, duties, and responsibilities of those organizations and positions in the House to which this chapter applies.
+
+(Pub. L. 88–652, §2, Oct. 13, 1964, 78 Stat. 1079.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which enacted this chapter and amended sections 88c and 123b of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### Effective Date
+
+Section 17 of Pub. L. 88–652 provided that: “This Act \[enacting this chapter and amending sections 88c and 123b of this title\] shall become effective on January 1, 1965.”
+
+#### Short Title
+
+Section 1 of Pub. L. 88–652 provided that: “This Act \[enacting this chapter and amending sections 88c and 123b of this title\] may be cited as the ‘House Employees Position Classification Act’.”
+
+#### Savings Provisions
+
+Section 15 of Pub. L. 88–652 provided that:
+
+“(a) Notwithstanding any provision of this Act \[this chapter\], the aggregate (gross) rate of compensation of any employee immediately prior to the effective date of this Act \[Jan. 1, 1965\] shall not be reduced by reason of the enactment of this Act.
+
+“(b) For the purposes of applicable law relating to the payment to any individual of compensation from more than one civilian office or position, each employee of the House to whom this Act applies who, immediately prior to the effective date of this Act—
+
+&emsp;“(1) is receiving basic compensation from more than one civilian office or position and
+
+&emsp;“(2) is in compliance with such law
+
+> shall be held and considered to be in compliance with such law on and after such effective date, notwithstanding the enactment of this Act, so long as such employee continues to receive, without break in service of more than thirty days, the same or lower rate of basic compensation in a position to which this Act does not apply.”
+

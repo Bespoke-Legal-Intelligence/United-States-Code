@@ -1,0 +1,62 @@
+### §1313. Assistance for United States citizens returned from foreign countries
+
+#### (a) Authorization; reimbursement; utilization of facilities of public or private agencies and organizations
+
+(1) The Secretary is authorized to provide temporary assistance to citizens of the UnitedStates and to dependents of citizens of the United States, if they (A) are identified by the Department of State as having returned, or been brought, from a foreign country to the United States because of the destitution of the citizen of the United States or the illness of such citizen or any of his dependents or because of war, threat of war, invasion, or similar crisis, and (B) are without available resources.
+
+(2) Except in such cases or classes of cases as are set forth in regulations of the Secretary, provision shall be made for reimbursement to the United States by the recipients of the temporary assistance to cover the cost thereof.
+
+(3) The Secretary may provide assistance under paragraph (1) directly or through utilization of the services and facilities of appropriate public or private agencies and organizations, in accordance with agreements providing for payment, in advance or by way of reimbursement, as may be determined by the Secretary, of the cost thereof. Such cost shall be determined by such statistical, sampling, or other method as may be provided in the agreement.
+
+#### (b) Plans and arrangements for assistance; consultations
+
+The Secretary is authorized to develop plans and make arrangements for provision of temporary assistance within the United States to individuals specified in subsection (a)(1) of this section. Such plans shall be developed and such arrangements shall be made after consultation with the Secretary of State, the Attorney General, and the Secretary of Defense. To the extent feasible, assistance provided under subsection (a) of this section shall be provided in accordance with the plans developed pursuant to this subsection, as modified from time to time by the Secretary.
+
+#### (c) “Temporary assistance” defined
+
+For purposes of this section, the term “temporary assistance” means money payments, medical care, temporary billeting, transportation, and other goods and services necessary for the health or welfare of individuals (including guidance, counseling, and other welfare services) furnished to them within the United States upon their arrival in the United States and for such period after their arrival, not exceeding ninety days, as may be provided in regulations of the Secretary; except that assistance under this section may be furnished beyond such ninety-day period in the case of any citizen or dependent upon a finding by the Secretary that the circumstances involved necessitate or justify the furnishing of assistance beyond such period in that particular case.
+
+#### (d) Maximum total amount of temporary assistance
+
+The total amount of temporary assistance provided under this section shall not exceed $1,000,000 during any fiscal year beginning after September 30, 1991.
+
+#### (e) Authority of Secretary to accept gifts
+
+(1) The Secretary may accept on behalf of the United States gifts, in cash or in kind, for use in carrying out the program established under this section. Gifts in the form of cash shall be credited to the appropriation account from which this program is funded, in addition to amounts otherwise appropriated, and shall remain available until expended.
+
+(2) Gifts accepted under paragraph (1) shall be available for obligation or other use by the United States only to the extent and in the amounts provided in appropriation Acts.
+
+(Aug. 14, 1935, ch. 531, title XI, §1113, as added June 30, 1961, Pub. L. 87–64, title III, §302, 75 Stat. 142; amended July 25, 1962, Pub. L. 87–543, title I, §133, 76 Stat. 196; June 30, 1964, Pub. L. 88–347, 78 Stat. 236; June 29, 1967, Pub. L. 90–36, §2, 81 Stat. 94; Jan. 2, 1968, Pub. L. 90–248, title V, §503, 81 Stat. 934; July 9, 1969, Pub. L. 91–41, §4, 83 Stat. 45; July 1, 1971, Pub. L. 92–40, 85 Stat. 96; June 28, 1975, Pub. L. 94–44, §§1, 2, 89 Stat. 235; Aug. 20, 1990, Pub. L. 101–382, title I, §140, 104 Stat. 654; Nov. 5, 1990, Pub. L. 101–508, title V, §5056(a), 104 Stat. 1388–229.)
+
+#### Amendments
+
+1990—Subsec. (d). Pub. L. 101–508, §5056(a)(1), substituted “after September 30, 1991” for “on or after October 1, 1989”.
+
+Pub. L. 101–382 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The total amount of temporary assistance provided under this section shall not exceed—
+
+&emsp;“(1) $8,000,000 during the fiscal years ending June 30, 1975, and June 30, 1976, and the succeeding calendar quarter, or
+
+&emsp;“(2) $300,000 during any fiscal year beginning on or after October 1, 1976.”
+
+Subsec. (e). Pub. L. 101–508, §5056(a)(2), added subsec. (e).
+
+1975—Subsec. (c). Pub. L. 94–44, §2, set a 90-day limit for assistance following arrival in the United States with provision for furnishing of assistance beyond the 90-day limit upon a finding by the Secretary that the circumstances involved necessitate or justify the furnishing of assistance in that particular case.
+
+Subsec. (d). Pub. L. 94–44, §1, substituted provisions setting the maximum total amount of temporary assistance provided under this section for provisions prohibiting temporary assistance after June 30, 1973.
+
+1971—Subsec. (d). Pub. L. 92–40 extended termination date from June 30, 1971, to June 30, 1973.
+
+1969—Subsec. (d). Pub. L. 91–41 extended termination date from June 30, 1969, to June 30, 1971.
+
+1968—Subsec. (d). Pub. L. 90–248 extended termination date from June 30, 1968, to June 30, 1969.
+
+1967—Subsec. (d). Pub. L. 90–36 extended termination date from June 30, 1967, to June 30, 1968.
+
+1964—Subsec. (d). Pub. L. 88–347 extended termination date from June 30, 1964, to June 30, 1967.
+
+1962—Subsec. (d). Pub. L. 87–543 extended termination date from June 30, 1962, to June 30, 1964.
+
+#### Effective Date of 1990 Amendment
+
+Section 5056(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective for fiscal years beginning after September 30, 1989.”
+

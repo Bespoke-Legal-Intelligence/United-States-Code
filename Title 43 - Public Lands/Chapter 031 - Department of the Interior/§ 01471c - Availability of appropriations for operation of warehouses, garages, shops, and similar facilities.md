@@ -1,0 +1,12 @@
+### §1471c. Availability of appropriations for operation of warehouses, garages, shops, and similar facilities
+
+Appropriations in this title <sup>1</sup> or appropriations made under this title <sup>1</sup> in subsequent Energy and Water Development Appropriations Acts shall on and after October 2, 1992, be available for operation of warehouses, garages, shops, and similar facilities, wherever consolidation of activities will contribute to efficiency, or economy, and said appropriations shall be reimbursed for services rendered to any other activity in the same manner as authorized by sections 1535 and 1536 of title 31: <i>Provided</i>, That reimbursements for costs of supplies, materials, equipment, and for services rendered may be credited to the appropriation current at the time such reimbursements are received.
+
+(Pub. L. 102–377, title II, §203, Oct. 2, 1992, 106 Stat. 1331.)
+
+#### References in Text
+
+This title, referred to in text, is title II of Pub. L. 102–377, Oct. 2, 1992, 106 Stat. 1327. For complete classification of title II to Code, see Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

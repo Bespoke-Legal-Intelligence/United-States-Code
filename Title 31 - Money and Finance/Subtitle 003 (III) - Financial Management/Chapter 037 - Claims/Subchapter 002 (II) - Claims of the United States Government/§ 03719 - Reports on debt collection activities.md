@@ -1,0 +1,52 @@
+### §3719. Reports on debt collection activities
+
+(a) In consultation with the Secretary of the Treasury and the Comptroller General, the Director of the Office of Management and Budget shall prescribe regulations requiring the head of each agency with outstanding debts to prepare and submit to the Director and the Secretary at least once each year a report summarizing the status of loans and accounts receivable managed by the head of the agency. The report shall contain—
+
+&emsp;(1) information on—
+
+&emsp;&emsp;(A) the total amount of loans and accounts receivable owed the agency and when amounts owed the agency are due to be repaid;
+
+&emsp;&emsp;(B) the total amount of receivables and number of claims at least 30 days past due;
+
+&emsp;&emsp;(C) the total amount written off as actually uncollectible and the total amount allowed for uncollectible loans and accounts receivable;
+
+&emsp;&emsp;(D) the rate of interest charged for overdue debts and the amount of interest charged and collected on debts;
+
+&emsp;&emsp;(E) the total number of claims and the total amount collected; and
+
+&emsp;&emsp;(F) the number and total amount of claims referred to the Attorney General for settlement and the number and total amount of claims the Attorney General settles;
+
+&emsp;(2) the information described in clause (1) of this subsection for each program or activity the head of the agency carries out; and
+
+&emsp;(3) other information the Director considers necessary to decide whether the head of the agency is acting aggressively to collect the claims of the agency.
+
+(b) The Director shall analyze the reports submitted under subsection (a) of this section and shall report annually to Congress on the management of debt collection activities by the head of each agency, including the information provided the Director under subsection (a).
+
+(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2473.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+3719(a)
+
+31 App.:955(a).
+
+Oct. 25, 1982, Pub. L. 97–365, §12, 96 Stat. 1756.
+
+3719(b)
+
+31 App.:955(b).
+
+In subsection (a), before clause (1), the words “of the United States” are omitted as surplus. The words “the head of” are added for consistency in the revised title and with other titles of the United States Code. In clause (1)(C), the words “uncollectible loans and accounts receivable” are added for clarity. In clause (1)(F), the words “Attorney General” are substituted for “Department of Justice” for consistency in the revised title and with other titles of the Code, including 28:503, 509.
+
+In subsection (b), the word “submitted” is substituted for “received by each agency” for clarity.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3701 of this title.
+

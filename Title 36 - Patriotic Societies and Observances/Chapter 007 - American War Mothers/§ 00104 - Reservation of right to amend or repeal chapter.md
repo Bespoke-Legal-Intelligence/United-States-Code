@@ -1,0 +1,6 @@
+### §104. Reservation of right to amend or repeal chapter
+
+Congress may from time to time alter, repeal, or modify this chapter of incorporation, but no contract or individual right made or acquired shall be divested or impaired.
+
+(Feb. 24, 1925, ch. 303, §14, 43 Stat. 968.)
+

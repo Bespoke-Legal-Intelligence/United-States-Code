@@ -1,0 +1,52 @@
+### §5351. Definitions
+
+For the purpose of this subchapter—
+
+&emsp;(1) “agency” means an Executive agency, a military department, and the government of the District of Columbia; and
+
+&emsp;(2) “student-employee” means—
+
+&emsp;&emsp;(A) a student nurse, medical or dental intern, resident-in-training, student dietitian, student physical therapist, and student occupational therapist, assigned or attached to a hospital, clinic, or medical or dental laboratory operated by an agency; and
+
+&emsp;&emsp;(B) any other student-employee, assigned or attached primarily for training purposes to a hospital, clinic, or medical or dental laboratory operated by an agency, who is designated by the head of the agency with the approval of the Office of Personnel Management.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 472; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 1052.
+
+Aug. 4, 1947, ch. 452, §2, 61 Stat. 727.
+
+The section is restated in definition form. In paragraph (1), the words “an Executive agency, a military department” are coextensive with and substituted for “department, agency, or instrumentality of the Federal Government” in view of the definitions in sections 105 and 102.
+
+The exception from the Classification Act of 1923, as amended, is omitted as obsolete and superseded by the Classification Act of 1949, as amended, which is carried into this title. The present exception from the Classification Act of 1949, as amended, is carried into section 5102(c)(16).
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+
+1978—Par. (2)(B). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Cross References
+
+Premium pay employee, exclusion of student-employee, see section 5541 of this title.
+
+Retirement, creditable service of student-employees as defined by this section, see section 8332 of this title.
+
+Student employees covered by program of compensation for work injuries suffered by government employees, see section 8144 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5541, 8144, 8331, 8332, 8501 of this title; title 26 section 3121; title 42 section 410.
+

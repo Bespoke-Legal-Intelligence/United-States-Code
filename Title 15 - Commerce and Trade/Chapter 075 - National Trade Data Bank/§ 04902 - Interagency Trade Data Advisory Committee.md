@@ -1,0 +1,52 @@
+### §4902. Interagency Trade Data Advisory Committee
+
+#### (a) Establishment
+
+There is established the Interagency Trade Data Advisory Committee.
+
+#### (b) Membership
+
+The Committee shall consist of—
+
+&emsp;(1) the United States Trade Representative;
+
+&emsp;(2) the Secretary of Agriculture;
+
+&emsp;(3) the Secretary of Defense;
+
+&emsp;(4) the Secretary of Commerce;
+
+&emsp;(5) the Secretary of Labor;
+
+&emsp;(6) the Secretary of the Treasury;
+
+&emsp;(7) the Secretary of State;
+
+&emsp;(8) the Director of the Office of Management and Budget;
+
+&emsp;(9) the Director of Central Intelligence;
+
+&emsp;(10) the Chairman of the Federal Reserve Board;
+
+&emsp;(11) the Chairman of the International Trade Commission;
+
+&emsp;(12) the President of the Export-Import Bank;
+
+&emsp;(13) the President of the Overseas Private Investment Corporation; and
+
+&emsp;(14) such other members as may be appointed by the President from full-time officers or employees of the Federal Government.
+
+#### (c) Chairman
+
+The Secretary of Commerce shall be Chairman of the Committee.
+
+#### (d) Designees
+
+Any member of the Committee may appoint a designee to serve in place of such member on the Committee.
+
+(Pub. L. 100 418, title V, §5402, Aug. 23, 1988, 102 Stat. 1463.)
+
+#### Termination of Advisory Committees
+
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92 463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+

@@ -1,0 +1,6 @@
+### §300s–2. State supervision or control of operations of facilities receiving funds
+
+Except as otherwise specifically provided, nothing in this subchapter shall be construed as conferring on any Federal officer or employee, the right to exercise any supervision or control over the administration, personnel, maintenance, or operation of any facility with respect to which any funds have been or may be expended under this subchapter.
+
+(July 1, 1944, ch. 373, title XVI, §1623, formerly §1632, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88 Stat. 2270; renumbered §1623, Oct. 4, 1979, Pub. L. 96–79, title II, §202(b), 93 Stat. 632.)
+

@@ -1,0 +1,62 @@
+### §12311. Active duty agreements
+
+(a) To provide definite terms of active duty (other than for training) for Reserves with their consent, the Secretary concerned may make a standard written agreement with any member of a reserve component under his jurisdiction requiring the member to serve for a period of active duty (other than for training) of not more than five years. When such an agreement expires, a new one may be made. This subsection does not apply in time of war declared by Congress.
+
+(b) An agreement may not be made under subsection (a) unless the specified period of duty is at least 12 months longer than any period of active duty that the member is otherwise required to perform.
+
+(c) Agreements made under subsection (a) shall be uniform so far as practicable, and are subject to such standards and policies as may be prescribed by the Secretary of Defense for the armed forces under his jurisdiction or by the Secretary of Transportation for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
+
+(d) If an agreement made under subsection (a) expires during a war or during a national emergency declared by Congress or the President after January 1, 1953, the Reserve concerned may be kept on active duty, without his consent, as otherwise prescribed by law.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 30, §679; Dec. 12, 1980, Pub. L. 96–513, title V, §511(19), 94 Stat. 2921; renumbered §12311, Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(e)(2), 108 Stat. 2992.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+679(a)
+
+50:963(a) (less last sentence).
+
+50:963(c).
+
+50:963(f).
+
+July 9, 1952, ch. 608, §§235 (less last sentence of (a), and less (b)), 236, 66 Stat. 491.
+
+679(b)
+
+50:963(d).
+
+679(c)
+
+50:963(e).
+
+679(d)
+
+50:964.
+
+In subsection (a), the words “To provide definite terms of active duty for” are substituted for the words “In order that \* \* \* may remain on or be ordered to active duty \* \* \* for terms of service of definite duration”. The words “with their consent” are substituted for the word “voluntarily”. The words “requiring the member to serve” are substituted for 50:963(c). The words “more than” are substituted for the words “to exceed”. The second sentence is substituted for 50:963(a) (2d sentence). The word “hereafter” is omitted as surplusage. 50:963(f) is omitted as executed. The words “under his jurisdiction” are inserted for clarity.
+
+In subsection (b), the words “is at least \* \* \* longer” are substituted for the words “exceeds by at least”. The words “active duty that the member is otherwise required to perform” are substituted for the words “obligated or involuntary active duty to which he is otherwise liable”.
+
+In subsection (c), the words “for the armed forces under his jurisdiction” are inserted for clarity.
+
+#### Amendments
+
+1994—Pub. L. 103–337 renumbered section 679 of this title as this section.
+
+1980—Subsec. (c). Pub. L. 96–513 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 12312 of this title; title 14 section 41a.
+

@@ -1,0 +1,256 @@
+### §374. Maintenance and operation of equipment
+
+(a) The Secretary of Defense may, in accordance with other applicable law, make Department of Defense personnel available for the maintenance of equipment for Federal, State, and local civilian law enforcement officials, including equipment made available under section 372 of this title.
+
+(b)(1) Subject to paragraph (2) and in accordance with other applicable law, the Secretary of Defense may, upon request from the head of a Federal law enforcement agency, make Department of Defense personnel available to operate equipment (including equipment made available under section 372 of this title) with respect to—
+
+&emsp;(A) a criminal violation of a provision of law specified in paragraph (4)(A); or
+
+&emsp;(B) assistance that such agency is authorized to furnish to a State, local, or foreign government which is involved in the enforcement of similar laws.
+
+(2) Department of Defense personnel made available to a civilian law enforcement agency under this subsection may operate equipment for the following purposes:
+
+&emsp;(A) Detection, monitoring, and communication of the movement of air and sea traffic.
+
+&emsp;(B) Detection, monitoring, and communication of the movement of surface traffic outside of the geographic boundary of the United States and within the United States not to exceed 25 miles of the boundary if the initial detection occurred outside of the boundary.
+
+&emsp;(C) Aerial reconnaissance.
+
+&emsp;(D) Interception of vessels or aircraft detected outside the land area of the United States for the purposes of communicating with such vessels and aircraft to direct such vessels and aircraft to go to a location designated by appropriate civilian officials.
+
+&emsp;(E) Operation of equipment to facilitate communications in connection with law enforcement programs specified in paragraph (4)(A).
+
+&emsp;(F) Subject to joint approval by the Secretary of Defense and the Attorney General (and the Secretary of State in the case of a law enforcement operation outside of the land area of the United States)—
+
+&emsp;&emsp;(i) the transportation of civilian law enforcement personnel; and
+
+&emsp;&emsp;(ii) the operation of a base of operations for civilian law enforcement personnel.
+
+(3) Department of Defense personnel made available to operate equipment for the purpose stated in paragraph (2)(D) may continue to operate such equipment into the land area of the United States in cases involving the pursuit of vessels or aircraft where the detection began outside such land area.
+
+(4) In this subsection:
+
+&emsp;(A) The term “Federal law enforcement agency” means an agency with jurisdiction to enforce any of the following:
+
+&emsp;&emsp;(i) The Controlled Substances Act (21 U.S.C. 801 et seq.) or the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.).
+
+&emsp;&emsp;(ii) Any of sections 274 through 278 of the Immigration and Nationality Act (8 U.S.C. 1324–1328).
+
+&emsp;&emsp;(iii) A law relating to the arrival or departure of merchandise (as defined in section 401 of the Tariff Act of 1930 (19 U.S.C. 1401) into or out of the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States) or any other territory or possession of the United States.
+
+&emsp;&emsp;(iv) The Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.).
+
+&emsp;(B) The term “land area of the United States” includes the land area of any territory, commonwealth, or possession of the United States.
+
+(c) The Secretary of Defense may, in accordance with other applicable law, make Department of Defense personnel available to any Federal, State, or local civilian law enforcement agency to operate equipment for purposes other than described in subsection (b)(2) only to the extent that such support does not involve direct participation by such personnel in a civilian law enforcement operation unless such direct participation is otherwise authorized by law.
+
+(Added Pub. L. 97–86, title IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1115; amended Pub. L. 98–525, title XIV, §1405(9), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–570, title III, §3056, Oct. 27, 1986, 100 Stat. 3207–77; Pub. L. 99–661, div. A, title XIII, §1373(c), Nov. 14, 1986, 100 Stat. 4007; Pub. L. 100–418, title I, §1214(a)(1), Aug. 23, 1988, 102 Stat. 1155; Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 101–189, div. A, title XII, §§1210, 1216(b), (c), Nov. 29, 1989, 103 Stat. 1566, 1569; Pub. L. 102–484, div. A, title X, §1042, Oct. 23, 1992, 106 Stat. 2492.)
+
+#### References in Text
+
+The Controlled Substances Act, referred to in subsec. (b)(4)(A)(i), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+
+The Controlled Substances Import and Export Act, referred to in subsec. (b)(4)(A)(i), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of the Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
+
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(4)(A)(iii), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+
+The Maritime Drug Law Enforcement Act, referred to in subsec. (b)(4)(A)(iv), is Pub. L. 96–350, Sept. 15, 1980, 94 Stat. 1159, as amended, which is classified generally to chapter 38 (§1901 et seq.) of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1901 of Title 46, Appendix, and Tables.
+
+#### Amendments
+
+1992—Subsec. (b)(2)(B) to (F). Pub. L. 102–484, §1042(1), added subpar. (B) and redesignated former subpars. (B) to (E) as (C) to (F), respectively.
+
+Subsec. (b)(3). Pub. L. 102–484, §1042(2), substituted “paragraph (2)(D)” for “paragraph (2)(C)”.
+
+1989—Subsec. (b)(2)(E). Pub. L. 101–189, §1210, substituted “and the Attorney General (and the Secretary of State in the case of a law enforcement operation outside of the land area of the United States)” for “, the Attorney General, and the Secretary of State, in connection with a law enforcement operation outside the land area of the United States” in introductory provisions.
+
+Subsec. (b)(4)(A)(iii). Pub. L. 101–189, §1216(b), substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 of the Tariff Schedules of the United States”.
+
+Subsec. (c). Pub. L. 101–189, §1216(c), substituted “subsection (b)(2)” for “paragraph (2)”.
+
+1988—Pub. L. 100–456 substituted “Maintenance and operation of equipment” for “Assistance by Department of Defense personnel” in section catchline, and amended text generally, revising and restating former subsecs. (a) to (d) as subsecs. (a) to (c).
+
+Subsec. (a)(3). Pub. L. 100–418, which directed substitution of “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 of the Tariff Schedules of the United States”, could not be executed because of intervening general amendment by Pub. L. 100–456.
+
+1986—Subsec. (a). Pub. L. 99–570, §3056(a), inserted provision at end relating to assistance that such agency is authorized to furnish to any foreign government which is involved in the enforcement of similar laws.
+
+Subsec. (c). Pub. L. 99–570, §3056(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+
+“(1) In an emergency circumstance, equipment operated by or with the assistance of personnel assigned under subsection (a) may be used outside the land area of the United States (or any territory or possession of the United States) as a base of operations by Federal law enforcement officials to facilitate the enforcement of a law listed in subsection (a) and to transport such law enforcement officials in connection with such operations, if—
+
+&emsp;“(A) equipment operated by or with the assistance of personnel assigned under subsection (a) is not used to interdict or to interrupt the passage of vessels or aircraft; and
+
+&emsp;“(B) the Secretary of Defense and the Attorney General jointly determine that an emergency circumstance exists.
+
+“(2) For purposes of this subsection, an emergency circumstance may be determined to exist only when—
+
+&emsp;“(A) the size or scope of the suspected criminal activity in a given situation poses a serious threat to the interests of the United States; and
+
+&emsp;“(B) enforcement of a law listed in subsection (a) would be seriously impaired if the assistance described in this subsection were not provided.”
+
+Subsec. (d). Pub. L. 99–661 added subsec. (d).
+
+1984—Subsec. (a)(3). Pub. L. 98–525 struck out “(19 U.S.C. 1202)” after “Tariff Schedules of the United States”.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+
+#### Counter-Drug Activities; Conditions on Transfers of Funds and Detailing Personnel; Relationship to Other Law
+
+Pub. L. 103–337, div. A, title X, §1011(b)–(d), Oct. 5, 1994, 108 Stat. 2836, provided that:
+
+“(b)
+
+Condition on Transfer of Funds.—Funds appropriated for the Department of Defense may not be transferred to a National Drug Control Program agency account except to the extent provided in a law that specifically states—
+
+&emsp;“(1) the amount authorized to be transferred;
+
+&emsp;“(2) the account from which such amount is authorized to be transferred; and
+
+&emsp;“(3) the account to which such amount is authorized to be transferred.
+
+“(c)
+
+Condition on Detailing Personnel.—Personnel of the Department of Defense may not be detailed to another department or agency in order to implement the National Drug Control Strategy unless the Secretary of Defense certifies to Congress that the detail of such personnel is in the national security interest of the United States.
+
+“(d)
+
+Relationship to Other Law.—A provision of law may not be construed as modifying or superseding the provisions of subsection (b) or (c) unless that provision of law—
+
+&emsp;“(1) specifically refers to this section; and
+
+&emsp;“(2) specifically states that such provision of law modifies or supersedes the provisions of subsection (b) or (c), as the case may be.”
+
+Pub. L. 103–335, title VIII, §8154(a), Sept. 30, 1994, 108 Stat. 2658, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+
+#### Additional Support for Counter-Drug Activities
+
+Pub. L. 101–510, div. A, title X, §1004, Nov. 5, 1990, 104 Stat. 1629, as amended by Pub. L. 102–190, div. A, title X, §1088(a), Dec. 5, 1991, 105 Stat. 1484; Pub. L. 102–484, div. A, title X, §1041(a)–(d)(1), Oct. 23, 1992, 106 Stat. 2491; Pub. L. 103–160, div. A, title XI, §1121(a), (b), Nov. 30, 1993, 107 Stat. 1753; Pub. L. 103–337, div. A, title X, §1011(a), Oct. 5, 1994, 108 Stat. 2836, provided that:
+
+“(a)
+
+Support to Other Agencies.—During fiscal years 1991 through 1999, the Secretary of Defense may provide support for the counter-drug activities of any other department or agency of the Federal Government or of any State, local, or foreign law enforcement agency for any of the purposes set forth in subsection (b) if such support is requested—
+
+&emsp;“(1) by the official who has responsibility for the counter-drug activities of the department or agency of the Federal Government, in the case of support for other departments or agencies of the Federal Government;
+
+&emsp;“(2) by the appropriate official of a State or local government, in the case of support for State or local law enforcement agencies; or
+
+&emsp;“(3) by an appropriate official of a department or agency of the Federal Government that has counter-drug responsibilities, in the case of support for foreign law enforcement agencies.
+
+“(b)
+
+Types of Support.—The purposes for which the Secretary may provide support under subsection (a) are the following:
+
+&emsp;“(1) The maintenance and repair of equipment that has been made available to any department or agency of the Federal Government or to any State or local government by the Department of Defense for the purposes of—
+
+&emsp;&emsp;“(A) preserving the potential future utility of such equipment for the Department of Defense; and
+
+&emsp;&emsp;“(B) upgrading such equipment to ensure compatibility of that equipment with other equipment used by the Department of Defense.
+
+&emsp;“(2) The maintenance, repair, or upgrading of equipment (including computer software), other than equipment referred to in subparagraph (A) for the purpose of—
+
+&emsp;&emsp;“(A) ensuring that the equipment being maintained or repaired is compatible with equipment used by the Department of Defense; and
+
+&emsp;&emsp;“(B) upgrading such equipment to ensure the compatibility of that equipment with equipment used by the Department of Defense.
+
+&emsp;“(3) The transportation of personnel of the United States and foreign countries (including per diem expenses associated with such transportation), and the transportation of supplies and equipment, for the purpose of facilitating counter-drug activities within or outside the United States.
+
+&emsp;“(4) The establishment (including unspecified minor construction) and operation of bases of operations or training facilities for the purpose of facilitating counter-drug activities within or outside the United States.
+
+&emsp;“(5) Counter-drug related training of law enforcement personnel of the Federal Government, of State and local governments, and of foreign countries, including associated support expenses for trainees and the provision of materials necessary to carry out such training.
+
+&emsp;“(6) The detection, monitoring, and communication of the movement of—
+
+&emsp;&emsp;“(A) air and sea traffic within 25 miles of and outside the geographic boundaries of the United States; and
+
+&emsp;&emsp;“(B) surface traffic outside the geographic boundary of the United States and within the United States not to exceed 25 miles of the boundary if the initial detection occurred outside of the boundary.
+
+&emsp;“(7) Construction of roads and fences and installation of lighting to block drug smuggling corridors across international boundaries of the United States.
+
+&emsp;“(8) Establishment of command, control, communications, and computer networks for improved integration of law enforcement, active military, and National Guard activities.
+
+&emsp;“(9) The provision of linguist and intelligence analysis services.
+
+&emsp;“(10) Aerial and ground reconnaissance.
+
+“(c)
+
+Limitation on Counter-Drug Requirements.—The Secretary of Defense may not limit the requirements for which support may be provided under subsection (a) only to critical, emergent, or unanticipated requirements.
+
+“(d)
+
+Contract Authority.—In carrying out subsection (a), the Secretary of Defense may acquire services or equipment by contract for support provided under that subsection if the Department of Defensewould normally acquire such services or equipment by contract for the purpose of conducting a similar activity for the Department of Defense.
+
+“(e)
+
+Limited Waiver of Prohibition.—Notwithstanding section 376 of title 10, United States Code, the Secretary of Defense may provide support pursuant to subsection (a) in any case in which the Secretary determines that the provision of such support would adversely affect the military preparedness of the United States in the short term if the Secretary determines that the importance of providing such support outweighs such short-term adverse effect.
+
+“(f)
+
+Conduct of Training or Operation to Aid Civilian Agencies.—In providing support pursuant to subsection (a), the Secretary of Defense may plan and execute otherwise valid military training or operations (including training exercises undertaken pursuant to section 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Stat. 1564) \[10 U.S.C. 124 note\]) for the purpose of aiding civilian law enforcement agencies.
+
+“(g)
+
+Relationship to Other Laws.—(1) The authority provided in this section for the support of counter-drug activities by the Department of Defense is in addition to, and except as provided in paragraph (2), not subject to the requirements of chapter 18 of title 10, United States Code.
+
+“(2) Support under this section shall be subject to the provisions of section 375 and, except as provided in subsection (e), section 376 of title 10, United States Code.”
+
+#### Communications Network
+
+Section 1103 of Pub. L. 100–456, which related to integration of United States assets dedicated to interdiction of illegal drugs into an effective communications network, was repealed by Pub. L. 101–189, div. A, title XII, §1204(b), Nov. 29, 1989, 103 Stat. 1564. See section 1204(a) of Pub. L. 101–189 set out as a note under section 124 of this title.
+
+#### Enhanced Drug Interdiction and Enforcement Role for National Guard
+
+Section 1105 of Pub. L. 100–456, which related to funding and training of National Guard for purpose of drug interdiction and enforcement operations and for operation and maintenance of equipment and facilities for such purpose, was repealed by Pub. L. 101–189, div. A, title XII, §1207(b), Nov. 29, 1989, 103 Stat. 1566. See section 112 of Title 32, National Guard.
+
+#### Additional Department of Defense Drug Law Enforcement Assistance
+
+Section 3057 of Pub. L. 99–570 provided that:
+
+“(a)
+
+General Requirement.—(1) Within 90 days after the date of the enactment of this Act \[Oct. 27, 1986\], the Secretary of Defense shall submit to the Congress the following:
+
+&emsp;“(A) A detailed list of all forms of assistance that shall be made available by the Department of Defense to civilian drug law enforcement and drug interdiction agencies, including the United States Customs Service, the Coast Guard, the Drug Enforcement Administration, and the Immigration and Naturalization Service.
+
+&emsp;“(B) A detailed plan for promptly lending equipment and rendering drug interdiction-related assistance included on such list.
+
+“(2) The list required by paragraph (1)(A) shall include, but not be limited to, a description of the following matters:
+
+&emsp;“(A) Surveillance equipment suitable for detecting air, land, and marine drug transportation activities.
+
+&emsp;“(B) Communications equipment, including secure communications.
+
+&emsp;“(C) Support available from the reserve components of the Armed Forces for drug interdiction operations of civilian drug law enforcement agencies.
+
+&emsp;“(D) Intelligence on the growing, processing, and transshipment of drugs in drug source countries and the transshipment of drugs between such countries and the United States.
+
+&emsp;“(E) Support from the Southern Command and other unified and specified commands that is available to assist in drug interdiction.
+
+&emsp;“(F) Aircraft suitable for use in air-to-air detection, interception, tracking, and seizure by civilian drug interdiction agencies, including the Customs Service and the Coast Guard.
+
+&emsp;“(G) Marine vessels suitable for use in maritime detection, interception, tracking, and seizure by civilian drug interdiction agencies, including the Customs Service and the Coast Guard.
+
+&emsp;“(H) Such land vehicles as may be appropriate for support activities relating to drug interdiction operations by civilian drug law enforcement agencies, including the Customs Service, the Immigration and Naturalization Service, and other Federal agencies having drug interdiction or drug eradication responsibilities.
+
+“(b)
+
+Committee Approval and Final Implementation.—Within 30 days after the date on which the Congress receives the list and plan submitted under such subsection, the Committees on Armed Services of the Senate and the House of Representatives shall submit their approval or disapproval of such list and plan to the Secretary of Defense. Upon receipt of such approval or disapproval, the Secretary shall immediately convene a conference of the heads of the Federal Government agencies with jurisdiction over drug law enforcement, including the Customs Service, the Coast Guard, and the Drug Enforcement Administration, to determine the appropriate distribution of the assets, items of support, or other assistance to be made available by the Department of Defense to such agencies. Not later than 60 days after the date on which such conference convenes, the Secretary of Defense and the heads of such agencies shall enter into appropriate memoranda of agreement specifying the distribution of such assistance.
+
+“(c)
+
+Equipment Subject to Section 3052(c).—Equipment identified in this section is subject to the provisions of section 3052(c) \[100 Stat. 3207–75\].
+
+“(d)
+
+Applicability.—Subsections (a) and (b) shall not apply to any assets, equipment, items of support, or other assistance provided or authorized in any other provision of this title.
+
+“(e)
+
+Review by General Accounting Office.—The Comptroller General of the United States shall monitor the compliance of the Department of Defense with subsections (a) and (b). Not later than 90 days after the date on which the conference is convened under subsection (b), the Comptroller General shall transmit to the Congress a written report containing the Comptroller General's findings regarding the compliance of the Department of Defense with such subsections. The report shall include a review of the memoranda of agreement entered into under subsection (b).”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 379 of this title.
+

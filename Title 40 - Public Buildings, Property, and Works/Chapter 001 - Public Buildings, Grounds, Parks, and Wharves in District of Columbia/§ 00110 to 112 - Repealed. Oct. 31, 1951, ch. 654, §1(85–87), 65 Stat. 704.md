@@ -1,0 +1,8 @@
+### §§110 to 112. Repealed. Oct. 31, 1951, ch. 654, §1(85–87), 65 Stat. 704
+
+Section 110, act July 1, 1918, ch. 113, 40 Stat. 672, related to fuel storage and distributing yards in District of Columbia and authority of Secretary of the Treasury to select, purchase, contract for and distribute fuel required by the Federal and District of Columbia governments.
+
+Section 111, act July 11, 1919, ch. 9, 41 Stat. 148, excepted naval establishments from operation of section 110 of this title except the naval hospital in District of Columbia.
+
+Section 112, act July 19, 1919, ch. 24, 41 Stat. 200, related to authority of Secretary of the Treasury to contract for the purchase of fuel in advance of the availability of appropriations.
+

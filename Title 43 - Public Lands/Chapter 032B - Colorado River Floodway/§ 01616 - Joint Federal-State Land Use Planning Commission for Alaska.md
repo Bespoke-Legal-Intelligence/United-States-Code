@@ -1,0 +1,48 @@
+### §1616. Joint Federal-State Land Use Planning Commission for Alaska
+
+#### (a), (b) Omitted
+
+#### (c) Prohibition against selection of lands from withdrawn area in event of withdrawal of utility and transportation corridor across public lands
+
+In the event that the Secretary withdraws a utility and transportation corridor across public lands in Alaska pursuant to his existing authority, the State, the Village Corporations and the Regional Corporations shall not be permitted to select lands from the area withdrawn.
+
+#### (d) Public Land Order Numbered 4582 revoked; withdrawal of unreserved public lands; classification and reclassification of lands; opening lands to appropriation; administration; contracting and other authority of Secretary not impaired by withdrawal
+
+(1) Public Land Order Numbered 4582, 34 Federal Register 1025, as amended, is hereby revoked. For a period of ninety days after December 18, 1971, all unreserved public lands in Alaska are hereby withdrawn from all forms of appropriation under the public land laws, including the mining (except locations for metalliferous minerals) and the mineral leasing laws. During this period of time the Secretary shall review the public lands in Alaska and determine whether any portion of these lands should be withdrawn under authority provided for in existing law to insure that the public interest in these lands is properly protected. Any further withdrawal shall require an affirmative act by the Secretary under his existing authority, and the Secretary is authorized to classify or reclassify any lands so withdrawn and to open such lands to appropriation under the public land laws in accord with his classifications. Withdrawals pursuant to this paragraph shall not affect the authority of the Village Corporations, the Regional Corporations, and the State to make selections and obtain patents within the areas withdrawn pursuant to section 1610 of this title.
+
+(2)(A) The Secretary, acting under authority provided for in existing law, is directed to withdraw from all forms of appropriation under the public land laws, including the mining and mineral leasing laws, and from selection under the Alaska Statehood Act, and from selection by Regional Corporations pursuant to section 1610 of this title, up to, but not to exceed, eighty million acres of unreserved public lands in the State of Alaska, including previously classified lands, which the Secretary deems are suitable for addition to or creation as units of the National Park, Forest, Wildlife Refuge, and Wild and Scenic Rivers Systems: <i>Provided</i>, That such withdrawals shall not affect the authority of the State and the Regional and Village Corporations to make selections and obtain patents within the areas withdrawn pursuant to section 1610 of this title.
+
+(B) Lands withdrawn pursuant to paragraph (A) hereof must be withdrawn within nine months of December 18, 1971. All unreserved public lands not withdrawn under paragraph (A) or subsection (d)(1) of this section shall be available for selection by the State and for appropriation under the public land laws.
+
+(C) Every six months, for a period of two years from December 18, 1971, the Secretary shall advise the Congress of the location, size and values of lands withdrawn pursuant to paragraph (A) and submit his recommendations with respect to such lands. Any lands withdrawn pursuant to paragraph (A) not recommended for addition to or creation as units of the National Park, Forest, Wildlife Refuge, and Wild and Scenic Rivers Systems at the end of the two years shall be available for selection by the State and the Regional Corporations, and for appropriations under the public land laws.
+
+(D) Areas recommended by the Secretary pursuant to paragraph (C) shall remain withdrawn from any appropriation under the public land laws until such time as the Congress acts on the Secretary's recommendations, but not to exceed five years from the recommendation dates. The withdrawal of areas not so recommended shall terminate at the end of the two year period.
+
+(E) Notwithstanding any other provision of this subsection, initial identification of lands desired to be selected by the State pursuant to the Alaska Statehood Act and by the Regional Corporations pursuant to section 1611 of this title may be made within any area withdrawn pursuant to this subsection (d), but such lands shall not be tentatively approved or patented so long as the withdrawals of such areas remain in effect: <i>Provided</i>, That selection of lands by Village Corporations pursuant to section 1611 of this title shall not be affected by such withdrawals and such lands selected may be patented and such rights granted as authorized by this chapter. In the event Congress enacts legislation setting aside any areas withdrawn under the provisions of this subsection which the Regional Corporations or the State desired to select, then other unreserved public lands shall be made available for alternative selection by the Regional Corporations and the State. Any time periods established by law for Regional Corporations or State selections are hereby extended to the extent that delays are caused by compliance with the provisions of this subsection (2).
+
+(3) Any lands withdrawn under this section shall be subject to administration by the Secretary under applicable laws and regulations, and his authority to make contracts and to grant leases, permits, rights-of-way, or easements shall not be impaired by the withdrawal.
+
+(Pub. L. 92–203, §17, Dec. 18, 1971, 85 Stat. 706; Pub. L. 94–204, §7, Jan. 2, 1976, 89 Stat. 1149.)
+
+#### References in Text
+
+Alaska Statehood Act, referred to in subsec. (d)(2)(A), (E), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+
+The public land laws, referred to in subsec. (d)(1), (2)(B) to (D), are classified generally to this title.
+
+The mining laws, referred to in subsec. (d)(1), are classified generally to Title 30, Mineral Lands and Mining.
+
+The mineral leasing laws, referred to in subsec. (d)(1), have been defined in sections 351, 505, 530, and 541e of Title 30 to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+
+#### Codification
+
+Subsecs. (a) and (b) of this section, which related to the establishment, membership, compensation, procedures, duties and powers of the Joint Federal-State Land Use Planning Commission for Alaska and authorized the Commission to identify public easements across selected lands in Alaska, were omitted pursuant to former subsec. (a)(10) of this section which provided that the Commission was to cease to exist effective June 30, 1979.
+
+#### Amendments
+
+1976—Subsec. (a)(10). Pub. L. 94–204 extended the life of the Commission from Dec. 31, 1976 to June 30, 1979, directed the submission of multiple reports, with an interim report to be submitted on or before May 30, 1976, and extended from May 30, 1976 to May 30, 1979 the date on or before which the final report shall be submitted.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1602, 1610, 1611, 1613, 1621, 1631, 1633, 1635, 1641 of this title; title 16 section 410hh–3.
+

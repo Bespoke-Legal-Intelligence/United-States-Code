@@ -1,0 +1,16 @@
+### §2410f. Debarment of persons convicted of fraudulent use of “Made in America” labels
+
+(a) If the Secretary of Defense determines that a person has been convicted of intentionally affixing a label bearing a “Made in America” inscription to any product sold in or shipped to the United States that is not made in America, the Secretary shall determine, not later than 90 days after determining that the person has been so convicted, whether the person should be debarred from contracting with the Department of Defense. If the Secretary determines that the person should not be debarred, the Secretary shall submit to Congress a report on such determination not later than 30 days after the determination is made.
+
+(b) For purposes of this section, the term “debar” has the meaning given that term by section 2393(c) of this title.
+
+(Added Pub. L. 102–484, div. A, title VIII, §834(a)(1), Oct. 23, 1992, 106 Stat. 2461.)
+
+#### Effective Date of 1992 Amendment
+
+Section 834(b) of Pub. L. 102–484 provided that: “Section 2410f of title 10, United States Code, as added by subsection (a), shall take effect 90 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
+
+#### Prohibition of Contracts
+
+Pub. L. 103–160, div. A, title VIII, §849(b), Nov. 30, 1993, 107 Stat. 1725, provided that: “If the Secretary of Defense determines that a person has been convicted of intentionally affixing a label bearing a ‘Made in America’ inscription to any product sold in or shipped to the United States that is not made in America, the Secretary shall determine, in accordance with section 2410f of title 10, United States Code, whether the person should be debarred from contracting with the Department of Defense.”
+

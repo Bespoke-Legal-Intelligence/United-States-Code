@@ -1,0 +1,302 @@
+### §8344. Annuities and pay on reemployment
+
+(a) If an annuitant receiving annuity from the Fund, except—
+
+&emsp;(1) a disability annuitant whose annuity is terminated because of his recovery or restoration of earning capacity;
+
+&emsp;(2) an annuitant whose annuity, based on an involuntary separation (other than an automatic separation or an involuntary separation for cause on charges of misconduct or delinquency), is terminated under subsection (b) of this section;
+
+&emsp;(3) an annuitant whose annuity is terminated under subsection (c) of this section; or
+
+&emsp;(4) a Member receiving annuity from the Fund;
+
+> becomes employed in an appointive or elective position, his service on and after the date he is so employed is covered by this subchapter. Deductions for the Fund may not be withheld from his pay unless the individual elects to have such deductions withheld under subparagraph (A). An amount equal to the annuity allocable to the period of actual employment shall be deducted from his pay, except for lump-sum leave payment purposes under section 5551 of this title. The amounts so deducted shall be deposited in the Treasury of the United States to the credit of the Fund. If the annuitant serves on a full-time basis, except as President, for at least 1 year, on a part-time basis for periods equivalent to at least 1 year of full-time service, in employment not excluding him from coverage under section 8331(1)(i) or (ii) of this title—
+
+&emsp;(A) deductions for the Fund may be withheld from his pay (if the employee so elects), and his annuity on termination of employment is increased by an annuity computed under section 8339(a), (b), (d), (e), (h), (i), (n), and (q) of this title as may apply based on the period of employment and the basic pay, before deduction, averaged during that employment; and
+
+&emsp;(B) his lump-sum credit may not be reduced by annuity paid during that employment.
+
+> If the annuitant is receiving a reduced annuity as provided in section 8339(j) or section 8339(k)(2) of this title, the increase in annuity payable under subparagraph (A) of this subsection is reduced by 10 percent and the survivor annuity payable under section 8341(b) of this title is increased by 55 percent of the increase in annuity payable under such subparagraph (A), unless, at the time of claiming the increase payable under such subparagraph (A), the annuitant notifies the Office of Personnel Management in writing that he does not desire the survivor annuity to be increased. If the annuitant dies while still reemployed, the survivor annuity payable is increased as though the reemployment had otherwise terminated. If the described employment of the annuitant continues for at least 5 years, or the equivalent of 5 years in the case of part-time employment, he may elect, instead of the benefit provided by subparagraph (A) of this subsection, to deposit in the Fund (to the extent deposits or deductions have not otherwise been made) an amount computed under section 8334(c) of this title covering that employment and have his rights redetermined under this subchapter. If the annuitant dies while still reemployed and the described employment had continued for at least 5 years, or the equivalent of 5 years in the case of part-time employment, the person entitled to survivor annuity under section 8341(b) of this title may elect to deposit in the Fund and have his rights redetermined under this subchapter.
+
+(b) If an annuitant, other than a Member receiving an annuity from the Fund, whose annuity is based on an involuntary separation (other than an automatic separation or an involuntary separation for cause or charges on misconduct or delinquency) is reemployed in a position in which he is subject to this subchapter, payment of the annuity terminates on reemployment.
+
+(c) If an annuitant, other than a Member receiving an annuity from the Fund, is appointed by the President to a position in which he is subject to this subchapter, or is elected as a Member, payment of the annuity terminates on reemployment. Upon separation from such position, an individual whose annuity is so terminated is entitled to have his rights redetermined under this subchapter, except that the amount of the annuity resulting from such redetermination shall be at least equal to the amount of the terminated annuity plus any increases under section 8340 of this title occurring after the termination and before the commencement of the redetermined annuity.
+
+(d) If a Member receiving annuity from the Fund becomes employed in an appointive or elective position, annuity payments are discontinued during the employment and resumed on termination of the employment in the amount equal to the sum of the amount of the annuity the member was receiving immediately before the commencement of the employment and the amount of the increases which would have been made in the amount of the annuity under section 8340 of this title during the period of the employment if the annuity had been payable during that period, except that—
+
+&emsp;(1) the retired Member or Member separated with title to immediate or deferred annuity, who serves at any time after separation as a Member in an appointive position in which he is subject to this subchapter, is entitled, if he so elects, to have his Member annuity computed or recomputed as if the service had been performed before his separation as a Member and the annuity as so computed or recomputed is effective—
+
+&emsp;&emsp;(A) the day Member annuity commences; or
+
+&emsp;&emsp;(B) the day after the date of separation from the appointive position;
+
+> &emsp;whichever is later;
+
+&emsp;(2) if the retired Member becomes employed after December 31, 1958, in an appointive position on an intermittent-service basis—
+
+&emsp;&emsp;(A) his annuity continues during the employment and is not increased as a result of service performed during that employment;
+
+&emsp;&emsp;(B) retirement deductions may not be withheld from his pay;
+
+&emsp;&emsp;(C) an amount equal to the annuity allocable to the period of actual employment shall be deducted from his pay, except for lump-sum leave payment purposes under section 5551 of this title; and
+
+&emsp;&emsp;(D) the amounts so deducted shall be deposited in the Treasury of the United States to the credit of the Fund;
+
+&emsp;(3) if the retired Member becomes employed after December 31, 1958, in an appointive position without pay on a full-time or substantially full-time basis, his annuity continues during the employment and is not increased as a result of service performed during the employment; and
+
+&emsp;(4) if the retired Member takes office as Member and gives notice as provided by section 8331(2) of this title, his service as Member during that period shall be credited in determining his right to and the amount of later annuity.
+
+(e) This section does not apply to an individual appointed to serve as a Governor of the Board of Governors of the United States Postal Service.
+
+(f) Notwithstanding the provisions of subsection (a) of this section, if an annuitant receiving annuity from the Fund, except a Member receiving annuity from the Fund, becomes employed as a justice or judge of the United States, as defined by section 451 of title 28, annuity payments are discontinued during such employment and are resumed in the same amount upon resignation or retirement from regular active service as such a justice or judge.
+
+(g) A former employee or a former Member who becomes employed as a justice or judge of the United States, as defined by section 451 of title 28, may, at any time prior to resignation or retirement from regular active service as such a justice or judge, apply for and be paid, in accordance with section 8342(a) of this title, the amount (if any) by which the lump-sum credit exceeds the total annuity paid, notwithstanding the time limitation contained in such section for filing an application for payment.
+
+(h)(1) Subject to paragraph (2) of this subsection, subsections (a), (b), (c), and (d) of this section shall not apply to any annuitant receiving an annuity from the Fund while such annuitant is employed, during any period described in section 5532(f)(2) of this title or any portion thereof, under the administrative authority of the Administrator, Federal Aviation Administration, or the Secretary of Defense to performduties in the operation of the air traffic control system or to train other individuals to perform such duties: <i>Provided, however</i>, That the amount such an annuitant may receive in pay, excluding premium pay, in any pay period when aggregated with the annuity payable during that same period shall not exceed the rate payable for level V of the Executive Schedule.
+
+(2) Paragraph (1) of this subsection shall apply only in the case of any annuitant receiving an annuity from the Fund who, before December 31, 1987, applied for retirement or separated from the service while being entitled to an annuity under this chapter.
+
+(i)(1) The Director of the Office of Personnel Management may, at the request of the head of an Executive agency—
+
+&emsp;(A) waive the application of the preceding provisions of this section on a case-by-case basis for employees in positions for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
+
+&emsp;(B) grant authority to the head of such agency to waive the application of the preceding provisions of this section, on a case-by-case basis, for an employee serving on a temporary basis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances.
+
+(2) The Office shall prescribe regulations for the exercise of any authority under this subsection, including criteria for any exercise of authority and procedures for terminating a delegation of authority under paragraph (1)(B).
+
+(j)(1) If warranted by circumstances described in subsection (i)(1)(A) or (B) (as applicable), the Director of the Administrative Office of the United States Courts shall, with respect to an employee in the judicial branch, have the same waiver authority as would be available to the Director of the Office of Personnel Management, or a duly authorized agency head, under subsection (i) with respect to an employee of an Executive agency.
+
+(2) Authority under this subsection may not be exercised with respect to a justice or judge of the United States, as defined in section 451 of title 28.
+
+(k)(1) If warranted by circumstances described in subsection (i)(1)(A) or (B) (as applicable), an official or committee designated in paragraph (2) shall, with respect to the employees specified in the applicable subparagraph of such paragraph, have the same waiver authority as would be available to the Director of the Office of Personnel Management, or a duly authorized agency head, under subsection (i) with respect to an employee of an Executive agency.
+
+(2) Authority under this subsection may be exercised—
+
+&emsp;(A) with respect to an employee of an agency in the legislative branch, by the head of such agency;
+
+&emsp;(B) with respect to an employee of the House of Representatives, by the Speaker of the House of Representatives; and
+
+&emsp;(C) with respect to an employee of the Senate, by the Committee on Rules and Administration of the Senate.
+
+(3) Any exercise of authority under this subsection shall be in conformance with such written policies and procedures as the agency head, the Speaker of the House of Representatives, or the Committee on Rules and Administration of the Senate (as applicable) shall prescribe, consistent with the provisions of this subsection.
+
+(4) For the purpose of this subsection, “agency in the legislative branch”, “employee of the House of Representatives”, “employee of the Senate”, and “congressional employee” each has the meaning given to it in section 5531 of this title.
+
+(<i>l</i>)(1) For the purpose of subsections (i) through (k), “Executive agency” shall not include the General Accounting Office.
+
+(2) An employee as to whom a waiver under subsection (i), (j), or (k) is in effect shall not be considered an employee for purposes of this chapter or chapter 84 of this title.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 581; Pub. L. 90–83, §1(83), Sept. 11, 1967, 81 Stat. 217; Pub. L. 91–375, §6(c)(20), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–658, §4, Jan. 8, 1971, 84 Stat. 1962; Pub. L. 92–297, §7(5), May 16, 1972, 86 Stat. 145; Pub. L. 94–397, §1(a)–(c), Sept. 3, 1976, 90 Stat. 1202, 1303; Pub. L. 95–454, title IX, §906(a)(14), Oct. 13, 1978, 92 Stat. 1226; Pub. L. 95–598, title III, §338(d), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–179, §4, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 96–504, §1, Dec. 5, 1980, 94 Stat. 2741; Pub. L. 97–141, §5(a), Dec. 29, 1981, 95 Stat. 1719; Pub. L. 97–276, §151(g), Oct. 2, 1982, 96 Stat. 1202; Pub. L. 97–346, §3(j)(2), Oct. 15, 1982, 96 Stat. 1649; Pub. L. 98–353, title I, §112, July 10, 1984, 98 Stat. 343; Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1403; Pub. L. 98–525, title XV, §1537(e), Oct. 19, 1984, 98 Stat. 2636; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 351; Pub. L. 99–500, §101(<i>l</i>), Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(<i>l</i>), Oct. 30, 1986, 100 Stat. 3341–308; Pub. L. 100–202, §§101(<i>l</i>) \[title I\], 106, Dec. 22, 1987, 101 Stat. 1329–358, 1329–362, 1329–433; Pub. L. 100–457, title I, Sept. 30, 1988, 102 Stat. 2129; Pub. L. 101–428, §2(d)(8), Oct. 15, 1990, 104 Stat. 929; Pub. L. 101–509, title V, §529 \[title I, §108(b)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(2), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(b), Dec. 5, 1991, 105 Stat. 1391; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359.)
+
+Historical and Revision Notes<br>1966
+
+Act
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 2263 (less (a)).
+
+July 31, 1956, ch. 804, §401 “Sec. 13 (less (a))”, 70 Stat. 757.
+
+&nbsp;
+
+July 7, 1960, Pub. L. 86–604, §1(f), 74 Stat. 358.
+
+&nbsp;
+
+July 12, 1960, Pub. L. 86–622, §3(a), 74 Stat. 410.
+
+&nbsp;
+
+Oct. 4, 1961, Pub. L. 87–350, §5, 75 Stat. 771.
+
+In subsections (a) and (b), the words “except for lump-sum leave payment purposes under section 61b of this title” are omitted as unnecessary as section 5551(a) provides that a “lump-sum leave payment is considered pay for taxation purposes only”.
+
+In subsection (a), the words “after September 30, 1956” are substituted for “hereafter” on authority of §406 of the Act of July 31, 1956, ch. 804, 70 Stat. 761. In paragraph (2), the words “other than an automatic separation” are substituted for “excluding a separationunder the automatic separation provisions of this chapter”. In the third sentence, the words “and this provision concerning the lump-sum leave payments shall also be effective in the case of each retired employee separated from reemployment after December 15, 1953, and before the effective date of the Civil Service Retirement Act Amendments of 1956” are omitted as executed, and any existing rights are preserved by technical section 8. In the fourth sentence, the words “except as President” are added to preserve the exception stated in former section 2252(b). In the penultimate sentence, the words “after October 3, 1961” are substituted for “on or after October 4, 1961”. In the last sentence, the words “in any manner” are omitted as unnecessary.
+
+In subsection (b), the words “receiving annuity from the Fund” are substituted for “heretofore or hereafter retired under this chapter”. The word “hereafter” is omitted as unnecessary. In paragraph (1)(B), the words “the day after” are substituted for “the first day of the month following” on authority of former section 2264(b), which is carried into section 8345(b). In paragraph (1), former clause (C) is omitted as obsolete. In paragraph (2)(D), the words “of the United States” are omitted as unnecessary.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+1967
+
+Act
+
+<i>Section of title 5</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+8344(a)
+
+5 App.: 2263(b) (last sentence).
+
+Mar. 30, 1966, Pub. L. 89–378, §1, 80 Stat. 93.
+
+In subsection (a), the words “after July 11, 1960” are substituted for “on or after July 12, 1960.” In subsection (b)(1), the amendment is made for consistency within the subchapter.
+
+In the codification of 5 U.S.C. 8344 by Public Law 89–554, the words “except for lump-sum leave payment purposes under section 61b of this title” were omitted from the third sentence of subsection (a) and from subsection (b)(2)(C) on the basis that they were unnecessary since former 5 U.S.C. 61b \[now codified as 5 U.S.C. 5551(a)\] provided that a lump-sum leave payment was considered pay for taxation purposes only. This amendment restores to 5 U.S.C. 8344 the language that was so omitted to conform to the source statute (section 13 of the Civil Service Retirement Act, as amended) and in recognition that the language was expressly placed in the source statute to overcome certain decisions of the Comptroller General of the United States (see 28 Comp. Gen. 294; 33 id. 591, and 36 id. 209).
+
+#### References in Text
+
+Level V of the Executive Schedule, referred to in subsec. (h)(1), is set out in section 5316 of this title.
+
+#### Codification
+
+Amendment of subsec. (h)(2) by Pub. L. 99–500 and 99–591 is based on provisions under the subheading “Federal Aviation Administration, Operations”, in title I of H.R. 5205 (Department of Transportation and Related Agencies Appropriations Act, 1987), as incorporated by reference by section 101(<i>l</i>) of Pub. L. 99–500 and 99–591, and enacted into law by section 106 of Pub. L. 100–202.
+
+Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+
+#### Amendments
+
+1992—Subsec. (i). Pub. L. 102–378 repealed Pub. L. 101–510, §1206(j)(2). See 1990 Amendment note below.
+
+1991—Subsec. (i)(3). Pub. L. 102–190, §655(b)(2), struck out par. (3) which read as follows: “An employee to whom a waiver under subparagraph (A) or (B) of paragraph (1) applies shall not be deemed an employee for the purposes of this chapter or chapter 84 while such waiver is in effect.”
+
+Subsecs. (j) to (<i>l</i>). Pub. L. 102–190, §655(b)(1), added subsecs. (j) to (<i>l).</i>
+
+1990—Subsec. (a)(A). Pub. L. 101–428 substituted “(i), (n), and (q)” for “(i), and (n)”.
+
+Subsec. (i). Pub. L. 101–510, §1206(j)(2), added a subsec. (i) identical to that added by Pub. L. 101–509, see below. Pub. L. 102–378, §8(a), repealed Pub. L. 101–510, §1206(j)(2), and provided that this title shall read as if such section 1206(j)(2) had not been enacted.
+
+Pub. L. 101–509 added subsec. (i).
+
+1988—Subsec. (h)(2). Pub. L. 100–457 substituted “1987” for “1986”.
+
+1987—Subsec. (h)(2). Pub. L. 100–202, §101(<i>l</i>) \[title I\], substituted “December 31, 1986” for “April 1, 1986”.
+
+For amendment by section 106 of Pub. L. 100–202, see 1986 Amendment note below.
+
+1986—Subsec. (h)(2). Pub. L. 99–500 and Pub. L. 99–591, §101(<i>l</i>), as enacted by Pub. L. 100–202, §106, substituted “April 1, 1986” for “April 1, 1985”. See Codification note above.
+
+1985—Subsec. (h)(1). Pub. L. 99–88 inserted proviso directing that the amount an annuitant may receive in pay, excluding premium pay, in any pay period when aggregated with the annuity payable during that same period shall not exceed the rate payable for level V of the Executive Schedule.
+
+Subsec. (h)(2). Pub. L. 99–88 substituted “April 1, 1985” for “August 3, 1981”.
+
+1984—Subsec. (a)(A). Pub. L. 98–353 substituted “and (n)” for “and (<i>o)”.</i>
+
+Subsec. (d). Pub. L. 98–396 substituted “on termination of the employment in the amount equal to the sum of the amount of the annuity the member was receiving immediately before the commencement of the employment and the amount of the increases which would have been made in the amount of the annuity under section 8340 of this title during the period of the employment if the annuity had been payable during that period” for “in the same amount on termination of the employment”.
+
+Subsec. (h)(1). Pub. L. 98–525 inserted “or the Secretary of Defense”.
+
+1982—Subsec. (a). Pub. L. 97–346 inserted “unless the individual elects to have such deductions withheld under subparagraph (A)” and “(to the extent deposits or deductions have not otherwise been made)”.
+
+Subsec. (a)(4)(A). Pub. L. 97–346 inserted “deductions for the Fund may be withheld from his pay (if the employee so elects)”.
+
+Subsec. (h). Pub. L. 97–276 added subsec. (h).
+
+1981—Subsec. (c). Pub. L. 97–141 inserted provision that upon separation from such position, an individual whose annuity is so terminated is entitled to have his rights redetermined under this subchapter, except that the amount of the annuity resulting from such redetermination shall be at least equal to the amount of the terminated annuity plus any increases under section 8340 of this title occurring after the termination and before the commencement of the redetermined annuity.
+
+1980—Subsec. (c). Pub. L. 96–179 inserted “or is elected as a Member,” after “subject to this subchapter,”.
+
+Subsecs. (f), (g). Pub. L. 96–504 added subsecs. (f) and (g).
+
+1978—Subsec. (a). Pub. L. 95–598 inserted reference to subsec. (<i>o</i>) of section 8339 of this title in par. (A).
+
+Pub. L. 95–454 substituted “Office of Personnel Management” for “Commission” in provisions following par. (B).
+
+1976—Subsec. (a). Pub. L. 94–397, §1(a), inserted provisions requiring applicability to annuitants whose annuity is terminated under subsecs. (b) and (c) of this section, authorizing deducted amounts to be deposited in the Treasury to the credit of the Fund, and covering described employment continuing for the equivalent of five years in the case of part-time employment, and struck out provisions requiring employment after Sept. 30, 1956, or service on July 31, 1956, for application of coverage, and redetermination rights for an annuitant whose annuity is based on involuntary separation from the service and who is separated after July 11, 1960 for full-time employment began before Oct. 1, 1956.
+
+Subsecs. (b), (c). Pub. L. 94–397, §1(b), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (e), respectively.
+
+Subsec. (d). Pub. L. 94–397, §1(b), (c), redesignated former subsec. (b) as (d) and struck out prohibition of application of subsec. to a Member appointed by the President to a position not requiring confirmation by the Senate.
+
+Subsec. (e). Pub. L. 94–397, §1(b), redesignated former subsec. (c) as (e).
+
+1972—Subsec. (a). Pub. L. 92–297 substituted “section 8339(a), (b), (d), (e), (h), and (i)” for “section 8339(a), (b), (d), (g), and (h)”, in subpar. (A), and “section 8339(j) or section 8339(k)(2)” for “section 8339(i) or section 8339(j)(2)”, in sentence following cl. (ii).
+
+1971—Subsec. (a). Pub. L. 91–658 substituted provisions respecting reemployed annuitants and reduction in their annuity and increase in survivor annuity, notice to Commission of a desire not to increase the survivor annuity, increase in survivor annuity where annuitant dies while still reemployed, and redetermination of rights to survivor annuity where reemployment continued for five or more years upon election to deposit in the Fund, for prior provision that employment of an annuitant did not create an annuity for or affect the annuity of a survivor.
+
+1970—Subsec. (c). Pub. L. 91–375 added subsec. (c).
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–378 effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as a note under section 6303 of this title.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Section 106 of Pub. L. 100–202 provided that the amendment by Pub. L. 99–500 and 99–591 is effective on date of enactment \[Oct. 18, 1986\] of the “pertinent joint resolution” making continuing appropriations for fiscal year 1987 \[Pub. L. 99–500 and 99–591\].
+
+#### Effective Date of 1984 Amendments
+
+Amendment by Pub. L. 98–525 effective Oct. 1, 1984, see section 1537(f) of Pub. L. 98–525, set out as a note under section 4109 of this title.
+
+Amendment by Pub. L. 98–353 effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out as an Effective Date note under section 151 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 1982 Amendment
+
+Amendment by Pub. L. 97–276 effective at 5 o'clock ante meridian eastern daylight time, Aug. 3, 1981, see section 151(h)(1) of Pub. L. 97–276, set out as an Effective Date note under section 5546a of this title.
+
+#### Effective Date of 1981 Amendment
+
+Section 5(b) of Pub. L. 97–141 provided that:
+
+“(1) Subject to paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to individuals whose annuities terminate under section 8344(c) of title 5, United States Code, on or after October 1, 1976.
+
+“(2) In the case of an individual whose reemployment ended before the date of the enactment of this Act \[Dec. 29, 1981\], the amendment shall apply only upon application by the individual to the Office of Personnel Management within one year after the date of enactment. Upon receipt of such application, the Office shall recompute the annuity, effective as of the day following the day reemployment ended.”
+
+#### Effective Date of 1980 Amendment
+
+Section 6 of Pub. L. 96–504 provided that:
+
+“(a) The provisions of this Act \[amending this section, repealing section 375 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 8342 of this title and section 376 of Title 28\] shall take effect on—
+
+&emsp;“(1) the date of the enactment of this Act \[Dec. 5, 1980\], or
+
+&emsp;“(2) October 1, 1980,
+
+> whichever date is later.
+
+“(b) The provisions of subsection (f) of section 8344 of title 5, United States Code, as added by the first section of this Act, shall apply only to an individual who becomes employed as a justice or judge of the United States on or after the effective date of this Act. The provisions of subsection (g) of such section, as added by the first section of this Act, shall apply to an individual employed as a justice or judge of the United States on the effective date of this Act and to an individual appointed as such a justice or judge on or after such effective date.”
+
+#### Effective Date of 1978 Amendments
+
+Amendment by Pub. L. 95–598 effective Nov. 6, 1978, see section 402(d) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Effective Date of 1976 Amendment
+
+Section 2 of Pub. L. 94–397 provided that:
+
+“(a) Except as provided under subsection (b) of this section, the amendments made by this Act \[amending this section and section 8339 of this title\] shall become effective on the date of the enactment of this Act \[Sept. 3, 1976\] or October 1, 1976, whichever is later, and shall apply to annuitants serving in appointive or elective positions on and after such date.
+
+“(b) The amendment made by subsection (c) of the first section of this Act \[amending this section\] shall become effective on the date of the enactment of this Act \[Sept. 3, 1976\] or October 1, 1976, whichever is later, but shall not apply to any annuitant reemployed before such date.”
+
+#### Effective Date of 1972 Amendment
+
+Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see section 10 of Pub. L. 92–297, set out as an Effective Date note under section 3381 of this title.
+
+#### Effective Date of 1971 Amendment
+
+Section 5(d) of Pub. L. 91–658 provided that: “The amendment made by section 4 of this Act \[amending this section\] shall apply only with respect to a reemployed annuitant whose employment terminates on or after the date of enactment of this Act \[Jan. 8, 1971\].”
+
+#### Effective Date of 1970 Amendment
+
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+
+#### Effective Date of 1967 Amendment
+
+Amendment by section 1(83)(A), (D) of Pub. L. 90–83 effective as of Sept. 6, 1966, for all purposes, see section 9(h) of Pub. L. 90–83, set out as a note under section 5102 of this title.
+
+#### Annual Report to Congress
+
+Each agency in legislative branch to submit to Speaker of House of Representatives and Committee onRules and Administration of Senate, for each calendar year, a written report on how authority made available as result of amendment by Pub. L. 102–190 was used by such agency during the period covered by such report, see section 655(d) of Pub. L. 102–190, set out as a note under section 5532 of this title.
+
+#### Commission on the Operation of the Senate
+
+Pub. L. 94–252, Mar. 30, 1976, 90 Stat. 294, provided that: “On and after the date of the enactment of the joint resolution \[Mar. 30, 1976\], the provisions of section 8344 of title 5, United States Code, shall not apply to any individual serving as a member of the Commission on the Operation of the Senate.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 8339 of this title; title 20 section 4512; title 22 sections 2512, 2584; title 28 sections 625, 634; title 39 section 1005.
+

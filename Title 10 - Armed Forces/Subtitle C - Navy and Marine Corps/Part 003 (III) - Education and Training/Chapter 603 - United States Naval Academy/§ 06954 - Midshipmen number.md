@@ -1,0 +1,234 @@
+### §6954. Midshipmen: number
+
+(a) There may be at the Naval Academy at any one time midshipmen as follows:
+
+&emsp;(1) 65 selected in order of merit as established by competitive examination from thechildren of members of the armed forces who were killed in action or died of, or have a service-connected disability at not less than 100 per centum resulting from, wounds or injuries received or diseases contracted in, or preexisting injury or disease aggravated by, active service, children of members who are in a “missing status” as defined in section 551(2) of title 37, and children of civilian employees who are in “missing status” as defined in section 5561(5) of title 5. The determination of the Department of Veterans Affairs as to service connection of the cause of death or disability is rated, is binding upon the Secretary of the Navy.
+
+&emsp;(2) Five nominated at large by the Vice President or, if there is no Vice President, by the President pro tempore of the Senate.
+
+&emsp;(3) Ten from each State, five of whom are nominated by each Senator from that State.
+
+&emsp;(4) Five nominated by each Representative in Congress.
+
+&emsp;(5) Five from the District of Columbia, nominated by the Delegate to the House of Representatives from the District of Columbia.
+
+&emsp;(6) Two from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands.
+
+&emsp;(7) Six from Puerto Rico, five of whom are nominated by the Resident Commissioner from Puerto Rico and one who is a native of Puerto Rico nominated by the Governor of Puerto Rico.
+
+&emsp;(8) Two from Guam, nominated by the Delegate in Congress from Guam.
+
+&emsp;(9) One from American Samoa, nominated by the Delegate in Congress from American Samoa.
+
+> Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 10 persons for each vacancy that is available under this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.
+
+(b) In addition there may be appointed each year at the Academy midshipmen as follows:
+
+&emsp;(1) one hundred selected by the President from the children of members of an armed force who—
+
+&emsp;&emsp;(A) are on active duty (other than for training) and who have served continuously on active duty for at least eight years;
+
+&emsp;&emsp;(B) are, or who died while they were, retired with pay or granted retired or retainer pay, other than those granted retired pay under section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act);
+
+> &emsp;however, a person who is eligible for selection under clause (1) of subsection (a) may not be selected under this clause.
+
+&emsp;(2) 85 nominated by the Secretary of the Navy from enlisted members of the Regular Navy and the Regular Marine Corps.
+
+&emsp;(3) 85 nominated by the Secretary of the Navy from enlisted members of the Naval Reserve and the Marine Corps Reserve.
+
+&emsp;(4) 20 nominated by the Secretary of the Navy, under regulations prescribed by him, from the honor graduates of schools designated as honor schools by the Department of the Army, the Department of the Navy, or the Department of the Air Force, and from members of the Naval Reserve Officer's Training corps.
+
+&emsp;(5) 150 selected by the Secretary of the Navy in order of merit (prescribed pursuant to section 6956 of this title) from qualified alternates nominated by persons named in clauses (3) and (4) of subsection (a).
+
+(c) The President may also appoint as midshipmen at the Academy children of persons who have been awarded the medal of honor for acts performed while in the armed forces.
+
+(d) The Superintendent of the Naval Academy may nominate for appointment each year 50 persons from the country at large. Persons nominated under this paragraph may not displace any appointment authorized under clauses (2) through (9) of subsection (a) and may not cause the total strength of midshipmen at the Naval Academy to exceed the authorized number.
+
+(e) The Secretary of the Navy may limit the number of midshipmen appointed under subsection (b)(5). When he does so, if the total number of midshipmen, upon admission of a new class at the Academy, will be more than 3,737, no appointments may be made under subsection (b)(2) or (3) of this section or section 6956 of this title.
+
+(f) The Secretary of the Navy shall furnish to any Member of Congress, upon the written request of such Member, the name of the Congressman or other nominating authority responsible for the nomination of any named or identified person for appointment to the Academy.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 429; Sept. 7, 1962, Pub. L. 87–651, title I, §124, 76 Stat. 514; Sept. 14, 1962, Pub. L. 87–663, §1(3), 76 Stat. 547; Mar. 3, 1964, Pub. L. 88–276, §2, 78 Stat. 150; Oct. 13, 1966, Pub. L. 89–650, §1(1)–(3), 80 Stat. 896; July 5, 1968, Pub. L. 90–374, 82 Stat. 283; Oct. 22, 1968, Pub. L. 90–623, §2(8), 82 Stat. 1314; Sept. 22, 1970, Pub. L. 91–405, title II, §204(c), 84 Stat. 852; Aug. 7, 1972, Pub. L. 92–365, §1(2), 86 Stat. 505; Nov. 29, 1973, Pub. L. 93–171, §2(1)–(3), 87 Stat. 690; Oct. 7, 1975, Pub. L. 94–106, title VIII, §803(b)(1), 89 Stat. 538; Dec. 24, 1980, Pub. L. 96–600, §2(b), 94 Stat. 3493; Oct. 14, 1981, Pub. L. 97–60, title II, §203(b)(2), 95 Stat. 1006; Oct. 12, 1982, Pub. L. 97–295, §1(44), 96 Stat. 1298; Sept. 24, 1983, Pub. L. 98–94, title X, §1005(a)(2), (b)(2), 97 Stat. 660; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Nov. 5, 1990, Pub. L. 101–510, div. A, title V, §532(b)(1), 104 Stat. 1563; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §531, 107 Stat. 1657; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1673(c), 108 Stat. 3016.)
+
+Historical and Revision Notes<br>1956
+
+Act
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+6954(a)(1)
+
+34 U.S.C. 1036a.
+
+June 8, 1926, ch. 492, par. 2, 44 Stat. 703; Dec. 1, 1942, ch. 650, 56 Stat. 1024; Nov. 24, 1945, ch. 493, 59 Stat. 586; June 30, 1950, ch. 421, §6(c), 64 Stat. 305; June 3, 1954, ch. 251, §1, 68 Stat. 168.
+
+6954(a)(2)
+
+34 U.S.C. 1037.
+
+May 28, 1928, ch. 820, 45 Stat. 788.
+
+6954(a)(3)– (7)
+
+34 U.S.C. 1032 (1st 31 words).
+
+Dec. 20, 1917, ch. 5, §1 (1st 31 words), 40 Stat. 430; Aug. 13, 1946, ch. 962, §16, 60 Stat. 1061; May 16, 1947, ch. 77, §1(<i>o</i>), 61 Stat. 100.
+
+6954(a)(7)
+
+34 U.S.C. 1034.
+
+Mar. 3, 1903, ch. 1010, 32 Stat. 1198 (2d par.).
+
+6954(a)(8)
+
+34 U.S.C. 1035a.
+
+June 8, 1939, ch. 195, 53 Stat. 814.
+
+6954(b)(1)
+
+34 U.S.C. 1039.
+
+Aug. 13, 1946, ch. 962, §16(a), 60 Stat. 1061; May 16, 1947, ch. 77, §1(<i>o</i>), 61 Stat. 100; June 30, 1950, ch. 421, §5, 64 Stat. 305.
+
+6954(b)(2), (3)
+
+34 U.S.C. 1032 (32d to 70th words).
+
+Dec. 20, 1917, ch. 5, §1 (32d to 70th words), 40 Stat. 430; Aug. 13, 1946, ch. 962, §16, 60 Stat. 1061.
+
+6954(b)(4)
+
+34 U.S.C. 1033a.
+
+Feb. 27, 1936, ch. 89, 49 Stat. 1144; June 6, 1941, ch. 175, 55 Stat. 246.
+
+6954(c)
+
+34 U.S.C. 1038.
+
+Nov. 24, 1945, ch. 492, 59 Stat. 586.
+
+All provisions of law authorizing appointments to the Naval Academy from various sources are collected in this section. The language is extensively changed to meet the needs of this organization of the source material. In those provisions that now authorize “appointments” by other than the President, the language is changed to indicate that the process is one of selection where the law requires selection by competitive examination, and to show that other candidates are nominated. The manner of appointing the selectees and nominees, in all cases, is covered in §6953 of this title. In the case of nominees from States, the District of Columbia, Territories, and from Puerto Rico, the qualification that the nominees must be from the political subdivisions from which nominated is indicated. The requirement that the nominees be actual residents of the political subdivisions is contained in §6958(b) of this title.
+
+In subsection (a)(1) the words “armed forces” are substituted for the description of the land and naval forces. The words “including male and female members of” and “of all components thereof” are omitted as surplusage.
+
+In subsection (a)(1)(B), the date February 1, 1955, fixed by Proclamation No. 3080 (Jan. 7, 1955; 20 F.R. 173), is substituted for the words “such date as shall thereafter be determined by Presidential proclamation or concurrent resolution of the Congress under section 745 of title 38”.
+
+In subsection (b)(1) the qualification that appointees must be from the sons of members of the various “regular” components of the armed forces is added, as “Army, Navy, Air Force, Marine Corps, and Coast Guard” are so interpreted in this statute.
+
+In subsection (c) the proviso “That all such appointees are otherwise qualified for admission” is omitted as covered by §6958 of this title setting forth qualifications of all candidates.
+
+The applicability to the United States Military Academy in the Act of June 8, 1926, ch. 492, as amended (34 U.S.C. 1036a; 10 U.S.C. 1091a), was repealed by section 6(c) of the Act of June 30, 1950, ch. 421, 64 Stat. 305.
+
+#### 1962 Act
+
+The change reflects the change of the name of the Panama Railroad Company to the Panama Canal Company by section 2(a)(2) of the Act of September 26, 1950 (64 Stat. 1038).
+
+#### 1982 Act
+
+In 10:6954(f), the word “The” is substituted for “Effective beginning with the nominations for appointment to the Academy in the calendar year 1964, the” to eliminate executed words.
+
+#### References in Text
+
+Section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in subsec. (b)(1)(B), means section 1331 of this title prior to its renumbering as section 12731 of this title and its general revision by Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 2999. A new section 1331 was added by section 1662(j)(7) of Pub. L. 103–337.
+
+#### Amendments
+
+1994—Subsec. (b)(1)(B). Pub. L. 103–337 substituted “section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “section 1331 of this title”.
+
+1993—Subsec. (a). Pub. L. 103–160, in concluding provisions, substituted “10 persons” for “a principal candidate and nine alternates” and inserted at end “Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.”
+
+1990—Subsec. (a)(8) to (10). Pub. L. 101–510, §532(b)(1)(A), redesignated cls. (9) and (10) as (8) and (9), respectively, and struck out former cl. (8) which read as follows: “One nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States residing in the Republic of Panama who are citizens of the United States.”
+
+Subsec. (d). Pub. L. 101–510, §532(b)(1)(B), substituted “clauses (2) through (9)” for “clauses (2)–(7), (9), or (10)”.
+
+1989—Subsec. (a)(1). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+
+1983—Subsec. (a)(8). Pub. L. 98–94, §1005(b)(2), substituted “One nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States residing in the Republic of Panama who are citizens of the United States” for “One nominated by the Governor of the Panama Canal from the children of civilians residing in the Canal Zone or the children of civilian personnel of the United States Government, or the Panama Canal Company, residing in the Republic of Panama”.
+
+Subsec. (a)(10). Pub. L. 98–94, §1005(a)(2), substituted “One from American Samoa, nominated by the Delegate in Congress from American Samoa” for “One from American Samoa nominated by the Secretary of the Navy upon recommendation of the Governor of American Samoa”.
+
+1982—Subsec. (f). Pub. L. 97–295 substituted “The” for “Effective beginning with the nominations for appointment to the Academy in the calendar year 1964, the”.
+
+1981—Subsecs. (d) to (f). Pub. L. 97–60 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+
+1980—Subsec. (a)(6), (9). Pub. L. 96–600 substituted “Two” for “One”.
+
+1975—Subsecs. (a)(1), (8), (b)(1), (c). Pub. L. 94–106 substituted “children” for “sons” wherever appearing.
+
+1973—Subsec. (a)(6). Pub. L. 93–171, §2(1), substituted “One from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands” for “Five from each Territory, nominated by the Delegate in Congress from that Territory”.
+
+Subsec. (a)(9). Pub. L. 93–171, §2(2), struck out reference to American Samoa and Virgin Islands.
+
+Subsec. (a)(10). Pub. L. 93–171, §2(3), added cl. (10).
+
+1972—Subsec. (a)(1). Pub. L. 92–365 increased the number of midshipmen from 40 to 65 and added sons of members who are in missing status and sons of civilian employees who are in missing status as eligible for competitive examination.
+
+1970—Subsec. (a)(5). Pub. L. 91–405 substituted “Delegate to the House of Representatives from the District of Columbia” for “Commissioner of that District”.
+
+1968—Subsec. (a). Pub. L. 90–374 increased from five to nine the number of alternates for each vacancy each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate.
+
+Subsec. (a)(5). Pub. L. 90–623 substituted “Commissioner” for “Commissioners”.
+
+1966—Subsec. (a)(1). Pub. L. 89–650, §1(1), provided for selection of cadets to the Naval Academy from sons of members of the armed forces who have a 100 per centum service-connected disability and removed the limitation to active service during World War I or World War II or after June 26, 1950, and before Feb. 1, 1955.
+
+Subsec. (a)(2). Pub. L. 89–650, §1(2), provided for nominations to the Naval Academy by the President pro tempore of the Senate if there is no Vice President.
+
+Subsec. (b)(1). Pub. L. 89–650, §1(3), increased the number of Presidential appointments to the Naval Academy from 75 to 100, provided for selection of eligible persons as stated in items (A) and (B), previously chosen from sons of members of regular components, and declared persons eligible under subsec. (a)(1) ineligible under subsec. (b)(1) of this section.
+
+1964—Subsec. (a). Pub. L. 88–276, §2(1), inserted “Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate a principal candidate and five alternates for each vacancy that is available to him under this section”.
+
+Subsec. (b)(2), (3), (5). Pub. L. 88–276, §2(2), reduced the number of nominees in cls. (2) and (3) from 160 to 85 and added cl. (5).
+
+Subsecs. (d), (e). Pub. L. 88–276, §2(3), added subsecs. (d) and (e).
+
+1962—Subsec. (a). Pub. L. 87–663 added cl. (9).
+
+Pub. L. 87–651 substituted “Panama Canal Company” for “Panama Railroad Company” in cl. (8).
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+
+#### Effective Date of 1981 Amendment
+
+Amendment by Pub. L. 97–60 effective with respect to nominations for appointment to the first class admitted to each Academy after Oct. 14, 1981, see section 203(d) of Pub. L. 97–60, set out as an Effective Date note under section 4341a of this title.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–600 effective beginning with nominations for appointment to the service academies for academic years beginning more than one year after Dec. 24, 1980, see section 2(d) of Pub. L. 96–600 set out as a note under section 4342 of this title.
+
+#### Effective Date of 1973 Amendment
+
+Amendment by Pub. L. 93–171 effective beginning with the nominations for appointment to the service academies in the calendar year 1974, see section 4 of Pub. L. 93–171, set out as a note under section 4342 of this title.
+
+#### Effective Date of 1970 Amendment
+
+Amendment by Pub. L. 91–405 effective Sept. 22, 1970, see section 206(b) of Pub. L. 91–405, set out as an Effective Date note under section 25a of Title 2, The Congress.
+
+#### Effective Date of 1968 Amendment
+
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+
+#### Limitation on Number of Cadets and Midshipmen Authorized To Attend Service Academies
+
+Authorized strength of service academies not to exceed 4,000 per academy for class years beginning after 1994, and any reduction in number of appointments not to be achieved by reduction in number of appointments under subsec. (a) of this section, see section 511 of Pub. L. 102–190, set out as a note under section 4342 of this title.
+
+#### Eligibility of Female Individuals for Appointment and Admission to Service Academies; Uniform Application of Academic and other Standards to Male and Female Individuals
+
+Secretary to take such action as may be necessary and appropriate to insure that (1) female individuals shall be eligible for appointment and admission to the United States Naval Academy, beginning with appointments to such academy for the class beginning in calendar year 1976, and (2) the academic and other relevant standards required for appointment, admission, training, graduation, and commissioning of female individuals shall be the same as those required for male individuals, except for those minimum essential adjustments in such standards required because of physiological differences between male and female individuals, see section 803(a) of Pub. L. 94–106, set out as a note under section 4342 of this title.
+
+#### Secretary To Implement Policy of Expeditious Admission of Women to the Academy
+
+Secretary to continue to exercise the authority granted under this chapter and chapters 403 and 903 of this title, but such authority to be exercised within a program providing for the orderly and expeditious admission of women to the Academy, consistent with the needs of the services, see section 803(c) of Pub. L. 94–106, set out as a note under section 4342 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6956, 6957, 6958 of this title.
+

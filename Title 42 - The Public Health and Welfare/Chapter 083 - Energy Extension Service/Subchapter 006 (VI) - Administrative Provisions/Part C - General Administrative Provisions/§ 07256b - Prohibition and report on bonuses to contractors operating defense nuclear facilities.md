@@ -1,0 +1,28 @@
+### §7256b. Prohibition and report on bonuses to contractors operating defense nuclear facilities
+
+#### (a) Prohibition
+
+The Secretary of Energy may not provide any bonuses, award fees, or other form of performance- or production-based awards to a contractor operating a Department of Energy defense nuclear facility unless, in evaluating the performance or production under the contract, the Secretary considers the contractor's compliance with all applicable environmental, safety, and health statutes, regulations, and practices for determining both the size of, and the contractor's qualification for, such bonus, award fee, or other award. The prohibition in this subsection applies with respect to contracts entered into, or contract options exercised, after November 29, 1989.
+
+#### (b) Report on Rocky Flats bonuses
+
+The Secretary of Energy shall investigate the payment, from 1981 to 1988, of production bonuses to Rockwell International, the contractor operating the Rocky Flats Plant (Golden, Colorado), for purposes of determining whether the payment of such bonuses was made under fraudulent circumstances. Not later than 6 months after November 29, 1989, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the results of that investigation, including the Secretary's conclusions and recommendations.
+
+#### (c) “Department of Energy defense nuclear facility” defined
+
+In this section, the term “Department of Energy defense nuclear facility” has the meaning given such term by section 2286g of this title.
+
+#### (d) Regulations
+
+The Secretary of Energy shall promulgate regulations to implement subsection (a) of this section not later than 90 days after November 29, 1989.
+
+(Pub. L. 101–189, div. C, title XXXI, §3151, Nov. 29, 1989, 103 Stat. 1682.)
+
+#### Codification
+
+Section was enacted as part of the National Defense Authorization Act for Fiscal Years 1990 and 1991, and not as part of the Department of Energy Organization Act which comprises this chapter.
+
+#### Change of Name
+
+Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+

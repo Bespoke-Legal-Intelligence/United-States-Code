@@ -1,0 +1,80 @@
+### §2932. Committee on Earth and Environmental Sciences
+
+#### (a) Establishment
+
+The President, through the Council, shall establish a Committee on Earth and Environmental Sciences. The Committee shall carry out Council functions under section 6651 of title 42relating to global change research, for the purpose of increasing the overall effectiveness and productivity of Federal global change research efforts.
+
+#### (b) Membership
+
+The Committee shall consist of at least one representative from—
+
+&emsp;(1) the National Science Foundation;
+
+&emsp;(2) the National Aeronautics and Space Administration;
+
+&emsp;(3) the National Oceanic and Atmospheric Administration of the Department of Commerce;
+
+&emsp;(4) the Environmental Protection Agency;
+
+&emsp;(5) the Department of Energy;
+
+&emsp;(6) the Department of State;
+
+&emsp;(7) the Department of Defense;
+
+&emsp;(8) the Department of the Interior;
+
+&emsp;(9) the Department of Agriculture;
+
+&emsp;(10) the Department of Transportation;
+
+&emsp;(11) the Office of Management and Budget;
+
+&emsp;(12) the Office of Science and Technology Policy;
+
+&emsp;(13) the Council on Environmental Quality;
+
+&emsp;(14) the National Institute of Environmental Health Sciences of the National Institutes of Health; and
+
+&emsp;(15) such other agencies and departments of the United States as the President or the Chairman of the Council considers appropriate.
+
+> Such representatives shall be high ranking officials of their agency or department, wherever possible the head of the portion of that agency or department that is most revelant<sup>1</sup> to the purpose of the subchapter described in section 2931(b) of this title.
+
+#### (c) Chairperson
+
+The Chairman of the Council, in consultation with the Committee, biennially shall select one of the Committee members to serve as Chairperson. The Chairperson shall be knowledgeable and experienced with regard to the administration of scientific research programs, and shall be a representative of an agency that contributes substantially, in terms of scientific research capability and budget, to the Program.
+
+#### (d) Support personnel
+
+An Executive Secretary shall be appointed by the Chairperson of the Committee, with the approval of the Committee. The Executive Secretary shall be a permanent employee of one of the agencies or departments represented on the Committee, and shall remain in the employ of such agency or department. The Chairman of the Council shall have the authority to make personnel decisions regarding any employees detailed to the Council for purposes of working on business of the Committee pursuant to section 6651 of title 42.
+
+#### (e) Functions relative to global change
+
+The Council, through the Committee, shall be responsible for planning and coordinating the Program. In carrying out this responsibility, the Committee shall—
+
+&emsp;(1) serve as the forum for developing the Plan and for overseeing its implementation;
+
+&emsp;(2) improve cooperation among Federal agencies and departments with respect to global change research activities;
+
+&emsp;(3) provide budgetary advice as specified in section 2935 of this title;
+
+&emsp;(4) work with academic, State, industry, and other groups conducting global change research, to provide for periodic public and peer review of the Program;
+
+&emsp;(5) cooperate with the Secretary of State in—
+
+&emsp;&emsp;(A) providing representation at international meetings and conferences on global change research in which the United States participates; and
+
+&emsp;&emsp;(B) coordinating the Federal activities of the United States with programs of other nations and with international global change research activities such as the International Geosphere-Biosphere Program;
+
+&emsp;(6) consult with actual and potential users of the results of the Program to ensure that such results are useful in developing national and international policy responses to global change; and
+
+&emsp;(7) report at least annually to the President and the Congress, through the Chairman of the Council, on Federal global change research priorities, policies, and programs.
+
+(Pub. L. 101 606, title I, §102, Nov. 16, 1990, 104 Stat. 3097.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2921 of this title.
+
+<i><sup>1</sup></i><i>So in original. Probably should be “relevant”.</i>
+

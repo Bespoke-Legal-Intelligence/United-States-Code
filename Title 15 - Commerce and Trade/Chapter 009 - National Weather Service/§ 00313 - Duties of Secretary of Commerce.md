@@ -1,0 +1,344 @@
+### §313. Duties of Secretary of Commerce
+
+The Secretary of Commerce shall have charge of the forecasting of weather, the issue of storm warnings, the display of weather and flood signals for the benefit of agriculture, commerce, and navigation, the gauging and reporting of rivers, the maintenance and operation of seacoast telegraph lines and the collection and transmission of marine intelligence for the benefit of commerce and navigation, the reporting of temperature and rain-fall conditions for the cotton interests, the display of frost and cold-wave signals, the distribution of meteorological information in the interests of agriculture and commerce, and the taking of such meteorological observations as may be necessary to establish and record the climatic conditions of the United States, or as are essential for the proper execution of the foregoing duties.
+
+(Oct. 1, 1890, ch. 1266, §3, 26 Stat. 653; May 20, 1926, ch. 344, §5 (e), 44 Stat. 571; June 23, 1938, ch. 601, title XI, §1107(k), 52 Stat. 1029; 1940 Reorg. Plan No. IV, §8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236; 1965 Reorg. Plan No. 2, §§1, 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318.)
+
+#### Amendments
+
+1938—Act June 23, 1938, repealed second paragraph relating to duties as to air navigation.
+
+1926—Act May 20, 1926, inserted second paragraph relating to duties as to air navigation.
+
+#### Repeals
+
+Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI, §1107(k), 52 Stat. 1029, cited to the credit of this section.
+
+#### Transfer of Functions
+
+Office of Chief of Weather Bureau abolished and functions transferred to Secretary of Commerce by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Reorg. Plan No. IV of 1940 transferred Weather Bureau from Department of Agriculture to Department of Commerce. For further details, see notes set out under section 311 of this title.
+
+#### Hurricane Reconnaissance Program
+
+Pub. L. 102–567, title I, §107, Oct. 29, 1992, 106 Stat. 4275, provided that:
+
+“(a)
+
+Establishment of Program.—(1) The Secretary of Defense and the Secretary of Commerce shall establish a 5-year joint program for collecting operational and reconnaissance data, conducting research, and analyzing data on tropical cyclones to assist the forecast and warning program and increase the understanding of the causes and behavior of tropical cyclones.
+
+“(2) The Secretary of Commerce shall establish the Tropical Cyclone Research Advisory Committee, an advisory committee of tropical cyclone research scientists, to make recommendations for tropical cyclone research activities and reconnaissance procedures.
+
+“(b)
+
+Responsibilities.—(1) The Secretary of Defense shall have the responsibility for maintaining, flying, and funding tropical cyclone reconnaissance aircraft to accomplish the program established under this section and to transfer the data to the Secretary of Commerce. Program responsibility may not be transferred to any other Federal department or agency, including the Coast Guard, without the agreement and approval of the Secretary of Defense, the Secretary of Commerce, and the head of any other Federal agency or department to which the responsibility is transferred.
+
+“(2) The Secretary of Commerce shall have the responsibility to provide funding for data gathering and research by remote sensing, ground sensing, research aircraft, and other technologies necessary to accomplish the program established under this section.
+
+“(c)
+
+Management Plans.—(1) The Secretary of Defense and the Secretary of Commerce shall jointly develop and, within 120 days after the date of enactment of this Act \[Oct. 29, 1992\], submit to the Congress a management plan for the program established under this section, which shall include organizational structure, goals, major tasks, and funding profiles for the 5-year duration of the program.
+
+“(2) The Secretary of Defense and the Secretary of Commerce, in consultation with the Tropical Cyclone Research Advisory Committee established by section 107(a)(2), shall jointly develop and, within 4 years after the date of enactment of this Act, submit to the Congress a management plan providing for continued tropical cyclone surveillance and reconnaissance which will adequately protect the citizens of the coastal areas of the United States.
+
+“(3) The management plans and programs required by this section shall in every sense provide for at least the same degree and quality of protection (such as early warning capability and accuracy of fixing a storm's location) as currently exists with a combination of satellite technology and manned reconnaissance flights. Additionally, such plans and programs shall in no way allow any reduction in the level, quality, timeliness, sustainability, or area served (including the State of Hawaii) of both the existing principal and back-up tropical cyclone reconnaissance and tracking systems.”
+
+#### United States Weather Research Program
+
+Pub. L. 102–567, title I, §108, Oct. 29, 1992, 106 Stat. 4276, provided that:
+
+“(a)
+
+Establishment.—The Secretary of Commerce, in cooperation with the Federal Coordinating Council for Science, Engineering, and Technology through the Committee on Earth and Environmental Sciences, shall establish a United States Weather Research Program to—
+
+&emsp;“(1) increase benefits to the Nation from the substantial investment in modernizing the public weather warning and forecast system in the United States;
+
+&emsp;“(2) improve local and regional weather forecasts and warnings;
+
+&emsp;“(3) address critical weather-related scientific issues; and
+
+&emsp;“(4) coordinate governmental, university, and private-sector efforts.
+
+“(b)
+
+Implementation Plan.—Not later than 90 days after the date of enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce, in cooperation with the Committee on Earth and Environmental Sciences, shall prepare and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a plan for implementation ofthe United States Weather Research Program which shall—
+
+&emsp;“(1) establish, for the 10-year period beginning in the year the plan is submitted, the goals and priorities for Federal weather research which most effectively advance the scientific understanding of weather processes and provide information to improve weather warning and forecast systems in the United States;
+
+&emsp;“(2) describe specific activities, including research activities, data collection and data analysis requirements, predictive modeling, participation in international research efforts, demonstration of potential operational forecast applications, and education and training required to achieve such goals and priorities; and
+
+&emsp;“(3) set forth the role of each Federal agency and department to be involved in the United States Weather Research Program, identifying and addressing, as appropriate, relevant programs and activities of the Federal agencies and departments that would contribute to such Program.”
+
+#### Weather Service Modernization
+
+Pub. L. 102–567, title VII, Oct. 29, 1992, 106 Stat. 4303, provided that:
+
+#### “SEC. 701. SHORT TITLE.
+
+“This title may be cited as the ‘Weather Service Modernization Act’.
+
+#### “SEC. 702. DEFINITIONS.
+
+“For the purposes of this title, the term—
+
+&emsp;“(1) ‘automate’ means to replace employees with automated weather service equipment;
+
+&emsp;“(2) ‘change operations at a field office’ means transfer service responsibility, commission weather observation systems, decommission a National Weather Service radar, change staffing levels significantly, or move a field office to a new location inside the local commuting and service area;
+
+&emsp;“(3) ‘Committee’ means the Modernization Transition Committee established by section 707;
+
+&emsp;“(4) ‘degradation of service’ means any decrease in or failure to maintain the quality and type of weather services provided by the National Weather Service to the public in a service area, including but not limited to a reduction in existing weather radar coverage at an elevation of 10,000 feet;
+
+&emsp;“(5) ‘field office’ means any National Weather Service Office or National Weather Service Forecast Office;
+
+&emsp;“(6) ‘Plan’ means the National Implementation Plan required under section 703;
+
+&emsp;“(7) ‘relocate’ means to transfer from one location to another location that is outside the local commuting or service area;
+
+&emsp;“(8) ‘Secretary’ means the Secretary of Commerce;
+
+&emsp;“(9) ‘service area’ means the geographical area for which a field office provides services or conducts observations, including but not limited to local forecasts, severe weather warnings, aviation support, radar coverage, and ground weather observations; and
+
+&emsp;“(10) ‘Strategic Plan’ means the 10-year strategic plan for the comprehensive modernization of the National Weather Service, required under section 407 of the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1989 (15 U.S.C. 313 note).
+
+#### “SEC. 703. NATIONAL IMPLEMENTATION PLAN.
+
+“(a)
+
+National Implementation Plan.—As part of the budget justification documents submitted to Congress in support of the annual budget request for the Department of Commerce, the Secretary shall include a National Implementation Plan for modernization of the National Weather Service for each fiscal year following fiscal year 1993 until such modernization is complete. The Plan shall set forth the actions, during the 2-year period beginning with the fiscal year for which the budget request is made, that will be necessary to accomplish the objectives described in the Strategic Plan, and shall include—
+
+&emsp;“(1) detailed requirements for new technologies, facilities, staffing levels and positions, and funding, in accordance with the overall schedule for modernization;
+
+&emsp;“(2) notification of any proposed action to change operations at a field office and the intended date of such operational change;
+
+&emsp;“(3) identification of any field office that the Secretary intends to certify under section 706, including the intended date of such certification;
+
+&emsp;“(4) special measures to test, evaluate, and demonstrate key elements of the modernized National Weather Service operations prior to national implementation, including a multistation operational demonstration which tests the performance of the modernization in an integrated manner for a sustained period;
+
+&emsp;“(5) detailed plans and funding requirements for meteorological research to be accomplishment \[sic\] under this title to assure that new techniques in forecasting will be developed to utilize the new technologies being implemented in the modernization; and
+
+&emsp;“(6) training and education programs to ensure that employees gain the necessary expertise to utilize the new technologies and to minimize employee displacement as a consequence of modernization.
+
+“(b)
+
+Transmittal to Committee.—The Secretary shall transmit a copy of each annual Plan to the Committee.
+
+“(c)
+
+Consultation.—In developing the Plan, the Secretary shall consult, as appropriate, with the Committee and public entities responsible for providing or utilizing weather services.
+
+#### “SEC. 704. MODERNIZATION CRITERIA.
+
+“(a)
+
+National Research Council Review.—The Secretary shall contract with the National Research Council for a review of the scientific and technical modernization criteria by which the Secretary proposes to certify action to close, consolidate, automate, or relocate a field office under section 706. In conducting such review, the National Research Council shall prepare and submit to the Secretary, no later than 9 months after the date of enactment of this Act \[Oct. 29, 1992\], a report which—
+
+&emsp;“(1) assesses requirements and procedures for commissioning new weather observation systems, decommissioning an outdated National Weather Service radar, and evaluating staffing needs for field offices in an affected service area;
+
+&emsp;“(2) assesses the statistical and analytical measures that should be made for a service area to form an adequate basis for determining that there will be no degradation of service; and
+
+&emsp;“(3) includes such other recommendations as the National Research Council determines are appropriate to ensure public safety.
+
+“(b)
+
+Criteria.—No later than 12 months after the date of enactment of this Act \[Oct. 29, 1992\], the Secretary, in consultation with the National Research Council and the Committee and after notice and opportunity for public comment, shall publish in the Federal Register modernization criteria (including all requirements and procedures), based on the report required under this section, for—
+
+&emsp;“(1) commissioning new weather observation systems, decommissioning an outdated National Weather Service radar, and evaluating staffing needs for field offices in an affected service area; and
+
+&emsp;“(2) certifying action to close, consolidate, automate, or relocate a field office under section 706.
+
+#### “SEC. 705. CHANGES IN FIELD OFFICE OPERATIONS.
+
+“(a)
+
+Notification.—The Secretary shall not change operations at a field office pursuant to implementation of the Strategic Plan unless the Secretary has provided the notification required by section 703.
+
+“(b)
+
+Weather Radar Decommissioning.—The Secretary shall not remove or permanently decommission any National Weather Service radar until the Secretary has prepared radar commissioning and decommissioning reports documenting that such action would be consistent with the modernization criteria established under section 704(b)(1). The commissioning report shall document that the radar system performs reliably, satisfactory maintenance support is in place, sufficient staff with adequate training are present to operate the system, technical coordination with weather service users has been completed, and the radar being commissioned satisfactorily supports field office operations. The decommissioning report shall document that the replacement radar has been commissioned, technical coordination with service users has been completed, and the radar being decommissioned is no longer needed to support field office operations.
+
+“(c)
+
+Surface Observing System Commissioning.—The Secretary may not commission an automated surface observing system located at an airport unless it is determined, in consultation with the Secretary of Transportation, that the weather services provided after commissioning will continue to be in full compliance with applicable flight aviation rules promulgated by the Federal Aviation Administration.
+
+#### “SEC. 706. RESTRUCTURING FIELD OFFICES.
+
+“
+
+Sec. 706. (a)
+
+Prohibition.—The Secretary shall not close, before January 1, 1996, any field office pursuant to implementation of the Strategic Plan.
+
+“(b)
+
+Certification.—The Secretary shall not close, consolidate, automate, or relocate any field office, unless the Secretary has certified that such action will not result in any degradation of service. Such certification shall include—
+
+&emsp;“(1) a description of local weather characteristics and weather-related concerns which affect the weather services provided within the service area;
+
+&emsp;“(2) a detailed comparison of the services provided within the service area and the services to be provided after such action;
+
+&emsp;“(3) a description of any recent or expected modernization of National Weather Service operations which will enhance services in the service area;
+
+&emsp;“(4) an identification of any area within any State which would not receive coverage (at an elevation of 10,000 feet) by the next generation weather radar network;
+
+&emsp;“(5) evidence, based upon operational demonstration of modernized National Weather Service operations, which was considered in reaching the conclusion that no degradation in service will result from such action; and
+
+&emsp;“(6) any report of the Committee submitted under section 707(c) that evaluates the proposed certification.
+
+“(c)
+
+Public Review.—Each certification decision shall be preceded by—
+
+&emsp;“(1) publication in the Federal Register of a proposed certification; and
+
+&emsp;“(2) a 60-day period after such publication during which the public may provide comments to the Secretary on the proposed certification.
+
+“(d)
+
+Final Decision.—If after consideration of the public comment received under subsection (c) the Secretary, in consultation with the Committee, decides to close, consolidate, automate, or relocate any such field office, the Secretary shall publish a final certification in the Federal Register and submit the certification to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+
+“(e)
+
+Special Circumstances.—The Secretary may not close or relocate any field office—
+
+&emsp;“(1) which is located at an airport, unless the Secretary, in consultation with the Secretary of Transportation and the Committee, first conducts an air safety appraisal, determines that such action will not result in degradation of service that affects aircraft safety, and includes such determination in the certification required under subsection (b); or
+
+&emsp;“(2) which is the only office in a State, unless the Secretary first evaluates the effect on weather services provided to in-State users, such as State agencies, civil defense officials, and local public safety offices, and includes in the certification required under subsection (b) the Secretary's determination that a comparable level of weather services provided to such in-State users will remain.
+
+“(f)
+
+Liaison Officer.—The Secretary may not close, consolidate, automate, or relocate a field office until arrangements have been made to maintain for a period of at least 2 years at least one person in the service area to act as a liaison officer who—
+
+&emsp;“(1) provides timely information regarding the activities of the National Weather Service which may affect service to the community, including modernization and restructuring; and
+
+&emsp;“(2) works with area weather service users, including persons associated with general aviation, civil defense, emergency preparedness, and the news media, with respect to the provision of timely weather warnings and forecasts.
+
+#### “SEC. 707. MODERNIZATION TRANSITION COMMITTEE.
+
+“(a)
+
+Establishment.—There is established a committee of 12 members to be known as the Modernization Transition Committee.
+
+“(b)
+
+Membership and Terms.—(1) The Committee shall consist of—
+
+&emsp;“(A) five members representing agencies and departments of the United States which are responsible for providing or using weather services, including but not limited to the National Weather Service, the Department of Defense, the Federal Aviation Administration, and the Federal Emergency Management Agency; and
+
+&emsp;“(B) seven members to be appointed by the Secretary from civil defense and public safety organizations, news media, any labor organization certified by the Federal Labor Relations Authority as an exclusive representative of weather service employees, meteorological experts, and private sector users of weather information such as pilots and farmers.
+
+“(2) The terms of office of a member of the Committee shall be 3 years; except that, of the original membership, four shall serve a 5-year term, four shall serve a 4-year term, and four shall serve a 3-year term. No individual may serve for more than one additional 3-year term.
+
+“(3) The Secretary shall designate a chairman of the Committee from among its members.
+
+“(c)
+
+Duties.—(1) The Committee may review any proposed certification under section 706 for which the Secretary has provided a notice of intent to certify in the Plan, and should review such a proposed certification if there is a significant possibility of degradation of service within the affected service area. Upon the request of the Committee, the Secretary shall make available to the Committee the supporting documents developed by the Secretary in connection with the proposed certification. The Committee may prepare and submit to the Secretary, prior to publication of the proposed certification, a report which evaluates the proposed certification on the basis of the modernization criteria and with respect to the requirement that there be no degradation of service.
+
+“(2) The Committee shall advise the Congress and the Secretary on—
+
+&emsp;“(A) the implementation of the Strategic Plan, annual development of the Plan, and establishment and implementation of modernization criteria; and
+
+&emsp;“(B) matters of public safety and the provision of weather services which relate to the comprehensive modernization of the National Weather Service.
+
+“(d)
+
+Pay and Travel Expenses.—Members of the Committee who are not employees of the United States shall each be paid at a rate equal to the daily equivalent of the rate for GS–18 of the General Schedule under section 5332 of title 5, United States Code, for each day (including travel time) during which the member is engaged in the actual performance of duties vested in the Committee. Members shall receive travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, United States Code.
+
+“(e)
+
+Staff.—The Secretary shall make available to the Committee such staff, information, and assistance as it may reasonably require to carry out its activities.
+
+“(f)
+
+Termination.—The Committee shall terminate on December 31, 1999.
+
+#### “SEC. 708. WEATHER SERVICE REPORT.
+
+“(a)
+
+Report.—The Secretary shall prepare a report on the proposed modernization of the National Weather Service and transmit the report, not later than 6 months after the date of enactment of this Act \[Oct. 29, 1992\], to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+
+“(b)
+
+Contents.—(1) The report required by subsection (a) shall identify the size of the geographic area of responsibility of each proposed Weather Forecast Office and shall include an explanation of the number and type of personnel required at each Weather Forecast Office. For each proposed Weather Forecast Office covering a geographic area greater than two times the average geographic area of responsibility of Weather Forecast Offices nationwide, the report shall detail the reasons for assigning those Weather Forecast Offices a geographic area which differs significantly from the national average.
+
+“(2) The report shall list the number of next generation weather radars that will be associated with each Weather Forecast Office nationwide under the proposed modernization plan. If some Weather Forecast Offices will be associated with more than one such radar, the report shall explain the deviation from the National Weather Service's stated policy of associating one such radar with one Weather Forecast Office, and shall analyze and compare any differences in the expected efficiency of those Weather Forecast Offices with Weather Forecast Offices that will be associated with only one such radar.
+
+“(c)
+
+Consultation.—In preparing portions of the report that address Weather Forecast Offices located in areas of the Nation that are uniquely dependent on general aviation as a means of transportation, the Secretary shall consult with local aviation groups. In the case of Alaska, such local groups shall include the Alaska Aviation Safety Foundation, the Alaska Airmen's Association, and the regional representatives of the Aircraft Owners and Pilots Association.
+
+#### “SEC. 709. REPEALS.
+
+“\[Amended section 407 of Pub. L. 100–685, set out below, and repealed section 408 of Pub. L. 100–685, formerly set out below.\]”
+
+\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
+
+#### Purchase of Atmospheric Wind Data
+
+Pub. L. 101–595, title III, §320, Nov. 16, 1990, 104 Stat. 2989, provided that: “The National Oceanic and Atmospheric Administration is authorized to enter into a contract for the future purchase of atmospheric wind data. Any and all obligations of the Government under such contract shall be contingent upon the following terms:
+
+&emsp;“(1) the data to be purchased must meet technical criteria specified in the contract and must be satisfactory to the National Oceanic and Atmospheric Administration; and
+
+&emsp;“(2) the availability of appropriated funds.”
+
+#### National Weather Service 10-Year Strategic Plan
+
+Pub. L. 100–685, title IV, §407, Nov. 17, 1988, 102 Stat. 4098, as amended by Pub. L. 102–567, title VII, §709(1), Oct. 29, 1992, 106 Stat. 4309, directed Secretary of Commerce to prepare and submit to Congress, not later than 90 days after Nov. 17, 1988, a 10-year strategic plan for comprehensive modernization of National Weather Service, setting forth basic service improvement objectives of modernization as well as critical new technological components and associated operational changes necessary to fulfill objectives of weather and flood warning service improvements.
+
+#### Degradation-of-Weather-Services Standard for Providing Services
+
+Pub. L. 100–685, title IV, §408, Nov. 17, 1988, 102 Stat. 4099, prohibited Secretary of Commerce from closing, consolidating, automating, or relocating, any Weather Service Office or Weather Service Forecast Office pursuant to the implementation of the strategic plan required by section 407 of Pub. L. 100–685 \[formerly set out above\] unless the Secretary certified to Committee on Commerce, Science, and Transportation of the Senate and Committee on Science, Space, and Technology of the House of Representatives that such action would not result in any degradation of weather services provided to the affected area, prior to repeal by Pub. L. 102–567, title VII, §709(2), Oct. 29, 1992, 106 Stat. 4309.
+
+#### Weather and Climate Information in Agriculture
+
+Pub. L. 99–198, title XVII, §1762, Dec. 23, 1985, 99 Stat. 1651, provided that:
+
+“(a) Congress finds that—
+
+&emsp;“(1) agricultural and silvicultural operations are vulnerable to damage from atmospheric conditions that accurate and timely reporting of weather information can help prevent;
+
+&emsp;“(2) the maintenance of current weather and climate analysis and information dissemination systems, and Federal, State, and private efforts to improve these systems, is essential if agriculture and silviculture are to mitigate damage from atmospheric conditions;
+
+&emsp;“(3) agricultural and silvicultural weather services at the Federal level should be maintained with joint planning between the National Oceanic and Atmospheric Administration and the Department of Agriculture; and
+
+&emsp;“(4) efforts should be made, involving user groups, weather and climate information providers, and Federal and State governments, to expand the use of weather and climate information in agriculture and silviculture.
+
+“(b) It, therefore, is declared to be the policy of Congress that it is in the public interest to maintain an active Federal involvement in providing agricultural and silvicultural weather and climate information and that efforts should be made, among users of this information and among private providers of this information, to improve use of this information.”
+
+#### National Weather Service; Congressional Approval Requisite To Sale, Lease, Transfer, or Dismantling of Agency
+
+Pub. L. 98–8, title I, §104, Mar. 24, 1983, 97 Stat. 34, provided that:
+
+“Since the Administration has proposed to sell the weather (METSAT) and land (LANDSAT) satellite systems;
+
+“Since there are concerns about possible commercialization of the National Weather Service;
+
+“Since our country should provide weather service information for the protection of life and property;
+
+“Since our Nation's economy—its agriculture, aviation, ocean shipping and construction—is heavily affected by weather and our ability to forecast and disseminate vital information about its behavior: Now, therefore,
+
+“It is the sense of the Congress that a reliable and comprehensive national weather information system responsive to the needs of national security; agriculture, transportation and other affected sectors; and individual citizens must be maintained through a strong central National Weather Service that can work closely with the private sector, other Federal and State government agencies, and the weather services of other nations.
+
+“Further, the Nation's civil operational remote sensing satellites (METSAT and LANDSAT) shall remain under the National Oceanic and Atmospheric Administration. No effort shall be made to dismantle, transfer, lease or sell any portion of these systems without prior congressional approval.”
+
+#### Study of Thunderstorms and Atmospheric Disturbances; Reports; Expenditures; Cooperation of Other Departments
+
+Act June 16, 1948, ch. 483, 62 Stat. 470, as amended Oct. 19, 1980, Pub. L. 96–470, title I, §103(b), 94 Stat. 2237, provided: “That the Chief of the Weather Bureau is authorized and directed to study fully and thoroughly the internal structure of thunderstorms, hurricanes, cyclones, and other severe atmospheric disturbances, particularly the degree of turbulence within such storms and the development, maintenance, and magnitude of updrafts and downdrafts with a view to establishing methods by which the characteristics of particular thunderstorms may be forecast and methods by which the characteristics of such storms may be determined on visual observation from outside of the immediate thunderstorm area. Such study shall be concluded at the earliest practicable date and a final report submitted to Congress.
+
+“
+
+Sec. 2. The Chief of the Weather Bureau is empowered to make such expenditures at the seat of government and elsewhere as may be necessary to carry out the purposes of this Act and as from time to time may be appropriated for by Congress, including expenditures for the development and purchase of special meteorological instruments and other equipment (including motor vehicles and aircraft), without regard to the provisions of section 3709 of the Revised Statutes \[section 5 of Title 41, Public Contracts\]. There is hereby authorized to be appropriated such sums as are necessary for the purpose of carrying out the provisions of this Act.
+
+“
+
+Sec. 3. Any executive department or independent establishment is hereby authorized to cooperate with the Chief of the Weather Bureau in carrying out the purposes of this Act, and for such purposes may lend or transfer to the Chief of the Weather Bureau any officer or employee of such department or establishment and any property, equipment, lands, or buildings under its control.”
+
+#### Cross References
+
+Counterfeit weather forecasts, punishing the issue or publication of, see section 2074 of Title 18, Crimes and Criminal Procedure.
+
+Flood control, current information to aid, see section 706 of Title 33, Navigation and Navigable Waters.
+
+Printing and distribution of reports of Secretary of Agriculture and of the Weather Bureau, see sections 1301 and 1310 of Title 44, Public Printing and Documents.
+

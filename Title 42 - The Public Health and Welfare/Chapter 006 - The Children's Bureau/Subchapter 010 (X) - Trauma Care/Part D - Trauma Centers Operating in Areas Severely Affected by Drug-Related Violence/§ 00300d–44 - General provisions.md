@@ -1,0 +1,16 @@
+### §300d–44. General provisions
+
+#### (a) Application
+
+The Secretary may not make a grant under section 300d–41(a) of this title unless an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this part.
+
+#### (b) Limitation on duration of support
+
+The period during which a trauma center receives payments under section 300d–41(a) of this title may not exceed 3 fiscal years, except that the Secretary may waive such requirement for the center and authorize the center to receive such payments for 1 additional fiscal year.
+
+#### (c) Limitation on amount of grant
+
+A grant under section 300d–41 of this title may not be made in an amount exceeding $2,000,000.
+
+(July 1, 1944, ch. 373, title XII, §1244, as added July 10, 1992, Pub. L. 102–321, title VI, §601, 106 Stat. 435.)
+

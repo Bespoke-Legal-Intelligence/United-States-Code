@@ -1,0 +1,14 @@
+### §5036. Deputy Chiefs of Naval Operations
+
+(a) There are in the Office of the Chief of Naval Operations not more than five Deputy Chiefs of Naval Operations, detailed by the Secretary of the Navy from officers on the active-duty list in the line of the Navy serving in grades above captain.
+
+(b) The Deputy Chiefs of Naval Operations are charged, under the direction of the Chief of Naval Operations, with the execution of the functions of their respective divisions. Orders issued by the Deputy Chiefs of Naval Operations in performing the duties assigned them are considered as coming from the Chief of Naval Operations.
+
+(Added Pub. L. 99–433, title V, §512(b), Oct. 1, 1986, 100 Stat. 1051.)
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in section 5086 of this title prior to enactment of Pub. L. 99–433.
+
+A prior section 5036, acts Aug. 10, 1956, ch. 1041, 70A Stat. 280; Nov. 2, 1966, Pub. L. 89–718, §32, 80 Stat. 1119; Jan. 2, 1968, Pub. L. 90–235, §4(a)(8), 81 Stat. 759; Dec. 12, 1980, Pub. L. 96–513, title V, §513(4), 94 Stat. 2931, related to succession to duties of Secretary of the Navy, prior to repeal by Pub. L. 99–433, §511(e). See section 5017 of this title.
+

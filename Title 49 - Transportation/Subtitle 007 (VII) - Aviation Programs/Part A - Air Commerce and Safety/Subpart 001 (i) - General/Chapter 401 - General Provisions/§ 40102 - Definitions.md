@@ -1,0 +1,470 @@
+### §40102. Definitions
+
+(a)
+
+General Definitions.—In this part—
+
+&emsp;(1) “aeronautics” means the science and art of flight.
+
+&emsp;(2) “air carrier” means a citizen of the United States undertaking by any means, directly or indirectly, to provide air transportation.
+
+&emsp;(3) “air commerce” means foreign air commerce, interstate air commerce, the transportation of mail by aircraft, the operation of aircraft within the limits of a Federal airway, or the operation of aircraft that directly affects, or may endanger safety in, foreign or interstate air commerce.
+
+&emsp;(4) “air navigation facility” means a facility used, available for use, or designed for use, in aid of air navigation, including—
+
+&emsp;&emsp;(A) a landing area;
+
+&emsp;&emsp;(B) a light;
+
+&emsp;&emsp;(C) apparatus or equipment for distributing weather information, signaling, radio-directional finding, or radio or other electromagnetic communication; and
+
+&emsp;&emsp;(D) another structure or mechanism for guiding or controlling flight in the air or the landing and takeoff of aircraft.
+
+&emsp;(5) “air transportation” means foreign air transportation, interstate air transportation, or the transportation of mail by aircraft.
+
+&emsp;(6) “aircraft” means any contrivance invented, used, or designed to navigate, or fly in, the air.
+
+&emsp;(7) “aircraft engine” means an engine used, or intended to be used, to propel an aircraft, including a part, appurtenance, and accessory of the engine, except a propeller.
+
+&emsp;(8) “airman” means an individual—
+
+&emsp;&emsp;(A) in command, or as pilot, mechanic, or member of the crew, who navigates aircraft when under way;
+
+&emsp;&emsp;(B) except to the extent the Administrator of the Federal Aviation Administration may provide otherwise for individuals employed outside the United States, who is directly in charge of inspecting, maintaining, overhauling, or repairing aircraft, aircraft engines, propellers, or appliances; or
+
+&emsp;&emsp;(C) who serves as an aircraft dispatcher or air traffic control-tower operator.
+
+&emsp;(9) “airport” means a landing area used regularly by aircraft for receiving or discharging passengers or cargo.
+
+&emsp;(10) “all-cargo air transportation” means the transportation by aircraft in interstate air transportation of only property or only mail, or both.
+
+&emsp;(11) “appliance” means an instrument, equipment, apparatus, a part, an appurtenance, or an accessory used, capable of being used, or intended to be used, in operating or controlling aircraft in flight, including a parachute, communication equipment, and another mechanism installed in or attached to aircraft during flight, and not a part of an aircraft, aircraft engine, or propeller.
+
+&emsp;(12) “cargo” means property, mail, or both.
+
+&emsp;(13) “charter air carrier” means an air carrier holding a certificate of public convenience and necessity that authorizes it to provide charter air transportation.
+
+&emsp;(14) “charter air transportation” means charter trips in air transportation authorized under this part.
+
+&emsp;(15) “citizen of the United States” means—
+
+&emsp;&emsp;(A) an individual who is a citizen of the United States;
+
+&emsp;&emsp;(B) a partnership each of whose partners is an individual who is a citizen of the United States; or
+
+&emsp;&emsp;(C) a corporation or association organized under the laws of the United States or a State, the District of Columbia, or a territory or possession of the United States, of which the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, and in which at least 75 percent of the voting interest is owned or controlled by persons that are citizens of the United States.
+
+&emsp;(16) “civil aircraft” means an aircraft except a public aircraft.
+
+&emsp;(17) “civil aircraft of the United States” means an aircraft registered under chapter 441 of this title.
+
+&emsp;(18) “conditional sales contract” means a contract—
+
+&emsp;&emsp;(A) for the sale of an aircraft, aircraft engine, propeller, appliance, or spare part, under which the buyer takes possession of the property but title to the property vests in the buyer at a later time on—
+
+&emsp;&emsp;&emsp;(i) paying any part of the purchase price;
+
+&emsp;&emsp;&emsp;(ii) performing another condition; or
+
+&emsp;&emsp;&emsp;(iii) the happening of a contingency; or
+
+&emsp;&emsp;(B) to bail or lease an aircraft, aircraft engine, propeller, appliance, or spare part, under which the bailee or lessee—
+
+&emsp;&emsp;&emsp;(i) agrees to pay an amount substantially equal to the value of the property; and
+
+&emsp;&emsp;&emsp;(ii) is to become, or has the option of becoming, the owner of the property on complying with the contract.
+
+&emsp;(19) “conveyance” means an instrument, including a conditional sales contract, affecting title to, or an interest in, property.
+
+&emsp;(20) “Federal airway” means a part of the navigable airspace that the Administrator designates as a Federal airway.
+
+&emsp;(21) “foreign air carrier” means a person, not a citizen of the United States, undertaking by any means, directly or indirectly, to provide foreign air transportation.
+
+&emsp;(22) “foreign air commerce” means the transportation of passengers or property by aircraft for compensation, the transportation of mail by aircraft, or the operation of aircraft in furthering a business or vocation, between a place in the United States and a place outside the United States when any part of the transportation or operation is by aircraft.
+
+&emsp;(23) “foreign air transportation” means the transportation of passengers or property by aircraft as a common carrier for compensation, or the transportation of mail by aircraft, between a place in the United States and a place outside the United States when any part of the transportation is by aircraft.
+
+&emsp;(24) “interstate air commerce” means the transportation of passengers or property by aircraft for compensation, the transportation of mail by aircraft, or the operation of aircraft in furthering a business or vocation—
+
+&emsp;&emsp;(A) between a place in—
+
+&emsp;&emsp;&emsp;(i) a State, territory, or possession of the United States and a place in the District of Columbia or another State, territory, or possession of the United States;
+
+&emsp;&emsp;&emsp;(ii) a State and another place in the same State through the airspace over a place outside the State;
+
+&emsp;&emsp;&emsp;(iii) the District of Columbia and another place in the District of Columbia; or
+
+&emsp;&emsp;&emsp;(iv) a territory or possession of the United States and another place in the same territory or possession; and
+
+&emsp;&emsp;(B) when any part of the transportation or operation is by aircraft.
+
+&emsp;(25) “interstate air transportation” means the transportation of passengers or property by aircraft as a common carrier for compensation, or the transportation of mail by aircraft—
+
+&emsp;&emsp;(A) between a place in—
+
+&emsp;&emsp;&emsp;(i) a State, territory, or possession of the United States and a place in the District of Columbia or another State, territory, or possession of the United States;
+
+&emsp;&emsp;&emsp;(ii) Hawaii and another place in Hawaii through the airspace over a place outside Hawaii;
+
+&emsp;&emsp;&emsp;(iii) the District of Columbia and another place in the District of Columbia; or
+
+&emsp;&emsp;&emsp;(iv) a territory or possession of the United States and another place in the same territory or possession; and
+
+&emsp;&emsp;(B) when any part of the transportation is by aircraft.
+
+&emsp;(26) “intrastate air carrier” means a citizen of the United States undertaking by any means to provide only intrastate air transportation.
+
+&emsp;(27) “intrastate air transportation” means the transportation by a common carrier of passengers or property for compensation, entirely in the same State, by turbojet-powered aircraft capable of carrying at least 30 passengers.
+
+&emsp;(28) “landing area” means a place on land or water, including an airport or intermediate landing field, used, or intended to be used, for the takeoff and landing of aircraft, even when facilities are not provided for sheltering, servicing, or repairing aircraft, or for receiving or discharging passengers or cargo.
+
+&emsp;(29) “mail” means United States mail and foreign transit mail.
+
+&emsp;(30) “navigable airspace” means airspace above the minimum altitudes of flight prescribed by regulations under this subpart and subpart III of this part, including airspace needed to ensure safety in the takeoff and landing of aircraft.
+
+&emsp;(31) “navigate aircraft” and “navigation of aircraft” include piloting aircraft.
+
+&emsp;(32) “operate aircraft” and “operation of aircraft” mean using aircraft for the purposes of air navigation, including—
+
+&emsp;&emsp;(A) the navigation of aircraft; and
+
+&emsp;&emsp;(B) causing or authorizing the operation of aircraft with or without the right of legal control of the aircraft.
+
+&emsp;(33) “person”, in addition to its meaning under section 1 of title 1, includes a governmental authority and a trustee, receiver, assignee, and other similar representative.
+
+&emsp;(34) “predatory” means a practice that violates the antitrust laws as defined in the first section of the Clayton Act (15 U.S.C. 12).
+
+&emsp;(35) “price” means a rate, fare, or charge.
+
+&emsp;(36) “propeller” includes a part, appurtenance, and accessory of a propeller.
+
+&emsp;(37) “public aircraft”—
+
+&emsp;&emsp;(A) means an aircraft—
+
+&emsp;&emsp;&emsp;(i) used only for the United States Government; or
+
+&emsp;&emsp;&emsp;(ii) owned and operated (except for commercial purposes), or exclusively leased for at least 90 continuous days, by a government (except the United States Government), including a State, the District of Columbia, or a territory or possession of the United States, or political subdivision of that government; but
+
+&emsp;&emsp;(B) does not include a government-owned aircraft—
+
+&emsp;&emsp;&emsp;(i) transporting property for commercial purposes; or
+
+&emsp;&emsp;&emsp;(ii) transporting passengers other than—
+
+&emsp;&emsp;&emsp;&emsp;(I) transporting (for other than commercial purposes) crewmembers or other persons aboard the aircraft whose presence is required to perform, or is associated with the performance of, a governmental function such as firefighting, search and rescue, law enforcement, aeronautical research, or biological or geological resource management; or
+
+&emsp;&emsp;&emsp;&emsp;(II) transporting (for other than commercial purposes) persons aboard the aircraft if the aircraft is operated by the Armed Forces or an intelligence agency of the United States.
+
+> &emsp;&emsp;An aircraft described in the preceding sentence shall, notwithstanding any limitation relating to use of the aircraft for commercial purposes, be considered to be a public aircraft for the purposes of this part without regard to whether the aircraft is operated by a unit of government on behalf of another unit of government, pursuant to a cost reimbursement agreement between such units of government, if the unit of government on whose behalf the operation is conducted certifies to the Administrator of the Federal Aviation Administration that the operation was necessary to respond to a significant and imminent threat to life or property (including natural resources) and that no service by a private operator was reasonably available to meet the threat.
+
+&emsp;(38) “spare part” means an accessory, appurtenance, or part of an aircraft (except an aircraft engine or propeller), aircraft engine (except a propeller), propeller, or appliance, that is to be installed at a later time in an aircraft, aircraft engine, propeller, or appliance.
+
+&emsp;(39) “State authority” means an authority of a State designated under State law—
+
+&emsp;&emsp;(A) to receive notice required to be given a State authority under subpart II of this part; or
+
+&emsp;&emsp;(B) as the representative of the State before the Secretary of Transportation in any matter about which the Secretary is required to consult with or consider the views of a State authority under subpart II of this part.
+
+&emsp;(40) “ticket agent” means a person (except an air carrier, a foreign air carrier, or an employee of an air carrier or foreign air carrier) that as a principal or agent sells, offers for sale, negotiates for, or holds itself out as selling, providing, or arranging for, air transportation.
+
+&emsp;(41) “United States” means the States of the United States, the District of Columbia, and the territories and possessions of the United States, including the territorial sea and the overlying airspace.
+
+(b)
+
+Limited Definition.—In subpart II of this part, “control” means control by any means.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1097; Pub. L. 103–305, title VI, §601(b)(2)(B), Aug. 23, 1994, 108 Stat. 1606; Pub. L. 103–411, §3(a), Oct. 25, 1994, 108 Stat. 4236; Pub. L. 103–429, §6(46), Oct. 31, 1994, 108 Stat. 4384.)
+
+Historical and Revision Notes
+
+Pub. L. 103–272
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+40102(a)(1)
+
+49 App.:1301(2).
+
+Aug. 23, 1958, Pub. L. 85–726, §§101(2), (3) (less proviso), (5)–(10), 413, 72 Stat. 737, 770.
+
+40102(a)(2)
+
+49 App.:1301(3) (less proviso).
+
+40102(a)(3)
+
+49 App.:1301(4).
+
+Aug. 23, 1958, Pub. L. 85–726, §101(4), 72 Stat. 737; Sept. 5, 1961, Pub. L. 87–197, §3, 75 Stat. 467.
+
+40102(a)(4)
+
+49 App.:1301(8).
+
+40102(a)(5)
+
+49 App.:1301(10).
+
+40102(a)(6), (7)
+
+49 App.:1301(5), (6).
+
+40102(a)(8)
+
+49 App.:1301(7).
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
+
+40102(a)(9)
+
+49 App.:1301(9).
+
+40102(a)(10)
+
+49 App.:1301(11).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §101(11); added Nov. 9, 1977, Pub. L. 95–163, §17(b)(2), 91 Stat. 1286; restated Oct. 4, 1984, Pub. L. 98–443, §9(a)(1), 98 Stat. 1706.
+
+40102(a)(11)
+
+49 App.:1301(12).
+
+Aug. 23, 1958, Pub. L. 85–726, §101(12), (16)– (34), (37), (40), (41), 72 Stat. 737, 739; July 10, 1962, Pub. L. 87–528, §1, 76 Stat. 143; Sept. 26, 1968, Pub. L. 90–514, §1, 82 Stat. 867; Oct. 14, 1970, Pub. L. 91–449, §1(2), 84 Stat. 921; Aug. 5, 1974, Pub. L. 93–366, §206, 88 Stat. 419; Nov. 9, 1977, Pub. L. 95–163, §17(b)(1), 91 Stat. 1286; Oct. 24, 1978, Pub. L. 95–504, §2(a)(4), (b), 92 Stat. 1705.
+
+40102(a)(12)
+
+(no source).
+
+40102(a)(13)
+
+49 App.:1301(14) (less certificate).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §101(14) (less certificate), (15); added Oct. 24, 1978, Pub. L. 95–504, §2(a)(1), 92 Stat. 1705.
+
+40102(a)(14)
+
+49 App.:1301(15).
+
+&nbsp;
+
+49 App.:1551(b) (1)(E).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
+
+40102(a) (15)–(18)
+
+49 App.:1301 (16)–(19).
+
+40102(a)(19)
+
+49 App.:1301(20).
+
+40102(a)(20)
+
+49 App.:1301(21).
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+40102(a)(21)
+
+49 App.:1301(22).
+
+40102(a)(22)
+
+49 App.:1301(23) (related to foreign air commerce).
+
+40102(a)(23)
+
+49 App.:1301(24) (related to foreign air transportation).
+
+40102(a)(24)
+
+49 App.:1301(23) (related to interstate and overseas air commerce).
+
+40102(a)(25)
+
+49 App.:1301(24) (related to interstate and overseas air transportation).
+
+&nbsp;
+
+49 App.:1305(b)(2), (d) (related to (b)(2)).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §105(b)(2), (d) (related to (b)(2)); added Oct. 24, 1978, Pub. L. 95–504, §4(a), 92 Stat. 1708.
+
+40102(a) (26)–(32)
+
+49 App.:1301 (25)–(31).
+
+40102(a)(33)
+
+49 App.:1301(32).
+
+40102(a)(34)
+
+49 App.:1301(35).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §101(35), (39); added Oct. 24, 1978, Pub. L. 95–504, §2(a)(2), (3), (b), 92 Stat. 1705.
+
+40102(a)(35)
+
+(no source).
+
+40102(a)(36)
+
+49 App.:1301(33), (34).
+
+40102(a)(37)
+
+49 App.:1301(36).
+
+Aug. 23, 1958, Pub. L. 85–726, §101(36), 72 Stat. 739; Aug. 5, 1974, Pub. L. 93–366, §206, 88 Stat. 419; Nov. 9, 1977, Pub. L. 95–163, §17(b)(1), 91 Stat. 1286; Oct. 24, 1978, Pub. L. 95–504, §2, 92 Stat. 1705; Dec. 30, 1987, Pub. L. 100–223, §207, 101 Stat. 1523.
+
+40102(a)(38)
+
+49 App.:1301(37).
+
+40102(a)(39)
+
+49 App.:1301(39).
+
+40102(a)(40)
+
+49 App.:1301(40).
+
+40102(a)(41)
+
+49 App.:1301(41).
+
+40102(b)
+
+49 App.:1383.
+
+In subsection (a)(2), the words “by any means” are substituted for “whether . . . or by a lease or any other arrangement” to eliminate unnecessary words. The word “provide” is substituted for “engage in” for consistency in the revised title.
+
+In subsection (a)(3), the words “or navigation” are omitted as being included in the definition of “operation of aircraft” in this subsection.
+
+In subsection (a)(4)(D), the words “having a similar purpose” are omitted as surplus.
+
+In subsection (a)(6), the words “now known or hereafter” are omitted as surplus.
+
+In subsection (a)(7), the words “of the engine” are substituted for “thereof” for clarity.
+
+In subsection (a)(8)(A), the words “as the person” are omitted as surplus.
+
+In subsection (a)(10), the word “transportation” is substituted for “carriage” for consistency in the revised title.
+
+In subsection (a)(11), the words “of whatever description” are omitted as surplus. The word “navigation” is omitted as being included in the definition of “operate aircraft” in this subsection. The words “or mechanisms” are omitted because of 1:1.
+
+Subsection (a)(12) is added for clarity to distinguish between cargo (which includes mail) and property (which does not include mail).
+
+In subsection (a)(13), the word “provide” is substituted for “engage in” for consistency in the revised title.
+
+In subsection (a)(14), the words “including inclusive tour charter trips” are omitted as obsolete. The words “authorized under this part” are substituted for “rendered pursuant to authority conferred under this chapter under regulations prescribed by the Board” to eliminate unnecessary words.
+
+In subsection (a)(15)(A), the words “or of one of its possessions” are omitted as being included in the definition of “United States” in this subsection.
+
+In subsection (a)(15)(C), the words “created or” are omitted as being included in “organized”.
+
+In subsection (a)(17), the words “chapter 441 of this title” are substituted for “this chapter” for clarity because aircraft are registered only under chapter 441.
+
+In subsection (a)(18), the text of 49 App.:1301(19) (last sentence) is omitted as surplus.
+
+In subsection (a)(18)(A), before subclause (i), the words “title to” are added for clarity and consistency in this section.
+
+In subsection (a)(18)(B)(i), the words “as compensation” are omitted as surplus.
+
+In subsection (a)(18)(B)(ii), the words “it is agreed that”, “bound”, “full”, and “the terms of” are omitted as surplus.
+
+In subsection (a)(19), the words “bill of sale . . . mortgage, assignment of mortgage, or other” are omitted as being included in “instrument”.
+
+In subsection (a)(20), the words “of the United States” are omitted for consistency in the revised title and because of the definition of “navigable airspace” in this subsection.
+
+In subsection (a)(21), the words “by any means” are substituted for “whether . . . or by lease or any other arrangement” to eliminate unnecessary words. The word “provide” is substituted for “engage in” for consistency in the revised title.
+
+In subsection (a)(22)–(25) and (27), the words “transportation” and “passengers” are substituted for “carriage” and “persons”, respectively, for consistency in the revised title. The word “compensation” is substituted for, and is coextensive with, “compensation or hire”.
+
+In subsection (a)(22) and (24), the words “or navigation” are omitted as being included in the definition of “operation of aircraft” in this subsection. The words “the conduct or” and “in commerce” are omitted as surplus. The words “when any part of the transportation or operation is by aircraft” are substituted for 49 App.:1301(23) (words after last semicolon) to eliminate unnecessary words.
+
+In subsection (a)(23) and (25), the words “in commerce” are omitted as surplus. The words “when any part of the transportation is by aircraft” are substituted for 49 App.:1301(24) (words after last semicolon) to eliminate unnecessary words.
+
+In subsection (a)(24), (25), and (27), the words “of the United States” are omitted as surplus.
+
+In subsection (a)(24)(A)(i) and (25)(A)(i), the words “or the District of Columbia” the first time they appear are omitted as surplus.
+
+In subsection (a)(25)(A)(ii), the text of 49 App.:1301(24)(a) (words between semicolons) is omitted because 49 App.:1305(b)(2) removes the subject matter of the text from the definition. See H. Rept. No. 95–1211, 95th Cong., 2d Sess., p.16 (1978).
+
+In subsection (a)(26), the words “by any means” are substituted for “whether . . . or by a lease or any other arrangement” to eliminate unnecessary words. The word “provide” is substituted for “engage” for consistency in the revised title.
+
+In subsection (a)(28), the word “place” is substituted for “locality” for consistency in the revised title.
+
+In subsection (a)(32)(B), the words “(in the capacity of owner, lessee, or otherwise)” are omitted as surplus.
+
+In subsection (a)(33), the words “in addition to its meaning under section 1 of title 1” are substituted for “any individual, firm, copartnership, corporation, company, association, joint stock association” for clarity because 1:1 is applicable to all laws unless otherwise provided. The words “governmental authority” are substituted for “body politic” for consistency in the revised title and with other titles of the United States Code.
+
+Subsection (a)(35) is added to eliminate repetition of the words “rates, fares, or charges” throughout this part.
+
+In subsection (a)(36), the text of 49 App.:1301(34) (1st sentence) is omitted as obsolete. Reference to the Canal Zone is omitted because of the Panama Canal Treaty of 1977. The text of 49 App.:1301(34) (last sentence) is omitted because of 48:734.
+
+Subsection (a)(37)(A)(i) is substituted for “used exclusively in the service of any government” and “For purposes of this paragraph, ‘used exclusively in the service of’ means, for other than the Federal Government” for clarity and to eliminate unnecessary words.
+
+Subsection (a)(37)(A)(ii) is substituted for “used exclusively in the service of any government or of any political subdivision thereof, including the government of any State, Territory, or possession of the United States, or the District of Columbia” and “For purposes of this paragraph, ‘used exclusively in the service of’ means, for other than the Federal Government, an aircraft which is owned and operated by a governmental entity for other than commercial purposes or which is exclusively leased by such governmental entity for not less than 90 continuous days” for clarity and to eliminate unnecessary words.
+
+In subsection (a)(37)(B), the words “transporting passengers or property” are substituted for “engaged in carrying persons or property” for consistency in the revised title.
+
+In subsection (a)(38), the words “that is to be installed at a later time” are substituted for “maintained for installation or use . . . but which at the time are not installed therein or attached thereto” to eliminate unnecessary words.
+
+In subsection (a)(39), the word “authority” is substituted for “agency” and “entity” for consistency in the revised title. Before subclause (A), the words “department, agency, officer, or other” are omitted as being included in “authority”.
+
+In subsection (a)(40), the words “bona fide” and “by solicitation, advertisement, or otherwise” are omitted as surplus. The words “furnishes, contracts” are omitted as being included in “providing, or arranging”.
+
+In subsection (a)(41), the words “States of the United States” are substituted for “several States”, and the word “sea” is substituted for “waters”, for consistency in the revised title and with other titles of the Code.
+
+Subsection (b) is substituted for 49 App.:1383 to eliminate unnecessary words.
+
+#### Pub. L. 103–429
+
+This makes a conforming amendment for consistency with the style of title 49.
+
+#### Amendments
+
+1994—Subsec. (a)(30). Pub. L. 103–429 substituted “this subpart and subpart III” for “subparts I and III”.
+
+Subsec. (a)(35). Pub. L. 103–305 struck out “for air transportation” after “charge”.
+
+Subsec. (a)(37)(B). Pub. L. 103–411 added subpar. (B) and struck out former subpar. (B) which read as follows: “does not include a government-owned aircraft transporting passengers or property for commercial purposes.”
+
+#### Effective Date of 1994 Amendments
+
+Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+Amendment by Pub. L. 103–411 effective on the 180th day following Oct. 25, 1994, see section 3(d) of Pub. L. 103–411, set out as a note under section 1131 of this title.
+
+Amendment by Pub. L. 103–305 effective Jan. 1, 1995, see section 601(d) of Pub. L. 103–305, set out as a note under section 10521 of this title.
+
+#### Definitions Applicable to Pub. L. 103–305
+
+Section 2 of Pub. L. 103–305 provided that: “In this Act \[see Short Title of 1994 Amendment note set out under section 40101 of this title\], the following definitions apply:
+
+&emsp;“(1)
+
+Administrator.—The term ‘Administrator’ means the Administrator of the Federal Aviation Administration.
+
+&emsp;“(2)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Transportation.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 321, 1101, 1131, 5114, 47129, 47302, 47522 of this title; title 8 section 1184; title 10 sections 2640, 9511; title 11 sections 365, 1110; title 15 section 2052; title 18 sections 31, 553; title 19 sections 1627a, 1644a, 2492; title 22 section 5605; title 29 section 1301; title 31 section 3726; title 39 sections 5005, 5007, 5402; title 42 sections 4902, 7574.
+

@@ -1,0 +1,18 @@
+### §216. Darien Gap Highway
+
+(a) The United States shall cooperate with the Government of the Republic of Panama and with the Government of Colombia in the construction of approximately two hundred and fifty miles of highway in such countries in the location known as the “Darien Gap” to connect the Inter-American Highway authorized by section 212 of this title with the Pan American Highway System of South America. Such highway shall be known as the “Darien Gap Highway”. Funds authorized by this section shall be obligated and expended subject to the same terms, conditions, and requirements with respect to the Darien Gap Highway as are funds authorized for the Inter-American Highway by subsection (a) of section 212 of this title.
+
+(b) The construction authorized by this section shall be under the administration of the Secretary who shall consult with the appropriate officials of the Department of State with respect to matters involving the foreign relations of this Government, and such negotiations with the Governments of the Republic of Panama and Colombia as may be required to carry out the purposes of this section shall be conducted through, or authorized by, the Department of State.
+
+(c) The provisions of this section shall not create nor authorize the creation of any obligations on the part of the Government of the United States with respect to any expenditures for highway survey or construction heretofore or hereafter undertaken in Panama or Colombia,other than the expenditures authorized by the provision of this section.
+
+(d) Appropriations made pursuant to any authorization for the Darien Gap Highway shall be available for expenditure by the Secretary for necessary administrative and engineering expenses in connection with the Darien Gap Highway program.
+
+(e) For the purposes of this section the term “construction” does not include any costs of rights-of-way, relocation assistance, or the elimination of hazards of railway grade crossings.
+
+(Added Pub. L. 91–605, title I, §113(a), Dec. 31, 1970, 84 Stat. 1721.)
+
+#### Authorization of Appropriations
+
+Section 113(c) of Pub. L. 91–605 provided that: “There is hereby authorized to be appropriated not to exceed $100,000,000, to remain available until expended to enable the Secretary of Transportation to carry out section 216 of title 23, United States Code.”
+

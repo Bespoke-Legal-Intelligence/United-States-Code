@@ -1,0 +1,150 @@
+### §30101. Purpose and policy
+
+The purpose of this chapter is to reduce traffic accidents and deaths and injuries resulting from traffic accidents. Therefore it is necessary—
+
+&emsp;(1) to prescribe motor vehicle safety standards for motor vehicles and motor vehicle equipment in interstate commerce; and
+
+&emsp;(2) to carry out needed safety research and development.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 941.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+30101
+
+15:1381.
+
+Sept. 9, 1966, Pub. L. 89–563, §1, 80 Stat. 718.
+
+The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted because section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
+
+#### National Highway Traffic Safety Administration Authorization Act of 1991
+
+Pub. L. 102–240, title II, part B, Dec. 18, 1991, 105 Stat. 2081, as amended by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, provided that:
+
+#### “SEC. 2500. SHORT TITLE.
+
+“This part may be cited as the ‘National Highway Traffic Safety Administration Authorization Act of 1991’.
+
+#### “\[SEC. 2501. Repealed. Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.\]
+
+#### “SEC. 2502. GENERAL PROVISIONS.
+
+“(a)
+
+Definitions.—As used in this part—
+
+&emsp;“(1) the term ‘bus’ means a motor vehicle with motive power, except a trailer, designed for carrying more than 10 persons;
+
+&emsp;“(2) the term ‘multipurpose passenger vehicle’ means a motor vehicle with motive power (except a trailer), designed to carry 10 persons or fewer, which is constructed either on a truck chassis or with special features for occasional off-road operation;
+
+&emsp;“(3) the term ‘passenger car’ means a motor vehicle with motive power (except a multipurpose passenger vehicle, motorcycle, or trailer), designed for carrying 10 persons or fewer;
+
+&emsp;“(4) the term ‘truck’ means a motor vehicle with motive power, except a trailer, designed primarily for the transportation of property or special purpose equipment; and
+
+&emsp;“(5) the term ‘Secretary’ means the Secretary of Transportation.
+
+“(b)
+
+Procedure.—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraph (2), any action taken under section 2503 shall be taken in accordance with the applicable provisions of the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] 15 U.S.C. 1381 et seq.).
+
+&emsp;“(2)
+
+Specific procedure.—
+
+&emsp;&emsp;“(A)
+
+Initiation.—To initiate an action under section 2503, the Secretary shall, not later than May 31, 1992, publish in the Federal Register an advance notice of proposed rulemaking or a notice of proposed rulemaking, except that if the Secretary is unable to publish such a notice by such date, the Secretary shall by such date publish in the Federal Register a notice that the Secretary will begin such action by a certain date which may not be later than January 31, 1993 and include in such notice the reasons for the delay. A notice of delayed action shall not be considered agency action subject to judicial review. If the Secretary publishes an advance notice of proposed rulemaking, the Secretary is not required to follow such notice with a notice of proposed rulemaking if the Secretary determines on the basis of such advanced notice and the comments received thereon that the contemplated action should not be taken under the provisions of the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] 15 U.S.C. 1381 et seq.), including the provisions of section 103 of such Act (\[formerly\] 15 U.S.C. 1392), and if the Secretary publishes the reasons for such determination consistent with chapter 5 of title 5, United States Code.
+
+&emsp;&emsp;“(B)
+
+Completion.—
+
+&emsp;&emsp;&emsp;“(i)
+
+Period.—Action under paragraphs (1) through (4) of section 2503 which was begun under subparagraph (A) shall be completed within 26 months of the date of publication of an advance notice of proposed rulemaking or 18 months of the date of publication of a notice of proposed rulemaking. The Secretary may extend for any reason the period for completion of a rulemaking initiated by the issuance of a notice of proposed rulemaking for not more than 6 months if the Secretary publishes the reasons for such extension. The extension of such period shall not be considered agency action subject to judicial review.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Action.—A rulemaking under paragraphs (1) through (4) of section 2503 shall be considered completed when the Secretary promulgates a final rule or when the Secretary decides not to promulgate a rule (which decision may include deferral of the action or reinitiation of the action). The Secretary may not decide against promulgation of a final rule because of lack of time to complete rulemaking. Any such rulemaking actions shall be published in the Federal Register, together with the reasons for such decisions, consistent with chapter 5 of title 5, United States Code, and the National Traffic and Motor Vehicle Safety Act of 1966 \[formerly 15 U.S.C. 1381 et seq.\].
+
+&emsp;&emsp;&emsp;“(iii)
+
+Special rule.—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I)
+
+Period.—Action under paragraph (5) of section 2503 which was begun under subparagraph (A) shall be completed within 24 months of the date of publication of an advance notice of proposed rulemaking or a notice of proposed rulemaking. If the Secretary determines that there is a need for delay and if the public comment period is closed, the Secretary may extend the date for completion for not more than 6 months and shall publish in the Federal Register a notice stating the reasons for the extension and setting a date certain for completion of the action. The extension of the completion date shall not be considered agency action subject to judicial review.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
+
+Action.—A rulemaking under paragraph (5) of section 2503 shall be considered completed when the Secretary promulgates a final rule with standards on improved head injury protection.
+
+&emsp;&emsp;“(C)
+
+Standard.—The Secretary may, as part of any action taken under section 2503, amend any motor vehicle safety standard or establish a new standard under the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] 15 U.S.C. 1381 et seq.).
+
+#### “SEC. 2503. MATTERS BEFORE THE SECRETARY.
+
+“The Secretary shall address the following matters in accordance with section 2502:
+
+&emsp;“(1) Protection against unreasonable risk of rollovers of passenger cars, multipurpose passenger vehicles, and trucks with a gross vehicle weight rating of 8,500 pounds or less and an unloaded vehicle weight of 5,500 pounds or less.
+
+&emsp;“(2) Extension of passenger car side impact protection to multipurpose passenger vehicles and trucks with a gross vehicle weight rating of 8,500 pounds or less and an unloaded vehicle weight of 5,500 pounds or less.
+
+&emsp;“(3) Safety of child booster seats used in passenger cars and other appropriate motor vehicles.
+
+&emsp;“(4) Improved design for safety belts.
+
+&emsp;“(5) Improved head impact protection from interior components of passenger cars (i.e. roof rails, pillars, and front headers).
+
+#### “\[SECS. 2504, 2505. Repealed. Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.\]
+
+#### “SEC. 2506. REAR SEATBELTS.
+
+“The Secretary shall expend such portion of the funds authorized to be appropriated under the Motor Vehicle Information and Cost Savings Act (\[formerly\] 15 U.S.C. 1901 et seq.), for fiscal year 1993, as the Secretary deems necessary for the purpose of disseminating information to consumers regarding the manner in which passenger cars may be retrofitted with lap and shoulder rear seatbelts.
+
+#### “SEC. 2507. BRAKE PERFORMANCE STANDARDS FOR PASSENGER CARS.
+
+“Not later than December 31, 1993, the Secretary, in accordance with the National Traffic and Motor Vehicle Safety Act of 1966 \[formerly 15 U.S.C. 1381 et seq.\], shall publish an advance notice of proposed rulemaking to consider the need for any additional brake performance standards for passenger cars, including antilock brake standards. The Secretary shall complete such rulemaking (in accordance with section 2502(b)(2)(B)(ii)) not later than 36 months from the date of initiation of such advance notice of proposed rulemaking. In order to facilitate and encourage innovation and early application of economical and effective antilock brake systems for all such vehicles, the Secretary shall, as part of the rulemaking, consider any such brake system adopted by a manufacturer.
+
+#### “\[SEC. 2508. Repealed. Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.\]
+
+#### “SEC. 2509. HEAD INJURY IMPACT STUDY.
+
+“The Secretary, in the case of any head injury protection matters not subject to section 2503(5) for which the Secretary is on the date of enactment of this Act \[Dec. 18, 1991\] examining the need for rulemaking and is conducting research, shall provide a report to Congress by the end of fiscal year 1993 identifying those matters and their status. The report shall include a statement of any actions planned toward initiating such rulemaking no later than fiscal year 1994 or 1995 through use of either an advance notice of proposed rulemaking or a notice of proposed rulemaking and completing such rulemaking as soon as possible thereafter.”
+
+#### Fuel System Integrity Standard
+
+Pub. L. 93–492, title I, §108, Oct. 27, 1974, 88 Stat. 1482, provided that:
+
+“(a)
+
+Ratification of Standard.—Federal Motor Vehicle Safety Standard Number 301 (49 CFR 571.301–75; Docket No. 73–20, Notice 2) as published on March 21, 1974 (39 F.R. 10588–10590) shall take effect on the dates prescribed in such standard (as so published).
+
+“(b)
+
+Amendment or Repeal of Standard.—The Secretary may amend the standard described in subsection (a) in order to correct technical errors in the standard, and may amend or repeal such standard if he determines such amendment or repeal will not diminish the level of motor vehicle safety.”
+
+#### Ex. Ord. No. 11357. Administration of Traffic and Motor Vehicle Safety Through National Highway Safety Bureau and Its Director
+
+Ex. Ord. No. 11357, June 6, 1967, 32 F.R. 8225, provided:
+
+By virtue of the authority vested in me as President of the United States by Section 201 of the Highway Safety Act of 1966, as amended (80 Stat. 735, 943) \[set out as a note under section 401 of Title 23, Highways\], and by Section 3(f)(3) of the Department of Transportation Act (80 Stat. 932) \[former 49 U.S.C. 1652(f)(3)\], it is hereby ordered that the provisions of the National Traffic and Motor Vehicle Safety Act of 1966, as amended (80 Stat. 718, 943) \[formerly 15 U.S.C. 1381 et seq.\], shall be carried out through the National Highway Safety Bureau and the Director thereof.
+
+Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 30111, 30122, 30123, 30167 of this title.
+

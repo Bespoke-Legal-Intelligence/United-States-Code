@@ -1,0 +1,184 @@
+### §136a. Collection of fees for inspection services
+
+#### (a) Quarantine, inspection and transportation fees
+
+#### (1) Quarantine and inspection
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary of Agriculture (hereafter referred to in this section as the “Secretary”) may prescribe and collect fees to cover the cost of providing agricultural quarantine and inspection services in connection with the arrival at a port in the customs territory of the United States, or the preclearance or preinspection at a site outside the customs territory of the United States, of an international passenger, commercial vessel, commercial aircraft, commercial truck, or railroad car.
+
+#### (B) Airport inspection services
+
+&emsp;&emsp;For airport inspection services, the Secretary shall collect no more than $69,000,000 in fiscal year 1992 and $75,000,000 in fiscal year 1993 from international airline passengers and commercial aircraft operators.
+
+#### (C) Commercial truck and railroad car inspection services
+
+&emsp;&emsp;For commercial truck and railroad car inspection services, the Secretary shall collect no more than $3,667,000 in fiscal year 1992 and $3,890,000 in fiscal year 1993 from commercial truck and railroad car operators.
+
+#### (D) Costs
+
+&emsp;&emsp;Fees, including fees from international airline passengers and commercial aircraft operators, may only be collected to the extent that the Secretary reasonably estimates that the amount of the fees are commensurate with the costs of agricultural quarantine and inspection services with respect to the class of persons or entities paying the fees. The costs of such services with respect to passengers as a class includes the costs of related inspections of the aircraft.
+
+#### (2) Treasury
+
+&emsp;Any person who collects a fee under this subsection shall remit such fee to the Treasury of the United States prior to the date that is 31 days after the close of the calendar quarter in which such fee is collected.
+
+#### (3) Agricultural Quarantine Inspection User Fee Account
+
+#### (A) Establishment
+
+&emsp;&emsp;There is established in the Treasury of the United States a no-year fund, to be known as the “Agricultural Quarantine Inspection User Fee Account” (hereafter referred to in this section as the “Account”), for the use of the Secretary for quarantine or inspection services under this section.
+
+#### (B) Amounts in Account
+
+#### (i) Deposits
+
+&emsp;&emsp;&emsp;All of the fees collected under this subsection shall be deposited in the Account.
+
+#### (ii) Reimbursement
+
+&emsp;&emsp;&emsp;The Secretary of the Treasury shall use the Account to provide reimbursements to any appropriation accounts that incur the costs associated with the administration of this subsection and all other activities carried out by the Secretary at ports in the customs territory of the United States and at preclearance or preinspection sites outside the customs territory of the United States in connection with the enforcement of the animal quarantine laws. Any such reimbursement shall be subject to appropriations under clause (v).
+
+#### (iii) Procedure
+
+&emsp;&emsp;&emsp;The Secretary of the Treasury shall make reimbursement under clause (ii) on a quarterly basis. Amounts required to be reimbursed under clause (ii), shall be made on the basis of estimates made by the Secretary of the expenses described in clause (ii) that are incurred by the Secretary in the 3-month period immediately preceding such reimbursement.
+
+#### (iv) Adjustments
+
+&emsp;&emsp;&emsp;Adjustments of reimbursements made under clause (ii) shall be made to the extent necessary to correct prior estimates that were in excess of, or less than, the amount required to be reimbursed under clause (iii).
+
+#### (v) Authorization of appropriations
+
+&emsp;&emsp;&emsp;There are authorized to be appropriated each fiscal year amounts in the Fund <sup>1</sup> for use for quarantine or inspection services.
+
+#### (4) Adjustment in fee amounts
+
+&emsp;Subject to the limits set forth in paragraph (1), the Secretary shall adjust the amount of the fees to be assessed under this subsection to reflect the cost to the Secretary in administering such subsection, in carrying out the activities at ports in customs territory of the United States and preclearance and preinspection sites outside the customs territory of the United States in connection with the provision of agricultural quarantine inspection services, and in maintaining a reasonable balance in the Account.
+
+#### (b) Omitted
+
+#### (c) Animal inspection and veterinary diagnostics
+
+#### (1) Animal inspection
+
+&emsp;The Secretary may prescribe and collect fees to reimburse the Secretary for the cost of carrying out the provisions of the Federal Animal Quarantine Laws that relate to the importation, entry, and exportation of animals, articles, or means of conveyance.
+
+#### (2) Omitted
+
+#### (3) Fees
+
+&emsp;All fees collected pursuant to this subsection and any late payment penalties or accrued interest collected pursuant to this subsection shall be credited to the accounts thatincur the cost and shall remain available until expended without fiscal year limitation.
+
+#### (4) Liability
+
+&emsp;Any person for whom an activity related to the importation, entry, or exportation of an animal, article, or means of conveyance or relating to veterinary diagnostics, is performed pursuant to the section, shall be liable for payment of fees assessed. Upon failure to pay such fees when due, the Secretary shall assess a late payment penalty, and such overdue fees shall accrue interest, as required by section 3717 of title 31. All fees, late payment penalties, and accrued interest collected shall be credited to such accounts that incur the costs and shall remain available until expended without fiscal year limitation.
+
+#### (5) Leins <sup>2</sup>
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall have a lien against the animal, article, means of conveyance, or facility for which services have been provided under this section for the fees, any late payment penalty, and any accrued interest assessed under this subsection.
+
+#### (B) Other animals, etc.
+
+&emsp;&emsp;In the case of any person who fails to make payment when due under this subsection, the Secretary shall have a lien against any animal, article, or means of conveyance thereafter imported, moved in interstate commerce, or attempted to be exported by the person after the date of such failure until the date on which such owner or operator make <sup>3</sup> full payment to the Secretary under this subsection.
+
+#### (C) Sales of animals, etc.
+
+#### (i) Authority
+
+&emsp;&emsp;&emsp;The Secretary may, if a person does not pay fees, late payment penalties, or accrued interest on such, after providing reasonable notice of default to such person, sell at public sale after reasonable public notice, or otherwise dispose of, any such animal, article, means of conveyance or facility on which the Secretary has a lien under this paragraph.
+
+#### (ii) Excess proceeds
+
+&emsp;&emsp;&emsp;If the sale proceeds under clause (i) exceed the fees due, any late payment penalty assessed, any accrued interest on such, and the expenses associated with the sale, such excess shall be paid to the owner of the animal, article, means of conveyance, or facility if such owner submits an application for such excess together with proof of ownership not later than 6 months after the date of such sale. If no such application is made, such excess shall be credited to accounts that incur the costs associated with the fees collected and shall remain available until expended, without fiscal year limitation. The Secretary shall suspend performance of services to persons who have failed to pay fees, late payment penalty, or accrued interest under this section.
+
+#### (d) Regulations
+
+The Secretary may prescribe such regulations as the Secretary determines necessary to carry out the provisions of this section.
+
+#### (e) Recovery of amounts owed
+
+An action may be brought for the recovery of fees, late payment penalties, and accrued interest which have not been paid in accordance with this section against any person obligated for payment of such assessments under this section in any United States district court or other United States court for any territory or possession in any jurisdiction in which such person is found or resides or transacts business, and such court shall have jurisdiction to hear and decide such action.
+
+#### (f) Definitions
+
+#### (1) Animal quarantine laws
+
+&emsp;For purposes of this section, the term “animal quarantine laws” means—
+
+&emsp;&emsp;(A) section 306 of the Tariff Act of 1930 (19 U.S.C. 1306);
+
+&emsp;&emsp;(B) sections 6 through 10 of the Act of August 30, 1890 (26 Stat. 416, chapter 839; 21 U.S.C. 101–105);
+
+&emsp;&emsp;(C) section 2 of the Act of February 2, 1903 (32 Stat. 792, chapter 349; 21 U.S.C. 111);
+
+&emsp;&emsp;(D) the Act of May 29, 1884 (23 Stat. 32, chapter 60; 21 U.S.C. 112 to 114a–1, 115, 117–119, and 130) (commonly known as the “Animal Industry Act”);
+
+&emsp;&emsp;(E) the Act of February 28, 1947 (61 Stat. 7, chapter 8; 21 U.S.C. 114b, 114c, and 114d–1);
+
+&emsp;&emsp;(F) the Act of June 16, 1948 (62 Stat. 458, chapter 477; 21 U.S.C. 114e and 114f);
+
+&emsp;&emsp;(G) Public Law 87–209 (21 U.S.C. 114g and 114h);
+
+&emsp;&emsp;(H) the Act of May 31, 1920 (41 Stat. 699, chapter 217; 21 U.S.C. 116);
+
+&emsp;&emsp;(I) the Act of February 2, 1903 (32 Stat. 791, chapter 349; 21 U.S.C. 112 and 120–122) (commonly known as the “Cattle Contagious Diseases Act of 1903”);
+
+&emsp;&emsp;(J) the Act of March 3, 1905 (33 Stat. 1264, chapter 1496; 21 U.S.C. 123–127) (commonly known as the “Cattle Contagious Diseases Act of 1905”);
+
+&emsp;&emsp;(K) the matter under the heading “Bureau of Animal Industry” of the Act of June 30, 1914 (38 Stat. 419, chapter 131; 21 U.S.C. 128);
+
+&emsp;&emsp;(L) section 101 of Public Law 92–73 (21 U.S.C. 129);
+
+&emsp;&emsp;(M) the matter under the heading “Miscellaneous” of the Act of May 26, 1910 (36 Stat. 440, chapter 256; 21 U.S.C. 131);
+
+&emsp;&emsp;(N) sections 1 through 6 and 11 through 13 of Public Law 87–518 (21 U.S.C. 134–134h); or
+
+&emsp;&emsp;(O) any other Act administered by the Secretary relating to plant or animal diseases or pests, other than the first section of Public Law 91–239 (21 U.S.C. 135).
+
+#### (2) Customs territory
+
+&emsp;For the purposes of subsection (a) of this section, the term “customs territory of the United States” means the 50 States, the District of Columbia, and Puerto Rico.
+
+#### (3) Person
+
+&emsp;For the purposes of this section, the term “person” means an individual, corporation, partnership, trust, association, or any other public or private entity, or any officer, employee, or agent thereof.
+
+#### (4) United States
+
+&emsp;For the purposes of subsection (b) of this section, the term “United States” means the several States of the United States, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and all other territories and possessions of the United States.
+
+#### (5) Vessel
+
+&emsp;For the purposes of subsection (a) of this section, the term “vessel” does not include any ferry.
+
+(Pub. L. 101–624, title XXV, §2509, Nov. 28, 1990, 104 Stat. 4069; Pub. L. 101–508, title I, §1203, Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 102–237, title X, §1015, Dec. 13, 1991, 105 Stat. 1902.)
+
+#### References in Text
+
+Section 101 of Public Law 92–73, referred to in subsec. (f)(1)(L), is listed in a Similar Provisions note set out under section 129 of this title.
+
+#### Codification
+
+Section is comprised of section 2509 of Pub. L. 101–624. Subsecs. (b) and (c)(2) of section 2509 of Pub. L. 101–624 amended section 147a(f) of Title 7, Agriculture, and section 114a of this title, respectively.
+
+#### Amendments
+
+1991—Subsec. (a)(1). Pub. L. 102–237, §1015(1), designated existing provisions as subpar. (A), realigned margin, added heading, and added subpars. (B) to (D).
+
+Subsec. (a)(3)(B)(ii). Pub. L. 102–237, §1015(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “The Secretary of Treasury shall use the Account to provide reimbursements to any appropriations accounts that incur the costs associated with the services authorized in paragraph (1). Any such reimbursement shall be subject to appropriations under clause (v).”
+
+Subsec. (a)(4). Pub. L. 102–237, §1015(3), substituted “Subject to the limits set forth in paragraph (1), the” for “The”.
+
+1990—Subsec. (a)(1). Pub. L. 101–508, §1203(1), substituted “an international passenger, commercial vessel, commercial aircraft, commercial truck, or railroad car.” for “a commercial vessel, commercial aircraft, commercial truck, or railroad car,”.
+
+Subsec. (a)(3)(B)(ii). Pub. L. 101–508, §1203(2)(A), inserted at end “Any such reimbursement shall be subject to appropriations under clause (v).”
+
+Subsec. (a)(3)(B)(v). Pub. L. 101–508, §1203(2)(B), added cl. (v).
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as a note under section 511r of Title 7, Agriculture.
+

@@ -1,0 +1,74 @@
+### §3675. Approval of accredited courses
+
+(a)(1) A State approving agency may approve the courses offered by an educational institution when—
+
+&emsp;(A) such courses have been accredited and approved by a nationally recognized accrediting agency or association;
+
+&emsp;(B) such courses are conducted under the Act of February 23, 1917 (20 U.S.C. 11 et seq.);
+
+&emsp;(C) such courses are accepted by the State department of education for credit for a teacher's certificate or a teacher's degree; or
+
+&emsp;(D) such courses are approved by the State as meeting the requirement of regulations prescribed by the Secretary of Health and Human Services under sections 1819(f)(2)(A)(i) and 1919(f)(2)(A)(i) of the Social Security Act (42 U.S.C. 1395i–3(f)(2)(A)(i) and 1396r(f)(2)(A)(i)).
+
+(2)(A) For the purposes of this chapter, the Secretary of Education shall publish a list of nationally recognized accrediting agencies and associations which that Secretary determines to be reliable authority as to the quality of training offered by an educational institution.
+
+(B) Except as provided in section 3672(e) of this title, a State approving agency may utilize the accreditation of any accrediting association or agency listed pursuant to subparagraph (A) of this paragraph for approval of courses specifically accredited and approved by such accrediting association or agency.
+
+(3)(A) An educational institution shall submit an application for approval of courses to the appropriate State approving agency. In making application for approval, the institution (other than an elementary school or secondary school) shall transmit to the State approving agency copies of its catalog or bulletin which must be certified as true and correct in content and policy by an authorized representative of the institution.
+
+(B) Each catalog or bulletin transmitted by an institution under subparagraph (A) of this paragraph shall—
+
+&emsp;(i) state with specificity the requirements of the institution with respect to graduation;
+
+&emsp;(ii) include the information required under paragraphs (6) and (7) of section 3676(b) of this title; and
+
+&emsp;(iii) include any attendance standards of the institution, if the institution has and enforces such standards.
+
+(b) As a condition to approval under this section, the State approving agency must find that adequate records are kept by the educational institution to show the progress of each eligible person or veteran and must include as a minimum (except for attendance) the requirements set forth in section 3676(c)(7) of this title. The State approving agency must also find that the educational institution maintains a written record of the previous education and training of the eligible person or veteran and clearly indicates that appropriate credit has been given by the institution for previous education and training, with the training period shortened proportionately and the eligible person or veteran and the Secretary so notified.
+
+(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 159, §1775; amended Pub. L. 89–358, §3(a)(8), Mar. 3, 1966, 80 Stat. 21; Pub. L. 94–502, title V, §§504, 513(a)(2), Oct. 15, 1976, 90 Stat. 2399, 2402; Pub. L. 96–466, title VIII, §801(d), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3675 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §312, Oct. 29, 1992, 106 Stat. 4330; Pub. L. 103–446, title VI, §605(a)(2)(A), Nov. 2, 1994, 108 Stat. 4672.)
+
+#### References in Text
+
+Act of February 23, 1917, referred to in subsec. (a)(1)(B), is act Feb. 23, 1917, ch. 114, 39 Stat. 929, as amended, known as the Smith-Hughes Vocational Education Act, which is classified to sections 11 to 15 and 16 to 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 11 of Title 20 and Tables.
+
+#### Amendments
+
+1994—Subsec. (a)(2)(B). Pub. L. 103–446 substituted “Except as provided in section 3672(e) of this title, a State” for “A State”.
+
+1992—Subsec. (a). Pub. L. 102–568 designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A), redesignated former par. (2) as subpar. (B), substituted “the Act of February 23, 1917 (20 U.S.C. 11 et seq.);” for “sections 11–28 of title 20; or”, redesignated former par. (3) as subpar. (C), added subpar. (D) and pars. (2) and (3), and struck out former concluding provisions which read as follows: “For the purposes of this chapter the Secretary of Education shall publish a list of nationally recognized accrediting agencies and associations which the Secretary determines to be reliable authority as to the quality of training offered by an educational institution and the State approving agencies may, upon concurrence, utilize the accreditation of such accrediting associations or agencies for approval of the courses specifically accredited and approved by such accrediting association or agency. In making application for approval, the institution shall transmit to the State approving agency copies of its catalog or bulletin which must be certified as true and correct in content and policy by an authorized representative of the school. The catalog or bulletin must specifically state its progress requirements for graduation and must include as a minimum the information required by sections 3676(b)(6) and (7) of this title.”
+
+1991—Pub. L. 102–83, §5(a), renumbered section 1775 of this title as this section.
+
+Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3676(b)(6)” for “1776(b)(6)” in last sentence.
+
+Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3676(c)(7)” for “1776(c)(7)”.
+
+1989—Subsec. (b). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
+
+1980—Subsec. (a). Pub. L. 96–466 substituted “Secretary” for “Commissioner” in two places.
+
+1976—Subsec. (a). Pub. L. 94–502, §513(a)(2), substituted “the Commissioner determines” for “he determines”.
+
+Pub. L. 94–502, §504(1), inserted provision requiring that copies of the school bulletin be certified by an authorized representative of the school and that the bulletin specify the progress requirements for graduation and certain other information.
+
+Subsec. (b). Pub. L. 94–502, §504(2), inserted provision requiring that school records contain as a minimum, except for attendance, the requirements set forth in section 1776(c)(7) of this title.
+
+1966—Subsec. (b). Pub. L. 89–358 inserted “or veteran” after “eligible person” in three places.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–446 applicable with respect to programs of education exclusively by correspondence and to correspondence-residence courses commencing more than 90 days after Nov. 2, 1994, see section 605(b) of Pub. L. 103–446, set out as a note under section 3672 of this title.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(h) of Pub. L. 96–466, set out as a note under section 3452 of this title.
+
+#### Effective Date of 1976 Amendment
+
+Amendment by sections 504 and 513(a)(2) of Pub. L. 94–502 effective Dec. 1, 1976, and Oct. 15, 1976, respectively, see section 703(b), (c) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3452, 3501, 3676 of this title.
+

@@ -1,0 +1,32 @@
+### §1772. Findings and policy
+
+Congress finds and declares that—
+
+&emsp;(1) there is pending before the United States District Court for the southern district ofFlorida a lawsuit by the Seminole Tribe which involves certain lands within the State and there are also claims by the tribe to other areas of Florida by virtue of an 1839 Executive order of the President and by right of non-extinguishment of aboriginal possession which has been asserted but not filed in court;
+
+&emsp;(2) the pendency of this lawsuit and these claims may result in economic hardships for residents of the State by clouding the titles to lands in the State, including lands not now involved in the lawsuit;
+
+&emsp;(3) the pendency of this lawsuit and these claims also have clouded the easement rights of the South Florida Water Management District in lands necessary for use as a water flowage and storage area, which is part of a federally authorized project for flood control and water management in central and southern Florida, and which is being used to provide and regulate a water supply for the residents of south Florida;
+
+&emsp;(4) the State, the district, and the tribe have executed agreements for the purposes of resolving tribal land claims and settling the lawsuit—
+
+&emsp;&emsp;(A) which include conveyance of land and payment of consideration to the tribe; and
+
+&emsp;&emsp;(B) which require implementing legislation by the Congress of the United States and the Legislature of the State of Florida;
+
+&emsp;(5) Congress shares with the parties to such agreements a desire to settle these Indian claims in the State of Florida without additional cost to the United States;
+
+&emsp;(6) there is considerable uncertainty as to the nature and extent of the water rights of the tribe, and that continued controversy over this should be settled by agreement; and
+
+&emsp;(7) the State, the district, and the tribe have entered into a compact which, if approved by Congress and the Florida Legislature, creates specifically defined water rights in lieu of the undefined water rights claimed by the tribe.
+
+(Pub. L. 100–228, §2, Dec. 31, 1987, 101 Stat. 1556.)
+
+#### Effective Date
+
+Section 10 of Pub. L. 100–228 provided that: “This Act \[enacting this subchapter\] shall take effect upon the date of its enactment \[Dec. 31, 1987\].”
+
+#### Short Title
+
+Section 1 of Pub. L. 100–228 provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Seminole Indian Land Claims Settlement Act of 1987’.”
+

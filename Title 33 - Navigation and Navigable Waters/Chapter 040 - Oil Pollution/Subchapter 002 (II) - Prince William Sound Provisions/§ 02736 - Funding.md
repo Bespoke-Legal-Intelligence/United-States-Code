@@ -1,0 +1,20 @@
+### §2736. Funding
+
+#### (a) Section 2731
+
+Amounts in the Fund shall be available, subject to appropriations, and shall remain available until expended, to carry out section 2731 of this title as follows:
+
+&emsp;(1) $5,000,000 shall be available for the first fiscal year beginning after August 18, 1990.
+
+&emsp;(2) $2,000,000 shall be available for each of the 9 fiscal years following the fiscal year described in paragraph (1).
+
+#### (b) Sections 2733 and 2734
+
+Amounts in the Fund shall be available, without further appropriations and without fiscal year limitation, to carry out sections 2733 and 2734 of this title, in an amount not to exceed $5,000,000.
+
+(Pub. L. 101–380, title V, §5006, Aug. 18, 1990, 104 Stat. 554.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2712, 2752 of this title.
+

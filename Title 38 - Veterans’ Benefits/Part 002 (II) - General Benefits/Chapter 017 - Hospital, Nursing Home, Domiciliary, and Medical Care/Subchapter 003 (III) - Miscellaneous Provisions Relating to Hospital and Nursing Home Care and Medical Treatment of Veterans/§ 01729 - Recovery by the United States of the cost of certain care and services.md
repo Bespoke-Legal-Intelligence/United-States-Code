@@ -1,0 +1,208 @@
+### §1729. Recovery by the United States of the cost of certain care and services
+
+(a)(1) Subject to the provisions of this section, in any case in which a veteran is furnished care or services under this chapter for a non-service-connected disability described in paragraph (2) of this subsection, the United States has the right to recover or collect the reasonable cost of such care or services (as determined by the Secretary) from a third party to the extent that the veteran (or the provider of the care or services) would be eligible to receive payment for such care or services from such third party if the care or services had not been furnished by a department or agency of the United States.
+
+(2) Paragraph (1) of this subsection applies to a non-service-connected disability—
+
+&emsp;(A) that is incurred incident to the veteran's employment and that is covered under a workers’ compensation law or plan that provides for payment for the cost of health care and services provided to the veteran by reason of the disability;
+
+&emsp;(B) that is incurred as the result of a motor vehicle accident to which applies a State law that requires the owners or operators of motor vehicles registered in that State to have in force automobile accident reparations insurance;
+
+&emsp;(C) that is incurred as the result of a crime of personal violence that occurred in a State, or a political subdivision of a State, in which a person injured as the result of such a crime is entitled to receive health care and services at such State's or subdivision's expense for personal injuries suffered as the result of such crime;
+
+&emsp;(D) that is incurred by a veteran—
+
+&emsp;&emsp;(i) who does not have a service-connected disability; and
+
+&emsp;&emsp;(ii) who is entitled to care (or payment of the expenses of care) under a health-plan contract; or
+
+&emsp;(E) for which care and services are furnished before October 1, 1998, under this chapter to a veteran who—
+
+&emsp;&emsp;(i) has a service-connected disability; and
+
+&emsp;&emsp;(ii) is entitled to care (or payment of the expenses of care) under a health-plan contract.
+
+(3) In the case of a health-plan contract that contains a requirement for payment of a deductible or copayment by the veteran—
+
+&emsp;(A) the veteran's not having paid such deductible or copayment with respect to care or services furnished under this chapter shall not preclude recovery or collection under this section; and
+
+&emsp;(B) the amount that the United States may collect or recover under this section shall be reduced by the appropriate deductible or copayment amount, or both.
+
+(b)(1) As to the right provided in subsection (a) of this section, the United States shall be subrogated to any right or claim that the veteran (or the veteran's personal representative, successor, dependents, or survivors) may have against a third party.
+
+(2)(A) In order to enforce any right or claim to which the United States is subrogated under paragraph (1) of this subsection, the United States may intervene or join in any action or proceeding brought by the veteran (or the veteran's personal representative, successor, dependents, or survivors) against a third party.
+
+(B) The United States may institute and prosecute legal proceedings against the third party if—
+
+&emsp;(i) an action or proceeding described in subparagraph (A) of this paragraph is not begun within 180 days after the first day on which care or services for which recovery is sought are furnished to the veteran by the Secretary under this chapter;
+
+&emsp;(ii) the United States has sent written notice by certified mail to the veteran at the veteran's last-known address (or to the veteran's personal representative or successor) of the intention of the United States to institute such legal proceedings; and
+
+&emsp;(iii) a period of 60 days has passed following the mailing of such notice.
+
+(C) A proceeding under subparagraph (B) of this paragraph may not be brought after the end of the six-year period beginning on the last day on which the care or services for which recovery is sought are furnished.
+
+(c)(1) The Secretary may compromise, settle, or waive any claim which the United States has under this section.
+
+(2)(A) The Secretary, after consultation with the Comptroller General of the United States, shall prescribe regulations for the purpose of determining the reasonable cost of care or services under subsection (a)(1) of this section. Any determination of such cost shall be made in accordance with such regulations.
+
+(B) Such regulations shall provide that the reasonable cost of care or services sought to be recovered or collected from a third-party liable under a health-plan contract may not exceed the amount that such third party demonstrates to the satisfaction of the Secretary it would pay for the care or services if provided by facilities (other than facilities of departments or agencies of the United States) in the same geographic area.
+
+(C) Not later than 45 days after the date on which the Secretary prescribes such regulations (or any amendment to such regulations), the Comptroller General shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives the Comptroller General's comments on and recommendations regarding such regulations (or amendment).
+
+(d) Any contract or agreement into which the Secretary enters with a person under section 3718 of title 31 for collection services to recover indebtedness owed the United States under this section shall provide, with respect to such services, that such person is subject to sections 5701 and 7332 of this title.
+
+(e) A veteran eligible for care or services under this chapter—
+
+&emsp;(1) may not be denied such care or services by reason of this section; and
+
+&emsp;(2) may not be required by reason of this section to make any copayment or deductible payment in order to receive such care.
+
+(f) No law of any State or of any political subdivision of a State, and no provision of any contract or other agreement, shall operate to prevent recovery or collection by the United States under this section or with respect to care or services furnished under section 1711(b) of this title.
+
+(g)(1) There is established in the Treasury a fund to be known as the Department of Veterans Affairs Medical-Care Cost Recovery Fund (hereafter referred to in this section as the “Fund”).
+
+(2) Amounts recovered or collected under this section shall be deposited in the Fund.
+
+(3) Sums in the Fund shall be available to the Secretary for the following:
+
+&emsp;(A) Payment of necessary expenses for the identification, billing, and collection of thecost of care and services furnished under this chapter, and for the administration and collection of payments required under section 1710(f) of this title for hospital care or nursing home care, under section 1712(f) of this title for medical services, and under section 1722A of this title for medications, including—
+
+&emsp;&emsp;(i) the costs of computer hardware and software, word processing and telecommunications equipment, other equipment, supplies, and furniture;
+
+&emsp;&emsp;(ii) personnel training and travel costs;
+
+&emsp;&emsp;(iii) personnel and administrative costs for attorneys in the Office of General Counsel of the Department and for support personnel of such office;
+
+&emsp;&emsp;(iv) other personnel and administrative costs; and
+
+&emsp;&emsp;(v) the costs of any contract for identification, billing, or collection services.
+
+&emsp;(B) Payment of the Secretary for reasonable charges, as determined by the Secretary, imposed for (i) services and utilities (including light, water, and heat) furnished by the Secretary, (ii) recovery and collection activities under this section, and (iii) administration of the Fund.
+
+(4) Not later than January 1 of each year, there shall be deposited into the Treasury as miscellaneous receipts an amount equal to the amount of the unobligated balance remaining in the Fund at the close of business on September 30 of the preceding year minus any part of such balance that the Secretary determines is necessary in order to enable the Secretary to defray, during the fiscal year in which the deposit is made, the expenses, payments, and costs described in paragraph (3).
+
+(h)(1) Subject to paragraph (3) of this subsection, the Secretary shall make available medical records of a veteran described in paragraph (2) of this subsection for inspection and review by representatives of the third party concerned for the sole purposes of permitting the third party to verify—
+
+&emsp;(A) that the care or services for which recovery or collection is sought were furnished to the veteran; and
+
+&emsp;(B) that the provision of such care or services to the veteran meets criteria generally applicable under the health-plan contract involved.
+
+(2) A veteran described in this paragraph is a veteran who is a beneficiary of a health-plan contract under which recovery or collection is sought under this section from the third party concerned for the cost of the care or services furnished to the veteran.
+
+(3) Records shall be made available under this subsection under such conditions to protect the confidentiality of such records as the Secretary shall prescribe in regulations.
+
+(i) For purposes of this section—
+
+&emsp;(1)(A) The term “health-plan contract” means an insurance policy or contract, medical or hospital service agreement, membership or subscription contract, or similar arrangement, under which health services for individuals are provided or the expenses of such services are paid.
+
+&emsp;(B) Such term does not include—
+
+&emsp;&emsp;(i) an insurance program described in section 1811 of the Social Security Act (42 U.S.C. 1395c) or established by section 1831 of such Act (42 U.S.C. 1395j);
+
+&emsp;&emsp;(ii) a State plan for medical assistance approved under title XIX of such Act (42 U.S.C. 1396 et seq.);
+
+&emsp;&emsp;(iii) a workers’ compensation law or plan described in subparagraph (A) of subsection (a)(2) of this section; or
+
+&emsp;&emsp;(iv) a program, plan, or policy under a law described in subparagraph (B) or (C) of such subsection.
+
+&emsp;(2) The term “payment” includes reimbursement and indemnification.
+
+&emsp;(3) The term “third party” means—
+
+&emsp;&emsp;(A) a State or political subdivision of a State;
+
+&emsp;&emsp;(B) an employer or an employer's insurance carrier;
+
+&emsp;&emsp;(C) an automobile accident reparations insurance carrier; or
+
+&emsp;&emsp;(D) a person obligated to provide, or to pay the expenses of, health services under a health-plan contract.
+
+(Added Pub. L. 97–72, title I, §106(a)(1), Nov. 3, 1981, 95 Stat. 1050, §629; amended Pub. L. 99–272, title XIX, §19013(a), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title II, §202, May 20, 1988, 102 Stat. 509; Pub. L. 101–508, title VIII, §8011(a)–(c), Nov. 5, 1990, 104 Stat. 1388–344; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1729 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title VI, §604, Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12003, Aug. 10, 1993, 107 Stat. 414.)
+
+#### References in Text
+
+The Social Security Act, referred to in subsec. (i)(1)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### Amendments
+
+1993—Subsec. (a)(2)(E). Pub. L. 103–66 substituted “October 1, 1998” for “August 1, 1994”.
+
+1992—Subsec. (a)(2)(E). Pub. L. 102–568 substituted “August 1, 1994” for “October 1, 1993”.
+
+1991—Pub. L. 102–83, §5(a), renumbered section 629 of this title as this section.
+
+Subsecs. (a) to (c). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+
+Subsec. (d). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+
+Pub. L. 102–40 substituted “5701” for “3301” and “7332” for “4132”.
+
+Subsec. (f). Pub. L. 102–83, §5(c)(1), substituted “1711(b)” for “611(b)”.
+
+Subsec. (g)(3)(A). Pub. L. 102–83, §5(c)(1), substituted “1710(f)” for “610(f)”, “1712(f)” for “612(f)”, and “1722A” for “622A” in introductory provisions.
+
+Subsec. (h)(1), (3). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+
+1990—Subsec. (a)(2)(E). Pub. L. 101–508, §8011(a), added subpar. (E).
+
+Subsec. (c)(2)(B). Pub. L. 101–508, §8011(b), substituted “if provided by” for “in accordance with the prevailing rates at which the third party makes payments under comparable health-plan contracts with”.
+
+Subsec. (g). Pub. L. 101–508, §8011(c), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Amounts collected or recovered on behalf of the United States under this section shall be deposited into the Treasury as miscellaneous receipts.”
+
+1988—Subsec. (b)(2)(C). Pub. L. 100–322 added subpar. (C).
+
+1986—Pub. L. 99–272 amended section generally, inserting authority to recover from a third party under a health-plan contract the reasonable costs of a non-service-connected disability, to require the Administrator to prescribe regulations to govern determination of reasonable costs, to authorize the compromise, settlement or waiver of claims, and to provide for the deposit of money collected under this section in the Treasury.
+
+#### Effective Date of 1990 Amendment
+
+Section 8011(e) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section\] shall take effect as of October 1, 1990.”
+
+#### Effective Date of 1986 Amendment
+
+Section 19013(b) of Pub. L. 99–272 provided that:
+
+“(1) Except as provided in paragraph (2), section 629 \[now 1729\] of title 38, United States Code, as amended by subsection (a), shall apply to care and services provided on or after the date of the enactment of this Act \[Apr. 7, 1986\].
+
+“(2)(A) Such section shall not apply so as to nullify any provision of a health-plan contract (as defined in subsection (i) of such section) that—
+
+&emsp;“(i) was entered into before the date of the enactment of this Act; and
+
+&emsp;“(ii) is not modified or renewed on or after such date.
+
+“(B) In the case of a health-plan contract (as so defined) that was entered into before such date and which is modified or renewed on or after such date, the amendment made by subsection (a) \[amending this section\] shall apply—
+
+&emsp;“(i) with respect to such plan as of the day after the date that it is so modified or renewed; and
+
+&emsp;“(ii) with respect to care and services provided after such date of modification or renewal.
+
+“(3) For purposes of paragraph (2), the term ‘modified’ includes any change in premium or coverage.”
+
+#### Effective Date
+
+Section 106(b) of Pub. L. 97–72 provided that: “Section 629 \[now 1729\] of title 38, United States Code, as added by subsection (a), shall apply with respect to care and services furnished under chapter 17 of title 38, United States Code, on or after the date of the enactment of this Act \[Nov. 3, 1981\].”
+
+#### Transfers to Medical-Care Cost Recovery Fund
+
+Section 8011(d) of Pub. L. 101–508, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
+
+“(1)
+
+Amount to be transferred.—The Secretary of the Treasury shall transfer $25,000,000 from the Department of Veterans Affairs Loan Guaranty Revolving Fund to the Department of Veterans Affairs Medical-Care Cost Recovery Fund established by section 1729(g) \[formerly 629(g)\] of title 38, United States Code (as amended by subsection (c)). The amount so transferred shall be available until the end of September 30, 1991, for the support of the equivalent of 800 full-time employees and other expenses described in paragraph (3) of such section.
+
+“(2)
+
+Reimbursement of loan guaranty revolving fund.—Notwithstanding section 1729(g) \[formerly 629(g)\] of title 38, United States Code (as amended by subsection (c)), the first $25,000,000 recovered or collected by the Department of Veterans Affairs during fiscal year 1991 as a result of third-party medical recovery activities shall be credited to the Department of Veterans Affairs Loan Guaranty Revolving Fund.
+
+“(3)
+
+Third-party medical recovery activities defined.—For the purposes of this subsection, the term ‘third-party medical recovery activities’ means recovery and collection activities carried out under section 1729 \[formerly 629\] of title 38, United States Code.”
+
+#### Reports on Implementation of 1986 Amendment
+
+Section 19013(c) of Pub. L. 99–272 directed Administrator of Veterans’ Affairs, not later than six months after Apr. 7, 1986, to submit to Committees on Veterans’ Affairs of Senate and House of Representatives a report on the process for and results of implementation of this section, as amended by subsection (a), such report to show costs of administration (and a detailed breakdown of such costs) and the amount of receipts and collections under this section, and not later than Feb. 1, 1988, to submit to such Committees a report updating the information in the report previously submitted and providing information on the process and results of such implementation through at least the end of fiscal year 1987.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 712 of this title.
+

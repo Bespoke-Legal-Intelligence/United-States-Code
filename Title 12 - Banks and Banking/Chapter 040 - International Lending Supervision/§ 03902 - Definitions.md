@@ -1,0 +1,36 @@
+### §3902 . Definitions
+
+For purposes of this chapter—
+
+&emsp;(1) the term “appropriate Federal banking agency” has the same meaning given such term in section 1813(q) of this title, except that for purposes of this chapter such term means the Board of Governors of the Federal Reserve System for—
+
+&emsp;&emsp;(A) bank holding companies and any nonbank subsidiary thereof;
+
+&emsp;&emsp;(B) Edge Act corporations organized under section 25(a) <sup>1</sup> of the Federal Reserve Act \[12 U.S.C. 611 et seq.\]; and
+
+&emsp;&emsp;(C) Agreement Corporations operating under section 25 of the Federal Reserve Act \[12 U.S.C. 601 et seq.\]; and
+
+&emsp;(2) the term “banking institution” means—
+
+&emsp;&emsp;(A)(i) an insured bank as defined in section 1813(h) of this title or any subsidiary of an insured bank;
+
+&emsp;&emsp;(ii) an Edge Act corporation organized under section 25(a) <sup>1</sup> of the Federal Reserve Act \[12 U.S.C. 611 et seq.\]; and
+
+&emsp;&emsp;(iii) an Agreement Corporation operating under section 25 of the Federal Reserve Act \[12 U.S.C. 601 et seq.\]; and
+
+&emsp;&emsp;(B) to the extent determined by the appropriate Federal banking agency, any agency or branch of a foreign bank, and any commercial lending company owned or controlled by one or more foreign banks or companies that control a foreign bank as those terms are defined in the International Banking Act of 1978 \[12 U.S.C. 3101 et seq.\]. The term “banking institution” shall not include a foreign bank.
+
+(Pub. L. 98–181, title IX, §903, Nov. 30, 1983, 97 Stat. 1278.)
+
+#### References in Text
+
+Section 25(a) of the Federal Reserve Act, referred to in pars. (1) and (2)(A), which is classified to subchapter II (§611 et seq.) of chapter 6 of this title, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§601 et seq.) of chapter 6 of this title.
+
+The International Banking Act of 1978, referred to in par. (2)(B), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted sections 347d, 611a, and 3101 to 3111 of this title, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of this title, and enacted provisions set out as notes under sections 36, 247, 601, 611a, and 3101 of this title. For definitions, see section 3101 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1464, 3910 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

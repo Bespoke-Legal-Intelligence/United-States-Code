@@ -1,0 +1,226 @@
+### §1076. Medical and dental care for dependents: general rule
+
+(a)(1) A dependent described in paragraph (2) is entitled, upon request, to the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff.
+
+(2) A dependent referred to in paragraph (1) is a dependent of a member of a uniformed service—
+
+&emsp;(A) who is on active duty for a period of more than 30 days or who died while on that duty; or
+
+&emsp;(B) who died from an injury, illness, or disease incurred or aggravated—
+
+&emsp;&emsp;(i) while on active duty under a call or order to active duty of 30 days or less, on active duty for training, or on inactive duty training; or
+
+&emsp;&emsp;(ii) while traveling to or from the place at which the member is to perform, or has performed, such active duty, active duty for training, or inactive duty training.
+
+(b) Under regulations to be prescribed jointly by the administering Secretaries, a dependent of a member or former member—
+
+&emsp;(1) who is, or (if deceased) was at the time of his death, entitled to retired or retainer pay or equivalent pay; or
+
+&emsp;(2) who died before attaining age 60 and at the time of his death (A) would have been eligible for retired pay under chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act) but for the fact that he was under 60 years of age, and (B) had elected to participate in the Survivor Benefit Plan established under subchapter II of chapter 73 of this title;
+
+> may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff, except that a dependent of a member or former member described in clause (2) may not be given such medical or dental care until the date on which such member or former member would have attained age 60. A dependent described in section 1072(2)(F) of this title may be provided medical and dental care pursuant to clause (2) without regard to subclause (B) of such clause.
+
+(c) A determination by the medical or dental officer in charge, or the contract surgeon in charge, or his designee, as to the availability of space and facilities and to the capabilities of the medical and dental staff is conclusive. Care under this section may not be permitted to interfere with the primary mission of those facilities.
+
+(d) To utilize more effectively the medical and dental facilities of the uniformed services, the administering Secretaries shall prescribe joint regulations to assure that dependents entitled to medical or dental care under this section will not be denied equal opportunity for that care because the facility concerned is that of a uniformed service other than that of the member.
+
+(e)(1) Subject to paragraph (3), if an abused dependent of a former member of a uniformed service described in paragraph (4) needs medical or dental care for an injury or illness resulting from abuse by the member, the administering Secretary may, upon request of the abused dependent, furnish medical or dental care to the dependent for the treatment of such injury or illness in facilities of the uniformed services.
+
+(2) Subject to paragraph (3), upon request of any dependent of a former member of a uniformed service punished for an abuse described in paragraph (4), the administering Secretary for such uniformed service may furnish medical care in facilities of the uniformed services to the dependent for the treatment of any adverse health condition resulting from such dependent's knowledge of (A) the abuse, or (B) any injury or illness suffered by the abused person as a result of such abuse.
+
+(3) Medical and dental care furnished to a dependent of a former member of the uniformed services in facilities of the uniformed services under paragraph (1) or (2)—
+
+&emsp;(A) shall be limited to the health care prescribed by section 1077 of this title;
+
+&emsp;(B) shall be subject to the availability of space and facilities and the capabilities of the medical and dental staff; and
+
+&emsp;(C) shall terminate one year after the date on which the former member was discharged or dismissed from a uniformed service as described in paragraph (4).
+
+(4)(A) A former member of a uniformed service referred to in paragraph (1) is a member who—
+
+&emsp;(i) received a dishonorable or bad-conduct discharge or was dismissed from a uniformed service as a result of a court-martial conviction for an offense, under either military or civil law, involving abuse of a dependent of the member; or
+
+&emsp;(ii) was administratively discharged from a uniformed service as a result of such an offense.
+
+(B) A determination of whether an offense involved abuse of a dependent of the member shall be made in accordance with regulations prescribed by the administering Secretary for such uniformed service.
+
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(3), Sept. 30, 1966, 80 Stat. 862; Pub. L. 95–397, title III, §301, Sept. 30, 1978, 92 Stat. 849; Pub. L. 96–513, title V, §511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–252, title X, §1004(b), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–557, §19(5), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title VI, §652(a), Nov. 8, 1985, 99 Stat. 656; Pub. L. 99–661, div. A, title VI, §§604(f)(1)(C), 652(c), Nov. 14, 1986, 100 Stat. 3877, 3889; Pub. L. 100–456, div. A, title VI, §651(a), Sept. 29, 1988, 102 Stat. 1990; Pub. L. 101–189, div. A, title VI, §653(a)(4), title VII, §731(c)(1), Nov. 29, 1989, 103 Stat. 1462, 1482; Pub. L. 103–337, div. A, title VII, §§704(a), (b), title XVI, §1671(c)(7)(A), Oct. 5, 1994, 108 Stat. 2798, 2799, 3014.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+1076(a)
+
+1076(b)
+
+37:402(a)(2) (as applicable to 37:403(a)).
+
+37:403(a) (1st sentence).
+
+37:402(a)(3) (as applicable to 37:421(c)).
+
+37:421(c) (less last 28 words).
+
+June 7, 1956, ch. 374, §§102(a)(2) (as applicable to §103(a)), (3) (as applicable to §301(c)), 103(a), (b), 301(c), 70 Stat. 250, 251, 253.
+
+1076(c)
+
+37:403(a) (less 1st sentence).
+
+&nbsp;
+
+37:421(c) (last 28 words).
+
+1076(d)
+
+37:403(b).
+
+Appropriate references are made to dental care throughout the section to reflect the fact that in certain limited situations dependents are entitled to dental care under 37:403(h)(4), restated as section 1077 of this title.
+
+In subsection (a), the words “appointed, enlisted, inducted or called, ordered or conscripted in a uniformed service” are omitted as surplusage, since it does not matter how a member became a member. The words “active duty for a period of more than 30 days” are substituted for the words “active duty or active duty for training pursuant to a call or order that does not specify a period of thirty days or less” to reflect section 101(22) and (23) of this title.
+
+In subsection (b), the words “active duty (other than for training)” are substituted for the words “active duty as defined in section 901(b) of title 50” to reflect section 101(22) of this title. The words “retirement” and “retirement pay” are omitted as surplusage.
+
+In subsection (c), 37:421(c) (last 28 words) is omitted as unnecessary since this subsection and section 1077 of this title are written so as to apply to subsection (b) as well as subsection (a).
+
+In subsection (d), the words “because the facility concerned is that of a uniformed service other than that of the member” is substituted for the words “because of the service affiliation of the service member”.
+
+#### References in Text
+
+Chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in subsec. (b)(2)(A), means chapter 67 (§1331 et seq.) of this title prior to its transfer to part II of subtitle E of this title, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of this title was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+
+#### Prior Provisions
+
+A prior section 1076, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, which related to use of post cards, waiver of registration, and voting by discharged persons, was repealed by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+
+#### Amendments
+
+1994—Subsec. (b)(2)(A). Pub. L. 103–337, §1671(c)(7)(A), substituted “under chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “under chapter 67 of this title”.
+
+Subsec. (e)(1). Pub. L. 103–337, §704(a)(1), added par. (1) and struck out former par. (1) which read as follows: “Subject to paragraph (3), if—
+
+&emsp;“(A) a member of a uniformed service receives a dishonorable or bad-conduct discharge or is dismissed from a uniformed service as a result of a court-martial conviction for an offense involving abuse of a dependent of the member, as determined in accordance with regulations prescribed by the administering Secretary for such uniformed service; and
+
+&emsp;“(B) the abused dependent needs medical or dental care for an injury or illness resulting from the abuse,
+
+> the administering Secretary may, upon request of the abused dependent, furnish medical or dental care to the dependent for the treatment of such injury or illness in facilities of the uniformed services.”
+
+Subsec. (e)(2). Pub. L. 103–337, §704(b)(1), (2), inserted “former” before “member” and substituted “paragraph (4)” for “paragraph (1)(A)”.
+
+Subsec. (e)(3). Pub. L. 103–337, §704(b)(1), (3), inserted “former” before “member” in introductory provisions and in subpar. (C) and substituted “was” for “is” and “paragraph (4)” for “paragraph (1)(A)” in subpar. (C).
+
+Subsec. (e)(4). Pub. L. 103–337, §704(a)(2), added par. (4).
+
+1989—Subsec. (e)(3)(C). Pub. L. 101–189, §653(a)(4), substituted “one year” for “1 year”.
+
+Subsec. (f). Pub. L. 101–189, §731(c)(1), struck out subsec. (f) which read as follows:
+
+“(1) A person described in paragraph (2) shall be considered a dependent for purposes of this section for a period of one year after the date of the person's final decree of divorce, dissolution, or annulment. In addition, if such a person purchases a conversion health policy within the one-year period referred to in the preceding sentence, such person shall be entitled, upon request, to medical and dental care prescribed by section 1077 of this title for a period of one year after the purchase of the policy for any condition of the person that existed on the date on which coverage under the policy begins and for which care is not provided under that policy.
+
+“(2) A person referred to in paragraph (1) is a person who would qualify as a dependent under section 1072(2)(G) but for the fact that the person's final decree of divorce, dissolution, or annulment is dated on or after April 1, 1985.
+
+“(3) In this subsection, the term ‘conversion health policy’ means a health insurance plan with a private insurer, developed through negotiations between the Secretary of Defense and a private insurer, that is available for purchase by or for the use of persons described in paragraph (2).”
+
+1988—Subsec. (f). Pub. L. 100–456 added subsec. (f).
+
+1986—Subsec. (a)(2)(B). Pub. L. 99–661, §604(f)(1)(C), inserted reference to disease.
+
+Subsec. (e). Pub. L. 99–661, §652(c), added subsec. (e).
+
+1985—Subsec. (a). Pub. L. 99–145 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A dependent of a member of a uniformed service who is on active duty for a period of more than 30 days, or of such a member who died while on that duty, is entitled, upon request, to the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff.”
+
+1984—Subsecs. (b), (d). Pub. L. 98–557 substituted reference to administering Secretaries for reference to Secretary of Defense and Secretary of Health and Human Services.
+
+1982—Subsec. (b). Pub. L. 97–252 provided for medical and dental care, for a dependent described in section 1072(2)(F) of this title, pursuant to clause (2) without regard to subclause (B) of such clause.
+
+1980—Subsecs. (b), (d). Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+
+1978—Subsec. (b). Pub. L. 95–397 substituted “Under regulations to be prescribed jointly by the Secretary of Defense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member-” for “Under joint regulations to be prescribed by the Secretary of Defense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member who is, or was at the time of his death, entitled to retired or retainer pay, or equivalent pay, may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff”, added pars. (1), (2), and provisions following par. (2) relating to medical and dental care on request in facilities of the uniformed services subject to the availability of space, facilities and capabilities of staff, and excepting from such care provision a dependent of a member or former member until such member or former member would have attained age 60.
+
+1966—Subsec. (b). Pub. L. 89–614 struck out provision which excepted from medical and dental care a member or former member who is, or was at the time of his death, entitled to retired pay under chapter 67 of this title and has served less than eight years on active duty (other than for training).
+
+#### Effective Date of 1994 Amendment
+
+Amendment by section 1671(c)(7)(A) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+
+#### Effective Date of 1989 Amendment
+
+Amendment by section 731(c)(1) of Pub. L. 101–189 applicable to a person referred to in 10 U.S.C. 1072(2)(H) whose decree of divorce, dissolution, or annulment becomes final on or after Nov. 29, 1989, and to a person so referred to whose decree became final during the period from Sept. 29, 1988 to Nov. 28, 1989, as if the amendment had become effective on Sept. 29, 1988, see section 731(d)of Pub. L. 101–189, set out as a note under section 1072 of this title.
+
+#### Effective Date of 1988 Amendment
+
+Section 651(d) of Pub. L. 100–456 provided that: “Section 1076(f) of title 10, United States Code, as added by subsection (a), shall take effect on the date of enactment of this Act \[Sept. 29, 1988\] or 30 days after the Secretary of Defense first makes available a conversion health policy (as defined in such section), whichever is later. Such section shall apply to persons whose decree of divorce, dissolution, or annulment becomes final after the date of the enactment of this Act.”
+
+#### Effective Date of 1986 Amendment
+
+Amendment by section 604 of Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
+
+Section 652(e)(3) of Pub. L. 99–661 provided that: “The amendment made by subsection (c) \[amending this section\] shall apply only with respect to dependents who request medical or dental care on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
+
+#### Effective Date of 1985 Amendment
+
+Section 652(c) of Pub. L. 99–145 provided that: “The amendments made by this section \[amending this section and section 1086 of this title\] shall apply only with respect to dependents of members of the uniformed services whose deaths occur after September 30, 1985.”
+
+#### Effective Date of 1982 Amendment; Transition Provisions
+
+Amendment by Pub. L. 97–252 effective Feb. 1, 1983, and applicable in the case of any former spouse of a member or former member of the uniformed services whether final decree of divorce, dissolution, or annulment of marriage of former spouse and such member or former member is dated before, on, or after Feb. 1, 1983, see section 1006 of Pub. L. 97–252, set out as an Effective Date; Transition Provisions note under section 1408 of this title.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Effective Date of 1978 Amendment
+
+Section 302 of Pub. L. 95–397 provided that: “The amendment made by section 301 \[amending this section\] shall become effective on October 1, 1978, or on the date of the enactment of this Act \[Sept. 30, 1978\], whichever is later.”
+
+#### Effective Date of 1966 Amendment
+
+For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89–614, set out as a note under section 1071 of this title.
+
+#### Transitional Health Care for Members, or Dependents of Members, Upon Release of Member From Active Duty in Connection With Operation Desert Storm
+
+Pub. L. 102–25, title III, §313, Apr. 6, 1991, 105 Stat. 85, provided that:
+
+“(a)
+
+Health Care Provided.—A member of the Armed Forces described in subsection (b), and the dependents of the member, shall be entitled to receive health care described in subsection (c) upon the release of the member from active duty in connection with Operation Desert Storm until the earlier of—
+
+&emsp;“(1) 30 days after the date of the release of the member from active duty; or
+
+&emsp;“(2) the date on which the member and the dependents of the member are covered by a health plan sponsored by an employer.
+
+“(b)
+
+Eligible Member Described.—A member of the Armed Forces referred to in subsection (a) is a member who—
+
+&emsp;“(1) is a member of a reserve component of the Armed Forces and is called or ordered to active duty under chapter 39 of title 10, United States Code, in connection with Operation Desert Storm;
+
+&emsp;“(2) is involuntarily retained on active duty under section 673c \[now 12305\] of title 10, United States Code, in connection with Operation Desert Storm; or
+
+&emsp;“(3) voluntarily agrees to remain on active duty for a period of less than one year in connection with Operation Desert Storm.
+
+“(c)
+
+Health Care Described.—The health care referred to in subsection (a) is—
+
+&emsp;“(1) medical and dental care under section 1076 of title 10, United States Code, in the same manner as a dependent described in subsection (a)(2) of that section; and
+
+&emsp;“(2) health benefits contracted under the authority of section 1079(a) of that title and subject to the same rates and conditions as apply to persons covered under that section.
+
+“(d)
+
+Dependent Defined.—For purposes of this section, the term ‘dependent’ has the meaning given that term in section 1072(2) of title 10, United States Code.”
+
+#### Dependent; Qualification As; Transition
+
+Section 651(c) of Pub. L. 100–456 provided that: “Any person who qualified as a dependent under section 645(c) of the Department of Defense Authorization Act, 1985 \[Pub. L. 98–525, formerly set out as a note under section 1072 of this title\], as in effect before its repeal by subsection (b), shall remain qualified as a dependent as specified in that section and shall become eligible for benefits in accordance with section 1076(f) of title 10, United States Code (as added by subsection (a)), when no longer qualified as a dependent pursuant to such section 645(c).”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1074b, 1077, 1078, 1079, 1080, 1086, 1086a, 1087, 1095a, 1145 of this title.
+

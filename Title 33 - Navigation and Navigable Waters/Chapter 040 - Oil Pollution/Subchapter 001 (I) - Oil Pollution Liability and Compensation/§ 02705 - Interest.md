@@ -1,0 +1,44 @@
+### §2705. Interest
+
+#### (a) General rule
+
+The responsible party or the responsible party's guarantor is liable to a claimant for interest on the amount paid in satisfaction of a claim under this Act for the period described in subsection (b) of this section.
+
+#### (b) Period
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), the period for which interest shall be paid is the period beginning on the 30th day following the date on which the claim is presented to the responsible party or guarantor and ending on the date on which the claim is paid.
+
+#### (2) Exclusion of period due to offer by guarantor
+
+&emsp;If the guarantor offers to the claimant an amount equal to or greater than that finally paid in satisfaction of the claim, the period described in paragraph (1) does not include the period beginning on the date the offer is made and ending on the date the offer is accepted. If the offer is made within 60 days after the date on which the claim is presented under section 2713(a) of this title, the period described in paragraph (1) does not include any period before the offer is accepted.
+
+#### (3) Exclusion of periods in interests of justice
+
+&emsp;If in any period a claimant is not paid due to reasons beyond the control of the responsible party or because it would not serve the interests of justice, no interest shall accrue under this section during that period.
+
+#### (4) Calculation of interest
+
+&emsp;The interest paid under this section shall be calculated at the average of the highest rate for commercial and finance company paper of maturities of 180 days or less obtaining on each of the days included within the period for which interest must be paid to the claimant, as published in the Federal Reserve Bulletin.
+
+#### (5) Interest not subject to liability limits
+
+#### (A) In general
+
+&emsp;&emsp;Interest (including prejudgment interest) under this paragraph is in addition to damages and removal costs for which claims may be asserted under section 2702 of this title and shall be paid without regard to any limitation of liability under section 2704 of this title.
+
+#### (B) Payment by guarantor
+
+&emsp;&emsp;The payment of interest under this subsection by a guarantor is subject to section 2716(g) of this title.
+
+(Pub. L. 101–380, title I, §1005, Aug. 18, 1990, 104 Stat. 493.)
+
+#### References in Text
+
+This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 16 section 1443.
+

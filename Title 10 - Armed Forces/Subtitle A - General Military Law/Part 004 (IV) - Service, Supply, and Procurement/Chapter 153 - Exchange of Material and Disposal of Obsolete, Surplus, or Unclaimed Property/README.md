@@ -1,0 +1,58 @@
+### <b>CHAPTER 153—EXCHANGE OF MATERIAL AND DISPOSAL OF OBSOLETE, SURPLUS, OR UNCLAIMED PROPERTY</b>
+
+| Sec. |  |
+| :--- | ---: |
+| [2571\.](%C2%A7%2002571%20-%20Interchange%20of%20property%20and%20services.md) | Interchange of property and services. |
+| [2572\.](%C2%A7%2002572%20-%20Documents%2C%20historical%20artifacts%2C%20and%20condemned%20or%20obsolete%20combat%20materiel%20loan%2C%20gift%2C%20or%20exchange.md) | Documents, historical artifacts, and condemned or obsolete combat materiel: loan, gift, or exchange. |
+| \[2573. | Repealed.\] |
+| [2574\.](%C2%A7%2002574%20-%20Armament%20sale%20of%20individual%20pieces.md) | Armament: sale of individual pieces. |
+| [2575\.](%C2%A7%2002575%20-%20Disposition%20of%20unclaimed%20property.md) | Disposition of unclaimed property. |
+| [2576\.](%C2%A7%2002576%20-%20Surplus%20military%20equipment%20sale%20to%20State%20and%20local%20law%20enforcement%20and%20firefighting%20agencies.md) | Surplus military equipment: sale to State and local law enforcement and firefighting agencies. |
+| [2577\.](%C2%A7%2002577%20-%20Disposal%20of%20recyclable%20materials.md) | Disposal of recyclable materials. |
+| [2578\.](%C2%A7%2002578%20-%20Vessels%20transfer%20between%20departments.md) | Vessels: transfer between departments. |
+| [2579\.](%C2%A7%2002579%20-%20War%20booty%20procedures%20for%20handling%20and%20retaining%20battlefield%20objects.md) | War booty: procedures for handling and retaining battlefield objects. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1993—Pub. L. 103–160, div. A, title XI, §1171(a)(2), Nov. 30, 1993, 107 Stat. 1766, added item 2579.
+
+1988—Pub. L. 100–456, div. A, title III, §324(b), Sept. 29, 1988, 102 Stat. 1954, substituted “Documents, historical artifacts, and condemned or obsolete combat materiel: loan, gift, or exchange” for “Condemned or obsolete material: loan or gift to certain organizations” in item 2572.
+
+Pub. L. 100–370, §1(k)(2), July 19, 1988, 102 Stat. 848, added item 2578.
+
+1982—Pub. L. 97–214, §6(b)(2), July 12, 1982, 96 Stat. 172, added item 2577.
+
+1980—Pub. L. 96–513, title V, §511(83)(B), Dec. 12, 1980, 94 Stat. 2927, struck out item 2573 “Excess property: transfers to Canal Zone Government”.
+
+1968—Pub. L. 90–500, title IV, §403(b), Sept. 20, 1968, 82 Stat. 851, added item 2576.
+
+1958—Pub. L. 85–861, §1(50), Sept. 2, 1958, 72 Stat. 1459, substituted “property” for “supplies” in item 2571.
+
+#### Cross References
+
+Disposal of obsolete or surplus material—
+
+&emsp;&emsp;Air Force, see section 9681 et seq. of this title.
+
+&emsp;&emsp;Army, see section 4681 et seq. of this title.
+
+&emsp;&emsp;Navy, see section 7541 et seq. of this title.
+
+Property records, basis and reports, see section 2721 of this title.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 02571 - Interchange of property and services](%C2%A7%2002571%20-%20Interchange%20of%20property%20and%20services.md)
+- [&sect; 02572 - Documents, historical artifacts, and condemned or obsolete combat materiel loan, gift, or exchange](%C2%A7%2002572%20-%20Documents%2C%20historical%20artifacts%2C%20and%20condemned%20or%20obsolete%20combat%20materiel%20loan%2C%20gift%2C%20or%20exchange.md)
+- [&sect; 02573 - Repealed. Pub. L. 96&#8211;513, title V, &sect;511(83)(A), Dec. 12, 1980, 94 Stat. 2927](%C2%A7%2002573%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20V%2C%20%C2%A7511%2883%29%28A%29%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202927.md)
+- [&sect; 02574 - Armament sale of individual pieces](%C2%A7%2002574%20-%20Armament%20sale%20of%20individual%20pieces.md)
+- [&sect; 02575 - Disposition of unclaimed property](%C2%A7%2002575%20-%20Disposition%20of%20unclaimed%20property.md)
+- [&sect; 02576 - Surplus military equipment sale to State and local law enforcement and firefighting agencies](%C2%A7%2002576%20-%20Surplus%20military%20equipment%20sale%20to%20State%20and%20local%20law%20enforcement%20and%20firefighting%20agencies.md)
+- [&sect; 02577 - Disposal of recyclable materials](%C2%A7%2002577%20-%20Disposal%20of%20recyclable%20materials.md)
+- [&sect; 02578 - Vessels transfer between departments](%C2%A7%2002578%20-%20Vessels%20transfer%20between%20departments.md)
+- [&sect; 02579 - War booty procedures for handling and retaining battlefield objects](%C2%A7%2002579%20-%20War%20booty%20procedures%20for%20handling%20and%20retaining%20battlefield%20objects.md)

@@ -1,0 +1,8 @@
+### §204. Repealed. Pub. L. 94–377, §13(a), Aug. 4, 1976, 90 Stat. 1090
+
+Section, act Feb. 25, 1920, ch. 85, §4, 41 Stat. 439, provided for the leasing of an additional tract of land or coal deposit, not to exceed 2560 acres, upon a showing by a lessee that all workable deposits of coal would be exhausted, worked out, or removed within three years thereafter.
+
+#### Savings Provision
+
+Section 13(a) of Pub. L. 94–377 provided that the repeal of this section is subject to valid existing rights.
+

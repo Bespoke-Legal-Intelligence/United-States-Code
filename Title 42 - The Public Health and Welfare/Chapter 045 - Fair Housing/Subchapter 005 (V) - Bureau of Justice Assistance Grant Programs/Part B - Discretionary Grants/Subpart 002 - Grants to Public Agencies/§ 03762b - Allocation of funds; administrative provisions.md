@@ -1,0 +1,34 @@
+### §3762b. Allocation of funds; administrative provisions
+
+#### (a) Allocation of funds
+
+Of the total amount appropriated for this subpart in any fiscal year, 80 percent shall be used to make grants under section 3762a(a)(1) of this title, 10 percent shall be used to make grants under section 3762a(a)(2) of this title, and 10 percent shall be used to make grants under section 3762a(a)(3) of this title.
+
+#### (b) Limit on grant share of cost
+
+A grant made under paragraph (1) or (3) of section 3762a(a) of this title may be made for an amount up to 75 percent of the cost of the correctional option contained in the approved application.
+
+#### (c) Rules; report; request for applications
+
+The Director shall—
+
+&emsp;(1) not later than 90 days after funds are first appropriated to carry out this subpart, issue rules to carry out this subpart; and
+
+&emsp;(2) not later than 180 days after funds are first appropriated to carry out this subpart—
+
+&emsp;&emsp;(A) submit to the Speaker of the House of Representatives and the President pro tempore of the Senate, a report describing such rules; and
+
+&emsp;&emsp;(B) request applications for grants under this subpart.
+
+(Pub. L. 90–351, title I, §516, as added Pub. L. 101–647, title XVIII, §1801(a)(7), Nov. 29, 1990, 104 Stat. 4848; amended Pub. L. 103–322, title XXXIII, §330001(b)(2), Sept. 13, 1994, 108 Stat. 2138.)
+
+#### Prior Provisions
+
+For prior section 516 of Pub. L. 90–351, see note set out preceding section 3750 of this title.
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–322, §330001(b)(2)(A), substituted “10 percent shall be used to make grants under section” for “10 percent for section” in two places.
+
+Subsec. (b). Pub. L. 103–322, §330001(b)(2)(B), substituted “paragraph (1) or (3) of section 3762a(a)” for “section 3762a(a)(1) or (a)(3)”.
+

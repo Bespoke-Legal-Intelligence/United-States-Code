@@ -1,0 +1,54 @@
+### §7545. State applications
+
+#### (a) Submission
+
+No State educational agency shall receive any payment under this part for any fiscal year unless such agency submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require. Each such application shall—
+
+&emsp;(1) provide that the educational programs, services, and activities for which payments under this part are made will be administered by or under the supervision of the agency;
+
+&emsp;(2) provide assurances that payments under this part will be used for purposes set forth in sections 7541 and 7547 of this title, including a description of how local educational agencies receiving funds under this part will use such funds to meet such purposes and will coordinate with other programs assisted under this chapter, the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\], and other Acts as appropriate;
+
+&emsp;(3) provide an assurance that local educational agencies receiving funds under this part will coordinate the use of such funds with programs assisted under part A of this subchapter or subchapter I of this chapter;
+
+&emsp;(4) provide assurances that such payments, with the exception of payments reserved under section 7544(e) of this title, will be distributed among local educational agencies within that State on the basis of the number of immigrant children and youth counted with respect to each such local educational agency under section 7544(b)(1) of this title;
+
+&emsp;(5) provide assurances that the State educational agency will not finally disapprove in whole or in part any application for funds received under this part without first affording the local educational agency submitting an application for such funds reasonable notice and opportunity for a hearing;
+
+&emsp;(6) provide for making such reports as the Secretary may reasonably require to perform the Secretary's functions under this part;
+
+&emsp;(7) provide assurances—
+
+&emsp;&emsp;(A) that to the extent consistent with the number of immigrant children and youth enrolled in the nonpublic elementary or secondary schools within the district served by a local educational agency, such agency, after consultation with appropriate officials of such schools, shall provide for the benefit of such children and youth secular, neutral, and nonideological services, materials, and equipment necessary for the education of such children and youth;
+
+&emsp;&emsp;(B) that the control of funds provided under this part to any materials, equipment, and property repaired, remodeled, or constructed with those funds shall be in a public agency for the uses and purposes provided in this part, and a public agency shall administer such funds and property; and
+
+&emsp;&emsp;(C) that the provision of services pursuant to this paragraph shall be provided by employees of a public agency or through contract by such public agency with a person, association, agency, or corporation who or which, in the provision of such services, is independent of such nonpublic elementary or secondary school and of any religious organization, and such employment or contract shall be under the control and supervision ofsuch public agency, and the funds provided under this paragraph shall not be commingled with State or local funds;
+
+&emsp;(8) provide that funds reserved under subsection (e) of section 7544 of this title be awarded on a competitive basis based on merit and need in accordance with such subsection; and
+
+&emsp;(9) provide an assurance that State and local educational agencies receiving funds under this part will comply with the requirements of section 6321(b) of this title.
+
+#### (b) Application review
+
+#### (1) In general
+
+&emsp;The Secretary shall review all applications submitted pursuant to this section by State educational agencies.
+
+#### (2) Approval
+
+&emsp;The Secretary shall approve any application submitted by a State educational agency that meets the requirements of this section.
+
+#### (3) Disapproval
+
+&emsp;The Secretary shall disapprove any application submitted by a State educational agency which does not meet the requirements of this section, but shall not finally disapprove an application except after providing reasonable notice, technical assistance, and an opportunity for a hearing to the State.
+
+(Pub. L. 89 10, title VII, §7305, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3741.)
+
+#### References in Text
+
+The Goals 2000: Educate America Act, referred to in subsec. (a)(2), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7546 of this title.
+

@@ -1,0 +1,22 @@
+### §275. Appointment of officers and employees
+
+The officers and employees of the Institute, except the director, shall be appointed by the Secretary of Commerce at such time as their respective services may become necessary.
+
+(Mar. 3, 1901, ch. 872, §6, 31 Stat. 1450; Feb. 14, 1903, ch. 552, §10, 32 Stat. 829; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; Aug. 23, 1988, Pub. L. 100–418, title V, §5115(a)(1), 102 Stat. 1433.)
+
+#### Amendments
+
+1988—Pub. L. 100–418 substituted “Institute” for “bureau”.
+
+#### Change of Name
+
+Act Mar. 4, 1913, substituted “Secretary of Commerce” for “Secretary of Commerce and Labor”.
+
+#### Transfer of Functions
+
+Act Feb. 14, 1903, transferred power and authority of Secretary of the Treasury over Bureau of Standards to Secretary of Commerce and Labor.
+
+#### Demonstration Project Relating to Personnel Management
+
+Pub. L. 99–574, §10, Oct. 28, 1986, 100 Stat. 3238, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433, directed the Office of Personnel Management and the National Institute of Standards and Technology to jointly design an alternative personnel management system demonstration project to be commenced not later than Jan. 1, 1988, and to be conducted by the Director of the Institute in accordance with section 4703 of Title 5, Government Organization and Employees, with the Director of the Office of Personnel Management to provide that the project be evaluated annually by a contractor, and a report of the contractor's findings submitted to the Office, and, along with any comments of the Office and the Institute, submitted to the Congress, and a final report to be submitted to the Congress by the Comptroller General not later than 4 years after the date on which the project commences, such report to include any recommendations for legislation or other action considered appropriate by the Comptroller General.
+

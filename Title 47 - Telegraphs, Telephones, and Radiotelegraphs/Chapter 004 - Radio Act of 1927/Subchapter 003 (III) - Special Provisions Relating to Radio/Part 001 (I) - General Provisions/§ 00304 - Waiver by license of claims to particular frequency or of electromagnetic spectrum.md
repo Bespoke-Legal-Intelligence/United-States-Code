@@ -1,0 +1,16 @@
+### §304. Waiver by license of claims to particular frequency or of electromagnetic spectrum
+
+No station license shall be granted by the Commission until the applicant therefor shall have waived any claim to the use of any particular frequency or of the electromagnetic spectrum as against the regulatory power of the United States because of the previous use of the same, whether by license or otherwise.
+
+(June 19, 1934, ch. 652, title III, §304, 48 Stat. 1083; Sept. 13, 1982, Pub. L. 97–259, title I, §127(a), 96 Stat. 1099; Oct. 27, 1992, Pub. L. 102–538, title II, §204(a), 106 Stat. 3543.)
+
+#### Amendments
+
+1992—Pub. L. 102–538 substituted “waived” for “signed a waiver of”.
+
+1982—Pub. L. 97–259 substituted “electromagnetic spectrum” for “ether”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 309 of this title.
+

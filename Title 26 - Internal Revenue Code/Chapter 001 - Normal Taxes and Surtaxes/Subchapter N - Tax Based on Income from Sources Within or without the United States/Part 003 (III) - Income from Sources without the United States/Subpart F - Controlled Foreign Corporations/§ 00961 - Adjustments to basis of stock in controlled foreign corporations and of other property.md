@@ -1,0 +1,30 @@
+### §961. Adjustments to basis of stock in controlled foreign corporations and of other property
+
+#### (a) Increase in basis
+
+Under regulations prescribed by the Secretary, the basis of a United States shareholder's stock in a controlled foreign corporation, and the basis of property of a United States shareholder by reason of which he is considered under section 958(a)(2) as owning stock of a controlled foreign corporation, shall be increased by the amount required to be included in his gross income under section 951(a) with respect to such stock or with respect to such property, as the case may be, but only to the extent to whichsuch amount was included in the gross income of such United States shareholder. In the case of a United States shareholder who has made an election under section 962 for the taxable year, the increase in basis provided by this subsection shall not exceed an amount equal to the amount of tax paid under this chapter with respect to the amounts required to be included in his gross income under section 951(a).
+
+#### (b) Reduction in basis
+
+#### (1) In general
+
+&emsp;Under regulations prescribed by the Secretary, the adjusted basis of stock or other property with respect to which a United States shareholder or a United States person receives an amount which is excluded from gross income under section 959(a) shall be reduced by the amount so excluded. In the case of a United States shareholder who has made an election under section 962 for any prior taxable year, the reduction in basis provided by this paragraph shall not exceed an amount equal to the amount received which is excluded from gross income under section 959(a) after the application of section 962(d).
+
+#### (2) Amount in excess of basis
+
+&emsp;To the extent that an amount excluded from gross income under section 959(a) exceeds the adjusted basis of the stock or other property with respect to which it is received, the amount shall be treated as gain from the sale or exchange of property.
+
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1022; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+
+#### Amendments
+
+1976—Subsecs. (a), (b)(1). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Dual Resident Companies
+
+Basis adjustments of this section not applicable in certain circumstances involving dual resident companies, see section 6126 of Pub. L. 100–647, set out as a note under section 1502 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1016 of this title.
+

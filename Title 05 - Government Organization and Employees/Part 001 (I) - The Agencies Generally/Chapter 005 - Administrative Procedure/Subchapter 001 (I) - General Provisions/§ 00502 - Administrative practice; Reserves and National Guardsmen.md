@@ -1,0 +1,20 @@
+### §502. Administrative practice; Reserves and National Guardsmen
+
+Membership in a reserve component of the armed forces or in the National Guard does notprevent an individual from practicing his civilian profession or occupation before, or in connection with, an agency of the United States.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 381.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 30r(c) (2d sentence).
+
+Aug. 10, 1956, ch. 1041, §29(c) (2d sentence), 70A Stat. 632.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+

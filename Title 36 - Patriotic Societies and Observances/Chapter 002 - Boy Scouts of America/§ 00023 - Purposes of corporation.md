@@ -1,0 +1,6 @@
+### §23. Purposes of corporation
+
+The purpose of the corporation shall be to promote, through organization, and cooperation with other agencies, the ability of boys to do things for themselves and others, to train them in scoutcraft, and to teach them patriotism, courage, self-reliance, and kindred virtues, using the methods which were in common use by Boy Scouts on June 15, 1916.
+
+(June 15, 1916, ch. 148, §3, 39 Stat. 228.)
+

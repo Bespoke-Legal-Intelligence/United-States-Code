@@ -1,0 +1,86 @@
+### §4543. Army industrial facilities: sales of manufactured articles or services outside Department of Defense
+
+(a)
+
+Authority To Sell Outside DOD.—Regulations under section 2208(h) of this title shall authorize a working-capital funded Army industrial facility (including a Department of the Army arsenal) that manufactures large caliber cannons, gun mounts, recoil mechanisms, ammunition, munitions, or components thereof to sell manufactured articles or services to a person outside the Department of Defense if—
+
+&emsp;(1) in the case of an article, the article is sold to a United States manufacturer, assembler, developer, or other concern—
+
+&emsp;&emsp;(A) for use in developing new products;
+
+&emsp;&emsp;(B) for incorporation into items to be sold to, or to be used in a contract with, an agency of the United States;
+
+&emsp;&emsp;(C) for incorporation into items to be sold to, or to be used in a contract with, or to be used for purposes of soliciting a contract with, a friendly foreign government; or
+
+&emsp;&emsp;(D) for use in commercial products;
+
+&emsp;(2) in the case of an article, the purchaser is determined by the Department of Defense to be qualified to carry out the proposed work involving the article to be purchased;
+
+&emsp;(3) the sale is to be made on a basis that does not interfere with performance of work by the facility for the Department of Defense or for a contractor of the Department of Defense;
+
+&emsp;(4) in the case of services, the services are related to an article authorized to be sold under this section and are to be performed in the United States for the purchaser;
+
+&emsp;(5) the Secretary of the Army determines that the articles or services are not available from a commercial source located in the United States;
+
+&emsp;(6) the purchaser of an article or service agrees to hold harmless and indemnify the United States, except in a case of willful misconduct or gross negligence, from any claim for damages or injury to any person or property arising out of the article or service;
+
+&emsp;(7) the article to be sold can be manufactured, or the service to be sold can be substantially performed, by the industrial facility with only incidental subcontracting;
+
+&emsp;(8) it is in the public interest to manufacture such article or perform such service; and
+
+&emsp;(9) the sale will not interfere with performance of the military mission of the industrial facility.
+
+(b)
+
+Additional Requirements.—The regulations shall also—
+
+&emsp;(1) require that the authority to sell articles or services under the regulations be exercised at the level of the commander of the major subordinate command of the Army with responsibility over the facility concerned;
+
+&emsp;(2) authorize a purchaser of articles or services to use advance incremental funding to pay for the articles or services; and
+
+&emsp;(3) in the case of a sale of commercial articles or commercial services in accordance with subsection (a) by a facility that manufactures large caliber cannons, gun mounts, or recoil mechanisms, or components thereof, authorize such facility—
+
+&emsp;&emsp;(A) to charge the buyer, at a minimum, the variable costs that are associated with the commercial articles or commercial services sold;
+
+&emsp;&emsp;(B) to enter into a firm, fixed-price contract or, if agreed by the buyer, a cost reimbursement contract for the sale; and
+
+&emsp;&emsp;(C) to develop and maintain (from sources other than appropriated funds) working capital to be available for paying design costs, planning costs, procurement costs, and other costs associated with the commercial articles or commercial services sold.
+
+(c)
+
+Relationship to Arms Export Control Act.—Nothing in this section shall be construed to affect the application of the export controls provided for in section 38 of the Arms Export Control Act (22 U.S.C. 2778) to items which incorporate or are produced through the use of an article sold under this section.
+
+(d)
+
+Definitions.—In this section:
+
+&emsp;(1) The term “commercial article” means an article that is usable for a nondefense purpose.
+
+&emsp;(2) The term “commercial service” means a service that is usable for a nondefense purpose.
+
+&emsp;(3) The term “advance incremental funding”, with respect to a sale of articles or services, means a series of partial payments for the articles or services that includes—
+
+&emsp;&emsp;(A) one or more partial payments before the commencement of work or the incurring of costs in connection with the production of the articles or the performance of the services, as the case may be; and
+
+&emsp;&emsp;(B) subsequent progress payments that result in full payment being completed as the required work is being completed.
+
+&emsp;(4) The term “variable costs”, with respect to sales of articles or services, means the costs that are expected to fluctuate directly with the volume of sales and—
+
+&emsp;&emsp;(A) in the case of articles, the volume of production necessary to satisfy the sales orders; or
+
+&emsp;&emsp;(B) in the case of services, the extent of the services sold.
+
+(Added Pub. L. 103–160, div. A, title I, §158(a)(1), Nov. 30, 1993, 107 Stat. 1581; amended Pub. L. 103–337, div. A, title I, §141, Oct. 5, 1994, 108 Stat. 2688.)
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–337 struck out “nondefense-related commercial” after “sell manufactured” in introductory provisions and added pars. (5) to (9).
+
+#### Regulations
+
+Section 158(c) of Pub. L. 103–160 provided that: “Regulations under subsection (b) of section 4543 of title 10, United States Code, as added by subsection (a), shall be prescribed not later than 30 days after the date of the enactment of this Act \[Nov. 30, 1993\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2208, 2553 of this title.
+

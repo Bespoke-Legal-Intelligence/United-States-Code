@@ -1,0 +1,44 @@
+### §1172. Transportation of gambling devices as unlawful; exceptions; authority of Federal Trade Commission
+
+#### (a) General rule
+
+It shall be unlawful knowingly to transport any gambling device to any place in a State or a possession of the United States from any place outside of such State or possession: <i>Provided</i>, That this section shall not apply to transportation of any gambling device to a place in any State which has enacted a law providing for the exemption of such State from the provisions of this section, or to a place in any subdivision of a State if the State in which such subdivision is located has enacted a law providing for the exemption of such subdivision from the provisions of this section, nor shall this section apply to any gambling device used or designed for use at and transported to licensed gambling establishments where betting is legal under applicable State laws: <i>Provided, further</i>, That it shall not be unlawful to transport in interstate or foreign commerce any gambling device into any State in which the transported gambling device is specifically enumerated as lawful in a statute of that State.
+
+#### (b) Authority of Federal Trade Commission
+
+Nothing in this chapter shall be construed to interfere with or reduce the authority, or the existing interpretation of the authority, of the Federal Trade Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et. seq.\].
+
+#### (c) Exception
+
+This section does not prohibit the transport of a gambling device to a place in a State or a possession of the United States on a vessel on a voyage, if—
+
+&emsp;(1) use of the gambling device on a portion of that voyage is, by reason of subsection (b) of section 1175 of this title, not a violation of that section; and
+
+&emsp;(2) the gambling device remains on board that vessel while in that State.
+
+(Jan. 2, 1951, ch. 1194, §2, 64 Stat. 1134; Oct. 18, 1962, Pub. L. 87–840, §4, 76 Stat. 1075; Mar. 9, 1992, Pub. L. 102–251, title II, §202(a), 106 Stat. 61.)
+
+#### References in Text
+
+The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, asamended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+
+#### Amendments
+
+1992—Pub. L. 102–251, §202(a)(1), (3), (4), designated existing provisions as subsecs. (a) and (b), inserted headings, and added subsec. (c).
+
+Pub. L. 102–251, §202(a)(2), which directed that “, District of Columbia,” be struck out in subsec. (a), was executed by striking out “, the District of Columbia,” after “place in a State” and “outside of such State” to reflect the probable intent of Congress.
+
+1962—Pub. L. 87–840 excepted gambling devices used or designed for use at and transported to licensed gambling establishments where betting is legal under State laws, and provided that it shall not be unlawful to transport such devices into any State in which the device is specifically enumerated as lawful in a State statute.
+
+#### Effective Date of 1962 Amendment
+
+Amendment effective on sixtieth day after Oct. 18, 1962, see section 7 of Pub. L. 87–840, set out as a note under section 1171 of this title.
+
+#### Cross References
+
+Penalty for violations, see section 1176 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1176 of this title.
+

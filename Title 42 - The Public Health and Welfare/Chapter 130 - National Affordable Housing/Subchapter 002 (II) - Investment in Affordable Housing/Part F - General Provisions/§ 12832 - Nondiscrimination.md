@@ -1,0 +1,10 @@
+### §12832. Nondiscrimination
+
+No person in the United States shall on the grounds of race, color, national origin, religion, or sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity funded in whole or in part with funds made available under this subchapter. Any prohibition against discrimination on the basis of age under the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\] or with respect to an otherwise qualified handicapped individual as provided in section 794 of title 29 shall also apply to any such program or activity.
+
+(Pub. L. 101–625, title II, §282, Nov. 28, 1990, 104 Stat. 4125.)
+
+#### References in Text
+
+The Age Discrimination Act of 1975, referred to in text, is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+

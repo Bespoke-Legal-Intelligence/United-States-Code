@@ -1,0 +1,80 @@
+### §5726. Storage expenses; household goods and personal effects
+
+(a) For the purpose of subsection (b) of this section, “household goods and personal effects” means such personal property of an employee and his dependents as the President may be regulation authorize to be transported or stored, including, in emergencies, motor vehicles authorized to be shipped at Government expense.
+
+(b) Under such regulations as the President may prescribe, an employee, including a new appointee and a student trainee to the extent authorized by sections 5722 and 5723 of this title, assigned to a permanent duty station outside the continental United States may be allowed storage expenses and related transportation and other expenses for his household goods and personal effects when—
+
+&emsp;(1) the duty station is one to which he cannot take or at which he is unable to use his household goods and personal effects; or
+
+&emsp;(2) the head of the agency concerned authorizes storage of the household goods and personal effects in the public interest or for reasons of economy.
+
+> The weight of the household goods and personal effects stored under this subsection, together with the weight of property transported under section 5724(a), may not exceed 18,000 pounds net weight, excluding a motor vehicle described by subsection (a) of this section.
+
+(c) Under such regulations as the President may prescribe, when an employee, including a new appointee and a student trainee to the extent authorized by section 5723 of this title, is assigned to a permanent duty station at an isolated location in the continental United States to which he cannot take or at which he is unable to use his household goods and personal effects because of the absence of residence quarters at the location, nontemporary storage expenses or storage at Government expense in Government-owned facilities (including related transportation and other expenses), whichever is more economical, may be allowed the employee under regulations prescribed by the head of the agency concerned. The weight of property stored under this subsection, together with the weight of property transported under sections 5723(a) and 5724(a) of this title, may not exceed the total maximum weight the employee would be entitled to have moved. The period of nontemporary storage under this subsection may not exceed 3 years.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 504; Pub. L. 90–83, §1(38), Sept. 11, 1967, 81 Stat. 205; Pub. L. 98–151, §118(a)(2), Nov. 14, 1983, 97 Stat. 977.)
+
+Historical and Revision Notes<br>1966
+
+Act
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 73b–1(e).
+
+Sept. 6, 1960, Pub. L. 86–707, §301(c)(2), (d) (as applicable to the Administrative Expenses Act of 1946, as amended), 74 Stat. 796.
+
+The word “employee” is substituted for “civilian officer or employee” in view of the definition of “employee” in sections 5721 and 2105.
+
+In subsection (b), the words “including a new appointee and a student trainee to the extent authorized by sections 5722 and 5723 of this title” are substituted for “including any new appointee in accordance with section 73b–3 of this title” for clarity and reflect the codification of former section 73b–3 in this title.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+1967
+
+Act
+
+<i>Section of title 5</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+5726(c)
+
+5 App.: 73b–4c.
+
+July 21, 1966, Pub. L. 89–516, §2 “Sec. 25”, 80 Stat. 324.
+
+The amendment of subsection (a) of 5 U.S.C. 5726 reflects the addition of a new subsection (c).
+
+Subsection (b) of 5 U.S.C. 5726 was derived from subsection (e) of section 1 of the Administrative ExpensesAct of 1946, as amended (74 Stat. 796). In the codification of subsection (e), the words “7,000 pounds net weight” were substituted for “the maximum weight limitation provided by subsection (a)”. During the pendency of the codification bill, section 1(a)(2) of Public Law 89–516, amended subsection (a) of section 1 of the Administrative Expenses Act of 1946 to increase the maximum weight limitation from 7,000 to 11,000 pounds. Thus, the amendment of subsection (b) is necessary to reflect the current weight limitation applicable.
+
+In subsection (c), the word “employee” is substituted for “civilian officer or employee” to conform to the definitions in 5 U.S.C. 5721(2) and 2105. The words “including a new appointee and a student trainee to the extent authorized by section 5723 of this title” are substituted for “including any new appointee in accordance with section 7(b) of this Act, as amended” for clarity and to reflect the codification of section 7(b) in 5 U.S.C. 5723. The words “continental United States” are coextensive with and substituted for “continental United States, excluding Alaska” on authority of the definition of “continental United States” in 5 U.S.C. 5721(3). The words “head of the agency concerned” are substituted for “head of the Executive Department or agency concerned” to conform to the definition in 5 U.S.C. 5721(1). In the penultimate sentence, the words “sections 5723(a) and 5724(a) of this title” are substituted for “section 1 or 7(b) of this Act” to reflect the codification of sections 1 and 7(b) in 5 U.S.C. 5723(a) and 5724(a); and the word “officer” is omitted as included in “employee”. In the last sentence, the words “under this subsection” are inserted for clarity.
+
+Subsection (b) of section 25 of the Administrative Expenses Act of 1946 (added by section 2 of Public Law 89–516) is omitted as executed.
+
+#### Amendments
+
+1983—Subsec. (b). Pub. L. 98–151 substituted “18,000” for “11,000”.
+
+#### Delegation of Functions
+
+Authority of President under this section to prescribe regulations provided for in this section relating to (i) definition of “household goods and personal effects”, (ii) allowable storage expenses and related transportation, and (iii) allowance of nontemporary storage expenses or storage at Government expense in Government-owned facilities (including related transportation and other expenses) delegated to Administrator of General Services, see section 1(8) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+
+#### Effective Date of 1983 Amendment; Promulgation of Regulations
+
+Amendment by Pub. L. 98–151 and promulgation of regulations for amendments by Pub. L. 98–151 effective Nov. 14, 1983, see section 118(c) of Pub. L. 98–151, set out as a note under section 5724 of this title.
+
+#### Funding of Amendments by Pub. L. 98–151
+
+Amendments by Pub. L. 98–151 to be carried out by agencies by use of funds appropriated or otherwise available for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3735, 5724, 5724a of this title; title 26 section 912; title 42 sections 290aa, 299c–4.
+

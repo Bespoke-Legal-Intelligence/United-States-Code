@@ -1,0 +1,56 @@
+### §930. Possession of firearms and dangerous weapons in Federal facilities
+
+(a) Except as provided in subsection (d), whoever knowingly possesses or causes to be present a firearm or other dangerous weapon in a Federal facility (other than a Federal court facility), or attempts to do so, shall be fined under this title or imprisoned not more than 1 year, or both.
+
+(b) Whoever, with intent that a firearm or other dangerous weapon be used in the commission of a crime, knowingly possesses or causes to be present such firearm or dangerous weapon in a Federal facility, or attempts to do so, shall be fined under this title or imprisoned not more than 5 years, or both.
+
+(c) A person who kills or attempts to kill any person in the course of a violation of subsection (a) or (b), or in the course of an attack on a Federal facility involving the use of a firearm or other dangerous weapon, shall be punished as provided in sections 1111, 1112, and 1113.
+
+(d) Subsection (a) shall not apply to—
+
+&emsp;(1) the lawful performance of official duties by an officer, agent, or employee of the United States, a State, or a political subdivision thereof, who is authorized by law to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of law;
+
+&emsp;(2) the possession of a firearm or other dangerous weapon by a Federal official or a member of the Armed Forces if such possession is authorized by law; or
+
+&emsp;(3) the lawful carrying of firearms or other dangerous weapons in a Federal facility incident to hunting or other lawful purposes.
+
+(e)(1) Except as provided in paragraph (2), whoever knowingly possesses or causes to be present a firearm in a Federal court facility, or attempts to do so, shall be fined under this title, imprisoned not more than 2 years, or both.
+
+(2) Paragraph (1) shall not apply to conduct which is described in paragraph (1) or (2) of subsection (c).<sup>1</sup>
+
+(f) Nothing in this section limits the power of a court of the United States to punish for contempt or to promulgate rules or orders regulating, restricting, or prohibiting the possession of weapons within any building housing such court or any of its proceedings, or upon any grounds appurtenant to such building.
+
+(g) <sup>2</sup> As used in this section:
+
+&emsp;(1) The term “Federal facility” means a building or part thereof owned or leased by the Federal Government, where Federal employees are regularly present for the purpose of performing their official duties.
+
+&emsp;(2) The term “dangerous weapon” means a weapon, device, instrument, material, or substance, animate or inanimate, that is used for, or is readily capable of, causing death or serious bodily injury, except that such term does not include a pocket knife with a blade of less than 21/2 inches in length.
+
+&emsp;(3) The term “Federal court facility” means the courtroom, judges’ chambers, witness rooms, jury deliberation rooms, attorney conference rooms, prisoner holding cells, offices of the court clerks, the United States attorney, and the United States marshal, probation and parole offices, and adjoining corridors of any court of the United States.
+
+(g) <sup>2</sup> Notice of the provisions of subsections (a) and (b) shall be posted conspicuously at each public entrance to each Federal facility, and notice of subsection (d) <sup>3</sup> shall be posted conspicuously at each public entrance to each Federal court facility, and no person shall be convictedof an offense under subsection (a) or (d) <sup>3</sup> with respect to a Federal facility if such notice is not so posted at such facility, unless such person had actual notice of subsection (a) or (d),<sup>3</sup> as the case may be.
+
+(Added Pub. L. 100–690, title VI, §6215(a), Nov. 18, 1988, 102 Stat. 4361; amended Pub. L. 101–647, title XXII, §2205(a), Nov. 29, 1990, 104 Stat. 4857; Pub. L. 103–322, title VI, §60014, Sept. 13, 1994, 108 Stat. 1973.)
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–322, §60014(2), substituted “(d)” for “(c)”.
+
+Subsecs. (c) to (g). Pub. L. 103–322, §60014(1), (3), added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
+
+1990—Subsec. (a). Pub. L. 101–647, §2205(a)(1), inserted “(other than a Federal court facility)” after “Federal facility”.
+
+Subsecs. (d), (e). Pub. L. 101–647, §2205(a)(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 101–647, §2205(a)(2), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+Subsec. (f)(3). Pub. L. 101–647, §2205(a)(4), added par. (3).
+
+Subsec. (g). Pub. L. 101–647, §2205(a)(5), inserted “and notice of subsection (d) shall be posted conspicuously at each public entrance to each Federal court facility,” after “each Federal facility,”, “or (d)” before “with respect to”, and “or (d), as the case may be” before the period.
+
+Pub. L. 101–647, §2205(a)(2), redesignated subsec. (f) as (g).
+
+#### Effective Date of 1990 Amendment
+
+Section 2205(b) of Pub. L. 101–647 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to conduct engaged in after the date of the enactment of this Act \[Nov. 29, 1990\].”
+

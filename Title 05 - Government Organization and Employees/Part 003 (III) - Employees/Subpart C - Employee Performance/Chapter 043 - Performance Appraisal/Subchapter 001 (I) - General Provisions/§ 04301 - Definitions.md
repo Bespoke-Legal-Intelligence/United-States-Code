@@ -1,0 +1,120 @@
+### §4301. Definitions
+
+For the purpose of this subchapter—
+
+&emsp;(1) “agency” means—
+
+&emsp;&emsp;(A) an Executive agency; and
+
+&emsp;&emsp;(B) the Government Printing Office;
+
+> &emsp;but does not include—
+
+&emsp;&emsp;(i) a Government corporation;
+
+&emsp;&emsp;(ii) the Central Intelligence Agency, the Defense Intelligence Agency, the Central Imagery Office, the National Security Agency, or any Executive agency or unit thereof which is designated by the President and the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or
+
+&emsp;&emsp;(iii) the General Accounting Office;
+
+&emsp;(2) “employee” means an individual employed in or under an agency, but does not include—
+
+&emsp;&emsp;(A) an employee outside the United States who is paid in accordance with local native prevailing wage rates for the area in which employed;
+
+&emsp;&emsp;(B) an individual in the Foreign Service of the United States;
+
+&emsp;&emsp;(C) a physician, dentist, nurse, or other employee in the Veterans Health Administration of the Department of Veterans Affairs whose pay is fixed under chapter 73 of title 38;
+
+&emsp;&emsp;(D) an administrative law judge appointed under section 3105 of this title;
+
+&emsp;&emsp;(E) an individual in the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service;
+
+&emsp;&emsp;(F) an individual appointed by the President;
+
+&emsp;&emsp;(G) an individual occupying a position not in the competitive service excluded from coverage of this subchapter by regulations of the Office of Personnel Management; or
+
+&emsp;&emsp;(H) an individual who (i) is serving in a position under a temporary appointment for less than one year, (ii) agrees to serve without a performance evaluation, and (iii) will not be considered for a reappointment or for an increase in pay based in whole or in part on performance; and
+
+&emsp;(3) “unacceptable performance” means performance of an employee which fails to meet established performance standards in one or more critical elements of such employee's position.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 440; Pub. L. 91–375, §6(c)(8), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–251, §2(a)(1), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–454, title II, §203(a), Oct. 13, 1978, 92 Stat. 1131; Pub. L. 100–325, §2(f), May 30, 1988, 102 Stat. 581; Pub. L. 101–474, §5(e), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–510, div. A, title XII, §1206(e), Nov. 5, 1990, 104 Stat. 1661; Pub. L. 102–54, §13(b)(2), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(e), Oct. 14, 1994, 108 Stat. 3429.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 2001.
+
+Sept. 30, 1950, ch. 1123, §2, 64 Stat. 1098.
+
+&nbsp;
+
+Sept. 1, 1954, ch. 1208, §601(a), 68 Stat. 1115.
+
+&nbsp;
+
+June 17, 1957, Pub. L. 85–56, §2201(21), 71 Stat. 159.
+
+&nbsp;
+
+July 11, 1957, Pub. L. 85–101, 71 Stat. 293.
+
+&nbsp;
+
+Sept. 2, 1958, Pub. L. 85–857, §13(p), 72 Stat. 1266.
+
+&nbsp;
+
+Mar. 26, 1964, Pub. L. 88–290, “Sec. 306(b)”, 78 Stat. 170.
+
+In paragraph (1), the term “Executive agency” is substituted for the reference to “executive departments, the independent establishments and agencies in the executive branch, including corporations wholly owned by the United States” and “the General Accounting Office”. The exception of “a Government controlled corporation” is added in subparagraph (vii) to preserve the application of this chapter to “corporations wholly owned by the United States”. The exceptions for Production credit corporations and Federal intermediate credit banks in former section 2001(b)(5), (6) are omitted as they are no longer “corporations wholly owned by the United States”. Under the Farm Credit Act of 1956, 70 Stat. 659, the production credit corporations were merged in the Federal intermediate credit banks, and pursuant to that Act the Federal intermediate credit banks have ceased to be corporations owned by the United States. The exceptions for Federal land banks and banks for cooperatives in former section 2001(b)(7), (8) are omitted as included within the exception of “a Government controlled corporation” in subparagraph (vii).
+
+Paragraph (2) is supplied because the definition of “employee” in section 2105 does not encompass individuals employed by the government of the District of Columbia. The definition in paragraph (2) does not encompass members of the uniformed services as they are not “employed” in or under an agency.
+
+Paragraph (2)(E) is based on the third and fifth sentences, respectively, of former sections 1010 and 1011, which are carried into sections 5362 and 559, respectively, and section 1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 972.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+
+1994—Par. (1)(B)(ii). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
+
+1991—Par. (2)(C). Pub. L. 102–54 substituted “Veterans Health Administration of the Department of Veterans Affairs” for “Department of Medicine and Surgery, Veterans’ Administration”.
+
+1990—Par. (1). Pub. L. 101–474 redesignated subpar. (C) as (B) and struck out former subpar. (B) which included Administrative Office of United States Courts within definition of “agency”.
+
+Par. (2)(H). Pub. L. 101–510 added subpar. (H).
+
+1988—Par. (2)(E). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
+
+1978—Pub. L. 95–454 substituted provisions defining “agency”, “employee”, and “unacceptable performance” for provisions defining “agency” and “employee”.
+
+Par. (2)(E). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
+
+1970—Par. (1)(ii). Pub. L. 91–375 repealed cl. (ii) which excluded postal field service from definition of “agency”.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Effective Date of 1970 Amendment
+
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+
+#### Cross References
+
+Additional requirements imposed by statute or otherwise recognized by law not limited or repealed by par. (2)(E) of this section, see section 559 of this title.
+
+Executive agency, see section 105 of this title.
+
+Office of Personnel Management, investigations, reports, and regulations for purposes of par. (2)(E) of this section as relating to administrative law judges, see section 1305 of this title.
+
+Subsequent statutes to be held to supersede or modify par. (2)(E) of this section only to the extent that they do so expressly, see section 559 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 559, 1305 of this title.
+

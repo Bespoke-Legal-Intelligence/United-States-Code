@@ -1,0 +1,152 @@
+### §796. Definitions
+
+The words defined in this section shall have the following meanings for purposes of this chapter, to wit:
+
+&emsp;(1) “public lands” means such lands and interest in lands owned by the United States as are subject to private appropriation and disposal under public land laws. It shall not include “reservations”, as hereinafter defined;
+
+&emsp;(2) “reservations” means national forests, tribal lands embraced within Indian reservations, military reservations, and other lands and interests in lands owned by the United States, and withdrawn, reserved, or withheld from private appropriation and disposal under the public land laws; also lands and interests in lands acquired and held for any public purposes; but shall not include national monuments or national parks;
+
+&emsp;(3) “corporation” means any corporation, joint-stock company, partnership, association, business trust, organized group of persons, whether incorporated or not, or a receiver or receivers, trustee or trustees of any of the foregoing. It shall not include “municipalities” as hereinafter defined;
+
+&emsp;(4) “person” means an individual or a corporation;
+
+&emsp;(5) “licensee” means any person, State, or municipality licensed under the provisions of section 797 of this title, and any assignee or successor in interest thereof;
+
+&emsp;(6) “State” means a State admitted to the Union, the District of Columbia, and any organized Territory of the United States;
+
+&emsp;(7) “municipality” means a city, county, irrigation district, drainage district, or other political subdivision or agency of a State competent under the laws thereof to carry on the business of developing, transmitting, utilizing, or distributing power;
+
+&emsp;(8) “navigable waters” means those parts of streams or other bodies of water over which Congress has jurisdiction under its authority to regulate commerce with foreign nations and among the several States, and which either in their natural or improved condition notwithstanding interruptions between the navigable parts of such streams or waters by falls, shallows, or rapids compelling land carriage, are used or suitable for use for the transportation of persons or property in interstate or foreign commerce, including therein all such interrupting falls, shallows, or rapids, together with such other parts of streams as shall have been authorized by Congress for improvement by the United States or shall have been recommended to Congress for such improvement after investigation under its authority;
+
+&emsp;(9) “municipal purposes” means and includes all purposes within municipal powers as defined by the constitution or laws of the State or by the charter of the municipality;
+
+&emsp;(10) “Government dam” means a dam or other work constructed or owned by the United States for Government purposes with or without contribution from others;
+
+&emsp;(11) “project” means complete unit of improvement or development, consisting of a power house, all water conduits, all dams and appurtenant works and structures (including navigation structures) which are a part of said unit, and all storage, diverting, or forebay reservoirs directly connected therewith, the primary line or lines transmitting power therefrom to the point of junction with the distribution system or with the interconnected primary transmission system, all miscellaneous structures used and useful in connection with said unit or any part thereof, and all water-rights, rights-of-way, ditches, dams, reservoirs, lands, or interest in lands the use and occupancy of which are necessary or appropriate in the maintenance and operation of such unit;
+
+&emsp;(12) “project works” means the physical structures of a project;
+
+&emsp;(13) “net investment” in a project means the actual legitimate original cost thereof as defined and interpreted in the “classification of investment in road and equipment of steam roads, issue of 1914, Interstate Commerce Commission”, plus similar costs of additions thereto and betterments thereof, minus the sum ofthe following items properly allocated thereto, if and to the extent that such items have been accumulated during the period of the license from earnings in excess of a fair return on such investment: (a) Unappropriated surplus, (b) aggregate credit balances of current depreciation accounts, and (c) aggregate appropriations of surplus or income held in amortization, sinking fund, or similar reserves, or expended for additions or betterments or used for the purposes for which such reserves were created. The term “cost” shall include, insofar as applicable, the elements thereof prescribed in said classification, but shall not include expenditures from funds obtained through donations by States, municipalities, individuals, or others, and said classification of investment of the Interstate Commerce Commission shall insofar as applicable be published and promulgated as a part of the rules and regulations of the Commission;
+
+&emsp;(14) “Commission” and “Commissioner” means the Federal Power Commission, and a member thereof, respectively;
+
+&emsp;(15) “State commission” means the regulatory body of the State or municipality having jurisdiction to regulate rates and charges for the sale of electric energy to consumers within the State or municipality;
+
+&emsp;(16) “security” means any note, stock, treasury stock, bond, debenture, or other evidence of interest in or indebtedness of a corporation subject to the provisions of this chapter;
+
+&emsp;(17)(A) “small power production facility” means a facility which is an eligible solar, wind, waste, or geothermal facility, or a facility which—
+
+&emsp;&emsp;(i) produces electric energy solely by the use, as a primary energy source, of biomass, waste, renewable resources, geothermal resources, or any combination thereof; and
+
+&emsp;&emsp;(ii) has a power production capacity which, together with any other facilities located at the same site (as determined by the Commission), is not greater than 80 megawatts;
+
+&emsp;(B) “primary energy source” means the fuel or fuels used for the generation of electric energy, except that such term does not include, as determined under rules prescribed by the Commission, in consultation with the Secretary of Energy—
+
+&emsp;&emsp;(i) the minimum amounts of fuel required for ignition, startup, testing, flame stabilization, and control uses, and
+
+&emsp;&emsp;(ii) the minimum amounts of fuel required to alleviate or prevent—
+
+&emsp;&emsp;&emsp;(I) unanticipated equipment outages, and
+
+&emsp;&emsp;&emsp;(II) emergencies, directly affecting the public health, safety, or welfare, which would result from electric power outages;
+
+&emsp;(C) “qualifying small power production facility” means a small power production facility—
+
+&emsp;&emsp;(i) which the Commission determines, by rule, meets such requirements (including requirements respecting fuel use, fuel efficiency, and reliability) as the Commission may, by rule, prescribe; and
+
+&emsp;&emsp;(ii) which is owned by a person not primarily engaged in the generation or sale of electric power (other than electric power solely from cogeneration facilities or small power production facilities);
+
+&emsp;(D) “qualifying small power producer” means the owner or operator of a qualifying small power production facility;
+
+&emsp;(E) “eligible solar, wind, waste or geothermal facility” means a facility which produces electric energy solely by the use, as a primary energy source, of solar energy, wind energy, waste resources or geothermal resources; but only if—
+
+&emsp;&emsp;(i) either of the following is submitted to the Commission not later than December 31, 1994:
+
+&emsp;&emsp;&emsp;(I) an application for certification of the facility as a qualifying small power production facility; or
+
+&emsp;&emsp;&emsp;(II) notice that the facility meets the requirements for qualification; and
+
+&emsp;&emsp;(ii) construction of such facility commences not later than December 31, 1999, or, if not, reasonable diligence is exercised toward the completion of such facility taking into account all factors relevant to construction of the facility.<sup>1</sup>
+
+&emsp;(18)(A) “cogeneration facility” means a facility which produces—
+
+&emsp;&emsp;(i) electric energy, and
+
+&emsp;&emsp;(ii) steam or forms of useful energy (such as heat) which are used for industrial, commercial, heating, or cooling purposes;
+
+&emsp;(B) “qualifying cogeneration facility” means a cogeneration facility which—
+
+&emsp;&emsp;(i) the Commission determines, by rule, meets such requirements (including requirements respecting minimum size, fuel use, and fuel efficiency) as the Commission may, by rule, prescribe; and
+
+&emsp;&emsp;(ii) is owned by a person not primarily engaged in the generation or sale of electric power (other than electric power solely from cogeneration facilities or small power production facilities);
+
+&emsp;(C) “qualifying cogenerator” means the owner or operator of a qualifying cogeneration facility;
+
+&emsp;(19) “Federal power marketing agency” means any agency or instrumentality of the United States (other than the Tennessee Valley Authority) which sells electric energy;
+
+&emsp;(20) “evidentiary hearings” and “evidentiary proceeding” mean a proceeding conducted as provided in sections 554, 556, and 557 of title 5;
+
+&emsp;(21) “State regulatory authority” has the same meaning as the term “State commission”, except that in the case of an electric utility with respect to which the Tennessee Valley Authority has ratemaking authority (as defined in section 2602 of this title), such term means the Tennessee Valley Authority;
+
+&emsp;(22) “electric utility” means any person or State agency (including any municipality) which sells electric energy; such term includes the Tennessee Valley Authority, but does not include any Federal power marketing agency.<sup>1</sup>
+
+&emsp;(23)
+
+Transmitting utility.—The term “transmitting utility” means any electricutility, qualifying cogeneration facility, qualifying small power production facility, or Federal power marketing agency which owns or operates electric power transmission facilities which are used for the sale of electric energy at wholesale.<sup>1</sup>
+
+&emsp;(24)
+
+Wholesale transmission services.—The term “wholesale transmission services” means the transmission of electric energy sold, or to be sold, at wholesale in interstate commerce.<sup>2</sup>
+
+&emsp;(25)
+
+Exempt wholesale generator.—The term “exempt wholesale generator” shall have the meaning provided by section 79z–5a of title 15.
+
+(June 10, 1920, ch. 285, pt. I, §3, 41 Stat. 1063; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§201, 212, 49 Stat. 838, 847; Nov. 9, 1978, Pub. L. 95–617, title II, §201, 92 Stat. 3134; June 30, 1980, Pub. L. 96–294, title VI, §643(a)(1), 94 Stat. 770; Nov. 15, 1990, Pub. L. 101–575, §3, 104 Stat. 2834; May 17, 1991, Pub. L. 102–46, 105 Stat. 249; Oct. 24, 1992, Pub. L. 102–486, title VII, §726, 106 Stat. 2921.)
+
+#### References in Text
+
+The public land laws, referred to in pars. (1), (2), are classified generally to Title 43, Public Lands.
+
+#### Amendments
+
+1992—Par. (22). Pub. L. 102–486, §726(b), inserted “(including any municipality)” after “State agency”.
+
+Pars. (23) to (25). Pub. L. 102–486, §726(a), added pars. (23) to (25).
+
+1991—Par. (17)(E). Pub. L. 102–46 struck out “, and which would otherwise not qualify as a small power production facility because of the power production capacity limitation contained in subparagraph (A)(ii)” after “geothermal resources” in introductory provisions.
+
+1990—Par. (17)(A). Pub. L. 101–575, §3(a), inserted “a facility which is an eligible solar, wind, waste, or geothermal facility, or”.
+
+Par. (17)(E). Pub. L. 101–575, §3(b), added subpar. (E).
+
+1980—Par. (17)(A)(i). Pub. L. 96–294 added applicability to geothermal resources.
+
+1978—Pars. (17) to (22). Pub. L. 95–617 added pars. (17) to (22).
+
+1935—Act Aug. 26, 1935, §201, amended definitions of “reservations” and “corporations”, and inserted definitions of “person”, “licensee”, “commission”, “commissioner”, “State commission” and “security”.
+
+#### FERC Regulations
+
+Section 4 of Pub. L. 101–575 provided that: “Unless the Federal Energy Regulatory Commission otherwise specifies, by rule after enactment of this Act \[Nov. 15, 1990\], any eligible solar, wind, waste, or geothermal facility (as defined in section 3(17)(E) of the Federal Power Act as amended by this Act \[16 U.S.C. 796(17)(E)\]), which is a qualifying small power production facility (as defined in subparagraph (C) of section 3(17) of the Federal Power Act as amended by this Act)—
+
+&emsp;“(1) shall be considered a qualifying small power production facility for purposes of part 292 of title 18, Code of Federal Regulations, notwithstanding any size limitations contained in such part, and
+
+&emsp;“(2) shall not be subject to the size limitation contained in section 292.601(b) of such part.”
+
+#### State Authorities; Construction
+
+Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 79 of Title 15, Commerce and Trade.
+
+#### Transfer of Functions
+
+Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 807, 824a–3, 1133, 2708 of this title; title 15 section 79z–5a; title 26 section 168; title 30 section 1141; title 42 sections 7429, 7651d, 8259; title 49 section 60101.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be “; and”.</i>
+

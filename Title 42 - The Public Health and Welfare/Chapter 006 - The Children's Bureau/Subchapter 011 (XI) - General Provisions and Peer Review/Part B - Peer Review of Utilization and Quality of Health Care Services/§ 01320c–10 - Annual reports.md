@@ -1,0 +1,26 @@
+### §1320c–10. Annual reports
+
+The Secretary shall submit to the Congress not later than April 1 of each year, a full and complete report on the administration, impact, and cost of the program under this part during the preceding fiscal year, including data and information on—
+
+&emsp;(1) the number, status, and service areas of all utilization and quality control peer review organizations participating in the program;
+
+&emsp;(2) the number of health care institutions and practitioners whose services are subject to review by such organizations, and the number of beneficiaries and recipients who received services subject to such review during such year;
+
+&emsp;(3) the various methods of reimbursement utilized in contracts under this part, and the relative efficiency of each such method of reimbursement;
+
+&emsp;(4) the imposition of penalties and sanctions under this title for violations of law and for failure to comply with the obligations imposed by this part;
+
+&emsp;(5) the total costs incurred under subchapters XVIII and XIX of this chapter in the implementation and operation of all procedures required by such subchapters for the review of services to determine their medical necessity, appropriateness of use, and quality; and
+
+&emsp;(6) descriptions of the criteria upon which decisions are made, and the selection and relative weights of such criteria.
+
+(Aug. 14, 1935, ch. 531, title XI, §1161, as added Sept. 3, 1982, Pub. L. 97–248, title I, §143, 96 Stat. 392.)
+
+#### Prior Provisions
+
+A prior section 1320c–10, act Aug. 14, 1935, ch. 531, title XI, §1161, as added Oct. 30, 1972, Pub. L. 92–603, title II, §249F(b), 86 Stat. 1440, related to giving of notice to a practitioner or provider by a Professional Standards Review Organization immediately after taking certain action or making certain determinations, prior to the general revision of this part by Pub. L. 97–248.
+
+#### Performance of Professional Standards Review Organizations; Report to Congress
+
+Pub. L. 97–35, title XXI, §2112(a)(2)(D), Aug. 13, 1981, 95 Stat. 793, provided that the Secretary of Health and Human Services, not later than September 30, 1982, was to report to the Congress on his assessment (under former section 1320c–3(g) of this title) of the relative performance of Professional Standards Review Organizations and on any determinations made not to renew agreements with such Organizations on the basis of such performance.
+

@@ -1,0 +1,16 @@
+### §291. Stamping with words “United States assay”, etc., unlawful
+
+It shall be unlawful for any person, partnership, association, or corporation engaged in commerce among the several States, Territories, District of Columbia, and possessions of the United States, or with any foreign country, to stamp any gold, silver, or goods manufactured therefrom, and which are intended and used in such commerce, with the words “United States assay”, or with any words, phrases, or devices calculated to convey the impression that the United States Government has certified to the fineness or quality of such gold or silver, or of the gold or silver contained in any of the goods manufactured therefrom. Each and every such stamp shall constitute a separate offense.
+
+(Feb. 21, 1905, ch. 720, §1, 33 Stat. 732.)
+
+#### Cross References
+
+Forfeiture, see section 292 of this title.
+
+Penalty for violating provisions of this section, see section 293 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 292, 293 of this title.
+

@@ -1,0 +1,1036 @@
+### §501. Exemption from tax on corporations, certain trusts, etc.
+
+#### (a) Exemption from taxation
+
+An organization described in subsection (c) or (d) or section 401(a) shall be exempt from taxation under this subtitle unless such exemption is denied under section 502 or 503.
+
+#### (b) Tax on unrelated business income and certain other activities
+
+An organization exempt from taxation under subsection (a) shall be subject to tax to the extent provided in parts II, III, and VI of this subchapter, but (notwithstanding parts II, III, and VI of this subchapter) shall be considered an organization exempt from income taxes for the purpose of any law which refers to organizations exempt from income taxes.
+
+#### (c) List of exempt organizations
+
+The following organizations are referred to in subsection (a):
+
+&emsp;(1) Any corporation organized under Act of Congress which is an instrumentality of the United States but only if such corporation—
+
+&emsp;&emsp;(A) is exempt from Federal income taxes—
+
+&emsp;&emsp;&emsp;(i) under such Act as amended and supplemented before July 18, 1984, or
+
+&emsp;&emsp;&emsp;(ii) under this title without regard to any provision of law which is not contained in this title and which is not contained in a revenue Act, or
+
+&emsp;&emsp;(B) is described in subsection (<i>l).</i>
+
+&emsp;(2) Corporations organized for the exclusive purpose of holding title to property, collecting income therefrom, and turning over the entire amount thereof, less expenses, to an organization which itself is exempt under this section. Rules similar to the rules of subparagraph (G) of paragraph (25) shall apply for purposes of this paragraph.
+
+&emsp;(3) Corporations, and any community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, testing for public safety, literary, or educational purposes, or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment), or for the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private shareholder or individual, no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation (except as otherwise provided in subsection (h)), and which does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office.
+
+&emsp;(4) Civic leagues or organizations not organized for profit but operated exclusively for the promotion of social welfare, or local associations of employees, the membership of which is limited to the employees of a designated person or persons in a particular municipality, and the net earnings of which are devoted exclusively to charitable, educational, or recreational purposes.
+
+&emsp;(5) Labor, agricultural, or horticultural organizations.
+
+&emsp;(6) Business leagues, chambers of commerce, real-estate boards, boards of trade, or professional football leagues (whether or not administering a pension fund for football players), not organized for profit and no part of the net earnings of which inures to the benefit of any private shareholder or individual.
+
+&emsp;(7) Clubs organized for pleasure, recreation, and other nonprofitable purposes, substantially all of the activities of which are for such purposes and no part of the net earnings of which inures to the benefit of any private shareholder.
+
+&emsp;(8) Fraternal beneficiary societies, orders, or associations—
+
+&emsp;&emsp;(A) operating under the lodge system or for the exclusive benefit of the members of a fraternity itself operating under the lodge system, and
+
+&emsp;&emsp;(B) providing for the payment of life, sick, accident, or other benefits to the members of such society, order, or association or their dependents.
+
+&emsp;(9) Voluntary employees’ beneficiary associations providing for the payment of life, sick, accident, or other benefits to the members of such association or their dependents or designated beneficiaries, if no part of the net earnings of such association inures (other than through such payments) to the benefit of any private shareholder or individual.
+
+&emsp;(10) Domestic fraternal societies, orders, or associations, operating under the lodge system—
+
+&emsp;&emsp;(A) the net earnings of which are devoted exclusively to religious, charitable, scientific, literary, educational, and fraternal purposes, and
+
+&emsp;&emsp;(B) which do not provide for the payment of life, sick, accident, or other benefits.
+
+&emsp;(11) Teachers’ retirement fund associations of a purely local character, if—
+
+&emsp;&emsp;(A) no part of their net earnings inures (other than through payment of retirement benefits) to the benefit of any private shareholder or individual, and
+
+&emsp;&emsp;(B) the income consists solely of amounts received from public taxation, amounts received from assessments on the teaching salaries of members, and income in respect of investments.
+
+&emsp;(12)(A) Benevolent life insurance associations of a purely local character, mutual ditch or irrigation companies, mutual or cooperative telephone companies, or like organizations; but only if 85 percent or more of the income consists of amounts collected from members for the sole purpose of meeting losses and expenses.
+
+&emsp;(B) In the case of a mutual or cooperative telephone company, subparagraph (A) shall be applied without taking into account any income received or accrued—
+
+&emsp;&emsp;(i) from a nonmember telephone company for the performance of communication services which involve members of the mutual or cooperative telephone company,
+
+&emsp;&emsp;(ii) from qualified pole rentals,
+
+&emsp;&emsp;(iii) from the sale of display listings in a directory furnished to the members of the mutual or cooperative telephone company, or
+
+&emsp;&emsp;(iv) from the prepayment of a loan under section 306A, 306B, or 311 of the Rural Electrification Act of 1936 (as in effect on January 1, 1987).
+
+&emsp;(C) In the case of a mutual or cooperative electric company, subparagraph (A) shall be applied without taking into account any income received or accrued—
+
+&emsp;&emsp;(i) from qualified pole rentals, or
+
+&emsp;&emsp;(ii) from the prepayment of a loan under section 306A, 306B, or 311 of the Rural Electrification Act of 1936 (as in effect on January 1, 1987).
+
+&emsp;(D) For purposes of this paragraph, the term “qualified pole rental” means any rental of a pole (or other structure used to support wires) if such pole (or other structure)—
+
+&emsp;&emsp;(i) is used by the telephone or electric company to support one or more wires whichare used by such company in providing telephone or electric services to its members, and
+
+&emsp;&emsp;(ii) is used pursuant to the rental to support one or more wires (in addition to the wires described in clause (i)) for use in connection with the transmission by wire of electricity or of telephone or other communications.
+
+> &emsp;For purposes of the preceding sentence, the term “rental” includes any sale of the right to use the pole (or other structure).
+
+&emsp;(13) Cemetery companies owned and operated exclusively for the benefit of their members or which are not operated for profit; and any corporation chartered solely for the purpose of the disposal of bodies by burial or cremation which is not permitted by its charter to engage in any business not necessarily incident to that purpose and no part of the net earnings of which inures to the benefit of any private shareholder or individual.
+
+&emsp;(14)(A) Credit unions without capital stock organized and operated for mutual purposes and without profit.
+
+&emsp;(B) Corporations or associations without capital stock organized before September 1, 1957, and operated for mutual purposes and without profit for the purpose of providing reserve funds for, and insurance of shares or deposits in—
+
+&emsp;&emsp;(i) domestic building and loan associations,
+
+&emsp;&emsp;(ii) cooperative banks without capital stock organized and operated for mutual purposes and without profit,
+
+&emsp;&emsp;(iii) mutual savings banks not having capital stock represented by shares, or
+
+&emsp;&emsp;(iv) mutual savings banks described in section 591(b) <sup>1</sup>
+
+&emsp;(C) Corporations or associations organized before September 1, 1957, and operated for mutual purposes and without profit for the purpose of providing reserve funds for associations or banks described in clause (i), (ii), or (iii) of subparagraph (B); but only if 85 percent or more of the income is attributable to providing such reserve funds and to investments. This subparagraph shall not apply to any corporation or association entitled to exemption under subparagraph (B).
+
+&emsp;(15)(A) Insurance companies or associations other than life (including interinsurers and reciprocal underwriters) if the net written premiums (or, if greater, direct written premiums) for the taxable year do not exceed $350,000.
+
+&emsp;(B) For purposes of subparagraph (A), in determining whether any company or association is described in subparagraph (A), such company or association shall be treated as receiving during the taxable year amounts described in subparagraph (A) which are received during such year by all other companies or associations which are members of the same controlled group as the insurance company or association for which the determination is being made.
+
+&emsp;(C) For purposes of subparagraph (B), the term “controlled group” has the meaning given such term by section 831(b)(2)(B)(ii).
+
+&emsp;(16) Corporations organized by an association subject to part IV of this subchapter or members thereof, for the purpose of financing the ordinary crop operations of such members or other producers, and operated in conjunction with such association. Exemption shall not be denied any such corporation because it has capital stock, if the dividend rate of such stock is fixed at not to exceed the legal rate of interest in the State of incorporation or 8 percent per annum, whichever is greater, on the value of the consideration for which the stock was issued, and if substantially all such stock (other than nonvoting preferred stock, the owners of which are not entitled or permitted to participate, directly or indirectly, in the profits of the corporation, on dissolution or otherwise, beyond the fixed dividends) is owned by such association, or members thereof; nor shall exemption be denied any such corporation because there is accumulated and maintained by it a reserve required by State law or a reasonable reserve for any necessary purpose.
+
+&emsp;(17)(A) A trust or trusts forming part of a plan providing for the payment of supplemental unemployment compensation benefits, if—
+
+&emsp;&emsp;(i) under the plan, it is impossible, at any time prior to the satisfaction of all liabilities, with respect to employees under the plan, for any part of the corpus or income to be (within the taxable year or thereafter) used for, or diverted to, any purpose other than the providing of supplemental unemployment compensation benefits,
+
+&emsp;&emsp;(ii) such benefits are payable to employees under a classification which is set forth in the plan and which is found by the Secretary not to be discriminatory in favor of employees who are highly compensated employees (within the meaning of section 414(q)), and
+
+&emsp;&emsp;(iii) such benefits do not discriminate in favor of employees who are highly compensated employees (within the meaning of section 414(q)). A plan shall not be considered discriminatory within the meaning of this clause merely because the benefits received under the plan bear a uniform relationship to the total compensation, or the basic or regular rate of compensation, of the employees covered by the plan.
+
+&emsp;(B) In determining whether a plan meets the requirements of subparagraph (A), any benefits provided under any other plan shall not be taken into consideration, except that a plan shall not be considered discriminatory—
+
+&emsp;&emsp;(i) merely because the benefits under the plan which are first determined in a nondiscriminatory manner within the meaning of subparagraph (A) are then reduced by any sick, accident, or unemployment compensation benefits received under State or Federal law (or reduced by a portion of such benefits if determined in a nondiscriminatory manner), or
+
+&emsp;&emsp;(ii) merely because the plan provides only for employees who are not eligible to receivesick, accident, or unemployment compensation benefits under State or Federal law the same benefits (or a portion of such benefits if determined in a nondiscriminatory manner) which such employees would receive under such laws if such employees were eligible for such benefits, or
+
+&emsp;&emsp;(iii) merely because the plan provides only for employees who are not eligible under another plan (which meets the requirements of subparagraph (A)) of supplemental unemployment compensation benefits provided wholly by the employer the same benefits (or a portion of such benefits if determined in a nondiscriminatory manner) which such employees would receive under such other plan if such employees were eligible under such other plan, but only if the employees eligible under both plans would make a classification which would be nondiscriminatory within the meaning of subparagraph (A).
+
+&emsp;(C) A plan shall be considered to meet the requirements of subparagraph (A) during the whole of any year of the plan if on one day in each quarter it satisfies such requirements.
+
+&emsp;(D) The term “supplemental unemployment compensation benefits” means only—
+
+&emsp;&emsp;(i) benefits which are paid to an employee because of his involuntary separation from the employment of the employer (whether or not such separation is temporary) resulting directly from a reduction in force, the discontinuance of a plant or operation, or other similar conditions, and
+
+&emsp;&emsp;(ii) sick and accident benefits subordinate to the benefits described in clause (i).
+
+&emsp;(E) Exemption shall not be denied under subsection (a) to any organization entitled to such exemption as an association described in paragraph (9) of this subsection merely because such organization provides for the payment of supplemental unemployment benefits (as defined in subparagraph (D)(i)).
+
+&emsp;(18) A trust or trusts created before June 25, 1959, forming part of a plan providing for the payment of benefits under a pension plan funded only by contributions of employees, if—
+
+&emsp;&emsp;(A) under the plan, it is impossible, at any time prior to the satisfaction of all liabilities with respect to employees under the plan, for any part of the corpus or income to be (within the taxable year or thereafter) used for, or diverted to, any purpose other than the providing of benefits under the plan,
+
+&emsp;&emsp;(B) such benefits are payable to employees under a classification which is set forth in the plan and which is found by the Secretary not to be discriminatory in favor of employees who are highly compensated employees (within the meaning of section 414(q)),
+
+&emsp;&emsp;(C) such benefits do not discriminate in favor of employees who are highly compensated employees (within the meaning of section 414(q)). A plan shall not be considered discriminatory within the meaning of this subparagraph merely because the benefits received under the plan bear a uniform relationship to the total compensation, or the basic or regular rate of compensation, of the employees covered by the plan, and
+
+&emsp;&emsp;(D) in the case of a plan under which an employee may designate certain contributions as deductible—
+
+&emsp;&emsp;&emsp;(i) such contributions do not exceed the amount with respect to which a deduction is allowable under section 219(b)(3),
+
+&emsp;&emsp;&emsp;(ii) requirements similar to the requirements of section 401(k)(3)(A)(ii) are met with respect to such elective contributions,
+
+&emsp;&emsp;&emsp;(iii) such contributions are treated as elective deferrals for purposes of section 402(g) (other than paragraph (4) thereof), and
+
+&emsp;&emsp;&emsp;(iv) the requirements of section 401(a)(30) are met.
+
+> &emsp;For purposes of subparagraph (D)(ii), rules similar to the rules of section 401(k)(8) shall apply. For purposes of section 4979, any excess contribution under clause (ii) shall be treated as an excess contribution under a cash or deferred arrangement.
+
+&emsp;(19) A post or organization of past or present members of the Armed Forces of the United States, or an auxiliary unit or society of, or a trust or foundation for, any such post or organization—
+
+&emsp;&emsp;(A) organized in the United States or any of its possessions,
+
+&emsp;&emsp;(B) at least 75 percent of the members of which are past or present members of the Armed Forces of the United States and substantially all of the other members of which are individuals who are cadets or are spouses, widows, or widowers of past or present members of the Armed Forces of the United States or of cadets, and
+
+&emsp;&emsp;(C) no part of the net earnings of which inures to the benefit of any private shareholder or individual.
+
+&emsp;(20) an <sup>2</sup> organization or trust created or organized in the United States, the exclusive function of which is to form part of a qualified group legal services plan or plans, within the meaning of section 120. An organization or trust which receives contributions because of section 120(c)(5)(C) shall not be prevented from qualifying as an organization described in this paragraph merely because it provides legal services or indemnification against the cost of legal services unassociated with a qualified group legal services plan.
+
+&emsp;(21)(A) A trust or trusts established in writing, created or organized in the United States, and contributed to by any person (except an insurance company) if—
+
+&emsp;&emsp;(i) the purpose of such trust or trusts is exclusively—
+
+&emsp;&emsp;&emsp;(I) to satisfy, in whole or in part, the liability of such person for, or with respect to, claims for compensation for disability or death due to pneumoconiosis under Black Lung Acts,
+
+&emsp;&emsp;&emsp;(II) to pay premiums for insurance exclusively covering such liability,
+
+&emsp;&emsp;&emsp;(III) to pay administrative and other incidental expenses of such trust in connection with the operation of the trust andthe processing of claims against such person under Black Lung Acts, and
+
+&emsp;&emsp;&emsp;(IV) to pay accident or health benefits for retired miners and their spouses and dependents (including administrative and other incidental expenses of such trust in connection therewith) or premiums for insurance exclusively covering such benefits; and
+
+&emsp;&emsp;(ii) no part of the assets of the trust may be used for, or diverted to, any purpose other than—
+
+&emsp;&emsp;&emsp;(I) the purposes described in clause (i),
+
+&emsp;&emsp;&emsp;(II) investment (but only to the extent that the trustee determines that a portion of the assets is not currently needed for the purposes described in clause (i)) in qualified investments, or
+
+&emsp;&emsp;&emsp;(III) payment into the Black Lung Disability Trust Fund established under section 9501, or into the general fund of the United States Treasury (other than in satisfaction of any tax or other civil or criminal liability of the person who established or contributed to the trust).
+
+&emsp;(B) No deduction shall be allowed under this chapter for any payment described in subparagraph (A)(i)(IV) from such trust.
+
+&emsp;(C) Payments described in subparagraph (A)(i)(IV) may be made from such trust during a taxable year only to the extent that the aggregate amount of such payments during such taxable year does not exceed the lesser of—
+
+&emsp;&emsp;(i) the excess (if any) (as of the close of the preceding taxable year) of—
+
+&emsp;&emsp;&emsp;(I) the fair market value of the assets of the trust, over
+
+&emsp;&emsp;&emsp;(II) 110 percent of the present value of the liability described in subparagraph (A)(i)(I) of such person, or
+
+&emsp;&emsp;(ii) the excess (if any) of—
+
+&emsp;&emsp;&emsp;(I) the sum of a similar excess determined as of the close of the last taxable year ending before the date of the enactment of this subparagraph plus earnings thereon as of the close of the taxable year preceding the taxable year involved, over
+
+&emsp;&emsp;&emsp;(II) the aggregate payments described in subparagraph (A)(i)(IV) made from the trust during all taxable years beginning after the date of the enactment of this subparagraph.
+
+> &emsp;The determinations under the preceding sentence shall be made by an independent actuary using actuarial methods and assumptions (not inconsistent with the regulations prescribed under section 192(c)(1)(A)) each of which is reasonable and which are reasonable in the aggregate.
+
+&emsp;(D) For purposes of this paragraph:
+
+&emsp;&emsp;(i) The term “Black Lung Acts” means part C of title IV of the Federal Mine Safety and Health Act of 1977, and any State law providing compensation for disability or death due to that pneumoconiosis.
+
+&emsp;&emsp;(ii) The term “qualified investments” means—
+
+&emsp;&emsp;&emsp;(I) public debt securities of the United States,
+
+&emsp;&emsp;&emsp;(II) obligations of a State or local government which are not in default as to principal or interest, and
+
+&emsp;&emsp;&emsp;(III) time or demand deposits in a bank (as defined in section 581) or an insured credit union (within the meaning of section 101(6) <sup>3</sup> of the Federal Credit Union Act, 12 U.S.C. 1752(6)) <sup>3</sup> located in the United States.
+
+&emsp;&emsp;(iii) The term “miner” has the same meaning as such term has when used in section 402(d) of the Black Lung Benefits Act (30 U.S.C. 902(d)).
+
+&emsp;&emsp;(iv) The term “incidental expenses” includes legal, accounting, actuarial, and trustee expenses.
+
+&emsp;(22) A trust created or organized in the United States and established in writing by the plan sponsors of multiemployer plans if—
+
+&emsp;&emsp;(A) the purpose of such trust is exclusively—
+
+&emsp;&emsp;&emsp;(i) to pay any amount described in section 4223(c) or (h) of the Employee Retirement Income Security Act of 1974, and
+
+&emsp;&emsp;&emsp;(ii) to pay reasonable and necessary administrative expenses in connection with the establishment and operation of the trust and the processing of claims against the trust,
+
+&emsp;&emsp;(B) no part of the assets of the trust may be used for, or diverted to, any purpose other than—
+
+&emsp;&emsp;&emsp;(i) the purposes described in subparagraph (A), or
+
+&emsp;&emsp;&emsp;(ii) the investment in securities, obligations, or time or demand deposits described in clause (ii) of paragraph (21)(B),
+
+&emsp;&emsp;(C) such trust meets the requirements of paragraphs (2), (3), and (4) of section 4223(b), 4223(h), or, if applicable, section 4223(c) of the Employee Retirement Income Security Act of 1974, and
+
+&emsp;&emsp;(D) the trust instrument provides that, on dissolution of the trust, assets of the trust may not be paid other than to plans which have participated in the plan or, in the case of a trust established under section 4223(h) of such Act, to plans with respect to which employers have participated in the fund.
+
+&emsp;(23) Any association organized before 1880 more than 75 percent of the members of which are present or past members of the Armed Forces and a principal purpose of which is to provide insurance and other benefits to veterans or their dependents.
+
+&emsp;(24) A trust described in section 4049 of the Employee Retirement Income Security Act of 1974 (as in effect on the date of the enactment of the Single-Employer Pension Plan Amendments Act of 1986).
+
+&emsp;(25)(A) Any corporation or trust which—
+
+&emsp;&emsp;(i) has no more than 35 shareholders or beneficiaries,
+
+&emsp;&emsp;(ii) has only 1 class of stock or beneficial interest, and
+
+&emsp;&emsp;(iii) is organized for the exclusive purposes of—
+
+&emsp;&emsp;&emsp;(I) acquiring real property and holding title to, and collecting income from, such property, and
+
+&emsp;&emsp;&emsp;(II) remitting the entire amount of income from such property (less expenses) to 1 or more organizations described in subparagraph (C) which are shareholders of such corporation or beneficiaries of such trust.
+
+> &emsp;For purposes of clause (iii), the term “real property” shall not include any interest as a tenant in common (or similar interest) and shall not include any indirect interest.
+
+&emsp;(B) A corporation or trust shall be described in subparagraph (A) without regard to whether the corporation or trust is organized by 1 or more organizations described in subparagraph (C).
+
+&emsp;(C) An organization is described in this subparagraph if such organization is—
+
+&emsp;&emsp;(i) a qualified pension, profit sharing, or stock bonus plan that meets the requirements of section 401(a),
+
+&emsp;&emsp;(ii) a governmental plan (within the meaning of section 414(d)),
+
+&emsp;&emsp;(iii) the United States, any State or political subdivision thereof, or any agency or instrumentality of any of the foregoing, or
+
+&emsp;&emsp;(iv) any organization described in paragraph (3).
+
+&emsp;(D) A corporation or trust shall in no event be treated as described in subparagraph (A) unless such corporation or trust permits its shareholders or beneficiaries—
+
+&emsp;&emsp;(i) to dismiss the corporation's or trust's investment adviser, following reasonable notice, upon a vote of the shareholders or beneficiaries holding a majority of interest in the corporation or trust, and
+
+&emsp;&emsp;(ii) to terminate their interest in the corporation or trust by either, or both, of the following alternatives, as determined by the corporation or trust:
+
+&emsp;&emsp;&emsp;(I) by selling or exchanging their stock in the corporation or interest in the trust (subject to any Federal or State securities law) to any organization described in subparagraph (C) so long as the sale or exchange does not increase the number of shareholders or beneficiaries in such corporation or trust above 35, or
+
+&emsp;&emsp;&emsp;(II) by having their stock or interest redeemed by the corporation or trust after the shareholder or beneficiary has provided 90 days notice to such corporation or trust.
+
+&emsp;(E)(i) For purposes of this title—
+
+&emsp;&emsp;(I) a corporation which is a qualified subsidiary shall not be treated as a separate corporation, and
+
+&emsp;&emsp;(II) all assets, liabilities, and items of income, deduction, and credit of a qualified subsidiary shall be treated as assets, liabilities, and such items (as the case may be) of the corporation or trust described in subparagraph (A).
+
+&emsp;(ii) For purposes of this subparagraph, the term “qualified subsidiary” means any corporation if, at all times during the period such corporation was in existence, 100 percent of the stock of such corporation is held by the corporation or trust described in subparagraph (A).
+
+&emsp;(iii) For purposes of this subtitle, if any corporation which was a qualified subsidiary ceases to meet the requirements of clause (ii), such corporation shall be treated as a new corporation acquiring all of its assets (and assuming all of its liabilities) immediately before such cessation from the corporation or trust described in subparagraph (A) in exchange for its stock.
+
+&emsp;(F) For purposes of subparagraph (A), the term “real property” includes any personal property which is leased under, or in connection with, a lease of real property, but only if the rent attributable to such personal property (determined under the rules of section 856(d)(1)) for the taxable year does not exceed 15 percent of the total rent for the taxable year attributable to both the real and personal property leased under, or in connection with, such lease.
+
+&emsp;(G)(i) An organization shall not be treated as failing to be described in this paragraph merely by reason of the receipt of any otherwise disqualifying income which is incidentally derived from the holding of real property.
+
+&emsp;(ii) Clause (i) shall not apply if the amount of gross income described in such clause exceeds 10 percent of the organization's gross income for the taxable year unless the organization establishes to the satisfaction of the Secretary that the receipt of gross income described in clause (i) in excess of such limitation was inadvertent and reasonable steps are being taken to correct the circumstances giving rise to such income.
+
+#### (d) Religious and apostolic organizations
+
+The following organizations are referred to in subsection (a): Religious or apostolic associations or corporations, if such associations or corporations have a common treasury or community treasury, even if such associations or corporations engage in business for the common benefit of the members, but only if the members thereof include (at the time of filing their returns) in their gross income their entire pro rata shares, whether distributed or not, of the taxable income of the association or corporation for such year. Any amount so included in the gross income of a member shall be treated as a dividend received.
+
+#### (e) Cooperative hospital service organizations
+
+For purposes of this title, an organization shall be treated as an organization organized and operated exclusively for charitable purposes, if—
+
+&emsp;(1) such organization is organized and operated solely—
+
+&emsp;&emsp;(A) to perform, on a centralized basis, one or more of the following services which, if performed on its own behalf by a hospital which is an organization described in subsection (c)(3) and exempt from taxation under subsection (a), would constitute activities in exercising or performing the purpose or function constituting the basis for its exemption: data processing, purchasing\(including the purchasing of insurance on a group basis), warehousing, billing and collection, food, clinical, industrial engineering, laboratory, printing, communications, record center, and personnel (including selection, testing, training, and education of personnel) services; and
+
+&emsp;&emsp;(B) to perform such services solely for two or more hospitals each of which is—
+
+&emsp;&emsp;&emsp;(i) an organization described in subsection (c)(3) which is exempt from taxation under subsection (a),
+
+&emsp;&emsp;&emsp;(ii) a constituent part of an organization described in subsection (c)(3) which is exempt from taxation under subsection (a) and which, if organized and operated as a separate entity, would constitute an organization described in subsection (c)(3), or
+
+&emsp;&emsp;&emsp;(iii) owned and operated by the United States, a State, the District of Columbia, or a possession of the United States, or a political subdivision or an agency or instrumentality of any of the foregoing;
+
+&emsp;(2) such organization is organized and operated on a cooperative basis and allocates or pays, within 81/2 months after the close of its taxable year, all net earnings to patrons on the basis of services performed for them; and
+
+&emsp;(3) if such organization has capital stock, all of such stock outstanding is owned by its patrons.
+
+> For purposes of this title, any organization which, by reason of the preceding sentence, is an organization described in subsection (c)(3) and exempt from taxation under subsection (a), shall be treated as a hospital and as an organization referred to in section 170(b)(1)(A)(iii).
+
+#### (f) Cooperative service organizations of operating educational organizations
+
+For purposes of this title, if an organization is—
+
+&emsp;(1) organized and operated solely to hold, commingle, and collectively invest and reinvest (including arranging for and supervising the performance by independent contractors of investment services related thereto) in stocks and securities, the moneys contributed thereto by each of the members of such organization, and to collect income therefrom and turn over the entire amount thereof, less expenses, to such members,
+
+&emsp;(2) organized and controlled by one or more such members, and
+
+&emsp;(3) comprised solely of members that are organizations described in clause (ii) or (iv) of section 170(b)(1)(A)—
+
+&emsp;&emsp;(A) which are exempt from taxation under subsection (a), or
+
+&emsp;&emsp;(B) the income of which is excluded from taxation under section 115(a),
+
+> &emsp;then such organization shall be treated as an organization organized and operated exclusively for charitable purposes.
+
+#### (g) Definition of agricultural
+
+For purposes of subsection (c)(5), the term “agricultural” includes the art or science of cultivating land, harvesting crops or aquatic resources, or raising livestock.
+
+#### (h) Expenditures by public charities to influence legislation
+
+#### (1) General rule
+
+&emsp;In the case of an organization to which this subsection applies, exemption from taxation under subsection (a) shall be denied because a substantial part of the activities of such organization consists of carrying on propaganda, or otherwise attempting, to influence legislation, but only if such organization normally—
+
+&emsp;&emsp;(A) makes lobbying expenditures in excess of the lobbying ceiling amount for such organization for each taxable year, or
+
+&emsp;&emsp;(B) makes grass roots expenditures in excess of the grass roots ceiling amount for such organization for each taxable year.
+
+#### (2) Definitions
+
+&emsp;For purposes of this subsection—
+
+#### (A) Lobbying expenditures
+
+&emsp;&emsp;The term “lobbying expenditures” means expenditures for the purpose of influencing legislation (as defined in section 4911(d)).
+
+#### (B) Lobbying ceiling amount
+
+&emsp;&emsp;The lobbying ceiling amount for any organization for any taxable year is 150 percent of the lobbying nontaxable amount for such organization for such taxable year, determined under section 4911.
+
+#### (C) Grass roots expenditures
+
+&emsp;&emsp;The term “grass roots expenditures” means expenditures for the purpose of influencing legislation (as defined in section 4911(d) without regard to paragraph (1)(B) thereof).
+
+#### (D) Grass roots ceiling amount
+
+&emsp;&emsp;The grass roots ceiling amount for any organization for any taxable year is 150 percent of the grass roots nontaxable amount for such organization for such taxable year, determined under section 4911.
+
+#### (3) Organizations to which this subsection applies
+
+&emsp;This subsection shall apply to any organization which has elected (in such manner and at such time as the Secretary may prescribe) to have the provisions of this subsection apply to such organization and which, for the taxable year which includes the date the election is made, is described in subsection (c)(3) and—
+
+&emsp;&emsp;(A) is described in paragraph (4), and
+
+&emsp;&emsp;(B) is not a disqualified organization under paragraph (5).
+
+#### (4) Organizations permitted to elect to have this subsection apply
+
+&emsp;An organization is described in this paragraph if it is described in—
+
+&emsp;&emsp;(A) section 170(b)(1)(A)(ii) (relating to educational institutions),
+
+&emsp;&emsp;(B) section 170(b)(1)(A)(iii) (relating to hospitals and medical research organizations),
+
+&emsp;&emsp;(C) section 170(b)(1)(A)(iv) (relating to organizations supporting government schools),
+
+&emsp;&emsp;(D) section 170(b)(1)(A)(vi) (relating to organizations publicly supported by charitable contributions),
+
+&emsp;&emsp;(E) section 509(a)(2) (relating to organizations publicly supported by admissions, sales, etc.), or
+
+&emsp;&emsp;(F) section 509(a)(3) (relating to organizations supporting certain types of public charities) except that for purposes of this subparagraph, section 509(a)(3) shall be applied without regard to the last sentence of section 509(a).
+
+#### (5) Disqualified organizations
+
+&emsp;For purposes of paragraph (3) an organization is a disqualified organization if it is—
+
+&emsp;&emsp;(A) described in section 170(b)(1)(A)(i) (relating to churches),
+
+&emsp;&emsp;(B) an integrated auxiliary of a church or of a convention or association of churches, or
+
+&emsp;&emsp;(C) a member of an affiliated group of organizations (within the meaning of section 4911(f)(2)) if one or more members of such group is described in subparagraph (A) or (B).
+
+#### (6) Years for which election is effective
+
+&emsp;An election by an organization under this subsection shall be effective for all taxable years of such organization which—
+
+&emsp;&emsp;(A) end after the date the election is made, and
+
+&emsp;&emsp;(B) begin before the date the election is revoked by such organization (under regulations prescribed by the Secretary).
+
+#### (7) No effect on certain organizations
+
+&emsp;With respect to any organization for a taxable year for which—
+
+&emsp;&emsp;(A) such organization is a disqualified organization (within the meaning of paragraph (5)), or
+
+&emsp;&emsp;(B) an election under this subsection is not in effect for such organization,
+
+> &emsp;nothing in this subsection or in section 4911 shall be construed to affect the interpretation of the phrase, “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation,” under subsection (c)(3).
+
+#### (8) Affiliated organizations
+
+&emsp;&emsp;<b>For rules regarding affiliated organizations, see section 4911(f).</b>
+
+#### (i) Prohibition of discrimination by certain social clubs
+
+Notwithstanding subsection (a), an organization which is described in subsection (c)(7) shall not be exempt from taxation under subsection (a) for any taxable year if, at any time during such taxable year, the charter, bylaws, or other governing instrument, of such organization or any written policy statement of such organization contains a provision which provides for discrimination against any person on the basis of race, color, or religion. The preceding sentence to the extent it relates to discrimination on the basis of religion shall not apply to—
+
+&emsp;(1) an auxiliary of a fraternal beneficiary society if such society—
+
+&emsp;&emsp;(A) is described in subsection (c)(8) and exempt from tax under subsection (a), and
+
+&emsp;&emsp;(B) limits its membership to the members of a particular religion, or
+
+&emsp;(2) a club which in good faith limits its membership to the members of a particular religion in order to further the teachings or principles of that religion, and not to exclude individuals of a particular race or color.
+
+#### (j) Special rules for certain amateur sports organizations
+
+#### (1) In general
+
+&emsp;In the case of a qualified amateur sports organization—
+
+&emsp;&emsp;(A) the requirement of subsection (c)(3) that no part of its activities involve the provision of athletic facilities or equipment shall not apply, and
+
+&emsp;&emsp;(B) such organization shall not fail to meet the requirements of subsection (c)(3) merely because its membership is local or regional in nature.
+
+#### (2) Qualified amateur sports organization defined
+
+&emsp;For purposes of this subsection, the term “qualified amateur sports organization” means any organization organized and operated exclusively to foster national or international amateur sports competition if such organization is also organized and operated primarily to conduct national or international competition in sports or to support and develop amateur athletes for national or international competition in sports.
+
+#### (k) Treatment of certain organizations providing child care
+
+For purposes of subsection (c)(3) of this section and sections 170(c)(2), 2055(a)(2), and 2522(a)(2), the term “educational purposes” includes the providing of care of children away from their homes if—
+
+&emsp;(1) substantially all of the care provided by the organization is for purposes of enabling individuals to be gainfully employed, and
+
+&emsp;(2) the services provided by the organization are available to the general public.
+
+#### (<i>l</i>) Government corporations exempt under subsection (c)(1)
+
+For purposes of subsection (c)(1), the following organizations are described in this subsection:
+
+&emsp;(1) The Central Liquidity Facility established under title III of the Federal Credit Union Act (12 U.S.C. 1795 et seq.).
+
+&emsp;(2) The Resolution Trust Corporation established under section 21A of the Federal Home Loan Bank Act.
+
+&emsp;(3) The Resolution Funding Corporation established under section 21B of the Federal Home Loan Bank Act.
+
+#### (m) Certain organizations providing commercial-type insurance not exempt from tax
+
+#### (1) Denial of tax exemption where providing commercial-type insurance is substantial part of activities
+
+&emsp;An organization described in paragraph (3) or (4) of subsection (c) shall be exempt from tax under subsection (a) only if no substantial part of its activities consists of providing commercial-type insurance.
+
+#### (2) Other organizations taxed as insurance companies on insurance business
+
+&emsp;In the case of an organization described in paragraph (3) or (4) of subsection (c) which isexempt from tax under subsection (a) after the application of paragraph (1) of this subsection—
+
+&emsp;&emsp;(A) the activity of providing commercial-type insurance shall be treated as an unrelated trade or business (as defined in section 513), and
+
+&emsp;&emsp;(B) in lieu of the tax imposed by section 511 with respect to such activity, such organization shall be treated as an insurance company for purposes of applying subchapter L with respect to such activity.
+
+#### (3) Commercial-type insurance
+
+&emsp;For purposes of this subsection, the term “commercial-type insurance” shall not include—
+
+&emsp;&emsp;(A) insurance provided at substantially below cost to a class of charitable recipients,
+
+&emsp;&emsp;(B) incidental health insurance provided by a health maintenance organization of a kind customarily provided by such organizations,
+
+&emsp;&emsp;(C) property or casualty insurance provided (directly or through an organization described in section 414(e)(3)(B)(ii)) by a church or convention or association of churches for such church or convention or association of churches,
+
+&emsp;&emsp;(D) providing retirement or welfare benefits (or both) by a church or a convention or association of churches (directly or through an organization described in section 414(e)(3)(A) or 414(e)(3)(B)(ii)) for the employees (including employees described in section 414(e)(3)(B)) of such church or convention or association of churches or the beneficiaries of such employees, and
+
+&emsp;&emsp;(E) charitable gift annuities.
+
+#### (4) Insurance includes annuities
+
+&emsp;For purposes of this subsection, the issuance of annuity contracts shall be treated as providing insurance.
+
+#### (5) Charitable gift annuity
+
+&emsp;For purposes of paragraph (3)(E), the term “charitable gift annuity” means an annuity if—
+
+&emsp;&emsp;(A) a portion of the amount paid in connection with the issuance of the annuity is allowable as a deduction under section 170 or 2055, and
+
+&emsp;&emsp;(B) the annuity is described in section 514(c)(5) (determined as if any amount paid in cash in connection with such issuance were property).
+
+#### (n) Cross reference
+
+&emsp;&emsp;<b>For nonexemption of Communist-controlled organizations, see section 11(b) </b><b><sup>4</sup></b> of the Internal Security Act of 1950 (64 Stat. 997; 50 U.S.C. 790(b)).
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 163; Mar. 13, 1956, ch. 83, §5(2), 70 Stat. 49; Apr. 22, 1960, Pub. L. 86–428, §1, 74 Stat. 54; July 14, 1960, Pub. L. 86–667, §1, 74 Stat. 534; Oct. 16, 1962, Pub. L. 87–834, §8(d), 76 Stat. 997; Feb. 2, 1966, Pub. L. 89–352, §1, 80 Stat. 4; Nov. 8, 1966, Pub. L. 89–800, §6(a), 80 Stat. 1515; June 28, 1968, Pub. L. 90–364, title I, §109(a), 82 Stat. 269; Dec. 30, 1969, Pub. L. 91–172, title I, §§101(j)(3)–(6), 121(b)(5)(A), (6)(A), 83 Stat. 526, 527, 541; Dec. 31, 1970, Pub. L. 91–618, §1, 84 Stat. 1855; Aug. 29, 1972, Pub. L. 92–418, §1(a), 86 Stat. 656; June 8, 1974, Pub. L. 93–310, §3(a), 88 Stat. 235; Jan. 3, 1975, Pub. L. 93–625, §10(c), 88 Stat. 2119; Oct. 4, 1976, Pub. L. 94–455, title XIII, §§1307(a)(1), (d)(1)(A), 1312(a), 1313(a), title XIX, §1906(b)(13)(A), title XXI, §§2113(a), 2134(b), 90 Stat. 1720, 1727, 1730, 1834, 1907, 1927; Oct. 20, 1976, Pub. L. 94–568, §§1(a), 2(a), 90 Stat. 2697; Feb. 10, 1978, Pub. L. 95–227, §4(a), 92 Stat. 15; Aug. 15, 1978, Pub. L. 95–345, §1(a), 92 Stat. 481; Nov. 6, 1978, Pub. L. 95–600, title VII, §703(b)(2), (g)(2)(A), (B), 92 Stat. 2939, 2940; Apr. 1, 1980, Pub. L. 96–222, title I, §108(b)(2)(B), 94 Stat. 226; Sept. 26, 1980, Pub. L. 96–364, title II, §209(a), 94 Stat. 1290; Dec. 24, 1980, Pub. L. 96–601, §3(a), 94 Stat. 3496; Dec. 28, 1980, Pub. L. 96–605, title I, §106(a), 94 Stat. 3523; Dec. 29, 1981, Pub. L. 97–119, title I, §103(c)(1), 95 Stat. 1638; Sept. 3, 1982, Pub. L. 97–248, title II, §286(a), title III, §354(a), (b), 96 Stat. 569, 640, 641; Jan. 12, 1983, Pub. L. 97–448, title III, §306(b)(5), 96 Stat. 2406; July 18, 1984, Pub. L. 98–369, div. A, title X, §§1032(a), 1079, div. B, title VIII, §2813(b), 98 Stat. 1033, 1056, 1206; Apr. 7, 1986, Pub. L. 99–272, title XI, §11012(b), 100 Stat. 260; Oct. 22, 1986, Pub. L. 99–514, title X, §§1012(a), 1024(b), title XI, §§1109(a), 1114(b)(14), title XVI, §1603(a), title XVIII, §§1879(k)(1), 1899A(15), 100 Stat. 2390, 2406, 2435, 2451, 2768, 2909, 2959; Dec. 22, 1987, Pub. L. 100–203, title X, §10711(a)(2), 101 Stat. 1330–464; Nov. 10, 1988, Pub. L. 100–647, title I, §§1010(b)(4), 1011(c)(7)(D), 1016(a)(1)(A), (2)–(4), 1018(u)(14), (15), (34), title II, §2003(a)(1), (2), title VI, §6202(a), 102 Stat. 3451, 3458, 3573, 3574, 3590, 3592, 3597, 3598, 3730; Aug. 9, 1989, Pub. L. 101–73, title XIV, §1402(a), 103 Stat. 550; Oct. 24, 1992, Pub. L. 102–486, title XIX, §1940(a), 106 Stat. 3034; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13146(a), (b), 107 Stat. 443.)
+
+#### References in Text
+
+Sections 306A, 306B, and 311 of the Rural Electrification Act of 1936, referred to in subsec. (c)(12)(B)(iv), (C)(ii), are classified to sections 936a, 936b, and 940a, respectively, of Title 7, Agriculture.
+
+The date of the enactment of this subparagraph, referred to in subsec. (c)(21)(C)(ii), is the date of enactment of Pub. L. 102–486, which was approved Oct. 24, 1992.
+
+The Federal Mine Safety and Health Act of 1977, referred to in subsec. (c)(21)(D)(i), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended by Pub. L. 95–164, Nov. 9, 1977, 91 Stat. 1290. Part C of title IV of the Act is classified generally to part C (§931 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 30 and Tables.
+
+Section 4223 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (c)(22)(A)(i), (C), (D), is classified to section 1403 of Title 29, Labor.
+
+Section 4049 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (c)(24), was classified to section 1349 of Title 29, prior to its repeal by Pub. L. 100–203, title IX, §9312(a), Dec. 22, 1987, 101 Stat. 1330–361.
+
+The date of the enactment of the Single-Employer Pension Plan Amendments Act of 1986, referred to in subsec. (c)(24), is the date of enactment of title XI of Pub. L. 99–272, which was approved Apr. 7, 1986.
+
+The provisions of subsec. (a) of section 115, referred to in subsec. (f)(3)(B), now comprise section 115 in its entirety, following the deletion therefrom of the subsec. (a) designation by section 1901(a)(19) of Pub. L. 94–455.
+
+The Federal Credit Union Act, referred to in subsec. (<i>l</i>)(1), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended. Title III of the Federal Credit Union Act is classified generally to subchapter III (§1795 et seq.) of chapter 14 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+
+Sections 21A and 21B of the Federal Home Loan Bank Act, referred to in subsec. (<i>l</i>)(2), (3), are classified to sections 1441a and 1441b, respectively, of Title 12.
+
+Section 11(b) of the Internal Security Act of 1950 (64 Stat. 997; 50 U.S.C. 790(b)), referred to in subsec. (n), was repealed by Pub. L. 103–199, title VIII, §803(1), Dec. 17, 1993, 107 Stat. 2329.
+
+#### Amendments
+
+1993—Subsec. (c)(2). Pub. L. 103–66, §13146(b), inserted at end “Rules similar to the rules of subparagraph (G) of paragraph (25) shall apply for purposes of this paragraph.”
+
+Subsec. (c)(25)(G). Pub. L. 103–66, §13146(a), added subpar. (G).
+
+1992—Subsec. (c)(21). Pub. L. 102–486 amended par. (21) generally, substituting present provisions consisting of subpars. (A) to (D) for former provisions consisting of subpars. (A) and (B).
+
+1989—Subsec. (<i>l</i>). Pub. L. 101–73 amended subsec. (<i>l</i>) generally. Prior to amendment, subsec. (<i>l</i>) read as follows: “The organization described in this subsection is the Central Liquidity Facility established under title III of the Federal Credit Union Act (12 U.S.C. 1795 et seq.).”
+
+1988—Subsec. (c)(1). Pub. L. 100–647, §1018(u)(15), substituted “Any” for “any”.
+
+Subsec. (c)(12)(B)(iv). Pub. L. 100–647, §2003(a)(1), added cl. (iv).
+
+Subsec. (c)(12)(C). Pub. L. 100–647, §2003(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “In the case of a mutual or cooperative electric company, subparagraph (A) shall be applied without taking into account any income received or accrued from qualified pole rentals.”
+
+Subsec. (c)(17)(A)(ii), (iii), (18)(B), (C). Pub. L. 100–647, §1018(u)(34), made technical amendments to Pub. L. 99–154, §1114(b)(14). See 1986 Amendment note below.
+
+Subsec. (c)(18)(D)(iv). Pub. L. 100–647, §1011(c)(7)(D), added cl. (iv).
+
+Subsec. (c)(23). Pub. L. 100–647, §1018(u)(14), substituted “Any” for “any”.
+
+Subsec. (c)(25)(A). Pub. L. 100–647, §1016(a)(1)(A), inserted at end “For purposes of clause (iii), the term ‘real property’ shall not include any interest as a tenant in common (or similar interest) and shall not include any indirect interest.”
+
+Subsec. (c)(25)(C)(v). Pub. L. 100–647, §1016(a)(3)(B), struck out cl. (v) which read as follows: “any organization described in this paragraph.”
+
+Subsec. (c)(25)(D). Pub. L. 100–647, §1016(a)(2), substituted “A corporation or trust shall in no event be treated as described in subparagraph (A) unless such corporation or trust permits its shareholders or beneficiaries” for “A corporation or trust described in this paragraph must permit its shareholders or beneficiaries” in introductory text.
+
+Subsec. (c)(25)(E), (F). Pub. L. 100–647, §1016(a)(3)(A), (4), added subpars. (E) and (F).
+
+Subsec. (e)(1)(A). Pub. L. 100–647, §6202(a), inserted “(including the purchasing of insurance on a group basis)” after “purchasing”.
+
+Subsec. (m)(3)(E). Pub. L. 100–647, §1010(b)(4)(A), added subpar. (E).
+
+Subsec. (m)(5). Pub. L. 100–647, §1010(b)(4)(B), added par. (5).
+
+1987—Subsec. (c)(3). Pub. L. 100–203 inserted “(or in opposition to)” after “in behalf of”.
+
+1986—Subsec. (c)(1)(A)(i). Pub. L. 99–514, §1899A(15), substituted “July 18, 1984” for “the date of the enactment of the Tax Reform Act of 1984”.
+
+Subsec. (c)(14)(B)(iv). Pub. L. 99–514, §1879(k)(1), added cl. (iv).
+
+Subsec. (c)(15). Pub. L. 99–514, §1024(b), amended par. (15) generally. Prior to amendment, par. (15) read as follows: “Mutual insurance companies or associations other than life or marine (including inter-insurers and reciprocal underwriters) if the gross amount received during the taxable year from the items described in section 822(b) (other than paragraph (1)(D) thereof) and premiums (including deposits and assessments) does not exceed $150,000.”
+
+Subsec. (c)(17)(A)(ii), (iii), (18)(B), (C). Pub. L. 99–514, §1114(b)(14), as amended by Pub. L. 100–647, §1018(u)(34), substituted “highly compensated employees (within the meaning of section 414(q))” for “officers, shareholders, persons whose principal duties consist of supervising the work of other employees, or highly compensated employees”.
+
+Subsec. (c)(18)(D). Pub. L. 99–514, §1109(a), added subpar. (D).
+
+Subsec. (c)(24). Pub. L. 99–272 added par. (24).
+
+Subsec. (c)(25). Pub. L. 99–514, §1603(a), added par. (25).
+
+Subsecs. (m), (n). Pub. L. 99–514, §1012(a), added subsec. (m) and redesignated former subsec. (m) as (n).
+
+1984—Subsec. (c)(1). Pub. L. 98–369, §2813(b)(2), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (c)(1)(A). Pub. L. 98–369, §1079, substituted provisions referring to corporations exempt from Federal income taxes under any Act of Congress as amended and supplemented before July 18, 1984, or under this title without regard to any provision of law not contained in this title and not contained in a revenue Act for provisions referring to corporations exempt from Federal income taxes under any Act of Congress as amended and supplemented.
+
+Subsec. (k). Pub. L. 98–369, §1032(a), added subsec. (k). Former subsec. (k) redesignated (<i>l).</i>
+
+Subsec. (<i>l</i>). Pub. L. 98–369, §2813(b)(1), added subsec. (<i>l</i>). Former subsec. (<i>l</i>) redesignated (m).
+
+Pub. L. 98–369, §1032(a), redesignated former subsec. (k) as (<i>l).</i>
+
+Subsec. (m). Pub. L. 98–369, §2813(b)(1), redesignated former subsec. (<i>l</i>) as (m).
+
+1983—Subsec. (c)(23). Pub. L. 97–448 substituted “75 percent” for “25 percent”.
+
+1982—Subsec. (c)(19). Pub. L. 97–248, §354(a)(1), substituted “past or present members of the Armed Forces of the United States” for “war veterans” after “A post or organization of”.
+
+Subsec. (c)(19)(B). Pub. L. 97–248, §354(a)(2), substituted “past or present members of the Armed Forces of the United States” for “war veterans” wherever appearing, struck out “veterans (but not war veterans), or are” after “individuals who are”, and substituted “or of cadets” for “or such individuals” before “, and”.
+
+Subsec. (c)(23). Pub. L. 97–248, §354(b), added par. (23).
+
+Subsecs. (j), (k). Pub. L. 97–248, §286(a), added subsec. (j) and redesignated former subsec. (j) as (k).
+
+1981—Subsec. (c)(21)(B)(iii). Pub. L. 97–119 substituted “established under section 9501” for “established under section 3 of the Black Lung Benefits Revenue Act of 1977”.
+
+1980—Subsec. (c)(12). Pub. L. 96–605 designated existing provision as subpar. (A), struck out provision that, in the case of any mutual or cooperative telephone company, the 85 per cent or more income requirement be applied without taking into account any income received or accrued from a nonmember telephone company for the performance of communication services which involve members of such mutual or cooperative telephone company, and added subpars. (B) to (D).
+
+Subsec. (c)(21). Pub. L. 96–222 substituted “Federal Mine Safety and Health Act of 1977” for “Federal Coal Mine Health and Safety Act of 1969”.
+
+Subsec. (c)(22). Pub. L. 96–364 added par. (22).
+
+Subsec. (i). Pub. L. 96–601 inserted provision that the restriction on religious discrimination not apply to an auxiliary of a fraternal beneficiary society if the society is described in subsec. (c)(8) of this section, is exempt from income tax under subsec. (a) of this section, and limits its membership to the members of a particular religion or to a club which in good faith limits its membership to the members of a particular religion in order to further the teachings or principles of that religion, and not to exclude individuals of a particular race or color.
+
+1978—Subsec. (c)(12). Pub. L. 95–345 inserted provision relating to applicability of statutory provisions to mutual or cooperative telephone company of income received or accrued from a nonmember telephone company.
+
+Subsec. (c)(20). Pub. L. 95–600, §703(b)(2), substituted “this paragraph” for “section 501(c)(20)”.
+
+Subsec. (c)(21). Pub. L. 95–227 added par. (21).
+
+Subsecs. (g), (i). Pub. L. 95–600, §703(g)(2)(B), redesignated subsec. (g), which was added by section 2(a) of Pub. L. 94–568, as subsec. (i). Former subsec. (i), relating to cross reference, redesignated (j).
+
+Subsecs. (i), (j). Pub. L. 95–600, §703(g)(2)(A), amended Pub. L. 95–600, §2(a). See 1976 Amendment note below.
+
+1976—Subsec. (c)(3). Pub. L. 94–455, §§1313(a), 1307(d)(1)(A), inserted “or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment)” after “educational purposes” and inserted “(except as otherwise provided in subsection (h))” after “influence legislation”.
+
+Subsec. (c)(7). Pub. L. 94–568, §1(a), struck out requirement that clubs be “operated exclusively” for specified purposes but required that substantially all of club activities be for specified purposes.
+
+Subsec. (c)(17), (18). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+Subsec. (c)(20). Pub. L. 94–455, §2134(b), added par. (20).
+
+Subsec. (e)(1)(A). Pub. L. 94–455, §1312(a), inserted “clinical” after “food”.
+
+Subsec. (g). Pub. L. 94–568, §2(a), added subsec. (g) relating to prohibition of discrimination by certain social clubs.
+
+Pub. L. 94–455, §2113(a), added subsec. (g) defining agricultural. Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 94–455, §§1307(a)(1), 2113(a), added subsec. (h). Former subsec. (g), relating to cross reference, redesignated (h) and further redesignated (i).
+
+Subsec. (i). Pub. L. 94–568, §2(a), as amended by Pub. L. 95–600, §703(g)(2)(A), added subsec. (i). Former subsec. (i) redesignated (j).
+
+Pub. L. 94–455, §1307(a)(1), redesignated subsec. (h), relating to cross reference, as (i).
+
+Subsec. (j). Pub. L. 94–568, §2(a), as amended by Pub. L. 95–600, §703(g)(2)(A), redesignated subsec. (i), relating to cross reference, as (j).
+
+1975—Subsec. (b). Pub. L. 93–625 inserted references to part VI of this subchapter.
+
+1974—Subsecs. (f), (g). Pub. L. 93–310 added subsec. (f) and redesignated former subsec. (f) as (g).
+
+1972—Subsec. (c)(19). Pub. L. 92–418 added par. (19).
+
+1970—Subsec. (c)(13). Pub. L., 91–618 substituted “corporation chartered solely for the purpose of disposal of bodies by burial or cremation which is not permitted” for “corporation chartered solely for burial purposes as a cemetery corporation and is not permitted”.
+
+1969—Subsec. (a). Pub. L. 91–172, §101(j)(3), struck out reference to section 504.
+
+Subsec. (b). Pub. L. 91–172, §101(j)(4), inserted reference to certain other activities in heading and to part III in text, and struck out reference to tax on unrelated income.
+
+Subsec. (c). Pub. L. 91–172, §§101(j)(5), 121(b)(6)(A), substituted “part IV” for “part III” after “Corporations organized by an association subject to” and added par. 18.
+
+Subsec. (c)(9). Pub. L. 91–172, §121(b)(5)(A), inserted reference to designated beneficiaries and struck out reference to 85 percent or more income of voluntary employees’ beneficiary associations.
+
+Subsec. (c)(10). Pub. L. 91–172, §121(b)(5)(A), substituted provisions concerning domestic fraternal societies, orders, or associations, operating under the lodge system, for provisions covering voluntary employees’ beneficiary associations which would pay benefits to designated beneficiaries of members.
+
+Subsec. (e). Pub. L. 91–172, §101(j)(6), substituted “section 170(b)(1)(A)(iii)” for “section 503(b)(5)” in last sentence.
+
+1968—Subsecs. (e), (f). Pub. L. 90–364 added subsec. (e) and redesignated former subsec. (e) as (f).
+
+1966—Subsec. (c)(6). Pub. L. 89–800 inserted reference to professional football leagues (whether or not administering a pension fund for football players).
+
+Subsec. (c)(14). Pub. L. 89–352 designated as subpar. (A) provisions covering credit unions which were formerly set out preceding subpar. (A), designated as subpar. (B) and clauses (i), (ii), and (iii) thereunder provisions covering corporation or associations without capital stock organized before Sept. 1, 1957, which formerly were set out as provisions preceding subpar. (A) and as subpars. (A), (B), and (C) respectively, and added subpar. (C).
+
+1962—Subsec. (c)(15). Pub. L. 87–834 substituted “$150,000” for “$75,000”.
+
+1960—Subsec. (c)(14). Pub. L. 86–428 substituted “September 1, 1957” for “September 1, 1951”.
+
+Subsec. (c)(17). Pub. L. 86–667 added par. (17).
+
+1956—Subsec. (c)(15). Act Mar. 13, 1956, substituted “the items described in section 822(b) (other than paragraph (1)(D) thereof)” for “interest, dividends, rents,”.
+
+#### Effective Date of 1993 Amendment
+
+Section 13146(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning on or after January 1, 1994.”
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–486 applicable to taxable years beginning after Dec. 31, 1991, see section 1940(d) of Pub. L. 102–486, set out as a note under section 192 of this title.
+
+#### Effective Date of 1989 Amendment
+
+Section 1402(b) of Pub. L. 101–73, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 9, 1989\].”
+
+#### Effective Date of 1988 Amendment
+
+Amendment by section 1011(c)(7)(D) of Pub. L. 100–647 applicable to plan years beginning after Dec. 31, 1987, with exception in case of a plan described in section 1105(c)(2) of Pub. L. 99–514, see section 1011(c)(7)(E) of Pub. L. 100–647, set out as a note under section 401 of this title.
+
+Section 1016(a)(1)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to property acquired by the organization after June 10, 1987, except that such amendment shall not apply to any property acquired after June 10, 1987, pursuant to a binding written contract in effect on June 10, 1987, and at all times thereafter before such acquisition.”
+
+Amendment by sections 1010(b)(4), 1016(a)(2)–(4), and 1018(u)(14), (15), (34) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+
+Section 2003(a)(3) of Pub. L. 100–647 provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after the date of the enactment of the Omnibus Budget Reconciliation Act of 1986 \[Oct. 21, 1986\].”
+
+Section 6202(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to purchases before, on, or after the date of the enactment of this Act \[Nov. 10, 1988\].”
+
+#### Effective Date of 1987 Amendment
+
+Amendment by Pub. L. 100–203 applicable with respect to activities after Dec. 22, 1987, see section 10711(c) of Pub. L. 100–203, set out as a note under section 170 of this title.
+
+#### Effective Date of 1986 Amendments
+
+Amendment by section 1012(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1012(c) of Pub. L. 99–514, set out as an Effective Date note under section 833 of this title.
+
+Amendment by section 1024(b) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
+
+Amendment by section 1109(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1109(c) of Pub. L. 99–514, set out as a note under section 219 of this title.
+
+Amendment by section 1114(b)(14) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1986, see section 1114(c)(1) of Pub. L. 99–514, set out as a note under section 414 of this title.
+
+Section 1603(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and section 514 of this title\] shall apply to taxable years beginning after December 31, 1986.”
+
+Section 1879(k)(2) of Pub. L. 99–514 provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after August 13, 1981.”
+
+Amendment by Pub. L. 99–272 effective Jan. 1, 1986, with certain exceptions, see section 11019 of Pub. L. 99–272, set out as a note under section 1341 of Title 29, Labor.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by section 1032 of Pub. L. 98–369 applicable to taxable years beginning after July 18, 1984, see section 1032(c) of Pub. L. 98–369, set out as a note under section 170 of this title.
+
+Amendment by section 2813(b) of Pub. L. 98–369 effective Oct. 1, 1979, see section 2813(c) of Pub. L. 98–369, set out as an Effective Date note under section 1795k of Title 12, Banks and Banking.
+
+#### Effective Date of 1983 Amendment
+
+Amendment by Pub. L. 97–448 effective as if included in the provisions of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 311(d) of Pub. L. 97–448, set out as a note under section 31 of this title.
+
+#### Effective Date of 1982 Amendment
+
+Section 286(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[amending this section and sections 170, 2055, and 2522 of this title\] shall take effect on October 5, 1976.”
+
+Section 354(c) of Pub. L. 97–248 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Sept. 3, 1982\].”
+
+#### Effective Date of 1981 Amendment
+
+Amendment by Pub. L. 97–119 effective Jan. 1, 1982, see section 103(d)(1) of Pub. L. 97–119, set out as an Effective Date note under section 9501 of this title.
+
+#### Effective Date of 1980 Amendments
+
+Section 106(c)(1) of Pub. L. 96–605, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to all taxable years to which the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies.”
+
+Section 3(b) of Pub. L. 96–601 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after October 20, 1976.”
+
+Amendment by Pub. L. 96–364 applicable to taxable years ending after Sept. 26, 1980, see section 210(c) of Pub. L. 96–364, set out as an Effective Date note under section 418 of this title.
+
+Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as an Effective Date of 1980 Amendment note under section 32 of this title.
+
+#### Effective Date of 1978 Amendments
+
+Amendment by section 703(b)(2), (g)(2)(B) of Pub. L. 95–600 effective on Oct. 4, 1976, see section 703(r) of Pub. L. 95–600, set out as a note under section 46 of this title.
+
+Section 703(g)(2)(C) of Pub. L. 95–600 provided that: “The amendments made by this paragraph \[amending this section\] shall take effect on October 20, 1976, as if included in Public Law 94–568.”
+
+Section 1(b) of Pub. L. 95–345 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1974.”
+
+Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, and expenditures made after Dec. 31, 1977, in and for taxable years beginning after such date, see section 4(f) of Pub. L. 95–227, set out as a note under section 192 of this title.
+
+#### Effective Date of 1976 Amendments
+
+Section 1(d) of Pub. L. 94–568 provided that: “The amendments made by this section \[amending this section and sections 277 and 512 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 20, 1976\].”
+
+Section 2(b) of Pub. L. 94–568 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 20, 1976\].”
+
+Section 1307(e) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section and sections 170, 275, 2055, 2106, 2522, 6104, 6161, 6201, 6211, 6212, 6213, 6214, 6344, 6501, 6512, 6601, and 7422 of this title and enacting sections 504 and 4911 of this title\] shall apply—
+
+&emsp;“(1) except as otherwise specified in paragraph (2), in the case of amendments to subtitle A, to taxable years beginning after December 31, 1976;
+
+&emsp;“(2) in the case of the amendments made by subsection (a)(2) \[enacting section 504 of this title\], to activities occurring after the date of the enactment of this Act \[Oct. 4, 1976\];
+
+&emsp;“(3) in the case of amendments to chapter 11, to the estates of decedents dying after December 31, 1976;
+
+&emsp;“(4) in the case of amendments to chapter 12, to gifts in calendar years beginning after December 31, 1976;
+
+&emsp;“(5) in the case of amendments to subtitle D, to taxable years beginning after December 31, 1976; and
+
+&emsp;“(6) in the case of amendments to subtitle F, on and after the date of the enactment of this Act \[Oct. 4, 1976\].”
+
+Section 1312(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after December 31, 1976.”
+
+Section 1313(d) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section and sections 170, 2055, and 2522 of this title\] shall apply on the day following the date of the enactment of this Act \[Oct. 4, 1976\].”
+
+Section 2113(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending this section\] applies to taxable years ending after December 31, 1975.”
+
+#### Effective Date of 1975 Amendment
+
+Amendment by Pub. L. 93–625 applicable to taxable years beginning after Dec. 31, 1974, see section 10(e) of Pub. L. 93–625, set out as an Effective Date note under section 527 of this title.
+
+#### Effective Date of 1974 Amendment
+
+Section 3(b) of Pub. L. 93–310 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending after December 31, 1973.”
+
+#### Effective Date of 1972 Amendment
+
+Section 1(c) of Pub. L. 92–418 provided that: “The amendments made by this section \[amending this section and section 512 of this title\] shall apply to taxable years beginning after December 31, 1969.”
+
+#### Effective Date of 1970 Amendment
+
+Section 2 of Pub L. 91–618 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply to taxable years ending after the date of enactment of this Act \[Dec. 31, 1970\].”
+
+#### Effective Date of 1969 Amendment
+
+Amendment by section 101(j)(3) of Pub. L. 91–172 effective Jan. 1, 1970, except that amendment of subsec. (a) of this section applicable to taxable years beginning after Dec. 31, 1969, see section 101(k)(1), (2)(B) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
+
+Amendment by section 121(b)(5)(A), (6)(A) of Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 121(g) of Pub. L. 91–172, set out as a note under section 511 of this title.
+
+#### Effective Date of 1968 Amendment
+
+Section 109(b) of Pub. L. 90–364 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[June 28, 1968\].”
+
+#### Effective Date of 1966 Amendments
+
+Section 6(c) of Pub. L. 89–800 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Nov. 8, 1966\].”
+
+Section 3 of Pub. 89–352 provided in part that: “The amendment made by the first section of this Act \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Feb. 2, 1966\].”
+
+#### Effective Date of 1962 Amendment
+
+Section 8(h) of Pub. L. 87–834 provided that: “The amendments made by this section \[enacting sections 823 to 826 of this title, amending this section and sections 821, 822, 832, 841, 1016, and 1201 of this title, and redesignating former section 823 as section 822(f) of this title\] (other than by subsection (f) \[amending section 831 of this title\]) shall apply with respect to taxable years beginning after December 31, 1962.”
+
+#### Effective Date of 1960 Amendments
+
+Section 6 of Pub. L. 86–667 provided that:
+
+“(a) Except as provided in subsection (b), the amendments made by this Act \[amending this section and sections 503, 511, 513, and 514 of this title\] shall apply to taxable years beginning after December 31, 1959.
+
+“(b) In the case of loans, the amendments made by section 2 of this Act \[amending section 503 of this title\] shall apply only to loans made, renewed, or continued after December 31, 1959.”
+
+Section 2 of Pub. L. 86–428 provided that: “The amendment made by this Act \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1959.”
+
+#### Effective Date of 1956 Amendment
+
+Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after Dec. 31, 1954, see section 6 of act Mar. 13, 1956, set out as a note under section 316 of this title.
+
+#### Regulations
+
+Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1114 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
+
+#### Application of Pub. L. 100–647 to Section 501(c)(3) Bonds
+
+Section 1013(i) of Pub. L. 100–647 provided that: “In accordance with section 1302 of the Reform Act \[Pub. L. 99–514, set out as a note below\], each amendment and other provision of this Act \[see Tables for classification\] which applies to private activity bonds shall, unless otherwise expressly provided, apply to qualified 501(c)(3) bonds.”
+
+#### Cancellation of Certain Debts Originated by or Guaranteed by United States Not Taken Into Account in Determining Tax Exempt Status of Certain Organizations
+
+Section 6203 of Pub. L. 100–647 provided that: “Subparagraph (A) of section 501(c)(12) of the 1986 Code shall be applied without taking into account any income attributable to the cancellation of any loan originally made or guaranteed by the United States (or any agency or instrumentality thereof) if such cancellation occurs after 1986 and before 1990.”
+
+#### Plan Amendments Not Required Until January 1, 1989
+
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+#### Treatment of Section 501(c)(3) Bonds
+
+Section 1302 of title XIII of Pub. L. 99–514 provided that: “Nothing in the treatment of section 501(c)(3) bonds as private activity bonds under the amendments made by this title \[enacting sections 141 to 150 and 7703 of this title, amending sections 2, 22, 25, 32, 86, 103, 105, 152, 153, 163, 172, 194, 269A, 414, 879, 1016, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing sections 103A, 1391 to 1397, and 6039B of this title, enacting provisions set out as notes under sections 141 and 148 of this title, and amending provisions set out as a note under section 103A of this title\] shall be construed as indicating how section 501(c)(3) bonds will be treated in future legislation, and any change in future legislation applicable to private activity bonds shall apply to section 501(c)(3) bonds only if expressly provided in such legislation.”
+
+#### Tax-Exempt Status for Organization Introducing Into Public Use Technology Developed by Qualified Organizations
+
+Section 1605 of Pub. L. 99–514 provided that:
+
+“(a)
+
+In General.—For purposes of the Internal Revenue Code of 1986, an organization shall be treated as an organization organized and operated exclusively for charitable purposes if such organization—
+
+&emsp;“(1) is organized and operated exclusively—
+
+&emsp;&emsp;“(A) to provide for (directly or by arranging for and supervising the performance by independent contractors)—
+
+&emsp;&emsp;&emsp;“(i) reviewing technology disclosures from qualified organizations,
+
+&emsp;&emsp;&emsp;“(ii) obtaining protection for such technology through patents, copyrights, or other means, and
+
+&emsp;&emsp;&emsp;“(iii) licensing, sale, or other exploitation of such technology,
+
+&emsp;&emsp;“(B) to distribute the income therefrom, to such qualified organizations after paying expenses and other amounts as agreed with the originating qualified organizations, and
+
+&emsp;&emsp;“(C) to make research grants to such qualified organizations,
+
+&emsp;“(2) regularly provides the services and research grants described in paragraph (1) exclusively to 1 or more qualified organizations, except that research grants may be made to such qualified organizations through an organization which is controlled by 1 or more organizations each of which—
+
+&emsp;&emsp;“(A) is an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 or the income of which is excluded from taxation under section 115 of such Code, and
+
+&emsp;&emsp;“(B) may be a recipient of the services or research grants described in paragraph (1),
+
+&emsp;“(3) derives at least 80 percent of its gross revenues from providing services to qualified organizations located in the same State as the State in which such organization has its principal office, and
+
+&emsp;“(4) was incorporated on July 20, 1981.
+
+“(b)
+
+Qualified Organizations.—For purposes of this section, the term ‘qualified organization’ has the same meaning given to such term by subparagraphs (A) and (B) of section 41(e)(6) (as redesignated by section 231(d)(2)) of the Internal Revenue Code of 1986.
+
+“(c)
+
+Treatment of Investment in a Technology Transfer Service Organization.—
+
+&emsp;“(1)
+
+In general.—A qualified investment made by a private foundation in an organization described in subparagraph (C) shall be treated as an investment described in section 4944(c) of the Internal Revenue Code of 1986 and shall not result in imposition of taxes under section 4941, 4943, 4944, 4945, or 507(c) of such Code.
+
+&emsp;“(2)
+
+Definitions.—For purposes of this subsection—
+
+&emsp;&emsp;“(A)
+
+Qualified investment.—The term ‘qualified investment’ means a transfer by a private foundation of—
+
+&emsp;&emsp;&emsp;“(i) all of the patents, copyrights, know-how, and other technology or rights thereto of the private foundation, and
+
+&emsp;&emsp;&emsp;“(ii) investment assets, net receivables, and cash not exceeding $35,000,000,
+
+&nbsp;&nbsp;to such organization in exchange for debt.
+
+&emsp;&emsp;“(B)
+
+Private foundation.—The term ‘private foundation’ means—
+
+&emsp;&emsp;&emsp;“(i) a nonprofit corporation which was incorporated before 1913 which is described in sections 501(c)(3) and 509(a) of such Code, and which is exempt from taxation under section 501(a) of such Code, and
+
+&emsp;&emsp;&emsp;“(ii) the principal purposes of which are to support research by and to provide technology transfer services to organizations described in section 170(b)(1)(A) of such Code—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) which are exempt from taxation under section 501(a) of such Code, or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the income of which is excluded from taxation under section 115 of such Code.
+
+&emsp;&emsp;“(C)
+
+Technology transfer organization.—The term ‘technology transfer organization’ means a corporation established after the date of the enactment of this Act \[Oct. 22, 1986\]—
+
+&emsp;&emsp;&emsp;“(i) which is organized and operated to advance the public welfare through the provision of technology transfer services to research organizations,
+
+&emsp;&emsp;&emsp;“(ii) no part of the net earnings of which inures to the benefit of, or is distributable to, any private shareholder, individual, or entity, other than a private foundation or research organization,
+
+&emsp;&emsp;&emsp;“(iii) which does not participate in, or intervene in (including the publishing or distributing of statements) any political campaign on behalf of any candidate for public office,
+
+&emsp;&emsp;&emsp;“(iv) no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation, and
+
+&emsp;&emsp;&emsp;“(v) upon liquidation or dissolution of which all of its net assets can be distributed only to research organizations.
+
+“(d)
+
+Effective Date.—This section shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].”
+
+#### Applicability of 1976 Amendment to Certain Organizations
+
+Section 1313(c) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “An organization which (without regard to the amendments made by this section \[amending this section and sections 170, 2055, and 2522 of this title\]) is an organization described in section 170(c)(2)(B), 501(c)(3), 2055(a)(2), or 2522(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall not be treated as an organization not so described as a result of the amendments made by this section.”
+
+#### Tax Exemption for Certain Puerto Rican Pension, etc., Plans
+
+Section 1022(i) of Pub. L. 93–406, title II, Sept. 2, 1974, 88 Stat. 942, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+
+“(1)
+
+General rule.—Effective for taxable years beginning after December 31, 1973, for purposes of section 501(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to exemption from tax), any trust forming part of a pension, profit-sharing, or stock bonus plan all of the participants of which are residents of the Commonwealth of Puerto Rico shall be treated as an organization described in section 401(a) of such Code if such trust—
+
+&emsp;“(A) forms part of a pension, profit-sharing, or stock bonus plan, and
+
+&emsp;“(B) is exempt from income tax under the laws of the Commonwealth of Puerto Rico.
+
+“(2)
+
+Election to have provisions of, and amendments made by, title ii of this act apply.—
+
+&emsp;“(A) If the administrator of a pension, profit-sharing, or stock bonus plan which is created or organized in Puerto Rico elects, at such time and in such manner as the Secretary of the Treasury may require, to have the provisions of this paragraph apply, for plan years beginning after the date of election any trust forming a part of such plan shall be treated as a trust created or organized in the United States for purposes of section 401(a) of the Internal Revenue Code of 1986.
+
+&emsp;“(B) An election under subparagraph (A), once made, is irrevocable.
+
+&emsp;“(C) This paragraph applies to plan years beginning after the date of enactment of this Act \[Sept. 2, 1974\]
+
+&emsp;“(D) The source of any distributions made under a plan which makes an election under this paragraph to participants and beneficiaries residing outside of the United States shall be determined, for purposes of subchapter N of chapter 1 of the Internal Revenue Code of 1986 by the Secretary of the Treasury in accordance with regulations prescribed by him. For purposes of this subparagraph the United States means the United States as defined in section 7701(a)(9) of the Internal Revenue Code of 1986.”
+
+#### Exchanges for Sale of Poultry
+
+Pub. L. 89–44, title VIII, §811, June 21, 1965, 79 Stat. 169, provided that certain corporations, associations, or organizations organized and operated exclusively for the purpose of providing an exchange for the sale of poultry growers of a particular locality shall be treated for purposes of this title as an exempt organization and that such exemption shall apply to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, which begin before Jan. 1, 1966.
+
+#### Cross References
+
+Business lease indebtedness, see section 514 of this title.
+
+Constructive ownership of stock rule inapplicable to tax exempt employees’ trust, see section 318 of this title.
+
+Corporate deductions for dividends received inapplicable to dividends from corporation exempt from tax under this section, see section 246 of this title.
+
+Deduction for contributions of employer to employees’ trust or annuity plan and compensation under a deferred-payment plan, see section 404 of this title.
+
+Denial of exemption, see section 504 of this title.
+
+Disallowance of losses with respect to transactions between persons and certain tax exempt educational and charitable organizations, see section 267 of this title.
+
+Exclusion of services performed in employ of organization exempt from tax under this section—
+
+&emsp;&emsp;Employment under Federal Unemployment Tax Act, see section 3306 of this title.
+
+&emsp;&emsp;Employment under title II of the Social Security Act, see section 410 of Title 42, The Public Health and Welfare.
+
+Feeder organizations, see section 502 of this title.
+
+Imposition of tax on unrelated business income of charitable, etc., organizations, see section 511 of this title.
+
+Includible corporation relative to consolidated returns as excluding corporation exempt from tax under this section, see section 1504 of this title.
+
+Lottery under wagering taxes as excluding drawings conducted by organization exempt from tax under this section, see section 4421 of this title.
+
+Nonforfeitable rights relative to employees’ death benefits, see section 101 of this title.
+
+Prohibition on interests in nonbanking organizations inapplicable to certain bank holding companies exempt under this section, see section 1843 of Title 12, Banks and Banking.
+
+Requirements for exemption, see section 503 of this title.
+
+Returns by exempt organizations, see section 6033 of this title.
+
+Scholarships and fellowship grants to individuals who are not candidates for degrees as excludible from gross income where grantor is a described organization, see section 117 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 21, 41, 42, 50, 51, 57, 62, 72, 79, 101, 104, 108, 120, 129, 131, 141, 144, 145, 146, 147, 148, 149, 150, 151, 168, 170, 192, 194A, 219, 246, 265, 267, 274, 280G, 318, 401, 402, 403, 404, 408, 410, 411, 412, 414, 415, 419, 419A, 447, 448, 457, 468A, 502, 503, 504, 505, 507, 508, 509, 511, 512, 513, 514, 527, 542, 642, 645, 681, 818, 831, 832, 854, 856, 871, 992, 1441, 1504, 1563, 2055, 2503, 2522, 3121, 3303, 3306, 3401, 4041, 4221, 4251, 4253, 4294, 4421, 4911, 4912, 4940, 4941, 4942, 4945, 4947, 4948, 4951, 4952, 4953, 4955, 4962, 4972, 4974, 4975, 4979, 4980A, 4982, 5214, 6033, 6043, 6047, 6049, 6072, 6104, 6110, 6113, 6420, 6421, 6427, 6501, 6711, 6852, 7409, 7428, 7430, 7454, 7609, 7611, 7701, 7802, 9012, 9501, 9702, 9712 of this title; title 2 sections 117e, 806; title 5 sections 504, 3102, 4111, 7342, 8440; title 7 sections 1732, 2279, 4809, 5801, 5901; title 8 section 1101; title 12 sections 1441a–1, 1709, 1843, 3051, 4145, 4146; title 15 sections 77c, 1291; title 16 sections 284d, 539f, 583j–2, 1447a, 2105, 2708, 5406; title 18 sections 207, 209, 1307, 1511, 1955; title 19 section 3391; title 20 sections 80q–7, 1078–10, 1127, 1134m, 1681, 4357, 5502, 5509, 8004; title 21 section 353; title 22 sections 262p–4c, 262p–4e; title 28 section 2412; title 29 sections 169, 623, 706, 795, 1002, 1051, 1052, 1081, 1082, 1086, 1103, 1321, 1362, 1403, 2703; title 35 section 201; title 36 section 3501; title 38 sections 4307, 7361, 7363; title 40 sections 483, 484; title 42 sections 280d–11, 290b, 300e–9, 409, 1301, 1397a, 1485, 1760, 1784, 2000e, 2996b, 3056, 5177a, 5603, 6322, 6371, 6372, 8013, 8143, 9660, 10702, 11371, 12111, 12584; title 43 section 390ss; title 45 section 1347; title 46 section 2101; title 47 sections 154, 396; title 49 section 10701.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>3</sup></i><i> So in original. References to “101(6)” and “1752(6)” probably should be to “101(7)” and “1752(7)”, respectively.</i>
+
+<i><sup>4</sup></i><i> See References in Text note below.</i>
+

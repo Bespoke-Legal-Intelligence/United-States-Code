@@ -1,0 +1,14 @@
+### §13821. Purpose
+
+It is the purpose of this subpart to increase private investment in distressed local communities and to build and expand the capacity of local institutions to better serve the economic needs of local residents through the provision of financial and technical assistance to community development corporations.
+
+(Pub. L. 103–322, title III, §31111, Sept. 13, 1994, 108 Stat. 1882.)
+
+#### Short Title
+
+For short title of this part as the “National Community Economic Partnership Act of 1994”, see section 31101 of Pub. L. 103–322, set out as a note under section 13701 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 13824, 13825, 14214 of this title.
+

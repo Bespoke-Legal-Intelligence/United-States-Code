@@ -1,0 +1,68 @@
+### §1271. Congressional declaration of policy
+
+It is hereby declared to be the policy of the United States that certain selected rivers of the Nation which, with their immediate environments, possess outstandingly remarkable scenic, recreational, geologic, fish and wildlife, historic, cultural, or other similar values, shall be preserved in free-flowing condition, and that they and their immediate environments shall be protected for the benefit and enjoyment of present and future generations. The Congress declares that the established national policy of dam and other construction at appropriate sections of the rivers of the United States needs to be complemented by a policy that would preserve other selected rivers or sections thereof in their free-flowing condition to protect the water quality of such rivers and to fulfill other vital national conservation purposes.
+
+(Pub. L. 90–542, §1(b), Oct. 2, 1968, 82 Stat. 906.)
+
+#### Codification
+
+Section consists of subsec. (b) of section 1 of Pub. L. 90–542. Subsecs. (a) and (c) of section 1 are classified to section 1272 of this title and as a note under this section, respectively.
+
+#### Short Title of 1994 Amendments
+
+Pub. L. 103–313, §1, Aug. 26, 1994, 108 Stat. 1699, provided that: “This Act \[amending section 1274 of this title and enacting provisions set out as a note under section 1274 of this title\] may be cited as the ‘Farmington Wild and Scenic River Act’.”
+
+Pub. L. 103–242, §1, May 4, 1994, 108 Stat. 611, provided that: “This Act \[amending sections 1274 and 1276 of thistitle and enacting provisions set out as a note under section 1274 of this title\] may be cited as the ‘Rio Grande Designation Act of 1994’.”
+
+#### Short Title of 1993 Amendment
+
+Pub. L. 103–170, §1, Dec. 2, 1993, 107 Stat. 1986, provided that: “This Act \[amending section 1274 of this title\] may be cited as the ‘Red River Designation Act of 1993’.”
+
+#### Short Title of 1992 Amendments
+
+Pub. L. 102–275, §1, Apr. 22, 1992, 106 Stat. 123, provided that: “This Act \[amending section 1274 of this title and enacting provisions set out as a note under section 1274 of this title\] may be cited as the ‘Arkansas Wild and Scenic Rivers Act of 1992’.”
+
+Pub. L. 102–249, §1, Mar. 3, 1992, 106 Stat. 45, provided that: “This Act \[amending sections 1274 and 1276 of this title and enacting provisions set out as a note under section 1274 of this title\] may be cited as the ‘Michigan Scenic Rivers Act of 1991’.”
+
+#### Short Title of 1991 Amendments
+
+Pub. L. 102–215, §1, Dec. 11, 1991, 105 Stat. 1664, provided that: “This Act \[amending section 1276 of this title\] may be cited as the ‘White Clay Creek Study Act’.”
+
+Pub. L. 102–214, §1, Dec. 11, 1991, 105 Stat. 1663, provided that: “This Act \[amending section 1276 of this title\] may be cited as the ‘Lamprey River Study Act of 1991’.”
+
+Pub. L. 102–50, §1, May 24, 1991, 105 Stat. 254, provided that: “This Act \[amending sections 1274 and 1276 of this title and enacting provisions set out as notes under sections 1a–5 and 1274 of this title\] may be cited as the ‘Niobrara Scenic River Designation Act of 1991’.”
+
+#### Short Title of 1990 Amendments
+
+Pub. L. 101–628, title VII, §701, Nov. 28, 1990, 104 Stat. 4497, provided that: “This title \[amending section 1276 of this title\] may be cited as the ‘Sudbury, Assabet, and Concord Wild and Scenic River Study Act’.”
+
+Pub. L. 101–628, title XIII, §1301, Nov. 28, 1990, 104 Stat. 4509, provided that: “This Act \[probably should be “this title”, amending section 1274 of this title\] may be cited as the ‘Clarks Fork Wild and Scenic River Designation Act of 1990’.”
+
+Pub. L. 101–357, §1, Aug. 10, 1990, 104 Stat. 418, provided that: “This Act \[amending section 1276 of this title\] may be cited as the ‘Pemigewasset River Study Act of 1989’.”
+
+Pub. L. 101–356, §1, Aug. 10, 1990, 104 Stat. 417, provided that: “This Act \[amending section 1276 of this title\] may be cited as the ‘Merrimack River Study Act of 1990’.”
+
+Pub. L. 101–306, §1, June 6, 1990, 104 Stat. 260, provided that: “This Act \[amending section 1274 of this title\] may be cited as the ‘East Fork of the Jemez River and the Pecos River Wild and Scenic Rivers Addition Act of 1989’.”
+
+#### Short Title of 1988 Amendments
+
+Pub. L. 100–557, title I, §101, Oct. 28, 1988, 102 Stat. 2782, provided that: “This title \[amending sections 1274 and 1276 of this title and enacting provisions set out as notes under section 1274 of this title\] may be referred to as the ‘Omnibus Oregon Wild and Scenic Rivers Act of 1988’.”
+
+Pub. L. 100–547, §1, Oct. 28, 1988, 102 Stat. 2736, provided: “That this Act \[amending section 1274 of this title and enacting provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘Sipsey Wild and Scenic River and Alabama Addition Act of 1988’.”
+
+#### Short Title of 1986 Amendment
+
+Pub. L. 99–590, title II, §201, Oct. 30, 1986, 100 Stat. 3332, provided that: “This title \[amending section 1276 of this title\] may be cited as the ‘Farmington Wild and Scenic River Study Act’.”
+
+#### Short Title of 1972 Amendment
+
+Section 1 of Pub. L. 92–560, Oct. 25, 1972, 86 Stat. 1174, provided: “That this Act \[amending section 1274 of this title and enacting provisions set out as notes under that section\] may be cited as the ‘Lower Saint Croix River Act of 1972’.”
+
+#### Short Title
+
+Section 1(a) of Pub. L. 90–542 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Wild and Scenic Rivers Act’.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1272, 1273 of this title.
+

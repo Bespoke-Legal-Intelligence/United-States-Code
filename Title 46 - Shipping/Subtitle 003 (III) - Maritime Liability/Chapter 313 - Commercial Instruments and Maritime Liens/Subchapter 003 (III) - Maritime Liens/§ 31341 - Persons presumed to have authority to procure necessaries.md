@@ -1,0 +1,50 @@
+### §31341. Persons presumed to have authority to procure necessaries
+
+(a) The following persons are presumed to have authority to procure necessaries for a vessel:
+
+&emsp;(1) the owner;
+
+&emsp;(2) the master;
+
+&emsp;(3) a person entrusted with the management of the vessel at the port of supply; or
+
+&emsp;(4) an officer or agent appointed by—
+
+&emsp;&emsp;(A) the owner;
+
+&emsp;&emsp;(B) a charterer;
+
+&emsp;&emsp;(C) an owner pro hac vice; or
+
+&emsp;&emsp;(D) an agreed buyer in possession of the vessel.
+
+(b) A person tortiously or unlawfully in possession or charge of a vessel has no authority to procure necessaries for the vessel.
+
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4748; Pub. L. 101–225, title III, §303(5), Dec. 12, 1989, 103 Stat. 1924.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source section (U.S. Code)</i>
+
+31341(a)
+
+46:972 (1st sentence), 973
+
+31341(b)
+
+46:972 (2d sentence)
+
+Section 31341(a) lists those persons who are presumed to have authority to procure necessaries for a vessel. These include the owner, master, or a manager at the port of supply; and an officer or agent appointed by the owner, charterer, owner <i>pro hac vice</i>, or buyer in possession of the vessel. This subsection makes no substantive change to law.
+
+Section 31341(b) provides that any person that is tortiously or unlawfully in possession of or in charge of a vessel has no authority to procure necessaries. This subsection makes no substantive change to law.
+
+#### Amendments
+
+1989—Subsec. (a)(3). Pub. L. 101–225 substituted “management” for “mangement”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 31301, 31323 of this title.
+

@@ -1,0 +1,20 @@
+### §3335. Timely disbursement of Federal funds
+
+(a) Each head of an executive agency (other than the Tennessee Valley Authority) shall, under such regulations as the Secretary of the Treasury shall prescribe, provide for the timely disbursement of Federal funds through cash, checks, electronic funds transfer, or any other means identified by the Secretary.
+
+(b) The Secretary may collect from any executive agency which does not comply with subsection (a) a charge in an amount the Secretary determines to be the cost to the general fund of the Treasury caused by such noncompliance.
+
+(c) The amounts of charges collected from an executive agency under this section shall be deposited in the Treasury and credited as miscellaneous receipts.
+
+(d) Any charge assessed by the Secretary under this section, to the maximum extent practicable—
+
+&emsp;(1) shall be paid out of appropriations available for executive agency operations; and
+
+&emsp;(2) shall not be paid from amounts available for funding programs of an executive agency.
+
+(Added Pub. L. 101–453, §4(a), Oct. 24, 1990, 104 Stat. 1058.)
+
+#### Regulations
+
+Section 4(c) of Pub. L. 101–453, as amended by Pub. L. 102–589, §2(1), Nov. 10, 1992, 106 Stat. 5133, provided that: “The Secretary of the Treasury shall prescribe regulations under section 3335 of title 31, United States Code, as added by subsection (a), to ensure the full implementation of that section.”
+

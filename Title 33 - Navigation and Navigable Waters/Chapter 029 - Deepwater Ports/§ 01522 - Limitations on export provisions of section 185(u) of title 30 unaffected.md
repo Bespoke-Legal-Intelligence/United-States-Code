@@ -1,0 +1,10 @@
+### §1522. Limitations on export provisions of section 185(u) of title 30 unaffected
+
+Nothing in this chapter shall be construed to amend, restrict, or otherwise limit the application of section 185(u) of title 30.
+
+(Pub. L. 93–627, §23, Jan. 3, 1975, 88 Stat. 2147.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1502 of this title.
+

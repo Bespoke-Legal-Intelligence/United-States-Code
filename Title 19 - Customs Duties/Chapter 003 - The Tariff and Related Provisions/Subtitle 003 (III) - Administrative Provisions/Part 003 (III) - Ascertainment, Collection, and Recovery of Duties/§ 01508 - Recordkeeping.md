@@ -1,0 +1,156 @@
+### §1508. Recordkeeping
+
+#### (a) Requirements
+
+Any—
+
+&emsp;(1) owner, importer, consignee, importer of record, entry filer, or other party who—
+
+&emsp;&emsp;(A) imports merchandise into the customs territory of the United States, files a drawback claim, or transports or stores merchandise carried or held under bond, or
+
+&emsp;&emsp;(B) knowingly causes the importation or transportation or storage of merchandise carried or held under bond into or from the customs territory of the United States;
+
+&emsp;(2) agent of any party described in paragraph (1); or
+
+&emsp;(3) person whose activities require the filing of a declaration or entry, or both;
+
+> shall make, keep, and render for examination and inspection records (which for purposes of this section include, but are not limited to, statements, declarations, documents and electronically generated or machine readable data) which—
+
+&emsp;(A) pertain to any such activity, or to the information contained in the records required by this chapter in connection with any such activity; and
+
+&emsp;(B) are normally kept in the ordinary course of business.
+
+#### (b) Exportations to free trade countries
+
+#### (1) Definitions
+
+&emsp;As used in this subsection—
+
+&emsp;&emsp;(A) The term “associated records” means, in regard to an exported good under paragraph (2), records associated with—
+
+&emsp;&emsp;&emsp;(i) the purchase of, cost of, value of, and payment for, the good;
+
+&emsp;&emsp;&emsp;(ii) the purchase of, cost of, value of, and payment for, all material, including indirect materials, used in the production of the good; and
+
+&emsp;&emsp;&emsp;(iii) the production of the good.
+
+> &emsp;&emsp;For purposes of this subparagraph, the terms “indirect material”, “material”, “preferential tariff treatment”, “used”, and “value” have the respective meanings given them in articles 415 and 514 of the North American Free Trade Agreement.
+
+&emsp;&emsp;(B) The term “NAFTA Certificate of Origin” means the certification, established under article 501 of the North American Free Trade Agreement, that a good qualifies as an originating good under such Agreement.
+
+#### (2) Exports to NAFTA countries
+
+#### (A) In general
+
+&emsp;&emsp;Any person who completes and signs a NAFTA Certificate of Origin for a good for which preferential treatment under the North American Free Trade Agreement is claimed shall make, keep, and render for examination and inspection all records relating to the origin of the good (including the Certificate or copies thereof) and the associated records.
+
+#### (B) Claims for certain waivers, reductions, or refunds of duties or for credit against bonds
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Any person that claims with respect to an article—
+
+&emsp;&emsp;&emsp;&emsp;(I) a waiver or reduction of duty under the last paragraph of section 1311 of this title, section 1312(b)(1) or (4) of this title, section 1562(2) of this title, or the last proviso to section 81c(a) of this title;
+
+&emsp;&emsp;&emsp;&emsp;(II) a credit against a bond under section 1312(d) of this title; or
+
+&emsp;&emsp;&emsp;&emsp;(III) a refund, waiver, or reduction of duty under section 1313(n)(2) or (<i>o</i>)(1) of this title;
+
+&emsp;&emsp;&nbsp;must disclose to the Customs Service the information described in clause (ii).
+
+#### (ii) Information required
+
+&emsp;&emsp;&emsp;Within 30 days after making a claim described in clause (i) with respect to an article, the person making the claim must disclose to the Customs Service whether that person has prepared, or has knowledge that another person has prepared, a NAFTA Certificate of Origin for the article. If after such 30-day period the person making the claim either—
+
+&emsp;&emsp;&emsp;&emsp;(I) prepares a NAFTA Certificate of Origin for the article; or
+
+&emsp;&emsp;&emsp;&emsp;(II) learns of the existence of such a Certificate for the article;
+
+&emsp;&emsp;&nbsp;that person, within 30 days after the occurrence described in subclause (I) or (II), must disclose the occurrence to the Customs Service.
+
+#### (iii) Action on claim
+
+&emsp;&emsp;&emsp;If the Customs Service determines that a NAFTA Certificate of Origin has been prepared with respect to an article for which a claim described in clause (i) is made, the Customs Service may make such adjustments regarding the previous customs treatment of the article as may be warranted.
+
+#### (3) Exports under the Canadian agreement
+
+&emsp;Any person who exports, or who knowingly causes to be exported, any merchandise to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to the exportations.
+
+#### (c) Period of time
+
+The records required by subsections (a) and (b) of this section shall be kept for such periods of time as the Secretary shall prescribe; except that—
+
+&emsp;(1) no period of time for the retention of the records required under subsection (a) or (b)(3) of this section may exceed 5 years from the date of entry or exportation, as appropriate;
+
+&emsp;(2) the period of time for the retention of the records required under subsection (b)(2) of this section shall be at least 5 years from the date of signature of the NAFTA Certificate of Origin; and
+
+&emsp;(3) records for any drawback claim shall be kept until the 3rd anniversary of the date of payment of the claim.
+
+#### (d) Limitation
+
+For the purposes of this section and section 1509 of this title, a person ordering merchandise from an importer in a domestic transaction does not knowingly cause merchandise to be imported unless—
+
+&emsp;(1) the terms and conditions of the importation are controlled by the person placing the order; or
+
+&emsp;(2) technical data, molds, equipment, other production assistance, material, components, or parts are furnished by the person placing the order with knowledge that they will beused in the manufacture or production of the imported merchandise.
+
+#### (e) Subsection (b) penalties
+
+#### (1) Relating to NAFTA exports
+
+&emsp;Any person who fails to retain records required by paragraph (2) of subsection (b) of this section or the regulations issued to implement that paragraph shall be liable for—
+
+&emsp;&emsp;(A) a civil penalty not to exceed $10,000; or
+
+&emsp;&emsp;(B) the general recordkeeping penalty that applies under the customs laws;
+
+> &emsp;whichever penalty is higher.
+
+#### (2) Relating to Canadian agreement exports
+
+&emsp;Any person who fails to retain the records required by paragraph (3) of subsection (b) of this section or the regulations issued to implement that paragraph shall be liable for a civil penalty not to exceed $10,000.
+
+(June 17, 1930, ch. 497, title IV, §508, as added Oct. 3, 1978, Pub. L. 95–410, title I, §104, 92 Stat. 889; amended Sept. 28, 1988, Pub. L. 100–449, title II, §205(b), 102 Stat. 1864; Dec. 8, 1993, Pub. L. 103–182, title II, §205(a), title VI, §614, 107 Stat. 2093, 2174.)
+
+#### References in Text
+
+The customs laws, referred to in subsec. (e)(1)(B), are classified generally to this title.
+
+#### Prior Provisions
+
+A prior section 1508, acts June 17, 1930, ch. 497, title IV, §508, 46 Stat. 732; Aug. 8, 1953, ch. 397, §19, 67 Stat. 518, related to commingling of goods, prior to repeal by Pub. L. 87–456, title III, §301(a), May 24, 1962, 76 Stat. 75, effective, pursuant to section 501(a) of Pub. L. 87–456, with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
+
+#### Amendments
+
+1993—Subsec. (a). Pub. L. 103–182, §614(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any owner, importer, consignee, or agent thereof who imports, or who knowingly causes to be imported, any merchandise into the customs territory of the United States shall make, keep, and render for examination and inspection such records (including statements, declarations, and other documents) which—
+
+&emsp;“(1) pertain to any such importation, or to the information contained in the documents required by this chapter in connection with the entry of merchandise; and
+
+&emsp;“(2) are normally kept in the ordinary course of business.”
+
+Subsec. (b). Pub. L. 103–182, §205(a)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any person who exports, or who knowingly causes to be exported, any merchandise to Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to such exportations.”
+
+Subsec. (c). Pub. L. 103–182, §205(a)(2), amended generally subsec. (c), as amended by Pub. L. 103–182, §614(2) (see below). Prior to amendment, subsec. (c) read as follows: “The records required by subsections (a) and (b) of this section shall be kept for such period of time, not to exceed 5 years from the date of entry or exportation, as appropriate, as the Secretary shall prescribe; except that records for any drawback claim shall be kept until the 3rd anniversary of the date of payment of the claim.” See Construction of 1993 Amendment note below.
+
+Pub. L. 103–182, §614(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The records required by subsection (a) and (b) of this section shall be kept for such periods of time, not to exceed 5 years from the date of entry, as the Secretary shall prescribe.” See Construction of 1993 Amendment note below.
+
+Subsec. (e). Pub. L. 103–182, §205(a)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any person who fails to retain records required by subsection (b) of this section or the regulations issued to implement that subsection shall be liable to a civil penalty not to exceed $10,000.”
+
+1988—Subsecs. (b) to (e). Pub. L. 100–449 added subsec. (b), redesignated former subsec. (b) as (c) and inserted “and (b)” after “subsection (a)”, redesignated former subsec. (c) as (d), and added subsec. (e).
+
+#### Effective Date of 1993 Amendment
+
+Amendment by section 205(a) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
+
+#### Effective and Termination Dates of 1988 Amendment
+
+Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
+
+#### Construction of 1993 Amendment
+
+Amendment by section 205(a) of Pub. L. 103–182 to be made after amendment by section 614 of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under section 58c of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 81c, 1311, 1312, 1313, 1509, 1520, 1553a, 1562, 1592 of this title.
+

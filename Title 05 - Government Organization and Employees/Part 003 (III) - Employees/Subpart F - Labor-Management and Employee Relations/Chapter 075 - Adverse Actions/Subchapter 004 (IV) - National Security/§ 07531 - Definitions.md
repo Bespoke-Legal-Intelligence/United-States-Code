@@ -1,0 +1,72 @@
+### §7531. Definitions
+
+For the purpose of this subchapter, “agency” means—
+
+&emsp;(1) the Department of State;
+
+&emsp;(2) the Department of Commerce;
+
+&emsp;(3) the Department of Justice;
+
+&emsp;(4) the Department of Defense;
+
+&emsp;(5) a military department;
+
+&emsp;(6) the Coast Guard;
+
+&emsp;(7) the Atomic Energy Commission;
+
+&emsp;(8) the National Aeronautics and Space Administration; and
+
+&emsp;(9) such other agency of the Government of the United States as the President designates in the best interests of national security.
+
+> The President shall report any designation to the Committees on the Armed Services of the Congress.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 22–3.
+
+Aug. 26, 1950, ch. 823, §3, 64 Stat. 477.
+
+Paragraphs (1)–(8) are supplied on authority of former section 22–1, which is carried in part into section 7532. The references to “the Foreign Service of the United States” and “several field services” are omitted as unnecessary since they are within the agencies concerned. The words “military departments” are substituted for the enumeration of the military departments in view of the definition of “military department” in section 102.
+
+The reference to the National Security Resources Board is omitted as the Board was abolished by 1953 Reorg. Plan No. 3, §6, eff. June 12, 1953, 67 Stat. 636.
+
+Paragraph (9) is restated to conform to the style of this title.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Change of Name
+
+Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Abolition of Atomic Energy Commission
+
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
+
+#### Panama Canal and Panama Railroad Company
+
+Ex. Ord. No. 10237, Apr. 27, 1951, 16 F.R. 3627, made the provisions of former sections 22–1 and 22–3 of this title \[see Disposition Table preceding section 101 of this title\] applicable to the Panama Canal Government and to the Panama Canal Company.
+
+#### Designation of National Security Agency, Defense Intelligence Agency, and Defense Mapping Agency as “Agencies”
+
+Memorandum of the President of the United States, May 23, 1988, 53 F.R. 26023, provided:
+
+Memorandum for the Secretary of Defense
+
+I have reviewed the personnel security requirements of the National Security Agency, the Defense Intelligence Agency, and the Defense Mapping Agency and the termination provisions of 5 U.S.C. Section 7532. I have determined that these Agencies are sensitive agencies and that it is in the best interests of national security that they be designated “agencies” within the meaning of that section.
+
+Therefore, pursuant to the authority set forth in 5 U.S.C. Section 7531(9), I hereby designate the NationalSecurity Agency, the Defense Intelligence Agency, and the Defense Mapping Agency as “agencies” within the meaning of 5 U.S.C. Section 7532.
+
+You are hereby authorized and directed to report these designations to the Committees on Armed Services of the Congress and to publish this memorandum in the Federal Register.
+
+Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+

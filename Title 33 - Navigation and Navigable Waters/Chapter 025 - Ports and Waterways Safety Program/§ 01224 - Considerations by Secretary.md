@@ -1,0 +1,40 @@
+### §1224. Considerations by Secretary
+
+In carrying out his duties and responsibilities under section 1223 of this title, the Secretary shall—
+
+&emsp;(a) take into account all relevant factors concerning navigation and vessel safety and protection of the marine environment, including but not limited to—
+
+&emsp;&emsp;(1) the scope and degree of the risk or hazard involved;
+
+&emsp;&emsp;(2) vessel traffic characteristics and trends, including traffic volume, the sizes and types of vessels involved, potential interference with the flow of commercial traffic, the presence of any unusual cargoes, and other similar factors;
+
+&emsp;&emsp;(3) port and waterway configurations and variations in local conditions of geography, climate, and other similar factors;
+
+&emsp;&emsp;(4) the need for granting exemptions for the installation and use of equipment or devices for use with vessel traffic services for certain classes of small vessels, such as self-propelled fishing vessels and recreational vessels;
+
+&emsp;&emsp;(5) the proximity of fishing grounds, oil and gas drilling and production operations, or any other potential or actual conflicting activity;
+
+&emsp;&emsp;(6) environmental factors;
+
+&emsp;&emsp;(7) economic impact and effects;
+
+&emsp;&emsp;(8) existing vessel traffic services; and
+
+&emsp;&emsp;(9) local practices and customs, including voluntary arrangements and agreements within the maritime community; and
+
+&emsp;(b) at the earliest possible time, consult with and receive and consider the views of representatives of the maritime community, ports and harbor authorities or associations, environmental groups, and other parties who may be affected by the proposed actions.
+
+(Pub. L. 92–340, §5, formerly title I, §104, July 10, 1972, 86 Stat. 427; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1474.)
+
+#### Amendments
+
+1978—Pub. L. 95–474 substituted provision relating to factors to be considered by the Secretary and to consultation by the Secretary with affected groups for provision relating to the issuance of rules and regulations by the Secretary.
+
+#### Study of Desirability and Feasibility of Shore-Station Systems for Monitoring Vessels
+
+Section 3 of Pub. L. 95–474 authorized the Secretary, in consultation with the Secretary of Commerce and other appropriate departments or agencies of the Federal Government to study the desirability and feasibility of shore-station systems for monitoring vessels within the Fishery Conservation Zone as defined in section 1802(8) of Title 16, Conservation, required the Secretary to report his findings to Congress, within two years after Oct. 17, 1978, and authorized appropriations for such study for fiscal years 1979 and 1980.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1223, 1229 of this title.
+

@@ -1,0 +1,30 @@
+### §6024. Aviation designations: naval flight officer
+
+Any officer of the naval service may be designated a naval flight officer if he has successfully completed the course prescribed for naval flight officers.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 377; Feb. 26, 1970, Pub. L. 91–198, §1(2), 84 Stat. 15.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+6024
+
+34 U.S.C. 735 (par. 3).
+
+June 24, 1926, ch. 668, §3 (par. 3), 44 Stat. 767.
+
+The phrase “by competent authority” is omitted as surplusage. The definition form of 34 U.S.C. 735 is not followed.
+
+#### Amendments
+
+1970—Pub. L. 91–198 substituted “naval flight officer” for “naval aviation observer” and “naval flight officers” for “naval aviation observers,” and struck out requirement that such officer have been in the air at least 100 hours.
+
+#### Cross References
+
+Aviation commands, eligibility, see section 5942 of this title.
+

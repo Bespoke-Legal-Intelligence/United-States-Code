@@ -1,0 +1,180 @@
+### §1174 . Separation pay upon involuntary discharge or release from active duty
+
+(a)
+
+Regular Officers.—(1) A regular officer who is discharged under chapter 36 of this title (except under section 630(1)(A) or 643 of such chapter) or under section 580, 1177, or 6383 of this title and who has completed six or more, but less than twenty, years of active service immediately before that discharge is entitled to separation pay computed under subsection (d)(1).
+
+(2) A regular commissioned officer of the Army, Navy, Air Force, or Marine Corps who is discharged under section 630(1)(A), 643, or 1186 of this title, and a regular warrant officer of the Army, Navy, Air Force, or Marine Corps who is separated under section 1165 or 1166 of this title, who has completed six or more, but less than twenty, years of active service immediately before that discharge or separation is entitled to separation pay computed under subsection (d)(1) or (d)(2), as determined by the Secretary of the military department concerned, unless the Secretary concerned determines that the conditions under which the officer is discharged or separated do not warrant payment of such pay.
+
+(b)
+
+Regular Enlisted Members.—(1) A regular enlisted member of an armed force who is discharged involuntarily or as the result of the denial of the reenlistment of the member and who has completed six or more, but less than 20, years of active service immediately before that discharge is entitled to separation pay computed under subsection (d) unless the Secretary concerned determines that the conditions under which the member is discharged do not warrant payment of such pay.
+
+(2) Separation pay of an enlisted member shall be computed under paragraph (1) of subsection (d), except that such pay shall be computed under paragraph (2) of such subsection in the case of a member who is discharged under criteria prescribed by the Secretary of Defense.
+
+(c)
+
+Other Members.—(1) Except as provided in paragraphs (2) and (3), a member of an armed force other than a regular member who is discharged or released from active duty and who has completed six or more, but fewer than 20, years of active service immediately before that discharge or release is entitled to separation pay computed under subsection (d)(1) or (d)(2), as determined by the Secretary concerned, if—
+
+&emsp;(A) the member's discharge or release from active duty is involuntary; or
+
+&emsp;(B) the member was not accepted for an additional tour of active duty for which he volunteered.
+
+(2) If the Secretary concerned determines that the conditions under which a member described in paragraph (1) is discharged or separated do not warrant separation pay under this section, that member is not entitled to that pay.
+
+(3) A member described in paragraph (1) who was not on the active-duty list when discharged or separated is not entitled to separation pay under this section unless such member had completed at least six years of continuous active duty immediately before such discharge or release. For purposes of this paragraph, a period of active duty is continuous if it is not interrupted by a break in service of more than 30 days.
+
+(d)
+
+Amount of Separation Pay.—The amount of separation pay which may be paid to a member under this section is—
+
+&emsp;(1) 10 percent of the product of (A) his years of active service, and (B) 12 times the monthly basic pay to which he was entitled at the time of his discharge or release from active duty; or
+
+&emsp;(2) one-half of the amount computed under clause (1).
+
+(e)
+
+Requirement for Service in Ready Reserve; Exceptions To Eligibility.—(1)(A) As a condition of receiving separation pay under this section, a person otherwise eligible for that pay shall be required to enter into a written agreement with the Secretary concerned to serve in the Ready Reserve of a reserve component for a period of not less than three years following the person's discharge or release from active duty. If the person has a service obligation under section 651 of this title or under any other provision of law that is not completed at the time the person is discharged or released from active duty, the three-year obligation under this subsection shall begin on the day after the date on which the person completes the person's obligation under such section or other provision of law.
+
+(B) Each person who enters into an agreement referred to in subparagraph (A) who is not already a Reserve of an armed force and who is qualified shall, upon such person's discharge or release from active duty, be enlisted or appointed, as appropriate, as a Reserve and be transferred to a reserve component.
+
+(2) A member who is discharged or released from active duty is not eligible for separation pay under this section if the member—
+
+&emsp;(A) is discharged or released from active duty at his request;
+
+&emsp;(B) is discharged or released from active duty during an initial term of enlistment or an initial period of obligated service;
+
+&emsp;(C) is released from active duty for training; or
+
+&emsp;(D) upon discharge or release from active duty, is immediately eligible for retired or retainer pay based on his military service.
+
+(f)
+
+Counting Fractional Years of Service.—In determining a member's years of active service for the purpose of computing separation pay under this section, each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.
+
+(g)
+
+Coordination With Other Separation or Severance Pay Benefits.—A period for which a member has previously received separation pay under this section or severance pay or readjustment pay under any other provision of law based on service in the armed forces may not be included in determining the years of service that may be counted in computing the separation pay of the member under this section.
+
+(h)
+
+Coordination With Retired or Retainer Pay and Disability Compensation.—(1) A member who has received separation pay under this section, or separation pay, severance pay, or readjustment pay under any other provision of law, based on service in the armed forces, and who later qualifies for retired or retainer pay under this title or title 14 shall have deducted from each payment of such retired or retainer pay so much of such pay as is based on the service for which he received separation pay under this section or separation pay, severance pay, or readjustment pay under any other provision of law until the total amount deducted is equal to the total amount of separation pay, severance pay, and readjustment pay received.
+
+(2) A member who has received separation pay under this section, or severance pay or readjustment pay under any other provision of law, based on service in the armed forces shall not be deprived, by reason of his receipt of such separation pay, severance pay, or readjustment pay, of any disability compensation to which he is entitled under the laws administered by the Department of Veterans Affairs, but there shall be deducted from that disability compensation an amount equal to the total amount of separation pay, severance pay, and readjustment pay received. Notwithstanding the preceding sentence, no deduction may be made from disability compensation for the amount of any separation pay, severance pay, or readjustment pay received because of an earlier discharge or release from a period of active duty if the disability which is the basis for that disability compensation was incurred or aggravated during a later period of active duty.
+
+(i)
+
+Regulations; Crediting of Other Commissioned Service.—(1) The Secretary of Defense shall prescribe regulations, which shall be uniform for the Army, Navy, Air Force, and Marine Corps, for the administration of this section.
+
+(2) Active commissioned service in the National Oceanic and Atmospheric Administration or the Public Health Service shall be credited as active service in the armed forces for the purposes of this section.
+
+(Added Pub. L. 96–513, title I, §109(c), Dec. 12, 1980, 94 Stat. 2870; amended Pub. L. 97–22, §10(b)(10)(A), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §§911(a), (b), 923(b), title X, §1007(c)(2), Sept. 24, 1983, 97 Stat. 639, 640, 643, 662; Pub. L. 98–498, title III, §320(a)(2), Oct. 19, 1984, 98 Stat. 2308; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §501(a)–(d), (g), (h), Nov. 5, 1990, 104 Stat. 1549–1551; Pub. L. 102–190, div. A, title XI, §1131(6), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–160, div. A, title V, §501(a), Nov. 30, 1993, 107 Stat. 1644; Pub. L. 103–337, div. A, title V, §560(c), Oct. 5, 1994, 108 Stat. 2778.)
+
+#### Amendments
+
+1994—Subsec. (a)(1). Pub. L. 103–337 inserted “, 1177,” after “section 580”.
+
+1993—Subsec. (a)(1). Pub. L. 103–160 substituted “six” for “five”.
+
+1991—Subsec. (a)(1). Pub. L. 102–190 substituted “section 580” for “section 564”.
+
+1990—Subsec. (a). Pub. L. 101–510, §501(a)(1), inserted heading.
+
+Subsec. (a)(1). Pub. L. 101–510, §501(g)(1), substituted “or under section 564 or 6383 of this title” for “, under section 564 or 6383 of this title, or under section 603 or 604 of the Defense Officer Personnel Management Act” and struck out “or release” after “that discharge”.
+
+Subsec. (a)(2). Pub. L. 101–510, §501(b)(1), substituted “six or more” for “five or more”.
+
+Pub. L. 101–510, §501(a)(2), redesignated subsec. (b) as subsec. (a)(2).
+
+Subsec. (b). Pub. L. 101–510, §501(a)(3), added subsec. (b). Former subsec. (b) redesignated (a)(2).
+
+Subsec. (c). Pub. L. 101–510, §501(h)(1), inserted heading.
+
+Subsec. (c)(1). Pub. L. 101–510, §501(g)(2), struck out “after September 14, 1981,” after “member who” in introductory provisions.
+
+Pub. L. 101–510, §501(b)(1), substituted “six or more” for “five or more” in introductory provisions.
+
+Subsec. (c)(3). Pub. L. 101–510, §501(b)(2), substituted “at least six years” for “at least five years”.
+
+Subsec. (d). Pub. L. 101–510, §501(h)(2), inserted heading.
+
+Subsec. (d)(1). Pub. L. 101–510, §501(c)(1)(A), struck out “or $30,000, whichever is less” after “active duty”.
+
+Subsec. (d)(2). Pub. L. 101–510, §501(c)(1)(B), struck out “, but in no event more than $15,000” after “under clause (1)”.
+
+Subsec. (e). Pub. L. 101–510, §501(d), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “A member who—
+
+&emsp;“(1) is discharged or released from active duty at his request;
+
+&emsp;“(2) is released from active duty for training; or
+
+&emsp;“(3) upon discharge or release from active duty, is immediately eligible for retired or retainer pay based on his military service;
+
+> is not eligible for separation pay under this section.”
+
+Subsec. (f). Pub. L. 101–510, §501(h)(3), inserted heading.
+
+Subsec. (g). Pub. L. 101–510, §501(h)(4), inserted heading.
+
+Pub. L. 101–510, §501(c)(2), struck out “(1)” after “(g)” and struck out par. (2) which read as follows: “The total amount that a member may receive in separation pay under this section and severance pay and readjustment pay under any other provision of law, other than section 1212 of this title, based on service in the armed forces may not exceed $30,000.”
+
+Subsec. (h). Pub. L. 101–510, §501(h)(5), inserted heading.
+
+Subsec. (i). Pub. L. 101–510, §501(h)(6), inserted heading.
+
+1989—Subsec. (h)(2). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+
+1984—Subsec. (h)(1). Pub. L. 98–498 substituted “separation pay, severance pay,” for “severance pay” before “or readjustment pay” in two places.
+
+1983—Subsec. (c). Pub. L. 98–94, §911(a), amended subsec. (c) generally, designating existing provisions as par. (1) and existing pars. (1) and (2) as subpars. (A) and (B), respectively, and in provisions preceding subpar. (A) substituted “Except as provided in paragraphs (2) and (3), a member” for “A member” and “fewer than 20, years of active service immediately before that discharge or release is entitled to separation pay” for “less than twenty, years of active service immediately before that discharge or release is entitled, unless the Secretary concerned determines that the conditions under which the member is discharged or separated donot warrant such pay, to separation pay”, and added pars. (2) and (3).
+
+Subsec. (f). Pub. L. 98–94, §923(b), amended subsec. (f) generally, substituting “each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded”.
+
+Subsec. (g)(2). Pub. L. 98–94, §911(b), inserted “, other than section 1212 of this title,” after “any other provision of law”.
+
+Subsec. (i). Pub. L. 98–94, §1007(c)(2), designated existing provisions as par. (1) and added par. (2).
+
+1981—Subsec. (c). Pub. L. 97–22 substituted “after September 14, 1981,” for “on or after the effective date of the Defense Officer Personnel Management Act”.
+
+#### Effective Date of 1993 Amendment
+
+Section 501(b) of Pub. L. 103–160 provided that:
+
+“(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply with respect to any regular officer who is discharged after the date of the enactment of this Act \[Nov. 30, 1993\].
+
+“(2) The amendment made by subsection (a) shall not apply with respect to an officer who on the date of the enactment of this Act has five or more, but less than six, years of active service in the Armed Forces.”
+
+#### Effective Date of 1991 Amendment
+
+Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as a note under section 521 of this title.
+
+#### Effective Date of 1990 Amendment
+
+Section 501(e) of Pub. L. 101–510 provided that:
+
+“(1) Except as provided in paragraph (2), subsection (b) of section 1174 of title 10, United States Code, as added by subsection (a), and the amendments made by subsections (b), (c), and (d) \[amending this section\] shall apply with respect to a member of the Armed Forces who is discharged, or released from active duty, after the date of the enactment of this Act \[Nov. 5, 1990\].
+
+“(2) The amendments made by subsection (b) \[amending this section\] shall not apply in the case of a member (other than a regular enlisted member) of the Armed Forces who (A) is serving on active duty on the date of the enactment of this Act, (B) is discharged, or released from active duty, after that date; and (C) on that date has five or more, but less than six, years of active service in the Armed Forces.”
+
+#### Effective Date of 1983 Amendment
+
+Section 911(c) of Pub. L. 98–94 provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1983.”
+
+Section 923(g) of Pub. L. 98–94 provided that: “The amendments made by this section \[amending this section and sections 1401, 1402, 1402a, 3991, 3992, 6151, 6328, 6330, 6404, 8991, and 8992 of this title, section 423 of Title 14, Coast Guard, section 853<i>o</i> of Title 33, Navigation and Navigable Waters, and section 212 of Title 42, The Public Health and Welfare\] shall apply with respect to (1) the computation of retired or retainer pay of any individual who becomes entitled to that pay after September 30, 1983, and (2) the recomputation of retired pay under section 1402, 1402a, 3992, or 8992 of title 10, United States Code, of any individual who after September 30, 1983, becomes entitled to recompute retired pay under any such section.”
+
+#### Effective Date of 1981 Amendment
+
+Section 10(b) of Pub. L. 97–22 provided that the amendment made by that section is effective Sept. 15, 1981.
+
+#### Effective Date
+
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+
+#### Transition Provisions Under Defense Officer Personnel Management Act
+
+For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 580, 642, 1165, 1166, 1174a, 1186, 6383, 14517, 14905 of this title.
+

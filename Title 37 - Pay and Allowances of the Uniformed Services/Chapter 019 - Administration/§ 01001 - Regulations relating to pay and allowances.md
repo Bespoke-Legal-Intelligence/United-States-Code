@@ -1,0 +1,58 @@
+### §1001. Regulations relating to pay and allowances
+
+(a) A Secretary of a military department may not prescribe a regulation under this title or any other law, relating to the pay and allowances of members of an armed force under that department, unless it has been approved under procedures prescribed by the Secretary of Defense.
+
+(b) Regulations of the Secretary concerned relating to pay and allowances matters, similar to those covered by subsection (a), for members of the Coast Guard, the National Oceanic and Atmospheric Administration, and the Public Health Service, shall, as far as practicable, conform to regulations approved under that subsection.
+
+(c) The Secretary of Defense, the Secretary of Transportation, the Secretary of Commerce, or the Secretary of Health and Human Services, may obtain from the Comptroller General an advisory opinion with respect to a proposed regulation especially affecting a department under that Secretary's jurisdiction.
+
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 489; Pub. L. 89–718, §§49(a)(1), 69, Nov. 2, 1966, 80 Stat. 1121, 1123; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–513, title V, §516(22), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+1001(a)
+
+1001(b)
+
+1001(c)
+
+37:324 (1st sentence).
+
+37:324 (2d sentence).
+
+37:324 (less 1st and 2d sentences).
+
+Oct. 12, 1949, ch. 681, §534; added Sept. 2, 1957, Pub. L. 85–272, §4, 71 Stat. 597.
+
+In subsection (a), the words “within the Department of Defense” are omitted as surplusage. The words “members of the armed forces” are substituted for the words “military personnel”.
+
+In subsection (b), the words “conform to” are substituted for the words “agree with”.
+
+In subsection (c), the words “or departments” are omitted, since, under section 1 of title 1, words importing the singular include and apply to several persons, parties, or things.
+
+#### Amendments
+
+1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+
+1980—Subsec. (b). Pub. L. 96–513, §516(22)(A), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+
+Subsec. (c). Pub. L. 96–513, §516(22)(B), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+
+1968—Subsec. (c). Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+
+1966—Subsec. (b). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”, and inserted “and allowances” between “pay” and “matters”.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
+
+#### Effective Date of 1968 Amendment
+
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+

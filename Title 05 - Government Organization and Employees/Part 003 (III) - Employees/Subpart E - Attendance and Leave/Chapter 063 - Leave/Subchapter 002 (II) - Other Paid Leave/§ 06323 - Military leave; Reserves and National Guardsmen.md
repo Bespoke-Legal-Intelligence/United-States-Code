@@ -1,0 +1,110 @@
+### §6323. Military leave; Reserves and National Guardsmen
+
+(a)(1) Subject to paragraph (2) of this subsection, an employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia, permanent or temporary indefinite, is entitled to leave without loss in pay, time, or performance or efficiency rating for active duty or engaging in field or coast defense training under sections 502–505 of title 32 as a Reserve of the armed forces or member of the National Guard. Leave under this subsection accrues for an employee or individual at the rate of 15 days per fiscal year and, to the extent that it is not used in a fiscal year, accumulates for use in the succeeding fiscal year until it totals 15 days at the beginning of a fiscal year.
+
+(2) In the case of an employee or individual employed on a part-time career employment basis (as defined in section 3401(2) of this title), the rate at which leave accrues under this subsection shall be a percentage of the rate prescribed under paragraph (1) which is determined by dividing 40 into the number of hours in the regularly scheduled workweek of that employee or individual during that fiscal year.
+
+(b) Except as provided by section 5519 of this title, an employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia, permanent or temporary indefinite, who—
+
+&emsp;(1) is a member of a Reserve component of the Armed Forces, as described in section 10101 of title 10, or the National Guard, as described in section 101 of title 32; and
+
+&emsp;(2) performs, for the purpose of providing military aid to enforce the law or for the purpose of providing assistance to civil authorities in the protection or saving of life or property or the prevention of injury—
+
+&emsp;&emsp;(A) Federal service under section 331, 332, 333, or 12406 of title 10, or other provision of law, as applicable, or
+
+&emsp;&emsp;(B) full-time military service for his State, the District of Columbia, the Commonwealth of Puerto Rico, or a territory of the United States;
+
+> is entitled, during and because of such service, to leave without loss of, or reduction in, pay, leave to which he otherwise is entitled, credit for time or service, or performance or efficiency rating. Leave granted by this subsection shall not exceed 22 work-days in a calendar year.
+
+(c) An employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia, who is a member of the National Guard of the District of Columbia, is entitled to leave without loss in pay or time for each day of a parade or encampment ordered or authorized under title 39, District of Columbia Code. This subsection covers each day of service the National Guard, or a portion thereof, is ordered to perform by the commanding general.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 90–588, §2(a), Oct. 17, 1968, 82 Stat. 1151; Pub. L. 90–623, §1(17), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 91–375, §6(c)(18), Aug. 12, 1970, 84 Stat. 776; Pub. L. 96–54, §2(a)(40), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–70, title III, §3302(e)(5), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–431, §1, Oct. 10, 1980, 94 Stat. 1850; Pub. L. 102–190, div. A, title V, §528, Dec. 5, 1991, 105 Stat. 1364; Pub. L. 103–337, div. A, title XVI, §1677(a)(2), Oct. 5, 1994, 108 Stat. 3019.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 30r(a).
+
+Aug. 10, 1956, ch. 1041, §29 (a), 70A Stat. 632.
+
+Sept. 2, 1958, Pub. L. 85–861, §13, 72 Stat. 1557.
+
+&nbsp;
+
+June 30, 1960, Pub. L. 86–559, §7, 74 Stat. 282.
+
+&nbsp;
+
+Oct. 4, 1961, Pub. L. 87–378, §7(a), 75 Stat. 809.
+
+In subsection (a), the words “without regard to classification or terminology peculiar to the Civil Service system” are omitted as unnecessary. The word “performance” is added on authority of the Performance Rating Act of 1950, which is carried into chapter 43 of this title.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+
+1994—Subsec. (b)(1). Pub. L. 103–337, §1677(a)(2)(A), substituted “section 10101” for “section 261”.
+
+Subsec. (b)(2)(A). Pub. L. 103–337, §1677(a)(2)(B), substituted “or 12406 of title 10” for “3500, or 8500 of title 10”.
+
+1991—Subsec. (b)(2). Pub. L. 102–190 substituted “law or for the purpose of providing assistance to civil authorities in the protection or saving of life or property or the prevention of injury—” for “law—” in introductory provisions.
+
+1980—Subsec. (a). Pub. L. 96–431 designated existing provisions as par. (1), substituted “Subject to paragraph (2) of this subsection, an employee” for “An employee” and “for active duty or engaging in field or coast defense training” for “for each day, not in excess of 15 days in a calendar year, in which he is on active duty or is engaged in field or coast defense training”, inserted provision relating to accrual and accumulation of leave, and added par. (2).
+
+1979—Subsec. (b)(2)(B). Pub. L. 96–70 which directed the amendment of subsec. (c)(2)(B) by striking out “the Canal Zone,” was executed to subsec. (b)(2)(B) in view of the redesignation of subsec. (c) as (b) by Pub. L. 96–54. See 1979 Amendment note below.
+
+Subsec. (b). Pub. L. 96–54 redesignated subsec. (c), as added by Pub. L. 90–588, as (b). Former subsec. (b), relating to military leave, was repealed by Pub. L. 91–375, §6(c)(18)(B), Aug. 12, 1970, 84 Stat. 776.
+
+Subsec. (c). Pub. L. 96–54 redesignated subsec. (c), as added by Pub. L. 90–588, as (b).
+
+1970—Subsec. (a). Pub. L. 91–375, §6(c)(18)(A), struck out “(except a substitute in the postal field service)” after “section 2105 of this title”.
+
+Subsec. (b). Pub. L. 91–375, §6(c)(18)(B), struck out subsec. (b) relating to military leave, without loss in pay, time, or efficiency rating, of substitute employees of the postal service, not in excess of 80 hours in a calendar year, for National Guard training as Reserves of the Armed Forces or members of the National Guard, on basis of 1 hour for 26 hours of work, including minimum working period of 1,040 hours in the prior calendar year.
+
+Subsec. (c). Pub. L. 91–375, §6(c)(18)(A), struck out “(except a substitute in the postal field service)” after “section 2105 of this title”.
+
+Subsec. (d). Pub. L. 91–375, §6(c)(18)(B), struck out subsec. (d) relating to military leave, without loss of or reduction in pay, leave, service credit, or efficiency rating, of substitute employees of the postal service, not in excess of 160 hours in a calendar year, for service as members of Reserve components of the Armed Forces or the National Guard, for Federal service under insurrection provisions of sections 331, 332, and 333 and in the Army National Guard and Air National Guard under sections 3500 and 8500 of Title 10 and non-Federal service (in the States, District of Columbia, Puerto Rico, Canal Zone, and the territories) for purpose of providing military aid to enforce the law, on basis of 1 hour for 13 hours of work, including minimum working period of 1,040 hours in the prior calendar year.
+
+1968—Subsecs. (a), (b). Pub. L. 90–623, §1(17)(A), substituted “loss in” for “loss of”.
+
+Subsec. (c). Pub. L. 90–623, §1(17)(B), added subsec. (c), set out second.
+
+Subsec. (c). Pub. L. 90–588 added subsec. (c), set out first.
+
+Subsec. (d). Pub. L. 90–588 added subsec. (d).
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
+
+#### Effective Date of 1980 Amendment
+
+Section 2 of Pub. L. 96–431 provided that: “The amendments made by the first section of this Act \[amending this section\] shall take effect October 1, 1980.”
+
+#### Effective Date of 1979 Amendments
+
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
+
+Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
+
+#### Effective Date of 1970 Amendment
+
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and Published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+
+#### Effective Date of 1968 Amendment
+
+Amendment by Pub. L. 90–623 effective as of Sept. 6, 1966, for all purposes, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
+
+#### Definition of Officers and Employees
+
+Section 4 of act July 1, 1947, ch. 192, 61 Stat. 239, as amended by act June 22, 1956, ch. 428, 70 Stat. 331, provided that: “The words ‘officers and employees of the United States or of the District of Columbia’ as used in the third paragraph, subheading ‘Ordinance Stores and Equipment for Reserve Officers Training Corps’, of the Act of May 12, 1917 (40 Stat. 72; 10 U.S.C. Annotated 371) \[covered by this section\], as now or hereafter amended, as used in that part of section 80 of the Act of June 3, 1916 (39 Stat. 203; 32 U.S.C. 75) \[covered by this section\], as now or hereafter amended, which precedes the proviso, and as used in the first proviso of section 9 of the Naval Reserve Act of 1938 (52 Stat. 1177; 34 U.S.C. 853g) \[covered by this section\], as now or hereafter amended, shall be construed to mean all officers and employees of the United States or of the District of Columbia, permanent or temporary indefinite, without regard to classifications or terminology peculiar to the Federal Civil Service System. The words ‘officers and employees of the United States or of the District of Columbia’, as used in such provisions of law, as now or hereafter amended, also shall be construed to mean substitute employees in the postal field service; such substitute employees shall be entitled to military leave of absence on the basis of one hour of such leave for each period or periods aggregating twenty-six hours of work performed in the calendar year immediately preceding the year in which they are ordered to duty by proper authority: <i>Provided,</i> That the number of hours worked during the preceding calendar year shall not be less than one thousand forty hours before such substitute employee shall be entitled to military leave of absence, pay for such leave not to exceed eighty hours in each calendar year.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5519, 6129 of this title.
+

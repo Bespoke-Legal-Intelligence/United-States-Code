@@ -1,0 +1,42 @@
+### §3075 . Regular Army: composition
+
+(a) The Regular Army is the component of the Army that consists of persons whose continuous service on active duty in both peace and war is contemplated by law, and of retired members of the Regular Army.
+
+(b) The Regular Army includes—
+
+&emsp;(1) the officers and enlisted members of the Regular Army;
+
+&emsp;(2) the professors, director of admissions, and cadets of the United States Military Academy; and
+
+&emsp;(3) the retired officers and enlisted members of the Regular Army.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 170; Aug. 6, 1958, Pub. L. 85–600, §1(1), 72 Stat. 522; Oct. 30, 1978, Pub. L. 95–551, §2, 92 Stat. 2069; Oct. 12, 1982, Pub. L. 97–295, §1(39), 96 Stat. 1297.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+3075(a)
+
+3075(b)
+
+10:1c(a).
+
+10:1c (less (a)).
+
+June 28, 1950, ch. 383, §302, 64 Stat. 268.
+
+In subsection (b), the words “holding appointments or enlisted in the Regular Army as now or hereafter provided by law”, “and such other persons as are now or may hereafter be specified by law”, and “commissioned \* \* \* warrant officers” are omitted as surplusage, since the revised section lists all persons in the Regular Army. 10:1c (last sentence) is omitted as executed.
+
+#### Amendments
+
+1982—Subsec. (b)(2). Pub. L. 97–295 inserted a comma after “professors”.
+
+1978—Subsec. (b)(2). Pub. L. 95–551 substituted “director of admissions” for “registrar”.
+
+1958—Subsec. (b)(2). Pub. L. 85–600 included the registrar of the Military Academy.
+

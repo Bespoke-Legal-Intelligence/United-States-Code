@@ -1,0 +1,64 @@
+### §9118. Marine environmental protection and safety of life and property at sea
+
+#### (a) Coast Guard operations
+
+The Secretary of the department in which the Coast Guard is operating shall, subject to recognized principles of international law, prescribe by regulation and enforce procedures with respect to any ocean thermal energy conversion facility or plantship licensed under this chapter, including, but not limited to, rules governing vessel movement, procedures for transfer of materials between such a facility or plantship and transport vessels, designation and marking of anchorage areas, maintenance, law enforcement, and the equipment, training, and maintenance required (1) to promote the safety of life and property at sea, (2) to prevent pollution of the marine environment, (3) to clean up any pollutants which may be discharged, and (4) to otherwise prevent or minimize any adverse impact from the construction and operation of such ocean thermal energy conversion facility or plantship.
+
+#### (b) Promotion of safety of life and property
+
+The Secretary of the department in which the Coast Guard is operating shall issue and enforce regulations, subject to recognized principles of international law, with respect to lights and other warning devices, safety equipment, and other matters relating to the promotion of safety of life and property on any ocean thermal energy conversion facility or plantship licensed under this chapter.
+
+#### (c) Marking components for protection of navigation
+
+Whenever a licensee fails to mark any component of such an ocean thermal energy conversion facility or plantship in accordance with applicable regulations, the Secretary of the department in which the Coast Guard is operating shall mark such components for the protection of navigation, and the licensee shall pay the cost of such marking.
+
+#### (d) Safety zones
+
+(1) Subject to recognized principles of international law and after consultation with the Secretary of Commerce, the Secretary of the Interior, the Secretary of State, and the Secretary of Defense, the Secretary of the department in which the Coast Guard is operating shall designate a zone of appropriate size around and including any ocean thermal energy conversion facility licensed under this chapter and may designate such a zone around and including any ocean thermal energy conversion plantship licensed under this chapter for the purposes of navigational safety and protection of the facility or plantship. The Secretary of the department in which the Coast Guard is operatingshall by regulation define permitted activities within such zone consistent with the purpose for which it was designated. The Secretary of the department in which the Coast Guard is operating shall, not later than 30 days after publication of notice pursuant to section 9112(d) of this title, designate such safety zone with respect to any proposed ocean thermal energy conversion facility or plantship.
+
+(2) In addition to any other regulations, the Secretary of the department in which the Coast Guard is operating is authorized, in accordance with this subsection, to establish a safety zone to be effective during the period of construction of an ocean thermal energy conversion facility or plantship licensed under this chapter, and to issue rules and regulations relating thereto.
+
+(3) Except in a situation involving force majeure, a licensee of an ocean thermal energy conversion facility or plantship shall not permit a vessel, registered in or flying the flag of a foreign state, to call at, load or unload cargo at, or otherwise utilize such a facility or plantship licensed under this chapter unless (A) the foreign state involved has agreed, by specific agreement with the United States, to recognize the jurisdiction of the United States over the vessel and its personnel, in accordance with the provisions of this chapter, while the vessel is located within the safety zone, and (B) the vessel owner or operator has designated an agent in the United States for receipt of service of process in the event of any claim or legal proceeding resulting from activities of the vessel or its personnel while located within such a safety zone.
+
+#### (e) Rules and regulations; vessels; “ocean thermal energy conversion facility” defined
+
+(1) The Secretary of the department in which the Coast Guard is operating shall promulgate and enforce regulations specified in paragraph (2) of this subsection and such other regulations as he deems necessary concerning the documentation, design, construction, alteration, equipment, maintenance, repair, inspection, certification, and manning of ocean thermal energy conversion facilities and plantships. In addition to other requirements prescribed under those regulations, the Secretary of the department in which the Coast Guard is operating may require compliance with those vessel documentation, inspection, and manning laws which he determines to be appropriate.
+
+(2) Within 1 year after August 3, 1980, the Secretary of the department in which the Coast Guard is operating shall promulgate regulations under paragraph (1) of this subsection which require that any ocean thermal energy conversion facility or plantship—
+
+&emsp;(A) be documented;
+
+&emsp;(B) comply with minimum standards of design, construction, alteration, and repair; and
+
+&emsp;(C) be manned or crewed by United States citizens or aliens lawfully admitted to the United States for permanent residence, unless—
+
+&emsp;&emsp;(i) there is not a sufficient number of United States citizens, or aliens lawfully admitted to the United States for permanent residence, qualified and available for such work, or
+
+&emsp;&emsp;(ii) the President makes a specific finding, with respect to the particular vessel, platform, or moored, fixed or standing structure, that application of this requirement would not be consistent with the national interest.
+
+(3) For the purposes of the documentation laws, for which compliance is required under paragraph (1) of this subsection, ocean thermal energy conversion facilities and plantships shall be deemed to be vessels and, if documented, vessels of the United States for the purposes of chapters 301 and 313 of title 46.
+
+(4) For the purposes of this subsection the term “ocean thermal energy conversion facility” refers only to an ocean thermal energy conversion facility which has major components other than water intake or discharge pipes located seaward of the highwater mark <sup>1</sup>
+
+#### (f) Protection of navigation
+
+Subject to recognized principles of international law, the Secretary of the department in which the Coast Guard is operating shall promulgate and enforce such regulations as he deems necessary to protect navigation in the vicinity of a vessel engaged in the installation, repair, or maintenance of any submarine electric transmission cable or equipment, and to govern the markings and signals used by such a vessel.
+
+(Pub. L. 96–320, title I, §108, Aug. 3, 1980, 94 Stat. 986; Pub. L. 98–623, title VI, §602(a)(6), (7), (e)(1), (15), Nov. 8, 1984, 98 Stat. 3410–3412.)
+
+#### Codification
+
+In subsec. (e)(3), “chapters 301 and 313 of title 46” substituted for “the Ship Mortgage Act, 1920 (46 U.S.C. 911–984)” on authority of Pub. L. 100–710, §105(a), Nov. 23, 1988, 102 Stat. 4751, section 102(c) of which enacted subtitle III of Title 46, Shipping.
+
+#### Amendments
+
+1984—Subsec. (d)(1). Pub. L. 98–623, §602(e)(1), substituted “navigational safety” for “reorganizational safety”.
+
+Subsec. (d)(3). Pub. L. 98–623, §602(e)(15), added par. (3) by inserting text of former subsec. (b)(3) of section 9119 of this title.
+
+Subsec. (e)(2)(C)(ii). Pub. L. 98–623, §602(a)(6), substituted “moored, fixed or standing” for “moored or standing”.
+
+Subsec. (e)(4). Pub. L. 98–623, §602(a)(7), added par. (4).
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+

@@ -1,0 +1,36 @@
+### SUBCHAPTER IX—POWERS AND DUTIES OF FEDERAL RESERVE BANKS
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 00341 - General enumeration of powers](%C2%A7%2000341%20-%20General%20enumeration%20of%20powers.md)
+- [&sect; 00342 - Deposits; exchange and collection; member and nonmember banks or other depository institutions; charges](%C2%A7%2000342%20-%20Deposits%3B%20exchange%20and%20collection%3B%20member%20and%20nonmember%20banks%20or%20other%20depository%20institutions%3B%20charges.md)
+- [&sect; 00343 - Discount of obligations arising out of actual commercial transactions](%C2%A7%2000343%20-%20Discount%20of%20obligations%20arising%20out%20of%20actual%20commercial%20transactions.md)
+- [&sect; 00344 - Discount or purchase of bills to finance agricultural shipments](%C2%A7%2000344%20-%20Discount%20or%20purchase%20of%20bills%20to%20finance%20agricultural%20shipments.md)
+- [&sect; 00345 - Rediscount of notes, drafts, and bills for member banks; limitation of amount](%C2%A7%2000345%20-%20Rediscount%20of%20notes%2C%20drafts%2C%20and%20bills%20for%20member%20banks%3B%20limitation%20of%20amount.md)
+- [&sect; 00346 - Discount of acceptances](%C2%A7%2000346%20-%20Discount%20of%20acceptances.md)
+- [&sect; 00347 - Advances to member banks on their notes](%C2%A7%2000347%20-%20Advances%20to%20member%20banks%20on%20their%20notes.md)
+- [&sect; 00347a - Advances to member bank groups; inadequate amounts of eligible and acceptable assets; liability of individual banks in group&#8230;](%C2%A7%2000347a%20-%20Advances%20to%20member%20bank%20groups%3B%20inadequate%20amounts%20of%20eligible%20and%20acceptable%20assets%3B%20liability%20of%20individual%20banks%20in%20group%E2%80%A6.md)
+- [&sect; 00347b - Advances to individual member banks on time or demand notes; maturities; time notes secured by mortgage loans covering one-to-four family&#8230;](%C2%A7%2000347b%20-%20Advances%20to%20individual%20member%20banks%20on%20time%20or%20demand%20notes%3B%20maturities%3B%20time%20notes%20secured%20by%20mortgage%20loans%20covering%20one-to-four%20family%E2%80%A6.md)
+- [&sect; 00347c - Advances to individuals, partnerships, and corporations; security; interest rate](%C2%A7%2000347c%20-%20Advances%20to%20individuals%2C%20partnerships%2C%20and%20corporations%3B%20security%3B%20interest%20rate.md)
+- [&sect; 00347d - Transactions between Federal Reserve banks and branch or agency of foreign bank; matters considered](%C2%A7%2000347d%20-%20Transactions%20between%20Federal%20Reserve%20banks%20and%20branch%20or%20agency%20of%20foreign%20bank%3B%20matters%20considered.md)
+- [&sect; 00348 - Discount of obligations given for agricultural purposes or based upon livestock; collateral security for Federal reserve notes](%C2%A7%2000348%20-%20Discount%20of%20obligations%20given%20for%20agricultural%20purposes%20or%20based%20upon%20livestock%3B%20collateral%20security%20for%20Federal%20reserve%20notes.md)
+- [&sect; 00348a - Transactions with foreign banks; supervision of Board of Governors of the Federal Reserve System](%C2%A7%2000348a%20-%20Transactions%20with%20foreign%20banks%3B%20supervision%20of%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System.md)
+- [&sect; 00349 - Rediscount for intermediate credit banks of obligations given for agricultural purposes; discount of notes made pursuant to section 1031](%C2%A7%2000349%20-%20Rediscount%20for%20intermediate%20credit%20banks%20of%20obligations%20given%20for%20agricultural%20purposes%3B%20discount%20of%20notes%20made%20pursuant%20to%20section%201031.md)
+- [&sect; 00350 - Purchase and sale of debentures and like obligations of intermediate credit banks and agricultural credit corporations](%C2%A7%2000350%20-%20Purchase%20and%20sale%20of%20debentures%20and%20like%20obligations%20of%20intermediate%20credit%20banks%20and%20agricultural%20credit%20corporations.md)
+- [&sect; 00351 - Obligations of cooperative marketing association as issued or drawn for agricultural purposes](%C2%A7%2000351%20-%20Obligations%20of%20cooperative%20marketing%20association%20as%20issued%20or%20drawn%20for%20agricultural%20purposes.md)
+- [&sect; 00352 - Limitation on amount of obligations of certain maturities which may be discounted and rediscounted](%C2%A7%2000352%20-%20Limitation%20on%20amount%20of%20obligations%20of%20certain%20maturities%20which%20may%20be%20discounted%20and%20rediscounted.md)
+- [&sect; 00352a - Repealed. Pub. L. 85&#8211;699, title VI, &sect;601, Aug. 21, 1958, 72 Stat. 697](%C2%A7%2000352a%20-%20Repealed.%20Pub.%20L.%2085%E2%80%93699%2C%20title%20VI%2C%20%C2%A7601%2C%20Aug.%2021%2C%201958%2C%2072%20Stat.%20697.md)
+- [&sect; 00353 - Purchase and sale of cable transfers, acceptances and bills](%C2%A7%2000353%20-%20Purchase%20and%20sale%20of%20cable%20transfers%2C%20acceptances%20and%20bills.md)
+- [&sect; 00354 - Transactions involving gold coin, bullion, and certificates](%C2%A7%2000354%20-%20Transactions%20involving%20gold%20coin%2C%20bullion%2C%20and%20certificates.md)
+- [&sect; 00355 - Purchase and sale of obligations of National, State, and municipal governments; open market operations; purchases and sales from or to&#8230;](%C2%A7%2000355%20-%20Purchase%20and%20sale%20of%20obligations%20of%20National%2C%20State%2C%20and%20municipal%20governments%3B%20open%20market%20operations%3B%20purchases%20and%20sales%20from%20or%20to%E2%80%A6.md)
+- [&sect; 00356 - Purchase of commercial paper from member banks and sale of same](%C2%A7%2000356%20-%20Purchase%20of%20commercial%20paper%20from%20member%20banks%20and%20sale%20of%20same.md)
+- [&sect; 00357 - Establishment of rates of discount](%C2%A7%2000357%20-%20Establishment%20of%20rates%20of%20discount.md)
+- [&sect; 00358 - Establishment of accounts for purposes of open-market operations; correspondents and agencies](%C2%A7%2000358%20-%20Establishment%20of%20accounts%20for%20purposes%20of%20open-market%20operations%3B%20correspondents%20and%20agencies.md)
+- [&sect; 00359 - Purchase and sale of acceptances of intermediate credit banks and agricultural credit corporations](%C2%A7%2000359%20-%20Purchase%20and%20sale%20of%20acceptances%20of%20intermediate%20credit%20banks%20and%20agricultural%20credit%20corporations.md)
+- [&sect; 00359a - Omitted](%C2%A7%2000359a%20-%20Omitted.md)
+- [&sect; 00360 - Receiving checks and drafts on deposit at par; charges for collections, exchange, and clearances](%C2%A7%2000360%20-%20Receiving%20checks%20and%20drafts%20on%20deposit%20at%20par%3B%20charges%20for%20collections%2C%20exchange%2C%20and%20clearances.md)
+- [&sect; 00361 - Bills receivable, bills of exchange, acceptances; regulations by Board of Governors](%C2%A7%2000361%20-%20Bills%20receivable%2C%20bills%20of%20exchange%2C%20acceptances%3B%20regulations%20by%20Board%20of%20Governors.md)
+- [&sect; 00362 to 364 - Omitted](%C2%A7%2000362%20to%20364%20-%20Omitted.md)

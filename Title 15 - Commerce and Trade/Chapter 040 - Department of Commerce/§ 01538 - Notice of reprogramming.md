@@ -1,0 +1,26 @@
+### §1538. Notice of reprogramming
+
+#### (a) In general
+
+The Secretary of Commerce shall provide notice to the Committee on Commerce, Science, and Transportation and Committee on Appropriations of the Senate and to the Committee on Merchant Marine and Fisheries, Committee on Science, Space, and Technology, and Committee on Appropriations of the House of Representatives, not less than 15 days before reprogramming funds available for a program, project, or activity of the National Oceanic and Atmospheric Administration in an amount greater than the lesser of $250,000 or 5 percent of the total funding of such program, project, or activity if the reprogramming—
+
+&emsp;(1) augments an existing program, project, or activity;
+
+&emsp;(2) reduces by 5 percent or more (A) the funding for an existing program, project, or activity or (B) the numbers of personnel therefor as approved by Congress; or
+
+&emsp;(3) results from any general savings from a reduction in personnel which would result in a change in an existing program, project, or activity.
+
+#### (b) Notice of reorganization
+
+The Secretary of Commerce shall provide notice to the Committees on Merchant Marine and Fisheries, Science, Space, and Technology, and Appropriations of the House of Representatives, and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate not later than 15 days before any major reorganization of any program, project, or activity of the National Oceanic and Atmospheric Administration.
+
+(Pub. L. 102 567, title IV, §403, Oct. 29, 1992, 106 Stat. 4291.)
+
+#### Change of Name
+
+Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Abolition of House Committee on Merchant Marine and Fisheries
+
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+

@@ -1,0 +1,84 @@
+### §12188. Enforcement
+
+#### (a) In general
+
+#### (1) Availability of remedies and procedures
+
+&emsp;The remedies and procedures set forth in section 2000a–3(a) of this title are the remedies and procedures this subchapter provides to any person who is being subjected to discrimination on the basis of disability in violation of this subchapter or who has reasonable grounds for believing that such person is about to be subjected to discrimination in violation of section 12183 of this title. Nothing in this section shall require a person with a disability to engage in a futile gesture if such person has actual notice that a person or organization covered by this subchapter does not intend to comply with its provisions.
+
+#### (2) Injunctive relief
+
+&emsp;In the case of violations of sections 12182(b)(2)(A)(iv) and section <sup>1</sup> 12183(a) of this title, injunctive relief shall include an order to alter facilities to make such facilities readily accessible to and usable by individuals with disabilities to the extent required by this subchapter. Where appropriate, injunctive relief shall also include requiring the provision of an auxiliary aid or service, modification of a policy, or provision of alternative methods, to the extent required by this subchapter.
+
+#### (b) Enforcement by Attorney General
+
+#### (1) Denial of rights
+
+#### (A) Duty to investigate
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Attorney General shall investigate alleged violations of this subchapter, and shall undertake periodic reviews of compliance of covered entities under this subchapter.
+
+#### (ii) Attorney General certification
+
+&emsp;&emsp;&emsp;On the application of a State or local government, the Attorney General may, in consultation with the Architectural and Transportation Barriers Compliance Board, and after prior notice and a public hearing at which persons, including individuals with disabilities, are provided an opportunity to testify against such certification, certify that a State law or local building code or similar ordinance that establishes accessibility requirements meets or exceeds the minimum requirements of this chapter for the accessibility and usability of covered facilities under this subchapter. At any enforcement proceeding under this section, such certification by the Attorney General shall be rebuttable evidence that such State law or local ordinance does meet or exceed the minimum requirements of this chapter.
+
+#### (B) Potential violation
+
+&emsp;&emsp;If the Attorney General has reasonable cause to believe that—
+
+&emsp;&emsp;&emsp;(i) any person or group of persons is engaged in a pattern or practice of discrimination under this subchapter; or
+
+&emsp;&emsp;&emsp;(ii) any person or group of persons has been discriminated against under this subchapter and such discrimination raises an issue of general public importance,
+
+> &emsp;&emsp;the Attorney General may commence a civil action in any appropriate United States district court.
+
+#### (2) Authority of court
+
+&emsp;In a civil action under paragraph (1)(B), the court—
+
+&emsp;&emsp;(A) may grant any equitable relief that such court considers to be appropriate, including, to the extent required by this subchapter—
+
+&emsp;&emsp;&emsp;(i) granting temporary, preliminary, or permanent relief;
+
+&emsp;&emsp;&emsp;(ii) providing an auxiliary aid or service, modification of policy, practice, or procedure, or alternative method; and
+
+&emsp;&emsp;&emsp;(iii) making facilities readily accessible to and usable by individuals with disabilities;
+
+&emsp;&emsp;(B) may award such other relief as the court considers to be appropriate, including monetary damages to persons aggrieved when requested by the Attorney General; and
+
+&emsp;&emsp;(C) may, to vindicate the public interest, assess a civil penalty against the entity in an amount—
+
+&emsp;&emsp;&emsp;(i) not exceeding $50,000 for a first violation; and
+
+&emsp;&emsp;&emsp;(ii) not exceeding $100,000 for any subsequent violation.
+
+#### (3) Single violation
+
+&emsp;For purposes of paragraph (2)(C), in determining whether a first or subsequent violation has occurred, a determination in a single action, by judgment or settlement, that the covered entity has engaged in more than one discriminatory act shall be counted as a single violation.
+
+#### (4) Punitive damages
+
+&emsp;For purposes of subsection (b)(2)(B) of this section, the term “monetary damages” and “such other relief” does not include punitive damages.
+
+#### (5) Judicial consideration
+
+&emsp;In a civil action under paragraph (1)(B), the court, when considering what amount of civil penalty, if any, is appropriate, shall give consideration to any good faith effort or attempt to comply with this chapter by the entity. In evaluating good faith, the court shall consider, among other factors it deems relevant, whether the entity could have reasonably anticipated the need for an appropriate type of auxiliary aid needed to accommodate the unique needs of a particular individual with a disability.
+
+(Pub. L. 101–336, title III, §308, July 26, 1990, 104 Stat. 363.)
+
+#### Effective Date
+
+Section effective 18 months after July 26, 1990, see section 310(a) of Pub. L. 101–336, set out as a note under section 12181 of this title.
+
+#### Civil Actions for Violations by Public Accommodations
+
+For provisions directing that, except for any civil action brought for a violation of section 12183 of this title, no civil action shall be brought for any act or omission described in section 12182 of this title which occurs (1) during the first six months after the effective date of this subchapter, against businesses that employ 25 or fewer employees and have gross receipts of $1,000,000 or less, and (2) during the first year after the effective date, against businesses that employ 10 or fewer employees and have gross receipts of $500,000 or less, see section 310(b) of Pub. L. 101–336, set out as an Effective Date note under section 12181 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 12203 of this title.
+
+<i><sup>1</sup></i><i> So in original. The word “section” probably should not appear.</i>
+

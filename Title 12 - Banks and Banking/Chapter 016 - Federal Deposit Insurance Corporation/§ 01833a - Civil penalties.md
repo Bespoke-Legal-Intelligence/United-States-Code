@@ -1,0 +1,90 @@
+### §1833a. Civil penalties
+
+#### (a) In general
+
+Whoever violates any provision of law to which this section is made applicable by subsection (c) of this section shall be subject to a civil penalty in an amount assessed by the court in a civil action under this section.
+
+#### (b) Maximum amount of penalty
+
+#### (1) Generally
+
+&emsp;The amount of the civil penalty shall not exceed $1,000,000.
+
+#### (2) Special rule for continuing violations
+
+&emsp;In the case of a continuing violation, the amount of the civil penalty may exceed the amount described in paragraph (1) but may not exceed the lesser of $1,000,000 per day or $5,000,000.
+
+#### (3) Special rule for violations creating gain or loss
+
+&emsp;(A) If any person derives pecuniary gain from the violation, or if the violation results in pecuniary loss to a person other than the violator, the amount of the civil penalty may exceed the amounts described in paragraphs (1) and (2) but may not exceed the amount of such gain or loss.
+
+&emsp;(B) As used in this paragraph, the term “person” includes the Bank Insurance Fund, the Savings Association Insurance Fund, and the National Credit Union Share Insurance Fund.
+
+#### (c) Violations to which penalty is applicable
+
+This section applies to a violation of, or a conspiracy to violate—
+
+&emsp;(1) section 215, 656, 657, 1005, 1006, 1007, 1014, or 1344 of title 18; or
+
+&emsp;(2) section 287, 1001, 1032,<sup>1</sup> 1341 or 1343 of title 18 affecting a federally insured financial institution.
+
+> This section shall apply to violations occurring on or after August 10, 1984.
+
+#### (d) Attorney General to bring action
+
+A civil action to recover a civil penalty under this section shall be commenced by the Attorney General.
+
+#### (e) Burden of proof
+
+In a civil action to recover a civil penalty under this section, the Attorney General must establish the right to recovery by a preponderance of the evidence.
+
+#### (f) Administrative subpoenas
+
+#### (1) In general
+
+&emsp;For the purpose of conducting a civil investigation in contemplation of a civil proceeding under this section, the Attorney General may—
+
+&emsp;&emsp;(A) administer oaths and affirmations;
+
+&emsp;&emsp;(B) take evidence; and
+
+&emsp;&emsp;(C) by subpoena, summon witnesses and require the production of any books, papers, correspondence, memoranda, or other records which the Attorney General deems relevant or material to the inquiry. Such subpoena may require the attendance of witnesses and the production of any such records from any place in the United States at any place in the United States designated by the Attorney General.
+
+#### (2) Procedures applicable
+
+&emsp;The same procedures and limitations as are provided with respect to civil investigative demands in subsections (g), (h), and (j) of section 1968 of title 18 apply with respect to a subpoena issued under this subsection. Process required by such subsections to be served upon the custodian shall be served on the Attorney General. Failure to comply with an order of the court to enforce such subpoena shall be punishable as contempt.
+
+#### (3) Limitation
+
+&emsp;In the case of a subpoena for which the return date is less than 5 days after the date of service, no person shall be found in contempt for failure to comply by the return date if such person files a petition under paragraph (2) not later than 5 days after the date of service.
+
+#### (g) Statute of limitations
+
+A civil action under this section may not be commenced later than 10 years after the cause of action accrues.
+
+(Pub. L. 101–73, title IX, §951, Aug. 9, 1989, 103 Stat. 498; Pub. L. 101–647, title XXV, §§2533, 2596(d), Nov. 29, 1990, 104 Stat. 4882, 4908; Pub. L. 103–322, title XXXIII, §330003(g), Sept. 13, 1994, 108 Stat. 2141.)
+
+#### Codification
+
+Section was enacted as part of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
+
+#### Amendments
+
+1994—Subsec. (c). Pub. L. 103–322 amended directory language of Pub. L. 101–647, §2596(d). See 1990 Amendment note below.
+
+1990—Subsec. (c). Pub. L. 101–647, §2596(d)(2), as amended by Pub. L. 103–322, inserted at end a flush sentence “This section shall apply to violations occurring on or after August 10, 1984.”
+
+Subsec. (c)(2). Pub. L. 101–647, §2596(d)(1), as amended by Pub. L. 103–322, which directed insertion of “287, 1001, 1032,” before “1341;”, was executed by making the insertion before “1341 or 1343” to reflect the probable intent of Congress.
+
+Subsec. (g). Pub. L. 101–647, §2533, added subsec. (g).
+
+#### Effective Date of 1994 Amendment
+
+Section 330003(g) of Pub. L. 103–322 provided that the amendment made by that section is effective retroactively to the date of enactment of Pub. L. 101–647, which was approved Nov. 29, 1990.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1831k, 3412, 4201, 4202, 4204 of this title; title 18 section 3322.
+
+<i><sup>1</sup></i><i> See 1990 Amendment note below.</i>
+

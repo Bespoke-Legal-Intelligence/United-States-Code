@@ -1,0 +1,6 @@
+### §145. Federal-State relationship
+
+The authorization of the appropriation of Federal funds or their availability for expenditure under this chapter shall in no way infringe on the sovereign rights of the States to determine which projects shall be federally financed. The provisions of this chapter provide for a federally assisted State program.
+
+(Added Pub. L. 93–87, title I, §123(a), Aug. 13, 1973, 87 Stat. 261.)
+

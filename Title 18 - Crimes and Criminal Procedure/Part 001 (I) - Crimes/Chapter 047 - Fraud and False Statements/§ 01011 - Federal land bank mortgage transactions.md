@@ -1,0 +1,28 @@
+### §1011. Federal land bank mortgage transactions
+
+Whoever, being a mortgagee, knowingly makes any false statement in any paper, proposal, or letter, relating to the sale of any mortgage, to any Federal land bank; or
+
+Whoever, being an appraiser, willfully over-values any land securing such mortgage—
+
+Shall be fined under this title or imprisoned not more than one year, or both.
+
+(June 25, 1948, ch. 645, 62 Stat. 751; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+
+#### Historical and Revision Notes
+
+Based on section 987 of title 12, U.S.C., 1940 ed., Banks and Banking (July 17, 1916, ch. 245, §31, seventh paragraph, as added June 16, 1933, ch. 98, §78, 48 Stat. 272).
+
+Minor changes were made in phraseology.
+
+#### Amendments
+
+1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
+
+#### Cross References
+
+Secret Service, detection, arrest and delivery into custody of any person violating this section, see section 3056 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3056 of this title.
+

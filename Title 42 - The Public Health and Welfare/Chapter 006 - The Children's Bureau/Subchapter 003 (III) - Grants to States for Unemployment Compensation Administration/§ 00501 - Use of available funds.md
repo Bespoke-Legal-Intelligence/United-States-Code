@@ -1,0 +1,16 @@
+### §501. Use of available funds
+
+The amounts made available pursuant to section 1101(c)(1)(A) of this title for the purpose of assisting the States in the administration of their unemployment compensation laws shall be used as hereinafter provided.
+
+(Aug. 14, 1935, ch. 531, title III, §301, 49 Stat. 626; Apr. 19, 1939, ch. 73, 53 Stat. 581; Sept. 13, 1960, Pub. L. 86–778, title V, §524(a), 74 Stat. 982.)
+
+#### Amendments
+
+1960—Pub. L. 86–778 struck out provisions prescribing specific sums for fiscal years 1936–1939 and for each fiscal year thereafter and inserted provisions relating to amounts made available pursuant to section 1101(c)(1)(A) of this title.
+
+1939—Act Apr. 19, 1939, provided increased appropriation for fiscal year ending June 30, 1939, and for each fiscal year thereafter.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 45 section 363.
+

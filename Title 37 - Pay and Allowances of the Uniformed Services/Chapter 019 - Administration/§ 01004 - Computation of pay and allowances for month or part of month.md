@@ -1,0 +1,20 @@
+### §1004. Computation of pay and allowances for month or part of month
+
+A member of a uniformed service who is entitled to pay and allowances under this title for a continuous period of less than one month is entitled to his pay and allowances for each day of that period at the rate of 1/30 of the monthly amount of his pay and allowances. The thirty-first day of a calendar month may not be excluded from a computation under this section.
+
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 490.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+1004
+
+37:310.
+
+Oct. 12, 1949, ch. 681, §510, 63 Stat. 828.
+

@@ -1,0 +1,18 @@
+### §2140. Exclusions from license requirement
+
+Nothing in this subchapter shall be deemed—
+
+&emsp;(a) to require a license for (1) the processing, fabricating, or refining of special nuclear material, or the separation of special nuclear material, or the separation of special nuclear material from other substances, under contract with and for the account of the Commission; or (2) the construction or operation of facilities under contract with and for the account of the Commission; or
+
+&emsp;(b) to require a license for the manufacture, production, or acquisition by the Department of Defense of any utilization facility authorized pursuant to section 2121 of this title, or for the use of such facility by the Department of Defense or a contractor thereof.
+
+(Aug. 1, 1946, ch. 724, title I, §110, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 939; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+
+#### Transfer of Functions
+
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5842 of this title.
+

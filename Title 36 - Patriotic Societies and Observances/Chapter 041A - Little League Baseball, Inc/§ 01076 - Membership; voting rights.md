@@ -1,0 +1,8 @@
+### §1076. Membership; voting rights
+
+(a) Eligibility for membership in the corporation and the rights and privileges of members shall, except as provided in this chapter, be determined as the constitution and bylaws of the corporation may provide.
+
+(b) Each member of the corporation, other than honorary and associate members, shall have the right to one vote on each matter submitted to a vote at all meetings of the members of the corporation.
+
+(Pub. L. 88–378, §6, July 16, 1964, 78 Stat. 326.)
+

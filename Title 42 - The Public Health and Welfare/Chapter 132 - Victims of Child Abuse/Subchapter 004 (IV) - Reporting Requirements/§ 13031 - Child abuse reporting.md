@@ -1,0 +1,84 @@
+### §13031. Child abuse reporting
+
+#### (a) In general
+
+A person who, while engaged in a professional capacity or activity described in subsection (b) of this section on Federal land or in a federally operated (or contracted) facility, learns of facts that give reason to suspect that a child has suffered an incident of child abuse, shall as soon as possible make a report of the suspected abuse to the agency designated under subsection (d) of this section.
+
+#### (b) Covered professionals
+
+Persons engaged in the following professions and activities are subject to the requirements of subsection (a) of this section:
+
+&emsp;(1) Physicians, dentists, medical residents or interns, hospital personnel and administrators, nurses, health care practitioners, chiropractors, osteopaths, pharmacists, optometrists, podiatrists, emergency medical technicians, ambulance drivers, undertakers, coroners, medical examiners, alcohol or drug treatment personnel, and persons performing a healing role or practicing the healing arts.
+
+&emsp;(2) Psychologists, psychiatrists, and mental health professionals.
+
+&emsp;(3) Social workers, licensed or unlicensed marriage, family, and individual counselors.
+
+&emsp;(4) Teachers, teacher's aides or assistants, school counselors and guidance personnel, school officials, and school administrators.
+
+&emsp;(5) Child care workers and administrators.
+
+&emsp;(6) Law enforcement personnel, probation officers, criminal prosecutors, and juvenile rehabilitation or detention facility employees.
+
+&emsp;(7) Foster parents.
+
+&emsp;(8) Commercial film and photo processors.
+
+#### (c) Definitions
+
+For the purposes of this section—
+
+&emsp;(1) the term “child abuse” means the physical or mental injury, sexual abuse or exploitation, or negligent treatment of a child;
+
+&emsp;(2) the term “physical injury” includes but is not limited to lacerations, fractured bones, burns, internal injuries, severe bruising or serious bodily harm;
+
+&emsp;(3) the term “mental injury” means harm to a child's psychological or intellectual functioning which may be exhibited by severe anxiety, depression, withdrawal or outward aggressive behavior, or a combination of those behaviors, which may be demonstrated by a change in behavior, emotional response or cognition;
+
+&emsp;(4) the term “sexual abuse” includes the employment, use, persuasion, inducement, enticement, or coercion of a child to engage in, or assist another person to engage in, sexually explicit conduct or the rape, molestation, prostitution, or other form of sexual exploitation of children, or incest with children;
+
+&emsp;(5) the term “sexually explicit conduct” means actual or simulated—
+
+&emsp;&emsp;(A) sexual intercourse, including sexual contact in the manner of genital-genital, oral-genital, anal-genital, or oral-anal contact, whether between persons of the same or of opposite sex; sexual contact means the intentional touching, either directly or through clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify sexual desire of any person;
+
+&emsp;&emsp;(B) bestiality;
+
+&emsp;&emsp;(C) masturbation;
+
+&emsp;&emsp;(D) lascivious exhibition of the genitals or pubic area of a person or animal; or
+
+&emsp;&emsp;(E) sadistic or masochistic abuse;
+
+&emsp;(6) the term “exploitation” means child pornography or child prostitution;
+
+&emsp;(7) the term “negligent treatment” means the failure to provide, for reasons other than poverty, adequate food, clothing, shelter, or medical care so as to seriously endanger the physical health of the child; and
+
+&emsp;(8) the term “child abuse” shall not include discipline administered by a parent or legal guardian to his or her child provided it is reasonable in manner and moderate in degree and otherwise does not constitute cruelty.
+
+#### (d) Agency designated to receive report and action to be taken
+
+For all Federal lands and all federally operated (or contracted) facilities in which children are cared for or reside, the Attorney General shall designate an agency to receive and investigate the reports described in subsection (a) of this section. By formal written agreement, the designated agency may be a non-Federal agency. When such reports are received by social services or health care agencies, and involve allegations of sexual abuse, serious physical injury, or life-threatening neglect of a child, there shall be an immediate referral of the report to a law enforcement agency with authority to take emergency action to protect the child. All reports received shall be promptly investigated, and whenever appropriate, investigations shall be conducted jointly by social services and law enforcement personnel, with a view toward avoiding unnecessary multiple interviews with the child.
+
+#### (e) Reporting form
+
+In every federally operated (or contracted) facility, and on all Federal lands, a standard written reporting form, with instructions, shall be disseminated to all mandated reporter groups. Use of the form shall be encouraged, but its use shall not take the place of the immediate making of oral reports, telephonically or otherwise, when circumstances dictate.
+
+#### (f) Immunity for good faith reporting and associated actions
+
+All persons who, acting in good faith, make a report by subsection (a) of this section, or otherwise provide information or assistance in connection with a report, investigation, or legal intervention pursuant to a report, shall be immune from civil and criminal liability arising out of such actions. There shall be a presumption that any such persons acted in good faith. If a person is sued because of the person's performance of one of the above functions, and the defendant prevails in the litigation, the court may order that the plaintiff pay the defendant's legal expenses. Immunity shall not be accorded to persons acting in bad faith.
+
+#### (g) Omitted
+
+#### (h) Training of prospective reporters
+
+All individuals in the occupations listed in subsection (b)(1) of this section who work on Federal lands, or are employed in federally operated (or contracted) facilities, shall receive periodic training in the obligation to report, as well as in the identification of abused and neglected children.
+
+(Pub. L. 101–647, title II, §226, Nov. 29, 1990, 104 Stat. 4806.)
+
+#### Codification
+
+Section is comprised of section 226 of Pub. L. 101–647. Subsec. (g) of section 226 of Pub. L. 101–647 enacted section 2258 of Title 18, Crimes and Criminal Procedure.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 18 section 2258.
+

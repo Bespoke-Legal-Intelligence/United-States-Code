@@ -1,0 +1,74 @@
+### §6004. Support for Cuban people
+
+#### (a) Provisions of law affected
+
+The provisions of this section apply notwithstanding any other provision of law, including section 2370(a) of this title, and notwithstanding the exercise of authorities, before October 23, 1992, under section 5(b) of the Trading With the Enemy Act \[12 U.S.C. 95a, 50 App. U.S.C. 5(b)\], the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\], or the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\].
+
+#### (b) Donations of food
+
+Nothing in this or any other Act shall prohibit donations of food to nongovernmental organizations or individuals in Cuba.
+
+#### (c) Exports of medicines and medical supplies
+
+Exports of medicines or medical supplies, instruments, or equipment to Cuba shall not be restricted—
+
+&emsp;(1) except to the extent such restrictions would be permitted under section 5(m) of the Export Administration Act of 1979 \[50 App. U.S.C. 2404(m)\] or section 203(b)(2) of the International Emergency Economic Powers Act \[50 U.S.C. 1702(b)(2)\];
+
+&emsp;(2) except in a case in which there is a reasonable likelihood that the item to be exported will be used for purposes of torture or other human rights abuses;
+
+&emsp;(3) except in a case in which there is a reasonable likelihood that the item to be exported will be reexported; and
+
+&emsp;(4) except in a case in which the item to be exported could be used in the production of any biotechnological product.
+
+#### (d) Requirements for certain exports
+
+#### (1) Onsite verifications
+
+&emsp;(A) Subject to subparagraph (B), an export may be made under subsection (c) of this section only if the President determines that the United States Government is able to verify, by onsite inspections and other appropriate means, that the exported item is to be used for the purposes for which it was intended and only for the use and benefit of the Cuban people.
+
+&emsp;(B) Subparagraph (A) does not apply to donations to nongovernmental organizations in Cuba of medicines for humanitarian purposes.
+
+#### (2) Licenses
+
+&emsp;Exports permitted under subsection (c) of this section shall be made pursuant to specific licenses issued by the United States Government.
+
+#### (e) Telecommunications services and facilities
+
+#### (1) Telecommunications services
+
+&emsp;Telecommunications services between the United States and Cuba shall be permitted.
+
+#### (2) Telecommunications facilities
+
+&emsp;Telecommunications facilities are authorized in such quantity and of such quality as may be necessary to provide efficient and adequate telecommunications services between the United States and Cuba.
+
+#### (3) Licensing of payments to Cuba
+
+&emsp;(A) The President may provide for the issuance of licenses for the full or partial payment to Cuba of amounts due Cuba as a result of the provision of telecommunications services authorized by this subsection, in a manner that is consistent with the public interest and the purposes of this chapter, except that this paragraph shall not require any withdrawal from any account blocked pursuant to regulationsissued under section 5(b) of the Trading With the Enemy Act \[12 U.S.C. 95a, 50 App. U.S.C. 5(b)\].
+
+&emsp;(B) If only partial payments are made to Cuba under subparagraph (A), the amounts withheld from Cuba shall be deposited in an account in a banking institution in the United States. Such account shall be blocked in the same manner as any other account containing funds in which Cuba has any interest, pursuant to regulations issued under section 5(b) of the Trading With the Enemy Act.
+
+#### (4) Authority of Federal Communications Commission
+
+&emsp;Nothing in this subsection shall be construed to supersede the authority of the Federal Communications Commission.
+
+#### (f) Direct mail delivery to Cuba
+
+The United States Postal Service shall take such actions as are necessary to provide direct mail service to and from Cuba, including, in the absence of common carrier service between the 2 countries, the use of charter service providers.
+
+#### (g) Assistance to support democracy in Cuba
+
+The United States Government may provide assistance, through appropriate nongovernmental organizations, for the support of individuals and organizations to promote nonviolent democratic change in Cuba.
+
+(Pub. L. 102–484, div. A, title XVII, §1705, Oct. 23, 1992, 106 Stat. 2577.)
+
+#### References in Text
+
+The International Emergency Economic Powers Act, referred to in subsec. (a), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+
+The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6003, 6005, 6008, 6009 of this title.
+

@@ -1,0 +1,38 @@
+### SUBCHAPTER III—LICENSEES AND PUBLIC UTILITIES; PROCEDURAL AND ADMINISTRATIVE PROVISIONS
+
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in section 824 of this title; title 43 section 1761.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 00825 - Accounts and records](%C2%A7%2000825%20-%20Accounts%20and%20records.md)
+- [&sect; 00825a - Rates of depreciation; notice to State authorities before fixing](%C2%A7%2000825a%20-%20Rates%20of%20depreciation%3B%20notice%20to%20State%20authorities%20before%20fixing.md)
+- [&sect; 00825b - Requirements applicable to agencies of United States](%C2%A7%2000825b%20-%20Requirements%20applicable%20to%20agencies%20of%20United%20States.md)
+- [&sect; 00825c - Periodic and special reports; obstructing filing reports or keeping accounts, etc](%C2%A7%2000825c%20-%20Periodic%20and%20special%20reports%3B%20obstructing%20filing%20reports%20or%20keeping%20accounts%2C%20etc.md)
+- [&sect; 00825d - Officials dealing in securities](%C2%A7%2000825d%20-%20Officials%20dealing%20in%20securities.md)
+- [&sect; 00825e - Complaints](%C2%A7%2000825e%20-%20Complaints.md)
+- [&sect; 00825f - Investigations by Commission](%C2%A7%2000825f%20-%20Investigations%20by%20Commission.md)
+- [&sect; 00825g - Hearings; rules of procedure](%C2%A7%2000825g%20-%20Hearings%3B%20rules%20of%20procedure.md)
+- [&sect; 00825h - Administrative powers of Commission; rules, regulations, and orders](%C2%A7%2000825h%20-%20Administrative%20powers%20of%20Commission%3B%20rules%2C%20regulations%2C%20and%20orders.md)
+- [&sect; 00825i - Appointment of officers and employees; compensation](%C2%A7%2000825i%20-%20Appointment%20of%20officers%20and%20employees%3B%20compensation.md)
+- [&sect; 00825j - Investigations relating to electric energy; reports to Congress](%C2%A7%2000825j%20-%20Investigations%20relating%20to%20electric%20energy%3B%20reports%20to%20Congress.md)
+- [&sect; 00825k - Publication and sale of reports](%C2%A7%2000825k%20-%20Publication%20and%20sale%20of%20reports.md)
+- [&sect; 00825l - Review of orders](%C2%A7%2000825l%20-%20Review%20of%20orders.md)
+- [&sect; 00825m - Enforcement provisions](%C2%A7%2000825m%20-%20Enforcement%20provisions.md)
+- [&sect; 00825n - Forfeiture for violations; recovery; applicability](%C2%A7%2000825n%20-%20Forfeiture%20for%20violations%3B%20recovery%3B%20applicability.md)
+- [&sect; 00825o - Penalties for violations; applicability of section](%C2%A7%2000825o%20-%20Penalties%20for%20violations%3B%20applicability%20of%20section.md)
+- [&sect; 00825o&#8211;1 - Enforcement of certain provisions](%C2%A7%2000825o%E2%80%931%20-%20Enforcement%20of%20certain%20provisions.md)
+- [&sect; 00825p - Jurisdiction of offenses; enforcement of liabilities and duties](%C2%A7%2000825p%20-%20Jurisdiction%20of%20offenses%3B%20enforcement%20of%20liabilities%20and%20duties.md)
+- [&sect; 00825q - Conflict of jurisdiction](%C2%A7%2000825q%20-%20Conflict%20of%20jurisdiction.md)
+- [&sect; 00825q&#8211;1 - Office of Public Participation](%C2%A7%2000825q%E2%80%931%20-%20Office%20of%20Public%20Participation.md)
+- [&sect; 00825r - Separability](%C2%A7%2000825r%20-%20Separability.md)
+- [&sect; 00825s - Sale of electric power from reservoir projects; rate schedules; preference in sale; construction of transmission lines; disposition of&#8230;](%C2%A7%2000825s%20-%20Sale%20of%20electric%20power%20from%20reservoir%20projects%3B%20rate%20schedules%3B%20preference%20in%20sale%3B%20construction%20of%20transmission%20lines%3B%20disposition%20of%E2%80%A6.md)
+- [&sect; 00825s&#8211;1 - Southwestern area sale and transmission of electric power; disposition of receipts; creation of continuing fund; use of fund](%C2%A7%2000825s%E2%80%931%20-%20Southwestern%20area%20sale%20and%20transmission%20of%20electric%20power%3B%20disposition%20of%20receipts%3B%20creation%20of%20continuing%20fund%3B%20use%20of%20fund.md)
+- [&sect; 00825s&#8211;2 - Southeastern area sale and transmission of electric power; disposition of receipts; creation of continuing funds; use of fund](%C2%A7%2000825s%E2%80%932%20-%20Southeastern%20area%20sale%20and%20transmission%20of%20electric%20power%3B%20disposition%20of%20receipts%3B%20creation%20of%20continuing%20funds%3B%20use%20of%20fund.md)
+- [&sect; 00825s&#8211;3 - Southwestern area sale at uniform systemwide rates of electric power over transmission lines constructed with appropriated funds or&#8230;](%C2%A7%2000825s%E2%80%933%20-%20Southwestern%20area%20sale%20at%20uniform%20systemwide%20rates%20of%20electric%20power%20over%20transmission%20lines%20constructed%20with%20appropriated%20funds%20or%E2%80%A6.md)
+- [&sect; 00825t - Utilization of power revenues](%C2%A7%2000825t%20-%20Utilization%20of%20power%20revenues.md)
+- [&sect; 00825u - Interest rate on power bonds held by Administrator of General Services](%C2%A7%2000825u%20-%20Interest%20rate%20on%20power%20bonds%20held%20by%20Administrator%20of%20General%20Services.md)

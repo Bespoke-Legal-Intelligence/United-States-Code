@@ -1,0 +1,26 @@
+### §3030c–1. Rights relating to in-home services for frail older individuals
+
+The Assistant Secretary shall require entities that provide in-home services under this subchapter to promote the rights of each older individual who receives such services. Such rights include the following:
+
+&emsp;(1) The right—
+
+&emsp;&emsp;(A) to be fully informed in advance about each in-home service provided by such entity under this subchapter and about any change in such service that may affect the well-being of such individual; and
+
+&emsp;&emsp;(B) to participate in planning and changing an in-home service provided under thissubchapter by such entity unless such individual is judicially adjudged incompetent.
+
+&emsp;(2) The right to voice a grievance with respect to such service that is or fails to be so provided, without discrimination or reprisal as a result of voicing such grievance.
+
+&emsp;(3) The right to confidentiality of records relating to such individual.
+
+&emsp;(4) The right to have the property of such individual treated with respect.
+
+&emsp;(5) The right to be fully informed (orally and in writing), in advance of receiving an in-home service under this subchapter, of such individual's rights and obligations under this subchapter.
+
+(Pub. L. 89–73, title III, §314, as added Pub. L. 102–375, title III, §311, Sept. 30, 1992, 106 Stat. 1237; amended Pub. L. 103–171, §§2(11), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990.)
+
+#### Amendments
+
+1993—Pub. L. 103–171 struck out “(a)
+
+Promotion.—” before “The Assistant” and substituted “Assistant Secretary” for “Commissioner”.
+

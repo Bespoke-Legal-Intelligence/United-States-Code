@@ -1,0 +1,24 @@
+### §1983. Civil action for deprivation of rights
+
+Every person who, under color of any statute, ordinance, regulation, custom, or usage, of any State or Territory or the District of Columbia, subjects, or causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress. For the purposes of this section, any Act of Congress applicable exclusively to the District of Columbia shall be considered to be a statute of the District of Columbia.
+
+(R.S. §1979; Pub. L. 96–170, §1, Dec. 29, 1979, 93 Stat. 1284.)
+
+#### Codification
+
+R.S. §1979 derived from act Apr. 20, 1871, ch. 22, §1, 17 Stat. 13.
+
+Section was formerly classified to section 43 of Title 8, Aliens and Nationality.
+
+#### Amendments
+
+1979—Pub. L. 96–170 inserted “or the District of Columbia” after “Territory”, and provisions relating to Acts of Congress applicable solely to the District of Columbia.
+
+#### Effective Date of 1979 Amendment
+
+Amendment by Pub. L. 96–170 applicable with respect to any deprivation of rights, privileges, or immunities secured by the Constitution and laws occurring after Dec. 29, 1979, see section 3 of Pub. L. 96–170, set out as a note under section 1343 of Title 28, Judiciary and Judicial Procedure.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1988, 1997e of this title.
+

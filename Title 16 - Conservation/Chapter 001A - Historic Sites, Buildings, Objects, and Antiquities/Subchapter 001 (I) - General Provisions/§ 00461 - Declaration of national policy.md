@@ -1,0 +1,352 @@
+### §461. Declaration of national policy
+
+It is declared that it is a national policy to preserve for public use historic sites, buildings, and objects of national significance for the inspiration and benefit of the people of the United States.
+
+(Aug. 21, 1935, ch. 593, §1, 49 Stat. 666.)
+
+#### Short Title
+
+Act Aug. 21, 1935, ch. 593, 49 Stat. 666, which is classified to sections 461 to 467 of this title, is popularly known as the “Historic Sites, Buildings, and Antiquities Act”.
+
+National Historic Sites
+
+&nbsp;
+
+Adams National Historic Site, Massachusetts.—Designated Dec. 9, 1946.
+
+Allegheny Portage Railroad National Historic Site, Pennsylvania.—Pub. L. 88–546, Aug. 31, 1964, 78 Stat. 752.
+
+Andersonville National Historic Site, Georgia.—Pub. L. 91–465, Oct. 16, 1970, 84 Stat. 989.
+
+Andrew Johnson National Historic Site.—Aug. 29, 1935, ch. 801, §§1–3, 49 Stat. 958 (16 U.S.C. 450<i>o</i>–450q); Proc. No. 2554, Apr. 27, 1942, 56 Stat. 1955; Pub. L. 88–197, §§1–3, Dec. 11, 1963, 77 Stat. 349, 350.
+
+Ansley Wilcox House National Historic Site (see Theodore Roosevelt Inaugural National Historic Site, New York).
+
+Bent's Old Fort National Historic Site, Colorado.—Pub. L. 86–487, June 3, 1960, 74 Stat. 155.
+
+Boston African American National Historic Site, Massachusetts.—Pub. L. 96–430, title I, §§101–106, Oct. 10, 1980, 94 Stat. 1845, 1846.
+
+Brown v. Board of Education National Historic Site, Kansas.—Pub. L. 102–525, title I, Oct. 26, 1992, 106 Stat. 3438.
+
+Carl Sandburg Home National Historic Site, North Carolina.—Pub. L. 90–592, Oct. 17, 1968, 82 Stat. 1968.
+
+Charles Pinckney National Historic Site, South Carolina.—Pub. L. 100–421, Sept. 8, 1988, 102 Stat. 1581.
+
+Clara Barton National Historic Site, Maryland.—Pub. L. 93–486, title I, §101(a)(1), Oct. 26, 1974, 88 Stat. 1461.
+
+Edgar Allan Poe National Historic Site, Pennsylvania.—Pub. L. 95–625, title V, §503, Nov. 10, 1978, 92 Stat. 3498.
+
+Edison National Historic Site.—Pub. L. 87–628, Sept. 5, 1962, 76 Stat. 428.
+
+Eisenhower National Historic Site.—33 F.R. 16031, Nov. 27, 1967; Pub. L. 91–133, Dec. 2, 1969, 83 Stat. 274.
+
+Eleanor Roosevelt National Historic Site, New York.—Pub. L. 95–32, May 26, 1977, 91 Stat. 171.
+
+Eugene O'Neill National Historic Site, California.—Pub. L. 94–539, §§1, 2, Oct. 18, 1976, 90 Stat. 2501.
+
+Ford's Theatre National Historic Site, District of Columbia.—Pub. L. 91–288, June 23, 1970, 84 Stat. 322.
+
+Fort Bowie National Historic Site, Arizona.—Pub. L. 88–510, Aug. 30, 1964, 78 Stat. 681.
+
+Fort Davis National Historic Site, Texas.—Pub. L. 87–213, Sept. 8, 1961, 75 Stat. 488.
+
+Fort Laramie National Historic Site, Wyoming.—Proc. No. 2292, July 16, 1938, 53 Stat. 2461; Pub. L. 86–444, Apr. 29, 1960, 74 Stat. 83.
+
+Fort Larned National Historic Site, Kansas.—Pub. L. 88–541, Aug. 31, 1964, 78 Stat. 748.
+
+Fort Point National Historic Site, California.—Pub. L. 91–457, Oct. 16, 1970, 84 Stat. 970.
+
+Fort Raleigh National Historic Site, North Carolina.—Designated Apr. 5, 1941; Pub. L. 87–148, Aug. 17, 1961, 75 Stat. 384; Pub. L. 101–603, Nov. 16, 1990, 104 Stat. 3065.
+
+Fort Saint Marks National Historic Site, Florida.—Pub. L. 87–789, Oct. 10, 1962, 76 Stat. 807.
+
+Fort Scott National Historic Site, Kansas.—Pub. L. 95–484, Oct. 19, 1978, 92 Stat. 1610; Pub. L. 95–625, title XII, §§1201–1205, Nov. 10, 1978, 92 Stat. 3548, 3549.
+
+Fort Smith National Historic Site, Arkansas.—Pub. L. 87–215, Sept. 13, 1961, 75 Stat. 489.
+
+Fort Union Trading Post National Historic Site, North Dakota and Montana.—Pub. L. 89–458, June 20, 1966, 80 Stat. 211.
+
+Frederick Law Olmsted National Historic Site, Massachusetts.—Pub. L. 96–87, title II, §§201–203, Oct. 12, 1979, 93 Stat. 664, 665.
+
+Friendship Hill National Historic Site, Pennsylvania.—Pub. L. 95–625, title V, §509, Nov. 10, 1978, 92 Stat. 3509.
+
+Georgia O'Keeffe National Historic Site, New Mexico.—Pub. L. 96–344, §3, Sept. 8, 1980, 94 Stat. 1133; repealed by Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1387.
+
+Golden Spike National Historic Site, Utah.—Pub. L. 89–102, July 30, 1965, 79 Stat. 426.
+
+Grant-Kohrs Ranch National Historic Site, Montana.—Pub. L. 92–406, Aug. 25, 1972, 86 Stat. 632.
+
+Hampton National Historic Site, Maryland.—Designated June 22, 1948.
+
+Harry S Truman National Historic Site, Missouri.—Pub. L. 98–32, May 23, 1983, 97 Stat. 193; Pub. L. 101–105, Oct. 2, 1989, 101 Stat. 675; Pub. L. 103–184, §1, Dec. 14, 1993, 107 Stat. 2243.
+
+Herbert Hoover National Historic Site, Iowa.—Pub. L. 89–119, Aug. 12, 1965, 79 Stat. 510.
+
+Home of Franklin D. Roosevelt National Historic Site, New York.—Designated Jan. 15, 1944.
+
+Hopewell Village National Historic Site, Pennsylvania.—Designated Aug. 3, 1938.
+
+Hubbell Trading Post National Historic Site, Arizona.—Pub. L. 89–148, Aug. 28, 1965, 79 Stat. 584.
+
+James A. Garfield National Historic Site, Ohio.—Pub. L. 96–607, title XII, §§1201, 1202, Dec. 28, 1980, 94 Stat. 3545.
+
+Jefferson National Expansion Memorial, National Historical Site, Missouri.—Designated Dec. 21, 1935
+
+Jimmy Carter National Historic Site, Georgia.—Pub. L. 100–206, Dec. 23, 1987, 101 Stat. 1434.
+
+John Fitzgerald Kennedy National Historic Site, Massachusetts.—Pub. L. 90–20, May 26, 1967, 81 Stat. 29.
+
+John Muir National Historic Site, California.—Pub. L. 88–547, Aug. 31, 1964, 78 Stat. 753; Pub. L. 100–563, §5, Oct. 31, 1988, 102 Stat. 2829.
+
+Knife River Indian Villages National Historic Site, North Dakota.—Pub. L. 93–486, title I, §101(a)(3), Oct. 26, 1974, 88 Stat. 1461; Pub. L. 101–430, §1, Oct. 15, 1990, 104 Stat. 959.
+
+Lincoln Home National Historic Site, Illinois.—Pub. L. 92–127, Aug. 18, 1971, 85 Stat. 347.
+
+Lyndon B. Johnson National Historic Site, Texas \[redesignated Lyndon B. Johnson National Historical Park by Pub. L. 96–607, title VI, §601, Dec. 3, 1980, 94 Stat. 3540 (16 U.S.C. 410kk to 410kk–2).—Pub. L. 91–134, Dec. 2, 1969, 83 Stat. 274.
+
+Longfellow National Historic Site, Massachusetts.—Pub. L. 92–475, Oct. 9, 1972, 86 Stat. 791.
+
+Maggie L. Walker National Historical Site, Virginia.—Pub. L. 95–625, title V, §511, Nov. 10, 1978, 92 Stat. 3510.
+
+Manzanar National Historic Site, California.—Pub. L. 102–248, title I, Mar. 3, 1992, 106 Stat. 40.
+
+Mar-A-Lago National Historic Site, Florida \[redesignated Mar-A-Lago National Historic Landmark by Pub. L. 96–586, §4(a)(2), Dec. 23, 1980, 94 Stat. 3386 (16 U.S.C. 467a note)\].—Designated Jan. 16, 1969; Pub. L. 92–527, Oct. 21, 1972, 86 Stat. 1049; repealed by Pub. L. 96–586, §4(a)(1), Dec. 23, 1980, 94 Stat. 3386.
+
+Martin Luther King, Junior, National Historic Site, Georgia.—Pub. L. 96–428, Oct. 10, 1980, 94 Stat. 1839; Pub. L. 102–575, title XL, §4024, Oct. 30, 1992, 106 Stat. 4768.
+
+Martin Van Buren National Historic Site, New York.—Pub. L. 93–486, title I, §101(a)(6), Oct. 26, 1974, 88 Stat. 1462.
+
+Mary McLeod Bethune Council House National Historic Site, District of Columbia.—Pub. L. 97–329, Oct. 15, 1982, 96 Stat. 1615; Pub. L. 102–211, Dec. 11, 1991, 105 Stat. 1652.
+
+Ninety Six National Historic Site, South Carolina.—Pub. L. 94–393, Aug. 19, 1976, 90 Stat. 1196.
+
+Old Philadelphia Custom House National Historic Site, Pennsylvania.—Designated May 26, 1939.
+
+Palo Alto Battlefield National Historic Site, Texas.—Pub. L. 95–625, title V, §506, Nov. 10, 1978, 92 Stat. 3500; Pub. L. 102–304, June 23, 1992, 106 Stat. 256.
+
+Puukohola Heiau National Historic Site, Hawaii.—Pub. L. 92–388, Aug. 17, 1972, 86 Stat. 562.
+
+Saint Gaudens National Historic Site, New Hampshire.—Pub. L. 88–543, Aug. 31, 1964, 78 Stat. 749.
+
+Salem Maritime National Historic Site, Massachusetts.—Designated Mar. 17, 1938; Pub. L. 100–349, §1, June 27, 1988, 102 Stat. 659; Pub. L. 101–632, §1, Nov. 28, 1990, 104 Stat. 4575.
+
+San Juan National Historic Site, Puerto Rico.—Designated Feb. 14, 1949.
+
+Saugus Iron Works National Historic Site, Massachusetts.—Pub. L. 90–282, Apr. 5, 1968, 82 Stat. 72.
+
+Sewall-Belmont House National Historic Site, District of Columbia.—Pub. L. 93–486, title II, §§201–204, Oct. 26, 1974, 88 Stat. 1463.
+
+Springfield Armory National Historic Site, Massachusetts.—Pub. L. 93–486, title I, §101(a)(4), Oct. 26, 1974, 88 Stat. 1461.
+
+Steamtown National Historic Site, Pennsylvania.—Pub. L. 99–500, §101(h) \[title I, §§1–5\], Oct. 18, 1986, 100 Stat. 1783–248, and Pub. L. 99–591, §101(h) \[title I, §§1–5\], Oct. 30, 1986, 100 Stat. 3341–248.
+
+Thaddeus Kosciuszko Home National Historic Site, Pennsylvania.—Pub. L. 92–524, Oct. 21, 1972, 86 Stat. 1046.
+
+Theodore Roosevelt Inaugural \[formerly Ansley Wilcox House\] National Historic Site, New York.—Pub. L. 89–708, Nov. 2, 1966, 80 Stat. 1101; Pub. L. 96–607, title VIII, §801, Dec. 28, 1980, 94 Stat. 3541.
+
+Thomas Stone National Historic Site, Maryland.—Pub. L. 95–625, title V, §510, Nov. 10, 1978, 92 Stat. 3510.
+
+Tuskegee Institute National Historic Site, Alabama.—Pub. L. 93–486, title I, §101(a)(5), Oct. 26, 1974, 88 Stat. 1462.
+
+Ulysses S. Grant National Historic Site, Missouri.—Pub. L. 101–106, Oct. 2, 1989, 103 Stat. 677.
+
+Vanderbilt Mansion National Historic Site, New York.—Designated Dec. 18, 1940.
+
+Weir Farm National Historic Site, Connecticut.—Pub. L. 101–485, Oct. 31, 1990, 104 Stat. 1171; Pub. L. 103–449, title II, Nov. 2, 1994, 108 Stat. 4756.
+
+William Howard Taft National Historic Site, Ohio.—Pub. L. 91–132, Dec. 2, 1969, 83 Stat. 273.
+
+For other historic sites included within this title, see General Index.
+
+National Battlefield Sites
+
+&nbsp;
+
+Cowpens National Battlefield Site, South Carolina.—Act Mar. 4, 1929, ch. 699, 45 Stat. 1558.
+
+Fort Necessity National Battlefield Site, Pennsylvania.—Act Mar. 4, 1931, ch. 504, 46 Stat. 1552 \[redesignated Fort Necessity National Battlefield by Pub. L. 87–134, §3, Aug. 10, 1961, 75 Stat. 336. See section 430rr of this title\].
+
+National Heritage Corridors
+
+&nbsp;
+
+Blackstone River Valley National Heritage Corridor, Massachusetts and Rhode Island.—Pub. L. 99–647, Nov. 10, 1986, 100 Stat. 3625; Pub. L. 101–441, Oct. 18, 1990, 104 Stat. 1017; Pub. L. 102–154, title I, §118, Nov. 13, 1991, 105 Stat. 1013.
+
+Delaware and Lehigh Navigation Canal National Heritage Corridor, Pennsylvania.—Pub. L. 100–692, Nov. 18, 1988, 102 Stat. 4552.
+
+Illinois and Michigan Canal National Heritage Corridor, Illinois.—Pub. L. 98–398, title I, Aug. 24, 1984, 98 Stat. 1456.
+
+Quinebaug and Shetucket Rivers Valley National Heritage Corridor, Connecticut. Pub. L. 103–449, title I, Nov. 2, 1994, 108 Stat. 4752.
+
+#### Maine Acadian Culture Preservation Act
+
+Pub. L. 101–543, Nov. 8, 1990, 104 Stat. 2389, established Maine Acadian Culture Preservation Commission, prescribed duties of Commission, required Secretary of the Interior within 1 year to prepare and transmit to Congress a comprehensive study of Acadian culture in Maine, authorized cooperative agreements and establishment of Acadian Culture Center, and authorized appropriations.
+
+#### Southwestern Pennsylvania Heritage Preservation Commission
+
+Pub. L. 100–698, §1, title I, §§101–105, Nov. 19, 1988, 102 Stat. 4618, provided for the establishment and staffing of the Southwestern Pennsylvania Heritage Preservation Commission and set forth its powers and functions as a means for recognizing, preserving, promoting, and interpreting the cultural heritage of the 9-county region in southwestern Pennsylvania associated with the three basic industries of iron and steel, coal, and transportation.
+
+#### Historic Resources of Camden, South Carolina
+
+Pub. L. 97–184, May 24, 1982, 96 Stat. 99, provided: “That (a) in order to assist in the preservation of the nationally significant historic resources associated with the town of Camden, South Carolina, a key location in the development of South Carolina and in military operations in the South during the American Revolution, the Secretary of the Interior is authorized, in accordance with subsection 2(e) of the Act of August 21, 1935 (49 Stat. 666) \[section 462(e) of this title\], to enter into a cooperative agreement or agreements with the Camden Historical Commission, the Camden District Heritage Foundation, or other appropriate public, governmental, or private nonprofit entities pursuant to which the Secretary may assist in the protection, restoration, and interpretation of such resources for the benefit of the public.
+
+“(b) Beginning October 1, 1982, there are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act \[this note\], but not to exceed $250,000.”
+
+#### Ebey's Landing National Historical Reserve
+
+Pub. L. 95–625, title V, §508, Nov. 10, 1978, 92 Stat. 3507, as amended Pub. L. 96–87, title IV, §401(k), Oct. 12, 1979, 93 Stat. 666, provided:
+
+“(a) \[Establishment, area of reserve\] There is hereby established the Ebey's Landing National Historical Reserve (hereinafter referred to as the ‘reserve’), in order to preserve and protect a rural community which provides an unbroken historical record from nineteenth century exploration and settlement in Puget Sound to the present time, and to commemorate—
+
+&emsp;“(1) the first thorough exploration of the Puget Sound area, by Captain George Vancouver, in 1792;
+
+&emsp;“(2) settlement by Colonel Isaac Neff Ebey who led the first permanent settlers to Whidbey Island, quickly became an important figure in Washington Territory, and ultimately was killed by Haidahs from the Queen Charlotte Islands during a period of Indian unrest in 1857;
+
+&emsp;“(3) early active settlement during the years of the Donation Land Law (1850–1855) \[Sept. 27, 1850, ch. 76, 9 Stat. 496, Feb. 14, 1853, ch. 69, 10 Stat. 158, July 17, 1854, ch. 84, 10 Stat. 305\] and thereafter; and
+
+&emsp;“(4) the growth since 1883 of the historic town of Coupeville.
+
+> The reserve shall include the area of approximately eight thousand acres identified as the Central Whidbey Island Historic District.
+
+“(b) \[Comprehensive plan; transmittal to Congress\] (1) To achieve the purpose of this section, the Secretary, in cooperation with the appropriate State and local units of general government, shall formulate a comprehensive plan for the protection, preservation, and interpretation of the reserve. The plan shall identify those areas or zones within the reserve which would most appropriately be devoted to—
+
+&emsp;“(A) public use and development;
+
+&emsp;“(B) historic and natural preservation; and
+
+&emsp;“(C) private use subject to appropriate local zoning ordinances designed to protect the historical rural setting.
+
+“(2) Within eighteen months following the date of enactment of this section \[Nov. 10, 1978\], the Secretary shall transmit the plan to the President of the Senate and the Speaker of the House of Representatives.
+
+“(c) \[Cooperative agreement; land use controls; transfer of management and administration; assistance; grants, limitation of amount\] At such time as the State or appropriate units of local government having jurisdiction over land use within the reserve have enacted such zoning ordinances or other land use controls which in the judgment of the Secretary will protect and preserve the historic and natural features of the area in accordance with the comprehensive plan, the Secretary may, pursuant to cooperative agreement—
+
+&emsp;“(1) transfer management and administration over all or any part of the property acquired under subsection (d) of this section to the State or appropriate units of local government;
+
+&emsp;“(2) provide technical assistance to such State or unit of local government in the management, protection, and interpretation of the reserve; and
+
+&emsp;“(3) make periodic grants, which shall be supplemental to any other funds to which the grantee may be entitled under any other provision of law, to such State or local unit of government for the annual costs of operation and maintenance, including but not limited to, salaries of personnel and the protection, preservation, and rehabilitation of the reserve except that no such grant may exceed 50 per centum of the estimated annual cost, as determined by the Secretary, of such operation and maintenance.
+
+“(d) \[Acquisition of property; administration by Secretary\] The Secretary is authorized to acquire such lands and interests as he determines are necessary to accomplish the purposes of this section by donation, purchase with donated or appropriated funds, or exchange, except that the Secretary may not acquire the fee simple title to any land without the consent of the owner. The Secretary shall, in addition, give prompt and careful consideration to any offer made by an individual owning property within the historic district to sell such property, if such individual notifies the Secretary that the continued ownership of such property is causing, or would result in, undue hardship.
+
+“Lands and interests therein so acquired shall, so long as responsibility for management and administration remains with the United States, be administered by the Secretary subject to the provisions of the Act of August 25, 1916 (39 Stat. 535) \[sections 1, 2, 3, and 4 of this title\], as amended and supplemented, and in a manner consistent with the purpose of this section.
+
+“(e) \[Management inconsistencies; notification; modifications; withdrawal; management by Secretary\]If, after the transfer of management and administration of any lands pursuant to subsection (c) of this section, the Secretary determines that the reserve is not being managed in a manner consistent with the purposes of this section, he shall so notify the appropriate officers of the State or local unit of government to which such transfer was made and provide for a ninety-day period in which the transferee may make such modifications in applicable laws, ordinances, rules, and procedures as will be consistent with such purposes. If, upon the expiration of such ninety-day period, the Secretary determines that such modifications have not been made or are inadequate, he shall withdraw the management and administration from the transferee and he shall manage such lands in accordance with the provisions of this section.
+
+“(f) \[Authorization of appropriations\] There is hereby authorized to be appropriated not to exceed $5,000,000 to carry out the provisions of this section.”
+
+#### Saint Paul's Church, Eastchester
+
+Pub. L. 95–625, title V, §504, Nov. 10, 1978, 92 Stat. 3498, provided:
+
+“(a) \[Acquisition of property\] In order to preserve and protect Saint Paul's Church, Eastchester, in Mount Vernon, New York, for the benefit of present and future generations, the Secretary may accept any gift or bequest of any property or structure which comprises such church and any other real or personal property located within the square bounded by South Columbus Avenue, South Third Avenue, Edison Avenue, and South Fulton Avenue, in Mount Vernon, New York, including the cemetery located within such square and any real property located within such square which was at any time a part of the old village green, now in Mount Vernon, New York.
+
+“(b) \[Administration; repairs; cooperative agreements: management protection, development and interpretation\] Any property acquired under subsection (a) shall be administered by the Secretary acting through the National Park Service, in accordance with this section and provisions of law generally applicable to units of the National Park System, including the Act approved August 25, 1916 (16 U.S.C. 1 and following) \[sections 1, 2, 3, and 4 of this title\] and the Act approved August 21, 1935 \[sections 461 to 467 of this title\]. The Secretary, in carrying out the provisions of such Acts (i) shall give particular attention to assuring the completion of such structural and other repairs as he considers necessary to restore and preserve any property acquired in accordance with this section, and (ii) may enter into cooperative agreements with other public or private entities for the management, protection, development, and interpretation, in whole or in part, of the property so acquired.”
+
+#### Lowell Historic Canal District, Lowell, Massachusetts
+
+Pub. L. 93–645, Jan. 4, 1975, 88 Stat. 2330, provided that:
+
+“
+
+Sec. 1. \[Lowell Historic Canal District Commission; establishment purpose\] For the purpose of preserving and interpreting for the educational and inspirational benefit of present and future generations the unique and significant contribution to our national heritage of certain historic and cultural lands, waterways, and edifices in the city of Lowell, Massachusetts (the cradle of the industrial revolution in America as well as America's first planned industrial city) with emphasis on harnessing this unique urban environment for its educational value as well as for recreation, there is hereby established the Lowell Historic Canal District Commission (hereinafter referred to as the ‘Commission’), the purpose of which shall be to prepare a plan for the preservation, interpretation, development, and use, by public and private entities, of the historic, cultural, and architectural resources of the Lowell Historic Canal District in the city of Lowell, Massachusetts.
+
+“
+
+Sec. 2. \[Membership; alternate members; compensation\] (a) The Commission shall consist of nine members, as follows:
+
+&emsp;“(1) the Secretary of the Interior, the Secretary of Housing and Urban Development, the Secretary of Transportation, and the Secretary of Commerce, all ex officio; and
+
+&emsp;“(2) five members appointed by the Secretary of the Interior, one of whom shall be the Director of the National Park Service, two of whom shall be appointed from recommendations submitted by the manager of the city of Lowell, and two of whom shall be appointed from recommendations submitted by the Governor of the Commonwealth of Massachusetts. The members appointed pursuant to this paragraph shall have knowledge and experience in one or more of the fields of history, architecture, the arts, recreation planning, city planning, or government.
+
+“(b) Each member of the Commission specified in paragraph (1) of subsection (a) and the Director of the National Park Service may designate an alternate official to serve in his stead. Members appointed pursuant to paragraph (2) of subsection (a) who are officers or employees of the Federal Government, the city of Lowell, or the Commonwealth of Massachusetts, shall serve without compensation as such. Other members, when engaged in activities of the Commission, shall be entitled to compensation at the rate of not to exceed $100 per diem. All members of the Commission shall receive reimbursement for necessary travel and subsistence expenses incurred by them in the performance of the duties of the Commission.
+
+“
+
+Sec. 3. \[Personnel; financial and administrative services\] (a) The Commission shall elect a Chairman from among its members. Financial and administrative services (including those relating to budgeting, accounting, financial reporting, personnel, and procurement) shall be provided for the Commission by the General Services Administration, for which payments shall be made in advance, or by reimbursement, from funds of the Commission in such amounts as may be agreed upon by the Chairman of the Commission and the Administrator, General Services Administration: <i>Provided</i>, That the regulations of the Department of the Interior for the collection of indebtedness of personnel resulting from erroneous payments shall apply to the collection of erroneous payments made to or on behalf of a Commission employee, and regulations of said Secretary for the administrative control of funds shall apply to appropriations of the Commission: <i>And provided further</i>, That the Commission shall not be required to prescribe such regulations.
+
+“(b) The Commission shall have power to appoint and fix the compensation of such additional personnel as may be necessary to carry out its duties, without regard to the provisions of the civil service laws and the Classification Act of 1949 \[see sections 5101 et seq. and 5331 et seq. of Title 5, Government Organization and Employees\].
+
+“(c) The Commission may also procure, without regard to the civil service laws and the Classification Act of 1949 \[see sections 5101 et seq. and 5331 et seq. of Title 5\], temporary and intermittent services to the same extent as is authorized for the executive departments by section 15 of the Administrative Expenses Act of 1946 \[see section 3109 of Title 5\], but at rates not to exceed $100 per diem for individuals.
+
+“(d) The members of the Commission specified in paragraph (1) of section 2(a) shall provide the Commission, on a reimbursable basis, with such facilities and services under their jurisdiction and control as may be needed by the Commission to carry out its duties, to the extent that such facilities and services are requested by the Commission and are otherwise available for that purpose. To the extent of available appropriations, the Commission may obtain, by purchase, rental, donation, or otherwise, such additional property, facilities, and services as may be needed to carry out its duties. Upon the termination of the Commission all property, personal and real, and unexpended funds shall be transferred to the Department of the Interior.
+
+“
+
+Sec. 4. \[Plan for preservation, etc., contents; time\] It shall be the duty of the Commission to prepare theplan referred to in the first section of this Act, and to submit the plan together with any recommendations for additional legislation, to the Congress not later than two years from the effective date of this Act. The plan for the Lowell Historic Canal District shall include considerations and recommendations, without limitation, regarding (1) the objectives to be achieved by the establishment, development, and operation of the area; (2) the types of use, both public and private, to be accommodated; (3) criteria for the design and appearance of buildings, facilities, open spaces, and other improvements; (4) a program for the staging of development; (5) the anticipated interpretive, cultural, and recreational programs and uses for the area; (6) the proposed ownership and operation of all structures, facilities, and lands; (7) areas where cooperative agreements may be anticipated; (8) estimates of costs, both public and private, of implementing the plan; and (9) procedures to be used in implementing and insuring continuing conformance to the plan.
+
+“
+
+Sec. 5. \[Termination of Commission\] The Commission shall be dissolved (1) upon the termination, as determined by its members, of need for its continued existence for the implementation of the plan and the operation or coordination of the entity established by the plan, or (2) upon expiration of a two-year period commencing on the effective date of this Act, whereupon the completed plan has not been submitted to the Congress, whichever occurs first.
+
+“
+
+Sec. 6. \[Contemplated authorizations\] It is contemplated that the plan to be developed may propose that the Commission may be authorized to—
+
+&emsp;“(1) acquire lands and interests therein within the Lowell Historic Canal District by purchase, lease, donation, or exchange;
+
+&emsp;“(2) hold, maintain, use, develop, or operate buildings, facilities, and any other properties;
+
+&emsp;“(3) sell, lease, or otherwise dispose of real or personal property as necessary to carry out the plan;
+
+&emsp;“(4) enter into and perform such contracts, leases, cooperative agreements, or other transactions with any agency or instrumentality of the United States, the Commonwealth of Massachusetts, and any governmental unit within its boundaries, or any person, firm, association, or corporation as may be necessary;
+
+&emsp;“(5) establish (through covenants, regulations, agreements, or otherwise) such restrictions, standards, and requirements as are necessary to assure development, maintenance, use, and protection of the Lowell Historic Canal District in accordance with the plan; and
+
+&emsp;“(6) borrow money from the Treasury of the United States in such amounts as may be authorized in appropriation Acts on the basis of obligations issued by the Commission in accordance with terms and conditions approved by the Secretary of the Treasury. The Secretary of the Treasury is authorized and directed to purchase any such obligations of the Commission.
+
+“
+
+Sec. 7. \[Title to property\] Title to property of the Commission shall be in the name of the Commission, but it shall not be subject to any Federal, State, or municipal taxes.
+
+“
+
+Sec. 8. \[Authorization of appropriations\] There are authorized to be appropriated not to exceed $150,000 for the preparation of the plan authorized by this Act.”
+
+#### Proc. No. 3339. Establishment of Key Largo Coral Reef Preserve
+
+Proc. No. 3339, Mar. 15, 1960, 25 F.R. 2352, provided:
+
+WHEREAS there is situated seaward from the coast of Key Largo, Florida, an undersea coral reef formation which is part of the only living coral reef formation along the coast of North America; and
+
+WHEREAS this unique coral formation and its associated marine life are of great scientific interest and value to students of the sea; and
+
+WHEREAS this coral reef is considered to be one of the most beautiful formations of its kind in the world; and
+
+WHEREAS the reef is being subjected to commercial exploitation and is in danger of destruction; and
+
+WHEREAS it is in the public interest to preserve this formation of great scientific and esthetic importance for the benefit and enjoyment of the people; and
+
+WHEREAS a portion of this reef lies inside the three-mile limit in the area relinquished to the State of Florida by the United States through the Submerged Lands Act, approved May 22, 1953 (67 Stat. 29; 43 U.S.C. 1301 et seq.), and the remainder lies on the sea bed of the outer Continental Shelf outside the seaward boundary of the State of Florida and appertains to the United States, as declared by the Outer Continental Shelf Lands Act, approved August 7, 1953 (67 Stat. 462; 43 U.S.C. 1331 et seq.); and
+
+WHEREAS the United States and the State of Florida are desirous of cooperating for the purpose of preserving the scenic and scientific values of this area unimpaired for the benefit of future generations; and
+
+WHEREAS by the terms of the Outer Continental Shelf Lands Act the United States has jurisdiction over the lands of the outer Continental Shelf and has the exclusive right to dispose of the natural resources of the sea bed and subsoil thereof; and
+
+WHEREAS section 12(a) of the Outer Continental Shelf Lands Act \[subsec. (a) of section 1341 of Title 43, Public Lands\] authorizes the President to withdraw from disposition any of the unleased lands of the outer Continental Shelf; and
+
+WHEREAS section 5 of the Outer Continental Shelf Lands Act \[section 1334 of Title 43\] authorizes the Secretary of the Interior to prescribe rules and regulations for the conservation of the natural resources of the outer Continental Shelf and to cooperate with the conservation agencies of adjacent States in the enforcement of conservation laws, rules, and regulations:
+
+NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of America, acting under and by virtue of the authority vested in me by the Constitution and the statutes of the United States, particularly section 12(a) of the Outer Continental Shelf Lands Act \[subsec. (a) of section 1341 of Title 43\], do proclaim that, subject to valid existing rights, the following-described area is designated as the Key Largo Coral Reef Preserve, and so much thereof as lies on the outer Continental Shelf is withdrawn from disposition:
+
+That portion of the outer Continental Shelf situated seaward of a line three geographic miles from Key Largo, Monroe County, Florida, lying and being within the following described area:
+
+Beginning at a point on the 60-foot depth curve (10-fathom line) as delineated on Coast and Geodetic Survey Chart 1249 (approximate Latitude 25°1736 N., Longitude 80°1000 W.), 200 yards southeast of Flashing White Light—Whistle Buoy “2”; thence northwesterly approximately 7,000 yards through Whistle Buoy “2” to Can Buoy “21” (approximate Latitude 25°2006 N., Longitude 80°1236 W.) southeast of Old Rhodes Key; thence southwesterly about 6,900 yards to Can Buoy “25”; thence southwesterly approximately 5,500 yards to Can Buoy “27”; thence southwesterly approximately 5,000 yards to Flashing Green Light “31BH” in Hawk Channel southeast of Point Elizabeth; thence southwesterly approximately 10,650 yards to Black Day Beacon “33” in Hawk Channel east of Point Willie; thence southwesterly approximately 9,800 yards to Flashing White Light “35” on Mosquito Bank east of Point Charles; thence southwesterly approximately 5,400 yards to Black Day Beacon “37” (approximate Latitude 25°0225 N., Longitude 80°2536 W.), southeast of Rodriguez Key; thence southeasterly approximately 7,100 yards (pass 600 yards southwest of Flashing Light “2” at Molasses Reef) to the 60-foot depth curve (10-fathom line) 800 yards due south of said light at Molasses Reef (approximate Latitude 25°0018 N., Longitude 80°2230 W.); thence northeasterly with the 60-foot depth curve and 10-fathom line (passing easterly of French Reef, Dixie Shoal, The Elbow, and Carysfort Reef) approximately 21 miles to the point of beginning.
+
+I call upon all persons to join in the effort to protect and preserve this natural wonder for the benefit of future generations.
+
+The Secretary of the Interior is requested to prescribe rules and regulations governing the protection and conservation of the coral and other mineral resources in this area and to cooperate with the State of Florida and its conservation agencies in the preservation of the reef.
+
+IN WITNESS WHEREOF, I have hereunto set my hand and caused the Seal of the United States of America to be affixed.
+
+DONE at the City of Washington this fifteenth day of March in the year of our Lord nineteen hundred and sixty, and of the Independence of the United States of America the one hundred and eighty-fourth.
+
+> \[
+
+seal\]
+
+Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1e, 230e, 281e, 282a, 282b, 396d, 397d, 407q, 410u, 410w, 410z–4, 410aa–2, 410bb–1, 410ee, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410nn–1, 410<i>oo</i>–3, 410pp–2, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410yy–2, 410bbb–2, 410ccc–2, 430m, 450e–1, 450hh–2, 450jj–5, 450pp–1, 459h–4, 462, 463, 464, 465, 466, 467, 467b, 468, 469, 470a, 698r, 1133, 1244, 3206 of this title; title 40 sections 304a–2, 871; title 43 section 377b.
+

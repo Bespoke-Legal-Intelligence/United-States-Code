@@ -1,0 +1,14 @@
+### §8713 . Effect of other statutes
+
+Any provision of law outside of this chapter provides coverage or any other benefit under this chapter to any individuals who (based on their being employed by an entity other than the Government) would not otherwise be eligible for any such coverage or benefit shall not apply with respect to any individual appointed, transferred, or otherwise commencing that type of employment on or after October 1, 1988.
+
+(Added Pub. L. 100–238, title I, §108(a)(2)(A), Jan. 8, 1988, 101 Stat. 1747.)
+
+#### Prior Provisions
+
+A prior section 8713, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 598; Pub. L. 90–83, §1(93), Sept. 11, 1967, 81 Stat. 219; Pub. L. 95–454, title IX, §906(a)(1), (4), Oct. 13, 1978, 92 Stat. 1224, 1225, which provided for an advisory committee to be appointed by the Director of the Office of Personnel Management to be composed of five employees insured under this chapter, to serve without additional pay, to advise the Office regarding matters of concern to employees under this chapter, was repealed by Pub. L. 96–427, §9(a), Oct. 10, 1980, 94 Stat. 1837, effective Oct. 10, 1980, with the repeal to have no effect in the case of an employee who died, was separated, or retired before Oct. 10, 1980.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 22 section 6103; title 25 section 450i.
+

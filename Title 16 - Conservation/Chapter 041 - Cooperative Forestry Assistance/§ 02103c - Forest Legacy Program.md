@@ -1,0 +1,110 @@
+### §2103c. Forest Legacy Program
+
+#### (a) Establishment and purpose
+
+The Secretary shall establish a program, to be known as the Forest Legacy Program, in cooperation with appropriate State, regional, and other units of government for the purposes of ascertaining and protecting environmentally important forest areas that are threatened by conversion to nonforest uses and, through the use of conservation easements and other mechanisms, for promoting forest land protection and other conservation opportunities. Such purposes shall also include the protection of important scenic, cultural, fish, wildlife, and recreational resources, riparian areas, and other ecological values.
+
+#### (b) State and regional forest legacy programs
+
+The Secretary shall exercise the authority under subsection (a) of this section in conjunction with State or regional programs that the Secretary deems consistent with this section.
+
+#### (c) Interests in land
+
+In addition to the authorities granted under section 515 of this title and section 428a(a) of title 7, the Secretary may acquire from willing landowners lands and interests therein, including conservation easements and rights of public access, for Forest Legacy Program purposes. The Secretary shall not acquire conservation easements with title held in common ownership with any other entity.
+
+#### (d) Implementation
+
+#### (1) In general
+
+&emsp;Lands and interests therein acquired under subsection (c) of this section may be held in perpetuity for program and easement administration purposes as the Secretary may provide. In administering lands and interests therein under the program, the Secretary shall identify the environmental values to be protected by entry of the lands into the program, management activities which are planned and the manner in which they may affect the values identified, and obtain from the landowner other information determined appropriate for administration and management purposes.
+
+#### (2) Initial programs
+
+&emsp;Not later than November 28, 1991, the Secretary shall establish a regional program in furtherance of the Northern Forest Lands Study in the States of New York, New Hampshire, Vermont, and Maine under Public Law 100–446. The Secretary shall establish additional programs in each of the Northeast, Midwest, South, and Western regions of the United States, and the Pacific Northwest (including the State of Washington), on the preparation of an assessment of the need for such programs.
+
+#### (e) Eligibility
+
+Not later than November 28, 1991, and in consultation with State Forest Stewardship Coordinating Committees established under section 2113(b) of this title and similar regional organizations, the Secretary shall establish eligibility criteria for the designation of forest areas from which lands may be entered into the Forest Legacy Program and subsequently select such appropriate areas. To be eligible, such areas shall have significant environmental values or shall be threatened by present or future conversion to nonforest uses. Of land proposed to be included in the Forest Legacy Program, the Secretary shall give priority to lands which can be effectively protected and managed, and which have important scenic or recreational values; riparian areas; fish and wildlife values, including threatened and endangered species; or other ecological values.
+
+#### (f) Application
+
+For areas included in the Forest Legacy Program, an owner of lands or interests in lands who wishes to participate may prepare and submit an application at such time in such form and containing such information as the Secretary may prescribe. The Secretary shall give reasonable advance notice for the submission of all applications to the State forester, equivalent State official, or other appropriate State or regional natural resource management agency. If applications exceed the ability of the Secretary to fund them, priority shall be given to those forest areas having the greatest need for protection pursuant to the criteria described in subsection (e) of this section.
+
+#### (g) State consent
+
+Where a State has not approved the acquisition of land under section 515 of this title, the Secretary shall not acquire lands or interests therein under authority granted by this section outside an area of that State designated as a part of a program established under subsection (b) of this section.
+
+#### (h) Forest management activities
+
+#### (1) In general
+
+&emsp;Conservation easements or deed reservations acquired or reserved pursuant to this section may allow forest management activities, including timber management, on areas entered in the Forest Legacy Program insofar as the Secretary deems such activities consistent with the purposes of this section.
+
+#### (2) Assignment of responsibilities
+
+&emsp;For Forest Legacy Program areas, the Secretary may delegate or assign management and enforcement responsibilities over federally owned lands and interests in lands only to another governmental entity.
+
+#### (i) Duties of owners
+
+Under the terms of a conservation easement or other property interest acquired under subsection (b) <sup>1</sup> of this section, the landowner shall be required to manage property in a manner that is consistent with the purposes for which the land was entered in the Forest Legacy Program and shall not convert such property to other uses. Hunting, fishing, hiking, and similar recreational uses shall not be considered inconsistent with the purposes of this program.
+
+#### (j) Compensation and cost sharing
+
+#### (1) Compensation
+
+&emsp;The Secretary shall pay the fair market value of any property interest acquired under this section. Payments under this section shall be in accordance with Federal appraisal and acquisition standards and procedures.
+
+#### (2) Cost sharing
+
+&emsp;In accordance with terms and conditions that the Secretary shall prescribe, costs for the acquisition of lands or interests therein or project costs shall be shared among participating entities including regional organizations, State and other governmental units, landowners, corporations, or private organizations. Such costs may include, but are not limited to, those associated with planning, administration, property acquisition, and property management. To the extent practicable, the Federal share of total program costs shall not exceed 75 percent, including any in-kind contribution.
+
+#### (k) Easements
+
+#### (1) Reserved interest deeds
+
+&emsp;As used in this section, the term “conservation easement” includes an easement utilizing a reserved interest deed where the grantee acquires all rights, title, and interests in a property, except those rights, title, and interests that may run with the land that are expressly reserved by a grantor.
+
+#### (2) Prohibitions on limitations
+
+&emsp;Notwithstanding any provision of State law, no conservation easement held by the United States or its successors or assigns under this section shall be limited in duration or scope or be defeasible by—
+
+&emsp;&emsp;(A) the conservation easement being in gross or appurtenant;
+
+&emsp;&emsp;(B) the management of the conservation easement having been delegated or assigned to a non-Federal entity;
+
+&emsp;&emsp;(C) any requirement under State law for re-recordation or renewal of the easement; or
+
+&emsp;&emsp;(D) any future disestablishment of a Forest Legacy Program area or other Federal project for which the conservation easement was originally acquired.
+
+#### (3) Construction
+
+&emsp;Notwithstanding any provision of State law, conservation easements shall be construed to effect the Federal purposes for which they were acquired and, in interpreting their terms, there shall be no presumption favoring the conservation easement holder or fee owner.
+
+#### (<i>l</i>) Appropriation
+
+There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+(Pub. L. 95–313, §7, as added Pub. L. 101–624, title XII, §1217, Nov. 28, 1990, 104 Stat. 3528; amended Pub. L. 102–237, title X, §1018(a)(2), Dec. 13, 1991, 105 Stat. 1905.)
+
+#### References in Text
+
+Public Law 100–446, referred to in subsec. (d)(2), is Pub. L. 100–446, Sept. 27, 1988, 102 Stat. 1774. Provisions of the Act relating to functions of the Secretary of Agriculture in connection with forest lands are not classified to the Code. For complete classification of this Act to the Code, see Tables.
+
+#### Prior Provisions
+
+A prior section 7 of Pub. L. 95–313 was renumbered section 10 and is classified to section 2106 of this title.
+
+#### Amendments
+
+1991—Subsec. (d)(2). Pub. L. 102–237, §1018(a)(2)(A), substituted “November 28, 1991” for “1 year after November 28, 1990”.
+
+Subsec. (e). Pub. L. 102–237, §1018(a)(2)(B), substituted “Not later than November 28, 1991, and in consultation with State Forest Stewardship Coordinating Committees established under section 2113(b)” for “Within 1 year from November 28, 1990, and in consultation with State Forest Stewardship Advisory Committees established under section 15(b)”.
+
+Subsec. (f). Pub. L. 102–237, §1018(a)(2)(C), substituted “subsection (e)” for “subsection (d)”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2113 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be subsection “(c)”.</i>
+

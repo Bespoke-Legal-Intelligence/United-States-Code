@@ -1,0 +1,90 @@
+### §46102. Proceedings
+
+(a)
+
+Conducting Proceedings.—Subject to subchapter II of chapter 5 of title 5, the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may conduct proceedings in a way conducive to justice and the proper dispatch of business.
+
+(b)
+
+Appearance.—A person may appear and be heard before the Secretary and the Administrator in person or by an attorney. The Secretary may appear and participate as an interested party in a proceeding the Administrator conducts under section 40113(a) of this title.
+
+(c)
+
+Recording and Public Access.—Official action taken by the Secretary and Administrator under this part shall be recorded. Proceedings before the Secretary and Administrator shall be open to the public on the request of an interested party unless the Secretary or Administrator decides that secrecy is required because of national defense.
+
+(d)
+
+Conflicts of Interest.—The Secretary, the Administrator, or an officer or employee of the Administration may not participate in aproceeding referred to in subsection (a) of this section in which the individual has a pecuniary interest.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1226.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+46102(a)
+
+49 App.:1481 (1st sentence).
+
+Aug. 23, 1958, Pub. L. 85–726, §1001, 72 Stat. 788.
+
+&nbsp;
+
+49 App.:1551(b) (1)(E).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
+
+46102(b)
+
+49 App.:1481 (3d, 4th sentences).
+
+&nbsp;
+
+49 App.:1551(b) (1)(E).
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+46102(c)
+
+49 App.:1481 (last sentence).
+
+&nbsp;
+
+49 App.:1551(b) (1)(E).
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+46102(d)
+
+49 App.:1481 (2d sentence).
+
+&nbsp;
+
+49 App.:1551(b) (1)(E).
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+In subsection (a), the cross-reference to chapter 7 of title 5 is omitted as unnecessary.
+
+In subsection (b), the text of 49 App.:1481 (4th sentence words after last comma) is omitted as obsolete. The words “National Transportation Safety Board” were substituted for “Board” in 49 App.:1481 (4th sentence) because 49 App.:1655(d) transferred all functions, duties, and powers of the Civil Aeronautics Board under titles VI and VII of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 775) to the Secretary of Transportation to be carried out through the former National Transportation Safety Board in the Department of Transportation. Title VI includes sections 602 and 609 \[49 App.:1422, 1429\], that provide for appeals to the Civil Aeronautics Board (subsequently transferred to the National Transportation Safety Board), and section 611(e) \[49 App.:1431(e)\], that provides for appeals to the National Transportation Safety Board. Under 49 App.:1902(a), the National Transportation Safety Board in the Department of Transportation was replaced by an independent National Transportation Safety Board outside the Department, and 49 App.:1903(a)(9)(A) gave the independent Board the authority to review appeals from actions of the Secretary under 49 App.:1422, 1429, and 1431(e).
+
+In subsection (c), the words “vote and” are omitted as surplus.
+
+In subsection (d), the words “officer or employee of the Administration” are substituted for “member” for clarity and consistency in the revised title and with other titles of the United States Code. The words “hearing or” are omitted as surplus. The words “referred to in subsection (a) of this section” are added for clarity.
+

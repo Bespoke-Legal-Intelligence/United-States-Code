@@ -1,0 +1,14 @@
+### §2018. Agency jurisdiction
+
+Nothing in this chapter shall be construed to affect the authority or regulations of any Federal, State, or local agency with respect to the generation, sale, or transmission of electric power produced through the use of nuclear facilities licensed by the Commission: <i>Provided,</i> That this section shall not be deemed to confer upon any Federal, State, or local agency any authority to regulate, control, or restrict any activities of the Commission.
+
+(Aug. 1, 1946, ch. 724, title I, §271, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 960; amended Aug. 24, 1965, Pub. L. 89–135, 79 Stat. 551; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+
+#### Amendments
+
+1965—Pub. L. 89–135 inserted “produced through the use of nuclear facilities licensed by the Commission: <i>Provided,</i> That this section shall not be deemed to confer upon any Federal, State, or local agency any authority to regulate, control, or restrict any activities of the Commission.”
+
+#### Transfer of Functions
+
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+

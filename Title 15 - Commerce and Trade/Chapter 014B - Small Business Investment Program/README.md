@@ -1,0 +1,232 @@
+### <b>CHAPTER 14B—SMALL BUSINESS INVESTMENT PROGRAM</b>
+
+#### SUBCHAPTER I—GENERAL PROVISIONS
+
+| Sec. |  |
+| :--- | ---: |
+| [661\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000661%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
+| [662\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000662%20-%20Definitions.md) | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER II—SMALL BUSINESS INVESTMENT DIVISION OF SMALL BUSINESS ADMINISTRATION
+
+|  |  |
+| :--- | ---: |
+| [671\.](Subchapter%20002%20%28II%29%20-%20Small%20Business%20Investment%20Division%20of%20Small%20Business%20Administration/%C2%A7%2000671%20-%20Establishment%3B%20Associate%20Administrator%3B%20appointment%20and%20compensation.md) | Establishment; Associate Administrator; appointment and compensation. |
+| [672\.](Subchapter%20002%20%28II%29%20-%20Small%20Business%20Investment%20Division%20of%20Small%20Business%20Administration/%C2%A7%2000672%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93341%2C%20%C2%A711%28h%29%281%29%2C%20Oct.%203%2C%201961%2C%2075%20Stat.%20757.md) | Repealed. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER III—SMALL BUSINESS INVESTMENT COMPANIES
+
+|  |  |
+| :--- | ---: |
+| [681\.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000681%20-%20Organization.md) | Organization. |
+| (a) | Incorporation and charter under State law, period of succession; area of operations. |
+| (b) | Articles of incorporation; approval. |
+| (c) | Forwarding of articles for approval or disapproval; matters considered; issuance of license. |
+| (d) | Companies financing disadvantaged persons. |
+| [682\.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000682%20-%20Capital%20requirements.md) | Capital requirements. |
+| (a) | Amount of paid-in capital and paid-in surplus; sound and profitable operations and active and prudent management; determination of financial viability. |
+| (b) | Sale of shares of stock to banking organizations. |
+| (c) | Ownership or control of stock; limitation on aggregate amount. |
+| [683\.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000683%20-%20Borrowing%20operations.md) | Borrowing operations. |
+| (a) | Authority to issue obligations. |
+| (b) | Debentures and participating securities. |
+| (c) | Purchase and guarantee operations of Administration. |
+| (d) | Payments on guaranteed debentures. |
+| (e) | Inclusion of funds in determining private capital of small business investment companies. |
+| (f) | Redemption or repurchase of stock; factors in determining price; use of payments from guaranteed debentures; deposit of monies; purpose for which available. |
+| (g) | Guarantee of payment of and authority to purchase participating securities. |
+| (h) | Computation of amounts due under participating securities. |
+| [684\.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000684%20-%20Equity%20capital%20for%20small-business%20concerns.md) | Equity capital for small-business concerns. |
+| (a) | Function of investment companies. |
+| (b) | Conditions. |
+| (c) | Repealed. |
+| (d) | Direct or cooperative provision of capital. |
+| [685\.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000685%20-%20Long-term%20loans%20to%20small-business%20concerns.md) | Long-term loans to small-business concerns. |
+| (a) | Authorization. |
+| (b) | Direct loans; loans on participation basis. |
+| (c) | Maximum rate of interest. |
+| (d) | Maturity. |
+| (e) | Soundness of loan; security. |
+| (f) | Extension or renewal. |
+| [686\.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000686%20-%20Aggregate%20limitations%20on%20amount%20of%20assistance%20to%20any%20single%20enterprise.md) | Aggregate limitations on amount of assistance to any single enterprise. |
+| (a) | Percentage limitation of private capital. |
+| (b) | Repealed. |
+| (c) | Application of provisions to commitments incurred prior to effective date of section. |
+| [687\.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687%20-%20Operation%20and%20regulation%20of%20companies.md) | Operation and regulation of companies. |
+| (a) | Cooperation with banks and other financial institutions. |
+| (b) | Use of advisory services; depository or fiscal agents; investment of funds. |
+| (c) | Rules and regulations. |
+| (d) | Forfeiture of rights, privileges, and franchises; jurisdiction. |
+| (e) | Liability of United States. |
+| (f) | Performance of functions, powers, and duties by Administration and Administrator. |
+| (g) | Annual report on Small Business Investment activities. |
+| (h) | Certifications of eligibility. |
+| (i) | Interest rates. |
+| [687a.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687a%20-%20Revocation%20and%20suspension%20of%20licenses%3B%20cease%20and%20desist%20orders.md) | Revocation and suspension of licenses; cease and desist orders. |
+| (a) | Grounds for suspension or revocation. |
+| (b) | Grounds for cease and desist order. |
+| (c) | Order to show cause; contents; hearing; issuance and service. |
+| (d) | Subpena of person, and books, papers and documents; fees and mileage; enforcement. |
+| (e) | Petition to modify or set aside order; filing, time and place, Administration to submit record; action of court; review. |
+| (f) | Enforcement of order. |
+| [687b.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687b%20-%20Investigations%20and%20examinations%3B%20power%20to%20subpena%20and%20take%20oaths%20and%20affirmations%3B%20aid%20of%20courts%3B%20examiners%3B%20reports.md) | Investigations and examinations; power to subpena and take oaths and affirmations; aid of courts; examiners; reports. |
+| (a) | Investigation of violations. |
+| (b) | Examinations and reports. |
+| (c) | Examinations of small business investment companies. |
+| (d) | Valuation guidelines and responsibility. |
+| [687c.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687c%20-%20Injunctions%20and%20other%20orders.md) | Injunctions and other orders. |
+| (a) | Grounds; jurisdiction of court. |
+| (b) | Equity jurisdiction of licensee and assets thereof. |
+| (c) | Trusteeship or receivership over licensee. |
+| [687d.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687d%20-%20Conflicts%20of%20interest.md) | Conflicts of interest. |
+| [687e.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687e%20-%20Removal%20and%20suspension%20of%20directors%20and%20officers%20of%20licensees.md) | Removal and suspension of directors and officers of licensees. |
+| (a) | Written notice of intention to remove; grounds. |
+| (b) | Suspension pending completion of administrative proceedings. |
+| (c) | Hearing; order of removal. |
+| (d) | Stay by United States district court of suspension or prohibition. |
+| (e) | Suspension of directors and officers charged with felonies involving dishonesty or breach of trust; notice; duration of suspension; removal. |
+| (f) | Hearings; procedure; form and requisites of decision; review; stay of orders. |
+| [687f.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687f%20-%20Unlawful%20acts%20and%20omissions%20by%20officers%2C%20directors%2C%20employees%2C%20or%20agents.md) | Unlawful acts and omissions by officers, directors, employees, or agents. |
+| (a) | Violation by licensee deemed violation by persons participating. |
+| (b) | Breach of fiduciary duty. |
+| (c) | Disqualification of officers and employees for dishonesty, fraud, or breach of trust. |
+| [687g.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687g%20-%20Penalties%20and%20forfeitures.md) | Penalties and forfeitures. |
+| (a) | Report violations. |
+| (b) | Exemption from reporting requirements. |
+| [687h.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687h%20-%20Jurisdiction%20and%20service%20of%20process.md) | Jurisdiction and service of process. |
+| [687i.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687i%20-%20Interest%20rate%20on%20debentures.md) | Interest rate on debentures. |
+| [687j.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687j%20-%20Extension%20of%20benefits%20to%20joint%20ownership%20companies.md) | Extension of benefits to joint ownership companies. |
+| [687k.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687k%20-%20Guaranteed%20obligations%20not%20eligible%20for%20purchase%20by%20Federal%20Financing%20Bank.md) | Guaranteed obligations not eligible for purchase by Federal Financing Bank. |
+| 687<i>l.</i> | Issuance and guarantee of trust certificates. |
+| (a) | Issuance; debentures or participating securities composing trust or pool. |
+| (b) | Terms and conditions of guarantee; payment of principal and interest. |
+| (c) | Full faith and credit of United States. |
+| (d) | Collection of fees. |
+| (e) | Subrogation rights; ownership rights in debentures or participating securities. |
+| (f) | Central registration requirements; regulation of brokers and dealers. |
+| [687m.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687m%20-%20Periodic%20issuance%20of%20guarantees%20and%20trust%20certificates.md) | Periodic issuance of guarantees and trust certificates. |
+| [688\.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000688%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93341%2C%20%C2%A711%28e%29%2C%20Oct.%203%2C%201961%2C%2075%20Stat.%20756.md) | Repealed. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER IV—STATE CHARTERED INVESTMENT COMPANIES AND STATE DEVELOPMENT COMPANIES
+
+|  |  |
+| :--- | ---: |
+| [691\.](Subchapter%20004%20%28IV%29%20-%20State%20Chartered%20Investment%20Companies%20and%20State%20Development%20Companies/%C2%A7%2000691%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93341%2C%20%C2%A711%28f%29%2C%20Oct.%203%2C%201961%2C%2075%20Stat.%20756.md) | Repealed. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER IV–A—GUARANTEES
+
+#### Part A. Commercial or Industrial Lease and Qualified Contract Guarantees
+
+|  |  |
+| :--- | ---: |
+| [692\.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Guarantees/Part%20A%20-%20Commercial%20or%20Industrial%20Lease%20and%20Qualified%20Contract%20Guarantees/%C2%A7%2000692%20-%20Authority%20of%20Administration%20to%20guarantee%20payment%20of%20rentals%20by%20small%20business%20concerns%20under%20leases%20of%20commercial%20and%20industrial%20property.md) | Authority of Administration to guarantee payment of rentals by small business concerns under leases of commercial and industrial property. |
+| (a) | Nonavailability of guarantees from other sources; participation with qualified sureties. |
+| (b) | Uniform annual fee; processing fees. |
+| (c) | Escrow; default; additional discretionary provisions. |
+| [693\.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Guarantees/Part%20A%20-%20Commercial%20or%20Industrial%20Lease%20and%20Qualified%20Contract%20Guarantees/%C2%A7%2000693%20-%20Powers%20of%20Administration%20respecting%20loans%3B%20liquidation%20of%20obligations%20through%20creation%20of%20new%20leases%2C%20execution%20of%20subleases%2C%20and%E2%80%A6.md) | Powers of Administration respecting loans; liquidation of obligations through creation of new leases, execution of subleases, and assignments of leases. |
+| [694\.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Guarantees/Part%20A%20-%20Commercial%20or%20Industrial%20Lease%20and%20Qualified%20Contract%20Guarantees/%C2%A7%2000694%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93590%2C%20title%20I%2C%20%C2%A7111%28b%29%2C%20Nov.%203%2C%201988%2C%20102%20Stat.%202995.md) | Repealed. |
+| 694–1. | Planning design or installation of pollution control facilities. |
+| (a) | Definitions. |
+| (b) | Financing disadvantage; guarantee of payment by Administration; restrictions and limitations. |
+| (c) | Uniform annual fees; processing fees; time and condition for payment; periodic review. |
+| (d) | Requirements of Administration; escrow; default; discretionary provisions. |
+| (e) | Assignment of guarantee. |
+| (f) | Application of section 693 of this title. |
+| 694–2. | Revolving fund for qualified contract guarantees; investment of idle funds. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part B—Surety Bond Guarantees
+
+|  |  |
+| :--- | ---: |
+| [694a.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Guarantees/Part%20B%20-%20Surety%20Bond%20Guarantees/%C2%A7%2000694a%20-%20Definitions.md) | Definitions. |
+| [694b.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Guarantees/Part%20B%20-%20Surety%20Bond%20Guarantees/%C2%A7%2000694b%20-%20Surety%20bond%20guarantees.md) | Surety bond guarantees. |
+| (a) | Authority of Administration to guarantee surety against loss from principal's breach of bond. |
+| (b) | Indemnification of surety against loss from avoiding breach. |
+| (c) | Limitation of liability. |
+| (d) | Regulations. |
+| (e) | Reimbursement of surety; conditions. |
+| (f) | Procedure for reimbursement. |
+| (g) | Audit. |
+| (h) | Administrative provisions. |
+| (i) | Powers of Administration respecting loans. |
+| [694c.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Guarantees/Part%20B%20-%20Surety%20Bond%20Guarantees/%C2%A7%2000694c%20-%20Revolving%20fund%20for%20surety%20bond%20guarantees.md) | Revolving fund for surety bond guarantees. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER V—LOANS TO STATE AND LOCAL DEVELOPMENT COMPANIES
+
+|  |  |
+| :--- | ---: |
+| [695\.](Subchapter%20005%20%28V%29%20-%20Loans%20to%20State%20and%20Local%20Development%20Companies/%C2%A7%2000695%20-%20State%20development%20companies.md) | State development companies. |
+| (a) | Congressional finding and declaration of purpose. |
+| (b) | Loans; obligations of development companies. |
+| (c) | Maximum loans to development companies. |
+| (d) | Eligibility for assistance. |
+| [696\.](Subchapter%20005%20%28V%29%20-%20Loans%20to%20State%20and%20Local%20Development%20Companies/%C2%A7%2000696%20-%20Loans%20for%20plant%20acquisition%2C%20construction%2C%20conversion%20and%20expansion.md) | Loans for plant acquisition, construction, conversion and expansion. |
+| [697\.](Subchapter%20005%20%28V%29%20-%20Loans%20to%20State%20and%20Local%20Development%20Companies/%C2%A7%2000697%20-%20Development%20company%20debentures.md) | Development company debentures. |
+| (a) | Guarantees; Administration authority; regulatory terms and conditions; full faith and credit; subordination of debentures. |
+| (b) | Statutory terms and conditions. |
+| (c) | Commercial loan interest rate. |
+| (d) | Administrative expenses; additional charge. |
+| (e) | “Qualified State or local development company” defined; exception for rural company; authority. |
+| [697a.](Subchapter%20005%20%28V%29%20-%20Loans%20to%20State%20and%20Local%20Development%20Companies/%C2%A7%2000697a%20-%20Private%20debenture%20sales.md) | Private debenture sales. |
+| [697b.](Subchapter%20005%20%28V%29%20-%20Loans%20to%20State%20and%20Local%20Development%20Companies/%C2%A7%2000697b%20-%20Pooling%20of%20debentures.md) | Pooling of debentures. |
+| (a) | Issuance; debentures composing trust or pool. |
+| (b) | Terms and conditions of guarantee; payment of principal and interest. |
+| (c) | Full faith and credit of United States. |
+| (d) | Collection of fees. |
+| (e) | Subrogation rights; ownership rights in debentures. |
+| (f) | Central registration requirements; regulation of brokers and dealers. |
+| [697c.](Subchapter%20005%20%28V%29%20-%20Loans%20to%20State%20and%20Local%20Development%20Companies/%C2%A7%2000697c%20-%20Restrictions%20on%20development%20company%20assistance.md) | Restrictions on development company assistance. |
+| [697d.](Subchapter%20005%20%28V%29%20-%20Loans%20to%20State%20and%20Local%20Development%20Companies/%C2%A7%2000697d%20-%20Accredited%20Lenders%20Program.md) | Accredited Lenders Program. |
+| (a) | Establishment. |
+| (b) | Requirements. |
+| (c) | Expedited processing of loan applications. |
+| (d) | Suspension or revocation of designation. |
+| (e) | “Qualified State or local development company” defined. |
+| [697e.](Subchapter%20005%20%28V%29%20-%20Loans%20to%20State%20and%20Local%20Development%20Companies/%C2%A7%2000697e%20-%20Premier%20Certified%20Lenders%20Program.md) | Premier Certified Lenders Program. |
+| (a) | Establishment. |
+| (b) | Requirements. |
+| (c) | Loss reserve. |
+| (d) | Loan approval authority. |
+| (e) | Review. |
+| (f) | Suspension or revocation. |
+| (g) | Effect of suspension or designation. |
+| (h) | Regulations. |
+| (i) | Report. |
+| [697f.](Subchapter%20005%20%28V%29%20-%20Loans%20to%20State%20and%20Local%20Development%20Companies/%C2%A7%2000697f%20-%20Prepayment%20of%20development%20company%20debentures.md) | Prepayment of development company debentures. |
+| (a) | In general. |
+| (b) | Requirements. |
+| (c) | No prepayment fees or penalties. |
+| (d) | Refinancing limitations. |
+| (e) | Definitions. |
+| (f) | Regulations. |
+| (g) | Authorization. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in sections 77c, 77ddd, 80a–2, 80a–18, 80a–60, 634, 637, 645, 1691c of this title; title 12 section 4702; title 26 sections 243, 246A, 542, 586, 1242, 1243.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [Subchapter 001 (I) - General Provisions](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md)
+- [Subchapter 002 (II) - Small Business Investment Division of Small Business Administration](Subchapter%20002%20%28II%29%20-%20Small%20Business%20Investment%20Division%20of%20Small%20Business%20Administration/README.md)
+- [Subchapter 003 (III) - Small Business Investment Companies](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/README.md)
+- [Subchapter 004 (IV) - State Chartered Investment Companies and State Development Companies](Subchapter%20004%20%28IV%29%20-%20State%20Chartered%20Investment%20Companies%20and%20State%20Development%20Companies/README.md)
+- [Subchapter 004&#8211;A (IV&#8211;A) - Guarantees](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Guarantees/README.md)
+- [Subchapter 005 (V) - Loans to State and Local Development Companies](Subchapter%20005%20%28V%29%20-%20Loans%20to%20State%20and%20Local%20Development%20Companies/README.md)

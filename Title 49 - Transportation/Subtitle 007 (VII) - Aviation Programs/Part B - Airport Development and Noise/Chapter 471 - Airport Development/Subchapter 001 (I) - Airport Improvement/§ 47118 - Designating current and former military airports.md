@@ -1,0 +1,94 @@
+### §47118. Designating current and former military airports
+
+(a)
+
+General Requirements.—The Secretary of Transportation shall designate not more than 15 current or former military airports for which grants may be made under section 47117(e)(1)(E) of this title. The Secretary may only designate an airport for such grants (other than an airport designated for such grants on or before the date of the enactment of this sentence) if the Secretary finds that grants under such section for projects at such airport would reduce delays at an airport with more than 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings.
+
+(b)
+
+Survey.—Not later than September 30, 1991, the Secretary shall complete a survey of current and former military airports to identify which airports have the greatest potential to improve the capacity of the national air transportation system. The survey shall identify the capital development needs of those airports to make them part of the system and which of those qualify for grants under section 47104 of this title.
+
+(c)
+
+Considerations.—In carrying out this section, the Secretary shall consider only current or former military airports that, when at least partly converted to civilian commercial or reliever airports as part of the national air transportation system, will enhance airport and air traffic control system capacity in major metropolitan areas and reduce current and projected flight delays.
+
+(d)
+
+Grants.—Grants under section 47117(e)(1)(E) of this title may be made for an airport designated under subsection (a) of this section for the 5 fiscal years following the designation.
+
+(e)
+
+Terminal Building Facilities.—Notwithstanding section 47109(c) <sup>1</sup> of this title, not more than $5,000,000 for each airport from amounts the Secretary distributes under section 47115 of this title for a fiscal year is available to the sponsor of a current or former military airport the Secretary designates under this section to construct, improve, or repair a terminal building facility, including terminal gates used for revenue passengers getting on or off aircraft. A gate constructed, improved, or repaired under this subsection—
+
+&emsp;(1) may not be leased for more than 10 years; and
+
+&emsp;(2) is not subject to majority in interest clauses.
+
+(f)
+
+Parking Lots, Fuel Farms, and Utilities.—Not more than a total of $4,000,000 for each airport from amounts the Secretary distributes under section 47115 of this title for the fiscal years ending September 30, 1993–1996, is available to the sponsor of a current or former military airport the Secretary designates under this section to construct, improve, or repair airport surface parking lots, fuel farms, and utilities.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1273; Pub. L. 103–305, title I, §116(b)–(d), Aug. 23, 1994, 108 Stat. 1579.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+47118(a)
+
+49 App.:2207(f)(1).
+
+Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, §508(f)(1); added Nov. 5, 1990, Pub. L. 101–508, §9109(c), 104 Stat. 1388–356; Oct. 31, 1992, Pub. L. 102–581, §107(b), 106 Stat. 4878.
+
+47118(b)
+
+49 App.:2207(f)(2).
+
+Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, §508(f)(2)–(5); added Nov. 5, 1990, Pub. L. 101–508, §9109(c), 104 Stat. 1388–356.
+
+47118(c)
+
+49 App.:2207(f)(3).
+
+47118(d)
+
+49 App.:2207(f)(4).
+
+47118(e)
+
+49 App.:2207(f)(5).
+
+47118(f)
+
+49 App.:2207(f)(6).
+
+Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, §508(f)(6); added Oct. 31, 1992, Pub. L. 102–581, §107(c)(1), 106 Stat. 4878.
+
+In subsection (d), the word “Grants” is substituted for “to participate in the program”, and the word “grants” is substituted for “participation in the program”, for clarity and consistency and to eliminate unnecessary words.
+
+In subsection (e), before clause (1), the words “at the discretion” and “with Federal funding” are omitted as surplus.
+
+#### References in Text
+
+The date of the enactment of this sentence, referred to in subsec. (a), is the date of enactment of Pub. L. 103–305, which was approved Aug. 23, 1994.
+
+Section 47109(c) of this title, referred to in subsec. (e), was repealed by Pub. L. 103–305, title I, §114(2), Aug. 23, 1994, 108 Stat. 1579.
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–305, §116(b), substituted “15” for “12” and inserted at end “The Secretary mayonly designate an airport for such grants (other than an airport designated for such grants on or before the date of the enactment of this sentence) if the Secretary finds that grants under such section for projects at such airport would reduce delays at an airport with more than 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings.”
+
+Subsec. (d). Pub. L. 103–305, §116(c), struck out at end “If an airport does not have a level of passengers getting on aircraft during that 5-year period that qualifies the airport as a small hub airport (as defined on January 1, 1990) or reliever airport, the Secretary may redesignate the airport for grants for additional fiscal years that the Secretary decides.”
+
+Subsec. (f). Pub. L. 103–305, §116(d), substituted “September 30, 1993–1996” for “September 30, 1993–1995”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 47110, 47117 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

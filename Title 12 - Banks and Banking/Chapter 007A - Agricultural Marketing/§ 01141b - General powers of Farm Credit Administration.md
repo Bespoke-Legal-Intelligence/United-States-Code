@@ -1,0 +1,66 @@
+### §1141b. General powers of Farm Credit Administration
+
+The Farm Credit Administration—
+
+&emsp;(1) shall maintain its principal office within the Washington, D.C.-Maryland-Virginia standard metropolitan statistical area, and such other offices in the United States as in its judgment are necessary.
+
+&emsp;(2) shall have an official seal which shall be judicially noticed.
+
+&emsp;(3) shall make an annual report to Congress upon the administration of this chapter and any other matter relating to the better effectuation of the policy declared in section 1141 of this title, including recommendations for legislation.
+
+&emsp;(4) may make such regulations as are necessary to execute the functions vested in it by this chapter.
+
+&emsp;(5) may appoint and fix the salaries of a secretary and such experts, and, in accordance with chapter 51 and subchapter III of chapter 53 of title 5, and subject to the provisions of the civil service laws, such other officers and employees as are necessary to execute such functions.
+
+&emsp;(6) may make such expenditures (including expenditures for rent and personal services at the seat of government and elsewhere, for law books, periodicals, and books of reference, and for printing and binding) as are necessary to execute such functions. Expenditures by the administration shall be allowed and paid upon the presentation of itemized vouchers therefor approved by the governor of the administration.
+
+&emsp;(7) may sell at public or private sale to the highest responsible bidder, upon such terms and after such public advertisement as the Farm Credit Administration may deem in the public interest, any property, real or personal, or any interest therein, acquired by the United States on account of or as a result of any loans made from the revolving fund authorized by section 1141d of this title; may lease any such property, pending its sale, on such terms and for such period, not in excess of five years, as the Farm Credit Administration may deem in the public interest; and may incur and pay, from the said revolving fund, obligations and expenses for the operation, upkeep, maintenance, repair, disposition, insurance, and protection of any such property: <i>Provided</i>, That section 5 of title 41 shall not be construed to apply to any purchase or service on account of such property.
+
+(June 15, 1929, ch. 24, §4, 46 Stat. 13; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 19, 1937, ch. 704, §37, 50 Stat. 717; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Dec. 24, 1980, Pub. L. 96–592, title V, §510, 94 Stat. 3451.)
+
+#### References in Text
+
+The civil service laws, referred to in par. (5), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of that title.
+
+#### Codification
+
+In par. (5), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of section 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, section 1 of which enacted Title 5, Government Organization and Employees.
+
+Section was formerly classified to section 524 of Title 7, Agriculture.
+
+#### Amendments
+
+1980—Par. (1). Pub. L. 96–592 substituted provisions requiring the principal office to be within the Washington, D.C.–Maryland–Virginia standard metropolitan statistical area for provisions requiring the principal office to be in the District of Columbia.
+
+1949—Act Oct. 28, 1949, substituted the “Classification Act of 1949” for the “Classification Act of 1923”.
+
+1937—Par. (7). Act Aug. 19, 1937, added par. (7).
+
+#### Change of Name
+
+“Farm Credit Administration” and “administration” substituted in text for “board” and “governor” substituted for “chairman” pursuant to Ex. Ord. No. 6084, set out preceding section 2241 of this title.
+
+#### Repeals
+
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
+
+#### Repeal of Authority
+
+Repeal of authority of the Farm Credit Administration to make emergency crop production, feed, seed, drought, and rehabilitation loans on Aug. 14, 1946, see note set out under sections 1001 to 1005d of Title 7, Agriculture.
+
+#### Separability
+
+Section 40 of act Aug. 19, 1937, provided as follows:
+
+“Sec. 40. (a) If any provision of this Act, or the application thereof to any person or circumstances, is held invalid, the remainder of the Act, and the application of such provisions to other persons or circumstances, shall not be affected thereby.
+
+“(b) The right to alter, amend, or repeal this Act is hereby expressly reserved.”
+
+#### Transfer of Functions
+
+Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm Credit Administration, and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq. of this title.
+
+#### Exceptions From Transfer of Functions
+
+Functions of Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
+

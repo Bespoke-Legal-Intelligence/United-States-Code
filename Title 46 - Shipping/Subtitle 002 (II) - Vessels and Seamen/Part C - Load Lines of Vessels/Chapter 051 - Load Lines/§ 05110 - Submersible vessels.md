@@ -1,0 +1,12 @@
+### §5110. Submersible vessels
+
+Notwithstanding sections 5103–5105 of this title, the Secretary may prescribe regulations for submersible vessels to provide a minimum level of safety. In developing the regulations, the Secretary shall consider factors relevant to submersible vessels, including the structure, stability, and watertight integrity of those vessels.
+
+(Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1917.)
+
+#### Historical and Revision Notes
+
+#### <i>Revised section 5110</i>
+
+Section 5110 authorizes the Secretary to prescribe regulations for the marking of load lines of submersiblevessels. This general authority has been included in anticipation of the commercial development of submersibles.
+

@@ -1,0 +1,12 @@
+### §1631. Definitions
+
+As used in this subchapter the term—
+
+&emsp;(1) “Person” means a natural person, partnership, association, other unincorporated body, corporation, or body politic.
+
+&emsp;(2) “Property” means any property, right, or interest.
+
+&emsp;(3) “Treaty of peace”, with respect to a country, means the treaty of peace with that country signed at Paris, France, February 10, 1947, which came into force between that country and the United States on September 15, 1947.
+
+(Mar. 10, 1950, ch. 54, title II, §201, as added Aug. 9, 1955, ch. 645, §3, 69 Stat. 562.)
+

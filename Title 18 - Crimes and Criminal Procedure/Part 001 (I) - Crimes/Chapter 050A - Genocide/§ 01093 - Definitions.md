@@ -1,0 +1,22 @@
+### §1093. Definitions
+
+As used in this chapter—
+
+&emsp;(1) the term “children” means the plural and means individuals who have not attained the age of eighteen years;
+
+&emsp;(2) the term “ethnic group” means a set of individuals whose identity as such is distinctive in terms of common cultural traditions or heritage;
+
+&emsp;(3) the term “incites” means urges another to engage imminently in conduct in circumstances under which there is a substantial likelihood of imminently causing such conduct;
+
+&emsp;(4) the term “members” means the plural;
+
+&emsp;(5) the term “national group” means a set of individuals whose identity as such is distinctive in terms of nationality or national origins;
+
+&emsp;(6) the term “racial group” means a set of individuals whose identity as such is distinctive in terms of physical characteristics or biological descent;
+
+&emsp;(7) the term “religious group” means a set of individuals whose identity as such is distinctive in terms of common religious creed, beliefs, doctrines, practices, or rituals; and
+
+&emsp;(8) the term “substantial part” means a part of a group of such numerical significance that the destruction or loss of that part would cause the destruction of the group as a viable entity within the nation of which such group is a part.
+
+(Added Pub. L. 100–606, §2(a), Nov. 4, 1988, 102 Stat. 3046.)
+

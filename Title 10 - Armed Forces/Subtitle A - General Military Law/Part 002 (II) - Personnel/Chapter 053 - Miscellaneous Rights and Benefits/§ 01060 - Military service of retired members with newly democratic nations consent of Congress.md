@@ -1,0 +1,70 @@
+### §1060. Military service of retired members with newly democratic nations: consent of Congress
+
+(a)
+
+Consent of Congress.—Subject to subsection (b), Congress consents to a retired member of the uniformed services—
+
+&emsp;(1) accepting employment by, or holding an office or position in, the military forces of a newly democratic nation; and
+
+&emsp;(2) accepting compensation associated with such employment, office, or position.
+
+(b)
+
+Approval Required.—The consent provided in subsection (a) for a retired member of the uniformed services to accept employment or hold an office or position shall apply to a retired member only if the Secretary concerned and the Secretary of State jointly approve the employment or the holding of such office or position.
+
+(c)
+
+Determination of Newly Democratic Nations.—The Secretary concerned and the Secretary of State shall jointly determine whether a nation is a newly democratic nation for the purposes of this section.
+
+(d)
+
+Reports to Congressional Committees.—The Secretary concerned and the Secretary of State shall notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives of each approval under subsection (b) and each determination under subsection (c).
+
+(e)
+
+Continued Entitlement to Retired Pay and Benefits.—The eligibility of a retired member to receive retired or retainer pay and other benefits arising from the retired member's status as a retired member of the uniformed services, and the eligibility of dependents of such retired member to receive benefits on the basis of such retired member's status as a retired member of the uniformed services, may not be terminated by reason of employment or holding of an office or position consented to in subsection (a).
+
+(f)
+
+Retired Member Defined.—In this section, the term “retired member” means a member or former member of the uniformed services who is entitled to receive retired or retainer pay.
+
+(g)
+
+Civil Employment by Foreign Governments.—For a provision of law providing the consent of Congress to civil employment by foreign governments, see section 908 of title 37.
+
+(Added Pub. L. 103–160, div. A, title XIV, §1433(b)(1), Nov. 30, 1993, 107 Stat. 1834, §1058; renumbered §1060, Pub. L. 103–337, div. A, title X, §1070(a)(6)(A), Oct. 5, 1994, 108 Stat. 2855.)
+
+#### Amendments
+
+1994—Pub. L. 103–337 renumbered section 1058 of this title as this section.
+
+#### Change of Name
+
+Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Effective Date
+
+Section 1433(d) of Pub. L. 103–160 provided that this section was to take effect as of Jan. 1, 1993, prior to repeal by Pub. L. 103–236, title I, §182(b), Apr. 30, 1994, 108 Stat. 418.
+
+#### Restoration of Withheld Benefits
+
+Pub. L. 103–236, title I, §182(a), Apr. 30, 1994, 108 Stat. 418, as amended by Pub. L. 103–337, div. A, title X, §1070(d)(7), Oct. 5, 1994, 108 Stat. 2858; Pub. L. 103–415, §1(j), Oct. 25, 1994, 108 Stat. 4301, provided that: “With respect to any person for which the Secretary of State and the Secretary concerned within the Department of Defense have approved the employment or the holding of a position pursuant to the provisions of section 1060 of title 10, United States Code, before April 30, 1994, the consents, approvals and determinations under that section shall be deemed to be effective as of January 1, 1993.”
+
+#### Congressional Findings
+
+Section 1433(a) of Pub. L. 103–160 provided that: “The Congress makes the following findings:
+
+&emsp;“(1) It is in the national security interest of the United States to promote democracy throughout the world.
+
+&emsp;“(2) The armed forces of newly democratic nations often lack the democratic traditions that are a hallmark of the Armed Forces of the United States.
+
+&emsp;“(3) The understanding of military roles and missions in a democracy is essential for the development and preservation of democratic forms of government.
+
+&emsp;“(4) The service of retired members of the Armed Forces of the United States in the armed forces of newly democratic nations could lead to a better understanding of military roles and missions in a democracy.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 37 section 908.
+

@@ -1,0 +1,28 @@
+### §3755. Review of State applications
+
+#### (a) Financial assistance upon approval of application or amendment
+
+The Bureau shall provide financial assistance to each State applicant under this part to carry out the programs or projects submitted by such applicant upon determining that—
+
+&emsp;(1) the application or amendment thereto is consistent with the requirements of this part; and
+
+&emsp;(2) before the approval of the application and any amendment thereto the Bureau has made an affirmative finding in writing that the program or project has been reviewed in accordance with this part.
+
+#### (b) Time limitation for approval; specific reasons for disapproval
+
+Each application or amendment made and submitted for approval to the Bureau pursuant to section 3753 of this title shall be deemed approved, in whole or in part, by the Bureau not later than 45 days after first received unless the Bureau informs the applicant of specific reasons for disapproval.
+
+#### (c) Limitation on use of grant funds for land acquisition or construction projects
+
+Grant funds awarded under this part shall not be used for land acquisition or construction projects, other than penal and correctional institutions.
+
+#### (d) Reasonable notice and opportunity for reconsideration before final disapproval
+
+The Bureau shall not finally disapprove any application, or any amendment thereto, submitted to the Director under this section without first affording the applicant reasonable notice and opportunity for reconsideration.
+
+(Pub. L. 90–351, title I, §505, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4333.)
+
+#### Prior Provisions
+
+For prior sections 505 of Pub. L. 90–351 and prior sections 3755 of this title, see note set out preceding section 3750 of this title.
+

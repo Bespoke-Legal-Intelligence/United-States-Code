@@ -1,0 +1,30 @@
+### §9704. Pilot projects for managerial accountability and flexibility
+
+(a) The Director of the Office of Management and Budget shall designate not less than five agencies as pilot projects in managerial accountability and flexibility for fiscal years 1995 and 1996. Such agencies shall be selected from those designated as pilot projects under section 1118 and shall reflect a representative range of Government functions and capabilities in measuring and reporting program performance.
+
+(b) Pilot projects in the designated agencies shall include proposed waivers in accordance with section 9703 <sup>1</sup> for one or more of the major functions and operations of the agency.
+
+(c) The Director of the Office of Management and Budget shall include in the report to the President and to the Congress required under section 1118(c)—
+
+&emsp;(1) an assessment of the benefits, costs, and usefulness of increasing managerial and organizational flexibility, discretion, and authority in exchange for improved performance through a waiver; and
+
+&emsp;(2) an identification of any significant difficulties experienced by the pilot agencies in preparing proposed waivers.
+
+(d) For purposes of this section the definitions under section 1115(f) shall apply.
+
+(Added Pub. L. 103–62, §6(b), Aug. 3, 1993, 107 Stat. 290.)
+
+#### References in Text
+
+Section 9703, referred to in subsec. (b), probably means the section 9703 added by section 5(a) of Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 289, which is set out preceding this section.
+
+#### Construction
+
+No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a note under section 1115 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1115 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

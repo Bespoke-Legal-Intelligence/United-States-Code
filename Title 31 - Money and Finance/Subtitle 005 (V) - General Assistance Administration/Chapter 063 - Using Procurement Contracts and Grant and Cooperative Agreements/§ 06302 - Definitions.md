@@ -1,0 +1,64 @@
+### §6302. Definitions
+
+In this chapter—
+
+&emsp;(1) “executive agency” does not include a mixed-ownership Government corporation.
+
+&emsp;(2) “grant agreement” and “cooperative agreement” do not include an agreement under which is provided only—
+
+&emsp;&emsp;(A) direct United States Government cash assistance to an individual;
+
+&emsp;&emsp;(B) a subsidy;
+
+&emsp;&emsp;(C) a loan;
+
+&emsp;&emsp;(D) a loan guarantee; or
+
+&emsp;&emsp;(E) insurance.
+
+&emsp;(3) “local government” means a unit of government in a State, a local public authority, a special district, an intrastate district, a council of governments, a sponsor group representative organization, an interstate entity, or another instrumentality of a local government.
+
+&emsp;(4) “other recipient” means a person or recipient (except a State or local government) authorized to receive United States Government assistance or procurement contracts and includes a charitable or educational institution.
+
+&emsp;(5) “State” means a State of the United States, the District of Columbia, a territory or possession of the United States, an agency or instrumentality of a State, and a multi-State,regional, or interstate entity having governmental duties and powers.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1003.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+6302(1)
+
+41:502(4).
+
+Feb. 3, 1978, Pub. L. 95–224, §3, 92 Stat. 4.
+
+6302(2)
+
+41:502(5).
+
+6302(3)
+
+41:502(2).
+
+6302(4)
+
+41:502(3).
+
+6302(5)
+
+41:502(1).
+
+Clause (3) restates the source provisions because of the definition of “executive agency” in section 102 of the revised title. The words “a county, municipality, city, town, township” are omitted as being included in “a unit of government in a State”.
+
+In clause (5), the words “the Commonwealth of Puerto Rico” are omitted as being included in “territory or possession of the United States” and as unnecessary because of 48:734. The words “duties and powers” are substituted for “functions” for consistency in the revised title and with other titles of the United States Code.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 10 section 2411.
+

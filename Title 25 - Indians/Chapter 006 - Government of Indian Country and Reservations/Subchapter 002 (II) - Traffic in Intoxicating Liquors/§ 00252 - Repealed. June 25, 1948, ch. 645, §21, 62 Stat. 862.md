@@ -1,0 +1,8 @@
+### §252. Repealed. June 25, 1948, ch. 645, §21, 62 Stat. 862
+
+Section, act May 18, 1916, ch. 125, §1, 39 Stat. 124, related to application of sections 246 and 251 of this title to search and seizure and setting up a distillery. See section 3113 of Title 18, Crimes and Criminal Procedure.
+
+#### Effective Date of Repeal
+
+Repeal effective Sept. 1, 1948, see section 20 of act June 25, 1948.
+

@@ -1,0 +1,6 @@
+### §278b. Omitted
+
+#### Codification
+
+Section, act Apr. 28, 1942, ch. 249, 56 Stat. 247, provided for nonapplicability of section 278a of this title during war or national emergency.
+

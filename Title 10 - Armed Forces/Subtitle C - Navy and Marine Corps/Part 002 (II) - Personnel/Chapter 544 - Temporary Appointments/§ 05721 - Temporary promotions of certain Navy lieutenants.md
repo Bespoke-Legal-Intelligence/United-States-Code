@@ -1,0 +1,76 @@
+### §5721 . Temporary promotions of certain Navy lieutenants
+
+(a) An officer in the line of the Navy in the grade of lieutenant who—
+
+&emsp;(1) has a skill in which the Navy has a critical shortage of personnel (as determined by the Secretary of the Navy); and
+
+&emsp;(2) is serving in a position (as determined by the Secretary of the Navy) which (A) is designated to be held by a lieutenant commander, and (B) requires that an officer serving in such position have the skill possessed by such officer,
+
+> may be temporarily promoted to the grade of lieutenant commander under regulations to be prescribed by the Secretary of the Navy. Appointments under this section shall be made by the President alone.
+
+(b)(1) An appointment under this section does not change the position on the active-duty list or the permanent, probationary, or acting status of the officer so appointed, prejudice the officer in regard to other promotions or appointments, or abridge the rights or benefits of the officer.
+
+(2) For the purposes of section 523 of this title, an officer holding an appointment under this section is considered as serving in the grade of lieutenant commander.
+
+(c) A temporary promotion under this section may be made only upon the recommendation of a board of officers convened by the Secretary of the Navy for the purpose of recommending officers for such promotions.
+
+(d) Each appointment under this section, unless expressly declined, is, without formal acceptance, regarded as accepted on the date such appointment is made, and a member so appointed is entitled to the pay and allowances of the grade of lieutenant commander from the date the appointment is made.
+
+(e) Unless sooner terminated, an appointment under this section terminates—
+
+&emsp;(1) on the date the officer who received the appointment is promoted to the permanent grade of lieutenant commander; or
+
+&emsp;(2) on the date the officer is detached from a position described in subsection (a)(2), unless the officer is on a promotion list to the permanent grade of lieutenant commander, in which case the appointment terminates on the date the officer is promoted to that grade.
+
+(f) The authority to make appointments under this section terminates on September 30, 1995.
+
+(Added Pub. L. 96–513, title III, §334, Dec. 12, 1980, 94 Stat. 2897; amended Pub. L. 98–94, title IV, §403, Sept. 24, 1983, 97 Stat. 629; Pub. L. 98–525, title V, §514, Oct. 19, 1984, 98 Stat. 2522; Pub. L. 99–661, div. A, title V, §503, Nov. 14, 1986, 100 Stat. 3864; Pub. L. 100–180, div. A, title V, §501(a), Dec. 4, 1987, 101 Stat. 1085; Pub. L. 101–189, div. A, title V, §512(a), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 102–484, div. A, title V, §507, Oct. 23, 1992, 106 Stat. 2405; Pub. L. 103–160, div. A, title V, §508(a), Nov. 30, 1993, 107 Stat. 1647.)
+
+#### Amendments
+
+1993—Subsec. (f). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
+
+1992—Subsec. (f). Pub. L. 102–484 substituted “September 30, 1993” for “September 30, 1992”.
+
+1989—Subsec. (f). Pub. L. 101–189 substituted “September 30, 1992” for “September 30, 1989”.
+
+1987—Subsec. (f). Pub. L. 100–180 substituted “September 30, 1989” for “September 30, 1987”.
+
+1986—Subsec. (f). Pub. L. 99–661 substituted “September 30, 1987” for “September 30, 1986”.
+
+1984—Subsec. (f). Pub. L. 98–525 substituted “September 30, 1986” for “September 30, 1984”.
+
+1983—Subsec. (f). Pub. L. 98–94 substituted “September 30, 1984” for “September 30, 1983”.
+
+#### Effective Date of 1993 Amendment
+
+Section 508(b) of Pub. L. 103–160 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of September 30, 1993.”
+
+#### Effective Date of 1992 Amendment
+
+Section 507 of Pub. L. 102–484 provided that the amendment made by that section is effective Sept. 29, 1992.
+
+#### Effective Date
+
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+
+#### Savings Provision
+
+Section 512(b) of Pub. L. 101–189 provided that:
+
+“(1) The Secretary of the Navy shall provide, in the case of an officer appointed to the grade of lieutenant commander on or after the date of the enactment of this Act \[Nov. 29, 1989\] under an appointment described in paragraph (2), that the date of rank of such officer under that appointment shall be the date of rank that would have applied to the appointment had the authority referred to in that paragraph not lapsed.
+
+“(2) An appointment referred to in paragraph (1) is an appointment under 5721 of title 10, United States Code, that (as determined by the Secretary of the Navy) would have been made during the period beginning on October 1, 1989, and ending on the date of the enactment of this Act had the authority to make appointments under that section not lapsed during such period.”
+
+Similar provisions were contained in the following prior authorization act:
+
+Pub. L. 100–180, div. A, title V, §501(b), Dec. 4, 1987, 101 Stat. 1085.
+
+#### Delegation of Functions
+
+Functions of President under subsec. (c) to make certain temporary appointments to grade of lieutenant commander delegated to Secretary of Defense to perform, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, see Ex. Ord. No. 12396, §§1(d), 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
+
+#### Transition Provisions Under Defense Officer Personnel Management Act
+
+For provision that any officer who on September 15, 1981 holds a temporary appointment in the grade of lieutenant commander under former section 5787d of this title, shall on and after that date be considered to be serving in such grade as if the appointment had been made under this section, see section 617 of Pub. L. 96–513, set out as a note under section 611 of this title.
+

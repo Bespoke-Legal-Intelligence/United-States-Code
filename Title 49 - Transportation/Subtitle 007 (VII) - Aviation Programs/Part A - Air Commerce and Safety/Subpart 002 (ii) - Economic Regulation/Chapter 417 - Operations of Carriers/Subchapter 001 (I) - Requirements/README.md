@@ -1,0 +1,22 @@
+### SUBCHAPTER I—REQUIREMENTS
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 41701 - Classification of air carriers](%C2%A7%2041701%20-%20Classification%20of%20air%20carriers.md)
+- [&sect; 41702 - Interstate air transportation](%C2%A7%2041702%20-%20Interstate%20air%20transportation.md)
+- [&sect; 41703 - Navigation of foreign civil aircraft](%C2%A7%2041703%20-%20Navigation%20of%20foreign%20civil%20aircraft.md)
+- [&sect; 41704 - Transporting property not to be transported in aircraft cabins](%C2%A7%2041704%20-%20Transporting%20property%20not%20to%20be%20transported%20in%20aircraft%20cabins.md)
+- [&sect; 41705 - Discrimination against handicapped individuals](%C2%A7%2041705%20-%20Discrimination%20against%20handicapped%20individuals.md)
+- [&sect; 41706 - Prohibitions against smoking on scheduled flights](%C2%A7%2041706%20-%20Prohibitions%20against%20smoking%20on%20scheduled%20flights.md)
+- [&sect; 41707 - Incorporating contract terms into written instrument](%C2%A7%2041707%20-%20Incorporating%20contract%20terms%20into%20written%20instrument.md)
+- [&sect; 41708 - Reports](%C2%A7%2041708%20-%20Reports.md)
+- [&sect; 41709 - Records of air carriers](%C2%A7%2041709%20-%20Records%20of%20air%20carriers.md)
+- [&sect; 41710 - Time requirements](%C2%A7%2041710%20-%20Time%20requirements.md)
+- [&sect; 41711 - Air carrier management inquiry and cooperation with other authorities](%C2%A7%2041711%20-%20Air%20carrier%20management%20inquiry%20and%20cooperation%20with%20other%20authorities.md)
+- [&sect; 41712 - Unfair and deceptive practices and unfair methods of competition](%C2%A7%2041712%20-%20Unfair%20and%20deceptive%20practices%20and%20unfair%20methods%20of%20competition.md)
+- [&sect; 41713 - Preemption of authority over prices, routes, and service](%C2%A7%2041713%20-%20Preemption%20of%20authority%20over%20prices%2C%20routes%2C%20and%20service.md)
+- [&sect; 41714 - Availability of slots](%C2%A7%2041714%20-%20Availability%20of%20slots.md)
+- [&sect; 41715 - Air service termination notice](%C2%A7%2041715%20-%20Air%20service%20termination%20notice.md)

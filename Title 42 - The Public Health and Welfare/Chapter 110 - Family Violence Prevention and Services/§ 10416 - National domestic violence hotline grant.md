@@ -1,0 +1,80 @@
+### §10416. National domestic violence hotline grant
+
+#### (a) In general
+
+The Secretary may award a grant to a private, nonprofit entity to provide for the operation of a national, toll-free telephone hotline to provide information and assistance to victims of domestic violence.
+
+#### (b) Duration
+
+A grant under this section may extend over a period of not more than 5 years.
+
+#### (c) Annual approval
+
+The provision of payments under a grant under this section shall be subject to annual approval by the Secretary and subject to the availability of appropriations for each fiscal year to make the payments.
+
+#### (d) Activities
+
+Funds received by an entity under this section shall be used to establish and operate a national, toll-free telephone hotline to provide information and assistance to victims of domestic violence. In establishing and operating the hotline, a private, nonprofit entity shall—
+
+&emsp;(1) contract with a carrier for the use of a toll-free telephone line;
+
+&emsp;(2) employ, train, and supervise personnel to answer incoming calls and provide counseling and referral services to callers on a 24-hour-a-day basis;
+
+&emsp;(3) assemble and maintain a current database of information relating to services for victims of domestic violence to which callers may be referred throughout the United States, including information on the availability of shelters that serve battered women; and
+
+&emsp;(4) publicize the hotline to potential users throughout the United States.
+
+#### (e) Application
+
+A grant may not be made under this section unless an application for such grant has been approved by the Secretary. To be approved by the Secretary under this subsection an application shall—
+
+&emsp;(1) contain such agreements, assurances, and information, be in such form and be submitted in such manner as the Secretary shall prescribe through notice in the Federal Register;
+
+&emsp;(2) include a complete description of the applicant's plan for the operation of a national domestic violence hotline, including descriptions of—
+
+&emsp;&emsp;(A) the training program for hotline personnel;
+
+&emsp;&emsp;(B) the hiring criteria for hotline personnel;
+
+&emsp;&emsp;(C) the methods for the creation, maintenance and updating of a resource database;
+
+&emsp;&emsp;(D) a plan for publicizing the availability of the hotline;
+
+&emsp;&emsp;(E) a plan for providing service to non-English speaking callers, including hotline personnel who speak Spanish; and
+
+&emsp;&emsp;(F) a plan for facilitating access to the hotline by persons with hearing impairments;
+
+&emsp;(3) demonstrate that the applicant has nationally recognized expertise in the area of domestic violence and a record of high quality service to victims of domestic violence, including a demonstration of support from advocacy groups, such as domestic violence State coalitions or recognized national domestic violence groups;
+
+&emsp;(4) demonstrates that the applicant has a commitment to diversity, and to the provision of services to ethnic, racial, and non-English speaking minorities, in addition to older individuals and individuals with disabilities; and
+
+&emsp;(5) contain such other information as the Secretary may require.
+
+#### (f) Authorization of appropriations
+
+#### (1) In general
+
+&emsp;There are authorized to be appropriated to carry out this section—
+
+&emsp;&emsp;(A) $1,000,000 for fiscal year 1995;
+
+&emsp;&emsp;(B) $400,000 for fiscal year 1996;
+
+&emsp;&emsp;(C) $400,000 for fiscal year 1997;
+
+&emsp;&emsp;(D) $400,000 for fiscal year 1998;
+
+&emsp;&emsp;(E) $400,000 for fiscal year 1999; and
+
+&emsp;&emsp;(F) $400,000 for fiscal year 2000.
+
+#### (2) Availability
+
+&emsp;Funds authorized to be appropriated under paragraph (1) shall remain available until expended.
+
+(Pub. L. 98–457, title III, §316, as added Pub. L. 103–322, title IV, §40211, Sept. 13, 1994, 108 Stat. 1925.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 14214 of this title.
+

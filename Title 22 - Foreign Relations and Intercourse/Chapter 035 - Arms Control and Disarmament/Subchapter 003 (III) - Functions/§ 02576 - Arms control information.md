@@ -1,0 +1,28 @@
+### §2576. Arms control information
+
+In order to assist the Director in the performance of his duties with respect to arms control, nonproliferation, and disarmament policy and negotiations, any Government agency preparing any legislative or budgetary proposal for—
+
+&emsp;(1) any program of research, development, testing, engineering, construction, deployment, or modernization with respect to nuclear armaments, nuclear implements of war, military facilities or military vehicles designed or intended primarily for the delivery of nuclear weapons,
+
+&emsp;(2) any program of research, development, testing, engineering, construction, deployment, or modernization with respect to armaments, ammunition, implements of war, or military facilities, having—
+
+&emsp;&emsp;(A) an estimated total program cost in excess of $250,000,000, or
+
+&emsp;&emsp;(B) an estimated annual program cost in excess of $50,000,000, or
+
+&emsp;(3) any other program involving technology with potential military application or weapons systems which such Government agency or the Director believes may have a significant impact on arms control, nonproliferation, and disarmament policy or negotiations,
+
+> shall, on a continuing basis, provide the Director with full and timely access to detailed information, in accordance with the procedures established pursuant to section 2575 of this title, with respect to the nature, scope, and purpose of such proposal.
+
+(Pub. L. 87–297, title III, §36, as added Pub. L. 94–141, title I, §146, Nov. 29, 1975, 89 Stat. 758; amended Pub. L. 95–338, §1, Aug. 8, 1978, 92 Stat. 458; Pub. L. 103–236, title VII, §§704(1), 719(e), Apr. 30, 1994, 108 Stat. 492, 501.)
+
+#### Amendments
+
+1994—Pub. L. 103–236, §719(e), substituted “information” for “impact information and analysis” in section catchline, redesignated subsec. (a) as entire section, and inserted “, nonproliferation,” after “arms control” in introductory provisions and par. (3).
+
+Subsecs. (b), (c). Pub. L. 103–236, §704(1), struck out subsec. (b) which required the Director to assess and analyze certain legislative and budgetary proposals with respect to their impact on arms control and disarmament policy and negotiations and subsec. (c) which prohibited courts from compelling performance of any requirement under this section.
+
+1978—Subsec. (a)(3). Pub. L. 95–338, §1(1), substituted “technology with potential military application or weapons systems” for “weapons systems or technology”.
+
+Subsec. (b)(2). Pub. L. 95–338, §1(2), inserted provisions requiring requests to be transmitted either as an individual program or as an aggregation of related programs, and classification requirements for transmitted statements.
+

@@ -1,0 +1,10 @@
+### §1109. Federal Employees Compensation Account
+
+There is hereby established in the Unemployment Trust Fund a Federal Employees Compensation Account which shall be used for the purposes specified in section 8509 of title 5. For the purposes provided for in section 1104(e) of this title, such account shall be maintained as a separate book account.
+
+(Aug. 14, 1935, ch. 531, title IX, §909, as added Dec. 5, 1980, Pub. L. 96–499, title X, §1023(a), 94 Stat. 2657.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 2 section 906; title 5 section 8509.
+

@@ -1,0 +1,84 @@
+### §30503. State participation
+
+(a)
+
+State Information.—Each State shall make titling information maintained by that State available for use in operating the National Automobile Title Information System established or designated under section 30502 of this title.
+
+(b)
+
+Verification Checks.—Each State shall establish a practice of performing an instant title verification check before issuing a certificate of title to an individual or entity claiming to have purchased an automobile from an individual or entity in another State. The check shall consist of—
+
+&emsp;(1) communicating to the operator—
+
+&emsp;&emsp;(A) the vehicle identification number of the automobile for which the certificate of title is sought;
+
+&emsp;&emsp;(B) the name of the State that issued the most recent certificate of title for the automobile; and
+
+&emsp;&emsp;(C) the name of the individual or entity to whom the certificate of title was issued; and
+
+&emsp;(2) giving the operator an opportunity to communicate to the participating State the results of a search of the information.
+
+(c)
+
+Grants to States.—(1) In cooperation with the States and not later than January 1, 1994, the Secretary of Transportation shall—
+
+&emsp;(A) conduct a review of systems used by the States to compile and maintain information about the titling of automobiles; and
+
+&emsp;(B) determine for each State the cost of making titling information maintained by that State available to the operator to meet the requirements of section 30502(d) of this title.
+
+(2) The Secretary may make grants to participating States to be used in making titling information maintained by those States available to the operator if—
+
+&emsp;(A) the grant to a State is not more than the lesser of—
+
+&emsp;&emsp;(i) 25 percent of the cost of making titling information maintained by that State available to the operator as determined by the Secretary under paragraph (1)(B) of this subsection; or
+
+&emsp;&emsp;(ii) $300,000; and
+
+&emsp;(B) the Secretary decides that the grants are reasonable and necessary to establish the System.
+
+(d)
+
+Report to Congress.—Not later than January 1, 1997, the Secretary shall report to Congress on which States have met the requirements of this section. If a State has not met the requirements, the Secretary shall describe the impediments that have resulted in the State's failure to meet the requirements.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 981.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+30503(a)
+
+15:2043(a)(1).
+
+Oct. 25, 1992, Pub. L. 102–519, §203, 106 Stat. 3391.
+
+30503(b)
+
+15:2043(a)(2).
+
+30503(c)
+
+15:2043(b).
+
+30503(d)
+
+15:2043(c).
+
+In subsection (a), the words “for use in operating . . . established or designated” are substituted for “for use in establishing . . . established” for clarity and for consistency with the source provisions restated in section 30502 of the revised title.
+
+In subsection (b), before clause (1), the words “The check” are substituted for “Such instant title verification check” to eliminate unnecessary words. In subclauses (A) and (B), the words “of the automobile” are substituted for “of the vehicle” for consistency in the revised chapter.
+
+In subsection (c)(1)(B), the words “section 30502(d) of this title” are substituted for “subsection (b)” to reflect the apparent intent of Congress.
+
+In subsection (c)(2)(A), before subclause (i), the words “is not more than the lesser of” are substituted for “does not exceed . . . whichever is lower” for clarity. In subclause (i), the words “paragraph (1)(B) of this subsection” are substituted for “subsection (d)(1)(B)” to reflect the apparent intent of Congress.
+
+In subsection (c)(2)(B), the word “fair” is omitted as being included in “reasonable”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 3750c.
+

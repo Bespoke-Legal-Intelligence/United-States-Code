@@ -1,0 +1,56 @@
+### §9701. Fees and charges for Government services and things of value
+
+(a) It is the sense of Congress that each service or thing of value provided by an agency (except a mixed-ownership Government corporation) to a person (except a person on official business of the United States Government) is to be self-sustaining to the extent possible.
+
+(b) The head of each agency (except a mixed-ownership Government corporation) may prescribe regulations establishing the charge for a service or thing of value provided by the agency. Regulations prescribed by the heads of executive agencies are subject to policies prescribed by the President and shall be as uniform as practicable. Each charge shall be—
+
+&emsp;(1) fair; and
+
+&emsp;(2) based on—
+
+&emsp;&emsp;(A) the costs to the Government;
+
+&emsp;&emsp;(B) the value of the service or thing to the recipient;
+
+&emsp;&emsp;(C) public policy or interest served; and
+
+&emsp;&emsp;(D) other relevant facts.
+
+(c) This section does not affect a law of the United States—
+
+&emsp;(1) prohibiting the determination and collection of charges and the disposition of those charges; and
+
+&emsp;(2) prescribing bases for determining charges, but a charge may be redetermined under this section consistent with the prescribed bases.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1051.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+9701
+
+31:483a.
+
+Aug. 31, 1951, ch. 376, §501, 65 Stat. 290.
+
+In the section, the words “agency (except a mixed-ownership Government corporation)” are substituted for “Federal agency (including wholly owned Government corporations as defined in the Government Corporation Control Act of 1945 \[31 U.S.C. 841 et seq.\]” because of section 101 of the revised title and for consistency.
+
+In subsection (a), the words “each service or thing of value provided” are substituted for “any work, service, publication, report, document, benefit, privilege, authority, use, franchise, license, permit, certificate, registration or similar thing of value or utility performed, furnished, provided, granted, prepared, or issued” for consistency and to eliminate unnecessary words. The words “(including groups, associations, organizations, partnerships, corporations, or businesses)” are omitted as being included in “person” under 1:1.
+
+In subsection (b), before clause (1), the words “may prescribe regulations establishing the charge for a service or thing of value provided by the agency” are substituted for “is authorized by regulation . . . to prescribe therefor such fee, charge, or price, if any, as he shall determine, in case none exists, or redetermine, in case of any existing one” for consistency, to eliminate unnecessary words, and because of the restatement. In clause (1), the words “and equitable” are omitted as being included in “fair”. In clause (2)(A), the words “direct and indirect” are omitted as surplus. In clause (2)(B), the words “of the service or thing” are added for clarity. In clause (2)(D), the words “and any amount so determined or redetermined shall be collected and paid into the Treasury as miscellaneous receipts” are omitted as unnecessary because of section 3302(a) of this title.
+
+Subsection (c) is substituted for 31:483a(provisos) for clarity and to eliminate unnecessary words.
+
+#### Short Title of 1992 Amendment
+
+Pub. L. 102–393, title VI, §638(a), Oct. 6, 1992, 106 Stat. 1779, provided that: “This section \[enacting section 9703 of this title and amending sections 981 and 982 of Title 18, Crimes and Criminal Procedure, section 1509 of Title 21, Food and Drugs, section 524 of Title 28, Judiciaryand Judicial Procedure, and section 2003 of Title 39, Postal Service\] may be cited as the ‘Treasury Forfeiture Fund Act of 1992’.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 7 section 2242a; title 8 section 1455; title 12 section 78n; title 14 section 664; title 16 sections 222, 1862; title 19 section 58c; title 28 section 1828; title 33 section 2607; title 42 sections 2201, 2214, 4370c, 7552; title 46 sections 2110, 12505.
+

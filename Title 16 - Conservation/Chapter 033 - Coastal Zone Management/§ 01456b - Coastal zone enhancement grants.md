@@ -1,0 +1,70 @@
+### §1456b. Coastal zone enhancement grants
+
+#### (a) “Coastal zone enhancement objective” defined
+
+For purposes of this section, the term “coastal zone enhancement objective” means any of the following objectives:
+
+&emsp;(1) Protection, restoration, or enhancement of the existing coastal wetlands base, or creation of new coastal wetlands.
+
+&emsp;(2) Preventing or significantly reducing threats to life and destruction of property by eliminating development and redevelopment in high-hazard areas, managing development in other hazard areas, and anticipating and managing the effects of potential sea level rise and Great Lakes level rise.
+
+&emsp;(3) Attaining increased opportunities for public access, taking into account current and future public access needs, to coastal areas of recreational, historical, aesthetic, ecological, or cultural value.
+
+&emsp;(4) Reducing marine debris entering the Nation's coastal and ocean environment by managing uses and activities that contribute to the entry of such debris.
+
+&emsp;(5) Development and adoption of procedures to assess, consider, and control cumulative and secondary impacts of coastal growth and development, including the collective effect on various individual uses or activities on coastal resources, such as coastal wetlands and fishery resources.
+
+&emsp;(6) Preparing and implementing special area management plans for important coastal areas.
+
+&emsp;(7) Planning for the use of ocean resources.
+
+&emsp;(8) Adoption of procedures and enforceable policies to help facilitate the siting of energy facilities and Government facilities and energy-related activities and Government activities which may be of greater than local significance.
+
+#### (b) Limits on grants
+
+Subject to the limitations and goals established in this section, the Secretary may make grants to coastal states to provide funding for development and submission for Federal approval of program changes that support attainment of one or more coastal zone enhancement objectives.
+
+#### (c) Evaluation of State proposals by Secretary
+
+The Secretary shall evaluate and rank State proposals for funding under this section, and make funding awards based on those proposals, taking into account the criteria established by the Secretary under subsection (d) of this section. The Secretary shall ensure that funding decisions under this section take into consideration the fiscal and technical needs of proposing States and the overall merit of each proposal in terms of benefits to the public.
+
+#### (d) Promulgation of regulations by Secretary
+
+Within 12 months following November 5, 1990, and consistent with the notice and participationrequirements established in section 1463 of this title, the Secretary shall promulgate regulations concerning coastal zone enhancement grants that establish—
+
+&emsp;(1) specific and detailed criteria that must be addressed by a coastal state (including the State's priority needs for improvement as identified by the Secretary after careful consultation with the State) as part of the State's development and implementation of coastal zone enhancement objectives;
+
+&emsp;(2) administrative or procedural rules or requirements as necessary to facilitate the development and implementation of such objectives by coastal states; and
+
+&emsp;(3) other funding award criteria as are necessary or appropriate to ensure that evaluations of proposals, and decisions to award funding, under this section are based on objective standards applied fairly and equitably to those proposals.
+
+#### (e) No State contribution required
+
+A State shall not be required to contribute any portion of the cost of any proposal for which funding is awarded under this section.
+
+#### (f) Funding
+
+Beginning in fiscal year 1991, not less than 10 percent and not more than 20 percent of the amounts appropriated to implement sections 1455 and 1455a of this title shall be retained by the Secretary for use in implementing this section, up to a maximum of $10,000,000 annually.
+
+#### (g) Eligibility; suspension of State for noncompliance
+
+If the Secretary finds that the State is not undertaking the actions committed to under the terms of the grant, the Secretary shall suspend the State's eligibility for further funding under this section for at least one year.
+
+(Pub. L. 89–454, title III, §309, as added Pub. L. 94–370, §8, July 26, 1976, 90 Stat. 1028; amended Pub. L. 96–464, §8, Oct. 17, 1980, 94 Stat. 2064; Pub. L. 101–508, title VI, §6210, Nov. 5, 1990, 104 Stat. 1388–309; Pub. L. 102–587, title II, §2205(b)(1)(B), Nov. 4, 1992, 106 Stat. 5050.)
+
+#### Codification
+
+November 5, 1990, referred to in subsec. (d), was in the original “the date of enactment of this section”, and was translated as meaning the date of enactment of section 6210 of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
+
+#### Amendments
+
+1992—Subsec. (b). Pub. L. 102–587 substituted “coastal states” for “coastal States”.
+
+1990—Pub. L. 101–508 amended section generally, substituting present provisions for provisions providing for interstate grants and agreements for developing and administering coordinated coastal zone planning and programs, setting priorities for unified coastal zone policies in contiguous areas of coastal states, providing for a Federal-State consultation procedure, authorizing temporary planning and coordinated activity, and establishing eligibility of States to receive Federal assistance.
+
+1980—Pub. L. 96–464 amended section generally and, among many changes, made a number of technical amendments, and inserted provision making it clear that only states which meet the basic eligibility requirements in this chapter can receive funding under this section.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1456c, 1460, 1464 of this title.
+

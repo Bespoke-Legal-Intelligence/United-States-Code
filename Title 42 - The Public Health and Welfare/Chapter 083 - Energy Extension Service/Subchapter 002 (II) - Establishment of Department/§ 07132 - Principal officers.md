@@ -1,0 +1,8 @@
+### §7132. Principal officers
+
+(a) There shall be in the Department a Deputy Secretary, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for level II of the Executive Schedule under section 5313 of title 5. The Deputy Secretary shall act for and exercise the functions of the Secretary during the absence or disability of the Secretary or in the event the office of Secretary becomes vacant. The Secretary shall designate the order in which the Under Secretaryand other officials shall act for and perform the functions of the Secretary during the absence or disability of both the Secretary and Deputy Secretary or in the event of vacancies in both of those offices.
+
+(b) There shall be in the Department an Under Secretary and a General Counsel, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall perform such functions and duties as the Secretary shall prescribe. The Under Secretary shall bear primary responsibility for energy conservation. The Under Secretary shall be compensated at the rate provided for level III of the Executive Schedule under section 5314 of title 5, and the General Counsel shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
+
+(Pub. L. 95–91, title II, §202, Aug. 4, 1977, 91 Stat. 569.)
+

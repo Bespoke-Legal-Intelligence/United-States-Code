@@ -1,0 +1,14 @@
+### §285f. Purpose of Institute
+
+The general purpose of the National Institute of Allergy and Infectious Diseases is the conduct and support of research, training, health information dissemination, and other programs with respect to allergic and immunologic diseases and disorders and infectious diseases, including tropical diseases.
+
+(July 1, 1944, ch. 373, title IV, §446, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 855; amended June 10, 1993, Pub. L. 103–43, title IX, §901, 107 Stat. 164.)
+
+#### Amendments
+
+1993—Pub. L. 103–43 inserted before period at end “, including tropical diseases”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 285f–2 of this title.
+

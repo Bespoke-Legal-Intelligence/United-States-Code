@@ -1,0 +1,28 @@
+### §1110. Borrowing between Federal accounts
+
+#### (a) In general
+
+Whenever the Secretary of the Treasury (after consultation with the Secretary of Labor) determines that—
+
+&emsp;(1) the amount in the employment security administration account, Federal unemployment account, or extended unemployment compensation account, is insufficient to meet the anticipated payments from the account,
+
+&emsp;(2) such insufficiency may cause such account to borrow from the general fund of the Treasury, and
+
+&emsp;(3) the amount in any other such account exceeds the amount necessary to meet the anticipated payments from such other account,
+
+> the Secretary shall transfer to the account referred to in paragraph (1) from the account referred to <sup>1</sup> paragraph (3) an amount equal to the insufficiency determined under paragraph (1) (or, if less, the excess determined under paragraph (3)).
+
+#### (b) Treatment of advance
+
+Any amount transferred under subsection (a) of this section—
+
+&emsp;(1) shall be treated as a noninterest-bearing repayable advance, and
+
+&emsp;(2) shall not be considered in computing the amount in any account for purposes of the application of sections 1101(f)(2), 1102(b), and 1105(b) of this title.
+
+#### (c) Repayment
+
+Whenever the Secretary of the Treasury (after consultation with the Secretary of Labor) determines that the amount in the account to which an advance is made under subsection (a) of this section exceeds the amount necessary to meet the anticipated payments from the account, the Secretary shall transfer from the account to the account from which the advance was made an amount equal to the lesser of the amount so advanced or such excess.
+
+(Aug. 14, 1935, ch. 531, title IX, §910, as added July 3, 1992, Pub. L. 102–318, title V, §531(c), 106 Stat. 316.)
+

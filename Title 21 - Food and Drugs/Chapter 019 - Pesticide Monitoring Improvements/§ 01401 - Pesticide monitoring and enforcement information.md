@@ -1,0 +1,116 @@
+### §1401. Pesticide monitoring and enforcement information
+
+#### (a) Data management systems
+
+(1) Not later than 480 days after August 23, 1988, the Secretary of Health and Human Services shall place in effect computerized data management systems for the Food and Drug Administration under which the Administration will—
+
+&emsp;(A) record, summarize, and evaluate the results of its program for monitoring food products for pesticide residues,
+
+&emsp;(B) identify gaps in its pesticide monitoring program in the monitoring of (i) pesticides, (ii) food products, and (iii) food from specific countries and from domestic sources,
+
+&emsp;(C) detect trends in the presence of pesticide residues in food products and identify public health problems emerging from the occurrence of pesticide residues in food products,
+
+&emsp;(D) focus its testing resources for monitoring pesticide residues in food on detecting those residues which pose a public health concern,
+
+&emsp;(E) prepare summaries of the information listed in subsection (b) of this section, and
+
+&emsp;(F) provide information to assist the Environmental Protection Agency in carrying out its responsibilities under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\] and the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
+
+(2) As soon as practicable, the Secretary of Health and Human Services shall develop a means to enable the computerized data management systems placed into effect under paragraph (1) to make the summary described in subsection (c) of this section.
+
+(3)(A) Paragraph (1) does not limit the authority of the Food and Drug Administration to—
+
+&emsp;(i) use the computerized data management systems placed in effect under paragraph (1), or
+
+&emsp;(ii) develop additional data management systems,
+
+> to facilitate the regulation of any substance or product covered under the requirements of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
+
+(B) In placing into effect the computerized data management systems under paragraph (1) and in carrying out paragraph (2), the Secretary shall comply with applicable regulations governing computer system design and procurement.
+
+#### (b) Information
+
+The Food and Drug Administration shall use the computerized data management systems placed into effect under subsection (a)(1) of this section to prepare a summary of—
+
+&emsp;(1) information on—
+
+&emsp;&emsp;(A) the types of imported and domestically produced food products analyzed for compliance with the requirements of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301et seq.\] regarding the presence of pesticide residues,
+
+&emsp;&emsp;(B) the number of samples of each such food product analyzed for such compliance by country of origin,
+
+&emsp;&emsp;(C) the pesticide residues which may be detected using the testing methods employed,
+
+&emsp;&emsp;(D) the pesticide residues in such food detected and the levels detected,
+
+&emsp;&emsp;(E) the compliance status of each sample of such food tested and the violation rate for each country-product combination, and
+
+&emsp;&emsp;(F) the action taken with respect to each sample of such food found to be in violation of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] and its ultimate disposition, and
+
+&emsp;(2) information on—
+
+&emsp;&emsp;(A) the country of origin of each imported food product referred to in paragraph (1)(A), and
+
+&emsp;&emsp;(B) the United States district of entry for each such imported food product.
+
+#### (c) Volume data
+
+The Food and Drug Administration shall use the computerized data management systems placed into effect under subsection (a)(1) of this section to summarize the volume of each type of food product subject to the requirements of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] which is imported into the United States and which has an entry value which exceeds an amount established by the Secretary of Health and Human Services. The summary shall be made by country of origin and district of entry. Information with respect to volumes of food products to be included in the summary shall, to the extent feasible, be obtained from data bases of other Federal agencies.
+
+#### (d) Compilation
+
+Not later than 90 days after the expiration of 1 year after the data management systems are placed into effect under subsection (a) of this section and annually thereafter, the Secretary of Health and Human Services shall compile a summary of the information described in subsection (b) of this section with respect to the previous year. When the Food and Drug Administration is able to make summaries under subsection (c) of this section, the Secretary shall include in the compilation under the preceding sentence a compilation of the information described in subsection (c) of this section. Compilations under this subsection shall be made available to Federal and State agencies and other interested persons.
+
+(Pub. L. 100–418, title IV, §4702, Aug. 23, 1988, 102 Stat. 1412.)
+
+#### References in Text
+
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (a)(1)(F), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a) to (c), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+
+#### Short Title
+
+Section 4701 of Pub. L. 100–418 provided that: “This subtitle \[subtitle G (§§4701–4704) of title IV of Pub. L. 100–418, enacting this chapter\] may be cited as the ‘Pesticide Monitoring Improvements Act of 1988’.”
+
+#### Imported Meat, Poultry Products, Eggs, and Egg Products
+
+Section 4506 of Pub. L. 100–418 provided that:
+
+“(a)
+
+Report.—Not later than 90 days after the date of the enactment of this Act \[Aug. 23, 1988\], the Secretary of Agriculture shall submit a report to Congress—
+
+&emsp;“(1) specifying the planned distribution, in fiscal years 1988 and 1989, of the resources of the Department of Agriculture available for sampling imported covered products to ensure compliance with the requirements of the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.) that govern the level of residues of pesticides, drugs, and other products permitted in or on such products;
+
+&emsp;“(2) describing current methods used by the Secretary to enforce the requirements of such Acts with respect to the level of residues of pesticides, drugs, and other products permitted in or on such products;
+
+&emsp;“(3) responding to the audit report of the Inspector General of the Department of Agriculture, Number 38002—2—hy, dated January 14, 1987;
+
+&emsp;“(4) providing a summary with respect to the importation of covered products during fiscal years 1987 and 1988 that specifies—
+
+&emsp;&emsp;“(A) the number of samples of each such product taken during each such fiscal year in carrying out the requirements described in paragraph (1); and
+
+&emsp;&emsp;“(B) for each violation of such requirements during each such fiscal year—
+
+&emsp;&emsp;&emsp;“(i) the covered products with respect to which such violation occurred;
+
+&emsp;&emsp;&emsp;“(ii) the residue in or on such product in violation of such requirements;
+
+&emsp;&emsp;&emsp;“(iii) the country exporting such product;
+
+&emsp;&emsp;&emsp;“(iv) the actions taken in response to such violation and the reasons for such actions; and
+
+&emsp;&emsp;&emsp;“(v) the level of testing conducted by the countries exporting such products;
+
+&emsp;“(5) describing any research conducted by the Secretary to develop improved methods to detect residues subject to such requirements in or on covered products; and
+
+&emsp;“(6) providing any recommendations the Secretary considers appropriate for legislation to add or modify penalties for violations of laws, regulations, and other enforcement requirements governing the level of residues that are permitted in or on imported covered products.
+
+“(b)
+
+Revision.—Not later than November 15, 1989, the Secretary of Agriculture shall revise, as necessary, the report prepared under subsection (a) and submit the revision to Congress.
+
+“(c)
+
+Definition.—As used in this section, the term ‘covered products’ means meat, poultry products, eggs, and egg products.”
+

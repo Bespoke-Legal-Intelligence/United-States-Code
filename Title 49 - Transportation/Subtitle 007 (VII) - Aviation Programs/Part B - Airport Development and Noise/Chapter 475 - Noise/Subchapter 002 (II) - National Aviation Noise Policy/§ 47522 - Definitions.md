@@ -1,0 +1,26 @@
+### §47522. Definitions
+
+In this subchapter—
+
+&emsp;(1) “air carrier”, “air transportation”, and “United States” have the same meanings given those terms in section 40102(a) of this title.
+
+&emsp;(2) “stage 3 noise levels” means the stage 3 noise levels in part 36 of title 14, Code of Federal Regulations, in effect on November 5, 1990.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1288.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+47522
+
+49 App.:2157(h).
+
+Nov. 5, 1990, Pub. L. 101–508, §9308(h), 104 Stat. 1388–384.
+
+The definitions are made applicable to all of subchapter II, rather than only to those provisions based on 49 App.:2157 as in the source provisions, because the defined terms appear in several sections of subchapter II and it is assumed they are intended to have the same meaning in each of those sections.
+

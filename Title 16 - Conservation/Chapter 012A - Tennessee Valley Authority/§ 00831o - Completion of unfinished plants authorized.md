@@ -1,0 +1,6 @@
+### §831<i>o</i>. Completion of unfinished plants authorized
+
+The board, whenever the President deems it advisable, is empowered and directed to complete Dam Numbered 2 at Muscle Shoals, Alabama, and the steam plant at nitrate plant numbered 2, in the vicinity of Muscle Shoals, by installing in Dam Numbered 2 the additional power units according to the plans and specifications of said dam, and the additional power unit in the steam plant at nitrate plant numbered 2.
+
+(May 18, 1933, ch. 32, §16, 48 Stat. 67.)
+

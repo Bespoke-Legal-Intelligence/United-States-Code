@@ -1,0 +1,28 @@
+### §4906. Qualifying facilities
+
+#### (a) Determination
+
+Upon submission of a petition under section 4909 of this title by any person, the Secretary shall determine whether an exotic bird breeding facility is a qualifying facility. Such determination shall be effective for a period specified by the Secretary, which may not exceed 3 years. The Secretary shall, from time to time, publish a list of qualifying facilities in the Federal Register.
+
+#### (b) Criteria
+
+The Secretary shall determine under subsection (a) of this section that a facility is a qualifying facility for a species of exotic birds if the Secretary finds each of the following:
+
+&emsp;(1) The facility has demonstrated the capability of producing captive bred birds of the species in the numbers to be imported into the United States from that facility.
+
+&emsp;(2) The facility is operated in a manner that is not detrimental to the survival of the species in the wild.
+
+&emsp;(3) The facility is operated in a humane manner.
+
+&emsp;(4) The appropriate governmental authority of the country in which the facility is located has certified in writing, and the Secretary is satisfied, that the facility has the capability of breeding the species in captivity.
+
+&emsp;(5) The country in which the facility is located is a Party to the Convention.
+
+&emsp;(6) All birds exported from the facility are bred at the facility.
+
+(Pub. L. 102–440, title I, §107, Oct. 23, 1992, 106 Stat. 2228.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 4903, 4909 of this title.
+

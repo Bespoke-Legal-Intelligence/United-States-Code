@@ -1,0 +1,44 @@
+### §3325. Appointments to scientific and professional positions
+
+(a) Positions established under section 3104 of this title are in the competitive service. However, appointments to the positions are made without competitive examination on approval of the qualifications of the proposed appointee by the Office of Personnel Management or its designee for this purpose.
+
+(b) This section does not apply to positions established under section 3104(c).
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 423; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 102–378, §2(12), Oct. 2, 1992, 106 Stat. 1347.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+(a)
+
+5 U.S.C. 1162(a).
+
+Oct. 4, 1961, Pub. L. 87–367, §202 “Sec. 2(a)”, 75 Stat. 790.
+
+(b)
+
+5 U.S.C. 1161 (g) (2d sentence).
+
+Oct. 11, 1962, Pub. L. 87–793, §1001(a)(2) “(g) (2d sentence)”, 76 Stat. 863.
+
+In subsection (a), the words “or its designee” are substituted for “or such officers or agents as the Commission may designate”.
+
+For repeal of the Act of Aug. 1, 1947, ch. 433, 61 Stat. 715, as amended, see revision note for section 3104.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+
+1992—Subsec. (b). Pub. L. 102–378 substituted “section 3104(c)” for “section 3104(a)(7) of this title”.
+
+1978—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+

@@ -1,0 +1,14 @@
+### §497. Action to recover operation charge and penalty
+
+In the discretion of the Secretary of the Interior suit or action may be brought for the amounts of operation or maintenance charges in default and penalties in like manner as provided in section 481 of this title.
+
+(Aug. 13, 1914, ch. 247, §6, 38 Stat. 688.)
+
+#### Codification
+
+Section is comprised of third sentence of section 6 of act Aug. 13, 1914. First and second sentences of such section 6 are classified to sections 479, 493, 494, 495, and 496 of this title, respectively.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 475, 511 of this title.
+

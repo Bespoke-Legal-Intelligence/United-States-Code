@@ -1,0 +1,44 @@
+### §4807. Annual report
+
+#### (a) Submission of report
+
+The Council shall annually on March 1 submit to the President, the Senate Governmental Affairs Committee, and the appropriate Committees of the House of Representatives and the Senate a report setting forth—
+
+&emsp;(1) the goals to achieve a more competitive United States economy;
+
+&emsp;(2) the policies needed to meet such goals;
+
+&emsp;(3) a summary of existing policies of the Federal Government or State and local governments significantly affecting the competitiveness of the United States economy; and
+
+&emsp;(4) a summary of significant economic and technological developments, in the United States and abroad, affecting the competitive position of United States industries.
+
+#### (b) Contents of report
+
+The report submitted under subsection (a) of this section shall—
+
+&emsp;(1) identify and describe actual or foreseeable developments, in the United States and abroad, which—
+
+&emsp;&emsp;(A) create a significant likelihood of a competitive challenge to, or of substantial dislocation in, an established United States industry;
+
+&emsp;&emsp;(B) present significant opportunities for United States industries to compete in new geographical markets or product markets, or to expand the position of such industries in established markets; or
+
+&emsp;&emsp;(C) create a significant risk that United States industries shall be unable to compete successfully in significant markets;
+
+&emsp;(2) specify the industry sectors affected by the developments described in the report under paragraph (1); and
+
+&emsp;(3) contain a statement of the findings and recommendations of the Council during the previous fiscal year, including any recommendations of the Council for (a) such legislative or administrative actions as the Council considers appropriate, and (b) including the elimination, consolidation, reorganization of government agencies especially such agencies that specifically deal with research, science, technology, and international trade.
+
+#### (c) Report by Congressional committees
+
+The Council shall consult with each committee to which a report is submitted under this section and after such consultation, each such committee shall submit to its respective House a report setting forth the views and recommendations of such committee with respect to the report of the Council.
+
+(Pub. L. 100 418, title V, §5208, Aug. 23, 1988, 102 Stat. 1461; Pub. L. 101 382, title I, §133(d), Aug. 20, 1990, 104 Stat. 649.)
+
+#### Amendments
+
+1990—Subsec. (a). Pub. L. 101 382 substituted “on March 1” for “prepare and”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4806 of this title.
+

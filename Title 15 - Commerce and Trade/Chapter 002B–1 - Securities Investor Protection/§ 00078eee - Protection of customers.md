@@ -1,0 +1,172 @@
+### §78eee. Protection of customers
+
+#### (a) Determination of need of protection
+
+#### (1) Notice to SIPC
+
+&emsp;If the Commission or any self-regulatory organization is aware of facts which lead it to believe that any broker or dealer subject to its regulation is in or is approaching financial difficulty, it shall immediately notify SIPC, and, if such notification is by a self-regulatory organization, the Commission.
+
+#### (2) Action by self-regulatory organization
+
+&emsp;If a self-regulatory organization has given notice to SIPC pursuant to subsection (a)(1) of this section with respect to a broker or dealer, and such broker or dealer undertakes to liquidate or reduce its business either pursuant to the direction of a self-regulatory organization or voluntarily, such self-regulatory organization may render such assistance or oversight to such broker or dealer as it considers appropriate to protect the interests of customers of such broker or dealer. The assistance or oversight by a self-regulatory organization shall not be deemed the assumption or adoption by such self-regulatory organization of any obligation or liability to customers, other creditors, shareholders, or partners of the broker or dealer, and shall not prevent or act as a bar to any action by SIPC.
+
+#### (3) Action by SIPC
+
+&emsp;If SIPC determines that—
+
+&emsp;&emsp;(A) any member of SIPC (including any person who was a member within one hundred eighty days prior to such determination) has failed or is in danger of failing to meet its obligations to customers; and
+
+&emsp;&emsp;(B) one or more of the conditions specified in subsection (b)(1) of this section exist with respect to such member,
+
+> &emsp;SIPC may, upon notice to such member, file an application for a protective decree with any court of competent jurisdiction specified in section 78u(e) or 78aa, except that no such application shall be filed with respect to a member the only customers of which are persons whose claims could not be satisfied by SIPC advances pursuant to section 78fff–3.
+
+#### (4) Effect of other pending actions
+
+&emsp;An application with respect to a member of SIPC filed with a court under paragraph (3)—
+
+&emsp;&emsp;(A) may, with the consent of the Commission, be combined with any action brought by the Commission, including an action by the Commission for a temporary receiver pending an appointment of a trustee under subsection (b)(3) of this section; and
+
+&emsp;&emsp;(B) may be filed notwithstanding the pendency in the same or any other court of any bankruptcy, mortgage foreclosure, or equity receivership proceeding or any proceeding to reorganize, conserve, or liquidate such member or its property, or any proceeding to enforce a lien against property of such member.
+
+#### (b) Court action
+
+#### (1) Issuance of protective decree
+
+&emsp;Upon receipt of an application by SIPC under subsection (a)(3) of this section, the court shall forthwith issue a protective decree if the debtor consents thereto, if the debtor fails to contest such application, or if the court finds that such debtor—
+
+&emsp;&emsp;(A) is insolvent within the meaning of section 101 of title 11, or is unable to meet its obligations as they mature;
+
+&emsp;&emsp;(B) is the subject of a proceeding pending in any court or before any agency of the United States or any State in which a receiver, trustee, or liquidator for such debtor has been appointed;
+
+&emsp;&emsp;(C) is not in compliance with applicable requirements under the 1934 Act \[15 U.S.C. 78a et seq.\] or rules of the Commission or any self-regulatory organization with respect to financial responsibility or hypothecation of customers’ securities; or
+
+&emsp;&emsp;(D) is unable to make such computations as may be necessary to establish compliance with such financial responsibility or hypothecation rules.
+
+> &emsp;Unless the debtor consents to the issuance of a protective decree, the application shall be heard three business days after the date on which it is filed, or at such other time as the court shall determine, taking into consideration the urgency which the circumstances require.
+
+#### (2) Jurisdiction and powers of court
+
+#### (A) Exclusive jurisdiction
+
+&emsp;&emsp;Upon the filing of an application with a court for a protective decree with respect to a debtor, such court—
+
+&emsp;&emsp;&emsp;(i) shall have exclusive jurisdiction of such debtor and its property wherever located (including property located outside the territorial limits of such court and property held by any other person as security for a debt or subject to a lien);
+
+&emsp;&emsp;&emsp;(ii) shall have exclusive jurisdiction of any suit against the trustee with respect to a liquidation proceeding; and
+
+&emsp;&emsp;&emsp;(iii) except as inconsistent with the provisions of this chapter, shall have the jurisdiction, powers, and duties conferred upon a court of the United States havingjurisdiction over cases under title 11, together with such other jurisdiction, powers, and duties as are prescribed by this chapter.
+
+#### (B) Stay of pending actions
+
+&emsp;&emsp;Pending the issuance of a protective decree under paragraph (1), the court with which an application has been filed—
+
+&emsp;&emsp;&emsp;(i) shall stay any pending bankruptcy, mortgage foreclosure, equity receivership, or other proceeding to reorganize, conserve, or liquidate the debtor or its property and any other suit against any receiver, conservator, or trustee of the debtor or its property, and shall continue such stay upon appointment of a trustee pursuant to paragraph (3);
+
+&emsp;&emsp;&emsp;(ii) may stay any proceeding to enforce a lien against property of the debtor or any other suit against the debtor, including a suit by stockholders of the debtor which interferes with prosecution by the trustee of claims against former directors, officers, or employees of the debtor, and may continue such stay upon appointment of a trustee pursuant to paragraph (3);
+
+&emsp;&emsp;&emsp;(iii) may stay enforcement of, and upon appointment of a trustee pursuant to paragraph (3), may continue the stay for such period of time as may be appropriate, but shall not abrogate any right of setoff, except to the extent such right may be affected under section 553 of title 11, and shall not abrogate the right to enforce a valid, nonpreferential lien or pledge against the property of the debtor; and
+
+&emsp;&emsp;&emsp;(iv) may appoint a temporary receiver.
+
+#### (3) Appointment of trustee and attorney
+
+&emsp;If the court issues a protective decree under paragraph (1), such court shall forthwith appoint, as trustee for the liquidation of the business of the debtor and as attorney for the trustee, such persons as SIPC, in its sole discretion, specifies. The persons appointed as trustee and as attorney for the trustee may be associated with the same firm. SIPC may, in its sole discretion, specify itself or one of its employees as trustee in any case in which SIPC has determined that the liabilities of the debtor to unsecured general creditors and to subordinated lenders appear to aggregate less than $750,000 and that there appear to be fewer than five hundred customers of such debtor. No person may be appointed to serve as trustee or attorney for the trustee if such person is not disinterested within the meaning of paragraph (6), except that for any specified purpose other than to represent a trustee in conducting a liquidation proceeding, the trustee may, with the approval of SIPC and the court, employ an attorney who is not disinterested. A trustee appointed under this paragraph shall qualify by filing a bond in the manner prescribed by section 322 of title 11, except that neither SIPC nor any employee of SIPC shall be required to file a bond when appointed as trustee.
+
+#### (4) Removal to bankruptcy court
+
+&emsp;Upon the issuance of a protective decree and appointment of a trustee, or a trustee and counsel, under this section, the court shall forthwith order the removal of the entire liquidation proceeding to the court of the United States in the same judicial district having jurisdiction over cases under title 11. The latter court shall thereupon have all of the jurisdiction, powers, and duties conferred by this chapter upon the court to which application for the issuance of the protective decree was made.
+
+#### (5) Compensation for services and reimbursement of expenses
+
+#### (A) Allowances in general
+
+&emsp;&emsp;The court shall grant reasonable compensation for services rendered and reimbursement for proper costs and expenses incurred (hereinafter in this paragraph referred to as “allowances”) by a trustee, and by the attorney for such a trustee, in connection with a liquidation proceeding. No allowances (other than reimbursement for proper costs and expenses incurred) shall be granted to SIPC or any employee of SIPC for serving as trustee. Allowances may be granted on an interim basis during the course of the liquidation proceeding at such times and in such amounts as the court considers appropriate.
+
+#### (B) Application for allowances
+
+&emsp;&emsp;Any person seeking allowances shall file with the court an application which complies in form and content with the provisions of title 11 governing applications for allowances under such title. A copy of such application shall be served upon SIPC when filed. The court shall fix a time for a hearing on such application, and notice of such hearing shall be given to the applicant, the trustee, the debtor, the creditors, SIPC, and such other persons as the court may designate, except that notice need not be given to customers whose claims have been or will be satisfied in full or to creditors who cannot reasonably be expected to receive any distribution during the course of the liquidation proceeding.
+
+#### (C) Recommendations of SIPC and awarding of allowances
+
+&emsp;&emsp;Whenever an application for allowances is filed pursuant to subparagraph (B), SIPC shall file its recommendation with respect to such allowances with the court prior to the hearing on such application and shall, if it so requests, be allowed a reasonable time after such hearing within which to file a further recommendation. In any case in which such allowances are to be paid by SIPC without reasonable expectation of recoupment thereof as provided in this chapter and there is no difference between the amounts requested and the amounts recommended by SIPC, the court shall award the amounts recommended by SIPC. In determining the amount of allowances in all other cases, the court shall give due consideration to the nature, extent, and value of the services rendered, and shall place considerable reliance on the recommendation of SIPC.
+
+#### (D) Applicable restrictions
+
+&emsp;&emsp;The restrictions on sharing of compensation set forth in section 504 of title 11 shall apply to allowances.
+
+#### (E) Charge against estate
+
+&emsp;&emsp;Allowances granted by the court, including interim allowances, shall be charged against the general estate of the debtor as a cost and expense of administration. If the general estate is insufficient to pay allowances in whole or in part, SIPC shall advance such funds as are necessary for such payment.
+
+#### (6) Disinterestedness
+
+#### (A) Standards
+
+&emsp;&emsp;For purposes of paragraph (3), a person shall not be deemed disinterested if—
+
+&emsp;&emsp;&emsp;(i) such person is a creditor (including a customer), stockholder, or partner of the debtor;
+
+&emsp;&emsp;&emsp;(ii) such person is or was an underwriter of any of the outstanding securities of the debtor or within five years prior to the filing date was the underwriter of any securities of the debtor;
+
+&emsp;&emsp;&emsp;(iii) such person is, or was within two years prior to the filing date, a director, partner, officer, or employee of the debtor or such an underwriter, or an attorney for the debtor or such an underwriter; or
+
+&emsp;&emsp;&emsp;(iv) it appears that such person has, by reason of any other direct or indirect relationship to, connection with, or interest in the debtor or such an underwriter, or for any other reason, an interest materially adverse to the interests of any class of creditors (including customers) or stockholders,
+
+> &emsp;&emsp;except that SIPC shall in all cases be deemed disinterested, and an employee of SIPC shall be deemed disinterested if such employee would, except for his association with SIPC, meet the standards set forth in this subparagraph.
+
+#### (B) Hearing
+
+&emsp;&emsp;The court shall fix a time for a hearing on disinterestedness, to be held promptly after the appointment of a trustee. Notice of such hearing shall be mailed at least ten days prior thereto to each person who, from the books and records of the debtor, appears to have been a customer of the debtor with an open account within the past twelve months, to the address of such person as it appears from the books and records of the debtor, and to the creditors and stockholders of the debtor, to SIPC, and to such other persons as the court may designate. The court may, in its discretion, also require that notice be given by publication in such newspaper or newspapers of general circulation as it may designate. At such hearing, at any adjournment thereof, or upon application, the court shall hear objections to the retention in office of a trustee or attorney for a trustee on the grounds that such person is not disinterested.
+
+#### (c) SEC participation in proceedings
+
+The Commission may, on its own motion, file notice of its appearance in any proceeding under this chapter and may thereafter participate as a party.
+
+#### (d) SIPC participation
+
+SIPC shall be deemed to be a party in interest as to all matters arising in a liquidation proceeding, with the right to be heard on all such matters, and shall be deemed to have intervened with respect to all such matters with the same force and effect as if a petition for such purpose had been allowed by the court.
+
+(Pub. L. 91–598, §5, Dec. 30, 1970, 84 Stat. 1644; Pub. L. 95–283, §7, May 21, 1978, 92 Stat. 254; Pub. L. 95–598, title III, §308(a)–(f), Nov. 6, 1978, 92 Stat. 2674.)
+
+#### References in Text
+
+The 1934 Act, referred to in subsec. (b)(1)(C), means act June 6, 1934, ch. 404, 48 Stat. 881, as amended, known as the Securities Exchange Act of 1934, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+
+This chapter, referred to in subsecs. (b)(2)(A)(iii), (5)(C), and (c), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+1978—Subsec. (a). Pub. L. 95–283, §7(a), added par. (2), redesignated former par. (2) as (3) and, as so redesignated, revised format of provisions by setting out cls. (A) and (B) and inserted provisions relating to any person who was a member within 180 days prior to such determination and provisions relating to claims filed under section 78fff–3 of this title, and redesignated former par. (3) as (4) and, as so redesignated, substituted “with respect to a member of SIPC filed with a court under paragraph (3)” for “under paragraph (2)” in introductory text and inserted “may,” before “with the” in cl. (A).
+
+Subsec. (b)(1)(A). Pub. L. 95–598, §308(a)(1), substituted “section 101 of title 11” for “the Bankruptcy Act”.
+
+Subsec. (b)(1)(B) to (E). Pub. L. 95–598, §308(a)(2), (3), redesignated subpars. (C) to (E) as subpars. (B) to (D), respectively. Former subpar. (B), which provided for issuance of protective decree where court found that debtor had committed act of bankruptcy within meaning of Bankruptcy Act, was struck out.
+
+Subsec. (b)(2)(A)(iii). Pub. L. 95–598, §308(b), substituted “the United States having jurisdiction over cases under title 11” for “bankruptcy by the Bankruptcy Act”.
+
+Subsec. (b)(2)(B)(iii). Pub. L. 95–598, §308(c), substituted “any right of setoff, except to the extent such right may be affected under section 553 of title 11, and shall not abrogate” for “the right of setoff provided in section 68 of the Bankruptcy Act”.
+
+Subsec. (b)(3). Pub. L. 95–598, §308(d), substituted “section 322 of title 11” for “the applicable provisions of the Bankruptcy Act”.
+
+Subsec. (b)(4). Pub. L. 95–598, §308(e), substituted provisions relating to removal of proceeding to Bankruptcy Court for provisions relating to reference of proceeding to referee in bankruptcy.
+
+Subsec. (b)(5)(B). Pub. L. 95–598, §308(f)(1), (2), (5), redesignated subpar. (C) as (B) and substituted “title 11 governing applications for allowances under such title” for “the Bankruptcy Act governing applications for allowances under such Act”. Former subpar. (B), which covered allowances to a referee in bankruptcy or special master, was struck out.
+
+Subsec. (b)(5)(C). Pub. L. 95–598, §308(f)(2), (3), (5), redesignated subpar. (D) as (C) and substituted “subparagraph (B)” for “subparagraph (C)”. Former subpar. (C) redesignated (B).
+
+Subsec. (b)(5)(D). Pub. L. 95–598, §308(f)(2), (4), (5), redesignated subpar. (E) as (D) and substituted “Section 504 of title 11” for “the Bankruptcy Act”. Former subpar. (D) redesignated (C).
+
+Subsec. (b)(5)(E), (F). Pub. L. 95–598, §308(f)(5), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
+
+Subsec. (b). Pub. L. 95–283, §7(b), in par. (1) inserted “protective” after “of” in heading and substituted provisions relating to issuance of protective decrees, for provisions relating to specific findings necessary for issuance of a decree and uncontested, etc., applications, in par. (2) substituted “Jurisdiction and powers of court” for “Exclusive jurisdiction over debtor” in heading and substituted provisions setting forth jurisdiction and powers of court with respect to exclusivity of such jurisdiction, for provisions relating to exclusive jurisdiction over the debtor, in par. (3) inserted “and attorney” after “trustee” in heading and substituted provisions relating to appointment of trustee and attorney, for provisions relating to appointment of trustee, in par. (4) substituted “Reference to referee in bankruptcy” for “Debtor and filing date defined” in heading and substituted provisions relating to reference to referee in bankruptcy, for provisions defining terms “debtor” and “filing date”, and added pars. (5) and (6).
+
+Subsec. (d). Pub. L. 95–283, §7(c), added subsec. (d).
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 78fff–4, 78iii, 78<i>lll</i> of this title; title 11 section 362.
+

@@ -1,0 +1,54 @@
+### §6214. Production of oil or gas at the maximum efficient rate and temporary emergency production rate
+
+#### (a) Determination by Secretary of the Interior
+
+(1) The Secretary of the Interior, by rule on the record after an opportunity for a hearing, shall, to the greatest extent practicable, determine the maximum efficient rate of production and, if any, the temporary emergency production rate for each field on Federal lands which produces, or is determined to be capable of producing, significant volumes of crude oil or natural gas, or both.
+
+(2) Except as provided in subsection (f) of this section, the President may, by rule or order, require crude oil or natural gas, or both, to be produced from fields on Federal lands designated by him—
+
+&emsp;(A) at the maximum efficient rate of production, and
+
+&emsp;(B) during a severe energy supply interruption, at the temporary emergency production rate
+
+> as determined pursuant to paragraph (1) for such field.
+
+#### (b) Determination of rate of production by States; required production
+
+(1) Each State or the appropriate agency thereof may, for the purposes of this section, pursuant to procedures and standards established by the State, determine the maximum efficient rate of production and, if any, the temporary emergency production rate, for each field (other than a field on Federal lands) within such State which produces, or is determined to be capable of producing, significant volumes of crude oil or natural gas, or both.
+
+(2) If a State or the appropriate agency thereof has determined the maximum efficient rate of production and, if any, the temporary emergency production rate, or both, or their equivalents (however characterized), for any field (other than a field on Federal lands) within such State, the President may, by rule or order, during a severe energy supply interruption, require the production of such fields at the rates of production established by the State.
+
+#### (c) Fields composed of Federal and non-Federal land
+
+With respect to any field, which produces, or is determined to be capable of producing, significant volumes of crude oil, or natural gas, or both, which field is unitized and is composed of both Federal lands and lands other than Federal lands and there has been no determination of the maximum efficient rate of production or the temporary emergency production rate or both, the Secretary of the Interior may, pursuant to subsection (a)(1) of this section, determine a maximum efficient rate of production and a temporary emergency production rate, if any, for such field. The President may, during a severe energy supply interruption by rule or order, require production at the maximum efficient rate of production and the temporary emergency production rate, if any, determined for such field.
+
+#### (d) Action to recover just compensation
+
+If loss of ultimate recovery of crude oil or natural gas, or both, occurs or will occur as the result of a rule or order under the authority of this section to produce at the temporary emergency production rate, the owner of any property right who considers himself damaged by such order may bring an action in a United States district court to recover just compensation, which shall be awarded if the court finds that such loss constitutes a taking of property compensable under the Constitution.
+
+#### (e) “Maximum efficient rate of production” and “temporary emergency production rate” defined
+
+As used in this section:
+
+&emsp;(1) The term “maximum efficient rate of production” means the maximum rate of production of crude oil or natural gas, or both, which may be sustained without loss of ultimate recovery of crude oil or natural gas, or both, under sound engineering and economic principles.
+
+&emsp;(2) The term “temporary emergency production rate” means the maximum rate of production for a field—
+
+&emsp;&emsp;(A) which rate is above the maximum efficient rate of production established for such field; and
+
+&emsp;&emsp;(B) which may be maintained for a temporary period of less than 90 days without reservoir damage and without significant loss of ultimate recovery of crude oil or natural gas, or both, from such field.
+
+#### (f) Naval Petroleum Reserves
+
+Nothing in this section shall be construed to authorize the production of crude oil, or naturalgas, or both, from any Naval Petroleum Reserve subject to the provisions of chapter 641 of title 10.
+
+(Pub. L. 94–163, title I, §106, Dec. 22, 1975, 89 Stat. 880.)
+
+#### Transfer of Functions
+
+Functions of Secretary of the Interior to promulgate regulations under this chapter relating to setting of rates for production of Federal leases to establish production rates for all Federal leases transferred to Secretary of Energy by section 7152(b), (c) of this title. Section 7152(b), (c) of this title repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7172 of this title.
+

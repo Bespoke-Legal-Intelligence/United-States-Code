@@ -1,0 +1,34 @@
+### §4421. Definitions
+
+For purposes of this chapter—
+
+#### (1) Wager
+
+&emsp;The term “wager” means—
+
+&emsp;&emsp;(A) any wager with respect to a sports event or a contest placed with a person engaged in the business of accepting such wagers,
+
+&emsp;&emsp;(B) any wager placed in a wagering pool with respect to a sports event or a contest, if such pool is conducted for profit, and
+
+&emsp;&emsp;(C) any wager placed in a lottery conducted for profit.
+
+#### (2) Lottery
+
+&emsp;The term “lottery” includes the numbers game, policy, and similar types of wagering. The term does not include—
+
+&emsp;&emsp;(A) any game of a type in which usually
+
+&emsp;&emsp;&emsp;(i) the wagers are placed,
+
+&emsp;&emsp;&emsp;(ii) the winners are determined, and
+
+&emsp;&emsp;&emsp;(iii) the distribution of prizes or other property is made, in the presence of all persons placing wagers in such game, and
+
+&emsp;&emsp;(B) any drawing conducted by an organization exempt from tax under sections 501 and 521, if no part of the net proceeds derived from such drawing inures to the benefit of any private shareholder or individual.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 528.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 4405, 4414 of this title.
+

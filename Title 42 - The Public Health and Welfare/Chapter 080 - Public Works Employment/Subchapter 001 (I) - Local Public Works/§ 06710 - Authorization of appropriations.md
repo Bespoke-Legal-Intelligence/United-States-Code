@@ -1,0 +1,18 @@
+### §6710. Authorization of appropriations
+
+There is authorized to be appropriated not to exceed $6,000,000,000 for the period ending December 31, 1978, to carry out this chapter.
+
+(Pub. L. 94–369, title I, §111, July 22, 1976, 90 Stat. 1002; Pub. L. 95–28, title I, §109, May 13, 1977, 91 Stat. 119.)
+
+#### Amendments
+
+1977—Pub. L. 95–28 substituted “$6,000,000,000 for the period ending December 31, 1978” for “$2,000,000,000 for the period ending September 30, 1977”.
+
+#### Immediate Initiation of Construction on Certain Projects
+
+Section 111 of Pub. L. 95–28 directed Secretary of Agriculture and Secretary of the Interior to immediately initiate construction of those Federal public works projects which are responsibility of their respective departments, which have been authorized, and which can be commenced within 60 days of May 13, 1977, and completed no later than 180th day after commencement of construction, with no funds authorized by this section used to carry out such works.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6707 of this title.
+

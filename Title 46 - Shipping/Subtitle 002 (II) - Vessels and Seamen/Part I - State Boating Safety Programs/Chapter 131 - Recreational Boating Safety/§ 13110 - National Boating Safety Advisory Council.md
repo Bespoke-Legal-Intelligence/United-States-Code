@@ -1,0 +1,74 @@
+### §13110. National Boating Safety Advisory Council
+
+(a) The Secretary shall establish a National Boating Safety Advisory Council. The Council shall consist of 21 members appointed by the Secretary, whom the Secretary considers to have a particular expertise, knowledge, and experience in recreational boating safety.
+
+(b)(1) The membership of the Council shall consist of—
+
+&emsp;(A) 7 representatives of State officials responsible for State boating safety programs;
+
+&emsp;(B) 7 representatives of recreational vessel manufacturers and associated equipment manufacturers; and
+
+&emsp;(C) 7 representatives of national recreational boating organizations and from the general public, at least 5 of whom shall be representatives of national recreational boating organizations.
+
+(2) Additional individuals from the sources referred to in paragraph (1) of this subsection may be appointed to panels of the Council to assist the Council in performing its duties.
+
+(3) At least once a year, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the Council.
+
+(c) In addition to the consultation required by section 4302 of this title, the Secretary shall consult with the Council on other major boating safety matters related to this chapter. The Council may make available to Congress information, advice, and recommendations that the Council is authorized to give to the Secretary.
+
+(d) When attending meetings of the Council, a member of the Council or a panel may be paid at a rate not more than the rate for GS–18. When serving away from home or regular place of business, the member may be allowed travel expenses, including per diem in lieu of subsistence as authorized by section 5703 of title 5 for individuals employed intermittently in the Government service. A payment under this section does not make a member of the Council an officer or employee of the United States Government for any purpose.
+
+(e) The Council shall terminate on September 30, 1996.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 598; Pub. L. 99–626, §3(a)(1), (b)(1), (2), Nov. 7, 1986, 100 Stat. 3505; Pub. L. 100–448, §20(a), Sept. 28, 1988, 102 Stat. 1846; Pub. L. 102–241, §24, Dec. 19, 1991, 105 Stat. 2217.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source section (U.S. Code)</i>
+
+13110
+
+46:1482
+
+Section 13110 establishes the National Boating Safety Advisory Council, the membership of the council, and compensation for individuals serving on the council.This council is to be established consistent with the Federal Advisory Committee Act (P.L. 92–463; 5 U.S.C. App.).
+
+#### Amendments
+
+1991—Subsec. (e). Pub. L. 102–241 substituted “1996” for “1991”.
+
+1988—Subsec. (b)(1). Pub. L. 100–448 substituted “representatives of” for “members from” wherever appearing.
+
+1986—Subsec. (a). Pub. L. 99–626, §3(b)(1), struck out “not more than” before “21 members” and inserted “recreational” after “experience in”.
+
+Subsec. (b)(1). Pub. L. 99–626, §3(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Insofar as practical and to ensure balanced representation, the Secretary shall appoint members equally from—
+
+&emsp;“(A) State officials responsible for State boating safety programs;
+
+&emsp;“(B) recreational vessel manufacturers; and
+
+&emsp;“(C) boating organizations and members of the general public.”
+
+Subsec. (e). Pub. L. 99–626, §3(a)(1), added subsec. (e).
+
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
+
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+#### Implementation of 1988 Amendment
+
+Section 20(b) of Pub. L. 100–448 provided that: “The Secretary of the department in which the Coast Guard is operating shall carry out the amendments made by subsection (a) \[amending this section\] as vacancies in the membership of the National Boating Safety Advisory Council occur.”
+
+#### Implementation of 1986 Amendment
+
+Section 3(b)(3) of Pub. L. 99–626 provided that: “The Secretary of Transportation shall carry out the amendments made by paragraph (2) \[amending this section\] as vacancies in the membership of the National Boating Safety Advisory Council occur.”
+
+#### Termination of Advisory Councils
+
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4302 of this title.
+

@@ -1,0 +1,68 @@
+### §5378. Police forces of the Bureau of Engraving and Printing and the United States Mint
+
+(a) The Secretary of the Treasury shall fix the rates of basic pay for positions within the police forces of the Bureau of Engraving and Printing and the United States Mint in accordance with the following:
+
+&emsp;(1) Entry-level police officer—not more than the maximum rate payable for GS–6.
+
+&emsp;(2) Journeyman-level police officer—not more than the maximum rate payable for GS–7.
+
+&emsp;(3) Corporal—not more than the maximum rate payable for GS–8.
+
+&emsp;(4) Sergeant—not more than the maximum rate payable for GS–9.
+
+&emsp;(5) Lieutenant—not more than the maximum rate payable for GS–10.
+
+&emsp;(6) Deputy Inspector—not more than the maximum rate payable for GS–11.
+
+&emsp;(7) Inspector—not more than the maximum rate payable for GS–12.
+
+(b) For the purpose of this section, the term “police forces of the Bureau of Engraving and Printing and the United States Mint” means the employees of the Department of the Treasury who are appointed, under the authority of the Secretary of the Treasury, as police officers for the protection of the Bureau of Engraving and Printing and the United States Mint buildings and property.
+
+(Added Pub. L. 101–509, title V, §529 \[title I, §109(a)(1)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1451.)
+
+#### References in Text
+
+GS–6 to GS–12, referred to in subsec. (a), are contained in the General Schedule which is set out under section 5332 of this title.
+
+#### Effective Date; Conversion and Savings Provisions
+
+Section 529 \[title I, §109(c)\] of Pub. L. 101–509 provided that:
+
+“(1) This section and the amendments made by this section \[enacting this section, amending section 5102 of this title, and enacting provisions set out as a note below\] shall become effective on the first day of the first applicable pay period beginning on or after the 30th day following the date of enactment of this Act \[Nov. 5, 1990\].
+
+“(2)(A) A special pay rate (as defined in subparagraph (B)) shall apply to an individual holding a position if—
+
+&emsp;“(i) as a result of the initial exercise of authority with respect to such position under the amendment made by subsection (a)(1)(A) \[enacting this section\], such individual would (but for this paragraph) be paid—
+
+&emsp;&emsp;“(I) at the step of the grade for which such special pay rate is then in effect; or
+
+&emsp;&emsp;“(II) at a level which is between steps for which special pay rates are then in effect; and
+
+&emsp;“(ii) such position is within the area or location with respect to which that special pay rate or those special pay rates, as applicable, are then in effect.
+
+> The Secretary of the Treasury shall prescribe regulations for determining which special pay rate shall apply in a situation described in clause (i)(II).
+
+“(B) For the purpose of this paragraph, the term ‘special pay rate’ means a rate which—
+
+&emsp;“(i) is established under section 5303 of title 5, United States Code (or a succeeding provision of law);
+
+&emsp;“(ii) is applicable to positions within the police forces of the Bureau of Engraving and Printing and the United States Mint; and
+
+&emsp;“(iii) has been in effect (including any adjustments under section 5303(d) of such title) since on or before the effective date of this section.
+
+“(3) No rate of basic pay in effect immediately before this section takes effect shall be reduced by reason of the enactment of this section.”
+
+#### Special Pay Rates Not Affected
+
+Section 529 \[title I, §109(b)\] of Pub. L. 101–509, as amended by Pub. L. 102–378, §3(1), Oct. 2, 1992, 106 Stat. 1355, provided that: “Nothing in this section or in any amendment made by this section \[enacting this section, amending section 5102 of this title, and enacting provisions set out as a note above\] shall—
+
+&emsp;“(1) affect any special pay rate under section 5303 of title 5, United States Code, established before this section takes effect; or
+
+&emsp;“(2) impair any authority to fix or adjust special pay rates under such section 5303 (or a succeeding provision of law) for positions within the police forces of the Bureau of Engraving and Printing and the United States Mint.”
+
+\[Amendment by Pub. L. 102–378 to section 529 \[title I, §109(b)\] of Pub. L. 101–509, set out above, effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.\]
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5102 of this title.
+

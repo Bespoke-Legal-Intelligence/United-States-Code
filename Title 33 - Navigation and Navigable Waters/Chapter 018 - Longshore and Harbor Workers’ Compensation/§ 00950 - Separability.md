@@ -1,0 +1,10 @@
+### §950. Separability
+
+If any provision of this chapter is declared unconstitutional or the applicability thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and the applicability of such provision to other persons and circumstances shall not be affected thereby.
+
+(Mar. 4, 1927, ch. 509, §51 formerly §50, 44 Stat. 1446; renumbered §51, Oct. 27, 1972, Pub. L. 92–576, §19, 86 Stat. 1263.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 30 section 932.
+

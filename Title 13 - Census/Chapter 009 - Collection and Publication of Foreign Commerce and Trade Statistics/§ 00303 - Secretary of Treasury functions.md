@@ -1,0 +1,6 @@
+### §303. Secretary of Treasury functions
+
+To assist the Secretary to carry out the provisions of this chapter, the Secretary of the Treasury shall collect information in the form and manner prescribed by the regulations issued pursuant to this chapter from persons engaged in foreign commerce or trade, other than by mail, and from the owners or operators of carriers.
+
+(Added Pub. L. 87–826, §2, Oct. 15, 1962, 76 Stat. 951.)
+

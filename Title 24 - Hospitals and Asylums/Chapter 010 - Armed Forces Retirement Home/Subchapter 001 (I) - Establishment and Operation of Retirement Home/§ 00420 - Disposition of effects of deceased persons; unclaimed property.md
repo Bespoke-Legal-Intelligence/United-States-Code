@@ -1,0 +1,96 @@
+### §420. Disposition of effects of deceased persons; unclaimed property
+
+#### (a) Disposition of effects of deceased persons
+
+The Director of each facility that is maintained as a separate establishment of the Retirement Home shall safeguard and dispose of the estate and personal effects of deceased residents, including effects delivered to such facility under sections 4712(f) and 9712(f) of title 10, and shall ensure the following:
+
+&emsp;(1) A will or other instrument of a testamentary nature involving property rights executed by a resident shall be promptly delivered, upon the death of the resident, to the proper court of record.
+
+&emsp;(2) If a resident dies intestate and the heirs or legal representative of the deceased cannot be immediately ascertained, the Director shallretain all property left by the decedent for a three-year period beginning on the date of the death. If entitlement to such property is established to the satisfaction of the Director at any time during the three-year period, the Director shall distribute the decedent's property, in equal pro-rata shares when multiple beneficiaries have been identified, to the highest following categories of identified survivors (listed in the order of precedence indicated):
+
+&emsp;&emsp;(A) The surviving spouse or legal representative.
+
+&emsp;&emsp;(B) The children of the deceased.
+
+&emsp;&emsp;(C) The parents of the deceased.
+
+&emsp;&emsp;(D) The siblings of the deceased.
+
+&emsp;&emsp;(E) The next-of-kin of the deceased.
+
+#### (b) Sale of effects
+
+(1)(A) If the disposition of the estate of a resident of the Retirement Home cannot be accomplished under subsection (a)(2) of this section or if a resident dies testate and the nominated fiduciary, legatees, or heirs of the resident cannot be immediately ascertained, the entirety of the deceased resident's domiciliary estate and the entirety of any ancillary estate that is unclaimed at the end of the three-year period beginning on the date of the death of the resident shall escheat to the Retirement Home.
+
+(B) Upon the sale of any such unclaimed estate property, the proceeds of the sale shall be deposited in the Retirement Home Trust Fund.
+
+(C) If a personal representative or other fiduciary is appointed to administer a deceased resident's estate and the administration is completed before the end of such three-year period, the balance of the entire net proceeds of the estate, less expenses, shall be deposited directly in the Retirement Home Trust Fund. The heirs or legatees of the deceased resident may file a claim made with the Comptroller General of the United States to reclaim such proceeds. A determination of the claim by the Comptroller General shall be subject to judicial review exclusively by the United States Court of Federal Claims.
+
+(2)(A) The Director of a facility maintained as a separate establishment of the Retirement Home may designate an attorney to serve as attorney or agent for the facility in any probate proceeding in which the Retirement Home may have a legal interest as nominated fiduciary, testamentary legatee, escheat legatee, or in any other capacity.
+
+(B) An attorney designated under this paragraph may, in the domiciliary jurisdiction of the deceased resident and in any ancillary jurisdiction, petition for appointment as fiduciary. The attorney shall have priority over any petitioners (other than the deceased resident's nominated fiduciary, named legatees, or heirs) to serve as fiduciary. In a probate proceeding in which the heirs of an intestate deceased resident cannot be located and in a probate proceeding in which the nominated fiduciary, legatees, or heirs of a testate deceased resident cannot be located, the attorney shall be appointed as the fiduciary of the deceased resident's estate.
+
+(3) The designation of an employee or representative of a facility of the Retirement Home as personal representative of the estate of a resident of the Retirement Home or as a legatee under the will or codicil of the resident shall not disqualify an employee or staff member of that facility from serving as a competent witness to a will or codicil of the resident.
+
+(4) After the end of the three-year period beginning on the date of the death of a resident of a facility, the Director of the facility shall dispose of all property of the deceased resident that is not otherwise disposed of under this subsection, including personal effects such as decorations, medals, and citations to which a right has not been established under subsection (a) of this section. Disposal may be made within the discretion of the Director by—
+
+&emsp;(A) retaining such property or effects for the facility;
+
+&emsp;(B) offering such items to the Secretary of Veterans Affairs, a State, another military home, a museum, or any other institution having an interest in such items; or
+
+&emsp;(C) destroying any items determined by the Director to be valueless.
+
+#### (c) Transfer of proceeds to Fund
+
+The net proceeds received by the Directors from the sale of effects under subsection (b) of this section shall be deposited in the Fund.
+
+#### (d) Subsequent claim
+
+(1) A claim for the net proceeds of the sale under subsection (b) of this section of the effects of a deceased may be filed with the Comptroller General of the United States at any time within six years after the death of the deceased, for action under section 2771 of title 10.
+
+(2) A claim referred to in paragraph (1) may not be considered by a court or the Comptroller General unless the claim is filed within the time period prescribed in such paragraph.
+
+(3) A claim allowed by the Comptroller General under paragraph (1) shall be certified to the Secretary of the Treasury for payment from the Fund in the amount found due, including any interest relating to the amount. No claim may be allowed or paid in excess of the net proceeds of the estate deposited in the Fund under subsection (c) of this section plus interest.
+
+#### (e) Unclaimed property
+
+In the case of property delivered to the Retirement Home under section 2575 of title 10, the Directors shall deliver the property to the owner, the heirs or next of kin of the owner, or the legal representative of the owner, if a right to the property is established to the satisfaction of the Directors within two years after the delivery.
+
+(Pub. L. 101–510, div. A, title XV, §1520, Nov. 5, 1990, 104 Stat. 1731; Pub. L. 103–160, div. A, title III, §366(d), (e), Nov. 30, 1993, 107 Stat. 1631.)
+
+#### Amendments
+
+1993—Subsec. (a). Pub. L. 103–160, §366(d), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Directors of the establishments of the Retirement Home shall safeguard and dispose of the effects of a deceased person delivered to the Retirement Home under section 4712(f) or 9712(f) of title 10 and the estate and effects of a deceased resident of the Armed Forces Retirement Home as follows:
+
+&emsp;“(1) A will or other paper involving property rights shall be promptly delivered to the proper court of record.
+
+&emsp;“(2) If the heirs or legal representative of the deceased cannot sooner be ascertained, the Directors shall retain the remaining effects until three years after the death of the deceased, and then, if a right to the effects is established to the satisfaction of the Directors, shall deliver the effects to the living person highest on the following list who can be found:
+
+&emsp;&emsp;“(A) The surviving spouse or legal representative.
+
+&emsp;&emsp;“(B) A child of the deceased.
+
+&emsp;&emsp;“(C) A parent of the deceased.
+
+&emsp;&emsp;“(D) A brother or sister of the deceased.
+
+&emsp;&emsp;“(E) The next-of-kin of the deceased.
+
+&emsp;&emsp;“(F) A beneficiary named in the will of the deceased.”
+
+Subsec. (b). Pub. L. 103–160, §366(e), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows:
+
+“(1) After three years from the date of death of the deceased, the Directors may sell the effects to which a right has not been established under subsection (a) of this section (except decorations, medals, and citations) by public or private sale, as the Directors consider most advantageous.
+
+“(2) After five years from the date of death of the deceased, the Directors shall dispose of effects that were not sold under paragraph (1) (including decorations, medals, and citations) and to which a right has not been established under subsection (a) of this section. The sale shall be made in the manner that the Directors consider most appropriate in the public interest. Disposal may include—
+
+&emsp;“(A) retaining the effects for the use of the Retirement Home;
+
+&emsp;“(B) delivering the effects to the Secretary of Veterans Affairs, to a State or other military home, to a museum, or to any other appropriate institution; or
+
+&emsp;“(C) destroying the effects if the Retirement Home Board determines that they are valueless.”
+
+#### Effective Date
+
+Section applicable to estate of each resident of Armed Forces Retirement Home, including United States Soldiers’ and Airmen's Home and Naval Home, who dies after Nov. 29, 1989, see section 1541(d) of Pub. L. 101–510, set out as a note under section 401 of this title.
+

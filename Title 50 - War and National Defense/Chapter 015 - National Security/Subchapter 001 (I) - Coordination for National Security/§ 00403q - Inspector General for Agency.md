@@ -1,0 +1,132 @@
+### §403q. Inspector General for Agency
+
+#### (a) Purpose; establishment
+
+In order to—
+
+&emsp;(1) create an objective and effective office, appropriately accountable to Congress, to initiate and conduct independently inspections, investigations, and audits relating to programs and operations of the Agency;
+
+&emsp;(2) provide leadership and recommend policies designed to promote economy, efficiency, and effectiveness in the administration of such programs and operations, and detect fraud and abuse in such programs and operations;
+
+&emsp;(3) provide a means for keeping the Director fully and currently informed about problems and deficiencies relating to the administration of such programs and operations, and the necessity for and the progress of corrective actions; and
+
+&emsp;(4) in the manner prescribed by this section, ensure that the Senate Select Committee on Intelligence and the House Permanent Select Committee on Intelligence (hereafter in this section referred to collectively as the “intelligence committees”) are kept similarly informed of significant problems and deficiencies as well as the necessity for and the progress of corrective actions,
+
+> there is hereby established in the Agency an Office of Inspector General (hereafter in this section referred to as the “Office”).
+
+#### (b) Appointment; supervision; removal
+
+(1) There shall be at the head of the Office an Inspector General who shall be appointed by the President, by and with the advice and consent of the Senate. This appointment shall be made without regard to political affiliation and shall be solely on the basis of integrity, compliance with the security standards of the Agency, and prior experience in the field of foreign intelligence. Such appointment shall also be made on the basis of demonstrated ability in accounting, financial analysis, law, management analysis, public administration, or auditing.
+
+(2) The Inspector General shall report directly to and be under the general supervision of the Director.
+
+(3) The Director may prohibit the Inspector General from initiating, carrying out, or completing any audit, inspection, or investigation if the Director determines that such prohibition is necessary to protect vital national security interests of the United States.
+
+(4) If the Director exercises any power under paragraph (3), he shall submit an appropriately classified statement of the reasons for the exercise of such power within seven days to the intelligence committees. The Director shall advise the Inspector General at the time such report is submitted, and, to the extent consistent with the protection of intelligence sources and methods, provide the Inspector General with a copy of any such report. In such cases, the Inspector General may submit such comments to the intelligence committees that he considers appropriate.
+
+(5) In accordance with section 535 of title 28, the Director shall report to the Attorney General any information, allegation, or complaint received from the Inspector General, relating to violations of Federal criminal law involving any officer or employee of the Agency, consistent with such guidelines as may be issued by the Attorney General pursuant to subsection (b)(2) of such section. A copy of all such reports shall be furnished to the Inspector General.
+
+(6) The Inspector General may be removed from office only by the President. The President shall immediately communicate in writing to the intelligence committees the reasons for any such removal.
+
+#### (c) Duties and responsibilities
+
+It shall be the duty and responsibility of the Inspector General appointed under this section—
+
+&emsp;(1) to provide policy direction for, and to plan, conduct, supervise, and coordinate independently, the inspections, investigations, and audits relating to the programs and operations of the Agency to ensure they are conducted efficiently and in accordance with applicable law and regulations;
+
+&emsp;(2) to keep the Director fully and currently informed concerning violations of law and regulations, fraud and other serious problems, abuses and deficiencies that may occur in such programs and operations, and to report the progress made in implementing corrective action;
+
+&emsp;(3) to take due regard for the protection of intelligence sources and methods in the preparation of all reports issued by the Office, and, to the extent consistent with the purpose and objective of such reports, take such measures as may be appropriate to minimize the disclosure of intelligence sources and methods described in such reports; and
+
+&emsp;(4) in the execution of his responsibilities, to comply with generally accepted government auditing standards.
+
+#### (d) Semiannual reports; immediate reports of serious or flagrant problems; reports of functional problems
+
+(1) The Inspector General shall, not later than January 31 and July 31 of each year, prepare and submit to the Director of Central Intelligence a classified semiannual report summarizing the activities of the Office during the immediately preceding six-month periods ending December 31 (of the preceding year) and June 30, respectively. Within thirty days of receipt of such reports, the Director shall transmit such reports to the intelligence committees with any comments he may deem appropriate. Such reports shall, at a minimum, include a list of the title or subject of each inspection, investigation, or audit conducted during the reporting period and—
+
+&emsp;(A) a description of significant problems, abuses, and deficiencies relating to the administration of programs and operations of the Agency identified by the Office during the reporting period;
+
+&emsp;(B) a description of the recommendations for corrective action made by the Office during the reporting period with respect to significant problems, abuses, or deficiencies identified in subparagraph (A);
+
+&emsp;(C) a statement of whether corrective action has been completed on each significant recommendation described in previous semiannual reports, and, in a case where corrective action has been completed, a description of such corrective action;
+
+&emsp;(D) a certification that the Inspector General has had full and direct access to all information relevant to the performance of his functions;
+
+&emsp;(E) a description of all cases occurring during the reporting period where the Inspector General could not obtain documentary evidence relevant to any inspection, audit, or investigation due to his lack of authority to subpoena such information; and
+
+&emsp;(F) such recommendations as the Inspector General may wish to make concerning legislation to promote economy and efficiency in the administration of programs and operations undertaken by the Agency, and to detect and eliminate fraud and abuse in such programs and operations.
+
+(2) The Inspector General shall report immediately to the Director whenever he becomes aware of particularly serious or flagrant problems, abuses, or deficiencies relating to the administration of programs or operations. The Director shall transmit such report to the intelligence committees within seven calendar days, together with any comments he considers appropriate.
+
+(3) In the event that—
+
+&emsp;(A) the Inspector General is unable to resolve any differences with the Director affecting the execution of the Inspector General's duties or responsibilities;
+
+&emsp;(B) an investigation, inspection, or audit carried out by the Inspector General should focus upon the Director or Acting Director; or
+
+&emsp;(C) the Inspector General, after exhausting all possible alternatives, is unable to obtain significant documentary information in the course of an investigation, inspection, or audit, the Inspector General shall immediately report such matter to the intelligence committees.
+
+(4) Pursuant to Title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\], the Director shall submit to the intelligence committees any report or findings and recommendations of an inspection, investigation, or audit conducted by the office which has been requested by the Chairman or Ranking Minority Member of either committee.
+
+#### (e) Authorities of Inspector General
+
+(1) The Inspector General shall have direct and prompt access to the Director when necessary for any purpose pertaining to the performance of his duties.
+
+(2) The Inspector General shall have access to any employee or any employee of a contractor of the Agency whose testimony is needed for the performance of his duties. In addition, he shall have direct access to all records, reports, audits, reviews, documents, papers, recommendations, or other material which relate to the programs and operations with respect to which the Inspector General has responsibilities under this section. Failure on the part of any employee or contractor to cooperate with the Inspector General shall be grounds for appropriate administrative actions by the Director, to include loss of employment or the termination of an existing contractual relationship.
+
+(3) The Inspector General is authorized to receive and investigate complaints or information from any person concerning the existence of an activity constituting a violation of laws, rules, or regulations, or mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to the public health and safety. Once such complaint or information has been received from an employee of the Agency—
+
+&emsp;(A) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation; and
+
+&emsp;(B) no action constituting a reprisal, or threat of reprisal, for making such complaint may be taken by any employee of the Agency in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
+
+(4) The Inspector General shall have authority to administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of his duties, which oath <sup>1</sup> affirmation, or affidavit when administered or taken by or before an employee of the Office designated by the Inspector General shall have the same force and effect as if administered or taken by or before an officer having a seal.
+
+(5) The Inspector General shall be provided with appropriate and adequate office space at central and field office locations, together with such equipment, office supplies, maintenance services, and communications facilities and services as may be necessary for the operation of such offices.
+
+(6) Subject to applicable law and the policies of the Director, the Inspector General shall select, appoint and employ such officers and employees as may be necessary to carry out his functions. In making such selections, the Inspector General shall ensure that such officers and employees have the requisite training and experience to enable him to carry out his duties effectively. In this regard, the Inspector General shall create within his organization a career cadre of sufficient size to provide appropriate continuity and objectivity needed for the effective performance of his duties.
+
+(7) Subject to the concurrence of the Director, the Inspector General may request such information or assistance as may be necessary for carrying out his duties and responsibilities from any Federal agency. Upon request of the Inspector General for such information or assistance, the head of the Federal agency involved shall, insofar as is practicable and not in contravention of any existing statutory restriction or regulation of the Federal agency concerned, furnish to the Inspector General, or to an authorized designee, such information or assistance.
+
+#### (f) Separate budget account
+
+Beginning with fiscal year 1991, and in accordance with procedures to be issued by the Director of Central Intelligence in consultation with the intelligence committees, the Director of Central Intelligence shall include in the National Foreign Intelligence Program budget a separate account for the Office of Inspector General established pursuant to this section.
+
+#### (g) Transfer
+
+There shall be transferred to the Office the office of the Agency referred to as the “Office of Inspector General.” The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, or available to such “Office of Inspector General” are hereby transferred to the Office established pursuant to this section.
+
+(June 20, 1949, ch. 227, §17, as added Sept. 29, 1988, Pub. L. 100–453, title V, §504, 102 Stat. 1910; amended Nov. 30, 1989, Pub. L. 101–193, title VIII, §801, 103 Stat. 1711; Oct. 24, 1992, Pub. L. 102–496, title VI, §601, 106 Stat. 3187; Oct. 14, 1994, Pub. L. 103–359, title IV, §402, 108 Stat. 3427.)
+
+#### References in Text
+
+The National Security Act of 1947, referred to in subsec. (d)(4), is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. Title V of the Act is classified generally to subchapter III (§413 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
+
+#### Codification
+
+Section was enacted as part of the Central Intelligence Agency Act of 1949, and not as part of the National Security Act of 1947 which comprises this chapter.
+
+#### Amendments
+
+1994—Subsec. (b)(1). Pub. L. 103–359, §402(1), substituted “analysis, public administration, or auditing” for “analysis, or public administration”.
+
+Subsec. (c)(1). Pub. L. 103–359, §402(2), substituted “to plan, conduct” for “to conduct”.
+
+Subsec. (d)(1). Pub. L. 103–359, §402(3), in introductory provisions, substituted “January 31 and July 31” for “June 30 and December 31” and “periods ending December 31 (of the preceding year) and June 30, respectively” for “period” and inserted “of receipt of such reports” after “thirty days”.
+
+Subsec. (d)(3)(C). Pub. L. 103–359, §402(4), substituted “investigation, inspection, or audit,” for “investigation,”.
+
+Subsec. (d)(4). Pub. L. 103–359, §402(5), inserted “or findings and recommendations” after “report”.
+
+Subsec. (e)(6). Pub. L. 103–359, §402(6), substituted “the Inspector General shall” for “it is the sense of Congress that the Inspector General should”.
+
+1992—Subsec. (e)(3). Pub. L. 102–496, in introductory provisions, substituted “any person” for “an employee of the Agency” and inserted “from an employee of the Agency” after “received”.
+
+1989—Pub. L. 101–193 amended section generally, substituting subsecs. (a) to (g) relating to establishment of the Office of Inspector General and appointment, duties, and authority of Inspector General for introductory par. and subsecs. (a) to (e) relating to various reports to be filed with the intelligence committees byDirector of Central Intelligence concerning selection and activities of Inspector General.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 403a, 403e, 403f of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+

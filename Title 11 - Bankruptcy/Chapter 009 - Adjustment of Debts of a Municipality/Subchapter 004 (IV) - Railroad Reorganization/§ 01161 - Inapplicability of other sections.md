@@ -1,0 +1,16 @@
+### §1161. Inapplicability of other sections
+
+Sections 341, 343, 1102(a)(1), 1104, 1105, 1107, 1129(a)(7), and 1129(c) of this title do not apply in a case concerning a railroad.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2641.)
+
+#### Historical and Revision Notes
+
+I74senate report no. 95–989
+
+This section makes inapplicable sections of the bill which are either inappropriate in railroad reorganizations, or relate to matters which are otherwise dealt with in subchapter IV.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 103 of this title.
+

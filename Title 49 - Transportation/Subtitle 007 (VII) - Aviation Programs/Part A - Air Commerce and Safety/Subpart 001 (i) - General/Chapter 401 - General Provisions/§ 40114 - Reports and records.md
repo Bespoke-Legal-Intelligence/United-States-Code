@@ -1,0 +1,80 @@
+### §40114. Reports and records
+
+(a)
+
+Written Reports.—(1) Except as provided in this part, the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) shall make a written report of each proceeding and investigation under this part in which a formal hearing was held and shall provide a copy to each party to the proceeding or investigation. The report shall include the decision, conclusions, order, and requirements of the Secretary or Administrator as appropriate.
+
+(2) The Secretary (or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator) shall have all reports, orders, decisions, and regulations the Secretary or Administrator, as appropriate, issues or prescribes published in the form and way best adapted for public use. A publication of the Secretary or Administrator is competent evidence of its contents.
+
+(b)
+
+Public Records.—Except as provided in subpart II of this part, copies of tariffs and arrangements filed with the Secretary under subpart II, and the statistics, tables, and figures contained in reports made to the Secretary under subpart II, are public records. The Secretary is the custodian of those records. A public record, or a copy or extract of it, certified by the Secretary under the seal of the Department of Transportation is competent evidence in an investigation by the Secretary and in a judicial proceeding.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1110.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+40114(a)(1)
+
+49 App.:1324(d) (1st, 2d sentences).
+
+Aug. 23, 1958, Pub. L. 85–726, §§204(d), 313(b), 1103, 72 Stat. 743, 753, 797.
+
+&nbsp;
+
+49 App.:1354(b) (1st, 2d sentences).
+
+&nbsp;
+
+49 App.:1551(b) (1)(E).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
+
+40114(a)(2)
+
+49 App.:1324(d) (3d, last sentences).
+
+&nbsp;
+
+49 App.:1354(b) (3d, last sentences).
+
+&nbsp;
+
+49 App.:1551(b) (1)(E).
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+40114(b)
+
+49 App.:1503.
+
+&nbsp;
+
+49 App.:1551(b) (1)(E).
+
+In subsection (a), the word “Administrator” in section 313(b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 753) is retained on authority of 49:106(g).
+
+In subsection (a)(1), the words “otherwise”, “requirement in the premises”, and “shall be entered of record” are omitted as surplus.
+
+In subsection (a)(2), the word “rules” is omitted as being synonymous with “regulations”. The word “prescribes” is added for consistency in the revised title and with other titles of the United States Code. The words “under this chapter” and “information and” are omitted as surplus. The words “A publication of the Secretary or Administrator is competent evidence of its contents” is substituted for 49 App.:1324(d) (last sentence) to eliminate unnecessary words and for consistency.
+
+In subsection (b), the words “otherwise”, “all contracts, agreements, understandings, and”, “annual or other”, “of air carriers and other persons”, and “preserved as” are omitted as surplus. The last sentence is substituted for 49 App.:1503 (words after 7th comma) to eliminate unnecessary words and for consistency.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 106 of this title.
+

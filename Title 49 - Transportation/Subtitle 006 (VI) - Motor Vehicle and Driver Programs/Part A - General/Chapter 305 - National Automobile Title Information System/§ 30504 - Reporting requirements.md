@@ -1,0 +1,70 @@
+### §30504. Reporting requirements
+
+(a)
+
+Junk Yard and Salvage Yard Operators.—(1) Beginning at a time established by the Secretary of Transportation that is not sooner than the 3d month before the establishment or designation of the National Automobile Title Information System under section 30502 of this title, an individual or entity engaged in the business of operating a junk yard or salvage yard shall file a monthly report with the operator of the System. The report shall contain an inventory of all junk automobiles or salvage automobiles obtained by the junk yard or salvage yard during the prior month. The inventory shall contain—
+
+&emsp;(A) the vehicle identification number of each automobile obtained;
+
+&emsp;(B) the date on which the automobile was obtained;
+
+&emsp;(C) the name of the individual or entity from whom the automobile was obtained; and
+
+&emsp;(D) a statement of whether the automobile was crushed or disposed of for sale or other purposes.
+
+(2) Paragraph (1) of this subsection does not apply to an individual or entity—
+
+&emsp;(A) required by State law to report the acquisition of junk automobiles or salvage automobiles to State or local authorities if those authorities make that information available to the operator; or
+
+&emsp;(B) issued a verification under section 33110 of this title stating that the automobile or parts from the automobile are not reported as stolen.
+
+(b)
+
+Insurance Carriers.—Beginning at a time established by the Secretary that is not sooner than the 3d month before the establishment or designation of the System, an individual or entity engaged in business as an insurance carriershall file a monthly report with the operator. The report may be filed directly or through a designated agent. The report shall contain an inventory of all automobiles of the current model year or any of the 4 prior model years that the carrier, during the prior month, has obtained possession of and has decided are junk automobiles or salvage automobiles. The inventory shall contain—
+
+&emsp;(1) the vehicle identification number of each automobile obtained;
+
+&emsp;(2) the date on which the automobile was obtained;
+
+&emsp;(3) the name of the individual or entity from whom the automobile was obtained; and
+
+&emsp;(4) the name of the owner of the automobile at the time of the filing of the report.
+
+(c)
+
+Procedures and Practices.—The Secretary shall establish by regulation procedures and practices to facilitate reporting in the least burdensome and costly fashion.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 982.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+30504(a)
+
+15:2044(a).
+
+Oct. 25, 1992, Pub. L. 102–519, §204(a), (b), (d), 106 Stat. 3392, 3393.
+
+30504(b)
+
+15:2044(b).
+
+30504(c)
+
+15:2044(d).
+
+In subsections (a)(1), before clause (A), the words “Beginning at a time established by the Secretary of Transportation that is not sooner than the 3d month before the establishment or designation of” are substituted for “Beginning at a time determined by the Secretary, but no earlier than 3 months prior to the establishment of” for clarity and consistency with the source provisions restated in section 30502 of the revised title. The words “engaged in the business” are substituted for “in the business” for consistency in the revised chapter. The words “junk yard or salvage yard” are substituted for “automobile junk yard or automobile salvage yard” because of the definitions of “junk yard” and “salvage yard” in section 30501 of the revised title. The words “with the operator of the System” are substituted for “with the operator” for clarity. In clauses (A), (C), and (D), the words “each automobile” are substituted for “each vehicle”, and the words “the automobile” are substituted for “the vehicle”, for consistency in the revised title.
+
+In subsection (a)(2)(B), the word “automobile” is substituted for “vehicle” for consistency in the revised title.
+
+In subsections (b), before clause (1), the words “Beginning at a time established by the Secretary that is not sooner than the 3d month before the establishment or designation of” are substituted for “Beginning at a time determined by the Secretary, but no earlier than 3 months prior to the establishment of” for clarity and consistency with the source provisions restated in section 30502 of the revised title. In clauses (1), (3), and (4), the words “each automobile” are substituted for “each vehicle”, and the words “the automobile” are substituted for “the vehicle”, for consistency in the revised title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 30502 of this title.
+

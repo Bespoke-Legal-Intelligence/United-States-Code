@@ -1,0 +1,42 @@
+### §3072 . Judge Advocate General's Corps
+
+There is a Judge Advocate General's Corps in the Army. The Judge Advocate General's Corps consists of—
+
+&emsp;(1) the Judge Advocate General;
+
+&emsp;(2) the Assistant Judge Advocate General;
+
+&emsp;(3) three officers in the grade of brigadier general;
+
+&emsp;(4) commissioned officers of the Regular Army appointed therein; and
+
+&emsp;(5) other members of the Army assigned thereto by the Secretary of the Army.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 169.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+3072
+
+10:61–1 (1st sentence, less applicability to strength).
+
+June 28, 1950, ch. 383, §308 (1st sentence, less applicability to strength), 64 Stat. 270.
+
+The words “authorized by sections 21f and 21h, respectively, of this title” are omitted as surplusage. The word “grade” is substituted for the word “rank”. The words “but the Secretary shall not assign to the Judge Advocate General's Corps any officer who has been appointed and commissioned in some other special branch or in the Regular Army without specification of branch” are omitted as covered by section 3064 of this title.
+
+#### Cross References
+
+Appointment and duties of Judge Advocate General, see section 3036 of this title.
+
+Secretary of the Army—
+
+&emsp;&emsp;Authority to assign, detail, and prescribe duties of members of the Army, see section 3013 of this title.
+
+&emsp;&emsp;Prohibition against assignment of officer of Regular Army to Corps, see section 3064 of this title.
+

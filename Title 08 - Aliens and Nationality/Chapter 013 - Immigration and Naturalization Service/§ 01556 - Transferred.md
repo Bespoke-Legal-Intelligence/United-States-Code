@@ -1,0 +1,6 @@
+### §1556. Transferred
+
+#### Codification
+
+Section transferred to section 1353d of this title.
+

@@ -1,0 +1,160 @@
+### §342. Adulterated food
+
+A food shall be deemed to be adulterated—
+
+#### (a) Poisonous, insanitary, etc., ingredients
+
+(1) If it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance is not an added substance such food shall not be considered adulterated under this clause if the quantity of such substance in such food does not ordinarily render it injurious to health.<sup>1</sup> (2)(A) if it bears or contains any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; (iii) a color additive; or (iv) a new animal drug) which is unsafe within the meaning of section 346 of this title, or (B) if it is a raw agricultural commodity and it bears or contains a pesticide chemical which is unsafe within the meaning of section 346a(a) of this title, or (C) if it is, or if it bears or contains, any food additive which is unsafe within the meaning of section 348 of this title: <i>Provided</i>, That where a pesticide chemical has been used in or on a raw agricultural commodity in conformity with an exemption granted or a tolerance prescribed under section 346a of this title and such raw agricultural commodity has been subjected to processing such as canning, cooking, freezing, dehydrating, or milling, the residue of such pesticide chemical remaining in or on such processed food shall, notwithstanding the provisions of sections 346 and 348 of this title, not be deemed unsafe if such residue in or on the raw agricultural commodity has been removed to the extent possible in good manufacturing practice and the concentration of such residue in the processed food when ready to eat is not greater than the tolerance prescribed for the raw agricultural commodity, or (D) if it is, or it bears or contains, a new animal drug (or conversion product thereof) which is unsafe within the meaning of section 360b of this title; (3) If <sup>2</sup> it consists in whole or in part of any filthy, putrid, or decomposed substance, or if it is otherwise unfit for food; or (4) if it has been prepared, packed, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health; or (5) if it is, in whole or in part, the product of a diseased animal or of an animal which has died otherwise than by slaughter; or (6) if its container is composed, in whole or in part, of any poisonous or deleterious substance which may render the contents injurious to health; or (7) if it has been intentionally subjected to radiation, unless the use of the radiation was in conformity with a regulation or exemption in effect pursuant to section 348 of this title.
+
+#### (b) Absence, substitution, or addition of constituents
+
+(1) If any valuable constituent has been in whole or in part omitted or abstracted therefrom; or (2) if any substance has been substituted wholly or in part therefor; or (3) if damage or inferiority has been concealed in any manner; or (4) if any substance has been added thereto or mixed or packed therewith so as to increase its bulk or weight, or reduce its quality or strength, or make it appear better or of greater value than it is.
+
+#### (c) Color additives
+
+If it is, or it bears or contains, a color additive which is unsafe within the meaning of section 379e(a) of this title.
+
+#### (d) Confectionery containing alcohol or nonnutritive substance
+
+If it is confectionery, and—
+
+&emsp;(1) has partially or completely imbedded therein any nonnutritive object, except that this subparagraph shall not apply in the case of any nonnutritive object if, in the judgment of the Secretary as provided by regulations, such object is of practical functional value to the confectionery product and would not render the product injurious or hazardous to health;
+
+&emsp;(2) bears or contains any alcohol other than alcohol not in excess of one-half of 1 per centum by volume derived solely from the use of flavoring extracts, except that this clause shall not apply to confectionery which is introduced or delivered for introduction into, or received or held for sale in, interstate commerce if the sale of such confectionery is permitted under the laws of the State in which such confectionery is intended to be offered for sale;
+
+&emsp;(3) bears or contains any nonnutritive substance, except that this subparagraph shall not apply to a safe nonnutritive substance which is in or on confectionery by reason of its use for some practical functional purpose in the manufacture, packaging, or storage of such confectionery if the use of the substance does not promote deception of the consumer or otherwise result in adulteration or misbranding in violation of any provision of this chapter, except that the Secretary may, for the purpose of avoiding or resolving uncertainty as to the application of this subparagraph, issue regulations allowing or prohibiting the use of particular nonnutritive substances.
+
+#### (e) Oleomargarine containing filthy, putrid, etc., matter
+
+If it is oleomargarine or margarine or butter and any of the raw material used therein consisted in whole or in part of any filthy, putrid, or decomposed substance, or such oleomargarine or margarine or butter is otherwise unfit for food.
+
+#### (f) Dietary supplement or ingredient: safety
+
+(1) If it is a dietary supplement or contains a dietary ingredient that—
+
+&emsp;(A) presents a significant or unreasonable risk of illness or injury under—
+
+&emsp;&emsp;(i) conditions of use recommended or suggested in labeling, or
+
+&emsp;&emsp;(ii) if no conditions of use are suggested or recommended in the labeling, under ordinary conditions of use;
+
+&emsp;(B) is a new dietary ingredient for which there is inadequate information to provide reasonable assurance that such ingredient does not present a significant or unreasonable risk of illness or injury;
+
+&emsp;(C) the Secretary declares to pose an imminent hazard to public health or safety, except that the authority to make such declaration shall not be delegated and the Secretary shall promptly after such a declaration initiate a proceeding in accordance with sections 554 and 556 of title 5 to affirm or withdraw the declaration; or
+
+&emsp;(D) is or contains a dietary ingredient that renders it adulterated under paragraph (a)(1) under the conditions of use recommended or suggested in the labeling of such dietary supplement.
+
+> In any proceeding under this subparagraph, the United States shall bear the burden of proof on each element to show that a dietary supplement is adulterated. The court shall decide any issue under this paragraph on a de novo basis.
+
+(2) Before the Secretary may report to a United States attorney a violation of paragraph <sup>3</sup> (1)(A) for a civil proceeding, the person against whom such proceeding would be initiated shall be given appropriate notice and the opportunity to present views, orally and in writing, at least 10 days before such notice, with regard to such proceeding.
+
+#### (g) Dietary supplement: manufacturing practices
+
+(1) If it is a dietary supplement and it has been prepared, packed, or held under conditions that do not meet current good manufacturing practice regulations, including regulations requiring, when necessary, expiration date labeling, issued by the Secretary under subparagraph (2).
+
+(2) The Secretary may by regulation prescribe good manufacturing practices for dietary supplements. Such regulations shall be modeled after current good manufacturing practice regulations for food and may not impose standards for which there is no current and generally available analytical methodology. No standard of current good manufacturing practice may be imposed unless such standard is included in a regulation promulgated after notice and opportunity for comment in accordance with chapter 5 of title 5.
+
+(June 25, 1938, ch. 675, §402, 52 Stat. 1046; Mar. 16, 1950, ch. 61, §3(d), 64 Stat. 21; July 22, 1954, ch. 559, §2, 68 Stat. 511; July 9, 1956, ch. 530, 70 Stat. 512; Sept. 6, 1958, Pub. L. 85–929, §3(a), (b), 72 Stat. 1784; Mar. 17, 1959, Pub. L. 86–2, 73 Stat. 3; July 12, 1960, Pub. L. 86–618, title I, §§102(a)(1), (2), 105(c), 74 Stat. 397, 398, 404; June 29, 1966, Pub. L. 89–477, 80 Stat. 231; July 13, 1968, Pub. L. 90–399, §104, 82 Stat. 352; Feb. 27, 1986, Pub. L. 99–252, §10, 100 Stat. 35; Oct. 29, 1992, Pub. L. 102–571, title I, §107(4), 106 Stat. 4499; Aug. 13, 1993, Pub. L. 103–80, §3(i), 107 Stat. 776; Oct. 25, 1994, Pub. L. 103–417, §§4, 9, 108 Stat. 4328, 4332.)
+
+#### Amendments
+
+1994—Par. (f). Pub. L. 103–417, §4, added par. (f).
+
+Par. (g). Pub. L. 103–417, §9, added par. (g).
+
+1993—Par. (a). Pub. L. 103–80, §3(i)(1), substituted a period for “; or” at end of subpar. (1) and “If it” for “if it” at beginning of par. (3). That part of Pub. L. 103–80, §3(i)(1), which directed the substitution of a period for “; or” at end of subpar. (2) could not be executed because “; or” did not appear.
+
+Par. (d)(1). Pub. L. 103–80, §3(i)(2), substituted “, except that this subparagraph” for “: <i>Provided</i>, That this clause”.
+
+Par. (d)(3). Pub. L. 103–80, §3(i)(3), substituted “, except that this subparagraph shall not apply” for “: <i>Provided</i>, That this clause shall not apply” and “, except that the Secretary may, for the purpose of avoiding or resolving uncertainty as to the application of this subparagraph” for “: <i>And provided further</i>, That the Secretary may, for the purpose of avoiding or resolving uncertainty as to the application of this clause”.
+
+1992—Par. (c). Pub. L. 102–571 substituted “379e(a)” for “376(a)”.
+
+1986—Par. (d)(2). Pub. L. 99–252 inserted provision that this clause not apply to confectionery introduced or delivered for introduction into or received or held for sale in, interstate commerce if the sale is permitted under the laws of the State in which the confectionery is intended to be offered for sale.
+
+1968—Par. (a)(2). Pub. L. 90–399 added cls. (A)(iv) and (D).
+
+1966—Par. (d). Pub. L. 89–477 permitted the imbedding of nonnutritive objects in confectionery foods if in the judgment of the Secretary of Health, Education, and Welfare, as provided by regulation, the imbedding of the object is of practical functional value to the confectionery product and would not render it injurious or hazardous to health, raised to one-half of 1 per centum by volume the upper limit for the allowable use of alcohol derived solely from the use of flavoring extracts, allowed the use of safe nonnutritive substances in and on confectionery foods by reason of their use for some practical and functional purpose in the manufacture, packaging, or storage of the confectionery foods if the use of the substances does not promote deception of the consumer or otherwise result in adulteration or misbranding, authorized the Secretary to issue regulations on the use of particular nonnutritive substances, and removed reference to nonnutritive masticatory substances added to chewing gum and harmless flavoring, harmless resinous glaze not in excess of four-tenths of 1 per centum, natural gum, authorized coloring, and pectin.
+
+1960—Par. (a). Pub. L. 86–618, §102(a)(1), substituted “other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive” for “(except a pesticide chemical in or on a raw agricultural commodity and except a food additive)” in cl. (2)(A).
+
+Par. (c). Pub. L. 86–618, §102(a)(2), amended par. (c) generally, substituting provisions deeming a food adulterated if it is, or it bears or contains, a color additive which is unsafe within the meaning of section 376 of this title for provisions which related to food that bears or contains a coal-tar color other than one from a batch that has been certified in accordance with regulations as provided by section 346 of this title, and struck out provisos which related to the use of color on oranges.
+
+Par. (d). Pub. L. 86–618, §105(c), substituted “authorized coloring” for “harmless coloring”.
+
+1959—Par. (c). Pub. L. 86–2 extended from Mar. 1, 1959, to May 1, 1959, the period during which subsection is inapplicable to oranges which have been colored with F.D. \& C. Red 32, and inserted proviso requiring Secretary to establish regulations prescribing the conditions under which Citrus Red No. 2 may be safely used in coloring certain mature oranges, and providing for separately listing and for certification of batches of such color.
+
+1958—Par. (a). Pub. L. 85–929, among other changes, inserted cl. (2)(C) relating to food additive unsafe within the meaning of section 348 of this title, and to pesticide chemical, and added cl. (7) relating to radiated food.
+
+1956—Par. (c). Act July 9, 1956, inserted second proviso relating to coloring of oranges.
+
+1954—Par. (a)(2). Act July 22, 1954, provided in the case of any raw agricultural commodity bearing or containing a pesticide chemical, that such commodity shall be deemed to be adulterated if such pesticide chemical is unsafe within the meaning of section 346a of this title.
+
+1950—Par. (e). Act Mar. 16, 1950, added par. (e).
+
+#### Effective Date of 1968 Amendment
+
+Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, see section 108(a) of Pub. L. 90–399, set out as an Effective Date and Transitional Provisions note under section 360b of this title.
+
+#### Effective Date of 1960 Amendment
+
+Amendment by Pub. L. 86–618 effective July 12, 1960, subject to the provisions of section 203 of Pub. L. 86–618, see section 202 of Pub. L. 86–618, set out as a note under section 379e of this title.
+
+#### Effective Date of Nematocide, Plant Regulator, Defoliant, and Desiccant Amendment of 1959
+
+Effective date of par. (a)(2) as in force prior to July 22, 1954, with respect to particular commercial use of a nematocide, plant regulator, defoliant, or desiccant in or on a raw agricultural commodity made before Jan. 1, 1958, see section 3(b) of Pub. L. 86–139, Aug. 7, 1959, 73 Stat. 288.
+
+#### Effective Date of 1958 Amendment
+
+Section 6 of Pub. L. 85–929, as amended by Pub. L. 87–19, §2, Apr. 7, 1961, 75 Stat. 42; Pub. L. 88–625, §2, Oct. 3, 1964, 78 Stat. 1002, provided that:
+
+“(a) Except as provided in subsections (b) and (c) of this section, this Act \[amending this section, sections 321, 331, 346, and 348 of this title, and section 210 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 321 and 451 of this title\] shall take effect on the date of its enactment \[Sept. 6, 1958\].
+
+“(b) Except as provided in subsection (c) of this section, section 3 of this Act \[amending this section and section 346 of this title\] shall take effect on the one hundred and eightieth day after the date of enactment of this Act \[Sept. 6, 1958\].
+
+“(c) With respect to any particular commercial use of a food additive, if such use was made of such additive before January 1, 1958, section 3 of this Act \[amending this section and section 346 of this title\] shall take effect—
+
+&emsp;“(1) Either (A) one year after the effective date established in subsection (b) of this section, or (B) at the end of such additional period (but not later than two years from such effective date established in subsection (b)) as the Secretary of Health, Education, and Welfare \[now Health and Human Services\] may prescribe on the basis of a finding that such extension involves no undue risk to the public health and that conditions exist which necessitate the prescribing of such an additional period, or
+
+&emsp;“(2) on the date on which an order with respect to such use under section 409 of the Federal Food, Drug, and Cosmetic Act \[section 348 of this title\] becomes effective,
+
+> whichever date first occurs. Whenever the Secretary has, pursuant to clause (1)(B) of this subsection, extended the effective date of section 3 of this Act \[amending this section\] to March 5, 1961, or has on that date a request for such extension pending before him, with respect to any such particular use of a food additive, he may, notwithstanding the parenthetical time limitation in that clause, further extend such effective date, not beyond June 30, 1964, under the authority of that clause (but subject to clause (2)) with respect to such use of the additive (or a more limited specified use or uses thereof) if, in addition to making the findings required by clause (1)(B), he finds (i) that bona fide action to determine the applicability of such section 409 \[section 348 of this title\] to such use or uses, or to develop the scientific data necessary for action under such section, was commenced by an interested person before March 6, 1960, and was thereafter pursued with reasonable diligence, and (ii) that in the Secretary's judgment such extension is consistent with the objective of carrying to completion in good faith, as soon as reasonably practicable, the scientific investigations necessary as a basis for action under such section 409 \[section 348 of this title\]: <i>Provided</i>, That if the Secretary has, pursuant to this sentence, granted an extension to June 30, 1964, he may, upon making the findings required by clause (1)(B) of this subsection and clauses (i) and (ii) of this sentence, further extend such effective date, but not beyond December 31, 1965. The Secretary may at any time terminate an extension so granted if he finds that it should not have been granted, or that by reason of a change in circumstances the basis for such extension no longer exists, or that there has been a failure to comply with a requirement for submission of progress reports or with other conditions attached to such extension.”
+
+#### Effective Date of 1954 Amendment
+
+Section 5 of act July 22, 1954, provided that: “This Act \[amending this section and section 321 of this title and enacting sections 346a and 346b of this title\] shall take effect upon the date of its enactment \[July 22, 1954\], except that with respect to pesticide chemicals for which tolerances or exemptions have not been established under section 408 of the Federal Food, Drug, and Cosmetic Act \[section 346a of this title\], the amendment to section 402(a) of such Act \[par. (a) of this section\] made by section 2 of this Act shall not be effective—
+
+&emsp;“(1) for the period of one year following the date of the enactment of this Act \[July 22, 1954\]; or
+
+&emsp;“(2) for such additional period following such period of one year, but not extending beyond two years after the date of the enactment of this Act \[July 22, 1954\] as the Secretary of Health, Education, and Welfare \[now Health and Human Services\] may prescribe on the basis of a finding that conditions exist which necessitate the prescribing of such additional period.”
+
+#### Effective Date of 1950 Amendment
+
+Amendment by act Mar. 16, 1950, effective July 1, 1950, see section 7 of act Mar. 16, 1950, set out as an Effective Date note under section 347 of this title.
+
+#### Effective Date; Postponement
+
+Par. (c) effective Jan. 1, 1940, see act June 23, 1939, ch. 242, 53 Stat. 853, set out as an Effective Date; Postponement in Certain Cases note under section 301 of this title.
+
+#### Short Title
+
+Pub. L. 88–625, §1, Oct. 3, 1964, 78 Stat. 1002, provided: “That this Act \[amending provisions set out as a note under this section and section 135 of Title 7, Agriculture\] may be cited as the ‘Food Additives Transitional Provisions Amendment of 1964’.”
+
+#### Transfer of Functions
+
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
+
+#### Cross References
+
+Appropriations for establishing tolerances for pesticide chemicals, see section 346b of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 321, 334, 346, 346a, 346b, 347b, 348, 350a, 350b, 360b, 379e of this title.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be “; or”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “or (3) if”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+

@@ -1,0 +1,128 @@
+### §1484. Insurance of loans for housing and related facilities for domestic farm labor
+
+#### (a) Authorization; terms and conditions
+
+The Secretary is authorized to insure and make commitments to insure loans made by lenders other than the United States to the owner of any farm or any association of farmers for the purpose of providing housing and related facilities for domestic farm labor, or to any Indian tribe for such purpose, or to any State (or political subdivision thereof), or any broad-based public or private nonprofit organization or any nonprofit organization of farmworkers incorporated within the State for the purpose of providing housing and related facilities for domestic farm labor any place within the State where a need exists. All such loans shall be made in accordance with terms and conditions substantially identical with those specified in section 1472 of this title, except that—
+
+&emsp;(1) no such loan shall be insured in an amount in excess of the value of the farm involved less any prior liens in the case of a loan to an individual owner of a farm, or the total estimated value of the structures and facilities with respect to which the loan is made in the case of any other loan;
+
+&emsp;(2) no such loan shall be insured if it bears interest at a rate in excess of 1 per centum per annum;
+
+&emsp;(3) out of interest payments by the borrower the Secretary shall retain a charge in an amount not less than one-half of 1 per centum per annum of the unpaid principal balance of the loan;
+
+&emsp;(4) the insurance contracts and agreements with respect to any loan may contain provisions for servicing the loan by the Secretary or by the lender, and for the purchase by the Secretary of the loan if it is not in default, onsuch terms and conditions as the Secretary may prescribe; and
+
+&emsp;(5) the Secretary may take mortgages creating a lien running to the United States for the benefit of the insurance fund referred to in subsection (b) of this section notwithstanding the fact that the note may be held by the lender or his assignee.
+
+#### (b) Utilization of farm tenant mortgage insurance fund; additions to and deposits in fund; deposits in Treasury
+
+The Secretary shall utilize the insurance fund created by section 1005a of title 7 <sup>1</sup> and the provisions of section 1005c(a), (b), and (c) of title 7 <sup>1</sup> to discharge obligations under insurance contracts made pursuant to this section, and
+
+&emsp;(1) the Secretary may utilize the insurance fund to pay taxes, insurance, prior liens, and other expenses to protect the security for loans which have been insured hereunder and to acquire such security property at foreclosure sale or otherwise;
+
+&emsp;(2) the notes and security therefor acquired by the Secretary under insurance contracts made pursuant to this section shall become a part of the insurance fund. Loans insured under this section may be held in the fund and collected in accordance with their terms or may be sold and reinsured. All proceeds from such collections, including the liquidation of security and the proceeds of sales, shall become a part of the insurance fund; and
+
+&emsp;(3) of the charges retained by the Secretary out of interest payments by the borrower, amounts not less than one-half of 1 per centum per annum of the unpaid principal balance of the loan shall be deposited in and become a part of the insurance fund. The remainder of such charges shall be deposited in the Treasury of the United States and shall be available for administrative expenses of the Farmers Home Administration, to be transferred annually to and become merged with any appropriation for such expenses.
+
+#### (c) Insurance contract; obligation of United States; incontestability
+
+Any contract of insurance executed by the Secretary under this section shall be an obligation of the United States and incontestable except for fraud or misrepresentation of which the holder of the contract has actual knowledge.
+
+#### (d) Repealed. Pub. L. 96–153, title V, §501(b), Dec. 21, 1979, 93 Stat. 1133
+
+#### (e) Administrative expenses
+
+Amounts made available pursuant to section 1483 of this title shall be available for administrative expenses incurred under this section.
+
+#### (f) Definitions
+
+As used in this section—
+
+&emsp;(1) the term “housing” means (A) new structures (including household furnishings) suitable for dwelling use by domestic farm labor, and (B) existing structures (including household furnishings) which can be made suitable for dwelling use by domestic farm labor by rehabilitation, alteration, conversion, or improvement;
+
+&emsp;(2) the term “related facilities” means (A) new structures (including household furnishings) suitable for use as dining halls, community rooms or buildings, or infirmaries, or for other essential services facilities, and (B) existing structures (including household furnishings) which can be made suitable for the above uses by rehabilitation, alteration, conversion, or improvement and (C) land necessary for an adequate site; and
+
+&emsp;(3) the term “domestic farm labor” means any person (and the family of such person) who receives a substantial portion of his or her income from primary production of agricultural or aquacultural commodities or the handling of such commodities in the unprocessed stage, without respect to the source of employment, except that—
+
+&emsp;&emsp;(A) such person shall be a citizen of the United States or a person legally admitted for permanent residence;
+
+&emsp;&emsp;(B) such term includes any person (and the family of such person) who is retired or disabled, but who was domestic farm labor at the time of retirement or becoming disabled; and
+
+&emsp;&emsp;(C) in applying this paragraph with respect to vacant units in farm labor housing, the Secretary shall make units available for occupancy in the following order of priority:
+
+&emsp;&emsp;&emsp;(i) to active farm laborers (and their families);
+
+&emsp;&emsp;&emsp;(ii) to retired or disabled farm laborers (and their families) who were active in the local farm labor market at the time of retiring or becoming disabled; and
+
+&emsp;&emsp;&emsp;(iii) to other retired or disabled farm laborers (and their families).
+
+#### (g) Waiver of interest rate limitations
+
+The Secretary may waive the interest rate limitation contained in subsection (a)(2) of this section and the requirement of section 1471(c)(3) of this title in any case in which the Secretary determines that qualified public or private nonprofit sponsors are not currently available and are not likely to become available within a reasonable period of time and such waiver is necessary to permit farmers to provide housing and related facilities for migrant domestic farm laborers, except that the benefits resulting from such waiver shall accrue to the tenants, and the interest rate on a loan insured under this section and for which the Secretary permits such waiver shall be no less than one-eighth of 1 per centum above the average interest rate on notes or other obligations which are issued under section 1481 of this title and have maturities comparable to such a loan.
+
+#### (h) Determination of need for assistance
+
+In making available assistance in any area under this section or section 1486 of this title, the Secretary shall—
+
+&emsp;(1) in determining the need for the assistance, take into consideration the housing needs only of domestic farm labor, including migrant farmworkers, in the area; and
+
+&emsp;(2) in determining whether to provide such assistance, make such determination withoutregard to the extent or nature of other housing needs in the area.
+
+#### (i) Domestic farm labor housing available for other families
+
+Housing and related facilities constructed with loans under this section may be used for tenants eligible for occupancy under section 1485 of this title if the Secretary determines that—
+
+&emsp;(1) there is no longer a need in the area for farm labor housing; or
+
+&emsp;(2) the need for such housing in the area has diminished to the extent that the purpose of the loan, providing housing for domestic farm labor, can no longer be met.
+
+(July 15, 1949, ch. 338, title V, §514, as added June 30, 1961, Pub. L. 87–70, title VIII, §804(a), 75 Stat. 186; amended Sept. 2, 1964, Pub. L. 88–560, title V, §502, 78 Stat. 796; Aug. 1, 1968, Pub. L. 90–448, title X, §1004, 82 Stat. 553; Dec. 31, 1970, Pub. L. 91–609, title VIII, §801(a)–(c), 84 Stat. 1805, 1806; Oct. 12, 1977, Pub. L. 95–128, title V, §505, 91 Stat. 1140; Oct. 31, 1978, Pub. L. 95–557, title V, §§501(d), 504, 92 Stat. 2111, 2112; Dec. 21, 1979, Pub. L. 96–153, title V, §501(b), 93 Stat. 1133; Oct. 8, 1980, Pub. L. 96–399, title V, §507(b), 94 Stat. 1670; Nov. 30, 1983, Pub. L. 98–181, title V, §510, 97 Stat. 1243; Feb. 5, 1988, Pub. L. 100–242, title III, §§305(a), 316(b), 101 Stat. 1895, 1897; Nov. 7, 1988, Pub. L. 100–628, title X, §1043(a), 102 Stat. 3273.)
+
+#### References in Text
+
+Sections 1005a and 1005c(a), (b), and (c) of title 7, referred to in subsec. (b), were repealed by section 341(a) of Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 318 (set out as a note under section 1921 of Title 7, Agriculture), which also provided that references in other laws to the Bankhead-Jones Farm Tenant Act shall be construed as referring to appropriate provisions of section 1921 et seq. of Title 7. The fund established pursuant to section 1005a of Title 7 was renamed the Agricultural Credit Insurance Fund. See section 1929 of Title 7.
+
+#### Codification
+
+Another section 801(b) of Pub. L. 91–609 amended section 1460(c)(1) of this title.
+
+#### Amendments
+
+1988—Subsec. (f)(1). Pub. L. 100–242, §316(b), struck out “and” at end.
+
+Subsec. (f)(3). Pub. L. 100–242, §305(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the term ‘domestic farm labor’ means persons who receive a substantial portion (as determined by the Secretary) of their income as laborers on farms situated in the United States, Puerto Rico, or the Virgin Islands and either (A) are citizens of the United States, or (B) reside in the United States, Puerto Rico, or the Virgin Islands after being legally admitted for permanent residence therein.”
+
+Subsec. (i). Pub. L. 100–628 added subsec. (i).
+
+1983—Subsec. (h). Pub. L. 98–181 added subsec. (h).
+
+1980—Subsec. (a). Pub. L. 96–399 inserted reference to Indian tribe.
+
+1979—Subsec. (d). Pub. L. 96–153 repealed subsec. (d) which provided for a maximum of $38,000,000 for the aggregate amount of principal obligations of loans insured under this section.
+
+1978—Subsec. (d). Pub. L. 95–557, §501(d), substituted “$38,000,000 (subject to approval in an appropriation Act)” for “$25,000,000”.
+
+Subsec. (g). Pub. L. 95–557, §504, added subsec. (g).
+
+1977—Subsec. (f)(3). Pub. L. 95–128 extended definition of “domestic farm labor” to include laborers on farms situated in Puerto Rico and the Virgin Islands and the residents of the islands after being legally admitted for permanent residence.
+
+1970—Subsec. (a). Pub. L. 91–609, §801(a), authorized insurance of loans to broad-based nonprofit organizations and nonprofit organizations of farmworkers incorporated within the State and provided for housing and related facilities for domestic farm labor any place within the State where need exists.
+
+Subsec. (a)(2). Pub. L. 91–609, §801(b), substituted “1” for “5” per centum.
+
+Subsec. (f)(1), (2). Pub. L. 91–609, §801(c), substituted “structures (including household furnishings)” for “structures” in cls. (A) and (B).
+
+1968—Subsec. (f)(2). Pub. L. 90–448 included land necessary for an adequate site within the definition of “related facilities”.
+
+1964—Subsec. (f)(3). Pub. L. 88–560 included residents of the United States after being legally admitted for permanent residence.
+
+#### Cross References
+
+Agricultural Credit Insurance Fund as designation for farm tenant insurance fund, see section 1929 of Title 7, Agriculture.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1472, 1479, 1480, 1483, 1486, 1487, 1490a, 1490j, 4851b, 8011 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

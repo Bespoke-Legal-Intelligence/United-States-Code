@@ -1,0 +1,34 @@
+### §2002. Reports
+
+#### (a) Submission
+
+Not later than one year after January 14, 1986, and each five years thereafter, the Secretary of the Interior, in consultation with the Secretary of State, shall submit to the Congress and the President a report on United States noncontiguous Pacific areas policy together with such recommendations as may be necessary to accomplish the objectives of such policy.
+
+#### (b) Contents
+
+The reports required in subsection (a) of this section shall set forth clearly defined policies regarding United States, and United States associated, noncontiguous Pacific areas, including—
+
+&emsp;(1) the role of and impacts on the noncontiguous Pacific areas in the formulation and conduct of foreign policy;
+
+&emsp;(2) the applicability of standards contained in Federal laws, regulations, and programs to the noncontiguous Pacific areas and any modifications which may be necessary to achieve the intent of such laws, regulations, and programs consistent with the unique character of the noncontiguous Pacific areas;
+
+&emsp;(3) the effectiveness of the Federal executive organizational arrangements for—
+
+&emsp;&emsp;(A) providing liaison between the Federal Government and the governments of the noncontiguous Pacific areas;
+
+&emsp;&emsp;(B) coordinating Federal actions in a manner which recognizes the unique circumstances and needs of the noncontiguous Pacific areas; and
+
+&emsp;&emsp;(C) achieving the objective of Federal policy and ensuring that the Congress receives the information necessary to discharge its responsibilities; and
+
+&emsp;(4) actions which may be needed to facilitate the economic and social health and development of the noncontiguous Pacific areas, consistent with their self-determined objectives.
+
+(Pub. L. 99–239, title III, §302, Jan. 14, 1986, 99 Stat. 1837.)
+
+#### Codification
+
+Section was formerly set out as a note under section 1681 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2003, 2004 of this title.
+

@@ -1,0 +1,60 @@
+### §542. Entry of goods by means of false statements
+
+Whoever enters or introduces, or attempts to enter or introduce, into the commerce of the United States any imported merchandise by means of any fraudulent or false invoice, declaration, affidavit, letter, paper, or by means of any false statement, written or verbal, or by means of any false or fraudulent practice or appliance, or makes any false statement in any declaration without reasonable cause to believe the truth of such statement, or procures the making of any such false statement as to any matter material thereto without reasonable cause to believe the truth of such statement, whether or not the United States shall or may be deprived of any lawful duties; or
+
+Whoever is guilty of any willful act or omission whereby the United States shall or may be deprived of any lawful duties accruing upon merchandise embraced or referred to in such invoice, declaration, affidavit, letter, paper, or statement, or affected by such act or omission—
+
+Shall be fined for each offense under this title or imprisoned not more than two years, or both.
+
+Nothing in this section shall be construed to relieve imported merchandise from forfeiture under other provisions of law.
+
+The term “commerce of the United States”, as used in this section, shall not include commerce with Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or Guam.
+
+(June 25, 1948, ch. 645, 62 Stat. 715; June 30, 1955, ch. 258, §2(c), 69 Stat. 242; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §§330004(18), 330016(1)(K), 108 Stat. 2142, 2147.)
+
+#### Historical and Revision Notes
+
+Based on section 1591 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, §591, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, §304(a), 49 Stat. 527).
+
+The reference in the first paragraph to persons aiding, contained in the phrase “or aids,” was omitted as unnecessary as such persons are made principals by section 2 of this title.
+
+Words “upon conviction” before “be fined” were omitted as surplusage since punishment cannot be imposed until conviction is secured.
+
+Enumeration of persons at beginning of section and provision preserving forfeitures where authorized by law were omitted as surplusage.
+
+The fourth paragraph was added to the revised section to make clear the intent of Congress that forfeiture is an additional consequence independent of the criminal punishment.
+
+The final paragraph was added to conform with section 1709 of title 19, U.S.C., 1940 ed.
+
+Changes in phraseology were also made.
+
+#### Amendments
+
+1994—Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in third par.
+
+Pub. L. 103–322, §330004(18), struck out “the Philippine Islands,” before “Virgin Islands” in last par.
+
+1955—Act June 30, 1955, inserted reference to Johnston Island in last par.
+
+#### Effective Date of 1955 Amendment
+
+Amendment by act June 30, 1955, effective July 1, 1955, see section 2(d) of act June 30, 1955, set out as a note under section 1401 of Title 19, Customs Duties.
+
+#### Cross References
+
+Counterfeit writings in connection with customs matters, see section 496 of this title.
+
+False shipping manifest or lack of manifest in connection with importation of goods, penalties, see section 1584 of Title 19, Customs Duties.
+
+Forfeiture of property imported into the United States, which is the subject of any contract, combination or conspiracy mentioned in section 8 of Title 15, Commerce and Trade, see section 11 of Title 15.
+
+Forgery of writings in connection with customs matters, see section 496 of this title.
+
+Narcotic drugs, seizure and forfeiture of, see section 881 of Title 21, Foods and Drugs.
+
+Penalty for fraud, gross negligence, or negligence in connection with importation of goods, see section 1592 of Title 19, Customs Duties.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 981, 982, 1956 of this title; title 31 section 9703.
+

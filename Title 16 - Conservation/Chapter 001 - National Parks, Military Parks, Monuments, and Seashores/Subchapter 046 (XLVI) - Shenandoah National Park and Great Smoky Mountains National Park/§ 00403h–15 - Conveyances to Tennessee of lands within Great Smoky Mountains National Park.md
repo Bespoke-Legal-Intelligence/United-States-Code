@@ -1,0 +1,10 @@
+### §403h–15. Conveyances to Tennessee of lands within Great Smoky Mountains National Park
+
+The Secretary of the Interior is authorized to convey to the State of Tennessee, subject to such conditions as he may deem necessary to preserve the natural beauty of the adjacent park lands, approximately twenty-eight acres of land comprising a portion of the right-of-way of Tennessee State Route 72 (U.S. 129), and approximately forty-one acres comprising portions of the right-of-way of Tennessee State Route 73 east of Gatlinburg, which are within the boundary of the Great Smoky Mountains National Park.
+
+(Pub. L. 91–57, §1, Aug. 9, 1969, 83 Stat. 100.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 403h–17 of this title.
+

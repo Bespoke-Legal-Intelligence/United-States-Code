@@ -1,0 +1,88 @@
+### §166a. Combatant commands: funding through the Chairman of Joint Chiefs of Staff
+
+(a)
+
+CINC Initiative Fund.—From funds made available in any fiscal year for the budget account in the Department of Defense known as the “CINC Initiative Fund”, the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose. The Chairman may provide such funds for any of the activities named in subsection (b).
+
+(b)
+
+Authorized Activities.—Activities for which funds may be provided under subsection (a) are the following:
+
+&emsp;(1) Force training.
+
+&emsp;(2) Contingencies.
+
+&emsp;(3) Selected operations.
+
+&emsp;(4) Command and control.
+
+&emsp;(5) Joint exercises (including activities of participating foreign countries).
+
+&emsp;(6) Humanitarian and civil assistance.
+
+&emsp;(7) Military education and training to military and related civilian personnel of foreigncountries (including transportation, translation, and administrative expenses).
+
+&emsp;(8) Personnel expenses of defense personnel for bilateral or regional cooperation programs.
+
+(c)
+
+Priority.—The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the CINC Initiative Fund, should give priority consideration to—
+
+&emsp;(1) requests for funds to be used for activities that would enhance the war fighting capability, readiness, and sustainability of the forces assigned to the commander requesting the funds; and
+
+&emsp;(2) the provision of funds to be used for activities with respect to an area or areas not within the area of responsibility of a commander of a combatant command that would reduce the threat to, or otherwise increase, the national security of the United States.
+
+(d)
+
+Relationship to Other Funding.—Any amount provided by the Chairman of the Joint Chiefs of Staff during any fiscal year out of the CINC Initiative Fund for an activity referred to in subsection (b) shall be in addition to amounts otherwise available for that activity for that fiscal year.
+
+(e)
+
+Limitations.—(1) Of funds made available under this section for any fiscal year—
+
+&emsp;(A) not more than $7,000,000 may be used to purchase items with a unit cost in excess of $15,000;
+
+&emsp;(B) not more than $1,000,000 may be used to pay for any expenses of foreign countries participating in joint exercises as authorized by subsection (b)(5); and
+
+&emsp;(C) not more than $2,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).
+
+(2) Funds may not be provided under this section for any activity that has been denied authorization by Congress.
+
+(f)
+
+Inclusion of NORAD.—For purposes of this section, the Commander, United States Element, North American Aerospace Defense Command shall be considered to be a commander of a combatant command.
+
+(Added Pub. L. 102–190, div. A, title IX, §902(a), Dec. 5, 1991, 105 Stat. 1450; amended Pub. L. 102–396, title IX, §9128, Oct. 6, 1992, 106 Stat. 1935; Pub. L. 102–484, div. A, title IX, §934, Oct. 23, 1992, 106 Stat. 2477; Pub. L. 103–35, title II, §201(a), May 31, 1993, 107 Stat. 97.)
+
+#### Amendments
+
+1993—Subsec. (a). Pub. L. 103–35, §201(a)(1), substituted “the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose” for “the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or to the Director of the Joint Staff with respect to an area or areas not within the area of responsibility of a commander of a combatant command.”
+
+Subsec. (b)(7). Pub. L. 103–35, §201(a)(2), struck out second of two identical parenthetical phrases at end of par. (7) which read as follows: “(including transportation, translation, and administrative expenses)”.
+
+1992—Subsec. (a). Pub. L. 102–484, §934(a), which directed substitution of “funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose.” for “funds, upon request,” and all that follows through the period, could not be executed because the words did not appear subsequent to the amendment by Pub. L. 102–396, §9128(a). See below.
+
+Pub. L. 102–396, §9128(a), substituted “funds to the commander of a combatant command, upon the request of the commander, or to the Director of the Joint Staff with respect to an area or areas not within the area of responsibility of a commander of a combatant command.” for “funds, upon request, to the commanders of the combatant commands.”
+
+Subsec. (b)(7). Pub. L. 102–396, §9128(b), and Pub. L. 102–484, §934(b), both inserted before period at end “(including transportation, translation, and administrative expenses)”.
+
+Subsec. (c). Pub. L. 102–484, §934(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the CINC Initiative Fund, should give priority consideration to requests for funds to be used for activities that would enhance the war fighting capability, readiness, and sustainability of the forces assigned to the commander requesting the funds (c)
+
+Priority.—The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the CINC Initiative Fund or the provision of funds to the Director of the Joint Staff under subsection (a), should give priority consideration to—
+
+&emsp;“(1) requests for funds to be used for activities that would enhance the war fighting capability, readiness, and sustainability of the forces assigned to the commander requesting the funds; and
+
+&emsp;“(2) the provision of funds to be used for activities with respect to an area or areas not within the area of responsibility of a commander of a combatant command that would reduce the threat to, or otherwise increase, the national security of the United States..\[sic\]”
+
+Pub. L. 102–396, §9128(c), inserted before period at end “(c)
+
+Priority.—The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the CINC Initiative Fund or the provision of funds to the Director of the Joint Staff under subsection (a), should give priority consideration to—
+
+&emsp;“(1) requests for funds to be used for activities that would enhance the war fighting capability, readiness, and sustainability of the forces assigned to the commander requesting the funds; and
+
+&emsp;“(2) the provision of funds to be used for activities with respect to an area or areas not within the area of responsibility of a commander of a combatant command that would reduce the threat to, or otherwise increase, the national security of the United States.”
+
+Subsec. (e)(1)(C). Pub. L. 102–484, §934(d), amended subpar. (C) generally. Prior to amendment, subsec. (C) read as follows: “not more than $5,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).”
+
+Pub. L. 102–396, §9128(d), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “not more than $500,000 may be used to provide military education and training to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).”
+

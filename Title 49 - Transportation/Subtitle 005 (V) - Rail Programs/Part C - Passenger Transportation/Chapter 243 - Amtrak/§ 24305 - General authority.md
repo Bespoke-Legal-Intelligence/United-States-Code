@@ -1,0 +1,192 @@
+### §24305. General authority
+
+(a)
+
+Acquisition and Operation of Equipment and Facilities.—(1) Amtrak may acquire, operate, maintain, and make contracts for the operation and maintenance of equipment and facilities necessary for intercity and commuter rail passenger transportation, the transportation of mail and express, and auto-ferry transportation.
+
+(2) Amtrak shall operate and control directly, to the extent practicable, all aspects of the rail passenger transportation it provides.
+
+(b)
+
+Maintenance and Rehabilitation.—Amtrak may maintain and rehabilitate rail passenger equipment and shall maintain a regional maintenance plan that includes—
+
+&emsp;(1) a review panel at the principal office of Amtrak consisting of members the President of Amtrak designates;
+
+&emsp;(2) a systemwide inventory of spare equipment parts in each operational region;
+
+&emsp;(3) enough maintenance employees for cars and locomotives in each region;
+
+&emsp;(4) a systematic preventive maintenance program;
+
+&emsp;(5) periodic evaluations of maintenance costs, time lags, and parts shortages and corrective actions; and
+
+&emsp;(6) other elements or activities Amtrak considers appropriate.
+
+(c)
+
+Miscellaneous Authority.—Amtrak may—
+
+&emsp;(1) make and carry out appropriate agreements;
+
+&emsp;(2) transport mail and express and shall use all feasible methods to obtain the bulk mail business of the United States Postal Service;
+
+&emsp;(3) improve its reservation system and advertising;
+
+&emsp;(4) provide food and beverage services on its trains only if revenues from the services each year at least equal the cost of providing the services;
+
+&emsp;(5) conduct research, development, and demonstration programs related to the mission of Amtrak; and
+
+&emsp;(6) buy or lease rail rolling stock and develop and demonstrate improved rolling stock.
+
+(d)
+
+Through Routes and Joint Fares.—(1) Establishing through routes and joint fares between Amtrak and other intercity rail passenger carriers and motor carriers of passengers is consistent with the public interest and the transportation policy of the United States. Congress encourages establishing those routes and fares.
+
+(2) Amtrak may establish through routes and joint fares with any domestic or international motor carrier, air carrier, or water carrier.
+
+(e)
+
+Rail Police.—Amtrak may employ rail police to provide security for rail passengers and property of Amtrak. Rail police employed by Amtrak who have complied with a State law establishing requirements applicable to rail police or individuals employed in a similar position may be employed without regard to the law of another State containing those requirements.
+
+(f)
+
+Domestic Buying Preferences.—(1) In this subsection, “United States” means the States, territories, and possessions of the United States and the District of Columbia.
+
+(2) Amtrak shall buy only—
+
+&emsp;(A) unmanufactured articles, material, and supplies mined or produced in the United States; or
+
+&emsp;(B) manufactured articles, material, and supplies manufactured in the United States substantially from articles, material, and supplies mined, produced, or manufactured in the United States.
+
+(3) Paragraph (2) of this subsection applies only when the cost of those articles, material, or supplies bought is at least $1,000,000.
+
+(4) On application of Amtrak, the Secretary of Transportation may exempt Amtrak from this subsection if the Secretary decides that—
+
+&emsp;(A) for particular articles, material, or supplies—
+
+&emsp;&emsp;(i) the requirements of paragraph (2) of this subsection are inconsistent with the public interest;
+
+&emsp;&emsp;(ii) the cost of imposing those requirements is unreasonable; or
+
+&emsp;&emsp;(iii) the articles, material, or supplies, or the articles, material, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and are not of a satisfactory quality; or
+
+&emsp;(B) rolling stock or power train equipment cannot be bought and delivered in the United States within a reasonable time.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 909.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+24305(a)(1)
+
+45:545(a) (1st sentence 1st–32d words, words after last semicolon).
+
+Oct. 30, 1970, Pub. L. 91–518, §305(a) (1st, 2d sentences), 84 Stat. 1332; June 22, 1972, Pub. L. 92–316, §2(1), (2), 86 Stat. 228; Nov. 3, 1973, Pub. L. 93–146, §4, 87 Stat. 549; Aug. 13, 1981, Pub. L. 97–35, §1188(b), 95 Stat. 699.
+
+&nbsp;
+
+45:545(b) (4th sentence).
+
+Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §305(b) (4th sentence); added June 22, 1972, Pub. L. 92–316, §2(3), 86 Stat. 228; Nov. 3, 1973, Pub. L. 93–146, §5, 87 Stat. 550.
+
+&nbsp;
+
+45:545(e)(5).
+
+Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §305(e)(1)–(6); added Nov. 3, 1973, Pub. L. 93–146, §6, 87 Stat. 551.
+
+24305(a)(2)
+
+45:545(a) (2d sentence).
+
+24305(b)
+
+45:545(e)(2).
+
+&nbsp;
+
+45:545(g).
+
+Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §305(g); added Oct. 28, 1974, Pub. L. 93–496, §3, 88 Stat. 1527; restated Sept. 29, 1979, Pub. L. 96–73, §§106, 107, 93 Stat. 539, 540.
+
+24305(c)(1)
+
+45:851(a)(2).
+
+Feb. 5, 1976, Pub. L. 94–210, §701(a)(2), 90 Stat. 119.
+
+24305(c)(2)
+
+45:545(a) (1st sentence 33d word–1st semicolon).
+
+&nbsp;
+
+45:545a.
+
+Oct. 5, 1978, Pub. L. 95–421, §19, 92 Stat. 930.
+
+24305(c)(3)
+
+45:545(e)(1).
+
+24305(c)(4)
+
+45:545(n).
+
+Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §305(n); added Aug. 13, 1981, Pub. L. 97–35, §1177(a), 95 Stat. 692.
+
+24305(c)(5)
+
+45:545(a) (1st sentence words between 1st and last semicolons), (e)(3).
+
+24305(c)(6)
+
+45:545(e)(4), (6).
+
+24305(d)
+
+45:546(j).
+
+Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §306(j); added Oct. 19, 1976, Pub. L. 94–555, §106, 90 Stat. 2615; Sept. 29, 1979, Pub. L. 96–73, §112(b), 93 Stat. 541.
+
+24305(e)
+
+45:545(j).
+
+Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §305(j); added Oct. 19, 1976, Pub. L. 94–555, §104, 90 Stat. 2615; Sept. 29, 1979, Pub. L 96–73, §§106, 108, 93 Stat. 539, 540.
+
+24305(f)
+
+45:545(k).
+
+Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §305(k); added Oct. 5, 1978, Pub. L. 95–421, §10, 92 Stat. 928; Sept. 29, 1979, Pub. L. 96–73, §§106, 109, 93 Stat. 539, 540.
+
+In subsection (a)(1), the text of 45:545(e)(5) is omitted as obsolete. The words “acquire, operate, maintain, and make contracts for the operation and maintenance of” are substituted for “own, manage, operate, or contract for the operation of”, “acquire by construction, purchase, or gift, or to contract for the use of”, “acquire, lease, modify, or develop”, and “or to enter into contracts for the provision of such service” to eliminate unnecessary words. The word “physical” is omitted as surplus. The words “intercity and commuter trains” are omitted as being included in “equipment”. The words “the transportation of mail and express” are substituted for “mail, express . . . service” for consistency in this chapter.
+
+In subsection (b), before clause (1), the words “service” and “repair” are omitted as surplus. The words “not later than January 1, 1980” are omitted as executed. In clause (1), the words “principal office of Amtrak” are substituted for “corporate headquarters” for clarity and consistency. In clauses (3) and (4), the words “establishment of” are omitted as executed.
+
+In subsection (c)(1), the words “contracts and” and “necessary or . . . in the conduct of its functions” are omitted as surplus.
+
+In subsection (c)(2), the words “on such trains” in 45:545(a), and the words “including taking into account the needs of the United States Postal Service in establishing schedules” and “and service” in 45:545a, are omitted as surplus.
+
+In subsection (c)(4), the text of 45:545(n) (1st sentence) and the words “Beginning October 1, 1982” are omitted as executed.
+
+In subsection (d)(1), the words “rail passenger carriers” are substituted for “common carriers of passengers by rail” for consistency in the revised title. The words “establishing those routes and fares” are substituted for “the making of such arrangements” for clarity.
+
+In subsection (e), the words “and protection” and “licensing, residency, or related” are omitted as surplus.
+
+In subsection (f)(1), the words “several” and “the Commonwealth of Puerto Rico” are omitted as surplus.
+
+In subsection (f)(2), the words “Except as provided in paragraph (2) or (3) of this subsection”, “which have been”, “all”, and “as the case may be” are omitted as surplus.
+
+In subsection (f)(3), the text of 45:545(k)(4)(B) is omitted as executed.
+
+In subsection (f)(4)(A) and (B), the words “the purchase of” are omitted as surplus.
+
+In subsection (f)(4)(A)(i), the words “imposing” and “with respect to such articles, materials, and supplies” are omitted as surplus.
+

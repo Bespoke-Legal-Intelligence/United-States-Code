@@ -1,0 +1,56 @@
+### <b>CHAPTER 571—VOLUNTARY RETIREMENT</b>
+
+| Sec. |  |
+| :--- | ---: |
+| [6321\.](%C2%A7%2006321%20-%20Officers%2040%20years.md) | Officers: 40 years. |
+| [6322\.](%C2%A7%2006322%20-%20Officers%2030%20years.md) | Officers: 30 years. |
+| [6323\.](%C2%A7%2006323%20-%20Officers%2020%20years.md) | Officers: 20 years. |
+| [6324\.](%C2%A7%2006324%20-%20Officers%20creditable%20service.md) | Officers: creditable service. |
+| [6325\.](%C2%A7%2006325%20-%20Officers%20retired%20grade%20and%20pay.md) | Officers: retired grade and pay. |
+| [6326\.](%C2%A7%2006326%20-%20Enlisted%20members%2030%20years.md) | Enlisted members: 30 years. |
+| 6327\. | Officers and enlisted members of the Naval Reserve and Marine Corps Reserve: 30 years; 20 years; retired pay. |
+| \[6328. | Repealed.\] |
+| 6329\. | Officers not to be retired for misconduct. |
+| 6330\. | Enlisted members: transfer to Fleet Reserve and Fleet Marine Corps Reserve; retainer pay. |
+| 6331\. | Members of the Fleet Reserve and Fleet Marine Corps Reserve: transfer to the retired list; retired pay. |
+| 6332\. | Conclusiveness of transfers. |
+| 6333\. | Computation of retired and retainer pay. |
+| 6334\. | Higher grade after 30 years of service: warrant officers and enlisted members. |
+| 6335\. | Restoration to former grade: warrant officers and enlisted members. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1987—Pub. L. 100–180, div. A, title V, §512(e)(2), Dec. 4, 1987, 101 Stat. 1091, added items 6334 and 6335.
+
+1986—Pub. L. 99–348, title III, §304(b)(3), July 1, 1986, 100 Stat. 704, struck out item 6328 “Treatment of fractions of years of service in computing retired pay” and substituted “Computation of” for “Treatment of fractions of dollar amounts in computing” in item 6333.
+
+1983—Pub. L. 98–94, title IX, §922(a)(10)(B), Sept. 24, 1983, 97 Stat. 641, added item 6333.
+
+1967—Pub. L. 90–130, §1(23)(B), Nov. 8, 1967, 81 Stat. 380, struck out “Nurse Corps” before “Officers” in item 6324.
+
+#### Cross References
+
+General military law provisions, see section 1201 et seq. of this title.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 06321 - Officers 40 years](%C2%A7%2006321%20-%20Officers%2040%20years.md)
+- [&sect; 06322 - Officers 30 years](%C2%A7%2006322%20-%20Officers%2030%20years.md)
+- [&sect; 06323 - Officers 20 years](%C2%A7%2006323%20-%20Officers%2020%20years.md)
+- [&sect; 06324 - Officers creditable service](%C2%A7%2006324%20-%20Officers%20creditable%20service.md)
+- [&sect; 06325 - Officers retired grade and pay](%C2%A7%2006325%20-%20Officers%20retired%20grade%20and%20pay.md)
+- [&sect; 06326 - Enlisted members 30 years](%C2%A7%2006326%20-%20Enlisted%20members%2030%20years.md)
+- [&sect; 06327 - Officers and enlisted members of the Naval Reserve and Marine Corps Reserve 30 years; 20 years; retired pay](%C2%A7%2006327%20-%20Officers%20and%20enlisted%20members%20of%20the%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%2030%20years%3B%2020%20years%3B%20retired%20pay.md)
+- [&sect; 06328 - Repealed. Pub. L. 99&#8211;348, title II, &sect;203(b)(5), July 1, 1986, 100 Stat. 696](%C2%A7%2006328%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93348%2C%20title%20II%2C%20%C2%A7203%28b%29%285%29%2C%20July%201%2C%201986%2C%20100%20Stat.%20696.md)
+- [&sect; 06329 - Officers not to be retired for misconduct](%C2%A7%2006329%20-%20Officers%20not%20to%20be%20retired%20for%20misconduct.md)
+- [&sect; 06330 - Enlisted members transfer to Fleet Reserve and Fleet Marine Corps Reserve; retainer pay](%C2%A7%2006330%20-%20Enlisted%20members%20transfer%20to%20Fleet%20Reserve%20and%20Fleet%20Marine%20Corps%20Reserve%3B%20retainer%20pay.md)
+- [&sect; 06331 - Members of the Fleet Reserve and Fleet Marine Corps Reserve transfer to the retired list; retired pay](%C2%A7%2006331%20-%20Members%20of%20the%20Fleet%20Reserve%20and%20Fleet%20Marine%20Corps%20Reserve%20transfer%20to%20the%20retired%20list%3B%20retired%20pay.md)
+- [&sect; 06332 - Conclusiveness of transfers](%C2%A7%2006332%20-%20Conclusiveness%20of%20transfers.md)
+- [&sect; 06333 - Computation of retired and retainer pay](%C2%A7%2006333%20-%20Computation%20of%20retired%20and%20retainer%20pay.md)
+- [&sect; 06334 - Higher grade after 30 years of service warrant officers and enlisted members](%C2%A7%2006334%20-%20Higher%20grade%20after%2030%20years%20of%20service%20warrant%20officers%20and%20enlisted%20members.md)
+- [&sect; 06335 - Restoration to former grade warrant officers and enlisted members](%C2%A7%2006335%20-%20Restoration%20to%20former%20grade%20warrant%20officers%20and%20enlisted%20members.md)

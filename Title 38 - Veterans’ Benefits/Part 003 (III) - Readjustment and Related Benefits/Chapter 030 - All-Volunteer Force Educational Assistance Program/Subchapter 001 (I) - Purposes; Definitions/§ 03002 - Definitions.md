@@ -1,0 +1,72 @@
+### §3002. Definitions
+
+For the purposes of this chapter—
+
+(1) The term “basic educational assistance” means educational assistance provided under subchapter II of this chapter.
+
+(2) The term “supplemental educational assistance” means educational assistance provided under subchapter III of this chapter.
+
+(3) The term “program of education”—
+
+&emsp;(A) has the meaning given such term in section 3452(b) of this title, and
+
+&emsp;(B) in the case of an individual who is not serving on active duty, includes (i) a full-time program of apprenticeship or of other on-job training approved as provided in clause (1) or (2), as appropriate, of section 3687(a) of this title, and (ii) a cooperative program (as defined in section 3482(a)(2) of this title).
+
+(4) The term “Selected Reserve” means the Selected Reserve of the Ready Reserve of any of the reserve components (including the Army National Guard of the United States and the Air National Guard of the United States) of the Armed Forces, as required to be maintained under section 10143(a) of title 10.
+
+(5) The term “Secretary of Defense” means the Secretary of Defense, except that it means the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.
+
+(6) The term “active duty” does not include any period during which an individual (A) was assigned full time by the Armed Forces to a civilian institution for a course of education which was substantially the same as established courses offered to civilians, (B) served as a cadet or midshipman at one of the service academies, or (C) served under the provisions of section 12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard, or as a Reserve for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve.
+
+(7) The term “active duty” includes full-time National Guard duty first performed after November 29, 1989, by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member's status as a member of the National Guard of a State for the purpose of organizing, administering, recruiting, instructing, or training the National Guard.
+
+(8) The term “educational institution” has the meaning given such term in section 3452(c) of this title.
+
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2554, §1402; amended Pub. L. 99–576, title III, §301(a), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–689, title I, §§108(a)(1), 111(a)(1), Nov. 18, 1988, 102 Stat. 4169, 4170; Pub. L. 101–237, title IV, §423(b)(3), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §563(a), Nov. 5, 1990, 104 Stat. 1575; renumbered §3002 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105Stat. 406; Pub. L. 103–337, div. A, title XVI, §1677(d)(2), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 103–446, title VI, §603(b), Nov. 2, 1994, 108 Stat. 4671.)
+
+#### Prior Provisions
+
+Prior sections 3002 to 3004 were renumbered sections 5102 to 5104 of this title, respectively.
+
+Another prior section 3004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, related to reopening of disallowed claims and to effective date of any subsequent awards, prior to repeal by Pub. L. 87–825, §§5(a), 7, Oct. 15, 1962, 76 Stat. 950, effective first day of second calendar month which begins after Oct. 15, 1962.
+
+Prior sections 3005 to 3010 were renumbered sections 5105 to 5110 of this title, respectively.
+
+#### Amendments
+
+1994—Par. (4). Pub. L. 103–337, §1677(d)(2)(A), substituted “section 10143(a) of title 10” for “section 268(b) of title 10”.
+
+Par. (6). Pub. L. 103–337, §1677(d)(2)(B), substituted “section 12103(d) of title 10” for “section 511(d) of title 10”.
+
+Par. (8). Pub. L. 103–446 added par. (8).
+
+1991—Pub. L. 102–83, §5(a), renumbered section 1402 of this title as this section.
+
+Par. (3). Pub. L. 102–83, §5(c)(1), substituted “3452(b)” for “1652(b)” in subpar. (A) and “3687(a)” for “1787(a)” and “3482(a)(2)” for “1682(a)(2)” in subpar. (B).
+
+1990—Par. (7). Pub. L. 101–510 added par. (7).
+
+1989—Par. (5). Pub. L. 101–237 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘Secretary’ means the Secretary of Defense with respect to members of the Armed Forces under the jurisdiction of the Secretary of a military department and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.”
+
+1988—Par. (3)(B). Pub. L. 100–689, §111(a)(1), substituted “in the case of an individual who is not serving on active duty, includes” for “includes”.
+
+Pub. L. 100–689, §108(a)(1), inserted cl. (i) designation and added cl. (ii).
+
+1986—Par. (3). Pub. L. 99–576 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘program of education’ has the meaning given such term in section 1652(b) of this title.”
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
+
+#### Effective Date of 1990 Amendment
+
+Section 563(b) of Pub. L. 101–510, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “The amendment made by this section \[amending this section\] shall apply only to individuals who before the date of entry on active duty, as defined in section 3002(7) \[formerly 1402(7)\] of title 38, United States Code (as added by subsection (a)), have never served on active duty as defined in section 101(21) of that title.”
+
+#### Effective Date of 1988 Amendment
+
+Section 108(c) of Pub. L. 100–689 provided that: “The amendments made by this section \[amending this section and sections 1432, 1602, and 1631 \[now 3032, 3202, and 3231\] of this title\] shall take effect on January 1, 1989.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3011 of this title.
+

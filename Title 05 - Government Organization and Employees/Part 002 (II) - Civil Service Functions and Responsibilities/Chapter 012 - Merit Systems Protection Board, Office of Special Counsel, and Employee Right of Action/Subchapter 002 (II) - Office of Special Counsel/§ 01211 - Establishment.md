@@ -1,0 +1,26 @@
+### §1211. Establishment
+
+(a) There is established the Office of Special Counsel, which shall be headed by the Special Counsel. The Office shall have an official seal which shall be judicially noticed. The Office shall have its principal office in the District of Columbia and shall have field offices in other appropriate locations.
+
+(b) The Special Counsel shall be appointed by the President, by and with the advice and consent of the Senate, for a term of 5 years. The Special Counsel may continue to serve beyond the expiration of the term until a successor is appointed and has qualified, except that the Special Counsel may not continue to serve for more than one year after the date on which the term of the Special Counsel would otherwise expire under this subsection. The Special Counsel shall be an attorney who, by demonstrated ability, background, training, or experience, is especially qualified to carry out the functions of the position. A Special Counsel appointed to fill a vacancy occurring before the end of a term of office of the Special Counsel's predecessor serves for the remainder of the term. The Special Counsel may be removed by the President only for inefficiency, neglect of duty, or malfeasance in office. The Special Counsel may not hold another office or position in the Government of the United States, except as otherwise provided by law or at the direction of the President.
+
+(Added Pub. L. 101–12, §3(a)(11), Apr. 10, 1989, 103 Stat. 19, §1211(a), and Pub. L. 95–454, title II, §202(a), Oct. 13, 1978, 92 Stat. 1122, §1204; renumbered §1211(b) and amended Pub. L. 101–12, §3(a)(6), (12), Apr. 10, 1989, 103 Stat. 17, 19; Pub. L. 103–424, §3(a), Oct. 29, 1994, 108 Stat. 4361.)
+
+#### Amendments
+
+1994—Subsec. (b). Pub. L. 101–424 inserted after first sentence “The Special Counsel may continue to serve beyond the expiration of the term until a successor is appointed and has qualified, except that the Special Counsel may not continue to serve for more than one year after the date on which the term of the Special Counsel would otherwise expire under this subsection.”
+
+1989—Subsec. (b). Pub. L. 101–12, §3(a)(6), (12), renumbered section 1204 of this title as subsec. (b) of this section, substituted “Special Counsel shall be appointed by the President” for “Special Counsel of the Merit Systems Protection Board shall be appointed by the President from attorneys”, substituted “The Special Counsel shall be an attorney who, by demonstrated ability, background, training, or experience, is especially qualified to carry out the functions of the position. A Special Counsel appointed to fill a vacancy occurring before the end of a term of office of the Special Counsel's predecessor serves for the remainder of the term.” for “A Special Counsel appointed to fill a vacancy occurring before the end of a term of office of his predecessor serves for the remainder of the term.”, and inserted at end “The Special Counsel may not hold another office or position in the Government of the United States, except as otherwise provided by law or at the direction of the President.”
+
+#### Effective Date
+
+Subchapter effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101–12, set out as a note under section 1201 of this title.
+
+#### Transfer of Funds
+
+Section 8(c) of Pub. L. 101–12 provided that: “The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available tothe Special Counsel of the Merit Systems Protection Board are, subject to section 1531 of title 31, United States Code, transferred to the Special Counsel referred to in section 1211 of title 5, United States Code (as added by section 3(a) of this Act), for appropriate allocation.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 38 section 4324.
+

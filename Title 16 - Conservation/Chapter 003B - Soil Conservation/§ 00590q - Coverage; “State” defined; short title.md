@@ -1,0 +1,26 @@
+### §590q. Coverage; “State” defined; short title
+
+(a) This chapter shall apply to the States, the Commonwealth of Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands, and, as used in this chapter, the term “State” includes Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands.
+
+(b) This chapter may be cited as the “Soil Conservation and Domestic Allotment Act”.
+
+(Apr. 27, 1935, ch. 85, §17, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1151; amended July 26, 1947, ch. 339, §2, 61 Stat. 494; June 25, 1959, Pub. L. 86–70, §13(b), 73 Stat. 143; July 12, 1960, Pub. L. 86–624. §8(b), 74 Stat. 412; Oct. 5, 1984, Pub. L. 98–454, title VI, §601(d), 98 Stat. 1736.)
+
+#### Amendments
+
+1984—Subsec. (a). Pub. L. 98–454 inserted reference to Guam, American Samoa, and the Northern Mariana Islands in two places.
+
+1960—Subsec. (a). Pub. L. 86–624 substituted “States, the Commonwealth of Puerto Rico” for “States, the Territory of Hawaii, and the possessions of Puerto Rico”, and struck out “Hawaii” from definition of “State”.
+
+1959—Subsec. (a). Pub. L. 86–70 substituted “the States, the Territory of Hawaii,” for “the United States, the Territories of Alaska and Hawaii”, and struck out “Alaska,” after “the term ‘State’ includes”.
+
+1947—Subsec. (a). Act July 26, 1947, included the Virgin Islands.
+
+#### Repeals
+
+Section 3 of act July 26, 1947, repealed all laws in conflict therewith.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 590h, 590h–4, 590n of this title; title 7 sections 1388, 1391, 1392; title 12 section 1150a.
+

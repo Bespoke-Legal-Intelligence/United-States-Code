@@ -1,0 +1,24 @@
+### §2253. Motor vehicles
+
+(a)
+
+General Authorities.—The Secretary of Defense and the Secretary of each military department may—
+
+&emsp;(1) provide for insurance of official motor vehicles in a foreign country when the laws of such country require such insurance; and
+
+&emsp;(2) purchase right-hand drive vehicles at a cost of not more than $12,000 each.
+
+(b)
+
+Hire of Passenger Vehicles.—Amounts appropriated to the Department of Defense for operation and maintenance of the active forces may be used for the hire of passenger motor vehicles.
+
+(Added Pub. L. 100–370, §1(e)(1), July 19, 1988, 102 Stat. 845.)
+
+#### Historical and Revision Notes
+
+Subsection (a)(1) of this section and sections 2241(b) and 2242(1), (4) of this title are based on Pub. L. 98–212, title VII, §705, Dec. 8, 1983, 97 Stat. 1437.
+
+Subsection (a)(2) is based on Pub. L. 99–190, §101(b) \[title VIII, §8005(i)\], Dec. 19, 1985, 99 Stat. 1185, 1202.
+
+Subsection (b) of this section and sections 2241(a) and 2661(a) of this title are based on Pub. L. 98–212, title VII, §735, Dec. 8, 1983, 97 Stat. 1444, as amended by Pub. L. 98–525, title XIV, §§1403(a)(2), 1404, Oct. 19, 1984, 98 Stat. 2621.
+

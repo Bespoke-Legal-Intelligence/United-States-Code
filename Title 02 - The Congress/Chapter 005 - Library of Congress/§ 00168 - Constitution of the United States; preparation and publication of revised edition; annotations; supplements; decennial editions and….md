@@ -1,0 +1,18 @@
+### §168. Constitution of the United States; preparation and publication of revised edition; annotations; supplements; decennial editions and supplements
+
+The Librarian of Congress shall have prepared—
+
+&emsp;(1) a hardbound revised edition of the Constitution of the United States of America—Analysis and Interpretation, published as Senate Document Numbered 39, Eighty-eighth Congress (referred to hereinafter as the “Constitution Annotated”), which shall contain annotations of decisions of the Supreme Court of the United States through the end of the October 1971 term of the Supreme Court, construing provisions of the Constitution;
+
+&emsp;(2) upon the completion of each of the October 1973, October 1975, October 1977, and October 1979 terms of the Supreme Court, a cumulative pocket-part supplement to the hardbound revised edition of the Constitution Annotated prepared pursuant to clause (1), which shall contain cumulative annotations of all such decisions rendered by the Supreme Court after the end of the October 1971 term;
+
+&emsp;(3) upon the completion of the October 1981 term of the Supreme Court, and upon the completion of each tenth October term of the Supreme Court thereafter, a hardbound decennial revised edition of the Constitution Annotated, which shall contain annotations of all decisions theretofore rendered by the Supreme Court construing provisions of the Constitution; and
+
+&emsp;(4) upon the completion of the October 1983 term of the Supreme Court, and upon the completion of each subsequent October term of the Supreme Court beginning in an odd-numbered year (the final digit of which is not a 1), a cumulative pocket-part supplement to the most recent hardbound decennial revised edition of the Constitution Annotated, which shall contain cumulative annotations of all such decisions rendered by the Supreme Court which were not included in that hardbound decennial revised edition of the Constitution Annotated.
+
+(Pub. L. 91–589, §1, Dec. 24, 1970, 84 Stat. 1586.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 168b, 168d of this title.
+

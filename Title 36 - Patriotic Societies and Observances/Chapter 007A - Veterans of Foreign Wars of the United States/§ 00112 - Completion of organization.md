@@ -1,0 +1,6 @@
+### §112. Completion of organization
+
+The said persons named in section 111 of this title, or their successors, and such other persons as are duly accredited delegates from any local post or State department of the existing national association known as the Veterans of Foreign Wars of the United States, under its constitution and bylaws, are hereby authorized to meet and to complete the organization of said corporation, by the adoption of a constitution and bylaws, the election of officers, and to do all other things necessary to carry into effect and incidental to, the provisions of this chapter.
+
+(May 28, 1936, ch. 471, §2, 49 Stat. 1390.)
+

@@ -1,0 +1,80 @@
+### <b>CHAPTER 3—GENERAL PROVISIONS</b>
+
+| Sec. |  |
+| :--- | ---: |
+| [301\.](%C2%A7%2000301%20-%20Freedom%20from%20tolls.md) | Freedom from tolls. |
+| [302\.](%C2%A7%2000302%20-%20State%20highway%20department.md) | State highway department. |
+| [303\.](%C2%A7%2000303%20-%20Management%20systems.md) | Management systems. |
+| [304\.](%C2%A7%2000304%20-%20Participation%20by%20small%20business%20enterprises.md) | Participation by small business enterprises. |
+| [305\.](%C2%A7%2000305%20-%20Archeological%20and%20paleontological%20salvage.md) | Archeological and paleontological salvage. |
+| [306\.](%C2%A7%2000306%20-%20Mapping.md) | Mapping. |
+| [307\.](%C2%A7%2000307%20-%20Research%20and%20planning.md) | Research and planning. |
+| [308\.](%C2%A7%2000308%20-%20Cooperation%20with%20Federal%20and%20State%20agencies%20and%20foreign%20countries.md) | Cooperation with Federal and State agencies and foreign countries. |
+| [309\.](%C2%A7%2000309%20-%20Cooperation%20with%20other%20American%20Republics.md) | Cooperation with other American Republics. |
+| [310\.](%C2%A7%2000310%20-%20Civil%20defense.md) | Civil Defense |
+| [311\.](%C2%A7%2000311%20-%20Highway%20improvements%20strategically%20important%20to%20the%20national%20defense.md) | Highway improvements strategically important to the national defense. |
+| [312\.](%C2%A7%2000312%20-%20Detail%20of%20Army%2C%20Navy%2C%20and%20Air%20Force%20officers.md) | Detail of Army, Navy, and Air Force officers. |
+| \[313. | Repealed.\] |
+| [314\.](%C2%A7%2000314%20-%20Relief%20of%20employees%20in%20hazardous%20work.md) | Relief of employees in hazardous work. |
+| [315\.](%C2%A7%2000315%20-%20Rules%2C%20regulations%2C%20and%20recommendations.md) | Rules, regulations, and recommendations. |
+| [316\.](%C2%A7%2000316%20-%20Consent%20by%20United%20States%20to%20conveyance%20of%20property.md) | Consent by United States to conveyance of property. |
+| [317\.](%C2%A7%2000317%20-%20Appropriation%20for%20highway%20purposes%20of%20lands%20or%20interests%20in%20lands%20owned%20by%20the%20United%20States.md) | Appropriation for highway purposes of lands or interests in lands owned by the United States. |
+| [318\.](%C2%A7%2000318%20-%20Highway%20relocation%20due%20to%20airport.md) | Highway relocation due to airport. |
+| [319\.](%C2%A7%2000319%20-%20Landscaping%20and%20scenic%20enhancement.md) | Landscaping and scenic enhancement. |
+| [320\.](%C2%A7%2000320%20-%20Bridges%20on%20Federal%20dams.md) | Bridges on Federal dams. |
+| [321\.](%C2%A7%2000321%20-%20National%20Highway%20Institute.md) | National Highway Institute. |
+| \[322. | Repealed.\] |
+| [323\.](%C2%A7%2000323%20-%20Donations.md) | Donations. |
+| [324\.](%C2%A7%2000324%20-%20Prohibition%20of%20discrimination%20on%20the%20basis%20of%20sex.md) | Prohibition of discrimination on the basis of sex. |
+| [325\.](%C2%A7%2000325%20-%20International%20highway%20transportation%20outreach%20program.md) | International highway transportation outreach program. |
+| [326\.](%C2%A7%2000326%20-%20Education%20and%20training%20program.md) | Education and training program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1991—Pub. L. 102–240, title I, §1034(b), title VI, §§6003(b), 6004(b), Dec. 18, 1991, 105 Stat. 1978, 2168, 2169, added items 303, 325, and 326.
+
+1987—Pub. L. 100–17, title I, §133(e)(1), Apr. 2, 1987, 101 Stat. 173, struck out item 322 “Demonstration project—rail crossings”.
+
+1983—Pub. L. 97–449, §5(d)(2), Jan. 12, 1983, 96 Stat. 2442, struck out item 303 “Bureau organization”.
+
+1973—Pub. L. 93–87, title I, §§145(b), 162(b), Aug. 13, 1973, 87 Stat. 273, 280, added items 323 and 324.
+
+1970—Pub. L. 91–605, title I, §115(b), title II, §205(b), Dec. 31, 1970, 84 Stat. 1723, 1743, added items 321 and 322.
+
+1966—Pub. L. 89–564, title I, §102(b)(2), Sept. 9, 1966, 80 Stat. 735, struck out item 313 relating to Highway Safety Conference.
+
+1965—Pub. L. 89–285, title III, §301(b), Oct. 22, 1965, 79 Stat. 1032, inserted “and scenic enhancement” after “Landscaping” in item 319.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 00301 - Freedom from tolls](%C2%A7%2000301%20-%20Freedom%20from%20tolls.md)
+- [&sect; 00302 - State highway department](%C2%A7%2000302%20-%20State%20highway%20department.md)
+- [&sect; 00303 - Management systems](%C2%A7%2000303%20-%20Management%20systems.md)
+- [&sect; 00304 - Participation by small business enterprises](%C2%A7%2000304%20-%20Participation%20by%20small%20business%20enterprises.md)
+- [&sect; 00305 - Archeological and paleontological salvage](%C2%A7%2000305%20-%20Archeological%20and%20paleontological%20salvage.md)
+- [&sect; 00306 - Mapping](%C2%A7%2000306%20-%20Mapping.md)
+- [&sect; 00307 - Research and planning](%C2%A7%2000307%20-%20Research%20and%20planning.md)
+- [&sect; 00308 - Cooperation with Federal and State agencies and foreign countries](%C2%A7%2000308%20-%20Cooperation%20with%20Federal%20and%20State%20agencies%20and%20foreign%20countries.md)
+- [&sect; 00309 - Cooperation with other American Republics](%C2%A7%2000309%20-%20Cooperation%20with%20other%20American%20Republics.md)
+- [&sect; 00310 - Civil defense](%C2%A7%2000310%20-%20Civil%20defense.md)
+- [&sect; 00311 - Highway improvements strategically important to the national defense](%C2%A7%2000311%20-%20Highway%20improvements%20strategically%20important%20to%20the%20national%20defense.md)
+- [&sect; 00312 - Detail of Army, Navy, and Air Force officers](%C2%A7%2000312%20-%20Detail%20of%20Army%2C%20Navy%2C%20and%20Air%20Force%20officers.md)
+- [&sect; 00313 - Repealed. Pub. L. 89&#8211;564, title I, &sect;102(a), Sept. 9, 1966, 80 Stat. 734](%C2%A7%2000313%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93564%2C%20title%20I%2C%20%C2%A7102%28a%29%2C%20Sept.%209%2C%201966%2C%2080%20Stat.%20734.md)
+- [&sect; 00314 - Relief of employees in hazardous work](%C2%A7%2000314%20-%20Relief%20of%20employees%20in%20hazardous%20work.md)
+- [&sect; 00315 - Rules, regulations, and recommendations](%C2%A7%2000315%20-%20Rules%2C%20regulations%2C%20and%20recommendations.md)
+- [&sect; 00316 - Consent by United States to conveyance of property](%C2%A7%2000316%20-%20Consent%20by%20United%20States%20to%20conveyance%20of%20property.md)
+- [&sect; 00317 - Appropriation for highway purposes of lands or interests in lands owned by the United States](%C2%A7%2000317%20-%20Appropriation%20for%20highway%20purposes%20of%20lands%20or%20interests%20in%20lands%20owned%20by%20the%20United%20States.md)
+- [&sect; 00318 - Highway relocation due to airport](%C2%A7%2000318%20-%20Highway%20relocation%20due%20to%20airport.md)
+- [&sect; 00319 - Landscaping and scenic enhancement](%C2%A7%2000319%20-%20Landscaping%20and%20scenic%20enhancement.md)
+- [&sect; 00320 - Bridges on Federal dams](%C2%A7%2000320%20-%20Bridges%20on%20Federal%20dams.md)
+- [&sect; 00321 - National Highway Institute](%C2%A7%2000321%20-%20National%20Highway%20Institute.md)
+- [&sect; 00322 - Repealed. Pub. L. 100&#8211;17, title I, &sect;133(e)(1), Apr. 2, 1987, 101 Stat. 173](%C2%A7%2000322%20-%20Repealed.%20Pub.%20L.%20100%E2%80%9317%2C%20title%20I%2C%20%C2%A7133%28e%29%281%29%2C%20Apr.%202%2C%201987%2C%20101%20Stat.%20173.md)
+- [&sect; 00323 - Donations](%C2%A7%2000323%20-%20Donations.md)
+- [&sect; 00324 - Prohibition of discrimination on the basis of sex](%C2%A7%2000324%20-%20Prohibition%20of%20discrimination%20on%20the%20basis%20of%20sex.md)
+- [&sect; 00325 - International highway transportation outreach program](%C2%A7%2000325%20-%20International%20highway%20transportation%20outreach%20program.md)
+- [&sect; 00326 - Education and training program](%C2%A7%2000326%20-%20Education%20and%20training%20program.md)

@@ -1,0 +1,18 @@
+### §631. False representations as to liability of United States for acts of corporation; punishment
+
+Whoever being connected in any capacity with any corporation organized under this subchapter, represents in any way that the United States is liable for the payment of any bond or other obligation, or the interest thereon, issued or incurred by any corporation organized under this subchapter, or that the United States incurs any liability in respect of any act or omission of the corporation, shall be punished by a fine or <sup>1</sup> not more than $10,000 and by imprisonment for not more than five years.
+
+(Dec. 23, 1913, ch. 6, §25A (par.), formerly §25(a), as added Dec. 24, 1919, ch. 18, 41 Stat. 378, and renumbered §25A, Dec. 19, 1991, Pub. L. 102–242, title I, §142(e)(2), 105 Stat. 2281.)
+
+#### References in Text
+
+This subchapter, referred to in text, was in the original “this section”, meaning section 25A of act Dec. 23, 1913, which is classified to this subchapter (§611 et seq.).
+
+Organized under this subchapter, referred to the second time in text, was in the original “organized hereunder”, meaning under section 25A of act Dec. 23, 1913.
+
+#### Codification
+
+Section is comprised of a part of section 25A, formerly section 25(a), which was added to act Dec. 23, 1913, ch. 6, by act Dec. 24, 1919.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+

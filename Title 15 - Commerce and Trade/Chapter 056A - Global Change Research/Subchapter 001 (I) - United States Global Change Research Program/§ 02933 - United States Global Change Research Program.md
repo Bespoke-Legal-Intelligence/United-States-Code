@@ -1,0 +1,10 @@
+### §2933. United States Global Change Research Program
+
+The President shall establish an interagency United States Global Change Research Program to improve understanding of global change. The Program shall be implemented by the Plan developed under section 2934 of this title.
+
+(Pub. L. 101 606, title I, §103, Nov. 16, 1990, 104 Stat. 3098.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2921 of this title.
+

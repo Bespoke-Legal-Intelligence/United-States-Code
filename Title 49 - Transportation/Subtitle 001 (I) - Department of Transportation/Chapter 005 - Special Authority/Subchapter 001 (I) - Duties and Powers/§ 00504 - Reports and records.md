@@ -1,0 +1,112 @@
+### §504. Reports and records
+
+(a) In this section—
+
+&emsp;(1) “association” means an organization maintained by or in the interest of a group of rail carriers, motor carriers, motor carriers of migrant workers, or motor private carriers that performs a service, or engages in activities, related to transportation of that carrier.
+
+&emsp;(2) “carrier” means a motor carrier, motor carrier of migrant workers, motor private carrier, and rail carrier.
+
+&emsp;(3) “lessor” means a person owning a railroad that is leased to and operated by a rail carrier, and a person leasing a right to operate as a motor carrier, motor carrier of migrant workers, or motor private carrier to another.
+
+&emsp;(4) “lessor” and “carrier” include a receiver or trustee of that lessor or carrier, respectively.
+
+(b)(1) The Secretary of Transportation may prescribe the form of records required to be prepared or compiled under this section by—
+
+&emsp;(A) carriers and lessors; and
+
+&emsp;(B) a person furnishing cars or protective service against heat or cold to or for a rail carrier.
+
+(2) The Secretary may require—
+
+&emsp;(A) carriers, lessors, associations, or classes of them as the Secretary may prescribe, to file annual, periodic, and special reports with the Secretary containing answers to questions asked by the Secretary; and
+
+&emsp;(B) a person furnishing cars or protective service against heat or cold to a rail carrier to file reports with the Secretary containing answers to questions about those cars or service.
+
+(c) The Secretary, or an employee designated by the Secretary, may on demand and display of proper credentials—
+
+&emsp;(1) inspect the equipment of a carrier or lessor; and
+
+&emsp;(2) inspect and copy any record of—
+
+&emsp;&emsp;(A) a carrier, lessor, or association;
+
+&emsp;&emsp;(B) a person controlling, controlled by, or under common control with a carrier, if the Secretary considers inspection relevant to that person's relation to, or transaction with, that carrier; and
+
+&emsp;&emsp;(C) a person furnishing cars or protective service against heat or cold to or for a rail carrier if the Secretary prescribed the form of that record.
+
+(d) The Secretary may prescribe the time period during which records must be preserved by a carrier, lessor, and person furnishing cars or protective service.
+
+(e)(1) An annual report shall contain an account, in as much detail as the Secretary may require, of the affairs of a carrier, lessor, or association for the 12-month period ending on the 31st day of December of each year. The annual report shall be filed with the Secretary by the end of the 3d month after the end of the year for which the report is made unless the Secretary extends the filing date or changes the period covered by the report.
+
+(2) The annual report and, if the Secretary requires, any other report made under this section shall be made under oath.
+
+(f) No part of a report of an accident occurring in operations of a motor carrier, motor carrier of migrant workers, or motor private carrier and required by the Secretary, and no part of a report of an investigation of the accident made by the Secretary, may be admitted into evidence or used in a civil action for damages related to a matter mentioned in the report or investigation.
+
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2433.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+504
+
+49:304(a)(3) (last sentence) (related to “Sec. 320(a) (1st, 2d sentences), (b)–(g)”).
+
+Feb. 4, 1887, ch. 104, 24 Stat. 379, §204(a)(3) (last sentence) (related to “Sec. 220(a) (1st, 2d sentences), (b)–(g)”); added Aug. 9, 1935, ch. 498, 49 Stat. 546.
+
+&nbsp;
+
+49:304(a)(3a) (last sentence) (related to “Sec. 320(a) (1st, 2d sentences), (b)–(g)”).
+
+Feb. 4, 1887, ch. 104, 24 Stat. 379, §204(a)(3a) (last sentence) (related to “Sec. 220(a) (1st, 2d sentences), (b)–(g)”); added Aug. 3, 1956, ch. 905, §2, 70 Stat. 958.
+
+&nbsp;
+
+49:1655(f)(2).
+
+Oct. 15, 1966, Pub. L. 89–670, §6(f)(2), 80 Stat. 940.
+
+504(f)
+
+49:320(f).
+
+Feb. 4, 1887, ch. 104, 24 Stat. 379, §220(f); added Sept. 18, 1940, ch. 722, §24, 54 Stat. 926.
+
+The section is included because 49:1655(f)(2) gave the same administrative powers exercised by the Interstate Commerce Commission under certain sections of title 49 to the Secretary of Transportation to carry out duties transferred to the Secretary by 49:1655(e). See the revision notes for section 501 of the revised title for an explanation of the transfer under 49:1655(f)(2). The powers of the Commission have been codified in subtitle IV of the revised title. The comparable provisions of title 49 that are represented by the section may be found as follows:
+
+&nbsp;
+
+| <i>Section 504</i> | <i>49 U.S. Code</i> | <i>Revised Section</i> |
+| :--- | :---: | ---: |
+| (a)(1), (3), and (4) | 20(8). | 3501, 11141 |
+| &nbsp; | 320(e). | 11141 |
+| (a)(2) | (no source). |  |
+| (b)(1) | 20(5) (1st sentence), (6) (2d sentence, 1st cl.), (7)(b) (proviso). | 11144 |
+| &nbsp; | 320(d) (1st sentence). | 11144 |
+| (b)(2) | 20(1) (1st sentence less manner and form of reports), (6) (2d sentence, 2d cl.). | 11145 |
+| &nbsp; | 320(a) (1st sentence). | 11145 |
+| (c) | 20(5) (less 1st sentence), (6) (less 2d sentence). | 11144 |
+| &nbsp; | 320(d) (3d and 4th sentences). | 11144 |
+| (d) | 20(7)(b) (proviso). | 11144 |
+| &nbsp; | 320(d) (less 1st, 3d, and 4th sentences). | 11144 |
+| (e) | 20(1) (1st sentence related to manner and form of reports). | 11145 |
+| &nbsp; | 320(a) (2d sentence), (b). | 11145 |
+
+See the revision notes for the revised sections for an explanation of changes made in the text. Changes not accounted for in those revision notes are as follows:
+
+The provisions of 49:320(c) are not included for motor carriers of migrant workers and motor private carriers because those provisions, while included in the enumeration in 49:304(a)(3) and (3a), are not included in the specific enumeration of 49:1655(f)(2)(B)(ii).
+
+In the section, the text of 49:304(a)(3) (last sentence 1st–7th words) and (3a) (last sentence 1st–5th words) is omitted as executed. The text of 49:320(b) (related to 13-period accounting year) and (g) is not included because it was enacted after the effective date of the transfer authority under 49:1655.
+
+In subsection (a), references to “water line” and “pipe line” are omitted as not applicable to this chapter. Clause (2) is added to provide a simple phrase to refer to all types of carriers to which the section applies.
+
+In subsection (f), the words “the course of the” are omitted as surplus. The words “civil action” are substituted for “suit or action” because of rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 505, 521, 522, 523, 11348 of this title.
+

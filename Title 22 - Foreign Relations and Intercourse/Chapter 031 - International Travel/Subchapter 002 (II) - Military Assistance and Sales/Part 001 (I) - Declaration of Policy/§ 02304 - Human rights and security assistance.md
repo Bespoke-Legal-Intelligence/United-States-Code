@@ -1,0 +1,156 @@
+### §2304. Human rights and security assistance
+
+#### (a) Observance of human rights as principal goal of foreign policy; implementation requirements
+
+(1) The United States shall, in accordance with its international obligations as set forth in the Charter of the United Nations and in keeping with the constitutional heritage and traditions of the United States, promote and encourage increased respect for human rights and fundamental freedoms throughout the world without distinction as to race, sex, language, or religion. Accordingly, a principal goal of the foreign policy of the United States shall be to promote the increased observance of internationally recognized human rights by all countries.
+
+(2) Except under circumstances specified in this section, no security assistance may be provided to any country the government of which engages in a consistent pattern of gross violations of internationally recognized human rights. Security assistance may not be provided to the police, domestic intelligence, or similar law enforcement forces of a country, and licenses may not be issued under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\] for the export of crime control and detection instruments and equipment to a country, the government of which engages in a consistent pattern of gross violations of internationally recognized human rights unless the President certifies in writing to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Banking, Housing, and Urban Affairs of the Senate (when licenses are to be issued pursuant to the Export Administration Act of 1979).<sup>1</sup> that extraordinary circumstances exist warranting provision of such assistance and issuance of such licenses. Assistance may not be provided under part V of this subchapter to a country the government of which engages in a consistent pattern of gross violations of internationally recognized human rights unless the President certifies in writing to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate that extraordinary circumstances exist warranting provision of such assistance.
+
+(3) In furtherance of paragraphs (1) and (2), the President is directed to formulate and conduct international security assistance programs of the United States in a manner which will promote and advance human rights and avoid identification of the United States, through such programs, with governments which deny to their people internationally recognized human rights and fundamental freedoms, in violation of international law or in contravention of the policy of the United States as expressed in this section or otherwise.
+
+#### (b) Report by Secretary of State on practices of proposed recipient countries; considerations
+
+The Secretary of State shall transmit to the Congress, as part of the presentation materials for security assistance programs proposed for each fiscal year, a full and complete report, prepared with the assistance of the Assistant Secretary of State for Democracy, Human Rights, and Labor, with respect to practices regarding the observance of and respect for internationally recognized human rights in each country proposed as a recipient of security assistance. Wherever applicable, such report shall include information on practices regarding coercion in population control, including coerced abortion and involuntary sterilization. In determining whether a government falls within the provisions of subsection (a)(3) of this section and in the preparation of any report or statement required under this section, consideration shall be given to—
+
+&emsp;(1) the relevant findings of appropriate international organizations, including nongovernmental organizations, such as the International Committee of the Red Cross; and
+
+&emsp;(2) the extent of cooperation by such government in permitting an unimpeded investigation by any such organization of alleged violations of internationally recognized human rights.
+
+#### (c) Congressional request for information; information required; 30-day period; failure to supply information; termination or restriction of assistance
+
+(1) Upon the request of the Senate or the House of Representatives by resolution of either such House, or upon the request of the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, the Secretary of State shall, within thirty days after receipt of such request, transmit to both such committees a statement, prepared with the assistance of the Assistant Secretary of State for Democracy, Human Rights, and Labor, with respect to the country designated in such request, setting forth—
+
+&emsp;(A) all the available information about observance of and respect for human rights and fundamental freedom in that country, and a detailed description of practices by the recipient government with respect thereto;
+
+&emsp;(B) the steps the United States has taken to—
+
+&emsp;&emsp;(i) promote respect for and observance of human rights in that country and discourage any practices which are inimical to internationally recognized human rights, and
+
+&emsp;&emsp;(ii) publicly or privately call attention to, and disassociate the United States and any security assistance provided for such country from, such practices;
+
+&emsp;(C) whether, in the opinion of the Secretary of State, notwithstanding any such practices—
+
+&emsp;&emsp;(i) extraordinary circumstances exist which necessitate a continuation of security assistance for such country, and, if so, a description of such circumstances and the extent to which such assistance should be continued (subject to such conditions as Congress may impose under this section), and
+
+&emsp;&emsp;(ii) on all the facts it is in the national interest of the United States to provide such assistance; and
+
+&emsp;(D) such other information as such committee or such House may request.
+
+(2)(A) A resolution of request under paragraph (1) of this subsection shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
+
+(B) The term “certification”, as used in section 601 of such Act, means, for the purposes of this subsection, a resolution of request of the Senate under paragraph (1) of this subsection.
+
+(3) In the event a statement with respect to a country is requested pursuant to paragraph (1) of this subsection but is not transmitted in accordance therewith within thirty days after receipt of such request, no security assistance shall be delivered to such country except as may thereafter be specifically authorized by law from such country unless and until such statement is transmitted.
+
+(4)(A) In the event a statement with respect to a country is transmitted under paragraph (1) of this subsection, the Congress may at any time thereafter adopt a joint resolution terminating, restricting, or continuing security assistance for such country. In the event such a joint resolution is adopted, such assistance shall be so terminated, so restricted, or so continued, as the case may be.
+
+(B) Any such resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
+
+(C) The term “certification”, as used in section 601 of such Act, means, for the purposes of this paragraph, a statement transmitted under paragraph (1) of this subsection.
+
+#### (d) Definitions
+
+For the purposes of this section—
+
+&emsp;(1) the term “gross violations of internationally recognized human rights” includes torture or cruel, inhuman, or degrading treatment or punishment, prolonged detention without charges and trial, causing the disappearance of persons by the abduction and clandestine detention of those persons, and other flagrant denial of the right to life, liberty, or the security of person; and
+
+&emsp;(2) the term “security assistance” means—
+
+&emsp;&emsp;(A) assistance under part II (military assistance) or part IV (economic support fund) or part V (military education and training) or part VI (peacekeeping operations) or part VIII (antiterrorism assistance) of this subchapter.
+
+&emsp;&emsp;(B) sales of defense articles or services, extensions of credits (including participations in credits, and guaranties of loans under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\]); or
+
+&emsp;&emsp;(C) any license in effect with respect to the export of defense articles or defense services to or for the armed forces, police, intelligence, or other internal security forces of a foreign country under section 38 of the Arms Export Control Act \[22 U.S.C. 2778\].
+
+#### (e) Removal of prohibition on assistance
+
+Notwithstanding any other provision of law, funds authorized to be appropriated under subchapter I of this chapter may be made available for the furnishing of assistance to any country with respect to which the President finds that such a significant improvement in its human rights record has occurred as to warrant lifting the prohibition on furnishing such assistance in the national interest of the United States.
+
+#### (f) Allocations concerned with performance record of recipient countries without contravention of other provisions
+
+In allocating the funds authorized to be appropriated by this chapter and the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], the President shall take into account significant improvements in the human rights records of recipient countries, except that such allocations may not contravene any other provision of law.
+
+#### (g) Report to Congress on use of certain authorities relating to human rights conditions
+
+Whenever the provisions of subsection (e) or (f) of this section are applied, the President shall report to the Congress before making any funds available pursuant to those subsections. The report shall specify the country involved, the amount and kinds of assistance to be provided, and the justification for providing the assistance, including a description of the significant improvements which have occurred in the country's human rights record.
+
+(Pub. L. 87–195, pt. II, §502B, as added Pub. L. 93–559, §46, Dec. 30, 1974, 88 Stat. 1815; amended Pub. L. 94–329, title III, §301(a), June 30, 1976, 90 Stat. 748; Pub. L. 95–105, title I, §109(a)(3), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–384, §§6(a)–(d)(1), (e), 10(b)(1), 12(b), Sept. 26, 1978, 92 Stat. 731, 732, 735, 737; Pub. L. 96–53, title V, §511, Aug. 14, 1979, 93 Stat. 380; Pub. L. 96–92, §4, Oct. 29, 1979, 93 Stat. 702; Pub. L. 96–533, title VII, §§701(b), 704, Dec. 16, 1980, 94 Stat. 3156, 3157; Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; Pub. L. 99–64, title I, §124, July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title XII, §1201, Aug. 8, 1985, 99 Stat. 276;Pub. L. 100–204, title I, §127(2), Dec. 22, 1987, 101 Stat. 1343; Pub. L. 103–236, title I, §162(e)(2), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588.)
+
+#### References in Text
+
+The Export Administration Act of 1979, referred to in subsec. (a)(2), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
+
+Section 601 of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (c)(2)(A), (4)(B), is section 601 of Pub. L. 94–329, which was not classified to the Code.
+
+The Arms Export Control Act, referred to in subsecs. (d)(2)(B) and (f), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+
+This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
+#### Codification
+
+The 1983 amendment by Pub. L. 98–151 is based on section 202(a) of H.R. 2992, Ninety-eighth Congress, 1st Session, as reported May 17, 1983, which was enacted into permanent law by Pub. L. 98–151.
+
+#### Amendments
+
+1994—Subsec. (b). Pub. L. 103–236 substituted “Democracy, Human Rights, and Labor” for “Human Rights and Humanitarian Affairs” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations” in introductory provisions.
+
+Pub. L. 103–236 substituted “Democracy, Human Rights, and Labor” for “Human Rights and Humanitarian Affairs” in introductory provisions.
+
+1987—Subsec. (b). Pub. L. 100–204 inserted after first sentence “Wherever applicable, such report shall include information on practices regarding coercion in population control, including coerced abortion and involuntary sterilization.”
+
+1985—Subsec. (a)(2). Pub. L. 99–64 inserted “and the chairman of the Committee on Banking, Housing, and Urban Affairs of the Senate (when licenses are to be issued pursuant to the Export Administration Act of 1979).”
+
+Subsec. (g). Pub. L. 99–83 added subsec. (g).
+
+1983—Subsec. (d)(2)(A). Pub. L. 98–151 inserted “or part VIII (antiterrorism assistance)”.
+
+1980—Subsec. (a)(2). Pub. L. 96–533, §704, substituted “Export Administration Act of 1979” for “Export Administration Act of 1969”.
+
+Subsec. (d)(1). Pub. L. 96–533, §701(b), defined “gross violations of internationally recognized human rights” to include causing the disappearance of persons by the abduction and clandestine detention of those persons.
+
+1979—Subsec. (e). Pub. L. 96–53 added subsec. (e).
+
+Subsec. (f). Pub. L. 96–92 added subsec. (f).
+
+1978—Subsec. (a)(1). Pub. L. 95–384, §6(a), substituted “The United States shall” for “It is the policy of the United States”, “throughout the world” for “for all”, and “Accordingly” for “To this end”.
+
+Subsec. (a)(2). Pub. L. 95–384, §6(b), (d)(1), (e), substituted “Except” for “It is further the policy of the United States that, except” and inserted provisions prohibiting security assistance, including crime control and detection instruments, from being provided to police, domestic intelligence, or other police forces of governments which the executive branch determines are guilty of a consistent pattern of gross violations of internationally recognized human rights and prohibiting assistance under part V of this subchapter to a country the government of which, as determined by the executive branch, is engaged in a consistent pattern of gross violations of internationally recognized human rights.
+
+Subsec. (a)(3). Pub. L. 95–384, §6(c), substituted “paragraphs (1) and (2),” for “the foregoing policy”.
+
+Subsec. (d)(2)(A). Pub. L. 95–384, §§10(b)(1), 12(b), substituted “(economic support fund)” for “(security supporting assistance)”, inserted “or part VI (peacekeeping operations)” after “and training)”, and struck out “or subchapter V (assistance to the Middle East) of this chapter” after “of this subchapter”.
+
+1977—Subsecs. (b), (c)(1). Pub. L. 95–105 substituted “Assistant Secretary of State” for “Coordinator”.
+
+1976—Pub. L. 94–329 restricted the power of the President by eliminating the extraordinary circumstances exception to termination of assistance for gross violations of recognized human rights, directed the Secretary of State, as part of the presentation materials for an assistance program, to transmit a full and complete report to Congress on the human rights practices of the proposed recipient country and, within 30 days of a request by Congress, to supply information concerning the human rights practices of a country receiving assistance for determination as to whether the assistance should be continued, restricted, or terminated, and defined “security assistance”.
+
+#### Change of Name
+
+Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+
+#### Effective Date of 1985 Amendment
+
+Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
+
+#### Effective Date of 1979 Amendment
+
+Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note under section 2151 of this title.
+
+#### Delegation of Functions; Allocation of Funds
+
+Functions of President under this section delegated to Secretary of State and funds available to President under this subchapter allocated to Secretary of Defense by sections 1–201(a)(27) and 1–801(b) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, as amended, set out as a note under section 2381 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2321, 2398, 2651a, 5732 of this title; title 12 section 635; title 48 section 1904; title 50 App. section 2405.
+

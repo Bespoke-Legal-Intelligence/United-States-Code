@@ -1,0 +1,240 @@
+### §8347. Administration; regulations
+
+(a) The Office of Personnel Management shall administer this subchapter. Except as otherwise specifically provided herein, the Office shall perform, or cause to be performed, such acts and prescribe such regulations as are necessary and proper to carry out this subchapter.
+
+(b) Applications under this subchapter shall be in such form as the Office prescribes. Agencies shall support the applications by such certificates as the Office considers necessary to the determination of the rights of applicants. The Office shall adjudicate all claims under this subchapter.
+
+(c) The Office shall determine questions of disability and dependency arising under this subchapter. Except to the extent provided under subsection (d) of this section, the decisions of the Office concerning these matters are final and conclusive and are not subject to review. The Office may direct at any time such medical or other examinations as it considers necessary to determine the facts concerning disability or dependency of an individual receiving or applying for annuity under this subchapter. The Office may suspend or deny annuity for failure to submit to examination.
+
+(d)(1) Subject to paragraph (2) of this subsection, an administrative action or order affecting the rights or interests of an individual or of the United States under this subchapter may be appealed to the Merit Systems Protection Board under procedures prescribed by the Board.
+
+(2) In the case of any individual found by the Office to be disabled in whole or in part on the basis of the individual's mental condition, andthat finding was made pursuant to an application by an agency for purposes of disability retirement under section 8337(a) of this title, the procedures under section 7701 of this title shall apply and the decision of the Board shall be subject to judicial review under section 7703 of this title.
+
+(e) The Office shall fix the fees for examinations made under this subchapter by physicians or surgeons who are not medical officers of the United States. The fees and reasonable traveling and other expenses incurred in connection with the examinations are paid from appropriations for the cost of administering this subchapter.
+
+(f) The Office shall select three actuaries, to be known as the Board of Actuaries of the Civil Service Retirement System. The Office shall fix the pay of the members of the Board, except members otherwise in the employ of the United States. The Board shall report annually on the actuarial status of the System and furnish its advice and opinion on matters referred to it by the Office. The Board may recommend to the Office and to Congress such changes as in the Board's judgment are necessary to protect the public interest and maintain the System on a sound financial basis. The Office shall keep, or cause to be kept, such records as it considers necessary for making periodic actuarial valuations of the System. The Board shall make actuarial valuations every 5 years, or oftener if considered necessary by the Office.
+
+(g) The Office may exclude from the operation of this subchapter an employee or group of employees in or under an Executive agency whose employment is temporary or intermittent. However, the Office may not exclude any employee who occupies a position on a part-time career employment basis (as defined in section 3401(2) of this title).
+
+(h) The Office, on recommendation by the Mayor of the District of Columbia, may exclude from the operation of this subchapter an individual or group of individuals employed by the government of the District of Columbia whose employment is temporary or intermittent.
+
+(i) The Architect of the Capitol may exclude from the operation of this subchapter an employee under the Office of the Architect of the Capitol whose employment is temporary or of uncertain duration.
+
+(j) The Librarian of Congress may exclude from the operation of this subchapter an employee under the Library of Congress whose employment is temporary or of uncertain duration.
+
+(k) The Secretary of Agriculture shall prescribe regulations to effect the application and operation of this subchapter to an individual named by section 8331(1)(F) of this title.
+
+(<i>l</i>) The Director or Acting Director of the Botanic Garden may exclude from the operation of this subchapter an employee under the Botanic Garden whose employment is temporary or of uncertain duration.
+
+(m) Notwithstanding any other provision of law, for the purpose of ensuring the accuracy of information used in the administration of this chapter, at the request of the Director of the Office of Personnel Management—
+
+&emsp;(1) the Secretary of Defense or the Secretary's designee shall provide information on retired or retainer pay provided under title 10;
+
+&emsp;(2) the Secretary of Veterans Affairs shall provide information on pensions or compensation provided under title 38;
+
+&emsp;(3) the Commissioner of Social Security or the Secretary's <sup>1</sup> designee shall provide information contained in the records of the Social Security Administration; and
+
+&emsp;(4) the Secretary of Labor or the Secretary's designee shall provide information on benefits paid under subchapter I of chapter 81 of this title.
+
+> The Director shall request only such information as the Director determines is necessary. The Director, in consultation with the officials from whom information is requested, shall establish, by regulation and otherwise, such safeguards as are necessary to ensure that information made available under this subsection is used only for the purpose authorized.
+
+(n)(1) Notwithstanding any other provision of this subchapter, the Director of Central Intelligence shall, in a manner consistent with the administration of this subchapter by the Office, and to the extent considered appropriate by the Director of Central Intelligence—
+
+&emsp;(A) determine entitlement to benefits under this subchapter based on the service of employees of the Central Intelligence Agency;
+
+&emsp;(B) maintain records relating to the service of such employees;
+
+&emsp;(C) compute benefits under this subchapter based on the service of such employees;
+
+&emsp;(D) collect deposits to the Fund made by such employees, their spouses, and their former spouses;
+
+&emsp;(E) authorize and direct disbursements from the Fund to the extent based on service of such employees; and
+
+&emsp;(F) perform such other functions under this subchapter as the Director of Central Intelligence, in consultation with the Director of the Office of Personnel Management, determines to be appropriate.
+
+(2) The Director of the Office of Personnel Management shall furnish such information and, on a reimbursable basis, such services to the Director of Central Intelligence as the Director of Central Intelligence requests to carry out paragraph (1) of this subsection.
+
+(3)(A) The Director of Central Intelligence, in consultation with the Director of the Office of Personnel Management, shall by regulation prescribe appropriate procedures to carry out this subsection.
+
+(B) The regulations shall provide procedures for the Director of the Office of Personnel Management to inspect and audit disbursements from the Civil Service Retirement and Disability Fund under this subchapter.
+
+(C) The Director of Central Intelligence shall submit the regulations prescribed under subparagraph (A) to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives before the regulations take effect.
+
+(4)(A) Section 201(c) of the Central Intelligence Agency Retirement Act shall apply in the administration of this subchapter to the extentthat the provisions of this subchapter are administered under this subsection.
+
+(B) Notwithstanding subparagraph (A) of this paragraph, section 8347(d) of this title shall apply with respect to employees of the Central Intelligence Agency who are subject to the Civil Service Retirement System.
+
+(<i>o</i>) Any provision of law outside of this subchapter which provides coverage, service credit, or any other benefit under this subchapter to any individuals who (based on their being employed by an entity other than the Government) would not otherwise be eligible for any such coverage, credit, or benefit, shall not apply with respect to any individual appointed, transferred, or otherwise commencing that type of employment on or after October 1, 1988.
+
+(p) The Director of the Administrative Office of the United States Courts may exclude from the operation of this subchapter an employee of the Administrative Office of the United States Courts, the Federal Judicial Center, or a court named by section 610 of title 28, whose employment is temporary or of uncertain duration.
+
+(q)(1) Under regulations prescribed by the Office of Personnel Management, an employee of the Department of Defense or the Coast Guard who—
+
+&emsp;(A) has not previously made an election under this subsection or had an opportunity to make an election under this paragraph;
+
+&emsp;(B) has 5 or more years of civilian service creditable under this subchapter; and
+
+&emsp;(C) moves, without a break in service of more than 3 days, to employment in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, respectively, described in section 2105(c),
+
+> shall be given the opportunity to elect irrevocably, within 30 days after such move, to remain covered as an employee under this subchapter during any employment described in section 2105(c) after such move.
+
+(2) Under regulations prescribed by the Office of Personnel Management, an employee of a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, described in section 2105(c), who—
+
+&emsp;(A) has not previously made an election under this subsection or had an opportunity to make an election under this paragraph;
+
+&emsp;(B) is a vested participant in a retirement system established for employees described in section 2105(c), as the term “vested participant” is defined by such system;
+
+&emsp;(C) moves, without a break in service of more than 3 days, to a position in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c); and
+
+&emsp;(D) is excluded from coverage under chapter 84 by section 8402(b),
+
+> shall be given the opportunity to elect irrevocably, within 30 days after such move, to remain covered, during any subsequent employment as an employee as defined in section 2105(a) or section 2105(c), by the retirement system applicable to such employee's current or most recent employment described in section 2105(c) rather than be subject to this subchapter.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 583; Pub. L. 90–83, §1(84), Sept. 11, 1967, 81 Stat. 218; Pub. L. 90–623, §1(22), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–437, §4(a), Oct. 10, 1978, 92 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), (9), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1224, 1225, 1227; Pub. L. 96–54, §2(a)(50), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–499, title IV, §404(b), Dec. 5, 1980, 94 Stat. 2606; Pub. L. 96–500, §1, Dec. 5, 1980, 94 Stat. 2696; Pub. L. 97–253, title III, §302(b), Sept. 8, 1982, 96 Stat. 793; Pub. L. 99–335, title II, §207(i), June 6, 1986, 100 Stat. 596; Pub. L. 100–238, title I, §108(a)(1), Jan. 8, 1988, 101 Stat. 1747; Pub. L. 101–474, §5(n), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(j)(2), Nov. 5, 1990, 104 Stat. 1388–337; Pub. L. 102–54, §13(b)(5), June 13, 1991, 105 Stat. 274; Pub. L. 102–378, §2(64), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 103–296, title I, §108(e)(5), Aug. 15, 1994, 108 Stat. 1486.)
+
+Historical and Revision Notes<br>1966
+
+Act
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+(a)–(f)
+
+5 U.S.C. 2266 (less (f)).
+
+July 31, 1956, ch. 804, §401 “Sec. 16 (less (f))”, 70 Stat. 758.
+
+(g)–(k)
+
+5 U.S.C. 2252(e), (f) (words after semicolon), (h) (1).
+
+July 31, 1956, ch. 804, §401 “Sec. 2(e), (f) (words after semicolon)”, 70 Stat. 745.
+
+&nbsp;
+
+July 1, 1960, Pub. L. 86–568, §115(b)(1) “(h) (1)”, 74 Stat. 302.
+
+In subsection (a), the words “to carry out this subchapter” are substituted for “for the purpose of carrying the provisions of this chapter into full force and effect”.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+1967
+
+Act
+
+<i>Section of title 5</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+8347(<i>l)</i>
+
+5 App.: 2252(f).
+
+Sept. 26, 1966, Pub. L. 89–604, §1(c), 80 Stat. 847.
+
+#### References in Text
+
+Section 201(c) of the Central Intelligence Agency Retirement Act, referred to in subsec. (n)(4)(A), is classified to section 2011(c) of Title 50, War and National Defense.
+
+#### Amendments
+
+1994—Subsec. (m)(3). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
+
+1992—Subsec. (n)(4)(A). Pub. L. 102–496 substituted “the Central Intelligence Agency Retirement Act” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
+
+Subsec. (p). Pub. L. 102–378, §2(64)(A), redesignated subsec. (p), relating to employees of Department of Defense and Coast Guard, as (q).
+
+Subsec. (q). Pub. L. 102–378, §2(64)(A), redesignated subsec. (p), relating to employees of Department of Defense and Coast Guard, as (q).
+
+Subsec. (q)(1)(A), (2)(A). Pub. L. 102–378, §2(64)(B), amended subpars. (A) generally. Prior to amendment, subpars. (A) read as follows: “has not previously made or had an opportunity to make an election under this subsection;”.
+
+1991—Subsec. (m)(2). Pub. L. 102–54 substituted “Secretary” for “Administrator”.
+
+1990—Subsec. (p). Pub. L. 101–508 added subsec. (p) relating to elections by employees of Department of Defense, Coast Guard, or a nonappropriated fund instrumentality of Department of Defense or Coast Guard.
+
+Pub. L. 101–474 added subsec. (p) relating to Director of Administrative Office of United States Courts.
+
+1988—Subsec. (<i>o</i>). Pub. L. 100–238 added subsec. (<i>o).</i>
+
+1986—Subsec. (n). Pub. L. 99–335 added subsec. (n).
+
+1982—Subsec. (m)(3), (4). Pub. L. 97–253 added pars. (3) and (4).
+
+1980—Subsec. (c). Pub. L. 96–500, §1(a), substituted “Except to the extent provided under subsection (d) of this section, the decisions of the Office concerning” for “The decisions of the Office concerning”.
+
+Subsec. (d). Pub. L. 96–500, §1(b), designated existing provisions as par. (1), made such par. (1) subject to the provisions of par. (2), and added par. (2).
+
+Subsec. (m). Pub. L. 96–499 added subsec. (m).
+
+1979—Subsec. (h). Pub. L. 96–54 substituted “Mayor” for “Commissioner”.
+
+1978—Subsecs. (a) to (c). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+
+Subsec. (d). Pub. L. 95–454, §906(a)(9), substituted “Merit Systems Protection Board” for “Commission”, and “Board” for “Commission”.
+
+Subsecs. (e), (f). Pub. L. 95–454, §906(a)(3), substituted “Office” for “Commission” wherever appearing.
+
+Subsec. (g). Pub. L. 95–454, §906(a)(3), (c)(2)(F), substituted “Office” for “Commission” wherever appearing, and “3401” for “3391”.
+
+Pub. L. 95–437 inserted provision prohibiting the Commission from excluding any employee who occupies a position on a part-time career employment basis, as defined in section 3391(2) of this title.
+
+Subsec. (h). Pub. L. 95–454, §906(a)(3), substituted “Office” for “Commission”.
+
+1968—Subsec. (h). Pub. L. 90–623 substituted “Commissioner” for “Commissioners”.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
+
+#### Effective Date of 1992 Amendments
+
+Amendment by Pub. L. 102–496 effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as an Effective Date note under section 2001 of Title 50, War and National Defense.
+
+Amendment by section 2(64) of Pub. L. 102–378 effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as a note under section 6303 of this title.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of this title.
+
+#### Effective Date of 1982 Amendment
+
+Amendment by Pub. L. 97–253 effective Oct. 1, 1982, see section 302(c)(1) of Pub. L. 97–253, as amended by section 3(i) of Pub. L. 97–346, set out as a note under section 8337 of this title.
+
+#### Effective Date of 1980 Amendments
+
+Section 2 of Pub. L. 96–500 provided that: “The amendments made by the first section of this Act \[amending this section\] shall apply with respect to determinations made by the Office of Personnel Management on or after the first day of the first month beginning after the date of the enactment of this Act \[Dec. 5, 1980\].”
+
+Amendment by Pub. L. 96–499 effective Dec. 5, 1980, see section 404(c) of Pub. L. 96–499, set out as a note under section 8339 of this title.
+
+#### Effective Date of 1979 Amendment
+
+Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Effective Date of 1968 Amendment
+
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
+
+#### Treatment of Individuals Electing To Remain Subject to Their Former Retirement System
+
+For provisions relating to the deductions and contributions required with respect to individuals electing under section 8347(q) or 8461(n) of this title to remain covered under subchapter III of chapter 83 of this title, chapter 84 of this title, or a retirement system for employees described in section 2105(c) of this title, see section 7202(n) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 8331, 8334, 8348, 8349, 8423, 8461 of this title; title 22 section 6103; title 25 section 450i.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Commissioner's”.</i>
+

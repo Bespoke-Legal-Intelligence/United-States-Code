@@ -1,0 +1,50 @@
+### §3707. Tanker minimum standards
+
+(a) A new tanker of at least 10,000 gross tons shall be equipped with—
+
+&emsp;(1) 2 remote steering gear control systems operable separately from the navigating bridge;
+
+&emsp;(2) the main steering gear control in the steering gear compartment;
+
+&emsp;(3) means of communications and rudder angle indicators on the navigating bridge, a remote steering gear control station, and the steering gear compartment;
+
+&emsp;(4) at least 2 identical and adequate power units for the main steering gear;
+
+&emsp;(5) an alternative and adequate power supply, either from an emergency source of electrical power or from another independent source of power located in the steering gear compartment; and
+
+&emsp;(6) means of automatic starting and stopping of power units with attendant alarms at all steering stations.
+
+(b) An existing tanker of at least 10,000 gross tons shall be equipped with—
+
+&emsp;(1) 2 remote steering gear control systems operable separately from the navigating bridge;
+
+&emsp;(2) the main steering gear control in the steering gear compartment; and
+
+&emsp;(3) means of communications and rudder angle indicators on the navigating bridge, a remote steering gear control station, and the steering gear compartment.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 524.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source section (U.S. Code)</i>
+
+3707(a)
+
+46:391a(7)(K)
+
+3707(b)
+
+46:391a(7)(L)
+
+Section 3707 requires compliance with certain minimum standards by a tanker, which is a self-propelled tank vessel.
+
+Section 3707(a) requires new tankers of 10,000 gross tons or above, to have two remote steering gear control systems, a main steering gear control in the steering gear compartment, a means of communications and rudder angle indicators at specified locations, two or more specified power units for the main steering gear, an alternative and adequate power supply of specified characteristics, and a means of automatic operation of power units, with attendant alarms at all steering stations.
+
+Section 3707(b) requires existing tankers of 10,000 gross tons or above, to have two remote steering gear control systems, a main steering gear control in the steering gear compartment, and a means of communication and rudder angle indicators at specified locations.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1185 of Appendix to this title.
+

@@ -1,0 +1,34 @@
+### §1342. Limitation on voluntary services
+
+An officer or employee of the United States Government or of the District of Columbia government may not accept voluntary services for either government or employ personal services exceeding that authorized by law except for emergencies involving the safety of human life or the protection of property. This section does not apply to a corporation getting amounts to make loans (except paid in capital amounts) without legal liability of the United States Government. As used in this section, the term “emergencies involving the safety of human life or the protection of property” does not include ongoing, regular functions of government the suspension of which would not imminently threaten the safety of human life or the protection of property.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 101–508, title XIII, §13213(b), Nov. 5, 1990, 104 Stat. 1388–621.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+1342
+
+31:665(b).
+
+R.S. §3679(b), (d)(2)(last sentence related to voluntary services); Mar. 3, 1905, ch. 1484, §4(1st par.), 33 Stat. 1257; Feb. 27, 1906, ch. 510, §3, 34 Stat. 48; restated Sept. 6, 1950, ch. 896, §1211, 64 Stat. 765.
+
+&nbsp;
+
+31:665(d)(2)(last sentence related to voluntary services).
+
+The words “District of Columbia government” are added because of section 47–105 of the D.C. Code.
+
+#### Amendments
+
+1990—Pub. L. 101–508 inserted at end “As used in this section, the term ‘emergencies involving the safety of human life or the protection of property’ does not include ongoing, regular functions of government the suspension of which would not imminently threaten the safety of human life or the protection of property.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1349, 1350, 1351 of this title; title 2 section 60a–2; title 5 sections 568, 583, 595, 3102, 3111, 5306; title 10 section 1588; title 15 sections 636, 2076, 2218; title 18 section 4204; title 19 section 2171; title 20 sections 5933, 6104; title 22 sections 277d–3, 1461b, 2124c, 2509, 3723, 5422; title 25 section 2020; title 28 section 995; title 29 sections 783, 1579, 2635; title 30 section 1807; title 33 section 1123; title 36 section 155b; title 42 sections 682, 1314a, 2204, 2204a, 2210, 2295, 2394, 3788, 4343, 5613, 7705c, 10248, 12651g; title 44 section 2105; title 46 App. section 1717; title 47 sections 154, 332.
+

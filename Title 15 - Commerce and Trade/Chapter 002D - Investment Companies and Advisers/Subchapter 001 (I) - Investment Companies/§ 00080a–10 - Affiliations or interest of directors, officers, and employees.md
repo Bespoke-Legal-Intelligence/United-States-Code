@@ -1,0 +1,104 @@
+### §80a–10. Affiliations or interest of directors, officers, and employees
+
+#### (a) Interested persons of company who may serve on board of directors
+
+No registered investment company shall have a board of directors more than 60 per centum of the members of which are persons who are interested persons of such registered company.
+
+#### (b) Employment and use of directors, officers, etc., as regular broker, principal underwriter, or investment banker
+
+No registered investment company shall—
+
+&emsp;(1) employ as regular broker any director, officer, or employee of such registered company, or any person of which any such director, officer, or employee is an affiliated person, unless a majority of the board of directors of such registered company shall be persons who are not such brokers or affiliated persons of any of such brokers;
+
+&emsp;(2) use as a principal underwriter of securities issued by it any director, officer, or employee of such registered company or any person of which any such director, officer, or employee is an interested person, unless a majority of the board of directors of such registered company shall be persons who are not such principal underwriters or interested persons of any of such principal underwriters; or
+
+&emsp;(3) have as director, officer, or employee any investment banker, or any affiliated person of an investment banker, unless a majority of the board of directors of such registered company shall be persons who are not investment bankers or affiliated persons of any investment banker. For the purposes of this paragraph, a person shall not be deemed an affiliated person of an investment banker solely by reason of the fact that he is an affiliated person of a company of the character described in section 80a–12(d)(3)(A) and (B) of this title.
+
+#### (c) Officers, directors, or employees of one bank as majority of board of directors of company; exceptions
+
+No registered investment company shall have a majority of its board of directors consisting of persons who are officers, directors, or employees of any one bank, except that, if on March 15, 1940, any registered investment company had a majority of its directors consisting of persons who are directors, officers, or employees of any one bank, such company may continue to have the same percentage of its board of directors consisting of persons who are directors, officers, or employees of such bank.
+
+#### (d) Exception to limitation of number of interested persons who may serve on board of directors
+
+Notwithstanding subsections (a) and (b)(2) of this section, a registered investment companymay have a board of directors all the members of which, except one, are interested persons of the investment adviser of such company, or are officers or employees of such company, if—
+
+&emsp;(1) such investment company is an open-end company;
+
+&emsp;(2) such investment adviser is registered under subchapter II of this chapter and is engaged principally in the business of rendering investment supervisory services as defined in subchapter II;
+
+&emsp;(3) no sales load is charged on securities issued by such investment company;
+
+&emsp;(4) any premium over net asset value charged by such company upon the issuance of any such security, plus any discount from net asset value charged on redemption thereof, shall not in the aggregate exceed 2 per centum;
+
+&emsp;(5) no sales or promotion expenses are incurred by such registered company; but expenses incurred in complying with laws regulating the issue or sale of securities shall not be deemed sales or promotion expenses;
+
+&emsp;(6) such investment adviser is the only investment adviser to such investment company, and such investment adviser does not receive a management fee exceeding 1 per centum per annum of the value of such company's net assets averaged over the year or taken as of a definite date or dates within the year;
+
+&emsp;(7) all executive salaries and executive expenses and office rent of such investment company are paid by such investment adviser; and
+
+&emsp;(8) such investment company has only one class of securities outstanding, each unit of which has equal voting rights with every other unit.
+
+#### (e) Death, disqualification, or resignation of directors as suspension of limitation provisions
+
+If by reason of the death, disqualification, or bona fide resignation of any director or directors, the requirements of the foregoing provisions of this section or of section 80a–15(f)(1) of this title in respect of directors shall not be met by a registered investment company, the operation of such provision shall be suspended as to such registered company—
+
+&emsp;(1) for a period of thirty days if the vacancy or vacancies may be filled by action of the board of directors;
+
+&emsp;(2) for a period of sixty days if a vote of stockholders is required to fill the vacancy or vacancies; or
+
+&emsp;(3) for such longer period as the Commission may prescribe, by rules and regulations upon its own motion or by order upon application, as not inconsistent with the protection of investors.
+
+#### (f) Officer, director, etc., of company acting as principal underwriter of security acquired by company
+
+No registered investment company shall knowingly purchase or otherwise acquire, during the existence of any underwriting or selling syndicate, any security (except a security of which such company is the issuer) a principal underwriter of which is an officer, director, member of an advisory board, investment adviser, or employee of such registered company, or is a person (other than a company of the character described in section 80a–12(d)(3)(A) and (B) of this title) of which any such officer, director, member of an advisory board, investment adviser, or employee is an affiliated person, unless in acquiring such security such registered company is itself acting as a principal underwriter for the issuer. The Commission, by rules and regulations upon its own motion or by order upon application, may conditionally or unconditionally exempt any transaction or classes of transactions from any of the provisions of this subsection, if and to the extent that such exemption is consistent with the protection of investors.
+
+#### (g) Advisory boards; restrictions on membership
+
+In the case of a registered investment company which has an advisory board, such board, as a distinct entity, shall be subject to the same restrictions as to its membership as are imposed upon a board of directors by this section.
+
+#### (h) Application of section to unincorporated registered management companies
+
+In the case of a registered management company which is an unincorporated company not having a board of directors, the provisions of this section shall apply as follows:
+
+&emsp;(1) the provisions of subsection (a) of this section, as modified by subsection (e) of this section, shall apply to the board of directors of the depositor of such company;
+
+&emsp;(2) the provisions of subsections (b) and (c) of this section, as modified by subsection (e) of this section, shall apply to the board of directors of the depositor and of every investment adviser of such company; and
+
+&emsp;(3) the provisions of subsection (f) of this section shall apply to purchases and other acquisitions for the account of such company of securities a principal underwriter of which is the depositor or an investment adviser of such company, or an affiliated person of such depositor or investment adviser.
+
+(Aug. 22, 1940, ch. 686, title I, §10, 54 Stat. 806; Dec. 14, 1970, Pub. L. 91–547, §5, 84 Stat. 1416; June 4, 1975, Pub. L. 94–29, §28(5), 89 Stat. 165.)
+
+#### Amendments
+
+1975—Subsec. (e). Pub. L. 94–29 inserted reference to provisions of section 80a–15(f)(1) of this title.
+
+1970—Subsec. (a). Pub. L. 91–547, §5(a), struck out introductory text “After one year from the effective date of this subchapter” and substituted “interested persons of such registered company” for “investment advisers of, affiliated persons of an investment adviser of, or officers or employees of, such registered company”.
+
+Subsec. (b). Pub. L. 91–547, §5(b)(1), struck out introductory text “After one year from the effective date of this subchapter,” and substituted “No” for “no”.
+
+Subsec. (b)(2). Pub. L. 91–547, §5(b)(2), substituted “interested” for “affiliated” in two places.
+
+Subsec. (c). Pub. L. 91–547, §5(c), struck out introductory text “After the effective date of this subchapter”, substituted “No”, “, except that”, “had a majority”, and “such company” for “no”, “: <i>Provided</i>, That”, “shall have had a majority”, and “such company”, respectively, and inserted reference to employees where first appearing.
+
+Subsec. (d). Pub. L. 91–547, §5(d), reenacted provisions except for substitution of “interested persons” for “affiliated persons” in introductory text, deletion of “such investment adviser” before “is engaged” in item (2),and substitution of “class of securities” for “class of stock” and “unit” for “share” in two places in item (8).
+
+#### Effective Date of 1975 Amendment
+
+Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
+
+#### Effective Date of 1970 Amendment
+
+For effective date of amendment by Pub. L. 91–547, see section 30 (introductory text and pars. (1) and (2)) of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+
+#### Cross References
+
+Unlawful distribution of securities by open-end companies, exempt companies, see section 80a–12 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 80a–6, 80a–12, 80a–58 of this title.
+

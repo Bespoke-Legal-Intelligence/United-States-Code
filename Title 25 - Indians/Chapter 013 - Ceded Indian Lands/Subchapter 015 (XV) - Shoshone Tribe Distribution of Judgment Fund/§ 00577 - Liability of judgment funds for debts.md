@@ -1,0 +1,14 @@
+### §577. Liability of judgment funds for debts
+
+In no event shall any portion of the Shoshone judgment fund become liable, payable, or subject to any debt or debts contracted prior to July 27, 1939, by any Indian of the Shoshone Tribe except debts to the United States or to the tribe.
+
+(July 27, 1939, ch. 387, §7, 53 Stat. 1130.)
+
+#### Cross References
+
+Shoshone judgment fund, see section 571 of this title and note.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 571, 575 of this title.
+

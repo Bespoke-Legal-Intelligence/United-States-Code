@@ -1,0 +1,116 @@
+### §206. Reserves; members of National Guard: inactive-duty training
+
+(a) Under regulations prescribed by the Secretary concerned, and to the extent provided for by appropriations, a member of the National Guard or a member of a reserve component of a uniformed service who is not entitled to basic pay under section 204 of this title, is entitled to compensation, at the rate of 1/30 of the basic pay authorized for a member of a uniformed service of a corresponding grade entitled to basic pay—
+
+&emsp;(1) for each regular period of instruction, or period of appropriate duty, at which the member is engaged for at least two hours, including that performed on a Sunday or holiday;
+
+&emsp;(2) for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe; or
+
+&emsp;(3) for a regular period of instruction that the member is scheduled to perform but is unable to perform because of physical disability resulting from an injury, illness, or disease incurred or aggravated—
+
+&emsp;&emsp;(A) in line of duty while performing—
+
+&emsp;&emsp;&emsp;(i) active duty; or
+
+&emsp;&emsp;&emsp;(ii) inactive-duty training; or
+
+&emsp;&emsp;(B) while traveling directly to or from that duty or training (unless such injury, illness, disease, or aggravation of an injury, illness, or disease is the result of the gross negligence or misconduct of the member).
+
+(b) The regulations prescribed under subsection (a) for each uniformed service, the National Guard, and each of the classes of organization of the reserve components within each uniformed service, may be different. The Secretary concerned shall, for the National Guard and each of the classes of organization within each uniformed service, prescribe—
+
+&emsp;(1) minimum standards that must be met before an assembly for drill or other equivalent period of training, instruction, duty, or appropriate duties may be credited for pay purposes, and those standards may require the presence for duty of officers and enlisted members in numbers equal to or more than a minimum number or percentage of the unit strength for a specified period of time with participation in a prescribed kind of training;
+
+&emsp;(2) the maximum number of assemblies or periods of other equivalent training, instruction, duty, or appropriate duties, that may be counted for pay purposes in each fiscal year or in lesser periods of time; and
+
+&emsp;(3) the minimum number of assemblies or periods of other equivalent training, instruction, duty, or appropriate duties that must be completed in stated periods of time before the members of units or organizations can qualify for pay.
+
+(c) A person enlisted in the inactive National Guard is not entitled to pay under this section.
+
+(d) This section does not authorize compensation for work or study performed by a memberof a reserve component in connection with correspondence courses of an armed force.
+
+(e) A member of the National Guard or of a reserve component of the uniformed services may not be paid under this section for more than four periods of equivalent training, instruction, duty, or appropriate duties performed during a fiscal year instead of the member's regular period of instruction or regular period of appropriate duty during that fiscal year.
+
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 460; Pub. L. 98–525, title XIV, §1402(a), Oct. 19, 1984, 98 Stat. 2620; Pub. L. 99–661, div. A, title VI, §604(c), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 100–456, div. A, title VI, §631(c), Sept. 29, 1988, 102 Stat. 1985; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+206(a)
+
+37:301(a) (less 45 words before proviso and proviso).
+
+37:301(e) (as applicable to basic pay).
+
+Oct. 12, 1949, ch. 681, §501(a) (less 45 words before proviso), (b) (less 1st sentence), (e) (as applicable to basic pay), 63 Stat. 825, 827; Aug. 10, 1956, ch. 1041, §20(e), (f), 70A Stat. 629; June 30, 1960, Pub. L. 86–559, §8, 74 Stat. 282.
+
+206(b)
+
+37:301(a) (proviso).
+
+206(c)
+
+32:303(c).
+
+\[None.\]
+
+206(d)
+
+37:301(b) (less 1st sentence).
+
+In subsection (a), the words “National Guard” are substituted for the words “National Guard, Air National Guard”, in section 301(a) of existing title 37, to conform to the definition of “National Guard” in section 101(6) of this revised title. The words “member of a reserve component of a uniformed service” are substituted for the words “National Guard of the United States, Air National Guard of the United States, Organized Reserve Corps, Naval Reserve, Air Force Reserve, Marine Corps Reserve, Coast Guard Reserve, and the Reserve Corps of the Public Health Service,” since all of those organizations, or their successors, are the reserve components of the uniformed services. The words “who is not entitled to basic pay under section 204 of this title” are substituted for section 301(e) as (applicable to basic pay) of existing title 37. The words “of a corresponding grade” are inserted for clarity.
+
+In subsection (b), the words “National Guard or reserve components” are substituted for the listing of organizations for the reasons set forth above. Reference to “classes of organization,” so far as they relate to the National Guard, are omitted, since there are no classes of organization of the National Guard.
+
+#### Prior Provisions
+
+Provisions similar to those comprising subsec. (e) of this section were contained in the following appropriation acts:
+
+Pub. L. 98–473, title I, §101(h) \[title VIII, §8020\], Oct. 12, 1984, 98 Stat. 1904, 1927.
+
+Pub. L. 98–212, title VII, §722, Dec. 8, 1983, 97 Stat. 1442.
+
+Pub. L. 97–377, title I, §101(c) \[title VII, §725\], Dec. 21, 1982, 96 Stat. 1833, 1855.
+
+Pub. L. 97–114, title VII, §725, Dec. 29, 1981, 95 Stat. 1583.
+
+Pub. L. 96–527, title VII, §726, Dec. 15, 1980, 94 Stat. 3086.
+
+Pub. L. 96–154, title VII, §726, Dec. 21, 1979, 93 Stat. 1157.
+
+Pub. L. 95–457, title VIII, §826, Oct. 13, 1978, 92 Stat. 1248.
+
+#### Amendments
+
+1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+
+1988—Subsec. (a)(3)(A)(i). Pub. L. 100–456 struck out “for a period of 30 days or less” after “active duty”.
+
+1986—Subsec. (a). Pub. L. 99–661, substituted “entitled to basic pay—” and pars. (1) to (3) for “entitled to basic pay, for each regular period of instruction, or period of appropriate duty, at which he is engaged for at least two hours, including that performed on a Sunday or holiday, or for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe.”
+
+1984—Subsec. (e). Pub. L. 98–525 added subsec. (e).
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–456 applicable with respect to persons who, after Sept. 29, 1988, incur or aggravate an injury, illness, or disease, or who die as the result of incurring or aggravating an injury, illness, or disease, see section 631(d) of Pub. L. 100–456, set out as a note under section 204 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–525 effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of Title 10, Armed Forces.
+
+#### Cross References
+
+Inactive-duty training defined, see section 101 of this title and section 101 of Title 10, Armed Forces.
+
+Incentive pay for hazardous duty, see section 301 of this title.
+
+Rations in kind when instruction or duty periods total at least 8 hours in calendar day, see section 402 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 101, 204, 301, 301a, 301c, 304, 308d, 316, 402, 433, 707, 1012 of this title; title 10 sections 101, 1465, 1466, 12319; title 26 section 3121; title 31 section 698a; title 32 section 715; title 38 section 101; title 42 section 409.
+

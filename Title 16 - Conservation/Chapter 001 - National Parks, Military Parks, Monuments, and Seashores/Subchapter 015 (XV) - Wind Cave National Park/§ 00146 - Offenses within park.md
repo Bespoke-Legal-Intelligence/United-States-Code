@@ -1,0 +1,14 @@
+### §146. Offenses within park
+
+All persons who shall unlawfully intrude upon said park, or who shall without permission appropriate any object therein or commit unauthorized injury or waste in any form whatever upon the lands or other public property therein, or who shall violate any of the rules and regulations prescribed hereunder, shall upon conviction be fined in a sum not more than $1,000 or be imprisoned for a period not more than twelve months, or shall suffer both fine and imprisonment, in the discretion of the court.
+
+(Jan. 9, 1903, ch. 63, §6, 32 Stat. 766.)
+
+#### References in Text
+
+Hereunder, referred to in text, means act Jan. 9, 1903, ch. 63, 32 Stat. 765, which is classified to sections 141, and 142 to 146 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Cross References
+
+Violations of rules and regulations to be punishable by fine of not more than $500 or imprisonment not exceeding six months or both, see section 3 of this title.
+

@@ -1,0 +1,6 @@
+### §1163. Extension of privileges and rights granted under other laws
+
+Such provisions, privileges, and prerogatives as have been granted heretofore to other national veterans’ organizations by virtue of their being incorporated by Congress are hereby granted and accrue to the Paralyzed Veterans of America.
+
+(Pub. L. 92–93, §13, Aug. 11, 1971, 85 Stat. 319.)
+

@@ -1,0 +1,64 @@
+### §22106. Limitations on financial assistance
+
+(a)
+
+Grants and Loans.—A State shall use financial assistance for projects under this chapter to make a grant or lend money to the owner of rail property, or a rail carrier providing rail transportation, related to a project being assisted. The State shall decide on the financial terms of the grant or loan, except that the time for making grant advances shall comply with regulations of the Secretary of the Treasury.
+
+(b)
+
+Holding and Use of Government's Share.—The State shall place the United States Government's share of money that is repaid in an interest-bearing account. However, the Secretary of Transportation may allow a borrower to place that money, for the benefit of the State, in a bank designated by the Secretary of the Treasury under section 10 of the Act of June 11, 1942 (12 U.S.C. 265). The State shall use the money and accumulated interest to make other grants and loans under this chapter.
+
+(c)
+
+Payment of Unused Money and Accumulated Interest.—The State may pay the Secretary of Transportation the Government's share of unused money and accumulated interest at any time. However, the State must pay the unused money and accumulated interest to the Secretary when the State ends its participation under this chapter.
+
+(d)
+
+Encouraging Participation.—To the maximum extent possible, the State shall encourage the participation of shippers, rail carriers, and local communities in paying the State share of assistance costs.
+
+(e)
+
+Retention of Contingent Interest.—Each State shall retain a contingent interest (redeemable preference shares) for the Government's share of amounts in a rail line receiving assistance under this chapter. The State may collect its share of the amounts used for the rail line if—
+
+&emsp;(1) an application for abandonment of the rail line is filed under chapter 109 of this title; or
+
+&emsp;(2) the rail line is sold or disposed of after it has received assistance under this chapter.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 897.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+22106(a)
+
+49 App.:1654(d)(1), (2).
+
+Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §5(d), (i); added Feb. 5, 1976, Pub. L. 94–210, §803, 90 Stat. 130; Nov. 8, 1978, Pub. L. 95–607, §§102–106(a), 107–109(a), 92 Stat. 3059, 3062; Oct. 12, 1979, Pub. L. 96–86, §115(b), 93 Stat. 662; Aug. 13, 1981, Pub. L. 97–35, §§1191, 1192, 95 Stat. 699; Jan. 14, 1983, Pub. L. 97–468, §501, 96 Stat. 2551; Apr. 7, 1986, Pub. L. 99–272, §4018, 100 Stat. 111; restated Dec. 11, 1989, Pub. L. 101–213, §2(a), (c), 103 Stat. 1843, 1845, 1847.
+
+22106(b)
+
+49 App.:1654(d)(3) (1st, 2d sentences).
+
+22106(c)
+
+49 App.:1654(d)(3) (3d, last sentences).
+
+22106(d)
+
+49 App.:1654(d)(4).
+
+22106(e)
+
+49 App.:1654(i).
+
+In subsection (a), the words “financial assistance for projects under this chapter” are substituted for “assistance provided under subsection (b) of this section” for clarity. The words “rail carrier providing rail transportation” are substituted for “operator of rail service” for consistency in the revised title. The word “conditions” is omitted as being included in “terms”. The words “Secretary of the Treasury” are substituted for “Department of the Treasury” because of 31:301(b).
+
+In subsection (b), the words “in the same manner and under the same conditions as if they were originally granted to the State by the Secretary” are omitted as unnecessary.
+
+In subsection (e)(2), the words “assistance under this chapter” are substituted for “Federal assistance” for clarity and consistency in this chapter.
+

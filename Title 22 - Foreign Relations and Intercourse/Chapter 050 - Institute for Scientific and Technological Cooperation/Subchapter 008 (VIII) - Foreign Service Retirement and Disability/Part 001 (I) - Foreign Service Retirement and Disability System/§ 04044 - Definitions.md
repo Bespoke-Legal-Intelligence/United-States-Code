@@ -1,0 +1,112 @@
+### §4044. Definitions
+
+As used in this part, unless otherwise specified, the term—
+
+&emsp;(1) “annuitant” means any individual, including a former participant or survivor, who meets all requirements for an annuity from the Fund under this chapter or any other Act and who has filed a claim for such annuity;
+
+&emsp;(2) “child” means an individual—
+
+&emsp;&emsp;(A) who—
+
+&emsp;&emsp;&emsp;(i) is an offspring or adopted child of the participant,
+
+&emsp;&emsp;&emsp;(ii) is a stepchild or recognized natural child of the participant and who received more than one-half support from the participant, or
+
+&emsp;&emsp;&emsp;(iii) lived with the participant, for whom a petition of adoption was filed by the participant, and who is adopted by the surviving spouse of the participant after the death of the participant;
+
+&emsp;&emsp;(B) who is unmarried; and
+
+&emsp;&emsp;(C) who—
+
+&emsp;&emsp;&emsp;(i) is under the age of 18 years,
+
+&emsp;&emsp;&emsp;(ii) is a student under the age of 22 years (for purposes of this clause, an individual whose 22d birthday occurs before July 1 or after August 31 of the calendar year in which that birthday occurs, and while the individual is a student, is deemed to become 22 years of age on the first July 1 which occurs after that birthday), or
+
+&emsp;&emsp;&emsp;(iii) is incapable of self-support because of a physical or mental disability which was incurred before the individual reached the age of 18 years;
+
+&emsp;(3) “court” means any court of any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court as defined by section 1301(3) of title 25;
+
+&emsp;(4) “court order” means any court decree of divorce or annulment, or any court order or court approved property settlement agreement incident to any court decree of divorce or annulment;
+
+&emsp;(5) “Foreign Service normal cost” means the level percentage of payroll required to be deposited in the Fund to meet the cost of benefits payable under the System (computed in accordance with generally accepted actuarial practice on an entry-age basis) less the value of retirement benefits earned under another retirement system for Government employees and less the cost of credit allowed for military and naval service;
+
+&emsp;(6) “former spouse” means a former wife or husband of a participant or former participant who was married to such participant for not less than 10 years during periods of service by that participant which are creditable under section 4056 of this title;
+
+&emsp;(7) “Fund balance” means the sum of—
+
+&emsp;&emsp;(A) the investments of the Fund calculated at par value, plus
+
+&emsp;&emsp;(B) the cash balance of the Fund on the books of the Treasury;
+
+&emsp;(8) “lump-sum credit” means the compulsory and special contributions to the credit of a participant or former participant in the Fund plus interest on such contributions at 4 percent a year compounded annually to December 31, 1976, and after such date, for a participant who separates from the Service after completing at least 1 year of civilian service and before completing 5 years of such service, at the rate of 3 percent per year to the date of separation (except that interest shall not be paid for a fractional part of a month in the total service or on compulsory and special contributions from an annuitant for recall service or other service performed after the date of separation which forms the basis for annuity);
+
+&emsp;(9) “military and naval service” means honorable active service—
+
+&emsp;&emsp;(A) in the Armed Forces of the United States,
+
+&emsp;&emsp;(B) in the Regular or Reserve Corps of the Public Health Service after June 30, 1960, or
+
+&emsp;&emsp;(C) as a commissioned officer of the National Oceanic and Atmospheric Administration, or a predecessor organization, after June 30, 1961,
+
+> &emsp;but does not include service in the National Guard except when ordered to active duty in the service of the United States;
+
+&emsp;(10) “pro rata share”, in the case of any former spouse of any participant or former participant, means a percentage which is equal to the percentage that (A) the number of years during which the former spouse was married to the participant during the creditable service (creditable under part I or II of this subchapter) of that participant is of (B) the total number of years of such creditable service (creditable under part I or II of this subchapter);
+
+&emsp;(11) “spousal agreement” means any written agreement between—
+
+&emsp;&emsp;(A) a participant or former participant; and
+
+&emsp;&emsp;(B) his or her spouse or former spouse;
+
+&emsp;(12) “student” means a child regularly pursuing a full-time course of study or training in residence in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable recognized educational institution (for purposes of this paragraph, a child who is a student shall not be deemed to have ceased to be a student during any period between school years, semesters, or terms if the period of nonattendance does not exceed 5 calendar months and if the child shows to the satisfaction of the Secretary of State that he or she has a bona fide intention of continuing to pursue his or her course of study during the school year, semester, or term immediately following such period);
+
+&emsp;(13) “surviving spouse” means the surviving wife or husband of a participant or annuitant who was married to the participant or annuitant for at least 9 months immediately preceding his or her death or is a parent of a child born of the marriage, except that the requirement for at least 9 months of marriage shall be deemed satisfied in any case in which the participant or annuitant dies within the applicable 9-month period, if—
+
+&emsp;&emsp;(A) the death of such participant or annuitant was accidental; or
+
+&emsp;&emsp;(B) the surviving spouse of such individual had been previously married to the individual and subsequently divorced and the aggregate time married is at least 9 months; and
+
+&emsp;(14) “unfunded liability” means the estimated excess of the present value of all benefits payable from the Fund under this part over the sum of—
+
+&emsp;&emsp;(A) the present value of deductions to be withheld from the future basic salary of participants and of future agency contributions to be made on their behalf, plus
+
+&emsp;&emsp;(B) the present value of Government payments to the Fund under section 4061 of this title, plus
+
+&emsp;&emsp;(C) the Fund balance as of the date the unfunded liability is determined.
+
+(Pub. L. 96–465, title I, §804, Oct. 17, 1980, 94 Stat. 2102; Pub. L. 99–335, title IV, §§402(a)(2), (3), 403,404(a), June 6, 1986, 100 Stat. 609, 610; Pub. L. 100–238, title II, §211, Jan. 8, 1988, 101 Stat. 1773.)
+
+#### References in Text
+
+This chapter, referred to in par. (1), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+
+#### Amendments
+
+1988—Par. (13). Pub. L. 100–238, §211(1), which directed the amendment of par. (13) by striking out “, in the case of death in service or marriage after retirement,” was executed by striking out “, in the case of a death in service or marriage after retirement,” after “annuitant who”, as the probable intent of Congress.
+
+Pub. L. 100–238, §211(2), (3), substituted “9 months” for “one year” and inserted before semicolon at end “, except that the requirement for at least 9 months of marriage shall be deemed satisfied in any case in which the participant or annuitant dies within the applicable 9-month period, if—
+
+&emsp;“(A) the death of such participant or annuitant was accidental; or
+
+&emsp;“(B) the surviving spouse of such individual had been previously married to the individual and subsequently divorced and the aggregate time married is at least 9 months”.
+
+1986—Pub. L. 99–335, §402(a)(2), substituted “part” for “subchapter” in provision preceding par. (1).
+
+Par. (3). Pub. L. 99–335, §403, substituted “, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court as defined in section 1301(3) of title 25” for “or of the District of Columbia”.
+
+Par. (10). Pub. L. 99–335, §404(a), inserted “(creditable under part I or II of this subchapter)” after “creditable service” in two places.
+
+Par. (14). Pub. L. 99–335, §402(a)(3), inserted “under this part” after “payable from the Fund” in provision preceding subpar. (A).
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section 261(a) of Pub. L. 100–238, set out as a note under section 4054 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 4046, 4055, 4057, 4060, 4071a, 4159 of this title.
+

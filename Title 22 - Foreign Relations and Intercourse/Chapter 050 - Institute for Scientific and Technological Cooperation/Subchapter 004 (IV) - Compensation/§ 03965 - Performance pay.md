@@ -1,0 +1,84 @@
+### §3965. Performance pay
+
+#### (a) Eligibility; additional lump sum payment; excessive compensation not precluding award
+
+Members of the Senior Foreign Service who are serving—
+
+&emsp;(1) under career or career candidate appointments, or
+
+&emsp;(2) under limited appointments with reemployment rights under section 3950 of this title as career appointees in the Senior Executive Service,
+
+> shall be eligible to compete for performance pay in accordance with this section. Performance pay shall be paid in a lump sum and shall be in addition to the basic salary prescribed under section 3962 of this title and any other award. The fact that a member of the Senior Foreign Service competing for performance pay would, as a result of the payment of such performance pay, receive compensation exceeding the compensation of any other member of the Service shall not preclude the award or its payment.
+
+#### (b) Criteria; limitations
+
+Awards of performance pay shall take into account the criteria established by the Office of Personnel Management for performance awards under section 5384 of title 5 and rank awards under section 4507 of title 5. Awards of performance pay under this section shall be subject to the following limitations:
+
+&emsp;(1) Not more than 50 percent of the members of the Senior Foreign Service may receive performance pay in any fiscal year.
+
+&emsp;(2) Except as provided in paragraph (3), performance pay for a member of the Senior Foreign Service may not exceed 20 percent of the annual rate of basic salary for that member.
+
+&emsp;(3) Not more than 6 percent of the members of the Senior Foreign Service may receive performance pay in any fiscal year in an amount which exceeds the percentage limitation specified in paragraph (2). Payments under this paragraph to a member of the Senior Foreign Service may not exceed $10,000 in any fiscal year, except that payments of up to $20,000 in any fiscal year may be made under this paragraph to up to 1 percent of the members of the Senior Foreign Service.
+
+&emsp;(4) Any award under this section shall be subject to the limitation on certain payments under section 5307 of title 5.
+
+&emsp;(5) The Secretary of State shall prescribe regulations, consistent with section 5582 of title 5, under which payment under this section shall be made in the case of any individual whose death precludes payment under paragraph (4) of this subsection.
+
+#### (c) Determination of amount by Secretary; distribution on basis of selection board recommendations
+
+The Secretary shall determine the amount of performance pay available under subsection\(b)(2) of this section each year for distribution among the members of the Senior Foreign Service and shall distribute performance pay to particular individuals on the basis of recommendations by selection boards established under section 4002 of this title.
+
+#### (d) Recommendations for meritorious or distinguished service awards
+
+The President may grant awards of performance pay under subsection (b)(3) of this section on the basis of annual recommendations by the Secretary of State of members of the Senior Foreign Service who are nominated by their agencies as having performed especially meritorious or distinguished service. Recommendations by the Secretary of State under this subsection shall be made on the basis of recommendations by special interagency selection boards established by the Secretary of State for the purpose of reviewing and evaluating the nominations of agencies.
+
+(Pub. L. 96–465, title I, §405, Oct. 17, 1980, 94 Stat. 2088; Pub. L. 100–204, title I, §175(b), Dec. 22, 1987, 101 Stat. 1361; Pub. L. 103–236, title I, §173(d), Apr. 30, 1994, 108 Stat. 412.)
+
+#### Amendments
+
+1994—Subsec. (b)(4). Pub. L. 103–236 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The total amount of basic salary plus performance pay received in any fiscal year by any member of the Senior Foreign Service may not exceed the salary payable for level I of the Executive Schedule under section 5312 of title 5 as in effect at the end of that fiscal year. Any amount which is not paid to a member of the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of this subparagraph with respect to such fiscal year.”
+
+1987—Subsec. (b)(4), (5). Pub. L. 100–204 inserted at end of par. (4) “Any amount which is not paid to a member of the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of this subparagraph with respect to such fiscal year.” and added par. (5).
+
+#### Senior Foreign Service Performance Pay
+
+Section 173(a)–(c) of Pub. L. 103–236, as amended by Pub. L. 103–415, §1(gg), Oct. 25, 1994, 108 Stat. 4303, provided that:
+
+“(a)
+
+Prohibition on Awards.—Notwithstanding any other provision of law, the Secretary of State may not award or pay performance payments for fiscal years 1994 and 1995 under section 405 of the Foreign Service Act of 1980 (22 U.S.C. 3965), unless the Secretary awards or pays performance awards to other Federal employees for such fiscal years.
+
+“(b)
+
+Awards in Subsequent Fiscal Years.—The Secretary may not make a performance award or payment in any fiscal year after a fiscal year referred to in subsection (a) for the purpose of providing an individual with a performance award or payment to which the individual would otherwise have been entitled in a fiscal year referred to in such subsection but for the prohibition described in such subsection.
+
+“(c)
+
+Application to USIA, AID, and ACDA.—Subsections (a) and (b) shall apply to the United States Information Agency, the Agency for International Development, and the United States Arms Control and Disarmament Agency in the same manner as such subsections apply to the Department of State, except that the Director of the United States Information Agency, the Administrator of the Agency for International Development, and the Director of the United States Arms Control and Disarmament Agency shall be subject to the limitations and authority of the Secretary of State under subsections (a) and (b) for their respective agencies.”
+
+#### Review of Performance Pay Programs
+
+Section 175(a) of Pub. L. 100–204 provided that:
+
+“(1)
+
+Suspension of awards during review.—During the period beginning on the date of enactment of this Act \[Dec. 22, 1987\], and ending on the date on which the Inspector General of the Department of State reports to the Congress pursuant to paragraph (2), performance pay may not be awarded under section 405 of the Foreign Service Act of 1980 (22 U.S.C. 3965) to any member of the Senior Foreign Service in the Department of State.
+
+“(2)
+
+Review by inspector general.—The Inspector General of the Department of State shall conduct a complete and thorough review of—
+
+&emsp;“(A) the procedures in the Department of State under which performance pay recipients are chosen to determine whether the procedures and award determinations are free from bias and reflect fair standards; and
+
+&emsp;“(B) the adequacy of the criteria and the equity of the criteria actually applied in making those awards.
+
+> The review should be conducted in accordance with generally accepted Government auditing standards. The Inspector General shall report the results of this review to the Secretary of State and to the Congress no later than May 1, 1988.
+
+“(3)
+
+Report by secretary of state.—No later than 60 days after the report of the Inspector General is submitted to the Secretary of State under paragraph (2), the Secretary shall submit to the Congress a report containing the comments of the Secretary on the report of the Inspector General and describing the actions taken and proposed to be taken by the Secretary as a result of the report.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 4002, 4006, 4153 of this title.
+

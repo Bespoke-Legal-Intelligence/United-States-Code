@@ -1,0 +1,30 @@
+### §14111. Definitions
+
+In this part—
+
+&emsp;“Director” means the Director of the Office of the Police Corps and Law Enforcement Education appointed under section 14093 <sup>1</sup> of this title.
+
+&emsp;“educational expenses” means expenses that are directly attributable to—
+
+&emsp;&emsp;(A) a course of education leading to the award of an associate degree;
+
+&emsp;&emsp;(B) a course of education leading to the award of a baccalaureate degree; or
+
+&emsp;&emsp;(C) a course of graduate study following award of a baccalaureate degree,
+
+> &emsp;including the cost of tuition, fees, books, supplies, and related expenses.
+
+&emsp;“institution of higher education” has the meaning stated in the first sentence of section 1141(a) of title 20.
+
+&emsp;“law enforcement position” means employment as an officer in a State or local police force, or correctional institution.
+
+&emsp;“State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.
+
+(Pub. L. 103–322, title XX, §200202, Sept. 13, 1994, 108 Stat. 2057.)
+
+#### Short Title
+
+For short title of this part as the “Law Enforcement Scholarships and Recruitment Act”, see section 200201 of Pub. L. 103–322, set out as a note under section 13701 of this title.
+
+<i><sup>1</sup></i><i> So in original. Section 14093 of this title does not provide for the appointment of a Director.</i>
+

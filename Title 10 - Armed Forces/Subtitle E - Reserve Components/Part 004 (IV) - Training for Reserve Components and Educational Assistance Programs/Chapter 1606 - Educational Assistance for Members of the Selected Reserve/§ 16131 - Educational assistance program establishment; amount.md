@@ -1,0 +1,218 @@
+### §16131. Educational assistance program: establishment; amount
+
+(a) To encourage membership in units of the Selected Reserve of the Ready Reserve, the Secretary of each military department, under regulations prescribed by the Secretary of Defense, and the Secretary of Transportation, under regulations prescribed by the Secretary with respect to the Coast Guard when it is not operating as a service in the Navy, shall establish and maintain a program to provide educational assistance to members of the Selected Reserve of the Ready Reserve of the armed forces under the jurisdiction of the Secretary concerned who agree to remain members of the Selected Reserve for a period of not less than six years.
+
+(b)(1) Except as provided in paragraph (2) and subsections (d) through (g), each educational assistance program established under subsection (a) shall provide for payment by the Secretary concerned, through the Secretary of Veterans Affairs, to each person entitled to educational assistance under this chapter who is pursuing a program of education of an educational assistance allowance at the following rates:
+
+&emsp;(A) $190 per month for each month of full-time pursuit of a program of education;
+
+&emsp;(B) $143 per month for each month of three-quarter-time pursuit of a program of education;
+
+&emsp;(C) $95 per month for each month of half-time pursuit of a program of education; and
+
+&emsp;(D) an appropriately reduced rate, as determined under regulations which the Secretary of Veterans Affairs shall prescribe, for each month of less than half-time pursuit of a program of education, except that no payment may be made to a person for less than half-time pursuit if tuition assistance is otherwise available to the person for such pursuit from the military department concerned.
+
+(2) With respect to any fiscal year beginning on or after October 1, 1994, the Secretary shall continue to pay, in lieu of the rates payable under subparagraphs (A), (B), and (C) of paragraph (1), the monthly rates payable under this paragraph for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates equal to the percentage by which—
+
+&emsp;(A) the Consumer Price Index (all items, United States city average) for the 12-month period ending on the June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
+
+&emsp;(B) such Consumer Price Index for the 12-month period preceding the 12-month period described in subparagraph (A).
+
+(c)(1) Educational assistance may be provided under this chapter for pursuit of any program of education that is an approved program of education for purposes of chapter 30 of title 38.
+
+(2) Subject to section 3695 of title 38, the maximum number of months of educational assistance that may be provided to any person under this chapter is 36 (or the equivalent thereof in part-time educational assistance).
+
+(3)(A) Notwithstanding any other provision of this chapter or chapter 36 of title 38, any payment of an educational assistance allowance described in subparagraph (B) of this paragraph shall not—
+
+&emsp;(i) be charged against the entitlement of any individual under this chapter; or
+
+&emsp;(ii) be counted toward the aggregate period for which section 3695 of title 38 limits an individual's receipt of assistance.
+
+(B) The payment of the educational assistance allowance referred to in subparagraph (A) of this paragraph is the payment of such an allowance to the individual for pursuit of a course or courses under this chapter if the Secretary of Veterans Affairs finds that the individual—
+
+&emsp;(i) had to discontinue such course pursuit as a result of being ordered, in connection with the Persian Gulf War, to serve on active duty under section 12301(a), 12301(d), 12301(g), 12302, or 12304 of this title; and
+
+&emsp;(ii) failed to receive credit or training time toward completion of the individual's approved educational, professional, or vocational objective as a result of having to discontinue, as described in clause (i), the individual's course pursuit.
+
+(C) The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of title 38 shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under subparagraph (B)(ii).
+
+(d)(1) Except as provided in paragraph (2), the amount of the monthly educational assistanceallowance payable to a person pursuing a full-time program of apprenticeship or other on-the-job training under this chapter is—
+
+&emsp;(A) for each of the first six months of the person's pursuit of such program, 75 percent of the monthly educational assistance allowance otherwise payable to such person under this chapter;
+
+&emsp;(B) for each of the second six months of the person's pursuit of such program, 55 percent of such monthly educational assistance allowance; and
+
+&emsp;(C) for each of the months following the first 12 months of the person's pursuit of such program, 35 percent of such monthly educational assistance allowance.
+
+(2) In any month in which any person pursuing a program of education consisting of a program of apprenticeship or other on-the-job training fails to complete 120 hours of training, the amount of the monthly educational assistance allowance payable under this chapter to the person shall be limited to the same proportion of the applicable full-time rate as the number of hours worked during such month, rounded to the nearest 8 hours, bears to 120 hours.
+
+(3)(A) Except as provided in subparagraph (B), for each month that such person is paid a monthly educational assistance allowance under this chapter, the person's entitlement under this chapter shall be charged at the rate of—
+
+&emsp;(i) 75 percent of a month in the case of payments made in accordance with paragraph (1)(A);
+
+&emsp;(ii) 55 percent of a month in the case of payments made in accordance with paragraph (1)(B); and
+
+&emsp;(iii) 35 percent of a month in the case of payments made in accordance with paragraph (1)(C).
+
+(B) Any such charge to the entitlement shall be reduced proportionately in accordance with the reduction in payment under paragraph (2).
+
+(e)(1) The amount of the monthly educational assistance allowance payable to a person pursuing a cooperative program under this chapter shall be 80 percent of the monthly allowance otherwise payable to such person under this chapter.
+
+(2) For each month that a person is paid a monthly educational assistance allowance for pursuit of a cooperative program under this chapter, the person's entitlement under this chapter shall be charged at the rate of 80 percent of a month.
+
+(f)(1)(A) The amount of the educational assistance allowance payable under this chapter to a person who enters into an agreement to pursue, and is pursuing, a program of education exclusively by correspondence is an amount equal to 55 percent of the established charge which the institution requires nonveterans to pay for the course or courses pursued by such person.
+
+(B) For purposes of subparagraph (A), the term “established charge” means the lesser of—
+
+&emsp;(i) the charge for the course or courses determined on the basis of the lowest extended time payment plan offered by the institution and approved by the appropriate State approving agency; or
+
+&emsp;(ii) the actual charge to the person for such course or courses.
+
+(C) Such allowance shall be paid quarterly on a pro rata basis for the lessons completed by the person and serviced by the institution.
+
+(2) In each case in which the amount of educational assistance is determined under paragraph (1), the period of entitlement of the person concerned shall be charged with one month for each amount equal to the amount of the monthly rate payable under subsection (b)(1)(A) for the fiscal year concerned which is paid to the individual as an educational assistance allowance.
+
+(g)(1) Each individual who is pursuing a program of education consisting exclusively of flight training approved as meeting the requirements of section 16136(c) of this title shall be paid an educational assistance allowance under this chapter in the amount equal to 60 percent of the established charges for tuition and fees which similarly circumstanced nonveterans enrolled in the same flight course are required to pay.
+
+(2) No educational assistance allowance may be paid under this chapter to an individual for any month during which such individual is pursuing a program of education consisting exclusively of flight training until the Secretary has received from that individual and the institution providing such training a certification of the flight training received by the individual during that month and the tuition and other fees charged for that training.
+
+(3) The period of entitlement of an individual pursuing a program of education described in paragraph (1) shall be charged with one month for each amount equal to the amount of the monthly rate payable under subsection (b)(1)(A) for the fiscal year concerned which is paid to that individual as an educational assistance allowance for such program.
+
+(4) The number of solo flying hours for which an individual may be paid an educational assistance allowance under this subsection may not exceed the minimum number of solo flying hours required by the Federal Aviation Administration for the flight rating or certification which is the goal of the individual's flight training.
+
+(h)(1)(A) Subject to subparagraph (B), the Secretary of Veterans Affairs shall approve individualized tutorial assistance for any person entitled to educational assistance under this chapter who—
+
+&emsp;(i) is enrolled in and pursuing a postsecondary course of education on a half-time or more basis at an educational institution; and
+
+&emsp;(ii) has a deficiency in a subject required as a part of, or which is prerequisite to, or which is indispensable to the satisfactory pursuit of, the program of education.
+
+(B) The Secretary of Veterans Affairs shall not approve individualized tutorial assistance for a person pursuing a program of education under this paragraph unless such assistance is necessary for the person to successfully complete the program of education.
+
+(2)(A) Subject to subparagraph (B), the Secretary concerned, through the Secretary of Veterans Affairs, shall pay to a person receiving individualized tutorial assistance pursuant to paragraph (1) a tutorial assistance allowance. The amount of the allowance payable under this paragraph may not exceed $100 for any month, nor aggregate more than $1,200. The amount of the allowance paid under this paragraph shall be in addition to the amount of educational assistance allowance payable to a person under this chapter.
+
+(B) A tutorial assistance allowance may not be paid to a person under this paragraph until the educational institution at which the person is enrolled certifies that—
+
+&emsp;(i) the individualized tutorial assistance is essential to correct a deficiency of the person in a subject required as a part of, or which is prerequisite to, or which is indispensable to the satisfactory pursuit of, an approved program of education;
+
+&emsp;(ii) the tutor chosen to perform such assistance is qualified to provide such assistance and is not the person's parent, spouse, child (whether or not married or over eighteen years of age), brother, or sister; and
+
+&emsp;(iii) the charges for such assistance do not exceed the customary charges for such tutorial assistance.
+
+(3)(A) A person's period of entitlement to educational assistance under this chapter shall be charged only with respect to the amount of tutorial assistance paid to the person under this subsection in excess of $600.
+
+(B) A person's period of entitlement to educational assistance under this chapter shall be charged at the rate of one month for each amount of assistance paid to the individual under this section in excess of $600 that is equal to the amount of the monthly educational assistance allowance which the person is otherwise eligible to receive for full-time pursuit of an institutional course under this chapter.
+
+(i) A program of education in a course of instruction beyond the baccalaureate degree level shall be provided under this chapter, subject to the availability of appropriations.
+
+(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 328, §2131; amended Pub. L. 96–107, title IV, §402(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–342, title IX, §906(a)(1), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 96–513, title V, §511(68), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–689, title I, §§110(a), 111(b)(1), Nov. 18, 1988, 102 Stat. 4170, 4172; Pub. L. 101–189, div. A, title VI, §§642(a), (b), 645(a)(1), (b)(1), Nov. 29, 1989, 103 Stat. 1456, 1458; Pub. L. 101–237, title IV, §422(b)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–25, title III, §337(b), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–127, §2(d), Oct. 10, 1991, 105 Stat. 621; Pub. L. 102–568, title III, §§301(b), (d), 310(b), 318, 320(a)(1), Oct. 29, 1992, 106 Stat. 4326, 4330, 4334, 4335; Pub. L. 103–66, title XII, §12009(b), Aug. 10, 1993, 107 Stat. 416; Pub. L. 103–160, div. A, title V, §518, Nov. 30, 1993, 107 Stat. 1651; renumbered §16131 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (3), Oct. 5, 1994, 108 Stat. 3006, 3007.)
+
+#### Amendments
+
+1994—Pub. L. 103–337, §1663(b)(2), renumbered section 2131 of this title as this section.
+
+Subsec. (c)(3)(B)(i). Pub. L. 103–337, §1663(b)(3)(A), substituted “12301(a), 12301(d), 12301(g), 12302, or 12304” for “672(a), (d), or (g), 673, or 673b”.
+
+Subsec. (g)(1). Pub. L. 103–337, §1663(b)(3)(B), substituted “16136(c)” for “2136(c)”.
+
+1993—Subsec. (b)(2). Pub. L. 103–66 struck out subpar. (A), struck out subpar. (B) designation before “With respect to”, redesignated former cls. (i) and (ii) as subpars. (A) and (B), respectively, and in subpar. (B) substituted “subparagraph (A)” for “clause (i)”. Prior to amendment, subpar. (A) read as follows: “With respect to the fiscal year beginning on October 1, 1993, the Secretary shall provide a percentage increase in the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1) equal to the percentage by which the Consumer Price Index (all items, United States city average, published by the Bureau of Labor Statistics) for the 12-month period ending June 30, 1993, exceeds such Consumer Price Index for the 12-month period ending June 30, 1992.”
+
+Subsec. (c)(1). Pub. L. 103–160, §518(1), struck out “other than a program of education in a course of instruction beyond the baccalaureate degree level” after “title 38”.
+
+Subsec. (i). Pub. L. 103–160, §518(2), added subsec. (i).
+
+1992—Subsec. (b)(1). Pub. L. 102–568, §301(b), substituted “$190” for “$140” in subpar. (A), “$143” for “$105” in subpar. (B), and “$95” for “$70” in subpar. (C).
+
+Subsec. (b)(2)(A). Pub. L. 102–568, §301(d)(1), (2), redesignated subpar. (B) as (A), substituted “shall provide a percentage increase in the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1)” for “may continue to pay, in lieu of the rates payable under subparagraphs (A), (B), and (C) of paragraph (1), the monthly rates payable under subparagraph (A) of this paragraph and may provide a percentage increase in such rates”, and struck out former subpar. (A) which read as follows: “During the period beginning on October 1, 1991, and ending on September 30, 1993, the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1) shall be $170, $128, and $85, respectively.”
+
+Subsec. (b)(2)(B), (C). Pub. L. 102–568, §301(d)(3), redesignated subpar. (C) as (B) and substituted “shall continue” for “may continue” and “shall provide” for “may provide” in introductory provisions. Former subpar. (B) redesignated (A).
+
+Subsec. (c)(2). Pub. L. 102–568, §320(a)(1)(A), substituted “section 3695 of title 38” for “section 1795 of title 38”.
+
+Subsec. (c)(3)(B)(ii). Pub. L. 102–568, §320(a)(1)(B), substituted “, the individual's” for “of this subparagraph, his or her”.
+
+Subsec. (c)(3)(C). Pub. L. 102–568, §320(a)(1)(C), struck out “of this paragraph” after “subparagraph (B)(ii)”.
+
+Subsec. (g)(1). Pub. L. 102–568, §310(b)(1), struck out “(other than tuition and fees charged for or attributable to solo flying hours)” after “tuition and fees”.
+
+Subsec. (g)(4). Pub. L. 102–568, §310(b)(2), added par. (4).
+
+Subsec. (h). Pub. L. 102–568, §318, added subsec. (h).
+
+1991—Subsec. (b). Pub. L. 102–25, §337(b)(1), designated existing provisions as par. (1) and substituted “Except as provided in paragraph (2) and” for “Except as provided in”, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, and added par. (2).
+
+Subsec. (c)(3). Pub. L. 102–127 added par. (3).
+
+Subsecs. (f)(2), (g)(3). Pub. L. 102–25, §337(b)(2), (3), substituted “amount equal to the amount of the monthly rate payable under subsection (b)(1)(A) for the fiscal year concerned” for “$140”.
+
+1989—Subsec. (b). Pub. L. 101–237, §422(b)(2)(A), in introductory provisions, substituted “subsections (d) through (g)” for “subsections (d) through (f)”.
+
+Pub. L. 101–189, §645(b)(1), in introductory provisions, substituted “of an educational assistance allowance” for “and educational assistance allowance”.
+
+Pub. L. 101–189, §642(b)(1), in introductory provisions, substituted “Except as provided in subsections (d) through (f), each” for “Each” and inserted “, throughthe Secretary of Veterans Affairs,” after “Secretary concerned”.
+
+Subsec. (b)(4). Pub. L. 101–189, §645(a)(1), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+
+Subsec. (c)(1). Pub. L. 101–189, §642(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Educational assistance may only be provided under this chapter for pursuit of a program of education at an institution of higher learning and may not be provided to a person after the person has completed a course of instruction required for the award of a baccalaureate degree or the equivalent evidence of completion of study.”
+
+Subsecs. (d) to (f). Pub. L. 101–189, §642(b)(2), added subsecs. (d) to (f).
+
+Subsec. (g). Pub. L. 101–237, §422(b)(2)(B), added subsec. (g).
+
+1988—Subsec. (b)(4). Pub. L. 100–689, §110(a), added par. (4).
+
+Subsec. (c)(2). Pub. L. 100–689, §111(b)(1), inserted “(or the equivalent thereof in part-time educational assistance)” before period at end.
+
+1984—Pub. L. 98–525 amended section generally, substituting a schedule of payments at stated monthly rates for full-time, three-quarter-time, and half-time pursuit of an education program for former provisions which had set a maximum for any one member of $1,000 for any twelve-month period and $4,000 for the total assistance to any one member.
+
+1980—Subsec. (a). Pub. L. 96–513, §511(68)(A), substituted “armed forces” for “armed force”.
+
+Subsec. (b)(2). Pub. L. 96–513, §511(68)(B), inserted “of this title” after “2132”.
+
+Subsec. (c). Pub. L. 96–342 substituted “$1,000” for “$500” and “$4,000” for “$2,000”.
+
+Subsec. (d). Pub. L. 96–513, §511(68)(C), substituted “Secretary of Education” for “Commissioner of Education, Department of Health, Education, and Welfare”.
+
+1979—Subsec. (b)(1). Pub. L. 96–107 substituted “100 percent” for “50 percent”.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+
+#### Effective Date of 1992 Amendment
+
+Section 301(e) of Pub. L. 102–568 provided that:
+
+“(1) The amendments made by this section \[amending this section and section 3015 of Title 38, Veterans’ Benefits\] shall take effect on April 1, 1993.
+
+“(2) The amendments made by this section shall not be construed to change the account from which payment is made for that portion of a payment under chapter 30 of title 38, United States Code, or chapter 106 \[now 1606\] of title 10, United States Code, which is a Montgomery GI bill rate increase and a title III benefit is paid. For the purposes of this subsection, the terms ‘Montgomery GI bill rate increase’ and ‘title III benefit’ have the meanings provided in section 393 of the Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991 \[Pub. L. 102–25\] (105 Stat. 99).”
+
+Section 310(d) of Pub. L. 102–568 provided that: “The amendments made by this section \[amending this section and sections 3032 and 3231 of Title 38\] shall apply to flight training received under chapters 30 and 32 of title 38, United States Code, and chapter 106 \[now 1606\] of title 10, United States Code, after September 30, 1992.”
+
+#### Effective Date of 1989 Amendments
+
+Section 422(d) of Pub. L. 101–237 provided that: “The amendments made by this section \[amending this section, section 2136 \[now 16136\] of this title, and sections 1432 \[now 3032\] and 1434 \[now 3034\] of Title 38, Veterans’ Benefits\] shall take effect on September 30, 1990.”
+
+Section 642(d) of Pub. L. 101–189 provided that: “The amendments made by this section \[amending this section and section 2136 \[now 16136\] of this title\] shall apply with respect to any person who after September 30, 1990, meets the requirements set forth in subparagraph (A) or (B) of section 2132(a)(1) \[now 16132(a)(1)(A), (B)\] of title 10, United States Code.”
+
+#### Effective Date of 1984 Amendment
+
+Section 705(b) of Pub. L. 98–525 provided that: “The amendments made by this section \[amending this chapter\] shall take effect on July 1, 1985, and shall apply only to members of the Armed Forces who qualify for educational assistance under chapter 106 of title 10, United States Code, as amended by subsection (a), on or after such date.”
+
+#### Effective Date of 1980 Amendments
+
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+Section 906(a)(2) of Pub. L. 96–342 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 1980.”
+
+#### Effective Date of 1979 Amendment
+
+Section 402(c) of Pub. L. 96–107 provided that: “The amendments made by this section \[amending sections 2131 and 2133 \[now 16131 and 16133\] of this title\] shall apply only to individuals enlisting in the Reserves after September 30, 1979.”
+
+#### 1995 Cost-of-Living Adjustment in Rates of Educational Assistance
+
+Section 12009(c) of Pub. L. 103–66 provided that: “The fiscal year 1995 cost-of-living adjustments in the rates of educational assistance payable under chapter 30 of title 38, United States Code, and under chapter 106 \[now 1606\] of title 10, United States Code, shall be the percentage equal to 50 percent of the percentage by which such assistance would be increased under section 3015(g) of title 38, and under section 2131(b)(2) \[now 16131(b)(2)\] of title 10, United States Code, respectively, but for this section \[amending this section and section 3015 of Title 38, Veterans’ Benefits, and enacting provisions set out as a note under section 3015 of Title 38\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2131, 16132, 16135 of this title.
+

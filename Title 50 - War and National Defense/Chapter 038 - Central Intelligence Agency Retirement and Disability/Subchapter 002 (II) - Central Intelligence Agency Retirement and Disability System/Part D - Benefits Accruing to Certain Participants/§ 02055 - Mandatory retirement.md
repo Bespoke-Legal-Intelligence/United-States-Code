@@ -1,0 +1,46 @@
+### §2055. Mandatory retirement
+
+#### (a) Involuntary retirement
+
+(1)
+
+Authority of director.—The Director may, in the Director's discretion, place in a retired status any participant in the system described in paragraph (2).
+
+(2) Paragraph (1) applies with respect to any participant who has not less than 10 years of service with the Agency and who—
+
+&emsp;(A) has completed at least 25 years of service; or
+
+&emsp;(B) is at least 50 years of age and has completed at least 20 years of service.
+
+#### (b) Mandatory retirement for age
+
+#### (1) In general
+
+&emsp;A participant in the system shall be automatically retired from the Agency—
+
+&emsp;&emsp;(A) upon reaching age 65, in the case of a participant in the system receiving compensation under the Senior Intelligence Service pay schedule at the rate of level 4 or above; and
+
+&emsp;&emsp;(B) upon reaching age 60, in the case of any other participant in the system.
+
+#### (2) Effective date of retirement
+
+&emsp;Retirement under paragraph (1) shall be effective on the last day of the month in which the participant reaches the age applicable to that participant under that paragraph.
+
+#### (3) Authority for extension
+
+&emsp;In any case in which the Director determines it to be in the public interest, the Director may extend the mandatory retirement date for a participant under this subsection by a period of not to exceed 5 years.
+
+#### (c) Retirement benefits
+
+A participant retired under this section shall receive retirement benefits in accordance with section 2031 of this title.
+
+(Pub. L. 88–643, title II, §235, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3225.)
+
+#### Prior Provisions
+
+A prior section 235 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1049; Ex. Ord. No. 12443, §13, Sept. 27, 1983, 48 F.R. 44754; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622; Pub. L. 102–183, title III, §307, Dec. 4, 1991, 105 Stat. 1265, related to mandatory retirement and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2051, 2152 of this title.
+

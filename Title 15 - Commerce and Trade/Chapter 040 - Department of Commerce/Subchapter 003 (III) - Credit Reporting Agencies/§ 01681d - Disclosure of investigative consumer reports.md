@@ -1,0 +1,22 @@
+### §1681d. Disclosure of investigative consumer reports
+
+#### (a) Disclosure of fact of preparation
+
+A person may not procure or cause to be prepared an investigative consumer report on any consumer unless—
+
+&emsp;(1) it is clearly and accurately disclosed to the consumer that an investigative consumer report including information as to his character, general reputation, personal characteristics, and mode of living, whichever are applicable, may be made, and such disclosure (A) is made in a writing mailed, or otherwise delivered, to the consumer, not later than three days after the date on which the report was first requested, and (B) includes a statement informing the consumer of his right to request the additional disclosures provided for under subsection (b) of this section; or
+
+&emsp;(2) the report is to be used for employment purposes for which the consumer has not specifically applied.
+
+#### (b) Disclosure on request of nature and scope of investigation
+
+Any person who procures or causes to be prepared an investigative consumer report on any consumer shall, upon written request made by the consumer within a reasonable period of time after the receipt by him of the disclosure required by subsection (a)(1) of this section, shall<sup>1</sup> make a complete and accurate disclosure of the nature and scope of the investigation requested. This disclosure shall be made in a writing mailed, or otherwise delivered, to the consumer not later than five days after the date on which the request for such disclosure was received from the consumer or such report was first requested, whichever is the later.
+
+#### (c) Limitation on liability upon showing of reasonable procedures for compliance with provisions
+
+No person may be held liable for any violation of subsection (a) or (b) of this section if he shows by a preponderance of the evidence that at the time of the violation he maintained reasonable procedures to assure compliance with subsection (a) or (b) of this section.
+
+(Pub. L. 90 321, title VI, §606, as added Pub. L. 91 508, title VI, §601, Oct. 26, 1970, 84 Stat. 1130.)
+
+<i><sup>1</sup></i><i>So in original. Word “shall” probably should not appear.</i>
+

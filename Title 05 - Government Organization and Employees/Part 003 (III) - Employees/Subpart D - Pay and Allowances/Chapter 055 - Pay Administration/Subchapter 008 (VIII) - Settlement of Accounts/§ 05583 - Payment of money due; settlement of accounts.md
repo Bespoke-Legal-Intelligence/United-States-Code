@@ -1,0 +1,42 @@
+### §5583. Payment of money due; settlement of accounts
+
+(a) Under such regulations as the Comptroller General of the United States may prescribe, the employing agency shall pay money due a deceased employee to the beneficiary designated by the employee under section 5582(b) of this title, or, if none, to the widow or widower of the employee.
+
+(b) Except as the Comptroller General may by regulation otherwise authorize or direct, accounts not payable under subsection (a) of this section are payable on settlement of the General Accounting Office. However—
+
+&emsp;(1) accounts of employees of the government of the District of Columbia shall be paid by the District of Columbia; and
+
+&emsp;(2) accounts of employees of Government corporations or mixed ownership Government corporations may be paid by the corporations.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 496; Pub. L. 96–70, title III, §3302(e)(7), Sept. 27, 1979, 93 Stat. 498.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 61h.
+
+Aug. 3, 1950, ch. 518, §3, 64 Stat. 396.
+
+Apr. 30, 1954, ch. 177, §1, 68 Stat. 64.
+
+In subsection (a), the word “officer” is omitted as included in “employee”.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+
+1979—Subsec. (b). Pub. L. 96–70 struck out par. (2) providing that accounts of the employees of the Canal Zone Government be paid by the Canal Zone Government, and redesignated par. (3) as (2).
+
+#### Effective Date of 1979 Amendment
+
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
+
+#### Cross References
+
+Disposition of unpaid salary and other sums upon death of Representative or Resident Commissioner, see section 38a of Title 2, The Congress.
+

@@ -1,0 +1,224 @@
+### §101. Definitions
+
+In addition to the definitions in sections 1–5 of title 1, the following definitions apply in this title:
+
+&emsp;(1) “Territory” means any Territory organized after this title is enacted, so long as it remains a Territory. However, for purposes of this title and other laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States, “Territory” includes Guam and the Virgin Islands.
+
+&emsp;(2) “Armed forces” means the Army, Navy, Air Force, Marine Corps, and Coast Guard.
+
+&emsp;(3) “National Guard” means the Army National Guard and the Air National Guard.
+
+&emsp;(4) “Army National Guard” means that part of the organized militia of the several States and Territories, Puerto Rico, and the District of Columbia, active and inactive, that—
+
+&emsp;&emsp;(A) is a land force;
+
+&emsp;&emsp;(B) is trained, and has its officers appointed, under the sixteenth clause of section 8, article I, of the Constitution;
+
+&emsp;&emsp;(C) is organized, armed, and equipped wholly or partly at Federal expense; and
+
+&emsp;&emsp;(D) is federally recognized.
+
+&emsp;(5) “Army National Guard of the United States” means the reserve component of the Army all of whose members are members of the Army National Guard.
+
+&emsp;(6) “Air National Guard” means that part of the organized militia of the several States and Territories, Puerto Rico, and the District of Columbia, active and inactive, that—
+
+&emsp;&emsp;(A) is an air force;
+
+&emsp;&emsp;(B) is trained, and has its officers appointed, under the sixteenth clause of section 8, article I of the Constitution;
+
+&emsp;&emsp;(C) is organized, armed, and equipped wholly or partly at Federal expense; and
+
+&emsp;&emsp;(D) is federally recognized.
+
+&emsp;(7) “Air National Guard of the United States” means the reserve component of the Air Force all of whose members are members of the Air National Guard.
+
+&emsp;(8) “Officer” means commissioned or warrant officer.
+
+&emsp;(9) “Enlisted member” means a person enlisted in, or inducted, called, or conscripted into, an armed force in an enlisted grade.
+
+&emsp;(10) “Grade” means a step or degree, in a graduated scale of office or military rank, that is established and designated as a grade by law or regulation.
+
+&emsp;(11) “Rank” means the order of precedence among members of the armed forces.
+
+&emsp;(12) “Active duty” means full-time duty in the active military service of the United States. It includes such Federal duty as full-time training duty, annual training duty, and attendance, while in the active military service, at a school designated as a service school by law or by the Secretary of the military department concerned. It does not include full-time National Guard duty.
+
+&emsp;(13) “Supplies” includes material, equipment, and stores of all kinds.
+
+&emsp;(14) “Shall” is used in an imperative sense.
+
+&emsp;(15) “May” is used in a permissive sense. The words “no person may \* \* \*” mean that no person is required, authorized, or permitted to do the act prescribed.
+
+&emsp;(16) “Includes” means “includes but is not limited to”.
+
+&emsp;(17) “Pay” includes basic pay, special pay, incentive pay, retired pay, and equivalent pay, but does not include allowances.
+
+&emsp;(18) “Spouse” means husband or wife, as the case may be.
+
+&emsp;(19) “Full-time National Guard duty” means training or other duty, other than inactive duty, performed by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member's status as a member of the National Guard of a State or territory, the Commonwealth of Puerto Rico, or the District of Columbia under section 316, 502, 503, 504, or 505 of this title for which the member is entitled to pay from the United States or for which the member has waived pay from the United States.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 596; Sept. 2, 1958, Pub. L. 85–861, §2(1), 72 Stat. 1542; June 25, 1959, Pub. L. 86–70, §27, 73 Stat. 148; July 12, 1960, Pub. L. 86–624, §22, 74 Stat. 417; Oct. 13, 1972, Pub. L. 92–492, §2(a), 86 Stat. 810; Dec. 12, 1980, Pub. L. 96–513, title V, §507(a), 94 Stat. 2919; Dec. 24, 1980, Pub. L. 96–600, §3(a), 94 Stat. 3493; Oct. 19, 1984, Pub. L. 98–525, title IV, §414(b)(1), 98 Stat. 2519; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
+
+Historical and Revision Notes<br>1956
+
+Act
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+101(1)
+
+101(2)
+
+101(3)
+
+32:4c (1st 33 words).
+
+\[No source\].
+
+32:2.
+
+32:4b.
+
+June 3, 1916, ch. 134, §62 (1st 36 words of last proviso), 39 Stat. 198.
+
+101(4)
+
+50:1112(a) (for definition purposes).
+
+June 3, 1916, ch. 134, §117, 39 Stat. 212.
+
+101(5)
+
+101(6)
+
+101(7)
+
+101(8)
+
+101(9)
+
+101(10)
+
+101(11)
+
+101(12)
+
+101(13)
+
+101(14)
+
+101(15)
+
+101(16)
+
+10:1835 (less last 16 words).
+
+32:2.
+
+32:4b.
+
+50:1112(b) (for definition purposes).
+
+\[No source\].
+
+\[No source\].
+
+\[No source\].
+
+\[No source\].
+
+\[No source\].
+
+\[No source\].
+
+\[No source\].
+
+\[No source\].
+
+\[No source\].
+
+\[No source\].
+
+June 3, 1916, ch. 134, §71; added June 15, 1933, ch. 87, §9, 48 Stat. 157; Oct. 12, 1949, ch. 681, §530, 63 Stat. 837; July 9, 1952, ch. 608, §803 (9th par.), 66 Stat. 505.
+
+July 9, 1952, ch. 608, §702 (for definition purposes), 66 Stat. 501.
+
+Sept. 19, 1951, ch. 407, §305 (less last 16 words), 65 Stat. 330.
+
+The definitions in clauses (2) and (9)–(17) reflect the adoption of terminology which, though undefined in the source statutes restated in this title, represent the closest practicable approximation of the ways in which the terms defined have been most commonly used. Where established uses conflict, a choice has been made.
+
+In clause (1), the definition of “Territory” in 32:4c is executed throughout this revised title by specific reference, where applicable, to the Territories, Puerto Rico, and the Canal Zone.
+
+In clause (2), a definition of “National Guard” is inserted for clarity.
+
+In clause (3)(A), the words “a land force” are substituted for 32:2. The National Defense Act of 1916, §117 (last 66 words), 39 Stat. 212, is not contained in 32:2. It is also omitted from the revised section as repealed by the act of February 28, 1925, ch. 374, §3, 43 Stat. 1081.
+
+In clauses (3) and (4), the word “Army” is inserted to distinguish the organizations defined from their Air Force counterparts.
+
+In clauses (3) and (5), the words “unless the context or subject matter otherwise requires—” and “as provided in this title”, in 32:4b, are omitted as surplusage.
+
+In clauses (3)(B) and (5)(B), the words “has its officers appointed” are substituted for the word “officered”, in 32:4b.
+
+In clauses (4) and (6), only that much of the description of the composition of the Army National Guard of the United States and the Air National Guard of the United States is used as is necessary to distinguish these reserve components, respectively, from the other reserve components.
+
+In clause (5)(A), the words “an air force” are substituted for the words “for which Federal responsibility has been vested in the Secretary of the Air Force or the Department of the Air Force pursuant to law”, in 10:1835, and for 32:2 (less applicability to Army National Guard), to make the definition of “Air National Guard” parallel with the definition of “Army National Guard”, and to make explicit the intent of Congress in creating the Air National Guard, that the organized militia henceforth should consist of three mutually exhaustive classes comprising the Army, Air, and Naval militia.
+
+In clause (8), words showing how enlisted members became such are inserted to make clear that enlistment is not the only method of becoming a member in an enlisted grade.
+
+1958
+
+Act
+
+<i>Section of title 32</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+101(2)
+
+\[No source\].
+
+\[No source\].
+
+101(18)
+
+\[No source\].
+
+\[No source\].
+
+In clause (2), the term “armed forces” is defined for legislative convenience and is defined the same as that term is defined in section 101(4) of title 10, United States Code.
+
+The definition in clause (18) reflects the adoption of terminology which, though undefined in the source statutes restated in this title, represents the closest practicable approximation of the ways in which the term has been commonly used.
+
+#### Amendments
+
+1988—Cls. (4), (6). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+
+1984—Cl. (12). Pub. L. 98–525, §414(b)(1)(A), inserted at end “It does not include full-time National Guard duty.”
+
+Cl. (19). Pub. L. 98–525, §414(b)(1)(B), added cl. (19).
+
+1980—Cl. (1). Pub. L. 96–600 inserted reference to Guam.
+
+Cl. (12). Pub. L. 96–513 struck out “duty on the active list,” after “Federal duty as”.
+
+1972—Cl. (1). Pub. L. 92–492 inserted provision including within term “Territory” for purposes of this title and other laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States, the Virgin Islands.
+
+1960—Cl. (1). Pub. L. 86–624 struck out reference to Hawaii.
+
+1959—Cl. (1). Pub. L. 86–70 struck out reference to Alaska.
+
+1958—Cls. (2) to (18). Pub. L. 85–861 added cls. (2) and (18) and renumbered former cls. (2) to (16) as (3) to (17), respectively.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701(a) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 5 section 6323; title 10 section 101; title 28 section 2671.
+

@@ -1,0 +1,77 @@
+### <b>CHAPTER 641—NAVAL PETROLEUM RESERVES</b>
+
+| Sec. |  |
+| :--- | ---: |
+| 7420\. | Definitions. |
+| 7421\. | Jurisdiction and control. |
+| [7422\.](%C2%A7%2007422%20-%20Administration.md) | Administration. |
+| [7423\.](%C2%A7%2007423%20-%20Periodic%20re-examination%20of%20production%20requirements.md) | Periodic re-examination of production requirements. |
+| [7424\.](%C2%A7%2007424%20-%20Protection%20of%20oil%20reserves%3B%20contracts%20for%20conservation.md) | Protection of oil reserves; contracts for conservation. |
+| [7425\.](%C2%A7%2007425%20-%20Acquisition%20by%20condemnation%20and%20purchase.md) | Acquisition by condemnation and purchase. |
+| [7426\.](%C2%A7%2007426%20-%20Cooperative%20or%20unit%20plans%20affecting%20Naval%20Petroleum%20Reserve%20Numbered%201.md) | Cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1. |
+| [7427\.](%C2%A7%2007427%20-%20Cooperative%20or%20unit%20plans%20in%20the%20naval%20petroleum%20reserves.md) | Cooperative or unit plans in the naval petroleum reserves. |
+| [7428\.](%C2%A7%2007428%20-%20Agreements%20and%20leases%20provision%20for%20change.md) | Agreement and leases: provision for change.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| [7429\.](%C2%A7%2007429%20-%20Re-lease%20of%20certain%20lands%20lessee%27s%20preferential%20right.md) | Re-lease of certain lands: lessee's preferential right. |
+| [7430\.](%C2%A7%2007430%20-%20Disposition%20of%20products.md) | Disposition of products. |
+| [7431\.](%C2%A7%2007431%20-%20Requirements%20as%20to%20consultation%20and%20approval.md) | Requirements as to consultation and approval. |
+| [7432\.](%C2%A7%2007432%20-%20Authorizations%20of%20appropriations.md) | Authorizations of appropriations. |
+| [7433\.](%C2%A7%2007433%20-%20Disposition%20of%20royalties.md) | Disposition of royalties. |
+| [7434\.](%C2%A7%2007434%20-%20Annual%20report%20to%20Armed%20Services%20Committees.md) | Annual report to Armed Services Committees. |
+| [7435\.](%C2%A7%2007435%20-%20Foreign%20interest.md) | Foreign interest. |
+| [7436\.](%C2%A7%2007436%20-%20Regulations.md) | Regulations. |
+| [7437\.](%C2%A7%2007437%20-%20Violations%20by%20lessee.md) | Violations by lessee. |
+| [7438\.](%C2%A7%2007438%20-%20Rifle%2C%20Colorado%2C%20plant%3B%20possession%2C%20use%2C%20and%20transfer%20of.md) | Rifle, Colorado, plant; possession, use, and transfer of. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1990—Pub. L. 101–510, div. A, title XIII, §1331(9), Nov. 5, 1990, 104 Stat. 1673, amended item 7434 generally, substituting “Annual report” for “Quarterly reports”.
+
+1980—Pub. L. 96–513, title V, §513(32)(C), Dec. 12, 1980, 94 Stat. 2933, substituted “Naval Petroleum Reserve Numbered” for “naval petroleum reserve numbered” in item 7426.
+
+1979—Pub. L. 96–137, §3(b)(2), Dec. 12, 1979, 93 Stat. 1062, substituted “Authorizations of appropriations” for “Naval petroleum reserve special account” in item 7432.
+
+1976—Pub. L. 94–258, title II, §201(20), Apr. 5, 1976, 90 Stat. 313, added item 7420 and substituted “Naval petroleum reserve special account” for “Expenditures; appropriations chargeable” in item 7432.
+
+1962—Pub. L. 87–796, §1(13), Oct. 11, 1962, 76 Stat. 906, substituted “Rifle, Colorado, plant; possession, use, and transfer of” for “Exclusion of naval oil shale reserves” in item 7438.
+
+#### Cross References
+
+Property records, basis, reports, see section 2721 of this title.
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in title 30 section 353; title 42 sections 6214, 7156, 7235.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 07420 - Definitions](%C2%A7%2007420%20-%20Definitions.md)
+- [&sect; 07421 - Jurisdiction and control](%C2%A7%2007421%20-%20Jurisdiction%20and%20control.md)
+- [&sect; 07422 - Administration](%C2%A7%2007422%20-%20Administration.md)
+- [&sect; 07423 - Periodic re-examination of production requirements](%C2%A7%2007423%20-%20Periodic%20re-examination%20of%20production%20requirements.md)
+- [&sect; 07424 - Protection of oil reserves; contracts for conservation](%C2%A7%2007424%20-%20Protection%20of%20oil%20reserves%3B%20contracts%20for%20conservation.md)
+- [&sect; 07425 - Acquisition by condemnation and purchase](%C2%A7%2007425%20-%20Acquisition%20by%20condemnation%20and%20purchase.md)
+- [&sect; 07426 - Cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1](%C2%A7%2007426%20-%20Cooperative%20or%20unit%20plans%20affecting%20Naval%20Petroleum%20Reserve%20Numbered%201.md)
+- [&sect; 07427 - Cooperative or unit plans in the naval petroleum reserves](%C2%A7%2007427%20-%20Cooperative%20or%20unit%20plans%20in%20the%20naval%20petroleum%20reserves.md)
+- [&sect; 07428 - Agreements and leases provision for change](%C2%A7%2007428%20-%20Agreements%20and%20leases%20provision%20for%20change.md)
+- [&sect; 07429 - Re-lease of certain lands lessee's preferential right](%C2%A7%2007429%20-%20Re-lease%20of%20certain%20lands%20lessee%27s%20preferential%20right.md)
+- [&sect; 07430 - Disposition of products](%C2%A7%2007430%20-%20Disposition%20of%20products.md)
+- [&sect; 07431 - Requirements as to consultation and approval](%C2%A7%2007431%20-%20Requirements%20as%20to%20consultation%20and%20approval.md)
+- [&sect; 07432 - Authorizations of appropriations](%C2%A7%2007432%20-%20Authorizations%20of%20appropriations.md)
+- [&sect; 07433 - Disposition of royalties](%C2%A7%2007433%20-%20Disposition%20of%20royalties.md)
+- [&sect; 07434 - Annual report to Armed Services Committees](%C2%A7%2007434%20-%20Annual%20report%20to%20Armed%20Services%20Committees.md)
+- [&sect; 07435 - Foreign interest](%C2%A7%2007435%20-%20Foreign%20interest.md)
+- [&sect; 07436 - Regulations](%C2%A7%2007436%20-%20Regulations.md)
+- [&sect; 07437 - Violations by lessee](%C2%A7%2007437%20-%20Violations%20by%20lessee.md)
+- [&sect; 07438 - Rifle, Colorado, plant; possession, use, and transfer of](%C2%A7%2007438%20-%20Rifle%2C%20Colorado%2C%20plant%3B%20possession%2C%20use%2C%20and%20transfer%20of.md)

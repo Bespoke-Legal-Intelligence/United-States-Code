@@ -1,0 +1,6 @@
+### §1856<i>o</i>. Funds
+
+Funds available to the Secretary of Agriculture or the Secretary of the Interior for wildfire protection resources in connection with activities under the jurisdiction of such Secretary may be used to carry out activities authorized under agreements or otherwise under this subchapter, or for reimbursements authorized under section 1856n(c) of this title: <i>Provided</i>, That no such funds may be expended for wildfire protection resources or personnel provided by a foreign fire organization unless the Secretary determines that no wildfire protection resources or personnel within the United States are reasonably available to provide wildfire protection.
+
+(Pub. L. 100–428, §4, Sept. 9, 1988, 102 Stat. 1616.)
+

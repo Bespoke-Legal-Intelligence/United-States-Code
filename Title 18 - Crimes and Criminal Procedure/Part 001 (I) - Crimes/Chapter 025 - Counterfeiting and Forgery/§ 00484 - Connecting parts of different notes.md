@@ -1,0 +1,24 @@
+### §484 . Connecting parts of different notes
+
+Whoever so places or connects together different parts of two or more notes, bills, or other genuine instruments issued under the authority of the United States, or by any foreign government, or corporation, as to produce one instrument, with intent to defraud, shall be guilty of forgery in the same manner as if the parts so put together were falsely made or forged, and shall be fined under this title or imprisoned not more than five years, or both.
+
+(June 25, 1948, ch. 645, 62 Stat. 708; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §276 (Mar. 4, 1909, ch. 321, §162, 35 Stat. 1119).
+
+Minor changes in phraseology were made.
+
+#### Amendments
+
+1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+
+#### Canal Zone
+
+Applicability of section to Canal Zone, see section 14 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 14 of this title.
+

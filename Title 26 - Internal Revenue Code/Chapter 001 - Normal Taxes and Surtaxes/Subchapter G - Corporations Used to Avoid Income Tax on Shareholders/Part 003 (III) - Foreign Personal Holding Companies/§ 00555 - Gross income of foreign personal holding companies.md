@@ -1,0 +1,30 @@
+### §555. Gross income of foreign personal holding companies
+
+#### (a) General rule
+
+For purposes of this part, the term “gross income” means, with respect to a foreign corporation, gross income computed (without regard to the provisions of subchapter N (sec. 861 and following)) as if the foreign corporation were a domestic corporation which is a personal holding company.
+
+#### (b) Additions to gross income
+
+In the case of a foreign personal holding company (whether or not a United States group, as defined in section 552(a)(2), existed with respect to such company on the last day of its taxable year) which was a shareholder in another foreign personal holding company on the day in the taxable year of the second company which was the last day on which a United States group existed with respect to the second company, there shall be included, as a dividend, in the gross income of the first company, for the taxable year in which or with which the taxable year of the second company ends, the amount the first company would have received as a dividend if on such last day there had been distributed by the second company, and received by the shareholders, an amount which bears the same ratio to the undistributed foreign personal holding company income of the second company for its taxable year as the portion of such taxable year up to and including such last day bears to the entire taxable year.
+
+#### (c) Application of subsection (b)
+
+The rule provided in subsection (b)—
+
+&emsp;(1) shall be applied in the case of a foreign personal holding company for the purpose of determining its undistributed foreign personal holding company income which, or a part of which, is to be included in the gross income of its shareholders, whether United States shareholders or other foreign personal holding companies;
+
+&emsp;(2) shall be applied in the case of every foreign corporation with respect to which a United States group exists on some day of its taxable year, for the purpose of determining whether such corporation meets the gross income requirements of section 552(a)(1).
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 196.)
+
+#### Cross References
+
+Charitable contributions adjustment to taxable income, see section 556 of this title.
+
+Deduction for obligations of United States and its instrumentalities, see section 551 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 551, 552, 556, 6035 of this title.
+

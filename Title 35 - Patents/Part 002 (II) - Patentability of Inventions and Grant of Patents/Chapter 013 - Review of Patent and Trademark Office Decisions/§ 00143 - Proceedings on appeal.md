@@ -1,0 +1,36 @@
+### §143. Proceedings on appeal
+
+With respect to an appeal described in section 142 of this title, the Commissioner shall transmit to the United States Court of Appeals for the Federal Circuit a certified list of the documents comprising the record in the Patent and Trademark Office. The court may request that the Commissioner forward the original or certified copies of such documents during pendency of the appeal. In an ex parte case, the Commissioner shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all the issues involved in the appeal. The court shall, before hearing an appeal, give notice of the time and place of the hearing to the Commissioner and the parties in the appeal.
+
+(July 19, 1952, ch. 950, 66 Stat. 802; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949; Apr. 2, 1982, Pub. L. 97–164, title I, §163(a)(7), 96 Stat. 49; Nov. 8, 1984, Pub. L. 98–620, title IV, §414(a), 98 Stat. 3363.)
+
+#### Historical and Revision Notes
+
+Based on Title 35, U.S.C., 1946 ed., §61 (R.S. 4913, amended Mar. 2, 1927, ch. 273, §10, 44 Stat. 1336).
+
+Language is changed. The requirement that the Commissioner notify the parties is omitted and a requirement that the court notify the parties is added. The statement relating to filing the papers and testimony is made more explicit.
+
+#### Amendments
+
+1984—Pub. L. 98–620 substituted provisions requiring the Commissioner to transmit to the court a certified list of the documents comprising the record in the Patent and Trademark Office, with respect to an appeal described in section 142 of this title, for provision which required the Commissioner to transmit to the court certified copies of all the necessary original papers and evidence in the case specified by the appellant and the appellee, and inserted provision that the court may request that the Commissioner forward the original or certified copies of such documents during the pendency of the appeal.
+
+1982—Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
+
+1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–620 applicable to proceedings pending in the Patent and Trademark Office on Nov. 8, 1984, and to appeals pending in the United States Court of Appeals for the Federal Circuit on such date, see section 414(c) of Pub. L. 98–620, set out as a note under section 142 of this title.
+
+#### Effective Date of 1982 Amendment
+
+Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 1975 Amendment
+
+Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 306 of this title.
+

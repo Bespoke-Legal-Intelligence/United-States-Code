@@ -1,0 +1,18 @@
+### §971i. Biennial reports to Congress regarding bluefin tuna
+
+The Secretary of Commerce shall prepare, for each biennial period commencing with the period covering calendar years 1981 and 1982, and submit to the Congress a report setting forth, with respect to such biennial period—
+
+&emsp;(1) the level of taking of bluefin tuna by United States fishermen in the Convention area as defined in Article I of the International Convention for the Conservation of Atlantic Tunas;
+
+&emsp;(2) the status of bluefin tuna stocks within such Convention area and the trends in their population level; and
+
+&emsp;(3) related information resulting from the implementation of the observer program under section 1827 of this title.
+
+> The report required under this section shall be submitted to the Congress within sixty days after the close of the biennial period covered by the report. There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+(Pub. L. 96–339, §3, Sept. 4, 1980, 94 Stat. 1070.)
+
+#### Codification
+
+Section was not enacted as part of the Atlantic Tunas Convention Act of 1975 which comprises this chapter.
+

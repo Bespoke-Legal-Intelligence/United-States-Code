@@ -1,0 +1,6 @@
+### §13295. Electric utility participation study
+
+The Secretary, in consultation with appropriate Federal agencies, representatives of State regulatory commissions and electric utilities, and such other persons as the Secretary considers appropriate, shall undertake or cause to have undertaken a study to determine the means by which electric utilities may invest in, own, sell, lease, service, or recharge batteries used to power electric motor vehicles.
+
+(Pub. L. 102–486, title VI, §625, Oct. 24, 1992, 106 Stat. 2905.)
+

@@ -1,0 +1,10 @@
+### §1488. Nationality lost solely from performance of acts or fulfillment of conditions
+
+The loss of nationality under this Part shall result solely from the performance by a national of the acts or fulfillment of the conditions specified in this Part.
+
+(June 27, 1952, ch. 477, title III, ch. 3, §356, 66 Stat. 272.)
+
+#### Cross References
+
+Definition of national, see section 1101 of this title.
+

@@ -1,0 +1,110 @@
+### §30118. Notification of defects and noncompliance
+
+(a)
+
+Notification by Secretary.—The Secretary of Transportation shall notify the manufacturer of a motor vehicle or replacement equipment immediately after making an initial decision (through testing, inspection, investigation, or research carried out under this chapter, examining communications under section 30166(f) of this title, or otherwise) that the vehicle or equipment contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter. The notification shall include the information on which the decision is based. The Secretary shall publish a notice of each decision under this subsection in the Federal Register. Subject to section 30167(a) of this title, the notification and information are available to any interested person.
+
+(b)
+
+Defect and Noncompliance Proceedings and Orders.—(1) The Secretary may make a final decision that a motor vehicle or replacement equipment contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter only after giving the manufacturer an opportunity to present information, views, and arguments showing that there is no defect or noncompliance or that the defect does not affect motor vehicle safety. Any interested person also shall be given an opportunity to present information, views, and arguments.
+
+(2) If the Secretary decides under paragraph (1) of this subsection that the vehicle or equipment contains the defect or does not comply, the Secretary shall order the manufacturer to—
+
+&emsp;(A) give notification under section 30119 of this title to the owners, purchasers, and dealers of the vehicle or equipment of the defect or noncompliance; and
+
+&emsp;(B) remedy the defect or noncompliance under section 30120 of this title.
+
+(c)
+
+Notification by Manufacturer.—A manufacturer of a motor vehicle or replacement equipment shall notify the Secretary by certified mail, and the owners, purchasers, and dealers of the vehicle or equipment as provided in section 30119(d) of this section, if the manufacturer—
+
+&emsp;(1) learns the vehicle or equipment contains a defect and decides in good faith that the defect is related to motor vehicle safety; or
+
+&emsp;(2) decides in good faith that the vehicle or equipment does not comply with an applicable motor vehicle safety standard prescribed under this chapter.
+
+(d)
+
+Exemptions.—On application of a manufacturer, the Secretary shall exempt the manufacturer from this section if the Secretary decides a defect or noncompliance is inconsequential to motor vehicle safety. The Secretary may take action under this subsection only after notice in the Federal Register and an opportunity for any interested person to present information, views, and arguments.
+
+(e)
+
+Hearings About Meeting Notification Requirements.—On the motion of the Secretary or on petition of any interested person, the Secretary may conduct a hearing to decide whether the manufacturer has reasonably met the notification requirements under this section. Any interested person may make written and oral presentations of information, views, and arguments on whether the manufacturer has reasonably met the notification requirements. If the Secretary decides that the manufacturer has not reasonably met the notification requirements, the Secretary shall order the manufacturer to take specified action to meet those requirements and may take any other action authorized under this chapter.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 950.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+30118(a)
+
+15:1397(a)(1)(D) (related to 15:1412(a) (1st–3d sentences)).
+
+Sept. 9, 1966, Pub. L. 89–563, §108(a)(1)(D) (related to §§151, 152, 153(c) (1st sentence cl. (6)), 156, 157), 80 Stat. 722; restated Oct. 27, 1974, Pub. L. 93–492, §103(a)(1)(A), (3), 88 Stat. 1477, 1478.
+
+&nbsp;
+
+15:1412(a) (1st–3d sentences).
+
+Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §§151, 152, 156 (related to notice), 157 (related to notice); added Oct. 27, 1974, Pub. L. 93–492, §102(a), 88 Stat. 1470, 1475.
+
+30118(b)
+
+15:1397(a)(1)(D) (related to 15:1412(a) (last sentence), (b)).
+
+&nbsp;
+
+15:1412(a) (last sentence), (b).
+
+30118(c)
+
+15:1397(a)(1)(D) (related to 15:1411, 1413(c) (1st sentence cl. (6))).
+
+&nbsp;
+
+15:1411.
+
+&nbsp;
+
+15:1413(c) (1st sentence cl. (6)).
+
+Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §153(c) (1st sentence cl. (6)); added Oct. 27, 1974, Pub. L. 93–492, §102(a), 88 Stat. 1472; Oct. 15, 1982, Pub. L. 97–331, §4(b)(2), 96 Stat. 1620.
+
+30118(d)
+
+15:1397(a)(1)(D) (related to 15:1417).
+
+&nbsp;
+
+15:1417 (related to notice).
+
+30118(e)
+
+15:1397(a)(1)(D) (related to 15:1416).
+
+&nbsp;
+
+15:1416 (related to notice).
+
+In this section, the text of 15:1397(a)(1)(D) (related to 15:1411, 1412, 1413(c) (1st sentence cl. (6)), and 1417) is omitted as surplus.
+
+In subsection (a), the words “making an initial decision” are substituted for “determines” to distinguish the decision from the decision made under subsection (b) of this section. The words “of such determination”, “to the manufacturer”, and “of the Secretary” are omitted as surplus. The words “under this subsection” are added for clarity.
+
+In subsection (b)(1), the words “may make a final decision” are substituted for “determines”, and the words “prescribed under this chapter” are added, for clarity and consistency in this chapter.
+
+In subsection (b)(2), before clause (A), the words “If the Secretary decides under paragraph (1) of this subsection that the vehicle or equipment contains a defect or does not comply” are added for clarity and because of the restatement. The words “after such presentations by the manufacturer and interested persons” are omitted as surplus. In clause (A), the words “of the defect or noncompliance” are added for clarity.
+
+In subsection (c), before clause (1), the words “A manufacturer of a motor vehicle or replacement equipment” are substituted for “manufactured by him” in 15:1411 for clarity. The words “shall notify” are substituted for “he shall furnish notification to” to eliminate unnecessary words. The words “to the Secretary, if section 1411 of this title applies” in 15:1413(c) (1st sentence cl. (6)) are omitted because of the restatement. The words “of the vehicle or equipment” are added for clarity. The words “and he shall remedy the defect or failure to comply in accordance with section 1414 of this title” in 15:1411 are omitted as unnecessary because of the source provisions restated in section 30120 of the revised title.
+
+In subsection (d), the words “any requirement under”, “to give notice with respect to”, and “as it relates” are omitted as surplus. The words “The Secretary may take action under this subsection only” are added because of the restatement.
+
+In subsection (e), the words “(including a manufacturer)” are omitted as surplus. The word “information”is substituted for “data” for consistency in the revised title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 30102, 30103, 30117, 30119, 30120, 30121, 30141, 30146, 30147, 30162, 30163, 30165, 30167 of this title.
+

@@ -1,0 +1,30 @@
+### §12642. Partnerships with schools
+
+#### (a) Design of programs
+
+The head of each Federal agency and department shall design and implement a comprehensive strategy to involve employees of such agencies and departments in partnership programs with elementary schools and secondary schools. Such strategy shall include—
+
+&emsp;(1) a review of existing programs to identify and expand the opportunities for such employees to be adult volunteers in schools and for students and out-of-school youth;
+
+&emsp;(2) the designation of a senior official in each such agency and department who will be responsible for establishing partnership and youth service programs in each such agency and department and for developing partnership and youth service programs;
+
+&emsp;(3) the encouragement of employees of such agencies and departments to participate in partnership programs and other service projects;
+
+&emsp;(4) the annual recognition of outstanding service programs operated by Federal agencies; and
+
+&emsp;(5) the encouragement of businesses and professional firms to include community service among the factors considered in making hiring, compensation, and promotion decisions.
+
+#### (b) Report
+
+Not later than 180 days after November 16, 1990, and on a regular basis thereafter, the head of each Federal agency and department shall prepare and submit, to the appropriate Committees of Congress, a report concerning the implementation of this section.
+
+(Pub. L. 101–610, title I, §182, Nov. 16, 1990, 104 Stat. 3167; Pub. L. 103–82, title I, §111(b)(1), (2), Sept. 21, 1993, 107 Stat. 860.)
+
+#### Amendments
+
+1993—Subsec. (a)(2), (3). Pub. L. 103–82 substituted “partnership” for “adult volunteer and partnership” wherever appearing.
+
+#### Effective Date of 1993 Amendment
+
+Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
+

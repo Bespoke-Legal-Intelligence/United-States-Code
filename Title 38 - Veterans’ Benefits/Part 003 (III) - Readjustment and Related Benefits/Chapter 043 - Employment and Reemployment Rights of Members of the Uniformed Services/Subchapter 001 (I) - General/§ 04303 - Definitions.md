@@ -1,0 +1,70 @@
+### §4303. Definitions
+
+For the purposes of this chapter—
+
+&emsp;(1) The term “Attorney General” means the Attorney General of the United States or any person designated by the Attorney General to carry out a responsibility of the Attorney General under this chapter.
+
+&emsp;(2) The term “benefit”, “benefit of employment”, or “rights and benefits” means any advantage, profit, privilege, gain, status, account, or interest (other than wages or salary for work performed) that accrues by reason of an employment contract or agreement or an employer policy, plan, or practice and includes rights and benefits under a pension plan, a health plan, an employee stock ownership plan, insurance coverage and awards, bonuses, severance pay, supplemental unemployment benefits, vacations, and the opportunity to select work hours or location of employment.
+
+&emsp;(3) The term “employee” means any person employed by an employer.
+
+&emsp;(4)(A) Except as provided in subparagraphs (B) and (C), the term “employer” means any person, institution, organization, or other entity that pays salary or wages for work performed or that has control over employment opportunities, including—
+
+&emsp;&emsp;(i) a person, institution, organization, or other entity to whom the employer has delegated the performance of employment-related responsibilities;
+
+&emsp;&emsp;(ii) the Federal Government;
+
+&emsp;&emsp;(iii) a State;
+
+&emsp;&emsp;(iv) any successor in interest to a person, institution, organization, or other entity referred to in this subparagraph; and
+
+&emsp;&emsp;(v) a person, institution, organization, or other entity that has denied initial employment in violation of section 4311.
+
+&emsp;(B) In the case of a National Guard technician employed under section 709 of title 32, the term “employer” means the adjutant general of the State in which the technician is employed.
+
+&emsp;(C) Except as an actual employer of employees, an employee pension benefit plan described in section 3(2) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(2)) shall be deemed to be an employer only with respect to the obligation to provide benefits described in section 4318.
+
+&emsp;(5) The term “Federal executive agency” includes the United States Postal Service, the Postal Rate Commission, any nonappropriated fund instrumentality of the United States, anyExecutive agency (as that term is defined in section 105 of title 5) other than an agency referred to in section 2302(a)(2)(C)(ii) of title 5, and any military department (as that term is defined in section 102 of title 5) with respect to the civilian employees of that department.
+
+&emsp;(6) The term “Federal Government” includes any Federal executive agency, the legislative branch of the United States, and the judicial branch of the United States.
+
+&emsp;(7) The term “health plan” means an insurance policy or contract, medical or hospital service agreement, membership or subscription contract, or other arrangement under which health services for individuals are provided or the expenses of such services are paid.
+
+&emsp;(8) The term “notice” means (with respect to subchapter II) any written or verbal notification of an obligation or intention to perform service in the uniformed services provided to an employer by the employee who will perform such service or by the uniformed service in which such service is to be performed.
+
+&emsp;(9) The term “qualified”, with respect to an employment position, means having the ability to perform the essential tasks of the position.
+
+&emsp;(10) The term “reasonable efforts”, in the case of actions required of an employer under this chapter, means actions, including training provided by an employer, that do not place an undue hardship on the employer.
+
+&emsp;(11) Notwithstanding section 101, the term “Secretary” means the Secretary of Labor or any person designated by such Secretary to carry out an activity under this chapter.
+
+&emsp;(12) The term “seniority” means longevity in employment together with any benefits of employment which accrue with, or are determined by, longevity in employment.
+
+&emsp;(13) The term “service in the uniformed services” means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive duty training, full-time National Guard duty, and a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty.
+
+&emsp;(14) The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and other territories of the United States (including the agencies and political subdivisions thereof).
+
+&emsp;(15) The term “undue hardship”, in the case of actions taken by an employer, means actions requiring significant difficulty or expense, when considered in light of—
+
+&emsp;&emsp;(A) the nature and cost of the action needed under this chapter;
+
+&emsp;&emsp;(B) the overall financial resources of the facility or facilities involved in the provision of the action; the number of persons employed at such facility; the effect on expenses and resources, or the impact otherwise of such action upon the operation of the facility;
+
+&emsp;&emsp;(C) the overall financial resources of the employer; the overall size of the business of an employer with respect to the number of its employees; the number, type, and location of its facilities; and
+
+&emsp;&emsp;(D) the type of operation or operations of the employer, including the composition, structure, and functions of the work force of such employer; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the employer.
+
+&emsp;(16) The term “uniformed services” means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the commissioned corps of the Public Health Service, and any other category of persons designated by the President in time of war or emergency.
+
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150.)
+
+#### Prior Provisions
+
+A prior section 4303, applicable to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, is contained in chapter 43 set out as a note preceding this subchapter.
+
+Another prior section 4303 was renumbered section 7603 of this title.
+
+#### Effective Date
+
+Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
+

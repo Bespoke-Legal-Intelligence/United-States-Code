@@ -1,0 +1,14 @@
+### §14112. Allotment
+
+From amounts appropriated under section 14119 of this title, the Director shall allot—
+
+&emsp;(1) 80 percent of such amounts to States on the basis of the number of law enforcement officers in each State compared to the number of law enforcement officers in all States; and
+
+&emsp;(2) 20 percent of such amounts to States on the basis of the shortage of law enforcement personnel and the need for assistance under this part in the State compared to the shortage of law enforcement personnel and the need for assistance under this part in all States.
+
+(Pub. L. 103–322, title XX, §200203, Sept. 13, 1994, 108 Stat. 2058.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 14113, 14116 of this title.
+

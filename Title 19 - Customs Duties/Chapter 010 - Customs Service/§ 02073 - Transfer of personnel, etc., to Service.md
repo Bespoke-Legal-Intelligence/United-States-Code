@@ -1,0 +1,30 @@
+### §2073. Transfer of personnel, etc., to Service
+
+(a) Repealed. Sept. 3, 1954, ch. 1263, §10, 68 Stat. 1229.
+
+(b) The records, property (including office equipment), and personnel of the Division of Customs are transferred to the United States Customs Service.
+
+(Mar. 3, 1927, ch. 348, §3, 44 Stat. 1382; Sept. 3, 1954, ch. 1263, §10, 68 Stat. 1229.)
+
+#### Codification
+
+Section was formerly classified to section 281b of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+
+Subsection (c) of section 3 of act March 3, 1927, abolished the Division of Customs and offices of directors and assistant directors of customs and Special Agency Service of the Customs.
+
+#### Amendments
+
+1954—Subsec. (a). Act Sept. 3, 1954, repealed subsec. (a) which related to the delegation of duty to Commissioner of Customs by Secretary of the Treasury.
+
+#### Change of Name
+
+“United States Customs Service” substituted in text for “Bureau of Customs” pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, section 308 of Title 31, Money and Finance.
+
+#### Transfer of Functions
+
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1643 of this title.
+

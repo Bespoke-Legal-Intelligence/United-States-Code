@@ -1,0 +1,4 @@
+### §764. Repealed. Pub. L. 95–602, title I, §109(3), Nov. 6, 1978, 92 Stat. 2963
+
+Section, Pub. L. 93–112, title II, §204, Sept. 26, 1973, 87 Stat. 376, provided that a full report on research andtraining activities be included in annual report to Congress.
+

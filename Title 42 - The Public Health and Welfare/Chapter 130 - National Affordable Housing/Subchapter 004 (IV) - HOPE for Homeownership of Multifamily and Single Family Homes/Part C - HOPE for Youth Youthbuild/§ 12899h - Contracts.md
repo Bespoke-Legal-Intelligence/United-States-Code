@@ -1,0 +1,6 @@
+### §12899h. Contracts
+
+Each Youthbuild program shall carry out the services and activities under this part directly or through arrangements or under contracts with administrative entities designated under section 1513(b)(1)(B) of title 29, with State and local educational agencies, institutions of higher education, State and local housing development agencies, or with other public agencies, including agencies of Indian tribes, and private organizations.
+
+(Pub. L. 101–625, title IV, §459, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3733.)
+

@@ -1,0 +1,26 @@
+### §2364. Community employment and population
+
+The indemnity obligation specified in section 2363 of this title shall arise only if, for the six months just preceding the date on which it is invoked—
+
+&emsp;(a) the total number of operating, maintenance, and administrative employees in the project area, as determined by the Commission, has been less than fourteen thousand three hundred and thirty-seven in the case of Oak Ridge or seven thousand six hundred and twenty-two in the case of Richland or four thousand six hundred and twenty in the case of Los Alamos; and
+
+&emsp;(b) the population in the community has been less than twenty-nine thousand two hundred and fifty in the case of Oak Ridge or twenty-five thousand two hundred in the case of Richland or eleven thousand seven hundred and sixty-nine in the case of Los Alamos.
+
+> For purposes of this section employment shall be determined on the basis of the pay period or periods ending nearest the 15th of each month.
+
+(Aug. 4, 1955, ch. 543, ch. 6, §64, 69 Stat. 479; Sept. 28, 1962, Pub. L. 87–719, §§18, 19, 76 Stat. 666.)
+
+#### Amendments
+
+1962—Subsec. (a). Pub. L. 87–719, §18, inserted “or four thousand six hundred and twenty in the case of Los Alamos” after “Richland”.
+
+Subsec. (b). Pub. L. 87–719, §19, inserted “or eleven thousand seven hundred and sixty-nine in the case of Los Alamos” after “Richland”.
+
+#### Transfer of Functions
+
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2311, 2326, 2348, 2366 of this title.
+

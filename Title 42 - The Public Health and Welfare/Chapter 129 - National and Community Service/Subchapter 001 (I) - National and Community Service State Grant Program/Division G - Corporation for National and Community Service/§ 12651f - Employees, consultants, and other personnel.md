@@ -1,0 +1,132 @@
+### §12651f. Employees, consultants, and other personnel
+
+#### (a) Employees
+
+Except as provided in subsection (b) of this section, section 12651e(d) of this title, and section 8E <sup>1</sup> of the Inspector General Act of 1978, the Chief Executive Officer shall, in accordance with applicable provisions of title 5, appoint and determine the compensation of such employees as the Chief Executive Officer determines to be necessary to carry out the duties of the Corporation.
+
+#### (b) Alternative personnel system
+
+#### (1) Authority
+
+&emsp;The Chief Executive Officer may designate positions in the Corporation as positions to which the Chief Executive Officer may make appointments, and for which the Chief Executive Officer may determine compensation, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, to the extent the Chief Executive Officer determines that such a designation is appropriate and desirable to further the effective operation of the Corporation. The Chief Executive Officer may provide for appointments to such positions to be made on a limited term basis.
+
+#### (2) Appointment in the competitive service after employment under alternative personnel system
+
+&emsp;The Director of the Office of Personnel Management may grant competitive status for appointment to the competitive service, under such conditions as the Director may prescribe, to an employee who is appointed under this subsection and who is separated from the Corporation (other than by removal for cause).
+
+#### (3) Selection and compensation system
+
+#### (A) Establishment of system
+
+&emsp;&emsp;The Chief Executive Officer, after obtaining the approval of the Director of the Office of Personnel Management, shall issue regulations establishing a selection and compensation system for employees of the Corporation appointed under paragraph (1). In issuing such regulations, the Chief Executive Officer shall take into consideration the need for flexibility in such a system.
+
+#### (B) Application
+
+&emsp;&emsp;The Chief Executive Officer shall appoint and determine the compensation of employees in accordance with the selection and compensation system established under subparagraph (A).
+
+#### (C) Selection
+
+&emsp;&emsp;The system established under subparagraph (A) shall provide for the selection of employees—
+
+&emsp;&emsp;&emsp;(i) through a competitive process; and
+
+&emsp;&emsp;&emsp;(ii) on the basis of the qualifications of applicants and the requirements of the positions.
+
+#### (D) Compensation
+
+&emsp;&emsp;The system established under subparagraph (A) shall include a scheme for the classification of positions in the Corporation. The system shall require that the compensation of an employee be determined in part on the basis of the job performance of the employee, and in a manner consistent with the principles described in section 5301 of title 5. The rate of compensation for each employee compensated under the system shall not exceed the annual rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5.
+
+#### (c) Corporation representative in each State
+
+#### (1) Designation of representative
+
+&emsp;The Corporation shall designate 1 employee of the Corporation for each State or group of States to serve as the representative of the Corporation in the State or States and to assist the Corporation in carrying out the activities described in the national service laws in the State or States.
+
+#### (2) Duties
+
+&emsp;The representative designated under this subsection for a State or group of States shall serve as the liaison between—
+
+&emsp;&emsp;(A) the Corporation and the State Commission that is established in the State or States;
+
+&emsp;&emsp;(B) the Corporation and any subdivision of a State, Indian tribe, public or private nonprofit organization, or institution of higher education, in the State or States, that is awarded a grant under section 12571 of this title directly from the Corporation; and
+
+&emsp;&emsp;(C) after the effective date of section 203(c)(2) of the National and Community Service Trust Act of 1993, the State Commission and the Corporation employee responsible for programs under the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\] in the State, if the employee is not the representative described in paragraph (1) for the State.
+
+#### (3) Member of State Commission
+
+&emsp;The representative designated under this subsection for a State or group of States shall also serve as a member of the State Commission established in the State or States, as described in section 12638(c)(3) of this title.
+
+#### (4) Compensation
+
+&emsp;If the employee designated under paragraph (1) is an employee whose appointment was made pursuant to subsection (b) of this section, the rate of compensation for such employee may not exceed the maximum rate of basic pay payable for GS–13 of the General Schedule under section 5332 of title 5.
+
+#### (d) Consultants
+
+The Chief Executive Officer may procure the temporary and intermittent services of experts and consultants and compensate the experts and consultants in accordance with section 3109(b) of title 5.
+
+#### (e) Details of personnel
+
+The head of any Federal department or agency may detail on a reimbursable basis, or on a nonreimbursable basis for not to exceed 180 calendar days during any fiscal year, as agreed upon by the Chief Executive Officer and the head of the Federal agency, any of the personnel of that department or agency to the Corporation to assist the Corporation in carrying out the duties of the Corporation under the national service laws. Any detail shall not interrupt or otherwise affect the civil service status or privileges of the Federal employee.
+
+#### (f) Advisory committees
+
+#### (1) Establishment
+
+&emsp;The Chief Executive Officer, acting upon the recommendation of the Board, may establish advisory committees in the Corporation to advise the Board with respect to national service issues, such as the type of programs to be established or assisted under the national service laws, priorities and criteria for such programs, and methods of conducting outreach for, and evaluation of, such programs.
+
+#### (2) Composition
+
+&emsp;Such an advisory committee shall be composed of members appointed by the Chief Executive Officer, with such qualifications as the Chief Executive Officer may specify.
+
+#### (3) Expenses
+
+&emsp;Members of such an advisory committee may be allowed travel expenses as described in section 12651b(d) of this title.
+
+#### (4) Staff
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), the Chief Executive Officer is authorized to appoint and fix the compensation of such staff as the Chief Executive Officer determines to be necessary to carry out the functions of the advisory committee, without regard to—
+
+&emsp;&emsp;&emsp;(i) the provisions of title 5 governing appointments in the competitive service; and
+
+&emsp;&emsp;&emsp;(ii) the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+
+#### (B) Compensation
+
+&emsp;&emsp;If a member of the staff appointed under subparagraph (A) was appointed without regard to the provisions described in clauses (i) and (ii) of subparagraph (A), the rate of compensation for such member may not exceed the maximum rate of basic pay payable for GS–13 of the General Schedule under section 5332 of title 5.
+
+(Pub. L. 101–610, title I, §195, as added and amended Pub. L. 103–82, title II, §§202(a), 203(a)(1)(B), Sept. 21, 1993, 107 Stat. 883, 891.)
+
+#### References in Text
+
+Section 8E of the Inspector General Act of 1978, referred to in subsec. (a), is section 8E of Pub. L. 95–452,as added by Pub. L. 103–82, title II, §202(g)(1), Sept. 21, 1993, 107 Stat. 889, which was renumbered section 8F of the Act by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
+
+The provisions of title 5 governing appointments in the competitive service, referred to in subsecs. (b)(1) and (f)(4)(A)(i), are classified generally to section 3301 et seq. of Title 5.
+
+Section 203(c)(2) of the National and Community Service Trust Act of 1993, referred to in subsec. (c)(2)(C), is section 203(c)(2) of Pub. L. 103–82, which is set out as a note under section 12651 of this title. For the effective date of section 203(c)(2) of this Act, see section 203(d) of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 12651 of this title.
+
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(2)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified generally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+
+#### Prior Provisions
+
+A prior section 195 of Pub. L. 101–610 was renumbered section 151 by Pub. L. 103–82 and is classified to section 12611 of this title.
+
+#### Amendments
+
+1993—Subsecs. (c)(1), (e). Pub. L. 103–82, §203(a)(1)(B), which directed amendment of section 195(c) and (e) of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter”, was executed to subsecs. (c)(1) and (e) of this section, which is section 195 of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
+
+#### Effective Date of 1993 Amendment
+
+Amendment by section 203(a)(1)(B) of Pub. L. 103–82 effective Apr. 4, 1994, see section 203(d) of Pub. L. 103–82, set out as a note under section 12651 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out as a note under section 12651 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5011, 12638, 12651d, 12651h of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

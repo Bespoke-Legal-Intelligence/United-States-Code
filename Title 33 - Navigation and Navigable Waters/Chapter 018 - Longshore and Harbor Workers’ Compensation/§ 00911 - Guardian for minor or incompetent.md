@@ -1,0 +1,14 @@
+### §911. Guardian for minor or incompetent
+
+The deputy commissioner may require the appointment by a court of competent jurisdiction, for any person who is mentally incompetent or a minor, of a guardian or other representative to receive compensation payable to such person under this chapter and to exercise the powers granted to or to perform the duties required of such person under this chapter.
+
+(Mar. 4, 1927, ch. 509, §11, 44 Stat. 1431.)
+
+#### Cross References
+
+Additional provisions, see section 908 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 944 of this title.
+

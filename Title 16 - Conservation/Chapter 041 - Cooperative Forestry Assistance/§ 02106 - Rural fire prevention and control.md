@@ -1,0 +1,88 @@
+### §2106. Rural fire prevention and control
+
+#### (a) Congressional findings
+
+Congress finds that—
+
+&emsp;(1) significant accomplishments have been made by the Secretary and cooperating States in the prevention and control of fires on forest lands and on nonforested watersheds for more than fifty years;
+
+&emsp;(2) progress is being made by the Secretary and cooperating States and rural communities in the protection of human lives, agricultural crops and livestock, property and other improvements, and natural resources from fires in rural areas;
+
+&emsp;(3) notwithstanding the accomplishments and progress that have been made, fire prevention and control on rural lands and in rural communities are of continuing high priority to protect human lives, agricultural crops and livestock, property and other improvements, and natural resources;
+
+&emsp;(4) the effective cooperative relationships between the Secretary and the States regarding fire prevention and control on rural lands and in rural communities should be retained and improved;
+
+&emsp;(5) efforts in fire prevention and control in rural areas should be coordinated among Federal, State, and local agencies; and
+
+&emsp;(6) in addition to providing assistance to State and local rural fire prevention and control programs, the Secretary should provide prompt and adequate assistance whenever a rural fire emergency overwhelms, or threatens to overwhelm, the firefighting capability of the affected State or rural area.
+
+#### (b) Implementation of provisions
+
+Notwithstanding the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2201 et seq.\] the Secretary is authorized, under whatever conditions the Secretary may prescribe, to—
+
+&emsp;(1) cooperate with State foresters or equivalent State officials in developing systems and methods for the prevention, control, suppression, and prescribed use of fires on rural lands and in rural communities that will protect human lives, agricultural crops and livestock, property and other improvements, and natural resources;
+
+&emsp;(2) provide financial, technical, and related assistance to State foresters or equivalent State officials, and through them to other agencies and individuals, for the prevention, control, suppression, and prescribed use of fires on non-Federal forest lands and other non-Federal lands;
+
+&emsp;(3) provide financial, technical, and related assistance to State foresters or equivalentState officials in cooperative efforts to organize, train, and equip local firefighting forces, including those of Indian tribes or other native groups, to prevent, control, and suppress fires threatening human lives, crops, livestock, farmsteads or other improvements, pastures, orchards, wildlife, rangeland, woodland, and other resources in rural areas. As used herein, the term “rural areas” shall have the meaning set out in the first clause of section 1926(a)(7) of title 7; and
+
+&emsp;(4) provide financial, technical, and related assistance to State foresters or equivalent State officials, and through them to other agencies and individuals, including rural volunteer fire departments, to conduct preparedness and mobilization activities, including training, equipping, and otherwise enabling State and local firefighting agencies to respond to requests for fire suppression assistance.
+
+#### (c) Encouragement of use of excess personal property by State and local fire forces receiving assistance; cooperation and assistance of Administrator of General Services
+
+The Secretary, with the cooperation and assistance of the Administrator of General Services, shall encourage the use of excess personal property (within the meaning of the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 471 et seq.\]) by State and local fire forces receiving assistance under this section.
+
+#### (d) Coordination of assistance with assistance of Secretary of Commerce under Federal fire prevention and control provisions
+
+To promote maximum effectiveness and economy, the Secretary shall seek to coordinate the assistance the Secretary provides under this section with the assistance provided by the Secretary of Commerce under the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2201 et seq.\].
+
+#### (e) Authorization of appropriations for implementation of provisions
+
+(1) There are hereby authorized to be appropriated annually such sums as may be needed to implement paragraphs (1), (2), and (3) of subsection (b) of this section.
+
+(2)(A) There are hereby authorized to be appropriated annually $70,000,000 to carry out subsection (b)(4) of this section. Of the total amount appropriated to carry out subsection (b)(4) of this section—
+
+&emsp;(i) one-half shall be available only for State foresters or equivalent State officials, and through them to other agencies and individuals, of which not less than $100,000 shall be made available to each State; and
+
+&emsp;(ii) one-half shall be available only for rural volunteer fire departments.
+
+(B) The Federal share of the cost of any activity carried out with funds made available pursuant to this paragraph may not exceed 50 percent of the cost of that activity. The non-Federal share for such activity may be in the form of cash, services, or in kind contributions.
+
+#### (f) Special rural fire disaster fund; establishment, appropriations, etc.
+
+There shall be established in the Treasury a special rural fire disaster fund that shall be immediately available to and used by the Secretary to supplement any other money available to carry out this section with respect to rural fire emergencies, as determined by the Secretary. The Secretary shall determine that State and local resources are fully used or will be fully used before expending money in the disaster fund to assist a State in which one or more rural fire emergencies exist. There are hereby authorized to be appropriated such sums as may be needed to establish and replenish the disaster fund established by this subsection.
+
+#### (g) Definitions
+
+As used in this section—
+
+&emsp;(1) the term “rural volunteer fire department” means any organized, not for profit, fire protection organization that provides service primarily to a community or city with a population of 10,000 or less or to a rural area, as defined by the Secretary, whose firefighting personnel is 80 percent or more volunteer, and that is recognized as a fire department by the laws of the State; and
+
+&emsp;(2) the term “mobilization” means any activity in which one firefighting organization assists another that has requested assistance.
+
+(Pub. L. 95–313, §10, formerly §7, July 1, 1978, 92 Stat. 370; renumbered §10 and amended Pub. L. 101–624, title XII, §§1215(1), 1220, Nov. 28, 1990, 104 Stat. 3525, 3539; Pub. L. 102–237, title X, §1018(a)(4), Dec. 13, 1991, 105 Stat. 1905.)
+
+#### References in Text
+
+The Federal Fire Prevention and Control Act of 1974, referred to in subsecs. (b) and (d), is Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, as amended, which is classified principally to chapter 49 (§2201 et seq.) of Title 15, Commerce and Trade. For complete classification of the Act to the Code, see Short Title note set out under section 2201 of Title 15 and Tables.
+
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. The surplus property provisions of that act are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+
+#### Prior Provisions
+
+A prior section 10 of Pub. L. 95–313 was renumbered section 13 and is classified to section 2109 of this title.
+
+#### Amendments
+
+1991—Subsec. (g)(2). Pub. L. 102–237 substituted “firefighting organization” for “fire fighting organization”.
+
+1990—Subsec. (b)(4). Pub. L. 101–624, §1220(a), added par. (4).
+
+Subsec. (e). Pub. L. 101–624, §1220(b), designated existing provisions as par. (1), inserted reference to paragraphs (1), (2), and (3) of subsec. (b), and added par. (2).
+
+Subsec. (g). Pub. L. 101–624, §1220(c), added subsec. (g).
+
+#### Transfer of Functions
+
+Functions vested in Secretary of Commerce pursuant to provisions of Federal Fire Prevention Control Act of 1974, 15 U.S.C. 2201 et seq., transferred to Director of Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, §201, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out in the Appendix to Title 5, Government Organization and Employees, effective Apr. 1, 1979, as provided by Ex. Ord. No. 12127, §§1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19637.
+

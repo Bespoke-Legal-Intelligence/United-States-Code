@@ -1,0 +1,30 @@
+### §499. Military, naval, or official passes
+
+Whoever falsely makes, forges, counterfeits, alters, or tampers with any naval, military, or official pass or permit, issued by or under the authority of the United States, or with intent to defraud uses or possesses any such pass or permit, or personates or falsely represents himself to be or not to be a person to whom such pass or permit has been duly issued, or willfully allows any other person to have or use any such pass or permit, issued for his use alone, shall be fined under this title or imprisoned not more than five years, or both.
+
+(June 25, 1948, ch. 645, 62 Stat. 712; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(I), 108 Stat. 2147.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §132 (June 15, 1917, ch. 30, title X, §3, 40 Stat. 228).
+
+Changes were made in phraseology.
+
+#### Amendments
+
+1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
+
+#### Canal Zone
+
+Applicability of section to Canal Zone, see section 14 of this title.
+
+#### Cross References
+
+Jurisdiction of offenses, see section 3241 of this title.
+
+Letters, writings, etc., in violation of this section as nonmailable, see section 1717 of this title.
+
+#### Sections Referred to in Other Sections
+
+This section is referred to in sections 14, 1717 of this title.
+

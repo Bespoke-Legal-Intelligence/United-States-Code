@@ -1,0 +1,28 @@
+### §473. Revocation, modification, or vacation of orders or proclamations establishing national forests
+
+The President of the United States is authorized and empowered to revoke, modify, or suspend any and all Executive orders and proclamations or any part thereof issued under section 471 <sup>1</sup> of this title, from time to time as he shall deem best for the public interests. By such modification he may reduce the area or change the boundary lines or may vacate altogether any order creating a national forest.
+
+(June 4, 1897, ch. 2, §1, 30 Stat. 34, 36.)
+
+#### References in Text
+
+Section 471 of this title, referred to in text, was repealed by Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.
+
+#### Codification
+
+The two sentences of this section are from provisions in section 1 of the Sundry Civil Appropriation Act for the fiscal year 1898, act June 4, 1897.
+
+The first sentence is a portion of the third paragraph and was prefaced by the words “To remove any doubt which may exist pertaining to the authority of the President thereunto.” Other provisions of the same paragraph have been omitted as temporary.
+
+The second sentence is a portion of the seventh paragraph the whole of which reads as follows: “The President is hereby authorized at any time to modify any Executive order that has been or may hereafter be made establishing any forest reserve, and by such modification may reduce the area or change the boundary lines of such reserve, or may vacate altogether any order creating such reserve.”
+
+#### Cross References
+
+Prohibition on return to public domain of land reserved or withdrawn from the public domain as national forests except by act of Congress, see section 1609 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 478, 482, 551, 1609 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

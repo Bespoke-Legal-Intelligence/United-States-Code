@@ -1,0 +1,14 @@
+### §1583. Redetermination of demountable housing as temporary or permanent
+
+With respect to any housing classified, prior to April 20, 1950, by the Secretary of Housing and Urban Development as demountable, the Secretary of Housing and Urban Development shall, as soon as practicable but not later in any event than December 31, 1950, and after consultation with the communities affected, redetermine (taking into consideration local standards and conditions) whether such housing is of a temporary or permanent character, and after such redetermination shall dispose of such housing in accordance with the provisions of this subchapter.
+
+(Oct. 14, 1940, ch. 862, title VI, §603, as added June 28, 1948, ch. 688, §7, as added Apr. 20, 1950, ch. 94, title II, §201, 64 Stat. 59; amended Sept. 9, 1965, Pub. L. 89–174, §5(a), 79 Stat. 669.)
+
+#### Transfer of Functions
+
+For transfer of functions to Secretary of Housing and Urban Development, see note set out under section 1581 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1585 of this title.
+

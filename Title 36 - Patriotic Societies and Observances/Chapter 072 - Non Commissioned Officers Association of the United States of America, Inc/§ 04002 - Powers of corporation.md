@@ -1,0 +1,6 @@
+### §4002. Powers of corporation
+
+The Non Commissioned Officers Association of the United States of America, Incorporated, (hereinafter in this chapter referred to as the “corporation”) shall have only those powers granted to it through its bylaws and articles of incorporation filed in the State in which it is incorporated and subject to the laws of such State.
+
+(Pub. L. 100–281, §2, Apr. 6, 1988, 102 Stat. 73.)
+

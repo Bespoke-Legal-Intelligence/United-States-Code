@@ -1,0 +1,12 @@
+### §1662. Federal administration
+
+#### (a) Standards
+
+The Secretary shall promulgate standards for the conduct and evaluation of programs under this subchapter.
+
+#### (b) By-pass authority
+
+In the event that any State fails to submit a plan that is approved under section 1661 of this title, the Secretary shall use the amount that would be allotted to that State to provide for the delivery in that State of the programs, activities, and services authorized by this subchapter until the State plan is submitted and approved under that section.
+
+(Pub. L. 97–300, title III, §321, as added Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat. 1536.)
+

@@ -1,0 +1,32 @@
+### §11319. Termination
+
+The Council shall cease to exist, and the requirements of this subchapter shall terminate, on October 1, 1994.
+
+(Pub. L. 100–77, title II, §209, July 22, 1987, 101 Stat. 489; Pub. L. 100–628, title II, §205, Nov. 7, 1988, 102 Stat. 3228; Pub. L. 101–402, §2, Oct. 1, 1990, 104 Stat. 866; Pub. L. 101–645, title I, §103, Nov. 29, 1990, 104 Stat. 4675; Pub. L. 102–550, title XIV, §1422, Oct. 28, 1992, 106 Stat. 4043.)
+
+#### Amendments
+
+1992—Pub. L. 102–550 substituted “October 1, 1994” for “October 1, 1992”.
+
+1990—Pub. L. 101–645 substituted “October 1, 1992” for “October 31, 1990”.
+
+Pub. L. 101–402 substituted “October 31, 1990” for “October 1, 1990”.
+
+1988—Pub. L. 100–628 substituted “on October 1, 1990” for “upon the expiration of the 3-year period beginning on July 22, 1987”.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–402 deemed to have taken effect as if enacted Sept. 29, 1990, see section 1(a) of Pub. L. 101–494, set out as an Effective Date of Temporary Extension of Emergency Low Income Housing Preservation Act of 1987 and Correction of Any Repeal note under section 1715<i>l</i> of Title 12, Banks and Banking.
+
+#### Temporary Extension of Council
+
+Pub. L. 101–494, §3, Oct. 31, 1990, 104 Stat. 1185, provided that:
+
+“(a)
+
+Extension.—If upon enactment of this Act \[Oct. 31, 1990\], section 209 of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11319) provides for the termination of the Interagency Council on the Homeless on October 31, 1990, then notwithstanding such section, the Interagency Council on the Homeless shall cease to exist, and the requirements of title II of the Stewart B. McKinney Homeless Assistance Act \[42 U.S.C. 11311 et seq.\] shall terminate, on November 30, 1990.
+
+“(b)
+
+Limitations.—If upon enactment of this Act \[Oct. 31, 1990\] such section 209 provides for termination of the Council (referred to in subsection (a)) on a date other than October 31, 1990, this section shall not apply. This section shall not apply with respect to any amendment to section 209 of the Stewart B. McKinney Homeless Assistance Act made after the date of the enactment of this Act.”
+

@@ -1,0 +1,82 @@
+### §41104. Additional limitations and requirements of charter air carriers
+
+(a)
+
+Restrictions.—The Secretary of Transportation may prescribe a regulation or issue an order restricting the marketability, flexibility, accessibility, or variety of charter air transportation provided under a certificate issued under section 41102 of this title only to the extent required by the public interest. A regulation prescribed or order issued under this subsection may not be more restrictive than a regulation related to charter air transportation that was in effect on October 1, 1978.
+
+(b)
+
+Alaska.—An air carrier holding a certificate issued under section 41102 of this title may provide charter air transportation between places in Alaska only to the extent the Secretary decides the transportation is required by public convenience and necessity. The Secretary may make that decision when issuing, amending, or modifying the certificate. This subsection does not apply to a certificate issued under section 41102 to a citizen of the United States who, before July 1, 1977—
+
+&emsp;(1) maintained a principal place of business in Alaska; and
+
+&emsp;(2) conducted air transport operations between places in Alaska with aircraft with a certificate for gross takeoff weight of more than 40,000 pounds.
+
+(c)
+
+Suspensions.—(1) The Secretary shall suspend for not more than 30 days any part of the certificate of a charter air carrier if the Secretary decides that the failure of the carrier to comply with the requirements described in sections 41110(e) and 41112 of this title, or a regulation or order of the Secretary under section 41110(e) or 41112, requires immediate suspension in the interest of the rights, welfare, or safety of the public. The Secretary may act under this paragraph without notice or a hearing.
+
+(2) The Secretary shall begin immediately a hearing to decide if the certificate referred to in paragraph (1) of this subsection should be amended, modified, suspended, or revoked. Until the hearing is completed, the Secretary may suspend the certificate for additional periods totaling not more than 60 days. If the Secretary decides that the carrier is complying with the requirements described in sections 41110(e) and 41112 of this title and regulations and orders under sections 41110(e) and 41112, the Secretary immediately may end the suspension period and proceeding begun under this subsection. However, the Secretary is not prevented from imposing a civil penalty on the carrier for violating the requirements described in section 41110(e) or 41112 or a regulation or order under section 41110(e) or 41112.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1120.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+41104(a)
+
+49 App.:1371(n)(2), (4).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(n)(2)–(4); added July 10, 1962, Pub. L. 87–528, §4, 76 Stat. 144; restated Oct. 24, 1978, Pub. L. 95–504, §20(b), 92 Stat. 1721.
+
+&nbsp;
+
+49 App.:1551(a) (1)(E) (related to 49 App.:1371(n) (4)).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(1)(E) (related to §401(n)(4)); added Oct. 24, 1978, Pub. L. 95–504, §40(a), 92 Stat. 1744.
+
+&nbsp;
+
+49 App.:1551(b) (1)(E).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b) (1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
+
+41104(b)
+
+49 App.:1371(n)(3).
+
+&nbsp;
+
+49 App.:1551(b) (1)(E).
+
+41104(c)
+
+49 App.:1371(n)(5).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(n)(5); added July 10, 1962, Pub. L. 87–528, §4, 76 Stat. 145; Oct. 24, 1978, Pub. L. 95–504, §20(c), 92 Stat. 1722.
+
+&nbsp;
+
+49 App.:1371(n)(6).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(n)(6); added July 10, 1962, Pub. L. 87–528, §4, 76 Stat. 145.
+
+&nbsp;
+
+49 App.:1551(b) (1)(E).
+
+In subsection (a), the word “rule” is omitted as being synonymous with “regulation”. The words “charter air transportation” are substituted for “charter trips” for consistency in this part. The text of 49 App.:1371(n)(4) and 1551(n)(1)(E) (related to 49 App.:1371(n)(4)) is omitted because inclusive tour charters have been abolished and charter air carriers have received authority to sell public charter flights directly to the public.
+
+In subsection (b), before clause (1), the words “Notwithstanding any other provision of this subchapter” are omitted as surplus. The words “An air carrier holding” are added for clarity. The words “State of” are omitted as surplus. The word “modifying” is added for consistency in the revised title. The words “citizen of the United States” are substituted for “person” for clarity and consistency because only a citizen of the United States may be an “air carrier” as defined in section 40102(a) of the revised title.
+
+In subsection (c), the words “the requirements described in” are added for clarity.
+
+In subsection (c)(1), the text of 49 App.:1371(n)(6) is omitted as surplus because of 49:322(a).
+
+In subsection (c)(2), the word “amended” is added for consistency in the revised title.
+

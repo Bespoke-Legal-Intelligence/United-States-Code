@@ -1,0 +1,20 @@
+### §36a. Payment of sums due deceased Senators and Senate personnel
+
+Under regulations prescribed by the Secretary of the Senate, a person serving as a Senator or officer or employee whose compensation is disbursed by the Secretary of the Senate may designate a beneficiary or beneficiaries to be paid any unpaid balance of salary or other sums due such person at the time of his death. When any person dies while so serving, any such unpaid balance shall be paid by the disbursing officer of the Senate to the designated beneficiary or beneficiaries. If no designation has been made, such unpaid balance shall be paid to the widow or widower of that person, or if there is no widow or widower, to the next of kin or heirs at law of that person.
+
+Section 50 of the Revised Statutes shall not be effective as to persons included within the foregoing.
+
+(Jan. 6, 1951, ch. 1213, Ch. I, §1, 64 Stat. 1224; Oct. 31, 1972, Pub. L. 92–607, ch. V, §503, 86 Stat. 1505.)
+
+#### References in Text
+
+Section 50 of the Revised Statutes, referred to in text, which required payment of not less than three months’ salary to the widow or heirs at law of a deceased Member of or Delegate in Congress, was classified to section 38 of this title and was omitted from the Code as superseded by section 38a of this title.
+
+#### Amendments
+
+1972—Pub. L. 92–607 inserted provisions for designation of a beneficiary by Senators and officers and employees whose compensation is disbursed by Secretary of Senate to whom shall be paid any unpaid balance of salary or other sums due such person at time of death.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 5 section 5581.
+

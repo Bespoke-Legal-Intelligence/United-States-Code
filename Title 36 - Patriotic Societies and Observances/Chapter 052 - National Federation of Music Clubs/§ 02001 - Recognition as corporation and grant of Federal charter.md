@@ -1,0 +1,6 @@
+### §2001. Recognition as corporation and grant of Federal charter
+
+The National Federation of Music Clubs, organized and incorporated under the laws of the State of Illinois, is hereby recognized as such and is granted a charter.
+
+(Pub. L. 97–231, §1, Aug. 9, 1982, 96 Stat. 256.)
+

@@ -1,0 +1,14 @@
+### §2116. Railway or steamboat post office
+
+Whoever, by violence, enters a post-office car, or any part of any car, steamboat, or vessel, assigned to the use of the mail service, or willfully or maliciously assaults or interferes with any postal clerk in the discharge of his duties in connection with such car, steamboat, vessel, or apartment thereof, shall be fined not more than $1,000 or imprisoned not more than three years, or both.
+
+(June 25, 1948, ch. 645, 62 Stat. 797.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §316 (Mar. 4, 1909, ch. 321, §193, 35 Stat. 1125).
+
+Reference to persons aiding or assisting was deleted as unnecessary because such persons are made principals by section 2 of this title.
+
+Minor changes were made in phraseology.
+

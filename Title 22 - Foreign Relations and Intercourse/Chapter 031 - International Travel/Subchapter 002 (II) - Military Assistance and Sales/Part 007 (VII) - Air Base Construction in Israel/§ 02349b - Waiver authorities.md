@@ -1,0 +1,16 @@
+### §2349b. Waiver authorities
+
+#### (a) Efficient and timely completion of authorized construction
+
+It is the sense of the Congress that the President should take all necessary measures consistent with law to insure the efficient and timely completion of the construction authorized by this part, including the exercise of authority vested in him by section 2393(a) of this title.
+
+#### (b) Use of funds to pay for personal services abroad
+
+The provisions of paragraph (3) of section 2396(a) of this title shall be applicable to the use of funds available to carry out this part, except that no more than sixty persons may be engaged at any one time under that paragraph for purposes of this part.
+
+(Pub. L. 87–195, pt. II, §563, as added Pub. L. 96–35, §3, July 20, 1979, 93 Stat. 90.)
+
+#### Delegation of Functions
+
+Functions of President under this section delegated to Secretary of Defense by section 1–301(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56675, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
+

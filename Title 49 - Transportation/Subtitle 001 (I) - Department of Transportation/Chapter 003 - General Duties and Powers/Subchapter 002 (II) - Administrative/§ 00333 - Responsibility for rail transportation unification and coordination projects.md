@@ -1,0 +1,98 @@
+### §333. Responsibility for rail transportation unification and coordination projects
+
+(a) The Secretary of Transportation may develop and make available to interested persons any plans, proposals, and recommendations for mergers, consolidations, reorganizations, and other unification or coordination projects for rail transportation (including arrangements for joint use of tracks and other facilities and acquisition or sale of assets) that the Secretary believes will result in a rail system that is more efficient and consistent with the public interest.
+
+(b) To achieve a more efficient, economical, and viable rail system in the private sector, the Secretary, when requested by a rail carrier and under this section, may assist in planning, negotiating, and carrying out a unification or coordination of operations and facilities of at least 2 rail carriers.
+
+(c)(1) The Secretary may conduct studies to determine the potential cost savings and possible improvements in the quality of rail transportation that are likely to result from unification or coordination of at least 2 rail carriers, through—
+
+&emsp;(A) elimination of duplicating or overlapping operations and facilities;
+
+&emsp;(B) reducing switching operations;
+
+&emsp;(C) using the shortest or more efficient and economical routes;
+
+&emsp;(D) exchanging trackage rights;
+
+&emsp;(E) combining trackage and terminal or other facilities;
+
+&emsp;(F) upgrading tracks and other facilities used by at least 2 rail carriers;
+
+&emsp;(G) reducing administrative and other expenses; and
+
+&emsp;(H) other measures likely to reduce costs and improve rail transportation.
+
+(2) When the Secretary requests information for a study under this section, a rail carrier shall provide the information requested. In carrying out this section, the Secretary may designate an officer or employee to get from a rail carrier information on the kind, quality, origin, destination, consignor, consignee, and routing of property. This information may be obtained without the consent of the consignor or consignee notwithstanding section 11910(a)(1) of this title. When appropriate, the designated officer or employee has the powers described in section 203(c) of the Regional Rail Reorganization Act of 1973 to carry out this section, but a subpena must be issued under the signature of the Secretary.
+
+(d)(1) When requested by a rail carrier, the Secretary may hold conferences on and mediate disputes resulting from a proposed unification or coordination project. The Secretary may invite to a conference—
+
+&emsp;(A) officers and directors of an affected rail carrier;
+
+&emsp;(B) representatives of rail carrier employees who may be affected;
+
+&emsp;(C) representatives of the Interstate Commerce Commission;
+
+&emsp;(D) State and local government officials, shippers, and consumer representatives; and
+
+&emsp;(E) representatives of the Federal Trade Commission and the Attorney General.
+
+(2) A person attending or represented at a conference on a proposed unification or coordination project is not liable under the antitrust laws of the United States for any discussion at the conference and for any agreements reached at the conference, that are entered into with the approval of the Secretary to achieve or determine a plan of action to carry out the unification or coordination project.
+
+(e) When the approval of a proposal submitted by a rail carrier for a merger or other action is subject to the jurisdiction of the Interstate Commerce Commission under section 11343(a) of this title, the Secretary may study the proposal to decide whether it satisfies section 11344(b) of this title. When the proposal is the subject of an application and proceeding before the Commission, the Secretary may appear in any proceeding related to the application.
+
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2429.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+333(a)
+
+49:1654(a).
+
+Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §5(a)–(e); added Feb. 5, 1976, Pub. L. 94–210, §401, 90 Stat. 61.
+
+333(b)
+
+49:1654(b).
+
+333(c)
+
+49:1654(c).
+
+333(d)
+
+49:1654(d).
+
+333(e)
+
+49:1654(e).
+
+In the section, the word “transportation” is substituted for “services” for consistency.
+
+In subsection (a), the words “feasible” and “but not limited to” are omitted as surplus.
+
+In subsection (b), the words “In order” are omitted as surplus. The words “at least 2” are substituted for “two or more” for consistency.
+
+In subsection (c)(1), the words “as are deemed” are omitted as unnecessary.
+
+In subsection (c)(2), the words “and the study described in section 901 of the Railroad Revitalization and Regulatory Reform Act of 1976” and “or such section 901” are omitted as executed. The word “nature” is omitted as covered by “kind”. The word “When” is substituted for “to the extent” for consistency. The word “necessary” is omitted as being included in “appropriate”. A cross-reference to section 203(c) of the Regional Rail Reorganization Act of 1973 is included even though the law is unclear because section 1149 of the Omnibus Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 675) amended section 203 to repeal the powers referred to in the source provisions. No position is taken as to whether the powers described in section 203(c) are still in existence.
+
+In subsection (d)(1)(A), the word “appropriate” is omitted as surplus.
+
+In subsection (d)(1)(C), the words “representatives of” are added for consistency in the section.
+
+In subsection (e), the words “in his judgment” are omitted as unnecessary and covered by “decide”. The word “satisfies” is substituted for “is in accordance with the standards set forth in” to eliminate unnecessary words.
+
+#### References in Text
+
+Section 203 of the Regional Rail Reorganization Act of 1973, referred to in subsec. (c)(2), which is classified to section 713 of Title 45, Railroads, was amended generally by Pub. L. 97–35, title XI, §1149, Aug. 13, 1981, 95 Stat. 675, and as so amended does not contain a subsec. (c). For further details, see the fifth par. of Historical and Revision Notes above.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 306, 10904, 11344, 11346 of this title; title 45 section 903.
+

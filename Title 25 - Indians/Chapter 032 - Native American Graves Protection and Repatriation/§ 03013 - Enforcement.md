@@ -1,0 +1,10 @@
+### §3013. Enforcement
+
+The United States district courts shall have jurisdiction over any action brought by any person alleging a violation of this chapter and shall have the authority to issue such orders as may be necessary to enforce the provisions of this chapter.
+
+(Pub. L. 101–601, §15, Nov. 16, 1990, 104 Stat. 3058.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3006 of this title.
+

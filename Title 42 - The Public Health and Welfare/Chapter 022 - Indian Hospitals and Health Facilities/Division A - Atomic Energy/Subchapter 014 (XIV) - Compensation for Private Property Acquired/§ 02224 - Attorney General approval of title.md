@@ -1,0 +1,18 @@
+### §2224. Attorney General approval of title
+
+All real property acquired under this chapter shall be subject to the provisions of section 255 of title 40: <i>Provided, however,</i> That real property acquired by purchase or donation, or other means of transfer may also be occupied, used, and improved for the purposes of this chapter prior to approval of title by the Attorney General in those cases where the President determines that such action is required in the interest of the common defense and security.
+
+(Aug. 1, 1946, ch. 724, title I, §174, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 953; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 1813(b) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+
+#### Transfer of Functions
+
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2201 of this title.
+

@@ -1,0 +1,106 @@
+### §7402. Qualifications of appointees
+
+(a) To be eligible for appointment to the positions in the Administration covered by subsection (b), a person must have the applicable qualifications set forth in that subsection.
+
+(b)(1)
+
+Physician.—To be eligible to be appointed to a physician position, a person must—
+
+&emsp;(A) hold the degree of doctor of medicine or of doctor of osteopathy from a college or university approved by the Secretary,
+
+&emsp;(B) have completed an internship satisfactory to the Secretary, and
+
+&emsp;(C) be licensed to practice medicine, surgery, or osteopathy in a State.
+
+(2)
+
+Dentist.—To be eligible to be appointed to a dentist position, a person must—
+
+&emsp;(A) hold the degree of doctor of dental surgery or dental medicine from a college or university approved by the Secretary, and
+
+&emsp;(B) be licensed to practice dentistry in a State.
+
+(3)
+
+Nurse.—To be eligible to be appointed to a nurse position, a person must—
+
+&emsp;(A) have successfully completed a full course of nursing in a recognized school of nursing, approved by the Secretary, and
+
+&emsp;(B) be registered as a graduate nurse in a State.
+
+(4)
+
+Director of a Hospital, Domiciliary, Center, or Outpatient Clinic.—To be eligible to be appointed to a director position, a person must have such business and administrative experience and qualifications as the Secretary shall prescribe.
+
+(5)
+
+Podiatrist.—To be eligible to be appointed to a podiatrist position, a person must—
+
+&emsp;(A) hold the degree of doctor of podiatric medicine, or its equivalent, from a school of podiatric medicine approved by the Secretary, and
+
+&emsp;(B) be licensed to practice podiatry in a State.
+
+(6)
+
+Optometrist.—To be eligible to be appointed to an optometrist position, a person must—
+
+&emsp;(A) hold the degree of doctor of optometry, or its equivalent, from a school of optometry approved by the Secretary, and
+
+&emsp;(B) be licensed to practice optometry in a State.
+
+(7)
+
+Pharmacist.—To be eligible to be appointed to a pharmacist position, a person must—
+
+&emsp;(A) hold the degree of bachelor of science in pharmacy, or its equivalent, from a school of pharmacy, approved by the Secretary, and
+
+&emsp;(B) be registered as a pharmacist in a State.
+
+(8)
+
+Psychologist.—To be eligible to be appointed to a psychologist position, a person must—
+
+&emsp;(A) hold a doctoral degree in psychology from a college or university approved by the Secretary,
+
+&emsp;(B) have completed study for such degree in a specialty area of psychology and an internship which are satisfactory to the Secretary, and
+
+&emsp;(C) be licensed or certified as a psychologist in a State, except that the Secretary may waive the requirement of licensure or certification for an individual psychologist for a period not to exceed two years on the condition that that psychologist provide patient care only under the direct supervision of a psychologist who is so licensed or certified.
+
+(9)
+
+Social Worker.—To be eligible to be appointed to a social worker position, a person must hold a master's degree in social work from a college or university approved by the Secretary and satisfy the social worker licensure, certification, or registration requirements, if any, of the State in which the social worker is to be employed, except that the Secretary may waive the licensure, certification, or registration requirement of this paragraph for an individual social worker for a reasonable period, not to exceed 3 years, in order for the social worker to take any actions necessary to satisfy the licensure, certification, or registration requirements of such State.
+
+(10)
+
+Other Health-Care Positions.—To be appointed as a physician assistant, expanded-function dental auxiliary, certified or registered respiratory therapist, licensed physical therapist, licensed practical or vocational nurse, occupational therapist, dietitian, microbiologist, chemist, biostatistician, medical technologist, dental technologist, or other position, a person must have such medical, dental, scientific, or technical qualifications as the Secretary shall prescribe.
+
+(c) Except as provided in section 7407(a) of this title, a person may not be appointed in the Administration to a position listed in section 7401(1) of this title unless the person is a citizen of the United States.
+
+(d) A person may not be appointed under section 7401(1) of this title to serve in the Administration in any direct patient-care capacity unless the Under Secretary for Health determines that the person possesses such basic proficiency in spoken and written English as will permit such degree of communication with patients and other health-care personnel as will enable the person to carry out the person's health-care responsibilities satisfactorily. Any determination by the Under Secretary for Health under this subsection shall be in accordance with regulations which the Secretary shall prescribe.
+
+(e) A person may not serve as Chief of Staff of a Department health-care facility if the person is not serving on a full-time basis.
+
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–86, title III, §305(a), Aug. 14, 1991, 105 Stat. 417; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in sections 4105 and 4108(b) of this title prior to the repeal of those sections as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
+
+#### Amendments
+
+1992—Subsec. (d). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
+
+1991—Subsec. (b)(9), (10). Pub. L. 102–86 added par. (9) and redesignated former par. (9) as (10).
+
+#### Effective Date of 1991 Amendment
+
+Section 305(b) of Pub. L. 102–86 provided that: “The amendment made by subsection (a) \[amending this section\] does not apply to any person employed as a social worker by the Department of Veterans Affairs on or before the date of the enactment of this Act \[Aug. 14, 1991\].”
+
+#### Requirements Respecting Basic Proficiency in Spoken and Written English of Appointees After November 23, 1977
+
+Section 4(a)(3) of Pub. L. 95–201 provided that: “Notwithstanding any other provision of law, with respect to persons other than those described in subsection (c) of section 4105 and subsection (f) of section 4114 of title 38, United States Code \[former sections 4105(c) and 4114(f) of this title, see subsec. (d) of this section and section 7407(d) of this title\] (as added by paragraphs (1) and (2) of this subsection), who are appointed after the date of enactment of this Act \[Nov. 23, 1977\] in the Department of Medicine and Surgery in the Veterans’ Administration \[now Veterans Health Administration of the Department of Veterans Affairs\] in any direct patient-care capacity, and with respect to persons described in such subsections who are appointed after such enactment date and prior to January 1, 1978, the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\], upon the recommendation of the Chief Medical Director \[now Under Secretary for Health\], shall take appropriate steps to provide reasonable assurance that such persons possess such basic proficiency in spoken and written English as will permit such degree of communication with patients and other health-care personnel as will enable such persons to carry out their health-care responsibilities satisfactorily.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7407, 7604 of this title.
+

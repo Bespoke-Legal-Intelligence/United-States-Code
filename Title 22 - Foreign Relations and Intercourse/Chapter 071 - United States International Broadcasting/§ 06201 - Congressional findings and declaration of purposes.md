@@ -1,0 +1,28 @@
+### §6201. Congressional findings and declaration of purposes
+
+The Congress makes the following findings and declarations:
+
+&emsp;(1) It is the policy of the United States to promote the right of freedom of opinion and expression, including the freedom “to seek, receive, and impart information and ideas through any media and regardless of frontiers,” in accordance with Article 19 of the Universal Declaration of Human Rights.
+
+&emsp;(2) Open communication of information and ideas among the peoples of the world contributes to international peace and stability and the promotion of such communication is in the interests of the United States.
+
+&emsp;(3) It is in the interest of the United States to support broadcasting to other nations consistent with the requirements of this chapter.
+
+&emsp;(4) The continuation of existing United States international broadcasting, and the creation of a new broadcasting service to the people of the People's Republic of China and other countries of Asia which lack adequate sources of free information, would enhance the promotion of information and ideas, while advancing the goals of United States foreign policy.
+
+&emsp;(5) The reorganization and consolidation of United States international broadcasting will achieve important economies and strengthen the capability of the United States to use broadcasting to support freedom and democracy in a rapidly changing international environment.
+
+(Pub. L. 103–236, title III, §302, Apr. 30, 1994, 108 Stat. 432.)
+
+#### References in Text
+
+This chapter, referred to in par. (3), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, as amended, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out below and Tables.
+
+#### Short Title
+
+Section 301 of title III of Pub. L. 103–236 provided that: “This title \[enacting this chapter, amending sections 1465b, 1465c, and 2873 of this title and section 5315 of Title 5, Government Organization and Employees, and repealing sections 1463, 2871 to 2877, and 2878 to 2883 of this title and provisions set out as a note under section 2871 of this title\] may be cited as the ‘United States International Broadcasting Act of 1994’.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6211 of this title.
+

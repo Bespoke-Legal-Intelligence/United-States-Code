@@ -1,0 +1,224 @@
+### §4214. Employment within the Federal Government
+
+(a)(1) The United States has an obligation to assist veterans of the Armed Forces in readjusting to civilian life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers. The Federal Government is also continuously concerned with building an effective work force, and veterans constitute a major recruiting source. It is, therefore, the policy of the United States and the purpose of this section to promote the maximum of employment and job advancement opportunities within the Federal Government for disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era who are qualified for such employment and advancement.
+
+(2) For the purposes of this section, the term “agency” means a department, agency, or instrumentality in the executive branch.
+
+(b)(1) To further the policy stated in subsection (a) of this section, veterans referred to in paragraph (2) of this subsection shall be eligible, in accordance with regulations which the Office of Personnel Management shall prescribe, for veterans readjustment appointments, and for subsequent career-conditional appointments, under the terms and conditions specified in Executive Order Numbered 11521 (March 26, 1970), except that—
+
+&emsp;(A) such an appointment may be made up to and including the level GS–11 or its equivalent;
+
+&emsp;(B) a veteran shall be eligible for such an appointment without regard to the number of years of education completed by such veteran;
+
+&emsp;(C) a veteran who is entitled to disability compensation under the laws administered by the Department of Veterans Affairs or whose discharge or release from active duty was for a disability incurred or aggravated in line of duty shall be given a preference for such an appointment over other veterans;
+
+&emsp;(D) a veteran receiving such an appointment shall—
+
+&emsp;&emsp;(i) in the case of a veteran with less than 15 years of education, receive training or education; and
+
+&emsp;&emsp;(ii) upon successful completion of the prescribed probationary period, acquire a competitive status; and
+
+&emsp;(E) a veteran given an appointment under the authority of this subsection whose employment under the appointment is terminated within one year after the date of such appointment shall have the same right to appeal that termination to the Merit Systems Protection Board as a career or career-conditional employee has during the first year of employment.
+
+(2) This subsection applies to—
+
+&emsp;(A) a veteran of the Vietnam era; and
+
+&emsp;(B) veterans who first became a member of the Armed Forces or first entered on active duty as a member of the Armed Forces after May 7, 1975, and were discharged or released from active duty under conditions other than dishonorable.
+
+(3)(A) Except as provided in subparagraph (C) of this paragraph, a veteran of the Vietnam era may receive an appointment under this section only during the period ending—
+
+&emsp;(i) 10 years after the date of the veteran's last discharge or release from active duty; or
+
+&emsp;(ii) December 31, 1995,
+
+> whichever is later.
+
+(B) Except as provided in subparagraph (C) of this paragraph, a veteran described in paragraph (2)(B) of this subsection may receive such an appointment only within the 10-year period following the later of—
+
+&emsp;(i) the date of the veteran's last discharge or release from active duty; or
+
+&emsp;(ii) December 31, 1989.
+
+(C) The limitations of subparagraphs (A) and (B) of this paragraph shall not apply to a veteran who has a service-connected disability rated at 30 percent or more.
+
+(D) For purposes of clause (i) of subparagraphs (A) and (B) of this paragraph, the last discharge or release from active duty shall not include any discharge or release from active duty of less than ninety days of continuous service unless the individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force described in section 3011(a)(1)(A)(ii)(III) of this title or of an involuntary separation described in section 3018A(a)(1).
+
+(c) Each agency shall include in its affirmative action plan for the hiring, placement, and advancement of handicapped individuals in such agency as required by section 501(b) of the Rehabilitation Act of 1973 (29 U.S.C. 791(b)), a separate specification of plans (in accordance with regulations which the Office of Personnel Management shall prescribe in consultation with the Secretary, the Secretary of Labor, and the Secretary of Health and Human Services, consistent with the purposes, provisions, and priorities of such Act) to promote and carry out such affirmative action with respect to disabled veterans in order to achieve the purpose of this section.
+
+(d) The Office of Personnel Management shall be responsible for the review and evaluation of the implementation of this section and the activities of each agency to carry out the purpose and provisions of this section. The Office shall periodically obtain (on at least an annual basis) information on the implementation of this section by each agency and on the activities of each agency to carry out the purpose and provisions of this section. The information obtained shall include specification of the use and extent of appointments made by each agency under subsection (b) of this section and the results of the plans required under subsection (c) of this section.
+
+(e)(1) The Office of Personnel Management shall submit to the Congress annually a report on activities carried out under this section. Each such report shall include the following information with respect to each agency:
+
+&emsp;(A) The number of appointments made under subsection (b) of this section since the last such report and the grade levels in which such appointments were made.
+
+&emsp;(B) The number of individuals receiving appointments under such subsection whose appointments were converted to career or career-conditional appointments, or whose employment under such an appointment has terminated, since the last such report, together with a complete listing of categories of causes of appointment terminations and the number of such individuals whose employment has terminated falling into each such category.
+
+&emsp;(C) The number of such terminations since the last such report that were initiated by the agency involved and the number of such terminations since the last such report that were initiated by the individual involved.
+
+&emsp;(D) A description of the education and training programs in which individuals appointed under such subsection are participating at the time of such report.
+
+(2) Information shown for an agency under clauses (A) through (D) of paragraph (1) of this subsection—
+
+&emsp;(A) shall be shown for all veterans; and
+
+&emsp;(B) shall be shown separately (i) for veterans of the Vietnam era who are entitled to disability compensation under the laws administered by the Secretary or whose discharge or release from active duty was for a disability incurred or aggravated in line of duty, and (ii) for other veterans.
+
+(f) Notwithstanding section 4211 of this title, the terms “veteran” and “disabled veteran” as used in subsection (a) of this section shall have the meaning provided for under generally applicable civil service law and regulations.
+
+(g) To further the policy stated in subsection (a) of this section, the Secretary may give preference to qualified special disabled veterans and qualified veterans of the Vietnam era for employment in the Department as veterans’ benefits counselors and veterans’ claims examiners and in positions to provide the outreach services required under section 7722 of this title, to serve as veterans’ representatives at certain educational institutions as provided in section 7724 of this title, or to provide readjustment counseling under section 1712A of this title to veterans of the Vietnam era.
+
+(Added Pub. L. 93–508, title IV, §403(a), Dec. 3, 1974, 88 Stat. 1593, §2014; amended Pub. L. 95–202, title III, §308, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 95–520, §6(b), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, §510, title VIII, §801(<i>l</i>), Oct. 17, 1980, 94 Stat. 2207, 2217; Pub. L. 97–72, title II, §202(a), Nov. 3, 1981, 95 Stat. 1054; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–543, title II, §211, Oct. 24, 1984, 98 Stat. 2743; Pub. L. 99–576, title III, §332, Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §407(a)(1), (b), Dec. 18, 1989, 103 Stat. 2082; Pub. L. 102–16, §9(a), (b), Mar. 22, 1991, 105 Stat. 54; renumbered §4214 and amended Pub. L. 102–83, §§2(c)(5), 4(a)(1), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 102–127, §4, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title V, §505, Oct. 29, 1992, 106 Stat. 4340.)
+
+#### References in Text
+
+Executive Order Numbered 11521 (March 26, 1970), referred to in subsec. (b)(1), is set out as a note under section 3302 of Title 5, Government Organization and Employees.
+
+GS–11, referred to in subsec. (b)(1)(A), is contained in the General Schedule which is set out under section 5332 of Title 5.
+
+Such Act, referred to in subsec. (c), means Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, popularly known as the Rehabilitation Act of 1973, which is classified principally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+
+The civil service law, referred to in subsec. (f), is set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
+
+#### Amendments
+
+1992—Subsec. (b)(2)(A). Pub. L. 102–568, §505(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a veteran of the Vietnam era who—
+
+&emsp;“(i) is entitled to disability compensation under the laws administered by the Secretary or whose discharge or release from active duty was for a disability incurred or aggravated in line of duty.; or
+
+&emsp;“(ii) during such era, served on active duty in the Armed Forces in a campaign or expedition for which a campaign badge has been authorized; and”.
+
+Subsec. (b)(3)(A)(ii). Pub. L. 102–568, §505(b)(1), substituted “1995” for “1993”.
+
+Subsec. (b)(3)(B)(ii). Pub. L. 102–568, §505(b)(2), substituted “December 31” for “December 18”.
+
+1991—Pub. L. 102–83, §5(a), renumbered section 2014 of this title as this section.
+
+Subsec. (a)(1). Pub. L. 102–16, §9(a), substituted “The United States has an obligation to assist veterans of the Armed Forces in readjusting to civilian life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers. The Federal Government is also continuously concerned with building an effective work force, and veterans constitute a major recruiting source. It is, therefore, the policy of the United States” for “It is the policy of the United States” and “disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era” for “certain veterans of the Vietnam era and veterans of the post-Vietnam era”.
+
+Subsec. (b)(1)(A). Pub. L. 102–16, §9(b)(1)(A), substituted “up to and including the level GS–11 or its equivalent” for “up to and including the level GS–9 or its equivalent or in the case of a veteran referred to in paragraph (2)(A) of this subsection, the level of GS–11 or its equivalent”.
+
+Subsec. (b)(1)(B) to (D). Pub. L. 102–16, §9(b)(1)(B), added cls. (B) to (D), redesignated former cl. (D) as (E), and struck out former cls. (B) and (C) which read as follows:
+
+“(B) a veteran referred to in paragraph (2) of this subsection shall be eligible for such an appointment during (i) the four-year period beginning on the date of the veteran's last discharge or release from active duty, or (ii) the two-year period beginning on the date of the enactment of the Veterans Education and Employment Amendments of 1989, whichever ends later;
+
+“(C) a veteran of the Vietnam era referred to in paragraph (2) of this subsection who is entitled to disability compensation under the laws administered by the Veterans’ Administration or whose discharge or release from active duty was for a disability incurred or aggravated in line of duty shall be eligible for such an appointment without regard to the number of years of education completed by such veteran;”.
+
+Subsec. (b)(1)(E), (F). Pub. L. 102–16, §9(b)(1)(C), (D), redesignated cl. (D) as (E), substituted a period for “; and” at end, and struck out former cls. (E) and (F) which read as follows:
+
+“(E) the requirement of an educational or training program for a veteran receiving such an appointment shall not apply if the veteran has 15 years or more of education; and
+
+“(F) in the case of a veteran who is not a disabled veteran, the veteran may not have completed more than 16 years of education at the time of the veteran's appointment.”
+
+Subsec. (b)(2)(A)(i). Pub. L. 102–127 substituted “is entitled to disability compensation under the laws administered by the Secretary or whose discharge or release from active duty was for a disability incurred or aggravated in line of duty.” for “has a service-connected disability”.
+
+Subsec. (b)(2)(B). Pub. L. 102–16, §9(b)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “a veteran who served on active duty after the Vietnam era.”
+
+Subsec. (b)(3). Pub. L. 102–83, §5(c)(1), substituted “3011(a)(1)(A)(ii)(III)” for “1411(a)(1)(A)(ii)(III)” and “3018A(a)(1)” for “1418A(a)(1)” in subpar. (D).
+
+Pub. L. 102–16, §9(b)(2), added par. (3) and struck out former par. (3) which read as follows: “For purposes of paragraph (1)(B)(i) of this subsection, the last discharge or release from a period of active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service unless the individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force as described in section 1411(a)(1)(A)(ii)(III) of this title.”
+
+Subsec. (b)(4). Pub. L. 102–16, §9(b)(2), struck out par. (4) which read as follows: “No veterans readjustment appointment may be made under authority of this subsection after December 31, 1993.”
+
+Subsec. (c). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” after “with the”.
+
+Subsec. (e)(2)(B). Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+
+Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “4211” for “2011”.
+
+Subsec. (g). Pub. L. 102–83, §5(c)(1), substituted “1712A” for “612A”.
+
+Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+
+Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+
+Pub. L. 102–83, §2(c)(5), substituted “7722” for “241” and “7724” for “243”.
+
+1989—Subsec. (a)(1). Pub. L. 101–237, §407(b)(1), substituted “certain veterans of the Vietnam era and veterans of the post-Vietnam era who are qualified for such employment and advancement” for “qualified disabled veterans and veterans of the Vietnam era”.
+
+Subsec. (b)(1). Pub. L. 101–237, §407(b)(2)(A)(i), substituted “veterans referred to in paragraph (2) of this subsection” for “veterans of the Vietnam era”.
+
+Subsec. (b)(1)(A). Pub. L. 101–237, §407(b)(2)(A)(ii), inserted before semicolon at end “or in the case of a veteran referred to in paragraph (2)(A) of this subsection, the level of GS–11 or its equivalent”.
+
+Subsec. (b)(1)(B). Pub. L. 101–237, §407(b)(2)(A)(iii), added cl. (B) and struck out former cl. (B) which read as follows: “a veteran of the Vietnam era shall be eligible for such an appointment without any time limitation with respect to eligibility for such an appointment;”.
+
+Subsec. (b)(1)(C). Pub. L. 101–237, §407(b)(2)(A)(iv), inserted “referred to in paragraph (2) of this subsection” after “a veteran of the Vietnam era”.
+
+Subsec. (b)(1)(E), (F). Pub. L. 101–237, §407(b)(2)(A)(v)–(vii), added subpars. (E) and (F).
+
+Subsec. (b)(2), (3). Pub. L. 101–237, §407(b)(2)(B), added pars. (2) and (3). Former par. (2) redesignated (4).
+
+Subsec. (b)(4). Pub. L. 101–237, §407(a)(1), redesignated former par. (2) as (4) and substituted “1993” for “1989”.
+
+1986—Subsec. (b)(2). Pub. L. 99–576 substituted “December 31, 1989” for “September 30, 1986”.
+
+1984—Subsec. (a). Pub. L. 98–543, §211(a), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (b)(1)(A), (D). Pub. L. 98–543, §211(b)(1), substituted “GS–9” for “GS–7” in subpar. (A) and added subpar. (D).
+
+Subsec. (b)(2). Pub. L. 98–543, §211(b)(2), substituted “September 30, 1986” for “September 30, 1984”.
+
+Subsec. (c). Pub. L. 98–543, §211(c), substituted “agency” for “department, agency, and instrumentality in the executive branch” and “such agency” for “such department, agency, or instrumentality”.
+
+Subsec. (d). Pub. L. 98–543, §211(d), substituted “annual” for “semiannual” in second sentence and struck out provisions listing information to be included in the report.
+
+Subsec. (e). Pub. L. 98–543, §211(d), substituted provisions listing information to be included with respect to each agency and setting forth to whom the information shall be shown for provisions which set forth reporting requirements regarding the employment of the handicapped.
+
+1982—Subsec. (c). Pub. L. 97–295 substituted “Health and Human Services” for “Health, Education, and Welfare”.
+
+1981—Subsec. (b)(2). Pub. L. 97–72 substituted “September 30, 1984” for “September 30, 1981”.
+
+1980—Subsec. (b)(1). Pub. L. 96–466, §801(<i>l</i>)(1), substituted “Office of Personnel Management” for “Civil Service Commission”.
+
+Subsec. (b)(2), (3). Pub. L. 96–466, §801(<i>l</i>)(2), redesignated par. (3) as (2). Former par. (2), which provided that in this subsection “veteran of the Vietnam era” had the meaning given such term in section 2011(2)(A) of this title, was struck out.
+
+Subsec. (c). Pub. L. 96–466, §801(<i>l</i>)(1), (3), substituted “the Rehabilitation Act of 1973 (29 U.S.C. 791(b))” for “Public Law 93–112 (87 Stat. 391)” and “Office of Personnel Management” for “Civil Service Commission”.
+
+Subsec. (d). Pub. L. 96–466, §801(<i>l</i>)(1), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+
+Subsec. (e). Pub. L. 96–466, §801(<i>l</i>)(1), (4), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, and “the Rehabilitation Act of 1973 (29 U.S.C. 791(d))” for “such Public Law 93–112”.
+
+Subsec. (g). Pub. L. 96–466, §510, added subsec. (g).
+
+1978—Subsec. (b). Pub. L. 95–520, §6(b)(1), incorporated part of existing text in provisions designated par. (1), designated part of existing provision as item (A), increasing appointments to level GS–7 from GS–5, added items (B) and (C) and par. (2), designated part of existing text as par. (3), substituting Sept. 30, 1981, for June 30, 1978, as cut off date for veterans readjustment appointments, and struck out provisions: that in applying the one-year period of eligibility specified in section 2(a) of Ex. Ord. No. 11521 to a veteran or disabled veteran who enrolled, within one year following separation from the Armed Forces or following release from hospitalization or treatment following such separation in a program of education on more than a half-time basis, the time spent in such program of education was not to be counted; that the eligibility of the veteran for a readjustment appointment was to continue for not less than six months after the veteran first ceased to be enrolled therein on more than a half-time basis; and that directed the Chairman of the Civil Service Commission to report on the need for the continuation after June 30, 1978, of the authority for veterans readjustment appointments contained in subsec. (b), with the report to be submitted to the President and Congress not later than six months after enactment of the GI Bill Improvement Act of 1977 on Nov. 23, 1977.
+
+Subsec. (d). Pub. L. 95–520, §6(b)(2), substituted in second sentence “subsection (c) of this section” for “subsection (c) thereof” and inserted requirement that reports include certain prescribed information.
+
+Subsec. (f). Pub. L. 95–520, §6(b)(3), substituted “as used in subsection (a) of this section” for “as used in this section”.
+
+1977—Subsec. (b). Pub. L. 95–202 inserted provision directing Chairman of Civil Service Commission to report on need for continuation after June 30, 1978, of authority for veterans readjustment appointments contained in subsec. (b), with the report to be submitted to President and Congress not later than six months after enactment of GI Bill Improvement Act of 1977.
+
+#### Effective Date of 1991 Amendment
+
+Section 9(d) of Pub. L. 102–16, as amended by Pub. L. 102–86, title V, §506(c), Aug. 14, 1991, 105 Stat. 426; Pub. L. 103–353, §6(a), Oct. 13, 1994, 108 Stat. 3174, provided that: “The amendments made by this section \[amending this section\] shall apply only to appointments made after the date of the enactment of this Act \[Mar. 22, 1991\].”
+
+\[Section 6(b) of Pub. L. 103–353 provided that: “The amendment made by subsection (a) \[amending section 9(d) of Pub. L. 102–16, set out above\] shall take effect as if included in Public Law 102–16 to which such amendment relates.”\]
+
+\[Section 506(c) of Pub. L. 102–86 provided that the amendment made by that section to section 9(d) of Pub. L. 102–16, set out above, is effective as of Mar. 22, 1991.\]
+
+#### Effective Date of 1989 Amendment
+
+Amendment by Pub. L. 101–237 effective Jan. 1, 1990, see section 407(c) of Pub. L. 101–237, set out as a note under section 4211 of this title.
+
+#### Effective Date of 1981 Amendment
+
+Section 202(b) of Pub. L. 97–72 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of October 1, 1981.”
+
+#### Effective Date of 1980 Amendment
+
+Amendment by section 510 of Pub. L. 96–466 effective Oct. 1, 1980, see section 802(e) of Pub. L. 96–466, set out as a note under section 4101 of this title.
+
+Amendment by section 801(<i>l</i>) of Pub. L. 96–466 effective Oct. 1, 1980, see section 802(h) of Pub. L. 96–466, set out as a note under section 3452 of this title.
+
+#### Effective Date of 1977 Amendment
+
+Amendment by Pub. L. 95–202 effective Nov. 23, 1977, see section 501 of Pub. L. 95–202, set out as a note under section 101 of this title.
+
+#### Effective Date
+
+Section effective Dec. 3, 1974, see section 503 of Pub. L. 93–508, set out as an Effective Date of 1974 Amendment note under section 3452 of this title.
+
+#### Contents of Reports on Veterans’ Readjustment Appointments
+
+Pub. L. 95–454, title III, §307(b)(2), Oct. 13, 1978, 92 Stat. 1147, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “The Director of the Office of Personnel Management shall include in the reports required by section 4214(d) \[formerly 2014(d)\] of title 38, United States Code, the same type of information regarding the use of the authority provided in section 3112 of title 5, United States Code (as added by paragraph (1) of this subsection), as is required by such section 4214 with respect to the use of the authority to make veterans readjustment appointments.”
+

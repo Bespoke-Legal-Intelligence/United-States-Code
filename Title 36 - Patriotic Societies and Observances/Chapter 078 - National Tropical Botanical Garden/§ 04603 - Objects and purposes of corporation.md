@@ -1,0 +1,18 @@
+### §4603. Objects and purposes of corporation
+
+The objects and purposes of the corporation shall be—
+
+&emsp;(a) to establish, develop, operate, and maintain for the benefit of the people of the United States an educational and scientific center in the form of a tropical botanical garden or gardens, together with such facilities as libraries, herbaria, laboratories, and museums which are appropriate and necessary for encouraging and conducting research in basic and applied tropical botany;
+
+&emsp;(b) to foster and encourage fundamental research with respect to tropical plant life and to encourage research and study of the uses of tropical flora in agriculture, forestry, horticulture, medicine, and other sciences;
+
+&emsp;(c) to disseminate through publications and other media the knowledge acquired at the gardens relative to basic and applied tropical botany;
+
+&emsp;(d) to collect and cultivate tropical flora of every nature and origin and to preserve for the people of the United States species of tropical plant life threatened with extinction; <sup>1</sup>
+
+&emsp;(e) to provide a beneficial facility which will contribute to the education, instruction, and recreation of the people of the United States.
+
+(Pub. L. 88–449, §3, Aug. 19, 1964, 78 Stat. 496.)
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
+

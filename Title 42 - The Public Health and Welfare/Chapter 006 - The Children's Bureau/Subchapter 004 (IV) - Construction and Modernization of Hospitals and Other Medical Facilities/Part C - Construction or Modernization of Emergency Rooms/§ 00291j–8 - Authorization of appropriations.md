@@ -1,0 +1,10 @@
+### §291j–8. Authorization of appropriations
+
+In order to assist in the provision of adequate emergency room service in various communities of the Nation for treatment of accident victims and handling of other medical emergencies through special project grants for the construction or modernization of emergency rooms of general hospitals, there are authorized to be appropriated $20,000,000 each for the fiscal year ending June 30, 1971, and the next two fiscal years.
+
+(July 1, 1944, ch. 373, title VI, §631, as added June 30, 1970, Pub. L. 91–296, title III, §301, 84 Stat. 351.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 291j–9 of this title.
+

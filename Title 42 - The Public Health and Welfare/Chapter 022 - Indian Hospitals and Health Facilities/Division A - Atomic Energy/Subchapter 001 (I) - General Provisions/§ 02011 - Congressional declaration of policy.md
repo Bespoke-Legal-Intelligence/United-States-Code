@@ -1,0 +1,38 @@
+### §2011. Congressional declaration of policy
+
+Atomic energy is capable of application for peaceful as well as military purposes. It is therefore declared to be the policy of the United States that—
+
+&emsp;(a) the development, use, and control of atomic energy shall be directed so as to make the maximum contribution to the general welfare, subject at all times to the paramount objective of making the maximum contribution to the common defense and security; and
+
+&emsp;(b) the development, use, and control of atomic energy shall be directed so as to promote world peace, improve the general welfare, increase the standard of living, and strengthen free competition in private enterprise.
+
+(Aug. 1, 1946, ch. 724, title I, §1, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+
+#### Prior Provisions
+
+Provisions similar to those comprising this section were contained in section 1 of act Aug. 1, 1946, ch. 724, 60 Stat. 755, which was classified to section 1801 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+
+#### Short Title of 1988 Amendment
+
+Pub. L. 100–408, §1, Aug. 20, 1988, 102 Stat. 1066, provided that: “This Act \[enacting section 2282a of this title, amending sections 2014, 2210, and 2273 of this title, and enacting provisions set out as notes under sections 2014 and 2210 of this title\] may be cited as the ‘Price-Anderson Amendments Act of 1988’.”
+
+#### Short Title of 1964 Amendment
+
+Pub. L. 88–489, §21, Aug. 26, 1964, 78 Stat. 607, provided that: “This Act \[amending sections 2012, 2013, 2073 to 2078, 2135, 2153, 2201, 2221, 2233, and 2234 of this title, repealing section 2072 of this title, and enacting provisions set out as notes under sections 2012 and 2072 of this title\] may be cited as the ‘Private Ownership of Special Nuclear Materials Act’.”
+
+#### Short Title of 1958 Amendment
+
+Pub. L. 85–846, §1, Aug. 28, 1958, 72 Stat. 1084, provided: “That this Act \[enacting sections 2291 to 2296 of this title\] may be cited as the ‘EURATOM Cooperation Act of 1958’.”
+
+#### Short Title
+
+Section 291 of title I of act Aug. 1, 1946, as added by act Aug. 30, 1954, §1; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944, provided that: “This Act \[enacting this chapter and amending sections 1031(d) and 1032 of former Title 5, Executive Departments and Government Officers and Employees, and enacting provision set out as a note under section 2221 of this title\] may be cited as the ‘Atomic Energy Act of 1954’.”
+
+#### Separability
+
+Section 281 of title I of act Aug. 1, 1946, as added by act Aug. 30, 1954, §1; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944, provided that: “If any provision of this Act \[enacting this chapter\] or the application of such provision to any person or circumstances, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
+
+#### Transfer of Functions
+
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+

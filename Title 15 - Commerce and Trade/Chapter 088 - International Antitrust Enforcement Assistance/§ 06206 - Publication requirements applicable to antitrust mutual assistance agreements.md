@@ -1,0 +1,40 @@
+### §6206. Publication requirements applicable to antitrust mutual assistance agreements
+
+#### (a) Publication of proposed antitrust mutual assistance agreements
+
+Not less than 45 days before an antitrust mutual assistance agreement is entered into, the Attorney General, with the concurrence of the Commission, shall publish in the Federal Register—
+
+&emsp;(1) the proposed text of such agreement and any modification to such proposed text, and
+
+&emsp;(2) a request for public comment with respect to such text or such modification, as the case may be.
+
+#### (b) Publication of proposed amendments to antitrust mutual assistance agreements in effect
+
+Not less than 45 days before an agreement is entered into that makes an amendment to an antitrust mutual assistance agreement, the Attorney General, with the concurrence of the Commission, shall publish in the Federal Register—
+
+&emsp;(1) the proposed text of such amendment, and
+
+&emsp;(2) a request for public comment with respect to such amendment.
+
+#### (c) Publication of antitrust mutual assistance agreements, amendments, and terminations
+
+Not later than 45 days after an antitrust mutual assistance agreement is entered into or terminated, or an agreement that makes an amendment to an antitrust mutual assistance agreement is entered into, the Attorney General, with the concurrence of the Commission, shall publish in the Federal Register—
+
+&emsp;(1) the text of the antitrust mutual assistance agreement or amendment, or the terms of the termination, as the case may be, and
+
+&emsp;(2) in the case of an agreement that makes an amendment to an antitrust mutual assistance agreement, a notice containing—
+
+&emsp;&emsp;(A) citations to the locations in the Federal Register at which the text of the antitrust mutual assistance agreement that is so amended, and of any previous amendments to such agreement, are published, and
+
+&emsp;&emsp;(B) a description of the manner in which a copy of the antitrust mutual assistance agreement, as so amended, may be obtained from the Attorney General and the Commission.
+
+#### (d) Condition for validity
+
+An antitrust mutual assistance agreement, or an agreement that makes an amendment to an antitrust mutual assistance agreement, with respect to which publication does not occur in accordance with subsections (a), (b), and (c) of this section shall not be considered to be in effect under this chapter.
+
+(Pub. L. 103 438, §7, Nov. 2, 1994, 108 Stat. 4600.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6208 of this title.
+

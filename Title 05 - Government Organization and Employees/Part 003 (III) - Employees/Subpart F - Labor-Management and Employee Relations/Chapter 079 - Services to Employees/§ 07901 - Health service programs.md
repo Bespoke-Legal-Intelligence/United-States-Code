@@ -1,0 +1,86 @@
+### §7901. Health service programs
+
+(a) The head of each agency of the Government of the United States may establish, within the limits of appropriations available, a health service program to promote and maintain the physical and mental fitness of employees under his jurisdiction.
+
+(b) A health service program may be established by contract or otherwise, but only—
+
+&emsp;(1) after consultation with the Secretary of Health, Education, and Welfare and consideration of its recommendations; and
+
+&emsp;(2) in localities where there are a sufficient number of employees to warrant providing the service.
+
+(c) A health service program is limited to—
+
+&emsp;(1) treatment of on-the-job illness and dental conditions requiring emergency attention;
+
+&emsp;(2) preemployment and other examinations;
+
+&emsp;(3) referral of employees to private physicians and dentists; and
+
+&emsp;(4) preventive programs relating to health.
+
+(d) The Secretary of Health, Education, and Welfare, on request, shall review a health service program conducted under this section and shall submit comment and recommendations to the head of the agency concerned.
+
+(e) When this section authorizes the use of the professional services of physicians, that authorization includes the use of the professional services of surgeons and osteopathic practitioners within the scope of their practice as defined by State law.
+
+(f) The health programs conducted by the following agencies are not affected by this section—
+
+&emsp;(1) the Tennessee Valley Authority;
+
+&emsp;(2) the Canal Zone Government; and
+
+&emsp;(3) the Panama Canal Company.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 530; Pub. L. 90–83, §1(47), Sept. 11, 1967, 81 Stat. 209.)
+
+Historical and Revision Notes<br>1966
+
+Act
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 150.
+
+Aug. 8, 1946, ch. 865, 60 Stat. 903.
+
+Sept. 23, 1950, ch. 1010, §8, 64 Stat. 986.
+
+In subsection (a), the words “agency of the Government of the United States” are coextensive with and substituted for “departments and agencies including Government-owned and controlled corporations” to avoid confusion with the definitions in sections 101–105.
+
+In subsection (d) the word “appropriate” in the phrase “appropriate comment and recommendations” is omitted as unnecessary. The words “to the head of the agency concerned” are added for clarity.
+
+In subsection (e), the substance of the definition of “physician” in former section 790 is substituted for the reference to that section.
+
+In subsection (f)(2) and (3), the words “Canal Zone Government” and “Panama Canal Company” are substituted for “Panama Canal” and “Panama Railroad”, respectively, on the authority of the Act of Sept. 26, 1950, ch. 1049, §2(a), 64 Stat. 1038.
+
+The last proviso of the first sentence of the Act of Aug. 8, 1946, is omitted as executed.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### 1967 Act
+
+This section amends 5 U.S.C. 7901 to reflect 1966 Reorganization Plan No. 3, effective June 25, 1966, 80 Stat.1610, section 1 of which transferred all functions of the Public Health Service to the Secretary of Health, Education, and Welfare.
+
+#### References in Text
+
+For definition of Canal Zone Government and Panama Canal Company, referred to in text, see section 3602(b) of Title 22, Foreign Relations and Intercourse.
+
+#### Change of Name
+
+Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508 of Title 20, Education.
+
+#### Short Title of 1993 Amendment
+
+Pub. L. 103–172, §1(a), Dec. 2, 1993, 107 Stat. 1995, provided that: “This Act \[enacting section 7905 of this title and provisions set out as notes under section 7905 of this title\] may be cited as the ‘Federal Employees Clean Air Incentives Act’.”
+
+#### Demonstration Project: Health Protection; Health Promotion; Disease Prevention; and Secondary Prevention
+
+Pub. L. 99–251, title I, §110, Feb. 27, 1986, 100 Stat. 17, directed Director of Office of Personnel Management to conduct a demonstration project to determine most effective method of furnishing health protection, health promotion, disease prevention, and secondary prevention services to Federal Government employees, with Director to report to Congress no later than 60 days after termination of project on Feb. 27, 1988.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 50 section 403j.
+

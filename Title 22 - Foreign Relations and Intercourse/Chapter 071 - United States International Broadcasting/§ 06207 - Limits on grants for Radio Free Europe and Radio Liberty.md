@@ -1,0 +1,118 @@
+### §6207. Limits on grants for Radio Free Europe and Radio Liberty
+
+#### (a) Board of RFE/RL, Incorporated
+
+The Board may not make any grant to RFE/RL, Incorporated, unless the certificate of incorporation of RFE/RL, Incorporated, has been amended to provide that—
+
+&emsp;(1) the Board of Directors of RFE/RL, Incorporated, shall consist of the members of the Broadcasting Board of Governors established under section 6203 of this title and of no other members; and
+
+&emsp;(2) such Board of Directors shall make all major policy determinations governing the operation of RFE/RL, Incorporated, and shall appoint and fix the compensation of such managerial officers and employees of RFE/RL, Incorporated, as it considers necessary to carry out the purposes of the grant provided under this chapter.
+
+#### (b) Location of principal place of business
+
+(1) The Board may not make any grant to RFE/RL, Incorporated unless the headquarters of RFE/RL, Incorporated and its senior administrative and managerial staff are in a location which ensures economy, operational effectiveness, and accountability to the Board.
+
+(2) Not later than 90 days after confirmation of all members of the Board, the Board shall provide a report to Congress on the number of administrative, managerial, and technical staff of RFE/RL, Incorporated who will be located within the metropolitan area of Washington, D.C., and the number of employees whose principal place of business will be located outside the metropolitan area of Washington, D.C.
+
+#### (c) Limitation on grant amounts
+
+The total amount of grants made by the Board for the operating costs of Radio Free Europe and Radio Liberty may not exceed $75,000,000 for any fiscal year after fiscal year 1995.
+
+#### (d) Alternative grantee
+
+If the Board determines at any time that RFE/RL, Incorporated, is not carrying out the functions described in section 6208 of this title in an effective and economical manner, the Board may award the grant to carry out such functions to another entity after soliciting and considering applications from eligible entities in such manner and accompanied by such information as the Board may reasonably require.
+
+#### (e) Not a Federal agency or instrumentality
+
+Nothing in this chapter may be construed to make RFE/RL, Incorporated a Federal agency or instrumentality.
+
+#### (f) Authority
+
+Grants authorized under section 6204 of this title for RFE/RL, Incorporated, shall be available to make annual grants for the purpose of carrying out similar functions as were carried out by RFE/RL, Incorporated, on the day before April 30, 1994, with respect to Radio Free Europe and Radio Liberty, consistent with section 2 of the Board for International Broadcasting Act of 1973 \[22 U.S.C. 2871\], as in effect on such date.
+
+#### (g) Grant agreement
+
+Grants to RFE/RL, Incorporated, by the Board shall only be made in compliance with a grant agreement. The grant agreement shall establish guidelines for such grants. The grant agreement shall include the following provisions—
+
+&emsp;(1) that a grant be used only for activities which the Board determines are consistent with the purposes of subsection (f) of this section;
+
+&emsp;(2) that RFE/RL, Incorporated, shall otherwise comply with the requirements of this section;
+
+&emsp;(3) that failure to comply with the requirements of this section may result in suspension or termination of a grant without further obligation by the Board or the United States;
+
+&emsp;(4) that duplication of language services and technical operations between RFE/RL, Incorporated and the International Broadcasting Bureau be reduced to the extent appropriate, as determined by the Board; and
+
+&emsp;(5) that RFE/RL, Incorporated, justify in detail each proposed expenditure of grant funds, and that such funds may not be used for any other purpose unless the Board gives its prior written approval.
+
+#### (h) Prohibited uses of grant funds
+
+No grant funds provided under this section may be used for the following purposes:
+
+&emsp;(1)(A) Except as provided in subparagraph (B), to pay any salary or other compensation, or enter into any contract providing for the payment of salary or compensation in excess of the rates established for comparable positions under title 5 or the foreign relations laws of the United States, except that no employee may be paid a salary or other compensation in excess of the rate of pay payable for level IV of the Executive Schedule under section 5315 of title 5.
+
+&emsp;(B) Salary and other compensation limitations under subparagraph (A) shall not apply prior to October 1, 1995, with respect to any employee covered by a union agreement requiring a salary or other compensation in excess of such limitations.
+
+&emsp;(2) For any activity for the purpose of influencing the passage or defeat of legislation being considered by Congress.
+
+&emsp;(3) To enter into a contract or obligation to pay severance payments for voluntary separation for employees hired after December 1, 1990, except as may be required by United States law or the laws of the country where the employee is stationed.
+
+&emsp;(4) For first class travel for any employee of RFE/RL, Incorporated, or the relative of any employee.
+
+&emsp;(5) To compensate freelance contractors without the approval of the Board.
+
+#### (i) Report on management practices
+
+(1) <sup>1</sup> Effective not later than March 31 and September 30 of each calendar year, the Inspector General of the United States Information Agency shall submit to the Board, the Director of the United States Information Agency, and the Congress a report on management practices of RFE/RL, Incorporated, under this section. The Inspector General of the United States Information Agency shall establish a special unit within the Inspector General's office to monitor and audit the activities of RFE/RL, Incorporated, and shall provide for on-site monitoring of such activities.
+
+#### (j) Audit authority
+
+(1) Such financial transactions of RFE/RL, Incorporated, as relate to functions carried out under this section may be audited by the General Accounting Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States. Any such audit shall be conducted at the place or places where accounts of RFE/RL, Incorporated, are normally kept.
+
+(2) Representatives of the General Accounting Office shall have access to all books, accounts, records, reports, files, papers, and property belonging to or in use by RFE/RL, Incorporated pertaining to such financial transactions and necessary to facilitate an audit. Such representatives shall be afforded full facilities for verifying transactions with any assets held by depositories, fiscal agents, and custodians. All such books, accounts, records, reports, files, papers, and property of RFE/RL, Incorporated, shall remain in the possession and custody of RFE/RL, Incorporated.
+
+(3) Notwithstanding any other provision of law and upon repeal of the Board for International Broadcasting Act \[22 U.S.C. 2871 et seq.\], the Inspector General of the United States Information Agency is authorized to exercise the authorities of the Inspector General Act of 1978 with respect to RFE/RL, Incorporated.
+
+#### (k) Plan for relocation
+
+None of the funds authorized to be appropriated for the fiscal years <sup>2</sup> 1994 or 1995 may be used to relocate the offices or operations of RFE/RL, Incorporated from Munich, Germany, unless—
+
+&emsp;(1) such relocation is specifically provided for in an appropriation Act or pursuant to a reprogramming notification; and
+
+&emsp;(2)(A) such relocation is authorized by the Board and the Board submits to the Comptroller General of the United States and the appropriate Congressional <sup>3</sup> committees a detailed plan for such relocation, including cost estimates and any and all fiscal data, audits, business plans, and other documents which justify such relocation; or
+
+&emsp;(B) prior to the confirmation of all members of the Board, such relocation is authorized by the President, the President certifies that a significant national interest requires that such relocation determination be made before the confirmation of all members of the Board, and the President submits to the Comptroller General of the United States and the appropriate congressional committees a detailed plan for such relocation, including cost estimates and any and all fiscal data, audits, business plans, and other documents which justify such relocation.
+
+#### (<i>l</i>) Reports on personnel classification
+
+Not later than 90 days after the date of confirmation of all members of the Board, the Board shall submit a report to the Congress containing a justification, in terms of the types of duties performed at specific rates of salary and other compensation, of the classification of personnel employed by RFE/RL, Incorporated. The report shall include a comparison of the rates of salary or other compensation and classifications provided to employees of RFE/RL, Incorporated, with the rates of salary or other compensation and classifications of employees of the Voice of America stationed overseas in comparable positions and shall identify any disparities and steps which should be taken to eliminate such disparities.
+
+(Pub. L. 103–236, title III, §308, Apr. 30, 1994, 108 Stat. 437.)
+
+#### References in Text
+
+The foreign relations laws of the United States, referred to in subsec. (h)(1)(A), are classified generally to this title.
+
+The Board for International Broadcasting Act, referred to in subsec. (j)(3), is Pub. L. 93–129, Oct. 19, 1973,87 Stat. 456, as amended, which is classified generally to chapter 43 (§2871 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2871 of this title and Tables. For repeal of this Act, see section 6209(e) of this title.
+
+The Inspector General Act of 1978, referred to in subsec. (j)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Presidential Determination on RFE/RL Relocation
+
+Determination of President of the United States, No. 94–32, July 12, 1994, 59 F.R. 37649, provided:
+
+Pursuant to the authority vested in me by section 308(k) of the United States International Broadcasting Act of 1994 (Public Law 103–236) \[22 U.S.C. 6207(k)\] (the “Act”), I hereby certify that significant national interest requires a relocation of the operations of RFE/RL, Incorporated from Munich, Germany, to Prague, Czech Republic, before the confirmation of a new Board of Broadcasting Governors can be completed.
+
+You are authorized and directed to transmit this determination to the appropriate committees of the Congress (as defined in section 314 of the Act \[22 U.S.C. 6213\]) and to arrange for its publication in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6204, 6206 of this title.
+
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “year”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
+

@@ -1,0 +1,16 @@
+### §2304. Responsibility of the General Accounting Office
+
+(a) If requested by either House of the Congress (or any committee thereof), or if considered necessary by the Comptroller General, the General Accounting Office shall conduct audits and reviews to assure compliance with the laws, rules, and regulations governing employment in the executive branch and in the competitive service and to assess the effectiveness and soundness of Federal personnel management.
+
+(b) The General Accounting Office shall prepare and submit an annual report to the President and the Congress on the activities of the Merit Systems Protection Board and the Office of Personnel Management. The report shall include a description of—
+
+&emsp;(1) significant actions taken by the Board to carry out its functions under this title; and
+
+&emsp;(2) significant actions of the Office of Personnel Management, including an analysis of whether or not the actions of the Office are in accord with merit system principles and free from prohibited personnel practices.
+
+(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1118; amended Pub. L. 102–378, §2(6), Oct. 2, 1992, 106 Stat. 1346.)
+
+#### Amendments
+
+1992—Subsec. (b). Pub. L. 102–378 substituted “The” for “the” at beginning of first sentence.
+

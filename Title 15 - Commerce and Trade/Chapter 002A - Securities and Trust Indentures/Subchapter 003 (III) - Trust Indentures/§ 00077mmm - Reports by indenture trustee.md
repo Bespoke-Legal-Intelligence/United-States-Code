@@ -1,0 +1,98 @@
+### §77mmm. Reports by indenture trustee
+
+#### (a) Report to security holders; time; contents
+
+The indenture trustee shall transmit to the indenture security holders as hereinafter provided, at stated intervals of not more than 12 months, a brief report with respect to any of the following events which may have occurred within the previous 12 months (but if no such event has occurred within such period no report need be transmitted):— <sup>1</sup>
+
+&emsp;(1) any change to its eligibility and its qualifications under section 77jjj of this title;
+
+&emsp;(2) the creation of or any material change to a relationship specified in paragraph <sup>2</sup> (1) through (10) of section 77jjj(b) of this title;
+
+&emsp;(3) the character and amount of any advances made by it, as indenture trustee, whichremain unpaid on the date of such report, and for the reimbursement of which it claims or may claim a lien or charge, prior to that of the indenture securities, on the trust estate or on property or funds held or collected by it as such trustee, if such advances so remaining unpaid aggregate more than one-half of 1 per centum of the principal amount of the indenture securities outstanding on such date;
+
+&emsp;(4) the amount, interest rate, and maturity date of all other indebtedness owning to it in its individual capacity, on the date of such report, by the obligor upon the indenture securities, with a brief description of any property held as collateral security therefor, except an indebtedness based upon a creditor relationship arising in any manner described in paragraphs (2), (3), (4), or (6) of subsection (b) of section 77kkk of this title;
+
+&emsp;(5) any change to the property and funds physically in its possession as indenture trustee on the date of such report;
+
+&emsp;(6) any change to any release, or release and substitution, of property subject to the lien of the indenture (and the consideration therefor, if any) which it has not previously reported;
+
+&emsp;(7) any additional issue of indenture securities which it has not previously reported; and
+
+&emsp;(8) any action taken by it in the performance of its duties under the indenture which it has not previously reported and which in its opinion materially affects the indenture securities or the trust estate, except action in respect of a default, notice of which has been or is to be withheld by it in accordance with an indenture provision authorized by subsection (b) of section 77<i>ooo</i> of this title.
+
+#### (b) Additional reports to security holders
+
+The indenture trustee shall transmit to the indenture security holders as hereinafter provided, within the times hereinafter specified, a brief report with respect to—
+
+&emsp;(1) the release, or release and substitution, of property subject to the lien of the indenture (and the consideration therefor, if any) unless the fair value of such property, as set forth in the certificate or opinion required by paragraph (1) of subsection (d) of section 77nnn of this title, is less than 10 per centum of the principal amount of indenture securities outstanding at the time of such release, or such release and substitution, such report to be so transmitted within 90 days after such time; and
+
+&emsp;(2) the character and amount of any advances made by it as such since the date of the last report transmitted pursuant to the provisions of subsection (a) of this section (or if no such report has yet been so transmitted, since the date of execution of the indenture), for the reimbursement of which it claims or may claim a lien or charge, prior to that of the indenture securities, on the trust estate or on property or funds held or collected by it as such trustee, and which it has not previously reported pursuant to this paragraph, if such advances remaining unpaid at any time aggregate more than 10 per centum of the principal amount of indenture securities outstanding at such time, such report to be so transmitted within 90 days after such time.
+
+#### (c) Additional parties to whom reports to be transmitted
+
+Reports pursuant to this section shall be transmitted by mail—
+
+&emsp;(1) to all registered holders of indenture securities, as the names and addresses of such holders appear upon the registration books of the obligor upon the indenture securities;
+
+&emsp;(2) to such holders of indenture securities as have, within the two years preceding such transmission, filed their names and addresses with the indenture trustee for that purpose; and
+
+&emsp;(3) except in the case of reports pursuant to subsection (b) of this section, to all holders of indenture securities whose names and addresses have been furnished to or received by the indenture trustee pursuant to section 77<i>lll</i> of this title.
+
+#### (d) Filing of report with stock exchanges
+
+A copy of each such report shall, at the time of such transmission to indenture security holders, be filed with each stock exchange upon which the indenture securities are listed, and also with the Commission.
+
+(May 27, 1933, ch. 38, title III, §313, as added Aug. 3, 1939, ch. 411, 53 Stat. 1165; amended Nov. 15, 1990, Pub. L. 101–550, title IV, §§411, 412, 104 Stat. 2729.)
+
+#### Amendments
+
+1990—Subsec. (a). Pub. L. 101–550, §411(1), (2), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to” and inserted “any of the following events which may have occurred within the previous 12 months (but if no such event has occurred within such period no report need be transmitted):” after “a brief report with respect to”.
+
+Subsec. (a)(1). Pub. L. 101–550, §411(3), (4), inserted “any change to” before “its eligibility” and struck out “, or in lieu thereof, if to the best of its knowledge it has continued to be eligible and qualified under such section, a written statement to such effect” after “of this title”.
+
+Subsec. (a)(2). Pub. L. 101–550, §411(5), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (a)(3), (4). Pub. L. 101–550, §411(5)(A), redesignated pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
+
+Subsec. (a)(5). Pub. L. 101–550, §411(5)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Pub. L. 101–550, §411(3), inserted “any change to” after the paragraph designation.
+
+Subsec. (a)(6). Pub. L. 101–550, §411(5)(A), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+
+Pub. L. 101–550, §411(3), inserted “any change to” after the paragraph designation.
+
+Subsec. (a)(7), (8). Pub. L. 101–550, §411(5)(A), redesignated pars. (6) and (7) as (7) and (8), respectively.
+
+Subsec. (b). Pub. L. 101–550, §412(1), substituted “The indenture trustee shall” for “The indenture to be qualified shall also contain provisions requiring the indenture trustee to”.
+
+Subsec. (c). Pub. L. 101–550, §412(2), substituted “Reports” for “The indenture to be qualified shall also provide that reports”.
+
+Subsec. (d). Pub. L. 101–550, §412(3), substituted “A copy” for “The indenture to be qualified shall also provide that a copy”.
+
+#### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+
+#### Cross References
+
+Effect of prescribed indenture provisions, see section 77rrr of this title.
+
+Indenture provisions for notice of defaults pursuant to subsec. (c) of this section, see section 77<i>ooo</i> of this title.
+
+Refusal order when indenture does not conform to the requirements of this section, see section 77eee of this title.
+
+Transmission of—
+
+&emsp;&emsp;Notice to indenture security holders relating to disqualification of trustee, see section 77jjj of this title.
+
+&emsp;&emsp;Summaries of certain information to indenture security holders pursuant to subsec. (c) of this section, see section 77nnn of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 77jjj, 77nnn, 77<i>ooo</i>, 77rrr of this title.
+
+<i><sup>1</sup></i><i> So in original. The colon probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “paragraphs”.</i>
+

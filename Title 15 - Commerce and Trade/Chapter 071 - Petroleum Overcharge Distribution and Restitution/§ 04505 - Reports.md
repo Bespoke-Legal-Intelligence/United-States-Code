@@ -1,0 +1,40 @@
+### §4505. Reports
+
+#### (a) Report on receipts and disbursements
+
+The Secretary shall transmit, not later than 60 days after October 21, 1986, a report to the committees referred to in subsection (d) of this section containing a clear and complete statement of all receipts, disbursements, and commitments of restitutionary amounts, as of October 21, 1986, by the Secretary pursuant to—
+
+&emsp;(1) any judicial or administrative proceeding (including any settlement agreement or declaratory judgment) instituted at any time by the Secretary to enforce the crude oil and petroleum product pricing and allocation regulations issued under the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\] or the Economic Stabilization Act of 1970; or
+
+&emsp;(2) section 155 of Public Law 97 377.
+
+#### (b) Report on collection of certain deficiency funds
+
+The Secretary shall transmit a report each fiscal year, beginning in fiscal year 1987, to such committees on the status of collections by the Secretary of deficiency funds to be deposited into the M.D.L. No. 378 escrow account established by the United States District Court for the District of Kansas until all such deficiency funds have been paid. The Secretary shall, in a manner substantially similar to that required by section 155 of Public Law 97 377 with respect to amounts disbursed under such section, monitor the disposition by the States of any funds disbursed to the States by the court pursuant to the opinion and order of such District Court, dated July 7, 1986, with respect to In Re: the Department of Energy Stripper Well Exemption Litigation, M.D.L. No. 378, including the use of such funds for administrative costs and attorneys fees.
+
+#### (c) Report on amount estimated to be available for indirect restitution
+
+The Secretary shall transmit, on March 1 of each year beginning with 1987 and continuing until all the restitutionary amounts to which section 4501(a) of this title applies have been collected and disbursed as provided in this chapter, a report to such committees containing an estimate of the amount that will be determined under section 4502(c) of this title to be the excess amount for purposes of section 4502(d)(1)(B) of this title for the fiscal year beginning the next October 1.
+
+#### (d) Receipt by committees
+
+The reports required by this chapter shall be transmitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+
+(Pub. L. 99 509, title III, §3006, Oct. 21, 1986, 100 Stat. 1886.)
+
+#### References in Text
+
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93 159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
+
+The Economic Stabilization Act of 1970, referred to in subsec. (a)(1), is title II of Pub. L. 91 379, Aug. 15, 1970, 84 Stat. 799, as amended, formerly set out as an Economic Stabilization Provisions note under section 1904 of Title 12, Banks and Banking.
+
+Section 155 of Public Law 97 377, referred to in subsecs. (a)(2), (b), is section 155 of Pub. L. 97 377, title I, Dec. 21, 1982, 96 Stat. 1919, which is not classified to the Code.
+
+#### Change of Name
+
+Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4506 of this title.
+

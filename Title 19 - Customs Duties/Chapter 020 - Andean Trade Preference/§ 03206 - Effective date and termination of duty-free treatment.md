@@ -1,0 +1,16 @@
+### §3206. Effective date and termination of duty-free treatment
+
+#### (a) Effective date
+
+This chapter shall take effect on December 4, 1991.
+
+#### (b) Termination of duty-free treatment
+
+No duty-free treatment extended to beneficiary countries under this chapter shall remain in effect 10 years after December 4, 1991.
+
+(Pub. L. 102–182, title II, §208, Dec. 4, 1991, 105 Stat. 1244.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3204 of this title.
+

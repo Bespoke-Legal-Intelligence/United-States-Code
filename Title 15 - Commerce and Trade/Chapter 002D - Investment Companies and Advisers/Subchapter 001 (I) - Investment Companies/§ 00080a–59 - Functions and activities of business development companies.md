@@ -1,0 +1,10 @@
+### §80a–59. Functions and activities of business development companies
+
+Notwithstanding the exemption set forth in section 80a–6(f) of this title, section 80a–12 of this title shall apply to a business development company to the same extent as if it were a registered closed-end investment company, except that the Commission shall not prescribe any rule, regulation, or order pursuant to section 80a–12(a)(1) of this title governing the circumstances in which a business development company may borrow from a bank in order to purchase any security.
+
+(Aug. 22, 1940, ch. 686, title I, §60, as added Oct. 21, 1980, Pub. L. 96–477, title I, §105, 94 Stat. 2285.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 80a–2, 80a–6, 80a–53, 80a–60, 80b–2 of this title.
+

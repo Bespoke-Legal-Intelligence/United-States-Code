@@ -1,0 +1,78 @@
+### §7802. Duties of Secretary with respect to Service
+
+The Secretary shall—
+
+&emsp;(1) establish, maintain, and operate canteens where deemed necessary and practicable at hospitals and homes of the Department and at other Department establishments where similar essential facilities are not reasonably available from outside commercial sources;
+
+&emsp;(2) establish, maintain, and operate such warehouses and storage depots as may be necessary in operating the canteens;
+
+&emsp;(3) furnish the Service for its use in connection with the establishment, maintenance, and operation thereof, such space, buildings, and structures under control of the Department as the Secretary may consider necessary, including normal maintenance and repair service thereon. Reasonable charges, to be determined by the Secretary, shall be paid annually by the Service for the space, buildings, and structures so furnished, except that the Secretary may reduce or waive such charges whenever payment of such charges would impair the working capital required by the Service;
+
+&emsp;(4) transfer to the Service without charge, rental, or reimbursement such necessary equipment as may not be needed for other purposes, and furnish the Service such servicesand utilities, including light, water, and heat, as may be available and necessary for its use. Reasonable charges, to be determined by the Secretary, shall be paid annually by the Service for the utilities so furnished;
+
+&emsp;(5) employ such persons as are necessary for the establishment, maintenance, and operation of the Service, and pay the salaries, wages, and expenses of all such employees from the funds of the Service. Personnel necessary for the transaction of the business of the Service at canteens, warehouses, and storage depots shall be appointed, compensated from funds of the Service, and removed by the Secretary without regard to the provisions of title 5 governing appointments in the competitive service and chapter 51 and subchapter III of chapter 53 of title 5. Those employees are subject to the provisions of title 5 relating to a preference eligible described in section 2108(3) of title 5, subchapter I of chapter 81 of title 5, and subchapter III of chapter 83 of title 5;
+
+&emsp;(6) make all necessary contracts or agreements to purchase or sell merchandise, fixtures, equipment, supplies, and services, without regard to section 3709 of the Revised Statutes (41 U.S.C. 5) and to do all things necessary to carry out such contracts or agreements, including the making of necessary adjustments and compromising of claims in connection therewith;
+
+&emsp;(7) fix the prices of merchandise and services in canteens so as to carry out the purposes of this chapter;
+
+&emsp;(8) accept gifts and donations of merchandise, fixtures, equipment, and supplies for the use and benefit of the Service;
+
+&emsp;(9) make such rules and regulations, not inconsistent with the provisions of this chapter, as the Secretary considers necessary or appropriate to effectuate its purposes;
+
+&emsp;(10) delegate such duties and powers to employees as the Secretary considers necessary or appropriate, whose official acts performed within the scope of the delegated authority shall have the same force and effect as though performed by the Secretary;
+
+&emsp;(11) authorize the use of funds of the Service when available, subject to such regulations as the Secretary may deem appropriate, for the purpose of cashing checks, money orders, and similar instruments in nominal amounts for the payment of money presented by veterans hospitalized or domiciled at hospitals and homes of the Department, and by other persons authorized by section 7803 of this title to make purchases at canteens. Such checks, money orders, and other similar instruments may be cashed outright or may be accepted, subject to strict administrative controls, in payment for merchandise or services, and the difference between the amount of the purchase and the amount of the tendered instrument refunded in cash.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1248, §4202; Pub. L. 86–109, §1, July 28, 1959, 73 Stat. 258; Pub. L. 94–581, title II, §210(d), Oct. 21, 1976, 90 Stat. 2864; Pub. L. 97–295, §4(88), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 99–576, title VII, §702(13), Oct. 28, 1986, 100 Stat. 3302; renumbered §7802 and amended Pub. L. 102–40, title IV, §402(a), (b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(e)(7), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+
+#### References in Text
+
+The provisions of title 5 governing appointments in the competitive service, referred to in par. (5), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1991—Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in section catchline and in introductory provisions.
+
+Pub. L. 102–40, §402(a), (b)(1), renumbered section 4202 of this title as this section.
+
+Par. (1). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
+
+Par. (3). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+
+Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+
+Pars. (4), (5). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+
+Par. (6). Pub. L. 102–54 amended par. (6) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “section 3709 of the Revised Statutes (41 U.S.C. 5)” for “section 5 of title 41”.
+
+Pars. (9), (10). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+
+Par. (11). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+
+Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+
+Pub. L. 102–40, §402(d)(1), substituted “7803” for “4203”.
+
+1986—Par. (11). Pub. L. 99–576 struck out “and without regard to the provisions of section 1 of the Act of January 31, 1925 (7 U.S.C. 2217), and section 1 (1st proviso under heading ‘OFFICE OF THE SECRETARY’) of the Act of May 11, 1922 (7 U.S.C. 2240),” after “as the Administrator may deem appropriate,”.
+
+1982—Par. (5). Pub. L. 97–295, §4(88)(A), substituted reference to provisions of title 5 governing appointments in the competitive service and chapter 51 and subchapter III of chapter 53 of title 5 for reference to the civil-service laws and the Classification Act of 1949, and substituted provision that the relevant employees are subject to the provisions of title 5 relating to a preference eligible described in section 2108(3) of title 5, subchapter I of chapter 81 of title 5, and subchapter III of chapter 83 of title 5 for provision that such employees were subject to the Veterans’ Preference Act of 1944, the Civil Service Retirement Act, and laws administered by the Bureau of Employees’ Compensation applicable to civilian employees of the United States.
+
+Par. (11). Pub. L. 97–295, §4(88)(B), substituted “section 1 of the Act of January 31, 1925 (7 U.S.C. 2217), and section 1 (1st proviso under heading ‘OFFICE OF THE SECRETARY’) of the Act of May 11, 1922 (7 U.S.C. 2240)” for “sections 521 and 543 of title 5”.
+
+1976—Pars. (3), (9), (10), (11). Pub. L. 94–581 substituted “the Administrator” for “he” in pars. (3), (9), (10), and (11).
+
+1959—Par. (3). Pub. L. 86–109 required the Service to pay reasonable charges, as determined by the Administrator, for the use of space, buildings, and structures furnished by the Veterans’ Administration and authorized reduction of waiver of the charges when payment thereof would impair the working capital required by the Service.
+
+#### Effective Date of 1976 Amendment
+
+Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
+
+#### Effective Date of 1959 Amendment
+
+Section 2 of Pub. L. 86–109 provided that: “This Act \[amending this section\] shall take effect on the first day of July 1959.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 5 section 5102.
+

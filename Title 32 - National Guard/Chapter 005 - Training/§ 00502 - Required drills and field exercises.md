@@ -1,0 +1,108 @@
+### §502. Required drills and field exercises
+
+(a) Under regulations to be prescribed by the Secretary of the Army or the Secretary of the Air Force, as the case may be, each company, battery, squadron, and detachment of the National Guard, unless excused by the Secretary concerned, shall—
+
+&emsp;(1) assemble for drill and instruction, including indoor target practice, at least 48 times each year; and
+
+&emsp;(2) participate in training at encampments, maneuvers, outdoor target practice, or other exercises, at least 15 days each year.
+
+> However, no member of such unit who has served on active duty for one year or longer shall be required to participate in such training if the first day of such training period falls during the last one hundred and twenty days of his required membership in the National Guard.
+
+(b) An assembly for drill and instruction may consist of a single ordered formation of a company, battery, squadron, or detachment, or, when authorized by the Secretary concerned, a series of ordered formations of parts of those organizations. However, to have a series of formations credited as an assembly for drill and instruction, all parts of the unit must be included in the series within 90 consecutive days.
+
+(c) The total attendance at the series of formations constituting an assembly shall be counted as the attendance at that assembly for the required period. No member may be counted more than once or receive credit for more than one required period of attendance, regardless of the number of formations that he attends during the series constituting the assembly for the required period.
+
+(d) No organization may receive credit for an assembly for drill or indoor target practice unless—
+
+&emsp;(1) the number of members present equals or exceeds the minimum number prescribed by the President;
+
+&emsp;(2) the period of military duty or instruction for which a member is credited is at least one and one-half hours; and
+
+&emsp;(3) the training is of the type prescribed by the Secretary concerned.
+
+(e) An appropriately rated member of the National Guard who performs an aerial flight under competent orders may receive credit for attending drill for the purposes of this section, if the flight prevented him from attending a regularly scheduled drill.
+
+(f) Under regulations to be prescribed by the Secretary of the Army or Secretary of the Air Force, as the case may be, a member of the National Guard may—
+
+&emsp;(1) without his consent, but with the pay and allowances provided by law; or
+
+&emsp;(2) with his consent, either with or without pay and allowances;
+
+> be ordered to perform training or other duty in addition to that prescribed under subsection (a). Duty without pay shall be considered for all purposes as if it were duty with pay.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 610; Oct. 3, 1964, Pub. L. 88–621, §1(1), 78 Stat. 999; Dec. 1, 1967, Pub. L. 90–168, §4, 81 Stat. 526; Nov. 17, 1971, Pub. L. 92–156, title III, §303(b), 85 Stat. 425; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §524(b), 107 Stat. 1657.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+502(a)
+
+502(b)
+
+502(c)
+
+502(d)
+
+32:62 (1st sentence, less proviso).
+
+32:62 (proviso of 1st sentence).
+
+32:62 (last sentence, less 1st, 2d, and 3d provisos).
+
+32:62 (1st proviso of last sentence).
+
+June 3, 1916, ch. 134, §92; restated June 3, 1924, ch. 244, §2; restated Oct. 14, 1940, ch. 875, §2, 54 Stat. 1135; Mar. 25, 1948, ch. 157, §5(a), 62 Stat. 90.
+
+502(e)
+
+32:62 (2d and 3d provisos of last sentence).
+
+In subsection (a), the words “including target practice” and “such company, troop, battery, or detachment shall have been \* \* \* from participation in any part thereof” are omitted as surplusage.
+
+In subsections (a) and (b), the word “troop” is omitted as obsolete.
+
+In subsection (b), the words “parts of those organizations” are substituted for the words “subdivisions or parts thereof”. The words “but in the latter case”, “of subdivisions or groups”, “comprehend”, and “the time limit of” are omitted as surplusage.
+
+In subsection (c), the word “member” is substituted for the words “officer, warrant officer, or enlisted man”. The words “series of formations” are substituted for the words “separate consecutive formations announced”. The words “regardless of the number of formations that he attends during the series” are substituted for the words “even though he may have attended more than one of the formations”. The words “sum”, “actual military”, and “of time” are omitted as surplusage. 32:62 (4th proviso of last sentence) is omitted as superseded by section 683 of title 10. 32:62 (last proviso of last sentence) is omitted as superseded by section 501(b) of the Career Compensation Act of 1949, 63 Stat. 826 (37 U.S.C. 301(b)).
+
+In subsection (d), the word “members” is substituted for the words “officers and enlisted men”. The words “for which a member is credited” are substituted for the words “participated in by each officer and enlisted man at each assembly at which he shall be credited as having been present”. The words “for duty at such assembly”, “actual”, and “character of” are omitted as surplusage.
+
+In subsection (e), the word “member” is substituted for the words “officer or enlisted man”. The words “Air Corps \* \* \* assigned to an Air Corps unit thereof, or \* \* \* an officer or enlisted man of the Medical Department of the said National Guard regularly attached to an Air Corps unit of the National Guard by appropriate authority” are omitted, since the revised subsection applies only to members who perform flights under competent orders and who are thereby prevented from attending a regular drill.
+
+#### Amendments
+
+1993—Subsec. (b). Pub. L. 103–160 substituted “90 consecutive days” for “30 consecutive days” in second sentence.
+
+1971—Subsec. (a). Pub. L. 92–156 inserted exception to training requirements where member served on active duty for one year or more if the training period falls during last one hundred and twenty days of required membership in National Guard.
+
+1967—Subsec. (b). Pub. L. 90–168 substituted 30 consecutive days for seven consecutive days of the same calendar month as the time within which all parts of the unit must be included in a series of formations in order to be credited as an assembly for drill and instruction.
+
+1964—Subsec. (f). Pub. L. 88–621 added subsec. (f).
+
+#### Effective Date of 1967 Amendment
+
+Amendment by Pub. L. 90–168 effective first day of first calendar month following date of enactment of Pub. L. 90–168, which was approved Dec. 1, 1967, see section 7 of Pub. L. 90–168, set out as a note under section 138 of Title 10, Armed Forces.
+
+#### Cross References
+
+Appropriations for pay, disbursement and accounting, see section 1012 of Title 37, Pay and Allowances of the Uniformed Services.
+
+Authorized number of enlisted members in pay grades E–8 and E–9 that may be on full-time National Guard duty, see section 12012 of Title 10, Armed Forces.
+
+Credit for service as members of Army National Guard or Air National Guard of members of Army National Guard of United States or Air National Guard of United States, see section 12602 of Title 10.
+
+Inactive duty training, duty (other than full-time duty) under this section as, see section 101 of Title 38, Veterans’ Benefits.
+
+Pay grades of National Guard personnel on active duty, see section 204 of Title 37, Pay and Allowances of the Uniformed Services.
+
+Training duty compensation of members of National Guard, see section 206 of Title 37.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 101, 112, 715 of this title; title 5 sections 5517, 6323; title 10 sections 101, 701, 1054, 1089, 1208, 10143, 12011, 12012, 12602, 12732, 12733; title 28 section 2671; title 38 sections 101, 1965, 4312; title 50 App. section 456.
+

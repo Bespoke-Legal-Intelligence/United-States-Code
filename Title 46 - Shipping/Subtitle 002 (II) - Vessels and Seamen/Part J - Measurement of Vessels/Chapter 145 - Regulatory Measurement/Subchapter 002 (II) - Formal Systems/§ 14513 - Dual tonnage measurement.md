@@ -1,0 +1,24 @@
+### §14513. Dual tonnage measurement
+
+(a) On application by the owner and approval by the Secretary, the tonnage of spaces prescribed by the Secretary may be excluded in measuring under this section the gross tonnage of a vessel measured under section 14512 of this title. The spaces prescribed by the Secretary shall be comparable to the spaces that could have been excluded under section 2 of the Act of September 29, 1965 (Public Law 89–219, 79 Stat. 891), as section 2 existed immediately before the enactment of this section.
+
+(b) The Secretary shall prescribe the design, location, and dimensions of the tonnage mark to be placed on a vessel measured under this section.
+
+(c)(1) If a vessel's tonnage mark is below the uppermost part of the load line marks, each certificate stating the vessel's tonnages shall state the gross and net tonnages when the mark is submerged and when it is not submerged.
+
+(2) Except as provided in paragraph (1) of this subsection, a certificate stating a vessel's tonnages may state only one set of gross and net tonnages.
+
+(Added Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1924.)
+
+#### Historical and Revision Notes
+
+#### <i>Revised section 14513</i>
+
+Source: Section (U.S. Code) 46 App. U.S.C. 83 to 83g.
+
+Section 14513 gives discretionary authority to the Secretary to exclude certain spaces in measuring the regulatory tonnage of a vessel, and requires the Secretary to prescribe the design, location and dimensions of the tonnage mark to be placed on the vessel. Section 14513 further provides that if spaces are excluded by the Secretary, they shall be comparable to those the Secretary could have excluded in existing law (46 App. U.S.C. 83a). Section 14513(c) provides that if a vessel's tonnage mark is below the uppermost part of the load line mark, each certificate that states the vessel's tonnages must state the gross and net tonnages when the mark is submerged and when it is not submerged.
+
+#### References in Text
+
+Section 2 of the Act of September 29, 1965, referred to in subsec. (a), was classified to section 83a of the Appendix to this title and was repealed by section 5104(b) of Pub. L. 99–509.
+

@@ -1,0 +1,34 @@
+### §3073 . Chaplains
+
+There are chaplains in the Army. The Chaplains include—
+
+&emsp;(1) the Chief of Chaplains;
+
+&emsp;(2) commissioned officers of the Regular Army appointed as chaplains; and
+
+&emsp;(3) other officers of the Army appointed as chaplains in the Army.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 170.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+3073
+
+10:231a.
+
+June 28, 1950, ch. 383, §309, 64 Stat. 270.
+
+The words “authorized by section 21f of this title”, “as now or hereafter provided by law”, and “and commissioned \* \* \* or in any component thereof” are omitted as surplusage.
+
+#### Cross References
+
+Appointment and duties of Chief of Chaplains, see section 3036 of this title.
+
+Secretary of the Army prohibited from assigning officers of Regular Army to Chaplains, see section 3064 of this title.
+

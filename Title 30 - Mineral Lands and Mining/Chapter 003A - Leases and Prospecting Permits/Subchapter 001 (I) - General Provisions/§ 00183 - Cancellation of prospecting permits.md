@@ -1,0 +1,16 @@
+### §183. Cancellation of prospecting permits
+
+The Secretary of the Interior shall reserve and may exercise the authority to cancel any prospecting permit upon failure by the permittee to exercise due diligence in the prosecution of the prospecting work in accordance with the terms and conditions stated in the permit, and shall insert in every such permit issued under the provisions of this chapter appropriate provisions for its cancellation by him.
+
+(Feb. 25, 1920, ch. 85, §26, 41 Stat. 448.)
+
+#### Cross References
+
+Laws applicable, see sections 275 and 285 of this title.
+
+Surrender of leases, see section 188a of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 275, 285 of this title; title 10 sections 7421, 7435.
+

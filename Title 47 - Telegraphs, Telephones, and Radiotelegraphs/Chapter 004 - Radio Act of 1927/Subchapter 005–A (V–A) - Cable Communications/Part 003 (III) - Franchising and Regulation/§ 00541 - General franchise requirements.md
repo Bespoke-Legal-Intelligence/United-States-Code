@@ -1,0 +1,78 @@
+### §541. General franchise requirements
+
+#### (a) Authority to award franchises; public rights-of-way and easements; equal access to service; time for provision of service; assurances
+
+(1) A franchising authority may award, in accordance with the provisions of this subchapter, 1 or more franchises within its jurisdiction; except that a franchising authority may not grant an exclusive franchise and may not unreasonably refuse to award an additional competitive franchise. Any applicant whose application for a second franchise has been denied by a final decision of the franchising authority may appeal such final decision pursuant to the provisions of section 555 of this title for failure to comply with this subsection.
+
+(2) Any franchise shall be construed to authorize the construction of a cable system over public rights-of-way, and through easements, which is within the area to be served by the cable system and which have been dedicated for compatible uses, except that in using such easements the cable operator shall ensure—
+
+&emsp;(A) that the safety, functioning, and appearance of the property and the convenience and safety of other persons not be adversely affected by the installation or construction of facilities necessary for a cable system;
+
+&emsp;(B) that the cost of the installation, construction, operation, or removal of such facilities be borne by the cable operator or subscriber, or a combination of both; and
+
+&emsp;(C) that the owner of the property be justly compensated by the cable operator for any damages caused by the installation, construction, operation, or removal of such facilities by the cable operator.
+
+(3) In awarding a franchise or franchises, a franchising authority shall assure that access to cable service is not denied to any group of potential residential cable subscribers because of the income of the residents of the local area in which such group resides.
+
+(4) In awarding a franchise, the franchising authority—
+
+&emsp;(A) shall allow the applicant's cable system a reasonable period of time to become capable of providing cable service to all households in the franchise area;
+
+&emsp;(B) may require adequate assurance that the cable operator will provide adequate public, educational, and governmental access channel capacity, facilities, or financial support; and
+
+&emsp;(C) may require adequate assurance that the cable operator has the financial, technical, or legal qualifications to provide cable service.
+
+#### (b) No cable service without franchise; exception under prior law
+
+(1) Except to the extent provided in paragraph (2) and subsection (f) of this section, a cable operator may not provide cable service without a franchise.
+
+(2) Paragraph (1) shall not require any person lawfully providing cable service without a franchise on July 1, 1984, to obtain a franchise unless the franchising authority so requires.
+
+#### (c) Status of cable system as common carrier or utility
+
+Any cable system shall not be subject to regulation as a common carrier or utility by reason of providing any cable service.
+
+#### (d) Informational tariffs; regulation by States; “State” defined
+
+(1) A State or the Commission may require the filing of informational tariffs for any intrastate communications service provided by a cable system, other than cable service, that would be subject to regulation by the Commission or any State if offered by a common carrier subject, in whole or in part, to subchapter II of this chapter. Such informational tariffs shall specify the rates, terms, and conditions for the provision of such service, including whether it is made available to all subscribers generally, and shall take effect on the date specified therein.
+
+(2) Nothing in this subchapter shall be construed to affect the authority of any State to regulate any cable operator to the extent that such operator provides any communication service other than cable service, whether offered on a common carrier or private contract basis.
+
+(3) For purposes of this subsection, the term “State” has the meaning given it in section 153(v) of this title.
+
+#### (e) State regulation of facilities serving subscribers in multiple dwelling units
+
+Nothing in this subchapter shall be construed to affect the authority of any State to license or otherwise regulate any facility or combination of facilities which serves only subscribers in one or more multiple unit dwellings under common ownership, control, or management and which does not use any public right-of-way.
+
+#### (f) Local or municipal authority as multichannel video programming distributor
+
+No provision of this chapter shall be construed to—
+
+&emsp;(1) prohibit a local or municipal authority that is also, or is affiliated with, a franchising authority from operating as a multichannel video programming distributor in the franchise area, notwithstanding the granting of one or more franchises by such franchising authority; or
+
+&emsp;(2) require such local or municipal authority to secure a franchise to operate as a multichannel video programming distributor.
+
+(June 19, 1934, ch. 652, title VI, §621, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2786; amended Oct. 5, 1992, Pub. L. 102–385, §§7(a)(1), (b), (c), 106 Stat. 1483.)
+
+#### Amendments
+
+1992—Subsec. (a)(1). Pub. L. 102–385, §7(a)(1), inserted before period at end “; except that a franchising authority may not grant an exclusive franchise and may not unreasonably refuse to award an additional competitive franchise. Any applicant whose application for a second franchise has been denied by a final decision of the franchising authority may appeal such final decision pursuant to the provisions of section 555 of this title for failure to comply with this subsection”.
+
+Subsec. (a)(4). Pub. L. 102–385, §7(b), added par. (4).
+
+Subsec. (b)(1). Pub. L. 102–385, §7(c)(1), inserted “and subsection (f) of this section” after “paragraph (2)”.
+
+Subsec. (f). Pub. L. 102–385, §7(c)(2), added subsec. (f).
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–385 effective 60 days after Oct. 5, 1992, see section 28 of Pub. L. 102–385, set out as a note under section 325 of this title.
+
+#### Effective Date
+
+Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 522, 532, 555 of this title.
+

@@ -1,0 +1,10 @@
+### §1206. Exemptions; terms and conditions
+
+The Secretary may, if he considers that marine navigational safety will not be adversely affected or where a local communication system fully complies with the intent of this concept but does not conform in detail, issue exemptions from any provisions of this chapter, on such terms and conditions as he considers appropriate.
+
+(Pub. L. 92–63, §7, Aug. 4, 1971, 85 Stat. 165.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1203 of this title.
+

@@ -1,0 +1,6 @@
+### §217a. Plant material exchanges
+
+On and after July 8, 1935, plant material exchanges may be made with botanic gardens, institutions, municipal parks, and gardens.
+
+(July 8, 1935, ch. 374, 49 Stat. 471.)
+

@@ -1,0 +1,48 @@
+### §9104. Congressional action on budgets of wholly owned Government corporations
+
+(a) Congress shall—
+
+&emsp;(1) consider budget programs for wholly owned Government corporations the President submits;
+
+&emsp;(2) make necessary appropriations authorized by law;
+
+&emsp;(3) make corporate financial resources available for operating and administrative expenses; and
+
+&emsp;(4) provide for repaying capital and the payment of dividends.
+
+(b) This section does not—
+
+&emsp;(1) prevent a wholly owned Government corporation from carrying out or financing its activities as authorized under another law;
+
+&emsp;(2) affect section 26 of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831y); or
+
+&emsp;(3) affect the authority of a wholly owned Government corporation to make a commitment without fiscal year limitation.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1043.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+9104(a)
+
+31:849(1st sentence).
+
+Dec. 6, 1945, ch. 557, §104, 59 Stat. 598; restated July 30, 1947, ch. 358, §307, 61 Stat. 584.
+
+9104(b)
+
+31:849(2d, last sentences).
+
+In subsection (a), the words “budget programs for wholly owned Government corporations” are substituted for “Budget programs” for clarity and consistency. The words “legislation . . . be enacted”, “as may be”, “for expenditure”, “corporate funds or other”, “or limiting the use thereof”, “as the Congress may determine”, and “funds” are omitted as surplus.
+
+In subsection (b), the word “existing” is omitted as surplus. In clause (1), the word “another” is added for clarity. In clause (3), the words “contracts or other” and “reference to” are omitted as surplus.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5134 of this title; title 5 sections 3109, 5721, 7903; title 12 section 1749bbb–13; title 15 section 633; title 41 section 5a; title 42 sections 295h–3d, 4017; title 44 section 309; title 48 section 1574b.
+

@@ -1,0 +1,72 @@
+### §2709. Special agents
+
+#### (a) General authority
+
+Under such regulations as the Secretary of State may prescribe, special agents of the Department of State and the Foreign Service may—
+
+&emsp;(1) conduct investigations concerning illegal passport or visa issuance or use;
+
+&emsp;(2) for the purpose of conducting such investigations—
+
+&emsp;&emsp;(A) obtain and execute search and arrest warrants,
+
+&emsp;&emsp;(B) make arrests without warrant for any offense concerning passport or visa issuance or use if the special agent has reasonable grounds to believe that the person has committed or is committing such offense, and
+
+&emsp;&emsp;(C) obtain and serve subpoenas and summonses issued under the authority of the United States;
+
+&emsp;(3) protect and perform protective functions directly related to maintaining the security and safety of—
+
+&emsp;&emsp;(A) heads of a foreign state, official representatives of a foreign government, and other distinguished visitors to the United States, while in the United States;
+
+&emsp;&emsp;(B) the Secretary of State, Deputy Secretary of State, and official representatives of the United States Government, in the United States or abroad;
+
+&emsp;&emsp;(C) members of the immediate family of persons described in subparagraph (A) or (B); and
+
+&emsp;&emsp;(D) foreign missions (as defined in section 4302(a)(4) <sup>1</sup> of this title) and international organizations (as defined in section 4309(b) of this title), within the United States;
+
+&emsp;(4) if designated by the Secretary and qualified, under regulations approved by the Attorney General, for the use of firearms, carry firearms for the purpose of performing the duties authorized by this section; and
+
+&emsp;(5) arrest without warrant any person for a violation of section 111, 112, 351, 970, or 1028 of title 18—
+
+&emsp;&emsp;(A) in the case of a felony violation, if the special agent has reasonable grounds to believe that such person—
+
+&emsp;&emsp;&emsp;(i) has committed or is committing such violation; and
+
+&emsp;&emsp;&emsp;(ii) is in or is fleeing from the immediate area of such violation; and
+
+&emsp;&emsp;(B) in the case of a felony or misdemeanor violation, if the violation is committed in the presence of the special agent.
+
+#### (b) Agreement with Attorney General and firearms regulations
+
+#### (1) Agreement with Attorney General
+
+&emsp;The authority conferred by paragraphs (1), (2), (4), and (5) of subsection (a) of this section shall be exercised subject to an agreement with the Attorney General and shall not be construed to affect the investigative authority of any other Federal law enforcement agency.
+
+#### (2) Firearms regulations
+
+&emsp;The Secretary of State shall prescribe regulations, which shall be approved by the Attorney General, with respect to the carrying and use of firearms by special agents under this section.
+
+#### (c) Secret Service not affected
+
+Nothing in subsection (a)(3) of this section shall be construed to preclude or limit in any way the authority of the United States Secret Service to provide protective services pursuant to section 202 of title 3 or section 3056 of title 18 at a level commensurate with protective requirements as determined by the United States Secret Service. The Secretary of State, the Attorney General, and the Secretary of the Treasury shall enter into an interagency agreement with respect to their law enforcement functions.
+
+(Aug. 1, 1956, ch. 841, title I, §37, as added Aug. 16, 1985, Pub. L. 99–93, title I, §125(a), 99 Stat. 415; amended Feb. 16, 1990, Pub. L. 101–246, title I, §113, 104 Stat. 22; Apr. 30, 1994, Pub. L. 103–236, title I, §139(1), 108 Stat. 397.)
+
+#### References in Text
+
+Section 4302 of this title, referred to in subsec. (a)(3)(D), was subsequently amended, and section 4302(a)(4) no longer defines the term “foreign mission”. However, such term is defined elsewhere in that section.
+
+#### Prior Provisions
+
+A prior section 37 of act Aug. 1, 1956, was renumbered section 38 by section 125(a) of Pub. L. 99–93, and subsequently renumbered, and was set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
+
+#### Amendments
+
+1994—Subsec. (d). Pub. L. 103–236 struck out subsec. (d) which read as follows: “The Secretary of State shall transmit the regulations prescribed under this section to the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives and the Committee on Foreign Relations of the Senate not less than 20 days before the date on which such regulations take effect.”
+
+1990—Subsec. (a)(2). Pub. L. 101–246, §113(1), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (a)(5). Pub. L. 101–246, §113(2), amended introductory provisions generally, substituting “970, or 1028” for “911, 970, 1001, 1028, 1541, 1542, 1543, 1544, 1545, or 1546”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

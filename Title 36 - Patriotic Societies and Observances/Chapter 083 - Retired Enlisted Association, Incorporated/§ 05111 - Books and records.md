@@ -1,0 +1,6 @@
+### §5111. Books and records
+
+The corporation shall keep correct and complete books and records of account and minutesof any proceeding of the corporation involving any of its members, the board of directors, or any committee having authority under the board of directors. The corporation shall keep, at its principal office, a record of the names and addresses of all members having the right to vote in any proceeding of the corporation. All books and records of such corporation may be inspected by any member having the right to vote in any corporation proceeding, or by any agent or attorney of such member, for any proper purpose at any reasonable time. Nothing in this section shall be construed to contravene any applicable State law.
+
+(Pub. L. 102–484, div. A, title XVIII, §1831, Oct. 23, 1992, 106 Stat. 2585.)
+

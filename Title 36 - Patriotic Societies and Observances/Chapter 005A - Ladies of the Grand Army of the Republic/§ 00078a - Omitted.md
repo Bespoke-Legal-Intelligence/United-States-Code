@@ -1,0 +1,6 @@
+### §78a. Omitted
+
+#### Codification
+
+Section, Pub. L. 86–47, §2, June 17, 1959, 73 Stat. 77, related to procedure for completion of organization of corporation.
+

@@ -1,0 +1,54 @@
+### §532 . Qualifications for original appointment as a commissioned officer
+
+(a) Under regulations prescribed by the Secretary of Defense, an original appointment as a commissioned officer (other than as a commissioned warrant officer) in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps may be given only to a person who—
+
+&emsp;(1) is a citizen of the United States;
+
+&emsp;(2) is able to complete 20 years of active commissioned service before his fifty-fifth birthday;
+
+&emsp;(3) is of good moral character;
+
+&emsp;(4) is physically qualified for active service; and
+
+&emsp;(5) has such other special qualifications as the Secretary of the military department concerned may prescribe by regulation.
+
+(b)(1) Original appointments in the Regular Army in the Medical Corps or Dental Corps, and original appointments in the Regular Air Force with a view to designation of an officer as a medical or dental officer, may be made in the grades of first lieutenant through colonel. Original appointments in the Regular Navy in the Medical Corps or Dental Corps may be made in the grades of lieutenant (junior grade) through captain. Such appointments may be made only from persons who are qualified doctors of medicine, osteopathy, or dentistry.
+
+(2) To be eligible for an original appointment as a medical officer, a doctor of osteopathy must—
+
+&emsp;(A) be a graduate of a college of osteopathy whose graduates are eligible to be licensed to practice medicine or surgery in a majority of the States;
+
+&emsp;(B) be licensed to practice medicine, surgery, or osteopathy in a State or in the District of Columbia;
+
+&emsp;(C) under regulations prescribed by the Secretary of Defense, have completed a number of years of osteopathic and preosteopathic education equal to the number of years of medical and premedical education prescribed for persons entering recognized schools of medicine who become doctors of medicine and who would be qualified for an original appointment in the grade for which that person is being considered for appointment; and
+
+&emsp;(D) have such other qualifications as the Secretary of the military department concerned prescribes after considering the recommendations, if any, of the Surgeon General of the armed force concerned.
+
+(c) Original appointments in the Regular Navy or Regular Marine Corps of officers designated for limited duty shall be made under section 5589 or 5596 of this title.
+
+(d)(1) A person receiving an original appointment as a medical or dental officer, as a chaplain, or as an officer designated for limited duty in the Regular Navy or Regular Marine Corps is not subject to clause (2) of subsection (a).
+
+(2) A reserve commissioned officer appointed in a medical skill other than as a medical officer or dental officer (as defined in regulations prescribed by the Secretary of Defense) is not subject to clause (2) of subsection (a).
+
+(e) After September 30, 1996, no person may receive an original appointment as a commissioned officer in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps until that person has completed one year of service on active duty as a commissioned officer (other than a warrant officer) of a reserve component.
+
+(Added Pub. L. 96–513, title I, §104(a), Dec. 12, 1980, 94 Stat. 2845; amended Pub. L. 97–22, §3(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–295, §1(7), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 102–190, div. A, title V, §501, Dec. 5, 1991, 105 Stat. 1354; Pub. L. 103–160, div. A, title V, §510, Nov. 30, 1993, 107 Stat. 1648.)
+
+#### Amendments
+
+1993—Subsec. (d). Pub. L. 103–160 designated existing provisions as par. (1) and added par. (2).
+
+1991—Subsec. (e). Pub. L. 102–190 added subsec. (e).
+
+1982—Pub. L. 97–295 inserted “a” after “original appointment as” in section catchline.
+
+1981—Subsec. (d). Pub. L. 97–22 substituted “medical or dental officer, as a chaplain, or as an officer designated for limited duty in the Regular Navy or Regular Marine Corps” for “medical officer or dental officer or as a chaplain”.
+
+#### Appointment of Citizens of Northern Mariana Islands as Commissioned Officers
+
+Pub. L. 98–94, title X, §1006, Sept. 24, 1983, 97 Stat. 661, provided that a citizen of the Northern Mariana Islands who indicates in writing to a commissioned officer of the Armed Forces of the United States an intent to become a citizen, and not a national, of the United States, and who is otherwise qualified for military service under applicable laws and regulations, may be appointed as an officer in the Armed Forces of the United States, may be appointed or enrolled in the Senior Reserve Officers’ Training Corps program of any of the Armed Forces under chapter 103 of title 10, United States Code, and may be selected to be a participant in the Armed Forces Health Professions Scholarship program under chapter 105 of such title, and that this section shall expire upon the establishment of the Commonwealth of the Northern Mariana Islands. The Commonwealth was established as of 12:01 a.m., Nov. 4, 1986, see section 2(a), (b) of Proc. No. 5564, set out as a noteunder section 1801 of Title 48, Territories and Insular Possessions.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5589 of this title.
+

@@ -1,0 +1,6 @@
+### §4204. Annual meeting; annual report
+
+The American Academy of Arts and Letters shall hold an annual meeting at such place in the United States as may be designated and shall make an annual report to the Congress, to be filed with the Librarian of Congress.
+
+(Apr. 17, 1916, ch. 77, §4, 39 Stat. 51.)
+

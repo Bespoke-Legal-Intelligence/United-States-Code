@@ -1,0 +1,10 @@
+### §883d. Rules and regulations
+
+The Secretary of the Interior is authorized to prescribe rules and regulations to carry out the provisions of sections 883 to 883d of this title.
+
+(Pub. L. 92–586, §5, Oct. 27, 1972, 86 Stat. 1296.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 883, 883c of this title.
+

@@ -1,0 +1,14 @@
+### §1735. Operation of Office; compensation, allowances, and benefits; privileges and immunities
+
+Until the Rules of the House of Representatives are amended to provide otherwise, the Delegate from American Samoa shall receive the same compensation, allowances, and benefits as a Member of the House of Representatives, and shall be entitled to whatever privileges and immunities that are, or hereinafter may be, granted to the nonvoting Delegate from the Territory of Guam.
+
+(Pub. L. 95–556, §5, Oct. 31, 1978, 92 Stat. 2078; Pub. L. 97–357, title IV, §401, Oct. 19, 1982, 96 Stat. 1711.)
+
+#### Amendments
+
+1982—Pub. L. 97–357 struck out proviso limiting clerk hire allowance for Delegate from American Samoa to 50 per centum of clerk hire allowance of a Member of House of Representatives.
+
+#### Effective Date of 1982 Amendment
+
+Section 401 of Pub. L. 97–357 provided that amendment made by that section is effective Jan. 1, 1983.
+

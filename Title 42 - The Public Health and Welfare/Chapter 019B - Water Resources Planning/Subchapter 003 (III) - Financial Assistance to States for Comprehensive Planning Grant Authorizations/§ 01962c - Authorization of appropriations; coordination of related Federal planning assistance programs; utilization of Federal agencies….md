@@ -1,0 +1,24 @@
+### §1962c. Authorization of appropriations; coordination of related Federal planning assistance programs; utilization of Federal agencies administering programs contributing to water resources planning
+
+(a) In recognition of the need for increased participation by the States in water and related land resources planning to be effective, there are hereby authorized to be appropriated to the Council, $3,000,000 for fiscal year 1979 for grants to States to assist them in developing and participating in the development of comprehensive water and related land resources plans.
+
+(b) The Council, with the approval of the President, shall prescribe such rules, establish such procedures, and make such arrangements and provisions relating to the performance of its functions under this subchapter, and the use of funds available therefor, as may be necessary in order to assure (1) coordination of the program authorized by this subchapter with related Federal planning assistance programs, including the program authorized under section 461 of title 40 <sup>1</sup> and (2) appropriate utilization of other Federal agencies administering programs which may contribute to achieving the purpose of this chapter.
+
+(Pub. L. 89–80, title III, §301, July 22, 1965, 79 Stat. 251; Pub. L. 94–112, §1(d), Oct. 16, 1975, 89 Stat. 575; Pub. L. 95–404, §1(d), Sept. 30, 1978, 92 Stat. 864.)
+
+#### References in Text
+
+Section 461 of title 40, referred to in subsec. (b), was repealed by Pub. L. 97–35, title III, §313(b), Aug. 13, 1981, 95 Stat. 398.
+
+#### Amendments
+
+1978—Subsec. (a). Pub. L. 95–404 substituted “$3,000,000 for fiscal year 1979” for “for fiscal years 1977 and 1978, $5,000,000 in each such year”.
+
+1975—Subsec. (a). Pub. L. 94–112 substituted “for fiscal years 1977 and 1978,” for “for the next fiscal year beginning after July 22, 1965, and for the nine succeeding fiscal years thereafter,”.
+
+#### Increases in Salary, Pay, Retirement, or Other Benefits for Federal Employees
+
+For authority for payment of increases in salary and other Federal employee benefits, see section 1(e) of Pub. L. 95–404, set out as a note under section 1962d of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

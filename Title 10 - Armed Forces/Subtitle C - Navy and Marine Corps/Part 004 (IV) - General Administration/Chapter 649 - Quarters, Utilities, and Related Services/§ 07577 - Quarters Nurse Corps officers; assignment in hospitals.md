@@ -1,0 +1,20 @@
+### §7577. Quarters: Nurse Corps officers; assignment in hospitals
+
+Under such regulations as the Secretary of the Navy prescribes, officers in the Nurse Corps may be assigned quarters in naval hospitals.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 469.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+7577
+
+34 U.S.C. 43h(a) (2d proviso, less 1st 21 words).
+
+Apr. 16, 1947, ch. 38, §208(a) (2d proviso, less 1st 25 words), 61 Stat. 50.
+

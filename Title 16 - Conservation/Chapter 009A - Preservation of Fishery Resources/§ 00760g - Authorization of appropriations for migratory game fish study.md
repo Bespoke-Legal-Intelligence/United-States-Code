@@ -1,0 +1,10 @@
+### §760g. Authorization of appropriations for migratory game fish study
+
+There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of sections 760e to 760g of this title: <i>Provided</i>, That no more than $2,700,000 be appropriated for this purpose in any one fiscal year.
+
+(Pub. L. 86–359, §3, Sept. 22, 1959, 73 Stat. 643.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 760f of this title.
+

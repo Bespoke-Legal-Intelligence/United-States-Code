@@ -1,0 +1,66 @@
+### §7532. Suspension and removal
+
+(a) Notwithstanding other statutes, the head of an agency may suspend without pay an employee of his agency when he considers that action necessary in the interests of national security. To the extent that the head of the agency determines that the interests of national security permit, the suspended employee shall be notified of the reasons for the suspension. Within 30 days after the notification, the suspended employee is entitled to submit to the official designated by the head of the agency statements or affidavits to show why he should be restored to duty.
+
+(b) Subject to subsection (c) of this section, the head of an agency may remove an employee suspended under subsection (a) of this section when, after such investigation and review as he considers necessary, he determines that removal is necessary or advisable in the interests of national security. The determination of the head of the agency is final.
+
+(c) An employee suspended under subsection (a) of this section who—
+
+&emsp;(1) has a permanent or indefinite appointment;
+
+&emsp;(2) has completed his probationary or trial period; and
+
+&emsp;(3) is a citizen of the United States;
+
+> is entitled, after suspension and before removal, to—
+
+&emsp;(A) a written statement of the charges against him within 30 days after suspension, which may be amended within 30 days thereafter and which shall be stated as specifically as security considerations permit;
+
+&emsp;(B) an opportunity within 30 days thereafter, plus an additional 30 days if the charges are amended, to answer the charges and submit affidavits;
+
+&emsp;(C) a hearing, at the request of the employee, by an agency authority duly constituted for this purpose;
+
+&emsp;(D) a review of his case by the head of the agency or his designee, before a decision adverse to the employee is made final; and
+
+&emsp;(E) a written statement of the decision of the head of the agency.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 529.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 22–1 (less 3d–5th provisos).
+
+Aug. 26, 1950, ch. 803, §1 (less 3d–5th provisos), 64 Stat. 476.
+
+&nbsp;
+
+July 29, 1958, Pub. L. 85–568, §301(c), 72 Stat. 432.
+
+The application of this section is covered by the definition in section 7531.
+
+In subsection (a), the words “Notwithstanding the provisions of section 652 of this title” are omitted but are carried into section 7501(c). The words “in his absolute discretion” are omitted as unnecessary in view of the permissive grant of authority. The word “reinstated” is omitted as it is commonly used in other statutes to denote action different from that referred to here.
+
+In subsections (b) and (c), the words “remove” and “removal” are coextensive with and substituted for “terminate the employment”, “termination”, and “employment is terminated”, as appropriate.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Cross References
+
+National Security Agency—
+
+&emsp;&emsp;Board of appraisal, personnel appraisal not prerequisite to action under this section, see section 832 of Title 50, War and National Defense.
+
+&emsp;&emsp;Employment, termination notwithstanding this section, see section 833 of Title 50.
+
+Restoration to duty of persons suspended or removed under this section, see section 3571 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3393, 3571, 7121, 7312, 7502, 7512, 7521, 7542 of this title; title 50 sections 832, 833.
+

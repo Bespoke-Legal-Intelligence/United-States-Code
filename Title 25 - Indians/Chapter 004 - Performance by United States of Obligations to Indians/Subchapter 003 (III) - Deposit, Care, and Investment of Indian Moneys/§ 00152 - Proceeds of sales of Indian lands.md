@@ -1,0 +1,18 @@
+### §152. Proceeds of sales of Indian lands
+
+All moneys received from the sales of lands that have been, or may be, ceded to the United States by Indian tribes, by treaties providing for the investment or payment to the Indians, parties thereto, of the proceeds of the lands ceded by them, respectively, after deducting the expenses of survey and sale, any sums stipulated to be advanced, and the expenses of fulfilling any engagements contained therein, shall be paid into the Treasury in the same manner that moneys received from the sales of public lands are paid into the Treasury.
+
+(R.S. §2093.)
+
+#### Codification
+
+R.S. §2093 derived from act Jan. 9, 1837, ch. 1, §1, 5 Stat. 135.
+
+#### Cross References
+
+Proceeds of sales of Indian lands not subject to deductions for expenses of public land service, see section 154 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 153 of this title.
+

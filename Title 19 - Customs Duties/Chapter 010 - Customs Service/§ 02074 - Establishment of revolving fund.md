@@ -1,0 +1,18 @@
+### §2074. Establishment of revolving fund
+
+There is established a revolving fund of $300,000 which shall be available, without fiscal year limitation exclusively for transfer to the appropriation for collecting the revenue from customs to cover obligations of the United States Customs Service arising from authorized reimbursable services, pending reimbursement from parties in interest: <i>Provided,</i> That amountsso transferred shall be returned to the revolving fund not later than six months after the close of the fiscal year in which transferred.
+
+(June 30, 1949, ch. 286, title I, 63 Stat. 360.)
+
+#### Codification
+
+Section was formerly classified to section 281g of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, Sept. 6, 1966, §1, 80 Stat. 378.
+
+#### Change of Name
+
+“United States Customs Service” substituted in text for “Bureau of Customs” pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, section 308 of Title 31, Money and Finance.
+
+#### Transfer of Functions
+
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
+

@@ -1,0 +1,40 @@
+### §590g. Additional policies and purposes of chapter
+
+#### (a) Purposes enumerated
+
+It is hereby declared to be the policy of this chapter also to secure, and the purposes of this chapter shall also include, (1) preservation and improvement of soil fertility; (2) promotion of the economic use and conservation of land; (3) diminution of exploitation and wasteful and unscientific use of national soil resources; (4) the protection of rivers and harbors against the results of soil erosion in aid of maintaining the navigability of waters and water courses and in aid of flood control; (5) reestablishment, at as rapid a rate as the Secretary of Agriculture determines to be practicable and in the general public interest, of the ratio between the purchasing power of the net income per person on farms and that of the income per person not on farms that prevailed during the five-year period August 1909–July 1914, inclusive, as determined from statistics available in the United States Department of Agriculture, and the maintenance of such ratio; (6) prevention and abatement of agricultural-related pollution,<sup>1</sup> and (7) the promotion of energy and water conservation through dry land farming. The powers conferred under this section and sections 590h, 590i, and 590j to 590n of this title shall be used to assist voluntary action calculated to effectuate the purposes specified in this section. Such powers shall not be used to discourage the production of supplies of foods and fibers sufficient to maintain normal domestic human consumption as determined by the Secretary from the records of domestic human consumption in the years 1920 to 1929, inclusive, taking into consideration increased population, quantities of any commodity that were forced into domestic consumption by decline in exports during such period, current trends in domestic consumption and exports of particular commodities, and the quantities of substitutes available for domestic consumption within any general class of food commodities. In carrying out the purposes of this section due regard shall be given to the maintenance of a continuous and stable supply of agricultural commodities adequate to meet consumer demand at prices fair to both producers and consumers.
+
+#### (b) to (g) Repealed. Pub. L. 87–703, title I, §101(1), Sept. 27, 1962, 76 Stat. 605
+
+(Apr. 27, 1935, ch. 85, §7, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1148; amended June 28, 1937, ch. 395, §1, 50 Stat. 329; Sept. 27, 1962, Pub. L. 87–703, title I, §101(1), 76 Stat. 605; Aug. 30, 1972, Pub. L. 92–419, title VI, §606(1), 86 Stat. 676; Dec. 23, 1985, Pub. L. 99–198, title XII, §1253, 99 Stat. 1517.)
+
+#### Amendments
+
+1985—Subsec. (a)(7). Pub. L. 99–198 added cl. (7).
+
+1972—Subsec. (a)(6). Pub. L. 92–419 added cl. (6).
+
+1962—Subsecs. (b) to (g). Pub. L. 87–703 repealed subsecs. (b) to (g) which provided for State plans as follows: subsec. (b), cooperation with States by making grants; subsec. (c), State plans; subsec. (d), conditions of plans; subsec. (e), approval of plans; subsec. (f), allocation of funds; and subsec. (g), apportionment of funds.
+
+1937—Subsec. (g). Act June 28, 1937, substituted “any such apportionment of funds available for carrying out State plans during any year prior to 1942 may be made at any time prior to or during the year to which such plans relate” for “apportionments of funds available for carrying out the purposes specified in this section for the year 1936 may be made at any time during 1936, and apportionments for 1937 may be made at any time during 1937”.
+
+#### Transfer of Functions
+
+Functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
+
+#### Cross References
+
+Commodity Credit Corporation loans, see section 1391 of Title 7, Agriculture.
+
+Emergency farm acreage allotment, see note set out under sections 1334, 1344, and 1358 of Title 7.
+
+Utilization of local agencies, see section 1388 of Title 7.
+
+Wheat marketing quotas, penalty provisions, see section 1340 of Title 7.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 590h, 590h–4, 590i, 590<i>l</i>, 590m, 590n, 590<i>o</i>, 590p, 1501 of this title; title 7 sections 1388, 1391, 1392; title 12 section 1150a.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
+

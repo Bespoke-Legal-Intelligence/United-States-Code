@@ -1,0 +1,78 @@
+### §80f. Woodrow Wilson International Center for Scholars; Board of Trustees of the Center
+
+#### (a) Establishment
+
+There is hereby established in the Smithsonian Institution a Woodrow Wilson International Center for Scholars and a Board of Trustees of the Center (hereinafter referred to as the “Center” and the “Board”), whose duties it shall be to maintain and administer the Center and site thereof and to execute such other functions as are vested in the Board by this subchapter.
+
+#### (b) Composition of Board
+
+The Board of Trustees shall be composed of 19 members as follows:
+
+&emsp;(1) the Secretary of State;
+
+&emsp;(2) the Secretary of Health and Human Services;
+
+&emsp;(3) the Secretary of Education;
+
+&emsp;(4) the Chairman of the National Endowment for the Humanities;
+
+&emsp;(5) the Secretary of the Smithsonian Institution;
+
+&emsp;(6) the Librarian of Congress;
+
+&emsp;(7) the Director of the United States Information Agency;
+
+&emsp;(8) the Archivist of the United States;
+
+&emsp;(9) one member appointed by the President from time to time from within the Federal Government; and
+
+&emsp;(10) 10 members appointed by the President from private life.
+
+#### (c) Appointment of alternate members by members of Board
+
+Each member of the Board of Trustees specified in paragraphs (1) through (9) of subsection (b) of this section may designate another official to serve on the Board of Trustees in his stead.
+
+#### (d) Terms of office; vacancies; reappointment
+
+Each member of the Board of Trustees appointed under paragraph (10) of subsection (b) ofthis section shall serve for a term of six years from the expiration of his predecessor's term; except that (1) any trustee appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (2) the terms of office of the trustees first taking office shall begin on October 24, 1968, and shall expire as designated at the time of appointment, two at the end of two years, three at the end of four years, and three at the end of six years. No trustee of the Board chosen from private life shall be eligible to serve in excess of two consecutive terms, except that a trustee whose term has expired may serve until his successor has qualified.
+
+#### (e) Chairman and Vice Chairman of Board
+
+The President shall designate a Chairman and a Vice Chairman from among the members of the Board chosen from private life.
+
+(Pub. L. 90–637, §3, Oct. 24, 1968, 82 Stat. 1357; Pub. L. 95–426, title II, §206, Oct. 7, 1978, 92 Stat. 975; Pub. L. 101–268, Apr. 9, 1990, 104 Stat. 132.)
+
+#### Amendments
+
+1990—Subsec. (b). Pub. L. 101–268, §1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Board of Trustees shall be composed of sixteen members as follows:
+
+&emsp;“(1) the Secretary of State;
+
+&emsp;“(2) the Director of the United States Information Agency;
+
+&emsp;“(3) the Secretary of Health and Human Services;
+
+&emsp;“(4) the Chairman of the National Endowment for the Humanities;
+
+&emsp;“(5) the Secretary of the Smithsonian Institution;
+
+&emsp;“(6) the Librarian of Congress;
+
+&emsp;“(7) the Archivist of the United States;
+
+&emsp;“(8) one appointed by the President from time to time from within the Federal Government; and
+
+&emsp;“(9) eight appointed by the President from private life.”
+
+Subsec. (c). Pub. L. 101–268, §2(1), substituted “(9)” for “(8)”.
+
+Subsec. (d). Pub. L. 101–268, §2(2), substituted “(10)” for “(9)”.
+
+1978—Subsec. (b). Pub. L. 95–426, §206(a)(1), substituted “sixteen” for “fifteen”.
+
+Subsec. (b)(2) to (9). Pub. L. 95–426, §206(a)(2), (3), designated pars. (2) to (8) as (3) to (9), respectively, and added a new par. (2) “the Director of the International Communication Agency”.
+
+Subsec. (c). Pub. L. 95–426, §206(b)(1), substituted “(8)” for “(7)”.
+
+Subsec. (d). Pub. L. 95–426, §206(b)(2), substituted “(9)” for “(8)”.
+

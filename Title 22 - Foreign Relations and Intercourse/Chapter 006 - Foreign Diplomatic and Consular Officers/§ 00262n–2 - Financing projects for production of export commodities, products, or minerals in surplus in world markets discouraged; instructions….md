@@ -1,0 +1,28 @@
+### §262n–2. Financing projects for production of export commodities, products, or minerals in surplus in world markets discouraged; instructions by Secretary of the Treasury to United States Executive Directors
+
+(a) The Secretary of the Treasury shall take all appropriate steps to discourage multilateral development banks from financing projects which will result in the production of commodities, products, or minerals for export that will be in surplus in world markets at the time such production begins.
+
+(b) The Secretary of the Treasury shall instruct the United States Executive Directors of the multilateral development banks to use the voice and vote of the United States in the respective banks—
+
+&emsp;(1) to oppose financing by the respective bank of projects which produce, or will produce, commodities, products, or minerals for export if—
+
+&emsp;&emsp;(A) the commodity, product, or mineral is subsidized in a manner which is inconsistent with Article XVI.3 of the General Agreement on Tariffs and Trade or Article 10 of the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade; and
+
+&emsp;&emsp;(B) support from financial sources other than multilateral development banks does not accompany such financing; and
+
+&emsp;(2) to oppose financing by the respective bank for production of a commodity, product, or mineral for export which—
+
+&emsp;&emsp;(A) is likely to be in surplus on world markets at the time such production begins; and
+
+&emsp;&emsp;(B) when exported, is likely to cause injury to United States producers within the meaning of Article 6 of the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade.
+
+(Pub. L. 95–118, title XIV, §1403, as added Pub. L. 100–202, §101(e) \[title I\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–134.)
+
+#### Codification
+
+Section 1403 of Pub. L. 95–118 is based on section 701 of title VII of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
+
+#### Definitions
+
+The definitions in section 262p–5 of this title apply to this section.
+

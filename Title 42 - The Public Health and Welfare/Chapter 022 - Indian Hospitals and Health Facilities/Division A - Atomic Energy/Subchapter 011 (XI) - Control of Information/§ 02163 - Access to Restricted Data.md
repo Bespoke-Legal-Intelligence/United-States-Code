@@ -1,0 +1,16 @@
+### §2163. Access to Restricted Data
+
+The Commission may authorize any of its employees, or employees of any contractor, prospective contractor, licensee or prospective licensee of the Commission or any other person authorized access to Restricted Data by the Commission under section 2165(b) and (c) of this title to permit any employee of an agency of the Department of Defense or of its contractors, or any member of the Armed Forces to have access to Restricted Data required in the performance of his duties and so certified by the head of the appropriate agency of the Department of Defense or his designee: <i>Provided, however,</i> That the head of the appropriate agency of the Department of Defense or his designee has determined, in accordance with the established personnel security procedures and standards of such agency, that permitting the member or employee to have access to such Restricted Data will not endanger the common defense and security: <i>And provided further,</i> That the Secretary of Defense finds that the established personnel and other security procedures and standards of such agency are adequate and in reasonable conformity to the standards established by the Commission under section 2165 of this title.
+
+(Aug. 1, 1946, ch. 724, title I, §143, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 941; amended Aug. 6, 1956, ch. 1015, §14, 70 Stat. 1071; Sept. 6, 1961, Pub. L. 87–206, §5, 75 Stat. 476; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+
+#### Amendments
+
+1961—Pub. L. 87–206 inserted reference to subsection (c) of section 2165 of this title.
+
+1956—Act Aug. 6, 1956, inserted “or any other person authorized access to Restricted Data by the Commission under section 2165(b) of this title”.
+
+#### Transfer of Functions
+
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+

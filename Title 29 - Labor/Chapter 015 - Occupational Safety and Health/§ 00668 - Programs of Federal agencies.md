@@ -1,0 +1,44 @@
+### §668. Programs of Federal agencies
+
+#### (a) Establishment, development, and maintenance by head of each Federal agency
+
+It shall be the responsibility of the head of each Federal agency to establish and maintain an effective and comprehensive occupational safety and health program which is consistent with the standards promulgated under section 655 of this title. The head of each agency shall (after consultation with representatives of the employees thereof)—
+
+&emsp;(1) provide safe and healthful places and conditions of employment, consistent with the standards set under section 655 of this title;
+
+&emsp;(2) acquire, maintain, and require the use of safety equipment, personal protective equipment, and devices reasonably necessary to protect employees;
+
+&emsp;(3) keep adequate records of all occupational accidents and illnesses for proper evaluation and necessary corrective action;
+
+&emsp;(4) consult with the Secretary with regard to the adequacy as to form and content of records kept pursuant to subsection (a)(3) of this section; and
+
+&emsp;(5) make an annual report to the Secretary with respect to occupational accidents and injuries and the agency's program under this section. Such report shall include any report submitted under section 7902(e)(2) of title 5.
+
+#### (b) Report by Secretary to President
+
+The Secretary shall report to the President a summary or digest of reports submitted to him under subsection (a)(5) of this section, together with his evaluations of and recommendations derived from such reports.
+
+#### (c) Omitted
+
+#### (d) Access by Secretary to records and reports required of agencies
+
+The Secretary shall have access to records and reports kept and filed by Federal agencies pursuant to subsections (a)(3) and (5) of this section unless those records and reports are specifically required by Executive order to be kept secret in the interest of the national defense or foreign policy, in which case the Secretary shall have access to such information as will not jeopardize national defense or foreign policy.
+
+(Pub. L. 91–596, §19, Dec. 29, 1970, 84 Stat. 1609; Pub. L. 97–375, title I, §110(c), Dec. 21, 1982, 96 Stat. 1821.)
+
+#### Codification
+
+Subsec. (c) of this section amended section 7902 of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1982—Subsec. (b). Pub. L. 97–375 struck out direction that the President transmit annually to the Senate and House a report of the activities of Federal agencies under this section.
+
+#### Occupational Safety and Health Programs for Federal Employees
+
+Occupational safety and health programs for Federal employees and continuation of Federal Advisory Council on Occupational Safety and Health, see Ex. Ord. No. 12196, Feb. 26, 1980, 45 F.R. 12769, set out as a note under section 7902 of Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 39 section 410; title 42 section 2297b–11.
+

@@ -1,0 +1,98 @@
+### §3324. Appointments to positions classified above GS–15
+
+(a) An appointment to a position classified above GS–15 pursuant to section 5108 may be made only on approval of the qualifications of the proposed appointee by the Office of Personnel Management. This section does not apply to a position—
+
+&emsp;(1) to which appointment is made by the Chief Judge of the United States Tax Court;
+
+&emsp;(2) to which appointment is made by the President;
+
+&emsp;(3) to which appointment is made by the Librarian of Congress; or
+
+&emsp;(4) the incumbent of which is paid from—
+
+&emsp;&emsp;(A) appropriations for the Executive Office of the President under the heading “The White House Office”, “Special Projects”, “Council of Economic Advisers”, or “National Security Council”; or
+
+&emsp;&emsp;(B) funds appropriated to the President under the heading “Emergency Fund for the President” by the Treasury, Post Office, and Executive Office Appropriation Act, 1966, or a later statute making appropriations for the same purpose.
+
+(b) The Office may prescribe regulations necessary for the administration of this section.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 422; Pub. L. 90–83, §1(10), Sept. 11, 1967, 81 Stat. 197; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(17), Aug. 14, 1979, 93 Stat. 382; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(C)(i), (ii)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 102–378, §2(11), Oct. 2, 1992, 106 Stat. 1347.)
+
+Historical and Revision Notes<br>1966
+
+Act
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 1105(i).
+
+June 20, 1958, Pub. L. 85–462, §10 “(i)”, 72 Stat. 213.
+
+Sept. 13, 1960, Pub. L. 86–768, 74 Stat. 910.
+
+In subsection (a), the words “in GS–16, 17, and 18” are substituted for “in grades 16, 17, and 18 of the General Schedule”.
+
+In subsection (a)(2), the words “by the President” are coextensive with and substituted for “by the President alone or by the President by and with the advice and consent of the Senate”.
+
+In subsection (a)(4)(A), the words “Office of Emergency Planning” are substituted for “Office of Defense Mobilization” on authority of 1958 Reorg. Plan No. 1, §2(a), effective July 1, 1958, 72 Stat. 1799, as amended Aug. 26, 1958, Pub. L. 85–763, 72 Stat. 861, and Sept. 22, 1961, Pub. L. 87–296, 75 Stat. 630. Reference to “President's Advisory Committee on Government Organization” is omitted since the Committee was abolished by Executive Order No. 10917, February 10, 1961.
+
+In subsection (a)(4)(B), the words “ ‘Emergency Fund for the President’ by the Treasury, Post Office, and Executive Office Appropriation Act, 1966” are substituted for “ ‘Emergency Fund for the President, National Defense’ by the General Government Matters Appropriation Act, 1959” to reflect the heading and title of the current appropriation Act.
+
+Subsection (b) is added on authority of former sections 1072 and 1072a, which are carried into section 5115.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### 1967 Act
+
+This section amends 5 U.S.C. 3324(a)(4)(A) to correct typographical errors.
+
+#### References in Text
+
+The Treasury, Post Office, and Executive Office Appropriation Act, 1966, referred to in subsec. (a)(4)(B), is Pub. L. 89–57, June 30, 1965, 79 Stat. 196. For classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+1992—Pub. L. 102–378, §2(11)(A), substituted “GS–15” for “GA–15” in section catchline.
+
+Subsec. (a)(1). Pub. L. 102–378, §2(11)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “provided for in section 5108(c)(2) of this title;”.
+
+1990—Pub. L. 101–509, §529 \[title I, §101(b)(9)(C)(ii)\], which directed that “to positions classified above GA–15” be substituted for “at GS–16, 17, or 18” in section catchline, was executed by making the substitution for “at GS–16, 17, and 18”, as the probable intent of Congress.
+
+Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(9)(C)(i)\], substituted “classified above GS–15 pursuant to section 5108” for “in GS–16, 17, or 18”.
+
+1979—Subsec. (a)(4)(A). Pub. L. 96–54 struck out reference to Office of Emergency Planning.
+
+1978—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–378 effective May 4, 1991, see section 9(b)(4) of Pub. L. 102–378, set out as a note under section 6303 of this title.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+
+#### Effective Date of 1979 Amendment
+
+Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Effective Date of 1967 Amendment
+
+Amendment by Pub. L. 90–83 effective as of Sept. 6, 1966, for all purposes, see section 9(h) of Pub. L. 90–83, set out as a note under section 5102 of this title.
+
+#### Cross References
+
+Antidiscrimination in employment in administration of this section, see section 7201 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1204, 1212, 7204 of this title; title 10 sections 4540, 7212, 9540; title 20 section 3461; title 42 section 7231.
+

@@ -1,0 +1,40 @@
+### §6003. International cooperation
+
+#### (a) Cuban trading partners
+
+The President should encourage the governments of countries that conduct trade with Cubato restrict their trade and credit relations with Cuba in a manner consistent with the purposes of this chapter.
+
+#### (b) Sanctions against countries assisting Cuba
+
+#### (1) Sanctions
+
+&emsp;The President may apply the following sanctions to any country that provides assistance to Cuba:
+
+&emsp;&emsp;(A) The government of such country shall not be eligible for assistance under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] or assistance or sales under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\].
+
+&emsp;&emsp;(B) Such country shall not be eligible, under any program, for forgiveness or reduction of debt owed to the United States Government.
+
+#### (2) “Assistance to Cuba” defined
+
+&emsp;For purposes of paragraph (1), the term “assistance to Cuba”—
+
+&emsp;&emsp;(A) means assistance to or for the benefit of the Government of Cuba that is provided by grant, concessional sale, guaranty, or insurance, or by any other means on terms more favorable than that generally available in the applicable market, whether in the form of a loan, lease, credit, or otherwise, and such term includes subsidies for exports to Cuba and favorable tariff treatment of articles that are the growth, product, or manufacture of Cuba; and
+
+&emsp;&emsp;(B) does not include—
+
+&emsp;&emsp;&emsp;(i) donations of food to nongovernmental organizations or individuals in Cuba, or
+
+&emsp;&emsp;&emsp;(ii) exports of medicines or medical supplies, instruments, or equipment that would be permitted under section 6004(c) of this title.
+
+#### (3) Applicability of section
+
+&emsp;This section, and any sanctions imposed pursuant to this section, shall cease to apply at such time as the President makes and reports to the Congress a determination under section 6007(a) of this title.
+
+(Pub. L. 102–484, div. A, title XVII, §1704, Oct. 23, 1992, 106 Stat. 2576.)
+
+#### References in Text
+
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(1)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+The Arms Export Control Act, referred to in subsec. (b)(1)(A), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+

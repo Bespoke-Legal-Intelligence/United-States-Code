@@ -1,0 +1,48 @@
+### §198. Requisitioned vessels
+
+#### (a) Documentation of vessels
+
+Any vessel not documented under the laws of the United States, acquired by or made available to the Secretary of Transportation under sections 196 to 198 of this title, or otherwise, may, notwithstanding any other provision of law, in the discretion of the Secretary of the department in which the Coast Guard is operating be documented as a vessel of the United States under such rules and regulations or orders, and with such limitations, as the Secretary of the department in which the Coast Guard is operating may prescribe or issue as necessary or appropriate to carry out the purposes and provisions of sections 196 to 198 of this title, and in accordance with the provisions of subsection (c) of this section, engage in the coastwise trade when so documented. Any document issued to a vessel under the provisions of this subsection shall be surrendered at any time that such surrender may be ordered by the Secretary of the department in which the Coast Guard is operating. No vessel, the surrender of the documents of which has been so ordered, shall, after the effective date of such order, have the status of a vessel of the United States unless documented anew.
+
+#### (b) Waiver of compliance
+
+The President may, notwithstanding any other provisions of law, by rules and regulations or orders, waive compliance with any provision of law relating to masters, officers, members of the crew, or crew accommodations on any vessel documented under authority of this section to such extent and upon such terms as he finds necessary because of the lack of physical facilities on such vessels, and because of the need to employ aliens for their operation. No vessel shall cease to enjoy the benefits and privileges of a vessel of the United States by reason of the employment of any person in accordance with the provisions of this subsection.
+
+#### (c) Coastwise trade; inspection
+
+Any vessel while documented under the provisions of this section, when chartered under sections 196 to 198 of this title by the Secretary of Transportation to Government agencies or departments or to private operators, may engage in the coastwise trade under permits issued bythe Secretary of Transportation, who is authorized to issue permits for such purpose pursuant to such rules and regulations as he may prescribe. The Secretary of Transportation is authorized to prescribe such rules and regulations as he may deem necessary or appropriate to carry out the purposes and provisions of this section. The second paragraph of section 9 of the Shipping Act, 1916, as amended \[46 App. U.S.C. 808\], shall not apply with respect to vessels chartered to Government agencies or departments or to private operators or otherwise used or disposed of under sections 196 to 198 of this title. Existing laws covering the inspection of steam vessels are made applicable to vessels documented under this section only to such extent and upon such conditions as may be required by regulations of the Secretary of the department in which the Coast Guard is operating: <i>Provided</i>, That in determining to what extent those laws should be made applicable, due consideration shall be given to the primary purpose of transporting commodities essential to the national defense.
+
+#### (d) Reconditioning of vessels
+
+The Secretary of Transportation without regard to the provisions of section 5 of title 41 may repair, reconstruct, or recondition any vessels to be utilized under sections 196 to 198 of this title. The Secretary of Transportation and any other Government department or agency by which any vessel is acquired or chartered, or to which any vessel is transferred or made available under sections 196 to 198 of this title may, with the aid of any funds available and without regard to the provisions of said section 5 of title 41, repair, reconstruct, or recondition any such vessels to meet the needs of the services intended, or provide facilities for such repair, reconstruction, or reconditioning. The Secretary of Transportation may operate or charter for operation any vessel to be utilized under sections 196 to 198 of this title to private operators, citizens of the United States, or to any department or agency of the United States Government, without regard to the provisions of title VII of the Merchant Marine Act, 1936 \[46 App. U.S.C. 1191 et seq.\], and any department or agency of the United States Government is authorized to enter into such charters.
+
+#### (e) Effective period
+
+In case of any voyage of a vessel documented under the provisions of this section begun before the date of termination of an effective period of section 196 of this title, but is completed after such date, the provisions of this section shall continue in effect with respect to such vessel until such voyage is completed.
+
+#### (f) “Documented” defined
+
+When used in sections 196 to 198 of this title, the term “documented” means “registered”, “enrolled and licensed”, or “licensed”.
+
+(Aug. 9, 1954, ch. 659, §3, 68 Stat. 675; Oct. 15, 1966, Pub. L. 89–670, §6(b)(1), (2), 80 Stat. 938; Aug. 6, 1981, Pub. L. 97–31, §12(152), 95 Stat. 167.)
+
+#### References in Text
+
+The Merchant Marine Act, 1936, referred to in subsec. (d), is act June 29, 1936, ch. 858, 49 Stat. 1985, as amended. Title VII of the Merchant Marine Act, 1936 is classified generally to subchapter VII (§1191 et seq.) of chapter 27 of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1245 of Title 46, Appendix, and Tables.
+
+#### Amendments
+
+1981—Subsecs. (a), (c), (d). Pub. L. 97–31 substituted references to Secretary of Transportation for references to Secretary of Commerce wherever appearing.
+
+#### Transfer of Functions
+
+“Secretary of the department in which the Coast Guard is operating” substituted in subsec. (a) for “Secretary of the Treasury” pursuant to section 6(b)(1), (2) of Pub. L. 89–670, which transferred Coast Guard to Department of Transportation and transferred to and vested in Secretary of Transportation functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of all other officers and offices of Department of the Treasury, and which provided that notwithstanding such transfer Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
+
+#### Delegation of Functions
+
+For delegation to Secretary of the Treasury of authority vested in President by subsec. (a) of this section, see Ex. Ord. No. 10289, eff. Sept. 17, 1951, 16 F.R. 9499, set out as a note under section 301 of Title 3, The President.
+
+#### Administrative Delegation of Functions by Secretary of the Treasury
+
+Administrative delegation of functions by Secretary of the Treasury, see note set out preceding section 3 of the Appendix to Title 46, Shipping.
+

@@ -1,0 +1,50 @@
+### §5582. Designation of beneficiary; order of precedence
+
+(a) The employing agency shall notify each employee of his right to designate a beneficiary or beneficiaries to receive money due, and of the disposition of money due if a beneficiary is not designated. An employee may change or revoke a designation at any time under such regulations as the Comptroller General of the United States may prescribe.
+
+(b) In order to facilitate the settlement of the accounts of deceased employees, money due an employee at the time of his death shall be paid to the person or persons surviving at the date of death, in the following order of precedence, and the payment bars recovery by another person of amounts so paid:
+
+&emsp;First, to the beneficiary or beneficiaries designated by the employee in a writing received in the employing agency before his death.
+
+&emsp;Second, if there is no designated beneficiary, to the widow or widower of the employee.
+
+&emsp;Third, if none of the above, to the child or children of the employee and descendants of deceased children by representation.
+
+&emsp;Fourth, if none of the above, to the parents of the employee or the survivor of them.
+
+&emsp;Fifth, if none of the above, to the duly appointed legal representative of the estate of the employee.
+
+&emsp;Sixth, if none of the above, to the person or persons entitled under the laws of the domicile of the employee at the time of his death.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 495.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+(a)
+
+5 U.S.C. 61j.
+
+Aug. 3, 1950, ch. 518, §5, 64 Stat. 396.
+
+(b)
+
+5 U.S.C. 61f.
+
+Aug. 3, 1950, ch. 518, §1, 64 Stat. 395.
+
+Subsection (a) is restated for clarity. The word “officers” is omitted as included in “employee”.
+
+In subsection (b), so much of the first 35 words of former section 61f as states the application is carried into the definition of “employee” in section 5581(1). The word “officer” is omitted as included in “employee”.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5307, 5583, 5595 of this title; title 22 sections 2504, 3965; title 29 section 1699; title 42 section 4955.
+

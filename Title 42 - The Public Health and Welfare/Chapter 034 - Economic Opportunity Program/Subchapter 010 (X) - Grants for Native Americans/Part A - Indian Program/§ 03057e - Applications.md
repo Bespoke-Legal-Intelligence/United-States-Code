@@ -1,0 +1,84 @@
+### §3057e. Applications
+
+#### (a) Approval criteria; provisions and assurances
+
+No grant may be made under this part unless the eligible tribal organization submits an application to the Assistant Secretary which meets such criteria as the Assistant Secretary may by regulation prescribe. Each such application shall—
+
+&emsp;(1) provide that the eligible tribal organization will evaluate the need for supportive and nutrition services among older individuals who are Indians to be represented by the tribal organization;
+
+&emsp;(2) provide for the use of such methods of administration as are necessary for the proper and efficient administration of the program to be assisted;
+
+&emsp;(3) provide that the tribal organization will make such reports in such form and containing such information, as the Assistant Secretary may reasonably require, and comply with such requirements as the Assistant Secretary may impose to assure the correctness of such reports;
+
+&emsp;(4) provide for periodic evaluation of activities and projects carried out under the application;
+
+&emsp;(5) establish objectives consistent with the purposes of this part toward which activities under the application will be directed, identify obstacles to the attainment of such objectives, and indicate the manner in which the tribal organization proposes to overcome such obstacles;
+
+&emsp;(6) provide for establishing and maintaining information and assistance services to assure that older individuals who are Indians to be served by the assistance made available under this part will have reasonably convenient access to such services;
+
+&emsp;(7) provide a preference for older individuals who are Indians for full or part-time staff positions wherever feasible;
+
+&emsp;(8) provide assurances that either directly or by way of grant or contract with appropriate entities nutrition services will be delivered to older individuals who are Indians represented by the tribal organization substantially in compliance with the provisions of part C of subchapter III of this chapter, except that in any case in which the need for nutritional services for older individuals who are Indians represented by the tribal organization is already met from other sources, the tribal organization may use the funds otherwise required to be expended under this paragraph for supportive services;
+
+&emsp;(9) contain assurances that the provisions of sections 3027(a)(14)(A)(i) and (iii), 3027(a)(14)(B), and 3027(a)(14)(C) of this title will be complied with whenever the application contains provisions for the acquisition, alteration, or renovation of facilities to serve as multipurpose senior centers;
+
+&emsp;(10) provide that any legal or ombudsman services made available to older individuals who are Indians represented by the tribal organization will be substantially in compliance with the provisions of subchapter III of this chapter relating to the furnishing of similar services;
+
+&emsp;(11) provide satisfactory assurance that fiscal control and fund accounting procedures will be adopted as may be necessary to assure proper disbursement of, and accounting for, Federal funds paid under this part to the tribal organization, including any funds paid by the tribal organization to a recipient of a grant or contract; and
+
+&emsp;(12) contain assurances that the tribal organization will coordinate services provided under this part with services provided under subchapter III of this chapter in the same geographical area.
+
+#### (b) Population statistics development
+
+For the purpose of any application submitted under this part, the tribal organization may develop its own population statistics, with certification from the Bureau of Indian Affairs, in order to establish eligibility.
+
+#### (c) Approval by Assistant Secretary
+
+The Assistant Secretary shall approve any application which complies with the provisions of subsection (a) of this section.
+
+#### (d) Disapproval by Assistant Secretary
+
+Whenever the Assistant Secretary determines not to approve an application submitted under subsection (a) of this section the Assistant Secretary shall—
+
+&emsp;(1) state objections in writing to the tribal organization within 60 days after such decision;
+
+&emsp;(2) provide to the extent practicable technical assistance to the tribal organization to overcome such stated objections; and
+
+&emsp;(3) provide the tribal organization with a hearing, under such rules and regulations as the Assistant Secretary may prescribe.
+
+#### (e) Funds per year
+
+Whenever the Assistant Secretary approves an application of a tribal organization under this part, funds shall be awarded for not less than 12 months.
+
+(Pub. L. 89–73, title VI, §614, as added Pub. L. 100–175, title I, §171, Nov. 29, 1987, 101 Stat. 960;amended Pub. L. 102–375, title I, §102(b)(4), title VI, §601, title IX, §904(a)(23), Sept. 30, 1992, 106 Stat. 1201, 1269, 1309; Pub. L. 103–171, §§2(21), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990.)
+
+#### Prior Provisions
+
+A prior section 3057e, Pub. L. 89–73, title VI, §606, as added Pub. L. 95–478, title I, §106, Oct. 18, 1978, 92 Stat. 1551; amended Pub. L. 97–115, §3(d), Dec. 29, 1981, 95 Stat. 1597, related to surplus educational facilities, prior to the general amendment of this subchapter by Pub. L. 100–175. See section 3057f of this title.
+
+#### Amendments
+
+1993—Subsec. (a). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner” wherever appearing in introductory provisions and in par. (3).
+
+Subsec. (c). Pub. L. 103–171, §2(21), substituted “Assistant Secretary” for “Commission”.
+
+Subsec. (d). Pub. L. 103–171, §§2(21), 3(a)(13), in introductory provisions, substituted “Assistant Secretary determines” for “Commissioner determines” and “Assistant Secretary shall” for “Commission shall” and, in par. (3), substituted “Assistant Secretary” for “Commissioner”.
+
+Subsec. (e). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner”.
+
+1992—Subsec. (a)(1). Pub. L. 102–375, §904(a)(23)(C), inserted “individuals who are” after “older”.
+
+Subsec. (a)(6). Pub. L. 102–375, §§102(b)(4), 904(a)(23)(C), substituted “information and assistance” for “information and referral” and inserted “individuals who are” after “older”.
+
+Subsec. (a)(7). Pub. L. 102–375, §904(a)(23)(A), substituted “older individuals who are Indians” for “Indians aged 60 and older”.
+
+Subsec. (a)(8). Pub. L. 102–375, §904(a)(23)(B), (C), inserted “individuals who are” after “older” in two places and substituted “paragraph” for “clause”.
+
+Subsec. (a)(10). Pub. L. 102–375, §904(a)(23)(C), inserted “individuals who are” after “older”.
+
+Subsec. (a)(12). Pub. L. 102–375, §601, added par. (12).
+
+#### Effective Date of 1992 Amendment
+
+Amendment by section 601 of Pub. L. 102–375 inapplicable to fiscal year 1992, see section 905(b)(5) of Pub. L. 102–375, set out as a note under section 3001 of this title.
+

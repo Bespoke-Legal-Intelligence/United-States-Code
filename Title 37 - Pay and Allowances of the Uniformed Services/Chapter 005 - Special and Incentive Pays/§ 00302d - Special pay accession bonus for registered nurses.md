@@ -1,0 +1,54 @@
+### §302d. Special pay: accession bonus for registered nurses
+
+(a)
+
+Accession Bonus Authorized.—(1) A person who is a registered nurse and who, during the period beginning on November 29, 1989, and ending on September 30, 1996, executes a written agreement described in subsection (c) to accept a commission as an officer and remain on active duty for a period of not less than four years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+
+(2) The amount of an accession bonus under paragraph (1) may not exceed $5,000.
+
+(b)
+
+Limitation on Eligibility for Bonus.—A person may not be paid a bonus under subsection (a) if—
+
+&emsp;(1) the person, in exchange for an agreement to accept an appointment as an officer, received financial assistance from the Department of Defense to pursue a baccalaureate degree; or
+
+&emsp;(2) the Secretary concerned determines that the person is not qualified to become and remain licensed as a registered nurse.
+
+(c)
+
+Agreement.—The agreement referred to in subsection (a) shall provide that, consistent with the needs of the uniformed service concerned, the person executing the agreement will be assigned to duty, for the period of obligated service covered by the agreement, as an officer of the Nurse Corps of the Army or Navy, an officer of the Air Force designated as a nurse, or an officer designated as a nurse in the commissioned corps of the Public Health Service.
+
+(d)
+
+Repayment.—(1) An officer who receives a payment under subsection (a) and who fails to become and remain licensed as a registered nurse during the period for which the payment is made shall refund to the United States an amount equal to the full amount of such payment.
+
+(2) An officer who voluntarily terminates service on active duty before the end of the period agreed to be served under subsection (a) shall refund to the United States an amount that bears the same ratio to the amount paid to the officer as the unserved part of such period bears to the total period agreed to be served.
+
+(3) An obligation to reimburse the United States imposed under paragraph (1) or (2) is for all purposes a debt owed to the United States.
+
+(4) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or this subsection. This paragraph applies to any case commenced under title 11 after November 29, 1989.
+
+(Added Pub. L. 101–189, div. A, title VII, §705(a)(1), Nov. 29, 1989, 103 Stat. 1471; amended Pub. L. 101–510, div. A, title VI, §613(a), title XIV, §1484(d)(2), Nov. 5, 1990, 104 Stat. 1577, 1716; Pub. L. 102–484, div. A, title VI, §612(g), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §611(b), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 103–337, div. A, title VI, §612(b), Oct. 5, 1994, 108 Stat. 2783.)
+
+#### Amendments
+
+1994—Subsec. (a)(1). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
+
+1993—Subsec. (a)(1). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
+
+1992—Subsec. (a). Pub. L. 102–484 substituted “September 30, 1993” for “September 30, 1992”.
+
+1990—Subsec. (a)(1). Pub. L. 101–510, §§613(a), 1484(d)(2)(A), substituted “November 29, 1989,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991” and “September 30, 1992” for “September 30, 1991”.
+
+Subsec. (d)(4). Pub. L. 101–510, §1484(d)(2)(B), substituted “November 29, 1989” for “the date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991”.
+
+#### Coverage of Period of Lapsed Authority
+
+For provisions relating to coverage of period of lapsed authority from Oct. 1, 1993, to Nov. 30, 1993, forpayment of accession bonus authorized under this section, see section 611(d) of Pub. L. 103–160, set out as a note under section 2130a of Title 10, Armed Forces.
+
+For provisions relating to coverage of period of lapsed authority from Oct. 1, 1992, to Oct. 23, 1992, for payment of bonuses or other special pay under this section, see section 612(j)(2) of Pub. L. 102–484, set out as a note under section 301b of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 303a of this title; title 10 section 227.
+

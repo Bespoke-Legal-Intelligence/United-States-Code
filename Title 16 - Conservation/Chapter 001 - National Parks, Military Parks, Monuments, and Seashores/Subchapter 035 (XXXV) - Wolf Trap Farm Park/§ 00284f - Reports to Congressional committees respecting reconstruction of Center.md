@@ -1,0 +1,6 @@
+### §284f. Reports to Congressional committees respecting reconstruction of Center
+
+Following disbursement of any grant under this subchapter for the reconstruction of the Center, the Secretary shall submit quarterly reports to the appropriate committees of the United States House of Representatives and the United States Senate setting forth the progress of the reconstruction, any present or anticipated problems of any type, the financial projections for remaining work, and the progress made by the Foundation in raising funds for purposes of the reconstruction. The report shall set forth quarterly goals respecting the reconstruction of the Center and shall compare the performance during the prior quarter to the goals set forth for that quarter.
+
+(Pub. L. 89–671, §7, as added Pub. L. 97–310, Oct. 14, 1982, 96 Stat. 1457.)
+

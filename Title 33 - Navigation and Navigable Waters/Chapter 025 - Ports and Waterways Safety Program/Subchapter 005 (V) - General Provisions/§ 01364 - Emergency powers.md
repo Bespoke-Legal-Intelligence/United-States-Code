@@ -1,0 +1,24 @@
+### §1364. Emergency powers
+
+#### (a) Emergency powers
+
+Notwithstanding any other provision of this chapter, the Administrator upon receipt of evidence that a pollution source or combination of sources is presenting an imminent and substantial endangerment to the health of persons or to the welfare of persons where such endangerment is to the livelihood of such persons, such as inability to market shellfish, may bring suit on behalf of the United States in the appropriate district court to immediately restrain any person causing or contributing to the alleged pollution to stop the discharge of pollutants causing or contributing to such pollution or to take such other action as may be necessary.
+
+#### (b) Repealed. Pub. L. 96–510, title III, §304(a), Dec. 11, 1980, 94 Stat. 2809
+
+(June 30, 1948, ch. 758, title V, §504, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 888; amended Dec. 27, 1977, Pub. L. 95–217, §69, 91 Stat. 1607; Dec. 11, 1980, Pub. L. 96–510, title III, §304(a), 94 Stat. 2809.)
+
+#### Amendments
+
+1980—Subsec. (b). Pub. L. 96–510 struck out subsec. (b) which related to emergency assistance, establishment of an emergency fund, and preparation of a contingency plan for such emergencies.
+
+1977—Pub. L. 95–217 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–510 effective Dec. 11, 1980, see section 9652 of Title 42, The Public Health and Welfare.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1256, 1318 of this title; title 42 sections 7412, 9606, 9654.
+

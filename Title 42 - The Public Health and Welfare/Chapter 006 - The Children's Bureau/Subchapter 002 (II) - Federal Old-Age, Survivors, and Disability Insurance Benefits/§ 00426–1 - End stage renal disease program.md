@@ -1,0 +1,94 @@
+### §426–1. End stage renal disease program
+
+#### (a) Entitlement to benefits
+
+Notwithstanding any provision to the contrary in section 426 of this title or subchapter XVIII of this chapter, every individual who—
+
+&emsp;(1)(A) is fully or currently insured (as such terms are defined in section 414 of this title), or would be fully or currently insured if (i) his service as an employee (as defined in the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\]) after December 31, 1936, were included within the meaning of the term “employment” for purposes of this subchapter, and (ii) his medicare qualified government employment (as defined in section 410(p) of this title) were included within the meaning of the term “employment” for purposes of this subchapter;
+
+&emsp;(B)(i) is entitled to monthly insurance benefits under this subchapter, (ii) is entitled to an annuity under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], or (iii) would be entitled to a monthly insurance benefit under this subchapter if medicare qualified government employment (as defined in section 410(p) of this title) were included within the meaning of the term “employment” for purposes of this subchapter; or
+
+&emsp;(C) is the spouse or dependent child (as defined in regulations) of an individual described in subparagraph (A) or (B);
+
+&emsp;(2) is medically determined to have end stage renal disease; and
+
+&emsp;(3) has filed an application for benefits under this section;
+
+> shall, in accordance with the succeeding provisions of this section, be entitled to benefits under part A and eligible to enroll under part B of subchapter XVIII of this chapter, subject to the deductible, premium, and coinsurance provisions of that subchapter.
+
+#### (b) Duration of period of entitlement
+
+Subject to subsection (c) of this section, entitlement of an individual to benefits under part A and eligibility to enroll under part B of subchapter XVIII of this chapter by reasons of this section on the basis of end stage renal disease—
+
+&emsp;(1) shall begin with—
+
+&emsp;&emsp;(A) the third month after the month in which a regular course of renal dialysis is initiated, or
+
+&emsp;&emsp;(B) the month in which such individual receives a kidney transplant, or (if earlier) the first month in which such individual is admitted as an inpatient to an institution which is a hospital meeting the requirements of section 1395x(e) of this title (and such additional requirements as the Secretary may prescribe under section 1395rr(b) of this title for such institutions) in preparation for or anticipation of kidney transplantation, but only if such transplantation occurs in that month or in either of the next two months,
+
+> &emsp;whichever first occurs (but no earlier than one year preceding the month of the filing of an application for benefits under this section); and
+
+&emsp;(2) shall end, in the case of an individual who receives a kidney transplant, with the thirty-sixth month after the month in which such individual receives such transplant or, in the case of an individual who has not received a kidney transplant and no longer requires a regular course of dialysis, with the twelfth month after the month in which such course of dialysis is terminated.
+
+#### (c) Individuals participating in self-care dialysis training programs; kidney transplant failures; resumption of previously terminated regular course of dialysis
+
+Notwithstanding the provisions of subsection (b) of this section—
+
+&emsp;(1) in the case of any individual who participates in a self-care dialysis training program prior to the third month after the month in which such individual initiates a regular course of renal dialysis in a renal dialysis facility or provider of services meeting the requirements of section 1395rr(b) of this title, entitlement to benefits under part A and eligibility to enroll under part B of subchapter XVIII of this chapter shall begin with the month in which such regular course of renal dialysis is initiated;
+
+&emsp;(2) in any case in which a kidney transplant fails (whether during or after the thirty-six-month period specified in subsection (b)(2) of this section) and as a result the individual who received such transplant initiates or resumes a regular course of renal dialysis, entitlement to benefits under part A and eligibility to enroll under part B of subchapter XVIII of this chapter shall begin with the month in which such course is initiated or resumed; and
+
+&emsp;(3) in any case in which a regular course of renal dialysis is resumed subsequent to the termination of an earlier course, entitlement to benefits under part A and eligibility to enroll under part B of subchapter XVIII of this chapter shall begin with the month in which such regular course of renal dialysis is resumed.
+
+#### (c) <sup>1</sup> Continuing eligibility of certain terminated individuals
+
+For purposes of this section, each person whose monthly insurance benefit for any month is terminated or is otherwise not payable solely by reason of paragraph (1) or (7) of section 425(c) of this title shall be treated as entitled to such benefit for such month.
+
+(Aug. 14, 1935, ch. 531, title II, §226A, as added June 13, 1978, Pub. L. 95–292, §1(a), 92 Stat. 307; amended Sept. 3, 1982, Pub. L. 97–248, title II, §278(b)(2)(C), 96 Stat. 561; Jan. 12, 1983, Pub. L. 97–448, title III, §309(b)(1), 96 Stat. 2408; Apr. 7, 1986, Pub. L. 99–272, title XIII, §13205(b)(2)(B), 100 Stat. 317; Aug. 15, 1994, Pub. L. 103–296, title II, §201(a)(3)(D)(ii), 108 Stat. 1497.)
+
+#### References in Text
+
+The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(A), (B), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+
+Parts A and B of subchapter XVIII of this chapter, referred to in text, are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
+
+#### Amendments
+
+1994—Subsec. (c). Pub. L. 103–296 added subsec. (c) relating to continuing eligibility of certain terminated individuals.
+
+1986—Subsec. (a)(1)(A)(ii), (B)(iii). Pub. L. 99–272 substituted “medicare qualified government employment” for “medicare qualified Federal employment”.
+
+1983—Subsec. (a)(1)(B)(iii). Pub. L. 97–448 substituted “section 410(p)” for “410(p)” and struck out “after December 31, 1982,”.
+
+1982—Subsec. (a)(1)(A). Pub. L. 97–248 designated existing provisions as cl. (i), substituted “within the meaning of the term ‘employment’ for purposes of this subchapter” for “in the term ‘employment’ as defined in this chapter”, and added cl. (ii).
+
+Subsec. (a)(1)(B). Pub. L. 97–248 designated “is entitled to monthly insurance benefits under this subchapter” as cl. (i), substituted “(ii) is entitled to an annuity under the Railroad Retirement Act of 1974” for “or an annuity under the Railroad Retirement Act of 1974”, and added cl. (iii).
+
+Subsec. (a)(1)(C), (D). Pub. L. 97–248 combined former subpars. (C) and (D) into subpar. (C) and substituted a reference to individuals described in subpar. (A) or (B) for a more detailed definition of such individuals.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–296 applicable with respect to benefits based on disability (as defined in section 425(c)(9) of this title) which are otherwise payable in months beginning after 180 days after Aug. 15, 1994, with Secretary of Health and Human Services to issue regulations necessary to carry out such amendment not later than 180 days after Aug. 15, 1994, see section 201(a)(3)(E)(i) of Pub. L. 103–296, set out as an Effective Date of 1994 Amendment; Sunset Provision note under section 425 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by Pub. L. 99–272 effective after Mar. 31, 1986, with no individual to be considered under disability for any period beginning before Apr. 1, 1986, for purposes of hospital insurance benefits, see section 13205(d)(2) of Pub. L. 99–272, set out as a note under section 410 of this title.
+
+#### Effective Date of 1983 Amendment
+
+Section 309(c)(2) of Pub. L. 97–448 provided that: “Any amendment to the Social Security Act \[this chapter\] made by this section \[amending this section and sections 410, 1320c–2, 1320c–3, 1395d, 1395f, 1395r, 1395y, 1395cc, 1395mm, 1395ww, 1396b, 1396n, 1396<i>o</i>, and 1396p of this title\] shall be effective as if it had been originally included as a part of that provision of the Social Security Act to which it relates, as such provision of such Act was amended or added by the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 324\].”
+
+#### Effective Date of 1982 Amendment
+
+Amendment by Pub. L. 97–248 effective on and after Jan. 1, 1983, see section 278(c)(2)(A) of Pub. L. 97–248, set out as a note under section 426 of this title.
+
+#### Effective Date
+
+Section effective with respect to services, supplies, and equipment furnished after the third calendar month beginning after June 13, 1978, except that provisions for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers to become effective with respect to a facility's or provider's first accounting period beginning after the last day of the twelfth month following the month of June 1978, and except that provisions for reimbursement rates for home dialysis to become effective on Apr. 1, 1979, see section 6 of Pub. L. 95–292, set out as an Effective Date of 1978 Amendment note under section 426 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 410, 418, 1395c, 1395i–2a, 1395y, 1395rr of this title; title 10 section 1086.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “(d)”.</i>
+

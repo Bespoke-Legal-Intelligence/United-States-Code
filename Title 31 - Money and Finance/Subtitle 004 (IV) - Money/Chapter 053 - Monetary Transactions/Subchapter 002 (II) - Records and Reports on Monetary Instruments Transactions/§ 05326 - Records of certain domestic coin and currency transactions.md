@@ -1,0 +1,50 @@
+### §5326. Records of certain domestic coin and currency transactions
+
+(a)
+
+In General.—If the Secretary of the Treasury finds, upon the Secretary's own initiative or at the request of an appropriate Federal or State law enforcement official, that reasonable grounds exist for concluding that additional recordkeeping and reporting requirements are necessary to carry out the purposes of this subtitle and prevent evasions thereof, the Secretary may issue an order requiring any domestic financial institution or group of domestic financial institutions in a geographic area—
+
+&emsp;(1) to obtain such information as the Secretary may describe in such order concerning—
+
+&emsp;&emsp;(A) any transaction in which such financial institution is involved for the payment, receipt, or transfer of United States coins or currency (or such other monetary instruments as the Secretary may describe in such order) the total amounts or denominations of which are equal to or greater than an amount which the Secretary may prescribe; and
+
+&emsp;&emsp;(B) any other person participating in such transaction;
+
+&emsp;(2) to maintain a record of such information for such period of time as the Secretary may require; and
+
+&emsp;(3) to file a report with respect to any transaction described in paragraph (1)(A) in the manner and to the extent specified in the order.
+
+(b)
+
+Authority To Order Depository Institutions To Obtain Reports From Customers.—
+
+&emsp;(1)
+
+In general.—The Secretary of the Treasury may, by regulation or order, require any depository institution (as defined in section 3(c) of the Federal Deposit Insurance Act)—
+
+&emsp;&emsp;(A) to request any financial institution (other than a depository institution) which engages in any reportable transaction with the depository institution to provide the depository institution with a copy of any report filed by the financial institution under this subtitle with respect to any prior transaction (between such financial institution and any other person) which involved any portion of the coins or currency (or monetary instruments) which are involved in the reportable transaction with the depository institution; and
+
+&emsp;&emsp;(B) if no copy of any report described in subparagraph (A) is received by the depository institution in connection with any reportable transaction to which such subparagraph applies, to submit (in addition to any report required under this subtitle with respect to the reportable transaction) a written notice to the Secretary that the financial institution failed to provide any copy of such report.
+
+&emsp;(2)
+
+Reportable transaction defined.—For purposes of this subsection, the term “reportable transaction” means any transaction involving coins or currency (or such other monetary instruments as the Secretary may describe in the regulation or order) the totalamounts or denominations of which are equal to or greater than an amount which the Secretary may prescribe.
+
+(c)
+
+Nondisclosure of Orders.—No financial institution or officer, director, employee or agent of a financial institution subject to an order under this section may disclose the existence of, or terms of, the order to any person except as prescribed by the Secretary.
+
+(d)
+
+Maximum Effective Period for Order.—No order issued under subsection (a) shall be effective for more than 60 days unless renewed pursuant to the requirements of subsection (a).
+
+(Added Pub. L. 100–690, title VI, §6185(c), Nov. 18, 1988, 102 Stat. 4355; amended Pub. L. 102–550, title XV, §§1514, 1562, Oct. 28, 1992, 106 Stat. 4058, 4072.)
+
+#### References in Text
+
+Section 3(c) of the Federal Deposit Insurance Act, referred to in subsec. (b)(1), is classified to section 1813(c) of Title 12, Banks and Banking.
+
+#### Amendments
+
+1992—Subsecs. (b) to (d). Pub. L. 102–550 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+

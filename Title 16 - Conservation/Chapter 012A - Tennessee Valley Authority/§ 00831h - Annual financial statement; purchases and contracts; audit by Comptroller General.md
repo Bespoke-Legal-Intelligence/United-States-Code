@@ -1,0 +1,46 @@
+### §831h . Annual financial statement; purchases and contracts; audit by Comptroller General
+
+#### (a) Financial statement and report
+
+The board shall file with the President and with the Congress, in March of each year, a financial statement and a complete report as to the business of the Corporation covering the preceding governmental fiscal year. This report shall include an itemized statement of the cost of power at each power station, the total number of employees and the names, salaries, and duties of those receiving compensation at the rate of more than $1,500 a year.
+
+#### (b) Bids; audits; settlements; accounts; contracts
+
+All purchases and contracts for supplies or services, except for personal services, made by the Corporation, shall be made after advertising, in such manner and at such times sufficiently in advance of opening bids, as the Board shall determine to be adequate to insure notice and opportunity for competition: <i>Provided</i>, That advertisement shall not be required when, (1) an emergency requires immediate delivery of the supplies or performance of the services; or (2) repair parts, accessories, supplemental equipment, or services are required for supplies or services previously furnished or contracted for; or (3) the aggregate amount involved in any purchase of supplies or procurement of services does not exceed $25,000; in which cases such purchases of supplies or procurement of services may be made in the open market in the manner common among businessmen: <i>Provided further</i>, That in comparing bids and in making awards the Board may consider such factors as relative quality and adaptability of supplies or services, the bidder's financial responsibility, skill, experience, record of integrity in dealing, ability to furnish repairs and maintenance services, the time of delivery or performance offered, and whether the bidder has complied with the specifications.
+
+The Comptroller General of the United States shall audit the transactions of the Corporation at such times as he shall determine, but not less frequently than once each governmental fiscal year, with personnel of his selection. In such connection he and his representatives shall have free and open access to all papers, books, records, files, accounts, plants, warehouses, offices, and all other things, property, and places belonging to or under the control of or used or employed by the Corporation, and shall be afforded full facilities for counting all cash and verifying transactions with and balances in depositaries. He shall make report of each such audit in quadruplicate, one copy for the President of the United States, one for the chairman of the Board, one for public inspection at the principal office of the Corporation, and the other to be retained by him for the uses of the Congress: <i>Provided</i>, That such report shall not be made until the Corporation shall have had reasonable opportunity to examine the exceptions and criticisms of the Comptroller General or the General Accounting Office, to point out errors therein, explain or answer the same, and to file a statement which shall be submitted by the Comptroller General with his report. The expenses for each such audit shall be paid from any appropriation or appropriations for the General Accounting Office, and such part of such expenses as may be allocated to the cost of generating, transmitting, and distributing electric energy shall be reimbursed promptly by the Corporation as billed by the Comptroller General. Nothing in this chapter shall be construed to relieve the Treasurer or other accountable officers or employees of the Corporation from compliance with the provisions of existing law requiring the rendition of accounts for adjustment and settlement pursuant to sections 3526(a) and 3702(a) of title 31, and accounts for all receipts and disbursements by or for the Corporationshall be rendered accordingly: <i>Provided</i>, That, subject only to the provisions of this chapter, the Corporation is authorized to make such expenditures and to enter into such contracts, agreements, and arrangements, upon such terms and conditions and in such manner as it may deem necessary, including the final settlement of all claims and litigation by or against the Corporation; and, notwithstanding the provisions of any other law governing the expenditure of public funds, the General Accounting Office, in the settlement of the accounts of the Treasurer or other accountable officer or employee of the Corporation, shall not disallow credit for, nor withhold funds because of, any expenditure which the Board shall determine to have been necessary to carry out the provisions of said chapter.
+
+The Corporation shall determine its own system of administrative accounts and the forms and contents of its contracts and other business documents except as otherwise provided in this chapter.
+
+(May 18, 1933, ch. 32, §9, 48 Stat. 63; Aug. 31, 1935, ch. 836, §14, 49 Stat. 1080; Nov. 21, 1941, ch. 485, 55 Stat. 775; Aug. 30, 1954, ch. 1076, §1 (32), 68 Stat. 968; July 25, 1974, Pub. L. 93–356, §5, 88 Stat. 390; Apr. 21, 1976, Pub. L. 94–273, §5(1), 90 Stat. 377; Dec. 1, 1983, Pub. L. 98–191, §9(d), 97 Stat. 1332.)
+
+#### Codification
+
+In the second par. of subsec. (b), “sections 3526(a) and 3702(a) of title 31” substituted for “section 236, Revised Statutes, as amended by section 305 of the Budget and Accounting Act, 1921 (42 Stat. 24 \[31 U.S.C. 71\])” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+#### Amendments
+
+1983—Subsec. (b)(3). Pub. L. 98–191 substituted “$25,000” for “$10,000”.
+
+1976—Subsec. (a). Pub. L. 94–273 substituted “March” for “December”.
+
+1974—Subsec. (b)(3). Pub. L. 93–356 substituted “$10,000” for “$500”.
+
+1954—Subsec. (b). Act Aug. 30, 1954, in second paragraph, repealed a sentence requiring the Comptroller General to make special reports of any transactions or conditions found to be in conflict with the powers or duties entrusted to the Tennessee Valley Authority by law, such provision now being covered by section 9101 et seq. of Title 31, Money and Finance.
+
+1941—Subsec. (b). Act Nov. 21, 1941, inserted last paragraph and last sentence of next to last paragraph.
+
+1935—Subsec. (b). Act Aug. 31, 1935, amended subsec. (b) generally.
+
+#### Single Audit Requirements
+
+Tennessee Valley Authority audits unaffected by single audit requirements of chapter 75 (§7501 et seq.) of Title 31, Money and Finance, see section 2(b) of Pub. L. 98–502, set out as a note under section 7501 of Title 31.
+
+#### Audit of Government Corporations
+
+Section 9105(f) of Title 31, Money and Finance, provides that the audit provided in section 9105(a) of Title 31 shall be in lieu of any audit of the financial transactions of any Government corporation required to be made by the General Accounting Office for the purpose of a report to the Congress or to the President under any existing law.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 831m, 831n–4 of this title; title 26 section 6402; title 31 sections 3720, 3720A; title 41 section 612.
+

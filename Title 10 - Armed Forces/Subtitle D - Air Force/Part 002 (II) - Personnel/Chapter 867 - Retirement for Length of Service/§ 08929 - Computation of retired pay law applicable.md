@@ -1,0 +1,22 @@
+### §8929. Computation of retired pay: law applicable
+
+A member of the Air Force retired under this chapter is entitled to retired pay computed under chapter 871 of this title.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 554.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+8929
+
+\[No source\].
+
+\[No source\].
+
+The revised section is based on the various retirement provisions in this chapter and is inserted to make explicit the entitlement to retired pay upon retirement.
+

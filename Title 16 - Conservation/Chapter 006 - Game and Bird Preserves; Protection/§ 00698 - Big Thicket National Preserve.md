@@ -1,0 +1,82 @@
+### §698. Big Thicket National Preserve
+
+#### (a) Establishment
+
+In order to assure the preservation, conservation, and protection of the natural, scenic, and recreational values of a significant portion of the Big Thicket area in the State of Texas and to provide for the enhancement and public enjoyment thereof, the Big Thicket National Preserve is hereby established.
+
+#### (b) Location; boundaries; publication in Federal Register
+
+The Big Thicket National Preserve (hereafter referred to as the “preserve”) shall include the units generally depicted on the map entitled “Big Thicket National Preserve”, dated October 1992, and numbered 175–80008, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and the offices of the Superintendent of the preserve. After advising the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives, in writing, the Secretary of the Interior (hereafter referred to as the “Secretary”) may make minor revisions of the boundaries of the preserve when necessary by publication of a revised drawing or other boundary description in the Federal Register. The Secretary shall, as soon as practicable, but no later than six months after October 11, 1974, publish a detailed description of the boundaries of the preserve in the Federal Register. In establishing such boundaries, the Secretary shall locate stream corridor unit boundaries referenced from the stream bank on each side thereof and he shall further make every reasonable effort to exclude from the units hereafter described any improved year-round residential properties which he determines, in his discretion, are notnecessary for the protection of the values of the area or for its proper administration. The preserve shall consist of the following units:
+
+&emsp;Big Sandy Creek unit, Polk County, Texas, comprising approximately fourteen thousand three hundred acres;
+
+&emsp;Menard Creek Corridor unit, Polk, Hardin, and Liberty Counties, Texas, including a module at its confluence with the Trinity River, comprising approximately three thousand three hundred and fifty-nine acres;
+
+&emsp;Hickory Creek Savannah unit, Tyler County, Texas, comprising approximately six hundred and sixty-eight acres;
+
+&emsp;Turkey Creek unit, Tyler and Hardin Counties, Texas, comprising approximately seven thousand eight hundred acres;
+
+&emsp;Beech Creek unit, Tyler County, Texas, comprising approximately four thousand eight hundred and fifty-six acres;
+
+&emsp;Upper Neches River corridor unit, Jasper, Tyler, and Hardin Counties, Texas, including the Sally Withers Addition, comprising approximately three thousand seven hundred and seventy-five acres;
+
+&emsp;Neches Bottom and Jack Gore Baygall unit, Hardin and Jasper Counties, Texas, comprising approximately thirteen thousand three hundred acres;
+
+&emsp;Lower Neches River corridor unit, Hardin, Jasper, and Orange Counties, Texas, except for a one-mile segment on the east side of the river including the site of the papermill near Evandale, comprising approximately two thousand six hundred acres;
+
+&emsp;Beaumont unit, Orange, Hardin, and Jefferson Counties, Texas, comprising approximately six thousand two hundred and eighteen acres;
+
+&emsp;Loblolly unit, Liberty County, Texas, comprising approximately five hundred and fifty acres;
+
+&emsp;Little Pine Island-Pine Island Bayou corridor unit, Hardin and Jefferson Counties, Texas, comprising approximately two thousand one hundred acres;
+
+&emsp;Lance Rosier Unit, Hardin County, Texas, comprising approximately twenty-five thousand and twenty-four acres;
+
+&emsp;Village Creek Corridor unit, Hardin County, Texas, comprising approximately four thousand seven hundred and ninety-three acres;
+
+&emsp;Big Sandy Corridor unit, Hardin, Polk, and Tyler Counties, Texas, comprising approximately four thousand four hundred and ninety-seven acres; and
+
+&emsp;Canyonlands unit, Tyler County, Texas, comprising approximately one thousand four hundred and seventy-six acres.
+
+#### (c) Methods of acquisition of land
+
+The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange, any lands, waters, or interests therein which are located within the boundaries of the preserve: <i>Provided</i>, That privately owned lands located within the Village Creek Corridor, Big Sandy Corridor, and Canyonlands units may be acquired only with the consent of the owner: <i>Provided further</i>, That the Secretary may acquire lands owned by commercial timber companies only by donation or exchange: <i>Provided further</i>, That any lands owned by the State of Texas, or any political subdivisions thereof may be acquired by donation only. The Secretary may also acquire, by any of the above methods, approximately 15 acres of land outside of the boundaries of the preserve in the vicinity of the intersection of United States Highway 69 and State Farm-Market Road 420, in Hardin County, Texas, for purposes of a visitor contact and administrative site. After notifying the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives, in writing, of his intention to do so and of the reasons therefor, the Secretary may, if he finds that such lands would make a significant contribution to the purposes for which the preserve was created, accept title to any lands, or interests in lands, located outside of the boundaries of the preserve which the State of Texas or its political subdivisions may acquire and offer to donate to the United States or which any private person, organization, or public or private corporation may offer to donate to the United States and he may administer such lands as a part of the preserve after publishing notice to that effect in the Federal Register. Notwithstanding any other provision of law, any federally owned lands within the preserve shall, with the concurrence of the head of the administering agency, be transferred to the administrative jurisdiction of the Secretary for the purposes of sections 698 to 698e of this title, without transfer of funds.
+
+#### (d) Exchanges of land
+
+Within sixty days after July 1, 1993, the Secretary and the Secretary of Agriculture shall identify lands within their jurisdiction located within the vicinity of the preserve which may be suitable for exchange for commercial timber lands within the preserve. In so doing, the Secretary of Agriculture shall seek to identify for exchange National Forest lands that are near or adjacent to private lands that are already owned by the commercial timber companies. Such National Forest lands shall be located in the Sabine National Forest in Sabine County, Texas, in the Davy Crockett National Forest south of Texas State Highway 7, or in other sites deemed mutually agreeable, and within reasonable distance of the timber companies’ existing mills. In exercising this exchange authority, the Secretary and the Secretary of Agriculture may utilize any authorities or procedures otherwise available to them in connection with land exchanges, and which are not inconsistent with the purposes of sections 698 to 698e of this title. Land exchanges authorized pursuant to this subsection shall be of equal value and shall be completed as soon as possible, but no later than two years after July 1, 1993.
+
+#### (e) Indian Springs Youth Camp
+
+With respect to the thirty-seven-acre area owned by the Louisiana-Pacific Corporation or its subsidiary, Kirby Forest Industries, Inc., on Big Sandy Creek in Hardin County, Texas, and now utilized as part of the Indian Springs Youth Camp (H.G. King Abstract 822), the Secretary shall not acquire such area without the consentof the owner so long as the area is used exclusively as a youth camp.
+
+(Pub. L. 93–439, §1, Oct. 11, 1974, 88 Stat. 1254; Pub. L. 98–489, §1(a), Oct. 17, 1984, 98 Stat. 2267; Pub. L. 103–46, §2(a), (b), July 1, 1993, 107 Stat. 229, 230; Pub. L. 103–437, §6(a)(6), Nov. 2, 1994, 108 Stat. 4583.)
+
+#### Amendments
+
+1994—Subsec. (c). Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Congress”.
+
+1993—Subsec. (b). Pub. L. 103–46, §2(a), substituted “map entitled ‘Big Thicket National Preserve’, dated October 1992, and numbered 175–80008, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and the offices of the Superintendent of the preserve. After advising the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives, in writing, the Secretary of the Interior (hereafter referred to as the ‘Secretary’) may make minor revisions of the boundaries of the preserve when necessary by publication of a revised drawing or other boundary description in the Federal Register. The Secretary” for “map entitled ‘Big Thicket National Preserve’, dated November 1973 and numbered NBR–BT 91,027 which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, Washington, District of Columbia, and shall be filed with appropriate offices of Tyler, Hardin, Jasper, Polk, Liberty, Jefferson, and Orange Counties in the State of Texas. The Secretary of the Interior (hereafter referred to as the ‘Secretary’)” and added undesignated pars. relating to Village Creek Corridor unit, Big Sandy Corridor unit, and Canyonlands unit.
+
+Subsec. (c). Pub. L. 103–46, §2(b)(1), inserted first sentence and struck out former first sentence which read as follows: “The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange, any lands, waters, or interests therein which are located within the boundaries of the preserve: <i>Provided</i>, That any lands owned or acquired by the State of Texas, or any of its political subdivisions, may be acquired by donation only.”
+
+Subsecs. (d) and (e). Pub. L. 103–46, §2(b)(2), added subsecs. (d) and (e).
+
+1984—Subsec. (c). Pub. L. 98–489 authorized acquisition of acreage for a visitor contact and administrative site outside the boundaries of the preserve.
+
+#### Change of Name
+
+Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Short Title of 1993 Amendment
+
+Section 1 of Pub. L. 103–46 provided that: “This Act \[amending this section and section 698e of this title and enacting provisions set out as a note below\] may be referred to as the ‘Big Thicket National Preserve Addition Act of 1993’.”
+
+#### Publication of Boundary Description
+
+Section 2(c) of Pub. L. 103–46 provided that: “Not later than six months after the date of enactment of this subsection \[July 1, 1993\], the Secretary shall publish in the Federal Register a detailed description of the boundary of the Village Creek Corridor unit, the Big Sandy Corridor unit, and the Canyonlands unit of the Big Thicket National Preserve.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 698a, 698b, 698c, 698e of this title.
+

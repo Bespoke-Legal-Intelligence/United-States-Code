@@ -1,0 +1,22 @@
+### §2202. Declaration of purpose
+
+It is declared to be the purpose of Congress in this chapter to—
+
+&emsp;(1) reduce the Nation's losses caused by fire through better fire prevention and control;
+
+&emsp;(2) supplement existing programs of research, training, and education, and to encourage new and improved programs and activities by State and local governments;
+
+&emsp;(3) establish the United States Fire Administration and the Fire Research Center within the Department of Commerce; and
+
+&emsp;(4) establish an intensified program of research into the treatment of burn and smoke injuries and the rehabilitation of victims of fires within the National Institutes of Health.
+
+(Pub. L. 93 498, §3, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95 422, §2(a)(1), Oct. 5, 1978, 92 Stat. 932.)
+
+#### Amendments
+
+1978—Par. (3). Pub. L. 95 422 substituted “United States Fire Administration” for “National Fire Prevention and Control Administration”.
+
+#### Transfer of Functions
+
+The National Fire Prevention and Control Administration \[now United States Fire Administration\] and the National Academy for Fire Prevention and Control and the positions of Administrator of the Administration and Superintendent of the Academy were transferred to an independent agency in the Executive Branch, to be known as the Federal Emergency Management Agency, and all functions vested in the Secretary of Commerce, the Administrator and Deputy Administrator of the National Fire Prevention and Control Administration, and the Superintendent of the National Academy for Fire Prevention and Control pursuant to the provisions of this chapter, with the exception of those functions under sections 2220 and 2221 of this title which remain vested in the Administrator of the United States Fire Administration, were transferred to the Director of the Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, §§201, 301, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out as a note under section 2201 of this title, effective Apr. 1, 1979, pursuant to Ex. Ord. No. 12127, §§1 101, 1 103(a), Mar. 31, 1979, 44 F.R. 19367.
+

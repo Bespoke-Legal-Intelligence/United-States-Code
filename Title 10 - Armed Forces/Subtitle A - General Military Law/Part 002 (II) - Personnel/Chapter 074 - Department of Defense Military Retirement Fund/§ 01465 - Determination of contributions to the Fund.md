@@ -1,0 +1,66 @@
+### §1465. Determination of contributions to the Fund
+
+(a) Not later than six months after the Board of Actuaries is first appointed, the Board shall determine the amount that is the present value (as of October 1, 1984) of future benefits payable from the Fund that are attributable to service in the armed forces performed before October 1, 1984. That amount is the original unfunded liability of the Fund. The Board shall determine the period of time over which the original unfunded liability should be liquidated and shall determine an amortization schedule for the liquidation of such liability over that period. Contributions to the Fund for the liquidation of the original unfunded liability in accordance with such schedule shall be made as provided in section 1466(b) of this title.
+
+(b)(1) The Secretary of Defense shall determine each year, in sufficient time for inclusion in budget requests for the following fiscal year, the total amount of Department of Defense contributions to be made to the Fund during that fiscal year under section 1466(a) of this title. That amount shall be the sum of the following:
+
+&emsp;(A) The product of—
+
+&emsp;&emsp;(i) the current estimate of the value of the single level percentage of basic pay to be determined under subsection (c)(1)(A) at the time of the next actuarial valuation under subsection (c); and
+
+&emsp;&emsp;(ii) the total amount of basic pay expected to be paid during that fiscal year to members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only).
+
+&emsp;(B) The product of—
+
+&emsp;&emsp;(i) the current estimate of the value of the single level percentage of basic pay and of compensation (paid pursuant to section 206 of title 37) to be determined under subsection (c)(1)(B) at the time of the next actuarial valuation under subsection (c); and
+
+&emsp;&emsp;(ii) the total amount of basic pay and of compensation (paid pursuant to section 206 of title 37) expected to be paid during that fiscal year to members of the Ready Reserve of the armed forces (other than the Coast Guard and other than members on full-time National Guard duty other than for training) who are not otherwise described in subparagraph (A)(ii).
+
+(2) The amount determined under paragraph (1) for any fiscal year is the amount needed to be appropriated to the Department of Defense for that fiscal year for payments to be made to the Fund during that year under section 1466(a) of this title. The President shall include not less than the full amount so determined in the budget transmitted to Congress for that fiscal year under section 1105 of title 31. The President may comment and make recommendations concerning any such amount.
+
+(c)(1) Not less often than every four years, the Secretary of Defense shall carry out an actuarial valuation of Department of Defense military retirement and survivor benefit programs. Each actuarial valuation of such programs shall include—
+
+&emsp;(A) a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay for members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only); and
+
+&emsp;(B) a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay and of compensation (paid pursuant to section 206 of title 37) for members of the Ready Reserve of the armed forces (other than the Coast Guard and other than members on full-time National Guard duty other than for training) who are not otherwise described by subparagraph (A).
+
+> Such single level percentages shall be used for the purposes of subsection (b) and section 1466(a) of this title.
+
+(2) If at the time of any such valuation (or any valuation carried out in order to comply with chapter 95 of title 31) there has been a change in benefits under a military retirement or survivor benefit program that has been made since the last such valuation and such change in benefits increases or decreases the present value of amounts payable from the Fund, the Secretary of Defense shall determine an amortization methodology and schedule for the amortization of the cumulative unfunded liability (or actuarial gain to the Fund) created by such change and any previous such changes so that the present value of the sum of the amortization payments (or reductions in payments that would otherwise be made) equals the cumulative increase (or decrease) in the present value of such amounts.
+
+(3) If at the time of any such valuation (or any valuation carried out in order to comply with chapter 95 of title 31) the Secretary of Defense determines that, based upon changes in actuarial assumptions since the last valuation, there has been an actuarial gain or loss to the Fund, the Secretary shall determine an amortization methodology and schedule for the amortization of the cumulative gain or loss to the Fund created by such change in assumptions and any previous such changes in assumptions through an increase or decrease in the payments that would otherwise be made to the Fund.
+
+(4) Contributions to the Fund in accordance with amortization schedules under paragraphs (2) and (3) shall be made as provided in section 1466(b) of this title.
+
+(d) All determinations under this section shall be made using methods and assumptions approved by the Board of Actuaries (including assumptions of interest rates and inflation) and in accordance with generally accepted actuarial principles and practices.
+
+(e) The Secretary of Defense shall provide for the keeping of such records as are necessary for determining the actuarial status of the Fund.
+
+(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 646; amended Pub. L. 98–525, title XIV, §1405(28), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–500, §101(c) \[title IX, §9131\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–128, and Pub. L. 99–591, §101(c) \[title IX, §9131\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–128; Pub. L. 99–661, div. A, title VI, §661(a), Nov. 14, 1986, 100 Stat. 3891.)
+
+#### Codification
+
+Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+
+Amendment of section by Pub. L. 99–500 and Pub. L. 99–591 is based on section 642 of S. 2638, Ninety-ninth Congress, as passed by the Senate on Aug. 9, 1986, which was enacted into permanent law by Pub. L. 99–500 and Pub. L. 99–591. S. 2638 was subsequently enacted as Pub. L. 99–661.
+
+#### Amendments
+
+1985—Subsec. (b)(1). Pub. L. 99–500 and Pub. L. 99–591, Pub. L. 99–661, §661(a), amended par. (1) identically, inserting second sentence and striking out the existing second sentence which read as follows: “That amount shall be determined as the product of—
+
+&emsp;“(A) the current estimate of the value of the single level percentage of basic pay to be determined at the time of the next actuarial valuation under subsection (c); and
+
+&emsp;“(B) the total amount of basic pay expected to be paid during that fiscal year to members of the armed forces (other than the Coast Guard) on active duty or in the Selected Reserve.”
+
+Subsec. (c)(1). Pub. L. 99–500 and Pub. L. 99–591, Pub. L. 99–661, §661(a)(2), amended par. (1) identically, inserting second and third sentences and striking out existing second sentence which read as follows: “Each actuarial valuation of such programs shall include a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay to be used for the purposes of subsection (b) and section 1466(a) of this title.”
+
+1984—Subsec. (c)(1). Pub. L. 98–525 struck out “(A)” after “(c)(1)”.
+
+#### Effective Date of 1986 Amendments
+
+Section 642(c) of S. 2638, as passed by the Senate on Aug. 9, 1986, and as enacted into law by section 101(c) \[title IX, §9131\] of Pub. L. 99–500 and Pub. L. 99–591, and section 661(d) of Pub. L. 99–661, provided respectively that: “The amendments made by this section \[amending this section and section 1466 of this title\] shall take effect on October 1, 1986, or the date of the enactment of this Act \[Oct. 18, 1986\], whichever is later, and shall apply to payments required to be made under section 1466(a) of title 10, United States Code, as amended by this section, for months beginning on or after that effective date.” and “The amendments made by subsections (a) and (b) \[amending this section and section 1466 of this title\] shall apply to payments required to be made under section 1466(a) of title 10, United States Code, as amended by subsection (b), for months beginning on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1464, 1466 of this title.
+

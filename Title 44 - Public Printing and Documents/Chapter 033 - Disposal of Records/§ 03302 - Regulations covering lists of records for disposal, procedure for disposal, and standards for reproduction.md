@@ -1,0 +1,30 @@
+### §3302. Regulations covering lists of records for disposal, procedure for disposal, and standards for reproduction
+
+The Archivist shall promulgate regulations, not inconsistent with this chapter, establishing—
+
+&emsp;(1) procedures for the compiling and submitting to him of lists and schedules of records proposed for disposal,
+
+&emsp;(2) procedures for the disposal of records authorized for disposal, and
+
+&emsp;(3) standards for the reproduction of records by photographic or microphotographic processes with a view to the disposal of the original records.
+
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1299; Pub. L. 94–575, §4(c)(1), Oct. 21, 1976, 90 Stat. 2727; Pub. L. 98–497, title I, §107(b)(23), Oct. 19, 1984, 98 Stat. 2290.)
+
+#### Historical and Revision Notes
+
+Based on 44 U.S. Code, 1964 ed., §367 (July 7, 1943, ch. 192, §2, 57 Stat. 381; June 30, 1949, ch. 288, title I, §104, 63 Stat. 381).
+
+#### Amendments
+
+1984—Pub. L. 98–497 substituted “Archivist” for “Administrator of General Services”.
+
+1976—Pub. L. 94–575 struck out “; approval by President” after “standards for reproduction” in section catchline.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3105, 3303, 3303a, 3308, 3312 of this title.
+

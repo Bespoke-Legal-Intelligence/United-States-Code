@@ -1,0 +1,16 @@
+### §1748f. Rules and regulations
+
+The Secretary is authorized and directed to make such rules and regulations as may be necessary to carry out the provisions of this subchapter.
+
+(June 27, 1934, ch. 847, title VIII, §807, as added Aug. 8, 1949, ch. 403, §1, 63 Stat. 576; amended Aug. 11, 1955, ch. 783, title IV, §401, 69 Stat. 651; May 25, 1967, Pub. L. 90–19, §1(a)(3), (q), 81 Stat. 17, 19.)
+
+#### Amendments
+
+1967—Pub. L. 90–19 substituted “Secretary” for “Commissioner” and struck out authorization for appointment by the Commissioner of a Special Assistant for Armed Services Housing for Mortgage Insurance with an adequate staff to expedite operations and eliminate administrative obstacles to this subchapter, respectively.
+
+1955—Act Aug. 11, 1955, amended section generally, striking out provisions which stated that nothing should be construed as exempting property from taxation, and inserting provisions authorizing the Commissioner to make rules and regulations and to appoint a Special Assistant.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1748h–1, 1748h–2 of this title.
+

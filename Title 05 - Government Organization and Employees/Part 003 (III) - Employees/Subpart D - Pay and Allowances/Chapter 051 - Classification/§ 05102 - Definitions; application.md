@@ -1,0 +1,458 @@
+### §5102. Definitions; application
+
+(a) For the purpose of this chapter—
+
+&emsp;(1) “agency” means—
+
+&emsp;&emsp;(A) an Executive agency;
+
+&emsp;&emsp;(B) the Library of Congress;
+
+&emsp;&emsp;(C) the Botanic Garden;
+
+&emsp;&emsp;(D) the Government Printing Office;
+
+&emsp;&emsp;(E) the Office of the Architect of the Capitol; and
+
+&emsp;&emsp;(F) the government of the District of Columbia;
+
+> &emsp;but does not include—
+
+&emsp;&emsp;(i) a Government controlled corporation;
+
+&emsp;&emsp;(ii) the Tennessee Valley Authority;
+
+&emsp;&emsp;(iii) the Virgin Islands Corporation;
+
+&emsp;&emsp;(iv) the Atomic Energy Commission;
+
+&emsp;&emsp;(v) the Central Intelligence Agency;
+
+&emsp;&emsp;(vi) the Panama Canal Commission;
+
+&emsp;&emsp;(vii) the National Security Agency, Department of Defense;
+
+&emsp;&emsp;(viii) the General Accounting Office; or <sup>1</sup>
+
+&emsp;&emsp;(x) <sup>2</sup> the Defense Intelligence Agency, Department of Defense; or
+
+&emsp;&emsp;(xi) the Central Imagery Office, Department of Defense.<sup>3</sup>
+
+&emsp;(2) “employee” means an individual employed in or under an agency;
+
+&emsp;(3) “position” means the work, consisting of the duties and responsibilities, assignable to an employee;
+
+&emsp;(4) “class” or “class of positions” includes all positions which are sufficiently similar, as to—
+
+&emsp;&emsp;(A) kind or subject-matter of work;
+
+&emsp;&emsp;(B) level of difficulty and responsibility; and
+
+&emsp;&emsp;(C) the qualification requirements of the work;
+
+> &emsp;to warrant similar treatment in personnel and pay administration; and
+
+&emsp;(5) “grade” includes all classes of positions which, although different with respect to kind or subject-matter of work, are sufficiently equivalent as to—
+
+&emsp;&emsp;(A) level of difficulty and responsibility; and
+
+&emsp;&emsp;(B) level of qualification requirements of the work;
+
+> &emsp;to warrant their inclusion within one range of rates of basic pay in the General Schedule.
+
+(b) Except as provided by subsections (c) and (d) of this section, this chapter applies to all civilian positions and employees in or under an agency, including positions in local boards and appeal boards within the Selective Service System and employees occupying those positions.
+
+(c) This chapter does not apply to—
+
+&emsp;\[ (1) Repealed. Pub. L. 91–375, §6(c)(9), Aug. 12, 1970, 84 Stat. 776.\]
+
+&emsp;(2) members of the Foreign Service whose pay is fixed under the Foreign Service Act of 1980; and positions in or under the Department of State which are—
+
+&emsp;&emsp;(A) connected with the representation of the United States to international organizations; or
+
+&emsp;&emsp;(B) specifically exempted by statute from this chapter or other classification or pay statute;
+
+&emsp;(3) physicians, dentists, nurses, and other employees in the Veterans Health Administration of the Department of Veterans Affairs whose pay is fixed under chapter 73 of title 38;
+
+&emsp;(4) teachers, school officials, and employees of the Board of Education of the District of Columbia whose pay is fixed under chapter 15 of title 31, District of Columbia Code; the chief judges and the associate judges of the Superior Court of the District of Columbia and the District of Columbia Court of Appeals; and nonjudicial employees of the District of Columbia court system whose pay is fixed under title 11 of the District of Columbia Code;
+
+&emsp;(5) members of the Metropolitan Police, the Fire Department of the District of Columbia, the United States Park Police, and the Executive Protective Service; members of the police force of the National Zoological Park whose pay is fixed under section 5375 of this title; and members of the police forces of the Bureau of Engraving and Printing and the United States Mint whose pay is fixed under section 5378 of this title;
+
+&emsp;(6) lighthouse keepers and civilian employees on lightships and vessels of the Coast Guard whose pay is fixed under section 432 (f) and (g) of title 14;
+
+&emsp;(7) employees in recognized trades or crafts, or other skilled mechanical crafts, or in unskilled, semiskilled, or skilled manual-labor occupations, and other employees including foremen and supervisors in positions having trade, craft, or laboring experience and knowledge as the paramount requirement, and employees in the Bureau of Engraving and Printing whose duties are to perform or to direct manual or machine operations requiring special skill or experience, or to perform or direct the counting, examining, sorting, or other verification of the product of manual or machine operations;
+
+&emsp;(8) officers and members of crews of vessels;
+
+&emsp;(9) employees of the Government Printing Office whose pay is fixed under section 305 of title 44;
+
+&emsp;(10) civilian professors, instructors, and lecturers at a professional military education school (and, in the case of the George C. Marshall European Center for Security Studies, the Director and the Deputy Director) whose pay is fixed under section 1595, 4021, 7478, or 9021 of title 10; civilian professors, lecturers, and instructors at the Military Academy, the Naval Academy, and the Air Force Academy whose pay is fixed under sections 4338, 6952, and 9338, respectively, of title 10; senior professors, professors, associate and assistant professors, and instructors at the Naval Postgraduate School whose pay is fixed under section 7044 of title 10; the Academic Dean of the Postgraduate School of the Naval Academy whose pay is fixed under section 7043 of title 10; civilian professors, instructors, and lecturers in the defense acquisition university structure (including the Defense Systems Management College) whose pay is fixed under section 1746(b) of title 10;
+
+&emsp;(11) aliens or noncitizens of the United States who occupy positions outside the United States;
+
+&emsp;(12) any Executive agency to the extent of any election under section 1212(b)(2) (relating to the Panama Canal Employment System) of the Panama Canal Act of 1979;
+
+&emsp;(13) employees who serve without pay or at nominal rates of pay;
+
+&emsp;(14) employees whose pay is not wholly from appropriated funds of the United States (other than employees of the Federal Retirement Thrift Investment Management System appointed under section 8474(c)(2) of this title), except that with respect to the Veterans’ Canteen Service, Department of Veterans Affairs this paragraph applies only to employees necessary for the transaction of the business of the Service at canteens, warehouses, and storage depots whose employment is authorized by section 7802 of title 38;
+
+&emsp;(15) employees whose pay is fixed under a cooperative agreement between the United States and—
+
+&emsp;&emsp;(A) a State or territory or possession of the United States, or political subdivision thereof; or
+
+&emsp;&emsp;(B) an individual or organization outside the service of the Government of the United States;
+
+&emsp;(16) student nurses, medical or dental interns, residents-in-training, student dietitians, student physical therapists, student occupational therapists, and other student employees, assigned or attached to a hospital, clinic, or laboratory primarily for training purposes, whose pay is fixed under subchapter V of chapter 53 of this title or sections 7405 and 7406 of title 38;
+
+&emsp;(17) inmates, patients, or beneficiaries receiving care or treatment or living in Government agencies or institutions;
+
+&emsp;(18) experts or consultants, when employed temporarily or intermittently in accordance with section 3109 of this title;
+
+&emsp;(19) emergency or seasonal employees whose employment is of uncertain or purely temporary duration, or who are employed for brief periods at intervals;
+
+&emsp;(20) employees employed on a fee, contract, or piece work basis;
+
+&emsp;(21) employees who may lawfully perform their duties concurrently with their private profession, business, or other employment, and whose duties require only a portion of their time, when it is impracticable to ascertain or anticipate the proportion of time devoted to the service of the Government of the United States;
+
+&emsp;(22) “teachers” and “teaching positions” as defined by section 901 of title 20;
+
+&emsp;(23) examiners-in-chief and designated examiners-in-chief in the Patent and Trademark Office, Department of Commerce;
+
+&emsp;(24) temporary positions in the Bureau of the Census established under section 23 of title 13, and enumerator positions in the Bureau of the Census;
+
+&emsp;(25) positions for which rates of basic pay are individually fixed, or expressly authorized to be fixed, by other statute, at or in excess of the rate for level V of the Executive Schedule;
+
+&emsp;(26) civilian members of the faculty of the Coast Guard Academy whose pay is fixed under section 186 of title 14;
+
+&emsp;(27) members of the police of the Library of Congress whose pay is fixed under section 167 of title 2;
+
+&emsp;(28) civilian members of the faculty of the Air Force Institute of Technology whose pay is fixed under section 9314 of title 10;
+
+&emsp;(29) administrative law judges appointed under section 3105; or
+
+&emsp;(30) members of agency boards of contract appeals appointed under section 8 of the Contract Disputes Act of 1978.
+
+(d) This chapter does not apply to an employee of the Office of the Architect of the Capitol whose pay is fixed by other statute. Subsection (c) of this section, except paragraph (7), does not apply to the Office of the Architect of the Capitol.
+
+(Pub. L 89–554, Sept. 6, 1966, 80 Stat. 444; Pub. L. 90–83, §1(11), Sept. 11, 1967, 81 Stat. 197; Pub. L. 90–610, §2, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 91–34, §2(a), June 30, 1969, 83 Stat. 41; Pub. L. 91–358, title I, §172(f), July 29, 1970, 84 Stat. 591; Pub. L. 91–375, §6(c)(9), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–176, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 94–183, §2(12), (13), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title VIII, §801(a)(3)(D), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 96–54, §2(a)(22), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(1), (6), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(b), Feb. 15, 1980, 94 Stat. 33; Pub. L. 96–465, title II, §2314(b), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 97–468, title VI, §615(b)(1)(C), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(a), Nov. 8, 1984, 98 Stat. 3302; Pub. L. 99–145, title V, §504(b), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–335, title II, §207(n), June 6, 1986, 100 Stat. 598; Pub. L. 100–135, §1(b)(2), Oct. 16, 1987, 101 Stat. 811; Pub. L. 101–189, div. A, title XI, §1124(e), Nov. 29, 1989, 103 Stat. 1560; Pub. L. 101–474, §5(h), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §§101(b)(9)(F), 104(d)(1), 109(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1441, 1447, 1451; Pub. L. 101–510, div. A, title XII, §1209(h)(2), Nov. 5, 1990, 104 Stat. 1667; Pub. L. 102–40, title IV, §403(c)(1), May 7, 1991, 105 Stat. 240; Pub. L. 102–54, §13(b)(1), (2), June 13, 1991, 105 Stat. 274; Pub. L. 103–160, div. A, title V, §533(c), title IX, §923(b), Nov. 30, 1993, 107 Stat. 1658, 1731; Pub. L. 103–359, title V, §501(g), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–446, title XII, §1203(b), Nov. 2, 1994, 108 Stat. 4689.)
+
+Historical and Revision Notes<br>1966
+
+Act
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+(a)(1)
+
+5 U.S.C. 1081(a).
+
+Oct. 28, 1949, ch. 782, §201(a), 63 Stat. 954.
+
+&nbsp;
+
+5 U.S.C. 1082 (12)–(20), (32).
+
+Oct. 28, 1949, ch. 782, §202 (12)–(20), 63 Stat. 954.
+
+&nbsp;
+
+May 29, 1959, Pub. L. 86–36, §1, 73 Stat. 63.
+
+&nbsp;
+
+Sept. 23, 1959, Pub. L. 86–370, §6(a) (less (4)), 73 Stat. 652.
+
+(a)(3)–(5)
+
+5 U.S.C. 1091.
+
+Oct. 28, 1949, ch. 782, §301, 63 Stat. 957.
+
+(b)
+
+5 U.S.C. 1081(b).
+
+Oct. 28, 1949, ch. 782, §201(b), 63 Stat. 954.
+
+(c)
+
+5 U.S.C. 1082(1)–(6), (7) (less provisos), (8) (less last 31 words), (9)–(11), (21)–(31), (33)–(35).
+
+Oct. 28, 1949, ch. 782, §202 (1)–(6), (7) (less last 25 words), (8) (less last 31 words), (9)–(11), (21)– (31), 63 Stat. 954.
+
+&nbsp;
+
+Sept. 1, 1954, ch. 1208, §105(a) “(7) (less provisos)”, 68 Stat. 1106.
+
+&nbsp;
+
+June 17, 1957, Pub. L. 85–56, §2201(20), 71 Stat. 159.
+
+&nbsp;
+
+July 25, 1958, Pub. L. 85–550, §16(a), (b)(1), 72 Stat. 411.
+
+&nbsp;
+
+Sept. 2, 1958, Pub. L. 85–857, §13(o), 72 Stat. 1266.
+
+&nbsp;
+
+July 17, 1959, Pub. L. 86–91, §3, 73 Stat. 213.
+
+&nbsp;
+
+Sept. 23, 1959, Pub. L. 86–370, §6(a)(4), 73 Stat. 652.
+
+&nbsp;
+
+Sept. 13, 1960, Pub. L. 86–769, §4, 74 Stat. 912.
+
+(d)
+
+5 U.S.C. 1084(b).
+
+Oct. 28, 1949, ch. 782, §204(b), 63 Stat. 957.
+
+The section is reorganized and restated for clarity.
+
+In subsection (a)(1)(i), the exception of “a Government controlled corporation” is added to preserve the application of this chapter to “corporations wholly owned by the United States”. This is necessary as the defined term “Executive agency” includes the defined term “Government corporation” and the latter includes both Government owned and controlled corporations. Thus the exclusion of Government controlled corporations, which are distinct from wholly owned corporations, operates to preserve the application of the chapter to wholly owned corporations.
+
+In subsection (a)(1)(vii), the words “Panama Canal Company” are substituted for “Panama Railroad Company” on authority of the Act of Sept. 26, 1950, ch. 1049, §2(a)(2), 64 Stat. 1038.
+
+The exception for the Inland Waterways Corporation in former section 1082(13) is omitted on authority of the Act of July 19, 1963, Pub. L. 88–67, 77 Stat. 81.
+
+The exceptions for Production Credit Corporations and Federal Intermediate Credit Banks in former section 1082(18) and (19) are omitted as they are no longer “corporations wholly owned by the United States”. Under the Farm Credit Act of 1956, 70 Stat. 659, the Production Credit Corporations were merged in the Federal Intermediate Credit Banks, and pursuant to that Act the Federal Intermediate Credit Banks have ceased to be corporations wholly owned by the United States.
+
+Subsection (a)(2) is added for clarity. The reference to “an individual employed in or under an agency” includes both officers and employees of an agency.
+
+In subsection (a)(5), the words “in the General Schedule” are substituted for the reference in former section 1091(3) to “as specified in subchapter V of this chapter”.
+
+In subsection (b), the reference to former section 1085 is omitted as unnecessary. Former section 1085 which exempted certain agencies from former sections 1151–1153 is carried into section 305.
+
+In subsection (c)(1), the words “chapter 45 of title 39” are substituted for the reference in former section 1082(1) to “chapter 23 of title 39” on authority of the Act of July 10, 1955, ch. 137, §805, 69 Stat. 130, and the Act of Sept. 2, 1960, Pub. L. 86–682, §5, 74 Stat. 705.
+
+In subsection (c)(2)(B), the words “this chapter” are substituted for the reference in former section 1082(2)(B) to “the Classification Act of 1923, as amended,” on authority of section 1106 of the Act of Oct. 28, 1949, 63 Stat. 972, and technical section 7(b).
+
+In subsection (c)(4), the words “chapter 15 of title 31, District of Columbia Code” are substituted for the reference in former section 1082(4) to “the District of Columbia Teachers Salary Act of 1947, as supplemented by Public Law 151, Eighty-first Congress, approved June 30, 1949” on authority of the provisions contained therein. The words “District of Columbia Court of General Sessions” and “District of Columbia Court of Appeals” are substituted for “Municipal Court for the District of Columbia” and “Municipal Court of Appeals for the District of Columbia”, respectively, on authority of D.C. Code §§11–902 and 11–702. The exception for judges of the Juvenile Court of the District of Columbia is based on D.C. Code §11–1502.
+
+In subsection (c)(5), the word “officers” is omitted as included in “member”.
+
+In subsection (c)(10), the words “sections 6952 and 7478 of title 10”, “section 7044 of title 10”, and “section 7043 of title 10” are substituted for the references in former section 1082(10) to “section 1071 of title 34”, “sections 1076–1076f of title 34”, and “section 1074 of title 34”, respectively, on authority of the Act of Aug. 10, 1956, ch. 1041, §49(b), 70A Stat. 640.
+
+In subsection (c)(11), the words “the United States” are substituted for “the several States and the District of Columbia”.
+
+In subsection (c)(14), the words “employees necessary for the transaction of the business of the Service at canteens, warehouses, and storage depots whose employment is authorized by section 4202 of title 38” are substituted for the reference in former section 1082(23) to “positions which are exempt from this chapter, pursuant to section 4202 of title 38”.
+
+In subsection (c)(16), the reference to “section 4114 of title 38” is substituted for the reference in former section 1082(25) to “section 4114(b) of title 38” to reflect the pay fixing authority contained in subsection (a)(1) of section 4114.
+
+In subsection (c)(22), the words “as defined by section 901 of title 20” are substituted for “as defined in the Defense Department Overseas Teachers Pay and Personnel Practices Act” on authority of former section 2351, which is scheduled for transfer to section 901 of title 20.
+
+In subsection (c)(25), the word “schedule” is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity. The words “for GS–18” are substituted for “of the highest grade established by this chapter”.
+
+The second sentence of subsection (d) is based on former section 1084(c), which is carried into section 5103.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+1967
+
+Act
+
+<i>Section of title 5</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+5102(c)(26)
+
+5 App.: 1082(36).
+
+June 9, 1966, Pub. L. 89–444, §4, 80 Stat. 198.
+
+The amendment to 5 U.S.C. 5102(c)(15) is made to correct a typographical error.
+
+The amendment to 5 U.S.C. 5102(c)(26) reflects Public Law 89–444, section 4.
+
+#### References in Text
+
+The Foreign Service Act of 1980, referred to in subsec. (c)(2), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+
+Chapter 15 of title 31, District of Columbia Code, referred to in subsec. (c)(4), was transferred to chapter 11 (§31–1101 et seq.) of Title 31, Education and Cultural Institutions, of the District of Columbia Code.
+
+Section 1212(b)(2) of the Panama Canal Act of 1979, referred to in subsec. (c)(12), is classified to section 3652(b)(2) of Title 22, Foreign Relations and Intercourse.
+
+Level V of the Executive Schedule, referred to in subsec. (c)(25), is set out in section 5316 of this title.
+
+Section 8 of the Contract Disputes Act of 1978, referred to in subsec. (c)(30), is classified to section 607 of Title 41, Public Contracts.
+
+#### Amendments
+
+1994—Subsec. (a)(1)(ix) to (xi). Pub. L. 103–359 directed the amendment of cl. (ix) by striking “or” at end whichcould not be executed because par. (1) does not contain a cl. (ix), directed the substitution of “; or” for period at end of cl. (x) which was executed by inserting “or” at end of cl. (x) to reflect the probable intent of Congress because a semicolon already exists at end of cl. (x), and added cl. (xi).
+
+Subsec. (c)(3). Pub. L. 103–446 struck out comma after “Department of Veterans Affairs”.
+
+1993—Subsec. (c)(10). Pub. L. 103–160, §923(b), inserted “(and, in the case of the George C. Marshall European Center for Security Studies, the Director and the Deputy Director)” after “professional military education school”.
+
+Pub. L. 103–160, §533(c), substituted “at the Military Academy, the Naval Academy, and the Air Force Academy whose pay is fixed under sections 4338, 6952, and 9338, respectively, of title 10” for “at the Naval Academy whose pay is fixed under section 6952 of title 10”.
+
+1991—Subsec. (c)(3). Pub. L. 102–54, §13(b)(2), substituted “Veterans Health Administration of the Department of Veterans Affairs” for “Department of Medicine and Surgery, Veterans’ Administration”.
+
+Subsec. (c)(14). Pub. L. 102–54, §13(b)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+
+Pub. L. 102–40, §403(c)(1)(A), substituted “section 7802 of title 38” for “section 4202 of title 38”.
+
+Subsec. (c)(16). Pub. L. 102–40, §403(c)(1)(B), substituted “sections 7405 and 7406” for “section 4114”.
+
+1990—Subsec. (a)(1). Pub. L. 101–474 redesignated subpars. (C) to (G) as (B) to (F), respectively, and struck out former subpar. (B) which included Administrative Office of United States Courts within definition of “agency”.
+
+Subsec. (c)(5). Pub. L. 101–509, §529 \[title I, §109(a)(2)\], substituted “members” for “and members” after “Protective Service;” and inserted at end “and members of the police forces of the Bureau of Engraving and Printing and the United States Mint whose pay is fixed under section 5378 of this title;”.
+
+Subsec. (c)(10). Pub. L. 101–510 struck out “and” before “the Academic Dean” and inserted at end “civilian professors, instructors, and lecturers in the defense acquisition university structure (including the Defense Systems Management College) whose pay is fixed under section 1746(b) of title 10;”.
+
+Subsec. (c)(25). Pub. L. 101–509, §529 \[title I, §101(b)(9)(F)\], substituted “rate for level V of the Executive Schedule” for “maximum rate for GS–18”.
+
+Subsec. (c)(29), (30). Pub. L. 101–509, §529 \[title I, §104(d)(1)\], added pars. (29) and (30).
+
+1989—Subsec. (c)(10). Pub. L. 101–189 inserted “civilian professors, instructors, and lecturers at a professional military education school whose pay is fixed under section 1595, 4021, 7478, or 9021 of title 10;”, struck out “the Naval War College and” after “instructors at”, and substituted “section 6952” for “sections 6952 and 7478”.
+
+1987—Subsec. (c)(27). Pub. L. 100–135 substituted “police” for “special police force”.
+
+1986—Subsec. (c)(14). Pub. L. 99–335 inserted “(other than employees of the Federal Retirement Thrift Investment System appointed under section 8474(c)(2) of this title)”.
+
+1985—Subsec. (c)(28). Pub. L. 99–145 added par. (28).
+
+1984—Subsec. (a)(1)(viii) to (x). Pub. L. 98–618 struck out “or” at end of cl. (viii), inserted “or” at end of cl. (ix), and added cl. (x).
+
+1983—Subsec. (a)(1)(iii) to (ix). Pub. L. 97–468, eff. Jan. 5, 1985, struck out cl. (iii) which excluded the Alaska Railroad and redesignated cls. (iv) to (ix) as (iii) to (viii), respectively. See Effective Date of 1983 Amendment note below.
+
+1980—Subsec. (a)(1)(ix). Pub. L. 96–191 added cl. (ix).
+
+Subsec. (c)(2). Pub. L. 96–465 substituted “members of the Foreign Service whose pay is fixed under the Foreign Service Act of 1980” for “employees in the Foreign Service of the United States whose pay is fixed under chapter 14 of title 22”.
+
+1979—Subsec. (a)(1)(vii). Pub. L. 96–70, §3302(e)(1), substituted “Commission” for “Company”.
+
+Subsec. (c)(12). Pub. L. 96–70, §3302(e)(6), substituted provisions relating to any Executive agency to the extent of any election under section 1212(b)(2) of the Panama Canal Act of 1979 for provisions relating to employees of an agency who are stationed in the Canal Zone or in the Republic of Panama.
+
+Subsec. (c)(23). Pub. L. 96–54 inserted “and Trademark” after “Patent”.
+
+1978—Subsec. (c)(5). Pub. L. 95–454, §801(a)(3)(D), substituted “5375” for “5365”.
+
+Subsec. (c)(12)(B). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+
+1975—Subsec. (c)(5). Pub. L. 94–183, §2(12), substituted “Executive Protective Service” for “White House Police”.
+
+Subsec. (c)(9). Pub. L. 94–183, §2(13), substituted “305” for “40”.
+
+1973—Subsec. (b). Pub. L. 93–176 extended this chapter to include positions in local boards and appeal boards within the Selective Service System and employees occupying those positions.
+
+1970—Subsec. (c)(1). Pub. L. 91–375 repealed provision declaring this chapter inapplicable to employees in the postal field service whose pay is fixed under chapter 45 of title 39.
+
+Subsec. (c)(4). Pub. L. 91–358 expanded reference to include chief judges, substituted reference to the Superior Court of the District of Columbia for references to the District of Columbia Court of General Sessions and the Juvenile Court of the District of Columbia, and provided that chapter not apply to nonjudicial employees of the District of Columbia court system whose pay is fixed under title 11 of the District of Columbia Code.
+
+1969—Subsec. (c)(5). Pub. L. 91–34 extended provisions to include members of the National Zoological Park police force whose pay is fixed under section 5365 of this title.
+
+1968—Subsec. (c). Pub. L. 90–610 inserted par. (27).
+
+#### Effective Date of 1990 Amendment
+
+Amendment by section 529 \[title I, §§101(b)(9)(F), 104(d)(1)\] of Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+
+Amendment by section 529 \[title I, §109(a)(2)\] of Pub. L. 101–509 effective on first day of first applicable pay period beginning on or after the 30th day following Nov. 5, 1990, see section 529 \[title I, §109(c)\] of Pub. L. 101–509, set out as an Effective Date note under section 5378 of this title.
+
+#### Effective Date of 1987 Amendment
+
+Amendment by Pub. L. 100–135 applicable with respect to pay periods beginning after Sept. 30, 1987, except that any pay increase for employees of Library of Congress, pursuant to such amendment, to be subject to appropriation and to be implemented in four approximately equal annual increments, so that pay parity with Capitol Police occurs beginning with first pay period beginning after Sept. 30, 1990, see section 3 of Pub. L. 100–135, set out as a note under section 167 of Title 2, The Congress.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of this title.
+
+#### Effective Date of 1983 Amendment
+
+Amendment by Pub. L. 97–468 effective on date of transfer of Alaska Railroad to the State \[Jan. 5, 1985\], pursuant to section 1203 of Title 45, Railroads, see section 615(b) of Pub. L. 97–468.
+
+#### Effective Date of 1980 Amendments
+
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L.96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+
+Amendment by Pub. L. 96–191 effective Oct. 1, 1980, see section 10(a) of Pub. L. 96–191.
+
+#### Effective Date of 1979 Amendments
+
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
+
+Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by section 801(a)(3)(D) of Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
+
+Amendment by section 906(2)(2) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Effective Date of 1973 Amendment
+
+Amendment by Pub. L. 93–176 effective not later than beginning of first pay period which begins on or after 90th day following Dec. 5, 1973, see section 4 of Pub. L. 93–176, set out as a note under section 460 of the Appendix to Title 50, War and National Defense.
+
+#### Effective Date of 1970 Amendments
+
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+
+Amendment by Pub. L. 91–358 effective first day of seventh calendar month which begins after July 29, 1970, see section 199(a) of Pub. L. 91–358, set out as a note under section 1257 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 1969 Amendment
+
+Amendment by Pub. L. 91–34 effective at beginning of first pay period which commences on or after June 30, 1969, see section 3(a) of Pub. L. 91–34, set out as an Effective Date note under section 5375 of this title.
+
+#### Effective Date of 1968 Amendment
+
+Amendment by Pub. L. 90–610 effective on first day of first pay period which begins on or after Oct. 21, 1968, see section 3 of Pub. L. 90–610, set out as a note under section 167 of Title 2, The Congress.
+
+#### Effective Date of 1967 Amendment
+
+Section 9(h) of Pub. L. 90–83 provided that: “Section 1(3) \[amending section 1305 of this title\], (10) \[amending section 3324 of this title\], (11) \[amending this section\], (12) \[amending section 5108 of this title\], (22) \[enacting section 5534a of this title\], (23) \[amending the analysis for chapter 55 of this title\], (83)(a) and (d) \[amending section 8344 of this title\], (89) \[amending section 8521 of this title\], (98) \[amending section 902 of this title\], (99) \[amending section 903 of this title\], and (100) \[amending section 8113 of this title\] of this Act is effective as of September 6, 1966, for all purposes.”
+
+#### Repeals
+
+General repealer of provisions inconsistent with Pub. L. 92–392 as not repealing or affecting subsec. (d) of this section, see section 13 of Pub. L. 92–392, Aug. 19, 1972, 86 Stat. 575, set out as a note under section 5341 of this title.
+
+#### Abolition of Atomic Energy Commission
+
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
+
+#### Dissolution of Virgin Islands Corporation
+
+Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by act June 30, 1949, ch. 285, 63 Stat. 350, as amended (48 U.S.C. 1407 et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1, 1966. Act June 30, 1949, was repealed by Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.
+
+#### Civilian Members of Faculty of Air Force Institute of Technology on November 8, 1985
+
+Section 504(c) of Pub. L. 99–145 provided that: “Section 9314(b)(2) of title 10, United States Code (as added by subsection (a)(1)(B)), and section 5102(c)(28) of title 5, United States Code (as added by subsection (b)), shall not apply to any person who on the date of the enactment of this Act \[Nov. 8, 1985\]—
+
+&emsp;“(1) is a civilian member of the faculty of the United States Air Force Institute of Technology;
+
+&emsp;“(2) is paid a rate of basic pay under the General Schedule; and
+
+&emsp;“(3) elects, under procedures prescribed by the Secretary of the Air Force, to continue to be paid under the General Schedule.”
+
+#### Prohibition of Decrease in Basic Pay Rate of Subsec. (c)(7), (8), or (14) Employees
+
+Amendments by Pub. L. 92–392 not to decrease basic pay rate of subsec. (c)(7), (8), or (14) employees in service before effective date of the amendments as to such employees, see section 9(a)(2) of Pub. L. 92–392, Aug. 19, 1972, 86 Stat. 574, set out as a note under section 5343 of this title.
+
+#### Reduction of Basic Pay Rate
+
+Rate of basic pay not to be reduced by reason of the enactment of Pub. L. 91–34, which amended this section, see section 3(b) of Pub. L. 91–34, set out as a note under section 5365 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3327, 5101, 5103, 5331, 5342, 5348, 5349, 5361, 5377, 5380, 5391, 5753, 5754, 5755, 7511 of this title; title 20 section 903; title 29 section 218.
+
+<i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Subsec. (a)(1) does not contain a cl. (ix).</i>
+
+<i><sup>3</sup></i><i> So in original. The period probably should be a semicolon.</i>
+

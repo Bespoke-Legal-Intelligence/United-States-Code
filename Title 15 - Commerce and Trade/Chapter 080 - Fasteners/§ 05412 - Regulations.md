@@ -1,0 +1,6 @@
+### §5412. Regulations
+
+The Secretary shall within 180 days after November 16, 1990, issue such regulations as may be necessary to implement this chapter.
+
+(Pub. L. 101 592, §13, Nov. 16, 1990, 104 Stat. 2952.)
+

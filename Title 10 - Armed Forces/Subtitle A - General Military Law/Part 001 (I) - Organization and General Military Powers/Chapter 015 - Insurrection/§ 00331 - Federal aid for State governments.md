@@ -1,0 +1,32 @@
+### §331 . Federal aid for State governments
+
+Whenever there is an insurrections in any State against its government, the President may, upon the request of its legislature or of its governor if the legislature cannot be convened, call into Federal service such of the militia of the other States, in the number requested by that State, and use such of the armed forces, as he considers necessary to suppress the insurrection.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 15.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+331
+
+50:201.
+
+R.S. 5297.
+
+The words “armed forces” are substituted for the words “land or naval forces of the United States”. The word “governor” is substituted for the word “executive”. The word “may” is substituted for the words “it shall be lawful \* \* \* to”. The words “into Federal service” are substituted for the word “forth” for uniformity and clarity.
+
+#### Cross References
+
+Army National Guard in Federal service, call, see section 12406 of this title.
+
+Use of Army and Air Force as posse comitatus, see section 1385 of Title 18, Crimes and Criminal Procedure.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 5 section 6323.
+

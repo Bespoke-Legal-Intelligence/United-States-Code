@@ -1,0 +1,6 @@
+### §423j. Richmond National Battlefield Park; establishment
+
+When title to all such lands, structures, and other property in the military battlefield area or areas in the city of Richmond, Virginia, or within five miles of the city limits of said city or within five miles of the boundary of the present Richmond Battlefield State Park, as shall be designated by the Secretary of the Interior, in the exercise of his discretion as necessary or desirable for national battlefield park purposes, shall have been vested in the United States, such area or areas shall be established, dedicated, and set apart as a public park for the benefit and inspiration of the people and shall be known as the “Richmond National Battlefield Park”: <i>Provided</i>, That such area or areas shall include, at least, the Richmond Battlefield Parks now belonging to the State of Virginia.
+
+(Mar. 2, 1936, ch. 113, §1, 49 Stat. 1155.)
+

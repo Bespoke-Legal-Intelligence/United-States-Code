@@ -1,0 +1,82 @@
+### §8705. Death claims; order of precedence; escheat
+
+(a) The amount of group life insurance and group accidental death insurance in force on an employee at the date of his death shall be paid, on the establishment of a valid claim, to the person or persons surviving at the date of his death, in the following order of precedence:
+
+&emsp;First, to the beneficiary or beneficiaries designated by the employee in a signed and witnessed writing received before death in the employing office or, if insured because of receipt of annuity or of benefits under subchapter I of chapter 81 of this title as provided by section 8706(b) of this title, in the Office of Personnel Management. For this purpose, a designation, change, or cancellation of beneficiary in a will or other document not so executed and filed has no force or effect.
+
+&emsp;Second, if there is no designated beneficiary, to the widow or widower of the employee.
+
+&emsp;Third, if none of the above, to the child or children of the employee and descendants of deceased children by representation.
+
+&emsp;Fourth, if none of the above, to the parents of the employee or the survivor of them.
+
+&emsp;Fifth, if none of the above, to the duly appointed executor or administrator of the estate of the employee.
+
+&emsp;Sixth, if none of the above, to other next of kin of the employee entitled under the laws of the domicile of the employee at the date of his death.
+
+(b) If, within 1 year after the death of the employee, no claim for payment has been filed by a person entitled under the order of precedence named by subsection (a) of this section, or if payment to the person within that period is prohibited by Federal statute or regulation, payment may be made in the order of precedence as if the person had predeceased the employee, and the payment bars recovery by any other person.
+
+(c) If, within 2 years after the death of the employee, no claim for payment has been filed by a person entitled under the order of precedence named by subsection (a) of this section, and neither the Office nor the administrative office established by the company concerned pursuant to section 8709(b) of this title has received notice that such a claim will be made, payment may be made to the claimant who in the judgment of the Office is equitably entitled thereto, and the payment bars recovery by any other person.
+
+(d) If, within 4 years after the death of the employee, payment has not been made under this section and no claim for payment by a person entitled under this section is pending, the amount payable escheats to the credit of the Employees’ Life Insurance Fund.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 594; Pub. L. 90–83, §1(91), Sept. 11, 1967, 81 Stat. 219; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §1(b), Nov. 2, 1978, 92 Stat. 2481.)
+
+Historical and Revision Notes<br>1966
+
+Act
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 2093.
+
+Aug. 17, 1954, ch. 752, §4, 68 Stat. 738.
+
+Aug. 28, 1962, Pub. L. 87–611, §1, 76 Stat. 406.
+
+In subsection (c), the words “Employees’ Life Insurance Fund” are substituted for “fund created pursuant to section 2094(c) of this title”.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+1967
+
+Act
+
+<i>Section of title 5</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+8705(a)
+
+5 App.: 2093.
+
+Mar. 23, 1966, Pub. L. 89–373, §1, 80 Stat. 78.
+
+In subsection (a), “Civil Service Commission” is substituted for “Commission” on authority of former 5 U.S.C. 2091(a).
+
+In subsection (c), “Commission” is substituted for “Civil Service Commission” for consistency of style. The full title of the Commission is set forth the first time it is used in a section.
+
+#### Amendments
+
+1978—Subsec. (a). Pub. L. 95–583 struck out “or (c)” after “section 8706(b)”.
+
+Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+
+Subsec. (c). Pub. L. 95–454 substituted “Office” for “Commission” wherever appearing.
+
+#### Effective Date of 1978 Amendments
+
+Amendment by Pub. L. 95–583 effective Nov. 2, 1978, see section 3 of Pub. L. 95–583, set out as a note under section 8706 of this title.
+
+Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 8714a, 8714b, 8714c of this title.
+

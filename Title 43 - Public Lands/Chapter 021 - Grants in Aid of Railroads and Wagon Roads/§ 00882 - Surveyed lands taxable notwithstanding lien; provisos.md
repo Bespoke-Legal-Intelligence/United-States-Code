@@ -1,0 +1,10 @@
+### §882. Surveyed lands taxable notwithstanding lien; provisos
+
+No lands granted to any railroad corporation by any Act of Congress shall be exempt from taxation by States, Territories, and municipal corporations on account of the lien of the United States upon the same for the costs of surveying, selecting, and conveying the same, or because no patent has been issued therefor; but this provision shall not apply to lands unsurveyed: <i>Provided</i>, That any such land sold for taxes shall be taken by the purchaser subject to the lien for costs of surveying, selecting, and conveying, to be paid in such manner by the purchaser as the Secretary of the Interior may by rule provide and to all liens of the United States, all mortgages of the United States, and all rights of the United States in respect of such lands: <i>Provided further</i>, That sections 882 to 885 of this title shall apply only to lands situated opposite to and coterminous with completed portions of said roads, and in organized counties: <i>Provided further</i>, That at any sale of lands under the provisions of sections 882 to 885 of this title the United States may become a preferred purchaser, and in such case the lands sold shall be restored to the public domain and disposed of as provided by the laws relating thereto.
+
+(July 10, 1886, ch. 764, §1, 24 Stat. 143.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 883, 884, 885 of this title.
+

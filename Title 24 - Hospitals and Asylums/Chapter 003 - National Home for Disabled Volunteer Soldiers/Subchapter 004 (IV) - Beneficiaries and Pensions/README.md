@@ -1,0 +1,14 @@
+### SUBCHAPTER IV—BENEFICIARIES AND PENSIONS
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 00131 - Repealed. Pub. L. 85&#8211;857, &sect;14(49), Sept. 2, 1958, 72 Stat. 1271](%C2%A7%2000131%20-%20Repealed.%20Pub.%20L.%2085%E2%80%93857%2C%20%C2%A714%2849%29%2C%20Sept.%202%2C%201958%2C%2072%20Stat.%201271.md)
+- [&sect; 00131a, 131b - Omitted](%C2%A7%2000131a%2C%20131b%20-%20Omitted.md)
+- [&sect; 00132 - Repealed. Pub. L. 85&#8211;56, title XXII, &sect;2202(100), June 17, 1957, 71 Stat. 166](%C2%A7%2000132%20-%20Repealed.%20Pub.%20L.%2085%E2%80%9356%2C%20title%20XXII%2C%20%C2%A72202%28100%29%2C%20June%2017%2C%201957%2C%2071%20Stat.%20166.md)
+- [&sect; 00133 to 135 - Repealed. Pub. L. 85&#8211;857, &sect;14(1), (10), (12), (50), (52), (64), Sept. 2, 1958, 72 Stat. 1268, 1269, 1271, 1272](%C2%A7%2000133%20to%20135%20-%20Repealed.%20Pub.%20L.%2085%E2%80%93857%2C%20%C2%A714%281%29%2C%20%2810%29%2C%20%2812%29%2C%20%2850%29%2C%20%2852%29%2C%20%2864%29%2C%20Sept.%202%2C%201958%2C%2072%20Stat.%201268%2C%201269%2C%201271%2C%201272.md)
+- [&sect; 00136 - Repealed. Pub. L. 85&#8211;56, title XXII, &sect;2202(1), (85), June 17, 1957, 71 Stat. 162, 165](%C2%A7%2000136%20-%20Repealed.%20Pub.%20L.%2085%E2%80%9356%2C%20title%20XXII%2C%20%C2%A72202%281%29%2C%20%2885%29%2C%20June%2017%2C%201957%2C%2071%20Stat.%20162%2C%20165.md)
+- [&sect; 00137 - Repealed. July 3, 1930, ch. 863, &sect;7, 46 Stat. 1018](%C2%A7%2000137%20-%20Repealed.%20July%203%2C%201930%2C%20ch.%20863%2C%20%C2%A77%2C%2046%20Stat.%201018.md)
+- [&sect; 00138, 139 - Repealed. Pub. L. 85&#8211;857, &sect;14(4), (5), (26), Sept. 2, 1958, 72 Stat. 1269, 1270](%C2%A7%2000138%2C%20139%20-%20Repealed.%20Pub.%20L.%2085%E2%80%93857%2C%20%C2%A714%284%29%2C%20%285%29%2C%20%2826%29%2C%20Sept.%202%2C%201958%2C%2072%20Stat.%201269%2C%201270.md)

@@ -1,0 +1,58 @@
+### §7306. General requirements and classifications for able seamen
+
+(a) To qualify for an endorsement as able seaman authorized by this section, an applicant must provide satisfactory proof that the applicant—
+
+&emsp;(1) is at least 18 years of age;
+
+&emsp;(2) has the service required by the applicable section of this part;
+
+&emsp;(3) is qualified professionally as demonstrated by an applicable examination or educational requirements; and
+
+&emsp;(4) is qualified as to sight, hearing, and physical condition to perform the seaman's duties.
+
+(b) The classifications authorized for endorsement as able seaman are the following:
+
+&emsp;(1) able seaman—unlimited.
+
+&emsp;(2) able seaman—limited.
+
+&emsp;(3) able seaman—special.
+
+&emsp;(4) able seaman—offshore supply vessels.
+
+&emsp;(5) able seaman—sail.
+
+&emsp;(6) able seaman—fishing industry.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 542; Pub. L. 98–364, title IV, §402(9)(C), July 17, 1984, 98 Stat. 448.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source section (U.S. Code)</i>
+
+7306
+
+46:672(b)
+
+Section 7306(a) establishes the minimum requirements an individual must meet before being issued a merchant mariner's document endorsed for able seamen.
+
+Subsection (b) establishes the classifications of able seamen—unlimited, able seamen—limited, able seamen—special, able seamen—offshore supply vessels, and able seamen—sail.
+
+#### Amendments
+
+1984—Subsec. (b)(6). Pub. L. 98–364 added par. (6).
+
+#### Effective Date
+
+Provisions of this section (related to able seaman—sail) effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under section 3101 of this title.
+
+#### Acceptance of Certain Services Toward Endorsement as Able Seaman
+
+Pub. L. 101–595, title VI, §602(e)(3), Nov. 16, 1990, 104 Stat. 2992, provided that: “For the purposes of chapter 73 of title 46, United States Code, the Secretary of Transportation shall accept the service used by an individual to qualify for an endorsement as able seaman—fishing industry as qualifying service toward an endorsement as an able seaman—
+
+&emsp;“(A) under sections 7307 and 7309 of that title; or
+
+&emsp;“(B) if the service is on board a vessel of at least 100 gross tons, under section 7308 of that title.”
+

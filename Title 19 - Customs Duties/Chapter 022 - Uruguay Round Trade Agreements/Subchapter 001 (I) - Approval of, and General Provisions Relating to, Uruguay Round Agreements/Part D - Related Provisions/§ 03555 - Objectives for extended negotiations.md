@@ -1,0 +1,50 @@
+### §3555. Objectives for extended negotiations
+
+#### (a) Trade in financial services
+
+The principal negotiating objective of the United States in the extended negotiations on financial services to be conducted under the auspices of the WTO is to seek to secure commitments, from a wide range of commercially important developed and developing countries, to reduce or eliminate barriers to the supply of financial services, including barriers that deny national treatment or market access by restricting the establishment or operation of financial services providers, as the condition for the United States—
+
+&emsp;(1) offering commitments to provide national treatment and market access in each of the financial services subsectors, and
+
+&emsp;(2) making such commitments on a most-favored-nation basis.
+
+#### (b) Trade in basic telecommunications services
+
+The principal negotiating objective of the United States in the extended negotiations on basic telecommunications services to be conducted under the auspices of the WTO is to obtain the opening on nondiscriminatory terms and conditions of foreign markets for basic telecommunications services through facilities-based competition or through the resale of services on existing networks.
+
+#### (c) Trade in civil aircraft
+
+#### (1) Negotiations
+
+&emsp;The principal negotiating objectives of the United States in the extended negotiations on trade in civil aircraft to be conducted under the auspices of the WTO are—
+
+&emsp;&emsp;(A) to obtain competitive opportunities for United States exports in foreign markets substantially equivalent to those afforded to foreign products in the United States,
+
+&emsp;&emsp;(B) to obtain the reduction or elimination of specific tariff and nontariff barriers, including through expanded membership in the Agreement on Trade in Civil Aircraft and in the US–EC bilateral agreement for large civil aircraft,
+
+&emsp;&emsp;(C) to maintain vigorous and effective disciplines on subsidies practices with respect to civil aircraft products under the Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of this title,
+
+&emsp;&emsp;(D) to maintain the scope and coverage on indirect support as specified in the US–EC bilateral agreement on large civil aircraft, and
+
+&emsp;&emsp;(E) to obtain increased transparency with respect to foreign subsidy programs in the civil aircraft sector, both through greater government disclosure with respect to the use of taxpayer moneys and higher financial disclosure standards for companies receiving government supports (including disclosure comparable to that required under United States securities laws).
+
+#### (2) Definitions
+
+&emsp;For purposes of paragraph (1)—
+
+&emsp;&emsp;(A) the term “civil aircraft” means those products to which the Agreement on Trade in Civil Aircraft applies,
+
+&emsp;&emsp;(B) the term “large civil aircraft” has the meaning given that term in Annex II to the US–EC bilateral agreement,
+
+&emsp;&emsp;(C) the term “indirect support” means indirect government support as defined in Annex II to the US–EC bilateral agreement,
+
+&emsp;&emsp;(D) the term “Agreement on Trade in Civil Aircraft” means the Agreement on Trade in Civil Aircraft approved by the Congress under section 2503 of this title, and
+
+&emsp;&emsp;(E) the term “US–EC bilateral agreement” means the Agreement Concerning the Application of the GATT Agreement on Trade in Civil Aircraft Between the European Economic Community and the Government of the United States of America on trade in large civil aircraft, entered into on July 17, 1992.
+
+(Pub. L. 103–465, title I, §135, Dec. 8, 1994, 108 Stat. 4840.)
+
+#### Effective Date
+
+Section effective on date on which WTO Agreement enters into force with respect to United States \[Jan. 1, 1995\], see section 138(b) of Pub. L. 103–465, set out as a note under section 3551 of this title.
+

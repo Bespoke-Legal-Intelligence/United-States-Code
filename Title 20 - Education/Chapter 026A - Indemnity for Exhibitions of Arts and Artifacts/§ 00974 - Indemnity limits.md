@@ -1,0 +1,62 @@
+### §974. Indemnity limits
+
+#### (a) Approval of estimated values
+
+Upon receipt of an application meeting the requirements of subsections (a) and (b) of section 973 of this title, the Council shall review the estimated value of the items for which coverage by an indemnity agreement is sought. If the Council agrees with such estimated value, for the purposes of this chapter, the Council shall, after approval of the application as provided in subsection (c) of section 973 of this title, make an indemnity agreement.
+
+#### (b) Maximum limits of coverage
+
+The aggregate of loss or damage covered by indemnity agreements made under this chapter shall not exceed $3,000,000,000 at any one time.
+
+#### (c) Limit for single exhibition
+
+No indemnity agreement for a single exhibition shall cover loss or damage in excess of $300,000,000.
+
+#### (d) Deductible limit
+
+If the estimated value of the items covered by an indemnity agreement for a single exhibition is—
+
+&emsp;(1) $2,000,000 or less, then coverage under this chapter shall extend only to loss or damage in excess of the first $15,000 of loss or damage to items covered;
+
+&emsp;(2) more than $2,000,000 but less than $10,000,000 then coverage under this chapter shall extend only to loss or damage in excess of the first $25,000 of loss or damage to items covered;
+
+&emsp;(3) not less than $10,000,000 but less than $125,000,000, then coverage under this chapter shall extend to loss or damage in excess of the first $50,000 of loss or damage to items covered;
+
+&emsp;(4) not less than $125,000,000 but less than $200,000,<sup>1</sup> then coverage under this chapter shall extend to loss or damage in excess of the first $100,000 of loss or damage to items covered; or
+
+&emsp;(5) $200,000,000 or more, then coverage under the chapter shall extend only to loss or damage in excess of the first $200,000, of loss or damage to items covered.
+
+(Pub. L. 94 158, §5, Dec. 20, 1975, 89 Stat. 845; Pub. L. 96 496, title III, §§301, 302, Dec. 4, 1980, 94 Stat. 2593; Pub. L. 99 194, title III, §303, Dec. 20, 1985, 99 Stat. 1345; Pub. L. 100 202, §101(g) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329 213, 1329 249; Pub. L. 101 512, title III, §318 \[title III, §301\], Nov. 5, 1990, 104 Stat. 1960, 1976.)
+
+#### Amendments
+
+1990—Subsec. (b). Pub. L. 101 512, §318 \[title III, §301(a)\], substituted “$3,000,000,000” for “$1,200,000,000”.
+
+Subsec. (c). Pub. L. 101 512, §318 \[title III, §301(b)(1)\], substituted “$300,000,000” for “$125,000,000”.
+
+Subsec. (d)(3). Pub. L. 101 512, §318 \[title III, §301(b)(2)(B)\], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “$10,000,000 or more, then coverage under this chapter shall extend only to loss or damage in excess of the first $50,000 of loss or damage to items covered.”
+
+Subsec. (d)(4), (5). Pub. L. 101 512, §318 \[title III, §301(b)(2)(A), (C)\], added pars. (4) and (5).
+
+1987—Subsec. (b). Pub. L. 100 202 substituted “$1,200,000,000” for “$650,000,000”.
+
+Subsec. (c). Pub. L. 100 202 substituted “$125,000,000” for “$75,000,000”.
+
+1985—Subsec. (b). Pub. L. 99 194, §303(a), substituted “$650,000,000” for “$400,000,000”.
+
+Subsec. (c). Pub. L. 99 194, §303(b), substituted “$75,000,000” for “$50,000,000”.
+
+1980—Subsec. (b). Pub. L. 96 496, §301, substituted “$400,000,000” for “$250,000,000”.
+
+Subsec. (d). Pub. L. 96 496, §302, substituted provisions relating to deductible amounts under indemnity agreements for provisions limiting coverage under this chapter to loss or damage in excess of the first $15,000 resulting from a single exhibition.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101 512 effective Oct. 1, 1990, see section 318 \[title IV, §403(b)\] of Pub. L. 101 512, set out as a note under section 951 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 975 of this title.
+
+<i><sup>1</sup></i><i>So in original. Probably should be “$200,000,000,”.</i>
+

@@ -1,0 +1,74 @@
+### §3063. Basic branches
+
+(a) The Secretary of the Army may assign members of the Army to its basic branches. The basic branches are—
+
+&emsp;(1) Infantry;
+
+&emsp;(2) Armor;
+
+&emsp;(3) Artillery;
+
+&emsp;(4) Corps of Engineers;
+
+&emsp;(5) Signal Corps;
+
+&emsp;(6) Adjutant General's Corps;
+
+&emsp;(7) Quartermaster Corps;
+
+&emsp;(8) Finance Corps;
+
+&emsp;(9) Ordnance Corps;
+
+&emsp;(10) Chemical Corps;
+
+&emsp;(11) Transportation Corps;
+
+&emsp;(12) Military Police Corps; and
+
+&emsp;(13) such other basic branches as the Secretary considers necessary.
+
+(b) The Secretary may discontinue or consolidate basic branches of the Army for the duration of any war, or of any national emergency declared by Congress.
+
+(c) The Secretary may not assign to a basic branch any commissioned officer appointed in a special branch.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 166.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+3063(a)
+
+10:1g(a) (less words of 1st sentence after semicolon, and less last sentence).
+
+June 28, 1950, ch. 383, §306(a), 64 Stat. 269.
+
+3063(b)
+
+10:1g(a) (last sentence).
+
+3063(c)
+
+10:1g(a) (words of 1st sentence after semicolon).
+
+In subsection (a), the words “The basic branches are” are substituted for the words “There shall be in the Army certain branches, which shall be known as basic branches of the Army” and “The basic branches of the Army shall be”.
+
+In subsection (b), the words “enumerated in this subsection” are omitted as surplusage. The word “hereafter” is omitted, since all wars and emergencies declared by Congress before June 29, 1950, have been terminated.
+
+In subsection (c), the words “and commissioned” are omitted as covered by the word “appointed”. The words “specified in subsection (b) of this section” are omitted as surplusage. The word “commissioned” is inserted before the word “officer”, for clarity.
+
+#### Philippine Scouts
+
+Section 42 of act Aug. 10, 1956, provided that: “The President is authorized to form the Philippine Scouts into such branches and tactical units as he may deem expedient, within the limit of strength prescribed by law, organized similarly to those of the Regular Army.”
+
+#### Cross References
+
+Chiefs of branches: appointment; duties, see section 3036 of this title.
+
+Engineer tactical units, see section 3074 of this title.
+

@@ -1,0 +1,166 @@
+### §1503. Determinations with respect to annual income
+
+(a) In determining annual income under this chapter, all payments of any kind or from any source (including salary, retirement or annuity payments, or similar income, which has been waived, irrespective of whether the waiver was made pursuant to statute, contract, or otherwise) shall be included except—
+
+&emsp;(1) donations from public or private relief or welfare organizations;
+
+&emsp;(2) payments under this chapter;
+
+&emsp;(3) amounts equal to amounts paid by a spouse of a veteran for the expenses of such veteran's last illness, and by a surviving spouse or child of a deceased veteran for—
+
+&emsp;&emsp;(A) such veteran's just debts,
+
+&emsp;&emsp;(B) the expenses of such veteran's last illness, and
+
+&emsp;&emsp;(C) the expenses of such veteran's burial to the extent such expenses are not reimbursed under chapter 23 of this title;
+
+&emsp;(4) amounts equal to amounts paid—
+
+&emsp;&emsp;(A) by a veteran for the last illness and burial of such veteran's deceased spouse or child, or
+
+&emsp;&emsp;(B) by the spouse of a living veteran or the surviving spouse of a deceased veteran for the last illness and burial of a child of such veteran;
+
+&emsp;(5) reimbursements of any kind for any casualty loss (as defined in regulations which the Secretary shall prescribe), but the amount excluded under this clause may not exceed the greater of the fair market value or reasonable replacement value of the property involved at the time immediately preceding the loss;
+
+&emsp;(6) profit realized from the disposition of real or personal property other than in the course of a business;
+
+&emsp;(7) amounts in joint accounts in banks and similar institutions acquired by reason of death of other joint owner;
+
+&emsp;(8) amounts equal to amounts paid by a veteran, veterans’ spouse, or surviving spouse or by or on behalf of a veteran's child for unreimbursed medical expenses, to the extent that such amounts exceed 5 percent of the maximum annual rate of pension (including any amount of increased pension payable on account of family members but not including any amount of pension payable because a person is in need of regular aid and attendance or because a person is permanently housebound) payable to such veteran, surviving spouse, or child;
+
+&emsp;(9) in the case of a veteran or surviving spouse pursuing a course of education or vocational rehabilitation or training, amounts equal to amounts paid by such veteran or surviving spouse for such course of education or vocational rehabilitation or training, including (A) amounts paid for tuition, fees, books, and materials, and (B) in the case of such a veteran or surviving spouse in need of regular aid and attendance, unreimbursed amounts paid for unusual transportation expenses in connection with the pursuit of such course of education or vocational rehabilitation or training, to the extent that such amounts exceed the reasonable expenses which would have been incurred by a nondisabled person using an appropriate means of transportation (public transportation, if reasonably available); and
+
+&emsp;(10) in the case of a child, any current-work income received during the year, to the extent that the total amount of such income does not exceed an amount equal to the sum of—
+
+&emsp;&emsp;(A) the lowest amount of gross income for which an income tax return is required under section 6012(a) of the Internal Revenue Code of 1986, to be filed by an individual who is not married (as determined under section 7703 of such Code), is not a surviving spouse (as defined in section 2(a) of such Code), and is not a head of household (as defined in section 2(b) of such Code); and
+
+&emsp;&emsp;(B) if the child is pursuing a course of postsecondary education or vocational rehabilitation or training, the amount paid by such child for such course of education or vocational rehabilitation or training, including the amount paid for tuition, fees, books, and materials.
+
+(b) Where a fraction of a dollar is involved, annual income shall be fixed at the next lower dollar.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §503; Pub. L. 86–211, §2(a), Aug. 29, 1959, 73 Stat. 432; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–664, §1, Oct. 13, 1964, 78 Stat. 1094; Pub. L. 90–77, title I, §103, Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–588, §7, Dec. 24, 1970, 84 Stat. 1584;Pub. L. 92–198, §2, Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–425, §6(2), Sept. 21, 1972, 86 Stat. 713; Pub. L. 94–169, title I, §§101(2)(A), 106(3)–(8), Dec. 23, 1975, 89 Stat. 1013, 1017; Pub. L. 95–588, title I, §102, Nov. 4, 1978, 92 Stat. 2497; Pub. L. 97–295, §4(13), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–687, div. B, title XIV, §1402(b), Nov. 18, 1988, 102 Stat. 4130; Pub. L. 102–54, §14(b)(5), June 13, 1991, 105 Stat. 283; renumbered §1503 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+
+#### References in Text
+
+Sections 2, 6012(a), and 7703 of the Internal Revenue Code of 1986, referred to in subsec. (a)(10)(A), are classified to sections 2, 6012(a), and 7703 of Title 26, Internal Revenue Code, respectively.
+
+#### Prior Provisions
+
+Prior section 1503 was renumbered section 3103 of this title.
+
+Another prior section 1503, added Pub. L. 89–138, §1, Aug. 26, 1965, 79 Stat. 577; amended Pub. L. 91–24, §8, June 11, 1969, 83 Stat. 34; Pub. L. 94–502, title I, §§102, 104(2), (3), Oct. 15, 1976, 90 Stat. 2384, related to periods of eligibility for vocational rehabilitation under chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1503 continue in effect until Mar. 31, 1981.
+
+Another prior section 1503, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1171, was renumbered 1511 by Pub. L. 89–138, §2(4), Aug. 26, 1965, 79 Stat. 578.
+
+#### Amendments
+
+1991—Pub. L. 102–83, §5(a), renumbered section 503 of this title as this section.
+
+Subsec. (a)(5). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+
+Subsec. (a)(8). Pub. L. 102–54, §14(b)(5)(A), substituted “percent” for “per centum”.
+
+Subsec. (a)(10)(A). Pub. L. 102–54, §14(b)(5)(B), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954 (26 U.S.C. 6012(a))” and “section 7703” for “section 143”.
+
+1988—Subsec. (a)(5). Pub. L. 100–687 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “proceeds of fire insurance policies;”.
+
+1982—Subsec. (a)(10)(A). Pub. L. 97–295 inserted “(26 U.S.C. 6012(a))” after “Code of 1954”.
+
+1978—Subsec. (a)(1). Pub. L. 95–588, §102(a)(1), (2), redesignated par. (2) as (1) and struck out former par. (1) which related to payments of six-months death gratuity.
+
+Subsec. (a)(2). Pub. L. 95–588, §102(a)(3), redesignated par. (3) as (2) and, as so redesignated, struck out “, and chapters 11 and 13 (except section 412(a)) of this title” after “chapter”. Former par. (2) redesignated (1).
+
+Subsec. (a)(3). Pub. L. 95–588, §102(a)(5), redesignated par. (7) as (3). Former par. (3) redesignated (2).
+
+Subsec. (a)(4). Pub. L. 95–588, §102(a)(4), (6), added par. (4) and struck out former par. (4) which related to payments under servicemen's life insurance or servicemen's indemnity.
+
+Subsec. (a)(5). Pub. L. 95–588, §102(a)(4), (7), redesignated par. (8) as (5) and struck out former par. (5) which related to lump sum death payments.
+
+Subsec. (a)(6). Pub. L. 95–588, §102(a)(4), (9), redesignated par. (10) as (6) and struck out former par. (6) which related to the ten per cent exclusion for individuals under public or private retirement, annuity, endowment, or similar programs.
+
+Subsec. (a)(7). Pub. L. 95–588, §102(a)(11), redesignated par. (15) as (7). Former par. (7) redesignated (3).
+
+Subsec. (a)(8). Pub. L. 95–588, §102(a)(13), added par. (8). Former par. (8) redesignated (5).
+
+Subsec. (a)(9). Pub. L. 95–588, §102(a)(8), (13), added par. (9) and struck out former par. (9) which related to payments for final illness and burial.
+
+Subsec. (a)(10). Pub. L. 95–588, §102(a)(13), added par. (10). Former subsec. (10) redesignated (6).
+
+Subsec. (a)(11) to (14). Pub. L. 95–588, §102(a)(10), struck out pars. (11) to (14) which related to payments for discharge of jury duty, educational assistance allowances, bonuses based on service in the Armed Forces, and indebtednesses secured by mortgages, respectively.
+
+Subsec. (a)(15). Pub. L. 95–588, §102(a)(11), redesignated par. (15) as (7).
+
+Subsec. (a)(16), (17). Pub. L. 95–588, §102(a)(12), struck out pars. (16) and (17) which related to payments received by retired persons and payments of annuities, respectively.
+
+Subsec. (c). Pub. L. 95–588, §102(b), struck out former subsec. (c) which related to the power of the Administrator to exclude from income amounts paid by a veteran, surviving spouse, or child for unusual medical expenses.
+
+1975—Subsec. (a)(7). Pub. L. 94–169, §106(3), (4), substituted “spouse” for “wife”, “such veteran's” for “his” and “surviving spouse” for “widow” in introductory clause and “such veteran's” for “his” in subcls. (A), (B) and (C).
+
+Subsec. (a)(9). Pub. L. 94–169, §106(5), substituted “such veteran's” for “his” in subcl. (A) and “surviving spouse” and “spouse” for “widow” and “wife”, respectively, in subcl. (B).
+
+Subsec. (a)(14). Pub. L. 94–169, §106(6), substituted “such veteran's surviving spouse” for “his widow”.
+
+Subsec. (a)(16). Pub. L. 94–169, §§101(2)(A), 106(7), inserted “and” after “as amended;”, and substituted “such employee's” for “his”, respectively.
+
+Subsec. (c). Pub. L. 94–169, §106(8), substituted “surviving spouse” for “widow”.
+
+1972—Par. (17). Pub. L. 92–425 substituted “subchapter I of chapter 73 of title 10” for “chapter 73 of title 10”.
+
+1971—Pub. L. 92–198 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+1970—Par. (4). Pub. L. 91–588, §7(1), inserted reference to servicemen's group life insurance.
+
+Pars. (14) to (17). Pub. L. 91–588, §7(3), added pars. (14) to (17).
+
+1967—Par. (7). Pub. L. 90–77, §103(a), provided for exclusion of amounts paid by a wife of a veteran for the expenses of his past illness.
+
+Par. (9). Pub. L. 90–77, §103(b), designated existing provisions as subpar. (A) and added subpar. (B).
+
+1964—Par. (6). Pub. L. 88–664, §1(a), inserted “10 per centum of the amount of” before “payments” and struck out “equal to his contributions thereto” after “programs”.
+
+Pars. (9) to (13). Pub. L. 88–664, §1(b), added pars. (9) to (13).
+
+1961—Pub. L. 87–268 substituted “section 412(a)” for “section 412”.
+
+1959—Pub. L. 86–211 among other changes, required the inclusion of all payments of any kind or from any source (including salary, retirement or annuity payments, or similar income, which has been waived), and permitted the exclusion of donations from public or private relief or welfare organizations, payments under policies of United States Government life insurance or National Service Life Insurance, and payments of servicemen's indemnity, lump sum death payments, payments to an individual under public or private retirement, annuity, endowment, or similar plans or programs equal to his contributions thereto, amounts equal to amounts paid by a widow or child for the veteran's just debts, expenses of his last illness, and expenses of his burial to the extent such expenses are not reimbursed under chapter 23 of this title, and proceeds of life insurance policies.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–588 effective Jan. 1, 1979, see section 401 of Pub. L. 95–588, set out as a note under section 101 of this title.
+
+#### Effective Date of 1975 Amendment
+
+Sections 101 and 106 of Pub. L. 94–169 provided that the amendments made by those sections are effective Jan. 1, 1976.
+
+#### Effective Date of 1971 Amendment
+
+Amendment by Pub. L. 92–198 effective Jan. 1, 1972, see section 6 of Pub. L. 92–198, set out as a note under section 1521 of this title.
+
+#### Effective Date of 1970 Amendment
+
+Amendment by Pub. L. 91–588 effective Jan. 1, 1971, see section 10(a) of Pub. L. 91–588, set out as a note under section 1521 of this title.
+
+#### Effective Date of 1967 Amendment
+
+Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
+
+#### Effective Date of 1964 Amendment
+
+Section 11 of Pub. L. 88–664 provided that:
+
+“(a) Except as otherwise provided herein, this Act \[amending this section and sections 502, 506, 521, 541, 542, 612, and 3104 \[now 1502, 1506, 1521, 1541, 1542, 1712, and 5304\] of this title and enacting provisions set out as a note under section 1521 of this title\] shall take effect on January 1, 1965.
+
+“(b) The amendment to paragraph (6) of section 503 \[now 1503\], title 38, United States Code, shall not apply to any individual receiving pension on December 31, 1964, under chapter 15 of said title, or subsequently determined entitled to such pension for said day, until his contributions have been recouped under the provision of that paragraph in effect on December 31, 1964.”
+
+#### Effective Date of 1961 Amendment
+
+Amendment by Pub. L. 87–268 effective Oct. 1, 1961, see section 3 of Pub. L. 87–268, set out as a note under section 1312 of this title.
+
+#### Effective Date of 1959 Amendment
+
+Amendment by Pub. L. 86–211 effective July 1, 1960, see section 10 of Pub. L. 86–211, set out as an Effective Date note under section 1506 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 111, 1710, 1712, 1722A of this title.
+

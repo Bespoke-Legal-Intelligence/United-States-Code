@@ -1,0 +1,46 @@
+### §2507. Data collection authority of President
+
+(a)
+
+Authority.—The President shall be entitled, by regulation, subpoena, or otherwise, to obtain such information from, require such reports and the keeping of such records by, make such inspection of the books, records, and other writings, premises or property of, and take the sworn testimony of, and administer oaths and affirmations to, any person as may be necessary or appropriate, in the President's discretion, to the enforcement or the administration of this chapter and the regulations issued under this chapter.
+
+(b)
+
+Condition for Use of Authority.—The President shall issue regulations insuring that the authority of this section will be used only after the scope and purpose of the investigation, inspection, or inquiry to be made have been defined by competent authority and it is assured that no adequate and authoritative data are available from any Federal or other responsible agency.
+
+(c)
+
+Penalty for Noncompliance.—Any person who willfully performs any act prohibited or willfully fails to perform any act required by the provisions of subsection (a), or any rule, regulation, or order thereunder, shall be fined under title 18 or imprisoned not more than one year, or both.
+
+(d)
+
+Limitations on Disclosure of Information.—Information obtained under section (a) which the President deems confidential or with reference to which a request for confidential treatment is made by the person furnishing such information shall not be published or disclosed unless the President determines that the withholding thereof is contrary to the interest of thenational defense. Any person who willfully violates this subsection shall be fined under title 18 or imprisoned not more than one year, or both.
+
+(e)
+
+Regulations.—The President may make such rules, regulations, and orders as he considers necessary or appropriate to carry out the provisions of this section. Any regulation or order under this section may be established in such form and manner, may contain such classification and differentiations, and may provide for such adjustments and reasonable exceptions as in the judgment of the President are necessary or proper to effectuate the purposes of this section, or to prevent circumvention or evasion, or to facilitate enforcement of this section, or any rule, regulation, or order issued under this section.
+
+(f)
+
+Definitions.—In this section:
+
+&emsp;(1) The term “person” includes an individual, corporation, partnership, association, or any other organized group of persons, or legal successor or representative of the foregoing, and includes the United States or any agency thereof, or any other government, or any of its political subdivisions, or any agency of any of the foregoing, except that no punishment provided by this section shall apply to the United States, or to any such government, political subdivision, or government agency.
+
+&emsp;(2) The term “national defense” means programs for military and atomic energy production or construction, military assistance to any foreign nation, stockpiling, space, and directly related activity.
+
+(Added Pub. L. 102–484, div. D, title XLII, §4217, Oct. 23, 1992, 106 Stat. 2670; amended Pub. L. 103–160, div. A, title XI, §1182(b)(1), Nov. 30, 1993, 107 Stat. 1772.)
+
+#### Prior Provisions
+
+A prior section 2507 was renumbered section 2534 of this title.
+
+A prior section 2508 was renumbered section 2522 of this title and subsequently repealed.
+
+A prior section 2509, added Pub. L. 101–510, div. A, title VIII, §825(a), Nov. 5, 1990, 104 Stat. 1604; amended Pub. L. 102–484, div. A, title X, §1052(34), Oct. 23, 1992, 106 Stat. 2501, required submission of defense industrial base annual reports, prior to repeal by Pub. L. 102–484, §4202(a).
+
+A prior section 2510, added Pub. L. 101–510, div. A, title VIII, §826(a)(1), Nov. 5, 1990, 104 Stat. 1605, related to defense industrial base for textile and apparel products, prior to repeal by Pub. L. 102–484, §4202(a).
+
+#### Amendments
+
+1993—Pub. L. 103–160 inserted headings in subsecs. (a) to (f).
+

@@ -1,0 +1,70 @@
+### §105. Power of court
+
+(a) The court may issue any order, process, or judgment that is necessary or appropriate to carry out the provisions of this title. No provision of this title providing for the raising of an issue by a party in interest shall be construed to preclude the court from, sua sponte, taking any action or making any determination necessary or appropriate to enforce or implement court orders or rules, or to prevent an abuse of process.
+
+(b) Notwithstanding subsection (a) of this section, a court may not appoint a receiver in a case under this title.
+
+(c) The ability of any district judge or other officer or employee of a district court to exercise any of the authority or responsibilities conferred upon the court under this title shall be determined by reference to the provisions relating to such judge, officer, or employee set forth in title 28. This subsection shall not be interpreted to exclude bankruptcy judges and other officers or employees appointed pursuant to chapter 6 of title 28 from its operation.
+
+(d) The court, on its own motion or on the request of a party in interest, may—
+
+&emsp;(1) hold a status conference regarding any case or proceeding under this title after notice to the parties in interest; and
+
+&emsp;(2) unless inconsistent with another provision of this title or with applicable Federal Rules of Bankruptcy Procedure, issue an order at any such conference prescribing such limitations and conditions as the court deems appropriate to ensure that the case is handled expeditiously and economically, including an order that—
+
+&emsp;&emsp;(A) sets the date by which the trustee must assume or reject an executory contract or unexpired lease; or
+
+&emsp;&emsp;(B) in a case under chapter 11 of this title—
+
+&emsp;&emsp;&emsp;(i) sets a date by which the debtor, or trustee if one has been appointed, shall file a disclosure statement and plan;
+
+&emsp;&emsp;&emsp;(ii) sets a date by which the debtor, or trustee if one has been appointed, shall solicit acceptances of a plan;
+
+&emsp;&emsp;&emsp;(iii) sets the date by which a party in interest other than a debtor may file a plan;
+
+&emsp;&emsp;&emsp;(iv) sets a date by which a proponent of a plan, other than the debtor, shall solicit acceptances of such plan;
+
+&emsp;&emsp;&emsp;(v) fixes the scope and format of the notice to be provided regarding the hearing on approval of the disclosure statement; or
+
+&emsp;&emsp;&emsp;(vi) provides that the hearing on approval of the disclosure statement may becombined with the hearing on confirmation of the plan.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 98–353, title I, §118, July 10, 1984, 98 Stat. 344; Pub. L. 99–554, title II, §203, Oct. 27, 1986, 100 Stat. 3097; Pub. L. 103–394, title I, §104(a), Oct. 22, 1994, 108 Stat. 4108.)
+
+#### Historical and Revision Notes
+
+I74senate report no. 95–989
+
+Section 105 is derived from section 2a (15) of present law \[section 11(a)(15) of former title 11\], with two changes. First, the limitation on the power of a bankruptcy judge (the power to enjoin a court being reserved to the district judge) is removed as inconsistent with the increased powers and jurisdiction of the new bankruptcy court. Second, the bankruptcy judge is prohibited from appointing a receiver in a case under title 11 under any circumstances. The bankruptcy code has ample provision for the appointment of a trustee when needed. Appointment of a receiver would simply circumvent the established procedures.
+
+This section is also an authorization, as required under 28 U.S.C. 2283, for a court of the United States to stay the action of a State court. As such, <i>Toucey v. New York Life Insurance Company</i>, 314 U.S. 118 (1941), is overruled.
+
+#### References in Text
+
+The Federal Rules of Bankruptcy Procedure, referred to in subsec. (d)(2), are set out in the Appendix to this title.
+
+#### Amendments
+
+1994—Subsec. (d). Pub. L. 103–394 added subsec. (d).
+
+1986—Subsec. (a). Pub. L. 99–554 inserted at end “No provision of this title providing for the raising of an issue by a party in interest shall be construed to preclude the court from, sua sponte, taking any action or making any determination necessary or appropriate to enforce or implement court orders or rules, or to prevent an abuse of process.”
+
+1984—Subsecs. (a), (b). Pub. L. 98–353, §118(1), struck out “bankruptcy” before “court”.
+
+Subsec. (c). Pub. L. 98–353, §118(2), added subsec. (c).
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Effective date and applicability of amendment by Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–353 effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out as an Effective Date note under section 151 of Title 28, Judiciary and Judicial Procedure.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 106 of this title.
+

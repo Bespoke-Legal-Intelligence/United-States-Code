@@ -1,0 +1,10 @@
+### §402. Leases of surplus lands
+
+The surplus lands of any tribe may be leased for farming purposes by the council of such tribe under the same rules and regulations and for the same term of years as was on August 15, 1894, allowed in the case of leases for grazing purposes.
+
+(Aug. 15, 1894, ch. 290, §1, 28 Stat. 305.)
+
+#### Cross References
+
+Lease on unallotted irrigable lands for farming purposes, see section 402a of this title.
+

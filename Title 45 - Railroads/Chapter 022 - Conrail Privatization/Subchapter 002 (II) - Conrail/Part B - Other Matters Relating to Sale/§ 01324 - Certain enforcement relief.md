@@ -1,0 +1,16 @@
+### §1324. Certain enforcement relief
+
+#### (a) Enforcement actions
+
+The Secretary of Transportation, with respect to any provision of section 1321 or 1322 of this title, and any person who suffers direct and substantial economic injury as a result of an alleged violation by the Corporation, with respect to the provisions of section 1321(a)(1) and (2) <sup>1</sup> of this title, and section 1322 of this title, may bring an action to require compliance with such provision.
+
+#### (b) Special court
+
+Any action brought under this subchapter shall be brought before the special court established under section 719 of this title. Such special court may limit the enforcement of a restriction under section 1321 of this title, if the effect of such restriction would be to substantially impair the continued viability of the Corporation.
+
+(Pub. L. 99–509, title IV, §4025, Oct. 21, 1986, 100 Stat. 1905.)
+
+#### References in Text
+
+Section 1321(a)(2) of this title, referred to in subsec. (a), was repealed by Pub. L. 101–213, §2(b)(3), Dec. 11, 1989, 103 Stat. 1843.
+

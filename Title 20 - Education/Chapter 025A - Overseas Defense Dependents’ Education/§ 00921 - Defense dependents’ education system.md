@@ -1,0 +1,68 @@
+### §921. Defense dependents’ education system
+
+#### (a) Establishment
+
+The Secretary of Defense shall establish and operate a program (hereinafter in this chapter referred to as the “defense dependents’ education system”) to provide a free public education through secondary school for dependents in overseas areas.
+
+#### (b) Program purposes and activities
+
+(1) The Secretary shall ensure that individuals eligible to recieve<sup>1</sup> a free public education under subsection (a) of this section receive an education of high quality.
+
+(2) In establishing the defense dependents’ education system under subsection (a) of this section, the Secretary shall provide programs designed to meet the special needs of—
+
+&emsp;(A) the handicapped,
+
+&emsp;(B) individuals in need of compensatory education,
+
+&emsp;(C) individuals with an interest in vocational education,
+
+&emsp;(D) gifted and talented individuals, and
+
+&emsp;(E) individuals of limited English-speaking ability.
+
+(3) The Secretary shall provide a developmental preschool program to individuals eligible to receive a free public education under subsection (a) of this section who are of preschool age if a preschool program is not otherwise available for such individuals and if funds for such a program are available.
+
+#### (c) Consultation requirements
+
+The Secretary of Defense shall consult with the Secretary of Education on the educational programs and practices of the defense dependents’ education system.
+
+#### (d) Optional summer school programs
+
+(1) The Secretary of Defense may provide optional summer school programs in the defense dependents’ education system.
+
+(2) The Secretary shall provide in regulations for fees to be charged for the students enrolling in a summer school program under this subsection in amounts determined on the basis of family income.
+
+(3) The amounts received by the Secretary in payment of the fees shall be available to the Department of Defense for defraying the costs of conducting summer school programs under this subsection.
+
+(Pub. L. 95 561, title XIV, §1402, Nov. 1, 1978, 92 Stat. 2365; Pub. L. 99 145, title XII, §1204(b)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 102 484, div. A, title III, §382, Oct. 23, 1992, 106 Stat. 2392.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XIV of Pub. L. 95 561, Nov. 1, 1978, 92 Stat. 2365, as amended, known as the Defense Dependents’ Education Act of 1978, which enacted this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amended sections 1773 and 1789 of Title 42, and enacted provisions set out as notes under this section. For complete classification of this title to the Code, see Short Title note below and Tables.
+
+#### Amendments
+
+1992—Subsec. (d). Pub. L. 102 484 added subsec. (d).
+
+1985—Subsec. (c). Pub. L. 99 145 added subsec. (c).
+
+#### Effective Date
+
+Section 1415 of title XIV of Pub. L. 95 561 provided that:
+
+“(a)(1) Except as provided in paragraph (2) this title \[see Short Title note below\] shall take effect on July 1, 1979.
+
+“(2) Section 1407(b) \[enacting section 926(b) of this title\] and the amendments made by section 1407(c) \[enacting section 429 of Title 37, Pay and Allowances of the Uniformed Services\], 1408(a) \[enacting section 1769b of Title 42, The Public Health and Welfare\], and 1408(b) \[amending sections 1773 and 1789 of Title 42\] shall take effect on October 1, 1978.
+
+“(b) Notwithstanding subsection (a) or any other provision of this title no provision of this title shall be construed to impair or prevent the taking effect of the provision of any other Act providing for the transfer of the functions described in this title to an executive department having responsibility for education.”
+
+#### Short Title
+
+Section 1401 of title XIV of Pub. L. 95 561 provided that: “This title \[enacting this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amending sections 1773 and 1789 of Title 42, and enacting provisions set out as a note under this section\] may be cited as the ‘Defense Dependents’ Education Act of 1978’.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 927 of this title.
+
+<i><sup>1</sup></i><i>So in original. Probably should be “receive”.</i>
+

@@ -1,0 +1,16 @@
+version = 1
+
+# Section and division files: United States Code text inside our arrangement (folders, file names, padded
+# numbering, normalised capitals). CC-BY-4.0 covers the arrangement only. The statute text is a work of the United
+# States Government and is not claimed: see LICENSES/LicenseRef-US-Government-Work.txt and NOTICE.md.
+[[annotations]]
+path = ["Title */**"]
+SPDX-FileCopyrightText = "2026 Joshua Pearlman (arrangement only; United States Code text not claimed)"
+SPDX-License-Identifier = "CC-BY-4.0 AND LicenseRef-US-Government-Work"
+
+# Files that are entirely our own work: front page, notices, gap list, page tables and page maps.
+# Listed after the entry above on purpose: when two entries cover a file, the last one applies (REUSE 3.2).
+[[annotations]]
+path = ["README.md", "NOTICE.md", "LICENSE", "CITATION.cff", "REUSE.toml", "GAPS.md", ".gitattributes", "_page-maps/**", "Title */PAGES.md"]
+SPDX-FileCopyrightText = "2026 Joshua Pearlman"
+SPDX-License-Identifier = "CC-BY-4.0"

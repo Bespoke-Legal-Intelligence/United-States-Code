@@ -1,0 +1,10 @@
+### §277d–20. Limitation on application for reimbursement or compensation
+
+Application for reimbursement or compensation under section 277d–19 of this title shall be submitted to the Commissioner within either one year from the date of acquisition or the date of vacating the premises by the applicant, whichever date is later. Applications not submitted within said period shall be forever barred.
+
+(Pub. L. 88–300, §4, Apr. 29, 1964, 78 Stat. 185.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 277d–17, 277d–18, 277d–22, 277d–24, 277d–25 of this title.
+

@@ -1,0 +1,150 @@
+### §1812. Management
+
+#### (a) Board of Directors
+
+#### (1) In general
+
+&emsp;The management of the Corporation shall be vested in a Board of Directors consisting of 5 members—
+
+&emsp;&emsp;(A) 1 of whom shall be the Comptroller of the Currency;
+
+&emsp;&emsp;(B) 1 of whom shall be the Director of the Office of Thrift Supervision; and
+
+&emsp;&emsp;(C) 3 of whom shall be appointed by the President, by and with the advice and consent of the Senate, from among individuals who are citizens of the United States.
+
+#### (2) Political affiliation
+
+&emsp;After February 28, 1993, not more than 3 of the members of the Board of Directors may be members of the same political party.
+
+#### (b) Chairperson and Vice Chairperson
+
+#### (1) Chairperson
+
+&emsp;1 of the appointed members shall be designated by the President, by and with the advice and consent of the Senate, to serve as Chairperson of the Board of Directors for a term of 5 years.
+
+#### (2) Vice Chairperson
+
+&emsp;1 of the appointed members shall be designated by the President, by and with the advice and consent of the Senate, to serve as Vice Chairperson of the Board of Directors.
+
+#### (3) Acting Chairperson
+
+&emsp;In the event of a vacancy in the position of Chairperson of the Board of Directors or during the absence or disability of the Chairperson, the Vice Chairperson shall act as Chairperson.
+
+#### (c) Terms
+
+#### (1) Appointed members
+
+&emsp;Each appointed member shall be appointed for a term of 6 years.
+
+#### (2) Interim appointments
+
+&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which such member's predecessor was appointed shall be appointed only for the remainder of such term.
+
+#### (3) Continuation of service
+
+&emsp;The Chairperson, Vice Chairperson, and each appointed member may continue to serve after the expiration of the term of office to which such member was appointed until a successor has been appointed and qualified.
+
+#### (d) Vacancy
+
+#### (1) In general
+
+&emsp;Any vacancy on the Board of Directors shall be filled in the manner in which the original appointment was made.
+
+#### (2) Acting officials may serve
+
+&emsp;In the event of a vacancy in the office of the Comptroller of the Currency or the office of Director of the Office of Thrift Supervision and pending the appointment of a successor, or during the absence or disability of the Comptroller or such Director, the acting Comptroller of the Currency or the acting Director of the Office of Thrift Supervision, as the case may be, shall be a member of the Board of Directors in the place of the Comptroller or Director.
+
+#### (e) Ineligibility for other offices
+
+#### (1) Postservice restriction
+
+#### (A) In general
+
+&emsp;&emsp;No member of the Board of Directors may hold any office, position, or employment in any insured depository institution or any depository institution holding company during—
+
+&emsp;&emsp;&emsp;(i) the time such member is in office; and
+
+&emsp;&emsp;&emsp;(ii) the 2-year period beginning on the date such member ceases to serve on the Board of Directors.
+
+#### (B) Exception for members who serve full term
+
+&emsp;&emsp;The limitation contained in subparagraph (A)(ii) shall not apply to any member who has ceased to serve on the Board of Directors after serving the full term for which such member was appointed.
+
+#### (2) Restriction during service
+
+&emsp;No member of the Board of Directors may—
+
+&emsp;&emsp;(A) be an officer or director of any insured depository institution, depository institution holding company, Federal Reserve bank, or Federal home loan bank; or
+
+&emsp;&emsp;(B) hold stock in any insured depository institution or depository institution holding company.
+
+#### (3) Certification
+
+&emsp;Upon taking office, each member of the Board of Directors shall certify under oath that such member has complied with this subsection and such certification shall be filed with the secretary of the Board of Directors.
+
+#### (f) Status of employees
+
+#### (1) In general
+
+&emsp;A director, member, officer, or employee of the Corporation has no liability under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] with respect to any claim arising out of or resulting from any act or omission by such person within the scope of such person's employment in connection with any transaction involving the disposition of assets (or any interests in any assets or any obligations backed by any assets) by the Corporation. This subsection shall not be construed to limit personal liability for criminal acts or omissions, willful or malicious misconduct, acts or omissions for private gain, or any other acts or omissions outside the scope of such person's employment.
+
+#### (2) “Employee of the Corporation” defined
+
+&emsp;For purposes of this subsection, the term “employee of the Corporation” includes any employee of the Office of the Comptroller of the Currency or of the Office of Thrift Supervision who serves as a deputy or assistant to a member of the Board of Directors of the Corporation in connection with activities of the Corporation.
+
+#### (3) Effect on other law
+
+&emsp;This subsection does not affect—
+
+&emsp;&emsp;(A) any other immunities and protections that may be available to such person under applicable law with respect to such transactions, or
+
+&emsp;&emsp;(B) any other right or remedy against the Corporation, against the United States under applicable law, or against any person other than a person described in paragraph (1) participating in such transactions.
+
+> &emsp;This subsection shall not be construed to limit or alter in any way the immunities that are available under applicable law for Federal officials and employees not described in this subsection.
+
+(Sept. 21, 1950, ch. 967, §2\[2\], 64 Stat. 873; Sept. 8, 1959, Pub. L. 86–230, §19, 73 Stat. 460; Nov. 30, 1983, Pub. L. 98–181, title VII, §702(a), 97 Stat. 1267; Aug. 9, 1989, Pub. L. 101–73, title II, §203(a), 103 Stat. 188; Mar. 23, 1991, Pub. L. 102–18, title I, §103(b), 105 Stat. 60.)
+
+#### References in Text
+
+The Securities Act of 1933, referred to in subsec. (f)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+
+#### Prior Provisions
+
+Section is derived from subsec. (b) of former section 264 of this title. See Codification note set out under section 1811 of this title.
+
+#### Amendments
+
+1991—Subsec. (f). Pub. L. 102–18 added subsec. (f).
+
+1989—Pub. L. 101–73 amended section generally, designating existing provisions as subsecs. (a) to (e), and making other changes relating to the make-up and operation of the Board.
+
+1983—Pub. L. 98–181 inserted provision that each such appointive member may continue to serve after the expiration of his term until a successor has been appointed and qualified.
+
+1959—Pub. L. 86–230 provided for membership of Acting Comptroller of the Currency on Board of Directors during absence or disability of Comptroller instead of only during his absence from Washington.
+
+#### Transition Provision
+
+Section 203(b) of Pub. L. 101–73 provided that:
+
+“(1)
+
+Chairperson.—Notwithstanding any provision of section 2 of the Federal Deposit Insurance Act \[12 U.S.C. 1812\], the Chairman of the Board of Directors of the Federal Deposit Insurance Corporation on the date of the enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Aug. 9, 1989\] may continue to serve as the Chairperson until the end of the term to which such Chairman was appointed.
+
+“(2)
+
+Members.—Notwithstanding any provision of section 2 of the Federal Deposit Insurance Act, the appointed member of the Board of Directors of the Federal Deposit Insurance Corporation on the date of the enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 who is not the Chairman shall continue to serve in office until the earlier of—
+
+&emsp;“(A) the end of the term to which such member was appointed; or
+
+&emsp;“(B) February 28, 1993,
+
+> except that such member may continue to serve after the end of such term until a successor has been appointed and qualified.
+
+“(3)
+
+Appointments before march 1, 1993.—Notwithstanding any provision of section 2 of the Federal Deposit Insurance Act, the term of any member appointed to the Board of Directors of the Federal Deposit Insurance Corporation before February 28, 1993 (including the term of any Chairperson), shall end on such date.”
+
+#### Compensation of Board of Directors
+
+Compensation of Chairman and members of the Board, see sections 5314 and 5315 of Title 5, Government Organization and Employees.
+

@@ -1,0 +1,32 @@
+### §14907. Army National Guard of the United States and Air National Guard of the United States: discharge and withdrawal of Federal recognition of officers absent without leave
+
+(a)
+
+Authority To Withdraw Federal Recognition.—If an officer of the Army National Guard of the United States or the Air National Guard of the United States has been absent without leave for three months, the Secretary of the Army or the Secretary of the Air Force, as appropriate, may—
+
+&emsp;(1) terminate the reserve appointment of the officer; and
+
+&emsp;(2) withdraw the officer's Federal recognition as an officer of the National Guard.
+
+(b)
+
+Discharge From Reserve Appointment.—An officer of the Army National Guard of the United States or the Air National Guard of the United States whose Federal recognition as an officer of the National Guard is withdrawn under section 323(b) of title 32 shall be discharged from the officer's appointment as a reserve officer of the Army or the Air Force, as the case may be.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2960.)
+
+#### Effective Date of Section
+
+<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in sections 3820(a), (b) and 8820 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(2), (c)(2).
+
+#### Cross References
+
+Reserve components, limitations on separation inapplicable to discharges under this section, see section 12683 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 12683 of this title.
+

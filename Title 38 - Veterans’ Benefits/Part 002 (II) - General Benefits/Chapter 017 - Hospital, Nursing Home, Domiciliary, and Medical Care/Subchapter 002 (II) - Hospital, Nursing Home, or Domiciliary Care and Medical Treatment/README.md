@@ -1,0 +1,28 @@
+### SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMENT
+
+#### Amendments
+
+1976—Pub. L. 94–581, title II, §202(c), Oct. 21, 1976, 90 Stat. 2855, inserted “, NURSING HOME,” in subchapter heading.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 01710 - Eligibility for hospital, nursing home, and domiciliary care](%C2%A7%2001710%20-%20Eligibility%20for%20hospital%2C%20nursing%20home%2C%20and%20domiciliary%20care.md)
+- [&sect; 01711 - Care during examinations and in emergencies](%C2%A7%2001711%20-%20Care%20during%20examinations%20and%20in%20emergencies.md)
+- [&sect; 01712 - Eligibility for outpatient services](%C2%A7%2001712%20-%20Eligibility%20for%20outpatient%20services.md)
+- [&sect; 01712A - Eligibility for readjustment counseling and related mental health services](%C2%A7%2001712A%20-%20Eligibility%20for%20readjustment%20counseling%20and%20related%20mental%20health%20services.md)
+- [&sect; 01712B - Counseling for former prisoners of war](%C2%A7%2001712B%20-%20Counseling%20for%20former%20prisoners%20of%20war.md)
+- [&sect; 01713 - Medical care for survivors and dependents of certain veterans](%C2%A7%2001713%20-%20Medical%20care%20for%20survivors%20and%20dependents%20of%20certain%20veterans.md)
+- [&sect; 01714 - Fitting and training in use of prosthetic appliances; seeing-eye dogs](%C2%A7%2001714%20-%20Fitting%20and%20training%20in%20use%20of%20prosthetic%20appliances%3B%20seeing-eye%20dogs.md)
+- [&sect; 01715 - Tobacco for hospitalized veterans](%C2%A7%2001715%20-%20Tobacco%20for%20hospitalized%20veterans.md)
+- [&sect; 01716 - Hospital care by other agencies of the United States](%C2%A7%2001716%20-%20Hospital%20care%20by%20other%20agencies%20of%20the%20United%20States.md)
+- [&sect; 01717 - Home health services; invalid lifts and other devices](%C2%A7%2001717%20-%20Home%20health%20services%3B%20invalid%20lifts%20and%20other%20devices.md)
+- [&sect; 01718 - Therapeutic and rehabilitative activities](%C2%A7%2001718%20-%20Therapeutic%20and%20rehabilitative%20activities.md)
+- [&sect; 01719 - Repair or replacement of certain prosthetic and other appliances](%C2%A7%2001719%20-%20Repair%20or%20replacement%20of%20certain%20prosthetic%20and%20other%20appliances.md)
+- [&sect; 01720 - Transfers for nursing home care; adult day health care](%C2%A7%2001720%20-%20Transfers%20for%20nursing%20home%20care%3B%20adult%20day%20health%20care.md)
+- [&sect; 01720A - Treatment and rehabilitation for alcohol or drug dependence or abuse disabilities](%C2%A7%2001720A%20-%20Treatment%20and%20rehabilitation%20for%20alcohol%20or%20drug%20dependence%20or%20abuse%20disabilities.md)
+- [&sect; 01720B - Respite care](%C2%A7%2001720B%20-%20Respite%20care.md)
+- [&sect; 01720C - Noninstitutional alternatives to nursing home care pilot program](%C2%A7%2001720C%20-%20Noninstitutional%20alternatives%20to%20nursing%20home%20care%20pilot%20program.md)
+- [&sect; 01720D - Counseling and treatment for sexual trauma](%C2%A7%2001720D%20-%20Counseling%20and%20treatment%20for%20sexual%20trauma.md)

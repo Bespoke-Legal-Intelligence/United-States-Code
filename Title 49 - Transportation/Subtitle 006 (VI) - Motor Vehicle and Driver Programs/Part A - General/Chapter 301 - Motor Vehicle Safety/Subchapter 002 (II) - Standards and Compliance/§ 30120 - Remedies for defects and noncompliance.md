@@ -1,0 +1,188 @@
+### §30120. Remedies for defects and noncompliance
+
+(a)
+
+Ways To Remedy.—(1) Subject to subsections (f) and (g) of this section, when notification of a defect or noncompliance is required under section 30118(b) or (c) of this title, the manufacturer of the defective or noncomplying motor vehicle or replacement equipment shall remedy the defect or noncompliance without charge when the vehicle or equipment is presented for remedy. Subject to subsections (b) and (c) of this section, the manufacturer shall remedy the defect or noncompliance in any of the following ways the manufacturer chooses:
+
+&emsp;(A) if a vehicle—
+
+&emsp;&emsp;(i) by repairing the vehicle;
+
+&emsp;&emsp;(ii) by replacing the vehicle with an identical or reasonably equivalent vehicle; or
+
+&emsp;&emsp;(iii) by refunding the purchase price, less a reasonable allowance for depreciation.
+
+&emsp;(B) if replacement equipment, by repairing the equipment or replacing the equipment with identical or reasonably equivalent equipment.
+
+(2) The Secretary of Transportation may prescribe regulations to allow the manufacturer to impose conditions on the replacement of a motor vehicle or refund of its price.
+
+(b)
+
+Tire Remedies.—(1) A manufacturer of a tire, including an original equipment tire, shall remedy a defective or noncomplying tire if the owner or purchaser presents the tire for remedy not later than 60 days after the later of—
+
+&emsp;(A) the day the owner or purchaser receives notification under section 30119 of this title; or
+
+&emsp;(B) if the manufacturer decides to replace the tire, the day the owner or purchaser receives notification that a replacement is available.
+
+(2) If the manufacturer decides to replace the tire and the replacement is not available during the 60-day period, the owner or purchaser must present the tire for remedy during a subsequent 60-day period that begins only after the owner or purchaser receives notification that a replacement will be available during the subsequent period. If tires are available during the subsequent period, only a tire presented for remedy during that period must be remedied.
+
+(c)
+
+Adequacy of Repairs.—(1) If a manufacturer decides to repair a defective or noncomplying motor vehicle or replacement equipment and the repair is not done adequately within a reasonable time, the manufacturer shall—
+
+&emsp;(A) replace the vehicle or equipment without charge with an identical or reasonably equivalent vehicle or equipment; or
+
+&emsp;(B) for a vehicle, refund the purchase price, less a reasonable allowance for depreciation.
+
+(2) Failure to repair a motor vehicle or replacement equipment adequately not later than 60 days after its presentation is prima facie evidence of failure to repair within a reasonable time. However, the Secretary may extend, by order, the 60-day period if good cause for an extension is shown and the reason is published in the Federal Register before the period ends. Presentation of a vehicle or equipment for repair before the date specified by a manufacturer in a notice under section 30119(a)(5) or 30121(c)(2)of this title is not a presentation under this subsection.
+
+(d)
+
+Filing Manufacturer's Remedy Program.—A manufacturer shall file with the Secretary a copy of the manufacturer's program under this section for remedying a defect or noncompliance. The Secretary shall make the program available to the public and publish a notice of availability in the Federal Register.
+
+(e)
+
+Hearings About Meeting Remedy Requirements.—On the motion of the Secretary or on application by any interested person, the Secretary may conduct a hearing to decide whether the manufacturer has reasonably met the remedy requirements under this section. Any interested person may make written and oral presentations of information, views, and arguments on whether the manufacturer has reasonably met the remedy requirements. If the Secretary decides a manufacturer has not reasonably met the remedy requirements, the Secretary shall order the manufacturer to take specified action to meet those requirements and may take any other action authorized under this chapter.
+
+(f)
+
+Fair Reimbursement to Dealers.—A manufacturer shall pay fair reimbursement to a dealer providing a remedy without charge under this section.
+
+(g)
+
+Nonapplication.—(1) The requirement that a remedy be provided without charge does not apply if the motor vehicle or replacement equipment was bought by the first purchaser more than 8 calendar years, or the tire, including an original equipment tire, was bought by the first purchaser more than 3 calendar years, before notice is given under section 30118(c) of this title or an order is issued under section 30118(b) of this title, whichever is earlier.
+
+(2) This section does not apply during any period in which enforcement of an order under section 30118(b) of this title is restrained or the order is set aside in a civil action to which section 30121(d) of this title applies.
+
+(h)
+
+Exemptions.—On application of a manufacturer, the Secretary shall exempt the manufacturer from this section if the Secretary decides a defect or noncompliance is inconsequential to motor vehicle safety. The Secretary may take action under this subsection only after notice in the Federal Register and an opportunity for any interested person to present information, views, and arguments.
+
+(i)
+
+Limitation on Sale or Lease.—(1) If notification is required by an order under section 30118(b) of this title or is required under section 30118(c) of this title and the manufacturer has provided to a dealer notification about a new motor vehicle or new item of replacement equipment in the dealer's possession at the time of notification that contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter, the dealer may sell or lease the motor vehicle or item of replacement equipment only if—
+
+&emsp;(A) the defect or noncompliance is remedied as required by this section before delivery under the sale or lease; or
+
+&emsp;(B) when the notification is required by an order under section 30118(b) of this title, enforcement of the order is restrained or the order is set aside in a civil action to which section 30121(d) of this title applies.
+
+(2) This subsection does not prohibit a dealer from offering for sale or lease the vehicle or equipment.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 952.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+30120(a)
+
+15:1397(a)(1)(D) (related to 15:1414(a)(1) (1st sentence), (2)).
+
+Sept. 9, 1966, Pub. L. 89–563, §108(a)(1)(D) (related to §§154(a), (b)(1), (2) (1st sentence), (c), 156, 157), 80 Stat. 722; restated Oct. 27, 1974, Pub. L. 93–492, §103(a)(1)(A), (3), 88 Stat. 1477, 1478.
+
+&nbsp;
+
+15:1414(a)(1) (1st sentence), (2).
+
+Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §§154(a), (b)(1), (2) (1st sentence), (c), 156 (related to remedy), 157 (related to remedy); added Oct. 27, 1974, Pub. L. 93–492, §102(a), 88 Stat. 1472, 1474, 1475.
+
+30120(b)
+
+15:1397(a)(1)(D) (related to 15:1414(a)(5)).
+
+&nbsp;
+
+15:1414(a)(5).
+
+30120(c)
+
+15:1397(a)(1)(D) (related to 15:1414(b)(1), (2) (1st sentence)).
+
+&nbsp;
+
+15:1414(b)(1), (2) (1st sentence).
+
+30120(d)
+
+15:1397(a)(1)(D) (related to 15:1414(c)).
+
+&nbsp;
+
+15:1414(c).
+
+30120(e)
+
+15:1397(a)(1)(D) (related to 15:1416).
+
+&nbsp;
+
+15:1416 (related to remedy).
+
+30120(f)
+
+15:1397(a)(1)(D) (related to 15:1414(a)(3)).
+
+&nbsp;
+
+15:1414(a)(3).
+
+30120(g)(1)
+
+15:1397(a)(1)(D) (related to 15:1414(a)(4)).
+
+&nbsp;
+
+15:1414(a)(4).
+
+30120(g)(2)
+
+15:1397(a)(1)(D) (related to 15:1414(a)(1) (last sentence)).
+
+&nbsp;
+
+15:1414(a)(1) (last sentence).
+
+30120(h)
+
+15:1397(a)(1)(D) (related to 15:1417).
+
+&nbsp;
+
+15:1417 (related to remedy).
+
+30120(i)
+
+15:1414(d).
+
+Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §154(d); added Dec. 18, 1991, Pub. L. 102–240, §2504(b), 105 Stat. 2083.
+
+In this section, the text of 15:1397(a)(1)(D) (related to 15:1414(a), (b)(1), (2) (1st sentence), and (c), and 1416) is omitted as surplus.
+
+In subsection (a)(1), before clause (A), the words “Subject to subsections (f) and (g) of this section” are added for clarity. The words “with an applicable Federal motor vehicle safety standard . . . which relates to motor vehicle safety” and “pursuant to such notification” are omitted as surplus. The words “shall remedy” are substituted for “shall cause such defect or failure to comply in such motor vehicle or such item of replacement equipment to be remedied” to eliminate unnecessary words. The words “the defect or noncompliance” are added for clarity. In clauses (A) and (B), the words “without charge” are omitted as unnecessary because of the words “without charge” in this subsection before this clause (A). In clause (A), the words “presented for remedy pursuant to such notification” and “of such motor vehicle in full” are omitted as surplus.
+
+Subsection (a)(2) is substituted for 15:1414(a)(2)(A) (last sentence) for clarity.
+
+In subsection (b)(1), before clause (A), the words “shall remedy a defective or noncomplying tire if” aresubstituted for “shall not be obligated to remedy such tire if such tire is not” to eliminate unnecessary words and for consistency. The words “pursuant to notification” are omitted as surplus. In clause (B), the words “decides to replace the tire” are substituted for “elects replacement” for clarity.
+
+Subsection (b)(2) is substituted for 15:1414(a)(5)(B) to eliminate unnecessary words.
+
+In subsection (c)(1), the words before clause (A) are substituted for “Whenever a manufacturer has elected under subsection (a) of this section to cause the repair of a defect in a motor vehicle or item of replacement equipment or of a failure of such vehicle or item of replacement equipment to comply with a motor vehicle safety standard, and he has failed to cause such defect or failure to comply to be adequately repaired within a reasonable time, then (A) he shall” to eliminate unnecessary words. In clause (A), the word “replace” is substituted for “cause . . . to be replaced” for consistency. In clause (B), the word “refund” is substituted for “shall cause . . . to be refunded” for consistency. The words “in full” and “and if the manufacturer so elects)” are omitted as surplus.
+
+In subsection (c)(2), the word “presentation” is substituted for “tender” for clarity. The words “for repair” are omitted as surplus. The last sentence is substituted for 15:1414(b)(2) (1st sentence) because of the restatement.
+
+In subsection (e), the words “(including a manufacturer)” are omitted as surplus. The word “information” is substituted for “data” for consistency in the revised title.
+
+In subsection (f), the word “fair” is substituted for “fair and equitable” to eliminate unnecessary words. The words “for such remedy” are omitted as surplus. The words “providing a” are substituted for “who effects” for consistency.
+
+In subsection (g)(2), the words “In the case of notification required by an order” are omitted as unnecessary. The word “civil” is added because of rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
+
+In subsection (h), the words “any requirement under”, “or to remedy”, and “as it relates” are omitted as surplus. The words “The Secretary may take action under this subsection only” are added because of the restatement.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 30102, 30103, 30117, 30118, 30119, 30121, 30141, 30147, 30165, 30167 of this title.
+

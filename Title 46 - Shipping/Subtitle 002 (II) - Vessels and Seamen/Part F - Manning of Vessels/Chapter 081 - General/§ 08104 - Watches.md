@@ -1,0 +1,146 @@
+### §8104. Watches
+
+(a) An owner, charterer, managing operator, master, individual in charge, or other person having authority may permit an officer to take charge of the deck watch on a vessel when leaving or immediately after leaving port only if the officer has been off duty for at least 6 hours within the 12 hours immediately before the time of leaving.
+
+(b) On an oceangoing or coastwise vessel of not more than 100 gross tons (except a fishing, fish processing, or fish tender vessel), a licensed individual may not be required to work more than 9 of 24 hours when in port, including the date of arrival, or more than 12 of 24 hours at sea, except in an emergency when life or property are endangered.
+
+(c) On a towing vessel (except a towing vessel operated only for fishing, fish processing, fish tender, or engaged in salvage operations) operating on the Great Lakes, harbors of the Great Lakes, and connecting or tributary waters between Gary, Indiana, Duluth, Minnesota, Niagara Falls, New York, and Ogdensburg, New York, a licensed individual or seaman in the deck or engine department may not be required or permitted to work more than 8 hours in one day, except in an emergency when life or property are endangered.
+
+(d) On a merchant vessel of more than 100 gross tons (except a vessel only operating on rivers, harbors, lakes (except the Great Lakes), bays, sounds, bayous, and canals, a fishing, fish tender, or whaling vessel, a fish processing vessel of not more than 5,000 gross tons, yacht, or vessel engaged in salvage operations), the licensed individuals, sailors, coal passers, firemen, oilers, and water tenders shall be divided, when at sea, into at least 3 watches, and shall be kept on duty successively to perform ordinary work incident to the operation and management of the vessel. The requirement of this subsection applies to radio officers only when at least 3 radio officers are employed. A licensed individual or seaman in the deck or engine department may not be required to work more than 8 hours in one day.
+
+(e) On a vessel designated by subsections (c) and (d) of this section—
+
+&emsp;(1) a seaman may not be—
+
+&emsp;&emsp;(A) engaged to work alternately in the deck and engine departments; or
+
+&emsp;&emsp;(B) required to work in the engine department if engaged for deck department duty or required to work in the deck department if engaged for engine department duty;
+
+&emsp;(2) a seaman may not be required to do unnecessary work on Sundays, New Year's Day, July 4th, Labor Day, Thanksgiving Day, or Christmas Day, when the vessel is in a safe harbor, but this clause does not prevent dispatch of a vessel on a voyage; and
+
+&emsp;(3) when the vessel is in a safe harbor, 8 hours (including anchor watch) is a day's work.
+
+(f) Subsections (d) and (e) of this section do not limit the authority of the master or other officer or the obedience of the seamen when, in the judgment of the master or other officer, any part of the crew is needed for—
+
+&emsp;(1) maneuvering, shifting the berth of, mooring, or unmooring, the vessel;
+
+&emsp;(2) performing work necessary for the safety of the vessel, or the vessel's passengers, crew, or cargo;
+
+&emsp;(3) saving life on board another vessel in jeopardy; or
+
+&emsp;(4) performing fire, lifeboat, or other drills in port or at sea.
+
+(g) On a towing vessel (except a vessel to which subsection (c) of this section applies), an offshore supply vessel, or a barge to which this section applies, that is engaged on a voyage of less than 600 miles, the licensed individuals and crewmembers (except the coal passers, firemen, oilers, and water tenders) may be divided, when at sea, into at least 2 watches.
+
+(h) On a vessel to which section 8904 of this title applies, an individual licensed to operate a towing vessel may not work for more than 12 hours in a consecutive 24-hour period except in an emergency.
+
+(i) A person violating subsection (a) or (b) of this section is liable to the United States Government for a civil penalty of $10,000.
+
+(j) The owner, charterer, or managing operator of a vessel on which a violation of subsection (c), (d), (e), or (h) of this section occurs is liable to the Government for a civil penalty of $10,000. The seaman is entitled to discharge from the vessel and receipt of wages earned.
+
+(k) On a fish processing vessel subject to inspection under part B of this subtitle, the licensed individuals and deck crew shall be divided, when at sea, into at least 3 watches.
+
+(<i>l</i>) Except as provided in subsection (k) of this section, on a fish processing vessel, the licensed individuals and deck crew shall be divided, when at sea, into at least 2 watches if the vessel—
+
+&emsp;(1) entered into service before January 1, 1988, and is more than 1,600 gross tons; or
+
+&emsp;(2) entered into service after December 31, 1987, and has more than 16 individuals on board primarily employed in the preparation of fish or fish products.
+
+(m) This section does not apply to a fish processing vessel—
+
+&emsp;(1) entered into service before January 1, 1988, and not more than 1,600 gross tons; or
+
+&emsp;(2) entered into service after December 31, 1987, and having not more than 16 individuals on board primarily employed in the preparation of fish or fish products.
+
+(n) On a tanker, a licensed individual or seaman may not be permitted to work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period, except in an emergency or a drill. In this subsection, “work” includes any administrative duties associated with the vessel whether performed on board the vessel or onshore.
+
+(<i>o</i>)(1) Except as provided in paragraph (2) of this subsection, on a fish tender vessel of not more than 500 gross tons engaged in the Aleutian trade, the licensed individuals and crewmembers shall be divided, when at sea, into at least 3 watches.
+
+(2) On a fish tender vessel of not more than 500 gross tons engaged in the Aleutian trade, the licensed individuals and crewmembers shall be divided, when at sea, into at least 2 watches, if the vessel—
+
+&emsp;(A) before September 8, 1990, operated in that trade; or
+
+&emsp;(B)(i) before September 8, 1990, was purchased to be used in that trade; and
+
+&emsp;(ii) before June 1, 1992, entered into service in that trade.
+
+(p) On a vessel used only to respond to a discharge of oil or a hazardous substance, the licensed individuals and crewmembers may be divided into at least two watches when the vessel is engaged in an operation less than 12 hours in duration.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 549; Pub. L. 98–364, title IV, §402(11), July 17, 1984, 98 Stat. 448; Pub. L. 98–557, §33(c), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(12), May 19, 1986, 100 Stat. 445; Pub. L. 101–380, title IV, §§4114(b), 4302(f), Aug. 18, 1990, 104 Stat. 517, 538; Pub. L. 101–595, title VI, §602(e)(1), Nov. 16, 1990, 104 Stat. 2991; Pub. L. 102–587, title V, §5212, Nov. 4, 1992, 106 Stat. 5077; Pub. L. 103–206, title III, §322(a), Dec. 20, 1993, 107 Stat. 2428.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source section (U.S. Code)</i>
+
+8104
+
+46:235
+
+46:405(b)
+
+46:673
+
+Section 8104 prescribes certain working hours and conditions under which working hours are set. The Committee intends that these sections be interpreted in a manner consistent with one another.
+
+Subsection (a) permits an individual to take charge of the deck watch on leaving port and immediately thereafter only if the individual has been off duty for 6 of the 12 hours immediately prior to departure.
+
+Subsection (b) prohibits a licensed individual from being required to work more than 9 of 24 hours in port or more than 12 of 24 hours at sea on an oceangoing or coastwise vessel of not more than 100 gross tons, except in an emergency.
+
+Subsection (c) prescribes a maximum 8-hour day for licensed individuals and seamen on towing vessels operating on the Great Lakes and certain connecting or tributary waters.
+
+Subsection (d) requires certain members of the complement of certain merchant vessels of more than 100 gross tons to be divided into at least 3 successive watches when at sea. This requirement applies to radio officers only when at least 3 radio officers are employed. Subsection (d) also prescribes a maximum 8-hour work day for licensed individuals and seamen on these vessels.
+
+For the Great Lakes towing vessels and merchant vessels in subsections (c) and (d(, subsection (e) requires that seamen be hired only for work in either the deck or the engine department. When in a safe harbor, seamen may be required to do only necessary work on Sundays and certain holidays, unless the vessel is getting underway on a voyage. Further, when in a safe harbor, this subsection restates the maximum 8-hour work day which applies even for anchor watch.
+
+Subsection (f) states that the limitations in subsections (d) and (e) do not apply if the master or other officer decides the crew is needed for certain routine, safety, or rescue activities.
+
+Subsection (g) provides that for a towing vessel (except a Great Lakes towing vessel under subsection (c)), offshore supply vessel, or barge on a voyage of less than 600 miles, the licensed officers and certain crewmembers may be divided into not less than two watches when at sea.
+
+Subsection (h) provides that the licensed operator for a towing vessel at least 26 feet long may not be required to work more than 12 of 24 hours, except in an emergency.
+
+Subsections (i) and (j) prescribe penalties for violations of the provisions of this section and, in certain instances, entitles the seaman to discharge and payment of wages.
+
+#### Amendments
+
+1993—Subsec. (g). Pub. L. 103–206, §322(a)(1), struck out “a vessel used only to respond to a discharge of oil or a hazardous substance,” after “an offshore supply vessel,”.
+
+Subsec. (p). Pub. L. 103–206, §322(a)(2), added subsec. (p).
+
+1992—Subsec. (g). Pub. L. 102–587, §5212(1), inserted “a vessel used only to respond to a discharge of oil or a hazardous substance,” after “an offshore supply vessel,”.
+
+Subsecs. (n), (<i>o</i>). Pub. L. 102–587, §5212(2), redesignated subsec. (n), relating to fish tender vessels of not more than 500 gross tons engaged in Aleutian trade, as (<i>o).</i>
+
+1990—Subsecs. (i), (j). Pub. L. 101–380, §4302(f), substituted “$10,000” for “$100” in subsec. (i) and for “$500” in subsec. (j).
+
+Subsec. (n). Pub. L. 101–595 added subsec. (n) relating to fish tender vessels of not more than 500 gross tons engaged in Aleutian trade.
+
+Pub. L. 101–380, §4114(b), added subsec. (n) relating to tankers.
+
+1986—Subsec. (k). Pub. L. 99–307 substituted “watches” for “watchers”.
+
+1984—Subsec. (b). Pub. L. 98–364, §402(11)(A), substituted “100 gross tons (except a fishing, fish processing, or fish tender vessel)” for “100 gross tons”.
+
+Subsec. (c). Pub. L. 98–364, §402(11)(B), substituted “fishing, fish processing, fish tender,” for “fishing”.
+
+Subsec. (d). Pub. L. 98–364, §402(11)(C), substituted “a fishing, fish tender, or whaling vessel, a fish processing vessel of not more than 5,000 gross tons” for “a fishing or whaling vessel”.
+
+Subsec. (k). Pub. L. 98–557 substituted “shall” for “may”.
+
+Pub. L. 98–364, §402(11)(D), added subsec. (k).
+
+Subsec. (<i>l</i>). Pub. L. 98–557 substituted “shall” for “may” in provisions preceding par. (1).
+
+Pub. L. 98–364, §402(11)(D), added subsec. (<i>l).</i>
+
+Subsec. (m). Pub. L. 98–364, §402(11)(D), added subsec. (m).
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 8702 of this title.
+

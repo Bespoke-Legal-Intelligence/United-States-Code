@@ -1,0 +1,22 @@
+### §288–3. Loan repayment program for research generally
+
+#### (a) In general
+
+#### (1) Authority for program
+
+&emsp;Subject to paragraph (2), the Secretary shall carry out a program of entering into contracts with appropriately qualified health professionals under which such health professionals agree to conduct research, as employees of the National Institutes of Health, in consideration of the Federal Government agreeing to repay, for each year of such service, not more than $20,000 of the principal and interest of the educational loans of such health professionals.
+
+#### (2) Limitation
+
+&emsp;The Secretary may not enter into an agreement with a health professional pursuant to paragraph (1) unless such professional—
+
+&emsp;&emsp;(A) has a substantial amount of educational loans relative to income; and
+
+&emsp;&emsp;(B) agrees to serve as an employee of the National Institutes of Health for purposes of paragraph (1) for a period of not less than 3 years.
+
+#### (b) Applicability of certain provisions
+
+With respect to the National Health Service Corps Loan Repayment Program established in subpart III of part D of subchapter II of this chapter, the provisions of such subpart shall, except as inconsistent with subsection (a) of this section, apply to the program established in such subsection (a) of this section in the same manner and to the same extent as such provisions apply to the National Health Service Corps Loan Repayment Program established in such subpart.
+
+(July 1, 1944, ch. 373, title IV, §487C, as added June 10, 1993, Pub. L. 103–43, title XVI, §1621, 107 Stat. 182.)
+

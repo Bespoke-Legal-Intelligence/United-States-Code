@@ -1,0 +1,175 @@
+### §8704. Group insurance; amounts
+
+(a) An employee eligible for insurance is entitled to be insured for an amount of group life insurance equal to—
+
+&emsp;(1) the employee's basic insurance amount, multiplied by
+
+&emsp;(2) the appropriate factor determined on the basis of the employee's age in accordance with the following schedule:
+
+&nbsp;
+
+| If the age of the employee is | The appropriate factor is: |
+| :--- | ---: |
+| 35 or under | 2\.0&nbsp;&nbsp;&nbsp; |
+| 36 | 1\.9&nbsp;&nbsp;&nbsp; |
+| 37 | 1\.8&nbsp;&nbsp;&nbsp; |
+| 38 | 1\.7&nbsp;&nbsp;&nbsp; |
+| 39 | 1\.6&nbsp;&nbsp;&nbsp; |
+| 40 | 1\.5&nbsp;&nbsp;&nbsp; |
+| 41 | 1\.4&nbsp;&nbsp;&nbsp; |
+| 42 | 1\.3&nbsp;&nbsp;&nbsp; |
+| 43 | 1\.2&nbsp;&nbsp;&nbsp; |
+| 44 | 1\.1&nbsp;&nbsp;&nbsp; |
+| 45 or over | 1\.0.&nbsp;&nbsp;&nbsp;&nbsp; |
+
+(b) An employee eligible for insurance is entitled to be insured for group accidental death and dismemberment insurance in accordance with this subsection. Subject to the conditions and limitations approved by the Office of Personnel Management which are contained in the policy purchased by the Office, the group accidental death and dismemberment insurance provides payment as follows:
+
+&nbsp;
+
+| Loss | Amount payable |
+| :--- | ---: |
+| For loss of life | Full amount of the employee's basic insurance amount. |
+| Loss of one hand or of one foot or loss of sight of one eye | One-half the amount of the employee's basic insurance amount. |
+| Loss of two or more such members | Full amount of the employee's basic insurance amount. |
+
+> For any one accident the aggregate amount of group accidental death and dismemberment insurance that may be paid may not exceed an amount equal to the employee's basic insurance amount.
+
+(c) The Office shall prescribe regulations providing for the conversion of other than annual rates of pay to annual rates of pay and shall specify the types of pay included in annual pay. For the purpose of this chapter, “annual pay” includes—
+
+&emsp;(1) premium pay under section 5545(c)(1) of this title; and
+
+&emsp;(2) with respect to a law enforcement officer as defined in section 8331(20) or 8401(17) of this title, premium pay under section 5545(c)(2) of this title.
+
+(d) In determining the amount of insurance to which an employee is entitled—
+
+&emsp;(1) a change in rate of pay under subchapter VI of chapter 53 of this title is deemed effective as of the first day of the pay period after the pay period in which the payroll change is approved; and
+
+&emsp;(2) a change in rate of pay under section 5344 or 5349 of this title is deemed effective as of the date of issuance of the order granting the increase or the effective date of the increase, whichever is later, except, that in the case of an employee who dies or retires during the period beginning on the effective date of the increase and ending on the date of the issuance of the order granting the increase, a change in rate of pay under either of such sections shall be deemed as having been in effect for such employee during that period.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 593; Pub. L. 89–737, §1(3), Nov. 2, 1966, 80 Stat. 1164; Pub. L. 90–206, title IV, §401, Dec. 16, 1967, 81 Stat. 646; Pub. L. 92–392, §11, Aug. 19, 1972, 86 Stat. 575; Pub. L. 95–454, title VIII, §801(a)(3)(E), title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1222, 1224;Pub. L. 96–427, §2(b)–(d), Oct. 10, 1980, 94 Stat. 1831, 1832; Pub. L. 100–238, title I, §103(b), Jan. 8, 1988, 101 Stat. 1744.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+(a)–(c)
+
+5 U.S.C. 2092 (less (d))
+
+Aug. 17, 1954, ch. 752, §3 (less (d)), 68 Stat. 737.
+
+(d)(1)
+
+\[Uncodified\].
+
+Aug. 23, 1958, Pub. L. 85–737, §3, 72 Stat. 831.
+
+(d)(2)
+
+5 U.S.C. 1183.
+
+Sept. 2, 1958, Pub. L. 85–872, §3, 72 Stat. 1697.
+
+In subsection (a), the words “An employee eligible for insurance is entitled” are coextensive with and substituted for “Each employee to whom this chapter applies shall be eligible”.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+
+1988—Subsec. (c)(2). Pub. L. 100–238 inserted “or 8401(17)” after “8331(20)”.
+
+1980—Subsec. (a). Pub. L. 96–427, §2(b), substituted new formula for group life insurance to be computed by multiplying the basic insurance with a factor to be obtained from the table based on age for provisions calling for group life insurance and an equal amount of death and dismemberment insurance in accordance with a schedule based on the basic pay with special provision for extension by the amount of increase in the annual rates of basic pay for positions at level II of the Executive Schedule under section 5313 of this title. Prior to this amendment, the table was as follows:
+
+&nbsp;
+
+| <i>If annual pay is—</i> | <i>The amount of group life insurance is—</i> | <i>The amount of group accidental death and dismemberment insurance is—</i> |  |
+| :--- | :---: | :---: | ---: |
+| <i>Greater than—</i> | <i>But not greater than—</i> |  |  |
+| 0&nbsp;&nbsp; | $8,000&nbsp;&nbsp; | $10,000&nbsp;&nbsp; | $10,000&nbsp;&nbsp; |
+| $8,000&nbsp;&nbsp; | 9,000&nbsp;&nbsp; | 11,000&nbsp;&nbsp; | 11,000&nbsp;&nbsp; |
+| 9,000&nbsp;&nbsp; | 10,000&nbsp;&nbsp; | 12,000&nbsp;&nbsp; | 12,000&nbsp;&nbsp; |
+| 10,000&nbsp;&nbsp; | 11,000&nbsp;&nbsp; | 13,000&nbsp;&nbsp; | 13,000&nbsp;&nbsp; |
+| 11,000&nbsp;&nbsp; | 12,000&nbsp;&nbsp; | 14,000&nbsp;&nbsp; | 14,000&nbsp;&nbsp; |
+| 12,000&nbsp;&nbsp; | 13,000&nbsp;&nbsp; | 15,000&nbsp;&nbsp; | 15,000&nbsp;&nbsp; |
+| 13,000&nbsp;&nbsp; | 14,000&nbsp;&nbsp; | 16,000&nbsp;&nbsp; | 16,000&nbsp;&nbsp; |
+| 14,000&nbsp;&nbsp; | 15,000&nbsp;&nbsp; | 17,000&nbsp;&nbsp; | 17,000&nbsp;&nbsp; |
+| 15,000&nbsp;&nbsp; | 16,000&nbsp;&nbsp; | 18,000&nbsp;&nbsp; | 18,000&nbsp;&nbsp; |
+| 16,000&nbsp;&nbsp; | 17,000&nbsp;&nbsp; | 19,000&nbsp;&nbsp; | 19,000&nbsp;&nbsp; |
+| 17,000&nbsp;&nbsp; | 18,000&nbsp;&nbsp; | 20,000&nbsp;&nbsp; | 20,000&nbsp;&nbsp; |
+| 18,000&nbsp;&nbsp; | 19,000&nbsp;&nbsp; | 21,000&nbsp;&nbsp; | 21,000&nbsp;&nbsp; |
+| 19,000&nbsp;&nbsp; | 20,000&nbsp;&nbsp; | 22,000&nbsp;&nbsp; | 22,000&nbsp;&nbsp; |
+| 20,000&nbsp;&nbsp; | 21,000&nbsp;&nbsp; | 23,000&nbsp;&nbsp; | 23,000&nbsp;&nbsp; |
+| 21,000&nbsp;&nbsp; | 22,000&nbsp;&nbsp; | 24,000&nbsp;&nbsp; | 24,000&nbsp;&nbsp; |
+| 22,000&nbsp;&nbsp; | 23,000&nbsp;&nbsp; | 25,000&nbsp;&nbsp; | 25,000&nbsp;&nbsp; |
+| 23,000&nbsp;&nbsp; | 24,000&nbsp;&nbsp; | 26,000&nbsp;&nbsp; | 26,000&nbsp;&nbsp; |
+| 24,000&nbsp;&nbsp; | 25,000&nbsp;&nbsp; | 27,000&nbsp;&nbsp; | 27,000&nbsp;&nbsp; |
+| 25,000&nbsp;&nbsp; | 26,000&nbsp;&nbsp; | 28,000&nbsp;&nbsp; | 28,000&nbsp;&nbsp; |
+| 26,000&nbsp;&nbsp; | 27,000&nbsp;&nbsp; | 29,000&nbsp;&nbsp; | 29,000&nbsp;&nbsp; |
+| 27,000&nbsp;&nbsp; | 28,000&nbsp;&nbsp; | 30,000&nbsp;&nbsp; | 30,000&nbsp;&nbsp; |
+| 28,000&nbsp;&nbsp; | 29,000&nbsp;&nbsp; | 31,000&nbsp;&nbsp; | 31,000&nbsp;&nbsp; |
+| 29,000&nbsp;&nbsp; | &nbsp; | 32,000&nbsp;&nbsp; | 32,000&nbsp;&nbsp; |
+
+Subsec. (b). Pub. L. 96–427, §2(c), inserted provision that an employee eligible for insurance is entitled to be insured for group accidental death and dismemberment insurance in accordance with this subsection and substituted reference to employee's basic insurance amount for reference to the amount shown in the schedule in subsec. (a) of this section in four places.
+
+Subsec. (c). Pub. L. 96–427, §2(d), expanded definition of “annual pay” to include premium pay under section 5545(c)(2) of this title with respect to a law enforcement officer as defined in section 8331(20) of this title.
+
+1978—Subsecs. (b), (c). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+
+Subsec. (d)(1). Pub. L. 95–454, §801(a)(3)(E), substituted “subchapter VI of chapter 53” for “section 5337”.
+
+1972—Subsec. (d)(2). Pub. L. 92–392 substituted “section 5344 or 5349 of this title” for “section 5343 of this title” and added the exception.
+
+1967—Subsec. (a). Pub. L. 90–206, in material preceding the table, struck out reference to an approximate relationship between the amount of group life insurance and the eligible employee's annual pay and inserted reference to an automatic extension of the schedule correspondingly by the amounts of increases in the annual rate of basic pay for positions at level II of the Executive Schedule under section 5313 of this title, and raised the insurance coverages for both life and accidental death and dismemberment.
+
+1966—Subsec. (c). Pub. L. 89–737 inserted provision that, for the purpose of this chapter, “annual pay” includes premium pay under section 5545(c)(1) of this title.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–238 effective Jan. 1, 1987, see section 103(f) of Pub. L. 100–238 set out as a note under section 3307 of this title.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by section 2(d) of Pub. L. 96–427 applicable with respect to premium pay payable under section 5545(c)(2) of this title from and after the first day of the first pay period which begins on or after Oct. 10, 1980, see section 10(b) of Pub. L. 96–427, set out as a note under section 8701 of this title.
+
+Section 2(f) of Pub. L. 96–427 provided that: “Subsections (b) and (c) of this section \[amending this section\] shall take effect beginning with the first pay period beginning on or after October 1, 1981.”
+
+#### Effective Date of 1978 Amendment
+
+Amendment by section 801(a)(3)(E) of Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
+
+Amendment by section 906(a)(2), (3) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Effective Date of 1972 Amendment
+
+Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of this title.
+
+#### Effective Date of 1967 Amendment
+
+Section 405(a) of Pub. L. 90–206 provided that: “The amendments made by sections 401 to 403, inclusive, of this Act \[amending this section and sections 8707 and 8708 of this title\] shall take effect on the first day of the first pay period which begins on or after the sixtieth day following the date of enactment \[Dec. 16, 1967\]. In the case of an employee who dies or retires during the period beginning on the date of enactment of this Act and prior to the effective date prescribed by this subsection, the amount of insurance shall be determined as if the amendments made by section 401 \[amending this section\] were in effect for such employee during such period.”
+
+#### Effective Date of 1966 Amendment
+
+Amendment by Pub. L. 89–737 applicable with respect to premium pay payable from and after first day of first pay period which begins after date of enactment of Pub. L. 89–737, which was approved Nov. 2, 1966, see section 4 of Pub. L. 89–737, set out in the note under section 8114 of this title.
+
+#### Retroactive Effect of 1967 Amendment
+
+Section 405(c) of Pub. L. 90–206 provided that: “The amendments made by sections 401 to 404, inclusive, of this Act \[enacting section 8714a of this title and amending this section and sections 8707 and 8708 of this title\]shall have no effect in the case of an employee who died, was finally separated, or retired prior to the date of enactment \[Dec. 16, 1967\].”
+
+#### 1967 Adjustment in Amount of Insurance
+
+Section 220(b) of Pub. L. 90–206 provided that: “For the purposes of determining the amount of insurance for which an individual is eligible chapter 87 of title 5, United States Code, relating to group life insurance for Federal employees—
+
+&emsp;“(1) all changes in rates of pay which result from the enactment of this title \[see Short Title Note under section 5332 of this title\] except Postal Field Service Schedule II, Rural Carrier Schedule II, and sections 207, 212, 213(d) and (e), 215, 219, and 225) shall be held and considered to become effective as of the date of such enactment \[Dec. 16, 1967\]; and
+
+&emsp;“(2) all changes in rates of pay which result from the enactment of section 212 of this title \[enacting provisions set out as a note under section 5303 of this title\] and which take effect retroactively from the date on which the adjustments thereof are actually ordered under such section, shall be held and considered to become effective on the date on which such adjustments are actually ordered.”
+
+\[Section 220(b) of Pub. L. 90–206 effective Dec. 16, 1967, see section 220(a) (1) of Pub. L. 90–206, set out as an Effective Date note under section 3110 of this title.\]
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5545a, 8714a, 8714d of this title.
+

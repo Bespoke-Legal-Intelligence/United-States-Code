@@ -1,0 +1,28 @@
+### §10341. Findings
+
+The Congress finds that—
+
+&emsp;(1) there is an increasing threat of impairment to the quantity and quality of the Nation's water resources due to, among other things, growing national needs, recurring drought in the Western States, point and nonpoint source pollution, and saltwater intrusion into existing groundwater supplies;
+
+&emsp;(2) many communities in the United States have water supplies containing high salinity levels or contaminants which pose health risks;
+
+&emsp;(3) the Nation needs to develop economical processes to treat existing water supplies that are contaminated;
+
+&emsp;(4) it is necessary to provide for research into new techniques to reclaim waste water and to convert saline and other contaminatedwaters to a quality suitable for municipal, industrial, agricultural, recreational, and other beneficial uses;
+
+&emsp;(5) there is very little Federal funding being applied to basic research in the field of treatment of contaminated water through membrane processes; and
+
+&emsp;(6) the treatment of contaminated water through membrane processes will solve a wide variety of water treatment problems, including compliance with the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\] and the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\].
+
+(Pub. L. 102–490, §2, Oct. 24, 1992, 106 Stat. 3142.)
+
+#### References in Text
+
+The Federal Water Pollution Control Act, referred to in par. (6), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+
+The Safe Drinking Water Act, referred to in par. (6), is Pub. L. 93–523, Dec. 16, 1974, 88 Stat. 1660, as amended, which is classified principally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title of 1974 Amendments note set out under section 201 of this title and Tables.
+
+#### Short Title
+
+Section 1 of Pub. L. 102–490 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Membrane Processes Research Act of 1992’.”
+

@@ -1,0 +1,176 @@
+### §10603. Crime victim assistance
+
+#### (a) Grant authority of Director; chief executive of States; amount; insufficient funds
+
+(1) Subject to the availability of money in the Fund, the Director shall make an annual grant from any portion of the Fund made available by section 10601(d)(2) <sup>1</sup> of this title for the purpose of grants under this subsection, or for the purpose of grants under section 10602 of this title but not used for that purpose, to the chief executive of each State for the financial support of eligible crime victim assistance programs.
+
+(2) Such chief executive shall—
+
+&emsp;(A) certify that priority shall be given to eligible crime victim assistance programs providing assistance to victims of sexual assault, spousal abuse, or child abuse;
+
+&emsp;(B) certify that funds shall be made available for grants to programs which serve previously underserved populations of victims of violent crime. The Director, after consultation with State and local officials and representatives from private organizations, shall issue guidelines to implement this section that provide flexibility to the States in determining the populations of victims of violent crimes that may be underserved in their respective States;
+
+&emsp;(C) certify that funds awarded to eligible crime victim assistance programs will not be used to supplant State and local funds otherwise available for crime victim assistance; and
+
+&emsp;(D) provide such other information and assurances related to the purposes of this section as the Director may reasonably require.
+
+(3) The amounts of grants under paragraph (1) shall be—
+
+&emsp;(A) the base amount to each State; and
+
+&emsp;(B) that portion of the then remaining available money to each State that results from a distribution among the States on the basis of each State's population in relation to the population of all States.
+
+(4) If the amount available for grants under paragraph (1) is insufficient to provide the base amount to each State, the funds available shall be distributed equally among the States.
+
+(5) As used in this subsection, the term “base amount” means—
+
+&emsp;(A) $150,000 for fiscal years 1989 through 1991; and
+
+&emsp;(B) $200,000 thereafter.
+
+#### (b) Eligibility of program; factors; limitation on expending of sums
+
+(1) A victim assistance program is an eligible crime victim assistance program for the purposes of this section if such program—
+
+&emsp;(A) is operated by a public agency or a nonprofit organization, or a combination of such agencies or organizations or of both such agencies and organizations, and provides services to victims of crime;
+
+&emsp;(B) demonstrates—
+
+&emsp;&emsp;(i) a record of providing effective services to victims of crime and financial support from sources other than the Fund; or
+
+&emsp;&emsp;(ii) substantial financial support from sources other than the Fund;
+
+&emsp;(C) utilizes volunteers in providing such services, unless and to the extent the chief executive determines that compelling reasons exist to waive this requirement;
+
+&emsp;(D) promotes within the community served coordinated public and private efforts to aid crime victims; and
+
+&emsp;(E) assists potential recipients in seeking crime victim compensation benefits.
+
+(2) Except as provided in paragraph (3), an eligible crime victim assistance program shall expend sums received under subsection (a) of this section only for providing services to victims of crime.
+
+(3) Not more than 5 percent of sums received under subsection (a) of this section may be used for the administration of the State crime victim assistance program receiving such sums.
+
+#### (c) Grants: purposes; distribution; duties of Director; reimbursement by Director
+
+(1) The Director,<sup>2</sup> shall make grants—
+
+&emsp;(A) for demonstration projects and training and technical assistance services to eligible crime victim assistance programs; and
+
+&emsp;(B) for the financial support of services to victims of Federal crime by eligible crime victim assistance programs.
+
+(2) Of the amount available for grants under this subsection—
+
+&emsp;(A) not more than 50 percent shall be used for grants under paragraph (1)(A); and
+
+&emsp;(B) not less than 50 percent shall be used for grants under paragraph (1)(B).
+
+(3) The Director shall—
+
+&emsp;(A) be responsible for monitoring compliance with guidelines for fair treatment of crime victims and witnesses issued under section 6 of the Victim and Witness Protection Act of 1982 (Public Law 97–291) \[18 U.S.C. 1512 note\];
+
+&emsp;(B) consult with the heads of Federal law enforcement agencies that have responsibilities affecting victims of Federal crimes;
+
+&emsp;(C) coordinate victim services provided by the Federal Government with victim services offered by other public agencies and nonprofit organizations; and
+
+&emsp;(D) perform such other functions related to the purposes of this title as the Director deems appropriate.
+
+(4) The Director may reimburse other instrumentalities of the Federal Government and contract for the performance of functions authorized under this subsection.
+
+#### (d) Definitions
+
+As used in this section—
+
+&emsp;(1) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, and any other territory or possession of the United States; and
+
+&emsp;(2) the term “services to victims of crime” includes—
+
+&emsp;&emsp;(A) crises intervention services;
+
+&emsp;&emsp;(B) providing, in an emergency, transportation to court, short-term child care services, and temporary housing and security measures;
+
+&emsp;&emsp;(C) assistance in participating in criminal justice proceedings; and
+
+&emsp;&emsp;(D) payment of all reasonable costs for a forensic medical examination of a crime victim, to the extent that such costs are otherwise not reimbursed or paid;
+
+&emsp;(3) the term “services to victims of Federal crime” means services to victims of crime with respect to Federal crime, and includes—
+
+&emsp;&emsp;(A) training of law enforcement personnel in the delivery of services to victims of Federal crime;
+
+&emsp;&emsp;(B) preparation, publication, and distribution of informational materials—
+
+&emsp;&emsp;&emsp;(i) setting forth services offered to victims of crime; and
+
+&emsp;&emsp;&emsp;(ii) concerning services to victims of Federal crime for use by Federal law enforcement personnel; and
+
+&emsp;&emsp;(C) salaries of personnel who provide services to victims of crime, to the extent that such personnel provide such services;
+
+&emsp;(4) the term “crises intervention services” means counseling to provide emotional support in crises arising from the occurrence of crime; and
+
+&emsp;(5) the term “chief executive” includes a person designated by a chief executive to perform the functions of the chief executive under this section.
+
+(Pub. L. 98–473, title II, §1404, Oct. 12, 1984, 98 Stat. 2172; Pub. L. 99–401, title I, §102(b)(4), (5), Aug. 27, 1986, 100 Stat. 905; Pub. L. 99–646, §71, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–690, titleVII, §§7122, 7123(b)(4)–(9), 7127, 7128, title IX, §9306(a), Nov. 18, 1988, 102 Stat. 4420, 4421, 4423, 4537; Pub. L. 103–317, title I, §112, Aug. 26, 1994, 108 Stat. 1736; Pub. L. 103–322, title XXIII, §§230204, 230205, 230208, Sept. 13, 1994, 108 Stat. 2080.)
+
+#### References in Text
+
+Section 10601(d)(2) of this title, referred to in subsec. (a)(1), was repealed and a new section 10601(d)(2) was added by Pub. L. 103–322, title XXIII, §230201(a)(1), Sept. 13, 1994, 108 Stat. 2079. The new section 10601(d)(2) does not contain provisions relating to availability of Fund money for grants under this section or section 10602 of this title. See section 10601(d)(3) of this title.
+
+#### Amendments
+
+1994—Subsec. (a)(5)(B). Pub. L. 103–322, §230208, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “$200,000 thereafter through fiscal year 1995.”
+
+Pub. L. 103–317 substituted “1995” for “1994”.
+
+Subsec. (b)(2). Pub. L. 103–322, §230205(a), substituted “Except as provided in paragraph (3), an eligible” for “An eligible”.
+
+Subsec. (b)(3). Pub. L. 103–322, §230205(b), added par. (3).
+
+Subsec. (c)(1)(A). Pub. L. 103–322, §230204, inserted “demonstration projects and” before “training”.
+
+1988—Subsec. (a)(1). Pub. L. 100–690, §7123(b)(4), substituted “Director” for “Attorney General”.
+
+Subsec. (a)(2)(B). Pub. L. 100–690, §7122(1), added subpar. (B). Former subpar. (B) redesignated (C).
+
+Subsec. (a)(2)(C). Pub. L. 100–690, §7122(2), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
+
+Subsec. (a)(2)(D). Pub. L. 100–690, §7123(b)(5), which directed substitution of “Director” for “Attorney General” in subpar. (C), was executed by making substitution in subpar. (D) to reflect the probable intent of Congress and the intervening redesignation of subpar. (C) as (D), see below.
+
+Pub. L. 100–690, §7122(2), redesignated subpar. (C) as (D).
+
+Subsec. (a)(3) to (5). Pub. L. 100–690, §7128, substituted “the base amount” for “$100,000” in pars. (3)(A) and (4) and added par. (5).
+
+Subsec. (c)(1). Pub. L. 100–690, §7123(b)(6), substituted “Director” for “Attorney General, acting through the Assistant Attorney General for the Office of Justice Programs”.
+
+Subsec. (c)(3). Pub. L. 100–690, §7123(b)(7), (8), substituted “Director” for “Assistant Attorney General for the Office of Justice Programs” in introductory provisions and “Director deems appropriate” for “Attorney General may assign” in subpar. (D).
+
+Subsec. (c)(4). Pub. L. 100–690, §7123(b)(9), substituted “Director” for “Attorney General”.
+
+Subsec. (d)(1). Pub. L. 100–690, §9306(a), struck out “, except for the purposes of paragraphs (3)(A) and (4) of subsection (a) of this section,” before “any other territory”.
+
+Pub. L. 100–690, §7127, inserted reference to the United States Virgin Islands.
+
+1986—Subsec. (a)(1). Pub. L. 99–401, §102(b)(5), substituted “made available by section 10601(d)(2) of this title for the purpose of grants under this subsection, or for the purpose of grants under section 10602 of this title but not used for that purpose” for “not used for grants under section 10602 of this title with respect to a particular fiscal year, and after any deduction under subsection (c) of this section”.
+
+Subsec. (c)(1), (2). Pub. L. 99–401, §102(b)(4), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+
+“(1) The Attorney General may in any fiscal year deduct from amounts available under this section an amount not to exceed 5 percent of the amount in the Fund, and may expend the amount so deducted to provide services to victims of Federal crimes by the Department of Justice, or reimburse other instrumentalities of the Federal Government otherwise authorized to provide such services.
+
+“(2) The Attorney General shall appoint or designate an official of the Department of Justice to be the Federal Crime Victim Assistance Administrator (hereinafter in this chapter referred to as the ‘Federal Administrator’) to exercise the responsibilities of the Attorney General under this subsection.”
+
+Subsec. (c)(2)(A). Pub. L. 99–646, §71(1), substituted “not more than” for “not less than”.
+
+Subsec. (c)(2)(B). Pub. L. 99–646, §71(2), substituted “not less than” for “not more than”.
+
+Subsec. (c)(3). Pub. L. 99–401, §102(b)(4), substituted “The Assistant Attorney General for the Office of Justice Programs shall” for “The Federal Administrator shall”.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by sections 7122, 7123(b)(4)–(9), 7127, and 7128 of Pub. L. 100–690 not applicable with respect to a State compensation program that was an eligible State crime victim compensation program on Nov. 18, 1988, until Oct. 1, 1991, see section 7129 of Pub. L. 100–690, as amended, set out as a note under section 10601 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 10601, 10603a, 10605 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
+

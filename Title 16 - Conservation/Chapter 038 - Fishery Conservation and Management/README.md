@@ -1,0 +1,195 @@
+### <b>CHAPTER 38—FISHERY CONSERVATION AND MANAGEMENT</b>
+
+#### SUBCHAPTER I—GENERALLY
+
+| Sec. |  |
+| :--- | ---: |
+| [1801\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2001801%20-%20Findings%2C%20purposes%20and%20policy.md) | Findings, purposes and policy. |
+| (a) | Findings. |
+| (b) | Purposes. |
+| (c) | Policy. |
+| [1802\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2001802%20-%20Definitions.md) | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER II—UNITED STATES RIGHTS AND AUTHORITY REGARDING FISH AND FISHERY RESOURCES
+
+|  |  |
+| :--- | ---: |
+| [1811\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001811%20-%20United%20States%20sovereign%20rights%20to%20fish%20and%20fishery%20management%20authority.md) | United States sovereign rights to fish and fishery management authority. |
+| (a) | In the exclusive economic zone. |
+| (b) | Beyond the exclusive economic zone. |
+| [1812\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001812%20-%20Highly%20migratory%20species.md) | Highly migratory species. |
+| [1813\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001813%20-%20Omitted.md) | Omitted. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER III—FOREIGN FISHING AND INTERNATIONAL FISHERY AGREEMENTS
+
+|  |  |
+| :--- | ---: |
+| [1821\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001821%20-%20Foreign%20fishing.md) | Foreign fishing. |
+| (a) | In general. |
+| (b) | Existing international fishery agreements. |
+| (c) | Governing international fishery agreements. |
+| (d) | Total allowable level of foreign fishing. |
+| (e) | Allocation of allowable level. |
+| (f) | Repealed. |
+| (g) | Reciprocity. |
+| (h) | Preliminary fishery management plans. |
+| (i) | Full observer coverage program. |
+| (j) | Recreational fishing. |
+| [1822\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001822%20-%20International%20fishery%20agreements.md) | International fishery agreements. |
+| (a) | Negotiations. |
+| (b) | Treaty renegotiation. |
+| (c) | International fishery agreements. |
+| (d) | Boundary negotiations. |
+| (e) | Highly migratory species agreements. |
+| (f) | Nonrecognition. |
+| (g) | Fishery agreement with Russia. |
+| [1823\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001823%20-%20Congressional%20oversight%20of%20governing%20international%20fishery%20agreements.md) | Congressional oversight of governing international fishery agreements. |
+| (a) | In general. |
+| (b) | Referral to committees. |
+| (c) | Computation of 60-day period. |
+| (d) | Congressional procedures. |
+| [1824\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001824%20-%20Permits%20for%20foreign%20fishing.md) | Permits for foreign fishing. |
+| (a) | In general. |
+| (b) | Applications and permits under governing international fishery agreements. |
+| (c) | Registration permits. |
+| [1825\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001825%20-%20Import%20prohibitions.md) | Import prohibitions. |
+| (a) | Determinations by Secretary of State. |
+| (b) | Prohibitions. |
+| (c) | Removal of prohibition. |
+| (d) | Definitions. |
+| [1826\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001826%20-%20Large-scale%20driftnet%20fishing.md) | Large-scale driftnet fishing. |
+| (a) | Short title. |
+| (b) | Findings. |
+| (c) | Policy. |
+| (d) | International agreements. |
+| (e) | Report. |
+| (f) | Certification. |
+| (g) | Effect on sovereign rights. |
+| (h) | “Living marine resources” defined. |
+| [1826a.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001826a%20-%20Denial%20of%20port%20privileges%20and%20sanctions%20for%20high%20seas%20large-scale%20driftnet%20fishing.md) | Denial of port privileges and sanctions for high seas large-scale driftnet fishing. |
+| (a) | Denial of port privileges. |
+| (b) | Sanctions. |
+| [1826b.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001826b%20-%20Duration%20of%20denial%20of%20port%20privileges%20and%20sanctions.md) | Duration of denial of port privileges and sanctions. |
+| [1826c.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001826c%20-%20Definitions.md) | Definitions. |
+| [1827\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001827%20-%20Observer%20program%20regarding%20certain%20foreign%20fishing.md) | Observer program regarding certain foreign fishing. |
+| (a) | Definitions. |
+| (b) | Observer program. |
+| (c) | Functions of observers. |
+| (d) | Fees. |
+| (e) | Fund. |
+| (f) | Prohibited acts. |
+| (g) | Regulations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER IV—NATIONAL FISHERY MANAGEMENT PROGRAM
+
+|  |  |
+| :--- | ---: |
+| [1851\.](Subchapter%20004%20%28IV%29%20-%20National%20Fishery%20Management%20Program/%C2%A7%2001851%20-%20National%20standards%20for%20fishery%20conservation%20and%20management.md) | National standards for fishery conservation and management. |
+| (a) | In general. |
+| (b) | Guidelines. |
+| [1852\.](Subchapter%20004%20%28IV%29%20-%20National%20Fishery%20Management%20Program/%C2%A7%2001852%20-%20Regional%20Fishery%20Management%20Councils.md) | Regional Fishery Management Councils. |
+| (a) | Establishment. |
+| (b) | Voting members. |
+| (c) | Nonvoting members. |
+| (d) | Compensation and expenses. |
+| (e) | Transaction of business. |
+| (f) | Staff and administration. |
+| (g) | Committees and panels. |
+| (h) | Functions. |
+| (i) | Fishery habitat concerns. |
+| (j) | Procedural matters. |
+| (k) | Disclosure of financial interest. |
+| [1853\.](Subchapter%20004%20%28IV%29%20-%20National%20Fishery%20Management%20Program/%C2%A7%2001853%20-%20Contents%20of%20fishery%20management%20plans.md) | Contents of fishery management plans. |
+| (a) | Required provisions. |
+| (b) | Discretionary provisions. |
+| (c) | Proposed regulations. |
+| (d) | Confidentiality of statistics. |
+| (e) | Data collection programs. |
+| (f) | Restriction on use of certain data. |
+| [1854\.](Subchapter%20004%20%28IV%29%20-%20National%20Fishery%20Management%20Program/%C2%A7%2001854%20-%20Action%20by%20Secretary.md) | Action by Secretary. |
+| (a) | Action by Secretary after receipt of plan. |
+| (b) | Review by Secretary. |
+| (c) | Preparation by Secretary. |
+| (d) | Establishment of fees. |
+| (e) | Fisheries research. |
+| (f) | Fisheries under authority of more than one Council. |
+| (g) | Incidental harvest research. |
+| [1855\.](Subchapter%20004%20%28IV%29%20-%20National%20Fishery%20Management%20Program/%C2%A7%2001855%20-%20Implementation%20of%20fishery%20management%20plans.md) | Implementation of fishery management plans. |
+| (a) | Implementation. |
+| (b) | Judicial review. |
+| (c) | Emergency actions. |
+| (d) | Responsibility of Secretary. |
+| (e) | Effect of certain laws on certain time requirements. |
+| [1856\.](Subchapter%20004%20%28IV%29%20-%20National%20Fishery%20Management%20Program/%C2%A7%2001856%20-%20State%20jurisdiction.md) | State jurisdiction. |
+| (a) | In general. |
+| (b) | Exception. |
+| (c) | Exception regarding foreign fish processing in internal waters. |
+| [1857\.](Subchapter%20004%20%28IV%29%20-%20National%20Fishery%20Management%20Program/%C2%A7%2001857%20-%20Prohibited%20acts.md) | Prohibited acts. |
+| [1858\.](Subchapter%20004%20%28IV%29%20-%20National%20Fishery%20Management%20Program/%C2%A7%2001858%20-%20Civil%20penalties%20and%20permit%20sanctions.md) | Civil penalties and permit sanctions. |
+| (a) | Assessment of penalty. |
+| (b) | Review of civil penalty. |
+| (c) | Action upon failure to pay assessment. |
+| (d) | In rem jurisdiction. |
+| (e) | Compromise or other action by Secretary. |
+| (f) | Subpenas. |
+| (g) | Permit sanctions. |
+| [1859\.](Subchapter%20004%20%28IV%29%20-%20National%20Fishery%20Management%20Program/%C2%A7%2001859%20-%20Criminal%20offenses.md) | Criminal offenses. |
+| (a) | Offenses. |
+| (b) | Punishment. |
+| (c) | Jurisdiction. |
+| [1860\.](Subchapter%20004%20%28IV%29%20-%20National%20Fishery%20Management%20Program/%C2%A7%2001860%20-%20Civil%20forfeitures.md) | Civil forfeitures. |
+| (a) | In general. |
+| (b) | Jurisdiction of district courts. |
+| (c) | Judgment. |
+| (d) | Procedure. |
+| (e) | Rebuttable presumptions. |
+| [1861\.](Subchapter%20004%20%28IV%29%20-%20National%20Fishery%20Management%20Program/%C2%A7%2001861%20-%20Enforcement.md) | Enforcement. |
+| (a) | Responsibility. |
+| (b) | Powers of authorized officers. |
+| (c) | Issuance of citations. |
+| (d) | Jurisdiction of courts. |
+| (e) | Payment of storage, care, and other costs. |
+| (f) | Enforcement of Northeast Multispecies Fishery Management Plan. |
+| (g) | Definitions. |
+| [1862\.](Subchapter%20004%20%28IV%29%20-%20National%20Fishery%20Management%20Program/%C2%A7%2001862%20-%20North%20Pacific%20fisheries%20research%20plan.md) | North Pacific fisheries research plan. |
+| (a) | In general. |
+| (b) | Standards. |
+| (c) | Action by Secretary. |
+| (d) | Fishery Observer Fund. |
+| (e) | Special provisions regarding observers. |
+| [1863\.](Subchapter%20004%20%28IV%29%20-%20National%20Fishery%20Management%20Program/%C2%A7%2001863%20-%20Northwest%20Atlantic%20Ocean%20Fisheries%20Reinvestment%20Program.md) | Northwest Atlantic Ocean Fisheries Reinvestment Program. |
+| (a) | Program. |
+| (b) | Assistance of other agencies. |
+| (c) | Management plans for underutilized species. |
+| (d) | “Underutilized species” defined. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER V—MISCELLANEOUS PROVISIONS
+
+|  |  |
+| :--- | ---: |
+| [1881\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001881%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93659%2C%20title%20I%2C%20%C2%A7110%2C%20Nov.%2014%2C%201986%2C%20100%20Stat.%203715.md) | Repealed. |
+| [1882\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001882%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in sections 917, 971d, 1432, 1827, 3125, 3373, 3377, 3601, 3607, 3631, 4102, 5103, 5106 of this title; title 22 section 1980; title 33 section 1321; title 42 sections 9601, 9603; title 48 section 1904.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [Subchapter 001 (I) - Generally](Subchapter%20001%20%28I%29%20-%20Generally/README.md)
+- [Subchapter 002 (II) - United States Rights and Authority Regarding Fish and Fishery Resources](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/README.md)
+- [Subchapter 004 (IV) - National Fishery Management Program](Subchapter%20004%20%28IV%29%20-%20National%20Fishery%20Management%20Program/README.md)
+- [Subchapter 005 (V) - Miscellaneous Provisions](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/README.md)

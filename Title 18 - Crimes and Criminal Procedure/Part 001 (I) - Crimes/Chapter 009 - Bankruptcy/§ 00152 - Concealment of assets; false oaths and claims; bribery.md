@@ -1,0 +1,76 @@
+### §152. Concealment of assets; false oaths and claims; bribery
+
+A person who—
+
+&emsp;(1) knowingly and fraudulently conceals from a custodian, trustee, marshal, or other officer of the court charged with the control or custody of property, or, in connection with a case under title 11, from creditors or the United States Trustee, any property belonging to the estate of a debtor;
+
+&emsp;(2) knowingly and fraudulently makes a false oath or account in or in relation to any case under title 11;
+
+&emsp;(3) knowingly and fraudulently makes a false declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28, in or in relation to any case under title 11;
+
+&emsp;(4) knowingly and fraudulently presents any false claim for proof against the estate of a debtor, or uses any such claim in any case under title 11, in a personal capacity or as or through an agent, proxy, or attorney;
+
+&emsp;(5) knowingly and fraudulently receives any material amount of property from a debtor after the filing of a case under title 11, with intent to defeat the provisions of title 11;
+
+&emsp;(6) knowingly and fraudulently gives, offers, receives, or attempts to obtain any money or property, remuneration, compensation, reward, advantage, or promise thereof for acting or forbearing to act in any case under title 11;
+
+&emsp;(7) in a personal capacity or as an agent or officer of any person or corporation, in contemplation of a case under title 11 by or against the person or any other person or corporation, or with intent to defeat the provisions of title 11, knowingly and fraudulently transfers or conceals any of his property or the property of such other person or corporation;
+
+&emsp;(8) after the filing of a case under title 11 or in contemplation thereof, knowingly and fraudulently conceals, destroys, mutilates, falsifies, or makes a false entry in any recorded information (including books, documents, records, and papers) relating to the property or financial affairs of a debtor; or
+
+&emsp;(9) after the filing of a case under title 11, knowingly and fraudulently withholds from a custodian, trustee, marshal, or other officer of the court or a United States Trustee entitled to its possession, any recorded information (including books, documents, records, and papers) relating to the property or financial affairs of a debtor,
+
+> shall be fined not more than $5,000, imprisoned not more than 5 years, or both.
+
+(June 25, 1948, ch. 645, 62 Stat. 689; June 12, 1960, Pub. L. 86–519, §2, 74 Stat. 217; Sept. 2, 1960, Pub. L. 86–701, 74 Stat. 753; Oct. 18, 1976, Pub. L. 94–550, §4, 90 Stat. 2535; Nov. 6, 1978, Pub. L. 95–598, title III, §314(a), (c), 92 Stat. 2676, 2677; Nov. 18, 1988, Pub. L. 100–690, title VII, §7017, 102 Stat. 4395; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147; Oct. 22, 1994, Pub. L. 103–394, title III, §312(a)(1)(A), 108 Stat. 4138.)
+
+#### Historical and Revision Notes
+
+Based on section 52(b) of title 11, U.S.C., 1940 ed., Bankruptcy (July 1, 1898, ch. 541, §29b, 30 Stat. 554; May 27, 1926, ch. 406, §11 (part), 44 Stat. 665; June 22, 1938, ch. 575, §1 (part), 52 Stat. 855).
+
+Section was broadened to apply to one who gives or offers a bribe.
+
+Minor changes were made in phraseology.
+
+#### Amendments
+
+1994—Pub. L. 103–394 amended section generally, designating undesignated pars. as opening provisions, pars. (1) to (9), and closing provisions, and in pars. (1) and (9) inserting reference to United States Trustee.
+
+Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
+
+1988—Pub. L. 100–690 substituted “penalty of perjury” for “penalty or perjury” in third par.
+
+1978—Pub. L. 95–598 substituted, wherever appearing, “debtor” for “bankrupt”, “case under title 11” for “bankruptcy proceeding”, and “provisions of title 11” for “bankruptcy law”; and substituted “a custodian” for “the receiver, custodian”, wherever appearing, and “recorded information, including books, documents, records, and papers, relating to the property or financial affairs” for “document affecting or relating to the property or affairs”, in two places.
+
+1976—Pub. L. 94–550 inserted paragraph covering the knowing and fraudulent making of a false declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28 or in relation to any bankruptcy proceeding.
+
+1960—Pub. L. 86–701 included fraudulent transfers and concealment of property by persons in their individual capacity in sixth par.
+
+Pub. L. 86–519 struck out “under oath” after “knowingly and fraudulently presents” in third par.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder Title 11, Bankruptcy, before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of Title 11.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+#### Savings Provision
+
+Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§151 et seq.), chapter 96 (§1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
+
+#### Cross References
+
+Bankruptcy investigations; duties of United States attorney, see section 3057 of this title.
+
+Discharges, refusal to grant when offense committed, see section 727 of Title 11, Bankruptcy.
+
+Limitation of prosecutions, see sections 3282, 3284 of this title.
+
+Wire or oral communications, authorization for interception, to provide evidence of bankruptcy fraud offenses, see section 2516 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1956 of this title; title 7 section 12a; title 15 sections 78<i>o</i>, 80b–3.
+

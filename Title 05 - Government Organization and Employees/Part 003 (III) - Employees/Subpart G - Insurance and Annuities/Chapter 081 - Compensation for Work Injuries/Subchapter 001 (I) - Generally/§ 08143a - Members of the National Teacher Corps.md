@@ -1,0 +1,34 @@
+### §8143a. Members of the National Teacher Corps
+
+Subject to the provisions of this section, this subchapter applies to a member of the National Teacher Corps. In administering this subchapter for a member covered by this section—
+
+&emsp;(1) “performance of duty” does not include an act of a member while—
+
+&emsp;&emsp;(A) on authorized leave; or
+
+&emsp;&emsp;(B) absent from his assigned post of duty, except while participating in an activity authorized by or under the direction or supervision of the Commissioner of Education; and
+
+&emsp;(2) In computing compensation for disability or death, the monthly pay of a member is deemed his actual pay or that received at the minimum rate for GS–6, whichever is greater.
+
+(Added Pub. L. 90–83, §1(66)(A), Sept. 11, 1967, 81 Stat. 212.)
+
+Historical and Revision Notes
+
+<i>Section of title 5</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+8143a
+
+20: 1105(b).
+
+Nov. 8, 1965, Pub. L. 89–329, §515(b), 79 Stat. 1257.
+
+The words “a member of the National Teacher Corps” are substituted for “such members” on authority of 20 U.S.C. 1102, 1105(a). In paragraph (1)(B), the words “Commissioner of Education” are substituted for “Commissioner” on authority of 20 U.S.C. 1141(f). In paragraph (2), the words “at the minimum rate for GS–6” are substituted for “under the entrance salary for grade 6,” and the reference to the General Schedule of the Classification Act of 1949 is omitted as unnecessary.
+
+#### Transfer of Functions
+
+Functions of Commissioner of Education of Department of Health, Education, and Welfare transferred to Secretary of Education by section 3441(a)(1) of Title 20, Education.
+

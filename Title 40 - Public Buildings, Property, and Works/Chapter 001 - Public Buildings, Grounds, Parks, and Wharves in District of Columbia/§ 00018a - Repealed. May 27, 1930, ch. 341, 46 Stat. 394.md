@@ -1,0 +1,4 @@
+### §18a. Repealed. May 27, 1930, ch. 341, 46 Stat. 394
+
+Section, act Mar. 4, 1929, ch. 707, §1, 45 Stat. 1625, related to care, maintenance, etc., of Mount Weather, Virginia.
+

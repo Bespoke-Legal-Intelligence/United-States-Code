@@ -1,0 +1,20 @@
+### §7705e. Post-earthquake investigations program
+
+There is established within the United States Geological Survey a post-earthquake investigations program, the purpose of which is to investigate major earthquakes, so as to learn lessons which can be applied to reduce the loss of lives and property in future earthquakes. The United States Geological Survey, in consultation with each Program agency, shall organize investigations to study the implications of the earthquake in the areas of responsibility of each Program agency. The investigations shall begin as rapidly as possible and may be conducted by grantees and contractors. The Program agencies shall ensure that the results of investigations are disseminated widely. The Director of the Survey is authorized to utilize earthquake expertise from the Agency, the National Science Foundation, the National Institute of Standards and Technology, other Federal agencies, and private contractors, on a reimbursable basis, in the conduct of such earthquake investigations. At a minimum, investigations under this section shall include—
+
+&emsp;(1) analysis by the National Science Foundation and the United States Geological Survey of the causes of the earthquake and the nature of the resulting ground motion;
+
+&emsp;(2) analysis by the National Science Foundation and the National Institute of Standards and Technology of the behavior of structures and lifelines, both those that were damaged and those that were undamaged; and
+
+&emsp;(3) analysis by each of the Program agencies of the effectiveness of the earthquake hazards mitigation programs and actions relating to its area of responsibility under the Program, and how those programs and actions could be strengthened.
+
+(Pub. L. 95–124, §11, as added Pub. L. 101–614, §11(a), Nov. 16, 1990, 104 Stat. 3239.)
+
+#### Report on Funding of Program
+
+Section 11(b) of Pub. L. 101–614 directed Director of Federal Emergency Management Agency in consultation with other agencies of National Earthquake Hazards Reduction Program, not later than one year after Nov. 16, 1990, to report to Congress on possible options for funding a program for post-earthquake investigations, which would, at a minimum, consider funding such a program either by setting aside a percentage of disaster relief funds provided by Federal Emergency Management Agency after a major earthquake or by a revolving fund, and which would also include a recommendation on how the funding for such investigations would be allocated among the other Program agencies.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7706 of this title.
+

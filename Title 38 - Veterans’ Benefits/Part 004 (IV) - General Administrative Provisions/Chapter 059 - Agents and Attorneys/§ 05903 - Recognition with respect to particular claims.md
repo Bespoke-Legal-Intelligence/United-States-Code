@@ -1,0 +1,18 @@
+### §5903. Recognition with respect to particular claims
+
+The Secretary may recognize any individual for the preparation, presentation, and prosecution of any particular claim for benefits under any of the laws administered by the Secretary if—
+
+&emsp;(1) such individual has certified to the Secretary that no fee or compensation of any nature will be charged any individual for services rendered in connection with such claim; and
+
+&emsp;(2) such individual has filed with the Secretary a power of attorney, executed in such manner and in such form as the Secretary may prescribe.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, §3403; renumbered §5903, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+
+#### Amendments
+
+1991—Pub. L. 102–40 renumbered section 3403 of this title as this section.
+
+Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and wherever appearing in pars. (1) and (2).
+
+Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in introductory provisions.
+

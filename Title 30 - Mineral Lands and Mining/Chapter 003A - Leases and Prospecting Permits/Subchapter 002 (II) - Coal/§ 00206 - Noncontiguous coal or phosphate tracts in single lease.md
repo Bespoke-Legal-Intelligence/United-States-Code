@@ -1,0 +1,14 @@
+### §206. Noncontiguous coal or phosphate tracts in single lease
+
+Where coal or phosphate lands aggregating two thousand five hundred and sixty acres and subject to lease hereunder do not exist as contiguous areas, the Secretary of the Interior is authorized, if, in his opinion, the interests of the public and of the lessee will be thereby subserved, to embrace in a single lease noncontiguous tracts which can be operated as a single mine or unit.
+
+(Feb. 25, 1920, ch. 85, §6, 41 Stat. 439.)
+
+#### Cross References
+
+Surrender of leases, see section 188a of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 208 of this title; title 10 sections 7421, 7435.
+

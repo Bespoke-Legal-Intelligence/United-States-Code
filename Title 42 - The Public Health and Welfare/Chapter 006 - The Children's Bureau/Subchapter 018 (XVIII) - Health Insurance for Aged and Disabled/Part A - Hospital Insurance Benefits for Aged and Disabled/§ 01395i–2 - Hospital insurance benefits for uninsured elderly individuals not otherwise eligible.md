@@ -1,0 +1,262 @@
+### §1395i–2. Hospital insurance benefits for uninsured elderly individuals not otherwise eligible
+
+#### (a) Individuals eligible to enroll
+
+Every individual who—
+
+&emsp;(1) has attained the age of 65,
+
+&emsp;(2) is enrolled under part B of this subchapter,
+
+&emsp;(3) is a resident of the United States, and is either (A) a citizen or (B) an alien lawfully admitted for permanent residence who has resided in the United States continuously during the 5 years immediately preceding the month in which he applies for enrollment under this section, and
+
+&emsp;(4) is not otherwise entitled to benefits under this part,
+
+> shall be eligible to enroll in the insurance program established by this part.
+
+#### (b) Time, manner, and form of enrollment
+
+An individual may enroll under this section only in such manner and form as may be prescribed in regulations, and only during an enrollment period prescribed in or under this section.
+
+#### (c) Period of enrollment; scope of coverage
+
+The provisions of section 1395p of this title (except subsection (f) thereof), section 1395q of this title, subsection (b) of section 1395r of this title, and subsections (f) and (h) of section 1395s of this title shall apply to persons authorized to enroll under this section except that—
+
+&emsp;(1) individuals who meet the conditions of subsection (a)(1), (3), and (4) of this section on or before the last day of the seventh month after October 1972 may enroll under this part and (if not already so enrolled) may also enroll under part B of this subchapter during an initial general enrollment period which shall begin on the first day of the second month which begins after October 30, 1972, and shall end on the last day of the tenth month after October 1972;
+
+&emsp;(2) in the case of an individual who first meets the conditions of eligibility under this section on or after the first day of the eighth month after October 1972, the initial enrollment period shall begin on the first day of the third month before the month in which he first becomes eligible and shall end 7 months later;
+
+&emsp;(3) in the case of an individual who enrolls pursuant to paragraph (1) of this subsection, entitlement to benefits shall begin on—
+
+&emsp;&emsp;(A) the first day of the second month after the month in which he enrolls,
+
+&emsp;&emsp;(B) July 1, 1973, or
+
+&emsp;&emsp;(C) the first day of the first month in which he meets the requirements of subsection (a) of this section,
+
+> &emsp;whichever is the latest;
+
+&emsp;(4) an individual's entitlement under this section shall terminate with the month beforethe first month in which he becomes eligible for hospital insurance benefits under section 426 of this title or section 426a of this title; and upon such termination, such individual shall be deemed, solely for purposes of hospital insurance entitlement, to have filed in such first month the application required to establish such entitlement;
+
+&emsp;(5) termination of coverage for supplementary medical insurance shall result in simultaneous termination of hospital insurance benefits for uninsured individuals who are not otherwise entitled to benefits under this chapter;
+
+&emsp;(6) any percent increase effected under section 1395r(b) of this title in an individual's monthly premium may not exceed 10 percent and shall only apply to premiums paid during a period equal to twice the number of months in the full 12-month periods described in that section;
+
+&emsp;(7) an individual who meets the conditions of subsection (a) of this section may enroll under this part during a special enrollment period that includes any month during any part of which the individual is enrolled under section 1395mm of this title with an eligible organization and ending with the last day of the 8th consecutive month in which the individual is at no time so enrolled;
+
+&emsp;(8) in the case of an individual who enrolls during a special enrollment period under paragraph (7)—
+
+&emsp;&emsp;(A) in any month of the special enrollment period in which the individual is at any time enrolled under section 1395mm of this title with an eligible organization or in the first month following such a month, the coverage period shall begin on the first day of the month in which the individual so enrolls (or, at the option of the individual, on the first day of any of the following three months), or
+
+&emsp;&emsp;(B) in any other month of the special enrollment period, the coverage period shall begin on the first day of the month following the month in which the individual so enrolls; and
+
+&emsp;(9) in applying the provisions of section 1395r(b) of this title, there shall not be taken into account months for which the individual can demonstrate that the individual was enrolled under section 1395mm of this title with an eligible organization.
+
+#### (d) Monthly premiums
+
+(1) The Secretary shall, during September of each year (beginning with 1988), estimate the monthly actuarial rate for months in the succeeding year. Such actuarial rate shall be one-twelfth of the amount which the Secretary estimates (on an average, per capita basis) is equal to 100 percent of the benefits and administrative costs which will be payable from the Federal Hospital Insurance Trust Fund for services performed and related administrative costs incurred in the succeeding year with respect to individuals age 65 and over who will be entitled to benefits under this part during that year.
+
+(2) The Secretary shall, during September of each year <sup>1</sup> determine and promulgate the dollar amount which shall be applicable for premiums for months occurring in the following year. Subject to paragraph (4), the amount of an individual's monthly premium under this section shall be equal to the monthly actuarial rate determined under paragraph (1) for that following year. Any amount determined under the preceding sentence which is not a multiple of $1 shall be rounded to the nearest multiple of $1 (or, if it is a multiple of 50 cents but not a multiple of $1, to the next higher multiple of $1).
+
+(3) Whenever the Secretary promulgates the dollar amount which shall be applicable as the monthly premium under this section, he shall, at the time such promulgation is announced, issue a public statement setting forth the actuarial assumptions and bases employed by him in arriving at the amount of an adequate actuarial rate for individuals 65 and older as provided in paragraph (1).
+
+(4)(A) In the case of an individual described in subparagraph (B), the monthly premium for a month shall be reduced by the applicable reduction percent specified in the following table:
+
+&nbsp;
+
+<b>The applicable</b>
+
+&nbsp;
+
+<b>reduction</b>
+
+<b>For a month in:</b>
+
+<b>percent is:</b>
+
+&nbsp;1994
+
+25 percent&nbsp;
+
+&nbsp;1995
+
+30 percent&nbsp;
+
+&nbsp;1996
+
+35 percent&nbsp;
+
+&nbsp;1997
+
+40 percent&nbsp;
+
+&nbsp;1998 or subsequent year
+
+45 percent.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(B) An individual described in this subparagraph with respect to a month is an individual who establishes to the satisfaction of the Secretary that, as of the last day of the previous month, the individual—
+
+&emsp;(i) had at least 30 quarters of coverage under subchapter II of this chapter;
+
+&emsp;(ii) was married (and had been married for the previous 1-year period) to an individual who had at least 30 quarters of coverage under such subchapter;
+
+&emsp;(iii) had been married to an individual for a period of at least 1 year (at the time of such individual's death) if at such time the individual had at least 30 quarters of coverage under such subchapter; or
+
+&emsp;(iv) is divorced from an individual and had been married to the individual for a period of at least 10 years (at the time of the divorce) if at such time the individual had at least 30 quarters of coverage under such subchapter.
+
+#### (e) Contract or other arrangement for payment of monthly premiums
+
+Payment of the monthly premiums on behalf of any individual who meets the conditions of subsection (a) of this section may be made by any public or private agency or organization under a contract or other arrangement entered into between it and the Secretary if the Secretary determines that payment of such premiums under such contract or arrangement is administratively feasible.
+
+#### (f) Deposit of amounts into Treasury
+
+Amounts paid to the Secretary for coverage under this section shall be deposited in the Treasury to the credit of the Federal Hospital Insurance Trust Fund.
+
+#### (g) Buy-in under this part for qualified medicare beneficiaries
+
+(1) The Secretary shall, at the request of a State made after 1989, enter into a modification of an agreement entered into with the State pursuant to section 1395v(a) of this title under which the agreement provides for enrollment in the program established by this part of qualified medicare beneficiaries (as defined in section 1396d(p)(1) of this title).
+
+(2)(A) Except as provided in subparagraph (B), the provisions of subsections (c), (d), (e), and (f) of section 1395v of this title shall apply to qualified medicare beneficiaries enrolled, pursuant to such agreement, in the program established by this part in the same manner and to the same extent as they apply to qualified medicare beneficiaries enrolled, pursuant to such agreement, in part B of this subchapter.
+
+(B) For purposes of this subsection, section 1395v(d)(1) of this title shall be applied by substituting “section 1395i–2 of this title” for “section 1395r of this title” and “subsection (c)(6) (with reference to subsection (b) of section 1395r of this title)” for “subsection (b).”.<sup>2</sup>
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1818, as added Oct. 30, 1972, Pub. L. 92–603, title II, §202, 86 Stat. 1374; amended Apr. 20, 1983, Pub. L. 98–21, title VI, §606(a)(3)(D), (b), 97 Stat. 170, 171; July 18, 1984, Pub. L. 98–369, div. B, title III, §§2315(e), 2354(b)(3), (4), 98 Stat. 1080, 1100; Apr. 7, 1986, Pub. L. 99–272, title IX, §9124(a), 100 Stat. 168; Dec. 22, 1987, Pub. L. 100–203, title IV, §4009(j)(9), as added July 1, 1988, Pub. L. 100–360, title IV, §411(b)(8)(D), 102 Stat. 772; July 1, 1988, Pub. L. 100–360, title I, §103, 102 Stat. 687; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(2), 102 Stat. 2413; Dec. 19, 1989, Pub. L. 101–239, title VI, §§6012(a)(1), 6013(a), 103 Stat. 2161, 2163; Nov. 5, 1990, Pub. L. 101–508, title IV, §4008(g)(1), (m)(3)(D), 104 Stat. 1388–45, 1388–54; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13508(a), 107 Stat. 579.)
+
+#### References in Text
+
+Part B of this subchapter, referred to in subsecs. (a)(2), (c)(1), and (g)(2)(A), is classified to section 1395j et seq. of this title.
+
+#### Amendments
+
+1993—Subsec. (d)(2). Pub. L. 103–66, §13508(a)(1), substituted “Subject to paragraph (4), the amount of an individual's monthly premium under this section” for “Such amount”.
+
+Subsec. (d)(4). Pub. L. 103–66, §13508(a)(2), added par. (4).
+
+1990—Subsec. (c)(7) to (9). Pub. L. 101–508, §4008(g)(1), added pars. (7) to (9).
+
+Subsec. (g)(2)(B). Pub. L. 101–508, §4008(m)(3)(D), substituted “ ‘subsection (c)(6)” for “ ‘subsection (c)”.
+
+1989—Pub. L. 101–239, §6012(a)(1), inserted “elderly” after “uninsured” in section catchline.
+
+Subsec. (g). Pub. L. 101–239, §6013(a), added subsec. (g).
+
+1988—Subsec. (c)(4) to (7). Pub. L. 100–360, §411(b)(8)(D), added Pub. L. 100–203, §4009(j)(9), see 1987 Amendment note below.
+
+Subsec. (d). Pub. L. 100–360, §103, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+
+“(1) The monthly premium of each individual for each month in his coverage period before July 1974 shall be $33.
+
+“(2) The Secretary shall, during the next to last calendar quarter of each year determine and promulgate the dollar amount (whether or not such dollar amount was applicable for premiums for any prior month) which shall be applicable for premiums for months occurring in the following calendar year. Such amount shall be equal to $33, multiplied by the ratio of (A) the inpatient hospital deductible for that following calendar year, as promulgated under section 1395e(b)(2) of this title, to (B) such deductible promulgated for 1973. Any amount determined under the preceding sentence which is not a multiple of $1 shall be rounded to the nearest multiple of $1, or, if a multiple of 50 cents but not a multiple of $1, to the next higher multiple of $1.”
+
+Subsec. (d)(1). Pub. L. 100–485 substituted “during that year” for “during that entire year”.
+
+1987—Subsec. (c)(4) to (7). Pub. L. 100–203, §4009(j)(9), as added by Pub. L. 100–360, §411(b)(8)(D), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which read as follows: “termination of coverage under this section by the filing of notice that the individual no longer wishes to participate in the hospital insurance program shall take effect at the close of the month following the month in which such notice is filed;”.
+
+1986—Subsec. (c)(7). Pub. L. 99–272 added par. (7).
+
+1984—Subsec. (c). Pub. L. 98–369, §2315(e), substituted “subsection (b) of section 1395r of this title” for “subsection (a) of section 1395r of this title”.
+
+Subsec. (c)(1). Pub. L. 98–369, §2354(b)(3), substituted “October 1972” for “the month in which this Act is enacted”.
+
+Subsec. (d)(2). Pub. L. 98–369, §2354(b)(4), substituted “, if a multiple of 50 cents but not a multiple of $1,” for “if midway between multiples of $1”.
+
+1983—Subsec. (c). Pub. L. 98–21, §606(a)(3)(D), substituted “subsection (a) of section 1395r” for “subsection (c) of section 1395r”.
+
+Subsec. (d)(2). Pub. L. 98–21, §606(b), substituted “during the next to last calendar quarter of each year” for “during the last calendar quarter of each year, beginning in 1973,”, “the following calendar year” for “the 12-month period commencing July 1 of the next year”, and “for that following calendar year” for “for such next year”.
+
+#### Effective Date of 1993 Amendment
+
+Section 13508(b) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section\] shall apply to monthly premiums under section 1818 of the Social Security Act \[this section\] for months beginning with January 1, 1994.”
+
+#### Effective Date of 1990 Amendment
+
+Section 4008(g)(2) of Pub. L. 101–508 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on February 1, 1991.”
+
+#### Effective Date of 1989 Amendment
+
+Amendment by section 6012(a)(1) of Pub. L. 101–239 effective Dec. 19, 1989, but not applicable so as to provide coverage under this part for any month before July 1990, see section 6012(b) of Pub. L. 101–239, set out as an Effective Date note under section 1395i–2a of this title.
+
+Section 6013(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section and section 1395v of this title\] shall become effective January 1, 1990.”
+
+#### Effective Date of 1988 Amendments
+
+Amendment by Pub. L. 100–485 effective as if originally included in the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
+
+Amendment by section 103 of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or afterJan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
+
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(b)(8)(D) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+
+#### Effective Date of 1986 Amendment
+
+Section 9124(b) of Pub. L. 99–272 provided that:
+
+“(1) The amendment made by subsection (a)(3) \[amending this section\] shall apply to premiums paid for months beginning with July 1986.
+
+“(2) In applying that amendment, months (before, during, or after April 1986) in which an individual was required to pay a premium increased under the section that was so amended shall be taken into account in determining the month in which the premium will no longer be subject to an increase under that section as so amended.”
+
+#### Effective Date of 1984 Amendment
+
+Amendment by section 2315(e) of Pub. L. 98–369 effective as though included in the enactment of the Social Security Amendments of 1983, Pub. L. 98–21, see section 2315(g) of Pub. L. 98–369, set out as an Effective and Termination Dates of 1984 Amendments note under section 1395ww of this title.
+
+Amendment by section 2354(b)(3), (4) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
+
+#### Effective Date of 1983 Amendment; Transitional Rule
+
+Amendment by Pub. L. 98–21 applicable to premiums for months beginning with January 1984, but for months after June 1983 and before January 1984, the monthly premium for June 1983 shall apply to individuals enrolled under parts A and B of this subchapter, see section 606(c) of Pub. L. 98–21, set out as a note under section 1395r of this title.
+
+#### Special Enrollment Provisions for Merchant Seamen
+
+Pub. L. 97–248, title I, §125, Sept. 3, 1982, 96 Stat. 365, provided that:
+
+“(a) Any individual who—
+
+&emsp;“(1) was entitled to medical, surgical, and dental treatment and hospitalization under section 322(a) of the Public Health Service Act \[section 249(a) of this title\] (as in effect on September 30, 1981), including such entitlement on the basis of continuing medical care under 42 C.F.R. §32.17, at any time during the period beginning on March 10, 1981, and ending on October 1, 1981, and
+
+&emsp;“(2) as of September 30, 1981, was eligible under section 1818(a) or section 1836 of the Social Security Act \[this section or section 1395<i>o</i> of this title\] to enroll in the insurance program established by part A or part B, respectively, of title XVIII of that Act \[this subchapter\] (hereinafter in this section referred to as the ‘respective program’),
+
+> may enroll (if not otherwise enrolled) in the respective program during the period beginning on the first day of the first month beginning at least 20 days after the date of the enactment of this Act \[Sept. 3, 1982\] and ending on December 31, 1982.
+
+“(b)(1) The coverage period under the respective program of an individual who enrolls under subsection (a) shall begin—
+
+&emsp;“(A) on the first day of the month following the month in which the individual enrolls, or
+
+&emsp;“(B) on October 1, 1981, if the individual files a request for this subparagraph to apply and pays the monthly premiums for the months so covered.
+
+“(2) The coverage period under the respective program of an individual described in subsection (a) who enrolled in the respective program before the enrollment period described in that subsection shall be retroactively extended to October 1, 1981, if the individual files a request before January 1, 1983, for such retroactive extension and pays the monthly premiums for the months so covered.
+
+“(c)(1) For purposes of section 1839(d) of the Social Security Act \[section 1395r(d) of this title\] with respect to the monthly premium for months after September 1981, if an individual described in subsection (a) has enrolled in the insurance program under part B of title XVIII of the Social Security Act \[part B of this subchapter\] at any time before the end of the enrollment period described in subsection (a), any month (before the end of that enrollment period) in which he was not enrolled in that program shall not be treated as a month in which he could have been enrolled in the program.
+
+“(2) Paragraph (1) shall not apply to an individual—
+
+&emsp;“(A) if the individual has enrolled in the insurance program before March 10, 1981, unless the enrollment was terminated solely because the individual lost eligibility to be so enrolled, or
+
+&emsp;“(B) unless the individual applies for the benefit of such paragraph before January 1, 1983.
+
+“(d)(1) The Secretary of Health and Human Services, beginning as soon as possible but not later than 30 days after the date of the enactment of this Act \[Sept. 3, 1982\], shall provide for the dissemination of information—
+
+&emsp;“(A) to unions and other associations representing or assisting seamen,
+
+&emsp;“(B) to offices enrolling individuals under the respective programs, and
+
+&emsp;“(C) to such other entities and in such a manner as will effectively inform individuals eligible for benefits under this section,
+
+> concerning the special benefits provided under this section.
+
+“(2) An individual may establish that the individual was entitled at a date to medical, surgical, and dental treatment and hospitalization under section 322(a) of the Public Health Service Act \[section 249(a) of this title\] (as in effect before October 1, 1981) by providing—
+
+&emsp;“(A) documentation relating to the status under which the individual was provided care in (or under arrangements with) a Public Health Service facility on that date,
+
+&emsp;“(B) the individual's seamen's papers covering that date, or
+
+&emsp;“(C) such other reasonable documentation as the Secretary may require.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1320b–14, 1395i–2a, 1395p, 1395v, 1395ff, 1395gg, 1396d of this title; title 25 section 1644; title 26 section 6103.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
+

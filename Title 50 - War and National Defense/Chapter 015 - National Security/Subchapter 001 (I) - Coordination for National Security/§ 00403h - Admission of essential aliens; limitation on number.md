@@ -1,0 +1,26 @@
+### §403h. Admission of essential aliens; limitation on number
+
+Whenever the Director, the Attorney General, and the Commissioner of Immigration and Naturalization shall determine that the entry of a particular alien into the United States for permanent residence is in the interest of national security or essential to the furtherance of the national intelligence mission, such alien and his immediate family shall be given entry into the United States for permanent residence without regard to their inadmissibility under the immigration or any other laws and regulations, or to the failure to comply with such laws and regulations pertaining to admissibility: <i>Provided</i>, That the number of aliens and members of their immediate families entering the United States under the authority of this section shall in no case exceed one hundred persons in any one fiscal year.
+
+(June 20, 1949, ch. 227, §7, formerly §8, 63 Stat. 212; renumbered §7, July 7, 1958, Pub. L. 85–507, §21(b)(2), 72 Stat. 337.)
+
+#### References in Text
+
+The immigration laws, referred to in text, mean chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality, and all laws, conventions, and treaties of the United States relating to the immigration, exclusion, deportation, or expulsion of aliens. See section 1101(a)(17) of Title 8.
+
+#### Codification
+
+Section was enacted as part of the Central Intelligence Agency Act of 1949, and not as part of the National Security Act of 1947 which comprises this chapter.
+
+#### Change of Name
+
+Ex. Ord. No. 6166, §14, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees, consolidated Bureaus of Immigration and Naturalization of Department of Labor to form an Immigration and Naturalization Service in Department of Labor, to be administered by a Commissioner of Immigration and Naturalization, which was then transferred from Department of Labor to Department of Justice by Reorg. Plan No. V of 1940, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238, set out in the Appendix to Title 5. Accordingly, “Commissioner of Immigration and Naturalization” was substituted for “Commissioner of Immigration”.
+
+#### Transfer of Functions
+
+Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 403a, 403e, 403f of this title.
+

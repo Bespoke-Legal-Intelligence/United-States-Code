@@ -1,0 +1,24 @@
+### §26104. Authorization of appropriations
+
+(a)
+
+Fiscal Year 1995.—There are authorized to be appropriated to the Secretary $29,000,000 for fiscal year 1995, for carrying out sections 26101 and 26102 (including payment of administrative expenses related thereto).
+
+(b)
+
+Fiscal Year 1996.—(1) There are authorized to be appropriated to the Secretary $40,000,000 for fiscal year 1996, for carrying out section 26101 (including payment of administrative expenses related thereto).
+
+(2) There are authorized to be appropriated to the Secretary $30,000,000 for fiscal year 1996, for carrying out section 26102 (including payment of administrative expenses related thereto).
+
+(c)
+
+Fiscal Year 1997.—(1) There are authorized to be appropriated to the Secretary $45,000,000 for fiscal year 1997, for carrying out section 26101 (including payment of administrative expenses related thereto).
+
+(2) There are authorized to be appropriated to the Secretary $40,000,000 for fiscal year 1997, for carrying out section 26102 (including payment of administrative expenses related thereto).
+
+(d)
+
+Funds to Remain Available.—Funds made available under this section shall remain available until expended.
+
+(Added Pub. L. 103–440, title I, §103(a)(2), Nov. 2, 1994, 108 Stat. 4618.)
+

@@ -1,0 +1,28 @@
+### §14901. Separation of chaplains for loss of professional qualifications
+
+(a)
+
+Separation.—Under regulations prescribed by the Secretary of Defense, an officer on the reserve active-status list who is appointed or designated as a chaplain may, if the officer fails to maintain the qualifications needed to perform the professional function of a chaplain, be discharged. The authority under the preceding sentence applies without regard to the provisions of section 12645 of this title.
+
+(b)
+
+Effect of Separation.—If an officer separated under this section is eligible for retirement, the officer may be retired. If the officer has completed the years of service required for eligibility for retired pay under chapter 1223 of this title, the officer may be transferred to the Retired Reserve.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2957.)
+
+#### Effective Date of Section
+
+<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
+
+#### Effective Date
+
+Chapter effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
+
+#### Cross References
+
+Reserve components, limitations on separation inapplicable to separation under this section, see section 12683 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 12683 of this title.
+

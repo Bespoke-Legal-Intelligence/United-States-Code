@@ -1,0 +1,12 @@
+### §300ff–89. Injunctions regarding violation of prohibition
+
+#### (a) In general
+
+The Secretary may, in any court of competent jurisdiction, commence a civil action for the purpose of obtaining temporary or permanent injunctive relief with respect to any violation of this subpart.
+
+#### (b) Facilitation of information on violations
+
+The Secretary shall establish an administrative process for encouraging emergency response employees to provide information to the Secretary regarding violations of this subpart. As appropriate, the Secretary shall investigate alleged such violations and seek appropriate injunctive relief.
+
+(July 1, 1944, ch. 373, title XXVI, §2689, as added Aug. 18, 1990, Pub. L. 101–381, title IV, §411(a), 104 Stat. 628.)
+

@@ -1,0 +1,46 @@
+### §1403. Preparation of plan
+
+#### (a) Prerequisites for final preparation
+
+The Secretary shall prepare a plan which shall best serve the interests of all those entities and individuals entitled to receive funds of each Indian judgment. Prior to the final preparation of the plan, the Secretary shall—
+
+&emsp;(1) receive and consider any resolution or communication, together with any suggested use or distribution plan, which any affected Indian tribe may wish to submit to him; and
+
+&emsp;(2) hold a hearing of record, after appropriate public notice, to obtain the testimony of leaders and members of the Indian tribe which may receive any portion, or be affected by the use or distribution, of such funds, in the area in which such Indian tribe is located and at a time which shall best serve the convenience of the eligible members thereof.
+
+#### (b) Guidelines
+
+In preparing a plan for the use or distribution of the funds of each Indian judgment, the Secretary shall, among other things, be assured that—
+
+&emsp;(1) legal, financial, and other expertise of the Department of the Interior has been made fully available in an advisory capacity to the Indian tribe which is entitled to such funds to assist it to develop and communicate to the Secretary pursuant to clause (1) of subsection (a) of this section its own suggested plan for the distribution and use of such funds;
+
+&emsp;(2) the needs and desires of any groups or individuals who are in a minority position, but who are also entitled to receive such funds, have been fully ascertained and considered;
+
+&emsp;(3) the interests of minors and other legally incompetent persons who are entitled to receive any portion of such funds as are subsequently distributed to them are and will be protected and preserved; <sup>1</sup> <i>Provided</i>, That such funds may be disbursed to the parents or legal guardian of such minors or legal incompetents in such amounts as may be necessary for the minor or legal incompetent's health, education, welfare, or emergencies under a plan or plans approved by the Secretary and the tribal governing body of the Indian tribe involved.<sup>2</sup>
+
+&emsp;(4) any provision, including enrollment provisions, of the constitution, bylaws, rules, and procedures of such tribe which may affect the distribution or other use of such funds are in full accord with the principles of fairness and equity;
+
+&emsp;(5) a significant portion of such funds shall be set aside and programed to serve common tribal needs, educational requirements, and such other purposes as the circumstances of the affected Indian tribe may justify, except not less than 20 per centum of such funds shall be so set aside and programed unless the Secretary determines that the particular circumstances of the pertinent Indian tribe clearly warrant otherwise: <i>Provided</i>, That in the development of such plan the Secretary shall survey past and present plans of the tribe for economic development, shall consider long range benefits which might accrue to the tribe from such plans, and shall encourage programing of funds for economic development purposes where appropriate; and
+
+&emsp;(6) methods exist and will be employed to insure the proper performance of the plan once it becomes effective under section 1405 of this title.
+
+(Pub. L. 93–134, §3, Oct. 19, 1973, 87 Stat. 467; Pub. L. 97–458, §2, Jan. 12, 1983, 96 Stat. 2512.)
+
+#### Amendments
+
+1983—Subsec. (b)(3). Pub. L. 97–458, §2(a), inserted proviso.
+
+Subsec. (b)(5). Pub. L. 97–458, §2(b), inserted proviso.
+
+#### Disbursements for Urgent Needs of Minors and Legal Incompetents and Accounting for Expenditures
+
+Section 2(a) of Pub. L. 97–458 provided in part that plan or plans approved by the Secretary and the tribal governing body of an Indian tribe for disbursements to parents or legal guardian of minors or legal incompetents for health, education, welfare, or emergencies of their charges “shall be limited to urgent needs arising from extenuating circumstances and shall accord with general principles governing administration of trust funds of minors and legal incompetents, including a requirement for strict accounting for expenditures.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1404 of this title.
+
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a colon.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
+

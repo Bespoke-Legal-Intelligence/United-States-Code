@@ -1,0 +1,14 @@
+### §2689. Development of geothermal energy on military lands
+
+The Secretary of a military department may develop, or authorize the development of, any geothermal energy resource within lands under the Secretary's jurisdiction, including public lands, for the use or benefit of the Department of Defense if that development is in the public interest, as determined by the Secretary concerned, and will not deter commercial development and use of other portions of such resource if offered for leasing.
+
+(Added Pub. L. 97–214, §6(c)(1), July 12, 1982, 96 Stat. 172.)
+
+#### Effective Date
+
+Section effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2394 of this title.
+

@@ -1,0 +1,72 @@
+### §2102. Rural forestry assistance
+
+#### (a) Assistance to forest landowners and others
+
+The Secretary may provide financial, technical, educational, and related assistance to State foresters or equivalent State officials, and State extension directors, to enable such officials to provide technical information, advice, and related assistance to private forest land owners and managers, vendors, forest resource operators, forest resource professionals, public agencies, and individuals to enable such persons to carry out activities that are consistent with the purposes of this chapter, including—
+
+&emsp;(1) protecting, maintaining, enhancing, restoring, and preserving forest lands and the multiple values and uses that depend on such lands;
+
+&emsp;(2) identifying, protecting, maintaining, enhancing, and preserving wildlife and fish species, including threatened and endangered species, and their habitats;
+
+&emsp;(3) implementing forest management technologies;
+
+&emsp;(4) selecting, producing, and marketing alternative forest crops, products and services from forest lands;
+
+&emsp;(5) protecting forest land from damage caused by fire, insects, disease, and damaging weather;
+
+&emsp;(6) managing the rural-land and urban-land interface to balance the use of forest resources in and adjacent to urban and community areas;
+
+&emsp;(7) identifying and managing recreational forest land resources;
+
+&emsp;(8) identifying and protecting the aesthetic character of forest lands;
+
+&emsp;(9) protecting forest land from conversion to alternative uses; and
+
+&emsp;(10) the management of resources of forest lands, including—
+
+&emsp;&emsp;(A) the harvesting, processing, and marketing of timber and other forest resources and the marketing and utilization of wood and wood products;
+
+&emsp;&emsp;(B) the conversion of wood to energy for domestic, industrial, municipal, and other uses;
+
+&emsp;&emsp;(C) the planning, management, and treatment of forest land, including site preparation, reforestation, thinning, prescribed burning, and other silvicultural activities designed to increase the quantity and improve the quality of timber and other forest resources;
+
+&emsp;&emsp;(D) ensuring that forest regeneration or reforestation occurs if needed to sustain long-term resource productivity;
+
+&emsp;&emsp;(E) protecting and improving forest soil fertility and the quality, quantity, and timing of water yields; and
+
+&emsp;&emsp;(F) encouraging the investment of a portion of the proceeds from the sale of timber or other forest resources in stewardship activities that preserve, protect, maintain, and enhance their forest land.
+
+#### (b) State forestry assistance
+
+The Secretary is authorized to provide financial, technical, and related assistance to State foresters, or equivalent State officials, to—
+
+&emsp;(1) develop genetically improved tree seeds;
+
+&emsp;(2) develop and contract for the development of field arboretums, greenhouses, and tree nurseries, in cooperation with a State, to facilitate production and distribution of tree seeds and seedlings in States where the Secretary determines that there is an inadequate capacity to carry out present and future reforestation needs;
+
+&emsp;(3) procure, produce, and distribute tree seeds and trees for the purpose of establishing forests, windbreaks, shelterbelts, woodlots, and other plantings;
+
+&emsp;(4) plant tree seeds and seedlings on non-Federal forest lands that are suitable for the production of timber, recreation, and for other benefits associated with the growing of trees;
+
+&emsp;(5) plan, organize, and implement measures on non-Federal forest lands, including thinning, prescribed burning, and other silvicultural activities designed to increase the quantity and improve the quality of trees and other vegetation, fish and wildlife habitat, and water yielded therefrom; and
+
+&emsp;(6) protect or improve soil fertility on non-Federal forest lands and the quality, quantity, and timing of water yields therefrom.
+
+#### (c) Implementation
+
+In implementing this section, the Secretary shall cooperate with other Federal, State, and local natural resource management agencies, universities and the private sector.
+
+#### (d) Authorization of appropriations
+
+There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+(Pub. L. 95–313, §3, July 1, 1978, 92 Stat. 366; Pub. L. 101–624, title XII, §1213, Nov. 28, 1990, 104 Stat. 3523.)
+
+#### Amendments
+
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which setforth Congressional findings relating to rural forestry assistance, related to financial, technical, and related assistance to State foresters or equivalent State officials, and authorized appropriations.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2109 of this title.
+

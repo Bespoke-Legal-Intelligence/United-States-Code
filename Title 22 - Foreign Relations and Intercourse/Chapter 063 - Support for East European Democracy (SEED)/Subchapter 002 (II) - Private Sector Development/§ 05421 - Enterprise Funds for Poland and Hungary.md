@@ -1,0 +1,146 @@
+### §5421. Enterprise Funds for Poland and Hungary
+
+#### (a) Purposes
+
+The purposes of this section are to promote—
+
+&emsp;(1) development of the Polish and Hungarian private sectors, including small businesses, the agricultural sector, and joint ventures with United States and host country participants, and
+
+&emsp;(2) policies and practices conducive to private sector development in Poland and Hungary,
+
+> through loans, grants, equity investments, feasibility studies, technical assistance, training, insurance, guarantees, and other measures.
+
+#### (b) Authorization of appropriations
+
+To carry out the purposes specified in subsection (a) of this section, there are authorized to be appropriated to the President—
+
+&emsp;(1) $240,000,000 to support the Polish-American Enterprise Fund; and
+
+&emsp;(2) $60,000,000 to support the Hungarian-American Enterprise Fund.
+
+> Such amounts are authorized to be made available until expended.
+
+#### (c) Nonapplicability of other laws
+
+The funds appropriated under subsection (b) of this section may be made available to the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund and used for the purposes of this section notwithstanding any other provision of law.
+
+#### (d) Designation of Enterprise Funds
+
+#### (1) Designation
+
+&emsp;The President is authorized to designate two private, nonprofit organizations as eligible to receive funds and support pursuant to this section upon determining that such organizations have been established for the purposes specified in subsection (a) of this section. For purposes of this chapter, the organizations so designated shall be referred to as the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund (hereinafter in this section referred to as the “Enterprise Funds”).
+
+#### (2) Consultation with Congress
+
+&emsp;The President shall consult with the leadership of each House of Congress before designating an organization pursuant to paragraph (1).
+
+#### (3) Board of Directors
+
+&emsp;(A) Each Enterprise Fund shall be governed by a Board of Directors comprised of private citizens of the United States, and citizens of the respective host country, who have demonstrated experience and expertise in those areas of private sector development in which the Enterprise Fund is involved.
+
+&emsp;(B) A majority of the members of the Board of Directors of each Enterprise Fund shall be United States citizens.
+
+&emsp;(C) A host country citizen who is not committed to respect for democracy and a free market economy may not serve as a member of the Board of Directors of an Enterprise Fund.
+
+#### (4) Eligibility of Enterprise Funds for grants
+
+&emsp;Grants may be made to an Enterprise Fund under this section only if the Enterprise Fund agrees to comply with the requirements specified in this section.
+
+#### (5) Private character of Enterprise Funds
+
+&emsp;Nothing in this section shall be construed to make an Enterprise Fund an agency or establishment of the United States Government, or to make the officers, employees, or members of the Board of Directors of an Enterprise Fund officers or employees of the United States for purposes of title 5.
+
+#### (e) Grants to Enterprise Funds
+
+Funds appropriated to the President pursuant to subsection (b) of this section shall be granted to the Enterprise Funds by the Agency for International Development to enable the Enterprise Funds to carry out the purposes specified in subsection (a) of this section and for the administrative expenses of each Enterprise Fund.
+
+#### (f) Eligible programs and projects
+
+#### (1) In general
+
+&emsp;The Enterprise Funds may provide assistance pursuant to this section only for programs and projects which are consistent with the purposes set forth in subsection (a) of this section.
+
+#### (2) Employee stock ownership plans
+
+&emsp;Funds available to the Enterprise Funds may be used to encourage the establishment ofEmployee Stock Ownership Plans (ESOPs) in Poland and Hungary.
+
+#### (3) Indigenous credit unions
+
+&emsp;Funds available to the Enterprise Funds may be used for technical and other assistance to support the development of indigenous credit unions in Poland and Hungary. As used in this paragraph, the term “credit union” means a member-owned, nonprofit, cooperative depository institution—
+
+&emsp;&emsp;(A) which is formed to permit individuals in the field of membership specified in such institution's charter to pool their savings, lend the savings to one another, and own the organization where they save, borrow, and obtain related financial services; and
+
+&emsp;&emsp;(B) whose members are united by a common bond and democratically operate the institution.
+
+#### (4) Telecommunications modernization in Poland
+
+&emsp;The Polish-American Enterprise Fund may use up to $25,000,000 for grants for projects providing for the early introduction in Poland of modern telephone systems and telecommunications technology, which are crucial in establishing the conditions for successful transition to political democracy and economic pluralism.
+
+#### (5) Economic foundation of NSZZ Solidarnos�AE1c�AE1
+
+&emsp;Funds available to the Polish-American Enterprise Fund may be used to support the Economic Foundation of NSZZ Solidarnos�AE1c�AE1.
+
+#### (g) Matters to be considered by Enterprise Funds
+
+In carrying out this section, each Enterprise Fund shall take into account such considerations as internationally recognized worker rights and other internationally recognized human rights, environmental factors, United States economic and employment effects, and the likelihood of commercial viability of the activity receiving assistance from the Enterprise Fund.
+
+#### (h) Retention of interest
+
+An Enterprise Fund may hold funds granted to it pursuant to this section in interest-bearing accounts, prior to the disbursement of such funds for purposes specified in subsection (a) of this section, and may retain for such program purposes any interest earned on such deposits without returning such interest to the Treasury of the United States and without further appropriation by the Congress.
+
+#### (i) Use of United States private venture capital
+
+In order to maximize the effectiveness of the activities of the Enterprise Funds, each Enterprise Fund may conduct public offerings or private placements for the purpose of soliciting and accepting United States venture capital which may be used, separately or together with funds made available pursuant to this section, for any lawful investment purpose that the Board of Directors of the Enterprise Fund may determine in carrying out this section. Financial returns on Enterprise Fund investments that include a component of private venture capital may be distributed, at such times and in such amounts as the Board of Directors of the Enterprise Fund may determine, to the investors of such capital.
+
+#### (j) Financial instruments for individual investment in Poland
+
+In order to maximize the effectiveness of the activities of the Polish-American Enterprise Fund, that Enterprise Fund should undertake all possible efforts to establish financial instruments that will enable individuals to invest in the private sectors of Poland and that will thereby have the effect of multiplying the impact of United States grants to that Enterprise Fund.
+
+#### (k) Nonapplicability of other laws
+
+Executive branch agencies may conduct programs and activities and provide services in support of the activities of the Enterprise Funds notwithstanding any other provision of law.
+
+#### (<i>l</i>) Limitation on payments to Enterprise Fund personnel
+
+No part of the funds of either Enterprise Fund shall inure to the benefit of any board member, officer, or employee of such Enterprise Fund, except as salary or reasonable compensation for services.
+
+#### (m) Independent private audits
+
+The accounts of each Enterprise Fund shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The report of each such independent audit shall be included in the annual report required by this section.
+
+#### (n) GAO audits
+
+The financial transactions undertaken pursuant to this section by each Enterprise Fund may be audited by the General Accounting Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States, so long as the Enterprise Fund is in receipt of United States Government grants.
+
+#### (<i>o</i>) Recordkeeping requirements
+
+The Enterprise Funds shall ensure—
+
+&emsp;(1) that each recipient of assistance provided through the Enterprise Funds under this section keeps—
+
+&emsp;&emsp;(A) separate accounts with respect to such assistance;
+
+&emsp;&emsp;(B) such records as may be reasonably necessary to disclose fully the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount and nature of that portion of the cost of the project or undertaking supplied by other sources; and
+
+&emsp;&emsp;(C) such other records as will facilitate an effective audit; and
+
+&emsp;(2) that the Enterprise Funds, or any of their duly authorized representatives, have access for the purpose of audit and examination to any books, documents, papers, and records ofthe recipient that are pertinent to assistance provided through the Enterprise Funds under this section.
+
+#### (p) Annual reports
+
+Each Enterprise Fund shall publish an annual report, which shall include a comprehensive and detailed description of the Enterprise Fund's operations, activities, financial condition, and accomplishments under this section for the preceding fiscal year. This report shall be published not later than January 31 each year, beginning in 1991.
+
+(Pub. L. 101–179, title II, §201, Nov. 28, 1989, 103 Stat. 1305.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
+
+#### Delegation of Functions
+
+Functions of President under this section delegated to Administrator of United States Agency for International Development by section 2 of Ex. Ord. No. 12703, Feb. 20, 1990, 55 F.R. 6351, set out as a note under section 5401 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2295b, 5425, 5953 of this title.
+

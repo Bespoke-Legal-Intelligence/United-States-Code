@@ -1,0 +1,883 @@
+{
+ "built_by": "uscode_git_v0.1.12",
+ "eid": "USCODE-title3",
+ "package": "USCODE-1994-title3",
+ "pieces": [
+  {
+   "id": "3_",
+   "marks": [
+    [
+     "L",
+     3,
+     "[Page 1]",
+     true
+    ],
+    [
+     "I",
+     421,
+     [
+      [
+       3,
+       "[Page 2]"
+      ]
+     ]
+    ]
+   ],
+   "path": "README.md",
+   "printed_pages": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "3_-ch1",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/README.md",
+   "printed_pages": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "3_1",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00001 - Time of appointing electors.md",
+   "printed_pages": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "3_2",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00002 - Failure to make choice on prescribed day.md",
+   "printed_pages": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "3_3",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00003 - Number of electors.md",
+   "printed_pages": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "3_4",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00004 - Vacancies in electoral college.md",
+   "printed_pages": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "3_5",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00005 - Determination of controversy as to appointment of electors.md",
+   "printed_pages": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "3_6",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       278,
+       "[Page 3]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00006 - Credentials of electors; transmission to Archivist of the United States and to Congress; public inspection.md",
+   "printed_pages": [
+    2,
+    3
+   ]
+  },
+  {
+   "id": "3_7",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00007 - Meeting and vote of electors.md",
+   "printed_pages": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "3_8",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00008 - Manner of voting.md",
+   "printed_pages": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "3_9",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00009 - Certificates of votes for President and Vice President.md",
+   "printed_pages": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "3_10",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00010 - Sealing and endorsing certificates.md",
+   "printed_pages": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "3_11",
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 4]",
+     true
+    ]
+   ],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00011 - Disposition of certificates.md",
+   "printed_pages": [
+    3,
+    4
+   ]
+  },
+  {
+   "id": "3_12",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00012 - Failure of certificates of electors to reach President of the Senate or Archivist of the United States; demand on State for certificate.md",
+   "printed_pages": [
+    4,
+    4
+   ]
+  },
+  {
+   "id": "3_13",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00013 - Same; demand on district judge for certificate.md",
+   "printed_pages": [
+    4,
+    4
+   ]
+  },
+  {
+   "id": "3_14",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00014 - Forfeiture for messenger's neglect of duty.md",
+   "printed_pages": [
+    4,
+    4
+   ]
+  },
+  {
+   "id": "3_15",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       2627,
+       "[Page 5]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00015 - Counting electoral votes in Congress.md",
+   "printed_pages": [
+    4,
+    5
+   ]
+  },
+  {
+   "id": "3_16",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00016 - Same; seats for officers and Members of two Houses in joint meeting.md",
+   "printed_pages": [
+    5,
+    5
+   ]
+  },
+  {
+   "id": "3_17",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00017 - Same; limit of debate in each House.md",
+   "printed_pages": [
+    5,
+    5
+   ]
+  },
+  {
+   "id": "3_18",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00018 - Same; parliamentary procedure at joint meeting.md",
+   "printed_pages": [
+    5,
+    5
+   ]
+  },
+  {
+   "id": "3_19",
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 6]",
+     true
+    ]
+   ],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00019 - Vacancy in offices of both President and Vice President; officers eligible to act.md",
+   "printed_pages": [
+    5,
+    6
+   ]
+  },
+  {
+   "id": "3_20",
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 7]",
+     true
+    ]
+   ],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00020 - Resignation or refusal of office.md",
+   "printed_pages": [
+    6,
+    7
+   ]
+  },
+  {
+   "id": "3_21",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00021 - Definitions.md",
+   "printed_pages": [
+    7,
+    7
+   ]
+  },
+  {
+   "id": "3_&nbsp;",
+   "marks": [
+    [
+     "I",
+     81,
+     [
+      [
+       327,
+       "[Page 8]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     175,
+     [
+      [
+       159,
+       "[Page 9]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     267,
+     [
+      [
+       532,
+       "[Page 10]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     347,
+     [
+      [
+       161,
+       "[Page 11]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     411,
+     "[Page 12]",
+     true
+    ]
+   ],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/10.md",
+   "printed_pages": [
+    7,
+    12
+   ]
+  },
+  {
+   "id": "3_101",
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 13]",
+     true
+    ]
+   ],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00101 - Commencement of term of office.md",
+   "printed_pages": [
+    12,
+    13
+   ]
+  },
+  {
+   "id": "3_102",
+   "marks": [
+    [
+     "I",
+     62,
+     [
+      [
+       116,
+       "[Page 14]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     104,
+     [
+      [
+       160,
+       "[Page 15]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     186,
+     "[Page 16]",
+     true
+    ]
+   ],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00102 - Compensation of the President.md",
+   "printed_pages": [
+    13,
+    16
+   ]
+  },
+  {
+   "id": "3_103",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       110,
+       "[Page 17]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00103 - Traveling expenses.md",
+   "printed_pages": [
+    16,
+    17
+   ]
+  },
+  {
+   "id": "3_104",
+   "marks": [
+    [
+     "L",
+     74,
+     "[Page 18]",
+     true
+    ]
+   ],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00104 - Salary of the Vice President.md",
+   "printed_pages": [
+    17,
+    18
+   ]
+  },
+  {
+   "id": "3_105",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       242,
+       "[Page 19]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     50,
+     [
+      [
+       964,
+       "[Page 20]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00105 - Assistance and services for the President.md",
+   "printed_pages": [
+    18,
+    20
+   ]
+  },
+  {
+   "id": "3_106",
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 21]",
+     true
+    ],
+    [
+     "L",
+     84,
+     "[Page 22]",
+     true
+    ]
+   ],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00106 - Assistance and services for the Vice President.md",
+   "printed_pages": [
+    20,
+    22
+   ]
+  },
+  {
+   "id": "3_107",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00107 - Domestic Policy Staff and Office of Administration; personnel.md",
+   "printed_pages": [
+    22,
+    22
+   ]
+  },
+  {
+   "id": "3_108",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       386,
+       "[Page 23]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00108 - Assistance to the President for unanticipated needs.md",
+   "printed_pages": [
+    22,
+    23
+   ]
+  },
+  {
+   "id": "3_109",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00109 - Public property in and belonging to the Executive Residence at the White House.md",
+   "printed_pages": [
+    23,
+    23
+   ]
+  },
+  {
+   "id": "3_110",
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 24]",
+     true
+    ],
+    [
+     "I",
+     78,
+     [
+      [
+       161,
+       "[Page 25]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00110 - Furniture for the Executive Residence at the White House.md",
+   "printed_pages": [
+    23,
+    25
+   ]
+  },
+  {
+   "id": "3_111",
+   "marks": [
+    [
+     "I",
+     60,
+     [
+      [
+       370,
+       "[Page 26]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00111 - Expense allowance of Vice President.md",
+   "printed_pages": [
+    25,
+    26
+   ]
+  },
+  {
+   "id": "3_112",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00112 - Detail of employees of executive departments.md",
+   "printed_pages": [
+    26,
+    26
+   ]
+  },
+  {
+   "id": "3_113",
+   "marks": [
+    [
+     "L",
+     44,
+     "[Page 27]",
+     true
+    ]
+   ],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00113 - Personnel report.md",
+   "printed_pages": [
+    26,
+    27
+   ]
+  },
+  {
+   "id": "3_114",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00114 - General pay limitation.md",
+   "printed_pages": [
+    27,
+    27
+   ]
+  },
+  {
+   "id": "3_-ch3",
+   "marks": [],
+   "path": "Chapter 003 - Protection of the President; United States Secret Service Uniformed Division/README.md",
+   "printed_pages": [
+    27,
+    27
+   ]
+  },
+  {
+   "id": "3_[201",
+   "marks": [],
+   "path": "Chapter 003 - Protection of the President; United States Secret Service Uniformed Division/§ 00201 - Repealed. July 16, 1951, ch. 226, §5(a), 65 Stat. 122.md",
+   "printed_pages": [
+    27,
+    27
+   ]
+  },
+  {
+   "id": "3_202",
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       93,
+       "[Page 28]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     76,
+     [
+      [
+       103,
+       "[Page 29]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 003 - Protection of the President; United States Secret Service Uniformed Division/§ 00202 - United States Secret Service Uniformed Division; establishment, control, and supervision; privileges, powers, and duties.md",
+   "printed_pages": [
+    27,
+    29
+   ]
+  },
+  {
+   "id": "3_203",
+   "marks": [],
+   "path": "Chapter 003 - Protection of the President; United States Secret Service Uniformed Division/§ 00203 - Personnel, appointment, and vacancies.md",
+   "printed_pages": [
+    29,
+    29
+   ]
+  },
+  {
+   "id": "3_204",
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 30]",
+     true
+    ]
+   ],
+   "path": "Chapter 003 - Protection of the President; United States Secret Service Uniformed Division/§ 00204 - Grades, salaries, and transfers of appointees.md",
+   "printed_pages": [
+    29,
+    30
+   ]
+  },
+  {
+   "id": "3_[205",
+   "marks": [],
+   "path": "Chapter 003 - Protection of the President; United States Secret Service Uniformed Division/§ 00205 - Repealed. Pub. L. 91–217, §1(7), Mar. 19, 1970, 84 Stat. 75.md",
+   "printed_pages": [
+    30,
+    30
+   ]
+  },
+  {
+   "id": "3_206",
+   "marks": [],
+   "path": "Chapter 003 - Protection of the President; United States Secret Service Uniformed Division/§ 00206 - Privileges of civil-service appointees.md",
+   "printed_pages": [
+    30,
+    30
+   ]
+  },
+  {
+   "id": "3_207",
+   "marks": [],
+   "path": "Chapter 003 - Protection of the President; United States Secret Service Uniformed Division/§ 00207 - Participation in police and firemen's relief fund.md",
+   "printed_pages": [
+    30,
+    30
+   ]
+  },
+  {
+   "id": "3_208",
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       230,
+       "[Page 31]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 003 - Protection of the President; United States Secret Service Uniformed Division/§ 00208 - Reimbursement of State and local governments.md",
+   "printed_pages": [
+    30,
+    31
+   ]
+  },
+  {
+   "id": "3_209",
+   "marks": [],
+   "path": "Chapter 003 - Protection of the President; United States Secret Service Uniformed Division/§ 00209 - Appropriation to carry out provisions.md",
+   "printed_pages": [
+    31,
+    31
+   ]
+  },
+  {
+   "id": "3_-ch4",
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 32]",
+     true
+    ]
+   ],
+   "path": "Chapter 004 - Delegation of Functions/README.md",
+   "printed_pages": [
+    31,
+    32
+   ]
+  },
+  {
+   "id": "3_301",
+   "marks": [
+    [
+     "I",
+     50,
+     [
+      [
+       222,
+       "[Page 33]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     88,
+     "[Page 34]",
+     true
+    ],
+    [
+     "I",
+     142,
+     [
+      [
+       650,
+       "[Page 35]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     194,
+     [
+      [
+       278,
+       "[Page 36]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     234,
+     [
+      [
+       109,
+       "[Page 37]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     290,
+     "[Page 38]",
+     true
+    ],
+    [
+     "I",
+     348,
+     [
+      [
+       215,
+       "[Page 39]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     414,
+     [
+      [
+       111,
+       "[Page 40]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     478,
+     [
+      [
+       768,
+       "[Page 41]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     528,
+     "[Page 42]",
+     true
+    ],
+    [
+     "L",
+     578,
+     "[Page 43]",
+     true
+    ],
+    [
+     "L",
+     638,
+     "[Page 44]",
+     true
+    ],
+    [
+     "I",
+     706,
+     [
+      [
+       103,
+       "[Page 45]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     780,
+     [
+      [
+       826,
+       "[Page 46]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 004 - Delegation of Functions/§ 00301 - General authorization to delegate functions; publication of delegations.md",
+   "printed_pages": [
+    32,
+    46
+   ]
+  },
+  {
+   "id": "3_302",
+   "marks": [],
+   "path": "Chapter 004 - Delegation of Functions/§ 00302 - Scope of delegation of functions.md",
+   "printed_pages": [
+    46,
+    46
+   ]
+  },
+  {
+   "id": "3_303",
+   "marks": [],
+   "path": "Chapter 004 - Delegation of Functions/§ 00303 - Definitions.md",
+   "printed_pages": [
+    46,
+    46
+   ]
+  }
+ ],
+ "provenance_line": "<!-- USCODE-1994-title3 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "title_folder": "Title 03 - The President"
+}

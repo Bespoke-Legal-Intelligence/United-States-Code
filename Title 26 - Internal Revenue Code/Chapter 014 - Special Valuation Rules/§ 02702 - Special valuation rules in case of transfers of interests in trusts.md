@@ -1,0 +1,84 @@
+### §2702. Special valuation rules in case of transfers of interests in trusts
+
+#### (a) Valuation rules
+
+#### (1) In general
+
+&emsp;Solely for purposes of determining whether a transfer of an interest in trust to (or for the benefit of) a member of the transferor's family is a gift (and the value of such transfer), the value of any interest in such trust retained by the transferor or any applicable family member (as defined in section 2701(e)(2)) shall be determined as provided in paragraph (2).
+
+#### (2) Valuation of retained interests
+
+#### (A) In general
+
+&emsp;&emsp;The value of any retained interest which is not a qualified interest shall be treated as being zero.
+
+#### (B) Valuation of qualified interest
+
+&emsp;&emsp;The value of any retained interest which is a qualified interest shall be determined under section 7520.
+
+#### (3) Exceptions
+
+#### (A) In general
+
+&emsp;&emsp;This subsection shall not apply to any transfer—
+
+&emsp;&emsp;&emsp;(i) to the extent such transfer is an incomplete transfer, or
+
+&emsp;&emsp;&emsp;(ii) if such transfer involves the transfer of an interest in trust all the property in which consists of a residence to be used as a personal residence by persons holding term interests in such trust.
+
+#### (B) Incomplete transfer
+
+&emsp;&emsp;For purposes of subparagraph (A), the term “incomplete transfer” means any transfer which would not be treated as a gift whether or not consideration was received for such transfer.
+
+#### (b) Qualified interest
+
+For purposes of this section, the term “qualified interest” means—
+
+&emsp;(1) any interest which consists of the right to receive fixed amounts payable not less frequently than annually,
+
+&emsp;(2) any interest which consists of the right to receive amounts which are payable not less frequently than annually and are a fixed percentage of the fair market value of the property in the trust (determined annually), and
+
+&emsp;(3) any noncontingent remainder interest if all of the other interests in the trust consist of interests described in paragraph (1) or (2).
+
+#### (c) Certain property treated as held in trust
+
+For purposes of this section—
+
+#### (1) In general
+
+&emsp;The transfer of an interest in property with respect to which there is 1 or more term interests shall be treated as a transfer of an interest in a trust.
+
+#### (2) Joint purchases
+
+&emsp;If 2 or more members of the same family acquire interests in any property described in paragraph (1) in the same transaction (or a series of related transactions), the person (or persons) acquiring the term interests in such property shall be treated as having acquired the entire property and then transferred to the other persons the interests acquired by such other persons in the transaction (or series of transactions). Such transfer shall be treated as made in exchange for the consideration (if any) provided by such other persons for the acquisition of their interests in such property.
+
+#### (3) Term interest
+
+&emsp;The term “term interest” means—
+
+&emsp;&emsp;(A) a life interest in property, or
+
+&emsp;&emsp;(B) an interest in property for a term of years.
+
+#### (4) Valuation rule for certain term interests
+
+&emsp;If the nonexercise of rights under a term interest in tangible property would not have a substantial effect on the valuation of the remainder interest in such property—
+
+&emsp;&emsp;(A) subparagraph (A) of subsection (a)(2) shall not apply to such term interest, and
+
+&emsp;&emsp;(B) the value of such term interest for purposes of applying subsection (a)(1) shall be the amount which the holder of the term interest establishes as the amount for which such interest could be sold to an unrelated third party.
+
+#### (d) Treatment of transfers of interests in portion of trust
+
+In the case of a transfer of an income or remainder interest with respect to a specified portion of the property in a trust, only such portion shall be taken into account in applying this section to such transfer.
+
+#### (e) Member of the family
+
+For purposes of this section, the term “member of the family” shall have the meaning given such term by section 2704(c)(2).
+
+(Added Pub. L. 101–508, title XI, §11602(a), Nov. 5, 1990, 104 Stat. 1388–497.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6501 of this title.
+

@@ -1,0 +1,6 @@
+### §3012. Authorization of appropriations
+
+There is authorized to be appropriated such sums as may be necessary to carry out this chapter.
+
+(Pub. L. 101–601, §14, Nov. 16, 1990, 104 Stat. 3058.)
+

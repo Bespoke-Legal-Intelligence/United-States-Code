@@ -1,0 +1,44 @@
+### §14317. Officers in transition to and from the active-status list or active-duty list
+
+(a)
+
+Effect of Transfer to Inactive Status or Retired Status.—If a reserve officer on the reserve active-status list is transferred to an inactive status or to a retired status after having been recommended for promotion to a higher grade under this chapter or chapter 36 of this title, or after having been found qualified for Federal recognition in the higher grade under title 32, but before being promoted, the officer—
+
+&emsp;(1) shall be treated as if the officer had not been considered and recommended for promotion by the selection board or examined and been found qualified for Federal recognition; and
+
+&emsp;(2) may not be placed on a promotion list or promoted to the higher grade after returning to an active status,
+
+> unless the officer is again recommended for promotion by a selection board convened under chapter 36 of this title or section 14101(a) or 14502 of this title or examined for Federal recognition under title 32.
+
+(b)
+
+Effect of Placement on Active-Duty List.—A reserve officer who is on a promotion list as a result of selection for promotion by a mandatory promotion board convened under section 14101(a) or a special selection board convened under section 14502 of this title and who before being promoted is placed on the active-duty list of the same armed force and placed in the same competitive category shall, under regulations prescribed by the Secretary of Defense, be placed on an appropriate promotion list for officers on the active-duty list established under chapter 36 of this title.
+
+(c)
+
+Officers on a Promotion List Removed From Active-Duty List.—An officer who is on the active-duty list and is on a promotion list as the result of selection for promotion by a selection board convened under chapter 36 of this title and who before being promoted is removed from the active-duty list and placed on the reserve active-status list of the same armed force and in the same competitive category (including a regular officer who on removal from the active-duty list is appointed as a reserve officer and placed on the reserve active-status list) shall, under regulations prescribed by the Secretary of Defense, be placed on an appropriate promotion list established under this chapter.
+
+(d)
+
+Officers Selected for Position Vacancies.—If a reserve officer is ordered to active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only) after being recommended for promotion under section 14314 of this title to fill a position vacancy or examined for Federal recognition under title 32, and before being promoted to fill that vacancy, the officer shall not be promoted while serving such active duty or full-time National Guard duty unless the officer is ordered to active duty as a member of the unit in which the vacancy exists when that unit is ordered to active duty. If, under this subsection, the name of an officer is removed from a list of officers recommended for promotion, the officer shall be treated as if the officer had not been considered for promotion or examined for Federal recognition.
+
+(e) Under regulations prescribed by the Secretary of the military department concerned, a reserve officer who is not on the active-duty list and who is ordered to active duty in time of war or national emergency may, if eligible, be considered for promotion by a mandatory promotion board convened under section 14101(a) or a special selection board convened under section 14502 of this title for not more than two years from the date the officer is ordered to active duty unless the President suspends the operation of this section under the provisions of section 10213 or 644 <sup>1</sup> of this title.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2945.)
+
+#### Effective Date of Section
+
+<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
+
+#### References in Text
+
+Section 644 of this title, referred to in subsec. (e), was repealed by Pub. L. 103–337, div. A, title XVI, §1622(b), Oct. 5, 1994, 108 Stat. 2961, effective Oct. 1, 1996. See section 123 of this title.
+
+#### Prior Provisions
+
+Provisions similar to those in subsec. (a) of this section were contained in sections 3378, 5906, and 8378 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (b)(2), (c)(1).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 741, 12009 of this title.
+

@@ -1,0 +1,40 @@
+### §553. Assistant Secretaries; appointment; duties
+
+There are established in the Department of Labor nine offices of Assistant Secretary of Labor, which shall be filled by appointment by the President, by and with the advice and consent of the Senate. Each of the Assistant Secretaries of Labor shall perform such duties as may be prescribed by the Secretary of Labor or required by law. One of such Assistant Secretaries shall be an Assistant Secretary of Labor for Occupational Safety and Health.
+
+(Apr. 17, 1946, ch. 140, §2, 60 Stat. 91; Aug. 11, 1961, Pub. L. 87–137, §1, 75 Stat. 338; Dec. 29, 1970, Pub. L. 91–596, §29(a), 84 Stat. 1618; Nov. 6, 1986, Pub. L. 99–619, §2(b)(1), 100 Stat. 3491.)
+
+#### Codification
+
+Provisions of this section which prescribed the basic annual compensation of the Assistant Secretaries were omitted to conform to the provisions of the Executive Schedule. See section 5315 of Title 5, Government Organization and Employees.
+
+Section was formerly classified to section 611b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 1, 1966, 80 Stat. 378.
+
+#### Amendments
+
+1986—Pub. L. 99–619 substituted “nine offices” for “five offices”.
+
+1970—Pub. L. 91–596 increased the number of Assistant Secretaries of Labor from four to five and inserted provision that one of such Assistant Secretaries be an Assistant Secretary of Labor for Occupational Safety and Health.
+
+1961—Pub. L. 87–137 increased the number of Assistant Secretaries of Labor from three to four.
+
+#### Effective Date of 1970 Amendment
+
+Amendment by Pub. L. 91–596 effective 120 days after Dec. 29, 1970 see section 34 of Pub. L. 91–596, set out as an Effective Date note under section 651 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6, of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### References in Other Laws
+
+Section 2(b)(3) of Pub. L. 99–619 provided that: “Any reference in any law, regulation, certificate, directive, or other document to the Assistant Secretary of Labor for Veterans’ Employment in force on the date of enactment of this Act \[Nov. 6, 1986\] shall be deemed to be a reference to the Assistant Secretary of Labor for Veterans’ Employment and Training.”
+
+#### Present Incumbent
+
+Section 2(f)(2) of Pub. L. 99–619 provided that: “The incumbent in the position of Assistant Secretary of Labor for Veterans’ Employment on the date of enactment of this Act \[Nov. 6, 1986\] may serve as Assistant Secretary of Labor for Veterans’ Employment and Training at the pleasure of the President after such date and the amendments made by subsection (b)(2) \[amending section 5315 of Title 5, Government Organization and Employees\] shall apply to such incumbent.”
+
+#### Cross References
+
+Designation of officers to act as Secretary of Labor, see Ex. Ord. No. 10513, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+

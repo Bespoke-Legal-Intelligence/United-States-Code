@@ -1,0 +1,36 @@
+### §2796b. Legislative review procedures
+
+#### (a) Applicability
+
+(1) In the case of any agreement involving the lease under this subchapter, or the loan under chapter 2 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2311 et seq.\], to any foreign country or international organization for a period of one year or longer of any defense articles which are either (i) major defense equipment valued (in terms of its replacement cost less any depreciation in its value) at $14,000,000 or more, or (ii) defense articles valued (in terms of their replacement cost less any depreciation in their value) at $50,000,000 or more, the agreement may not be entered into or renewed if the Congress, within 30 calendar days after receiving the certification with respect to that proposed agreement pursuant to section 2796a(a) of this title, enacts a joint resolution prohibiting the proposed lease or loan.
+
+(2) This section shall not apply with respect to a loan or lease to the North Atlantic Treaty Organization, any member country of that Organization, Japan, Australia, or New Zealand.
+
+#### (b) Consideration of resolution
+
+Any joint resolution under subsection (a) of this section shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
+
+#### (c) Highly privileged nature of resolution
+
+For the purpose of expediting the consideration and enactment of joint resolutions under subsection (a) of this section, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
+
+(Pub. L. 90–629, ch. 6, §63, as added Pub. L. 97–113, title I, §109(a), Dec. 29, 1981, 95 Stat. 1525; amended Pub. L. 99–247, §1(d), Feb. 12, 1986, 100 Stat. 9.)
+
+#### References in Text
+
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 2 of part II of that Act is classified generally to part II (§2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (b), is section 601(b) of Pub. L. 94–329, June 30, 1976, 90 Stat. 765, which made provision for expedited procedures in the Senate, and was not classified to the Code.
+
+#### Amendments
+
+1986—Subsec. (a)(1). Pub. L. 99–247, §1(d)(1), substituted “enacts a joint resolution prohibiting” for “adopts a concurrent resolution stating that it objects to”.
+
+Subsec. (b). Pub. L. 99–247, §1(d)(2), inserted “joint” before “resolution”.
+
+Subsec. (c). Pub. L. 99–247, §1(d)(3), substituted “enactment of joint resolutions” for “adoption of concurrent resolutions” and “such joint resolution” for “such resolution”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2796a of this title.
+

@@ -1,0 +1,20 @@
+### §2291d. Records of aircraft use
+
+#### (a) Requirement to maintain records
+
+The President shall maintain detailed records on the use of any aircraft made available to a foreign country under this part, including aircraft made available before October 27, 1986.
+
+#### (b) Congressional access to records
+
+The President shall make the records maintained pursuant to subsection (a) of this section available to the Congress upon a request of the Chairman of the Committee on Foreign Affairs of the House of Representatives or the Chairman of the Committee on Foreign Relations of the Senate.
+
+(Pub. L. 87–195, pt. I, §485, as added Pub. L. 99–570, title II, §2003, Oct. 27, 1986, 100 Stat. 3207–61; amended Pub. L. 102–583, §4(f)(3), Nov. 2, 1992, 106 Stat. 4917.)
+
+#### Amendments
+
+1992—Pub. L. 102–583 substituted “President” for “Secretary of State” in subsecs. (a) and (b).
+
+#### Change of Name
+
+Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+

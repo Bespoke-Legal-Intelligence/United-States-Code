@@ -1,0 +1,6 @@
+### §4115. Failure to comply with restrictions or provisions
+
+If the corporation fails to comply with any of the restrictions or other provisions of this chapter, the charter granted by this chapter shall expire.
+
+(Pub. L. 100–655, title I, §116, Nov. 14, 1988, 102 Stat. 3852.)
+

@@ -1,0 +1,70 @@
+### §80q–10. Special committee to review inventory, identification, and return of Indian human remains and Indian funerary objects
+
+#### (a) Establishment; duties
+
+Not later than 120 days after November 28, 1989, the Secretary of the Smithsonian Institution shall appoint a special committee to monitor and review the inventory, identification, and return of Indian human remains and Indian funerary objects under section 80q–9 of this title. In carrying out its duties, the committee shall—
+
+&emsp;(1) with respect to the inventory and identification, ensure fair and objective consideration and assessment of all relevant evidence;
+
+&emsp;(2) upon the request of any affected party or otherwise, review any finding relating to the origin or the return of such remains or objects;
+
+&emsp;(3) facilitate the resolution of any dispute that may arise between Indian tribes with respect to the return of such remains or objects; and
+
+&emsp;(4) perform such other related functions as the Secretary may assign.
+
+#### (b) Membership
+
+The committee shall consist of five members, of whom—
+
+&emsp;(1) three members shall be appointed from among nominations submitted by Indian tribes and organizations; and
+
+&emsp;(2) the Secretary shall designate one member as chairman.
+
+> The Secretary may not appoint to the committee any individual who is an officer or employee of the Government (including the Smithsonian Institution) or any individual who is otherwise affiliated with the Smithsonian Institution.
+
+#### (c) Access
+
+The Secretary shall ensure that the members of the committee have full and free access to theIndian human remains and Indian funerary objects subject to section 80q–9 of this title and to any related evidence, including scientific and historical documents.
+
+#### (d) Pay and expenses of members
+
+Members of the committee shall—
+
+&emsp;(1) be paid the daily equivalent of the annual rate of basic pay payable for grade GS–18 of the General schedule under section 5332 of title 5; and
+
+&emsp;(2) be entitled (to the same extent as provided in section 5703 of such title, with respect to employees serving intermittently in the Government service) to per diem, travel, and transportation expenses;
+
+> for each day (including travel time) during which they are engaged in the performance of their duties.
+
+#### (e) Rules and administrative support
+
+The Secretary shall prescribe regulations and provide administrative support for the committee.
+
+#### (f) Report and termination
+
+At the conclusion of the work of the committee, the Secretary shall be so <sup>1</sup> certify by report to the Congress. The committee shall cease to exist 120 days after the submission of the report.
+
+#### (g) Nonapplicability of Federal Advisory Committee Act
+
+The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the committee.
+
+#### (h) Authorization of appropriations
+
+There is authorized to be appropriated $250,000 for fiscal year 1991 and such sums as may be necessary for succeeding fiscal years to carry out this section.
+
+(Pub. L. 101–185, §12, Nov. 28, 1989, 103 Stat. 1344.)
+
+#### References in Text
+
+The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
+
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 80q–11, 80q–15 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “shall so”.</i>
+

@@ -1,0 +1,40 @@
+### §5101. Decimal system
+
+United States money is expressed in dollars, dimes or tenths, cents or hundreths,<sup>1</sup> and mills or thousandths. A dime is a tenth of a dollar, a cent is a hundredth of a dollar, and a mill is a thousandth of a dollar.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 980.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+5101
+
+31:371.
+
+R.S. §3563.
+
+The word “money” is substituted for “money of account” to eliminate unnecessary words. As far as can be determined, the phrase “money of account” has not been interpreted by any court or Government agency. The phrase was used by Alexander Hamilton in his “Report on the Establishment of the Mint” (1791). In that Report, Hamilton propounded 6 questions, including:
+
+&emsp;&emsp;&nbsp;1st. What ought to be the nature of the money unit of the United States?
+
+> Thereafter, Hamilton uses the phrases “money unit of the United States” and “money of account” interchangeably and in the sense that the phrases are used to denote the monetary system for keeping financial accounts. In short, the phrases simply indicate that financial accounts are to be based on a decimal money system:
+
+&emsp;&emsp;. . ., and it is certain that nothing can be more simple and convenient than the decimal subdivisions. There is every reason to expect that the method will speedily grow into general use, when it shall be seconded by corresponding coins. On this plan the unit in the money of account will continue to be, as established by that resolution \[of August 8, 1786\], a dollar, and its multiples, dimes, cents, and mills, or tenths, hundreths, \[sic\] and thousands.
+
+> Thus, the phrase “money of account” did not mean, by itself, that dollars or fractions of dollars must be equal to something having intrinsic or “substantive” value. This concept is supported by earlier writings of Thomas Jefferson in his “Notes on the Establishment of a Money Unit, and of a Coinage for the United States” (1784), and the 1782 report to the President of the Continental Congress on the coinage of the United States by the Superintendent of Finances, Robert Morris, which was apparently prepared by the Assistant Superintendent, Gouverneur Morris. See Paul L. Ford, <i>The Writings of Thomas Jefferson</i>, vol. III (G.P. Putnam's Sons, 1894) pp. 446–457; William G. Sumner, <i>The Financier and the Finances of the American Revolution</i>, vol. II (Burt Franklin, 1891, reprinted 1970) pp. 36–47; and George T. Curtis, <i>History of the Constitution</i>, vol. I (Harper and Brothers, 1859) p. 443, n2. The words “or units” and “and all accounts in the public offices and all proceedings in the courts shall be kept and had in conformity to this regulation” are omitted as surplus.
+
+#### Short Title of 1992 Amendment
+
+Pub. L. 102–390, title II, §201, Oct. 6, 1992, 106 Stat. 1624, provided that: “This title \[enacting sections 5134 and 5135 of this title, amending sections 304, 5111, 5112, 5119, 5131, and 5132 of this title and section 709 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under sections 5132 and 5134 of this title, amending provisions set out as notes under section 5112 of this title, and repealing provisions set out as a note under section 5112 of this title\] may be cited as the ‘United States Mint Reauthorization and Reform Act of 1992’.”
+
+#### Short Title of 1990 Amendment
+
+Pub. L. 101–585, §1, Nov. 15, 1990, 104 Stat. 2874, provided that: “This Act \[amending section 5132 of this title\] may be cited as the ‘Silver Coin Proof Sets Act’.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be hundredths,”.</i>
+

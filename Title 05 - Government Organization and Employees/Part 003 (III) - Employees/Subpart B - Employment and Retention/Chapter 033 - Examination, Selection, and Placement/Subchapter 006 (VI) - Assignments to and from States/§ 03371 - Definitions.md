@@ -1,0 +1,72 @@
+### §3371. Definitions
+
+For the purpose of this subchapter—
+
+&emsp;(1) “State” means—
+
+&emsp;&emsp;(A) a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and a territory or possession of the United States; and
+
+&emsp;&emsp;(B) an instrumentality or authority of a State or States as defined in subparagraph (A) of this paragraph (1) and a Federal-State authority or instrumentality;
+
+&emsp;(2) “local government” means—
+
+&emsp;&emsp;(A) any political subdivision, instrumentality, or authority of a State or States as defined in subparagraph (A) of paragraph (1);
+
+&emsp;&emsp;(B) any general or special purpose agency of such a political subdivision, instrumentality, or authority; and
+
+&emsp;&emsp;(C) any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village as defined in the Alaska Native Claims Settlement Act (85 Stat. 688), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and includes any tribal organization as defined in section 4 of the Indian Self-Determination and Education Assistance Act;
+
+&emsp;(3) “Federal agency” means an Executive agency, military department, a court of the United States, the Administrative Office of the United States Courts, the Library of Congress, the Botanic Garden, the Government Printing Office, the Congressional Budget Office, the United States Postal Service, the Postal Rate Commission, the Office of the Architect of the Capitol, the Office of Technology Assessment, and such other similar agencies of the legislative and judicial branches as determined appropriate by the Office of Personnel Management; and
+
+&emsp;(4) “other organization” means—
+
+&emsp;&emsp;(A) a national, regional, State-wide, area-wide, or metropolitan organization representing member State or local governments;
+
+&emsp;&emsp;(B) an association of State or local public officials;
+
+&emsp;&emsp;(C) a nonprofit organization which has as one of its principal functions the offering of professional advisory, research, educational, or development services, or related services, to governments or universities concerned with public management; or
+
+&emsp;&emsp;(D) a federally funded research and development center.
+
+(Added Pub. L. 91–648, title IV, §402(a), Jan. 5, 1971, 84 Stat. 1920; amended Pub. L. 93–638, title I, §104(a), formerly §105(a), Jan. 4, 1975, 88 Stat. 2208, renumbered §104(a), Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 95–454, title VI, §603(a), Oct. 13, 1978, 92 Stat. 1189; Pub. L. 100–472, title II, §203(b), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 101–301, §2(c), May 24, 1990, 104 Stat. 207; Pub. L. 103–337, div. A, title X, §1068(a), Oct. 5, 1994, 108 Stat. 2852.)
+
+#### References in Text
+
+The Alaska Native Claims Settlement Act, referred to in par. (2)(C), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat.688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+
+Section 4 of the Indian Self-Determination and Education Assistance Act, referred to in par. (2)(C), is classified to section 450b of Title 25, Indians.
+
+#### Amendments
+
+1994—Par. (4)(D). Pub. L. 103–337 added subpar. (D).
+
+1990—Par. (2)(C). Pub. L. 101–301 substituted “section 4” for “section 4(m)”.
+
+1988—Par. (2)(C). Pub. L. 100–472, §203(b), amended Pub. L. 93–638, by substituting “section 4(m)” for “section 4(c)” in the provision it added as par. (2)(C) of this section. See 1975 Amendment note below.
+
+1978—Par. (1)(A). Pub. L. 95–454, §603(a)(1), inserted reference to the Trust Territory of the Pacific Islands.
+
+Pars. (3), (4). Pub. L. 95–454, §603(a)(2), added pars. (3) and (4).
+
+1975—Par. (2)(C). Pub. L. 93–638, as amended by Pub. L. 100–472, §203(b), added par. (2)(C).
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Effective Date
+
+Section 404 of title IV of Pub. L. 91–648 provided that: “This title \[enacting this subchapter and repealing sections 1881 to 1888 of Title 7, Agriculture, section 869b of Title 20, Education, and section 246(f) of Title 42, The Public Health and Welfare, (less applicability to commissioned officers of the Public Health Service)\] shall become effective sixty days after the date of enactment of this Act \[Jan. 5, 1971\].”
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+#### Declaration of Purpose
+
+Section 401 of title IV of Pub. L. 91–648, as amended by Pub. L. 95–454, title VI, §602(b), Oct. 13, 1978, 92 Stat. 1189, provided that: “The purpose of this title \[see Effective Date note above\] is to provide for the temporary assignment of personnel between the Federal Government and State and local governments, institutions of higher education, and other organizations.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3372 of this title; title 22 sections 2122, 2124c.
+

@@ -1,0 +1,10 @@
+### §785. Rules and regulations
+
+The Secretary of the Interior is authorized to issue rules and regulations necessary for the purposes of sections 781 to 785 of this title.
+
+(Aug. 1, 1955, ch. 444, §6, 69 Stat. 432.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 782, 783, 784 of this title.
+

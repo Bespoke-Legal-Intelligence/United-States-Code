@@ -1,0 +1,36 @@
+### §10101. Definitions
+
+In this part—
+
+&emsp;(1) “master” means the individual having command of a vessel.
+
+&emsp;(2) “owner” means the person to whom the vessel belongs.
+
+&emsp;(3) “seaman” means an individual (except scientific personnel, a sailing school instructor, or a sailing school student) engaged or employed in any capacity on board a vessel.
+
+&emsp;(4) “fishing vessel” includes—
+
+&emsp;&emsp;(A) a fish tender vessel; or
+
+&emsp;&emsp;(B) a fish processing vessel entered into service before January 1, 1988, and not more than 1,600 gross tons or entered into service after December 31, 1987, and having not more than 16 individuals on board primarily employed in the preparation of fish or fish products.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 560; Pub. L. 98–364, title IV, §402(13), July 17, 1984, 98 Stat. 449; Pub. L. 98–557, §33(d), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–640, §10(b)(3), Nov. 10, 1986, 100 Stat. 3550.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source section (U.S. Code)</i>
+
+10101
+
+46:713
+
+Section 10101 defines the terms master, seaman, and owner as they apply to merchant seamen's protection and relief.
+
+#### Amendments
+
+1986—Pars. (1), (3). Pub. L. 99–640 struck out “owned by a citizen of the United States” after “vessel”.
+
+1984—Par. (4). Pub. L. 98–364, as amended Pub. L. 98–557, added par. (4).
+

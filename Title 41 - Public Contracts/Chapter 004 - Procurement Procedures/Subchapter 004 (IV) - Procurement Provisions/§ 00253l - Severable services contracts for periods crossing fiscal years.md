@@ -1,0 +1,16 @@
+### §253<i>l</i>. Severable services contracts for periods crossing fiscal years
+
+#### (a) Authority
+
+The head of an executive agency may enter into a contract for procurement of severable services for a period that begins in one fiscal year and ends in the next fiscal year if (without regard to any option to extend the period of the contract) the contract period does not exceed one year.
+
+#### (b) Obligation of funds
+
+Funds made available for a fiscal year may be obligated for the total amount of a contract entered into under the authority of subsection (a) of this section.
+
+(June 30, 1949, ch. 288, title III, §303L, as added Oct. 13, 1994, Pub. L. 103–355, title I, §1073, 108 Stat. 3271.)
+
+#### Effective Date
+
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
+

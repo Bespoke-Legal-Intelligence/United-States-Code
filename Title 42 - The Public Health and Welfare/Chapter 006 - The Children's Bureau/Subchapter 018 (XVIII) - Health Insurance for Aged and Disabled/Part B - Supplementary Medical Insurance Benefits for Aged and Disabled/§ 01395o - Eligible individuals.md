@@ -1,0 +1,28 @@
+### §1395<i>o</i>. Eligible individuals
+
+Every individual who—
+
+&emsp;(1) is entitled to hospital insurance benefits under part A of this subchapter, or
+
+&emsp;(2) has attained age 65 and is a resident of the United States, and is either (A) a citizen or (B) an alien lawfully admitted for permanent residence who has resided in the United States continuously during the 5 years immediately preceding the month in which he applies for enrollment under this part,
+
+> is eligible to enroll in the insurance program established by this part.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1836, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 304; amended Oct. 30, 1972, Pub. L. 92–603, title II, §201(c)(1), 86 Stat. 1372.)
+
+#### References in Text
+
+Part A of this subchapter, referred to in par. (1), is classified to section 1395c et seq. of this title.
+
+#### Amendments
+
+1972—Pub. L. 92–603 designed former par. (2)(B) as par. (1), former par. (1) as introductory clause in par. (2), and former pars. (2)(A)(i) and (ii) as pars. (2)(A) and (B), and struck out “(A)” after “(2)”.
+
+#### Persons Convicted of Subversive Activities
+
+Section 104(b)(2) of Pub. L. 89–97 provided that: “An individual who has been convicted of any offense under (A) chapter 37 \[section 792 et seq. of Title 18, Crimes and Criminal Procedure\] (relating to espionage and censorship), chapter 105 \[section 2151 et seq. of Title 18\] (relating to sabotage), or chapter 115 \[section 2381 et seq. of Title 18\] (relating to treason, sedition, and subversive activities) of title 18 of the United States Code, or (B) section 4, 112, or 113 of the Internal Security Act of 1950, as amended \[section 783, 822, or 823 of Title 50, War and National Defense\], may not enroll under part B of title XVIII of the Social Security Act \[this part\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1395p, 1395q, 1395r, 1395v of this title; title 25 section 1644.
+

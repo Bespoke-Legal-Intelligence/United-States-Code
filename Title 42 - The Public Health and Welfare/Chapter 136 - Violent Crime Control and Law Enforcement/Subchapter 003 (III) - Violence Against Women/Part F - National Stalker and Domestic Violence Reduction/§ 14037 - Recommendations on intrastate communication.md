@@ -1,0 +1,10 @@
+### §14037. Recommendations on intrastate communication
+
+The State Justice Institute, after consultation with nationally recognized nonprofit associations with expertise in data sharing among criminal justice agencies and familiarity with the issues raised in stalking and domestic violence cases, shall recommend proposals regarding how State courts may increase intrastate communication between civil and criminal courts.
+
+(Pub. L. 103–322, title IV, §40608, Sept. 13, 1994, 108 Stat. 1952.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 14214 of this title.
+

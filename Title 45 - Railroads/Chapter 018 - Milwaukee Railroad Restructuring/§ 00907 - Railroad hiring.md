@@ -1,0 +1,18 @@
+### §907. Railroad hiring
+
+Each person who is an employee of the Milwaukee Railroad on September 30, 1979, and who is separated or furloughed from his employment with such railroad (other than for cause) prior to April 1, 1984, as a result of a reduction of service by such railroad shall, unless found to be less qualified than other applicants, have the first right of hire by any other rail carrier that is subject to regulation by the Commission for any vacancy that is not covered by (1) an affirmative action plan, or a hiring plan designed to eliminate discrimination, that is required by Federal or State statute, regulation, or executive order, or by the order of a Federal court or agency, or (2) a permissible voluntary affirmative action plan. For purposes of this section, a rail carrier shall not be considered to be hiring new employees when it recalls any of its own furloughed employees.
+
+(Pub. L. 96–101, §8, Nov. 4, 1979, 93 Stat. 740; Pub. L. 97–468, title II, §236(a), Jan. 14, 1983, 96 Stat. 2547.)
+
+#### Amendments
+
+1983—Pub. L. 97–468 substituted “April 1, 1984” for “April 1, 1981”.
+
+#### Exemption of National Railroad Passenger Corporation in Hiring Qualified Train and Engine Employees
+
+Section inapplicable to National Railroad Passenger Corporation in hiring of qualified train and engine employees holding seniority rights to work in intercity rail passenger service in connection with the assumption by such Corporation of functions previously performed under contract by other carriers, see section 4011(c) of Pub. L. 99–272, set out as a note under section 797b of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 797b, 797c, 919, 1004 of this title.
+

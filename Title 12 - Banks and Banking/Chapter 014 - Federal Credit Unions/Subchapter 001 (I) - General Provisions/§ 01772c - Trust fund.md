@@ -1,0 +1,12 @@
+### §1772c. Trust fund
+
+Notwithstanding any other provision of law, all moneys of the Board shall be treated as trust funds for the purpose of section 906(a)(2) <sup>1</sup> of title 2. This section is effective for fiscal year 1986 and every fiscal year thereafter.
+
+(June 26, 1934, ch. 750, title I, §129, as added Aug. 10, 1987, Pub. L. 100–86, title VII, §708, 101 Stat. 653.)
+
+#### References in Text
+
+Section 906(a) of title 2, referred to in text, was amended generally by Pub. L. 101–508, title XIII, §13101(d)(1), Nov. 5, 1990, 104 Stat. 1388–589. Provisions similar to those formerly appearing in section 906(a)(2) are now contained in section 906(<i>l</i>)(6) of Title 2, The Congress.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

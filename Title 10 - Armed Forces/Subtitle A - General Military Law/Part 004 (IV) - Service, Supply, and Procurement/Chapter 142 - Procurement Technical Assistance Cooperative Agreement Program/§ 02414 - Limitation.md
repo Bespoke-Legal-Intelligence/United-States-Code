@@ -1,0 +1,40 @@
+### §2414. Limitation
+
+(a)
+
+In General.—The value of the assistance furnished by the Secretary to any eligible entity to carry out a procurement technical assistance program under a cooperative agreement under this chapter during any fiscal year may not exceed—
+
+&emsp;(1) in the case of a program operating on a Statewide basis, other than a program referred to in clause (3) or (4), $300,000;
+
+&emsp;(2) in the case of a program operating on less than a Statewide basis, other than a program referred to in clause (3) or (4), $150,000;
+
+&emsp;(3) in the case of a program operated wholly within one service area of the Bureau of Indian Affairs by an eligible entity referred to in section 2411(1)(D) of this title, $150,000; or
+
+&emsp;(4) in the case of a program operated wholly within more than one service area of the Bureau of Indian Affairs by an eligible entity referred to in section 2411(1)(D) of this title, $300,000.
+
+(b)
+
+Determinations on Scope of Operations.—A determination of whether a procurement technical assistance program is operatingon a Statewide basis or on less than a Statewide basis or is operated wholly within one or more service areas of the Bureau of Indian Affairs by an eligible entity referred to in section 2411(1)(D) of this title shall be made in accordance with regulations prescribed by the Secretary of Defense.
+
+(Added Pub. L. 98–525, title XII, §1241(a)(1), Oct. 19, 1984, 98 Stat. 2606; amended Pub. L. 99–145, title IX, §919(a), Nov. 8, 1985, 99 Stat. 692; Pub. L. 100–456, div. A, title VIII, §841(a), Sept. 29, 1988, 102 Stat. 2025; Pub. L. 101–189, div. A, title VIII, §819(c), Nov. 29, 1989, 103 Stat. 1503; Pub. L. 102–25, title VII, §701(f)(7), Apr. 6, 1991, 105 Stat. 115.)
+
+#### Amendments
+
+1991—Subsec. (b). Pub. L. 102–25 substituted “section 2411(1)(D)” for “section 2411(a)(1)(D)”.
+
+1989—Subsec. (a). Pub. L. 101–189, §819(c)(1), added pars. (1) to (4) and struck out former pars. (1) and (2) which read as follows:
+
+“(1) in the case of a program operating on a Statewide basis, $300,000; or
+
+“(2) in the case of a program operating on less than a Statewide basis, $150,000.”
+
+Subsec. (b). Pub. L. 101–189, §819(c)(2), inserted “or is operated wholly within one or more service areas of the Bureau of Indian Affairs by an eligible entity referred to in section 2411(a)(1)(D) of this title” after “or on less than a Statewide basis”.
+
+1988—Pub. L. 100–456 amended section generally. Prior to amendment, section read as follows: “The value of the assistance furnished by the Secretary to any eligible entity to carry out a procurement technical assistance program under a cooperative agreement under this chapter during any fiscal year may not exceed $150,000.”
+
+1985—Pub. L. 99–145 amended section generally, substituting “Secretary” for “Department of Defense” and “program under” for “program pursuant to”.
+
+#### Effective Date of 1985 Amendment
+
+Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 919(d) of Pub. L. 99–145, set out as a note under section 2411 of this title.
+

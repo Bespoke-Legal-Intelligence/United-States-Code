@@ -1,0 +1,16 @@
+### §2002. Statement of purposes
+
+The purposes of this chapter are—
+
+&emsp;(1) to provide a means for—
+
+&emsp;&emsp;(A) selecting delivery systems to transport Alaskan and other crude oil to northern tier States and inland States, and
+
+&emsp;&emsp;(B) resolving both the west coast crude oil surplus and the crude oil supply problems in the northern tier States;
+
+&emsp;(2) to provide an expedited procedure for acting on applications for all Federal permits, licenses, and approvals required for the construction and operation or any transportation system approved under this chapter and the Long Beach-Midland project; and
+
+&emsp;(3) to assure that Federal decisions with respect to crude oil transportation systems are coordinated with State decisions to the maximum extent practicable.
+
+(Pub. L. 95–617, title V, §502, Nov. 9, 1978, 92 Stat. 3157.)
+

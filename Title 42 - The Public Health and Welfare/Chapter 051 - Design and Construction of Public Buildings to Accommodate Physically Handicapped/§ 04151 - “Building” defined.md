@@ -1,0 +1,34 @@
+### §4151. “Building” defined
+
+As used in this chapter, the term “building” means any building or facility (other than (A) a privately owned residential structure not leased by the Government for subsidized housing programs and (B) any building or facility on a military installation designed and constructed primarily for use by able bodied military personnel) the intended use for which either will require that such building or facility be accessible to the public, or may result in the employment or residence therein of physically handicapped persons, which building or facility is—
+
+&emsp;(1) to be constructed or altered by or on behalf of the United States;
+
+&emsp;(2) to be leased in whole or in part by the United States after August 12, 1968;
+
+&emsp;(3) to be financed in whole or in part by a grant or a loan made by the United States after August 12, 1968, if such building or facility is subject to standards for design, construction, or alteration issued under authority of the law authorizing such grant or loan; or
+
+&emsp;(4) to be constructed under authority of the National Capital Transportation Act of 1960, the National Capital Transportation Act of 1965, or title III of the Washington Metropolitan Area Transit Regulation Compact.
+
+(Pub. L. 90–480, §1, Aug. 12, 1968, 82 Stat. 718; Pub. L. 91–205, Mar. 5, 1970, 84 Stat. 49; Pub. L. 94–541, title II, §201(1), Oct. 18, 1976, 90 Stat. 2507.)
+
+#### References in Text
+
+The National Capital Transportation Act of 1960, referred to in par. (4), is Pub. L. 86–669, July 14, 1960, 74 Stat. 537, which enacted sections 651, 652, 661 to 665, and 671 of Title 40, Public Buildings, Property, and Works, and enacted provisions set out as notes under section 651 of Title 40 and which was repealed by Pub. L. 91–143, §8(a)(1), Dec. 9, 1969, 83 Stat. 322. See provisions of the Washington Metropolitan Area Transit Regulation Compact, set out under D.C. Code §§1–2411, 1–2431.
+
+The National Capital Transportation Act of 1965, referred to in par. (4), is Pub. L. 89–173, Sept. 8, 1965, 79 Stat. 663, as amended, which enacted sections 681 to 685 of Title 40, amended section 662 of Title 40, and enacted provisions set out as notes under section 681 of Title 40. Sections 681, 684, and 685 of Title 40 have been omitted from the Code. Sections 682 and 683 of Title 40 were repealed by Pub. L. 91–143, §8(a)(2), Dec. 9, 1969, 83 Stat. 323.
+
+#### Amendments
+
+1976—Pub. L. 94–541 inserted in parenthetical text “not leased by the Government for subsidized housing programs” after “structure” and struck out from par. (2) “, after construction or alteration in accordance with plans and specifications of the United States” after “August 12, 1968”.
+
+1970—Par. (4). Pub. L. 91–205 added par. (4).
+
+#### Short Title
+
+Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which enacted this chapter, is popularly known as the “Architectural Barriers Act of 1968”.
+
+#### Applicability of 1976 Amendment to Leases Entered Into Before, On, or After January 1, 1977
+
+Section 202 of Pub. L. 94–541 provided that: “The amendment made by paragraph (1) of section 201 of this Act \[amending this section\] shall not apply to any lease entered into before January 1, 1977. It shall apply to every lease entered into on or after January 1, 1977, including any renewal of a lease entered into before such date which renewal is on or after such date.”
+

@@ -1,0 +1,6 @@
+### §3407. Plan approval
+
+Within 90 days after the receipt of a tribal government's plan by the Secretary, the Secretary shall inform the tribal government, in writing, of the Secretary's approval or disapproval of the plan. If the plan is disapproved, the tribal government shall be informed, in writing, of the reasons for the disapproval and shall be given an opportunity to amend its plan or to petition the Secretary to reconsider such disapproval.
+
+(Pub. L. 102–477, §8, Oct. 23, 1992, 106 Stat. 2303.)
+

@@ -1,0 +1,10 @@
+### §237. Standard barrels for lime
+
+There is established a large and a small barrel of lime, the large barrel to consist of two hundred and eighty pounds and the small barrel to consist of one hundred and eighty pounds, net weight.
+
+(Aug. 23, 1916, ch. 396, §1, 39 Stat. 530.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 240, 241, 242 of this title.
+

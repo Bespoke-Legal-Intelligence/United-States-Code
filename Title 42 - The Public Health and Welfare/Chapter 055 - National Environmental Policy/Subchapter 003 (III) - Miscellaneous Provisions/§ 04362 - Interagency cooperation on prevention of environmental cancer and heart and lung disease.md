@@ -1,0 +1,34 @@
+### §4362. Interagency cooperation on prevention of environmental cancer and heart and lung disease
+
+(a) Not later than three months after August 7, 1977, there shall be established a Task Force on Environmental Cancer and Heart and Lung Disease (hereinafter referred to as the “Task Force”). The Task Force shall include representatives of the Environmental Protection Agency, the National Cancer Institute, the National Heart, Lung, and Blood Institute, the National Institute of Occupational Safety and Health, and the National Institute on Environmental Health Sciences, and shall be chaired by the Administrator (or his delegate).
+
+(b) The Task Force shall—
+
+&emsp;(1) recommend a comprehensive research program to determine and quantify the relationship between environmental pollution and human cancer and heart and lung disease;
+
+&emsp;(2) recommend comprehensive strategies to reduce or eliminate the risks of cancer or such other diseases associated with environmental pollution;
+
+&emsp;(3) recommend research and such other measures as may be appropriate to prevent or reduce the incidence of environmentally related cancer and heart and lung diseases;
+
+&emsp;(4) coordinate research by, and stimulate cooperation between, the Environmental Protection Agency, the Department of Health and Human Services, and such other agencies as may be appropriate to prevent environmentally related cancer and heart and lung diseases; and
+
+&emsp;(5) report to Congress, not later than one year after August 7, 1977, and annually thereafter, on the problems and progress in carrying out this section.
+
+(Pub. L. 95–95, title IV, §402, Aug. 7, 1977, 91 Stat. 791; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+
+#### Codification
+
+Section was enacted as part of the Clean Air Act Amendments of 1977, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+#### Change of Name
+
+“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (b)(4) pursuant to section 507(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+#### Effective Date
+
+Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4362a of this title.
+

@@ -1,0 +1,42 @@
+### §18231. Purpose
+
+The purpose of this chapter is to provide for—
+
+&emsp;(1) the acquisition, by purchase, lease, transfer, construction, expansion, rehabilitation, or conversion of facilities necessary for the proper development, training, operation, and maintenance of the reserve components of the armed forces, including troop housing and messing facilities;
+
+&emsp;(2) the joint use of those facilities by units of two or more of those reserve components, to the greatest practicable extent for efficiency and economy;
+
+&emsp;(3) the use of those facilities, in time of war or national emergency, by those units and other units of the armed forces, to the greatest practicable extent for efficiency and economy; and
+
+&emsp;(4) any other use of those facilities by the United States, in time of war or national emergency, to the greatest practicable extent for efficiency and economy.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 120, §2231; Aug. 29, 1957, Pub. L. 85–215, §1, 71 Stat. 489; renumbered §18231, Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), 108 Stat. 3010.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+2231
+
+50:881.
+
+Sept. 11, 1950, ch. 945, §2, 64 Stat. 829.
+
+In clause (1), the words “units of” are omitted as surplusage.
+
+In clause (4), the words “United States” are substituted for the words “Federal Government”.
+
+#### Amendments
+
+1994—Pub. L. 103–337 renumbered section 2231 of this title as this section.
+
+1957—Par. (1). Pub. L. 85–215 included troop housing and messing facilities.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2231 of this title.
+

@@ -1,0 +1,22 @@
+### §2295c. Authorization of appropriations
+
+#### (a) In general
+
+To carry out this part, there are authorized to be appropriated to the President for fiscal year 1993 $410,000,000, in addition to amounts otherwise available for assistance for the independent states of the former Soviet Union. Amounts appropriated pursuant to this subsection are authorized to remain available until expended.
+
+#### (b) Operating expenses
+
+#### (1) Authority to transfer program funds
+
+&emsp;Subject to paragraph (2), funds made available under subsection (a) of this section may be transferred to, and merged with, funds appropriated for “Operating Expenses of the Agency for International Development”. Funds so transferred may be expended for administrative costs in carrying out this part, including reimbursement of the Department of State for its incremental costs associated with assistance provided under this part.
+
+#### (2) Limitation on amount transferred
+
+&emsp;Not more than 2 percent of the funds made available for a fiscal year under subsection (a) of this section may be transferred pursuant to paragraph (1) unless, at least 15 days before transferring any additional amount, the President notifies the appropriate congressional committees in accordance with the procedures applicable to reprogramming notifications under section 2394–1 of this title.
+
+(Pub. L. 87–195, pt. I, §498C, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3330.)
+
+#### Delegation of Functions
+
+Functions of President under subsec. (b)(2) of this section delegated to United States International Development Cooperation Agency by section 3(b) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, set out as a note under section 5812 of this title.
+

@@ -1,0 +1,40 @@
+### SUBCHAPTER I—CONTROL OF TOXIC SUBSTANCES
+
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in sections 2647, 2654 of this title.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 02601 - Findings, policy, and intent](%C2%A7%2002601%20-%20Findings%2C%20policy%2C%20and%20intent.md)
+- [&sect; 02602 - Definitions](%C2%A7%2002602%20-%20Definitions.md)
+- [&sect; 02603 - Testing of chemical substances and mixtures](%C2%A7%2002603%20-%20Testing%20of%20chemical%20substances%20and%20mixtures.md)
+- [&sect; 02604 - Manufacturing and processing notices](%C2%A7%2002604%20-%20Manufacturing%20and%20processing%20notices.md)
+- [&sect; 02605 - Regulation of hazardous chemical substances and mixtures](%C2%A7%2002605%20-%20Regulation%20of%20hazardous%20chemical%20substances%20and%20mixtures.md)
+- [&sect; 02606 - Imminent hazards](%C2%A7%2002606%20-%20Imminent%20hazards.md)
+- [&sect; 02607 - Reporting and retention of information](%C2%A7%2002607%20-%20Reporting%20and%20retention%20of%20information.md)
+- [&sect; 02608 - Relationship to other Federal laws](%C2%A7%2002608%20-%20Relationship%20to%20other%20Federal%20laws.md)
+- [&sect; 02609 - Research, development, collection, dissemination, and utilization of data](%C2%A7%2002609%20-%20Research%2C%20development%2C%20collection%2C%20dissemination%2C%20and%20utilization%20of%20data.md)
+- [&sect; 02610 - Inspections and subpoenas](%C2%A7%2002610%20-%20Inspections%20and%20subpoenas.md)
+- [&sect; 02611 - Exports](%C2%A7%2002611%20-%20Exports.md)
+- [&sect; 02612 - Entry into customs territory of the United States](%C2%A7%2002612%20-%20Entry%20into%20customs%20territory%20of%20the%20United%20States.md)
+- [&sect; 02613 - Disclosure of data](%C2%A7%2002613%20-%20Disclosure%20of%20data.md)
+- [&sect; 02614 - Prohibited acts](%C2%A7%2002614%20-%20Prohibited%20acts.md)
+- [&sect; 02615 - Penalties](%C2%A7%2002615%20-%20Penalties.md)
+- [&sect; 02616 - Specific enforcement and seizure](%C2%A7%2002616%20-%20Specific%20enforcement%20and%20seizure.md)
+- [&sect; 02617 - Preemption](%C2%A7%2002617%20-%20Preemption.md)
+- [&sect; 02618 - Judicial review](%C2%A7%2002618%20-%20Judicial%20review.md)
+- [&sect; 02619 - Citizens&#8217; civil actions](%C2%A7%2002619%20-%20Citizens%E2%80%99%20civil%20actions.md)
+- [&sect; 02620 - Citizens&#8217; petitions](%C2%A7%2002620%20-%20Citizens%E2%80%99%20petitions.md)
+- [&sect; 02621 - National defense waiver](%C2%A7%2002621%20-%20National%20defense%20waiver.md)
+- [&sect; 02622 - Employee protection](%C2%A7%2002622%20-%20Employee%20protection.md)
+- [&sect; 02623 - Employment effects](%C2%A7%2002623%20-%20Employment%20effects.md)
+- [&sect; 02624 - Studies](%C2%A7%2002624%20-%20Studies.md)
+- [&sect; 02625 - Administration](%C2%A7%2002625%20-%20Administration.md)
+- [&sect; 02626 - Development and evaluation of test methods](%C2%A7%2002626%20-%20Development%20and%20evaluation%20of%20test%20methods.md)
+- [&sect; 02627 - State programs](%C2%A7%2002627%20-%20State%20programs.md)
+- [&sect; 02628 - Authorization of appropriations](%C2%A7%2002628%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 02629 - Annual report](%C2%A7%2002629%20-%20Annual%20report.md)

@@ -1,0 +1,791 @@
+### §8339. Computation of annuity
+
+(a) Except as otherwise provided by this section, the annuity of an employee retiring under this subchapter is—
+
+&emsp;(1) 11/2 percent of his average pay multiplied by so much of his total service as does not exceed 5 years; plus
+
+&emsp;(2) 13/4 percent of his average pay multiplied by so much of his total service as exceeds 5 years but does not exceed 10 years; plus
+
+&emsp;(3) 2 percent of his average pay multiplied by so much of his total service as exceeds 10 years.
+
+> However, when it results in a larger annuity, 1 percent of his average pay plus $25 is substituted for the percentage specified by paragraph (1), (2), or (3) of this subsection, or any combination thereof.
+
+(b) The annuity of a Congressional employee, or former Congressional employee, retiring under this subchapter is computed under subsection (a) of this section, except, if he has had—
+
+&emsp;(1) at least 5 years’ service as a Congressional employee or Member or any combination thereof; and
+
+&emsp;(2) deductions withheld from his pay or has made deposit covering his last 5 years of civilian service;
+
+> his annuity is computed with respect to his service as a Congressional employee, his military service not exceeding 5 years, and any Member service, by multiplying 21/2 percent of his average pay by the years of that service.
+
+(c) The annuity of a Member, or former Member with title to Member annuity, retiring under this subchapter is computed under subsection (a) of this section, except, if he has had at least 5 years’ service as a Member or Congressional employee or any combination thereof, his annuity is computed with respect to—
+
+&emsp;(1) his service as a Member and so much of his military service as is creditable for the purpose of this paragraph; and
+
+&emsp;(2) his Congressional employee service; by multiplying 21/2 percent of his average pay by the years of that service.
+
+(d)(1) The annuity of an employee retiring under section 8335(b) or 8336(c) of this title is—
+
+&emsp;(A) 21/2 percent of his average pay multiplied by so much of his total service as does not exceed 20 years; plus
+
+&emsp;(B) 2 percent of his average pay multiplied by so much of his total service as exceeds 20 years.
+
+(2) The annuity of an employee retiring under this subchapter who was employed by the Panama Canal Company or Canal Zone Government on September 30, 1979, is computed with respect to the period of continuous Panama Canal service from that date, disregarding any break in service of not more than 3 days, by adding—
+
+&emsp;(A) 21/2 percent of the employee's average pay multiplied by so much of that service as does not exceed 20 years; plus
+
+&emsp;(B) 2 percent of the employee's average pay multiplied by so much of that service as exceeds 20 years.
+
+(3) The annuity of an employee retiring under this subchapter who is employed by the Panama Canal Commission at any time during the period beginning October 1, 1990, and ending December 31, 1999, is computed, with respect to any period of service with the Panama Canal Commission, by adding—
+
+&emsp;(A) 21/2 percent of the employee's average pay multiplied by so much of that service as does not exceed 20 years; plus
+
+&emsp;(B) 2 percent of the employee's average pay multiplied by so much of that service as exceeds 20 years.
+
+(4)(A) In the case of an employee who has service as a law enforcement officer or firefighter to which paragraph (2) of this subsection applies, the annuity of that employee is increased by $8 for each full month of that service which is performed in the Republic of Panama.
+
+(B) In the case of an employee retiring under this subchapter who—
+
+&emsp;(i) was employed as a law enforcement officer or firefighter by the Panama Canal Company or Canal Zone Government at any time during the period beginning March 31, 1979, and ending September 30, 1979; and
+
+&emsp;(ii) does not meet the age and service requirements of section 8336(c) of this title;
+
+> the annuity of that employee is increased by $12 for each full month of that service which occurred before October 1, 1979.
+
+(C) An annuity increase under this paragraph does not apply with respect to service performed after completion of 20 years of service (or any combination of service) as a law enforcement officer or firefighter.
+
+(5) For the purpose of this subsection—
+
+&emsp;(A) “Panama Canal service” means—
+
+&emsp;&emsp;(i) service as an employee of the Panama Canal Commission; or
+
+&emsp;&emsp;(ii) service at a permanent duty station in the Canal Zone or Republic of Panama as an employee of an Executive agency conducting operations in the Canal Zone or Republic of Panama; and
+
+&emsp;(B) “Executive agency” includes the Smithsonian Institution.
+
+(6) The annuity of an employee retiring under section 8336(j) of this title is computed under subsection (a) of this section, except that with respect to service on or after December 21, 1972, the employee's annuity is—
+
+&emsp;(A) 21/2 percent of the employee's average pay multiplied by so much of the employee's service on or after that date as does not exceed 20 years; plus
+
+&emsp;(B) 2 percent of the employee's average pay multiplied by so much of the employee's service on or after that date as exceeds 20 years.
+
+(7) The annuity of an employee who is a judge of the United States Court of Appeals for the Armed Forces, or a former judge of such court, retiring under this subchapter is computed under subsection (a) of this section, except, with respect to his service as a judge of such court, his service as a Member, his congressional employee service, and his military service (not exceeding 5 years) creditable under section 8332 of this title, his annuity is computed by multiplying 21/2 percent of his average pay by the years of that service.
+
+(e) The annuity of an employee retiring under section 8336(e) of this title is computed under subsection (a) of this section. That annuity may not be less than 50 percent of the average pay of the employee unless such employee has received, pursuant to section 8342 of this title, payment of the lump-sum credit attributable to deductions under section 8334(a) of this title during any period of employment as an air traffic controller and such employee has not deposited in the Fund the amount received, with interest, pursuant to section 8334(d)(1) of this title.
+
+(f) The annuity computed under subsections (a)–(e), (n), and (q) of this section may not exceed 80 percent of—
+
+&emsp;(1) the average pay of the employee; or
+
+&emsp;(2) the greatest of—
+
+&emsp;&emsp;(A) the final basic pay of the Member;
+
+&emsp;&emsp;(B) the average pay of the Member; or
+
+&emsp;&emsp;(C) the final basic pay of the appointive position of a former Member who elects to have his annuity computed or recomputed under section 8344(d)(1) of this title.
+
+(g) The annuity of an employee or Member retiring under section 8337 of this title is at least the smaller of—
+
+&emsp;(1) 40 percent of his average pay; or
+
+&emsp;(2) the sum obtained under subsections (a)–(c), (n), or (q) of this section after increasing his service of the type last performed by the period elapsing between the date of separation and the date he becomes 60 years of age.
+
+> However, if an employee or Member retiring under section 8337 of this title is receiving retired pay or retainer pay for military service (except that specified in section 8332(c)(1) or (2) of this title) or pension or compensation from the Department of Veterans Affairs in lieu of such retired or retainer pay, the annuity of that employee or Member shall be computed under subsection (a), (b), (c), (n), or (q) of this section, as appropriate, excluding credit for military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in section 5532 of this title, or the pension or compensation from the Department of Veterans Affairs in lieu of such retired or retainer pay, is less than the smaller of the annuity otherwise payable under paragraph (1) or (2) of this subsection, an amount equal to the difference shall be added to the annuity payable under subsection (a), (b), (c), (n), or (q) of this section, as appropriate.
+
+(h) The annuity computed under subsections (a), (b), (d)(5), and (f) of this section for an employee retiring under section 8336(d), (h), or (j) of this title is reduced by 1/6 of 1 percent for each full month the employee is under 55 years of age at the date of separation, except that such reduction shall not apply in the case of an employee retiring under section 8336(h) for failure to be recertified as a senior executive. The annuity computed under subsections (c) and (f) of this section for a Member retiring under the second or third sentence of section 8336(g) of this title or the third sentence of section 8338(b) of this title is reduced by 1/12 of 1 percent for each full month not in excess of 60 months, and 1/6 of 1 percent for each full month in excess of 60 months the Member is under 60 years of age at the date of separation. The annuity computed under subsections (a), (d)(6), and (f) of this section for a judge of the United States Court of Appeals for the Armed Forces retiring under the second sentence of section 8336(k) of this title or the third sentence of section 8338(c) of this title is reduced by 1/12 of 1 percent for each full month not in excess of 60 months, and 1/6 of 1 percent for each full month in excess of 60 months, the judge is under 60 years of age at the date of separation.
+
+(i) For the purposes of subsections (a)–(h), (n), and (q) of this section, the total service of any employee or Member shall not include any period of civilian service after July 31, 1920, for which retirement deductions or deposits have not been made under section 8334(a) of this title unless—
+
+&emsp;(1) the employee or Member makes a deposit for such period as provided in section 8334(c) or (d)(1) of this title; or
+
+&emsp;(2) no deposit is required for such service, as provided under section 8334(g) of this title or under any statute.
+
+(j)(1) The annuity computed under subsections (a)–(i), (n), and (q) of this section (or a portion of the annuity, if jointly designated for this purpose by the employee or Member and the spouse of the employee or Member under procedures prescribed by the Office of Personnel Management) for an employee or Member who is married at the time of retiring under this subchapter is reduced as provided in paragraph (4) of this subsection in order to provide a survivor annuity for the spouse under section 8341(b) of this title, unless the employee or Member and the spouse jointly waive the spouse's right to a survivor annuity in a written election filed with the Office at the time that the employee or Member retires. Each such election shall be made in accordance with such requirements as the Office shall, by regulation, prescribe, and shall be irrevocable. The Office shall provide, by regulation, that an employee or Member may waive the survivor annuity without the spouse's consent if the employee or Member establishes to the satisfaction of the Office—
+
+&emsp;(A) that the spouse's whereabouts cannot be determined, or
+
+&emsp;(B) that, due to exceptional circumstances, requiring the employee or Member to seek the spouse's consent would otherwise be inappropriate.
+
+(2) If an employee or Member has a former spouse who is entitled to a survivor annuity as provided in section 8341(h) of this title, the annuity of the employee or Member computed under subsections (a)–(i), (n), and (q) of this section (or any designated portion of the annuity, in the event that the former spouse is entitled to less than 55 percent of the employee or Member's annuity) is reduced as provided in paragraph (4) of this subsection.
+
+(3) An employee or Member who has a former spouse may elect, under procedures prescribed by the Office, to have the annuity computed under subsections (a)–(i), (n), and (q) of this section or a portion thereof reduced as provided in paragraph (4) of this subsection in order to provide a survivor annuity for such former spouse under section 8341(h) of this title, unless all rights to survivor benefits for such former spouse under this subchapter based on marriage to such employee or Member were waived under paragraph (1) of this subsection. An election under this paragraph shall be made at the time of retirement or, if later, within 2 years after the date on which the marriage of the former spouse to the employee or Member is dissolved, subject to a deposit in the Fund by the retired employee or Member of an amount determinedby the Office, as nearly as may be administratively feasible, to reflect the amount by which the annuity of such employee or Member would have been reduced if the election had been continuously in effect since the date the annuity commenced, plus interest. For the purposes of the preceding sentence, the annual rate of interest for each year during which the annuity would have been reduced if the election had been in effect since the date the annuity commenced shall be 6 percent. The Office shall, by regulation, provide for payment of the deposit required under this paragraph by a reduction in the annuity of the employee or Member. The reduction shall, to the extent practicable, be designed so that the present value of the future reduction is actuarially equivalent to the deposit required under this paragraph, except that the total reductions in the annuity of an employee or Member to pay deposits required by the provisions of this paragraph, paragraph (5), or subsection (k)(2) shall not exceed 25 percent of the annuity computed under subsections (a) through (i), (n), and (q), including adjustments under section 8340. The reduction, which shall be effective on the same date as the election under this paragraph, shall be permanent and unaffected by any future termination of the entitlement of the former spouse. Such reduction shall be independent of and in addition to the reduction required under the first sentence of this paragraph. An election under this paragraph—
+
+&emsp;(A) shall not be effective to the extent that it—
+
+&emsp;&emsp;(i) conflicts with—
+
+&emsp;&emsp;&emsp;(I) any court order or decree referred to in subsection (h)(1) of section 8341 of this title, which was issued before the date of such election; or
+
+&emsp;&emsp;&emsp;(II) any agreement referred to in such subsection which was entered into before such date; or
+
+&emsp;&emsp;(ii) would cause the total of survivor annuities payable under subsections (b), (d), (f), and (h) of section 8341 of this title based on the service of the employee or Member to exceed 55 percent of the annuity to which the employee or Member is entitled under subsections (a)–(i), (n), and (q) of this section; and
+
+&emsp;(B) shall not be effective, in the case of an employee or Member who is then married, unless it is made with the spouse's written consent.
+
+> The Office shall provide by regulation that subparagraph (B) of this paragraph may be waived for either of the reasons set forth in the last sentence of paragraph (1) of this subsection. In the case of a retired employee or Member whose annuity is being reduced in order to provide a survivor annuity for a former spouse, an election to provide or increase a survivor annuity for any other former spouse (and to continue an appropriate reduction) may be made within the same period that, and subject to the same conditions under which, an election could be made under paragraph (5)(B) of this subsection for a current spouse (subject to the provisions of this paragraph relating to consent of a current spouse, if the retired employee or Member is then married). The opportunity to make an election under the preceding sentence is in addition to any opportunity otherwise afforded under this paragraph.
+
+(4) In order to provide a survivor annuity or combination of survivor annuities under subsections (b), (d), (f), and (h) of section 8341 of this title, the annuity of an employee or Member (or any designated portion or portions thereof) is reduced by 21/2 percent of the first $3,600 thereof plus 10 percent of so much thereof as exceeds $3,600.
+
+(5)(A) Any reduction in an annuity for the purpose of providing a survivor annuity for the current spouse of a retired employee or Member shall be terminated for each full month—
+
+&emsp;(i) after the death of the spouse, or
+
+&emsp;(ii) after the dissolution of the spouse's marriage to the employee or Member, except that an appropriate reduction shall be made thereafter if the spouse is entitled, as a former spouse, to a survivor annuity under section 8341(h) of this title.
+
+(B) Any reduction in an annuity for the purpose of providing a survivor annuity for a former spouse of a retired employee or Member shall be terminated for each full month after the former spouse remarries before reaching age 55 or dies. This reduction shall be replaced by an appropriate reduction or reductions under paragraph (4) of this subsection if the retired employee or Member has (i) another former spouse who is entitled to a survivor annuity under section 8341(h) of this title, (ii) a current spouse to whom the employee or Member was married at the time of retirement and with respect to whom a survivor annuity was not jointly waived under paragraph (1) of this subsection, or (iii) a current spouse whom the employee or Member married after retirement and with respect to whom an election has been made under subparagraph (C) of this paragraph or subsection (k)(2) of this section.
+
+(C)(i) Upon remarriage, a retired employee or Member who was married at the time of retirement (including an employee or Member whose annuity was not reduced to provide a survivor annuity for the employee or Member's spouse or former spouse as of the time of retirement) may irrevocably elect during such marriage, in a signed writing received by the Office within 2 years after such remarriage or, if later, within 2 years after the death or remarriage of any former spouse of such employee or Member who was entitled to a survivor annuity under section 8341(h) of this title (or of the last such surviving former spouse, if there was more than one), a reduction in the employee or Member's annuity under paragraph (4) of this subsection for the purpose of providing an annuity for such employee or Member's spouse in the event such spouse survives the employee or Member.
+
+(ii) Such election and reduction shall be effective the first day of the second month after the election is received by the Office, but not less than 9 months after the date of the remarriage, and the retired employee or Member shall deposit in the Fund an amount determined by the Office of Personnel Management, as nearly as may be administratively feasible, to reflect the amount by which the annuity of such retiredemployee or Member would have been reduced if the election had been in effect since the date of retirement or, if later, the date the previous reduction in such retired employee or Member's annuity was terminated under subparagraph (A) or (B) of this paragraph, plus interest. For the purposes of the preceding sentence, the annual rate of interest for each year during which an annuity would have been reduced if the election had been in effect on and after the applicable date referred to in such sentence shall be 6 percent.
+
+(iii) The Office shall, by regulation, provide for payment of the deposit required under clause (ii) by a reduction in the annuity of the employee or Member. The reduction shall, to the extent practicable, be designed so that the present value of the future reduction is actuarially equivalent to the deposit required under clause (ii), except that total reductions in the annuity of an employee or Member to pay deposits required by the provisions of this paragraph or paragraph (3) shall not exceed 25 percent of the annuity computed under subsections (a) through (i), (n), and (q), including adjustments under section 8340. The reduction required by this clause, which shall be effective on the same date as the election under clause (i), shall be permanent and unaffected by any future termination of the marriage. Such reduction shall be independent of and in addition to the reduction required under clause (i).
+
+(iv) Notwithstanding any other provision of this subparagraph, an election under this subparagraph may not be made for the purpose of providing an annuity in the case of a spouse by remarriage if such spouse was married to the employee or Member at the time of such employee or Member's retirement, and all rights to survivor benefits for such spouse under this subchapter based on marriage to such employee or Member were then waived under paragraph (1) of this subsection or a similar prior provision of law.
+
+(v) An election to provide a survivor annuity to a person under this subparagraph—
+
+&emsp;(I) shall prospectively void any election made by the employee or Member under subsection (k)(1) of this section with respect to such person; or
+
+&emsp;(II) shall, if an election was made by the employee or Member under such subsection (k)(1) with respect to a different person, prospectively void such election if appropriate written application is made by such employee or Member at the time of making the election under this subparagraph.
+
+(vi) The deposit provisions of clauses (ii) and (iii) of this subparagraph shall not apply if—
+
+&emsp;(I) the employee or Member makes an election under this subparagraph after having made an election under subsection (k)(1) of this section; and
+
+&emsp;(II) the election under such subsection (k)(1) becomes void under clause (v) of this subparagraph.
+
+(k)(1) At the time of retiring under section 8336 or 8338 of this title, an employee or Member who is found to be in good health by the Office may elect a reduced annuity instead of an annuity computed under subsections (a)–(i), (n), and (q) of this section and name in writing an individual having an insurable interest in the employee or Member to receive an annuity under section 8341(c) of this title after the death of the retired employee or Member. The annuity of the employee or Member making the election is reduced by 10 percent, and by 5 percent for each full 5 years the individual named is younger than the retiring employee or Member. However, the total reduction may not exceed 40 percent. An annuity which is reduced under this paragraph or any similar prior provision of law shall, effective the first day of the month following the death of the individual named under this paragraph, be recomputed and paid as if the annuity had not been so reduced. In the case of a married employee or Member, an election under this paragraph on behalf of the spouse may be made only if any right of such spouse to a survivor annuity based on the service of such employee or Member is waived in accordance with subsection (j)(1) of this section.
+
+(2)(A) An employee or Member, who is unmarried at the time of retiring under a provision of law which permits election of a reduced annuity with a survivor annuity payable to such employee or Member's spouse and who later marries, may irrevocably elect, in a signed writing received in the Office within 2 years after such employee or Member marries or, if later, within 2 years after the death or remarriage of any former spouse of such employee or Member who was entitled to a survivor annuity under section 8341(h) of this title (or of the last such surviving former spouse, if there was more than one), a reduction in the retired employee or Member's current annuity as provided in subsection (j) of this section.
+
+(B)(i) The election and reduction shall take effect on the first day of the first month beginning after the expiration of the 9-month period beginning on the date of marriage. Any such election to provide a survivor annuity for a person—
+
+&emsp;(I) shall prospectively void any election made by the employee or Member under paragraph (1) of this subsection with respect to such person; or
+
+&emsp;(II) shall, if an election was made by the employee or Member under such paragraph with respect to a different person, prospectively void such election if appropriate written application is made by such employee or Member at the time of making the election under this paragraph.
+
+(ii) The retired employee or Member shall deposit in the Fund an amount determined by the Office of Personnel Management, as nearly as may be administratively feasible, to reflect the amount by which the retired employee or Member's annuity would have been reduced under subsection (j)(4) of this section since the commencing date of the annuity, if the employee or Member had been married at the time of retirement and had elected to provide a survivor annuity at that time, plus interest. For the purposes of the preceding sentence, the annual rate of interest for each year during which the annuity would have been reduced if the election had been in effect since the date of the annuity commenced shall be 6 percent.
+
+(C) The Office shall, by regulation, provide for payment of the deposit required under subparagraph (B)(ii) by a reduction in the annuity of the employee or Member. The reduction shall, to the extent practicable, be designed so that the present value of the future reduction is actuarially equivalent to the deposit required under subparagraph (B)(ii), except that total reductions in the annuity of an employee or Member to pay deposits required by this subsection or subsection (j)(3) shall not exceed 25 percent of the annuity computed under subsections (a) through (i), (n), and (q), including adjustments under section 8340. The reduction required by this subparagraph, which shall be effective on the same date as the election under subparagraph (A), shall be permanent and unaffected by any future termination of the marriage. Such reduction shall be independent of and in addition to the reduction required under subparagraph (A).
+
+(D) Subparagraphs (B)(ii) and (C) of this paragraph shall not apply if—
+
+&emsp;(i) the employee or Member makes an election under this paragraph after having made an election under paragraph (1) of this subsection; and
+
+&emsp;(ii) the election under such paragraph (1) becomes void under subparagraph (B)(i) of this paragraph.
+
+(<i>l</i>) The annuity computed under subsections (a)–(k), (n), and (q) of this section for an employee who is a citizen of the United States is increased by $36 for each year of service in the employ of—
+
+&emsp;(1) the Alaska Engineering Commission, or The Alaska Railroad, in Alaska between March 12, 1914, and July 1, 1923; or
+
+&emsp;(2) the Isthmian Canal Commission, or the Panama Railroad Company, on the Isthmus of Panama between May 4, 1904, and April 1, 1914.
+
+(m) In computing any annuity under subsections (a)–(e), (n), and (q) of this section, the total service of an employee who retires on an immediate annuity or dies leaving a survivor or survivors entitled to annuity includes, without regard to the limitations imposed by subsection (f) of this section, the days of unused sick leave to his credit under a formal leave system, except that these days will not be counted in determining average pay or annuity eligible under this subchapter. For the purpose of this subsection, in the case of any such employee who is excepted from subchapter I of chapter 63 of this title under section 6301(2)(x)–(xiii) of this title, the days of unused sick leave to his credit include any unused sick leave standing to his credit when he was excepted from such subchapter.
+
+(n) The annuity of an employee who is a Court of Federal Claims judge, bankruptcy judge, or United States magistrate is computed, with respect to service as a Court of Federal Claims judge, as a commissioner of the Court of Claims, as a referee in bankruptcy, as a bankruptcy judge, as a United States magistrate, and as a United States commissioner, and with respect to the military service of any such individual (not exceeding 5 years) creditable under section 8332 of this title, by multiplying 21/2 percent of the individual's average pay by the years of that service.
+
+(<i>o</i>)(1)(A) An employee or Member—
+
+&emsp;(i) who, at the time of retirement, is married, and
+
+&emsp;(ii) who notifies the Office at such time (in accordance with subsection (j)) that a survivor annuity under section 8341(b) of this title is not desired,
+
+> may, during the 18-month period beginning on the date of the retirement of such employee or Member, elect to have a reduction under subsection (j) made in the annuity of the employee or Member (or in such portion thereof as the employee or Member may designate) in order to provide a survivor annuity for the spouse of such employee or Member.
+
+(B) An employee or Member—
+
+&emsp;(i) who, at the time of retirement, is married, and
+
+&emsp;(ii) who at such time designates (in accordance with subsection (j)) that a limited portion of the annuity of such employee or Member is to be used as the base for a survivor annuity under section 8341(b) of this title,
+
+> may, during the 18-month period beginning on the date of the retirement of such employee or Member, elect to have a greater portion of the annuity of such employee or Member so used.
+
+(2)(A) An election under subparagraph (A) or (B) of paragraph (1) of this subsection shall not be considered effective unless the amount specified in subparagraph (B) of this paragraph is deposited into the Fund before the expiration of the applicable 18-month period under paragraph (1).
+
+(B) The amount to be deposited with respect to an election under this subsection is an amount equal to the sum of—
+
+&emsp;(i) the additional cost to the System which is associated with providing a survivor annuity under subsection (b)(2) of this section and results from such election taking into account (I) the difference (for the period between the date on which the annuity of the participant or former participant commences and the date of the election) between the amount paid to such participant or former participant under this subchapter and the amount which would have been paid if such election had been made at the time the participant or former participant applied for the annuity, and (II) the costs associated with providing for the later election; and
+
+&emsp;(ii) interest on the additional cost determined under clause (i) of this subparagraph computed using the interest rate specified or determined under section 8334(e) of this title for the calendar year in which the amount to be deposited is determined.
+
+(3) An election by an employee or Member under this subsection voids prospectively any election previously made in the case of such employee or Member under subsection (j).
+
+(4) An annuity which is reduced in connection with an election under this subsection shall be reduced by the same percentage reductions as were in effect at the time of the retirement of the employee or Member whose annuity is so reduced.
+
+(5) Rights and obligations resulting from the election of a reduced annuity under this subsection shall be the same as the rights and obligations which would have resulted had the employee or Member involved elected such annuity at the time of retiring.
+
+(6) The Office shall, on an annual basis, inform each employee or Member who is eligible to make an election under this subsection of the right to make such election and the procedures and deadlines applicable to such election.
+
+(p)(1) In computing an annuity under this subchapter for an employee whose service includes service that was performed on a part-time basis—
+
+&emsp;(A) the average pay of the employee, to the extent that it includes pay for service performed in any position on a part-time basis, shall be determined by using the annual rate of basic pay that would be payable for full-time service in the position; and
+
+&emsp;(B) the benefit so computed shall then be multiplied by a fraction equal to the ratio which the employee's actual service, as determined by prorating an employee's total service to reflect the service that was performed on a part-time basis, bears to the total service that would be creditable for the employee if all of the service had been performed on a full-time basis.
+
+(2) For the purpose of this subsection, employment on a part-time basis shall not be considered to include employment on a temporary or intermittent basis.
+
+(q) The annuity of a member of the Capitol Police, or former member of the Capitol Police, retiring under this subchapter is computed in accordance with subsection (b), except that, in the case of a member who retires under section 8335(d) or 8336(m), and who meets the requirements of subsection (b)(2), the annuity of such member is—
+
+&emsp;(1) 21/2 percent of the member's average pay multiplied by so much of such member's total service as does not exceed 20 years; plus
+
+&emsp;(2) 2 percent of the member's average pay multiplied by so much of such member's total service as exceeds 20 years.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 574; Pub. L. 90–83, §1(78), Sept. 11, 1967, 81 Stat. 214; Pub. L. 90–206, title II, §224(b), Dec. 16, 1967, 81 Stat. 642; Pub. L. 90–486, §5(c), Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–93, title II, §203, Oct. 20, 1969, 83 Stat. 139; Pub. L. 91–658, §2, Jan. 8, 1971, 84 Stat. 1961; Pub. L. 92–297, §§6, 7(3), May 16, 1972, 86 Stat. 144; Pub. L. 93–260, §2(a), Apr. 9, 1974, 88 Stat. 76; Pub. L. 93–350, §6, July 12, 1974, 88 Stat. 356; Pub. L. 93–474, §1, Oct. 26, 1974, 88 Stat. 1438; Pub. L. 94–126, §1(b), Nov. 12, 1975, 89 Stat. 679; Pub. L. 94–397, §1(d), Sept. 3, 1976, 90 Stat. 1203; Pub. L. 95–256, §5(d), Apr. 6, 1978, 92 Stat. 191; Pub. L. 95–317, §§1(a), (c), 2, July 10, 1978, 92 Stat. 382; Pub. L. 95–454, title IV, §412(b), title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1175, 1224; Pub. L. 95–519, §3, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 95–598, title III, §338(a), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–54, §2(a)(49), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1242(a), Sept. 27, 1979, 93 Stat. 472; Pub. L. 96–135, §1(b), (c), Dec. 5, 1979, 93 Stat. 1057; Pub. L. 96–391, §1, Oct. 7, 1980, 94 Stat. 1557; Pub. L. 96–499, title IV, §404(a), Dec. 5, 1980, 94 Stat. 2606; Pub. L. 97–253, title III, §303(b), Sept. 8, 1982, 96 Stat. 794; Pub. L. 97–276, §151(f), Oct. 2, 1982, 96 Stat. 1202; Pub. L. 98–94, title XII, §1256(e), Sept. 24, 1983, 97 Stat. 702; Pub. L. 98–249, §3(a), Mar. 31, 1984, 98 Stat. 117; Pub. L. 98–271, §3(a), Apr. 30, 1984, 98 Stat. 163; Pub. L. 98–299, §3(a), May 25, 1984, 98 Stat. 214; Pub. L. 98–325, §3(a), June 20, 1984, 98 Stat. 268; Pub. L. 98–353, title I, §§112, 116(d), 121(f), July 10, 1984, 98 Stat. 343, 344, 346; Pub. L. 98–531, §2(c), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, §2(3), Nov. 8, 1984, 98 Stat. 3195; Pub. L. 99–251, title II, §203(a)–(c), title III, §307(a), Feb. 27, 1986, 100 Stat. 23, 24, 28; Pub. L. 99–272, title XV, §15204(a)(1), Apr. 7, 1986, 100 Stat. 334; Pub. L. 100–53, §2(d), June 18, 1987, 101 Stat. 368; Pub. L. 101–194, title V, §506(b)(8), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 101–428, §2(c)(1), (d)(2)–(6), Oct. 15, 1990, 104 Stat. 928, 929; Pub. L. 101–508, title VII, §7001(b)(2)(B), (C), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 101–510, div. C, title XXXV, §3506(b), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 101–650, title III, §306(c)(4), Dec. 1, 1990, 104 Stat. 5110; Pub. L. 102–54, §13(b)(4), June 13, 1991, 105 Stat. 274; Pub. L. 102–198, §7(b), Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–378, §2(62), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XI, §11004(a)(1), (2), Aug. 10, 1993, 107 Stat. 410, 411; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832.)
+
+Historical and Revision Notes<br>1966
+
+Act
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 2259.
+
+July 31, 1956, ch. 804, §401 “Sec. 9”, 70 Stat. 752.
+
+&nbsp;
+
+July 7, 1960, Pub. L. 86–604, §1(d), (e), 74 Stat. 358.
+
+&nbsp;
+
+July 12, 1960, Pub. L. 86–622, §2(b), 74 Stat. 410.
+
+&nbsp;
+
+Oct. 4, 1961, Pub. L. 87–350, §6, 75 Stat. 772.
+
+&nbsp;
+
+Oct. 11, 1962, Pub. L. 87–793, §1103(a), 76 Stat. 870.
+
+The section is reorganized to eliminate repetition.
+
+In subsection (f)(2), the words “service of the type last performed” are substituted for “total service” in former section 2259(a), “service as a Congressional employee” in former section 2259(b), and “Member service” in former section 2259(c).
+
+In subsection (i), the words “by the employee or Member at the time of retirement” are added on authority of former section 2260(a)(1), which is carried into section 8341(b).
+
+In subsection (j), the words “an annuity computed as provided in section 2259 of this title” and “an annuity so computed” are omitted as unnecessary as former sections 2256 and 2258, which are carried into this title as sections 8336 and 8338, respectively, expressly require that the annuities authorized thereby must be computed under former section 2259, which is carried into this section.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+1967
+
+Act
+
+<i>Section of title 5</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+8339(g)
+
+5 App.: 2259(d).
+
+July 18, 1966, Pub. L. 89–504, §505, 80 Stat. 301.
+
+#### Amendments
+
+1994—Subsec. (d)(7). Pub. L. 103–337, which directed amendment of subsec. (d)(6) by substituting “Court of Appeals for the Armed Forces” for “Court of Military Appeals”, was executed to subsec. (d)(7) to reflect the probable intent of Congress and the redesignation of subsec. (d)(6) as (d)(7) by Pub. L. 101–510. See 1990 Amendment note below.
+
+Subsec. (h). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
+
+1993—Subsec. (j)(3). Pub. L. 103–66, §11004(a)(1)(A)(i), struck out “, within such 2-year period,” after “retired employee or Member” in second sentence.
+
+Pub. L. 103–66, §11004(a)(1)(A)(ii), substituted fourth through seventh sentences for former fourth sentence which read as follows: “If the employee or Member does not make such a deposit, the Office shall collect the amount of the deposit by offset against the employee or Member's annuity, up to a maximum of 25 percent of the net annuity otherwise payable to the employee or Member, and the employee or Member is deemed to consent to such offset.”
+
+Subsec. (j)(5)(C)(ii). Pub. L. 103–66, §11004(a)(1)(B)(i), struck out “, within 2 years after the date of the remarriage or, if later, the death or remarriage of the former spouse (or of the last such surviving former spouse),” after “employee or Member shall”.
+
+Subsec. (j)(5)(C)(iii). Pub. L. 103–66, §11004(a)(1)(B)(ii), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “If the employee or Member does not make such deposit, the Office shall collect such amount by offset against the employee or Member's annuity, up to a maximum of 25 percent of the net annuity otherwise payable to the employee or Member, and the employee or Member is deemed to consent to such offset.”
+
+Subsec. (k)(2)(B)(ii). Pub. L. 103–66, §11004(a)(2)(A), which directed amendment of cl. (ii) by substituting in first sentence “The retired employee” for “Within 2 years after the date of the marriage, the retired employee”, was executed by making the substitution for “Within 2 years after the date of marriage, the retired employee” to reflect the probable intent of Congress.
+
+Subsec. (k)(2)(C). Pub. L. 103–66, §11004(a)(2)(B), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “If the employee or Member does not make such deposit, the Office shall collect such amount by offset against the employee or Member's annuity, up to a maximum of 25 percent of the net annuity otherwise payable to the employee or Member, and the employee or Member is deemed to consent to such offset.”
+
+1992—Subsec. (n). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court” in two places.
+
+Subsecs. (<i>o</i>), (p). Pub. L. 102–378, §2(62), redesignated subsec. (<i>o</i>), relating to employee whose service includes service performed on part-time basis, as (p).
+
+1991—Subsec. (g). Pub. L. 102–54 substituted “pension or compensation from the Department of Veterans Affairs” for “Veterans’ Administration pension or compensation” in second and third sentences.
+
+Subsec. (n). Pub. L. 102–198 inserted a comma after “United States commissioner”.
+
+1990—Subsec. (d)(3) to (7). Pub. L. 101–510 added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
+
+Subsec. (e). Pub. L. 101–508, §7001(b)(2)(C), substituted “8334(d)(1)” for “8334(d)”.
+
+Subsec. (f). Pub. L. 101–428, §2(d)(2), substituted “(a)–(e), (n), and (q)” for “(a)–(e) and (n)”.
+
+Subsec. (g). Pub. L. 101–428, §2(d)(3)(B), substituted “(c), (n), or (q)” for “(c), or (n)” wherever appearing in closing provisions.
+
+Subsec. (g)(2). Pub. L. 101–428, §2(d)(3)(A), substituted “(a)–(c), (n), or (q)” for “(a)–(c) or (n)”.
+
+Subsec. (i). Pub. L. 101–428, §2(d)(4), substituted “(a)–(h), (n), and (q)” for “(a)–(h) and (n)”.
+
+Subsec. (i)(1). Pub. L. 101–508, §7001(b)(2)(B), substituted “(d)(1)” for “(d)”.
+
+Subsec. (j). Pub. L. 101–428, §2(d)(5), substituted “(a)–(i), (n), and (q)” for “(a)–(i) and (n)” in pars. (1) and (2), and in introductory provisions and subpar. (A)(ii) of par. (3).
+
+Subsec. (k)(1). Pub. L. 101–428, §2(d)(5), substituted “(a)–(i), (n), and (q)” for “(a)–(i) and (n)”.
+
+Subsec. (<i>l</i>). Pub. L. 101–428, §2(d)(6), substituted “(a)–(k), (n), and (q)” for “(a)–(k) and (n)”.
+
+Subsec. (m). Pub. L. 101–428, §2(d)(2), substituted “(a)–(e), (n), and (q)” for “(a)–(e) and (n)”.
+
+Subsec. (n). Pub. L. 101–650 amended subsec. (n) generally. Prior to amendment, subsec. (n) read as follows: “The annuity of an employee who is a bankruptcy judge or United States magistrate is computed, with respect to service as a referee in bankruptcy, as a bankruptcy judge, as a United States magistrate, and as a United States commissioner and with respect to the military service of any such individual (not exceeding 5 years) creditable under section 8332 of this title, by multiplying 21/2 percent of the individual's average pay by the years of that service.”
+
+Subsec. (q). Pub. L. 101–428, §2(c)(1), added subsec. (q).
+
+1989—Subsec. (h). Pub. L. 101–194 inserted “, except that such reduction shall not apply in the case of an employee retiring under section 8336(h) for failure to be recertified as a senior executive” before period at end of first sentence.
+
+1987—Subsec. (n). Pub. L. 100–53 amended subsec. (n) generally. Prior to amendment, subsec. (n) read as follows: “The annuity of an employee who is a bankruptcy judge is computed with respect to service after as a referee in bankruptcy and as a bankruptcy judge and his military service (not exceeding five years) creditable under section 8332 of this title by multiplying 21/2 percent of his average annual pay by the years of that service.”
+
+1986—Subsec. (j)(3). Pub. L. 99–251, §203(a), inserted “, unless all rights to survivor benefits for such former spouse under this subchapter based on marriage to such employee or Member were waived under paragraph (1) of this subsection” at end of first sentence.
+
+Subsec. (j)(5)(B). Pub. L. 99–251, §203(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+
+“(B)(i) Any reduction in an annuity for the purpose of providing a survivor annuity for a former spouse of a retired employee or Member shall be terminated for each full month after the former spouse remarries before reaching age 55 or dies, unless the employee or Member elects, within 2 years after the former spouse's death or remarriage, to continue the reduction in order to provide a survivor annuity or increase the survivor annuity for the current spouse of the retired employee or Member.
+
+“(ii) Notwithstanding clause (i) of this subparagraph—
+
+&emsp;“(I) a reduction in an annuity shall not be terminated under such clause, and
+
+&emsp;“(II) an election made under such clause with respect to a current spouse after a remarriage before age 55 or the death of a former spouse shall not be effective,
+
+> if, and to the extent that, continuation of the reduction is necessary in order to provide for any survivor annuity, or any increase in a survivor annuity, which becomes payable under section 8341(h)(2) of this title to any other former spouse as a result of such remarriage or death.”
+
+Subsec. (j)(5)(C)(v), (vi). Pub. L. 99–251, §203(c)(1), added cls. (v) and (vi).
+
+Subsec. (k)(1). Pub. L. 99–251, §203(c)(2), inserted at end “In the case of a married employee or Member, an election under this paragraph on behalf of the spouse may be made only if any right of such spouse to a survivor annuity based on the service of such employee or Member is waived in accordance with subsection (j)(1) of this section.”
+
+Subsec. (k)(2)(B)(i). Pub. L. 99–251, §203(c)(3)(A), substituted provisions directing that the election and reduction shall take effect on the first day of the firstmonth beginning after the expiration of the 9-month period beginning on the date of marriage and that any such election to provide a survivor annuity for a person shall prospectively void any election made by the employee or Member under paragraph (1) of this subsection with respect to such person, or shall, if an election was made by the employee or Member under such paragraph with respect to a different person, prospectively void such election if appropriate written application is made by such employee or Member at the time of making the election under this paragraph, for provisions which directed that the election and reduction had to take effect the first day of the first month beginning 9 months after the date of marriage and would prospectively void any election previously made under paragraph (1) of this subsection.
+
+Subsec. (k)(2)(B)(ii). Pub. L. 99–251, §203(c)(3)(B), struck out “(other than an employee or Member who made a previous election under paragraph (1) of this subsection)” after “retired employee or Member”.
+
+Subsec. (k)(2)(D). Pub. L. 99–251, §203(c)(3)(C), added subpar. (D).
+
+Subsec. (<i>o</i>). Pub. L. 99–272 added subsec. (<i>o</i>), set out second, relating to computation of annuities for part-time service.
+
+Pub. L. 99–251, §307(a), added subsec. (<i>o</i>), set out first, relating to 18-month period for election of survivor annuities.
+
+1984—Subsec. (f). Pub. L. 98–353, §112, substituted “and (n)” for “and (<i>o)”.</i>
+
+Subsec. (g). Pub. L. 98–353, §116(d)(1), (2), inserted “or (n)” after “(c)” in par. (2), and substituted “(c), or (n)” for “or (c)” in two places in provisions following par. (2).
+
+Subsec. (j)(1). Pub. L. 98–615, §2(3)(A), substituted provisions that at the time of retirement an employee's pension will be reduced to provide survivor benefits to the spouse unless the employee or Member and the spouse jointly waive the spouse's right to the survivor annuity in a written statement filed with the Office of Personnel Management which shall be made in accordance with such requirements as prescribed by the Office by regulation and which shall be irrevocable and that the Office, by regulation, must provide that an employee may waive the survivor annuity without the spouse's consent only when the spouse's whereabouts are unknown to the employee or, due to exceptional circumstances it would be inappropriate to require the employee to seek the spouse's consent for provisions that at the time of retirement an employee's pension would be reduced by 21/2 percent of so much thereof as did not exceed $3,600 and by 10 percent of so much thereof as exceeded that amount, unless the employee or member notified the Office of Personnel Management in writing at the time of retirement that he did not desire any surviving spouse to receive an annuity under section 8341(b) of this title, and struck out provisions for the restoration to the employee or Member of his full pension, as if such reduction had not taken place, for each full month in which such employee or Member was not married, and providing the employee or Member a right of irrevocable election of reduction for the benefit of a subsequent spouse, in the event of remarriage, in an amount equal to the prior reduction, to take effect 1 year after remarriage.
+
+Pub. L. 98–353, §112, substituted “and (n)” for “and (<i>o)”.</i>
+
+Subsec. (j)(2). Pub. L. 98–615, §2(3)(A), substituted provision that if an employee or Member has a former spouse who is entitled to a survivor annuity as provided in section 8341(h) of this title, the annuity of the employee or Member computed under subsecs. (a)–(i) and (n) (or any designated portion of the annuity, in the event that the former spouse is entitled to less than 55 percent of the employee or Member's annuity) is reduced as provided in par. (4) for provision that any written notification (or designation) by any employee or Member under the first sentence of par. (1) would not be considered valid unless the employee or Member established to the satisfaction of the Office that the spouse had been notified of the loss of or reduction in survivor benefits or that the employee or Member had complied with such notification requirements as the Office would, by regulation, prescribe.
+
+Subsec. (j)(3) to (5). Pub. L. 98–615, §2(3)(A), added pars. (3) to (5).
+
+Subsec. (k)(1). Pub. L. 98–615, §2(3)(B), substituted “an employee or Member” for “an unmarried employee or Member”.
+
+Pub. L. 98–353, §112, substituted “and (n)” for “and (<i>o)”.</i>
+
+Subsec. (k)(2). Pub. L. 98–615, §2(3)(C), designated existing provisions as subpar. (A), substituted “such employee or Member's spouse” for “his spouse” and “within 2 years after such employee or Member marries or, if later, within 2 years after the death or remarriage of any former spouse of such employee or Member who was entitled to a survivor annuity under section 8341(h) of this title (or of the last such surviving former spouse, if there was more than one), a reduction in the retired employee or Member's current annuity as provided in subsection (j) of this section” for “within 1 year after he marries, a reduction in his current annuity as provided in subsection (j) of this section. The reduced annuity shall be effective the first day of the first month beginning 1 year after the date of marriage. The election voids prospectively any election previously made under paragraph (1) of this subsection”, and added subpars. (B) and (C).
+
+Subsec. (<i>l</i>). Pub. L. 98–353, §112, substituted “and (n)” for “and (<i>o</i>)” in provisions preceding par. (1).
+
+Subsec. (m). Pub. L. 98–353, §112, substituted “and (n)” for “and (<i>o)”.</i>
+
+Subsec. (n). Pub. L. 98–531 substituted “as a referee in bankruptcy and” for “March 31, 1979, and before the date of the enactment of the Bankruptcy Amendments and Federal Judgeship Act of 1984”.
+
+Pub. L. 98–353, §121(f), substituted “the date of enactment of the Bankruptcy Amendments and Federal Judgeship Act of 1984” for “June 28, 1984”.
+
+Pub. L. 98–353, §116(d)(3), substituted “as a referee in bankruptcy and” for “March 31, 1979, and before June 27, 1984,”.
+
+Pub. L. 98–325 substituted “June 28, 1984” for “June 21, 1984”.
+
+Pub. L. 98–299 substituted “June 21, 1984” for “May 26, 1984”.
+
+Pub. L. 98–271 substituted “May 26, 1984” for “April 1, 1984”.
+
+Pub. L. 98–249 which purported to amend subsec. (<i>o</i>) by substituting “May 1, 1984” for “April 1, 1984” was probably intended as an amendment of subsec. (n). See amendment of subsec. (n) by Pub. L. 98–271.
+
+1983—Subsec. (d)(6). Pub. L. 98–94, §1256(e)(1), added par. (6).
+
+Subsec. (h). Pub. L. 98–94, §1256(e)(2), inserted provision that the annuity computed under subsections (a), (d)(6), and (f) of this section for a judge of the United States Court of Military Appeals retiring under the second sentence of section 8336(k) of this title or the third sentence of section 8338(c) of this title is reducted by 1/12 of 1 percent for each full month not in excess of 60 months, and 1/6 of 1 percent for each full month in excess of 60 months, the judge is under 60 years of age at the date of separation.
+
+1982—Subsec. (e). Pub. L. 97–276 inserted “unless such employee has received, pursuant to section 8342 of this title, payment of the lump-sum credit attributable to deductions under section 8334(a) of this title during any period of employment as an air traffic controller and such employee has not deposited in the Fund the amount received, with interest, pursuant to section 8334(d) of this title”.
+
+Subsec. (i). Pub. L. 97–253 redesignated former unnumbered subsection into provisions preceding par. (1) and par. (1) and (2) and completely revised such provisions as so redesignated. Prior to amendment subsec. (i) read as follows: “The annuity computed under subsections (a)–(h) and (<i>o</i>) of this section is reduced by 10 percent of a deposit described by section 8334(c) of thistitle remaining unpaid, unless the employee or Member elects to eliminate the service involved for the purpose of annuity computation.”
+
+1980—Subsec. (g). Pub. L. 96–499 provided for a minimum disability retirement annuity where an employee or Member retiring under section 8337 of this title was receiving retired or retainer pay for military service or a Veterans’ Administration pension or compensation.
+
+Subsec. (j). Pub. L. 96–391 redesignated existing provisions as par. (1) and added par. (2).
+
+1979—Subsec. (d). Pub. L. 96–70 designated existing provisions as par. (1) and added pars. (2) to (4).
+
+Subsec. (d)(5). Pub. L. 96–135, §1(b), added par. (5).
+
+Subsec. (h). Pub. L. 96–135, §1(c), inserted references to subsections (d)(5) and (j) of this section.
+
+Subsecs. (n), (<i>o</i>). Pub. L. 96–54 redesignated subsec. (<i>o</i>) as (n). Former subsec. (n) redesignated (m) by Pub. L. 94–126.
+
+1978—Subsec. (d). Pub. L. 95–256 substituted “(b)” for “(g)”.
+
+Subsec. (f). Pub. L. 95–598, §338(a)(1), inserted reference to subsec. (<i>o</i>) of this section.
+
+Subsec. (h). Pub. L. 95–454, §412(b), substituted “section 8336(d) or (h)” for “section 8336(d)”.
+
+Subsec. (i). Pub. L. 95–598, §338(a)(2), inserted reference to subsec. (<i>o</i>) of this section.
+
+Subsec. (j). Pub. L. 95–598, §338(a)(3), inserted reference to subsec. (<i>o</i>) of this section.
+
+Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+
+Pub. L. 95–317, §1(a), inserted “(or is remarried if there is no election in effect under the following sentence)” after “or Member is not married”, and substituted provisions authorizing, upon remarriage, an irrevocable election in a signed writing received by the Commission within 1 year after remarriage for a reduction and computation of such reduction, for provisions authorizing the annuity, upon remarriage, to be reduced by the same percentage reductions in effect at the time of retirement.
+
+Subsec. (k). Pub. L. 95–454, §906(a)(3), substituted “Office” for “Commission” wherever appearing.
+
+Subsec. (k)(1). Pub. L. 95–598, §338(a)(3), inserted reference to subsec. (<i>o</i>) of this section.
+
+Pub. L. 95–317, §2, inserted provisions relating to recomputation and payment of an annuity reduced under this par. or any similar prior provision of law.
+
+Subsec. (k)(2). Pub. L. 95–317, §1(c), substituted “The reduced annuity shall be effective the first day of the first month beginning 1 year after the date of marriage” for “His reduced annuity is effective the first day of the month after his election is received in the Commission”.
+
+Subsec. (<i>l</i>). Pub. L. 95–598, §338(a)(4), inserted reference to subsec. (<i>o</i>) of this section.
+
+Subsec. (m). Pub. L. 95–598, §338(a)(5), inserted reference to subsec. (<i>o</i>) of this section.
+
+Pub. L. 95–519 inserted provision relating to computation of days of unused sick leave for employees excepted from subchapter I of chapter 63 of this title.
+
+Subsec. (<i>o</i>). Pub. L. 95–598, §338(a)(6), added subsec. (<i>o).</i>
+
+1976—Subsec. (f)(2)(C). Pub. L. 94–397 substituted “8344(d)(1)” for “8344(b)(1)”.
+
+1975—Subsecs. (m), (n). Pub. L. 94–126 struck out subsec. (m) which required that 45 per centum of each year, or fraction thereof, of service referred to in section 8332(b)(6) which was performed prior to the effective date of the National Guard Technicians Act of 1968, be disregarded in determining service for the purpose of computing an annuity under each paragraph of this section, and redesignated subsec. (n) as (m).
+
+1974—Subsec. (d). Pub. L. 93–350 inserted reference to employees retiring under section 8335(g) of this title and substituted a schedule of 21/2 percent of his average pay multiplied by so much of his total service as does not exceed 20 years plus 2 percent of his average pay multiplied by so much of his total service as exceeds 20 years for a schedule of 2 percent of his average pay multiplied by his total service.
+
+Subsec. (f)(2). Pub. L. 93–260 substituted “greatest” for “greater”, redesignated cl. (B) as cl. (C), and added cl. (B).
+
+Subsec. (j). Pub. L. 93–474 inserted provision that an annuity reduced under this subsection or any similar provision of law shall be recomputed and paid as if the annuity had not been so reduced for each full month during which a retired employee or member is not married and that upon marriage the annuity shall be reduced by the same percentage reductions which were in effect at the time of retirement.
+
+1972—Subsec. (e). Pub. L. 92–297, §6(1), (2), added subsec. (e) and redesignated former subsec. (e) as (f).
+
+Subsec. (f). Pub. L. 92–297, §§6(1), 7(3)(A), redesignated former subsec. (e) as (f) and substituted references to subsecs. (a) to (e) for references to subsecs. (a) to (d). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 92–297, §6(1), redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 92–297, §§6(1), 7(3)(B), redesignated former subsec. (g) as (h) and substituted “subsections (a), (b), and (f)”, “subsections (c) and (f)”, and “section 8336(g)” for “subsections (a), (b), and (e)”, “subsections (c) and (e)”, and “section 8336(f)” respectively. Former subsec. (h) redesignated (i).
+
+Subsec. (i). Pub. L. 92–297, §§6(1), 7(3)(C), redesignated former subsec. (h) as (i) and substituted reference to subsections (a)–(h) for reference to subsections (a)–(g). Former subsec. (i) redesignated (j).
+
+Subsec. (j). Pub. L. 92–297, §§6(1), 7(3)(D), redesignated former subsec. (i) as (j) and substituted reference to subsections (a) to (i) for reference to subsections (a) to (h). Former subsec. (j) redesignated (k).
+
+Subsec. (k). Pub. L. 92–297, §§6(1), 7(3)(E), redesignated former subsec. (j) as (k) and substituted “subsections (a)–(i)” and “subsection (j)” for “subsections (a)–(h)” and “subsection (i)”, respectively. Former subsec. (k) redesignated (<i>l).</i>
+
+Subsec. (<i>l</i>). Pub. L. 92–297, §§6(1), 7(3)(F), redesignated former subsec. (k) as (<i>l</i>) and substituted “subsections (a)–(e)” for “subsections (a)–(j)”. Former subsec. (<i>l</i>) redesignated (m).
+
+Subsec. (m). Pub. L. 92–297, §6(1) redesignated former subsec. (<i>l</i>) as (m). Former subsec. (m) redesignated (n).
+
+Subsec. (n). Pub. L. 92–297, §§6(1), 7(3)(G), redesignated former subsec. (m) as (n) and substituted “subsections (a)–(e)” and “subsection (f)” for “subsections (a)–(d)” and “subsection (e)”, respectively.
+
+1971—Subsec. (i). Pub. L. 91–658, §2(a), substituted “any spouse surviving him” for “his spouse”.
+
+Subsec. (j). Pub. L. 91–658, §2(b), designated existing provisions as par. (1) and added par. (2).
+
+1969—Subsec. (b). Pub. L. 91–93, §203(1), substituted “his service as a Congressional employee, his military service not exceeding 5 years,” for “so much of his service as a Congressional employee and his military service as does not exceed a total of 15 years”.
+
+Subsec. (c)(2). Pub. L. 91–93, §203(2), struck out “so much of” and “as does not exceed 15 years” before and after “his Congressional employee service”.
+
+Subsec. (f). Pub. L. 91–93, §203(3), struck out last sentence providing “However, this subsection does not increase the annuity of a survivor.”
+
+Subsec. (i). Pub. L. 91–93, §203(4), struck out “(excluding any increase because of retirement under section 8337 of this title)” after “subsections (a)–(h) of this section”.
+
+Subsec. (m). Pub. L. 91–93, §203(5), added subsec. (m).
+
+1968—Subsec. (<i>l</i>). Pub. L. 90–486 added subsec. (<i>l).</i>
+
+1967—Subsec. (e)(2). Pub. L. 90–206 inserted provision for the use of the final basic pay of the appointive position of a former Member who elects to have his annuity computed or recomputed under section 8344(b)(1) of this title inmaking the determination of the maximum allowable annuity.
+
+#### Change of Name
+
+Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set outas a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 1993 Amendment
+
+Section 11004(c) of Pub. L. 103–66 provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section and sections 8334 and 8418 of this title\] shall take effect on the first day of the first month beginning at least 30 days after the date of the enactment of this Act \[Aug. 10, 1993\] and shall apply to all deposits required under section 8339(j)(3) or (5), 8339(k)(2), or 8418 of title 5, United States Code, on which no payment has been made prior to such effective date.
+
+“(2)
+
+Partial deposit.—For any deposit required under section 8339(j)(3) or (5), 8339(k)(2), or 8418 of title 5, United States Code, or section 4(b) or (c) of the Civil Service Retirement Spouse Equity Act of 1984 \[Pub. L. 98–615\] (5 U.S.C. 8341 note) that has been partially, but not fully, paid before the effective date of this Act \[probably should be “the effective date of the amendments made by this section”\], the Office shall by regulation provide for determining the remaining portion of the deposit and for payment of the remaining portion of the deposit by a prospective reduction in the annuity of the employee or Member. The reduction shall be similar to the reductions provided pursuant to the amendments made under this section.”
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 1990 Amendments
+
+Amendment by Pub. L. 101–650 applicable to judges of, and senior judges in active service with, the United States Court of Federal Claims on or after Dec. 1, 1990, see section 306(f) of Pub. L. 101–650, set out as a note under section 8331 of this title.
+
+Amendment by Pub. L. 101–508 effective with respect to any annuity having a commencement date later than Dec. 1, 1990, see section 7001(b)(3) of Pub. L. 101–508, set out as a note under section 8334 of this title.
+
+Section 2(c)(2) of Pub. L. 101–428 provided that:
+
+“(A) The amendment made by paragraph (1) \[amending this section\] shall take effect 4 years after the date of enactment of this Act \[Oct. 15, 1990\], and shall apply with respect to any annuity, entitlement to which is based on a separation occurring on or after that effective date, subject to subparagraph (B).
+
+“(B) Nothing in this subsection or in the amendment made by this subsection \[amending this section\] shall, with respect to any service performed before the effective date of such amendment, have the effect of reducing the percentage applicable in computing any portion of an annuity based on such service below the percentage which would otherwise apply if this Act had not been enacted.”
+
+#### Effective Date of 1989 Amendment
+
+Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub. L. 101–194, set out as a note under section 3151 of this title.
+
+#### Effective Date of 1987 Amendment
+
+Amendment by Pub. L. 100–53 effective Oct. 1, 1987, and applicable to bankruptcy judges and United States magistrate judges in office on that date and to individuals subsequently appointed to such positions to whom this chapter otherwise applies, see section 3 of Pub. L. 100–53, as amended, set out as a note under section 8331 of this title.
+
+#### Effective Date of 1986 Amendments
+
+Section 15204(b), formerly 15204(c), of Pub. L. 99–272, as redesignated by Pub. L. 99–509, title VII, §7003(b), Oct. 21, 1986, 100 Stat. 1949, provided that: “The amendments made by this section \[amending this section, section 8341 of this title, and former section 4109 of Title 38, Veterans’ Benefits\] shall be effective with respect to service performed on or after the date of the enactment of this Act \[Apr. 7, 1986\].”
+
+Section 203(d) of Pub. L. 99–251 provided that: “The amendments made by this section \[amending this section\] shall take effect May 7, 1985.”
+
+Section 307(b) of Pub. L. 99–251 provided that:
+
+“(1) The amendment made by subsection (a) \[amending this section\] shall take effect 3 months after the date of the enactment of this Act \[Feb. 27, 1986\].
+
+“(2)(A) Subject to subparagraph (B), the amendment made by subsection (a) shall apply with respect to employees and Members who retire before, on, or after such amendment first takes effect.
+
+“(B) For the purpose of applying the provisions of paragraph (1) of section 8339(<i>o</i>) of title 5, United States Code (as added by subsection (a) of this section) to employees and Members who retire before the date on which the amendment made by subsection (a) first takes effect—
+
+&emsp;“(i) the period referred to in subparagraph (A) or (B) of such paragraph (as the case may be) shall be considered to begin on the date on which such amendment first becomes effective; and
+
+&emsp;“(ii) the amount referred to in paragraph (2) of such section 8339(<i>o</i>) shall be computed without regard to the provisions of subparagraph (B)(ii) of such paragraph (relating to interest).
+
+“(3) For purposes of this subsection, the terms ‘employee’ and ‘Member’ each has the meaning given that term in sections 8331(1) and 8331(2) of title 5, United States Code, respectively.”
+
+#### Effective Date of 1984 Amendments
+
+Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions and specific applicability provisions, see section 4(a)(1), (4) of Pub. L. 98–615, as amended, set out as a note under section 8341 of this title.
+
+Amendment by Pub. L. 98–531 effective Mar. 31, 1984, see section 3(b) of Pub. L. 98–531, set out as a note under section 8331 of this title.
+
+Amendment by Pub. L. 98–353 effective July 10, 1984, and applicable to bankruptcy judges who retire on or after such date, see section 116(e) of Pub. L. 98–353, set out as a note under section 8331 of this title. See, also, section 122(a) of Pub. L. 98–353, set out as an Effective Date note under section 151 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 1982 Amendments
+
+Section 151(h)(3) of Pub. L. 97–276 provided that: “The amendment made by subsection 152(f) \[151(f)\] of this joint resolution \[amending this section\] shall take effect on the date of the enactment of this joint resolution \[Oct. 2, 1982\].”
+
+Amendment by Pub. L. 97–253 effective with respect to deposits for service performed, on or after Oct. 1, 1982, and with respect to refunds for which application is received by Office of Personnel Management on or after Oct. 1, 1982, and provisions of section 8339(i) of title 5, as in effect the day before Sept. 7, 1982, to continue to apply with respect to periods of service and refunds occurring on or before Sept. 30, 1982, see section 303(d)(1) of Pub. L. 97–253, as amended by Pub. L. 97–346, §3(j)(1), Oct. 15, 1982, 96 Stat. 1649, set out as a note under section 8334 of this title.
+
+#### Effective Date of 1980 Amendments
+
+Section 404(c) of Pub. L. 96–499 provided that: “The amendments made by this section \[amending this section and section 8347 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1980\].”
+
+Section 3 of Pub. L. 96–391 provided that: “The amendments made by the first section of this Act \[amending this section\] shall take effect with respectto notifications and designations made under the first sentence of section 8339(j) of title 5, United States Code, on or after the ninetieth day after the date of the enactment of this Act \[Oct. 7, 1980\].”
+
+#### Effective Date of 1979 Amendments
+
+Amendment by Pub. L. 96–135 effective Dec. 5, 1979, see section 1(d) of Pub. L. 96–135, set out as a note under section 8336 of this title.
+
+Section 1242(b)(1) of Pub. L. 96–70 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 27, 1979\], but no amount of annuity under chapter 83 of title 5, United States Code, accruing by reason of those amendments shall be payable for any period before October 1, 1979.”
+
+Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
+
+#### Effective Date of 1978 Amendments
+
+Amendment by Pub. L. 95–598 effective Nov. 6, 1978, see section 402(d) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+Amendment by Pub. L. 95–519 applicable only with respect to employees who retire or die on or after Oct. 25, 1978, see section 4(b) of Pub. L. 95–519, set out as a note under section 5551 of this title.
+
+Amendment by section 412(b) of Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
+
+Amendment by section 906(a)(2), (3) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+Amendment by Pub. L. 95–256 effective Sept. 30, 1978, see section 5(f) of Pub. L. 95–256, set out as a note under section 633a of Title 29, Labor.
+
+#### Effective Date of 1978 Amendments; Survivor Annuities Subject to Reduction, Etc.
+
+Section 4 of Pub. L. 95–317 provided that:
+
+“(a) This act \[amending this section and section 8341 of this title and enacting provisions set out as notes under this section\] shall take effect—
+
+&emsp;“(1) the first day of the first month which begins on or after the date of the enactment of this Act \[July 10, 1978\], or
+
+&emsp;“(2) October 1, 1978,
+
+> whichever is later.
+
+“(b) Except as provided under subsection (c) of this section, the amendments made by the first section and section 2 of this Act \[amending this section and section 8341 of this title\] shall apply with respect to annuities which commence before, on, or after the effective date of this Act, but no monetary benefit by reason of such amendments shall accrue for any period before such effective date.
+
+“(c) The amendments made by the first section of this Act \[amending this section and section 8341 of this title\] shall not affect the eligibility of any individual to a survivor annuity under section 8341(b) of title 5, United States Code, or the reduction therefor under section 8339(j) of such title, in the case of an annuitant who remarried before the effective date of this Act, unless the annuitant notifies the Civil Service Commission in a signed writing received in the Commission within one year after the effective date of this Act that such annuitant does not desire the spouse of the annuitant to receive a survivor annuity in the event of the annuitant's death. Such notification shall take effect the first day of the first month after it is received in the Commission.”
+
+#### Effective Date of 1976 Amendment
+
+Amendment by Pub. L. 94–397 effective Oct. 1, 1976, and applicable to annuitants serving in appointive or elective positions on and after such date, see section 2 of Pub. L. 94–397, set out as a note under section 8344 of this title.
+
+#### Effective Date of 1975 Amendment
+
+Amendment by Pub. L. 94–126 effective Jan. 1, 1969, applicable to a person who, on Nov. 12, 1975, is receiving or is entitled to receive benefits under any Federal retirement system and requests in writing the application of the amendment to him by the office administering his retirement system, and additional benefits to commence Dec. 1, 1975, see section 3 of Pub. L. 94–126, set out as a note under section 8334 of this title.
+
+#### Effective Date of 1974 Amendments
+
+Section 2 of Pub. L. 93–474 provided that: “The amendment made by this Act \[amending this section\] shall apply to annuities which commence before, on, or after the date of enactment of this Act \[Oct. 26, 1974\], but no increase in annuity shall be paid for any period prior to the first day of the first month which begins on or after the date of enactment of this Act.”
+
+Amendment by Pub. L. 93–350 effective on July 12, 1974, see section 7 of Pub. L. 93–350, set out as a note under section 3307 of this title.
+
+Section 2(b) of Pub. L. 93–260 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply to annuities paid for months beginning after the date of enactment of this Act \[Apr. 9, 1974\].”
+
+#### Effective Date of 1972 Amendment
+
+Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see section 10 of Pub. L. 92–297, set out as an Effective Date note under section 3381 of this title.
+
+#### Effective Date of 1971 Amendment
+
+Section 5(b) of Pub. L. 91–658 provided that: “The amendments made by section 2(a) and 3 of this Act \[amending this section and section 8341 of this title\] shall not apply in the cases of employees, Members, or annuitants who died before the date of enactment of this Act \[Jan. 8, 1971\]. The rights of such persons and their survivors shall continue in the same manner and to the same extent as if such amendments had not been enacted.”
+
+Section 5(c) of Pub. L. 91–658 provided that: “The amendments made by section 2(b) of this Act \[amending this section\] shall apply to an annuitant who was unmarried at the time of retiring, but who later married, only if the election is made within 1 year after the date of enactment of this Act \[Jan. 8, 1971\].”
+
+#### Effective Date of 1969 Amendment
+
+Amendment by Pub. L. 91–93 inapplicable in cases of persons retired or otherwise separated prior to Oct. 20, 1969, their rights and of their survivors continued as if such amendment had not been enacted, see section 207(a) of Pub. L. 91–93, set out as a note under section 8331 of this title.
+
+#### Effective Date of 1968 Amendment
+
+Amendment by Pub. L. 90–486 effective Jan. 1, 1969, except that no deductions or withholding from salary which result therefrom shall commence before first day of first pay period that begins on or after Jan. 1, 1968, see section 11 of Pub. L. 90–486, set out as a note under section 709 of Title 32, National Guard.
+
+#### Effective Date of 1967 Amendment
+
+Amendment by Pub. L. 90–206 effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as an Effective Date note under section 3110 of this title.
+
+#### Individuals Entitled to Annuity Payments for Period Prior to October 1, 1979
+
+Section 1242(b)(2) of Pub. L. 96–70 provided that: “Effective October 1, 1979, any individual who, but forparagraph (1) of this subsection \[set out as an Effective Date of 1979 Amendment note above\], would have been entitled to one or more annuity payments pursuant to the amendments made by this section \[amending this section\] for periods before October 1, 1979, shall be entitled, to such extent or in such amounts as are provided in advance in appropriation Acts, to a lump sum payment equal to the total amount of all such annuity payments.”
+
+#### Annual Notice to Annuitant of Rights of Election Under Subsecs. (j) and (k)(2) of This Section
+
+Section 3 of Pub. L. 95–317, as amended by 1978 Reorg. Plan No. 2, §102, 43 F.R. 36037, 92 Stat. 3783, provided that: “The Director of the Office of Personnel Management shall, on an annual basis, inform each annuitant of such annuitant's rights of election under sections 8339(j) and 8339(k)(2) of title 5, United States Code.”
+
+#### Increase in Annuity for Employees or Members Separated From Civil Service Prior to Oct. 20, 1969
+
+Section 2(a) of Pub. L. 93–273, Apr. 26, 1974, 88 Stat. 93, provided that: “An annuity payable from the Civil Service Retirement and Disability Fund to a former employee or Member, which is based on a separation occurring prior to October 20, 1969, is increased by $240.”
+
+Section 3 of Pub. L. 93–273 provided in part that annuity increases under this provision shall apply to annuities which commence before, on, or after Apr. 26, 1974, but that no increase in annuity shall be paid for any period prior to the first day of the first month which begins on or after the ninetieth day after Apr. 26, 1974, or the date on which the annuity commences, whichever is later. See section 3 of Pub. L. 93–273, set out as a note under section 8345 of this title.
+
+#### 1970 Increase in Pay Rates of Certain Employees of the Legislative Branch
+
+Adjustment by the President pro tempore of the Senate with respect to the United States Senate, by the Finance Clerk of the House of Representatives with respect to the United States House of Representatives, and by the Architect of the Capitol with respect to the Office of the Architect of the Capitol, effective on the first day of the first pay period which begins on or after Dec. 27, 1969, of the rates of pay of employees of the legislative branch subject to section 214 of Pub. L. 90–206 with certain exceptions, by the amounts of the adjustment for corresponding rates for employees subject to the General Schedule, set out in section 5332 of this title, which had been made by section 2 of Pub. L. 91–231 raising such rates by 6 percent, see Pub. L. 91–231, set out as a note under section 5332 of this title.
+
+#### 1967 Increase in Compensation as Part of Basic Pay Rate
+
+Section 214(d) of Pub. L. 90–206, title II, Dec. 16, 1967, 81 Stat. 636, providing for the inclusion of the additional compensation pursuant to section 214 of Pub. L. 90–206 as part of basic pay for purposes of civil service retirement, was repealed by section 7(a)(4) of Pub. L. 90–623, Oct. 22, 1968, 82 Stat. 1315, except with respect to rights and duties which matured, penalties that were incurred, and proceedings that were begun before Oct. 22, 1968.
+
+#### 1962 Increase in Annuities
+
+Section 1101 of Pub. L. 87–793, Oct. 11, 1962, 76 Stat. 868, provided that:
+
+“(a) The annuity of each person who, on the effective date of this section \[Jan. 1, 1963\], is receiving or entitled to receive an annuity from the civil service retirement and disability fund shall be increased by 5 per centum of the amount of such annuity.
+
+“(b) The annuity of each person who receives or is entitled to receive an annuity from the civil service retirement and disability fund commencing during the period which begins on the day following the effective date of this section \[Jan. 1, 1963\] and ends five years after such date, shall be increased in accordance with the following table:
+
+&nbsp;
+
+| <i>“If the annuity commences between—</i> | <i>The annuity shall be increased by—</i> |
+| :--- | ---: |
+| “January 2, 1963, and December 31, 1963 | 4 per centum |
+| “January 1, 1964, and December 31, 1964 | 3 per centum |
+| “January 1, 1965, and December 31, 1965 | 2 per centum |
+| “January 1, 1966, and December 31, 1966 | 1 per centum |
+
+“(c) In lieu of any other increase provided by this section, the annuity of a survivor of a retired employee or Member of Congress who received an increase under this section shall be increased by a percentage equal to the percentage by which the annuity of such employee or Member was so increased.
+
+“(d) No increase provided by this section shall be computed on any additional annuity purchased at retirement by voluntary contributions.
+
+“(e) The limitation reading ‘or (3) the sum necessary to increase such annuity, exclusive of annuity purchased by voluntary contributions under the second paragraph of section 10 of this Act, to $2,160’ contained in section 8(c)(1) of the Civil Service Retirement Act of May 29, 1930, as amended by the Acts of July 16, 1952 (66 Stat. 722; Public Law 555, Eighty-second Congress), and August 31, 1954 (68 Stat. 1043; Public Law 747, Eighty-third Congress), shall not be effective on or after the effective date of this section \[Jan. 1, 1963\].
+
+“(f) The limitation contained in the next to the last sentence of section 8(d)(1) of the Civil Service Retirement Act of May 29, 1930, as amended, as enacted by the Act of August 11, 1955 (69 Stat. 692; Public Law 369, Eighty-fourth Congress) shall not be effective on and after the effective date of this section \[Jan. 1, 1963\].
+
+“(g) The increases provided by this section shall take effect on the effective date of this section \[Jan. 1, 1963\], except that any increase under subsection (b) or (c) shall take effect on the beginning date of the annuity.
+
+“(h) The monthly installment of annuity after adjustment under this section shall be fixed at the nearest dollar”.
+
+Section 1104 of Pub. L. 87–793 provided in part that section 1101 of Pub. L. 87–793 shall take effect on January 1, 1963.
+
+#### 1958 Increase in Annuities
+
+Pub. L. 85–465, June 25, 1958, 72 Stat. 218, as amended by Pub. L. 86–604, §3(a), July 7, 1960, 74 Stat. 359; Pub. L. 87–114, July 31, 1961, 75 Stat. 241, provided:
+
+“That (a) the annuity of each retired employee or Member of Congress who, on August 1, 1958, is receiving or entitled to receive an annuity from the civil service retirement and disability fund based on service which terminated prior to October 1, 1956, shall be increased by 10 per centum, but no such increase shall exceed $500 per annum.
+
+“(b) The annuity otherwise payable from the civil service retirement and disability fund to—
+
+&emsp;“(1) each survivor who on August 1, 1958, is receiving or entitled to receive an annuity based on service which terminated prior to October 1, 1956, and
+
+&emsp;“(2) each survivor of a retired employee or Member of Congress described in subsection (a) of this section,
+
+> shall be increased by 10 per centum. No increase provided by this subsection shall exceed $250 per annum.
+
+“(c) No increase provided by this section shall be computed on any additional annuity purchased at retirement by voluntary contributions.
+
+“
+
+Sec. 2. The unmarried widow or widower of an employee—
+
+&emsp;“(1) who had completed at least ten years of service creditable for civil service retirement purposes.
+
+&emsp;“(2) who (A) died February 29, 1948, or (B), if retired under the Alaska Railroad Retirement Act of June 29, 1936, as amended, or under sections 91 to 107, inclusive, of title 2 of the Canal Zone Code, approved June 19, 1934, as amended, died before April 1, 1948; and
+
+&emsp;“(3) who was at the time of his death
+
+&emsp;&emsp;(A) subject to an Act under which annuities granted before February 20, 1948, were or are now payable from the civil service retirement and disability fund or (B) retired under such an Act,
+
+&emsp;&emsp;(B) etc.
+
+> &emsp;shall be entitled to receive an annuity. In order to qualify for such annuity, the widow or widower shall have been married to the employee for at least five years immediately prior to his death and must be not entitled to any other annuity from the civil service retirement and disability fund based on the service of such employee. Such annuity shall be equal to one-half of the annuity which the employee was receiving on the date of his death if retired, or would have been receiving if he had been retired for disability on the date of his death, but shall not exceed $750 per annum and shall not be increased by the provisions of this or any other prior law. Any annuity granted under this section shall cease upon the death or remarriage of the widow or widower.
+
+“
+
+Sec. 3. (a) An increase in annuity provided by subsection (a), or clause (1) of subsection (b), of the first section of this Act shall take effect on August 1, 1958. An increase in annuity provided by clause (2) of such subsection (b) shall take effect on the commencing date of the survivor annuity.
+
+“(b) An annuity provided by section 2 of this Act shall commence on August 1, 1958, or on the first day of the month in which application for such annuity is received in the Civil Service Commission, whichever occurs later.
+
+“
+
+Sec. 4. Notwithstanding any other provision of law, the annuities and increases in annuities provided by the preceding sections of this Act shall be paid from the civil service retirement and disability fund.
+
+“(c) The monthly installment of each annuity increased or provided by this Act shall be fixed at the nearest dollar.
+
+“
+
+Sec. 5. (a) The amendments made by section 401 of the Civil Service Retirement Act Amendments of 1956 (70 Stat. 743–760; 5 U.S.C. 2251–2267) \[amending provisions covered by this subchapter\] may apply at the option of any employee who, prior to July 31, 1956, was separated from the service under the automatic separation provisions of the Civil Service Retirement Act \[this subchapter\] but whose separation would not have taken effect until after July 30, 1965, if he had been permitted to remain in the service until the expiration of any accumulated or current accrued annual leave to his credit at the time of his separation from the service. Such option shall be exercised by a writing received in the Civil Service Commission before January 1, 1959.
+
+“(b) No increase in annuity provided by this Act or any prior provision of law shall apply in the case of any retired employee who exercises the option permitted by subsection (a) of this section.”
+
+#### 1962 and 1958 Increases in Annuities; Clarification
+
+Pub. L. 89–17, May 1, 1965, 79 Stat. 109, provided: “That for the purposes of section 1(a) of the Act of June 25, 1958 (Public Law 85–465) \[1958 Increase in Annuities note set out above\], and section 1101(a) of the Act of October 11, 1962 (Public Law 87–793) \[1962 Increase in Annuities note set out under this section\], the words ‘entitled to receive an annuity’ shall, from and after the respective effective dates (August 1, 1958, and January 1, 1963) of the annuity increases provided by such Acts, not include any person whose annuity commencing date occurs after the effective date of the annuity increase involved.”
+
+#### Payment of Annuities to Certain Unremarried Widows or Widowers of Employees Retired Under Railroad Retirement Act or Canal Zone Code
+
+Section 3(b), (c) of Pub. L. 86–604, July 7, 1960, 74 Stat. 359, made section 4 of act June 25, 1958, set out in the 1958 Increase in Annuities note under this section, applicable to annuities authorized by section 2(2)(B) of act June 25, 1958, and provided that such annuities should commence Aug. 1, 1958, or on the first day of the month in which application therefor was received in the Civil Service Commission, whichever occurred later.
+
+#### Estimates of Appropriations for Reimbursing Fund for Amounts Paid Under 1958 Increase in Annuities
+
+Pub. L. 91–93, title I, §105, Oct. 20, 1969, 83 Stat. 138, repealed part of Pub. L. 87–141, title I, §101, Aug. 17, 1961, 75 Stat. 345, which required the Civil Service Commission to include annually in its estimates to the Bureau of the Budget, estimates of appropriations necessary to reimburse the civil service retirement and disability fund for amounts paid out of the fund by reason of enactment of Pub. L. 85–465, set out in the 1958 Increase in Annuities note under this section, and the Bureau of the Budget to submit such estimates annually to the Congress.
+
+#### Annuity of Director of FBI
+
+Pub. L. 86–734, §5, Sept. 8, 1960, 74 Stat. 868, provided that: “Any person who shall retire for age after serving at least thirty years as Director of the Federal Bureau of Investigation shall receive an annuity during the remainder of his life equal to the salary payable to him at the time of his retirement.”
+
+#### National Guard Technicians
+
+Amendment by Pub. L. 90–486 not applicable to persons employed prior to Jan. 1, 1969, whose employment was covered by the civil service retirement provisions of section 8331 et seq. of this title, see section 5(d) of Pub. L. 90–486, set out as a note under section 709 of Title 32, National Guard.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6129, 8332, 8334, 8336, 8337, 8338, 8341, 8342, 8343a, 8344, 8348, 8901, 8905 of this title; title 10 sections 1450, 1452; title 22 sections 3671, 3691, 4045, 4046, 4069–1; title 38 section 7426; title 50 section 403r.
+

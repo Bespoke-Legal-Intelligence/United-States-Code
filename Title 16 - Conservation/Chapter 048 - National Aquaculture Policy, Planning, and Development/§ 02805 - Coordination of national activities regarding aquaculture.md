@@ -1,0 +1,76 @@
+### §2805. Coordination of national activities regarding aquaculture
+
+#### (a) Establishment
+
+There is established within the Office of Science and Technology Policy an interagency aquaculture coordinating group that shall, subject to subsection (f) of this section, operate as a Joint Subcommittee on Aquaculture of the Federal Coordinating Council on Science, Engineering, and Technology (hereinafter in this section referred to as the “Federal Council”) established by Executive Order 12039, dated February 24, 1978. The coordinating group shall be composed of the following members or their designees:
+
+&emsp;(1) The Secretary of Agriculture, who shall be the permanent chairman of the coordinating group.
+
+&emsp;(2) The Secretary of Commerce.
+
+&emsp;(3) The Secretary of the Interior.
+
+&emsp;(4) The Secretary of Energy.
+
+&emsp;(5) The Secretary of Health and Human Services.
+
+&emsp;(6) The Administrator of the Environmental Protection Agency.
+
+&emsp;(7) The Chief of Engineers.
+
+&emsp;(8) The Administrator of the Small Business Administration.
+
+&emsp;(9) The Administrator of the Agency for International Development.
+
+&emsp;(10) The Chairman of the Tennessee Valley Authority.
+
+&emsp;(11) The Director of the National Science Foundation.
+
+&emsp;(12) The Governor of the Farm Credit Administration.
+
+&emsp;(13) The heads of such other Federal agencies as are deemed appropriate by the Director of the Office of Science and Technology Policy (hereinafter in this section referred to as the “Director”), after consultation with the coordinating group.
+
+#### (b) Purpose and functions
+
+The purpose of the coordinating group is to increase the overall effectiveness and productivity of Federal aquaculture research, transfer, and assistance programs. In fulfilling this purpose the coordinating group shall—
+
+&emsp;(1) review the national needs for aquaculture research, transfer, and assistance;
+
+&emsp;(2) assess the effectiveness and adequacy of Federal efforts to meet those national needs;
+
+&emsp;(3) undertake planning, coordination, and communication among Federal agencies engaged in the science, engineering, and technology of aquaculture;
+
+&emsp;(4) collect, compile, and disseminate information on aquaculture;
+
+&emsp;(5) encourage joint programs among Federal agencies in areas of mutual interest; and
+
+&emsp;(6) recommend to the Federal Council specific actions on issues, problems, plans, and programs in aquaculture.
+
+#### (c) Reports
+
+The coordinating group shall regularly report to the Chairman of the Federal Council on the coordinating group's activities and on recommendations concerning Federal policies and programs related to aquaculture.
+
+#### (d) Federal consistency
+
+Each Federal department and agency that has functions or responsibilities with respect to aquaculture or has jurisdiction over any activity that affects, or that may affect, the achievement of the purpose and policy of this chapter, shall, in consultation with the coordinating group and to the maximum extent practicable, perform such function, responsibility, or activity in a manner that is consistent with the purpose and policy of this chapter.
+
+#### (e) Functions if Federal Council terminated
+
+If at any time after September 26, 1980, the functions of the Federal Council are by executive action terminated or transferred to an agency other than the Office of Science and Technology Policy, the coordinating group shall carry out its purpose under the direction of the Director. In that event, the recommendations of the coordinating group referred to in subsection (b)(6) of this section and the reports required under subsection (c) of this section shall be made to the Director.
+
+(Pub. L. 96–362, §6, Sept. 26, 1980, 94 Stat. 1203; Pub. L. 99–198, title XVII, §1736, Dec. 23, 1985, 99 Stat. 1643.)
+
+#### References in Text
+
+Executive Order 12039, dated February 24, 1978, referred to in subsec. (a), is Ex. Ord. No. 12039, Feb. 24, 1978, 43 F.R. 8095, which is set out as a note under section 6601 of Title 42, The Public Health and Welfare.
+
+#### Amendments
+
+1985—Subsec. (a)(1). Pub. L. 99–198, §1736(1), inserted “, who shall be the permanent chairman of the coordinating group”.
+
+Subsecs. (c) to (f). Pub. L. 99–198, §1736(2)–(4), struck out subsec. (c) which provided that each of the Secretaries or their designees, on such rotating basis as determined by the Director, shall serve as the chairman of the coordinating group, with the term of office of the chairman set at two years, redesignated subsecs. (d) to (f) as (c) to (e), respectively, and in subsec. (e), as redesignated, substituted “subsection (c) of this section” for “subsection (d) of this section”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2802 of this title; title 7 section 3322.
+

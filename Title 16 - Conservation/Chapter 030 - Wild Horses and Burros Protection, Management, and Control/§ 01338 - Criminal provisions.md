@@ -1,0 +1,30 @@
+### §1338. Criminal provisions
+
+#### (a) Violations; penalties; trial
+
+Any person who—
+
+&emsp;(1) willfully removes or attempts to remove a wild free-roaming horse or burro from the public lands, without authority from the Secretary, or
+
+&emsp;(2) converts a wild free-roaming horse or burro to private use, without authority from the Secretary, or
+
+&emsp;(3) maliciously causes the death or harassment of any wild free-roaming horse or burro, or
+
+&emsp;(4) processes or permits to be processed into commercial products the remains of a wild free-roaming horse or burro, or
+
+&emsp;(5) sells, directly or indirectly, a wild free-roaming horse or burro maintained on private or leased land pursuant to section 1334 of this title, or the remains thereof, or
+
+&emsp;(6) willfully violates a regulation issued pursuant to this chapter,
+
+> shall be subject to a fine of not more than $2,000, or imprisonment for not more than one year, or both. Any person so charged with such violation by the Secretary may be tried and sentenced by any United States commissioner or magistrate judge designated for that purpose by the court by which he was appointed, in the same manner and subject to the same conditions as provided for in section 3401 of title 18.
+
+#### (b) Arrest; appearance for examination or trial; warrants: issuance and execution
+
+Any employee designated by the Secretary of the Interior or the Secretary of Agriculture shall have power, without warrant, to arrest any person committing in the presence of such employee a violation of this chapter or any regulation made pursuant thereto, and to take suchperson immediately for examination or trial before an officer or court of competent jurisdiction, and shall have power to execute any warrant or other process issued by an officer or court of competent jurisdiction to enforce the provisions of this chapter or regulations made pursuant thereto. Any judge of a court established under the laws of the United States, or any United States magistrate judge may, within his respective jurisdiction, upon proper oath or affirmation showing probable cause, issue warrants, in all such cases.
+
+(Pub. L. 92–195, §8, Dec. 15, 1971, 85 Stat. 650; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+
+#### Change of Name
+
+“United States magistrate judge” and “magistrate judge” substituted for “United States magistrate” and “magistrate”, respectively, in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+

@@ -1,0 +1,74 @@
+### §46311. Unlawful disclosure of information
+
+(a)
+
+Criminal Penalty.—The Secretary of Transportation, the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator, or an officer or employee of the Secretary or Administrator shall be fined under title 18, imprisoned for not more than 2 years, or both, if the Secretary, Administrator, officer, or employee knowingly and willfully discloses information that—
+
+&emsp;(1) the Secretary, Administrator, officer, or employee acquires when inspecting the records of an air carrier; or
+
+&emsp;(2) is withheld from public disclosure under section 40115 of this title.
+
+(b)
+
+Nonapplication.—Subsection (a) of this section does not apply if—
+
+&emsp;(1) the officer or employee is directed by the Secretary or Administrator to disclose information that the Secretary or Administrator had ordered withheld; or
+
+&emsp;(2) the Secretary, Administrator, officer, or employee is directed by a court of competent jurisdiction to disclose the information.
+
+(c)
+
+Withholding Information From Congress.—This section does not authorize the Secretary or Administrator to withhold information from a committee of Congress authorized to have the information.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1239.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+46311(a), (b)
+
+49 App.:1472(f) (words before proviso).
+
+Aug. 23, 1958, Pub. L. 85–726, §902(f), 72 Stat. 785.
+
+&nbsp;
+
+49 App.:1551(b) (1)(E).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
+
+46311(c)
+
+49 App.:1472(f) (proviso).
+
+&nbsp;
+
+49 App.:1551(b) (1)(E).
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+In this section, the word “Administrator” in section 902(f) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 785) is retained on authority of 49:106(g).
+
+In subsection (a), before clause (1), the words “fined under title 18” are substituted for “a fine of not more than $5,000” for consistency with title 18. The words “upon conviction thereof be subject for each offense” are omitted as surplus. The words “any fact or” are omitted as being included in “information”. In clause (1), the words “the Secretary, Administrator, officer, or employee acquires” are substituted for “may come to his knowledge” for clarity and consistency.
+
+In subsection (b)(2), the words “or a judge thereof” are omitted as surplus.
+
+In subsection (c), the word “duly” is omitted as surplus.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 106 of this title.
+

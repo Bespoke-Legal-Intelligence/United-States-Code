@@ -1,0 +1,8 @@
+### §3435. Recordkeeping; audit and examination; access to books and records
+
+(a) Each local unit of government or State agency receiving assistance under this subchapter shall keep such records as the Secretary requires, including records which fully disclose the amount and disposition by such unit or agency of the proceeds of such grants, the total cost of the projects or undertakings in connection with which such funds are given or used, and the amount of that portion of the costs of the projects or undertakings supplied by other sources, and such other records as will facilitate an effective audit.
+
+(b) The Secretary and the Comptroller General of the United States or any of their duly authorized representatives shall have access for the purpose of audit and examination to any books, documents, papers, and records of each local unit of government or State agency that are pertinent to the grants under this subchapter.
+
+(Pub. L. 97–98, title XV, §1518, Dec. 22, 1981, 95 Stat. 1335.)
+

@@ -1,0 +1,6 @@
+### §502. Completion of organization
+
+A majority of the persons named in section 501 of this title, or their successors, are hereby authorized to meet to complete the organization of the corporation by the adoption of a constitution and bylaws, the election of officers, and by doing all things necessary to carry into effect the provisions of this chapter.
+
+(July 19, 1954, ch. 536, §2, 68 Stat. 490.)
+

@@ -1,0 +1,72 @@
+### §1. Service created; director; other employees
+
+There is created in the Department of the Interior a service to be called the National Park Service, which shall be under the charge of a director. The Secretary of the Interior shall appoint the director, and there shall also be in said service such subordinate officers, clerks, and employees as may be appropriated for by Congress. The service thus established shall promote and regulate the use of the Federal areas known as national parks, monuments, and reservations hereinafter specified, except such as are under the jurisdiction of the Secretary of the Army, as provided by law, by such means and measures as conform to the fundamental purpose of the said parks, monuments, and reservations, which purpose is to conserve the scenery and the natural and historic objects and the wild life therein and to provide for the enjoyment of the same in such manner and by such means as will leave them unimpaired for the enjoyment of future generations.
+
+(Aug. 25, 1916, ch. 408, §1, 39 Stat. 535; Ex. Ord. No. 6166, §2, June 10, 1933; Mar. 2, 1934, ch. 38, §1, 48 Stat. 389; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
+
+#### Codification
+
+Provisions relating to the pay of the Director and other employees have been omitted as the pay of the Director is prescribed by section 5316 of Title 5, Government Organization and Employees, and the pay of the other employees is fixed pursuant to chapter 51 and subchapter III of chapter 53 of Title 5.
+
+#### Change of Name
+
+Office of National Parks, Buildings, and Reservations designated National Park Service by act Mar. 2, 1934, ch. 38, §1, 48 Stat. 389.
+
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+
+#### Short Title of 1983 Amendment
+
+Pub. L. 98–141, §1, Oct. 31, 1983, 97 Stat. 909, provided: “That this Act \[amending sections 459b–8, 459g–7, and 460x–14 of this title and sections 872, 874, 875, 880, and 885 of Title 40, Public Buildings, Property, and Works, repealing section 433e of this title, and amending provisions set out as a note under section 433c of this title\] may be cited as the ‘Public Lands and National Parks Act of 1983’.”
+
+#### Short Title of 1978 Amendment
+
+Pub. L. 95–625, §1, Nov. 10, 1978, 92 Stat. 3467, provided that: “This Act \[enacting chapter 45 and sections 45f, 230 to 230i, 241g, 396d, 410y–1a, 441e–1, 459c–6b, 460m–15 to 460m–25, 460kk, 471i, and 1285a of this title, amending sections 1a–5, 1a–7, 273f, 282c, 283e, 397 to 397d, 410y–6, 410z, 410z–1, 430mm, 450mm–1, 450qq–4, 459c–1, 459c–5, 459e, 459e–1, 459e–6, 459e–9, 459h–10, 459i, 459i–9, 460<i>l</i>–8, 460m–14, 460<i>o</i>–1, 460q–9, 460u–9, 460aa–12, 460bb–1 to 460bb–4, 460ff–1, 460ff–3, 460ff–5, 460gg, 463, 469c, 470t, 698m, 1241, 1242, 1244 to 1247, 1249, 1273, 1274, 1276, 1277, 1283, and 1287 of this title, repealing sections 45a–3 and 688 of this title, enacting provisions set out as notes under sections 1a–5, 45a–1, 45f, 410z, 430nn, 430<i>oo</i>, 431, 461, 602, 688, 1246, 1274, and 2501 of this title, and amending provisions set out as notes under sections 431, 433c, 450bb, 461, and 1132 of this title\] may be cited as the ‘National Parks and Recreation Act of 1978’.”
+
+#### Short Title of 1970 Amendment
+
+Pub. L. 91–383, Aug. 18, 1970, 84 Stat. 825, as amended, which enacted sections 1a–1 to 1a–7 of this title, amended sections 1b, 1c, 17j, 460n–5, 463, 470a, and 559 of this title, and repealed sections 10, 10a, 17b–1, and 415 of this title, is popularly known as the “National Park System General Authorities Act”.
+
+#### Short Title
+
+Act of August 25, 1916, ch. 408, 39 Stat. 535, as amended, which is classified generally to this section and sections 2, 3, and 4 of this title, is popularly known as the “National Park Service Organic Act”.
+
+#### Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+
+Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator, and functions of Commissioner of Public Buildings, and Public Buildings Administration, transferred to Administrator of General Services by act June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380. Federal Works Agency, Office of Federal Works Administrator, Office of Commissioner of Public Buildings, and Public Building Administration abolished by section 103(b) of that act. Section 103 is classified to section 753 of Title 40, Public Buildings, Property, and Works.
+
+Branch of Buildings Management of National Park Service in Department of the Interior and its functions and personnel, except those relating to monuments and memorials, and certain functions of National Park Service in connection with public buildings in District of Columbia, together with personnel engaged exclusively in such functions, transferred to Public Buildings Administration, and functions of Secretary of the Interior and Director of National Park Service relating thereto transferred to Federal Works Administrator by Reorg. Plan No. I of 1939, §§301, 303, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1427, set out in the Appendix to Title 5.
+
+Mount Rushmore National Memorial Commission and its functions transferred to National Park Service by Reorg. Plan No. II of 1939, §4(i), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1434, set out in the Appendix to Title 5.
+
+Functions of administration of public buildings, reservations, national parks, national monuments, and national cemeteries, including those with respect to enumerated national cemeteries and parks of War Department located within continental limits of United States, consolidated, with certain exceptions, in National Park Service in Department of the Interior by Ex. Ord. No. 6166, set out as a note under section 901 of Title 5. Cemeteries and parks located outside of continental United States remained under War Department.
+
+#### National Park Police Drug Enforcement Supplemental Authority Act
+
+Pub. L. 99–570, title V, subtitle B (§§5051, 5052), Oct. 27, 1986, 100 Stat. 3207–156, as amended by Pub. L. 100–690, title VI, §6254(d)(2), Nov. 18, 1988, 102 Stat. 4365, provided that:
+
+#### “SEC. 5051. SHORT TITLE.
+
+“This subtitle may be cited as the ‘National Park Police Drug Enforcement Supplemental Authority Act’.
+
+#### “SEC. 5052. NATIONAL PARK AUTHORIZATION.
+
+“In order to improve Federal law enforcement activities relating to the use and production of narcotics and controlled substances in National Park System units, from amounts appropriated there shall be made available to the Secretary of the Interior, in addition to sums made available under other authority of law, $3,000,000 for fiscal year 1989, and for each fiscal year thereafter, to be used for the employment and training of officers or employees of the Department of the Interior designated pursuant to section 10(b) of the Act of August 18, 1970 (16 U.S.C. 1a–6), for equipment and facilities to be used by such personnel, and for expenses related to such employment, training, equipment, and facilities.”
+
+#### Codification of Laws Relating to United States Park Police; Feasibility Study and Report by Secretary of the Interior
+
+Pub. L. 94–533, §3, Oct. 17, 1976, 90 Stat. 2494, directed Secretary of the Interior to submit to Congress not later than one year after Oct. 17, 1976, a report on feasibility and desirability of enacting as a part of United States Code those provisions concerning powers, duties, functions, salaries, and benefits of officers and members of the United States Park Police force which presently are contained in several statutes and are compiled in District of Columbia Code.
+
+#### National Park Centennial Commission
+
+Pub. L. 91–332, July 10, 1970, 84 Stat. 427, provided that 1972 was to be designated by President as “National Parks Centennial Year”, in recognition in 1872 of establishment of world's first national park at Yellowstone. There was also established a National Park Centennial Commission, composed of four members of Senate, four members of House, Secretary of the Interior, and six persons to be appointed by President. The Commission was empowered to prepare a suitable plan for commemoration of establishment of Yellowstone, to coordinate all activities under such plan, and to provide host services for a world conference on National Parks in 1972. The Commission was to submit a final report of its activities, including an accounting of funds received and expended, to Congress, not later than Dec. 31, 1973, and was to cease to exist upon submission of said report.
+
+#### Cross References
+
+Uniform application of this section to all areas of national park system when not in conflict with specific provisions applicable to an area, see section 1c of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1a–1, 1c, 3, 4, 20, 20f, 21b, 45f, 79i, 80d, 81g, 81h, 90c, 108, 111c, 119, 158, 159b, 160f, 197, 201b, 205a, 221b, 222, 230e, 231c, 245, 254, 264, 271d, 272d, 273d, 281d, 282a, 283c, 284a, 291b, 342, 345, 346a–2, 355a, 391b–1, 396b, 396d, 397d, 398c, 401, 403–3, 403b, 404b, 406d–2, 407a, 407q, 408b, 409e, 410b, 410r–7, 410w, 410y–5, 410z–4, 410aa–2, 410bb–1, 410ee, 410ff–3, 410gg–2, 410hh–2, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410mm–1, 410nn–1, 410<i>oo</i>–3, 410pp–2, 410qq–2, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410vv–2, 410ww–4, 410xx–1, 410yy–2, 410aaa–2, 410aaa–23, 410aaa–46, 410bbb–2, 410ccc–2, 423h–2, 423<i>l</i>, 423<i>o</i>, 426m, 428d–3, 428<i>o</i>, 429a–2, 430m, 430w, 430cc, 430hh, 430<i>ll</i>, 430ss, 430uu–2, 433b, 433j, 441c, 442, 445c, 447c, 450, 450e–1, 450n, 450q, 450t, 450y–1, 450y–6, 450bb–1, 450cc–1, 450dd–1, 450ee–1, 450ff–2, 450hh–2, 450jj–5, 450mm–3, 450<i>oo</i>–9, 450pp–1, 459a–1, 459b–6, 459c–6, 459d–4, 459h–4, 459i–5, 459j–4, 460, 460a–2, 460m–5, 460m–12, 460m–15, 460s–5, 460w–5, 460x–5, 460bb–3, 460cc–2, 460dd–3, 460ee, 460ff–3, 460hh–3, 460ii–2, 460kk, 460uu–2, 460ww–1, 460yy–1, 460eee–1, 460fff–1, 467b, 698c, 698i, 698n, 698r, 1133, 1902, 3125 of this title; title 30 section 1014; title 36 section 4614; title 40 sections 319c, 803, 804; title 48 section 1705.
+

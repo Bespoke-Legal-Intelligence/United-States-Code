@@ -1,0 +1,16 @@
+### §2166. Applicability of other laws
+
+(a) Sections 2161 to 2165 of this title shall not exclude the applicable provisions of any other laws, except that no Government agency shall take any action under such other laws inconsistent with the provisions of those sections.
+
+(b) The Commission shall have no power to control or restrict the dissemination of information other than as granted by this or any other law.
+
+(Aug. 1, 1946, ch. 724, title I, §146, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 943; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 1810(b)(6) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+
+#### Transfer of Functions
+
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+

@@ -1,0 +1,14 @@
+### §153. Penalty for use of unlawful towline
+
+The master of the towing vessel shall be liable to the suspension or revocation of his license for any willful violation of regulations issued pursuant to section 152 of this title in the manner prescribed for incompetency, misconduct, or unskillfulness.
+
+(May 28, 1908, ch. 212, §15, 35 Stat. 429.)
+
+#### Codification
+
+Section was not enacted as part of act June 7, 1897, ch. 4, 30 Stat. 96, which comprises a major part of this chapter.
+
+#### Cross References
+
+Suspension or revocation of master's license, see section 7703 of Title 46, Shipping.
+

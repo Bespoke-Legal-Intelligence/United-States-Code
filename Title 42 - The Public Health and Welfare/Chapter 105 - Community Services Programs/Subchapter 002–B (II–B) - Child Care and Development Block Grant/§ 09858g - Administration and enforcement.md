@@ -1,0 +1,52 @@
+### §9858g. Administration and enforcement
+
+#### (a) Administration
+
+The Secretary shall—
+
+&emsp;(1) coordinate all activities of the Department of Health and Human Services relating to child care, and, to the maximum extent practicable, coordinate such activities with similar activities of other Federal entities;
+
+&emsp;(2) collect, publish and make available to the public a listing of State child care standards at least once every 3 years; and
+
+&emsp;(3) provide technical assistance to assist States to carry out this subchapter, including assistance on a reimbursable basis.
+
+#### (b) Enforcement
+
+#### (1) Review of compliance with State plan
+
+&emsp;The Secretary shall review and monitor State compliance with this subchapter and the plan approved under section 9858c(c) of this title for the State, and shall have the power to terminate payments to the State in accordance with paragraph (2).
+
+#### (2) Noncompliance
+
+#### (A) In general
+
+&emsp;&emsp;If the Secretary, after reasonable notice to a State and opportunity for a hearing, finds that—
+
+&emsp;&emsp;&emsp;(i) there has been a failure by the State to comply substantially with any provision or requirement set forth in the plan approved under section 9858c(c) of this title for the State; or
+
+&emsp;&emsp;&emsp;(ii) in the operation of any program for which assistance is provided under this subchapter there is a failure by the State to comply substantially with any provision of this subchapter;
+
+> &emsp;&emsp;the Secretary shall notify the State of the finding and that no further payments may be made to such State under this subchapter (or, in the case of noncompliance in the operation of a program or activity, that no further payments to the State will be made with respect to such program or activity) until the Secretary is satisfied that there is no longer any such failure to comply or that the noncompliance will be promptly corrected.
+
+#### (B) Additional sanctions
+
+&emsp;&emsp;In the case of a finding of noncompliance made pursuant to subparagraph (A), the Secretary may, in addition to imposing the sanctions described in such subparagraph, impose other appropriate sanctions, including recoupment of money improperly expended for purposes prohibited or not authorized by this subchapter, and disqualification from the receipt of financial assistance under this subchapter.
+
+#### (C) Notice
+
+&emsp;&emsp;The notice required under subparagraph (A) shall include a specific identification of any additional sanction being imposed under subparagraph (B).
+
+#### (3) Issuance of rules
+
+&emsp;The Secretary shall establish by rule procedures for—
+
+&emsp;&emsp;(A) receiving, processing, and determining the validity of complaints concerning any failure of a State to comply with the State plan or any requirement of this subchapter; and
+
+&emsp;&emsp;(B) imposing sanctions under this section.
+
+(Pub. L. 97–35, title VI, §658I, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–242; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036.)
+
+#### Amendments
+
+1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+

@@ -1,0 +1,102 @@
+### §10542 . Army National Guard combat readiness: annual report
+
+(a)
+
+In General.—The Secretary of the Army shall include in the annual report of the Secretary to Congress known as the Army Posture Statement a detailed presentation concerning the Army National Guard, including particularly information relating to the implementation of the Army National Guard Combat Readiness Reform Act of 1992 (title XI of Public Law 102–484; 106 Stat. 2536) (hereinafter in this section referred to as “ANGCRRA”).
+
+(b)
+
+Matters To Be Included in Report.—Each presentation under subsection (a) shall include, with respect to the period covered by the report, the following information concerning the Army National Guard:
+
+&emsp;(1) The number and percentage of officers with at least two years of active-duty before becoming a member of the Army National Guard.
+
+&emsp;(2) The number and percentage of enlisted personnel with at least two years of active-duty before becoming a member of the Army National Guard.
+
+&emsp;(3) The number of officers who are graduates of one of the service academies and were released from active duty before the completion of their active-duty service obligation and, of those officers—
+
+&emsp;&emsp;(A) the number who are serving the remaining period of their active-duty service obligation as a member of the Selected Reserve pursuant to section 1112(a)(1) of ANGCRRA; and
+
+&emsp;&emsp;(B) the number for whom waivers were granted by the Secretary under section 1112(a)(2) of ANGCRRA, together with the reason for each waiver.
+
+&emsp;(4) The number of officers who were commissioned as distinguished Reserve Officers’ Training Corps graduates and were released from active duty before the completion of their active-duty service obligation and, of those officers—
+
+&emsp;&emsp;(A) the number who are serving the remaining period of their active-duty service obligation as a member of the Selected Reserve pursuant to section 1112(a)(1) of ANGCRRA; and
+
+&emsp;&emsp;(B) the number for whom waivers were granted by the Secretary under section 1112(a)(2) of ANGCRRA, together with the reason for each waiver.
+
+&emsp;(5) The number of officers who are graduates of the Reserve Officers’ Training Corps program and who are performing their minimum period of obligated service in accordance with section 1112(b) of ANGCRRA by a combination of (A) two years of active duty, and (B) suchadditional period of service as is necessary to complete the remainder of such obligation served in the National Guard and, of those officers, the number for whom permission to perform their minimum period of obligated service in accordance with that section was granted during the preceding fiscal year.
+
+&emsp;(6) The number of officers for whom recommendations were made during the preceding fiscal year for a unit vacancy promotion to a grade above first lieutenant and, of those recommendations, the number and percentage that were concurred in by an active-duty officer under section 1113(a) of ANGCRRA, shown separately for each of the three categories of officers set forth in section 1113(b) of ANGCRRA.
+
+&emsp;(7) The number of waivers during the preceding fiscal year under section 1114(a) of ANGCRRA of any standard prescribed by the Secretary establishing a military education requirement for noncommissioned officers and the reason for each such waiver.
+
+&emsp;(8) The number and distribution by grade, shown for each State, of personnel in the initial entry training and nondeployability personnel accounting category established under section 1115 of ANGCRRA for members of the Army National Guard who have not completed the minimum training required for deployment or who are otherwise not available for deployment.
+
+&emsp;(9) The number of members of the Army National Guard, shown for each State, that were discharged during the previous fiscal year pursuant to section 1115(c)(1) of ANGCRRA for not completing the minimum training required for deployment within 24 months after entering the National Guard.
+
+&emsp;(10) The number of waivers, shown for each State, that were granted by the Secretary during the previous fiscal year under section 1115(c)(2) of ANGCRRA of the requirement in section 1115(c)(1) of ANGCRRA described in paragraph (9), together with the reason for each waiver.
+
+&emsp;(11) The number of members, shown for each State, who were screened during the preceding fiscal year to determine whether they meet minimum physical profile standards required for deployment and, of those members—
+
+&emsp;&emsp;(A) the number and percentage who did not meet minimum physical profile standards required for deployment; and
+
+&emsp;&emsp;(B) the number and percentage who were transferred pursuant to section 1116 of ANGCRRA to the personnel accounting category described in paragraph (8).
+
+&emsp;(12) The number of members, and the percentage of the total membership, of the Army National Guard, shown for each State, who underwent a medical screening during the previous fiscal year as provided in section 1117 of ANGCRRA.
+
+&emsp;(13) The number of members, and the percentage of the total membership, of the Army National Guard, shown for each State, who underwent a dental screening during the previous fiscal year as provided in section 1117 of ANGCRRA.
+
+&emsp;(14) The number of members, and the percentage of the total membership, of the Army National Guard, shown for each State, over the age of 40 who underwent a full physical examination during the previous fiscal year for purposes of section 1117 of ANGCRRA.
+
+&emsp;(15) The number of units of the Army National Guard that are scheduled for early deployment in the event of a mobilization and, of those units, the number that are dentally ready for deployment in accordance with section 1118 of ANGCRRA.
+
+&emsp;(16) The estimated post-mobilization training time for each Army National Guard combat unit, and a description, displayed in broad categories and by State, of what training would need to be accomplished for Army National Guard combat units in a post-mobilization period for purposes of section 1119 of ANGCRRA.
+
+&emsp;(17) A description of the measures taken during the preceding fiscal year to comply with the requirement in section 1120 of ANGCRRA to expand the use of simulations, simulators, and advanced training devices and technologies for members and units of the Army National Guard.
+
+&emsp;(18) Summary tables of unit readiness, shown for each State, and drawn from the unit readiness rating system as required by section 1121 of ANGCRRA, including the personnel readiness rating information and the equipment readiness assessment information required by that section, together with—
+
+&emsp;&emsp;(A) explanations of the information shown in the table; and
+
+&emsp;&emsp;(B) based on the information shown in the tables, the Secretary's overall assessment of the deployability of units of the Army National Guard, including a discussion of personnel deficiencies and equipment shortfalls in accordance with such section 1121.
+
+&emsp;(19) Summary tables, shown for each State, of the results of inspections of units of the Army National Guard by inspectors general or other commissioned officers of the Regular Army under the provisions of section 105 of title 32, together with explanations of the information shown in the tables, and including display of—
+
+&emsp;&emsp;(A) the number of such inspections;
+
+&emsp;&emsp;(B) identification of the entity conducting each inspection;
+
+&emsp;&emsp;(C) the number of units inspected; and
+
+&emsp;&emsp;(D) the overall results of such inspections, including the inspector's determination for each inspected unit of whether the unit met deployability standards and, for those units not meeting deployability standards, the reasons for such failure and the status of corrective actions.
+
+&emsp;(20) A listing, for each Army National Guard combat unit, of the active-duty combat unit associated with that Army National Guard unit in accordance with section 1131(a) of ANGCRRA, shown by State and to be accompanied, for each such National Guard unit, by—
+
+&emsp;&emsp;(A) the assessment of the commander of that associated active-duty unit of the manpower, equipment, and training resource requirements of that National Guard unit inaccordance with section 1131(b)(3) of ANGCRRA; and
+
+&emsp;&emsp;(B) the results of the validation by the commander of that associated active-duty unit of the compatibility of that National Guard unit with active duty forces in accordance with section 1131(b)(4) of ANGCRRA.
+
+&emsp;(21) A specification of the active-duty personnel assigned to units of the Selected Reserve pursuant to section 414(c) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (10 U.S.C. 261 <sup>1</sup> note), shown (A) by State, (B) by rank of officers, warrant officers, and enlisted members assigned, and (C) by unit or other organizational entity of assignment.
+
+\[(c) Repealed. Pub. L. 103–337, div. A, title XVI, §1661(d)(3), Oct. 5, 1994, 108 Stat. 2982.\]
+
+(d)
+
+Definition.—In this section, the term “State” includes the District of Columbia, Puerto Rico, Guam, and the Virgin Islands.
+
+(Added Pub. L. 103–160, div. A, title V, §521(a), Nov. 30, 1993, 107 Stat. 1652, §3082; renumbered §10542 and amended Pub. L. 103–337, div. A, title XVI, §1661(d)(3), Oct. 5, 1994, 108 Stat. 2982.)
+
+#### References in Text
+
+The Army National Guard Combat Readiness Reform Act of 1992, referred to in text, is title XI (§§1101–1137) of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2536, as amended, which is set out as a note under section 10105 of this title.
+
+Section 414(c) of the National Defense Authorization Act for Fiscal Years 1992 and 1993, referred to in subsec. (b)(21), is section 414(c) of Pub. L. 102–190, which is set out as a note under section 12001 of this title.
+
+#### Amendments
+
+1994—Pub. L. 103–337 renumbered section 3082 of this title as this section, struck out “reform” after “readiness” in section catchline, and struck out heading and text of subsec. (c). Text read as follows: “The requirement to include in a presentation required by subsection (a) information under any paragraph of subsection (b) shall take effect with respect to the year following the year in which the provision of ANGCRRA to which that paragraph pertains has taken effect. Before then, in the case of any such paragraph, the Secretary shall include any information that may be available concerning the topic covered by that paragraph.”
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+

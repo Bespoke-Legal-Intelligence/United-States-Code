@@ -1,0 +1,22 @@
+### §3556. Order of restitution
+
+The court, in imposing a sentence on a defendant who has been found guilty of an offense may order restitution in accordance with sections 3663 and 3664.
+
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1991; amended Pub. L. 99–646, §20(b), Nov. 10, 1986, 100 Stat. 3596.)
+
+#### Amendments
+
+1986—Pub. L. 99–646 substituted “may order restitution in accordance with sections 3663 and 3664” for “under this title, or an offense under section 902(h), (i), (j), or (n) of the Federal Aviation Act of 1958 (49 U.S.C. 1472), may order, in addition to the sentence that is imposed pursuant to the provisions of section 3551, that the defendant make restitution to any victim of the offense in accordance with the provisions of sections 3663 and 3664”.
+
+#### Effective Date of 1986 Amendment
+
+Section 20(c) of Pub. L. 99–646 provided that: “The amendments made by this section \[amending this section and section 3663 of this title\] shall take effect on the date of the taking effect of section 212(a)(2) of the Sentencing Reform Act of 1984 \[section 212(a)(2) of Pub. L. 98–473, effective Nov. 1, 1987\].”
+
+#### Effective Date
+
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3551, 3612, 5037 of this title; title 28 section 994.
+

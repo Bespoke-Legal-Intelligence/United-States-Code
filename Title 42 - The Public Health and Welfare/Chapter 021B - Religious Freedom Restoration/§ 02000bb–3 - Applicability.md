@@ -1,0 +1,16 @@
+### §2000bb–3. Applicability
+
+#### (a) In general
+
+This chapter applies to all Federal and State law, and the implementation of that law, whether statutory or otherwise, and whether adopted before or after November 16, 1993.
+
+#### (b) Rule of construction
+
+Federal statutory law adopted after November 16, 1993, is subject to this chapter unless such law explicitly excludes such application by reference to this chapter.
+
+#### (c) Religious belief unaffected
+
+Nothing in this chapter shall be construed to authorize any government to burden any religious belief.
+
+(Pub. L. 103–141, §6, Nov. 16, 1993, 107 Stat. 1489.)
+

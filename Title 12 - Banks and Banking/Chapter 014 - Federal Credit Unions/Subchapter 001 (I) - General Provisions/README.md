@@ -1,0 +1,46 @@
+### SUBCHAPTER I—GENERAL PROVISIONS
+
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in sections 1781, 1782, 1795f of this title.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 01752 - Definitions](%C2%A7%2001752%20-%20Definitions.md)
+- [&sect; 01752a - National Credit Union Administration](%C2%A7%2001752a%20-%20National%20Credit%20Union%20Administration.md)
+- [&sect; 01753 - Federal credit union organization](%C2%A7%2001753%20-%20Federal%20credit%20union%20organization.md)
+- [&sect; 01754 - Approval of organization certificate](%C2%A7%2001754%20-%20Approval%20of%20organization%20certificate.md)
+- [&sect; 01755 - Fees](%C2%A7%2001755%20-%20Fees.md)
+- [&sect; 01756 - Reports and examinations](%C2%A7%2001756%20-%20Reports%20and%20examinations.md)
+- [&sect; 01756a - Omitted](%C2%A7%2001756a%20-%20Omitted.md)
+- [&sect; 01757 - Powers](%C2%A7%2001757%20-%20Powers.md)
+- [&sect; 01758 - Bylaws](%C2%A7%2001758%20-%20Bylaws.md)
+- [&sect; 01759 - Membership](%C2%A7%2001759%20-%20Membership.md)
+- [&sect; 01760 - Members&#8217; meetings](%C2%A7%2001760%20-%20Members%E2%80%99%20meetings.md)
+- [&sect; 01761 - Management](%C2%A7%2001761%20-%20Management.md)
+- [&sect; 01761a - Officers of the board](%C2%A7%2001761a%20-%20Officers%20of%20the%20board.md)
+- [&sect; 01761b - Board of directors; meetings; powers and duties; executive committee; membership officers; membership application](%C2%A7%2001761b%20-%20Board%20of%20directors%3B%20meetings%3B%20powers%20and%20duties%3B%20executive%20committee%3B%20membership%20officers%3B%20membership%20application.md)
+- [&sect; 01761c - Credit committee](%C2%A7%2001761c%20-%20Credit%20committee.md)
+- [&sect; 01761d - Supervisory committee; powers and duties; suspension of members; passbook](%C2%A7%2001761d%20-%20Supervisory%20committee%3B%20powers%20and%20duties%3B%20suspension%20of%20members%3B%20passbook.md)
+- [&sect; 01762 - Reserves](%C2%A7%2001762%20-%20Reserves.md)
+- [&sect; 01763 - Dividends](%C2%A7%2001763%20-%20Dividends.md)
+- [&sect; 01764 - Expulsion and withdrawal](%C2%A7%2001764%20-%20Expulsion%20and%20withdrawal.md)
+- [&sect; 01765 - Minors](%C2%A7%2001765%20-%20Minors.md)
+- [&sect; 01766 - Powers of Board](%C2%A7%2001766%20-%20Powers%20of%20Board.md)
+- [&sect; 01767 - Fiscal agents and depositories; authorization to secure deposits by governmental bodies](%C2%A7%2001767%20-%20Fiscal%20agents%20and%20depositories%3B%20authorization%20to%20secure%20deposits%20by%20governmental%20bodies.md)
+- [&sect; 01768 - Taxation](%C2%A7%2001768%20-%20Taxation.md)
+- [&sect; 01769 - Separability; right to alter, amend, or repeal chapter](%C2%A7%2001769%20-%20Separability%3B%20right%20to%20alter%2C%20amend%2C%20or%20repeal%20chapter.md)
+- [&sect; 01770 - Allotment of space in Federal buildings](%C2%A7%2001770%20-%20Allotment%20of%20space%20in%20Federal%20buildings.md)
+- [&sect; 01771 - Conversion from Federal to State credit union and from State to Federal credit union](%C2%A7%2001771%20-%20Conversion%20from%20Federal%20to%20State%20credit%20union%20and%20from%20State%20to%20Federal%20credit%20union.md)
+- [&sect; 01772 - Territorial application of chapter](%C2%A7%2001772%20-%20Territorial%20application%20of%20chapter.md)
+- [&sect; 01772a - Gifts; acceptance of conditional gifts; deposit](%C2%A7%2001772a%20-%20Gifts%3B%20acceptance%20of%20conditional%20gifts%3B%20deposit.md)
+- [&sect; 01772b - Apportionment](%C2%A7%2001772b%20-%20Apportionment.md)
+- [&sect; 01772c - Trust fund](%C2%A7%2001772c%20-%20Trust%20fund.md)
+- [&sect; 01772c&#8211;1 - Community development revolving loan fund for credit unions](%C2%A7%2001772c%E2%80%931%20-%20Community%20development%20revolving%20loan%20fund%20for%20credit%20unions.md)
+- [&sect; 01772d - Forfeiture of organization certificate for money laundering or cash transaction reporting offenses](%C2%A7%2001772d%20-%20Forfeiture%20of%20organization%20certificate%20for%20money%20laundering%20or%20cash%20transaction%20reporting%20offenses.md)
+- [&sect; 01773 - District of Columbia credit unions; conversion to Federal status](%C2%A7%2001773%20-%20District%20of%20Columbia%20credit%20unions%3B%20conversion%20to%20Federal%20status.md)
+- [&sect; 01774 - Approval of certificate; assets and obligations of applicant credit union](%C2%A7%2001774%20-%20Approval%20of%20certificate%3B%20assets%20and%20obligations%20of%20applicant%20credit%20union.md)
+- [&sect; 01775 - Conditions upon conversion to Federal status](%C2%A7%2001775%20-%20Conditions%20upon%20conversion%20to%20Federal%20status.md)

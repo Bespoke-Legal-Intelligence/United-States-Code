@@ -1,0 +1,226 @@
+### §2358. Research and development projects
+
+(a)
+
+Authority.—The Secretary of Defense or the Secretary of a military department may engage in basic research, applied research, advanced research, and development projects that—
+
+&emsp;(1) are necessary to the responsibilities of such Secretary's department in the field of research and development; and
+
+&emsp;(2) either—
+
+&emsp;&emsp;(A) relate to weapon systems and other military needs; or
+
+&emsp;&emsp;(B) are of potential interest to the Department of Defense.
+
+(b)
+
+Authorized Means.—The Secretary of Defense or the Secretary of a military department may perform research and development projects—
+
+&emsp;(1) by contract, cooperative agreement, or grant, in accordance with chapter 63 of title 31;
+
+&emsp;(2) through one or more military departments;
+
+&emsp;(3) by using employees and consultants of the Department of Defense; or
+
+&emsp;(4) by mutual agreement with the head of any other department or agency of the Federal Government.
+
+(c)
+
+Requirement of Potential Department of Defense Interest.—Funds appropriated to the Department of Defense or to a military department may not be used to finance any research project or study unless the project or study is, in the opinion of the Secretary of Defense or the Secretary of that military department, respectively, of potential interest to the Department of Defense or to such military department, respectively.
+
+(d)
+
+Additional Provisions Applicable to Cooperative Agreements.—Additional authorities, conditions, and requirements relating to certain cooperative agreements authorized by this section are provided in section 2371 of this title.
+
+(Added Pub. L. 87–651, title II, §208(a), Sept. 7, 1962, 76 Stat. 523; amended Pub. L. 97–86, title IX, §910, Dec. 1, 1981, 95 Stat. 1120; Pub. L. 100–370, §1(g)(3), July 19, 1988, 102 Stat. 846; Pub. L. 103–160, div. A, title VIII, §827(a), Nov. 30, 1993, 107 Stat. 1712; Pub. L. 103–355, title I, §1301(a), Oct. 13, 1994, 108 Stat. 3284.)
+
+Historical and Revision Notes<br>1962
+
+Act
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+2358
+
+5:171c(b)(2), (3).
+
+July 26, 1947, ch. 343, §203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–599, §9(a) (3d and 4th pars.), 72 Stat. 520.
+
+5 U.S.C. 171c(b)(3) is omitted as unnecessary since the authorization for appropriations is implied in 5 U.S.C. 171c(b)(2).
+
+#### 1988 Act
+
+In the existing text of 10 U.S.C. 2358, the bill would in two instances strike the phrase “or his designee” appearing after “Secretary of Defense” (section 1(g)(3)). The change is made for consistency in the Code, and no substantive change is intended. The committee notes that the Secretary of Defense has general authority to delegate functions under 10 U.S.C. 113(d).
+
+Subsection (b) is based on Pub. L. 91–441, title II, §204, Oct. 7, 1970, 84 Stat. 908.
+
+#### Amendments
+
+1994—Pub. L. 103–355 amended section generally, inserting reference to development projects in section catchline, and in text specifying that relevant Secretary may perform research and development projects in accordance with chapter 63 of title 31, and adding subsec. (d) relating to additional provisions applicable to cooperative agreements.
+
+1993—Pub. L. 103–160 amended section generally. Prior to amendment, section read as follows:
+
+“(a)
+
+In General.—Subject to approval by the President, the Secretary of Defense may engage in basic and applied research projects that are necessary to the responsibilities of the Department of Defense in the field of basic and applied research and development and that relate to weapons systems and other military needs. Subject to approval by the President, the Secretary may perform assigned research and development projects—
+
+&emsp;“(1) by contract with, or by grant to, educational or research institutions, private businesses, or other agencies of the United States;
+
+&emsp;“(2) through one or more of the military departments; or
+
+&emsp;“(3) by using employees and consultants of the Department of Defense.
+
+“(b)
+
+Requirement of Potential Military Relationship.—Funds appropriated to the Department of Defense may not be used to finance any research project or study unless the project or study has, in the opinion of the Secretary of Defense, a potential relationship to a military function or operation.”
+
+1988—Pub. L. 100–370 designated existing provisions as subsec. (a), inserted heading, struck out “or his designee” after “Secretary of Defense” and “President, the Secretary”, and added subsec. (b).
+
+1981—Par. (1). Pub. L. 97–86 substituted “by contract with, or by grant to,” for “by contract with”.
+
+#### Effective Date of 1994 Amendment
+
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+
+#### Defense Experimental Program To Stimulate Competitive Research
+
+Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, provided that:
+
+“(a)
+
+Program Required.—The Secretary of Defense, acting  through  the  Director  of  Defense  Research and Engineering, shall carry out a Defense Experimental Program to Stimulate Competitive Research (DEPSCoR) as part of the university research programs of the Department of Defense.
+
+“(b)
+
+Program Objectives.—The objectives of the program are as follows:
+
+&emsp;“(1) To enhance the capabilities of institutions of higher education in eligible States to develop, plan, and execute science and engineering research that is competitive under the peer-review systems used for awarding Federal research assistance.
+
+&emsp;“(2) To increase the probability of long-term growth in the competitively awarded financial assistance that institutions of higher education in eligible States receive from the Federal Government for science and engineering research.
+
+“(c)
+
+Program Activities.—In order to achieve the program objectives, the following activities are authorized under the program:
+
+&emsp;“(1) Competitive award of research grants.
+
+&emsp;“(2) Competitive award of financial assistance for graduate students.
+
+“(d)
+
+Eligible States.—(1) The Director of the National Science Foundation shall designate which States are eligible States for the purposes of this section and shall notify the Director of Defense Research and Engineering of the States so designated.
+
+“(2) The Director of the National Science Foundation shall designate a State as an eligible State if, as determined by the Director—
+
+&emsp;“(A) the institutional average amount of Federal financial assistance for research and development received by the institutions of higher education in theState for the fiscal year preceding the fiscal year for which the designation is effective, or for the last fiscal year for which statistics are available, is less than the amount equal to 60 percent of the national institutional average amount of Federal financial assistance for research and development received by the institutions of higher education in the United States for such preceding or last fiscal year, as the case may be;
+
+&emsp;“(B) the State has demonstrated a commitment to developing research bases in the State and to improving science and engineering research and education programs at institutions of higher education in the State; and
+
+&emsp;“(C) the State is an eligible State for purposes of the Experimental Program to Stimulate Competitive Research conducted by the National Science Foundation.
+
+“(e)
+
+Coordination With Similar Federal Programs.—(1) The Secretary shall consult with the Director of the National Science Foundation and the Director of the Office of Science and Technology Policy in the planning, development, and execution of the program and shall coordinate the program with the Experimental Program to Stimulate Competitive Research conducted by the National Science Foundation and with similar programs sponsored by other departments and agencies of the Federal Government.
+
+“(2) All solicitations under the Defense Experimental Program to Stimulate Competitive Research shall be made to, and all awards shall be made through, the State committees established for purposes of the Experimental Program to Stimulate Competitive Research conducted by the National Science Foundation.
+
+“(3) A State committee referred to in paragraph (2) shall ensure that activities carried out in the State of that committee under the Defense Experimental Program to Stimulate Competitive Research are coordinated with the activities carried out in the State under other similar initiatives of the Federal Government to stimulate competitive research.”
+
+#### Inclusion of Women and Minorities in Clinical Research Projects
+
+Section 252 of Pub. L. 103–160 provided that:
+
+“(a)
+
+General Rule.—In conducting or supporting clinical research, the Secretary of Defense shall ensure that—
+
+&emsp;“(1) women who are members of the Armed Forces are included as subjects in each project of such research; and
+
+&emsp;“(2) members of minority groups who are members of the Armed Forces are included as subjects of such research.
+
+“(b)
+
+Waiver Authority.—The requirement in subsection (a) regarding women and members of minority groups who are members of the Armed Forces may be waived by the Secretary of Defense with respect to a project of clinical research if the Secretary determines that the inclusion, as subjects in the project, of women and members of minority groups, respectively—
+
+&emsp;“(1) is inappropriate with respect to the health of the subjects;
+
+&emsp;“(2) is inappropriate with respect to the purpose of the research; or
+
+&emsp;“(3) is inappropriate under such other circumstances as the Secretary of Defense may designate.
+
+“(c)
+
+Requirement for Analysis of Research.—In the case of a project of clinical research in which women or members of minority groups will under subsection (a) be included as subjects of the research, the Secretary of Defense shall ensure that the project is designed and carried out so as to provide for a valid analysis of whether the variables being tested in the research affect women or members of minority groups, as the case may be, differently than other persons who are subjects of the research.”
+
+#### University Research Initiative Support Program
+
+Section 802 of Pub. L. 103–160 provided that:
+
+“(a)
+
+Establishment.—The Secretary of Defense, through the Director of Defense Research and Engineering, shall establish a University Research Initiative Support Program.
+
+“(b)
+
+Purpose.—Under the program, the Director shall award grants and contracts to eligible institutions of higher education to support the conduct of research and development relevant to requirements of the Department of Defense.
+
+“(c)
+
+Eligibility.—An institution of higher education is eligible for a grant or contract under the program if the institution has received less than a total of $2,000,000 in grants and contracts from the Department of Defense in the two fiscal years before the fiscal year in which the institution submits a proposal for such grant or contract.
+
+“(d)
+
+Competition Required.—The Director shall use competitive procedures in awarding grants and contracts under the program.
+
+“(e)
+
+Selection Process.—In awarding grants and contracts under the program, the Director shall use a merit-based selection process that is consistent with the provisions of section 2361(a) of title 10, United States Code. Such selection process shall require that each person selected to participate in such a merit-based selection process be a member of the faculty or staff of an institution of higher education that is a member of the National Association of State Universities and Land Grant Colleges or the American Association of State Colleges and Universities.
+
+“(f)
+
+Regulations.—Not later than 90 days after the date of the enactment of this Act \[Nov. 30, 1993\], the Director shall prescribe regulations for carrying out the program.
+
+“(g)
+
+Funding.—Of the amounts authorized to be appropriated under section 201 \[107 Stat. 1583\], $20,000,000 shall be available for the University Research Initiative Support Program.”
+
+#### Independent Research and Development; Bid and Proposal Costs; Negotiation of Advance Agreements With Contractors; Annual Report to Congress
+
+Pub. L. 91–441, title II, §203, Oct. 7, 1970, 84 Stat. 906, as amended by Pub. L. 96–342, title II, §208, Sept. 8, 1980, 94 Stat. 1081, provided that no funds authorized to be appropriated to Department of Defense by this or any other Act were to be used to finance independent research and development or bid and proposal costs unless such work had, in opinion of Secretary of Defense, potential relationship to military functions or operations, and advance agreements regarding payment for such work had been negotiated, prior to repeal by Pub. L. 101–510, div. A, title VIII, §824(b), Nov. 5, 1990, 104 Stat. 1604. See section 2372 of this title.
+
+#### Relationship of Research Projects or Studies to Military Function or Operation
+
+Pub. L. 91–441, title II, §204, Oct. 7, 1970, 84 Stat. 908, which provided that no funds authorized to be appropriated to the Department of Defense by this or any other Act may be used to finance any research project or study unless such project or study has, in the opinion of the Secretary of Defense, a potential relationship to a military function or operation, was repealed and restated in subsec. (b) of this section by Pub. L. 100–370, §1(g)(3)(C), (5), July 19, 1988, 102 Stat. 847.
+
+#### Herbicides and Defoliation Program; Comprehensive Study and Investigation; Report by January 31, 1972; Transmittal to President and Congress by March 1, 1972
+
+Pub. L. 91–441, title V, §506(c), Oct. 7, 1970, 84 Stat. 913, directed Secretary of Defense to enter into appropriate arrangements with National Academy of Sciences to conduct a comprehensive study and investigation to determine (A) ecological and physiological dangers inherent in use of herbicides, and (B) ecological and physiological effects of defoliation program carriedout by Department of Defense in South Vietnam, with a report on the study to be transmitted to President and Congress by Mar. 1, 1972.
+
+#### Campuses Barring Military Recruiters; Cessation of Payments; Notification of Secretary of Defense
+
+Pub. L. 92–436, title VI, §606, Sept. 29, 1972, 86 Stat. 740, provided that:
+
+“(a) No part of the funds appropriated pursuant to this or any other Act for the Department of Defense or any of the Armed Forces may be used at any institution of higher learning if the Secretary of Defense or his designee determines that recruiting personnel of any of the Armed Forces of the United States are being barred by the policy of such institution from the premises of the institution: except in a case where the Secretary of the service concerned certifies to the Congress in writing that a specific course of instruction is not available at any other institution of higher learning and furnishes to the Congress the reasons why such course of instruction is of vital importance to the security of the United States.
+
+“(b) The prohibition made by subsection (a) of this section as it applies to research and development funds shall not apply if the Secretary of Defense or his designee determines that the expenditure is a continuation or a renewal of a previous program with such institution which is likely to make a significant contribution to the defense effort.
+
+“(c) The Secretaries of the military departments shall furnish to the Secretary of Defense or his designee within 60 days after the date of enactment of this Act \[Sept. 29, 1972\] and each January 31 and June 30 thereafter the names of any institution of higher learning which the Secretaries determine on such dates are affected by the prohibitions contained in this section.”
+
+Similar provisions were contained in the following prior authorization acts:
+
+Pub. L. 92–156, title V, §502, Nov. 17, 1971, 85 Stat. 427.
+
+Pub. L. 91–441, title V, §510, Oct. 7, 1970, 84 Stat. 914.
+
+#### Federal Contract Research Centers; Officers’ Compensation; Notification to Congress
+
+Pub. L. 91–121, title IV, §407, Nov. 19, 1969, 83 Stat. 208, related to restrictions on use of appropriations for compensation of officers and employees of Federal contract research centers, and notice requirements respecting such payments, prior to repeal by Pub. L. 96–107, title VIII, §819(c), Nov. 9, 1979, 93 Stat. 819. See section 2359 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2371 of this title.
+

@@ -1,0 +1,88 @@
+### §2460. Bureau of Educational and Cultural Affairs
+
+#### (a) Establishment; responsibilities
+
+In order to carry out the purposes of this chapter, there is established in the United States Information Agency, or in such appropriate agency of the United States as the President shall determine, a Bureau of Educational and Cultural Affairs (hereinafter in this section referred to as the “Bureau”). The Bureau shall be responsible for managing, coordinating, and overseeing programs established pursuant to this chapter, including but not limited to—
+
+&emsp;(1) the J. William Fulbright Educational Exchange Program which, by promoting the exchange of scholars, researchers, students, trainees, teachers, instructors, and professors, between the United States and foreign countries, accomplishes the purposes of section 2452(a)(1) of this title;
+
+&emsp;(2) the Hubert H. Humphrey Fellowship Program which finances (A) study at American universities and institutions of higher learning, including study in degree granting programs, and (B) participation in fellowships, internships, or other programs in American governmental and nongovernmental institutions for public managers and other individuals from developing countries;
+
+&emsp;(3) the International Visitors Program which provides grants for short-term visits to the United States for foreign nationals who are, or have the potential to be, leaders in their respective fields in their own countries;
+
+&emsp;(4) the American Cultural Centers and Libraries which make available at selected foreign locations, books, films, sound recordings, and other materials about the United States, its people and culture, and about other topics;
+
+&emsp;(5) the American Overseas Schools Program which provides financial assistance to the operations of American-sponsored schools overseas;
+
+&emsp;(6) the American Studies Program which fosters and supports the study of the United States, and its people and culture, in foreign countries;
+
+&emsp;(7) a program of working with private, not-for-profit groups through contracts, grants, or cooperative agreements, as authorized by section 2452 of this title, so as to provide financial assistance to nongovernmental organizations engaged in implementing and enhancing exchange-of-persons programs;
+
+&emsp;(8) the Samantha Smith Memorial Exchange Program which advances understanding between the United States and the independent states of the former Soviet Union and between the United States and Eastern European countries through the exchange of persons under the age of 21 years and of students at an institution of higher education (as defined in section 1141(a) of title 20) who have not received their initial baccalaureate degree or through other programs designed to promote contact between the young peoples of the United States, the independent states of the former Soviet Union, and Eastern European countries; and
+
+&emsp;(9) the Arts America program which promotes a greater appreciation and understanding of American art abroad by supporting exhibitions and tours by American artists in other countries.
+
+#### (b) Revocation or diminution of grants
+
+(1) All recipients of Fulbright Academic Exchange and Humphrey Fellowship awards shall have full academic and artistic freedom, including freedom to write, publish, and create. No award granted pursuant to this chapter may be revoked or diminished on account of the political views expressed by the recipient or on account of any scholarly or artistic activity that would be subject to the protections of academic and artistic freedom normally observed in universities in the United States. The Board shall ensure that the academic and artistic freedoms of all persons receiving grants are protected.
+
+(2) The J. William Fulbright Foreign Scholarship Board shall formulate a policy on revocation of Fulbright grants which shall be made known to all grantees. Such policy shall fully protect the right to due process as well as the academic and artistic freedom of all grantees.
+
+#### (c) Program requirements
+
+The President shall insure that all programs under the authority of the Bureau shall maintain their nonpolitical character and shall be balanced and representative of the diversity of American political, social, and cultural life. The President shall insure that academic and cultural programs under the authority of the Bureau shall maintain their scholarly integrity and shall meet the highest standards of academic excellence or artistic achievement.
+
+#### (d) Administration of programs
+
+The Bureau shall administer no programs except those operating under the authority of this chapter and consistent with its purposes.
+
+#### (e) Office of Citizen Exchanges
+
+There is established in the Bureau of Educational and Cultural Affairs an Office of Citizen Exchanges. The Office shall support private not-for-profit organizations engaged in the exchange of persons between the United States and other countries.
+
+#### (f) Coordination of exchange programs; reports
+
+(1) The President shall ensure that all exchange programs conducted by the United States Government, its departments and agencies, directly or through agreements with other parties, are reported at a time and in a format prescribed by the Director. The President shall ensure that such exchanges are consistent with United States foreign policy and avoid duplication of effort.
+
+(2) Not later than 90 days after April 30, 1994, and annually thereafter, the President shall submit to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a report pursuant to paragraph (1). Such report shall include information for each exchange program supported by the United States on the objectives of such exchange, the number of exchange participants supported, the types of exchange activities conducted, the total amount of Federal expenditures for such exchanges, and the extent to which such exchanges are duplicative.
+
+(Pub. L. 87–256, §112, as added Pub. L. 98–164, title II, §213, Nov. 22, 1983, 97 Stat. 1034; amended Pub. L. 100–204, title III, §§302(a), 303, Dec. 22, 1987, 101 Stat. 1378, 1379; Pub. L. 101–246, title II, §§204(a)(2), 222(a), 223, Feb. 16, 1990, 104 Stat. 50, 55, 56; Pub. L. 103–199, title III, §301(1), Dec. 17, 1993, 107 Stat. 2322; Pub. L. 103–236, title II, §229(a), Apr. 30, 1994, 108 Stat. 423.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a), (b)(1), and (d), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+
+#### Amendments
+
+1994—Subsec. (f). Pub. L. 103–236 added subsec. (f).
+
+1993—Subsec. (a)(8). Pub. L. 103–199 substituted “independent states of the former Soviet Union” for “Soviet Union” in two places.
+
+1990—Subsec. (a)(8). Pub. L. 101–246, §223, inserted “or through other programs designed to promote contact between the young peoples of the United States, the Soviet Union, and Eastern European countries” after “degree”.
+
+Subsecs. (b) to (d). Pub. L. 101–246, §204(a)(2), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
+Subsec. (e). Pub. L. 101–246, §222(a), added subsec. (e).
+
+1987—Subsec. (a)(8), (9). Pub. L. 100–204 added pars. (8) and (9).
+
+#### Transfer of Functions
+
+Section 222(b) of Pub. L. 101–246 provided that: “There are hereby transferred to the Office of Citizen Exchanges on the date of enactment of this Act \[Feb. 16, 1990\] all functions carried out by the Office of Private Sector Programs on the day before such date.”
+
+#### Private Sector Program; Restrictions on Funds for Foreign Travel; Waiver; Reports
+
+Section 207 of Pub. L. 98–164, as amended by Pub. L. 103–236, title I, §139(11), Apr. 30, 1994, 108 Stat. 398, provided that:
+
+“(a) No funds authorized to be appropriated for the Private Sector Program shall be used to pay for foreign travel by any United States citizen who, in the five years preceding the date of the proposed foreign travel, made two or more trips financed in whole or in substantial part by grants from the Private Sector Program. This limitation shall not apply to escort interpreters accompanying delegations, to artists accompanying exhibitions, to persons engaging in theatrical or musical performances, or to the full-time staff of the grantee organization. In addition, the Director of the Bureau of Educational and Cultural Affairs may waive this limitation in exceptional cases if he determines that foreign travel is essential to the successful completion of the grant program and so certifies in writing to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate at least fifteen days prior to the commencement of the proposed foreign travel.
+
+“\[(b) Repealed. Pub. L. 103–236, title I, §139(11), Apr. 30, 1994, 108 Stat. 398.\]”
+
+#### Definitions
+
+In subsec. (a)(8), independent states of the former Soviet Union has the meaning given in section 5801 of this title, see section 3 of Pub. L. 103–199, set out as a note under section 5801 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4704 of this title.
+

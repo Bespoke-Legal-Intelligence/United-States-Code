@@ -1,0 +1,62 @@
+### §2571. Interchange of property and services
+
+(a) If either of the Secretaries concerned requests it and the other approves, supplies and real estate may be transferred, without compensation, from one armed force to another.
+
+(b) If its head approves, a department or organization within the Department of Defense may, upon request, perform work and services for, or furnish supplies to, any other of those departments or organizations, without reimbursement or transfer of funds.
+
+(c) If military or civilian personnel of a department or organization within the Department of Defense are assigned or detailed to another of those departments or organizations, and if the head of the department or organization to which they are transferred approves, their pay and allowances and the cost of transporting their dependents and household goods may be charged to an appropriation that is otherwise available for those purposes to that department or organization.
+
+(d) No agency or official of the executive branch of the Federal Government may establish any regulation, program, or policy or take any other action which precludes, directly or indirectly, the Secretaries concerned from exercising the authority provided in this section.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 143; Sept. 2, 1958, Pub. L. 85–861, §1(49), 72 Stat. 1459; Dec. 3, 1985, Pub. L. 99–167, title VIII, §821, 99 Stat. 991.)
+
+Historical and Revision Notes<br>1956
+
+Act
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+2571(a) \[now (b)\]
+
+5:171t (less clause (2)).
+
+Oct. 29, 1949, ch. 787, §621, 63 Stat. 1020.
+
+2571(b) \[now (c)\]
+
+5:171t (clause 2)).
+
+In subsection (a), the words “After June 30, 1949” are omitted as executed. The words “may perform work and services for, or furnish supplies to” are substituted for the words “services, work, supplies, materials, and equipment may be rendered or supplied”, since the word “supplies”, as defined in section 101(26) of this title, includes “equipment” and “material”. The words “upon request” are inserted for clarity.
+
+In subsection (b), the words “on a reimbursable or other basis as authorized by law”, “to duty”, and “naval” are omitted as surplusage.
+
+1958
+
+Act
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+2571(a)
+
+14:640.
+
+June 15, 1955, ch. 142, 69 Stat. 134.
+
+In subsection (a), the first 12 words are substituted for 14:640 (last 20 words). The words “may be transferred” are substituted for the words “The interchange . . . is authorized”, since the words “without compensation” authorize a simple one-way transfer, while the word “interchange” normally means a mutual exchange. The words “military stores . . . and equipment of every character” are omitted as covered by the word “supplies” as defined in section 101(26) of this title. The words “armed force” are substituted for the enumeration of the armed forces.
+
+#### Amendments
+
+1985—Subsec. (d). Pub. L. 99–167 added subsec. (d).
+
+1958—Pub. L. 85–861, §1(49)(A), substituted “property” for “supplies” in section catchline.
+
+Subsecs. (a) to (c). Pub. L. 85–861, §1(49)(B), (C), added subsec. (a) and redesignated former subsecs. (a) and (b) as (b) and (c), respectively.
+

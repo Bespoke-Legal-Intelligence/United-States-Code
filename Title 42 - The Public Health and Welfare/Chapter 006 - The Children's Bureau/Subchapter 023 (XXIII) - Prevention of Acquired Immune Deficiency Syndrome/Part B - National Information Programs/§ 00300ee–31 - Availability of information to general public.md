@@ -1,0 +1,34 @@
+### §300ee–31. Availability of information to general public
+
+#### (a) Comprehensive information plan
+
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention,shall annually prepare a comprehensive plan, including a budget, for a National Acquired Immune Deficiency Syndrome Information Program. The plan shall contain provisions to implement the provisions of this subchapter. The Director shall submit such plan to the Secretary. The authority established in this subsection may not be construed to be the exclusive authority for the Director to carry out information activities with respect to acquired immune deficiency syndrome.
+
+#### (b) Clearinghouse
+
+(1) The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may establish a clearinghouse to make information concerning acquired immune deficiency syndrome available to Federal agencies, States, public and private entities, and the general public.
+
+(2) The clearinghouse may conduct or support programs—
+
+&emsp;(A) to develop and obtain educational materials, model curricula, and methods directed toward reducing the transmission of the etiologic agent for acquired immune deficiency syndrome;
+
+&emsp;(B) to provide instruction and support for individuals who provide instruction in methods and techniques of education relating to the prevention of acquired immune deficiency syndrome and instruction in the use of the materials and curricula described in subparagraph (A); and
+
+&emsp;(C) to conduct, or to provide for the conduct of, the materials, curricula, and methods described in paragraph (1) and the efficacy of such materials, curricula, and methods in preventing infection with the the <sup>1</sup> etiologic agent for acquired immune deficiency syndrome.
+
+#### (c) Toll-free telephone communications
+
+The Secretary shall provide for the establishment and maintenance of toll-free telephone communications to provide information to, and respond to queries from, the public concerning acquired immune deficiency syndrome. Such communications shall be available on a 24-hour basis.
+
+(July 1, 1944, ch. 373, title XXV, formerly title XV, §2521, as added Nov. 4, 1988, Pub. L. 100–607, title II, §221, 102 Stat. 3102; renumbered title XXV, Aug. 16, 1989, Pub. L. 101–93, §5(e)(1), 103 Stat. 612; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(22), 106 Stat. 3505.)
+
+#### Amendments
+
+1992—Subsecs. (a), (b)(1). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 300ee–34 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
+

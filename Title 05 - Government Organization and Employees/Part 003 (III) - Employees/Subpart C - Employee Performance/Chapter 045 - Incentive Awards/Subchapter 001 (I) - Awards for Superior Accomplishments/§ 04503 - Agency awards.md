@@ -1,0 +1,42 @@
+### §4503. Agency awards
+
+The head of an agency may pay a cash award to, and incur necessary expense for the honorary recognition of, an employee who—
+
+&emsp;(1) by his suggestion, invention, superior accomplishment, or other personal effort contributes to the efficiency, economy, or other improvement of Government operations or achieves a significant reduction in paperwork; or
+
+&emsp;(2) performs a special act or service in the public interest in connection with or related to his official employment.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 443; Pub. L. 95–454, title V, §502(a), Oct. 13, 1978, 92 Stat. 1183.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 2123(a).
+
+Sept. 1, 1954, ch. 1208, §304(a), 68 Stat. 1113.
+
+The word “employee” is substituted for “civilian officers and employees of the Government” in view of the definition of “employee” in section 4501.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+
+1978—Par. (1). Pub. L. 95–454 inserted “or achieves a significant reduction in paperwork”.
+
+#### Effective Date of 1978 Amendment
+
+Section 504(a) of Pub. L. 95–454 provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+
+#### Cross References
+
+Cash awards for suggestions, inventions or scientific achievements, see section 1124 of Title 10, Armed Forces.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 4502, 4504 of this title; title 12 section 1441a; title 50 section 403e–1.
+

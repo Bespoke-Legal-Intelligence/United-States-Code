@@ -1,0 +1,40 @@
+### §77q. Fraudulent interstate transactions
+
+#### (a) Use of interstate commerce for purpose of fraud or deceit
+
+It shall be unlawful for any person in the offer or sale of any securities by the use of any means or instruments of transportation or communication in interstate commerce or by the use of the mails, directly or indirectly—
+
+&emsp;(1) to employ any device, scheme, or artifice to defraud, or
+
+&emsp;(2) to obtain money or property by means of any untrue statement of a material fact or any omission to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading, or
+
+&emsp;(3) to engage in any transaction, practice, or course of business which operates or would operate as a fraud or deceit upon the purchaser.
+
+#### (b) Use of interstate commerce for purpose of offering for sale
+
+It shall be unlawful for any person, by the use of any means or instruments of transportation or communication in interstate commerce or by the use of the mails, to publish, give publicity to, or circulate any notice, circular, advertisement, newspaper, article, letter, investment service, or communication which, though not purporting to offer a security for sale, describes such security for a consideration received or to be received, directly or indirectly, from an issuer, underwriter, or dealer, without fully disclosing the receipt, whether past or prospective, of such consideration and the amount thereof.
+
+#### (c) Exemptions of section 77c not applicable to this section
+
+The exemptions provided in section 77c of this title shall not apply to the provisions of this section.
+
+(May 27, 1933, ch. 38, title I, §17, 48 Stat. 84; Aug. 10, 1954, ch. 667, title I, §10, 68 Stat. 686.)
+
+#### Amendments
+
+1954—Subsec. (a). Act Aug. 10, 1954, inserted “offer or” before “sale” in introductory text.
+
+#### Effective Date of 1954 Amendment
+
+Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
+
+#### Cross References
+
+Fraud and false statements, see section 1001 et seq. of Title 18, Crimes and Criminal Procedure.
+
+Information and documents to determine eligibility of indenture trustee and analysis of indenture, section as inapplicable to, see section 77eee of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 77t, 77eee, 3904 of this title; title 7 section 1932; title 42 section 9675.
+

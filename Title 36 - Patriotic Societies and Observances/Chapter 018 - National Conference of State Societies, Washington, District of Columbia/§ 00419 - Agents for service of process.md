@@ -1,0 +1,6 @@
+### §419. Agents for service of process
+
+As a condition precedent to the exercise in any State of any power or privilege granted or conferred by this chapter, the corporation shall serve notice upon the secretary of state, or similar officer, of any such State of the name and address of an authorized agent in such State upon whom legal process or demands against the corporation may be served.
+
+(Apr. 3, 1952, ch. 131, §19, 66 Stat. 41.)
+

@@ -1,0 +1,54 @@
+### §1115. Training
+
+(a)
+
+Definition.—In this section, “Institute” means the Transportation Safety Institute of the Department of Transportation and any successor organization of the Institute.
+
+(b)
+
+Use of Institute Services.—The National Transportation Safety Board may use, on a reimbursable basis, the services of the Institute. The Secretary of Transportation shall make the Institute available to—
+
+&emsp;(1) the Board for safety training of employees of the Board in carrying out their duties and powers; and
+
+&emsp;(2) other safety personnel of the United States Government, State and local governments, governments of foreign countries, interstate authorities, and private organizations the Board designates in consultation with the Secretary.
+
+(c)
+
+Fees.—(1) Training at the Institute for safety personnel (except employees of the Government) shall be provided at a reasonable fee established periodically by the Board in consultation with the Secretary. The fee shall be paid directly to the Secretary, and the Secretary shall deposit the fee in the Treasury. The amount of the fee—
+
+&emsp;(A) shall be credited to the appropriate appropriation (subject to the requirements of any annual appropriation); and
+
+&emsp;(B) is an offset against any annual reimbursement agreement between the Board and the Secretary to cover all reasonable costs of providing training under this subsection that the Secretary incurs in operating the Institute.
+
+(2) The Board shall maintain an annual record of offsets under paragraph (1)(B) of this subsection.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 750.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+1115(a)
+
+(no source).
+
+1115(b)
+
+49 App.:1903(b)(10) (1st, 2d sentences).
+
+Jan. 3, 1975, Pub. L. 93–633, §304(b)(10), 88 Stat. 2156; added July 19, 1988, Pub. L. 100–372, §4, 102 Stat. 876.
+
+1115(c)
+
+49 App.:1903(b)(10) (3d–last sentences).
+
+In subsections (b) and (c), the words “or successor organization” are omitted as unnecessary because of subsection (a) of this section.
+
+In subsection (b), before clause (1), the words “(established for the purpose of developing courses and conducting training in safety and security for all modes of transportation)” are omitted as surplus. In clause (1), the words “carrying out their duties and powers” are substituted for “in the performance of all of their authorized functions” for consistency in the revised title and with other titles of the United States Code. In clause (2), the words “of the United States Government, State and local governments, governments of foreign countries, interstate authorities, and private organizations” are substituted for “of Federal, interstate, State, local, and foreign governments and non-governmental organizations” for clarity and consistency in the revised title and with other titles of the Code.
+
+In subsection (c)(1), before clause (A), the words “the Secretary shall deposit the fee in the Treasury” are added for clarity. In clause (B), the words “direct and indirect” are omitted as surplus. The word “administration” is omitted as being included in “operating”. The text of 49 App.:1903(b)(10) (last sentence) is omitted because 5:ch. 41 applies to the National Transportation Safety Board by its own terms.
+

@@ -1,0 +1,12 @@
+### §411a. Travel and transportation allowances: travel performed in connection with convalescent leave
+
+(a) Under uniform regulations prescribed by the Secretaries concerned, a member of a uniformed service is entitled to travel and transportation allowances for travel from his place of medical treatment in the continental United States to a place selected by him and approved by the Secretary concerned, and return, when the Secretary concerned determines that the member is traveling in connection with authorized leave for convalescence from illness or injury incurred while the member was eligible for the receipt of hostile fire pay under section 310 of this title.
+
+(b) The allowances prescribed under this section may not be at rates more than the rates authorized under section 404(d)(1) of this title. Authorized travel under this section is performed in a duty status.
+
+(Added Pub. L. 90–207, §9(1), Dec. 16, 1967, 81 Stat. 655.)
+
+#### Effective Date
+
+Section effective Oct. 1, 1967, see section 7 of Pub. L. 90–207, set out as an Effective Date of 1967 Amendment note under section 203 of this title.
+

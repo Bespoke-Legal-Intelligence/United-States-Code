@@ -1,0 +1,40 @@
+### §104. Adjustment of dollar amounts
+
+(a) The Judicial Conference of the United States shall transmit to the Congress and to the President before May 1, 1985, and before May 1 of every sixth year after May 1, 1985, a recommendation for the uniform percentage adjustment of each dollar amount in this title and in section 1930 of title 28.
+
+(b)(1) On April 1, 1998, and at each 3-year interval ending on April 1 thereafter, each dollar amount in effect under sections 109(e), 303(b), 507(a), 522(d), and 523(a)(2)(C) immediately before such April 1 shall be adjusted—
+
+&emsp;(A) to reflect the change in the Consumer Price Index for All Urban Consumers, published by the Department of Labor, for the most recent 3-year period ending immediately before January 1 preceding such April 1, and
+
+&emsp;(B) to round to the nearest $25 the dollar amount that represents such change.
+
+(2) Not later than March 1, 1998, and at each 3-year interval ending on March 1 thereafter, the Judicial Conference of the United States shall publish in the Federal Register the dollar amounts that will become effective on such April 1 under sections 109(e), 303(b), 507(a), 522(d), and 523(a)(2)(C) of this title.
+
+(3) Adjustments made in accordance with paragraph (1) shall not apply with respect to cases commenced before the date of such adjustments.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 103–394, title I, §108(e), Oct. 22, 1994, 108 Stat. 4112.)
+
+#### Historical and Revision Notes
+
+I74legislative statements
+
+Section 104 represents a compromise between the House bill and the Senate amendment with respect to the adjustment of dollar amounts in title 11. The House amendment authorizes the Judicial Conference of the United States to transmit a recommendation for the uniform percentage of adjustment for each dollar amount in title 11 and in 28 U.S.C. 1930 to the Congress and to the President before May 1, 1985, and before May 1 of every sixth year thereafter. The requirement in the House bill that each such recommendation be based only on any change in the cost-of-living increase during the period immediately preceding the recommendation is deleted.
+
+#### senate report no. 95–989
+
+This section requires that the Director of the Administrative Office of the U. S. Courts report to Congress and the President before Oct. 1, 1985, and before May 1 every 6 years thereafter a recommendation for adjustment in dollar amounts found in this title. The Committee feels that regular adjustment of the dollar amounts by the Director will conserve congressional time and yet assure that the relative dollar amounts used in the bill are maintained. Changes in the cost of living should be a significant, but not necessarily the only, factor considered by the Director. The fact that there has been an increase in the cost of living does not necessarily mean that an adjustment of dollar amounts would be needed or warranted.
+
+#### house report no. 95–595
+
+This section requires the Judicial Conference to report to the Congress every four years after the effective date of the bankruptcy code any changes that have occurred in the cost of living during the preceding four years, and the appropriate adjustments to the dollar amounts in the bill. The dollar amounts are found primarily in the exemption section (11 U.S.C. 522), the wage priority (11 U.S.C. 507), and the eligibility for chapter 13 (11 U.S.C. 109). This section requires that the Conference recommend uniform percentage changes in these amounts based solely on cost of living changes. The dollar amounts in the bill would not change on that recommendation, absent Congressional veto. Instead, Congress is required to take affirmative action, by passing a law amending the appropriate section, if it wishes to accomplish the change.
+
+If the Judicial Conference has policy recommendations concerning the appropriate dollar amounts in the bankruptcy code based other than on cost of living considerations there are adequate channels through which it may communicate its views. This section is solely for the housekeeping function of maintaining the dollar amounts in the code at fairly constant real dollar levels.
+
+#### Amendments
+
+1994—Pub. L. 103–394 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+

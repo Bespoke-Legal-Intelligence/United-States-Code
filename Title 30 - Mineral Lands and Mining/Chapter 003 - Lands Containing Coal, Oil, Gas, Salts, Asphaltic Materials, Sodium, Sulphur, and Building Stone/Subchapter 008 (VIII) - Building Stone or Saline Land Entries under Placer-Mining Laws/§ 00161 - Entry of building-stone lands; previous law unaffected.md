@@ -1,0 +1,22 @@
+### §161. Entry of building-stone lands; previous law unaffected
+
+Any person authorized to enter lands under the mining laws of the United States may enter lands that are chiefly valuable for building stone under the provisions of the law in relation to placer mineral claims. Lands reserved for the benefit of the public schools or donated to any States shall not be subject to entry under this section. Nothing contained in this section shallbe construed to repeal section 471 of title 16 relating to the establishment of national forests.
+
+(Aug. 4, 1892, ch. 375, §§1, 3, 27 Stat. 348.)
+
+#### References in Text
+
+The mining laws of the United States, referred to in text, are classified generally to this title.
+
+#### Codification
+
+First two sentences of this section are from section 1 and last sentence of this section is from section 3 of act Aug. 4, 1892.
+
+#### Cross References
+
+Placer-mineral claims provisions, see sections 35 to 38 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 16 section 1907; title 43 section 299.
+

@@ -1,0 +1,184 @@
+### §1174a. Special separation benefits programs
+
+(a)
+
+Requirement for Programs.—The Secretary concerned shall carry out a special separation benefits program under this section. An eligible member of the armed forces may request separation under the program. The request shall be subject to the approval of the Secretary.
+
+(b)
+
+Benefits.—Upon the approval of the request of an eligible member, the member shall—
+
+&emsp;(1) be released from active duty or full-time National Guard duty or discharged, as the case may be; and
+
+&emsp;(2) be entitled to—
+
+&emsp;&emsp;(A) separation pay equal to 15 percent of the product of (i) the member's years of active service, and (ii) 12 times the monthly basic pay to which the member is entitled at the time of his discharge or release from active duty; and
+
+&emsp;&emsp;(B) the same benefits and services as are provided under chapter 58 of this title, sections 404 and 406 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 406 note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title.
+
+(c)
+
+Eligibility.—Subject to subsections (d) and (e), a member of an armed force is eligible for voluntary separation under a program established for that armed force pursuant to this section if the member—
+
+&emsp;(1) has not been approved for payment of a voluntary separation incentive under section 1175 of this title;
+
+&emsp;(2) has served on active duty or full-time National Guard duty or any combination of active duty and full-time National Guard duty for more than 6 years;
+
+&emsp;(3) has served on active duty or full-time National Guard duty or any combination of active duty and full-time National Guard duty for not more than 20 years;
+
+&emsp;(4) has served at least 5 years of continuous active duty or full-time National Guard duty or any combination of active duty and full-time National Guard duty immediately preceding the date of the member's separation from active duty; and
+
+&emsp;(5) meets such other requirements as the Secretary may prescribe, which may include requirements relating to—
+
+&emsp;&emsp;(A) years of service;
+
+&emsp;&emsp;(B) skill or rating;
+
+&emsp;&emsp;(C) grade or rank; and
+
+&emsp;&emsp;(D) remaining period of obligated service.
+
+(d)
+
+Program Applicability.—The Secretary concerned may provide for the program under this section to apply to any of the following members:
+
+&emsp;(1) A regular officer or warrant officer of an armed force.
+
+&emsp;(2) A regular enlisted member of an armed force.
+
+&emsp;(3) A member of an armed force other than a regular member.
+
+(e)
+
+Applicability Subject to Needs of the Service.—(1) Subject to paragraphs (2) and (3), the Secretary concerned may limit the applicability of a program under this section to any category of personnel defined by the Secretary in order to meet a need of the armed force under the Secretary's jurisdiction to reduce the number of members in certain grades, the number of members who have completed a certain number of years of active service, or the number of members who possess certain military skills or are serving in designated competitive categories.
+
+(2) Any category prescribed by the Secretary concerned for regular officers, regular enlisted members, or other members pursuant to paragraph (1) shall be consistent with the categories applicable to regular officers, regular enlisted members, or other members, respectively, under the voluntary separation incentive program under section 1175 of this title or any other program established by law or by that Secretary for the involuntary separation of such members in the administration of a reduction in force.
+
+(3) A member of the armed forces offered a voluntary separation incentive under section 1175 of this title shall also be offered the opportunity to request separation under a program established pursuant to this section. If the Secretary concerned approves a request for separation under either such section, the member shall be separated under the authority of the section selected by such member.
+
+(f)
+
+Application Requirements.—(1) In order to be separated under a program established pursuant to this section—
+
+&emsp;(A) a regular enlisted member eligible for separation under that program shall—
+
+&emsp;&emsp;(i) submit a request for separation under the program before the expiration of the member's term of enlistment; or
+
+&emsp;&emsp;(ii) upon discharge at the end of such term, enter into a written agreement (pursuant to regulations prescribed by the Secretary concerned) not to request reenlistment in a regular component; and
+
+&emsp;(B) a member referred to in subsection (d)(3) eligible for separation under that program shall submit a request for separation to the Secretary concerned before the expiration of the member's established term of active service.
+
+(2) For purposes of this section, the entry of a member into an agreement referred to in paragraph (1)(A)(ii) under a program established pursuant to this section shall be considered a request for separation under the program.
+
+(g)
+
+Other Conditions, Requirements, and Administrative Provisions.—Subsections (e) through (h), other than subsection (e)(2)(A), of section 1174 of this title shall apply in the administration of programs established under this section.
+
+(h)
+
+Termination of Program.—(1) Except as provided in paragraph (2), the Secretary concerned may not conduct a program pursuant to this section after September 30, 1999.
+
+(2) No member of the armed forces may be separated under a program established pursuant to this section after the date of the termination of that program.
+
+(Added Pub. L. 102–190, div. A, title VI, §661(a)(1), Dec. 5, 1991, 105 Stat. 1394; amended Pub. L. 102–484, div. A, title X, §1052(15), div. D, title XLIV, §§4405(a), 4422(a), Oct. 23, 1992, 106 Stat. 2499, 2706, 2718; Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §§502, 561(g), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(b), Oct. 5, 1994, 108 Stat. 2768.)
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–337, §542(b)(1), substituted “concerned” for “of each military department”.
+
+Subsec. (d). Pub. L. 103–337, §542(b)(2), substituted “concerned” for “of a military department”.
+
+Subsec. (e)(3). Pub. L. 103–337, §542(b)(3), struck out “of the military department” after “Secretary”.
+
+Subsec. (h). Pub. L. 103–337, §542(b)(4), substituted “concerned” for “of a military department”.
+
+1993—Subsec. (c)(2). Pub. L. 103–160, §502, struck out “before December 5, 1991” after “6 years”.
+
+Subsec. (c)(3). Pub. L. 103–35, §202(a)(17)(A), made technical amendment to directory language of Pub. L. 102–484, §4422(a)(3). See 1992 Amendment note below.
+
+Subsec. (c)(4). Pub. L. 103–35, §202(a)(17)(B), made technical amendment to directory language of Pub. L. 102–484, §4422(a)(4). See 1992 Amendment note below.
+
+Subsec. (h)(1). Pub. L. 103–160, §561(g), substituted “September 30, 1999” for “September 30, 1995”.
+
+1992—Subsec. (b)(1). Pub. L. 102–484, §4422(a)(1), inserted “or full-time National Guard duty” after “active duty”.
+
+Subsec. (b)(2)(B). Pub. L. 102–484, §4405(a), inserted “, sections 404 and 406 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 406 note)” after “chapter 58 of this title”.
+
+Subsec. (c)(2). Pub. L. 102–484, §§1052(15), 4422(a)(2), substituted “December 5, 1991” for “the date of the enactment of this section” and inserted “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty”.
+
+Subsec. (c)(3). Pub. L. 102–484, §4422(a)(3), as amended by Pub. L. 103–35, §202(a)(17)(A), inserted “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty”.
+
+Subsec. (c)(4). Pub. L. 102–484, §4422(a)(4), as amended by Pub. L. 103–35, §202(a)(17)(B), inserted “and” after semicolon at end and “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty” the first place it appeared.
+
+Subsec. (c)(5), (6). Pub. L. 102–484, §4424(a)(5), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “if a Reserve, is on an active duty list; and”.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
+
+#### Effective Date of 1993 Amendment
+
+Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub. L. 102–484, see section 202(b) of Pub. L. 103–35, set out as a note under section 155 of this title.
+
+#### Effective Date of 1992 Amendment
+
+Section 4405(c) of Pub. L. 102–484 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1175 of this title\] shall apply as if included in sections 1174a and 1175 of title 10, United States Code, as enacted on December 5, 1991, but any benefits or services payable by reason of the applicability of the provisions of those amendments during the period beginning on December 5, 1991, and ending on the date of the enactment of this Act \[Oct. 23, 1992\] shall be subject to the availability of appropriations.”
+
+#### Remedy for Ineffective Counseling of Officers Discharged Following Selection by Early Discharge Boards
+
+Pub. L. 103–160, div. A, title V, §507, Nov. 30, 1993, 107 Stat. 1646, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(1), Oct. 5, 1994, 108 Stat. 2856, provided that:
+
+“(a)
+
+Procedure for Review.—(1) The Secretary of each military department shall establish a procedure for the review of the individual circumstances of an officer described in paragraph (2) who is discharged, or who the Secretary concerned approves for discharge, following the report of a selection board convened by the Secretary to select officers for separation. The procedure established by the Secretary of a military department under this section shall provide that each review under that procedure be carried out by the Board for the Correction of Military Records of that military department.
+
+“(2) This section applies in the case of any officer (including a warrant officer) who, having been offered the opportunity to be discharged or otherwise separated from active duty through the programs provided under section 1174a and 1175 of title 10, United States Code—
+
+&emsp;“(A) elected not to accept such discharge or separation; and
+
+&emsp;“(B) submits an application under subsection (b) during the two-year period beginning on the later of the date of the enactment of this Act \[Nov. 30, 1993\] and the date of such discharge or separation.
+
+“(b)
+
+Application.—A review under this section shall be conducted in any case submitted to the Secretary concerned by application from the officer or former officer under regulations prescribed by the Secretary.
+
+“(c)
+
+Purpose of Review.—(1) The review under this section shall be designed to evaluate the effectiveness of the counseling of the officer before the convening of the board to ensure that the officer was properly informed that selection for discharge or other separation from active duty was a potential result of being within the group of officers to be considered by the board and that the officer was not improperly informed that such selection in that officer's personal case was unlikely.
+
+“(2) The Board for the Correction of Military Records of a military department shall render a decision in each case under this section not later than 60 days after receipt by the Secretary concerned of an application under subsection (b).
+
+“(d)
+
+Remedy.—Upon a finding of ineffective counseling under subsection (c), the Secretary shall provide the officer the opportunity to participate, at the officer's option, in any one of the following programs for which the officer meets all eligibility criteria:
+
+&emsp;“(1) The Special Separation Benefits program under section 1174a of title 10, United States Code.
+
+&emsp;“(2) The Voluntary Separation Incentive program under section 1175 of such title.
+
+&emsp;“(3) Retirement under the authority provided by section 4403 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2702; 10 U.S.C. 1293 note).
+
+“(e)
+
+Effective Date.—This section shall apply with respect to officers separated after September 30, 1990.”
+
+#### Separation Payments; Reductions and Prohibitions
+
+Pub. L. 103–335, title VIII, §8106A, Sept. 30, 1994, 108 Stat. 2645, provided that: “In the case of members who separate from active duty or full-time National Guard duty in a military department pursuant to a Special Separation Benefits program (10 U.S.C. 1174a) or a Voluntary Separation Incentive program (10 U.S.C. 1175) at any time after the enactment of this Act \[Sept. 30, 1994\], the separation payments paid such members who are also paid any bonus provided for in chapter 5, title 37, United States Code, during the same years in which they separate shall be reduced (but in no event to an amount less than zero) by an amount equal to any such bonus: <i>Provided</i>, That any future bonus payments to which such members would otherwise be entitled are rescinded: <i>Provided further</i>, That this measure will not apply to members who separate during the last year of a bonus paid pursuant to chapter 5, title 37, United States Code: <i>Provided further</i>, That civilian employees of the Department of Defense are prohibited from receiving voluntary separation payments if such employees are rehired by any agency of the Federal Government within one hundred and eighty days of separating from the Department of Defense: <i>Provided further</i>, That members who separate from active duty or full-time National Guard duty in a military department at any time after the enactment of this Act, are prohibited from receiving Special Separation Benefits program (10 U.S.C. 1174a) or Voluntary Separation Incentive program (10 U.S.C. 1175) payments if rehired in a civilian position by the Department of Defense within one hundred and eighty days of separating from active duty or full-time National Guard duty.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 103–139, title VIII, §8127, Nov. 11, 1993, 107 Stat. 1469.
+
+#### Commencement of Program
+
+Section 661(b) of Pub. L. 102–190 provided that: “The Secretary of each military department shall commence the program required by section 1174a of title 10, United States Code (as added by subsection (a)), not later than 60 days after the date of the enactment of this Act \[Dec. 5, 1991\].”
+
+#### Report on Programs
+
+Section 663 of Pub. L. 102–190 directed Secretary, not later than 180 days after Dec. 5, 1991, to submit to Congress a report containing the Secretary's assessment of effectiveness of programs established under sections 1174a and 1175 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1151, 1152, 1153, 1175 of this title; title 29 section 1662d–1; title 38 section 3018B.
+

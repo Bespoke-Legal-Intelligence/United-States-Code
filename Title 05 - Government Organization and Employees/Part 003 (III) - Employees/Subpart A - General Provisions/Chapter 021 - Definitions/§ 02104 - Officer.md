@@ -1,0 +1,40 @@
+### §2104. Officer
+
+(a) For the purpose of this title, “officer”, except as otherwise provided by this section or when specifically modified, means a justice or judge of the United States and an individual who is—
+
+&emsp;(1) required by law to be appointed in the civil service by one of the following acting in an official capacity—
+
+&emsp;&emsp;(A) the President;
+
+&emsp;&emsp;(B) a court of the United States;
+
+&emsp;&emsp;(C) the head of an Executive agency; or
+
+&emsp;&emsp;(D) the Secretary of a military department;
+
+&emsp;(2) engaged in the performance of a Federal function under authority of law or an Executive act; and
+
+&emsp;(3) subject to the supervision of an authority named by paragraph (1) of this section, or the Judicial Conference of the United States, while engaged in the performance of the duties of his office.
+
+(b) Except as otherwise provided by law, an officer of the United States Postal Service or of the Postal Rate Commission is deemed not an officer for purposes of this title.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 408; Pub. L. 91–375, §6(c)(3), Aug. 12, 1970, 84 Stat. 775.)
+
+#### Historical and Revision Notes
+
+The section is supplied for convenience.
+
+#### Amendments
+
+1970—Subsec. (a). Pub. L. 91–375, §6(c)(3)(A), (B), designated existing provisions as subsec. (a) and inserted in introductory text “as otherwise provided by this section or” after “except”.
+
+Subsec. (b). Pub. L. 91–375, §6(c)(3)(C), added subsec. (b).
+
+#### Effective Date of 1970 Amendment
+
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 902 of this title; title 18 section 202; title 50 section 426.
+

@@ -1,0 +1,14 @@
+### §7458. Hearings
+
+Notice and opportunity to be heard upon any proceeding instituted before the Tax Court shall be given to the taxpayer and the Secretary. If an opportunity to be heard upon the proceeding is given before a division of the Tax Court, neither the taxpayer nor the Secretary shall be entitled to notice and opportunity to be heard before the Tax Court upon review, except upon a specific order of the chief judge. Hearings before the Tax Court and its divisions shall be open to the public, and the testimony, and, if the Tax Court so requires, the argument, shall be stenographically reported. The Tax Court is authorized to contract (by renewal of contract or otherwise) for the reporting of such hearings, and in such contract to fix the terms and conditions under which transcripts will be supplied by the contractor to the Tax Court and to other persons and agencies.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 886; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), (L), 90 Stat. 1834, 1835.)
+
+#### Amendments
+
+1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” and struck out “nor his delegate” after “nor the Secretary”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6110 of this title.
+

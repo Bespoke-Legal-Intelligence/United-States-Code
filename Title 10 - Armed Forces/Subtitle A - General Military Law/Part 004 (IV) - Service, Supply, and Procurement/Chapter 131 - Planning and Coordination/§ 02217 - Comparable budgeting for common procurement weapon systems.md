@@ -1,0 +1,32 @@
+### §2217. Comparable budgeting for common procurement weapon systems
+
+(a)
+
+Matters To Be Included in Annual Defense Budgets.—In preparing the defense budget for any fiscal year, the Secretary of Defense shall—
+
+&emsp;(1) specifically identify each common procurement weapon system included in the budget;
+
+&emsp;(2) take all feasible steps to minimize variations in procurement unit costs for any such system as shown in the budget requests of the different armed forces requesting procurement funds for the system; and
+
+&emsp;(3) identify and justify in the budget all such variations in procurement unit costs for common procurement weapon systems.
+
+(b)
+
+Comptroller.—The Secretary shall carry out this section through the Comptroller of the Department of Defense.<sup>1</sup>
+
+(c)
+
+Definitions.—In this section:
+
+&emsp;(1) The term “defense budget” means the budget of the Department of Defense included in the President's budget submitted to Congress under section 1105 of title 31 for a fiscal year.
+
+&emsp;(2) The term “common procurement weapon system” means a weapon system for which two or more of the Army, Navy, Air Force, and Marine Corps request procurement funds in a defense budget.
+
+(Added Pub. L. 100–370, §1(d)(3)(A), July 19, 1988, 102 Stat. 843.)
+
+#### Historical and Revision Notes
+
+Section is based on Pub. L. 99–500, §101(c) \[title X, §955\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–173, and Pub. L. 99–591, §101(c) \[title X, §955\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–173; Pub. L. 99–661, div. A, title IX, formerly title IV, §955, Nov. 14, 1986, 100 Stat. 3953, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Under Secretary of Defense (Comptroller)”.</i>
+

@@ -1,0 +1,10 @@
+### §80a–50. Separability
+
+If any provision of this subchapter or any provision incorporated in this subchapter by reference, or the application of any such provision to any person or circumstances, shall be held invalid, the remainder of this subchapter and the application of any such provision to person or circumstances other than those as to which it is held invalid shall not be affected thereby.
+
+(Aug. 22, 1940, ch. 686, title I, §51, 54 Stat. 846.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 80a–6, 80a–58 of this title.
+

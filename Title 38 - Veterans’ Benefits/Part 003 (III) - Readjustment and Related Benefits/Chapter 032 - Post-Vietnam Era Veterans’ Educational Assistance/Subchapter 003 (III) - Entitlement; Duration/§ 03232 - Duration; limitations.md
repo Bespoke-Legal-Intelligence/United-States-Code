@@ -1,0 +1,40 @@
+### §3232. Duration; limitations
+
+(a)(1) Except as provided in paragraphs (2) and (3), and subject to paragraph (4), of this subsection, educational assistance benefits shall not be afforded an eligible veteran under this chapter more than 10 years after the date of such veteran's last discharge or release from active duty.
+
+(2)(A) If any eligible veteran was prevented from initiating or completing such veteran's chosen program of education during the delimiting period determined under paragraph (1) of this subsection because of a physical or mental disability which was not the result of such veteran's own willful misconduct, such veteran shall, upon application made in accordance with subparagraph (B) of this paragraph, be granted an extension of the applicable delimiting period for such length of time as the Secretary determines, from the evidence, that such veteran was so prevented from initiating or completing such program of education.
+
+(B) An extension of the delimiting period applicable to an eligible veteran may be granted under subparagraph (A) of this paragraph by reason of the veteran's mental or physical disability only if the veteran submits an application for such extension to the Secretary within one year after (i) the last date of the delimiting period otherwise applicable to the veteran under paragraph (1) of this subsection, or (ii) the termination date of the period of the veteran's mental or physical disability, whichever is later.
+
+(3) When an extension of the applicable delimiting period is granted an eligible veteran under paragraph (2) of this subsection, the delimiting period with respect to such veteran shall again begin to run on the first day after such veteran's recovery from such disability on which it is reasonably feasible, as determined in accordance with regulations prescribed by the Secretary, for such veteran to initiate or resume pursuit of a program of education with educational assistance under this chapter.
+
+(4) For purposes of paragraph (1) of this subsection, a veteran's last discharge or release from active duty shall not include any dischargeor release from a period of active duty of less than 90 days of continuous service unless the individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force as described in section 3011(a)(1)(A)(ii)(III) of this title.
+
+(b)(1) In the event that an eligible veteran has not utilized any or all of such veteran's entitlement by the end of the delimiting period applicable to the veteran under subsection (a) of this section and at the end of one year thereafter has not filed a claim for utilizing such entitlement, such eligible veteran is automatically disenrolled.
+
+(2)(A) Any contributions which were made by a veteran disenrolled under paragraph (1) of this subsection and remain in the fund shall be refunded to the veteran after notice of disenrollment is transmitted to the veteran and the veteran applies for such refund.
+
+(B) If no application for refund of contributions under subparagraph (A) of this paragraph is received from a disenrolled veteran within one year after the date the notice referred to in such subparagraph is transmitted to the veteran, it shall be presumed, for the purposes of section 1322(a) of title 31, that the veteran's whereabouts is unknown and the funds shall be transferred as provided in such section.
+
+(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2396, §1632; amended Pub. L. 97–258, §3(k)(2), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 98–160, title VII, §702(8), Nov. 21, 1983, 97 Stat 1009; Pub. L. 99–576, title III, §311, Oct. 28, 1986, 100 Stat. 3272; Pub. L. 101–237, title IV, §§420(a)(2), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2087, 2092; Pub. L. 102–16, §4, Mar. 22, 1991, 105 Stat. 49; renumbered §3232 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+
+#### Amendments
+
+1991—Pub. L. 102–83, §5(a), renumbered section 1632 of this title as this section.
+
+Subsec. (a)(4). Pub. L. 102–83, §5(c)(1), substituted “3011(a)(1)(A)(ii)(III)” for “1411(a)(1)(A)(ii)(III)”.
+
+Subsec. (b)(1). Pub. L. 102–16 inserted before comma “and at the end of one year thereafter has not filed a claim for utilizing such entitlement”.
+
+1989—Subsec. (a)(1). Pub. L. 101–237, §420(a)(2)(B), inserted “, and subject to paragraph (4),” before “of this subsection”.
+
+Subsec. (a)(2), (3). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+
+Subsec. (a)(4). Pub. L. 101–237, §420(a)(2)(A), added par. (4).
+
+1986—Pub. L. 99–576 amended section generally. Prior to amendment, section read as follows: “No educational assistance benefits shall be afforded an eligible veteran under this chapter beyond the date of 10 years after such veteran's last discharge or release from active duty. In the event an eligible veteran has not utilized any or all of such veterans’ entitlement by the end of the 10-year period, such eligible veteran is automatically disenrolled and any contributions made by such veteran remaining in the fund shall be refunded to the veteran following notice to the veteran and an application by the veteran for such refund. If no application is received within 1 year from date of notice, it will be presumed for the purposes of section 1322(a) of title 31 that the individual's whereabouts is unknown and the funds shall be transferred as directed in such section.”
+
+1983—Pub. L. 98–160 struck out the comma after “title 31” and substituted “such section” for “section 1322(a)”.
+
+1982—Pub. L. 97–258 substituted “section 1322(a) of title 31” and “section 1322(a)” for “subsection (a) of section 725s of title 31” and “the last proviso of that subsection”, respectively.
+

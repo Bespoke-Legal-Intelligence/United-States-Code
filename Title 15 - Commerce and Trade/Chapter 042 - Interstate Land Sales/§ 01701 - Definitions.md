@@ -1,0 +1,52 @@
+### §1701. Definitions
+
+For the purposes of this chapter, the term—
+
+&emsp;(1) “Secretary” means the Secretary of Housing and Urban Development;
+
+&emsp;(2) “person” means an individual, or an unincorporated organization, partnership, association, corporation, trust, or estate;
+
+&emsp;(3) “subdivision” means any land which is located in any State or in a foreign country and is divided or is proposed to be divided into lots, whether contiguous or not, for the purpose of sale or lease as part of a common promotional plan;
+
+&emsp;(4) “common promotional plan” means a plan, undertaken by a single developer or a group of developers acting in concert, to offer lots for sale or lease; where such land is offered for sale by such a developer or group of developers acting in concert, and such land is contiguous or is known, designated, or advertised as a common unit or by a common name, such land shall be presumed, without regard to the number of lots covered by each individual offering, as being offered for sale or lease as part of a common promotional plan;
+
+&emsp;(5) “developer” means any person who, directly or indirectly, sells or leases, or offers to sell or lease, or advertises for sale or lease any lots in a subdivision;
+
+&emsp;(6) “agent” means any person who represents, or acts for or on behalf of, a developer in selling or leasing, or offering to sell or lease, any lot or lots in a subdivision; but shall not include an attorney at law whose representation of another person consists solely of rendering legal services;
+
+&emsp;(7) “blanket encumbrance” means a trust deed, mortgage, judgment, or any other lien or encumbrance, including an option or contract to sell or a trust agreement, affecting a subdivision or affecting more than one lot offered within a subdivision except that such term shall not include any lien or other encumbrance arising as the result of the imposition of any tax assessment by any public authority;
+
+&emsp;(8) “interstate commerce” means trade or commerce among the several States or between any foreign country and any State;
+
+&emsp;(9) “State” includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States;
+
+&emsp;(10) “purchaser” means an actual or prospective purchaser or lessee of any lot in a subdivision; and
+
+&emsp;(11) “offer” includes any inducement, solicitation, or attempt to encourage a person to acquire a lot in a subdivision.
+
+(Pub. L. 90 448, title XIV, §1402, Aug. 1, 1968, 82 Stat. 590; Pub. L. 93 383, title VIII, §812(a), Aug. 22, 1974, 88 Stat. 736; Pub. L. 96 153, title IV, §401, Dec. 21, 1979, 93 Stat. 1122; Pub. L. 100 628, title X, §1089(a), Nov. 7, 1988, 102 Stat. 3283.)
+
+#### Amendments
+
+1988—Par. (10). Pub. L. 100 628 inserted “and” after semicolon.
+
+1979—Par. (3). Pub. L. 96 153 substituted provisions defining “subdivision” as the division or proposed division of land into lots for the purpose of sale or lease as part of a common promotional plan, for provisions defining “subdivision” as the division or proposed division of land into fifty or more lots for the purpose of sale or lease as part of a common promotional plan and presumptions respecting activities as being deemed part of such common promotional plan.
+
+Pars. (4) to (11). Pub. L. 96 153 added par. (4) and redesignated former pars. (4) to (10) as (5) to (11), respectively.
+
+1974—Par. (3). Pub. L. 93 383, §812(a)(1), inserted “, located in any State or in a foreign country” after “any land”.
+
+Par. (7). Pub. L. 93 383, §812(a)(2), inserted “or between any foreign country and any State” after “States”.
+
+#### Effective Date of 1979 Amendment
+
+Section 410 of title IV of Pub. L. 96 153 provided that: “The amendments made by this title \[enacting section 1719a of this title and amending this section and sections 1702, 1703, 1708, 1709, 1711, 1715, and 1717 of this title\] shall become effective on the effective date of regulations implementing such amendments, but in no case later than six months following the date of enactment of this Act \[Dec. 21, 1979\], except that section 1403(b)(7) of the Interstate Land Sales Full Disclosure Act \[section 1702(b)(7) of this title\], contained in the amendment made by section 402, shall become effective on the date of enactment.”
+
+#### Effective Date
+
+Section 1423, formerly §1422, of title XIV of Pub. L. 90 448, as renumbered by Pub. L. 96 153, title IV, §409, Dec. 21, 1979, 93 Stat. 1132, provided that: “This title \[enacting this chapter\] shall take effect upon the expiration of two hundred and seventy days after the date of its enactment \[Aug. 1, 1968\].”
+
+#### Short Title
+
+Section 1401 of title XIV of Pub. L. 90 448 provided that: “This title \[enacting this chapter\] may be cited as the ‘Interstate Land Sales Full Disclosure Act’.”
+

@@ -1,0 +1,26 @@
+### §500. Duty of association or district to take over management
+
+Whenever two-thirds of the irrigable area of any project, or division of a project, shall be covered by water-right contracts between the water users and the United States, said project shall be required, as a condition precedent to receiving the benefits of sections 371, 376, 377, 412, 417, 433, 438,<sup>1</sup> 462, 463,<sup>1</sup> 466, 467,<sup>1</sup> 473,<sup>1</sup> 474,<sup>1</sup> 478, 493, 494, 500, 501, and 526 of this title to take over, through a legally organized water-users’ association or irrigation district, the care, operation, and maintenance of all or any part of the project works, subject to such rules and regulations as the Secretary may prescribe, and thereafter the United States, in its relation to said project, shall deal with a water users’ association or irrigation district, and when the water users assume control of a project, the operation and maintenance charges for the year then current shall be covered into the construction account to be repaid as part of the construction repayments.
+
+(Dec. 5, 1924, ch. 4, §4, subsec. G, 43 Stat. 702.)
+
+#### References in Text
+
+Section 438 of this title, referred to in text, was repealed by act Aug. 13, 1953, ch. 428, §10, 67 Stat. 568.
+
+Sections 463, 467, 473, and 474 of this title, referred to in text, were repealed by act May 25, 1926, ch. 383, §47, 44 Stat. 650.
+
+#### Definitions
+
+The definitions in section 371 of this title apply to this section.
+
+#### Cross References
+
+Amendment of existing water-right contracts by Secretary of the Interior, see section 423d of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 371, 417, 493 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

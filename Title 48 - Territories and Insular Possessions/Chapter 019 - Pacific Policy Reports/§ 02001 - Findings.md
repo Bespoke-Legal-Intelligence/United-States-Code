@@ -1,0 +1,28 @@
+### §2001. Findings
+
+The Congress finds that—
+
+&emsp;(1) the United States does not have a clearly defined policy for United States noncontiguous Pacific areas (including the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the State of Hawaii, and the State of Alaska) and for United States-associated noncontiguous Pacific areas (including the Federated States of Micronesia, the Marshall Islands, and Palau);
+
+&emsp;(2) the Federal Government has often failed to consider the implications for, effects on, and potential of noncontiguous Pacific areas in the formulation and conduct of foreign and domestic policy, to the detriment of both the attainment of the objectives of Federal policy and noncontiguous Pacific areas;
+
+&emsp;(3) policies and programs designed for the United States as a whole may impose inappropriate standards on noncontiguous Pacific areas because of their unique circumstances and needs; and
+
+&emsp;(4) the present Federal organizational arrangements for liaison with (and providing assistance to) the insular areas may not be adequate—
+
+&emsp;&emsp;(A) to coordinate the delivery of Federal programs and services to noncontiguous Pacific areas;
+
+&emsp;&emsp;(B) to provide a consistent basis for administration of programs;
+
+&emsp;&emsp;(C) to adapt policy to the special requirements of each area and modify the application of Federal programs, laws, and regulations accordingly;
+
+&emsp;&emsp;(D) to be responsive to the Congress in the discharge of its responsibilities; and
+
+&emsp;&emsp;(E) to attain the international obligations of the United States.
+
+(Pub. L. 99–239, title III, §301, Jan. 14, 1986, 99 Stat. 1836.)
+
+#### Codification
+
+Section was formerly set out as a note under section 1681 of this title.
+

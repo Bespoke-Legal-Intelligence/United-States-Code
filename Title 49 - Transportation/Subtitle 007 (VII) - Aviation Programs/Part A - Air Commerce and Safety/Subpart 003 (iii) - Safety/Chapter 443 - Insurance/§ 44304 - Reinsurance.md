@@ -1,0 +1,34 @@
+### §44304. Reinsurance
+
+(a)
+
+General Authority.—To the extent the Secretary of Transportation is authorized to provide insurance under this chapter, the Secretary may reinsure any part of the insurance provided by an insurance carrier. The Secretary may reinsure with, transfer to, or transfer back to, the carrier any insurance or reinsurance provided by the Secretary under this chapter.
+
+(b)
+
+Premium Levels.—The Secretary may provide reinsurance at premiums not less than, or obtain reinsurance at premiums not higher than, the premiums the Secretary establishes on similar risks or the premiums the insurance carrier charges for the insurance to be reinsured by the Secretary, whichever is most advantageous to the Secretary. However, the Secretary may make allowances to the insurance carrier for expenses incurred in providing services and facilities that the Secretary considers good business practice, except for payments by the carrier for the stimulation or solicitation of insurance business.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1169.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+44304(a)
+
+49 App.:1535(a).
+
+Aug. 23, 1958, Pub. L. 85–726, §1305, 72 Stat. 802; Nov. 9, 1977, Pub. L. 95–163, §4(a), 91 Stat. 1279.
+
+44304(b)
+
+49 App.:1535(b).
+
+In subsection (a), the words “may reinsure any part of the insurance provided by an insurance carrier” are substituted for “may reinsure, in whole or in part, any company authorized to do an insurance business” for clarity and consistency with source provisions restated in this subchapter and the definition of “insurance carrier” in section 44301 of the revised title. The words “transfer to, or transfer back to” are substituted for “cede or retrocede to” for clarity.
+
+In subsection (b), the word “same” is omitted as being included in “similar”. The words “on account of the cost of” are omitted as surplus. The word “providing” is substituted for “rendered” and “furnished” because it is inclusive. The words “except for” are substituted for “but such allowance to the carrier shall not provide for” to eliminate unnecessary words.
+

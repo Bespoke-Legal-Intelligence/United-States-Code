@@ -1,0 +1,10 @@
+### §4804. Elimination of duplicative filings
+
+The Federal banking agencies shall work jointly—
+
+&emsp;(1) to eliminate, to the extent practicable, duplicative or otherwise unnecessary requests for information in connection with applications or notices to the agencies; and
+
+&emsp;(2) to harmonize, to the extent practicable, any inconsistent publication and public notice requirements.
+
+(Pub. L. 103–325, title III, §304, Sept. 23, 1994, 108 Stat. 2215.)
+

@@ -1,0 +1,72 @@
+### §285e–5. Research relevant to appropriate services for individuals with Alzheimer's disease and related dementias and their families
+
+#### (a) Grants for research
+
+The Director of the Institute shall conduct, or make grants for the conduct of, research relevant to appropriate services for individuals with Alzheimer's disease and related dementias and their families.
+
+#### (b) Preparation of plan; contents; revision
+
+(1) Within 6 months after November 14, 1986, the Director of the Institute shall prepare and transmit to the Chairman of the Council on Alzheimer's Disease (in this section referred to as the “Council”) a plan for the research to be conducted under subsection (a) of this section. The plan shall—
+
+&emsp;(A) provide for research concerning—
+
+&emsp;&emsp;(i) the epidemiology of, and the identification of risk factors for, Alzheimer's disease and related dementias; and
+
+&emsp;&emsp;(ii) the development and evaluation of reliable and valid multidimensional diagnosticand assessment procedures and instruments; and
+
+&emsp;(B) ensure that research carried out under the plan is coordinated with, and uses, to the maximum extent feasible, resources of, other Federal programs relating to Alzheimer's disease and related dementias, including centers supported under section 285e–2 of this title, centers supported by the National Institute of Mental Health on the psychopathology of the elderly, relevant activities of the Administration on Aging, other programs and centers involved in research on Alzheimer's disease and related dementias supported by the Department, and other programs relating to Alzheimer's disease and related dementias which are planned or conducted by Federal agencies other than the Department, State or local agencies, community organizations, or private foundations.
+
+(2) Within one year after transmitting the plan required under paragraph (1), and annually thereafter, the Director of the Institute shall prepare and transmit to the Chairman of the Council such revisions of such plan as the Director considers appropriate.
+
+#### (c) Consultation for preparation and revision of plan
+
+In preparing and revising the plan required by subsection (b) of this section, the Director of the Institute shall consult with the Chairman of the Council and the heads of agencies within the Department.
+
+#### (d) Grants for promoting independence and preventing secondary disabilities
+
+the <sup>1</sup> Director of the Institute may develop, or make grants to develop—
+
+&emsp;(1) model techniques to—
+
+&emsp;&emsp;(A) promote greater independence, including enhanced independence in performing activities of daily living and instrumental activities of daily living, for persons with Alzheimer's disease and related disorders; and
+
+&emsp;&emsp;(B) prevent or reduce the severity of secondary disabilities, including confusional episodes, falls, bladder and bowel incontinence, and adverse effects of prescription and over-the-counter medications, in such persons; and
+
+&emsp;(2) model curricula for health care professionals, health care paraprofessionals, and family caregivers, for training and application in the use of such techniques.
+
+#### (e) “Council on Alzheimer's Disease” defined
+
+For purposes of this section, the term “Council on Alzheimer's Disease” means the council established in section 11211(a) of this title.
+
+(July 1, 1944, ch. 373, title IV, §445C, formerly Pub. L. 99–660, title IX, §941, Nov. 14, 1986, 100 Stat. 3808; renumbered §445C of act July 1, 1944; amended Nov. 4, 1988, Pub. L. 100–607, title I, §142(a), (d)(2), 102 Stat. 3057, 3058; Oct. 24, 1992, Pub. L. 102–507, §9, 106 Stat. 3287; June 10, 1993, Pub. L. 103–43, title VIII, §804, 107 Stat. 164.)
+
+#### Codification
+
+Section was formerly classified to section 11241 of this title prior to renumbering by Pub. L. 100–607.
+
+#### Amendments
+
+1993—Subsec. (b)(1). Pub. L. 103–43, §804(1), inserted “on Alzheimer's Disease (in this section referred to as the ‘Council’)” after “Council”.
+
+Subsec. (e). Pub. L. 103–43, §804(2), added subsec. (e).
+
+1992—Subsec. (d). Pub. L. 102–507 added subsec. (d).
+
+1988—Pub. L. 100–607, §142(a), renumbered section 11241 of this title as this section.
+
+Subsec. (a). Pub. L. 100–607, §142(d)(2)(A), substituted “the Institute” for “the National Institute on Aging”.
+
+Subsec. (b)(1). Pub. L. 100–607, §142(d)(2)(B)(i)(I), in introductory provisions, substituted “the date of enactment of the Alzheimer's Disease and Related Dementias Services Research Act of 1986” for “the date of enactment of this Act”, which for purposes of codification was translated as “November 14, 1986”, thus requiring no change in text.
+
+Pub. L. 100–607, §142(d)(2)(B)(i)(II), in introductory provisions, substituted “the Institute” for “the National Institute on Aging”.
+
+Subsec. (b)(1)(B). Pub. L. 100–607, §142(d)(2)(B)(ii), made technical amendment to reference to section 285e–2 of this title to correct reference to corresponding provision of original act.
+
+Subsecs. (b)(2), (c). Pub. L. 100–607, §142(d)(2)(B)(iii), (C), substituted “the Institute” for “the National Institute on Aging”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 285e–6 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+

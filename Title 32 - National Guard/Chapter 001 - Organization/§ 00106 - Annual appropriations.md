@@ -1,0 +1,26 @@
+### §106. Annual appropriations
+
+Sums will be appropriated annually, out of any money in the Treasury not otherwise appropriated, for the support of the Army National Guard and the Air National Guard, including the issue of arms, ordnance stores, quartermaster stores, camp equipage, and other military supplies, and for the payment of other expenses authorized by law.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 599.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+106
+
+32:21.
+
+June 3, 1916, ch. 134, §67 (1st par.), 39 Stat. 199.
+
+The words “issue of” are substituted for the words “the expense of providing”. The words “for issue to the National Guard” and “pertaining to said guard as are or may be” are omitted as surplusage.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 107 of this title; title 10 section 18502.
+

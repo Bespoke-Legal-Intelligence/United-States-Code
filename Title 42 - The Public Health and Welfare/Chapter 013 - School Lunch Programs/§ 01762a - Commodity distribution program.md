@@ -1,0 +1,168 @@
+### §1762a. Commodity distribution program
+
+#### (a) Applicable period; use of funds for purchase of agricultural commodities and products for donation
+
+Notwithstanding any other provision of law, the Secretary, during the period beginning July 1, 1974, and ending September 30, 1998, shall—
+
+&emsp;(1) use funds available to carry out the provisions of section 612c of title 7 which are not expended or needed to carry out such provisions, to purchase (without regard to the provisions of existing law governing the expenditure of public funds) agricultural commodities and their products of the types customarily purchased under such section (which may include domestic seafood commodities and their products), for donation to maintain the annually programmed level of assistance for programs carried on under this chapter, the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\], and title III of the Older Americans Act of 1965 \[42 U.S.C. 3021 et seq.\]; and
+
+&emsp;(2) if stocks of the Commodity Credit Corporation are not available, use the funds of such Corporation to purchase agricultural commodities and their products of the types customarily available under section 1431 of title 7, for such donation.
+
+#### (b) Products included in food donations; nutrition quality and content information
+
+(1) Among the products to be included in the food donations to the school lunch program shall be cereal and shortening and oil products.
+
+(2) The Secretary shall maintain and continue to improve the overall nutritional quality of entitlement commodities provided to schools to assist the schools in improving the nutritional content of meals.
+
+(3) The Secretary shall—
+
+&emsp;(A) require that nutritional content information labels be placed on packages or shipments of entitlement commodities provided to the schools; or
+
+&emsp;(B) otherwise provide nutritional content information regarding the commodities provided to the schools.
+
+#### (c) Authorization of appropriations for purchase of products or for cash payments in lieu of donations
+
+The Secretary may use funds appropriated from the general fund of the Treasury to purchase agricultural commodities and their products of the types customarily purchased for donation under section 311(a)(4) of the Older Americans Act of 1965 \[42 U.S.C. 3030a(a)(4)\] or for cash payments in lieu of such donations under section 311(b)(1) of such Act \[42 U.S.C. 3030a(b)(1)\]. There are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this subsection.
+
+#### (d) Assistance procedures; cost and benefits, review; technical assistance; report to Congress; food quality standards contracting procedures
+
+In providing assistance under this chapter and the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\] for school lunch and breakfast programs, the Secretary shall establish procedures which will—
+
+&emsp;(1) ensure that the views of local school districts and private nonprofit schools with respect to the type of commodity assistance needed in schools are fully and accurately reflected in reports to the Secretary by the State with respect to State commodity preferences and that such views are considered by the Secretary in the purchase and distribution of commodities and by the States in the allocation of such commodities among schools within the States;
+
+&emsp;(2) solicit the views of States with respect to the acceptability of commodities;
+
+&emsp;(3) ensure that the timing of commodity deliveries to States is consistent with State school year calendars and that such deliveries occur with sufficient advance notice;
+
+&emsp;(4) provide for systematic review of the costs and benefits of providing commodities of the kind and quantity that are suitable to the needs of local school districts and private nonprofit schools; and
+
+&emsp;(5) make available technical assistance on the use of commodities available under this chapter and the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\].
+
+> Within eighteen months after November 10, 1977, the Secretary shall report to Congress on the impact of procedures established under this subsection, including the nutritional, economic, and administrative benefits of such procedures. In purchasing commodities for programs carried out under this chapter and the Child Nutrition Act of 1966, the Secretary shall establish procedures to ensure that contracts for the purchase of such commodities shall not be entered into unless the previous history and current patterns of the contracting party with respect to compliance with applicable meat inspection laws and with other appropriate standards relating to the wholesomeness of food for human consumption are taken into account.
+
+#### (e) State advisory councils; establishment; membership; function
+
+Each State educational agency that receives food assistance payments under this section for any school year shall establish for such year an advisory council, which shall be composed of representatives of schools in the State that participate in the school lunch program. The council shall advise such State agency with respect to the needs of such schools relating to the manner of selection and distribution of commodity assistance for such program.
+
+#### (f) Commodity only schools
+
+Commodity only schools shall be eligible to receive donated commodities equal in value to the sum of the national average value of donated foods established under section 1755(e) of this title and the national average payment established under section 1753 of this title. Such schools shall be eligible to receive up to 5 cents per meal of such value in cash for processing and handling expenses related to the use of such commodities. Lunches served in such schools shall consist of a combination of foods which meet the minimum nutritional requirements prescribed by the Secretary under section 1758(a) of this title, and shall represent the four basic food groups, including a serving of fluid milk.
+
+#### (g) Extension of alternative means of assistance
+
+(1) As used in this subsection, the term “eligible school district” has the same meaning given such term in section 1581(a) of the Food Security Act of 1985.
+
+(2) In accordance with the terms and conditions of section 1581 of such Act, the Secretary shall permit an eligible school district to continue to receive assistance in the form of cash or commodity letters of credit assistance, in lieu of commodities, to carry out the school lunch program operated in the district.
+
+(3)(A) On request of a participating school district (and after consultation with the Comptroller General of the United States with respect to accounting procedures used to determine any losses) and subject to the availability of funds, the Secretary shall provide cash compensation to an eligible school district for losses sustained by the district as a result of the alteration of the methodology used to conduct the study referred to in section 1581(a) of such Act during the school year ending June 30, 1983. The Secretary, in computing losses sustained by any school district under the preceding sentence, shall base such computation on the difference between the value of bonus commodity assistance received by such school district under this chapter for the school year ending June 30, 1983, and the value of bonus commodities received by such school district under this chapter for the school year ending June 30, 1982. For the purposes of this subparagraph—
+
+&emsp;(i) the term “bonus commodities” means commodities provided in addition to commodities provided pursuant to section 1755(e) of this title; and
+
+&emsp;(ii) the term “bonus commodity assistance” means assistance, in the form of bonus commodities, cash, or commodity letters of credit, provided in addition to assistance provided pursuant to section 1755(e) of this title.
+
+> The Secretary may provide cash compensation under this subparagraph only to eligible school districts that submit applications for such compensation not later than 1 year after November 10, 1989. The Secretary shall, during the 45-day period beginning on October 1, 1990, complete action on any claim submitted under this subparagraph.
+
+(B) There are authorized to be appropriated such sums as may be necessary to carry out this paragraph, to be available without fiscal year limitation.
+
+(June 4, 1946, ch. 281, §14, as added June 30, 1974, Pub. L. 93–326, §2, 88 Stat. 286; amended Oct. 7, 1975, Pub. L. 94–105, §10, 89 Stat. 515; Nov. 10, 1977, Pub. L. 95–166, §6, 91 Stat. 1334; Nov. 10, 1978, Pub. L. 95–627, §12(b), 92 Stat. 3625; Dec. 5, 1980, Pub. L. 96–499, title II, §202(c), 94 Stat. 2600; Aug. 13, 1981, Pub. L. 97–35, title VIII, §§813(a), 819(j), 95 Stat. 530, 533; Oct. 9, 1984, Pub. L. 98–459, title VIII, §801(a), 98 Stat. 1792; Oct. 18, 1986, Pub. L. 99–500, title III, §§312, 363, 100 Stat. 1783–360, 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, §§312, 363, 100 Stat. 3341–363, 3341–371; Nov. 14, 1986, Pub. L. 99–661, div. D, title I, §4102, title IV, §4403, 100 Stat. 4071, 4079; June 28, 1988, Pub. L. 100–356, §2, 102 Stat. 669; Nov. 10, 1989, Pub. L. 101–147, title I, §103(a)–(b)(2)(A), (c), 103 Stat. 882; Nov. 2, 1994, Pub. L. 103–448, title I, §115, 108 Stat. 4713.)
+
+#### References in Text
+
+The Child Nutrition Act of 1966, referred to in subsecs. (a)(1) and (d), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+
+The Older Americans Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title III of the Older Americans Act of 1965 is classified generally to subchapter III (§3021 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+
+Section 1581 of the Food Security Act, referred to in subsec. (g), is section 1581 of Pub. L. 99–198, title XV, Dec. 23, 1985, 99 Stat. 1594, which is not classified to the Code.
+
+#### Codification
+
+Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–448, §115(1), substituted “1998” for “1994” in introductory provisions.
+
+Subsec. (b). Pub. L. 103–448, §115(2), designated existing provisions as par. (1) and added pars. (2) and (3).
+
+1989—Subsec. (a). Pub. L. 101–147, §103(a), substituted “1994” for “1989”.
+
+Subsec. (g). Pub. L. 101–147, §103(b)(1), (2)(A), amended subsec. (g), as amended identically by Pub. L. 99–500 and 99–591, §363, and Pub. L. 99–661, §4403, and as further amended by Pub. L. 100–356, §2, to read as if only the amendment by Pub. L. 99–661 was enacted, and further amended subsec. (g) identically to the amendments that were made by section 2(a) and (b) of Pub. L. 100–356, resulting in changing text by striking out only the language that was inserted by section 2(c) of Pub. L. 100–356 at the end of par. (3)(A), “The Secretary shall complete action on any claim submitted under this subparagraph not later than 45 days after June 28, 1988.”, see 1986 and 1988 Amendment notes below.
+
+Subsec. (g)(3)(A). Pub. L. 101–147, §103(c), substituted last four sentences for former last two sentences which read as follows: “The Secretary, in computing losses sustained by any school district under the preceding sentence, shall base such computation on the actual amount of assistance received by such school district under this chapter for the school year ending June 30, 1982, including—
+
+&emsp;“(i) the value of assistance in the form of commodities provided in addition to those provided pursuant to section 1755(e) of this title; and
+
+&emsp;“(ii) the value of assistance provided in the form of either cash or commodity letters of credit.
+
+> The Secretary may provide cash compensation under this subparagraph only to eligible school districts that submit applications for such compensation not later than May 1, 1988.”
+
+1988—Subsec. (g)(3)(A). Pub. L. 100–356, §2(c), inserted at end “The Secretary shall complete action on any claim submitted under this subparagraph not later than 45 days after June 28, 1988.”
+
+Pub. L. 100–356, §2(a), inserted at end “The Secretary, in computing losses sustained by any school district under the preceding sentence, shall base such computation on the actual amount of assistance received by such school district under this chapter for the school year ending June 30, 1982, including—
+
+&emsp;“(i) the value of assistance in the form of commodities provided in addition to those provided pursuant to section 1755(e) of this title; and
+
+&emsp;“(ii) the value of assistance provided in the form of either cash or commodity letters of credit.
+
+> The Secretary may provide cash compensation under this subparagraph only to eligible school districts that submit applications for such compensation not later than May 1, 1988.”
+
+Subsec. (g)(3)(B). Pub. L. 100–356, §2(b), substituted “such sums as may be necessary” for “$50,000”.
+
+1986—Subsec. (a). Pub. L. 99–500 and Pub. L. 99–591, §312, and Pub. L. 99–661, §4102, amended subsec. (a) identically, substituting “1989” for “1984”.
+
+Subsec. (g). Pub. L. 99–500 and Pub. L. 99–591, §363, and Pub. L. 99–661, §4403, amended section identically, adding subsec. (g).
+
+1984—Subsec. (c). Pub. L. 98–459 substituted “(b)(1)” for “(c)(1)”.
+
+1981—Subsec. (a)(1). Pub. L. 97–35, §819(j)(1), substituted “III” for “VII”.
+
+Subsec. (c). Pub. L. 97–35, §819(j)(2), substituted references to section 311(a)(4) and (c)(1) of the Older Americans Act of 1965, for references to section 3045f(a)(4) and (d)(4) of this title.
+
+Subsec. (f). Pub. L. 97–35, §813(a), added subsec. (f).
+
+1980—Subsec. (a). Pub. L. 96–499 substituted “September 30, 1984” for “September 30, 1982”.
+
+1978—Subsec. (a)(1). Pub. L. 95–627 inserted “(which may include domestic seafood commodities and their products)” after “under such section”.
+
+1977—Subsec. (a). Pub. L. 95–166, §6(1), extended termination date for termination of commodity distribution program to Sept. 30, 1982, from Sept. 30, 1977.
+
+Subsecs. (c) to (e). Pub. L. 95–166, §6(2), added subsecs. (c) to (e).
+
+1975—Pub. L. 94–105 designated existing provisions as subsec. (a), substituted “September 30, 1977” for “June 30, 1975”, and added subsec. (b).
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L. 103–448, set out as a note under section 1755 of this title.
+
+#### Effective Date of 1989 Amendment
+
+Section 103(b)(2)(B) of Pub. L. 101–147 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall take effect as if such amendments had been effective on June 28, 1988.”
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under section 3001 of this title.
+
+#### Effective Date of 1981 Amendment
+
+Amendment by section 813(a) of Pub. L. 97–35 effective 90 days after Aug. 13, 1981, and amendment by section 819(j) of Pub. L. 97–35 effective Oct. 1, 1981, see section 820(a)(4), (5) of Pub. L. 97–35, set out as a note under section 1753 of this title.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 95–627, set out as a note under section 1755 of this title.
+
+#### Study of Effect of Combining Federally Donated and Federally Inspected Meat or Poultry
+
+Section 304 of Pub. L. 103–448 provided that:
+
+“(a)
+
+Study.—The Comptroller General of the United States shall conduct a study on the incidence and the effect of States restricting or prohibiting a legally contracted commercial entity from physically combining federally donated and inspected meat or poultry from another State.
+
+“(b)
+
+Report.—Not later than September 1, 1996, the Comptroller General of the United States shall submit to the Committee on Education and Labor \[now Committee on Economic and Educational Opportunities\] and the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the findings, determinations, and evaluations of the study conducted pursuant to subsection (a).”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1755, 1760 of this title.
+

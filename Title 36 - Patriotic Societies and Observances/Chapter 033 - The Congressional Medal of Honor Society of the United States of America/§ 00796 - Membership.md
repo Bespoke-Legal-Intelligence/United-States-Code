@@ -1,0 +1,16 @@
+### §796. Membership
+
+#### (a) Eligibility
+
+Any person who has been awarded the Medal of Honor is eligible for membership in the society.
+
+#### (b) Honorary memberships
+
+Honorary memberships shall not be granted.
+
+#### (c) Voting rights
+
+Each member of the corporation shall have the right to one vote either in person or by proxy on each matter submitted to a vote at all meetings of the members of the corporation.
+
+(Pub. L. 85–642, §6, Aug. 14, 1958, 72 Stat. 599.)
+

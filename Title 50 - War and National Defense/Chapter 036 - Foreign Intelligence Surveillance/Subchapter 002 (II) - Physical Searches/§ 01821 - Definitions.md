@@ -1,0 +1,36 @@
+### §1821. Definitions
+
+As used in this subchapter:
+
+&emsp;(1) The terms “foreign power”, “agent of a foreign power”, “international terrorism”, “sabotage”, “foreign intelligence information”, “Attorney General”, “United States person”, “United States”, “person”, and “State” shall have the same meanings as in section 1801 of this title, except as specifically provided by this subchapter.
+
+&emsp;(2) “Aggrieved person” means a person whose premises, property, information, or material is the target of physical search or any other person whose premises, property, information, or material was subject to physical search.
+
+&emsp;(3) “Foreign Intelligence Surveillance Court” means the court established by section 1803(a) of this title.
+
+&emsp;(4) “Minimization procedures” with respect to physical search, means—
+
+&emsp;&emsp;(A) specific procedures, which shall be adopted by the Attorney General, that are reasonably designed in light of the purposes and technique of the particular physical search, to minimize the acquisition and retention, and prohibit the dissemination, of nonpublicly available information concerning unconsenting United States persons consistent with the need of the United States to obtain, produce, and disseminate foreign intelligence information;
+
+&emsp;&emsp;(B) procedures that require that nonpublicly available information, which is not foreign intelligence information, as defined in section 1801(e)(1) of this title, shall not be disseminated in a manner that identifies any United States person, without such person's consent, unless such person's identity is necessary to understand such foreign intelligence information or assess its importance;
+
+&emsp;&emsp;(C) notwithstanding subparagraphs (A) and (B), procedures that allow for the retention and dissemination of information that is evidence of a crime which has been, is being, or is about to be committed and that is to be retained or disseminated for law enforcement purposes; and
+
+&emsp;&emsp;(D) notwithstanding subparagraphs (A), (B), and (C), with respect to any physical search approved pursuant to section 1822(a) of this title, procedures that require that no information, material, or property of a United States person shall be disclosed, disseminated, or used for any purpose or retained for longer than 24 hours unless a court order under section 1824 of this title is obtained or unless the Attorney General determines that the information indicates a threat of death or serious bodily harm to any person.
+
+&emsp;(5) “Physical search” means any physical intrusion within the United States into premises or property (including examination of the interior of property by technical means) that is intended to result in a seizure, reproduction, inspection, or alteration of information, material, or property, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes, but does not include (A) “electronic surveillance”, as defined in section 1801(f) of this title, or (B) the acquisition by the United States Government of foreign intelligence information from international or foreign communications, or foreign intelligence activities conducted in accordance with otherwise applicable Federal law involving a foreign electronic communications system, utilizing a means other than electronic surveillance as defined in section 1801(f) of this title.
+
+(Pub. L. 95–511, title III, §301, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3443.)
+
+#### Prior Provisions
+
+A prior section 301 of Pub. L. 95–511 was renumbered section 401 and is set out as a note under section 1801 of this title.
+
+#### Effective Date
+
+Section 807(c) of Pub. L. 103–359 provided that: “The amendments made by subsections (a) and (b) \[enacting this subchapter and amending provisions set out as a note under section 1801 of this title\] shall take effect 90 days after the date of enactment of this Act \[Oct. 14, 1994\], except that any physical search approved by the Attorney General of the United States to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of title III of the Foreign Intelligence Surveillance Act of 1978 \[this subchapter\] (as added by this Act), if that search is conducted within 180 days after the date of enactment of this Act pursuant to regulations issued by the Attorney General, which were in the possession of the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives before the date of enactment of this Act.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1822 of this title.
+

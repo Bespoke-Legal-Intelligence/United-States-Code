@@ -1,0 +1,18 @@
+### §942. Annual report
+
+The Secretary shall make to Congress at the beginning of each regular session, commencing at the beginning of the second regular session after September 28, 1984, a report of the administration of this chapter for the preceding fiscal year, including a detailed statement of receipts of and expenditures from the fund established in section 944 of this title, together with such recommendations as the Secretary deems advisable.
+
+(Mar. 4, 1927, ch. 509, §42, as added Sept. 28, 1984, Pub. L. 98–426, §23, 98 Stat. 1653.)
+
+#### Prior Provisions
+
+A prior section 942, act Mar. 4, 1927, ch. 509, §42, 44 Stat. 1444, related to travel and subsistence expenses. See section 5701 et seq. of Title 5, Government Organization and Employees.
+
+#### Effective Date
+
+Section effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as an Effective Date of 1984 Amendment note under section 901 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 944 of this title.
+

@@ -1,0 +1,20 @@
+### §410ww–1. Protection of historic properties
+
+#### (a) Acquisition of properties within park
+
+Within the boundaries of the park the Secretary shall, subject to the availability of appropriated funds, acquire the Wright Cycle Company Building and Hoover Block, and may acquire other properties, or interests therein, referred to in section 410ww(b) of this title, by donation, purchase with donated or appropriated funds, exchange, or transfer.
+
+#### (b) Cooperative agreements
+
+The Secretary is authorized to enter into cooperative agreements with other Federal agencies, State and local public bodies, and private interests and organizations relating to the preservation, development, use, and interpretation of properties within the boundaries of the park in order to contribute to the appropriate use and management of such properties consistent with the purposes of this subchapter. Such agreements shall provide, whenever appropriate, that—
+
+&emsp;(1) the public may have access to any such property at specified reasonable times for purposes of viewing such property or the exhibits or attending programs established by the Secretary under this subsection; and
+
+&emsp;(2) the Secretary may make such improvements to any such property as the Secretary deems necessary after consultation with the Commission to enhance the public use and enjoyment of such property and programs.
+
+(Pub. L. 102–419, title I, §102, Oct. 16, 1992, 106 Stat. 2142.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 410ww–7 of this title.
+

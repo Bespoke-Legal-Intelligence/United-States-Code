@@ -1,0 +1,18 @@
+### §2406. Acquisition of lands
+
+As additional lands are needed for national cemeteries, they may be acquired by the Secretary by purchase, gift (including donations from States or political subdivisions thereof), condemnation, transfer from other Federal agencies, or otherwise, as the Secretary determines to be in the best interest of the United States.
+
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 78, §1006; amended Pub. L. 99–576, title VII, §701(57), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2406, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+
+#### Amendments
+
+1991—Pub. L. 102–83 renumbered section 1006 of this title as this section.
+
+1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+
+1986—Pub. L. 99–576 substituted “the Administrator” for “he”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 115 of this title.
+

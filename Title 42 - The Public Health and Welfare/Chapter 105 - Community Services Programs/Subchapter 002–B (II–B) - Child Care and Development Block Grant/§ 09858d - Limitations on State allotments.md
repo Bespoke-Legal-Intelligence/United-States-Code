@@ -1,0 +1,26 @@
+### §9858d. Limitations on State allotments
+
+#### (a) No entitlement to contract or grant
+
+Nothing in this subchapter shall be construed—
+
+&emsp;(1) to entitle any child care provider or recipient of a child care certificate to any contract, grant or benefit; or
+
+&emsp;(2) to limit the right of any State to impose additional limitations or conditions on contracts or grants funded under this subchapter.
+
+#### (b) Construction of facilities
+
+#### (1) In general
+
+&emsp;No funds made available under this subchapter shall be expended for the purchase or improvement of land, or for the purchase, construction, or permanent improvement (other than minor remodeling) of any building or facility.
+
+#### (2) Sectarian agency or organization
+
+&emsp;In the case of a sectarian agency or organization, no funds made available under this subchapter may be used for the purposes described in paragraph (1) except to the extent that renovation or repair is necessary to bring the facility of such agency or organization into compliance with health and safety requirements referred to in section 9858c(c)(2)(F) of this title.
+
+(Pub. L. 97–35, title VI, §658F, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–240; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036.)
+
+#### Amendments
+
+1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+

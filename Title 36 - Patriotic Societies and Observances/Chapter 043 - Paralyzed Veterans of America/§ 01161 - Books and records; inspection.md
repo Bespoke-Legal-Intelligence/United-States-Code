@@ -1,0 +1,6 @@
+### §1161. Books and records; inspection
+
+The corporation shall keep correct and complete books and records of account and shall also keep minutes of the proceedings of its members, executive committee, and committee, having any of the authority of the executive committee; and shall keep at its registered office or principal office a record giving the names and addresses of its members entitled to vote; and permit all books and records of the corporation to be inspected by any member or his agent or his attorney for any proper purpose at any reasonable time.
+
+(Pub. L. 92–93, §11, Aug. 11, 1971, 85 Stat. 318.)
+

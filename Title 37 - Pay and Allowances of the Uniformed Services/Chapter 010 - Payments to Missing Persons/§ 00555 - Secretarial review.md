@@ -1,0 +1,72 @@
+### §555. Secretarial review
+
+(a) When a member of a uniformed service entitled to pay and allowances under section 552 of this title has been in a missing status, and the official report of his death or of the circumstances of his absence has not been received by the Secretary concerned, he shall, before the end of a 12-month period in that status, have the case fully reviewed. After that review and the end of the 12-month period in a missing status, or after a later review which shall be made when warranted by information received or other circumstances, the Secretary concerned, or his designee, may—
+
+&emsp;(1) if the member can reasonably be presumed to be living, direct a continuance of his missing status; or
+
+&emsp;(2) make a finding of death.
+
+(b) When a finding of death is made under subsection (a), it shall include the date death is presumed to have occurred for the purpose of—
+
+&emsp;(1) ending the crediting of pay and allowances;
+
+&emsp;(2) settlement of accounts; and
+
+&emsp;(3) payment of death gratuities.
+
+> That date is—
+
+&emsp;(A) the day after the day on which the 12-month period in a missing status ends; or
+
+&emsp;(B) if the missing status has been continued under subsection (a), the day determined by the Secretary concerned, or his designee.
+
+(c) For the sole purpose of determining status under this section, a dependent of a member on active duty is treated as if he were a member. Any determination made by the Secretary concerned, or his designee, under this section is conclusive on all other departments and agencies of the United States. This subsection does not entitle a dependent to pay, allowances, or other compensation to which he is not otherwise entitled.
+
+(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 628; amended Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+555(a)
+
+50 App. 1005 (1st and 2d sentences).
+
+Mar. 7, 1942, ch. 166, §5, 56 Stat. 145; Dec. 24, 1942, ch. 828, §1 (3d par.), 56 Stat. 1093; Aug. 14, 1964, Pub. L. 88–428, §1(4), 78 Stat. 437.
+
+&nbsp;
+
+50 App. 1014 (as applicable to §1005 (1st sentence)).
+
+Mar. 7, 1942, ch. 166, §14 (as applicable to §5 (1st sentence)), 56 Stat. 147; Apr. 4, 1953, ch. 17, §1(e), 67 Stat. 21.
+
+555(b)
+
+50 App. 1005 (less 1st and 2d sentences).
+
+555(c)
+
+50 App. 1009(b) (as applicable to §1005).
+
+Mar. 7, 1942, ch. 166, §9(b) (as applicable to §5); added Aug. 29, 1957, Pub. L. 85–217, §1(c), 71 Stat. 492.
+
+Only that portion of the source law which is applicable to members of the uniformed services and their dependents is codified in this section.
+
+In subsection (a), the words “member of a uniformed service” are substituted for “person”. The words “in a missing status” and “in that status” are substituted for “absence” in three places. The words “Secretary concerned” are substituted for “head of the department concerned” in two places. In the second sentence, the words “or his designee” are supplied on authority of 50 App. U.S.C. 1009 which is codified in part in revised section 556(a) of this chapter. In clause (1), the words “member” and “his” are substituted for “person's” and “person”, respectively.
+
+In subsection (b), the words “under subsection (a) of this section” are inserted for clarity. In clause (A), the words “day on which the 12-month period in a missing status ends” are substituted for “day of expiration of an absence of twelve months”. In clause (B), the words “under subsection (a) of this section” are substituted for “as hereinbefore authorized”. The words “Secretary concerned” are substituted for “head of the department concerned.” The words “or his designee” are supplied on authority of 50 App. U.S.C. 1009(a) which is codified in part in revised section 556(a) of this chapter.
+
+In subsection (c), the first sentence is substituted for 50 App. U.S.C. 1009(b) (1st 31 words, as applicable to §1005). The words “Secretary concerned” are substituted for “head of the department concerned”. The words “or his designee” are supplied on authority of 50 App. U.S.C. 1009(a) which is codified in part in revised section 556(a) of this chapter. The words “departments and agencies of the United States” are substituted for “departments of the Government” in view of the definition of “department” in 50 App. U.S.C. 1001(d). The words “This subsection does not entitle” are substituted for <i>“Provided,</i> That nothing in this section shall be construed as conferring . . . any right”.
+
+#### Amendments
+
+1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)” in two places.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 552, 553, 556, 557 of this title; title 10 section 701.
+

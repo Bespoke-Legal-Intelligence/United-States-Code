@@ -1,0 +1,82 @@
+### §46505. Carrying a weapon or explosive on an aircraft
+
+(a)
+
+Definition.—In this section, “loaded firearm” means a starter gun or a weapon designed or converted to expel a projectile through an explosive, that has a cartridge, a detonator, or powder in the chamber, magazine, cylinder, or clip.
+
+(b)
+
+General Criminal Penalty.—An individual shall be fined under title 18, imprisoned for not more than one year, or both, if the individual—
+
+&emsp;(1) when on, or attempting to get on, an aircraft in, or intended for operation in, air transportation or intrastate air transportation, has on or about the individual or the property of the individual a concealed dangerous weapon that is or would be accessible to the individual in flight;
+
+&emsp;(2) has placed, attempted to place, or attempted to have placed a loaded firearm on that aircraft in property not accessible to passengers in flight; or
+
+&emsp;(3) has on or about the individual, or has placed, attempted to place, or attempted to have placed on that aircraft, an explosive or incendiary device.
+
+(c)
+
+Criminal Penalty Involving Disregard for Human Life.—An individual who willfully and without regard for the safety of human life, or with reckless disregard for the safety of human life, violates subsection (b) of this section, shall be fined under title 18, imprisoned for not more than 5 years, or both.
+
+(d)
+
+Nonapplication.—Subsection (b)(1) of this section does not apply to—
+
+&emsp;(1) a law enforcement officer of a State or political subdivision of a State, or an officer or employee of the United States Government, authorized to carry arms in an official capacity;
+
+&emsp;(2) another individual the Administrator of the Federal Aviation Administration by regulation authorizes to carry a dangerous weapon in air transportation or intrastate air transportation; or
+
+&emsp;(3) an individual transporting a weapon (except a loaded firearm) in baggage not accessible to a passenger in flight if the air carrier was informed of the presence of the weapon.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1244.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+46505(a)
+
+49 App.:1472(<i>l</i>)(4).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §902(<i>l</i>)(4); added Feb. 18, 1980, Pub. L. 96–193, §502(c), 94 Stat. 59.
+
+46505(b)
+
+49 App.:1472(<i>l</i>)(1).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §902(<i>l</i>)(1); added Sept. 5, 1961, Pub. L. 87–197, §1, 75 Stat. 466; Aug. 5, 1974, Pub. L. 93–366, §203, 88 Stat. 417; restated Feb. 18, 1980, Pub. L. 96–193, §502(a), 94 Stat. 59; Oct. 12, 1984, Pub. L. 98–473, §2014(c)(1), 98 Stat. 2189.
+
+46505(c)
+
+49 App.:1472(<i>l</i>)(2).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §902(<i>l</i>)(2); added Sept. 5, 1961, Pub. L. 87–197, §1, 75 Stat. 466; restated Aug. 5, 1974, Pub. L. 93–366, §203, 88 Stat. 418; Oct. 12, 1984, Pub. L 98–473, §2014(c)(2), 98 Stat. 2189.
+
+46505(d)
+
+49 App.:1472(<i>l</i>)(3).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §902(<i>l</i>)(3); added Sept. 5, 1961, Pub. L. 87–197, §1, 75 Stat. 466; restated Aug. 5, 1974, Pub. L. 93–366, §203, 88 Stat. 418; Feb. 18, 1980, Pub. L. 96–193, §502(b), 94 Stat. 59.
+
+In subsection (a), the definition of “firearm” is merged with the definition of “loaded firearm” because the term “firearm” is only used in the defined term “loaded firearm”.
+
+In subsections (b) and (c), the words “fined under title 18” are substituted for “fined not more than $10,000” and “fined not more than $25,000” for consistency with title 18.
+
+In subsections (b)(1) and (d)(2), the words “deadly or” are omitted as surplus.
+
+In subsection (b)(2), the words “baggage or other” are omitted as surplus.
+
+In subsection (b)(3), the words “bomb or similar” are omitted as surplus.
+
+In subsection (d)(1), the words “State or political subdivision of a State” are substituted for “municipal or State government” for consistency in the revised title and with other titles of the United States Code. The words “or required” are omitted as surplus.
+
+In subsection (d)(3), the word “contained” is omitted as surplus.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 46302, 46507 of this title; title 18 sections 2333, 3286.
+

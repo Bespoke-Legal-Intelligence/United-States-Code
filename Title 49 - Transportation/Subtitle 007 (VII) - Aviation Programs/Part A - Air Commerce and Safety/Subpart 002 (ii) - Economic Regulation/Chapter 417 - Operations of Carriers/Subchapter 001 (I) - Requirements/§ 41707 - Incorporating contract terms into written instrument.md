@@ -1,0 +1,24 @@
+### §41707. Incorporating contract terms into written instrument
+
+To the extent the Secretary of Transportation prescribes by regulation, an air carrier may incorporate by reference in a ticket or written instrument any term of the contract for providing interstate air transportation.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1141.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+41707
+
+49 App.:1381(b).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §411(b); added Oct. 4, 1984, Pub. L. 98–443, §7(a), 98 Stat. 1706.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 40109, 41110, 46301 of this title.
+

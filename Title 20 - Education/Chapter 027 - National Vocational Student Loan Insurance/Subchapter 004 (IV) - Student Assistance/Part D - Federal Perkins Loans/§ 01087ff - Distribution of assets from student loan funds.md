@@ -1,0 +1,46 @@
+### §1087ff. Distribution of assets from student loan funds
+
+#### (a) In general
+
+After September 30, 1996, and not later than March 31, 1997, there shall be a capital distribution of the balance of the student loan fund established under this part by each institution of higher education as follows:
+
+&emsp;(1) The Secretary shall first be paid an amount which bears the same ratio to the balance in such fund at the close of September 30, 1996, as the total amount of the Federal capital contributions to such fund by the Secretary under this part bears to the sum of such Federal contributions and the institution's capital contributions to such fund.
+
+&emsp;(2) The remainder of such balance shall be paid to the institution.
+
+#### (b) Distribution of late collections
+
+After March 31, 2005, each institution with which the Secretary has made an agreement under this part, shall pay to the Secretary the same proportionate share of amounts received by this institution after September 30, 1996, in payment of principal and interest on student loans made from the student loan fund established pursuant to such agreement (which amount shall be determined after deduction of any costs of litigation incurred in collection of the principal or interest on loans from the fund and not already reimbursed from the fund or from such payments of principal or interest), as was determined for the Secretary under subsection (a) of this section.
+
+#### (c) Distribution of excess capital
+
+(1) Upon a finding by the institution or the Secretary prior to October 1, 1997, that the liquid assets of a student loan fund established pursuant to an agreement under this part exceed the amount required for loans or otherwise in the foreseeable future, and upon notice to such institution or to the Secretary, as the case may be, there shall be, subject to such limitations as may be included in regulations of the Secretary or in such agreement, a capital distribution from such fund. Such capital distribution shall be made as follows:
+
+&emsp;(A) The Secretary shall first be paid an amount which bears the same ratio to the total to be distributed as the Federal capital contributions by the Secretary to the student loan fund prior to such distribution bear to the sum of such Federal capital contributions and the capital contributions to the fund made by the institution.
+
+&emsp;(B) The remainder of the capital distribution shall be paid to the institution.
+
+(2) No finding that the liquid assets of a student loan fund established under this part exceed the amount required under paragraph (1) may be made prior to a date which is 2 years after the date on which the institution of higher education received the funds from such institution's allocation under section 1087bb of this title.
+
+(Pub. L. 89 329, title IV, §466, as added Pub. L. 99 498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1453; amended Pub. L. 102 325, title IV, §466, July 23, 1992, 106 Stat. 584; Pub. L. 103 208, §2(f)(15), Dec. 20, 1993, 107 Stat. 2471.)
+
+#### Prior Provisions
+
+A prior section 1087ff, Pub. L. 89 329, title IV, §466, as added Pub. L. 92 318, title I, §137(b), June 23, 1972, 86 Stat. 278; amended Pub. L. 94 482, title I, §130(h), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 96 374, title IV, §442(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440, 1503, related to distribution of assets from student loan funds, prior to the general revision of this part by Pub. L. 99 498.
+
+#### Amendments
+
+1993—Subsec. (c)(2). Pub. L. 103 208 realigned margin.
+
+1992—Subsec. (b). Pub. L. 102 325, §466(1), substituted “2005” for “1997”.
+
+Subsec. (c). Pub. L. 102 325, §466(2), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+
+#### Effective Date of 1993 Amendment
+
+Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1087cc, 1087gg of this title.
+

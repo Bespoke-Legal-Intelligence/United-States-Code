@@ -1,0 +1,18 @@
+### §422a–1 . Acquisition of property
+
+The Secretary of the Interior is authorized, in his discretion, to acquire by donation, purchase, or exchange lands, buildings, structures, and other property, or interests therein, which he may determine to be of historical interest in connection with the Moores Creek National Battlefield, the title to such property or interests to be satisfactory to the Secretary of the Interior: <i>Provided</i>, That the area acquired pursuant to this section shall not exceed one hundred acres. All such property and interests, upon acquisition by the Federal Government, shall be a part of the Moores Creek National Battlefield and shall be subject to all laws and regulations applicable thereto.
+
+(Sept. 27, 1944, ch. 417, §1, 58 Stat. 746; Oct. 26, 1974, Pub. L. 93–477, title IV, §402, 88 Stat. 1447; Sept. 8, 1980, Pub. L. 96–344, §12, 94 Stat. 1136.)
+
+#### Amendments
+
+1974—Pub. L. 93–477 substituted “acquire by donation, purchase, or exchange” for “accept in behalf of the United States donations of”, and “acquired” for “to be accepted”.
+
+#### Change of Name
+
+“Battlefield” substituted in text for “Military Park” on authority of Pub. L. 96–344, §12, Sept. 8, 1980, 94 Stat. 1136, which redesignated Moores Creek National Military Park as Moores Creek National Battlefield.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 422a–2 of this title.
+

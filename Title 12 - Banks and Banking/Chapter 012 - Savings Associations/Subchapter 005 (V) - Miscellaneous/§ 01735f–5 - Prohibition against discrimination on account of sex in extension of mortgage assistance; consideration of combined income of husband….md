@@ -1,0 +1,26 @@
+### §1735f–5. Prohibition against discrimination on account of sex in extension of mortgage assistance; consideration of combined income of husband and wife for purpose of extending mortgage credit; definitions
+
+(a) No federally related mortgage loan, or Federal insurance, guaranty, or other assistance in connection therewith (under this chapter or anyother Act), shall be denied to any person on account of sex; and every person engaged in making mortgage loans secured by residential real property shall consider without prejudice the combined income of both husband and wife for the purpose of extending mortgage credit in the form of a federally related mortgage loan to a married couple or either member thereof.
+
+(b) For purposes of subsection (a) of this section, the term “federally related mortgage loan” means any loan which—
+
+&emsp;(1) is secured by residential real property designed principally for the occupancy of from one to four families; and
+
+&emsp;(2)(A) is made in whole or in part by any lender the deposits or accounts of which are insured by any agency of the Federal Government, or is made in whole or in part by any lender which is itself regulated by any agency of the Federal Government; or
+
+&emsp;(B) is made in whole or in part, or insured, guaranteed, supplemented, or assisted in any way, by the Secretary of Housing and Urban Development or any other officer or agency of the Federal Government or under or in connection with a housing or urban development program administered by the Secretary of Housing and Urban Development or a housing or related program administered by any other such officer or agency; or
+
+&emsp;(C) is eligible for purchase by the Federal National Mortgage Association, the Government National Mortgage Association, or the Federal Home Loan Mortgage Corporation, or from any financial institution from which it could be purchased by the Federal Home Loan Mortgage Corporation; or
+
+&emsp;(D) is made in whole or in part by any “creditor”, as defined in section 1602(f) of title 15, who makes or invests in residential real estate loans aggregating more than $1,000,000 per year.
+
+(June 27, 1934, ch. 847, title V, §527, as added Aug. 22, 1974, Pub. L. 93–383, title VIII, §808(a), 88 Stat. 728; amended Oct. 17, 1984, Pub. L. 98–479, title II, §204(a)(22), 98 Stat. 2233.)
+
+#### Amendments
+
+1984—Subsec. (a). Pub. L. 98–479 designated first par. as subsec. (a).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1735f–7a of this title; title 42 section 3608.
+

@@ -1,0 +1,71 @@
+### <b>CHAPTER 34—INDIAN CHILD PROTECTION AND FAMILY VIOLENCE PREVENTION</b>
+
+| Sec. |  |
+| :--- | ---: |
+| [3201\.](%C2%A7%2003201%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
+| (a) | Findings. |
+| (b) | Purpose. |
+| [3202\.](%C2%A7%2003202%20-%20Definitions.md) | Definitions. |
+| [3203\.](%C2%A7%2003203%20-%20Reporting%20procedures.md) | Reporting procedures. |
+| (a) | Omitted. |
+| (b) | Notification of child abuse reports. |
+| (c) | Written report of child abuse. |
+| (d) | Confidentiality of informant. |
+| [3204\.](%C2%A7%2003204%20-%20Central%20registry.md) | Central registry. |
+| (a) | Preparation of study. |
+| (b) | Content of study. |
+| (c) | Submission to Congress. |
+| [3205\.](%C2%A7%2003205%20-%20Confidentiality.md) | Confidentiality. |
+| [3206\.](%C2%A7%2003206%20-%20Waiver%20of%20parental%20consent.md) | Waiver of parental consent. |
+| (a) | Examinations and interviews. |
+| (b) | Interviews by law enforcement and child protective services officials. |
+| (c) | Protection of child. |
+| (d) | Court orders. |
+| [3207\.](%C2%A7%2003207%20-%20Character%20investigations.md) | Character investigations. |
+| (a) | By Secretary of the Interior and Secretary of Health and Human Services. |
+| (b) | Criminal records. |
+| (c) | Investigations by Indian tribes and tribal organizations. |
+| [3208\.](%C2%A7%2003208%20-%20Indian%20Child%20Abuse%20Treatment%20Grant%20Program.md) | Indian Child Abuse Treatment Grant Program. |
+| (a) | Establishment. |
+| (b) | Grant applications. |
+| (c) | Maximum grant amount. |
+| (d) | Grant administration and final report. |
+| (e) | Authorization of appropriations. |
+| [3209\.](%C2%A7%2003209%20-%20Indian%20Child%20Resource%20and%20Family%20Services%20Centers.md) | Indian Child Resource and Family Services Centers. |
+| (a) | Establishment. |
+| (b) | Memorandum of Agreement. |
+| (c) | Center staffing. |
+| (d) | Center responsibilities and functions. |
+| (e) | Multidisciplinary team personnel. |
+| (f) | Center advisory board. |
+| (g) | Application of Indian Self-Determination Act to Centers. |
+| (h) | Authorization of appropriations. |
+| [3210\.](%C2%A7%2003210%20-%20Indian%20Child%20Protection%20and%20Family%20Violence%20Prevention%20Program.md) | Indian Child Protection and Family Violence Prevention Program. |
+| (a) | Establishment. |
+| (b) | Indian Self-Determination Act agreements. |
+| (c) | Investigation and treatment and prevention of child abuse and family violence. |
+| (d) | Program responsibilities and functions. |
+| (f) | Secretarial regulations; base support funding. |
+| (g) | Maintenance of effort. |
+| (h) | Contract evaluation and annual report. |
+| (i) | Authorization of appropriations. |
+| [3211\.](%C2%A7%2003211%20-%20Report%20to%20Congress.md) | Report to Congress. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 03201 - Findings and purpose](%C2%A7%2003201%20-%20Findings%20and%20purpose.md)
+- [&sect; 03202 - Definitions](%C2%A7%2003202%20-%20Definitions.md)
+- [&sect; 03203 - Reporting procedures](%C2%A7%2003203%20-%20Reporting%20procedures.md)
+- [&sect; 03204 - Central registry](%C2%A7%2003204%20-%20Central%20registry.md)
+- [&sect; 03205 - Confidentiality](%C2%A7%2003205%20-%20Confidentiality.md)
+- [&sect; 03206 - Waiver of parental consent](%C2%A7%2003206%20-%20Waiver%20of%20parental%20consent.md)
+- [&sect; 03207 - Character investigations](%C2%A7%2003207%20-%20Character%20investigations.md)
+- [&sect; 03208 - Indian Child Abuse Treatment Grant Program](%C2%A7%2003208%20-%20Indian%20Child%20Abuse%20Treatment%20Grant%20Program.md)
+- [&sect; 03209 - Indian Child Resource and Family Services Centers](%C2%A7%2003209%20-%20Indian%20Child%20Resource%20and%20Family%20Services%20Centers.md)
+- [&sect; 03210 - Indian Child Protection and Family Violence Prevention Program](%C2%A7%2003210%20-%20Indian%20Child%20Protection%20and%20Family%20Violence%20Prevention%20Program.md)
+- [&sect; 03211 - Report to Congress](%C2%A7%2003211%20-%20Report%20to%20Congress.md)

@@ -1,0 +1,6 @@
+### §403a. Omitted
+
+#### Codification
+
+Section, acts Sept. 19, 1890, ch. 907, §10, 26 Stat. 454; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167, related to obstruction of navigable waters. See Prior Provisions note set out under section 403 of this title.
+

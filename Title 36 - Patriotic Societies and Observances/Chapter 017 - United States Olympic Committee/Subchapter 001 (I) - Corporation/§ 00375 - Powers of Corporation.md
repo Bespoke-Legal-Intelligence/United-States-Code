@@ -1,0 +1,50 @@
+### §375. Powers of Corporation
+
+(a) The Corporation shall have perpetual succession and power to—
+
+&emsp;(1) serve as the coordinating body for amateur athletic activity in the United States directly relating to international amateur athletic competition;
+
+&emsp;(2) represent the United States as its national Olympic committee in relations with the International Olympic Committee and the Pan-American Sports Organization;
+
+&emsp;(3) organize, finance, and control the representation of the United States in the competitions and events of the Olympic Games and of the Pan-American Games, and obtain, either directly or by delegation to the appropriate national governing body, amateur representation for such games;
+
+&emsp;(4) recognize eligible amateur sports organizations as national governing bodies for any sport which is included on the program of the Olympic Games or the Pan-American Games;
+
+&emsp;(5) facilitate, through orderly and effective administrative procedures, the resolution of conflicts or disputes which involve any of its members and any amateur athlete, coach, trainer, manager, administrator, official, national governing body, or amateur sports organization and which arise in connection with their eligibility for and participation in the Olympic Games, the Pan-American world championship competition, or other protected competition as defined in the constitution and bylaws of the Corporation;
+
+&emsp;(6) sue and be sued;
+
+&emsp;(7) make contracts;
+
+&emsp;(8) acquire, hold, and dispose of real and personal property as may be necessary for its corporate purposes;
+
+&emsp;(9) accept gifts, legacies, and devices in furtherance of its corporate purposes;
+
+&emsp;(10) borrow money to carry out its corporate purposes, issue notes, bonds, or other evidences of indebtedness therefor, and secure the same by mortgage, subject in each case to the laws of the United States or of any State;
+
+&emsp;(11) provide financial assistance to any organization or association, other than a corporation organized for profit, in furtherance of the purposes of the Corporation;
+
+&emsp;(12) approve and revoke membership in the Corporation;
+
+&emsp;(13) adopt and alter a corporate seal;
+
+&emsp;(14) establish and maintain offices for the conduct of the affairs of the Corporation;
+
+&emsp;(15) publish a newspaper, magazine, or other publication consistent with its corporate purposes; and
+
+&emsp;(16) do any and all acts and things necessary and proper to carry out the purposes of the Corporation.
+
+(b) The Corporation shall adopt and may amend a constitution and bylaws not inconsistent with the laws of the United States or of any State, except that the Corporation may amend its constitution only if it—
+
+&emsp;(1) publishes in its principal publication a general notice of the proposed alteration of the constitution, including the substantive terms of the alteration, the time and place of the Corporation's regular meeting at which the alteration is to be decided, and a provision informing interested persons that they may submit materials as authorized in paragraph (2); and
+
+&emsp;(2) gives to all interested persons, prior to the adoption of any amendment, an opportunity to submit written data, views, or arguments concerning the proposed amendment for a period of at least 60 days after the date of publication of the notice.
+
+(Sept. 21, 1950, ch. 975, title I, §105, as added Nov. 8, 1978, Pub. L. 95–606, §1(b), 92 Stat. 3047.)
+
+#### Prior Provisions
+
+A prior section 375, act Sept. 21, 1950, ch. 975, §5, 64 Stat. 901, related to membership in the corporation, prior to repeal by Pub. L. 95–606, §1(b). See section 376 of this title.
+
+Provisions similar to those comprising this section were contained in former section 374 of this title prior to repeal by Pub. L. 95–606.
+

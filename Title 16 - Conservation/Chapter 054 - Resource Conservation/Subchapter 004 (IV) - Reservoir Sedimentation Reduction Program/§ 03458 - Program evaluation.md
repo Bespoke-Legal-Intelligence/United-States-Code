@@ -1,0 +1,6 @@
+### §3458. Program evaluation
+
+The Secretary shall evaluate the program provided for in this subchapter to determine whether such program is effectively meeting the needs of, and the objectives identified by, the States, local units of government, and local nonprofit organizations participating in such program. The Secretary shall submit a report to Congress containing the results of the evaluation not later than December 31, 1986, together with the Secretary's recommendations for continuing, terminating, redirecting, or modifying such program.
+
+(Pub. L. 97–98, title XV, §1535, Dec. 22, 1981, 95 Stat. 1340.)
+

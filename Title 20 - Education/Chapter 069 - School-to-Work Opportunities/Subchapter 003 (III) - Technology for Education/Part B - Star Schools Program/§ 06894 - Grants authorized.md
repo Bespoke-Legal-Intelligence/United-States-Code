@@ -1,0 +1,94 @@
+### §6894. Grants authorized
+
+#### (a) Authority
+
+The Secretary, through the Office of Educational Technology, is authorized to make grants, in accordance with the provisions of this part, to eligible entities to pay the Federal share of the cost of—
+
+&emsp;(1) the development, construction, acquisition, maintenance and operation of telecommunications facilities and equipment;
+
+&emsp;(2) the development and acquisition of live, interactive instructional programming;
+
+&emsp;(3) the development and acquisition of preservice and inservice teacher training programs based on established research regarding teacher-to-teacher mentoring, effective skill transfer, and ongoing, in-class instruction;
+
+&emsp;(4) the establishment of teleconferencing facilities and resources for making interactive training available to teachers;
+
+&emsp;(5) obtaining technical assistance; and
+
+&emsp;(6) the coordination of the design and connectivity of telecommunications networks to reach the greatest number of schools.
+
+#### (b) Duration
+
+#### (1) In general
+
+&emsp;The Secretary shall award grants pursuant to subsection (a) of this section for a period of 5 years.
+
+#### (2) Renewal
+
+&emsp;Grants awarded pursuant to subsection (a) of this section may be renewed for one additional three-year period.
+
+#### (c) Authorization of appropriations
+
+#### (1) In general
+
+&emsp;There are authorized to be appropriated $35,000,000 for fiscal year 1995, and such sums as may be necessary for each of the four succeeding fiscal years, to carry out this part.
+
+#### (2) Availability
+
+&emsp;Funds appropriated pursuant to the authority of subsection (a) of this section shall remain available until expended.
+
+#### (d) Limitations
+
+#### (1) In general
+
+&emsp;A grant under this section shall not exceed—
+
+&emsp;&emsp;(A) five years in duration; and
+
+&emsp;&emsp;(B) $10,000,000 in any one fiscal year.
+
+#### (2) Instructional programming
+
+&emsp;Not less than 25 percent of the funds available to the Secretary in any fiscal year under this part shall be used for the cost of instructional programming.
+
+#### (3) Special rule
+
+&emsp;Not less than 50 percent of the funds available in any fiscal year under this part shall be used for the cost of facilities, equipment, teacher training or retraining, technical assistance, or programming, for local educational agencies which are eligible to receive assistance under part A of subchapter I of this chapter.
+
+#### (e) Federal share
+
+#### (1) In general
+
+&emsp;The Federal share of the cost of projects funded under this section shall not exceed—
+
+&emsp;&emsp;(A) 75 percent for the first and second years for which an eligible telecommunications partnership receives a grant under this part;
+
+&emsp;&emsp;(B) 60 percent for the third and fourth such years; and
+
+&emsp;&emsp;(C) 50 percent for the fifth such year.
+
+#### (2) Reduction or waiver
+
+&emsp;The Secretary may reduce or waive the requirement of the non-Federal share under paragraph (1) upon a showing of financial hardship.
+
+#### (f) Authority to accept funds from other agencies
+
+The Secretary is authorized to accept funds from other Federal departments or agencies to carry out the purposes of this section, including funds for the purchase of equipment.
+
+#### (g) Coordination
+
+The Department, the National Science Foundation, the Department of Agriculture, the Department of Commerce, and any other Federal department or agency operating a telecommunications network for educational purposes, shall coordinate the activities assisted under this part with the activities of such department or agency relating to a telecommunications network for educational purposes.
+
+#### (h) Closed captioning and descriptive video
+
+Each entity receiving funds under this part is encouraged to provide—
+
+&emsp;(1) closed captioning of the verbal content of such program, where appropriate, to be broadcast by way of line 21 of the vertical blanking interval, or by way of comparable successor technologies; and
+
+&emsp;(2) descriptive video of the visual content of such program, as appropriate.
+
+(Pub. L. 89 10, title III, §3204, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3655.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6895, 6896, 6897, 6899 of this title.
+

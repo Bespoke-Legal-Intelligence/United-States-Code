@@ -1,0 +1,16 @@
+### §5874. Definitions
+
+For purposes of this subchapter—
+
+&emsp;(1) the term “contractor” means a National Aeronautics and Space Administration contractor to the extent that the acquisition of space hardware, space technology, or space services from the independent states of the former Soviet Union may be relevant to the contractor's responsibilities under the contract; and
+
+&emsp;(2) the term “designated congressional committees” means the Committee on Science, Space, and Technology and the Committee on Foreign Affairs of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Foreign Relations of the Senate.
+
+(Pub. L. 102–511, title VI, §604, Oct. 24, 1992, 106 Stat. 3348.)
+
+#### Change of Name
+
+Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+

@@ -1,0 +1,52 @@
+### §4370c. Environmental Protection Agency fees
+
+#### (a) Assessment and collection
+
+The Administrator of the Environmental Protection Agency shall, by regulation, assess andcollect fees and charges for services and activities carried out pursuant to laws administered by the Environmental Protection Agency.
+
+#### (b) Amount of fees and charges
+
+Fees and charges assessed pursuant to this section shall be in such amounts as may be necessary to ensure that the aggregate amount of fees and charges collected pursuant to this section, in excess of the amount of fees and charges collected under current law—
+
+&emsp;(1) in fiscal year 1991, is not less than $28,000,000; and
+
+&emsp;(2) in each of fiscal years 1992, 1993, 1994, and 1995, is not less than $38,000,000.
+
+#### (c) Limitation on fees and charges
+
+(1) The maximum aggregate amount of fees and charges in excess of the amounts being collected under current law which may be assessed and collected pursuant to this section in a fiscal year—
+
+&emsp;(A) for services and activities carried out pursuant ot <sup>1</sup> the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\] is $10,000,000; and
+
+&emsp;(B) for services and activities in programs within the jurisdiction of the House Committee on Energy and Commerce and administered by the Environmental Protection Agency through the Administrator, shall be limited to such sums collected as of November 5, 1990, pursuant to sections 2625(b) and 2665(e)(2) of title 15, and such sums specifically authorized by the Clean Air Act Amendments of 1990.
+
+(2) Any remaining amounts required to be collected under this section shall be collected from services and programs administered by the Environmental Protection Agency other than those specified in subparagraphs (A) and (B) of paragraph (1).
+
+#### (d) Rule of construction
+
+Nothing in this section increases or diminishes the authority of the Administrator to promulgate regulations pursuant to section 9701 of title 31.
+
+#### (e) Uses of fees
+
+Fees and charges collected pursuant to this section shall be deposited into a special account for environmental services in the Treasury of the United States. Subject to appropriation Acts, such funds shall be available to the Environmental Protection Agency to carry out the activities for which such fees and charges are collected. Such funds shall remain available until expended.
+
+(Pub. L. 101–508, title VI, §6501, Nov. 5, 1990, 104 Stat. 1388–320.)
+
+#### References in Text
+
+The Federal Water Pollution Control Act, referred to in subsec. (c)(1)(A), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+
+The Clean Air Act Amendments of 1990, referred to in subsec. (c)(1)(B), means Pub. L. 101–549, Nov. 15, 1990, 104 Stat. 2399. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 7401 of this title and Tables.
+
+#### Codification
+
+In subsec. (d), “section 9701 of title 31” was in the original “the Independent Office Appropriations Act (31 U.S.C. 9701)” and substitution was made as if it read for “title V of the Independent Offices Appropriation Act of 1952” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+#### Change of Name
+
+Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “to”.</i>
+

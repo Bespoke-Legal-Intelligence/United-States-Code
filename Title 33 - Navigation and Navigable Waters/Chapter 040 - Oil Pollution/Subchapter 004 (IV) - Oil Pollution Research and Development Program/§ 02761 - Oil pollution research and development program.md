@@ -1,0 +1,198 @@
+### §2761. Oil pollution research and development program
+
+#### (a) Interagency Coordinating Committee on Oil Pollution Research
+
+#### (1) Establishment
+
+&emsp;There is established an Interagency Coordinating Committee on Oil Pollution Research (hereinafter in this section referred to as the “Interagency Committee”).
+
+#### (2) Purposes
+
+&emsp;The Interagency Committee shall coordinate a comprehensive program of oil pollution research, technology development, and demonstration among the Federal agencies, in cooperation and coordination with industry, universities, research institutions, State governments, and other nations, as appropriate, and shall foster cost-effective research mechanisms, including the joint funding of research.
+
+#### (3) Membership
+
+&emsp;The Interagency Committee shall include representatives from the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the United States Coast Guard, the Maritime Administration, and the Research and Special Projects Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Environmental Protection Agency, the National Aeronautics and Space Administration, and the United States Fire Administration in the Federal Emergency Management Agency, as well as such other Federal agencies as the President may designate.
+
+> A representative of the Department of Transportation shall serve as Chairman.
+
+#### (b) Oil pollution research and technology plan
+
+#### (1) Implementation plan
+
+&emsp;Within 180 days after August 18, 1990, the Interagency Committee shall submit to Congress a plan for the implementation of the oil pollution research, development, and demonstration program established pursuant to subsection (c) of this section. The research plan shall—
+
+&emsp;&emsp;(A) identify agency roles and responsibilities;
+
+&emsp;&emsp;(B) assess the current status of knowledge on oil pollution prevention, response, and mitigation technologies and effects of oil pollution on the environment;
+
+&emsp;&emsp;(C) identify significant oil pollution research gaps including an assessment of major technological deficiencies in responses to past oil discharges;
+
+&emsp;&emsp;(D) establish research priorities and goals for oil pollution technology development related to prevention, response, mitigation, and environmental effects;
+
+&emsp;&emsp;(E) estimate the resources needed to conduct the oil pollution research and development program established pursuant to subsection (c) of this section, and timetables for completing research tasks; and
+
+&emsp;&emsp;(F) identify, in consultation with the States, regional oil pollution research needs and priorities for a coordinated, multidisciplinary program of research at the regional level.
+
+#### (2) Advice and guidance
+
+&emsp;The Chairman, through the Department of Transportation, shall contract with the National Academy of Sciences to—
+
+&emsp;&emsp;(A) provide advice and guidance in the preparation and development of the research plan; and
+
+&emsp;&emsp;(B) assess the adequacy of the plan as submitted, and submit a report to Congress on the conclusions of such assessment.
+
+> &emsp;The National Institute of Standards and Technology shall provide the Interagency Committee with advice and guidance on issues relating to quality assurance and standards measurements relating to its activities under this section.
+
+#### (c) Oil pollution research and development program
+
+#### (1) Establishment
+
+&emsp;The Interagency Committee shall coordinate the establishment, by the agencies represented on the Interagency Committee, of a program for conducting oil pollution research and development, as provided in this subsection.
+
+#### (2) Innovative oil pollution technology
+
+&emsp;The program established under this subsection shall provide for research, development, and demonstration of new or improved technologies which are effective in preventing or mitigating oil discharges and which protect the environment, including—
+
+&emsp;&emsp;(A) development of improved designs for vessels and facilities, and improved operational practices;
+
+&emsp;&emsp;(B) research, development, and demonstration of improved technologies to measure the ullage of a vessel tank, prevent discharges from tank vents, prevent discharges during lightering and bunkering operations, contain discharges on the deck of a vessel, prevent discharges through the use of vacuums in tanks, and otherwise contain discharges of oil from vessels and facilities;
+
+&emsp;&emsp;(C) research, development, and demonstration of new or improved systems of mechanical, chemical, biological, and other methods (including the use of dispersants, solvents, and bioremediation) for the recovery, removal, and disposal of oil, including evaluation of the environmental effects of the use of such systems;
+
+&emsp;&emsp;(D) research and training, in consultation with the National Response Team, to improve industry's and Government's ability to quickly and effectively remove an oil discharge, including the long-term use, as appropriate, of the National Spill Control School in Corpus Christi, Texas;
+
+&emsp;&emsp;(E) research to improve information systems for decisionmaking, including the use of data from coastal mapping, baseline data, and other data related to the environmental effects of oil discharges, and cleanup technologies;
+
+&emsp;&emsp;(F) development of technologies and methods to protect public health and safety from oil discharges, including the population directly exposed to an oil discharge;
+
+&emsp;&emsp;(G) development of technologies, methods, and standards for protecting removal personnel, including training, adequate supervision, protective equipment, maximum exposure limits, and decontamination procedures;
+
+&emsp;&emsp;(H) research and development of methods to restore and rehabilitate natural resources damaged by oil discharges;
+
+&emsp;&emsp;(I) research to evaluate the relative effectiveness and environmental impacts of bioremediation technologies; and
+
+&emsp;&emsp;(J) the demonstration of a satellite-based, dependent surveillance vessel traffic system in Narragansett Bay to evaluate the utility of such system in reducing the risk of oil discharges from vessel collisions and groundings in confined waters.
+
+#### (3) Oil pollution technology evaluation
+
+&emsp;The program established under this subsection shall provide for oil pollution prevention and mitigation technology evaluation including—
+
+&emsp;&emsp;(A) the evaluation and testing of technologies developed independently of the research and development program established under this subsection;
+
+&emsp;&emsp;(B) the establishment, where appropriate, of standards and testing protocols traceable to national standards to measure the performance of oil pollution prevention or mitigation technologies; and
+
+&emsp;&emsp;(C) the use, where appropriate, of controlled field testing to evaluate real-world application of oil discharge prevention or mitigation technologies.
+
+#### (4) Oil pollution effects research
+
+&emsp;(A) The Committee shall establish a research program to monitor and evaluate the environmental effects of oil discharges. Such program shall include the following elements:
+
+&emsp;&emsp;(i) The development of improved models and capabilities for predicting the environmental fate, transport, and effects of oil discharges.
+
+&emsp;&emsp;(ii) The development of methods, including economic methods, to assess damages to natural resources resulting from oil discharges.
+
+&emsp;&emsp;(iii) The identification of types of ecologically sensitive areas at particular risk to oil discharges and the preparation of scientific monitoring and evaluation plans, one for each of several types of ecological conditions, to be implemented in the event of major oil discharges in such areas.
+
+&emsp;&emsp;(iv) The collection of environmental baseline data in ecologically sensitive areas at particular risk to oil discharges where such data are insufficient.
+
+&emsp;(B) The Department of Commerce in consultation with the Environmental Protection Agency shall monitor and scientifically evaluate the long-term environmental effects of oil discharges if—
+
+&emsp;&emsp;(i) the amount of oil discharged exceeds 250,000 gallons;
+
+&emsp;&emsp;(ii) the oil discharge has occurred on or after January 1, 1989; and
+
+&emsp;&emsp;(iii) the Interagency Committee determines that a study of the long-term environmental effects of the discharge would be of significant scientific value, especially for preventing or responding to future oil discharges.
+
+> &emsp;Areas for study may include the following sites where oil discharges have occurred: the New York/New Jersey Harbor area, where oil was discharged by an Exxon underwater pipeline, the T/B CIBRO SAVANNAH, and the M/V BT NAUTILUS; Narragansett Bay where oil was discharged by the WORLD PRODIGY; the Houston Ship Channel where oil was discharged by the RACHEL B; the Delaware River, where oil was discharged by the PRESIDENTE RIVERA, and Huntington Beach, California, where oil was discharged by the AMERICAN TRADER.
+
+&emsp;(C) Research conducted under this paragraph by, or through, the United States Fish and Wildlife Service shall be directed and coordinated by the National Wetland Research Center.
+
+#### (5) Marine simulation research
+
+&emsp;The program established under this subsection shall include research on the greater use and application of geographic and vessel response simulation models, including the development of additional data bases and updating of existing data bases using, among others, the resources of the National Maritime Research Center. It shall include research and vessel simulations for—
+
+&emsp;&emsp;(A) contingency plan evaluation and amendment;
+
+&emsp;&emsp;(B) removal and strike team training;
+
+&emsp;&emsp;(C) tank vessel personnel training; and
+
+&emsp;&emsp;(D) those geographic areas where there is a significant likelihood of a major oil discharge.
+
+#### (6) Demonstration projects
+
+&emsp;The United States Coast Guard, in conjunction with other such agencies in the Department of Transportation as the Secretary of Transportation may designate, shall conduct 4 port oil pollution minimization demonstration projects, one each with (A) the Port Authority of New York and New Jersey, (B) the Ports of Los Angeles and Long Beach, California, (C) the Port of New Orleans, Louisiana, and (D) ports on the Great Lakes, for the purpose of developing and demonstrating integrated portoil pollution prevention and cleanup systems which utilize the information and implement the improved practices and technologies developed from the research, development, and demonstration program established in this section. Such systems shall utilize improved technologies and management practices for reducing the risk of oil discharges, including, as appropriate, improved data access, computerized tracking of oil shipments, improved vessel tracking and navigation systems, advanced technology to monitor pipeline and tank conditions, improved oil spill response capability, improved capability to predict the flow and effects of oil discharges in both the inner and outer harbor areas for the purposes of making infrastructure decisions, and such other activities necessary to achieve the purposes of this section.
+
+#### (7) Simulated environmental testing
+
+&emsp;Agencies represented on the Interagency Committee shall ensure the long-term use and operation of the Oil and Hazardous Materials Simulated Environmental Test Tank (OHMSETT) Research Center in New Jersey for oil pollution technology testing and evaluations.
+
+#### (8) Regional research program
+
+&emsp;(A) Consistent with the research plan in subsection (b) of this section, the Interagency Committee shall coordinate a program of competitive grants to universities or other research institutions, or groups of universities or research institutions, for the purposes of conducting a coordinated research program related to the regional aspects of oil pollution, such as prevention, removal, mitigation, and the effects of discharged oil on regional environments. For the purposes of this paragraph, a region means a Coast Guard district as set out in part 3 of title 33, Code of Federal Regulations (1989).
+
+&emsp;(B) The Interagency Committee shall coordinate the publication by the agencies represented on the Interagency Committee of a solicitation for grants under this subsection. The application shall be in such form and contain such information as may be required in the published solicitation. The applications shall be reviewed by the Interagency Committee, which shall make recommendations to the appropriate granting agency represented on the Interagency Committee for awarding the grant. The granting agency shall award the grants recommended by the Interagency Committee unless the agency decides not to award the grant due to budgetary or other compelling considerations and publishes its reasons for such a determination in the Federal Register. No grants may be made by any agency from any funds authorized for this paragraph unless such grant award has first been recommended by the Interagency Committee.
+
+&emsp;(C) Any university or other research institution, or group of universities or research institutions, may apply for a grant for the regional research program established by this paragraph. The applicant must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program. With respect to a group application, the entity or entities which will carry out the substantial portion of the proposed research must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program.
+
+&emsp;(D) The Interagency Committee shall make recommendations on grants in such a manner as to ensure an appropriate balance within a region among the various aspects of oil pollution research, including prevention, removal, mitigation, and the effects of discharged oil on regional environments. In addition, the Interagency Committee shall make recommendations for grants based on the following criteria:
+
+&emsp;&emsp;(i) There is available to the applicant for carrying out this paragraph demonstrated research resources.
+
+&emsp;&emsp;(ii) The applicant demonstrates the capability of making a significant contribution to regional research needs.
+
+&emsp;&emsp;(iii) The projects which the applicant proposes to carry out under the grant are consistent with the research plan under subsection (b)(1)(F) of this section and would further the objectives of the research and development program established in this section.
+
+&emsp;(E) Grants provided under this paragraph shall be for a period up to 3 years, subject to annual review by the granting agency, and provide not more than 80 percent of the costs of the research activities carried out in connection with the grant.
+
+&emsp;(F) No funds made available to carry out this subsection may be used for the acquisition of real property (including buildings) or construction of any building.
+
+&emsp;(G) Nothing in this paragraph is intended to alter or abridge the authority under existing law of any Federal agency to make grants, or enter into contracts or cooperative agreements, using funds other than those authorized in this Act for the purposes of carrying out this paragraph.
+
+#### (9) Funding
+
+&emsp;For each of the fiscal years 1991, 1992, 1993, 1994, and 1995, $6,000,000 of amounts in the Fund shall be available to carry out the regional research program in paragraph (8), such amounts to be available in equal amounts for the regional research program in each region; except that if the agencies represented on the Interagency Committee determine that regional research needs exist which cannot be addressed within such funding limits, such agencies may use their authority under paragraph (10) to make additional grants to meet such needs. For the purposes of this paragraph, the research program carried out by the Prince William Sound Oil Spill Recovery Institute established under section 2731 of this title, shall not be eligible to receive grants under this paragraph.
+
+#### (10) Grants
+
+&emsp;In carrying out the research and development program established under this subsection, the agencies represented on the Interagency Committee may enter into contracts and cooperative agreements and make grants to universities, research institutions, and other persons. Such contracts, cooperative agreements, and grants shall address research and technology priorities set forth in the oil pollution research plan under subsection (b) of this section.
+
+#### (11) Utilization of resources
+
+&emsp;In carrying out research under this section, the Department of Transportation shall continue to utilize the resources of the Research and Special Programs Administration of the Department of Transportation, to the maximum extent practicable.
+
+#### (d) International cooperation
+
+In accordance with the research plan submitted under subsection (b) of this section, the Interagency Committee shall coordinate and cooperate with other nations and foreign research entities in conducting oil pollution research, development, and demonstration activities, including controlled field tests of oil discharges.
+
+#### (e) Biennial reports
+
+The Chairman of the Interagency Committee shall submit to Congress every 2 years on October 30 a report on the activities carried out under this section in the preceding 2 fiscal years, and on activities proposed to be carried out under this section in the current 2 fiscal year period.
+
+#### (f) Funding
+
+Not to exceed $22,000,000 of amounts in the Fund shall be available annually to carry out this section except for subsection (c)(8) of this section. Of such sums—
+
+&emsp;(1) funds authorized to be appropriated to carry out the activities under subsection (c)(4) of this section shall not exceed $5,000,000 for fiscal year 1991 or $3,500,000 for any subsequent fiscal year; and
+
+&emsp;(2) not less than $3,000,000 shall be available for carrying out the activities in subsection (c)(6) of this section for fiscal years 1992, 1993, 1994, and 1995.
+
+> All activities authorized in this section, including subsection (c)(8) of this section, are subject to appropriations.
+
+(Pub. L. 101–380, title VII, §7001, Aug. 18, 1990, 104 Stat. 559; Pub. L. 101–537, title II, §2002, Nov. 8, 1990, 104 Stat. 2375; Pub. L. 101–646, title IV, §4002, Nov. 29, 1990, 104 Stat. 4788.)
+
+#### References in Text
+
+This Act, referred to in subsec. (c)(8)(G), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+
+#### Amendments
+
+1990—Subsec. (c)(6). Pub. L. 101–537, §2002(1), and Pub. L. 101–646, §4002(1), made substantially identical amendments, substituting “4” for “3” and inserting cl. (D).
+
+Subsec. (f). Pub. L. 101–537, §2002(2), and Pub. L. 101–646, §4002(2), amended subsec. (f) identically, substituting “$22,000,000” for “$21,250,000” in introductory provisions and “$3,000,000” for “$2,250,000” in par. (2).
+
+#### Delegation of Functions
+
+Functions of President under subsec. (a)(3) of this section delegated to Secretary of Transportation by section 8(h) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54769, set out as a note under section 1321 of this title.
+

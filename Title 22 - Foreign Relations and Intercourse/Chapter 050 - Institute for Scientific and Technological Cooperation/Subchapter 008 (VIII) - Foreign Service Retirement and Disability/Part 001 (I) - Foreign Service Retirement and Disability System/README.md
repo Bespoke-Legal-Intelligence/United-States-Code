@@ -1,0 +1,47 @@
+Part I—Foreign Service Retirement and Disability System
+
+#### Part Referred to in Other Sections
+
+This part is referred to in sections 4044, 4054, 4055, 4071b, 4071c, 4071d, 4071j of this title; title 5 section 8402.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 04041 - Administration](%C2%A7%2004041%20-%20Administration.md)
+- [&sect; 04042 - Maintenance of Fund](%C2%A7%2004042%20-%20Maintenance%20of%20Fund.md)
+- [&sect; 04043 - Participants](%C2%A7%2004043%20-%20Participants.md)
+- [&sect; 04044 - Definitions](%C2%A7%2004044%20-%20Definitions.md)
+- [&sect; 04045 - Contributions to Fund](%C2%A7%2004045%20-%20Contributions%20to%20Fund.md)
+- [&sect; 04046 - Computation of annuities](%C2%A7%2004046%20-%20Computation%20of%20annuities.md)
+- [&sect; 04047 - Payment of annuity](%C2%A7%2004047%20-%20Payment%20of%20annuity.md)
+- [&sect; 04048 - Retirement for disability or incapacity](%C2%A7%2004048%20-%20Retirement%20for%20disability%20or%20incapacity.md)
+- [&sect; 04049 - Death in service](%C2%A7%2004049%20-%20Death%20in%20service.md)
+- [&sect; 04050 - Discontinued service retirement](%C2%A7%2004050%20-%20Discontinued%20service%20retirement.md)
+- [&sect; 04051 - Voluntary retirement](%C2%A7%2004051%20-%20Voluntary%20retirement.md)
+- [&sect; 04052 - Mandatory retirement](%C2%A7%2004052%20-%20Mandatory%20retirement.md)
+- [&sect; 04053 - Reassignment and retirement of former Presidential appointees](%C2%A7%2004053%20-%20Reassignment%20and%20retirement%20of%20former%20Presidential%20appointees.md)
+- [&sect; 04054 - Former spouses](%C2%A7%2004054%20-%20Former%20spouses.md)
+- [&sect; 04055 - Lump-sum payments](%C2%A7%2004055%20-%20Lump-sum%20payments.md)
+- [&sect; 04056 - Creditable service](%C2%A7%2004056%20-%20Creditable%20service.md)
+- [&sect; 04057 - Extra credit for service at unhealthful posts](%C2%A7%2004057%20-%20Extra%20credit%20for%20service%20at%20unhealthful%20posts.md)
+- [&sect; 04058 - Estimate of appropriations needed](%C2%A7%2004058%20-%20Estimate%20of%20appropriations%20needed.md)
+- [&sect; 04059 - Investment of Fund](%C2%A7%2004059%20-%20Investment%20of%20Fund.md)
+- [&sect; 04060 - Assignment and attachment of moneys](%C2%A7%2004060%20-%20Assignment%20and%20attachment%20of%20moneys.md)
+- [&sect; 04061 - Payments for future benefits](%C2%A7%2004061%20-%20Payments%20for%20future%20benefits.md)
+- [&sect; 04062 - Unfunded liability obligations](%C2%A7%2004062%20-%20Unfunded%20liability%20obligations.md)
+- [&sect; 04063 - Annuity adjustment for recall service](%C2%A7%2004063%20-%20Annuity%20adjustment%20for%20recall%20service.md)
+- [&sect; 04064 - Reemployment](%C2%A7%2004064%20-%20Reemployment.md)
+- [&sect; 04065 - Voluntary contribution account](%C2%A7%2004065%20-%20Voluntary%20contribution%20account.md)
+- [&sect; 04066 - Cost-of-living adjustment of annuities](%C2%A7%2004066%20-%20Cost-of-living%20adjustment%20of%20annuities.md)
+- [&sect; 04067 - Compatibility between retirement systems](%C2%A7%2004067%20-%20Compatibility%20between%20retirement%20systems.md)
+- [&sect; 04068 - Remarriage](%C2%A7%2004068%20-%20Remarriage.md)
+- [&sect; 04069 - Thrift Savings Fund participation](%C2%A7%2004069%20-%20Thrift%20Savings%20Fund%20participation.md)
+- [&sect; 04069&#8211;1 - Qualified former wives and husbands](%C2%A7%2004069%E2%80%931%20-%20Qualified%20former%20wives%20and%20husbands.md)
+- [&sect; 04069a - Retirement benefits for certain former spouses](%C2%A7%2004069a%20-%20Retirement%20benefits%20for%20certain%20former%20spouses.md)
+- [&sect; 04069a&#8211;1 - Retirement benefits for certain former spouses](%C2%A7%2004069a%E2%80%931%20-%20Retirement%20benefits%20for%20certain%20former%20spouses.md)
+- [&sect; 04069b - Survivor benefits for certain former spouses](%C2%A7%2004069b%20-%20Survivor%20benefits%20for%20certain%20former%20spouses.md)
+- [&sect; 04069b&#8211;1 - Survivor benefits for certain former spouses](%C2%A7%2004069b%E2%80%931%20-%20Survivor%20benefits%20for%20certain%20former%20spouses.md)
+- [&sect; 04069c - Health benefits for certain former spouses](%C2%A7%2004069c%20-%20Health%20benefits%20for%20certain%20former%20spouses.md)
+- [&sect; 04069c&#8211;1 - Health benefits for certain former spouses](%C2%A7%2004069c%E2%80%931%20-%20Health%20benefits%20for%20certain%20former%20spouses.md)

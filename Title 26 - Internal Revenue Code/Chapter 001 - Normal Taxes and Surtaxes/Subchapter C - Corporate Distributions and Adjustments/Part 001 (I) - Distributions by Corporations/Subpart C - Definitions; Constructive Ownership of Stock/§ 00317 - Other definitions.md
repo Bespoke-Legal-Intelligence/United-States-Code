@@ -1,0 +1,24 @@
+### §317. Other definitions
+
+#### (a) Property
+
+For purposes of this part, the term “property” means money, securities, and any other property; except that such term does not include stock in the corporation making the distribution (or rights to acquire such stock).
+
+#### (b) Redemption of stock
+
+For purposes of this part, stock shall be treated as redeemed by a corporation if the corporation acquires its stock from a shareholder in exchange for property, whether or not the stock so acquired is cancelled, retired, or held as treasury stock.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 99.)
+
+#### Cross References
+
+Dispositions other than redemptions, see section 306 of this title.
+
+Distributions of property, see section 301 of this title.
+
+Redemptions treated as distributions of property, see section 302 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 301, 302, 306, 593 of this title.
+

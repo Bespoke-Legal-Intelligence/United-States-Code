@@ -1,0 +1,186 @@
+### §31139. Minimum financial responsibility for transporting property
+
+(a)
+
+Definitions.—In this section—
+
+&emsp;(1) “farm vehicle” means a vehicle—
+
+&emsp;&emsp;(A) designed or adapted and used only for agriculture;
+
+&emsp;&emsp;(B) operated by a motor private carrier (as defined in section 10102 of this title); and
+
+&emsp;&emsp;(C) operated only incidentally on highways.
+
+&emsp;(2) “interstate commerce” includes transportation between a place in a State and a place outside the United States, to the extent the transportation is in the United States.
+
+&emsp;(3) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
+
+(b)
+
+General Requirement and Minimum Amount.—(1) The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability, property damage, and environmental restoration for the transportation of property for compensation by motor vehicle in the United States between a place in a State and—
+
+&emsp;(A) a place in another State;
+
+&emsp;(B) another place in the same State through a place outside of that State; or
+
+&emsp;(C) a place outside the United States.
+
+(2) The level of financial responsibility established under paragraph (1) of this subsection shall be at least $750,000.
+
+(c)
+
+Requirements for Hazardous Matter and Oil.—(1) The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability, property damage, and environmental restoration for the transportation by motor vehicle in interstate or intrastate commerce of—
+
+&emsp;(A) hazardous material (as defined by the Secretary);
+
+&emsp;(B) oil or hazardous substances (as defined by the Administrator of the Environmental Protection Agency); or
+
+&emsp;(C) hazardous wastes (as defined by the Administrator).
+
+(2)(A) Except as provided in subparagraph (B) of this paragraph, the level of financial responsibility established under paragraph (1) of this subsection shall be at least $5,000,000 for the transportation—
+
+&emsp;(i) of hazardous substances (as defined by the Administrator) in cargo tanks, portable tanks, or hopper-type vehicles, with capacities of more than 3,500 water gallons;
+
+&emsp;(ii) in bulk of class A explosives, poison gas, liquefied gas, or compressed gas; or
+
+&emsp;(iii) of large quantities of radioactive material.
+
+(B) The Secretary of Transportation by regulation may reduce the minimum level in subparagraph (A) of this paragraph (to an amount not less than $1,000,000) for transportation described in subparagraph (A) in any of the territories of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands if—
+
+&emsp;(i) the chief executive officer of the territory requests the reduction;
+
+&emsp;(ii) the reduction will prevent a serious disruption in transportation service and will not adversely affect public safety; and
+
+&emsp;(iii) insurance of $5,000,000 is not readily available.
+
+(3) The level of financial responsibility established under paragraph (1) of this subsection for the transportation of a material, oil, substance, or waste not subject to paragraph (2) of this subsection shall be at least $1,000,000. However, if the Secretary of Transportation finds it will not adversely affect public safety, the Secretary by regulation may reduce the amount for—
+
+&emsp;(A) a class of vehicles transporting such a material, oil, substance, or waste in intrastate commerce (except in bulk); and
+
+&emsp;(B) a farm vehicle transporting such a material or substance in interstate commerce (except in bulk).
+
+(d)
+
+Foreign Motor Carriers and Private Carriers.—Regulations prescribed under this section may allow foreign motor carriers and foreign motor private carriers (as those terms are defined in section 10530 of this title) providing transportation of property under a certificate of registration issued under section 10530 to meet the minimum levels of financial responsibility under this section only when those carriers are providing transportation for property in the United States.
+
+(e)
+
+Evidence of Financial Responsibility.—(1) Subject to paragraph (2) of this subsection, financial responsibility may be established by evidence of one or a combination of the following if acceptable to the Secretary of Transportation:
+
+&emsp;(A) insurance.
+
+&emsp;(B) a guarantee.
+
+&emsp;(C) a surety bond issued by a bonding company authorized to do business in the United States.
+
+&emsp;(D) qualification as a self-insurer.
+
+(2) A person domiciled in a country contiguous to the United States and providing transportation to which a minimum level of financial responsibility under this section applies shall have evidence of financial responsibility in the motor vehicle when the person is providing the transportation. If evidence of financial responsibility is not in the vehicle, the Secretary of Transportation and the Secretary of the Treasury shall deny entry of the vehicle into the United States.
+
+(f)
+
+Civil Penalty.—(1) If, after notice and an opportunity for a hearing, the Secretary of Transportation finds that a person (except an employee acting without knowledge) has knowingly violated this section or a regulation prescribed under this section, the person is liable to the United States Government for a civil penalty of not more than $10,000 for each violation. A separate violation occurs for each day the violation continues.
+
+(2) The Secretary of Transportation shall impose the penalty by written notice. In determining the amount of the penalty, the Secretary shall consider—
+
+&emsp;(A) the nature, circumstances, extent, and gravity of the violation;
+
+&emsp;(B) with respect to the violator, the degree of culpability, any history of prior violations, the ability to pay, and any effect on the ability to continue doing business; and
+
+&emsp;(C) other matters that justice requires.
+
+(3) The Secretary of Transportation may compromise the penalty before referring the matter to the Attorney General for collection.
+
+(4) The Attorney General shall bring a civil action in an appropriate district court of the United States to collect a penalty referred to the Attorney General for collection under this subsection.
+
+(5) The amount of the penalty may be deducted from amounts the Government owes the person. An amount collected under this section shall be deposited in the Treasury as miscellaneous receipts.
+
+(g)
+
+Nonapplication.—This section does not apply to a motor vehicle having a gross vehicle weight rating of less than 10,000 pounds if the vehicle is not used to transport in interstate or foreign commerce—
+
+&emsp;(1) class A or B explosives;
+
+&emsp;(2) poison gas; or
+
+&emsp;(3) a large quantity of radioactive material.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1006.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+31139(a)
+
+49:10927 (note).
+
+July 1, 1980, Pub. L. 96–296, §30(h), 94 Stat. 823; Jan. 6, 1983, Pub. L. 97–424, §406(c), 96 Stat. 2159; Oct. 30, 1984, Pub. L. 98–554, §222(b), 98 Stat. 2847; Nov. 18, 1988, Pub. L. 100–690, §9112, 102 Stat. 4534.
+
+31139(b)
+
+49:10927 (note).
+
+July 1, 1980, Pub. L. 96–296, §30(a), 94 Stat. 820; Jan. 6, 1983, Pub. L. 97–424, §406(a), 96 Stat. 2158.
+
+31139(c)
+
+49:10927 (note).
+
+July 1, 1980, Pub. L. 96–296, §30(b), 94 Stat. 821; Jan. 6, 1983, Pub. L. 97–424, §406(a), 96 Stat. 2158; Oct. 30, 1984, Pub. L. 98–554, §222(a), 98 Stat. 2846; Nov. 16, 1990, Pub. L. 101–615, §23, 104 Stat. 3272.
+
+31139(d)
+
+49:10927 (note).
+
+July 1, 1980, Pub. L. 96–296, 94 Stat. 793, §30(g); added Nov. 18, 1988, Pub. L. 100–690, §9112, 102 Stat. 4534.
+
+31139(e)
+
+49:10927 (note).
+
+July 1, 1980, Pub. L. 96–296, §30(c), 94 Stat. 822; Jan. 6, 1983, Pub. L. 97–424, §406(b), 96 Stat. 2158.
+
+&nbsp;
+
+July 1, 1980, Pub. L. 96–296, §30(e), 94 Stat. 822.
+
+31139(f)
+
+49:10927 (note).
+
+July 1, 1980, Pub. L. 96–296, §30(d), 94 Stat. 822.
+
+31139(g)
+
+49:10927 (note).
+
+July 1, 1980, Pub. L. 96–296, §30(f), 94 Stat. 823; Jan. 6, 1983, Pub. L. 97–424, §406(d), 96 Stat. 2159.
+
+In subsection (a), before clause (1), the text of section 30(h)(3) of the Motor Carrier Act of 1980 (Public Law 96–296, 94 Stat. 823) is omitted as surplus because the complete name of the Secretary of Transportation is used the first time the term appears in a section. In clause (3), the words “(including its use in the terms ‘interstate’ and ‘intrastate’)” are omitted as surplus.
+
+In subsections (b)(2) and (c)(2) and (3), the word “minimal” is omitted as surplus.
+
+In subsection (b)(2), the words “for any vehicle” are omitted as surplus. The words beginning with “except” are omitted as expired. The text of section 30(a)(3) of the Act (Public Law 96–296, 94 Stat. 821) is omitted because the regulations have been issued. See 49 C.F.R. part 387.
+
+In subsection (c)(2), the text of section 30(b)(2)(B) of the Act (Public Law 96–296, 94 Stat. 821) is omitted as expired.
+
+In subsection (c)(3), before clause (A), the text of section 30(b)(3)(A) of the Act (Public Law 96–296, 94 Stat. 821) is omitted as expired. The text of section 30(b)(4) of the Act (Public Law 96–296, 94 Stat. 822) is omitted because the regulations have been issued. See 49 C.F.R. part 387. The words “for any vehicle . . . in interstate or intrastate commerce” are omitted as unnecessary because of the reference to paragraph (1).
+
+In subsection (e)(1), the words “The Secretary shall establish, by regulation, methods and procedures to assure compliance with this section” are omitted as surplus. The text of section 30(e) of the Act (Public Law 96–296, 94 Stat. 822) is omitted as executed.
+
+In subsection (f)(4), the words “The Attorney General shall bring a civil action . . . to collect a penalty referred to the Attorney General for collection under this subsection” are substituted for “Such civil penalty may be recovered in an action brought by the Attorney General on behalf of the United States” for consistency in the revised title.
+
+In subsection (f)(5), the words “when finally determined (or agreed upon in compromise)” are omitted as surplus.
+
+In subsection (g)(1) and (2), the words “any quantity of” are omitted as surplus.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 507, 521, 526, 10530, 10927 of this title.
+

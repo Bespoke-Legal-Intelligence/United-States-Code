@@ -1,0 +1,46 @@
+### §474. Plates or stones for counterfeiting obligations or securities
+
+(a) Whoever, having control, custody, or possession of any plate, stone, or other thing, or any part thereof, from which has been printed, or which may be prepared by direction of the Secretary of the Treasury for the purpose of printing, any obligation or other security of the United States, uses such plate, stone, or other thing, or any part thereof, or knowingly suffers the same to be used for the purpose of printing any such or similar obligation or other security, or any part thereof, except as may be printed for the use of the United States by order of the proper officer thereof; or
+
+Whoever makes or executes any plate, stone, or other thing in the likeness of any plate designated for the printing of such obligation or other security; or
+
+Whoever sells any such plate, stone, or other thing, or brings into the United States any such plate, stone, or other thing, except under the direction of the Secretary of the Treasury or other proper officer, or with any other intent, in either case, than that such plate, stone, or other thing be used for the printing of the obligations or other securities of the United States; or
+
+Whoever has in his control, custody, or possession any plate, stone, or other thing in any manner made after or in the similitude of any plate, stone, or other thing, from which any such obligation or other security has been printed, with intent to use such plate, stone, or other thing, or to suffer the same to be used in forging or counterfeiting any such obligation or other security, or any part thereof; or
+
+Whoever has in his possession or custody, except under authority from the Secretary of theTreasury or other proper officer, any obligation or other security made or executed, in whole or in part, after the similitude of any obligation or other security issued under the authority of the United States, with intent to sell or otherwise use the same; or
+
+Whoever prints, photographs, or in any other manner makes or executes any engraving, photograph, print, or impression in the likeness of any such obligation or other security, or any part thereof, or sells any such engraving, photograph, print, or impression, except to the United States, or brings into the United States, any such engraving, photograph, print, or impression, except by direction of some proper officer of the United States—
+
+Is guilty of a class C felony.
+
+(b) For purposes of this section, the terms “plate”, “stone”, “thing”, or “other thing” includes any electronic method used for the acquisition, recording, retrieval, transmission, or reproduction of any obligation or other security, unless such use is authorized by the Secretary of the Treasury. The Secretary shall establish a system (pursuant to section 504) to ensure that the legitimate use of such electronic methods and retention of such reproductions by businesses, hobbyists, press and others shall not be unduly restricted.
+
+(June 25, 1948, ch. 645, 62 Stat. 706; Oct. 28, 1992, Pub. L. 102–550, title XV, §1552, 106 Stat. 4070.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §264 (Mar. 4, 1909, ch. 321, §150, 35 Stat. 1116).
+
+References to persons causing, procuring, assisting or aiding were omitted as unnecessary as such persons are made principals by section 2 of this title.
+
+Changes in phraseology were made.
+
+#### Amendments
+
+1992—Subsec. (a). Pub. L. 102–550, §1552(1)–(4), designated existing provisions as subsec. (a), in sixth undesignated par., substituted “United States—” for “United States; or” at end, struck out seventh undesignated par. which read as follows: “Whoever has or retains in his control or possession, after a distinctive paper has been adopted by the Secretary of the Treasury for the obligations and other securities of the United States, any similar paper adapted to the making of any such obligation or other security, except under the authority of the Secretary of the Treasury or some other proper officer of the United States—”, and amended last undesignated par. generally. Prior to amendment, last par. read as follows: “Shall be fined not more than $5,000 or imprisoned not more than fifteen years, or both.”
+
+Subsec. (b). Pub. L. 102–550, §1552(5), added subsec. (b).
+
+#### Canal Zone
+
+Applicability of section to Canal Zone, see section 14 of this title.
+
+#### Cross References
+
+Philatelic reproductions permitted, see section 504 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 14, 470, 981, 982 of this title; title 16 section 718e.
+

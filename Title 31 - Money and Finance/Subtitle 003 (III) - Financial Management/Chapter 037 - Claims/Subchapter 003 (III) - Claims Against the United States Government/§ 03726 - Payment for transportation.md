@@ -1,0 +1,130 @@
+### §3726. Payment for transportation
+
+(a) A carrier or freight forwarder presenting a bill for transporting an individual or property for the United States Government may be paid before the Administrator of General Services conducts an audit, in accordance with regulations that the Administrator shall prescribe. A claim under this section shall be allowed only if it is received by the Administrator not later than 3 years (excluding time of war) after the later of the following dates:
+
+&emsp;(1) accrual of the claim;
+
+&emsp;(2) payment for the transportation is made;
+
+&emsp;(3) refund for an overpayment for the transportation is made; or
+
+&emsp;(4) a deduction under subsection (b) of this section is made.
+
+(b) Not later than 3 years (excluding time of war) after the time a bill is paid, the Government may deduct from an amount subsequently due a carrier or freight forwarder an amount paid on the bill that was greater than the rate allowed under—
+
+&emsp;(1) a lawful tariff on file with the Interstate Commerce Commission, the Secretary of Transportation with respect to foreign air transportation (as defined in section 40102(a) of title 49), the Federal Maritime Commission, or a State transportation authority; or
+
+&emsp;(2) sections 10721–10724 of title 49 or an equivalent arrangement or an exemption.
+
+(c) Expenses of transportation audit postpayment contracts and contract administration, and the expenses of all other transportation audit and audit-related functions conferred upon the Administrator of General Services, shall be financed from overpayments collected from carriers on transportation bills paid by the Government and other similar type refunds, not to exceed collections. Payment to any contractor for audit services shall not exceed 50 percent of the overpayment identified by contract audit.
+
+(d) At least annually, and as determined by the Administrator, after making adequate provision for expense of refunds to carriers, transportation audit postpayment contracts, contract administration, and other expenses authorized in subsection (c), overpayments collected by the General Services Administration shall be transferred to miscellaneous receipts of the Treasury. A report of receipts, disbursements, and transfers (to miscellaneous receipts) pursuant to this section shall be made annually in connection with the budget estimates to the Director of the Office of Management and Budget and to the Congress.
+
+(e) The Administrator may delegate any authority conferred by this section to another agency or agencies if the Administrator determines that such a delegation would be cost-effective or otherwise in the public interest.
+
+(f) Under regulations the head of an agency prescribes that conform with standards the Secretary of the Treasury and the Comptroller General prescribe jointly, a bill under this section may be paid before the transportation is completed notwithstanding section 3324 of this title when a carrier or freight forwarder issues the usual document for the transportation. Payment for transportation ordered but not provided may be recovered by deduction or other means.
+
+(g)(1) A carrier or freight forwarder may request the Comptroller General to review the action of the Administrator if the request is received not later than 6 months (excluding time of war) after the Administrator acts or within the time stated in subsection (a) of this section, whichever is later.
+
+(2) This section does not prevent the Comptroller General from conducting an audit under chapter 35 of this title.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 976; Pub. L. 98–443, §9(f), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 99–627, §1, Nov. 7, 1986, 100 Stat. 3508; Pub. L. 103–123, title VI, §620A, Oct. 28, 1993, 107 Stat. 1265; Pub. L. 103–272, §§4(f)(1)(N), 5(i)(2), July 5, 1994, 108 Stat. 1362, 1375; Pub. L. 103–429, §7(a)(3)(B), Oct. 31, 1994, 108 Stat. 4388.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+3726(a)
+
+31:244(a)(1st sentence, last sentence last proviso).
+
+Sept. 18, 1940, ch. 722, §322(a), 54 Stat. 955; Aug. 26, 1958, Pub. L. 85–762, §2, 72 Stat. 860; Oct. 25, 1972, Pub. L. 92–550, §1(a), 86 Stat. 1163; Jan. 2, 1975, Pub. L. 93–604, §201(1), (2), 88 Stat. 1960.
+
+3726(b)
+
+31:244(a)(2d sentence, last sentence less last proviso).
+
+3726(c)
+
+31:244(c), (d).
+
+Sept. 18, 1940, ch. 722, 54 Stat. 898, §322(c), (d); added Oct. 25, 1972, Pub. L. 92–550, §1(b), 86 Stat. 1164; Jan. 2, 1975, Pub. L. 93–604, §201(3), 88 Stat. 1960.
+
+3726(d)(1)
+
+31:244(b).
+
+Sept. 18, 1940, ch. 722, 54 Stat. 898, §322(b); added Jan. 2, 1975, Pub. L. 93–604, §201(3), 88 Stat. 1960.
+
+3726(d)(2)
+
+31:244(a)(3d sentence).
+
+In the section, the words “Administrator of General Services” are substituted for “General Services Administration, or his designee” for consistency. The word “freight” is added for clarity and consistency with 49:10101 et seq.
+
+In subsection (a), before clause (1), the word “individual” is substituted for “persons” for consistency. The words “or on behalf of” are omitted as unnecessary. The words “for charges for transportation . . . the purview of” are omitted as surplus. In clause (1), the word “claim” is substituted for “cause of action thereon” for consistency. In clauses (2) and (3), the words “is made” are substituted for “of charges . . . involved” and “subsequent . . . of such charges” to eliminate unnecessary words.
+
+In subsection (b), before clause (1), the words “<i>Provided, however,</i> That such deductions shall be made” are omitted because of the restatement. The words “found to be” are omitted as surplus. The words “of any overcharge by any carrier or forwarder” and “The term ‘overcharges’ shall be deemed to mean . . . those applicable thereto” are omitted because of the restatement. The word “rate” is substituted for “charges for transportation services” and “rates, fares, and charges” for consistency with title 49. In clause (1), the word “authority” is substituted for “regulatory agency” for consistency. In clause (2), the words “established” and “contract . . . from regulation” are omitted as surplus.
+
+In subsection (c), the text of 31:244(d) and the words “Government”, “or his designee”, and “of the United States” are omitted as unnecessary. The words “under this section” are substituted for “for passenger or freight transportation services to be furnished the United States by any carrier or forwarder” to eliminate unnecessary words. The word “transportation” is substituted for “services” for consistency. The words “ticket, receipt, bill of lading, or equivalent . . . involved” and “as ordered by the United States” are omitted as surplus.
+
+In subsection (d)(1), the words “may request” are substituted for “Nothing in subsection (a) of this section hereof shall be deemed to prevent . . . from requesting” to eliminate unnecessary words. The words “of limitation” are omitted as surplus.
+
+In subsection (d)(2), the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
+
+#### Amendments
+
+1994—Subsec. (b)(1). Pub. L. 103–272, §5(i)(2), substituted “section 40102(a) of title 49” for “the Federal Aviation Act of 1958”.
+
+Subsec. (d). Pub. L. 103–272, §4(f)(1)(N), which directed the substitution of “miscellaneous receipts” for “miscellaneous receipt”, was repealed by Pub. L. 103–429.
+
+1993—Subsecs. (c) and (d). Pub. L. 103–123 amended subsecs. (c) and (d) generally. Prior to amendment, subsecs. (c) and (d) read as follows:
+
+“(c) Expenses of transportation audit contracts and contract administration shall be financed from overpayments collected from carriers on transportation bills paid by the Government and other similar type refunds at not to exceed 40 percent of such collections annually. Payment to any contractor shall not exceed 50 percent of the overpayments identified by any contract audit.
+
+“(d) At least annually, and as determined by the Administrator, after making adequate provision for expenses of refunds to carriers, transportation audit contracts, and contract administration authorized in subsection (c), the balance of the overpayments collected by the General Services Administration shall be transferred to miscellaneous receipt of the Treasury. A report of receipts, disbursements, and transfers (to miscellaneous receipts) pursuant to this section shall be made annually in connection with the budget estimates to the Director of the Office of Management and Budget and to the Congress.”
+
+1986—Subsec. (a). Pub. L. 99–627, §1(1), amended first sentence generally, substituting “may be paid before the Administrator of General Services conducts an audit, in accordance with regulations that the Administrator shall prescribe” for “shall be paid before the Administrator of General Services conducts an audit”.
+
+Subsecs. (c) to (g). Pub. L. 99–627, §1(2), (3), added subsecs. (c) to (e) and redesignated former subsecs. (c) and (d) as (f) and (g), respectively.
+
+1984—Subsec. (b)(1). Pub. L. 98–443 substituted “Secretary of Transportation with respect to foreign air transportation (as defined in the Federal Aviation Act of 1958)” for “Civil Aeronautics Board”.
+
+#### Effective Date of 1994 Amendment
+
+Section 7(a) of Pub. L. 103–429 provided that the amendment made by that section is effective July 5, 1994.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under section 5314 of Title 5, Government Organization and Employees.
+
+#### Task Force
+
+Section 2 of Pub. L. 99–627 provided that:
+
+“(a) Within 60 days after the date of enactment of this Act \[Nov. 7, 1986\], the Administrator of General Services shall establish a task force to study and investigate the feasibility, desirability, and economy of an integrated, automated system that Federal agencies may use in managing the transportation of property for the United States.
+
+“(b) The task force established under subsection (a) shall—
+
+&emsp;“(1) be chaired by a representative of the Administrator;
+
+&emsp;“(2) include representatives of the Department of Defense and other Federal agencies significantly involved in the transportation of property for the United States; and
+
+&emsp;“(3) solicit the views of private businesses with expertise in the matters being considered by the task force.
+
+“(c) In studying and investigating the integrated, automated system, the task force shall consider including in that system such elements as automated routing, rating, documentation, payment, and auditing.
+
+“(d) Each department, agency, and instrumentality of the Federal Government shall furnish to the task force, upon its request, such data, reports, and other information (not otherwise prohibited by law) as the task force deems necessary to carry out its functions under this section.
+
+“(e) The head of each such department, agency, and instrumentality may provide to the task force such services and personnel as the task force requests on such basis (reimbursable or otherwise) as may beagreed upon between such department, agency, or instrumentality and the task force.
+
+“(f) The task force shall submit a final report on the results of its study and investigation to the Congress not later than July 1, 1988.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3528 of this title; title 2 sections 142b, 142e, 142f; title 44 section 308; title 49 section 11706.
+

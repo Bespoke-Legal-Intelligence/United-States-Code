@@ -1,0 +1,38 @@
+### §460aa–13 . Area analysis for park or park administrative unit proposal
+
+#### (a) Report to Congress
+
+The Secretary of the Interior, in consultation with appropriate Federal, State, and local agencies, shall make a comprehensive analysis of the natural, economic, and cultural values of the recreation area and the adjacent Pioneer Mountains for the purpose of evaluating the potentiality of establishing therein a national park or other unit of the national park system. He shall submit a report of the results of the analysis along with his recommendations to the Congress by December 31, 1974.
+
+#### (b) Considerations manifested in report to Congress
+
+His report shall show that in making the aforesaid recommendations he took into consideration, among other things—
+
+&emsp;(1) the feasible alternative uses of the land and the long- and short-term effect of such alternative uses upon, but not limited to, the following—
+
+&emsp;&emsp;(A) the State and local economy,
+
+&emsp;&emsp;(B) the natural and cultural environment,
+
+&emsp;&emsp;(C) the management and use of water resources,
+
+&emsp;&emsp;(D) the management of grazing, timber, mineral, and other commercial activities,
+
+&emsp;&emsp;(E) the management of fish and wildlife resources,
+
+&emsp;&emsp;(F) the continued occupancy of existing homesites, campsites, commercial and public recreation enterprises, and other privately owned properties and the future development of the same,
+
+&emsp;&emsp;(G) the interrelation between recreation areas, wilderness areas and park lands, and
+
+&emsp;(2) the establishment of a national park in the mountain peaks and upland areas together with such portions of the national recreation area as may be necessary and appropriate for the proper administration and public use of and access to such parks lands, leaving the valleys and low-lying lands available for multiple-use purposes.
+
+#### (c) Master plan, cost estimates and proposed legislation for establishment of park administrative unit
+
+Any recommendation for the establishment of a unit of the national park system shall be accompanied by (1) a master plan for the development and administration of such unit, indicating proposed boundaries, access or other roads, visitor facilities, and proposed management concepts applicable to such unit; (2) a statement of the estimated Federal cost for acquisition, development, and operation of such unit; and (3) proposed legislation for establishment of such park administrative unit.
+
+#### (d) Authorization of appropriations
+
+There are authorized to be appropriated not more than $50,000 to carry out the provisions of this section.
+
+(Pub. L. 92–400, §14, Aug. 22, 1972, 86 Stat. 615.)
+

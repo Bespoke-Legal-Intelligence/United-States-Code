@@ -1,0 +1,172 @@
+### §5312. Definitions and application
+
+(a) In this subchapter—
+
+&emsp;(1) “financial agency” means a person acting for a person (except for a country, a monetary or financial authority acting as a monetary or financial authority, or an international financial institution of which the United States Government is a member) as a financial institution, bailee, depository trustee, or agent, or acting in a similar way related to money, credit, securities, gold, or a transaction in money, credit, securities, or gold.
+
+&emsp;(2) “financial institution” means—
+
+&emsp;&emsp;(A) an insured bank (as defined in section 3(h) of the Federal Deposit Insurance Act (12 U.S.C. 1813(h)));
+
+&emsp;&emsp;(B) a commercial bank or trust company;
+
+&emsp;&emsp;(C) a private banker;
+
+&emsp;&emsp;(D) an agency or branch of a foreign bank in the United States;
+
+&emsp;&emsp;(E) an insured institution (as defined in section 401(a) <sup>1</sup> of the National Housing Act (12 U.S.C. 1724(a)));
+
+&emsp;&emsp;(F) a thrift institution;
+
+&emsp;&emsp;(G) a broker or dealer registered with the Securities and Exchange Commission under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.);
+
+&emsp;&emsp;(H) a broker or dealer in securities or commodities;
+
+&emsp;&emsp;(I) an investment banker or investment company;
+
+&emsp;&emsp;(J) a currency exchange;
+
+&emsp;&emsp;(K) an issuer, redeemer, or cashier of travelers’ checks, checks, money orders, or similar instruments;
+
+&emsp;&emsp;(L) an operator of a credit card system;
+
+&emsp;&emsp;(M) an insurance company;
+
+&emsp;&emsp;(N) a dealer in precious metals, stones, or jewels;
+
+&emsp;&emsp;(O) a pawnbroker;
+
+&emsp;&emsp;(P) a loan or finance company;
+
+&emsp;&emsp;(Q) a travel agency;
+
+&emsp;&emsp;(R) a licensed sender of money;
+
+&emsp;&emsp;(S) a telegraph company;
+
+&emsp;&emsp;(T) a business engaged in vehicle sales, including automobile, airplane, and boat sales;
+
+&emsp;&emsp;(U) persons involved in real estate closings and settlements;
+
+&emsp;&emsp;(V) the United States Postal Service;
+
+&emsp;&emsp;(W) an agency of the United States Government or of a State or local government carrying out a duty or power of a business described in this paragraph;
+
+&emsp;&emsp;(X) a casino, gambling casino, or gaming establishment with an annual gaming revenue of more than $1,000,000 which—
+
+&emsp;&emsp;&emsp;(i) is licensed as a casino, gambling casino, or gaming establishment under the laws of any State or any political subdivision of any State; or
+
+&emsp;&emsp;&emsp;(ii) is an Indian gaming operation conducted under or pursuant to the Indian Gaming Regulatory Act other than an operation which is limited to class I gaming (as defined in section 4(6) of such Act);
+
+&emsp;&emsp;(Y) any business or agency which engages in any activity which the Secretary of the Treasury determines, by regulation, to be an activity which is similar to, related to, or a substitute for any activity in which any business described in this paragraph is authorized to engage; or
+
+&emsp;&emsp;(Z) any other business designated by the Secretary whose cash transactions have a high degree of usefulness in criminal, tax, or regulatory matters.
+
+&emsp;(3) “monetary instruments” means—
+
+&emsp;&emsp;(A) United States coins and currency;
+
+&emsp;&emsp;(B) as the Secretary may prescribe by regulation, coins and currency of a foreign country, travelers’ checks, bearer negotiable instruments, bearer investment securities, bearer securities, stock on which title is passed on delivery, and similar material; and
+
+&emsp;&emsp;(C) as the Secretary of the Treasury shall provide by regulation for purposes of section 5316, checks, drafts, notes, money orders, and other similar instruments which are drawn on or by a foreign financial institution and are not in bearer form.
+
+&emsp;(4) “person”, in addition to its meaning under section 1 of title 1, includes a trustee, a representative of an estate and, when the Secretary prescribes, a governmental entity.
+
+&emsp;(5) “United States” means the States of the United States, the District of Columbia, and, when the Secretary prescribes by regulation, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands, a territory or possession of the United States, or a military or diplomatic establishment.
+
+(b) In this subchapter—
+
+&emsp;(1) “domestic financial agency” and “domestic financial institution” apply to an action in the United States of a financial agency or institution.
+
+&emsp;(2) “foreign financial agency” and “foreign financial institution” apply to an action outside the United States of a financial agency or institution.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 99–570, title I, §1362, Oct. 27, 1986, 100 Stat. 3207–33; Pub. L. 100–690, title VI, §6185(a), (g)(1), Nov. 18, 1988, 102 Stat. 4354, 4357; Pub. L. 103–325, title IV, §§405, 409, Sept. 23, 1994, 108 Stat. 2247, 2252.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+5312(a)(1)
+
+31:1052(a), (b), (g), (i).
+
+Oct. 26, 1970, Pub. L. 91–508, §203(a)–(i), (<i>l</i>), 84 Stat. 1118.
+
+5312(a)(2)
+
+31:1052(e).
+
+5312(a)(3)
+
+31:1052(<i>l</i>).
+
+5312(a)(4)
+
+31:1052(c).
+
+5312(a)(5)
+
+31:1052(d).
+
+5312(b)
+
+31:1052(f), (h).
+
+In subsection (a)(1), the text of 31:1052(a) is omitted as unnecessary. The text of 31:1052(b) is omitted because ofthe restatement. The text of 31:1052(i) is omitted as unnecessary because the source provision is restated where necessary in the revised subchapter.
+
+In subsection (a)(2), (3), (4), and (5), the words “the Secretary . . . prescribes” are substituted for “specified by the Secretary by regulation”, “as the Secretary may by regulation specify”, “specified by the Secretary”, and “the Secretary shall by regulation specify” for consistency.
+
+In subsection (a)(2) and (3), the words “for the purposes of the provision of this chapter to which the regulation relates” are omitted as surplus.
+
+In subsection (a)(2), before subclause (A), the words “any person which does business in any one or more of the following capacities” are omitted as surplus. In subclause (F), the words “savings bank, building and loan association, credit union, industrial bank, or other” are omitted as surplus. In subclause (T), the words “agency of the United States Government or of a State or local government” are substituted for “Federal, State, or local government institution” for consistency. In subclause (U), the words “type of” are omitted as surplus. The word “agency” is substituted for “institution” for consistency.
+
+In subsection (a)(3)(B)–(5), the word “prescribe” is substituted for “specify” for consistency in the revised title and with other titles of the United States Code.
+
+In subsection (a)(3)(B), the words “in addition”, and “and such types of” are omitted as surplus. The words “similar material” are substituted for “the equivalent thereof” for clarity.
+
+In subsection (a)(4), the words “in addition to its meaning under section 1 of title 1” are substituted for “natural persons, partnerships, . . . associations, corporations, and all entities cognizable as legal personalities” for consistency because 1:1 is applicable to all laws unless otherwise provided. The words “a trustee, a representative of an estate” are substituted for “trusts, estates”, and the word “entity” is substituted for “department or agency”, for consistency. The words “either for the purpose of this chapter generally or any particular requirement thereunder” are omitted as surplus.
+
+In subsection (a)(5), the words “used in a geographic sense” are omitted because of the restatement. The words “either for the purposes of this chapter generally or any particular requirement thereunder” are omitted as surplus. The words “territory or” are added for consistency.
+
+Subsection (b) is substituted for 31:1052(f) and (h) to eliminate unnecessary words and for consistency.
+
+#### References in Text
+
+Section 401 of the National Housing Act, referred to in subsec. (a)(2)(E), which was classified to section 1724 of Title 12, Banks and Banking, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
+
+The Securities Exchange Act of 1934, referred to in subsec. (a)(2)(G), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+
+The Indian Gaming Regulatory Act, referred to in subsec. (a)(2)(X)(ii), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§2701 et seq.) of Title 25, Indians. Section 4(6) of the Act is classified to section 2703(6) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+
+#### Amendments
+
+1994—Subsec. (a)(2)(X) to (Z). Pub. L. 103–325, §409, added subpar. (X) and redesignated former subpars. (X) and (Y) as (Y) and (Z), respectively.
+
+Subsec. (a)(3)(C). Pub. L. 103–325, §405, added subpar. (C).
+
+1988—Subsec. (a)(2)(T) to (Y). Pub. L. 100–690, §6185(a), added subpars. (T) to (Y) and struck out former subpars. (T) and (U) which read as follows:
+
+“(T) an agency of the United States Government or of a State or local government carrying out a duty or power of a business described in this clause (2), including the United States Postal Service; or
+
+“(U) another business or agency carrying out a similar, related, or substitute duty or power the Secretary of the Treasury prescribes.”
+
+Subsec. (a)(5). Pub. L. 100–690, §6185(g)(1), inserted a comma after “Puerto Rico” and struck out second comma after “Pacific Islands”.
+
+1986—Subsec. (a)(2)(T). Pub. L. 99–570, §1362(a), which directed that the Postal Service be included within United States agencies by amending subsec. (a)(2)(U) of this section by inserting before the semicolon at the end thereof the following “, including the United States Postal Service”, was executed to subsec. (a)(2)(T) of this section as the probable intent of Congress, because subsec. (a)(2)(U) does not contain a semicolon and subsec. (a)(2)(T) relates to United States agencies.
+
+Subsec. (a)(5). Pub. L. 99–570, §1362(b), inserted “the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands,” after “Puerto Rico”.
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5327 of this title; title 12 section 1953; title 18 sections 986, 1956; title 19 sections 1401, 1607; title 26 section 6050I.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

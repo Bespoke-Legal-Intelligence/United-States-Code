@@ -1,0 +1,15 @@
+### SUBCHAPTER I—DOMESTIC SUPPLY AVAILABILITY
+
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in sections 6391, 6393, 6394, 6396 of this title.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [Part A - Domestic Supply](Part%20A%20-%20Domestic%20Supply/README.md)
+- [Part B - Strategic Petroleum Reserve](Part%20B%20-%20Strategic%20Petroleum%20Reserve/README.md)
+- [Part C - Authority to Contract for Petroleum Product Not Owned by United States](Part%20C%20-%20Authority%20to%20Contract%20for%20Petroleum%20Product%20Not%20Owned%20by%20United%20States/README.md)
+- [Part D - Expiration](Part%20D%20-%20Expiration/README.md)

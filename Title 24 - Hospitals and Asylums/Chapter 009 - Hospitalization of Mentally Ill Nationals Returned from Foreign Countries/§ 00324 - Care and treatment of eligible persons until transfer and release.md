@@ -1,0 +1,24 @@
+### §324. Care and treatment of eligible persons until transfer and release
+
+#### (a) Place of hospitalization
+
+Until the transfer and release of an eligible person pursuant to section 323 of this title, the Secretary is authorized to provide care and treatment for such person at any Federal hospital within or (pursuant to agreement) outside of the Department, or (under contract or other arrangements made without regard to section 5 of title 41) at any other public or private hospital in any State and, for such purposes, to transfer such person to any such hospital from a place of temporary care provided pursuant to section 322 of this title. In determining the place of such hospitalization, the Secretary shall give due weight to the best interests of the patient.
+
+#### (b) Ineligible persons
+
+The authority of the Secretary to provide hospitalization for any person under this section shall not apply to any person for whose medical care and treatment any agency of the United States is responsible.
+
+(Pub. L. 86–571, §4, July 5, 1960, 74 Stat. 309; Pub. L. 98–621, §10(r), Nov. 8, 1984, 98 Stat. 3381.)
+
+#### Amendments
+
+1984—Subsec. (a). Pub. L. 98–621 substituted “any” for “Saint Elizabeth Hospital, at any other” after “for such person” in first sentence.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–621 effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621 set out as an Effective Date note under section 225 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 168b, 323, 325, 326, 327, 328 of this title.
+

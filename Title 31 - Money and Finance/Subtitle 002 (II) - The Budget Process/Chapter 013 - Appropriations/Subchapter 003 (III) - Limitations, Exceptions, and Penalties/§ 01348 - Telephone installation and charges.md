@@ -1,0 +1,70 @@
+### §1348. Telephone installation and charges
+
+(a)(1) Except as provided in this section, appropriations are not available to install telephones in private residences or for tolls or other charges for telephone service from private residences.
+
+(2) Under regulations of the Secretary of State, appropriations may be used to install and pay for the use of telephones in residences owned or leased by the United States Government in foreign countries for the use of the Foreign Service. Subsection (b) of this section applies to long-distance calls made on those telephones.
+
+(b) Appropriations of an agency are available to pay charges for a long-distance call if required for official business and the voucher to pay for the call is sworn to by the head of the agency. Appropriations of an executive agency are available only if the head of the agency also certifies that the call is necessary in the interest of the Government.
+
+(c) Under regulations prescribed by the Secretary of the Army on recommendation of the Chief of Engineers, not more than $30,000 may be expended each fiscal year to install and use in private residences telephones required for official business in constructing and operating locks and dams for navigation, flood control, and related water uses.
+
+(d) Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense are available to install, repair, and maintain telephone wiring in residences owned or leased by the United StatesGovernment and, if necessary for national defense purposes, in other private residences.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 926; Pub. L. 98–407, title VIII, §811(a), Aug. 28, 1984, 98 Stat. 1523.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+1348(a)(1)
+
+31:679(words before 2d comma).
+
+Aug. 23, 1912, ch. 350, §7(less proviso), 37 Stat. 414.
+
+1348(a)(2)
+
+31:679(proviso).
+
+Aug. 23, 1912, ch. 350, 37 Stat. 360, §7(proviso); added Apr. 30, 1940, ch. 175, 54 Stat. 175.
+
+1348(b)
+
+31:679(words between 2d comma and proviso).
+
+&nbsp;
+
+31:680a.
+
+May 10, 1939, ch. 119, §4, 53 Stat. 738.
+
+1348(c)
+
+31:680.
+
+Sept. 22, 1922, ch. 427, §7, 42 Stat. 1042; May 17, 1950, ch. 188, §203, 64 Stat. 170; restated June 28, 1955, ch. 198, 69 Stat. 188.
+
+In subsection (a)(1), the words “or private apartment” are omitted as being included in “private residences”.
+
+In subsection (a)(2), the word “appropriations” is substituted for “Government funds”, and the word “calls” is substituted for “tolls”, for consistency. The word “official” is omitted as surplus.
+
+In subsection (b), the words “On and after May 10, 1939” in 31:680a are omitted as executed. The word “agency” is substituted for “executive department, establishment, or agency” for clarity and because of section 101 of the revised title. The words “official business” are substituted for “public business” in 31:679 and “transaction of public business which the interests of the Government require to be so transacted” in 31:680a to eliminate unnecessary words. The words “division, bureau, or office” in 31:679 are omitted as being included in “agency”. The words “or such subordinates as he may specially designate” in 31:680a are omitted as surplus.
+
+In subsection (c), the words “On and after September 22, 1922 the provisions of section 679 of this title, or any other law prohibiting the expenditure of public money . . . shall not be construed to apply to or forbid” are omitted as unnecessary because of the restatement.
+
+#### Amendments
+
+1984—Subsec. (d). Pub. L. 98–407 added subsec. (d).
+
+#### Effective Date of 1984 Amendment
+
+Section 811(b) of Pub. L. 98–407 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as of January 1, 1984. Funds appropriated to the Department of Defense may be used to reimburse persons for expenditures made after December 31, 1983, for the installation, repair, and maintenance of telephone wiring in any Government-owned or leased housing unit before the date of the enactment of this Act \[Aug. 28, 1984\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 16 section 580f; title 22 section 287e.
+

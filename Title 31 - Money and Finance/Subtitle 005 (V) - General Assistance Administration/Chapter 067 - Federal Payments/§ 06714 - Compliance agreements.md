@@ -1,0 +1,36 @@
+### §6714. Compliance agreements
+
+(a)
+
+Types of Compliance Agreements.—A compliance agreement is an agreement—
+
+&emsp;(1) approved by the Secretary, between the governmental authority responsible for prosecuting a claim or complaint that is the basis of a holding of discrimination and the chief executive officer of the unit of general local government that has not complied with section 6711(a) or (b); or
+
+&emsp;(2) between the Secretary and the chief executive officer.
+
+(b)
+
+Contents of Agreements.—A compliance agreement—
+
+&emsp;(1) shall state the conditions the unit of general local government has agreed to comply with that would satisfy the obligations of the government under sections <sup>1</sup> 6711(a) and (b);
+
+&emsp;(2) shall cover each matter that has been found not to comply, or would not comply, with section 6711(a) or (b); and
+
+&emsp;(3) may be a series of agreements that dispose of those matters.
+
+(c)
+
+Availability of Agreements to Parties.—The Secretary shall submit a copy of a compliance agreement to each person who filed a complaint referred to in section 6716(b), or, if an agreement under subsection (a)(1), each person who filed a complaint with a governmental authority, about a failure to comply with section 6711(a) or (b). The Secretary shall submit the copy by the 15th day after an agreement is made. However, if the Secretary approves an agreement under subsection (a)(1) after the agreement is made, the Secretary may submit the copy by the 15th day after approval of the agreement.
+
+(Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1877.)
+
+#### Prior Provisions
+
+A prior section 6714, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1023; Pub. L. 98–185, §6, Nov. 30, 1983, 97 Stat. 1310, related to public hearings, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6712, 6713, 6719 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+

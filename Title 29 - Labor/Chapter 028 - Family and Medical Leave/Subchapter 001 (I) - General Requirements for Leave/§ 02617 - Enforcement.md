@@ -1,0 +1,90 @@
+### §2617. Enforcement
+
+#### (a) Civil action by employees
+
+#### (1) Liability
+
+&emsp;Any employer who violates section 2615 of this title shall be liable to any eligible employee affected—
+
+&emsp;&emsp;(A) for damages equal to—
+
+&emsp;&emsp;&emsp;(i) the amount of—
+
+&emsp;&emsp;&emsp;&emsp;(I) any wages, salary, employment benefits, or other compensation denied or lost to such employee by reason of the violation; or
+
+&emsp;&emsp;&emsp;&emsp;(II) in a case in which wages, salary, employment benefits, or other compensation have not been denied or lost to the employee, any actual monetary losses sustained by the employee as a direct result of the violation, such as the cost of providing care, up to a sum equal to 12 weeks of wages or salary for the employee;
+
+&emsp;&emsp;&emsp;(ii) the interest on the amount described in clause (i) calculated at the prevailing rate; and
+
+&emsp;&emsp;&emsp;(iii) an additional amount as liquidated damages equal to the sum of the amount described in clause (i) and the interest described in clause (ii), except that if an employer who has violated section 2615 of this title proves to the satisfaction of the court that the act or omission which violated section 2615 of this title was in good faithand that the employer had reasonable grounds for believing that the act or omission was not a violation of section 2615 of this title, such court may, in the discretion of the court, reduce the amount of the liability to the amount and interest determined under clauses (i) and (ii), respectively; and
+
+&emsp;&emsp;(B) for such equitable relief as may be appropriate, including employment, reinstatement, and promotion.
+
+#### (2) Right of action
+
+&emsp;An action to recover the damages or equitable relief prescribed in paragraph (1) may be maintained against any employer (including a public agency) in any Federal or State court of competent jurisdiction by any one or more employees for and in behalf of—
+
+&emsp;&emsp;(A) the employees; or
+
+&emsp;&emsp;(B) the employees and other employees similarly situated.
+
+#### (3) Fees and costs
+
+&emsp;The court in such an action shall, in addition to any judgment awarded to the plaintiff, allow a reasonable attorney's fee, reasonable expert witness fees, and other costs of the action to be paid by the defendant.
+
+#### (4) Limitations
+
+&emsp;The right provided by paragraph (2) to bring an action by or on behalf of any employee shall terminate—
+
+&emsp;&emsp;(A) on the filing of a complaint by the Secretary in an action under subsection (d) of this section in which restraint is sought of any further delay in the payment of the amount described in paragraph (1)(A) to such employee by an employer responsible under paragraph (1) for the payment; or
+
+&emsp;&emsp;(B) on the filing of a complaint by the Secretary in an action under subsection (b) of this section in which a recovery is sought of the damages described in paragraph (1)(A) owing to an eligible employee by an employer liable under paragraph (1),
+
+> &emsp;unless the action described in subparagraph (A) or (B) is dismissed without prejudice on motion of the Secretary.
+
+#### (b) Action by Secretary
+
+#### (1) Administrative action
+
+&emsp;The Secretary shall receive, investigate, and attempt to resolve complaints of violations of section 2615 of this title in the same manner that the Secretary receives, investigates, and attempts to resolve complaints of violations of sections 206 and 207 of this title.
+
+#### (2) Civil action
+
+&emsp;The Secretary may bring an action in any court of competent jurisdiction to recover the damages described in subsection (a)(1)(A) of this section.
+
+#### (3) Sums recovered
+
+&emsp;Any sums recovered by the Secretary pursuant to paragraph (2) shall be held in a special deposit account and shall be paid, on order of the Secretary, directly to each employee affected. Any such sums not paid to an employee because of inability to do so within a period of 3 years shall be deposited into the Treasury of the United States as miscellaneous receipts.
+
+#### (c) Limitation
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), an action may be brought under this section not later than 2 years after the date of the last event constituting the alleged violation for which the action is brought.
+
+#### (2) Willful violation
+
+&emsp;In the case of such action brought for a willful violation of section 2615 of this title, such action may be brought within 3 years of the date of the last event constituting the alleged violation for which such action is brought.
+
+#### (3) Commencement
+
+&emsp;In determining when an action is commenced by the Secretary under this section for the purposes of this subsection, it shall be considered to be commenced on the date when the complaint is filed.
+
+#### (d) Action for injunction by Secretary
+
+The district courts of the United States shall have jurisdiction, for cause shown, in an action brought by the Secretary—
+
+&emsp;(1) to restrain violations of section 2615 of this title, including the restraint of any withholding of payment of wages, salary, employment benefits, or other compensation, plus interest, found by the court to be due to eligible employees; or
+
+&emsp;(2) to award such other equitable relief as may be appropriate, including employment, reinstatement, and promotion.
+
+#### (e) Solicitor of Labor
+
+The Solicitor of Labor may appear for and represent the Secretary on any litigation brought under this section.
+
+(Pub. L. 103–3, title I, §107, Feb. 5, 1993, 107 Stat. 15.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2616, 2618 of this title; title 2 section 60m.
+

@@ -1,0 +1,104 @@
+### §44713. Inspection and maintenance
+
+(a)
+
+General Equipment Requirements.—An air carrier shall make, or cause to be made, any inspection, repair, or maintenance of equipment used in air transportation as required by this part or regulations prescribed or orders issued by the Administrator of the Federal Aviation Administration under this part. A person operating, inspecting, repairing, or maintaining the equipment shall comply with those requirements, regulations, and orders.
+
+(b)
+
+Duties of Inspectors.—The Administrator of the Federal Aviation Administration shall employ inspectors who shall—
+
+&emsp;(1) inspect aircraft, aircraft engines, propellers, and appliances designed for use in air transportation, during manufacture and when in use by an air carrier in air transportation, to enable the Administrator to decide whether the aircraft, aircraft engines, propellers, or appliances are in safe condition and maintained properly; and
+
+&emsp;(2) advise and cooperate with the air carrier during that inspection and maintenance.
+
+(c)
+
+Unsafe Aircraft, Engines, Propellers, and Appliances.—When an inspector decides that an aircraft, aircraft engine, propeller, or appliance is not in condition for safe operation, the inspector shall notify the air carrier in the form and way prescribed by the Administrator of the Federal Aviation Administration. For 5 days after the carrier is notified, the aircraft, engine, propeller, or appliance may not be used in air transportation or in a way that endangers air transportation unless the Administrator or the inspector decides the aircraft, engine, propeller, or appliance is in condition for safe operation.
+
+(d)
+
+Modifications in System.—(1) The Administrator of the Federal Aviation Administration shall make modifications in the system for processing forms for major repairs or alterations to fuel tanks and fuel systems of aircraft not used to provide air transportation that are necessary to make the system more effective in serving the needs of users of the system, including officials responsible for enforcing laws related to the regulation of controlled substances (as defined in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802)). The modifications shall address at least each of the following deficiencies in, and abuses of, the existing system:
+
+&emsp;(A) the lack of a special identification feature to allow the forms to be distinguished easily from other major repair and alteration forms.
+
+&emsp;(B) the excessive period of time required to receive the forms at the Airmen and Aircraft Registry of the Administration.
+
+&emsp;(C) the backlog of forms waiting for processing at the Registry.
+
+&emsp;(D) the lack of ready access by law enforcement officials to information contained on the forms.
+
+(2) The Administrator of the Federal Aviation Administration shall prescribe regulations to carry out paragraph (1) of this subsection and provide a written explanation of how the regulations address each of the deficiencies and abuses described in paragraph (1). In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of Customs, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1194.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+44713(a)
+
+49 App.:1425(a).
+
+Aug. 23, 1958, Pub. L. 85–726, §605(a), (b), 72 Stat. 778.
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
+
+44713(b)
+
+49 App.:1425(b) (1st sentence).
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+44713(c)
+
+49 App.:1425(b) (last sentence).
+
+&nbsp;
+
+49 App.:1655(c)(1).
+
+44713(d)(1)
+
+49 App.:1303 (note).
+
+Nov. 18, 1988, Pub. L. 100–690, §7214, 102 Stat. 4434.
+
+&nbsp;
+
+49 App.:1425(c).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §605(c); added Nov. 18, 1988, Pub. L. 100–690, §7206(a), 102 Stat. 4426.
+
+44713(d)(2)
+
+49 App.:1401 (note).
+
+Nov. 18, 1988, Pub. L. 100–690, §7207(a) (1st sentence), (b), 102 Stat. 4427.
+
+In subsections (a)–(c), the word “Administrator” in section 605(a) and (b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 778) is retained on authority of 49:106(g).
+
+In subsection (a), the word “overhaul” is omitted as being included in “repair”. The word “prescribed” is added for consistency in the revised title and with other titles of the United States Code. The words “A person operating, inspecting, overhauling, or maintaining the equipment shall comply with those requirements, regulations, and orders” are substituted for 49 App.:1425(a) (last sentence) to eliminate unnecessary words.
+
+In subsection (b), before clause (1), the words “be charged with the duty . . . of” are omitted as surplus. In clause (1), the words “in use” are substituted for “used by an air carrier in air transportation” to eliminate unnecessary words. The words “as may be necessary” and “for operation in air transportation” are omitted as surplus.
+
+In subsection (c), the words “in the performance of his duty”, “used or intended to be used by any air carrier in air transportation”, and “a period of” are omitted as surplus.
+
+In subsection (d)(1), before clause (A), the words “not used to provide air transportation” are substituted for section 7214 of the Anti-Drug Abuse Act of 1988 (Public Law 100–690, 102 Stat. 4434) because of the restatement.
+
+In subsection (d)(2), the words “Not later than September 18, 1989” and “final” are omitted as obsolete. The words “Administrator of Drug Enforcement” are substituted for “Drug Enforcement Administration of the Department of Justice” because of section 5(a) of Reorganization Plan No. 2 of 1973 (eff. July 1, 1973, 87 Stat. 1092). The words “Commissioner of Customs” are substituted for “United States Customs Service” because of 19:2071.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 106, 44701, 44711, 45302, 46301, 46310, 46316, 47531 of this title.
+

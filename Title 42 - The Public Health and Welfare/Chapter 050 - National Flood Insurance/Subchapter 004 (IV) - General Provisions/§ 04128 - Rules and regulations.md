@@ -1,0 +1,24 @@
+### §4128. Rules and regulations
+
+(a) The Director is authorized to issue such regulations as may be necessary to carry out the purpose of this Act.
+
+(b) The head of each Federal agency that administers a program of financial assistance relating to the acquisition, construction, reconstruction, repair, or improvement of publicly or privately owned land or facilities, and each Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions, shall, in cooperation with the Director, issue appropriate rules and regulations to govern the carrying out of the agency's responsibilities under this Act.
+
+(Pub. L. 93–234, title II, §205, Dec. 31, 1973, 87 Stat. 983; Pub. L. 98–181, title IV, §451(e)(1), Nov. 30, 1983, 97 Stat. 1229.)
+
+#### References in Text
+
+This Act, referred to in text, means Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended, known as the Flood Disaster Protection Act of 1973. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
+
+#### Codification
+
+Section was enacted as part of Flood Disaster Protection Act of 1973, and not as part of National Flood Insurance Act of 1968 which comprises this chapter.
+
+#### Amendments
+
+1983—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+
+#### Floodplain Management
+
+For provisions relating to the reduction of the risk of flood loss, the minimization of the impact of floods on human safety, health and welfare, and the management of floodplains, see Ex. Ord. No. 11988, May 24, 1977, 42 F.R. 26951, set out as a note under section 4321 of this title.
+

@@ -1,0 +1,26 @@
+### §1723. General education, training, and experience requirements
+
+(a)
+
+Qualification Requirements.—The Secretary of Defense shall establish education, training, and experience requirements for each acquisition position, based on the level of complexity of duties carried out in the position. Unless otherwise provided in this chapter, such requirements shall take effect not later than October 1, 1993. In establishing such requirements for positions other than critical acquisition positions designated pursuant to section 1733 of this title, the Secretary may state the requirements by categories of positions.
+
+(b)
+
+Limitation on Credit for Training or Education.—Not more than one year of a period of time spent pursuing a program of academic training or education in acquisition may be counted toward fulfilling any requirement established under this chapter for a certain period of experience.
+
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1642.)
+
+#### Fulfillment Standards for Mandatory Training
+
+Pub. L. 102–484, div. A, title VIII, §812(c), Oct. 23, 1992, 106 Stat. 2451, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that:
+
+“(1) The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall develop fulfillment standards, and implement a program, for purposes of the training requirements of sections 1723, 1724, and 1735 of title 10, United States Code. Such fulfillment standards shall consist of criteria for determining whether an individual has demonstrated competence in the areas that would be taught in the training courses required under those sections. If an individual meets the appropriate fulfillment standard, the applicable training requirement is fulfilled.
+
+“(2) The fulfillment standards developed under paragraph (1) shall take effect as of November 5, 1990, and shall cease to be in effect on October 1, 1997.
+
+“(3) The fulfillment standards required under paragraph (1) shall be developed not later than 90 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1725, 1735 of this title.
+

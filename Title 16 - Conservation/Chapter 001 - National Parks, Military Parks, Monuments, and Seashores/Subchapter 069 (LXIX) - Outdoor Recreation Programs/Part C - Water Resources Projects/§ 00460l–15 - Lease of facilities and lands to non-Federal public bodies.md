@@ -1,0 +1,16 @@
+### §460<i>l</i>–15. Lease of facilities and lands to non-Federal public bodies
+
+At projects, the construction of which has commenced or been completed as of July 9, 1965, where non-Federal public bodies agree to administer project land and water areas for recreation and fish and wildlife enhancement purposes and to bear the <sup>1</sup> not less than one-half the costs of operation, maintenance, and replacement of existing facilities serving those purposes, such facilities and appropriate project lands may be leased to non-Federal public bodies.
+
+(Pub. L. 89–72, §4, July 9, 1965, 79 Stat. 215; Pub. L. 102–575, title XXVIII, §2804(c), Oct. 30, 1992, 106 Stat. 4691.)
+
+#### Amendments
+
+1992—Pub. L. 102–575 substituted “not less than one-half the costs of operation” for “costs of operation”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 460<i>l</i>–17 of this title.
+
+<i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
+

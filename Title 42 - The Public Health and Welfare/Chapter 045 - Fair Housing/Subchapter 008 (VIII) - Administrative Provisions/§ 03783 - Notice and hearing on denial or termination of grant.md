@@ -1,0 +1,54 @@
+### §3783. Notice and hearing on denial or termination of grant
+
+#### (a) Payments to recipients; limitation, reduction, or termination
+
+Whenever, after reasonable notice and opportunity for a hearing on the record in accordance with section 554 of title 5, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics finds that a recipient of assistance under this chapter has failed to comply substantially with—
+
+&emsp;(1) any provisions of this chapter;
+
+&emsp;(2) any regulations or guidelines promulgated under this chapter; or
+
+&emsp;(3) any application submitted in accordance with the provisions of this chapter, or the provisions of any other applicable Federal Act;
+
+> the Director involved shall, until satisfied that there is no longer any such failure to comply, terminate payments to the recipient under this chapter, reduce payments to the recipient under this chapter by an amount equal to the amount of such payments which were not expended in accordance with this chapter, or limit the availability of payments under this chapter to programs, projects, or activities not affected by such failure to comply.
+
+#### (b) Notice of action; reasons for action; hearing or investigation; finality of findings and determinations; reasons in detail for action without hearing
+
+If any grant application submitted under part A of subchapter V of this chapter or under subchapter XII–A, XII–B, XII–C, or XII–I of this chapter has been denied, or any grant under this chapter has been terminated, then the Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics, as appropriate, shall notify the applicant of its action and set forth the reason for the action taken. Whenever such an applicant requests a hearing, the Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics, or any authorized officer thereof, is authorized and directed to hold such hearings or investigations, including hearings on the record in accordance with section 554 of title 5, at such times and places as necessary, following appropriate and adequate notice to such applicant; and the findings of fact and determinations made with respect thereto shall be final and conclusive, except as otherwise provided herein. The Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics is authorized to take final action without a hearing if, after an administrative review of the denial of such application or termination of such grant, it is determined that the basis for the appeal, if substantiated, would not establish a basis for awarding or continuing of the grant involved. Under such circumstances, a more detailed statement of reasons for the agency action should be made available, upon request, to the applicant.
+
+#### (c) Rehearing; regulations and procedures; presentation of additional information
+
+If the applicant involved is dissatisfied with the findings and determinations of the Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics following notice and hearing provided for in subsection (a) of this section, a request may be made for rehearing, under such regulations and procedure as the Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics may establish, and such applicant shall be afforded an opportunity to present such additional information as may be deemed appropriate and pertinent to the matter involved.
+
+(Pub. L. 90–351, title I, §802, formerly §803, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1202; renumbered §802 and amended Pub. L. 98–473, title II, §609B(b), Oct. 12, 1984, 98 Stat. 2092; Pub. L. 99–570, title I, §1552(b)(3), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 101–647, title II, §241(b)(3), title VIII, §801(c)(2), Nov. 29, 1990, 104 Stat. 4813, 4826; Pub. L. 103–322, title IV, §40231(d)(2), title XXXIII, §330001(c), (h)(8), Sept. 13, 1994, 108 Stat. 1934, 2138, 2139.)
+
+#### Prior Provisions
+
+A prior section 802 of Pub. L. 90–351 was renumbered section 801 and is classified to section 3782 of this title.
+
+Another prior section 802 of Pub. L. 90–351, title III, June 19, 1968, 82 Stat. 212–223, enacted sections 2510 to 2520 of Title 18, Crimes and Criminal Procedure.
+
+#### Amendments
+
+1994—Subsec. (b). Pub. L. 103–322 substituted “part A of subchapter V of this chapter or under subchapter XII–A, XII–B, XII–C, or XII–I” for “subchapter IV, XII–A,, XII–B, or XII–C”.
+
+1990—Subsec. (b). Pub. L. 101–647, §801(c)(2), substituted “, XII–B, or XII–C” for “or XII–B”.
+
+Pub. L. 101–647, §241(b)(3), substituted “, XII–A, or XII–B” for “or XII–A”.
+
+1986—Subsec. (b). Pub. L. 99–570 inserted reference to subchapter XII–A of this chapter.
+
+1984—Subsec. (a). Pub. L. 98–473 in amending subsec. (a) generally, included provision for finding of noncompliance by the Bureau of Justice Assistance and excluded similar provision for Law Enforcement Assistance Administration, substituted “the Director involved shall, until satisfied that there is no longer any such failure to comply,” for “they, until satisfied that there is no longer any such failure to comply, shall—”, and struck out designations “(A)” before “terminate payment”, “(B)” before “reduce payments”, and “(C)” before “limit the availability of payments”.
+
+Subsec. (b). Pub. L. 98–473 in amending subsec. (b) generally, substituted “If any grant application submitted under subchapter IV of this chapter has been denied, or any grant under this chapter has been terminated” for “If a State grant application filed under subchapter IV of this chapter or any grant application filed under any other subchapter of this chapter has been rejected or a State applicant under subchapter IV of this chapter or applicant under any other subchapter of this chapter has been denied a grant or has had a grant, or any portion of a grant, discontinued, terminated or has been given a grant in a lesser amount that such applicant believes appropriate under the provisions of this chapter” struck out “or grantee” after “notify the applicant” and before “requests a hearing”; substituted requirement for notice by the Bureau of Justice Assistance rather than the Law Enforcement Assistance Administration; and inserted provisions for taking final action without hearing but requiring a more detailed statement of reasons for agency action to be made available to the applicant.
+
+Subsec. (c). Pub. L. 98–473 in amending subsec. (c) generally, substituted provisions for findings and rehearings by the Bureau of Justice Assistance for similar provisions for Law Enforcement Assistance Administration; and substituted description of the party as “applicant” for prior designation as “recipient”.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 3711 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3785, 5633, 5675 of this title.
+

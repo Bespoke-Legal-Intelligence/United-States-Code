@@ -1,0 +1,26 @@
+### §5113. Detention of vessels
+
+(a) When the Secretary believes that a vessel is about to leave a place in the United States in violation of this chapter or a regulation prescribed under this chapter, the Secretary may detain the vessel by giving notice to the owner, charterer, managing operator, agent, master, or individual in charge of the vessel.
+
+(b) A detained vessel may be cleared under section 4197 of the Revised Statutes (46 App. U.S.C. 91) only after the violation has been corrected. If the vessel was cleared before being detained, the clearance shall be withdrawn.
+
+(c) Under regulations prescribed by the Secretary, the owner, charterer, managing operator, agent, master, or individual in charge of a detained vessel may petition the Secretary to review the detention order.
+
+(d) After reviewing a petition, the Secretary may affirm, withdraw, or change the detention order. Before acting on the petition, the Secretary may require any independent survey that may be necessary to determine the condition of the vessel.
+
+(e) The owner of a vessel is liable for the cost incident to a petition for review and any required survey if the vessel is found to be in violation of this chapter or a regulation prescribed under this chapter.
+
+(Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1918.)
+
+#### Historical and Revision Notes
+
+#### <i>Revised section 5113</i>
+
+Source: Section (U.S. Code) 46 App. U.S.C. 86h, 88f.
+
+Section 5113 authorizes the Secretary to detain a vessel if the Secretary believes that the vessel is in violation of the load line requirements, and describes the process through which a vessel may be cleared. It also states that a vessel owner is liable for certain costs resulting from a petition for review and load line survey that is made pursuant to a violation of load line requirements.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5116 of this title.
+

@@ -1,0 +1,52 @@
+### §6107. Definitions
+
+For purposes of this chapter—
+
+&emsp;(1) the term “Commission” means the Commission on Civil Rights;
+
+&emsp;(2) the term “Secretary” means the Secretary of Health and Human Services;
+
+&emsp;(3) the term “Federal department or agency” means any agency as defined in section 551 of title 5 and includes the United States Postal Service and the Postal Rate Commission; and
+
+&emsp;(4) the term “program or activity” means all of the operations of—
+
+&emsp;&emsp;(A)(i) a department, agency, special purpose district, or other instrumentality of a State or of a local government; or
+
+&emsp;&emsp;(ii) the entity of such State or local government that distributes such assistance and each such department or agency (and each other State or local government entity) to which the assistance is extended, in the case of assistance to a State or local government;
+
+&emsp;&emsp;(B)(i) a college, university, or other postsecondary institution, or a public system of higher education; or
+
+&emsp;&emsp;(ii) a local educational agency (as defined in section 8801 of title 20), system of vocational education, or other school system;
+
+&emsp;&emsp;(C)(i) an entire corporation, partnership, or other private organization, or an entire sole proprietorship—
+
+&emsp;&emsp;&emsp;(I) if assistance is extended to such corporation, partnership, private organization, or sole proprietorship as a whole; or
+
+&emsp;&emsp;&emsp;(II) which is principally engaged in the business of providing education, health care, housing, social services, or parks and recreation; or
+
+&emsp;&emsp;(ii) the entire plant or other comparable, geographically separate facility to which Federal financial assistance is extended, in the case of any other corporation, partnership, private organization, or sole proprietorship; or
+
+&emsp;&emsp;(D) any other entity which is established by two or more of the entities described in subparagraph (A), (B), or (C);
+
+> &emsp;any part of which is extended Federal financial assistance.
+
+(Pub. L. 94–135, title III, §309, formerly §308, Nov. 28, 1975, 89 Stat. 731; renumbered §309, Pub. L. 95–478, title IV, §401(e), Oct. 18, 1978, 92 Stat. 1556; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–259, §5, Mar. 22, 1988, 102 Stat. 30; Pub. L. 103–382, title III, §391(u), Oct. 20, 1994, 108 Stat. 4025.)
+
+#### Amendments
+
+1994—Par. (4)(B)(ii). Pub. L. 103–382 substituted “section 8801 of title 20” for “section 198(a)(10), of the Elementary and Secondary Education Act of 1965”.
+
+1988—Par. (4). Pub. L. 100–259 added par. (4).
+
+#### Change of Name
+
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (2), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+#### Exclusion From Coverage
+
+Amendment by Pub. L. 100–259 not to be construed to extend application of Age Discrimination Act of 1975 (this chapter) to ultimate beneficiaries of Federal financial assistance excluded from coverage before Mar. 22, 1988, see section 7 of Pub. L. 100–259, set out as a Construction note under section 1687 of Title 20, Education.
+
+#### Abortion Neutrality
+
+Amendment by Pub. L. 100–259 not to be construed to force or require any individual or hospital or any other institution, program, or activity receiving Federal funds to perform or pay for an abortion, see section 8 of Pub. L. 100–259, set out as a note under section 1688 of Title 20, Education.
+

@@ -1,0 +1,180 @@
+### §10301. Congressional findings and declarations
+
+The Congress finds and declares that—
+
+&emsp;(1) the existence of an adequate supply of water of good quality for the production of materials and energy for the Nation's needs and for the efficient use of the Nation's energy and water resources is essential to national economic stability and growth, and to the well-being of the people;
+
+&emsp;(2) the management of water resources is closely related to maintaining environmental quality and social well-being;
+
+&emsp;(3) there is an increasing threat of impairment to the quantity and quality of surface and groundwater resources;
+
+&emsp;(4) the Nation's capabilities for technological assessment and planning and for policy formulation for water resources must be strengthened at the Federal, State, and local governmental levels;
+
+&emsp;(5) there should be a continuing national investment in water and related research and technology commensurate with growing national needs;
+
+&emsp;(6) it is necessary to provide for the research and development of technology for the conversion of saline and other impaired waters to a quality suitable for municipal, industrial, agricultural, recreational, and other beneficial uses; and
+
+&emsp;(7) the Nation must provide programs to strengthen research and associated graduate education because the pool of scientists, engineers, and technicians trained in fields related to water resources constitutes an invaluable natural resource which should be increased, fully utilized, and regularly replenished.
+
+(Pub. L. 98–242, title I, §102, Mar. 22, 1984, 98 Stat. 97.)
+
+#### Short Title
+
+Section 101 of Pub. L. 98–242 provided that: “This Act \[enacting this chapter, repealing sections 7801, 7802, 7811 to 7819, 7831 to 7835, 7851 to 7853, and 7871 to 7883 of this title, and enacting provisions set out as a note under section 7801 of this title\] may be cited as the ‘Water Resources Research Act of 1984’.”
+
+#### Savings Provision
+
+Rules and regulations issued prior to Mar. 22, 1984, under Pub. L. 95–467 \[chapter 87 of this title\] to remain in full force and effect under this chapter until superseded by new rules and regulations promulgated under this chapter, see section 110(b) of Pub. L. 98–242, set out as a note under section 7801 of this title.
+
+#### Ogallala Aquifer
+
+Pub. L. 99–662, title XI, §1121, Nov. 17, 1986, 100 Stat. 4239, provided that:
+
+“(a) The Congress finds that—
+
+&emsp;“(1) the Ogallala aquifer lies beneath, and provides needed water supplies to, the 8 States of the High Plains Region: Colorado, Kansas, Nebraska, New Mexico, Oklahoma, South Dakota, Texas, and Wyoming;
+
+&emsp;“(2) the High Plains region has become an important source of agricultural commodities and livestock for domestic and international markets, providing 15 percent of the Nation's supply of wheat, corn, feed grains, sorghum, and cotton, plus 38 percent of the value of livestock raised in the United States; and
+
+&emsp;“(3) annual precipitation in the High Plains region ranges from 15 to 22 inches, providing inadequate supplies of surface water and recharging of the Ogallala aquifer needed to sustain the agricultural productivity and economic vitality of the High Plains region.
+
+“(b) It is, therefore, the purpose of this section to establish a comprehensive research and development program to assist those portions of the High Plains region dependent on water from the Ogallala aquifer to—
+
+&emsp;“(1) plan for the development of an adequate supply of water in the region;
+
+&emsp;“(2) develop and provide information and technical assistance concerning water-conservation management practices to agricultural producers in the region;
+
+&emsp;“(3) examine alternatives for the development of an adequate supply of water for the region; and
+
+&emsp;“(4) develop water-conservation management practices which are efficient for agricultural producers in the region.
+
+“(c) The Water Resources Research Act \[of 1984\] (Public Law 98–242) \[see Short Title note above\] is amended by adding at the end thereof the following new title:
+
+#### “TITLE III—OGALLALA AQUIFER RESEARCH AND DEVELOPMENT
+
+“
+
+Sec. 301. (a) There is hereby established the High Plains Study Council composed of—
+
+&emsp;“(1) the Governor of each State of the High Plains region (defined for the purposes of this title as the States of Colorado, Kansas, Nebraska, New Mexico, Oklahoma, South Dakota, Texas, and Wyoming and referred to hereinafter in this title as the ‘High Plains region’), or a designee of the Governor;
+
+&emsp;“(2) a representative of the Department of Agriculture; and
+
+&emsp;“(3) a representative of the Secretary.
+
+“(b) The Council established pursuant to this section shall—
+
+&emsp;“(1) review research work being performed by each State committee established under section 302 of this Act; and
+
+&emsp;“(2) coordinate such research efforts to avoid duplication of research and to assist in the development of research plans within each State of the High Plains region that will benefit the research needs of the entire region.
+
+“
+
+Sec. 302. (a) The Secretary shall establish within each State of the High Plains region an Ogallala aquifer technical advisory committee (hereinafter in this title referred to as the ‘State committee’). Each State committee shall be composed of no more than seven members, including—
+
+&emsp;“(1) a representative of the United States Department of Agriculture;
+
+&emsp;“(2) a representative of the Secretary; and
+
+&emsp;“(3) at the appointment of the Governor of the State, five representatives from agencies of that State having jurisdiction over water resources, the agricultural community, the State Water Research Institute (as designated under this Act \[see Short Title note above\]), and others with a special interest or expertise in water resources.
+
+“(b) The State committee established pursuant to subsection (a) of this section shall—
+
+&emsp;“(1) review existing State laws and institutions concerning water management and, where appropriate, recommend changes to improve State or local management capabilities and more efficiently use the waters of such State, if such a review is not already being undertaken by the State;
+
+&emsp;“(2) establish, in coordination with other State committees, State priorities for research and demonstration projects involving water resources; and
+
+&emsp;“(3) provide public information, education, extension, and technical assistance on the need for waterconservation and information on proven and cost-effective water management.
+
+“(c) Each State committee established pursuant to this section shall elect a chairman, and shall meet at least once every three months at the call of the chairman, unless the chairman determines, after consultation with a majority of the members of the committee, that such a meeting is not necessary to achieve the purposes of this section.
+
+“
+
+Sec. 303. The Secretary shall annually allocate among the States of the High Plains region funds authorized to be appropriated for this section for research in—
+
+&emsp;“(1) water-use efficiency;
+
+&emsp;“(2) cultural methods;
+
+&emsp;“(3) irrigation technologies;
+
+&emsp;“(4) water-efficient crops; and
+
+&emsp;“(5) water and soil conservation.
+
+> Funds distributed under this section shall be allocated to each State committee for use by institutions of higher education within each State. To qualify for funds under this section an institution of higher education shall submit a proposal to the State committee describing the costs, methods, and goals of the proposed research. Proposals shall be selected by the State committee on the basis of merit.
+
+“
+
+Sec. 304. The Secretary shall annually divide funds authorized to be appropriated under this section among the States of the High Plains region for research into—
+
+&emsp;“(1) precipitation management;
+
+&emsp;“(2) weather modification;
+
+&emsp;“(3) aquifer recharge opportunities;
+
+&emsp;“(4) saline water uses;
+
+&emsp;“(5) desalinization technologies;
+
+&emsp;“(6) salt tolerant crops; and
+
+&emsp;“(7) ground water recovery.
+
+> Funds distributed under this section shall be allocated by the Secretary to the State committee for distribution to institutions of higher education within such State. To qualify for a grant under this section, an institution of higher education shall submit a research proposal to the State committee describing the costs, methods, and goals of the proposed research. Proposals shall be selected by the State committee on the basis of merit.
+
+“
+
+Sec. 305. The Secretary shall annually allocate among the States of the High Plains region funds authorized to be appropriated under this section for grants to farmers for demonstration projects for—
+
+&emsp;“(1) water-efficient irrigation technologies and practices;
+
+&emsp;“(2) soil and water conservation management systems; and
+
+&emsp;“(3) the growing and marketing of more water-efficient crops.
+
+> Grants under this section shall be made by each State committee in amounts not to exceed 85 percent of the cost of each demonstration project. To qualify for a grant under this section, a farmer shall submit a proposal to the State committee describing the costs, methods, and goals of the proposed project. Proposals shall be selected by the State committee on the basis of merit. Each State committee shall monitor each demonstration project to assure proper implementation and make the results of the project available to other State committees.
+
+“
+
+Sec. 306. The Secretary, acting through the United States Geological Survey and in cooperation with the States of the High Plains region, is authorized and directed to monitor the levels of the Ogallala aquifer, and report annually to Congress.
+
+“
+
+Sec. 307. The amount of any allocation of funds to a State under this title shall not exceed 75 percent of the cost of carrying out the purposes for which the grant is made.
+
+“
+
+Sec. 308. Not later than one year after the date of enactment of this title \[Nov. 17, 1986\], and at intervals of one year thereafter, the Secretary shall prepare and transmit to the Congress a report on activities undertaken under this title.
+
+“
+
+Sec. 309. (a) For each of the fiscal years ending September 30, 1987, through September 30, 1995, the following sums are authorized to be appropriated to the Secretary to implement the following sections of this title, and such sums shall remain available until expended:
+
+&emsp;“(1) $600,000 for the purposes of section 302;
+
+&emsp;“(2) $4,300,000 for the purposes of section 303;
+
+&emsp;“(3) $2,200,000 for the purposes of section 304;
+
+&emsp;“(4) $5,300,000 for the purposes of section 305; and
+
+&emsp;“(5) $600,000 for the purposes of section 306.
+
+“(b) Funds made available under this title for distribution to the States of the High Plains region shall be distributed equally among the States.” (As amended Pub. L. 101–397, §1(<i>o</i>), Sept. 28, 1990, 104 Stat. 854.)
+
+#### Desalting Plants
+
+Pub. L. 95–84, §2, Aug. 2, 1977, 91 Stat. 400; Pub. L. 95–467, title II, §205(a), (b), Oct. 17, 1978, 92 Stat. 1311; Pub. L. 96–457, §3, Oct. 15, 1980, 94 Stat. 2032; Pub. L. 98–242, title I, §110(a), Mar. 22, 1984, 98 Stat. 101, provided that:
+
+“(a) The Secretary of the Interior is authorized and directed to demonstrate the engineering and economic viability of membrane and phase-change desalting processes. Such demonstrations shall include the study, design, construction, operation, and maintenance of desalting plants at locations in the United States (which may include the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Virgin Islands, the Mariana Islands, and the Trust Territory of the Pacific Islands): <i>Provided,</i> That at least two such plants shall demonstrate desalting of brackish ground water: <i>And provided further,</i> That the plants constructed pursuant to this section shall be for the purpose of showing that the technology being demonstrated is ready for application; such plants shall be sufficient to demonstrate the specific application of the technology, and shall be significantly different in operation and process so as not to duplicate any other demonstration plant constructed pursuant to this section. The Secretary is further authorized to conduct such demonstrations or any portion thereof by means of cooperative agreements (as defined and authorized by 41 U.S.C. 504 et seq. (the Federal Grant and Cooperative Agreement Act of 1977; Public Law 95–224)) \[31 U.S.C. 6301 et seq.\] with duly authorized non-Federal public entities. Title to demonstration facilities constructed by the non-Federal public entity under a cooperative agreement shall vest in the non-Federal public entity.
+
+“(b) Funds appropriated pursuant to the authority provided by this section \[this note\] may not be expended until thirty calendar days (excluding days on which either the House of Representatives or the Senate is not in session because of an adjournment of more than three calendar days to a day certain) have elapsed following transmittal of a report to the chairman of the Committee on Interior and Insular Affairs \[now Committee on Resources\] of the House of Representatives and the chairman of the Committee on Environment and Public Works of the United States Senate. Such report shall present information that includes, but is not limited to, how the plant being proposed differs from others, if any, already constructed under this section, the location of the demonstration plant, the characteristics of the water proposed to be desalted, the process to be utilized, the water supply problems confronting the area in which the plant will be located, alternative sources of water and their probable cost, the capacity of the plant, the initial investment cost of the demonstration plant, the annual operating cost of the demonstration plant, the source of energy for the plant and its cost, the means of reject brine disposal and its environmental consequences, and the unit cost of product water, considering the amortization of all components of the demonstration plant and ancillary facilities. Such report shall be accompanied by a proposed contract (or cooperative agreement) between the Secretary and a duly authorized non-Federal entity, in which such entity shall agree to provide not less than 15 per centum and not more than 35 per centum of thetotal cost of the demonstration; such cost to include, without being limited to, necessary water rights, water supplies, rights-of-way, power source interconnections, brine disposal facilities, land, construction, ancillary facilities, and the operation and maintenance costs for a period of four years following final acceptance of the construction of the plant from the plant contractor. The contributions of the non-Federal entity under such proposed contract may be in-kind. During the participation by the Secretary in the construction and the operation and maintenance of such demonstration, access to the demonstration and its operating data will not be denied to the Secretary or his representatives. The period of participation by the Secretary in the operation and maintenance of any such demonstration shall be four years. The Secretary is authorized to include in the proposed contract a provision for conveying, as appropriate, and in such amounts as are appropriate, rights, title, and interest of the Federal Government in the demonstration project to the non-Federal public entity.
+
+“(c) There is authorized to be appropriated, to remain available until expended, for the fiscal year ending September 30, 1978, and thereafter, the sum of $50,000,000 to finance the total Federal share of the cost of the demonstration plants authorized by this section; such cost to include, without being limited to, necessary water rights, water supplies, rights-of-way, power source interconnections, brine disposal facilities, land, construction, ancillary facilities, and the operation and maintenance costs for the four-year period of Federal participation in such costs.
+
+“(d) When appropriations have been made for the commencement or continuation of design, construction, or operation and maintenance of any demonstration plant authorized under this Act \[this note\], the Secretary may, in connection with such design, construction, or operation and maintenance, enter into contracts and cooperative agreements for miscellaneous services, for materials and supplies, as well as for construction, which may cover such periods of time as the Secretary may consider necessary but in which the liability of the United States shall be contingent upon appropriations being made therefor.”
+
+\[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
+

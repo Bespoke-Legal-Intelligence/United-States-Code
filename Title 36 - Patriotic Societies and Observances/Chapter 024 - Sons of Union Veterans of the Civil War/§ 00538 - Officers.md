@@ -1,0 +1,6 @@
+### §538. Officers
+
+The officers of the corporation shall be a commander in chief, a senior vice commander in chief, a junior vice commander in chief, a secretary and a treasurer (which latter two offices may be held by one person), and such other officers as may be prescribed in the constitution and bylaws. The officers of the corporation shall be selected in such manner and for such terms and with such duties and titles as may be prescribed in the constitution and bylaws of the corporation.
+
+(Aug. 20, 1954, ch. 774, §8, 68 Stat. 751.)
+

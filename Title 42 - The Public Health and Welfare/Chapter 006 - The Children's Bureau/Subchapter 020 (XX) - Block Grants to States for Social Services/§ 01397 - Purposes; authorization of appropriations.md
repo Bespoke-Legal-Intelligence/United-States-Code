@@ -1,0 +1,34 @@
+### §1397. Purposes; authorization of appropriations
+
+For the purposes of consolidating Federal assistance to States for social services into a single grant, increasing State flexibility in using social service grants, and encouraging each State, as far as practicable under the conditions in that State, to furnish services directed at the goals of—
+
+&emsp;(1) achieving or maintaining economic self-support to prevent, reduce, or eliminate dependency;
+
+&emsp;(2) achieving or maintaining self-sufficiency, including reduction or prevention of dependency;
+
+&emsp;(3) preventing or remedying neglect, abuse, or exploitation of children and adults unable to protect their own interests, or preserving, rehabilitating or reuniting families;
+
+&emsp;(4) preventing or reducing inappropriate institutional care by providing for community-based care, home-based care, or other forms of less intensive care; and
+
+&emsp;(5) securing referral or admission for institutional care when other forms of care are not appropriate, or providing services to individuals in institutions,
+
+> there are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out the purposes of this subchapter.
+
+(Aug. 14, 1935, ch. 531, title XX, §2001, as added Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2352(a), 95 Stat. 867.)
+
+#### Prior Provisions
+
+A prior section 1397, act Aug. 14, 1935, ch. 531, title XX, §2001, as added Jan. 4, 1975, Pub. L. 93–647, §2, 88 Stat. 2337; amended June 17, 1980, Pub. L. 96–272, title II, §207(b), 94 Stat. 526, authorized appropriations to carry out former provisions of this subchapter, prior to the general revision of this subchapter by section 2352(a) of Pub. L. 97–35.
+
+#### Effective Date
+
+Section 2354 of Pub. L. 97–35 provided that: “Except as otherwise explicitly provided, the provisions of this subtitle \[subtitle C (§§2351–2355) of title XXIII of Pub. L. 97–35, see Short Title of 1981 Amendment note set out under section 1305 of this title\] and the repeals and amendments made by this subtitle, shall become effective on October 1, 1981.”
+
+#### Study of State Social Service Programs; Report to Congress
+
+Section 2355 of Pub. L. 97–35 required Secretary of Health and Human Services to conduct a study to identify criteria and mechanisms which may be useful for States in assessing effectiveness and efficiency of State social service programs carried out with funds made available under this subchapter, such study to include consideration of Federal incentive payments as an option in rewarding States having high performance social service programs, and to report results of such study to Congress within one year after Aug. 13, 1981.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1397a, 1397f of this title.
+

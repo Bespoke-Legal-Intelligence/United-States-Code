@@ -1,0 +1,22 @@
+### §11403b. Supportive services requirements
+
+#### (a) Matching funding
+
+#### (1) In general
+
+&emsp;Each recipient shall be required to supplement the assistance provided under this part with an equal amount of funds for supportive services from sources other than this part. Each recipient shall certify to the Secretary its compliance with this paragraph, and shall include with the certification a description of the sources and amounts of such supplemental funds.
+
+#### (2) Determination of matching amounts
+
+&emsp;In calculating the amount of supplemental funds provided under this part, a recipient may include the value of any lease on a building, any salary paid to staff to carry out the program of the recipient, and the value of the time and services contributed by volunteers to carry out the program of the recipient at a rate determined by the Secretary.
+
+#### (b) Recapture
+
+If the supportive services and funding for the supportive services required by this section arenot provided, the Secretary may recapture any unexpended housing assistance.
+
+(Pub. L. 100–77, title IV, §453, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4367.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 11403c of this title.
+

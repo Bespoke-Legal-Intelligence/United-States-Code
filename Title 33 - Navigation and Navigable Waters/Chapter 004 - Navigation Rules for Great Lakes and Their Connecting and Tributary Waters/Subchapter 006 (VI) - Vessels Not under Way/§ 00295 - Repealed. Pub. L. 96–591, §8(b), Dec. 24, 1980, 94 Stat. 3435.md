@@ -1,0 +1,8 @@
+### §295. Repealed. Pub. L. 96–591, §8(b), Dec. 24, 1980, 94 Stat. 3435
+
+Section, act Feb. 8, 1895, ch. 64, §1, as added Mar. 18, 1948, ch. 138, §5, 62 Stat. 82, related to day and night signals for vessels anchored, not under command, or aground. See section 2035 of this title.
+
+#### Effective Date of Repeal
+
+Repeal effective Mar. 1, 1983, pursuant to 47 F.R. 15135, Apr. 8, 1982, see section 7 of Pub. L. 96–591, set out as an Effective Date note under section 2001 of this title.
+

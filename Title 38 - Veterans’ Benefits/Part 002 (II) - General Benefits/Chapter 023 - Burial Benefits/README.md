@@ -1,0 +1,44 @@
+### <b>CHAPTER 23—BURIAL BENEFITS</b>
+
+| Sec. |  |
+| :--- | ---: |
+| [2301\.](%C2%A7%2002301%20-%20Flags.md) | Flags. |
+| [2302\.](%C2%A7%2002302%20-%20Funeral%20expenses.md) | Funeral expenses. |
+| [2303\.](%C2%A7%2002303%20-%20Death%20in%20Department%20facility%3B%20plot%20allowance.md) | Death in Department facility; plot allowance. |
+| [2304\.](%C2%A7%2002304%20-%20Claims%20for%20reimbursement.md) | Claims for reimbursement. |
+| [2305\.](%C2%A7%2002305%20-%20Persons%20eligible%20under%20prior%20law.md) | Persons eligible under prior law. |
+| [2306\.](%C2%A7%2002306%20-%20Headstones%2C%20markers%2C%20and%20grave%20liners.md) | Headstones, markers, and grave liners. |
+| [2307\.](%C2%A7%2002307%20-%20Death%20from%20service-connected%20disability.md) | Death from service-connected disability. |
+| [2308\.](%C2%A7%2002308%20-%20Transportation%20of%20deceased%20veteran%20to%20a%20national%20cemetery.md) | Transportation of deceased veteran to a national cemetery. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1991—Pub. L. 102–83, §5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 901 to 908 as 2301 to 2308, respectively.
+
+Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted “Department” for “Veterans’ Administration” in item 903.
+
+1988—Pub. L. 100–322, title III, §344(b)(2), May 20, 1988, 102 Stat. 540, substituted “Headstones, markers, and grave liners” for “Headstones and markers” in item 906.
+
+1976—Pub. L. 94–433, title III, §304(b), Sept. 30, 1976, 90 Stat. 1377, added item 908.
+
+1973—Pub. L. 93–43, §5(b), June 18, 1973, 87 Stat. 81, inserted “; plot allowance” in item 903 and added items 906 and 907.
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in sections 107, 1315, 1503 of this title; title 10 section 1490; title 26 section 6334.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 02301 - Flags](%C2%A7%2002301%20-%20Flags.md)
+- [&sect; 02302 - Funeral expenses](%C2%A7%2002302%20-%20Funeral%20expenses.md)
+- [&sect; 02303 - Death in Department facility; plot allowance](%C2%A7%2002303%20-%20Death%20in%20Department%20facility%3B%20plot%20allowance.md)
+- [&sect; 02304 - Claims for reimbursement](%C2%A7%2002304%20-%20Claims%20for%20reimbursement.md)
+- [&sect; 02305 - Persons eligible under prior law](%C2%A7%2002305%20-%20Persons%20eligible%20under%20prior%20law.md)
+- [&sect; 02306 - Headstones, markers, and grave liners](%C2%A7%2002306%20-%20Headstones%2C%20markers%2C%20and%20grave%20liners.md)
+- [&sect; 02307 - Death from service-connected disability](%C2%A7%2002307%20-%20Death%20from%20service-connected%20disability.md)
+- [&sect; 02308 - Transportation of deceased veteran to a national cemetery](%C2%A7%2002308%20-%20Transportation%20of%20deceased%20veteran%20to%20a%20national%20cemetery.md)

@@ -1,0 +1,50 @@
+### §3103. Periods of eligibility
+
+(a) Except as provided in subsection (b), (c), or (d) of this section, a rehabilitation program may not be afforded to a veteran under this chapter after the end of the twelve-year period beginning on the date of such veteran's discharge or release from active military, naval, or air service.
+
+(b)(1) In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility prescribed in subsection (a) of this section because a medical condition of such veteran made it infeasible for such veteran to participate in such a program, the twelve-year period of eligibility shall not run during the period of time that such veteran was so prevented from participating in such a program, and such period of eligibility shall again begin to run on the first day following such veteran's recovery from such condition on which it is reasonably feasible, as determined under regulations which the Secretary shall prescribe, for such veteran to participate in such a program.
+
+(2) In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility prescribed in subsection (a) of this section because—
+
+&emsp;(A) such veteran had not met the requirement of a discharge or release from active military, naval, or air service under conditions other than dishonorable before (i) the nature of such discharge or release was changed by appropriate authority, or (ii) the Secretary determined, under regulations prescribed by the Secretary, that such discharge or release was under conditions other than dishonorable, or
+
+&emsp;(B) such veteran's discharge or dismissal was, under section 5303 of this title, a bar tobenefits under this title before the Secretary made a determination that such discharge or dismissal is not a bar to such benefits,
+
+> the twelve-year period of eligibility shall not run during the period of time that such veteran was so prevented from participating in such a program.
+
+(3) In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility prescribed in subsection (a) of this section because such veteran had not established the existence of a service-connected disability described in section 3102(1)(A)(i) of this title, the twelve-year period of eligibility shall not run during the period such veteran was so prevented from participating in such a program.
+
+(c) In any case in which the Secretary determines that a veteran is in need of services to overcome a serious employment handicap, such veteran may be afforded a vocational rehabilitation program after the expiration of the period of eligibility otherwise applicable to such veteran if the Secretary also determines, on the basis of such veteran's particular employment handicap and need for such services, that an extension of the applicable period of eligibility is necessary for such veteran and—
+
+&emsp;(1) that such veteran had not previously been rehabilitated to the point of employability;
+
+&emsp;(2) that such veteran had previously been rehabilitated to the point of employability but (A) the need for such services had arisen out of a worsening of such veteran's service-connected disability that precludes such veteran from performing the duties of the occupation for which such veteran was previously trained in a vocational rehabilitation program under this chapter, or (B) the occupation for which such veteran had been so trained is not suitable in view of such veteran's employment handicap and capabilities; or
+
+&emsp;(3) under regulations which the Secretary shall prescribe, that an extension of the period of eligibility of such veteran is necessary to accomplish the purposes of a rehabilitation program for such veteran.
+
+(d) In any case in which the Secretary has determined that a veteran's disability or disabilities are so severe that the achievement of a vocational goal currently is not reasonably feasible, such veteran may be afforded a program of independent living services and assistance under this chapter after the expiration of the period of eligibility otherwise applicable to such veteran if the Secretary also determines that an extension of the period of eligibility of such veteran is necessary for such veteran to achieve maximum independence in daily living.
+
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2173, §1503; amended Pub. L. 99–576, title III, §333(b)(2), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3103 and amended, Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(d)(8), Nov. 2, 1994, 108 Stat. 4684.)
+
+#### Prior Provisions
+
+Prior section 3103 was renumbered section 5303 of this title.
+
+#### Amendments
+
+1994—Subsec. (b)(3). Pub. L. 103–446 substituted “section 3102(1)(A)(i)” for “section 3102(1)(A)”.
+
+1991—Pub. L. 102–83, §5(a), renumbered section 1503 of this title as this section.
+
+Subsec. (b)(2)(B). Pub. L. 102–40 substituted “5303” for “3103”.
+
+Subsec. (b)(3). Pub. L. 102–83, §5(c)(1), substituted “3102(1)(A)” for “1502(1)(A)”.
+
+1989—Subsecs. (b) to (d). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+
+1986—Subsec. (d). Pub. L. 99–576 inserted “currently” after “goal”.
+
+#### Effective Date
+
+Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under section 3100 of this title.
+

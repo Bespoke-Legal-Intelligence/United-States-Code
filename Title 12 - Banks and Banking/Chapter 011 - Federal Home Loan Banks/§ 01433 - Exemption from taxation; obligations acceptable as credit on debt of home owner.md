@@ -1,0 +1,20 @@
+### §1433. Exemption from taxation; obligations acceptable as credit on debt of home owner
+
+Any and all notes, debentures, bonds, and other such obligations issued by any bank, and consolidated Federal Home Loan Bank bonds and debentures, shall be exempt both as to principal and interest from all taxation (except surtaxes, estate, inheritance, and gift taxes) now or hereafter imposed by the United States, by any Territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority. The bank, including its franchise, its capital, reserves, and surplus, its advances, and its income, shall be exempt from all taxation now or hereafter imposed by the United States, by any Territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority; except that in <sup>1</sup> any real property of the bank shall be subject to State, Territorial, county, municipal, or local taxation to the same extent according to its value as other real property is taxed. The notes, debentures, and bonds issued by any bank, with unearned coupons attached, shall be accepted at par by such bank in payment of or as a credit against the obligation of any home-owner debtor of such bank.
+
+(July 22, 1932, ch. 522, §13, 47 Stat. 735; May 28, 1935, ch. 150, §8, 49 Stat. 295.)
+
+#### Amendments
+
+1935—Act May 28, 1935, inserted “and consolidated Federal Home Loan Bank bonds and debentures” in first sentence.
+
+#### Cross References
+
+United States obligations and evidences of ownership as subject to Federal taxation, see section 3124(b) of Title 31, Money and Finance.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1441, 1441b of this title.
+
+<i><sup>1</sup></i><i> So in original. Word “in” probably should not appear.</i>
+

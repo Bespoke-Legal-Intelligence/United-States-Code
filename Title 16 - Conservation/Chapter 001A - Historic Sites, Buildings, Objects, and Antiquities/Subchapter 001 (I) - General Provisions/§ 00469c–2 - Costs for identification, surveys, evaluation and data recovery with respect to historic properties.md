@@ -1,0 +1,24 @@
+### §469c–2. Costs for identification, surveys, evaluation and data recovery with respect to historic properties
+
+Notwithstanding section 469c(a) of this title, or any other provision of law to the contrary—
+
+&emsp;(1) identification, surveys, and evaluation carried out with respect to historic properties within project areas may be treated for purposes of any law or rule of law as planning costs of the project and not as costs of mitigation;
+
+&emsp;(2) reasonable costs for identification, surveys, evaluation, and data recovery carried out with respect to historic properties within project areas may be charged to Federal licensees and permittees as a condition to the issuance of such license or permit; and
+
+&emsp;(3) Federal agencies, with the concurrence of the Secretary and after notification of the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, are authorized to waive, in appropriate cases, the 1 per centum limitation contained in section 469c(a) of this title.
+
+(Pub. L. 96–515, title II, §208, Dec. 12, 1980, 94 Stat. 2997; Pub. L. 103–437, §6(d)(28), Nov. 2, 1994, 108 Stat. 4584.)
+
+#### Amendments
+
+1994—Par. (3). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+
+#### Change of Name
+
+Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 43 section 377b.
+

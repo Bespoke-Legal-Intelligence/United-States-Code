@@ -1,0 +1,6 @@
+### §806. Acquisition of assets and liabilities of existing corporation
+
+The corporation may acquire the assets of the Congressional Medal of Honor Society of the United States, Incorporated, a body corporate organized under the laws of the State of New York, upon discharge or satisfactorily providing for the payment and discharge of all of the liabilities of such State corporation and upon complying with all the laws of the State of New York applicable thereto.
+
+(Pub. L. 85–642, §16, Aug. 14, 1958, 72 Stat. 601.)
+

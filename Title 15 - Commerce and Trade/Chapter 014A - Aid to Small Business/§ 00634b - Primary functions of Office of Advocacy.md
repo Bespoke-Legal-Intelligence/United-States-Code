@@ -1,0 +1,50 @@
+### §634b. Primary functions of Office of Advocacy
+
+The primary functions of the Office of Advocacy shall be to—
+
+&emsp;(1) examine the role of small business in the American economy and the contribution which small business can make in improving competition, encouraging economic and social mobility for all citizens, restraining inflation, spurring production, expanding employment opportunities, increasing productivity, promoting exports, stimulating innovation and entrepreneurship, and providing an avenue through which new and untested products and services can be brought to the marketplace;
+
+&emsp;(2) assess the effectiveness of existing Federal subsidy and assistance programs for small business and the desirability of reducing the emphasis on such existing programs and increasing the emphasis on general assistance programs designed to benefit all small businesses;
+
+&emsp;(3) measure the direct costs and other effects of government regulation on small businesses; and make legislative and nonlegislative proposals for eliminating excessive or unnecessary regulations of small businesses;
+
+&emsp;(4) determine the impact of the tax structure on small businesses and make legislative and other proposals for altering the tax structure to enable all small businesses to realize their potential for contributing to the improvement of the Nation's economic well-being;
+
+&emsp;(5) study the ability of financial markets and institutions to meet small business credit needs and determine the impact of government demands for credit on small businesses;
+
+&emsp;(6) determine financial resource availability and to recommend methods for delivery of financial assistance to minority enterprises, including methods for securing equity capital, for generating markets for goods and services, for providing effective business education, more effective management and technical assistance, and training, and for assistance in complying with Federal, State, and local law;
+
+&emsp;(7) evaluate the efforts of Federal agencies, business and industry to assist minority enterprises;
+
+&emsp;(8) make such other recommendations as may be appropriate to assist the development and strengthening of minority and other small business enterprises;
+
+&emsp;(9) recommend specific measures for creating an environment in which all businesses will have the opportunity to complete <sup>1</sup> effectively and expand to their full potential, and to ascertain the common reasons, if any, for small business successes and failures;
+
+&emsp;(10) determine the desirability of developing a set of rational, objective criteria to be used to define small business, and to develop such criteria, if appropriate; and
+
+&emsp;(11) advise, cooperate with, and consult with, the Chairman of the Administrative Conference of the United States with respect to section 504(e) of title 5.
+
+(Pub. L. 94–305, title II, §202, June 4, 1976, 90 Stat. 668; Pub. L. 96–481, title II, §203(b), Oct. 21, 1980, 94 Stat. 2327.)
+
+#### Codification
+
+Section was not enacted as part of the Small Business Act which comprises this chapter.
+
+#### Amendments
+
+1980—Par. (11). Pub. L. 96–481 added par. (11).
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–481 effective Oct. 1, 1981, and applicable to adversary adjudication as defined in section 504(b)(1)(C) of Title 5, Government Organization and Employees, and to civil actions and adversary adjudications described in section 2412 of Title 28, Judiciary and Judicial Procedure, which are pending on, or commenced on or after Oct. 1, 1981, see section 208 of Pub. L. 96–481, set out as an Effective Date note under section 504 of Title 5, Government Organization and Employees.
+
+#### Advocacy Study of Paperwork and Tax Impact
+
+Pub. L. 103–403, title VI, §613, Oct. 22, 1994, 108 Stat. 4205, provided that: “The Chief Counsel for Advocacy of the Small Business Administration shall conduct a study of the impact of all Federal regulatory, paperwork, and tax requirements upon small business, and report its findings to the Congress not later than 1 year after the date of enactment of this Act \[Oct. 22, 1994\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 634d to 634g of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “compete”.</i>
+

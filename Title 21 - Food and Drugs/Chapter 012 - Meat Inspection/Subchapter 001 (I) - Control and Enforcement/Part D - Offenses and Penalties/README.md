@@ -1,0 +1,32 @@
+Part D—Offenses and Penalties
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 00841 - Prohibited acts A](%C2%A7%2000841%20-%20Prohibited%20acts%20A.md)
+- [&sect; 00842 - Prohibited acts B](%C2%A7%2000842%20-%20Prohibited%20acts%20B.md)
+- [&sect; 00843 - Prohibited acts C](%C2%A7%2000843%20-%20Prohibited%20acts%20C.md)
+- [&sect; 00844 - Penalties for simple possession](%C2%A7%2000844%20-%20Penalties%20for%20simple%20possession.md)
+- [&sect; 00844a - Civil penalty for possession of small amounts of certain controlled substances](%C2%A7%2000844a%20-%20Civil%20penalty%20for%20possession%20of%20small%20amounts%20of%20certain%20controlled%20substances.md)
+- [&sect; 00845 to 845b - Transferred](%C2%A7%2000845%20to%20845b%20-%20Transferred.md)
+- [&sect; 00846 - Attempt and conspiracy](%C2%A7%2000846%20-%20Attempt%20and%20conspiracy.md)
+- [&sect; 00847 - Additional penalties](%C2%A7%2000847%20-%20Additional%20penalties.md)
+- [&sect; 00848 - Continuing criminal enterprise](%C2%A7%2000848%20-%20Continuing%20criminal%20enterprise.md)
+- [&sect; 00849 - Transportation safety offenses](%C2%A7%2000849%20-%20Transportation%20safety%20offenses.md)
+- [&sect; 00850 - Information for sentencing](%C2%A7%2000850%20-%20Information%20for%20sentencing.md)
+- [&sect; 00851 - Proceedings to establish prior convictions](%C2%A7%2000851%20-%20Proceedings%20to%20establish%20prior%20convictions.md)
+- [&sect; 00852 - Application of treaties and other international agreements](%C2%A7%2000852%20-%20Application%20of%20treaties%20and%20other%20international%20agreements.md)
+- [&sect; 00853 - Criminal forfeitures](%C2%A7%2000853%20-%20Criminal%20forfeitures.md)
+- [&sect; 00853a - Transferred](%C2%A7%2000853a%20-%20Transferred.md)
+- [&sect; 00854 - Investment of illicit drug profits](%C2%A7%2000854%20-%20Investment%20of%20illicit%20drug%20profits.md)
+- [&sect; 00855 - Alternative fine](%C2%A7%2000855%20-%20Alternative%20fine.md)
+- [&sect; 00856 - Establishment of manufacturing operations](%C2%A7%2000856%20-%20Establishment%20of%20manufacturing%20operations.md)
+- [&sect; 00857 - Repealed. Pub. L. 101&#8211;647, title XXIV, &sect;2401(d), Nov. 29, 1990, 104 Stat. 4859](%C2%A7%2000857%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93647%2C%20title%20XXIV%2C%20%C2%A72401%28d%29%2C%20Nov.%2029%2C%201990%2C%20104%20Stat.%204859.md)
+- [&sect; 00858 - Endangering human life while illegally manufacturing controlled substance](%C2%A7%2000858%20-%20Endangering%20human%20life%20while%20illegally%20manufacturing%20controlled%20substance.md)
+- [&sect; 00859 - Distribution to persons under age twenty-one](%C2%A7%2000859%20-%20Distribution%20to%20persons%20under%20age%20twenty-one.md)
+- [&sect; 00860 - Distribution or manufacturing in or near schools and colleges](%C2%A7%2000860%20-%20Distribution%20or%20manufacturing%20in%20or%20near%20schools%20and%20colleges.md)
+- [&sect; 00861 - Employment or use of persons under 18 years of age in drug operations](%C2%A7%2000861%20-%20Employment%20or%20use%20of%20persons%20under%2018%20years%20of%20age%20in%20drug%20operations.md)
+- [&sect; 00862 - Denial of Federal benefits to drug traffickers and possessors](%C2%A7%2000862%20-%20Denial%20of%20Federal%20benefits%20to%20drug%20traffickers%20and%20possessors.md)
+- [&sect; 00863 - Drug paraphernalia](%C2%A7%2000863%20-%20Drug%20paraphernalia.md)

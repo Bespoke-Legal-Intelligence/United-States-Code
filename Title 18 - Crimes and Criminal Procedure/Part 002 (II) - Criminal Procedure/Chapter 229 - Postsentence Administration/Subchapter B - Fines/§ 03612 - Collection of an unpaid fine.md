@@ -1,0 +1,152 @@
+### §3612. Collection of an unpaid fine
+
+(a)
+
+Notification of Receipt and Related Matters.—The clerk or the person designated under section 604(a)(18) of title 28 shall notify the Attorney General of each receipt of a payment with respect to which a certification is made under subsection (b), together with other appropriate information relating to such payment. The notification shall be provided—
+
+&emsp;(1) in such manner as may be agreed upon by the Attorney General and the Director of the Administrative Office of the United States Courts; and
+
+&emsp;(2) within 15 days after the receipt or at such other time as may be determined jointly by the Attorney General and the Director of the Administrative Office of the United States Courts.
+
+> If the fifteenth day under paragraph (2) is a Saturday, Sunday, or legal public holiday, the clerk, or the person designated under section 604(a)(18) of title 28, shall provide notification not later than the next day that is not a Saturday, Sunday, or legal public holiday.
+
+(b)
+
+Information to be Included in Judgment; Judgment to be Transmitted to Attorney General.—(1) A judgment or order imposing, modifying, or remitting a fine of more than $100 shall include—
+
+&emsp;(A) the name, social security account number, mailing address, and residence address of the defendant;
+
+&emsp;(B) the docket number of the case;
+
+&emsp;(C) the original amount of the fine and the amount that is due and unpaid;
+
+&emsp;(D) the schedule of payments (if other than immediate payment is permitted under section 3572(d));
+
+&emsp;(E) a description of any modification or remission; and
+
+&emsp;(F) if other than immediate payment is permitted, a requirement that, until the fine is paid in full, the defendant notify the Attorney General of any change in the mailing address or residence address of the defendant not later than thirty days after the change occurs.
+
+(2) Not later than ten days after entry of the judgment or order, the court shall transmit a certified copy of the judgment or order to the Attorney General.
+
+(c)
+
+Responsibility for Collection.—The Attorney General shall be responsible for collection of an unpaid fine concerning which a certification has been issued as provided in subsection (b). An order of restitution, pursuant to section 3556, does not create any right of action against the United States by the person to whom restitution is ordered to be paid.
+
+(d)
+
+Notification of Delinquency.—Within ten working days after a fine is determined to be delinquent as provided in section 3572(h), the Attorney General shall notify the person whose fine is delinquent to inform him that the fine is delinquent.
+
+(e)
+
+Notification of Default.—Within ten working days after a fine is determined to be in default as provided in section 3572(i), the Attorney General shall notify the person defaulting to inform him that the fine is in default and the entire unpaid balance, including interest and penalties, is due within thirty days.
+
+(f)
+
+Interest on Fines.—
+
+&emsp;(1)
+
+In general.—The defendant shall pay interest on any fine of more than $2,500, unless the fine is paid in full before the fifteenth day after the date of the judgment. If that day is a Saturday, Sunday, or legal public holiday, the defendant shall be liable for interest beginning with the next day that is not a Saturday, Sunday, or legal public holiday.
+
+&emsp;(2)
+
+Computation.—Interest on a fine shall be computed—
+
+&emsp;&emsp;(A) daily (from the first day on which the defendant is liable for interest under paragraph (1)); and
+
+&emsp;&emsp;(B) at a rate equal to the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled before the first day on which the defendant is liable for interest under paragraph (1).
+
+&emsp;(3)
+
+Modification of interest by court.—If the court determines that the defendant does not have the ability to pay interest under this subsection, the court may—
+
+&emsp;&emsp;(A) waive the requirement for interest;
+
+&emsp;&emsp;(B) limit the total of interest payable to a specific dollar amount; or
+
+&emsp;&emsp;(C) limit the length of the period during which interest accrues.
+
+(g)
+
+Penalty for Delinquent Fine.—If a fine becomes delinquent, the defendant shall pay, as a penalty, an amount equal to 10 percent of the principal amount that is delinquent. If a fine becomes in default, the defendant shall pay, as a penalty, an additional amount equal to 15 percent of the principal amount that is in default.
+
+(h)
+
+Waiver of Interest or Penalty by Attorney General.—The Attorney General may waive all or part of any interest or penalty under this section or any interest or penalty relating to a fine imposed under any prior law if, as determined by the Attorney General, reasonable efforts to collect the interest or penalty are not likely to be effective.
+
+(i)
+
+Application of Payments.—Payments relating to fines shall be applied in the following order: (1) to principal; (2) to costs; (3) to interest; and (4) to penalties.
+
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2004; amended Pub. L. 100–185, §11, Dec. 11, 1987, 101 Stat. 1283; Pub. L. 100–690, title VII, §7082(c), (d), Nov. 18, 1988, 102 Stat. 4408; Pub. L. 101–647, title XXXV, §3592, Nov. 29, 1990, 104 Stat. 4931.)
+
+#### Prior Provisions
+
+For a prior section 3612, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding section 3601 of this title.
+
+#### Amendments
+
+1990—Subsec. (a). Pub. L. 101–647 substituted “604(a)(18)” for “604(a)(17)” wherever appearing.
+
+1988—Subsec. (d). Pub. L. 100–690, §7082(d), struck out “, by certified mail,” after “fine is delinquent”.
+
+Subsec. (e). Pub. L. 100–690, §7082(d), struck out “, by certified mail,” after “the person defaulting”.
+
+Subsec. (h). Pub. L. 100–690, §7082(c), inserted “or any interest or penalty relating to a fine imposed under any prior law” after “under this section”.
+
+1987—Subsec. (a). Pub. L. 100–185, §11(a), substituted “Notification of receipt and related matters” for “Disposition of payment” in heading and amended text generally. Prior to amendment, text read as follows: “The clerk shall forward each fine payment to the United States Treasury and shall notify the Attorney General of its receipt within ten working days.”
+
+Subsec. (b). Pub. L. 100–185, §11(b), substituted “Information to be included in judgment; judgment to be transmitted to Attorney General” for “Certification of imposition” in heading and amended text generally. Prior to amendment, text read as follows: “If a fine exceeding $100 is imposed, modified, or remitted, the sentencing court shall incorporate in the order imposing, remitting, or modifying such fine, and promptly certify to the Attorney General—
+
+&emsp;“(1) the name of the person fined;
+
+&emsp;“(2) his current address;
+
+&emsp;“(3) the docket number of the case;
+
+&emsp;“(4) the amount of the fine imposed;
+
+&emsp;“(5) any installment schedule;
+
+&emsp;“(6) the nature of any modification or remission of the fine or installment schedule; and
+
+&emsp;“(7) the amount of the fine that is due and unpaid.”
+
+Subsec. (d). Pub. L. 100–185, §11(c)(1), substituted “section 3572(h)” for “section 3572(i)”.
+
+Subsec. (e). Pub. L. 100–185, §11(c)(2), substituted “section 3572(i)” for “section 3572(j)”.
+
+Subsec. (f). Pub. L. 100–185, §11(d), amended subsec. (f) generally, substituting provisions relating to interest on fines, computation of interest, and modification of interest by court, for provisions relating to interest and monetary penalties for delinquent fines.
+
+Subsecs. (g) to (i). Pub. L. 100–185, §11(e), added subsecs. (g) to (i).
+
+#### Effective Date
+
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
+
+#### Collection of Outstanding Fines
+
+Section 237 of Pub. L. 98–473 provided that:
+
+“(a)(1) Except as provided in paragraph (2), for each criminal fine for which the unpaid balance exceeds $100 as of the effective date of this Act \[see section 235 of Pub. L. 98–473, as amended, set out as a note under section 3551 of this title\], the Attorney General shall, within one hundred and twenty days, notify the person by certified mail of his obligation, within thirty days after notification, to—
+
+&emsp;“(A) pay the fine in full;
+
+&emsp;“(B) specify, and demonstrate compliance with, an installment schedule established by a court before enactment of the amendments made by this Act \[Oct. 12, 1984\], specifying the dates on which designated partial payments will be made; or
+
+&emsp;“(C) establish with the concurrence of the Attorney General, a new installment schedule of a duration not exceeding two years, except in special circumstances, and specifying the dates on which designated partial payments will be made.
+
+“(2) This subsection shall not apply in cases in which—
+
+&emsp;“(A) the Attorney General believes the likelihood of collection is remote; or
+
+&emsp;“(B) criminal fines have been stayed pending appeal.
+
+“(b) The Attorney General shall, within one hundred and eighty days after the effective date of this Act, declare all fines for which this obligation is unfulfilled to be in criminal default, subject to the civil and criminal remedies established by amendments made by this Act \[see Short Title note set out under section 3551 of this title\]. No interest or monetary penalties shall be charged on any fines subject to this section.
+
+“(c) Not later than one year following the effective date of this Act, the Attorney General shall include in the annual crime report steps taken to implement this Act and the progress achieved in criminal fine collection, including collection data for each judicial district.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 10601.
+

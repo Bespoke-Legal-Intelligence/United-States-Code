@@ -1,0 +1,80 @@
+### §8109. Beneficiaries of awards unpaid at death; order of precedence
+
+(a) If an individual—
+
+&emsp;(1) has sustained disability compensable under section 8107(a) of this title;
+
+&emsp;(2) has filed a valid claim in his lifetime; and
+
+&emsp;(3) dies from a cause other than the injury before the end of the period specified by the schedule;
+
+> the compensation specified by the schedule that is unpaid at his death, whether or not accrued or due at his death, shall be paid—
+
+&emsp;(A) under an award made before or after the death;
+
+&emsp;(B) for the period specified by the schedule;
+
+&emsp;(C) to and for the benefit of the persons then in being within the classes and proportions and on the conditions specified by this section; and
+
+&emsp;(D) in the following order of precedence:
+
+&emsp;&emsp;(i) If there is no child, to the widow or widower.
+
+&emsp;&emsp;(ii) If there are both a widow or widower and a child or children, one-half to the widow or widower and one-half to the child or children.
+
+&emsp;&emsp;(iii) If there is no widow or widower, to the child or children.
+
+&emsp;&emsp;(iv) If there is no survivor in the above classes, to the parent or parents wholly or partly dependent for support on the decedent, or to other wholly dependent relatives listed by section 8133(a)(5) of this title, or to both in proportions provided by regulation.
+
+&emsp;&emsp;(v) If there is no survivor in the above classes and no burial allowance is payable under section 8134 of this title, an amount not exceeding that which would be expendable under section 8134 of this title if applicable shall be paid to reimburse a person equitably entitled thereto to the extent and in the proportion that he has paid the burial expenses, but a compensated insurer or other person obligated by law or contract to pay the burial expenses or a State or political subdivision or entity is deemed not equitably entitled.
+
+(b) Payments under subsection (a) of this section, except for an amount payable for a period preceding the death of the individual, are at the basic rate of compensation for permanent disability specified by section 8107(a) of this title even if at the time of death the individual was entitled to the augmented rate specified by section 8110 of this title.
+
+(c) A surviving beneficiary under subsection (a) of this section, except one under subsection (a)(D)(v), does not have a vested right to payment and must be alive to receive payment.
+
+(d) A beneficiary under subsection (a) of this section, except one under subsection (a)(D)(v), ceases to be entitled to payment on the happening of an event which would terminate his right to compensation for death under section 8133 of this title. When that entitlement ceases, compensation remaining unpaid under subsection (a) of this section is payable to the surviving beneficiary in accordance with subsection (a) of this section.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 538; Pub. L. 90–83, §1(52), Sept. 11, 1967, 81 Stat. 210.)
+
+Historical and Revision Notes<br>1966
+
+Act
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 755(d).
+
+Oct. 14, 1949, ch. 691, §104 “Sec. 5(d)”, 63 Stat. 857.
+
+The references in former section 755(d) to definitions in former section 760(B), (H) are omitted as unnecessary as the definitions are included in section 8101 for the entire subchapter.
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+1967
+
+Act
+
+<i>Section of title 5</i>
+
+<i>Source (U.S.Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+8109(a)(1)
+
+5 App.: 755(d)(1).
+
+July 4, 1966, Pub. L. 89–488, §2(d), 80 Stat. 252.
+
+#### Personnel Not Affected by 1967 Increase
+
+Increases authorized under amendment by Pub. L. 90–83 not applicable to specified personnel, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 8115 of this title; title 18 section 1921.
+

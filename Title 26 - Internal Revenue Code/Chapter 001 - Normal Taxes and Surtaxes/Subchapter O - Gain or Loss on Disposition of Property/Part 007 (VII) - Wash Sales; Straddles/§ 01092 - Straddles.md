@@ -1,0 +1,542 @@
+### §1092. Straddles
+
+#### (a) Recognition of loss in case of straddles, etc.
+
+#### (1) Limitation on recognition of loss
+
+#### (A) In general
+
+&emsp;&emsp;Any loss with respect to 1 or more positions shall be taken into account for any taxable year only to the extent that the amount of such loss exceeds the unrecognized gain (if any) with respect to 1 or more positions which were offsetting positions with respect to 1 or more positions from which the loss arose.
+
+#### (B) Carryover of loss
+
+&emsp;&emsp;Any loss which may not be taken into account under subparagraph (A) for any taxable year shall, subject to the limitations under subparagraph (A), be treated as sustained in the succeeding taxable year.
+
+#### (2) Special rule for identified straddles
+
+#### (A) In general
+
+&emsp;&emsp;In the case of any straddle which is an identified straddle as of the close of any taxable year—
+
+&emsp;&emsp;&emsp;(i) paragraph (1) shall not apply for such taxable year, and
+
+&emsp;&emsp;&emsp;(ii) any loss with respect to such straddle shall be treated as sustained not earlier than the day on which all of the positions making up the straddle are disposed of.
+
+#### (B) Identified straddle
+
+&emsp;&emsp;The term “identified straddle” means any straddle—
+
+&emsp;&emsp;&emsp;(i) which is clearly identified on the taxpayer's records as an identified straddle before the earlier of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the close of the day on which the straddle is acquired, or
+
+&emsp;&emsp;&emsp;&emsp;(II) such time as the Secretary may prescribe by regulations.
+
+&emsp;&emsp;&emsp;(ii) all of the original positions of which (as identified by the taxpayer) are acquired on the same day and with respect to which—
+
+&emsp;&emsp;&emsp;&emsp;(I) all of such positions are disposed of on the same day during the taxable year, or
+
+&emsp;&emsp;&emsp;&emsp;(II) none of such positions has been disposed of as of the close of the taxable year, and
+
+&emsp;&emsp;&emsp;(iii) which is not part of a larger straddle.
+
+#### (3) Unrecognized gain
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;The term “unrecognized gain” means—
+
+&emsp;&emsp;&emsp;(i) in the case of any position held by the taxpayer as of the close of the taxable year, the amount of gain which would be taken into account with respect to such position if such position were sold on the last business day of such taxable year at its fair market value, and
+
+&emsp;&emsp;&emsp;(ii) in the case of any position with respect to which, as of the close of the taxable year, gain has been realized but not recognized, the amount of gain so realized.
+
+#### (B) Reporting of gain
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Each taxpayer shall disclose to the Secretary, at such time and in such manner and form as the Secretary may prescribe by regulations—
+
+&emsp;&emsp;&emsp;&emsp;(I) each position (whether or not part of a straddle) with respect to which, as of the close of the taxable year, there is unrecognized gain, and
+
+&emsp;&emsp;&emsp;&emsp;(II) the amount of such unrecognized gain.
+
+#### (ii) Reports not required in certain cases
+
+&emsp;&emsp;&emsp;Clause (i) shall not apply—
+
+&emsp;&emsp;&emsp;&emsp;(I) to any position which is part of an identified straddle,
+
+&emsp;&emsp;&emsp;&emsp;(II) to any position which, with respect to the taxpayer, is property described in paragraph (1) or (2) of section 1221 or to any position which is part of a hedging transaction (as defined in section 1256(e)), or
+
+&emsp;&emsp;&emsp;&emsp;(III) with respect to any taxable year if no loss on a position (including a regulated futures contract) has been sustained during such taxable year or if the only loss sustained on such position is a loss described in subclause (II).
+
+#### (b) Regulations
+
+#### (1) In general
+
+&emsp;The Secretary shall prescribe such regulations with respect to gain or loss on positions which are a part of a straddle as may be appropriate to carry out the purposes of this section and section 263(g). To the extent consistent with such purposes, such regulations shall include rules applying the principles of subsections (a) and (d) of section 1091 and of subsections (b) and (d) of section 1233.
+
+#### (2) Regulations relating to mixed straddles
+
+#### (A) Elective provisions in lieu of section 1233(d) principles
+
+&emsp;&emsp;The regulations prescribed under paragraph (1) shall provide that—
+
+&emsp;&emsp;&emsp;(i) the taxpayer may offset gains and losses from positions which are part of mixed straddles—
+
+&emsp;&emsp;&emsp;&emsp;(I) by straddle-by-straddle identification, or
+
+&emsp;&emsp;&emsp;&emsp;(II) by the establishment (with respect to any class of activities) of a mixed straddle account for which gains and losses would be recognized (and offset) on a periodic basis,
+
+&emsp;&emsp;&emsp;(ii) such offsetting will occur before the application of section 1256, and section 1256(a)(3) will only apply to net gain or net loss attributable to section 1256 contracts, and
+
+&emsp;&emsp;&emsp;(iii) the principles of section 1233(d) shall not apply with respect to any straddle identified under clause (i)(I) or part of an account established under clause (i)(II).
+
+#### (B) Limitation on net gain or net loss from mixed straddle account
+
+&emsp;&emsp;In the case of any mixed straddle account referred to in subparagraph (A)(i)(II)—
+
+#### (i) Not more than 50 percent of net gain may be treated as long-term capital gain
+
+&emsp;&emsp;&emsp;In no event shall more than 50 percent of the net gain from such account for any taxable year be treated as long-term capital gain.
+
+#### (ii) Not more than 40 percent of net loss may be treated as short-term capital loss
+
+&emsp;&emsp;&emsp;In no event shall more than 40 percent of the net loss from such account for any taxable year be treated as short-term capital loss.
+
+#### (C) Authority to treat certain positions as mixed straddles
+
+&emsp;&emsp;The regulations prescribed under paragraph (1) may treat as a mixed straddle positions not described in section 1256(d)(4).
+
+#### (D) Timing and character authority
+
+&emsp;&emsp;The regulations prescribed under paragraph (1) shall include regulations relating to the timing and character of gains and losses in case of straddles where at least 1 position is ordinary and at least 1 position is capital.
+
+#### (c) Straddle defined
+
+For purposes of this section—
+
+#### (1) In general
+
+&emsp;The term “straddle” means offsetting positions with respect to personal property.
+
+#### (2) Offsetting positions
+
+#### (A) In general
+
+&emsp;&emsp;A taxpayer holds offsetting positions with respect to personal property if there is a substantial diminution of the taxpayer's risk of loss from holding any position with respect to personal property by reason of his holding 1 or more other positions with respect to personal property (whether or not of the same kind).
+
+#### (B) One side larger than other side
+
+&emsp;&emsp;If 1 or more positions offset only a portion of 1 or more other positions, the Secretary shall by regulations prescribe the method for determining the portion of such other positions which is to be taken into account for purposes of this section.
+
+#### (C) Special rule for identified straddles
+
+&emsp;&emsp;In the case of any position which is not part of an identified straddle (within the meaning of subsection (a)(2)(B)), such position shall not be treated as offsetting with respect to any position which is part of an identified straddle.
+
+#### (3) Presumption
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of paragraph (2), 2 or more positions shall be presumed to be offsetting if—
+
+&emsp;&emsp;&emsp;(i) the positions are in the same personal property (whether established in such property or a contract for such property),
+
+&emsp;&emsp;&emsp;(ii) the positions are in the same personal property, even though such property may be in a substantially altered form,
+
+&emsp;&emsp;&emsp;(iii) the positions are in debt instruments of a similar maturity or other debt instruments described in regulations prescribed by the Secretary,
+
+&emsp;&emsp;&emsp;(iv) the positions are sold or marketed as offsetting positions (whether or not such positions are called a straddle, spread, butterfly, or any similar name),
+
+&emsp;&emsp;&emsp;(v) the aggregate margin requirement for such positions is lower than the sum of the margin requirements for each such position (if held separately), or
+
+&emsp;&emsp;&emsp;(vi) there are such other factors (or satisfaction of subjective or objective tests)as the Secretary may by regulations prescribe as indicating that such positions are offsetting.
+
+> &emsp;&emsp;For purposes of the preceding sentence, 2 or more positions shall be treated as described in clause (i), (ii), (iii), or (vi) only if the value of 1 or more of such positions ordinarily varies inversely with the value of 1 or more other such positions.
+
+#### (B) Presumption may be rebutted
+
+&emsp;&emsp;Any presumption established pursuant to subparagraph (A) may be rebutted.
+
+#### (4) Exception for certain straddles consisting of qualified covered call options and the optioned stock
+
+#### (A) In general
+
+&emsp;&emsp;If—
+
+&emsp;&emsp;&emsp;(i) all the offsetting positions making up any straddle consist of 1 or more qualified covered call options and the stock to be purchased from the taxpayer under such options, and
+
+&emsp;&emsp;&emsp;(ii) such straddle is not part of a larger straddle,
+
+> &emsp;&emsp;such straddle shall not be treated as a straddle for purposes of this section and section 263(g).
+
+#### (B) Qualified covered call option defined
+
+&emsp;&emsp;For purposes of subparagraph (A), the term “qualified covered call option” means any option granted by the taxpayer to purchase stock held by the taxpayer (or stock acquired by the taxpayer in connection with the granting of the option) but only if—
+
+&emsp;&emsp;&emsp;(i) such option is traded on a national securities exchange which is registered with the Securities and Exchange Commission or other market which the Secretary determines has rules adequate to carry out the purposes of this paragraph,
+
+&emsp;&emsp;&emsp;(ii) such option is granted more than 30 days before the day on which the option expires,
+
+&emsp;&emsp;&emsp;(iii) such option is not a deep-in-the-money option,
+
+&emsp;&emsp;&emsp;(iv) such option is not granted by an options dealer (within the meaning of section 1256(g)(8)) in connection with his activity of dealing in options, and
+
+&emsp;&emsp;&emsp;(v) gain or loss with respect to such option is not ordinary income or loss.
+
+#### (C) Deep-in-the-money option
+
+&emsp;&emsp;For purposes of subparagraph (B), the term “deep-in-the-money option” means an option having a strike price lower than the lowest qualified bench mark.
+
+#### (D) Lowest qualified bench mark
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, for purposes of subparagraph (C), the term “lowest qualified bench mark” means the highest available strike price which is less than the applicable stock price.
+
+#### (ii) Special rule where option is for period more than 90 days and strike price exceeds $50
+
+&emsp;&emsp;&emsp;In the case of an option—
+
+&emsp;&emsp;&emsp;&emsp;(I) which is granted more than 90 days before the date on which such option expires, and
+
+&emsp;&emsp;&emsp;&emsp;(II) with respect to which the strike price is more than $50,
+
+&emsp;&emsp;&nbsp;the lowest qualified bench mark is the second highest available strike price which is less than the applicable stock price.
+
+#### (iii) 85 percent rule where applicable stock price $25 or less
+
+&emsp;&emsp;&emsp;If—
+
+&emsp;&emsp;&emsp;&emsp;(I) the applicable stock price is $25 or less, and
+
+&emsp;&emsp;&emsp;&emsp;(II) but for this clause, the lowest qualified bench mark would be less than 85 percent of the applicable stock price,
+
+&emsp;&emsp;&nbsp;the lowest qualified bench mark shall be treated as equal to 85 percent of the applicable stock price.
+
+#### (iv) Limitation where applicable stock price $150 or less
+
+&emsp;&emsp;&emsp;If—
+
+&emsp;&emsp;&emsp;&emsp;(I) the applicable stock price is $150 or less, and
+
+&emsp;&emsp;&emsp;&emsp;(II) but for this clause, the lowest qualified bench mark would be less than the applicable stock price reduced by $10,
+
+&emsp;&emsp;&nbsp;the lowest qualified bench mark shall be treated as equal to the applicable stock price reduced by $10.
+
+#### (E) Special year-end rule
+
+&emsp;&emsp;Subparagraph (A) shall not apply to any straddle for purposes of section 1092(a) if—
+
+&emsp;&emsp;&emsp;(i) the qualified covered call options referred to in such subparagraph are closed or the stock is disposed of at a loss during any taxable year,
+
+&emsp;&emsp;&emsp;(ii) gain on disposition of the stock to be purchased from the taxpayer under such options or gains on such options are includible in gross income for a later taxable year, and
+
+&emsp;&emsp;&emsp;(iii) such stock or option was not held by the taxpayer for 30 days or more after the closing of such options or the disposition of such stock.
+
+> &emsp;&emsp;For purposes of the preceding sentence, the rules of paragraphs (3) (other than subparagraph (B) thereof) and (4) of section 246(c) shall apply in determining the period for which the taxpayer holds the stock.
+
+#### (F) Strike price
+
+&emsp;&emsp;For purposes of this paragraph, the term “strike price” means the price at which the option is exercisable.
+
+#### (G) Applicable stock price
+
+&emsp;&emsp;For purposes of subparagraph (D), the term “applicable stock price” means, with respect to any stock for which an option has been granted—
+
+&emsp;&emsp;&emsp;(i) the closing price of such stock on the most recent day on which such stock was traded before the date on which such option was granted, or
+
+&emsp;&emsp;&emsp;(ii) the opening price of such stock on the day on which such option was granted,but only if such price is greater than 110 percent of the price determined under clause (i).
+
+#### (H) Regulations
+
+&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this paragraph. Such regulations may include modifications to the provisions of this paragraph which are appropriate to take account of changes in the practices of option exchanges or to prevent the use of options for tax avoidance purposes.
+
+#### (d) Definitions and special rules
+
+For purposes of this section—
+
+#### (1) Personal property
+
+&emsp;The term “personal property” means any personal property of a type which is actively traded.
+
+#### (2) Position
+
+&emsp;The term “position” means an interest (including a futures or forward contract or option) in personal property.
+
+#### (3) Special rules for stock
+
+&emsp;For purposes of paragraph (1)—
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), the term “personal property” does not include stock. The preceding sentence shall not apply to any interest in stock.
+
+#### (B) Exceptions
+
+&emsp;&emsp;The term “personal property” includes—
+
+&emsp;&emsp;&emsp;(i) any stock which is part of a straddle at least 1 of the offsetting positions of which is—
+
+&emsp;&emsp;&emsp;&emsp;(I) an option with respect to such stock or substantially identical stock or securities, or
+
+&emsp;&emsp;&emsp;&emsp;(II) under regulations, a position with respect to substantially similar or related property (other than stock), and
+
+&emsp;&emsp;&emsp;(ii) any stock of a corporation formed or availed of to take positions in personal property which offset positions taken by any shareholder.
+
+#### (C) Special rules
+
+&emsp;&emsp;&emsp;(i) For purposes of subparagraph (B), subsection (c) and paragraph (4) shall be applied as if stock described in clause (i) or (ii) of subparagraph (B) were personal property.
+
+&emsp;&emsp;&emsp;(ii) For purposes of determining whether subsection (e) applies to any transaction with respect to stock described in clause (ii) of subparagraph (B), all includible corporations of an affiliated group (within the meaning of section 1504(a)) shall be treated as 1 taxpayer.
+
+#### (4) Positions held by related persons, etc.
+
+#### (A) In general
+
+&emsp;&emsp;In determining whether 2 or more positions are offsetting, the taxpayer shall be treated as holding any position held by a related person.
+
+#### (B) Related person
+
+&emsp;&emsp;For purposes of subparagraph (A), a person is a related person to the taxpayer if with respect to any period during which a position is held by such person, such person—
+
+&emsp;&emsp;&emsp;(i) is the spouse of the taxpayer, or
+
+&emsp;&emsp;&emsp;(ii) files a consolidated return (within the meaning of section 1501) with the taxpayer for any taxable year which includes a portion of such period.
+
+#### (C) Certain flowthrough entities
+
+&emsp;&emsp;If part or all of the gain or loss with respect to a position held by a partnership, trust, or other entity would properly be taken into account for purposes of this chapter by a taxpayer, then, except to the extent otherwise provided in regulations, such position shall be treated as held by the taxpayer.
+
+#### (5) Special rule for section 1256 contracts
+
+#### (A) General rule
+
+&emsp;&emsp;In the case of a straddle at least 1 (but not all) of the positions of which are section 1256 contracts, the provisions of this section shall apply to any section 1256 contract and any other position making up such straddle.
+
+#### (B) Special rule for identified straddles
+
+&emsp;&emsp;For purposes of subsection (a)(2) (relating to identified straddles), subparagraph (A) and section 1256(a)(4) shall not apply to a straddle all of the offsetting positions of which consist of section 1256 contracts.
+
+#### (6) Section 1256 contract
+
+&emsp;The term “section 1256 contract” has the meaning given such term by section 1256(b).
+
+#### (7) Special rules for foreign currency
+
+#### (A) Position to include interest in certain debt
+
+&emsp;&emsp;For purposes of paragraph (2), an obligor's interest in a nonfunctional currency denominated debt obligation is treated as a position in the nonfunctional currency.
+
+#### (B) Actively traded requirement
+
+&emsp;&emsp;For purposes of paragraph (1), foreign currency for which there is an active interbank market is presumed to be actively traded.
+
+#### (e) Exception for hedging transactions
+
+This section shall not apply in the case of any hedging transaction (as defined in section 1256(e)).
+
+#### (f) Treatment of gain or loss and suspension of holding period where taxpayer grantor of qualified covered call option
+
+If a taxpayer holds any stock and grants a qualified covered call option to purchase such stock with a strike price less than the applicable stock price—
+
+#### (1) Treatment of loss
+
+&emsp;Any loss with respect to such option shall be treated as long-term capital loss if, at the time such loss is realized, gain on the sale or exchange of such stock would be treated as long-term capital gain.
+
+#### (2) Suspension of holding period
+
+&emsp;Except for purposes of section 851(b)(3), the holding period of such stock shall not includeany period during which the taxpayer is the grantor of such option.
+
+#### (g) Cross reference
+
+&emsp;&emsp;<b>For provision requiring capitalization of certain interest and carrying charges where there is a straddle, see section 263(g).</b>
+
+(Added Pub. L. 97–34, title V, §501(a), Aug. 13, 1981, 95 Stat. 323; amended Pub. L. 97–448, title I, §105(a)(1)(A)–(C), (2)–(4), Jan. 12, 1983, 96 Stat. 2384, 2385; Pub. L. 98–369, div. A, title I, §§101(a)–(d), 102(e)(2), 103(a), 107(a), July 18, 1984, 98 Stat. 616–619, 624, 627, 629; Pub. L. 99–514, title III, §331(a), title XII, §1261(b), title XVIII, §§1808(c), 1899A(66), Oct. 22, 1986, 100 Stat. 2220, 2591, 2817, 2962; Pub. L. 100–647, title VI, §6130(c), Nov. 10, 1988, 102 Stat. 3719.)
+
+#### Amendments
+
+1988—Subsec. (b)(2)(D). Pub. L. 100–647 added subpar. (D).
+
+1986—Subsec. (c)(4)(E). Pub. L. 99–514, §331(a), in cl. (i), inserted “or the stock is disposed of at a loss”, in cl. (ii), substituted “or gains on such options are” for “is”, and in cl. (iii), inserted “or option” and “or the disposition of such stock”.
+
+Subsec. (d)(3)(A). Pub. L. 99–514, §1808(c), inserted at end “The preceding sentence shall not apply to any interest in stock.”
+
+Subsec. (d)(5), (6). Pub. L. 99–514, §1899A(66), amended directory language of section 101(b)(2) of Pub. L. 98–369 to clarify general amendment by sections 101(d) and 102(e) of Pub. L. 98–369. See 1984 Amendment notes below.
+
+Subsec. (d)(7). Pub. L. 99–514, §1261(b), added par. (7).
+
+1984—Subsec. (a)(2)(B)(i). Pub. L. 98–369, §107(a), designated existing provisions as subcl. (I) and added subcl. (II).
+
+Subsec. (b). Pub. L. 98–369, §103(a), amended subsec. (b) generally, substituting provisions dealing with regulations for provisions dealing with character of gain or loss and wash sales.
+
+Subsec. (c)(4). Pub. L. 98–369, §101(a)(2), added par. (4).
+
+Subsec. (d)(1). Pub. L. 98–369, §101(b)(1), struck out “(other than stock)” before “of a type”.
+
+Subsec. (d)(2). Pub. L. 98–369, §101(a)(1), redesignated former subpar. (A) as entire par. (2), and struck out former subpar. (B) which provided that “position” includes any stock option which is a part of a straddle and which is an option to buy or sell stock which is actively traded, but does not include a stock option which (i) is traded on a domestic exchange or on a similar foreign exchange designated by the Secretary, and (ii) is of a type with respect to which the maximum period during which such option may be exercised is less than the minimum period for which a capital asset must be held for gain to be treated as long-term capital gain under section 1222(3).
+
+Subsec. (d)(3), (4). Pub. L. 98–369, §101(b)(2), as amended by Pub. L. 99–514, §1899A(66), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
+Subsec. (d)(5). Pub. L. 98–369, §101(d), amended par. (4) generally, substituting provisions relating to special rules for section 1256 contracts for provisions relating to special rules for regulated futures contracts.
+
+Pub. L. 98–369, §101(b)(2), as amended by Pub. L. 99–514, §1899A(66), redesignated former par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (d)(6). Pub. L. 98–369, §102(e)(2), amended par. (5) generally, substituting references to section 1256 contracts for references to regulated futures contracts wherever appearing in heading and text.
+
+Pub. L. 98–369, §101(b)(2), as amended by Pub. L. 99–514, §1899A(66), redesignated former par. (5) as (6).
+
+Subsecs. (f), (g). Pub. L. 98–369, §101(c), added subsec. (f) and redesignated former subsec. (f) as (g).
+
+1983—Subsec. (a)(1)(A). Pub. L. 97–448, §105(a)(1)(A), (2), substituted “unrecognized gain” for “unrealized gain” and “which were offsetting positions with respect to 1 or more positions from which the loss arose” for “which— (i) were acquired by the taxpayer before the disposition giving rise to such loss, (ii) were offsetting positions with respect to the 1 or more positions from which the loss arose, and (iii) were not part of an identified straddle as of the close of the taxable year”.
+
+Subsec. (a)(3). Pub. L. 97–448, §105(a)(1)(B), substituted “Unrecognized gain” for “Unrealized gain” in heading.
+
+Subsec. (a)(3)(A). Pub. L. 97–448, §105(a)(1)(B), substituted “unrecognized gain” for “unrealized gain” as term defined, designated existing definition as cl. (i), and added cl. (ii).
+
+Subsec. (a)(3)(B)(i)(I). Pub. L. 97–448, §105(a)(1)(C), substituted “with respect to which, as of the close of the taxable year, there is unrecognized gain, and” for “which is held by such taxpayer as of the close of the taxable year and with respect to which there is unrealized gain, and”.
+
+Subsec. (a)(3)(B)(i)(II). Pub. L. 97–448, §105(a)(1)(C), substituted “unrecognized gain” for “unrealized gain”.
+
+Subsec. (c)(2)(C). Pub. L. 97–448, §105(a)(4), substituted “subsection (a)(2)(B)” for “subsection (a)(3)(B)”.
+
+Subsec. (d)(4). Pub. L. 97–448, §105(a)(3), substituted “a straddle at least 1 (but not all) of the positions of which are regulated futures contracts, the provisions of this section shall apply” for “a straddle— (A) at lease 1 (but not all) of the positions of which are regulated futures contracts, and (B) with respect to which the taxpayer has elected not to have the provisions of section 1256 apply, the provisions of this section shall apply”.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–647 applicable with respect to forward contracts, future contracts, options, and similar instruments entered into or acquired after Oct. 21, 1988, see section 6130(d)(1) of Pub. L. 100–647, set out as a note under section 988 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Section 331(b) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to positions established on or after January 1, 1987.”
+
+Amendment by section 1261(b) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1261(e) of Pub. L. 99–514, set out as an Effective Date note under section 985 of this title.
+
+Amendment by section 1808(c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Section 101(e) of Pub. L. 98–369 provided that:
+
+“(1)
+
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply to positions established after December 31, 1983, in taxable years ending after such date.
+
+“(2)
+
+Special rule for offsetting position stock.—In the case of any stock of a corporation formed or availed of to take positions in personal property which offset positions taken by any shareholder, the amendments made by this section shall apply to positions established on or after May 23, 1983, in taxable years ending on or after such date.
+
+“(3)
+
+Subsection (c).—The amendment made by subsection (c) \[amending this section\] shall apply to positions established after June 30, 1984, in taxable years ending after such date.
+
+“(4)
+
+Subsection (d).—The amendment made by subsection (d) \[amending this section\] shall apply to positions established after the date of the enactment of this Act in taxable years ending after such date.”
+
+Amendment by section 102(e)(2) of Pub. L. 98–369 applicable to positions established after July 18, 1984, in taxable years ending after that date, except as otherwise provided, see section 102(f), (g) of Pub. L. 98–369, set out as a note under section 1256 of this title.
+
+Section 103(b), (c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+
+“(b)
+
+Requirement That Regulations Be Issued Within 6
+
+Months After the Date of Enactment.—The Secretary of the Treasury or his delegate shall prescribe initial regulations under section 1092(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (including regulations relating to mixed straddles) not later than the date 6 months after the date of the enactment of this Act \[July 18, 1984\].
+
+“(c)
+
+Effective Date of Regulations With Respect to Mixed Straddles.—The regulations described in subsection (b) with respect to the application of section 1233 of the Internal Revenue Code of 1986 to mixed straddles shall not apply to mixed straddles all of the positions of which were established before January 1, 1984.”
+
+Section 107(e) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and sections 1236 and 1256 of this title\] shall apply to positions entered into after the date of the enactment of this Act \[July 18, 1984\], in taxable years ending after such date.”
+
+#### Effective Date of 1983 Amendment
+
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+
+#### Effective Date
+
+Section 508 of title V of Pub. L. 97–34, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+
+“(a)
+
+In General.—Except as otherwise provided in this section, the amendments made by this title \[enacting this section and sections 1234A and 1256 of this title, amending sections 263, 341, 1212, 1221, 1231, 1232, 1233, 1236, and 6653 of this title, and enacting provisions set out as a note under section 1256 of this title\] shall apply to property acquired and positions established by the taxpayer after June 23, 1981, in taxable years ending after such date.
+
+“(b)
+
+Identification Requirements.—
+
+&emsp;“(1)
+
+Under section 1236 of code.—The amendments made by section 506 \[amending section 1236 of this title\] shall apply to property acquired by the taxpayer after the date of the enactment of this Act \[Aug. 13, 1981\] in taxable years ending after such date.
+
+&emsp;“(2)
+
+Under section 1256(e)(2)
+
+(c) of code.—Section 1256(e)(2)(C) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this title) shall apply to property acquired and positions established by the taxpayer after December 31, 1981, in taxable years ending after such date.
+
+“(c)
+
+Election With Respect to Property Held on June 23, 1981.—If the taxpayer so elects (at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe) with respect to all regulated futures contracts or positions held by the taxpayer on June 23, 1981, the amendments made by this title shall apply to all such contracts and positions, effective for periods after such date in taxable years ending after such date. For purposes of the preceding sentence, the term ‘regulated futures contract’ has the meaning given to such term by section 1256(b) of the Internal Revenue Code of 1986, and the term ‘position’ has the meaning given to such term by section 1092(d)(2) of such Code.”
+
+#### Plan Amendments Not Required Until January 1, 1989
+
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+#### Treatment of Certain Losses on Straddles Entered Into Before Effective Date of Economic Recovery Tax Act of 1981
+
+Section 108 of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1808(d), Oct. 22, 1986, 100 Stat. 2095, 2817, provided that:
+
+“(a)
+
+General Rule.—For purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the case of any disposition of 1 or more positions—
+
+&emsp;“(1) which were entered into before 1982 and form part of a straddle, and
+
+&emsp;“(2) to which the amendments made by title V of the Economic Recovery Tax Act of 1981 \[Pub. L. 97–34, see Effective Date note above\] do not apply,
+
+> any loss from such disposition shall be allowed for the taxable year of the disposition if such loss is incurred in a trade or business, or if such loss is incurred in a transaction entered into for profit though not connected with a trade or business.
+
+“(b)
+
+Loss Incurred in a Trade or Business.—For purposes of subsection (a), any loss incurred by a commodities dealer in the trading of commodities shall be treated as a loss incurred in a trade or business.
+
+“(c)
+
+Net Loss Allowed.—If any loss with respect to a position described in paragraphs (1) and (2) of subsection (a) is not allowable as a deduction (after applying subsections (a) and (b)), such loss shall be allowed in determining the gain or loss from dispositions of other positions in the straddle to the extent required to accurately reflect the taxpayer's net gain or loss from all positions in such straddle.
+
+“(d)
+
+Other Rules.—Except as otherwise provided in subsections (a) and (c) and in sections 1233 and 1234 of such Code, the determination of whether there is recognized gain or loss with respect to a position, and the amount and timing of such gain or loss, and the treatment of such gain or loss as long-term or short-term shall be made without regard to whether such position constitutes part of a straddle.
+
+“(e)
+
+Straddle.—For purposes of this section, the term ‘straddle’ has the meaning given to such term by section 1092(c) of the Internal Revenue Code of 1986 as in effect on the day after the date of the enactment of the Economic Recovery Tax Act of 1981 \[Aug. 13, 1981\], and shall include a straddle all the positions of which are regulated futures contracts.
+
+“(f)
+
+Commodities Dealer.—For purposes of this section, the term ‘commodities dealer’ means any taxpayer who—
+
+&emsp;“(1) at any time before January 1, 1982, was an individual described in section 1402(i)(2)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this subtitle), or
+
+&emsp;“(2) was a member of the family (within the meaning of section 704(e)(3) of such Code) of an individual described in paragraph (1) to the extent such member engaged in commodities trading through an organization the members of which consisted solely of—
+
+&emsp;&emsp;“(A) 1 or more individuals described in paragraph (1), and
+
+&emsp;&emsp;“(B) 1 or more members of the families (as so defined) of such individuals.
+
+“(g)
+
+Regulated Futures Contracts.—For purposes of this section, the term ‘regulated futures contracts’ has the meaning given to such term by section 1256(b) of the Internal Revenue Code of 1986 (as in effect before the date of enactment of this Act \[July 18, 1984\]).
+
+“(h)
+
+Syndicates.—For purposes of this section, any loss incurred by a person (other than a commoditiesdealer) with respect to an interest in a syndicate (within the meaning of section 1256(e)(3)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) shall not be considered to be a loss incurred in a trade or business.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 246, 263, 475, 731, 871, 988, 1233, 1234A, 1256, 1258 of this title.
+

@@ -1,0 +1,6 @@
+### §357. Effect on Federal construction programs
+
+It is not the intention of the Congress that the program authorized by section 356 of this title shall constitute a substitute for or a replacement of any program for the construction by the United States of such structures as may be required from time to time by the Federal Government.
+
+(July 22, 1954, ch. 560, title I, §102, 68 Stat. 521.)
+

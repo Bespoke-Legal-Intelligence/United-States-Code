@@ -1,0 +1,14 @@
+### §675. Annual reports by Secretary of Labor and Secretary of Health and Human Services; contents
+
+Within one hundred and twenty days following the convening of each regular session of each Congress, the Secretary and the Secretary of Health and Human Services shall each prepare and submit to the President for transmittal to the Congress a report upon the subject matter of this chapter, the progress toward achievement of the purpose of this chapter, the needs and requirements in the field of occupational safety and health, and any other relevant information. Such reports shall include information regarding occupational safety and health standards, and criteria for such standards, developed during the preceding year; evaluation of standards and criteria previously developed under this chapter, defining areas of emphasis for new criteria and standards; an evaluation of the degree of observance of applicable occupational safety and health standards, and a summary of inspection and enforcement activity undertaken; analysis and evaluation of research activities for which results have been obtained under governmental and nongovernmental sponsorship; an analysis of major occupational diseases; evaluation of available control and measurement technology for hazards for which standards or criteria have been developed during the preceding year; description of cooperative efforts undertaken between Government agencies and other interested parties in the implementation of this chapter during the preceding year; a progress report on the development of an adequate supply of trained manpower in the field of occupational safety and health, including estimates of future needs and the efforts being made by Government and others to meet those needs; listing of all toxic substances in industrial usage for which labeling requirements, criteria, or standards have not yet been established; and such recommendations for additional legislation as are deemed necessary to protect the safety and health of the worker and improve the administration of this chapter.
+
+(Pub. L. 91–596, §26, Dec. 29, 1970, 84 Stat. 1615; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+
+#### Change of Name
+
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” in text pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+
+#### Study of Occupationally Related Pulmonary and Respiratory Diseases; Study To Be Completed and Report Submitted by September 1, 1979
+
+Pub. L. 95–239, §17, Mar. 1, 1978, 92 Stat. 105, authorized Secretary of Labor, in cooperation with Director of National Institute for Occupational Safety and Health, to conduct a study of occupationally related pulmonary and respiratory diseases and to complete such study and report findings to President and Congress not later than 18 months after Mar. 1, 1978.
+

@@ -1,0 +1,16 @@
+### §12753. Penalties for misuse of funds
+
+If the Secretary finds after reasonable notice and opportunity for hearing that a participating jurisdiction has failed to comply substantially with any provision of this part and until the Secretary is satisfied that there is no longer any such failure to comply, the Secretary shall reduce the line of credit in the participating jurisdiction's HOME Investment Trust Fund by the amount of any expenditures that were not in accordance with the requirements of this subchapter, and the Secretary may—
+
+&emsp;(1) prevent withdrawals from the participating jurisdiction's HOME Investment Trust Fund for activities affected by such failure to comply;
+
+&emsp;(2) restrict the participating jurisdiction's activities under this subchapter to activities that conform to one or more model programs made available under section 12743 of this title; or
+
+&emsp;(3) remove the participating jurisdiction from participation in allocations or reallocations of funds made available under this part.
+
+(Pub. L. 101–625, title II, §223, Nov. 28, 1990, 104 Stat. 4112.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 12742, 12743, 12748 of this title.
+

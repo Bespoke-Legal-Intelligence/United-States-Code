@@ -1,0 +1,104 @@
+### §2642. Definitions
+
+For purposes of this subchapter—
+
+#### (1) Accredited asbestos contractor
+
+&emsp;The term “accredited asbestos contractor” means a person accredited pursuant to the provisions of section 2646 of this title.
+
+#### (2) Administrator
+
+&emsp;The term “Administrator” means the Administrator of the Environmental Protection Agency.
+
+#### (3) Asbestos
+
+&emsp;The term “asbestos” means asbestiform varieties of—
+
+&emsp;&emsp;(A) chrysotile (serpentine),
+
+&emsp;&emsp;(B) crocidolite (riebeckite),
+
+&emsp;&emsp;(C) amosite (cummingtonite-grunerite),
+
+&emsp;&emsp;(D) anthophyllite,
+
+&emsp;&emsp;(E) tremolite, or
+
+&emsp;&emsp;(F) actinolite.
+
+#### (4) Asbestos-containing material
+
+&emsp;The term “asbestos-containing material” means any material which contains more than 1 percent asbestos by weight.
+
+#### (5) EPA guidance document
+
+&emsp;The term “Guidance for Controlling Asbestos-Containing Material in Buildings”, means the Environmental Protection Agency document with such title as in effect on March 31, 1986.
+
+#### (6) Friable asbestos-containing material
+
+&emsp;The term “friable asbestos-containing material” means any asbestos-containing material applied on ceilings, walls, structural members, piping, duct work, or any other part of a building which when dry may be crumbled, pulverized, or reduced to powder by hand pressure. The term includes non-friable asbestos-containing material after such previously non-friable material becomes damaged to the extent that when dry it may be crumbled, pulverized, or reduced to powder by hand pressure.
+
+#### (7) Local educational agency
+
+&emsp;The term “local educational agency” means—
+
+&emsp;&emsp;(A) any local educational agency as defined in section 8801 of title 20,
+
+&emsp;&emsp;(B) the owner of any private, nonprofit elementary or secondary school building, and
+
+&emsp;&emsp;(C) the governing authority of any school operated under the defense dependents’ education system provided for under the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921 et seq.).
+
+#### (8) Most current guidance document
+
+&emsp;The term “most current guidance document” means the Environmental Protection Agency's “Guidance for Controlling Asbestos-Containing Material in Buildings” as modified by the Environmental Protection Agency after March 31, 1986.
+
+#### (9) Non-profit elementary or secondary school
+
+&emsp;The term “non-profit elementary or secondary school” means any elementary or secondary school (as defined in section 8801 of title 20) owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
+
+#### (10) Public and commercial building
+
+&emsp;The term “public and commercial building” means any building which is not a school building, except that the term does not include any residential apartment building of fewer than 10 units.
+
+#### (11) Response action
+
+&emsp;The term “response action” means methods that protect human health and the environment from asbestos-containing material. Such methods include methods described in chapters 3 and 5 of the Environmental Protection Agency's “Guidance for Controlling Asbestos-Containing Materials in Buildings”.
+
+#### (12) School
+
+&emsp;The term “school” means any elementary or secondary school as defined in section 8801 of title 20).
+
+#### (13) School building
+
+&emsp;The term “school building” means—
+
+&emsp;&emsp;(A) any structure suitable for use as a classroom, including a school facility such as a laboratory, library, school eating facility, or facility used for the preparation of food,
+
+&emsp;&emsp;(B) any gymnasium or other facility which is specially designed for athletic or recreational activities for an academic course in physical education,
+
+&emsp;&emsp;(C) any other facility used for the instruction of students or for the administration of educational or research programs, and
+
+&emsp;&emsp;(D) any maintenance, storage, or utility facility, including any hallway, essential to the operation of any facility described in subparagraphs (A), (B), or (C).
+
+#### (14) State
+
+&emsp;The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Northern Marianas, the Trust Territory of the Pacific Islands, and the Virgin Islands.
+
+(Pub. L. 94 469, title II, §202, as added Pub. L. 99 519, §2, Oct. 22, 1986, 100 Stat. 2971; amended Pub. L. 103 382, title III, §391(c)(1) (3), Oct. 20, 1994, 108 Stat. 4022.)
+
+#### References in Text
+
+The Defense Dependents’ Education Act of 1978, referred to in par. (7)(C), is title XIV of Pub. L. 95 561, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
+
+#### Amendments
+
+1994—Pars. (7)(A), (9), (12). Pub. L. 103 382 made technical amendment to reference to section 8801 of title 20 to reflect change in reference to corresponding section of original act.
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2662 of this title; title 20 section 4020.
+

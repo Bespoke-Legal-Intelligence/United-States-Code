@@ -1,0 +1,10 @@
+### §287. Taking child to school in another State without written consent
+
+No Indian child shall be taken from any school in any State or Territory to a school in any other State against its will or without the written consent of its parents.
+
+(June 10, 1896, ch. 398, §1, 29 Stat. 348.)
+
+#### Cross References
+
+Provisions preventing Government from assuming expense of transporting pupils beyond limits of State or territory, see section 290 of this title.
+

@@ -1,0 +1,18 @@
+### §2052. Research by Commission
+
+The Commission is authorized and directed to conduct, through its own facilities, activities and studies of the types specified in section 2051 of this title.
+
+(Aug. 1, 1946, ch. 724, title I, §32, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 928; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 1803(b) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+
+#### Transfer of Functions
+
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5817 of this title.
+

@@ -1,0 +1,244 @@
+### §3056. Powers, authorities, and duties of United States Secret Service
+
+(a) Under the direction of the Secretary of the Treasury, the United States Secret Service is authorized to protect the following persons:
+
+&emsp;(1) The President, the Vice President (or other officer next in the order of succession to the Office of President), the President-elect, and the Vice President-elect.
+
+&emsp;(2) The immediate families of those individuals listed in paragraph (1).
+
+&emsp;(3) Former Presidents and their spouses for their lifetimes, except that protection of a spouse shall terminate in the event of remarriage unless the former President did not serve as President prior to January 1, 1997, in which case, former Presidents and their spouses for a period of not more than ten years from the date a former President leaves office, except that—
+
+&emsp;&emsp;(1) protection of a spouse shall terminate in the event of remarriage or the divorce from, or death of a former President; and
+
+&emsp;&emsp;(2) should the death of a President occur while in office or within one year after leaving office, the spouse shall receive protection for one year from the time of such death:
+
+> &emsp;<i>Provided</i>, That the Secretary of the Treasury shall have the authority to direct the Secret Service to provide temporary protection for any of these individuals at any time if the Secretary of the Treasury or designee determines that information or conditions warrant such protection.
+
+&emsp;(4) Children of a former President who are under 16 years of age for a period not to exceed ten years or upon the child becoming 16 years of age, whichever comes first.
+
+&emsp;(5) Visiting heads of foreign states or foreign governments.
+
+&emsp;(6) Other distinguished foreign visitors to the United States and official representatives of the United States performing special missions abroad when the President directs that such protection be provided.
+
+&emsp;(7) Major Presidential and Vice Presidential candidates and, within 120 days of the general Presidential election, the spouses of such candidates. As used in this paragraph, the term “major Presidential and Vice Presidential candidates” means those individuals identified as such by the Secretary of the Treasury after consultation with an advisory committee consisting of the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority and minority leaders of the Senate, and one additional member selected by the other members of the committee.
+
+> The protection authorized in paragraphs (2) through (7) may be declined.
+
+(b) Under the direction of the Secretary of the Treasury, the Secret Service is authorized to detect and arrest any person who violates—
+
+&emsp;(1) section 508, 509, 510, 871, or 879 of this title or, with respect to the Federal Deposit Insurance Corporation, Federal land banks, and Federal land bank associations, section 213, 216,<sup>1</sup> 433, 493, 657, 709, 1006, 1007, 1011, 1013, 1014, 1907, or 1909 of this title;
+
+&emsp;(2) any of the laws of the United States relating to coins, obligations, and securities of the United States and of foreign governments; or
+
+&emsp;(3) any of the laws of the United States relating to electronic fund transfer frauds, credit and debit card frauds, and false identification documents or devices; except that the authority conferred by this paragraph shall be exercised subject to the agreement of the Attorney General and the Secretary of the Treasury and shall not affect the authority of any other Federal law enforcement agency with respect to those laws.
+
+(c)(1) Under the direction of the Secretary of the Treasury, officers and agents of the Secret Service are authorized to—
+
+&emsp;(A) execute warrants issued under the laws of the United States;
+
+&emsp;(B) carry firearms;
+
+&emsp;(C) make arrests without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such felony;
+
+&emsp;(D) offer and pay rewards for services and information leading to the apprehension of persons involved in the violation or potential violation of those provisions of law which the Secret Service is authorized to enforce;
+
+&emsp;(E) pay expenses for unforeseen emergencies of a confidential nature under the direction of the Secretary of the Treasury and accounted for solely on the Secretary's certificate; and
+
+&emsp;(F) perform such other functions and duties as are authorized by law.
+
+(2) Funds expended from appropriations available to the Secret Service for the purchase of counterfeits and subsequently recovered shall be reimbursed to the appropriations available to the Secret Service at the time of the reimbursement.
+
+(d) Whoever knowingly and willfully obstructs, resists, or interferes with a Federal law enforcement agent engaged in the performance of the protective functions authorized by this section or by section 1752 of this title shall be fined not more than $1,000 or imprisoned not more than one year, or both.
+
+(June 25, 1948, ch. 645, 62 Stat. 818; July 16, 1951, ch. 226, §4, 65 Stat. 122; Aug. 31, 1954, ch. 1143, §2, 68 Stat. 999; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387; Oct. 10, 1962, Pub. L. 87–791, 76 Stat. 809; Oct. 15, 1962, Pub. L. 87–829, §3, 76 Stat. 956; Sept. 15, 1965, Pub. L. 89–186, 79 Stat. 791; Sept. 29, 1965, Pub. L. 89–218, 79 Stat. 890; Oct. 21, 1968, Pub. L. 90–608, ch. XI, §1101, 82 Stat. 1198; Jan. 2, 1971, Pub. L. 91–644, title V, §19, 84 Stat. 1892; Jan. 5, 1971, Pub. L. 91–651, §4, 84 Stat. 1941; July 12, 1974, Pub. L. 93–346, §8, as added Dec. 27, 1974, Pub. L. 93–552, title VI, §609(a), 88 Stat. 1765; Sept. 11, 1976, Pub. L. 94–408, §2, 90 Stat. 1239; Oct. 12, 1982, Pub. L. 97–297, §3, 96 Stat. 1318; Oct. 14, 1982, Pub. L. 97–308, §2, 96 Stat. 1452; Nov. 14, 1983, Pub. L. 98–151, §115(b), 97 Stat. 977; Oct. 30, 1984, Pub. L. 98–587, §1(a), 98 Stat. 3110; Sept. 30, 1994, Pub. L. 103–329, title V, §530, 108 Stat. 2412.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §148, and on sections 264(x) and 986 of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, §12B, subsection (x), as added June 16, 1933, ch. 89, §8, 48 Stat. 178; July 17, 1916, ch. 245, §31, sixth paragraph, 39 Stat. 382 (384); Dec. 11, 1926, ch. 2, §3, 44 Stat. 918; Aug. 23, 1935, ch. 614, §101, 49 Stat. 684, 703).
+
+Section consolidates said section 148 of title 18, U.S.C., 1940 ed., and said sections 264(x) and 986 of title 12, U.S.C., 1940 ed., Banks and Banking.
+
+Said section 148 of title 12, U.S.C., 1940 ed., Banks and Banking, was concerned with offenses relating to counterfeiting and passing, etc., of transportation requests and to the unlawful possession or making of plates, stones, etc., used in making such requests, which were defined in sections 146 and 147 of said title 18, now sections 508 and 509 of this title.
+
+Said sections 264(x) and 986 of title 12, U.S.C., 1940 ed., Banks and Banking, were concerned with various offenses as defined in sections 981–985, 987 of said title 12, relating to Federal land banks, joint-stock land banks and national farm loan associations, and as defined in section 264 of said title 12 relating to the Federal Deposit Insurance Corporation. All of the provisions of said sections 981–985, 987 of said title 12, and the criminal provisions of said section 264 of said title 12, were transferred to this title where they were, in some instances, consolidated with similar provisions from other sections. Such provisions are now incorporated in sections 218, 221, 433, 493, 657, 709, 1006, 1007, 1011, 1013, 1014, 1907, and 1909 of this title. In most instances, these sections, as the result of the consolidations, relate to other organizations as well as those mentioned above, but, by enumerating the Federal Deposit Insurance Corporation, Federal land banks, joint-stock land banks, and national farm loan associations in this section, the powers of the Secret Service are not broadened beyond what they were in said sections 264(x) and 986 of said title 12.
+
+In this section, the wording of said section 148 of title 18, U.S.C., 1940 ed., and section 986 of title 12, U.S.C., 1940 ed., Banks and Banking reading “The Secretary of the Treasury is hereby authorized to direct and use the Secret Service Division of the Treasury Department” was adopted, rather than the wording of said section 264(x) of said title 12, which read “The Secret Service Division of the Treasury Department is authorized.”
+
+Words “of the United States marshal having jurisdiction”, following “custody” in all three of said sections, were omitted as surplusage.
+
+Changes were made in phraseology.
+
+#### References in Text
+
+Section 216 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 98–473, title II, §1107(b), Oct. 12, 1984, 98 Stat. 2146.
+
+#### Amendments
+
+1994—Subsec. (a)(3). Pub. L. 103–329, §530(a), inserted before period at end “unless the former President did not serve as President prior to January 1, 1997, in which case, former Presidents and their spouses for a period of not more than ten years from the date a former President leaves office, except that—
+
+&emsp;“(1) protection of a spouse shall terminate in the event of remarriage or the divorce from, or death of a former President; and
+
+&emsp;“(2) should the death of a President occur while in office or within one year after leaving office, the spouse shall receive protection for one year from the time of such death:
+
+> <i>Provided</i>, That the Secretary of the Treasury shall have the authority to direct the Secret Service to provide temporary protection for any of these individuals at any time if the Secretary of the Treasury or designee determines that information or conditions warrant such protection”.
+
+Subsec. (a)(4). Pub. L. 103–329, §530(b), inserted before period at end “for a period not to exceed ten years or upon the child becoming 16 years of age, whichever comes first”.
+
+1984—Pub. L. 98–587 amended section generally, providing authority for the Secret Service to conduct criminal investigations of, make arrests in, and present for prosecutorial consideration, cases relating to electronic fund transfer frauds, and providing the Secret Service with authority to conduct investigations and make arrests relating to credit and debit card frauds, and false identification documents and devices, to be exercised subject to the agreement of the Attorney General and the Secretary of the Treasury.
+
+1983—Subsec. (a). Pub. L. 98–151 inserted reference to section 510 of this section in fifth clause.
+
+1982—Subsec. (a). Pub. L. 97–297, §3(1), substituted “871, and 879 of this title” for “and 871 of this title”.
+
+Pub. L. 97–297, §3(2), substituted “and Federal land bank associations are concerned, of sections 213, 216” for “, joint-stock land banks and Federal land bank associations are concerned, of sections 218, 221”.
+
+Subsec. (b). Pub. L. 97–308 increased the limitation on fines to $1,000 from $300.
+
+1976—Subsec. (a). Pub. L. 94–408 substituted “, and the members of their immediate families unless the members decline such protection;” for “; protect the members of the immediate family of the Vice-President, unless such protection is declined;”.
+
+Subsec. (b). Pub. L. 94–408 inserted reference to other Federal law enforcement agents.
+
+1974—Subsec. (a). Pub. L. 93–552 inserted provisions relating to the protection of the immediate family of the Vice President unless declined, and the payment of expenses for unforeseen emergencies of a confidential nature under the direction of the Secretary of the Treasury and accounted for solely on his certificate.
+
+1971—Pub. L. 91–651 authorized the Secret Service to protect the person of a visiting head of a foreign state or foreign government and, at the direction of the President, other distinguished foreign visitors to the United States and official representatives of the United States performing special missions abroad, and substituted “Director, Deputy Director, Assistant Directors, Assistants to the Director” for “Chief, Deputy Chief, Assistant Chief”.
+
+Pub. L. 91–644 designated existing provisions as subsec. (a) and added subsec. (b).
+
+1968—Pub. L. 90–608 substituted the death or remarriage of a former President's widow and the attainment by his minor children of age 16 for the passage of a period of four years after he leaves or dies in office as the events terminating Secret Service protection for the widow and minor children, respectively, of a former President.
+
+1965—Pub. L. 89–218 authorized the Chief, Deputy Chief, Assistant Chief, inspectors, and agents of the Secret Service to make arrests without warrant for offenses committed against the United States in their presence or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing the felony and substituted “508, 509, and 871” for “508 and 509”.
+
+Pub. L. 89–186 substituted provision for the protection of the person of a former President and his wife during his lifetime and the person of a widow and minor children of a former President for a period of four years after he leaves or dies in office, unless the protection is declined, for provision calling for the protection of a former President, at his request, for a reasonable period after he leaves office.
+
+1962—Pub. L. 87–829 authorized the protection of the Vice President, without requiring his request therefor, and any officer next in the order of succession to the office of President, the Vice-President-elect, and of a former president, at his request, for a reasonable period after he leaves office.
+
+Pub. L. 87–791 required moneys expended from Secret Service appropriations for the purchase of counterfeits and subsequently recovered to be reimbursed to the appropriation current at the time of deposit.
+
+1959—Pub. L. 86–168 substituted “Federal land bank associations” for “national farm loan associations”.
+
+1954—Act Aug. 31, 1954, struck out “detect, and arrest any person violating any laws of the United States directly concerning official matters administered by and under the direct control of the Treasury Department”.
+
+1951—Act July 16, 1951, provided basic authority for the Secret Service to perform certain functions and activities heretofore carried out by virtue of authority contained in appropriation acts.
+
+#### Effective Date of 1974 Amendment
+
+Amendment by Pub. L. 93–552 effective July 12, 1974, see section 609(b) of Pub. L. 93–552, set out as a note under section 202 of Title 3, The President.
+
+#### Effective Date of 1959 Amendment
+
+Amendment by Pub. L. 86–168 effective Dec. 31, 1959, see section 104(k) of Pub. L. 86–168.
+
+#### Former Vice President or Spouse; Protection
+
+Pub. L. 103–1, Jan. 15, 1993, 107 Stat. 3, provided: “That—
+
+&emsp;“(1) the United States Secret Service, in addition to other duties now provided by law, is authorized to furnish protection to—
+
+&emsp;&emsp;“(A) the person occupying the Office of Vice President of the United States immediately preceding January 20, 1993, or
+
+&emsp;&emsp;“(B) his spouse,
+
+> &emsp;if the President determines that such person may thereafter be in significant danger; and
+
+&emsp;“(2) protection of any such person, pursuant to the authority provided in paragraph (1), shall continue only for such period as the President determines, except that such protection shall not continue beyond July 20, 1993, unless otherwise permitted by law.”
+
+Pub. L. 96–503, Dec. 5, 1980, 94 Stat. 2740, provided: “That the United States Secret Service, in addition to other duties now provided by law, is authorized to furnish protection to (a) the person occupying the Office of Vice President of the United States immediately preceding January 20, 1981, or (b) his spouse, if the President determines that such person may thereafter be in significant danger: <i>Provided, however</i>, That protection of any such person shall continue only for such period as the President determines and shall not continue beyond July 20, 1981, unless otherwise permitted by law.”
+
+#### Secret Service Protection of Former Federal Officials
+
+Pub. L. 95–1, Jan. 19, 1977, 91 Stat. 3, provided: “That the United States Secret Service, in addition to other duties now provided by law, is authorized to furnish protection to a person who (a) as a Federal Government official has been receiving protection by the United States Secret Service for a period immediately preceding January 20, 1977, or (b) as a member of such official's immediate family has been receiving protection by either the United States Secret Service or other security personnel of the official's department immediately preceding January 20, 1977, if the President determines that such person may thereafter be in significant danger: <i>Provided, however</i>, That protection of any such person shall continue only for such period as the President determines and shall not continue beyond July 20, 1977, unless otherwise permitted by law.”
+
+#### Presidential Protection Assistance Act of 1976
+
+Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, as amended by Pub. L. 99–190, §143, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 101–136, title V, §527, Nov. 3, 1989, 103 Stat. 815; Pub. L. 101–509, title V, §531(a), Nov. 5, 1990, 104 Stat. 1469; Pub. L. 102–141, title V, §533, Oct. 28, 1991, 105 Stat. 867, provided: “That this Act may be cited as the ‘Presidential Protection Assistance Act of 1976’.
+
+“
+
+Sec. 2. As used in this Act the term—
+
+&emsp;“(1) ‘Secret Service’ means the United States Secret Service, the Department of the Treasury;
+
+&emsp;“(2) ‘Director’ means the Director of the Secret Service;
+
+&emsp;“(3) ‘protectee’ means any person eligible to receive the protection authorized by section 3056 of title 18, United States Code, or Public Law 90–331 (82 Stat. 170) \[set out as a note above\];
+
+&emsp;“(4) ‘Executive departments’ has the same meaning as provided in section 101 of title 5, United States Code;
+
+&emsp;“(5) ‘Executive agencies’ has the same meaning as provided in section 105 of title 5, United States Code;
+
+&emsp;“(6) ‘Coast Guard’ means the United States Coast Guard, Department of Transportation or such other Executive department or Executive agency to which the United States Coast Guard may subsequently be transferred;
+
+&emsp;“(7) ‘duties’ means all responsibilities of an Executive department or Executive agency relating to the protection of any protectee; and
+
+&emsp;“(8) ‘non-Governmental property’ means any property owned, leased, occupied, or otherwise utilized by a protectee which is not owned or controlled by the Government of the United States of America.
+
+“
+
+Sec. 3. (a) Each protectee may designate one non-governmental property to be fully secured by the Secret Service on a permanent basis.
+
+“(b) A protectee may thereafter designate a different non-Governmental property in lieu of the non-Governmental property previously designated under subsection (a) (hereinafter in this Act referred to as the ‘previously designated property’) as the one non-Governmental property to be fully secured by the Secret Service on a permanent basis under subsection (a). Thereafter, any expenditures by the Secret Service to maintain a permanent guard detail or for permanent facilities, equipment, and services to secure the non-Governmental property previously designated under subsection (a) shall be subject to the limitations imposed under section 4.
+
+“(c) For the purposes of this section, where two or more protectees share the same domicile, such protectees shall be deemed a single protectee.
+
+“
+
+Sec. 4. Expenditures by the Secret Service for maintaining a permanent guard detail and for permanent facilities, equipment, and services to secure any non-Governmental property in addition to the one non-Governmental property designated by each protectee under subsection 3(a) or 3(b) may not exceed a cumulative total of $75,000 at each such additional non-Governmental property, unless expenditures in excess of that amount are specifically approved by resolutions adopted by the Committees on Appropriations of the House and Senate, respectively.
+
+“
+
+Sec. 5. (a) All improvements and other items acquired by the Federal Government and used for the purpose of securing any non-Governmental property in the performance of the duties of the Secret Service shall be the property of the United States.
+
+“(b) Upon termination of Secret Service protection at any non-Governmental property all such improvements and other items shall be removed from the non-Governmental property unless the Director determines that it would not be economically feasible to do so; except that such improvements and other items shall be removed and the non-Governmental property shall be restored to its original state if the owner of such property at the time of termination requests the removal of such improvements or other items. If any such improvements or other items are not removed, the owner of the non-Governmental property at the time of termination shall compensate the United States for the original cost of such improvements or other items or for the amount by which they have increased the fair market value of the property, as determined by the Comptroller General of the United States, as of the date of termination, whichever is less.
+
+“(c) In the event that any non-Governmental property becomes a previously designated property and Secret Service protection at that property has not been terminated, all such improvements and other items which the Director determines are not necessary to secure the previously designated property within the limitations imposed under section 4 shall be removed or compensated for in accordance with the procedures set forth under Subsection (b) of this section.
+
+“
+
+Sec. 6. Executive departments and Executive agencies shall assist the Secret Service in the performance of its duties by providing services, equipment, and facilities on a temporary and reimbursable basis when requested by the Director and on a permanent and reimbursable basis upon advance written request of the Director; except that the Department of Defense and the Coast Guard shall provide such assistance on a temporary basis without reimbursement when assisting the Secret Service in its duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President.
+
+“
+
+Sec. 7. No services, equipment, or facilities may be ordered, purchased, leased, or otherwise procured for the purposes of carrying out the duties of the Secret Service by persons other than officers or employees of the Federal Government duly authorized by the Director to make such orders, purchases, leases, or procurements.
+
+“
+
+Sec. 8. No funds may be expended or obligated for the purpose of carrying out the purposes of section 3056 of title 18, United States Code, and section 1 of Public Law 90–331 \[set out as a note above\] other than funds specifically appropriated to the Secret Service for those purposes with the exception of—
+
+&emsp;“(1) expenditures made by the Department of Defense or the Coast Guard from funds appropriated to the Department of Defense or the Coast Guard in providing assistance on a temporary basis to the Secret Service in the performance of its duties directly related to the protection of the President or the Vice President or other officer next in order of succession to the office of the President; and
+
+&emsp;“(2) expenditures made by Executive departments and agencies, in providing assistance at the request of the Secret Service in the performance of its duties, and which will be reimbursed by the Secret Service under section 6 of this Act.
+
+“
+
+Sec. 9. The Director, the Secretary of Defense, and the Commandant of the Coast Guard shall each transmit a detailed semi-annual report of expenditures made pursuant to this Act during the six-month period immediately preceding such report by the Secret Service, the Department of Defense, and the Coast Guard, respectively, to the Committees on Appropriations, Committees on the Judiciary, and Committees on Government Operations \[now Committee on Government Reform and Oversight of the House of Representatives and Committee on Government Affairs of the Senate\] of the House of Representatives and the Senate, respectively, on March 31 and September 30, of each year.
+
+“
+
+Sec. 10. Expenditures made pursuant to this Act shall be subject to audit by the Comptroller General and his authorized representatives, who shall have access to all records relating to such expenditures. The Comptroller General shall transmit a report of the results of any such audit to the Committees on Appropriations, Committees on the Judiciary, and Committees on Government Operations \[now Committee on Government Reform and Oversight of the House of Representatives and Committee on Government Affairs of the Senate\] of the House of Representatives and the Senate, respectively.
+
+“
+
+Sec. 11. Section 2 of Public Law 90–331 (82 Stat. 170) \[formerly set out as a note below\] is repealed.
+
+“
+
+Sec. 12. In carrying out the protection of the President of the United States, pursuant to section 3056(a) of title 18, at the one non-governmental property designated by the President of the United States to be fully secured by the United States Secret Service on a permanent basis, as provided in section 3.(a) of Public Law 94–524 \[section 3(a) of this note\], or at an airport facility used for travel en route to or from such property\[,\] the Secretary of the Treasury may utilize, with their consent, the law enforcement services, personnel, equipment, and facilities of the affected State and local governments. Further, the Secretary of the Treasury is authorized to reimburse such State and local governments for the utilization of such services, personnel, equipment, and facilities. All claims for such reimbursement by the affected governments will be submitted to the Secretary of the Treasury on a quarterly basis. Expenditures for this reimbursement are authorized not to exceed $300,000 at the one nongovernmental property, and $70,000 at the airport facility, in any one fiscal year: <i>Provided</i>, That the designated site is located in a municipality or political subdivision of any State where the permanent resident population is 7,000 or less and where the absence of such Federal assistance would place an undue economic burden on the affected State and local governments: <i>Provided further</i>, That the airport facility is wholly or partially located in a municipality or political subdivison \[sic\] of any State where the permanent resident population is 7,000 or less, the airport is located within 25 nautical miles of the designated nongovernmental property, and where the absence of such Federal assistance would place an undue economic burden on the affected State and local governments.”
+
+#### Major Presidential or Vice Presidential Candidates and Spouses; Personal Protection
+
+Pub. L. 90–331, June 6, 1968, 82 Stat. 170, as amended by Pub. L. 94–408, §1, Sept. 11, 1976, 90 Stat. 1239; Pub. L. 94–524, §11, Oct. 17, 1976, 90 Stat. 2477; Pub. L. 96–329, Aug. 11, 1980, 94 Stat. 1029, which had provided for personal protection of major presidential or vice presidential candidates and had authorized protection of spouses commencing not more than 120 days before the general Presidential election, and appropriated for fiscal year ending June 30, 1968, $400,000 for execution of such provisions, was repealed by Pub. L. 98–587, §2, Oct. 30, 1984, 98 Stat. 3111. See subsec. (a)(7) of this section.
+
+#### Extension of Protection of President's Widow and Children
+
+Pub. L. 90–145, Nov. 17, 1967, 81 Stat. 466, extended until Mar. 1, 1969, the authority vested in the United States Secret Service by section 3056 of this title, as it existed prior to the amendment in 1968 by Pub. L. 90–608, to protect the widow and minor children of a former President who were receiving such protection on Nov. 17, 1967.
+
+#### Applicability of Reorg. Plan No. 26 of 1950
+
+Section 5 of Pub. L. 91–651 provided that: “Section 3056 of title 18, United States Code, as amended by section 4 of this Act, shall be subject to Reorganization Plan Numbered 26 of 1950 (64 Stat. 1280) \[set out in the Appendix to Title 5, Government Organization and Employees\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 351, 879, 1752, 4247 of this title; title 5 section 552a; title 12 section 3414; title 22 sections 2709, 4304; title 31 sections 1344, 1537.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

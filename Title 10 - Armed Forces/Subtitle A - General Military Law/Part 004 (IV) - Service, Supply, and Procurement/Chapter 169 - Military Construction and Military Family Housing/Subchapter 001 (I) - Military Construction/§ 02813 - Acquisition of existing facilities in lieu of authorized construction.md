@@ -1,0 +1,34 @@
+### §2813. Acquisition of existing facilities in lieu of authorized construction
+
+(a)
+
+Acquisition Authority.—Using funds appropriated for a military construction project authorized by law for a military installation, the Secretary of the military department concerned may acquire an existing facility (including the real property on which the facility is located) at or near the military installation instead of carrying out the authorized military construction project if the Secretary determines that—
+
+&emsp;(1) the acquisition of the facility satisfies the requirements of the military department concerned for the authorized military construction project; and
+
+&emsp;(2) it is in the best interests of the United States to acquire the facility instead of carrying out the authorized military construction project.
+
+(b)
+
+Modification or Conversion of Acquired Facility.—(1) As part of the acquisition of an existing facility under subsection (a), the Secretary of the military department concerned may carry out such modifications, repairs, or conversions of the facility as the Secretary considers to be necessary so that the facility satisfies the requirements for which the military construction project was authorized.
+
+(2) The costs of anticipated modifications, repairs, or conversions under paragraph (1) are required to remain within the authorized amount of the military construction project. The Secretary concerned shall consider such costs in determining whether the acquisition of an existing facility is—
+
+&emsp;(A) more cost effective than carrying out the authorized military construction project; and
+
+&emsp;(B) in the best interests of the United States.
+
+(c)
+
+Notice and Wait Requirements.—A contract may not be entered into for the acquisition of a facility under subsection (a) until the end of the 30-day period beginning on the date the Secretary concerned transmits to the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives a written notification of the determination to acquire an existing facility instead of carrying out the authorized military construction project. The notification shall include the reasons for acquiring the facility.
+
+(Added Pub. L. 103–160, div. B, title XXVIII, §2805(a)(1), Nov. 30, 1993, 107 Stat. 1886.)
+
+#### Change of Name
+
+Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Effective Date
+
+Section 2805(b) of Pub. L. 103–160 provided that: “Section 2813 of title 10, United States Code, as added by subsection (a), shall apply with respect to military construction projects authorized on or after the date of the enactment of this Act \[Nov. 30, 1993\].”
+

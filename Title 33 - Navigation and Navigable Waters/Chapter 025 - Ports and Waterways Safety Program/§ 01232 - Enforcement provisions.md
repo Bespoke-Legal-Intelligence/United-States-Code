@@ -1,0 +1,50 @@
+### §1232. Enforcement provisions
+
+#### (a) Civil penalty
+
+(1) Any person who is found by the Secretary, after notice and an opportunity for a hearing, tohave violated this chapter or a regulation issued hereunder shall be liable to the United States for a civil penalty, not to exceed $25,000 for each violation. Each day of a continuing violation shall constitute a separate violation. The amount of such civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
+
+(2) The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section.
+
+(3) If any person fails to pay an assessment of a civil penalty after it has become final, the Secretary may refer the matter to the Attorney General of the United States, for collection in any appropriate district court of the United States.
+
+#### (b) Criminal penalty
+
+(1) Any person who willfully and knowingly violates this chapter or any regulation issued hereunder commits a class D felony.
+
+(2) Any person who, in the willfull <sup>1</sup> and knowing violation of this chapter or of any regulation issued hereunder, uses a dangerous weapon, or engages in conduct that causes bodily injury or fear of imminent bodily injury to any officer authorized to enforce the provisions of this chapter or the regulations issued hereunder, commits a class C felony.
+
+#### (c) In rem liability
+
+Any vessel subject to the provisions of this chapter, which is used in violation of this chapter, or any regulations issued hereunder, shall be liable in rem for any civil penalty assessed pursuant to subsection (a) of this section and may be proceeded against in the United States district court for any district in which such vessel may be found.
+
+#### (d) Injunction
+
+The United States district courts shall have jurisdiction to restrain violations of this chapter or of regulations issued hereunder, for cause shown.
+
+#### (e) Denial of entry
+
+Except as provided in section 1228 of this title, the Secretary may, subject to recognized principles of international law, deny entry into the navigable waters of the United States to any port or place under the jurisdiction of the United States or to any vessel not in compliance with the provisions of this chapter or the regulations issued hereunder.
+
+#### (f) Withholding of clearance
+
+The Secretary of the Treasury shall withhold or revoke, at the request of the Secretary, the clearance, required by section 91 of title 46, Appendix, of any vessel, the owner or operator of which is subject to any of the penalties in this section. Clearance may be granted in such cases upon the filing of a bond or other surety satisfactory to the Secretary.
+
+(Pub. L. 92–340, §13, as added Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1478; amended Pub. L. 101–380, title IV, §4302(j), Aug. 18, 1990, 104 Stat. 539.)
+
+#### Amendments
+
+1990—Subsec. (b)(1). Pub. L. 101–380, §4302(j)(1), substituted “commits a class D felony” for “shall be fined not more than $50,000 for each violation or imprisoned for not more than five years, or both”.
+
+Subsec. (b)(2). Pub. L. 101–380, §4302(j)(2), which directed the substitution of “commits a class C felony.” for “shall, in lieu of the penalties prescribed in paragraph (1), be fined not more than $100,000, or imprisoned for not more than 10 years, or both.”, was executed by making the substitution for “shall, in lieu of the penalties prescribed in paragraph (1), be fined not more than $100,000, or imprisoned for not more than ten years, or both.”
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1911 of this title; title 14 section 91.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “willful”.</i>
+

@@ -1,0 +1,70 @@
+### §7833. Fellowships for Indian students
+
+#### (a) Fellowships
+
+#### (1) Authority
+
+&emsp;The Secretary is authorized to award fellowships to Indian students to enable such students to study in graduate and professional programs at institutions of higher education.
+
+#### (2) Requirements
+
+&emsp;The fellowships described in paragraph (1) shall be awarded to Indian students to enable such students to pursue a course of study—
+
+&emsp;&emsp;(A) of not more than 4 academic years; and
+
+&emsp;&emsp;(B) that leads—
+
+&emsp;&emsp;&emsp;(i) toward a postbaccalaureate degree in medicine, clinical psychology, psychology, law, education, and related fields; or
+
+&emsp;&emsp;&emsp;(ii) to an undergraduate or graduate degree in engineering, business administration, natural resources, and related fields.
+
+#### (b) Stipends
+
+The Secretary shall pay to Indian students awarded fellowships under subsection (a) of this section such stipends (including allowances for subsistence of such students and dependents of such students) as the Secretary determines to be consistent with prevailing practices under comparable federally supported programs.
+
+#### (c) Payments to institutions in lieu of tuition
+
+The Secretary shall pay to the institution of higher education at which a fellowship recipient is pursuing a course of study, in lieu of tuition charged such recipient, such amounts as the Secretary may determine to be necessary to cover the cost of education provided such recipient.
+
+#### (d) Special rules
+
+#### (1) In general
+
+&emsp;If a fellowship awarded under subsection (a) of this section is vacated prior to the end of the period for which the fellowship is awarded, the Secretary may award an additional fellowship for the unexpired portion of the period of the fellowship.
+
+#### (2) Written notice
+
+&emsp;Not later than 45 days before the commencement of an academic term, the Secretary shall provide to each individual who is awarded a fellowship under subsection (a) of this section for such academic term written notice of—
+
+&emsp;&emsp;(A) the amount of the fellowship; and
+
+&emsp;&emsp;(B) any stipends or other payments that will be made under this section to, or for the benefit of, the individual for the academic term.
+
+#### (3) Priority
+
+&emsp;Not more than 10 percent of the fellowships awarded under subsection (a) of this section shall be awarded, on a priority basis, to persons receiving training in guidance counseling with a speciality in the area of alcohol and substance abuse counseling and education.
+
+#### (e) Service obligation
+
+#### (1) In general
+
+&emsp;The Secretary shall require, by regulation, that an individual who receives financial assistance under this section—
+
+&emsp;&emsp;(A) perform work—
+
+&emsp;&emsp;&emsp;(i) related to the training for which the individual receives assistance under this section; and
+
+&emsp;&emsp;&emsp;(ii) that benefits Indian people; or
+
+&emsp;&emsp;(B) repay all or a prorated portion of such assistance.
+
+#### (2) Reporting procedure
+
+&emsp;The Secretary shall establish, by regulation, a reporting procedure under which the recipient of training assistance under this section, not later than 12 months after the date of completion of the training and periodically thereafter, shall provide information concerning the compliance of such recipient with the work requirement under paragraph (1).
+
+#### (f) Administration of fellowships
+
+The Secretary may administer the fellowships authorized under this section through a grant to, or contract or cooperative agreement with, an Indian organization with demonstrated qualifications to administer all facets of the program assisted under this section.
+
+(Pub. L. 89 10, title IX, §9123, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3786.)
+

@@ -1,0 +1,34 @@
+### §8254. Establishment and use of life cycle cost methods and procedures
+
+#### (a) Establishment of life cycle cost methods and procedures
+
+The Secretary, in consultation with the Director of the Office of Management and Budget, the Secretary of Defense, the Director of the National Institute of Standards and Technology, and the Administrator of the General Services Administration, shall—
+
+&emsp;(1) establish practical and effective present value methods for estimating and comparing life cycle costs for Federal buildings, using the sum of all capital and operating expenses associated with the energy system of the building involved over the expected life of such system or during a period of 25 years, whichever is shorter, and using average fuel costs and a discount rate determined by the Secretary; and
+
+&emsp;(2) develop and prescribe the procedures to be followed in applying and implementing the methods so established.
+
+#### (b) Use of life cycle cost methods and procedures
+
+(1) The design of new Federal buildings, and the application of energy conservation measures to existing Federal buildings, shall be madeusing life cycle cost methods and procedures established under subsection (a) of this section.
+
+(2) In leasing buildings for its own use or that of another agency, each agency shall, after January 1, 1994, fully consider the efficiency of all potential building space at the time of renewing or entering into a new lease.
+
+#### (c) Use in non-Federal structures
+
+The Secretary shall make available information to the public on the use of life cycle cost methods in the construction of buildings, structures, and facilities in all segments of the economy.
+
+(Pub. L. 95–619, title V, §544, Nov. 9, 1978, 92 Stat. 3277; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3186; Pub. L. 102–486, title I, §152(d), Oct. 24, 1992, 106 Stat. 2845.)
+
+#### Amendments
+
+1992—Subsec. (a). Pub. L. 102–486, §152(d)(1), substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+
+Subsec. (b)(2). Pub. L. 102–486, §152(d)(2), substituted “agency shall, after January 1, 1994, fully consider the efficiency of all potential building space at the time of renewing or entering into a new lease.” for “agency shall give appropriate preference to buildings which minimize life cycle costs.”
+
+1988—Pub. L. 100–615 amended section generally, substituting provisions relating to establishment and use of life cycle cost methods and procedures for provisions defining terms (1) Secretary, (2) life cycle cost, (3) preliminary energy audit, (4) energy survey, (5) Federal building, (6) construction, and (7) energy performance target.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 8253, 8258b, 8262g, 8262j of this title; title 10 sections 2394a, 2857.
+

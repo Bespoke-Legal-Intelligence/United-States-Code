@@ -1,0 +1,20 @@
+### §2296b–6. Regulatory treatment of uranium purchases
+
+#### (a) Encouragement
+
+The Secretary shall encourage States and utility regulatory authorities to take into consideration the achievement of the objectives and purposes of this part, including the national need to avoid dependence on imports, when considering whether to allow the owner or operator of any electric power plant to recover in its rates and charges to customers any cost of purchase of domestic uranium, enriched uranium, or enrichment services from a non-affiliated seller greater than the cost of non-domestic uranium, enriched uranium or enrichment services.
+
+#### (b) Report
+
+Within 1 year after October 24, 1992, and annually thereafter, the Secretary shall report to the Congress on the progress of the Secretary in encouraging actions by State regulatory authorities pursuant to subsection (a) of this section. Such report shall include detailed information on programs initiated by the Secretary to encourage appropriate State regulatory action and recommendations, if any, on further action that could be taken by the Secretary, other Federal agencies, or the Congress in order to further the purposes of this part.
+
+#### (c) Savings provision
+
+This section may not be construed to authorize the Secretary to take any action in violation of the General Agreement on Tariffs and Trade or the United States-Canada Free Trade Agreement.
+
+(Pub. L. 102–486, title X, §1017, Oct. 24, 1992, 106 Stat. 2950.)
+
+#### Codification
+
+Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+

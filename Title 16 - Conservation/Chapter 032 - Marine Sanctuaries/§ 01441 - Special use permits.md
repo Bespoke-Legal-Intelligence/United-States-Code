@@ -1,0 +1,66 @@
+### §1441. Special use permits
+
+#### (a) Issuance of permits
+
+The Secretary may issue special use permits which authorize the conduct of specific activities in a national marine sanctuary if the Secretary determines such authorization is necessary—
+
+&emsp;(1) to establish conditions of access to and use of any sanctuary resource; or
+
+&emsp;(2) to promote public use and understanding of a sanctuary resource.
+
+#### (b) Permit terms
+
+A permit issued under this section—
+
+&emsp;(1) shall authorize the conduct of an activity only if that activity is compatible with the purposes for which the sanctuary is designated and with protection of sanctuary resources;
+
+&emsp;(2) shall not authorize the conduct of any activity for a period of more than 5 years unless renewed by the Secretary;
+
+&emsp;(3) shall require that activities carried out under the permit be conducted in a manner that does not destroy, cause the loss of, or injure sanctuary resources; and
+
+&emsp;(4) shall require the permittee to purchase and maintain comprehensive general liability insurance against claims arising out of activities conducted under the permit and to agree to hold the United States harmless against such claims.
+
+#### (c) Fees
+
+#### (1) Assessment and collection
+
+&emsp;The Secretary may assess and collect fees for the conduct of any activity under a permit issued under this section.
+
+#### (2) Amount
+
+&emsp;The amount of a fee under this subsection shall be equal to the sum of—
+
+&emsp;&emsp;(A) costs incurred, or expected to be incurred, by the Secretary in issuing the permit;
+
+&emsp;&emsp;(B) costs incurred, or expected to be incurred, by the Secretary as a direct result of the conduct of the activity for which the permit is issued, including costs of monitoring the conduct of the activity; and
+
+&emsp;&emsp;(C) an amount which represents the fair market value of the use of the sanctuary resource and a reasonable return to the United States Government.
+
+#### (3) Use of fees
+
+&emsp;Amounts collected by the Secretary in the form of fees under this section may be used by the Secretary—
+
+&emsp;&emsp;(A) for issuing and administering permits under this section; and
+
+&emsp;&emsp;(B) for expenses of designating and managing national marine sanctuaries.
+
+#### (d) Violations
+
+Upon violation of a term or condition of a permit issued under this section, the Secretary may—
+
+&emsp;(1) suspend or revoke the permit without compensation to the permittee and without liability to the United States;
+
+&emsp;(2) assess a civil penalty in accordance with section 1437 of this title; or
+
+&emsp;(3) both.
+
+#### (e) Reports
+
+Each person issued a permit under this section shall submit an annual report to the Secretary not later than December 31 of each year which describes activities conducted under that permit and revenues derived from such activities during the year.
+
+#### (f) Fishing
+
+Nothing in this section shall be considered to require a person to obtain a permit under this section for the conduct of any fishing activities in a national marine sanctuary.
+
+(Pub. L. 92–532, title III, §310, as added Pub. L. 100–627, title II, §203(3), Nov. 7, 1988, 102 Stat. 3214.)
+

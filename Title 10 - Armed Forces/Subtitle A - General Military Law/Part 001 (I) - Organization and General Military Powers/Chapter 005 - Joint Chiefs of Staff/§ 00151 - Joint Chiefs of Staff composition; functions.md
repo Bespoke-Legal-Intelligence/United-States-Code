@@ -1,0 +1,92 @@
+### §151 . Joint Chiefs of Staff: composition; functions
+
+(a)
+
+Composition.—There are in the Department of Defense the Joint Chiefs of Staff, headed by the Chairman of the Joint Chiefs of Staff. The Joint Chiefs of Staff consist of the following:
+
+&emsp;(1) The Chairman.
+
+&emsp;(2) The Vice Chairman.
+
+&emsp;(3) The Chief of Staff of the Army.
+
+&emsp;(4) The Chief of Naval Operations.
+
+&emsp;(5) The Chief of Staff of the Air Force.
+
+&emsp;(6) The Commandant of the Marine Corps.
+
+(b)
+
+Function as Military Advisers.—The Chairman of the Joint Chiefs of Staff is the principal military adviser to the President, the National Security Council, and the Secretary of Defense.
+
+(2) The other members of the Joint Chiefs of Staff are military advisers to the President, the National Security Council, and the Secretary of Defense as specified in subsections (d) and (e).
+
+(c)
+
+Consultation by Chairman.—(1) In carrying out his functions, duties, and responsibilities, the Chairman shall, as he considers appropriate, consult with and seek the advice of—
+
+&emsp;(A) the other members of the Joint Chiefs of Staff; and
+
+&emsp;(B) the commanders of the unified and specified combatant commands.
+
+(2) Subject to subsection (d), in presenting advice with respect to any matter to the President, the National Security Council, or the Secretary of Defense, the Chairman shall, as he considers appropriate, inform the President, the National Security Council, or the Secretary of Defense, as the case may be, of the range of military advice and opinion with respect to that matter.
+
+(d)
+
+Advice and Opinions of Members Other Than Chairman.—(1) A member of the Joint Chiefs of Staff (other than the Chairman) may submit to the Chairman advice or an opinion in disagreement with, or advice or an opinion in addition to, the advice presented by the Chairman to the President, the National Security Council, or the Secretary of Defense. If a member submits such advice or opinion, the Chairman shall present the advice or opinion of such member at the same time he presents his own advice to the President, the National Security Council, or the Secretary of Defense, as the case may be.
+
+(2) The Chairman shall establish procedures to ensure that the presentation of his own advice to the President, the National Security Council, or the Secretary of Defense is not unduly delayed by reason of the submission of the individual advice or opinion of another member of the Joint Chiefs of Staff.
+
+(e)
+
+Advice on Request.—The members of the Joint Chiefs of Staff, individually or collectively, in their capacity as military advisers, shall provide advice to the President, the National Security Council, or the Secretary of Defense on a particular matter when the President, the National Security Council, or the Secretary requests such advice.
+
+(f)
+
+Recommendations to Congress.—After first informing the Secretary of Defense, a member of the Joint Chiefs of Staff may make such recommendations to Congress relating to the Department of Defense as he considers appropriate.
+
+(g)
+
+Meetings of JCS.—(1) The Chairman shall convene regular meetings of the Joint Chiefs of Staff.
+
+(2) Subject to the authority, direction, and control of the President and the Secretary of Defense, the Chairman shall—
+
+&emsp;(A) preside over the Joint Chiefs of Staff;
+
+&emsp;(B) provide agenda for the meetings of the Joint Chiefs of Staff (including, as the Chairman considers appropriate, any subject for the agenda recommended by any other member of the Joint Chiefs of Staff);
+
+&emsp;(C) assist the Joint Chiefs of Staff in carrying on their business as promptly as practicable; and
+
+&emsp;(D) determine when issues under consideration by the Joint Chiefs of Staff shall be decided.
+
+(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1005; amended Pub. L. 102–484, div. A, title IX, §911(a), Oct. 23, 1992, 106 Stat. 2473.)
+
+#### Amendments
+
+1992—Subsec. (a)(2) to (6). Pub. L. 102–484 added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
+
+#### Cross References
+
+Chief of Naval Operations, generally, see section 5031 et seq. of this title.
+
+Chief of Staff of the Army or Air Force, appointment and duties, see sections 3033, 8033 of this title.
+
+Commandant of the Marine Corps, appointment, term and emoluments, see section 5043 of this title.
+
+Detail or assignment of officers to Office of the Secretary of Defense, see section 131 of this title.
+
+National Security Council, establishment and functions, see section 402 of Title 50, War and National Defense.
+
+Selection of Director of the Joint Staff, see section 155 of this title.
+
+United Nations Organization—
+
+&emsp;&emsp;Personal money allowance of officers serving as members of Military Staff Committee, see section 414 of Title 37, Pay and Allowances of the Uniformed Services.
+
+&emsp;&emsp;Representation, see section 287 of Title 22, Foreign Relations and Intercourse.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3033, 5033, 5043, 8033 of this title.
+

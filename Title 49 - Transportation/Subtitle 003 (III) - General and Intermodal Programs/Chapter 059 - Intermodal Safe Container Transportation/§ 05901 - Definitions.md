@@ -1,0 +1,68 @@
+### §5901. Definitions
+
+In this chapter—
+
+&emsp;(1) the definitions in section 10102 of this title apply.
+
+&emsp;(2) “beneficial owner” means a person not having title to property but having ownership rights in the property, including a trustee of property in transit from an overseas place of origin that is domiciled or doing business in the United States, except that a carrier, agent of a carrier, broker, customs broker, freight forwarder, warehouser, or terminal operator is not a beneficial owner only because of providing or arranging for any part of the intermodal transportation of property.
+
+&emsp;(3) “carrier” means—
+
+&emsp;&emsp;(A) a motor carrier, water carrier, and rail carrier providing transportation of property in commerce; and
+
+&emsp;&emsp;(B) an ocean common carrier (as defined in section 3 of the Shipping Act of 1984 (46 App. U.S.C. 1702)) providing transportation of property in commerce.
+
+&emsp;(4) “container” has the meaning given the term “freight container” by the International Standards Organization in Series 1, Freight Containers, 3d Edition (reference number ISO668–1979(E)), including successive revisions, and similar containers that are used in providing transportation in interstate commerce.
+
+&emsp;(5) “first carrier” means the first carrier transporting a loaded container or trailer in intermodal transportation.
+
+&emsp;(6) “intermodal transportation” means the successive transportation of a loaded container or trailer from its place of origin to its place of destination by more than one mode of transportation in interstate or foreign commerce, whether under a single bill of lading or under separate bills of lading.
+
+&emsp;(7) “trailer” means a nonpower, property-carrying, trailing unit that is designed for use in combination with a truck tractor.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 859.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+5901(1)
+
+49:501(a)(1).
+
+5901(2)
+
+49:501(a)(4).
+
+5901(3)
+
+49:501(a)(5).
+
+5901(4)
+
+49:501(a)(6).
+
+5901(5)
+
+49:501(a)(7).
+
+5901(6)
+
+49:501(a)(8).
+
+5901(7)
+
+49:501(a)(9).
+
+This chapter restates 49:508 and the relevant definitions in 49:501 because the subject matter more appropriately belongs in subtitle III of title 49. The text of 49:501(a)(1) is restated to incorporate the definitions in 49:10102. The terms defined in 49:501(a)(2) and (3) are not used in this chapter.
+
+In clause (2), the word “including” is substituted for “For purposes of this paragraph . . . shall be treated as a beneficial owner of such property” for consistency and to eliminate unnecessary words. The words “is not a beneficial owner only because of providing or arranging for any part of the intermodal transportation of property” are substituted for “providing or arranging for any portion of intermodal transportation of property shall in no case be a beneficial owner of such property, for purposes of this paragraph, solely by reason of providing or arranging for such transportation” to eliminate unnecessary words.
+
+In clause (3)(A), the words “(as such terms are defined in section 10102 of this title)” are omitted as unnecessary because of clause (1) of this section.
+
+In clause (7), the words “property-carrying” are substituted for “cargo carrying” for consistency in the revised title.
+

@@ -1,0 +1,22 @@
+### §2266. Definitions
+
+In this chapter—
+
+&emsp;“bodily injury” means any act, except one done in self-defense, that results in physical injury or sexual abuse.
+
+&emsp;“Indian country” has the meaning stated in section 1151.
+
+&emsp;“protection order” includes any injunction or other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including temporary and final orders issued by civil and criminal courts (other than support or child custody orders) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition or motion filed by or on behalf of a person seeking protection.
+
+&emsp;“spouse or intimate partner” includes—
+
+&emsp;&emsp;(A) a spouse, a former spouse, a person who shares a child in common with the abuser, and a person who cohabits or has cohabited with the abuser as a spouse; and
+
+&emsp;&emsp;(B) any other person similarly situated to a spouse who is protected by the domestic or family violence laws of the State in which the injury occurred or where the victim resides.
+
+&emsp;“State” includes a State of the United States, the District of Columbia, a commonwealth, territory, or possession of the United States.
+
+&emsp;“travel across State lines” does not include travel across State lines by an individual who is a member of an Indian tribe when such individual remains at all times in the territory of the Indian tribe of which the individual is a member.
+
+(Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1931.)
+

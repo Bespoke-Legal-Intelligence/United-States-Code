@@ -1,0 +1,22 @@
+### §274f. Study by General Accounting Office
+
+#### (a) In general
+
+The Comptroller General of the United States shall conduct a study for the purpose of determining—
+
+&emsp;(1) the extent to which the procurement and allocation of organs have been equitable, efficient, and effective;
+
+&emsp;(2) the problems encountered in the procurement and allocation; and
+
+&emsp;(3) the effect of State required-request laws.
+
+#### (b) Report
+
+Not later than January 7, 1992, the Comptroller General of the United States shall complete the study required in subsection (a) of this section and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the findings made as a result of the study.
+
+(July 1, 1944, ch. 373, title III, §377, as added Nov. 16, 1990, Pub. L. 101–616, title II, §206(a), 104 Stat. 3285.)
+
+#### Change of Name
+
+Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+

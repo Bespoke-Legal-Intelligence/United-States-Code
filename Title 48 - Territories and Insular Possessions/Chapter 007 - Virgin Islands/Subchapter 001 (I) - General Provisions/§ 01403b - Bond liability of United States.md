@@ -1,0 +1,10 @@
+### §1403b. Bond liability of United States
+
+Bonds or other obligations issued pursuant to sections 1403 to 1403b of this title shall not be a debt of the United States, nor shall the United States be liable thereon.
+
+(Oct. 27, 1949, ch. 769, §3, 63 Stat. 941.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1403, 1408a of this title.
+

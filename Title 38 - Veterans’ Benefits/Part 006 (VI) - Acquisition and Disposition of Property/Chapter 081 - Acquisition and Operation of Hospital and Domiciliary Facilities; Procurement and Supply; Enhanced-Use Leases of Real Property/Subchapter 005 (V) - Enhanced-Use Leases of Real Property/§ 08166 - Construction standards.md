@@ -1,0 +1,8 @@
+### §8166. Construction standards
+
+(a) Unless the Secretary provides otherwise, the construction, alteration, repair, remodeling, or improvement of the property that is the subject of the lease shall be carried out so as to comply with all standards applicable to construction of Federal buildings. Any such construction, alteration, repair, remodeling, or improvement shall not be subject to any State or local law relating to building codes, permits, or inspections unless the Secretary provides otherwise.
+
+(b) Unless the Secretary has provided that Federal construction standards are not applicable to a property, the Secretary shall conduct periodic inspections of any such construction, alteration, repair, remodeling, or improvement for the purpose of ensuring that the standards are met.
+
+(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 421.)
+

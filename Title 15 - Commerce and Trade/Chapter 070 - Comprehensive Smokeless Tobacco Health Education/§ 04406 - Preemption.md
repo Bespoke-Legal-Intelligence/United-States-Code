@@ -1,0 +1,16 @@
+### §4406. Preemption
+
+#### (a) Federal action
+
+No statement relating to the use of smokeless tobacco products and health, other than the statements required by section 4402 of this title, shall be required by any Federal agency to appear on any package or in any advertisement (unless the advertisement is an outdoor billboard advertisement) of a smokeless tobacco product.
+
+#### (b) State and local action
+
+No statement relating to the use of smokeless tobacco products and health, other than the statements required by section 4402 of this title, shall be required by any State or local statute or regulation to be included on any package or in any advertisement (unless the advertisement is an outdoor billboard advertisement) of a smokeless tobacco product.
+
+#### (c) Effect on liability law
+
+Nothing in this chapter shall relieve any person from liability at common law or under State statutory law to any other person.
+
+(Pub. L. 99 252, §7, Feb. 27, 1986, 100 Stat. 34.)
+

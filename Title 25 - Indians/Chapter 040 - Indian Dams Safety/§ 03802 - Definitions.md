@@ -1,0 +1,18 @@
+### §3802. Definitions
+
+As used in this chapter:
+
+&emsp;(1) The term “Bureau” means the Bureau of Indian Affairs.
+
+&emsp;(2) The term “dam” has the same meaning given such term by section 467 of title 33.
+
+&emsp;(3) The term “Secretary” means the Secretary of the Interior.
+
+&emsp;(4) The term “Indian tribe” means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or regional corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], which is recognized as eligible for the special programs and services provided by the United States to Indian tribes because of their status as Indians.
+
+(Pub. L. 103–302, §3, Aug. 23, 1994, 108 Stat. 1560.)
+
+#### References in Text
+
+The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+

@@ -1,0 +1,18 @@
+### §5048. Joint funding; single non-Federal share requirement; grant or contract requirement waiver
+
+Pursuant to regulations prescribed by the President, and to the extent consistent with the other provisions of this chapter, where funds are provided for a single project by more than one Federal agency to an agency or organization assisted under this chapter, the Federal agency principally involved may be designated to act for all in administering the funds provided, and, notwithstanding any other provision of law, in such cases, a single non-Federal share requirement may be established according to the proportion of funds advanced by each agency. When the principal agency involved is the Corporation, it may waive any grant or contract requirement (as defined by such regulations) under or pursuant to any law other than this chapter, which requirement is inconsistent with the similar requirements under or pursuant to this chapter.
+
+(Pub. L. 93–113, title IV, §408, Oct. 1, 1973, 87 Stat. 410; Pub. L. 103–82, title IV, §405(a)(8), Sept. 21, 1993, 107 Stat. 920.)
+
+#### Amendments
+
+1993—Pub. L. 103–82 substituted “the Corporation” for “the ACTION Agency”.
+
+#### Effective Date of 1993 Amendment
+
+Amendment by Pub. L. 103–82 effective 18 months after Sept. 21, 1993, or on such earlier date as the President shall determine to be appropriate and announce by proclamation published in the Federal Register, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
+
+#### Delegation of Functions
+
+Authority of President under this section delegated to Director of Office of Management and Budget, see section 1 of Ex. Ord. No. 11893, eff. Dec. 31, 1975, 41 F.R. 1040, set out as a note under section 7103 of Title 31, Money and Finance.
+

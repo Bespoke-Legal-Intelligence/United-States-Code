@@ -1,0 +1,48 @@
+### §2853. Authorized cost variations
+
+(a) Except as provided in subsection (c) or (d), the cost authorized for a military construction project or for the construction, improvement, and acquisition of a military family housing project may be increased by not more than 25 percent of the amount appropriated for such project or 200 percent of the minor construction project ceiling specified in section 2805(a)(1), whichever is less, if the Secretary concerned determines that such an increase in cost is required for the sole purpose of meeting unusual variations in cost and that such variations in cost could not have reasonably been anticipated at the time the project was approved originally by Congress.
+
+(b) Except as provided in subsection (c), the scope of work for a military construction project or for the construction, improvement, and acquisition of a military family housing project may be reduced by not more than 25 percent from the amount approved for that project, construction, improvement, or acquisition by Congress.
+
+(c) The limitation on cost increase in subsection (a) or the limitation on scope reduction in subsection (b) does not apply if—
+
+&emsp;(1) the increase in cost or reduction in scope is approved by the Secretary concerned;
+
+&emsp;(2) the Secretary concerned notifies the appropriate committees of Congress in writing of the increase or reduction and the reasons therefor; and
+
+&emsp;(3) a period of 21 days has elapsed after the date on which the notification is received by the committees.
+
+(d) The limitation on cost increases in subsection (a) does not apply to a within-scope modification to a contract or to the settlement of a contractor claim under a contract if the increase in cost is approved by the Secretary concerned, and the Secretary concerned promptly submits written notification of the facts relating to the proposed increase in cost to the appropriate committees of Congress.
+
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 98–407, title VIII, §807, Aug. 28, 1984, 98 Stat. 1521; Pub. L. 100–26, §7(f)(2), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2312, 2313, Dec. 4, 1987, 101 Stat. 1217, 1218; Pub. L. 101–189, div. B, title XXVIII, §2808, Nov. 29, 1989, 103 Stat. 1648.)
+
+#### Amendments
+
+1989—Pub. L. 101–189 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (f).
+
+1987—Subsec. (a)(1). Pub. L. 100–180, §2312, substituted “Except as provided in paragraph (2), the total cost authorized for military construction projects at an installation (including each project the cost of which is included in such total authorized cost and is less than the minor project ceiling) may be increased by not more than 25 percent of the total amount appropriated for such projects” for “Except as provided in paragraph (2), the cost authorized for a military construction project (other than a project for which the approved amount is less than the minor project ceiling (as defined in subsection (f))) may be increased by not more than 25 percent of the amount appropriated for the project”.
+
+Pub. L. 100–26, §7(f)(2)(A), substituted “the minor project ceiling (as defined in subsection (f))” for “the amount specified by law as the maximum amount for a minor military construction project”.
+
+Pub. L. 100–26, §7(f)(2)(B), substituted “the minor project ceiling” for “the amount specified by law as the maximum amount for a minor military construction project”.
+
+Subsec. (a)(2). Pub. L. 100–26, §7(f)(2)(B), substituted “the minor project ceiling” for “the amount specified by law as the maximum amount for a minor military construction project” in two places.
+
+Subsec. (b). Pub. L. 100–26, §7(f)(2)(B), (C), substituted “the minor project ceiling” for “the amount specifiedby law as the maximum amount for a minor military construction project” and “the amount of such ceiling” for “such maximum amount” in two places.
+
+Subsec. (c). Pub. L. 100–180, §2313, substituted “construction, improvement,” for “construction”.
+
+Subsec. (e). Pub. L. 100–26, §7(f)(2)(B), substituted “the minor project ceiling” for “the amount specified by law as the maximum amount for a minor military construction project”.
+
+Subsec. (f). Pub. L. 100–26, §7(f)(2)(D), added subsec. (f).
+
+1984—Subsec. (e). Pub. L. 98–407 inserted “is more than the amount specified by law as the maximum amount for a minor military construction project and”.
+
+#### Effective Date
+
+For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2861 of this title.
+

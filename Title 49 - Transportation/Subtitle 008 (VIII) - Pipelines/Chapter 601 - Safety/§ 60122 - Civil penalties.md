@@ -1,0 +1,122 @@
+### §60122. Civil penalties
+
+(a)
+
+General Penalties.—(1) A person that the Secretary of Transportation decides, after written notice and an opportunity for a hearing, has violated section 60114(c) or 60118(a) of this title or a regulation prescribed or order issued under this chapter is liable to the United States Government for a civil penalty of not more than $25,000 for each violation. A separate violation occurs for each day the violation continues. The maximum civil penalty under this paragraph for a related series of violations is $500,000.
+
+(2) A person violating a standard or order under section 60103 or 60111 of this title is liable to the Government for a civil penalty of not more than $50,000 for each violation. A penalty under this paragraph may be imposed in addition to penalties imposed under paragraph (1) of this subsection.
+
+(b)
+
+Penalty Considerations.—In determining the amount of a civil penalty under this section, the Secretary shall consider—
+
+&emsp;(1) the nature, circumstances, and gravity of the violation;
+
+&emsp;(2) with respect to the violator, the degree of culpability, any history of prior violations, the ability to pay, and any effect on ability to continue doing business;
+
+&emsp;(3) good faith in attempting to comply; and
+
+&emsp;(4) other matters that justice requires.
+
+(c)
+
+Collection and Compromise.—(1) The Secretary may request the Attorney General to bring a civil action in an appropriate district court of the United States to collect a civil penalty imposed under this section.
+
+(2) The Secretary may compromise the amount of a civil penalty imposed under this section before referral to the Attorney General.
+
+(d)
+
+Setoff.—The Government may deduct the amount of a civil penalty imposed or compromised under this section from amounts it owes the person liable for the penalty.
+
+(e)
+
+Deposit in Treasury.—Amounts collected under this section shall be deposited in the Treasury as miscellaneous receipts.
+
+(f)
+
+Prohibition on Multiple Penalties for Same Act.—Separate penalties for violating a regulation prescribed under this chapter and for violating an order under section 60112 or 60118(b) of this title may not be imposed under this chapter if both violations are based on the same act.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1325.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+60122(a)(1)
+
+49 App.:1679a (a)(1), (3) (1st sentence).
+
+Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §11(a); added Nov. 30, 1979, Pub. L. 96–129, §§104(b), 154, 93 Stat. 992, 1002; Oct. 31, 1988, Pub. L. 100–561, §106, 102 Stat. 2807; Oct. 24, 1992, Pub. L. 102–508, §§112(a), 304(b), 106 Stat. 3295, 3308.
+
+&nbsp;
+
+49 App.:2007(a)(1), (2) (1st sentence).
+
+Nov. 30, 1979, Pub. L. 96–129, §208(a), (b), (d), 93 Stat. 1009, 1010; Oct. 31, 1988, Pub. L. 100–561, §205, 102 Stat. 2811; Oct. 24, 1992, Pub. L. 102–508, §211(a), 106 Stat. 3304.
+
+60122(a)(2)
+
+49 App.:1679a (a)(2).
+
+60122(b)
+
+49 App.:1679a(a)(3) (last sentence).
+
+&nbsp;
+
+49 App.:2007(a)(2) (last sentence).
+
+60122(c)
+
+49 App.:1679a(b) (1st sentence).
+
+Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §11(b), (d); added Nov. 30, 1979, Pub. L. 96–129, §104(b), 93 Stat. 992, 993.
+
+&nbsp;
+
+49 App.:2007(b) (1st sentence).
+
+60122(d)
+
+49 App.:1679a(b) (2d sentence).
+
+&nbsp;
+
+49 App.:2007(b) (2d sentence).
+
+60122(e)
+
+49 App.:1679a(b) (last sentence).
+
+&nbsp;
+
+49 App.:2007(b) (last sentence).
+
+60122(f)
+
+49 App.:1679a(d).
+
+&nbsp;
+
+49 App.:2007(d).
+
+In subsection (a)(1), the word “prescribed” is added for consistency in the revised title and with other titles of the United States Code. The words “including any order issued under sections 1677(b) and 1679b(b)” in 49 App.:1679a(a)(1) and “including any order issued under section 2006(b) or 2008(b)” in 49 App.:2007(a)(1) are omitted as surplus. The word “occurs” is added for clarity.
+
+In subsection (a)(2), the words “is determined by the Secretary to have” are omitted as surplus. The words “for each violation” are added for clarity and consistency. The word “imposed” is substituted for “to which such person may be subject” for consistency and to eliminate unnecessary words.
+
+In subsection (b)(2), the word “violator” is substituted for “the person found to have committed the violation” for consistency and to eliminate unnecessary words. The words “the penalty” are omitted as surplus.
+
+In subsection (c)(1), the words “The Secretary may request the Attorney General to bring a civil action” are substituted for “in an action brought by the Attorney General on behalf of the United States” for clarity, to eliminate unnecessary words, and because of 28:2461 and rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
+
+In subsection (d), the words “imposed or compromised under this section” are substituted for “of the penalty, when finally determined (or agreed upon in compromise)” to eliminate unnecessary words and forconsistency. The words “liable for the penalty” are substituted for “charged” for clarity.
+
+In subsection (f), the words “Separate penalties . . . prescribed under this chapter . . . may not be imposed under this chapter” are substituted for “Nothing in this title shall be construed to authorize . . . penalties” for clarity.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 60105, 60114 of this title.
+

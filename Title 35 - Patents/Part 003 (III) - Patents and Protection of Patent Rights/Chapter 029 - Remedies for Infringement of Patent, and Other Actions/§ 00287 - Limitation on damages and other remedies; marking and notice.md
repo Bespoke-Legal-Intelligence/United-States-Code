@@ -1,0 +1,110 @@
+### §287. Limitation on damages and other remedies; marking and notice
+
+(a) Patentees, and persons making or selling any patented article for or under them, may give notice to the public that the same is patented, either by fixing thereon the word “patent” or the abbreviation “pat.”, together with the number of the patent, or when, from the character of the article, this can not be done, by fixing to it, or to the package wherein one or more of them is contained, a label containing a like notice. In the event of failure so to mark, no damages shall be recovered by the patentee in any action for infringement, except on proof that the infringer was notified of the infringement and continued to infringe thereafter, in which event damages may be recovered only for infringement occurring after such notice. Filing of an action for infringement shall constitute such notice.
+
+(b)(1) An infringer under section 271(g) shall be subject to all the provisions of this title relating to damages and injunctions except to the extent those remedies are modified by this subsection or section 9006 of the Process Patent Amendments Act of 1988. The modifications of remedies provided in this subsection shall not be available to any person who—
+
+&emsp;(A) practiced the patented process;
+
+&emsp;(B) owns or controls, or is owned or controlled by, the person who practiced the patented process; or
+
+&emsp;(C) had knowledge before the infringement that a patented process was used to make the product the importation, use, or sale of which constitutes the infringement.
+
+(2) No remedies for infringement under section 271(g) of this title shall be available with respect to any product in the possession of, or in transit to, the person subject to liability under such section before that person had notice of infringement with respect to that product. The person subject to liability shall bear the burden of proving any such possession or transit.
+
+(3)(A) In making a determination with respect to the remedy in an action brought for infringement under section 271(g), the court shall consider—
+
+&emsp;(i) the good faith demonstrated by the defendant with respect to a request for disclosure,
+
+&emsp;(ii) the good faith demonstrated by the plaintiff with respect to a request for disclosure, and
+
+&emsp;(iii) the need to restore the exclusive rights secured by the patent.
+
+(B) For purposes of subparagraph (A), the following are evidence of good faith:
+
+&emsp;(i) a request for disclosure made by the defendant;
+
+&emsp;(ii) a response within a reasonable time by the person receiving the request for disclosure; and
+
+&emsp;(iii) the submission of the response by the defendant to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the defendant, together with a request for a written statement that the process claimed in any patent disclosed in the response is not used to produce such product.
+
+> The failure to perform any acts described in the preceding sentence is evidence of absence of good faith unless there are mitigating circumstances. Mitigating circumstances include the case in which, due to the nature of the product, the number of sources for the product, or like commercial circumstances, a request for disclosure is not necessary or practicable to avoid infringement.
+
+(4)(A) For purposes of this subsection, a “request for disclosure” means a written request made to a person then engaged in the manufacture of a product to identify all process patents owned by or licensed to that person, as of the time of the request, that the person then reasonably believes could be asserted to be infringed under section 271(g) if that product were imported into, or sold or used in, the United States by an unauthorized person. A request for disclosure is further limited to a request—
+
+&emsp;(i) which is made by a person regularly engaged in the United States in the sale of the same type of products as those manufactured by the person to whom the request is directed, or which includes facts showing that the person making the request plans to engage in the sale of such products in the United States;
+
+&emsp;(ii) which is made by such person before the person's first importation, use, or sale of units of the product produced by an infringing process and before the person had notice of infringement with respect to the product; and
+
+&emsp;(iii) which includes a representation by the person making the request that such person will promptly submit the patents identified pursuant to the request to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the person making the request, and will request from that manufacturer or supplier a written statement that none of the processes claimed in those patents is used in the manufacture of the product.
+
+(B) In the case of a request for disclosure received by a person to whom a patent is licensed, that person shall either identify the patent or promptly notify the licensor of the request for disclosure.
+
+(C) A person who has marked, in the manner prescribed by subsection (a), the number of the process patent on all products made by the patented process which have been sold by that person in the United States before a request for disclosure is received is not required to respond to the request for disclosure. For purposes of the preceding sentence, the term “all products” does not include products made before the effective date of the Process Patent Amendments Act of 1988.
+
+(5)(A) For purposes of this subsection, notice of infringement means actual knowledge, or receipt by a person of a written notification, or a combination thereof, of information sufficient to persuade a reasonable person that it is likely that a product was made by a process patented in the United States.
+
+(B) A written notification from the patent holder charging a person with infringement shall specify the patented process alleged to have been used and the reasons for a good faith belief that such process was used. The patent holder shall include in the notification such information as is reasonably necessary to explain fairly the patent holder's belief, except that the patent holder is not required to disclose any trade secret information.
+
+(C) A person who receives a written notification described in subparagraph (B) or a written response to a request for disclosure described in paragraph (4) shall be deemed to have notice of infringement with respect to any patent referred to in such written notification or response unless that person, absent mitigating circumstances—
+
+&emsp;(i) promptly transmits the written notification or response to the manufacturer or, if the manufacturer is not known, to the supplier, of the product purchased or to be purchased by that person; and
+
+&emsp;(ii) receives a written statement from the manufacturer or supplier which on its face sets forth a well grounded factual basis for a belief that the identified patents are not infringed.
+
+(D) For purposes of this subsection, a person who obtains a product made by a process patented in the United States in a quantity which is abnormally large in relation to the volume of business of such person or an efficient inventory level shall be rebuttably presumed to have actual knowledge that the product was made by such patented process.
+
+(6) A person who receives a response to a request for disclosure under this subsection shall pay to the person to whom the request was made a reasonable fee to cover actual costs incurred in complying with the request, which may not exceed the cost of a commercially available automated patent search of the matter involved, but in no case more than $500.
+
+(July 19, 1952, ch. 950, 66 Stat. 813; Aug. 23, 1988, Pub. L. 100–418, title IX, §9004(a), 102 Stat. 1564; Dec. 8, 1994, Pub. L. 103–465, title V, §533(b)(5), 108 Stat. 4989.)
+
+#### Amendment of Section
+
+<i>Pub. L. 103–465, title V, §§533(b)(5), 534(a), (b)(3), Dec. 8, 1994, 108 Stat. 4989, 4990, provided that, effective on date that is one year after date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], with provisions relating to earliest filed patent application, this section is amended:</i>
+
+<i>(A) in subsection (a)—</i>
+
+<i>(i) by striking “making or selling” and inserting “making, offering for sale, or selling within the United States”; and</i>
+
+<i>(ii) by inserting “or importing any patented article into the United States,” after “under them,”; and</i>
+
+<i>(B) in subsection (b)—</i>
+
+<i>(i) in paragraph (1)(C), by striking “use, or sale” and inserting “use, offer for sale, or sale”;</i>
+
+<i>(ii) in paragraph (4)(A), by striking “sold or” and inserting “sold, offered for sale, or” in the matter preceding clause (i);</i>
+
+<i>(iii) in paragraph (4)(A)(ii), by striking “use, or sale” and inserting “use, offer for sale, or sale”;</i>
+
+<i>(iv) in paragraph (4)(C), by striking “have been sold” and inserting “have been offered for sale or sold”; and</i>
+
+<i>(v) in paragraph (4)(C), by striking “United States before” and inserting “United States, or imported by the person into the United States, before”.</i>
+
+#### Historical and Revision Notes
+
+Based on Title 35, U.S.C., 1946 ed., §49 (R.S. 4900, amended Feb. 7, 1927, ch. 67, 44 Stat. 1058).
+
+Language is changed. The proviso in the corresponding section of existing statute is omitted as being temporary in character and now obsolete.
+
+#### References in Text
+
+Section 9006 of the Process Patent Amendments Act of 1988, referred to in subsec. (b)(1), is section 9006 of title IX of Pub. L. 100–418, which is set out as a note under section 271 of this title.
+
+The effective date of the Process Patent Amendments Act of 1988, referred to in subsec. (b)(4)(C), is the effective date of title IX of Pub. L. 100–418. See section 9006 of Pub. L. 100–418, set out as a note under section 271 of this title.
+
+#### Amendments
+
+1988—Pub. L. 100–418 inserted “and other remedies” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–465 effective on date that is one year after date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], with provisions relating to earliest filed patent application, see section 534(a), (b)(3) of Pub. L. 103–465, set out as a note under section 154 of this title.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–418 effective 6 months after Aug. 23, 1988, and, subject to enumerated exceptions, applicable only with respect to products made or imported after such effective date, see section 9006 of Pub. L. 100–418, set out as a note under section 271 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 157 of this title.
+

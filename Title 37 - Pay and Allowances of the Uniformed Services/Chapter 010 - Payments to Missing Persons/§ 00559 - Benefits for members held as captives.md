@@ -1,0 +1,104 @@
+### §559. Benefits for members held as captives
+
+(a) In this section:
+
+&emsp;(1) The term “captive status” means a missing status of a member of the uniformed services which, as determined by the President, arises because of a hostile action and is a result of membership in the uniformed services, but does not include a period of captivity of a member as a prisoner of war if Congress provides to such member, in an Act enacted after August 27, 1986, monetary payment in respect of such period of captivity.
+
+&emsp;(2) The term “former captive” means a person who, as a member of the uniformed services, was held in a captive status.
+
+(b)(1) The Secretary of the Treasury shall establish a savings fund to which the Secretary concerned may allot all or any portion of the pay and allowances of any member of the uniformed services who is in a captive status to the extent that such pay and allowances are not subject to an allotment under section 553 of this title or any other provision of law.
+
+(2) Amounts so allotted shall bear interest at a rate which, for any calendar quarter, shall be equal to the average rate paid on United States Treasury bills with three-month maturities issued during the preceding calendar quarter. Such interest shall be computed quarterly.
+
+(3) Amounts in the savings fund credited to a member shall be considered as pay and allowances for purposes of section 553(c) of this title and shall otherwise be subject to withdrawal under procedures which the Secretary of the Treasury shall establish.
+
+(4) Any interest accruing under this subsection on—
+
+&emsp;(A) any amount for which a member is indebted to the United States under section 552(c) of this title shall be deemed to be part of the amount due under such section; and
+
+&emsp;(B) any amount referred to in section 556(f) of this title shall be deemed to be part of such amount for purposes of such section.
+
+(5) An allotment under this subsection may be made without regard to section 553(c) of this title.
+
+(c)(1) Except as provided in paragraph (3), the President shall make a cash payment to any person who is a former captive. Such payment shall be made before the end of the one-year period beginning on the date on which the captive status of such person terminates.
+
+(2) Except as provided in section 802 of the Victims of Terrorism Compensation Act (5 U.S.C. 5569 note), the amount of such payment shall be determined by the President under the provisions of section 5569(d)(2) of title 5.
+
+(3)(A) The President—
+
+&emsp;(i) may defer such payment in the case of any former captive who during such one-year period is charged with an offense described in clause (ii), until final disposition of such charge; and
+
+&emsp;(ii) may deny such payment in the case of any former captive who is convicted of a captivity-related offense—
+
+&emsp;&emsp;(I) referred to in subsection (b) or (c) of section 8312 of title 5; or
+
+&emsp;&emsp;(II) under chapter 47 of title 10 (the Uniform Code of Military Justice) that is punishable by dishonorable discharge, dismissal, or confinement for one year or more.
+
+(B) For the purposes of subparagraph (A), a captivity-related offense is an offense that is—
+
+&emsp;(i) committed by a person while the person is in a captive status; and
+
+&emsp;(ii) related to the captive status of the person.
+
+(4) A payment under this subsection is in addition to any other amount provided by law.
+
+(5) Any amount due a person under this subsection shall, after the death of such person, be deemed to be pay and allowances for the purposes of this chapter.
+
+(6) Any payment made under paragraph (1) that is later denied under paragraph (3)(A)(ii) isa claim of the United States Government for purposes of section 3711 of title 31.
+
+(d) A determination by the President under subsection (a)(1) or (c) is final and is not subject to judicial review.
+
+(Added Pub. L. 99–399, title VIII, §806(a)(1), Aug. 27, 1986, 100 Stat. 884; amended Pub. L. 100–26, §8(e)(11), Apr. 21, 1987, 101 Stat. 287; Pub. L. 101–510, div. A, title XIV, §1484(d)(4), (e)(2), Nov. 5, 1990, 104 Stat. 1717; Pub. L. 102–25, title VII, §702(b)(1)–(4), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, §1054(a)(6), (c)(2), Oct. 23, 1992, 106 Stat. 2502.)
+
+#### References in Text
+
+Section 802 of the Victims of Terrorism Compensation Act, referred to in subsec. (c)(2), is section 802 of Pub. L. 99–399, which is set out as a note under section 5569 of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1992—Subsec. (c)(3)(A)(i). Pub. L. 102–484, §1054(c)(2), made technical correction to directory language of Pub. L. 102–25, §702(b)(4). See 1991 Amendment note below.
+
+Pub. L. 102–484, §1054(a)(6), made amendment identical to amendment by Pub. L. 102–25, §702(b)(4). See 1991 Amendment note below.
+
+1991—Subsec. (c)(1). Pub. L. 102–25, §702(b)(2), struck out “of this subsection” after “paragraph (3)”.
+
+Subsec. (c)(3)(A)(i). Pub. L. 102–25, §702(b)(4), as amended by Pub. L. 102–484, §1054(c)(2), struck out “of this subparagraph” after “clause (ii)”.
+
+Subsec. (c)(3)(B). Pub. L. 102–25, §702(b)(3), struck out “of this paragraph” after “subparagraph (A)”.
+
+Subsec. (c)(6). Pub. L. 102–25, §702(b)(2), struck out “of this subsection” after “paragraph (1)” and after “paragraph (3)(A)(ii)”.
+
+Subsec. (d). Pub. L. 102–25, §702(b)(1), struck out “of this section” after “(c)”.
+
+1990—Subsec. (a)(1). Pub. L. 101–510, §1484(d)(4), substituted “August 27, 1986” for “the date of the enactment of the Victims of Terrorism Compensation Act”.
+
+Subsec. (c)(2). Pub. L. 101–510, §1484(e)(2), inserted “(5 U.S.C. 5569 note)” after “Terrorism Compensation Act”.
+
+1987—Subsec. (a). Pub. L. 100–26 substituted “In this section:” for “In this section—”, inserted “The term” at beginning of pars. (1) and (2), and substituted period for “; and” at end of par. (1).
+
+#### Effective Date; Payments; Interest
+
+Section 806(a)(3) of Pub. L. 99–399 provided that:
+
+“(A)(i) Except as provided in clause (ii), section 559 of title 37, United States Code, as added by paragraph (1), shall apply to any person whose captive status begins after January 21, 1981.
+
+“(ii)(I) Subsection (c) of such section shall apply to any person whose captive status begins on or after November 4, 1979.
+
+“(II) In the case of any person whose status as a captive terminated before the date of the enactment of this Act \[Aug. 27, 1986\], the President shall make a payment under paragraph (1) of such subsection before the end of the one-year period beginning on such date.
+
+“(B) Amounts may be allotted to a savings fund established under such section from pay and allowances for any pay period ending after January 21, 1981, and before the establishment of such fund.
+
+“(C) Interest on amounts so allotted with respect to any such pay period shall be calculated as if the allotment had occurred at the end of such pay period.”
+
+#### Delegation of Functions
+
+Functions of President under this section delegated to Secretary of Defense, see section 3 of Ex. Ord. No. 12598, June 17, 1987, 52 F.R. 23421, set out as a note under section 5569 of Title 5, Government Organization and Employees.
+
+#### Payment to Individuals Held in Captive Status Between November 4, 1979, and January 21, 1981
+
+For payment for individuals in the uniformed services referred to in subsec. (c) of this section held in captive status between Nov. 4, 1979, and Jan. 21, 1981, see section 802 of Pub. L. 99–399, set out as a note under section 5569 of Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1013 of this title; title 10 sections 1095a, 2181.
+

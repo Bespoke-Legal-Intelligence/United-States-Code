@@ -1,0 +1,76 @@
+### §3151. The Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service
+
+(a) The Attorney General may by regulation establish a personnel system for senior personnel within the Federal Bureau of Investigation and the Drug Enforcement Administration to be known as the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service (hereinafter in this subchapter referred to as the “FBI–DEA Senior Executive Service”). The regulations establishing the FBI–DEA Senior Executive Service shall—
+
+&emsp;(1) meet the requirements set forth in section 3131 for the Senior Executive Service;
+
+&emsp;(2) provide that positions in the FBI–DEA Senior Executive Service meet requirements that are consistent with the provisions of section 3132(a)(2);
+
+&emsp;(3) provide rates of pay for the FBI–DEA Senior Executive Service that are not in excess of the maximum rate or less than the minimum rate of basic pay established for the Senior Executive Service under section 5382 and that are adjusted at the same time and to the same extent as rates of basic pay for the Senior Executive Service are adjusted;
+
+&emsp;(4) provide a performance appraisal system for the FBI–DEA Senior Executive Servicethat conforms to the provisions of subchapter II of chapter 43;
+
+&emsp;(5) provide for—
+
+&emsp;&emsp;(A) removal consistent with section 3592;
+
+&emsp;&emsp;(B) reduction-in-force procedures consistent with section 3595(a), together with measures to ensure that a member of the FBI–DEA Senior Executive Service may not be removed due to a reduction in force unless reasonable efforts to place such member in another such position are first taken;
+
+&emsp;&emsp;(C) procedures in accordance with which any furlough affecting the FBI–DEA Senior Executive Service shall be carried out;
+
+&emsp;&emsp;(D) removal or suspension consistent with subsections (a), (b), and (c) of section 7543 (except that any hearing or appeal to which a member of the FBI–DEA Senior Executive Service is entitled shall be held or decided pursuant to procedures established by regulations of the Attorney General); and
+
+&emsp;&emsp;(E) recertification consistent with section 3393a;
+
+&emsp;(6) permit the payment of performance awards to members of the FBI–DEA Senior Executive Service consistent with the provisions applicable to performance awards under section 5384; and
+
+&emsp;(7) provide that members of the FBI–DEA Senior Executive Service may be granted sabbatical leaves consistent with the provisions of section 3396(c).
+
+(b)(1) Except as provided in subsection (a), the Attorney General may—
+
+&emsp;(A) make applicable to the FBI–DEA Senior Executive Service any of the provisions of this title applicable to applicants for or members of the Senior Executive Service; and
+
+&emsp;(B) appoint, promote, and assign individuals to positions established within the FBI–DEA Senior Executive Service without regard to the provisions of this title governing appointments and other personnel actions in the competitive service.
+
+(2)(A) Notwithstanding any other provision of this section, an individual may not be selected for the FBI–DEA Senior Executive Service unless such individual is a career employee in the civil service.
+
+(B) For the purpose of subparagraph (A), “career employee in the civil service” shall have such meaning as the Attorney General, in consultation with the Director of the Office of Personnel Management, by regulation prescribes.
+
+(c) The President, based on the recommendations of the Attorney General, may award ranks to members of the FBI–DEA Senior Executive Service in a manner consistent with the provisions of section 4507.
+
+(d) Notwithstanding any other provision of this section, the Attorney General may detail or assign any member of the FBI–DEA Senior Executive Service to serve in a position outside the Federal Bureau of Investigation or the Drug Enforcement Administration (as the case may be) in which the member's expertise and experience may be of benefit to the Federal Bureau of Investigation or the Drug Enforcement Administration (as the case may be) or another Government agency. Any such member shall not by reason of such detail or assignment lose any entitlement or status associated with membership in the FBI–DEA Senior Executive Service.
+
+(e) The Attorney General shall each year submit to Congress, at the time the budget is submitted by the President to the Congress for the next fiscal year, a report on the FBI–DEA Senior Executive Service. The report shall include, in the aggregate and by agency—
+
+&emsp;(1) the number of FBI–DEA Senior Executive Service positions established as of the end of the preceding fiscal year;
+
+&emsp;(2) the number of individuals being paid at each rate of basic pay for the FBI–DEA Senior Executive Service as of the end of the preceding fiscal year;
+
+&emsp;(3) the number, distribution, and amount of awards paid to members of the FBI–DEA Senior Executive Service during the preceding fiscal year; and
+
+&emsp;(4) the number of individuals removed from the FBI–DEA Senior Executive Service during the preceding fiscal year—
+
+&emsp;&emsp;(A) for less than fully successful performance;
+
+&emsp;&emsp;(B) due to a reduction in force; or
+
+&emsp;&emsp;(C) for any other reason.
+
+(Added Pub. L. 100–325, §1(a), May 30, 1988, 102 Stat. 579; amended Pub. L. 101–194, title V, §506(b)(1), Nov. 30, 1989, 103 Stat. 1758.)
+
+#### References in Text
+
+Provisions of this title governing appointments and other personnel actions in the competitive service, referred to in subsec. (b)(1)(B), are classified generally to section 3301 et seq. of this title.
+
+#### Amendments
+
+1989—Subsec. (a)(5)(E). Pub. L. 101–194 added subpar. (E).
+
+#### Effective Date of 1989 Amendment
+
+Section 506(d) of Pub. L. 101–194 provided that: “The amendments made by this section \[enacting section 3393a of this title and amending this section, sections 3393, 3592 to 3594, 7701, 8336, 8339, 8414, and 8421 of this title, section 1601 of Title 10, Armed Forces, section 3945 of Title 22, Foreign Relations and Intercourse, and provisions set out as a note under section 402 of Title 50, War and National Defense\] shall take effect on January 1, 1991.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5304, 5376 of this title.
+

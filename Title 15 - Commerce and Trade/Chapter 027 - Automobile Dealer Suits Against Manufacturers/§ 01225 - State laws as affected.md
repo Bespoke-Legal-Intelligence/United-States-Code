@@ -1,0 +1,6 @@
+### §1225. State laws as affected
+
+This chapter shall not invalidate any provision of the laws of any State except insofar as there is a direct conflict between an express provision of this chapter and an express provision of State law which can not <sup>1</sup> be reconciled.
+
+(Aug. 8, 1956, ch. 1038, §5, 70 Stat. 1126.)
+

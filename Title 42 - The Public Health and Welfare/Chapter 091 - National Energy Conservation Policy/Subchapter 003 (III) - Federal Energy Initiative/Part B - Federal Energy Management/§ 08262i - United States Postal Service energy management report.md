@@ -1,0 +1,32 @@
+### §8262i. United States Postal Service energy management report
+
+Not later than one year after October 24, 1992, and not later than January 1 of each year thereafter, the Postmaster General shall submit a report to the Committee on Governmental Affairs and the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce and the Committee on Post Office and Civil Service of the House of Representatives on the United States Postal Service's building management program as it relates to energy efficiency. The report shall include, but not be limited to—
+
+&emsp;(1) a description of actions taken to reduce energy consumption;
+
+&emsp;(2) future plans to reduce energy consumption;
+
+&emsp;(3) an assessment of the success of the energy conservation program;
+
+&emsp;(4) a statement of energy costs incurred in operating and maintaining all United States Postal Service facilities; and
+
+&emsp;(5) the status of the energy efficient procurement program established under section 8262h of this title.
+
+(Pub. L. 102–486, title I, §165, Oct. 24, 1992, 106 Stat. 2861.)
+
+#### Codification
+
+Section was enacted as part of the Energy Policy Act of 1992, and not as part of the National Energy Conservation Policy Act which comprises this chapter.
+
+#### Change of Name
+
+Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Abolition of House Committee on Post Office and Civil Service
+
+Committee on Post Office and Civil Service of House of Representatives abolished and its jurisdiction given primarily to Committee on Government Reform and Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 8262j of this title.
+

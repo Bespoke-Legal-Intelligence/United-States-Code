@@ -1,0 +1,198 @@
+### §1677j. Prevention of circumvention of antidumping and countervailing duty orders
+
+#### (a) Merchandise completed or assembled in United States
+
+#### (1) In general
+
+&emsp;If—
+
+&emsp;&emsp;(A) merchandise sold in the United States is of the same class or kind as any other merchandise that is the subject of—
+
+&emsp;&emsp;&emsp;(i) an antidumping duty order issued under section 1673e of this title,
+
+&emsp;&emsp;&emsp;(ii) a finding issued under the Antidumping Act, 1921, or
+
+&emsp;&emsp;&emsp;(iii) a countervailing duty order issued under section 1671e of this title or section 1303 <sup>1</sup> of this title,
+
+&emsp;&emsp;(B) such merchandise sold in the United States is completed or assembled in the United States from parts or components produced in the foreign country with respect to which such order or finding applies,
+
+&emsp;&emsp;(C) the process of assembly or completion in the United States is minor or insignificant, and
+
+&emsp;&emsp;(D) the value of the parts or components referred to in subparagraph (B) is a significant portion of the total value of the merchandise,
+
+> &emsp;the administering authority, after taking into account any advice provided by the Commission under subsection (e) of this section, may include within the scope of such order or finding the imported parts or components referred to in subparagraph (B) that are used in the completion or assembly of the merchandise in the United States at any time such order or finding is in effect.
+
+#### (2) Determination of whether process is minor or insignificant
+
+&emsp;In determining whether the process of assembly or completion is minor or insignificant under paragraph (1)(C), the administering authority shall take into account—
+
+&emsp;&emsp;(A) the level of investment in the United States,
+
+&emsp;&emsp;(B) the level of research and development in the United States,
+
+&emsp;&emsp;(C) the nature of the production process in the United States,
+
+&emsp;&emsp;(D) the extent of production facilities in the United States, and
+
+&emsp;&emsp;(E) whether the value of the processing performed in the United States represents a small proportion of the value of the merchandise sold in the United States.
+
+#### (3) Factors to consider
+
+&emsp;In determining whether to include parts or components in a countervailing or antidumping duty order or finding under paragraph (1), the administering authority shall take into account such factors as—
+
+&emsp;&emsp;(A) the pattern of trade, including sourcing patterns,
+
+&emsp;&emsp;(B) whether the manufacturer or exporter of the parts or components is affiliated with the person who assembles or completes the merchandise sold in the United States from the parts or components produced in the foreign country with respect to which the order or finding described in paragraph (1) applies, and
+
+&emsp;&emsp;(C) whether imports into the United States of the parts or components produced in such foreign country have increased after the initiation of the investigation which resulted in the issuance of such order or finding.
+
+#### (b) Merchandise completed or assembled in other foreign countries
+
+#### (1) In general
+
+&emsp;If—
+
+&emsp;&emsp;(A) merchandise imported into the United States is of the same class or kind as any merchandise produced in a foreign country that is the subject of—
+
+&emsp;&emsp;&emsp;(i) an antidumping duty order issued under section 1673e of this title,
+
+&emsp;&emsp;&emsp;(ii) a finding issued under the Antidumping Act, 1921, or
+
+&emsp;&emsp;&emsp;(iii) a countervailing duty order issued under section 1671e of this title or section 1303 <sup>1</sup> of this title,
+
+&emsp;&emsp;(B) before importation into the United States, such imported merchandise is completed or assembled in another foreign country from merchandise which—
+
+&emsp;&emsp;&emsp;(i) is subject to such order or finding, or
+
+&emsp;&emsp;&emsp;(ii) is produced in the foreign country with respect to which such order or finding applies,
+
+&emsp;&emsp;(C) the process of assembly or completion in the foreign country referred to in subparagraph (B) is minor or insignificant,
+
+&emsp;&emsp;(D) the value of the merchandise produced in the foreign country to which the antidumping duty order applies is a significant portion of the total value of the merchandise exported to the United States, and
+
+&emsp;&emsp;(E) the administering authority determines that action is appropriate under this paragraph to prevent evasion of such order or finding,
+
+> &emsp;the administering authority, after taking into account any advice provided by the Commission under subsection (e) of this section, may include such imported merchandise within the scope of such order or finding at any time such order or finding is in effect.
+
+#### (2) Determination of whether process is minor or insignificant
+
+&emsp;In determining whether the process of assembly or completion is minor or insignificant under paragraph (1)(C), the administering authority shall take into account—
+
+&emsp;&emsp;(A) the level of investment in the foreign country,
+
+&emsp;&emsp;(B) the level of research and development in the foreign country,
+
+&emsp;&emsp;(C) the nature of the production process in the foreign country,
+
+&emsp;&emsp;(D) the extent of production facilities in the foreign country, and
+
+&emsp;&emsp;(E) whether the value of the processing performed in the foreign country represents a small proportion of the value of the merchandise imported into the United States.
+
+#### (3) Factors to consider
+
+&emsp;In determining whether to include merchandise assembled or completed in a foreign country in a countervailing duty order or an antidumping duty order or finding under paragraph (1), the administering authority shall take into account such factors as—
+
+&emsp;&emsp;(A) the pattern of trade, including sourcing patterns,
+
+&emsp;&emsp;(B) whether the manufacturer or exporter of the merchandise described in paragraph (1)(B) is affiliated with the person who uses the merchandise described in paragraph (1)(B) to assemble or complete in the foreign country the merchandise that is subsequently imported into the United States, and
+
+&emsp;&emsp;(C) whether imports into the foreign country of the merchandise described in paragraph (1)(B) have increased after the initiation of the investigation which resulted in the issuance of such order or finding.
+
+#### (c) Minor alterations of merchandise
+
+#### (1) In general
+
+&emsp;The class or kind of merchandise subject to—
+
+&emsp;&emsp;(A) an investigation under this subtitle,
+
+&emsp;&emsp;(B) an antidumping duty order issued under section 1673e of this title,
+
+&emsp;&emsp;(C) a finding issued under the Antidumping Act, 1921, or
+
+&emsp;&emsp;(D) a countervailing duty order issued under section 1671e of this title or section 1303 <sup>2</sup> of this title,
+
+> &emsp;shall include articles altered in form or appearance in minor respects (including raw agricultural products that have undergone minor processing), whether or not included in the same tariff classification.
+
+#### (2) Exception
+
+&emsp;Paragraph (1) shall not apply with respect to altered merchandise if the administering authority determines that it would be unnecessary to consider the altered merchandise within the scope of the investigation, order, or finding.
+
+#### (d) Later-developed merchandise
+
+#### (1) In general
+
+&emsp;For purposes of determining whether merchandise developed after an investigation is initiated under this subtitle or section 1303 <sup>2</sup> of this title (hereafter in this paragraph referred to as the “later-developed merchandise”) is within the scope of an outstanding antidumping or countervailing duty order issued under this subtitle or section 1303 <sup>2</sup> of this title as a result of such investigation, the administering authority shall consider whether—
+
+&emsp;&emsp;(A) the later-developed merchandise has the same general physical characteristics as the merchandise with respect to which the order was originally issued (hereafter in this paragraph referred to as the “earlier product”),
+
+&emsp;&emsp;(B) the expectations of the ultimate purchasers of the later-developed merchandise are the same as for the earlier product,
+
+&emsp;&emsp;(C) the ultimate use of the earlier product and the later-developed merchandise are the same,
+
+&emsp;&emsp;(D) the later-developed merchandise is sold through the same channels of trade as the earlier product, and
+
+&emsp;&emsp;(E) the later-developed merchandise is advertised and displayed in a manner similar to the earlier product.
+
+> &emsp;The administering authority shall take into account any advice provided by the Commission under subsection (e) of this section before making a determination under this subparagraph.
+
+#### (2) Exclusion from orders
+
+&emsp;The administering authority may not exclude a later-developed merchandise from a countervailing or antidumping duty order merely because the merchandise—
+
+&emsp;&emsp;(A) is classified under a tariff classification other than that identified in the petition or the administering authority's prior notices during the proceeding, or
+
+&emsp;&emsp;(B) permits the purchaser to perform additional functions, unless such additional functions constitute the primary use of the merchandise and the cost of the additional functions constitute more than a significant proportion of the total cost of production of the merchandise.
+
+#### (e) Commission advice
+
+#### (1) Notification to Commission of proposed action
+
+&emsp;Before making a determination—
+
+&emsp;&emsp;(A) under subsection (a) of this section with respect to merchandise completed or assembled in the United States (other than minor completion or assembly),
+
+&emsp;&emsp;(B) under subsection (b) of this section with respect to merchandise completed or assembled in other foreign countries, or
+
+&emsp;&emsp;(C) under subsection (d) of this section with respect to any later-developed merchandise which incorporates a significant technological advance or significant alteration of an earlier product,
+
+> &emsp;with respect to an antidumping or countervailing duty order or finding as to which the Commission has made an affirmative injury determination, the administering authority shall notify the Commission of the proposed inclusion of such merchandise in such countervailing or antidumping order or finding. Notwithstanding any other provision of law, a decision by the administering authority regarding whether any merchandise is within a category for which notice is required under this paragraph is not subject to judicial review.
+
+#### (2) Request for consultation
+
+&emsp;After receiving notice under paragraph (1), the Commission may request consultations with the administering authority regarding the inclusion. Upon the request of the Commission, the administering authority shall consult with the Commission and any such consultation shall be completed within 15 days after the date of the request.
+
+#### (3) Commission advice
+
+&emsp;If the Commission believes, after consultation under paragraph (2), that a significant injury issue is presented by the proposed inclusion, the Commission may provide written advice to the administering authority as to whether the inclusion would be inconsistent with the affirmative determination of the Commission on which the order or finding is based. If the Commission decides to provide such written advice, it shall promptly notify the administering authority of its intention to do so, and must provide such advice within 60 days after the date of notification under paragraph (1). For purposes of formulating its advice with respect to merchandise completed or assembled in the United States from parts or components produced in a foreign country, the Commission shall consider whether the inclusion of such parts or components taken as a whole would be inconsistent with its prior affirmative determination.
+
+#### (f) Time limits for administering authority determinations
+
+The administering authority shall, to the maximum extent practicable, make the determinations under this section within 300 days from the date of the initiation of a countervailing duty or antidumping circumvention inquiry under this section.
+
+(June 17, 1930, ch. 497, title VII, §781, as added Aug. 23, 1988, Pub. L. 100–418, title I, §1321(a), 102 Stat. 1192; amended Dec. 8, 1994, Pub. L. 103–465, title II, §230, 108 Stat. 4891.)
+
+#### References in Text
+
+The Antidumping Act, 1921, referred to in subsecs. (a)(1)(A)(ii), (b)(1)(A)(ii), and (c)(1)(C), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, §106(a), July 26, 1979, 93 Stat. 193.
+
+Section 1303 of this title, referred to in subsecs. (a)(1)(A)(iii), (b)(1)(A)(iii), (c)(1)(D), and (d)(1), is defined in section 1677(26) of this title to mean section 1330 as in effect on the day before Jan. 1, 1995.
+
+#### Amendments
+
+1994—Subsecs. (a), (b). Pub. L. 103–465, §230(a), amended subsecs. (a) and (b) generally, to include provisions relating to whether process of assembly or completion of merchandise in United States or foreign countries is minor or insignificant.
+
+Subsec. (f). Pub. L. 103–465, §230(b), added subsec. (f).
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+
+#### Effective Date
+
+Section applicable with respect to articles entered, or withdrawn from warehouse for consumption, on or after Aug. 23, 1988, see section 1337(d) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 1671 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+

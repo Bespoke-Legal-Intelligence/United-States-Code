@@ -1,0 +1,56 @@
+### §1641. Liability of assignees
+
+#### (a) Prerequisites
+
+Except as otherwise specifically provided in this subchapter, any civil action for a violation of this subchapter or proceeding under section 1607 of this title which may be brought against a creditor may be maintained against any assignee of such creditor only if the violation for which such action or proceeding is brought isapparent on the face of the disclosure statement, except where the assignment was involuntary. For the purpose of this section, a violation apparent on the face of the disclosure statement includes, but is not limited to (1) a disclosure which can be determined to be incomplete or inaccurate from the face of the disclosure statement or other documents assigned, or (2) a disclosure which does not use the terms required to be used by this subchapter.
+
+#### (b) Proof of compliance with statutory provisions
+
+Except as provided in section 1635(c) of this title, in any action or proceeding by or against any subsequent assignee of the original creditor without knowledge to the contrary by the assignee when he acquires the obligation, written acknowledgement of receipt by a person to whom a statement is required to be given pursuant to this subchapter shall be conclusive proof of the delivery thereof and, except as provided in subsection (a) of this section, of compliance with this part. This section does not affect the rights of the obligor in any action against the original creditor.
+
+#### (c) Right of rescission by consumer unaffected
+
+Any consumer who has the right to rescind a transaction under section 1635 of this title may rescind the transaction as against any assignee of the obligation.
+
+#### (d) Rights upon assignment of certain mortgages
+
+#### (1) In general
+
+&emsp;Any person who purchases or is otherwise assigned a mortgage referred to in section 1602(aa) of this title shall be subject to all claims and defenses with respect to that mortgage that the consumer could assert against the creditor of the mortgage, unless the purchaser or assignee demonstrates, by a preponderance of the evidence, that a reasonable person exercising ordinary due diligence, could not determine, based on the documentation required by this subchapter, the itemization of the amount financed, and other disclosure of disbursements that the mortgage was a mortgage referred to in section 1602(aa) of this title. The preceding sentence does not affect rights of a consumer under subsection (a), (b), or (c) of this section or any other provision of this subchapter.
+
+#### (2) Limitation on damages
+
+&emsp;Notwithstanding any other provision of law, relief provided as a result of any action made permissible by paragraph (1) may not exceed—
+
+&emsp;&emsp;(A) with respect to actions based upon a violation of this subchapter, the amount specified in section 1640 of this title; and
+
+&emsp;&emsp;(B) with respect to all other causes of action, the sum of—
+
+&emsp;&emsp;&emsp;(i) the amount of all remaining indebtedness; and
+
+&emsp;&emsp;&emsp;(ii) the total amount paid by the consumer in connection with the transaction.
+
+#### (3) Offset
+
+&emsp;The amount of damages that may be awarded under paragraph (2)(B) shall be reduced by the amount of any damages awarded under paragraph (2)(A).
+
+#### (4) Notice
+
+&emsp;Any person who sells or otherwise assigns a mortgage referred to in section 1602(aa) of this title shall include a prominent notice of the potential liability under this subsection as determined by the Board.
+
+(Pub. L. 90 321, title I, §131, May 29, 1968, 82 Stat. 157; Pub. L. 96 221, title VI, §616(a), Mar. 31, 1980, 94 Stat. 182; Pub. L. 103 325, title I, §153(c), Sept. 23, 1994, 108 Stat. 2195.)
+
+#### Amendments
+
+1994—Subsec. (d). Pub. L. 103 325 added subsec. (d).
+
+1980—Pub. L. 96 221 added subsecs. (a) and (c), designated existing provisions as subsec. (b), substituted “excepted as provided in subsection (a) of this section” for “unless the violation is apparent on the face of the statement”, and struck out exception for actions under section 1640(d) of this title.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96 221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96 221, set out as a note under section 1602 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1640, 1667d of this title.
+

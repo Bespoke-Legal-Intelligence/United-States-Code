@@ -1,0 +1,974 @@
+### §1383. Procedure for payment of benefits
+
+#### (a) Time, manner, form, and duration of payments; representative payees; promulgation of regulations
+
+(1) Benefits under this subchapter shall be paid at such time or times and in such installments as will best effectuate the purposes of this subchapter, as determined under regulations (and may in any case be paid less frequently than monthly where the amount of the monthly benefit would not exceed $10).
+
+(2)(A)(i) Payments of the benefit of any individual may be made to any such individual or to the eligible spouse (if any) of such individual or partly to each.
+
+(ii)(I) Upon a determination by the Commissioner of Social Security that the interest of such individual would be served thereby, such payments shall be made, regardless of the legal competency or incompetency of the individual or eligible spouse, to another individual, or an organization, with respect to whom the requirements of subparagraph (B) have been met (in this paragraph referred to as such individual's “representative payee”) for the use and benefit of the individual or eligible spouse.
+
+(II) In the case of an individual eligible for benefits under this subchapter by reason of disability, if alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that the individual is disabled, the payment of such benefits to a representative payee shall be deemed to serve the interest of the individual under this subchapter. In any case in which such payment is so deemed under this subclause to serve the interest of an individual, the Commissioner of Social Security shall include, in the individual's notification of such eligibility, a notice that alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that the individual is disabled and that the Commissioner of Social Security is therefore required to pay the individual's benefits to a representative payee.
+
+(iii) If the Commissioner of Social Security or a court of competent jurisdiction determines that the representative payee of an individual or eligible spouse has misused any benefits which have been paid to the representative payee pursuant to clause (ii) or section 405(j)(1) of this title, the Commissioner of Social Security shall promptly terminate payment of benefits to the representative payee pursuant to this subparagraph, and provide for payment of benefits to an alternative representative payee of the individual or eligible spouse or, if the interest of the individual under this subchapter would be served thereby, to the individual or eligible spouse.
+
+(B)(i) Any determination made under subparagraph (A) for payment of benefits to the representative payee of an individual or eligible spouse shall be made on the basis of—
+
+&emsp;(I) an investigation by the Commissioner of Social Security of the person to serve as representative payee, which shall be conducted in advance of such payment, and shall, to the extent practicable, include a face-to-face interview with such person; and
+
+&emsp;(II) adequate evidence that such payment is in the interest of the individual or eligible spouse (as determined by the Commissioner of Social Security in regulations).
+
+(ii) As part of the investigation referred to in clause (i)(I), the Commissioner of Social Security shall—
+
+&emsp;(I) require the person being investigated to submit documented proof of the identity of such person, unless information establishing such identity was submitted with an application for benefits under subchapter II of this chapter or this subchapter;
+
+&emsp;(II) verify the social security account number (or employer identification number) of such person;
+
+&emsp;(III) determine whether such person has been convicted of a violation of section 408 or 1383a of this title; and
+
+&emsp;(IV) determine whether payment of benefits to such person has been terminated pursuant to subparagraph (A)(iii), and whether certification of payment of benefits to such person has been revoked pursuant to section 405(j) of this title, by reason of misuse of funds paid as benefits under subchapter II of this chapter or this subchapter.
+
+(iii) Benefits of an individual may not be paid to any other person pursuant to subparagraph (A)(ii) if—
+
+&emsp;(I) such person has previously been convicted as described in clause (ii)(III);
+
+&emsp;(II) except as provided in clause (iv), payment of benefits to such person pursuant to subparagraph (A)(ii) has previously been terminated as described in clause (ii)(IV), or certification of payment of benefits to such person under section 405(j) of this title has previously been revoked as described in section 405(j)(2)(B)(i)(IV) of this title; or
+
+&emsp;(III) except as provided in clause (v), such person is a creditor of such individual who provides such individual with goods or services for consideration.
+
+(iv) The Commissioner of Social Security shall prescribe regulations under which the Commissioner of Social Security may grant an exemption from clause (iii)(II) to any person on a case-by-case basis if such exemption would be in the best interest of the individual or eligible spouse whose benefits under this subchapter would be paid to such person pursuant to subparagraph (A)(ii).
+
+(v) Clause (iii)(III) shall not apply with respect to any person who is a creditor referred to therein if such creditor is—
+
+&emsp;(I) a relative of such individual if such relative resides in the same household as such individual;
+
+&emsp;(II) a legal guardian or legal representative of such individual;
+
+&emsp;(III) a facility that is licensed or certified as a care facility under the law of a State or a political subdivision of a State;
+
+&emsp;(IV) a person who is an administrator, owner, or employee of a facility referred to insubclause (III) if such individual resides in such facility, and the payment of benefits under this subchapter to such facility or such person is made only after good faith efforts have been made by the local servicing office of the Social Security Administration to locate an alternative representative payee to whom the payment of such benefits would serve the best interests of such individual; or
+
+&emsp;(V) an individual who is determined by the Commissioner of Social Security, on the basis of written findings and under procedures which the Commissioner of Social Security shall prescribe by regulation, to be acceptable to serve as a representative payee.
+
+(vi) The procedures referred to in clause (v)(V) shall require the individual who will serve as representative payee to establish, to the satisfaction of the Commissioner of Social Security, that—
+
+&emsp;(I) such individual poses no risk to the beneficiary;
+
+&emsp;(II) the financial relationship of such individual to the beneficiary poses no substantial conflict of interest; and
+
+&emsp;(III) no other more suitable representative payee can be found.
+
+(vii) In the case of an individual eligible for benefits under this subchapter by reason of disability, if alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that the individual is disabled, when selecting such individual's representative payee, preference shall be given to—
+
+&emsp;(I) a community-based nonprofit social service agency licensed or bonded by the State;
+
+&emsp;(II) a Federal, State, or local government agency whose mission is to carry out income maintenance, social service, or health care-related activities;
+
+&emsp;(III) a State or local government agency with fiduciary responsibilities; or
+
+&emsp;(IV) a designee of an agency (other than of a Federal agency) referred to in the preceding subclauses of this clause, if the Commissioner of Social Security deems it appropriate,
+
+> unless the Commissioner of Social Security determines that selection of a family member would be appropriate.
+
+(viii) Subject to clause (ix), if the Commissioner of Social Security makes a determination described in subparagraph (A)(ii) with respect to any individual's benefit and determines that direct payment of the benefit to the individual would cause substantial harm to the individual, the Commissioner of Social Security may defer (in the case of initial entitlement) or suspend (in the case of existing entitlement) direct payment of such benefit to the individual, until such time as the selection of a representative payee is made pursuant to this subparagraph.
+
+(ix)(I) Except as provided in subclause (II), any deferral or suspension of direct payment of a benefit pursuant to clause (viii) shall be for a period of not more than 1 month.
+
+(II) Subclause (I) shall not apply in any case in which the individual or eligible spouse is, as of the date of the Commissioner's determination, legally incompetent, under the age of 15 years, or (if alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that the individual is disabled) is eligible for benefits under this subchapter by reason of disability.
+
+(x) Payment pursuant to this subparagraph of any benefits which are deferred or suspended pending the selection of a representative payee shall be made to the individual, or to the representative payee upon such selection, as a single sum or over such period of time as the Commissioner of Social Security determines is in the best interests of the individual entitled to such benefits.
+
+(xi) Any individual who is dissatisfied with a determination by the Commissioner of Social Security to pay such individual's benefits to a representative payee under this subchapter, or with the designation of a particular person to serve as representative payee, shall be entitled to a hearing by the Commissioner of Social Security, and to judicial review of the Commissioner's final decision, to the same extent as is provided in subsection (c) of this section.
+
+(xii) In advance of the first payment of an individual's benefit to a representative payee under subparagraph (A)(ii), the Commissioner of Social Security shall provide written notice of the Commissioner's initial determination to make any such payment. Such notice shall be provided to such individual, except that, if such individual—
+
+&emsp;(I) is under the age of 15,
+
+&emsp;(II) is an unemancipated minor under the age of 18, or
+
+&emsp;(III) is legally incompetent,
+
+> then such notice shall be provided solely to the legal guardian or legal representative of such individual.
+
+(xiii) Any notice described in clause (xii) shall be clearly written in language that is easily understandable to the reader, shall identify the person to be designated as such individual's representative payee, and shall explain to the reader the right under clause (xi) of such individual or of such individual's legal guardian or legal representative—
+
+&emsp;(I) to appeal a determination that a representative payee is necessary for such individual,
+
+&emsp;(II) to appeal the designation of a particular person to serve as the representative payee of such individual, and
+
+&emsp;(III) to review the evidence upon which such designation is based and submit additional evidence.
+
+(C)(i) In any case where payment is made under this subchapter to a representative payee of an individual or spouse, the Commissioner of Social Security shall establish a system of accountability monitoring whereby such person shall report not less often than annually with respect to the use of such payments. The Commissioner of Social Security shall establish and implement statistically valid procedures for reviewing such reports in order to identify instances in which such persons are not properly using such payments.
+
+(ii) Clause (i) shall not apply in any case where the representative payee is a State institution. In such cases, the Commissioner of Social Security shall establish a system of accountability monitoring for institutions in each State.
+
+(iii) Clause (i) shall not apply in any case where the individual entitled to such payment is a resident of a Federal institution and the representative payee is the institution.
+
+(iv) Notwithstanding clauses (i), (ii), and (iii), the Commissioner of Social Security may require a report at any time from any representative payee, if the Commissioner of Social Security has reason to believe that the representative payee is misusing such payments.
+
+(D)(i) A qualified organization may collect from an individual a monthly fee for expenses (including overhead) incurred by such organization in providing services performed as such individual's representative payee pursuant to subparagraph (A)(ii) if the fee does not exceed the lesser of—
+
+&emsp;(I) 10 percent of the monthly benefit involved, or
+
+&emsp;(II) $25.00 per month ($50.00 per month in any case in which an individual is eligible for benefits under this subchapter by reason of disability and alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that the individual is disabled).
+
+> The Commissioner of Social Security shall adjust annually (after 1995) each dollar amount set forth in subclause (II) of this clause under procedures providing for adjustments in the same manner and to the same extent as adjustments are provided for under the procedures used to adjust benefit amounts under section 415(i)(2)(A) of this title, except that any amount so adjusted that is not a multiple of $1.00 shall be rounded to the nearest multiple of $1.00. Any agreement providing for a fee in excess of the amount permitted under this clause shall be void and shall be treated as misuse by the organization of such individual's benefits.
+
+(ii) For purposes of this subparagraph, the term “qualified organization” means any State or local government agency whose mission is to carry out income maintenance, social service, or health care-related activities, any State or local government agency with fiduciary responsibilities, or any community-based nonprofit social service agency, which—
+
+&emsp;(I) is bonded or licensed in each State in which the agency serves as a representative payee; and
+
+&emsp;(II) in accordance with any applicable regulations of the Commissioner of Social Security—
+
+&emsp;&emsp;(aa) regularly provides services as a representative payee pursuant to subparagraph (A)(ii) or section 405(j)(4) of this title concurrently to 5 or more individuals; and
+
+&emsp;&emsp;(bb) demonstrates to the satisfaction of the Commissioner of Social Security that such agency is not otherwise a creditor of any such individual.
+
+> The Commissioner of Social Security shall prescribe regulations under which the Commissioner of Social Security may grant an exception from subclause (II)(bb) for any individual on a case-by-case basis if such exception is in the best interests of such individual.
+
+(iii) Any qualified organization which knowingly charges or collects, directly or indirectly, any fee in excess of the maximum fee prescribed under clause (i) or makes any agreement, directly or indirectly, to charge or collect any fee in excess of such maximum fee, shall be fined in accordance with title 18, or imprisoned not more than 6 months, or both.
+
+(iv) In the case of an individual who is no longer eligible for benefits under this subchapter but to whom any amount of past-due benefits under this subchapter has not been paid, for purposes of clause (i), any amount of such past-due benefits payable in any month shall be treated as a monthly benefit referred to in clause (i)(I).
+
+(E)
+
+Restitution.—In cases where the negligent failure of the Commissioner of Social Security to investigate or monitor a representative payee results in misuse of benefits by the representative payee, the Commissioner of Social Security shall make payment to the beneficiary or the beneficiary's representative payee of an amount equal to such misused benefits. The Commissioner of Social Security shall make a good faith effort to obtain restitution from the terminated representative payee.
+
+(F) The Commissioner of Social Security shall include as a part of the annual report required under section 904 <sup>1</sup> of this title information with respect to the implementation of the preceding provisions of this paragraph, including—
+
+&emsp;(i) the number of cases in which the representative payee was changed;
+
+&emsp;(ii) the number of cases discovered where there has been a misuse of funds;
+
+&emsp;(iii) how any such cases were dealt with by the Commissioner of Social Security;
+
+&emsp;(iv) the final disposition of such cases (including any criminal penalties imposed); and
+
+&emsp;(v) such other information as the Commissioner of Social Security determines to be appropriate.
+
+(G) The Commissioner of Social Security shall make an initial report to each House of the Congress on the implementation of subparagraphs (B) and (C) within 270 days after October 9, 1984. The Commissioner of Social Security shall include in the annual report required under section 904 <sup>1</sup> of this title, information with respect to the implementation of subparagraphs (B) and (C), including the same factors as are required to be included in the Commissioner's report under section 405(j)(4)(B) of this title.
+
+(3) The Commissioner of Social Security may by regulation establish ranges of incomes within which a single amount of benefits under this subchapter shall apply.
+
+(4) The Commissioner of Social Security—
+
+&emsp;(A) may make to any individual initially applying for benefits under this subchapter who is presumptively eligible for such benefits and who is faced with financial emergency a cash advance against such benefits, including any federally-administered State supplementary payments, in an amount not exceeding the monthly amount that would be payable to an eligible individual with no other income for the first month of such presumptive eligibility; and
+
+&emsp;(B) may pay benefits under this subchapter to an individual applying for such benefits on the basis of disability or blindness for a period not exceeding 6 months prior to the determination of such individual's disability or blindness, if such individual is presumptively disabled or blind and is determined to be otherwise eligible for such benefits, and any benefits so paid prior to such determination shall in no event be considered overpayments for purposes of subsection (b) of this section solely because such individual is determined not to be disabled or blind.
+
+(5) Payment of the benefit of any individual who is an aged, blind, or disabled individual solely by reason of blindness (as determined under section 1382c(a)(2) of this title) or disability (as determined under section 1382c(a)(3) of this title), and who ceases to be blind or to be under such disability, shall continue (so long as such individual is otherwise eligible) through the second month following the month in which such blindness or disability ceases.
+
+(6) Notwithstanding any other provision of this subchapter, payment of the benefit of any individual who is an aged, blind, or disabled individual solely by reason of blindness (as determined under section 1382c(a)(2) of this title) or disability (as determined under section 1382c(a)(3) of this title) shall not be terminated or suspended because the blindness or other physical or mental impairment, on which the individual's eligibility for such benefit is based, has or may have ceased, if—
+
+&emsp;(A) such individual is participating in a program of vocational rehabilitation services approved by the Commissioner of Social Security, and
+
+&emsp;(B) the Commissioner of Social Security determines that the completion of such program, or its continuation for a specified period of time, will increase the likelihood that such individual may (following his participation in such program) be permanently removed from the blindness and disability benefit rolls.
+
+(7)(A) In any case where—
+
+&emsp;(i) an individual is a recipient of benefits based on disability or blindness under this subchapter,
+
+&emsp;(ii) the physical or mental impairment on the basis of which such benefits are payable is found to have ceased, not to have existed, or to no longer be disabling, and as a consequence such individual is determined not to be entitled to such benefits, and
+
+&emsp;(iii) a timely request for review or for a hearing is pending with respect to the determination that he is not so entitled,
+
+> such individual may elect (in such manner and form and within such time as the Commissioner of Social Security shall by regulations prescribe) to have the payment of such benefits continued for an additional period beginning with the first month beginning after October 9, 1984, for which (under such determination) such benefits are no longer otherwise payable, and ending with the earlier of (I) the month preceding the month in which a decision is made after such a hearing, or (II) the month preceding the month in which no such request for review or a hearing is pending.
+
+(B)(i) If an individual elects to have the payment of his benefits continued for an additional period under subparagraph (A), and the final decision of the Commissioner of Social Security affirms the determination that he is not entitled to such benefits, any benefits paid under this subchapter pursuant to such election (for months in such additional period) shall be considered overpayments for all purposes of this subchapter, except as otherwise provided in clause (ii).
+
+(ii) If the Commissioner of Social Security determines that the individual's appeal of his termination of benefits was made in good faith, all of the benefits paid pursuant to such individual's election under subparagraph (A) shall be subject to waiver consideration under the provisions of subsection (b)(1) of this section.
+
+(C) The provisions of subparagraphs (A) and (B) shall apply with respect to determinations (that individuals are not entitled to benefits) which are made on or after October 9, 1984, or prior to such date but only on the basis of a timely request for review or for a hearing.
+
+(8)(A) In any case in which an administrative law judge has determined after a hearing as provided in subsection (c) of this section that an individual is entitled to benefits based on disability or blindness under this subchapter and the Commissioner of Social Security has not issued the Commissioner's final decision in such case within 110 days after the date of the administrative law judge's determination, such benefits shall be currently paid for the months during the period beginning with the month in which such 110-day period expires and ending with the month in which such final decision is issued.
+
+(B) For purposes of subparagraph (A), in determining whether the 110-day period referred to in subparagraph (A) has elapsed, any period of time for which the action or inaction of such individual or such individual's representative without good cause results in the delay in the issuance of the Commissioner's final decision shall not be taken into account to the extent that such period of time exceeds 20 calendar days.
+
+(C) Any benefits currently paid under this subchapter pursuant to this paragraph (for the months described in subparagraph (A)) shall not be considered overpayments for any purposes of this subchapter, unless payment of such benefits was fraudulently obtained.
+
+(9) Benefits under this subchapter shall not be denied to any individual solely by reason of the refusal of the individual to accept an amount offered as compensation for a crime of which the individual was a victim.
+
+#### (b) Overpayments and underpayments; adjustment, recovery, or payment of amounts by Commissioner
+
+(1)(A) Whenever the Commissioner of Social Security finds that more or less than the correct amount of benefits has been paid with respect to any individual, proper adjustment or recovery shall, subject to the succeeding provisions of this subsection, be made by appropriate adjustments in future payments to such individual or by recovery from such individual or his eligible spouse (or from the estate of either) or by payment to such individual or his eligible spouse, or, if such individual is deceased, by payment—
+
+&emsp;(i) to any surviving spouse of such individual, whether or not the individual's eligible spouse, if (within the meaning of the first sentence of section 402(i) of this title) such surviving husband or wife was living in the same household with the individual at the time of his death or within the 6 months immediately preceding the month of such death, or
+
+&emsp;(ii) if such individual was a disabled or blind child who was living with his parent or parents at the time of his death or within the 6 months immediately preceding the month of such death, to such parent or parents.
+
+(B) The Commissioner of Social Security (i) shall make such provision as the Commissioner finds appropriate in the case of payment of more than the correct amount of benefits with respect to an individual with a view to avoiding penalizing such individual or his eligible spouse who was without fault in connection with the overpayment, if adjustment or recovery on account of such overpayment in such case would defeat the purposes of this subchapter, or be against equity and good conscience, or (because of the small amount involved) impede efficient or effective administration of this subchapter, and (ii) shall in any event make the adjustment or recovery (in the case of payment of more than the correct amount of benefits), in the case of an individual or eligible spouse receiving benefit payments under this subchapter (including supplementary payments of the type described in section 1382e(a) of this title and payments pursuant to an agreement entered into under section 212(a) of Public Law 93–66), in amounts which in the aggregate do not exceed (for any month) the lesser of (I) the amount of his or their benefit under this subchapter for that month or (II) an amount equal to 10 percent of his or their income for that month (including such benefit but excluding any other income excluded pursuant to section 1382a(b) of this title), unless fraud, willful misrepresentation, or concealment of material information was involved on the part of the individual or spouse in connection with the overpayment, or unless the individual requests that such adjustment or recovery be made at a higher or lower rate and the Commissioner of Social Security determines that adjustment or recovery at such rate is justified and appropriate. The availability (in the case of an individual who has been paid more than the correct amount of benefits) of procedures for adjustment or recovery at a limited rate under clause (ii) of the preceding sentence shall not, in and of itself, prevent or restrict the provision (in such case) of more substantial relief under clause (i) of such sentence.
+
+(2) Notwithstanding any other provision of this section, when any payment of more than the correct amount is made to or on behalf of an individual who has died, and such payment—
+
+&emsp;(A) is made by direct deposit to a financial institution;
+
+&emsp;(B) is credited by the financial institution to a joint account of the deceased individual and another person; and
+
+&emsp;(C) such other person is the surviving spouse of the deceased individual, and was eligible for a payment under this subchapter (including any State supplementation payment paid by the Commissioner of Social Security) as an eligible spouse (or as either member of an eligible couple) for the month in which the deceased individual died,
+
+> the amount of such payment in excess of the correct amount shall be treated as a payment of more than the correct amount to such other person.
+
+(3) If any overpayment with respect to an individual (or an individual and his or her spouse) is attributable solely to the ownership or possession by such individual (and spouse if any) of resources having a value which exceeds the applicable dollar figure specified in paragraph (1)(B) or (2)(B) of section 1382(a) of this title by $50 or less, such individual (and spouse if any) shall be deemed for purposes of the second sentence of paragraph (1) to have been without fault in connection with the overpayment, and no adjustment or recovery shall be made under the first sentence of such paragraph, unless the Commissioner of Social Security finds that the failure of such individual (and spouse if any) to report such value correctly and in a timely manner was knowing and willful.
+
+(4) For payments for which adjustments are made by reason of a retroactive payment of benefits under subchapter II of this chapter, see section 1320a–6 of this title.
+
+#### (c) Hearing to determine eligibility or amount of benefits; subsequent application; time within which to request hearing; time for determinations of Commissioner pursuant to hearing; judicial review
+
+(1)(A) The Commissioner of Social Security is directed to make findings of fact, and decisions as to the rights of any individual applying for payment under this subchapter. Any such decision by the Commissioner of Social Security which involves a determination of disability and which is in whole or in part unfavorable to such individual shall contain a statement of the case, in understandable language, setting forth a discussion of the evidence, and stating the Commissioner's determination and the reason or reasons upon which it is based. The Commissioner of Social Security shall provide reasonable notice and opportunity for a hearing to any individual who is or claims to be an eligible individual or eligible spouse and is in disagreement with any determination under this subchapter with respect to eligibility of such individual for benefits, or the amount of such individual's benefits, if such individual requests a hearing on the matter in disagreement within sixty days after notice of such determination is received, and, if a hearing is held, shall, on the basis of evidence adduced at the hearing affirm, modify, or reverse the Commissioner's findings of fact and such decision. The Commissioner of Social Security is further authorized, on the Commissioner's own motion, to hold such hearings and to conduct such investigations and other proceedings as the Commissioner may deem necessary or proper for the administration of this subchapter. In the course of any hearing, investigation, or other proceeding, the Commissioner may administer oaths and affirmations, examine witnesses, and receive evidence. Evidence may be received at any hearing before the Commissioner of Social Security even though inadmissible under the rules of evidence applicable to court procedure. The Commissioner of Social Security shall specifically take into account any physical, mental, educational, or linguistic limitation of such individual (including any lack of facility with the English language) in determining, with respect to the eligibility of such individual for benefits under this subchapter, whether such individual acted in good faith or was at fault, and in determining fraud, deception, or intent.
+
+(B)(i) A failure to timely request review of an initial adverse determination with respect to an application for any payment under this subchapter or an adverse determination on reconsideration of such an initial determination shall not serve as a basis for denial of a subsequent application for any payment under this subchapter if the applicant demonstrates that the applicant, or any other individual referred to in subparagraph (A), failed to so request such a review acting in good faith reliance upon incorrect, incomplete, or misleading information, relating to the consequences of reapplying for payments in lieu of seeking review of an adverse determination, provided by any officer or employee of the Social Security Administration or any State agency acting under section 421 of this title.
+
+(ii) In any notice of an adverse determination with respect to which a review may be requested under subparagraph (A), the Commissioner of Social Security shall describe in clear and specific language the effect on possible eligibility to receive payments under this subchapter of choosing to reapply in lieu of requesting review of the determination.
+
+(2) Determination on the basis of such hearing, except to the extent that the matter in disagreement involves a disability (within the meaning of section 1382c(a)(3) of this title), shall be made within ninety days after the individual requests the hearing as provided in paragraph (1).
+
+(3) The final determination of the Commissioner of Social Security after a hearing under paragraph (1) shall be subject to judicial review as provided in section 405(g) of this title to the same extent as the Commissioner's final determinations under section 405 of this title.
+
+#### (d) Procedures applicable; prohibition on assignment of payments; representation of claimants; maximum fees; penalties for violations
+
+(1) The provisions of section 407 of this title and subsections (a), (d), and (e) of section 405 of this title shall apply with respect to this part to the same extent as they apply in the case of subchapter II of this chapter.
+
+(2)(A) The provisions of section 406(a) of this title (other than paragraph (4) thereof) shall apply to this part to the same extent as they apply in the case of subchapter II of this chapter, except that paragraph (2) thereof shall be applied—
+
+&emsp;(i) by substituting, in subparagraphs (A)(ii)(I) and (C)(i), the phrase “(as determined before any applicable reduction under section 1383(g) of this title, and reduced by the amount of any reduction in benefits under this subchapter or subchapter II of this chapter made pursuant to section 1320a–6(a) of this title)” for the parenthetical phrase contained therein; and
+
+&emsp;(ii) by substituting “section 1383(a)(7)(A) of this title or the requirements of due process of law” for “subsection (g) or (h) of section 423 of this title”.
+
+(B) The Commissioner of Social Security shall notify each claimant in writing, together with the notice to such claimant of an adverse determination, of the options for obtaining attorneys to represent individuals in presenting their cases before the Commissioner of Social Security. Such notification shall also advise the claimant of the availability to qualifying claimants of legal services organizations which provide legal services free of charge.
+
+#### (e) Administrative requirements prescribed by Commissioner; criteria; reduction of benefits to individual for noncompliance with requirements; payment to homeless
+
+(1)(A) The Commissioner of Social Security shall, subject to subparagraph (B) and subsection (j) of this section, prescribe such requirements with respect to the filing of applications, the suspension or termination of assistance, the furnishing of other data and material, and the reporting of events and changes in circumstances, as may be necessary for the effective and efficient administration of this subchapter.
+
+(B) The requirements prescribed by the Commissioner of Social Security pursuant to subparagraph (A) shall require that eligibility for benefits under this subchapter will not be determined solely on the basis of declarations by the applicant concerning eligibility factors or other relevant facts, and that relevant information will be verified from independent or collateral sources and additional information obtained as necessary in order to assure that such benefits are only provided to eligible individuals (or eligible spouses) and that the amounts of such benefits are correct. For this purpose and for purposes of federally administered supplementary payments of the type described in section 1382e(a) of this title (including payments pursuant to an agreement entered into under section 212(a) of Public Law 93–66), the Commissioner of Social Security shall, as may be necessary, request and utilize information available pursuant to section 6103(<i>l</i>)(7) of the Internal Revenue Code of 1986, and any information which may be available from State systems under section 1320b–7 of this title, and shall comply with the requirements applicable to States (with respect to information available pursuant to section 6103(<i>l</i>)(7)(B) of such Code) under subsections (a)(6) and (c) of such section 1320b–7 of this title.
+
+(C) For purposes of making determinations under section 1382(e) of this title, the requirements prescribed by the Commissioner of Social Security pursuant to subparagraph (A) of this paragraph shall require each administrator of a nursing home, extended care facility, or intermediate care facility, within 2 weeks after the admission of any eligible individual or eligible spouse receiving benefits under this subchapter, to transmit to the Commissioner a report of the admission.
+
+(2) In case of the failure by any individual to submit a report of events and changes in circumstances relevant to eligibility for or amount of benefits under this subchapter as required by the Commissioner of Social Security under paragraph (1), or delay by any individual in submitting a report as so required, the Commissioner of Social Security (in addition to taking any other action the Commissioner may consider appropriate under paragraph (1)) shall reduce any benefits which may subsequently become payable to such individual under this subchapter by—
+
+&emsp;(A) $25 in the case of the first such failure or delay,
+
+&emsp;(B) $50 in the case of the second such failure or delay, and
+
+&emsp;(C) $100 in the case of the third or a subsequent such failure or delay,
+
+> except where the individual was without fault or good cause for such failure or delay existed.
+
+(3) The Commissioner of Social Security shall provide a method of making payments under this subchapter to an eligible individual who does not reside in a permanent dwelling or does not have a fixed home or mailing address.
+
+(4) A translation into English by a third party of a statement made in a foreign language by an applicant for or recipient of benefits under this subchapter shall not be regarded as reliable for any purpose under this subchapter unless the third party, under penalty of perjury—
+
+&emsp;(A) certifies that the translation is accurate; and
+
+&emsp;(B) discloses the nature and scope of the relationship between the third party and the applicant or recipient, as the case may be.
+
+(5) In any case in which it is determined to the satisfaction of the Commissioner of Social Security that an individual failed as of any date to apply for benefits under this subchapter by reason of misinformation provided to such individual by any officer or employee of the Social Security Administration relating to such individual's eligibility for benefits under this subchapter, such individual shall be deemed to have applied for such benefits on the later of—
+
+&emsp;(A) the date on which such misinformation was provided to such individual, or
+
+&emsp;(B) the date on which such individual met all requirements for entitlement to such benefits (other than application therefor).
+
+(6) <sup>2</sup> In any case in which an individual visits a field office of the Social Security Administration and represents during the visit to an officer or employee of the Social Security Administration in the office that the individual's visit is occasioned by—
+
+&emsp;(A) the receipt of a notice from the Social Security Administration indicating a time limit for response by the individual, or
+
+&emsp;(B) the theft, loss, or nonreceipt of a benefit payment under this subchapter,
+
+> the Commissioner of Social Security shall ensure that the individual is granted a face-to-face interview at the office with an officer or employee of the Social Security Administration before the close of business on the day of the visit.
+
+<sup>2</sup> (6)(A)(i) The Commissioner of Social Security shall immediately redetermine the eligibility of an individual for benefits under this subchapter if there is reason to believe that fraud or similar fault was involved in the application of the individual for such benefits, unless a United States attorney, or equivalent State prosecutor, with jurisdiction over potential or actual related criminal cases, certifies, in writing, that there is a substantial risk that such action by the Commissioner of Social Security with regard to recipients in a particular investigation would jeopardize the criminal prosecution of a person involved in a suspected fraud.
+
+(ii) When redetermining the eligibility, or making an initial determination of eligibility, of an individual for benefits under this subchapter, the Commissioner of Social Security shall disregard any evidence if there is reason to believe that fraud or similar fault was involved in the providing of such evidence.
+
+(B) For purposes of subparagraph (A), similar fault is involved with respect to a determination if—
+
+&emsp;(i) an incorrect or incomplete statement that is material to the determination is knowingly made; or
+
+&emsp;(ii) information that is material to the determination is knowingly concealed.
+
+(C) If, after redetermining the eligibility of an individual for benefits under this subchapter, the Commissioner of Social Security determines that there is insufficient evidence to support such eligibility, the Commissioner of Social Security may terminate such eligibility and may treat benefits paid on the basis of such insufficient evidence as overpayments.
+
+(7)(A) The Commissioner of Social Security shall request the Immigration and Naturalization Service or the Centers for Disease Control to provide the Commissioner of Social Security with whatever medical information, identification information, and employment history either such entity has with respect to any alien who has applied for benefits under this subchapter to the extent that the information is relevant to any determination relating to eligibility for such benefits under this subchapter.
+
+(B) Subparagraph (A) shall not be construed to prevent the Commissioner of Social Security from adjudicating the case before receiving such information.
+
+#### (f) Furnishing of information by Federal agencies
+
+The head of any Federal agency shall provide such information as the Commissioner of Social Security needs for purposes of determining eligibility for or amount of benefits, or verifying other information with respect thereto.
+
+#### (g) Reimbursement to States for interim assistance payments
+
+(1) Notwithstanding subsection (d)(1) of this section and subsection (b) of this section as it relates to the payment of less than the correct amount of benefits, the Commissioner of Social Security may, upon written authorization by an individual, withhold benefits due with respect to that individual and may pay to a State (or a political subdivision thereof if agreed to by theCommissioner of Social Security and the State) from the benefits withheld an amount sufficient to reimburse the State (or political subdivision) for interim assistance furnished on behalf of the individual by the State (or political subdivision).
+
+(2) For purposes of this subsection, the term “benefits” with respect to any individual means supplemental security income benefits under this subchapter, and any State supplementary payments under section 1382e of this title or under section 212 of Public Law 93–66 which the Commissioner of Social Security makes on behalf of a State (or political subdivision thereof), that the Commissioner of Social Security has determined to be due with respect to the individual at the time the Commissioner of Social Security makes the first payment of benefits with respect to the period described in clause (A) or (B) of paragraph (3). A cash advance made pursuant to subsection (a)(4)(A) of this section shall not be considered as the first payment of benefits for purposes of the preceding sentence.
+
+(3) For purposes of this subsection, the term “interim assistance” with respect to any individual means assistance financed from State or local funds and furnished for meeting basic needs (A) during the period, beginning with the month in which the individual filed an application for benefits (as defined in paragraph (2)), for which he was eligible for such benefits, or (B) during the period beginning with the first month for which the individual's benefits (as defined in paragraph (2)) have been terminated or suspended if the individual was subsequently found to have been eligible for such benefits.
+
+(4) In order for a State to receive reimbursement under the provisions of paragraph (1), the State shall have in effect an agreement with the Commissioner of Social Security which shall provide—
+
+&emsp;(A) that if the Commissioner of Social Security makes payment to the State (or a political subdivision of the State as provided for under the agreement) in reimbursement for interim assistance (as defined in paragraph (3)) for any individual in an amount greater than the reimbursable amount authorized by paragraph (1), the State (or political subdivision) shall pay to the individual the balance of such payment in excess of the reimbursable amount as expeditiously as possible, but in any event within ten working days or a shorter period specified in the agreement; and
+
+&emsp;(B) that the State will comply with such other rules as the Commissioner of Social Security finds necessary to achieve efficient and effective administration of this subsection and to carry out the purposes of the program established by this subchapter, including protection of hearing rights for any individual aggrieved by action taken by the State (or political subdivision) pursuant to this subsection.
+
+(5) The provisions of subsection (c) of this section shall not be applicable to any disagreement concerning payment by the Commissioner of Social Security to a State pursuant to the preceding provisions of this subsection nor the amount retained by the State (or political subdivision).
+
+#### (h) Payment of certain travel expenses
+
+The Commissioner of Social Security shall pay travel expenses, either on an actual cost or commuted basis, to individuals for travel incident to medical examinations requested by the Commissioner of Social Security in connection with disability determinations under this subchapter, and to parties, their representatives, and all reasonably necessary witnesses for travel within the United States (as defined in section 1382c(e) of this title) to attend reconsideration interviews and proceedings before administrative law judges with respect to any determination under this subchapter. The amount available under the preceding sentence for payment for air travel by any person shall not exceed the coach fare for air travel between the points involved unless the use of first-class accommodations is required (as determined under regulations of the Commissioner of Social Security) because of such person's health condition or the unavailability of alternative accommodations; and the amount available for payment for other travel by any person shall not exceed the cost of travel (between the points involved) by the most economical and expeditious means of transportation appropriate to such person's health condition, as specified in such regulations. The amount available for payment under this subsection for travel by a representative to attend an administrative proceeding before an administrative law judge or other adjudicator shall not exceed the maximum amount allowable under this subsection for such travel originating within the geographic area of the office having jurisdiction over such proceeding.
+
+#### (i) Unnegotiated checks; notice to Commissioner; payment to States; notice to States; investigation of payees
+
+(1) The Secretary of the Treasury shall, on a monthly basis, notify the Commissioner of Social Security of all benefit checks issued under this subchapter which include amounts representing State supplementary payments as described in paragraph (2) and which have not been presented for payment within one hundred and eighty days after the day on which they were issued.
+
+(2) The Commissioner of Social Security shall from time to time determine the amount representing the total of the State supplementary payments made pursuant to agreements under section 1382e(a) of this title and under section 212(b) of Public Law 93–66 which is included in all such benefit checks not presented for payment within one hundred and eighty days after the day on which they were issued, and shall pay each State (or credit each State with) an amount equal to that State's share of all such amount. Amounts not paid to the States shall be returned to the appropriation from which they were originally paid.
+
+(3) The Commissioner of Social Security, upon notice from the Secretary of the Treasury under paragraph (1), shall notify any State having an agreement described in paragraph (2) of all such benefit checks issued under that State's agreement which were not presented for payment within one hundred and eighty days after the day on which they were issued.
+
+(4) The Commissioner of Social Security shall, to the maximum extent feasible, investigate the whereabouts and eligibility of the individuals whose benefit checks were not presented for payment within one hundred and eighty days after the day on which they were issued.
+
+#### (j) Application and review requirements for certain individuals
+
+(1) Notwithstanding any provision of section 1382 or 1382h of this title, any individual who—
+
+&emsp;(A) was an eligible individual (or eligible spouse) under section 1382 of this title or was eligible for benefits under or pursuant to section 1382h of this title, and
+
+&emsp;(B) who, after such eligibility, is ineligible for benefits under or pursuant to both such sections for a period of 12 consecutive months,
+
+> may not thereafter become eligible for benefits under or pursuant to either such section until the individual has reapplied for benefits under section 1382 of this title and been determined to be eligible for benefits under such section.
+
+(2)(A) Notwithstanding any provision of section 1382 of this title or section 1382h of this title (other than subsection (c) thereof), any individual who was eligible for benefits pursuant to section 1382h(b) of this title, and who—
+
+&emsp;(i)(I) on the basis of the same impairment on which his or her eligibility under such section 1382h(b) of this title was based becomes eligible for benefits under section 1382 or 1382h(a) of this title for a month that follows a period during which the individual was ineligible for benefits under sections 1382 and 1382h(a) of this title, and
+
+&emsp;(II) has earned income (other than income excluded pursuant to section 1382a(b) of this title) for any month in the 12-month period preceding such month that is equal to or in excess of the amount that would cause him or her to be ineligible for payments under section 1382(b) of this title for that month (if he or she were otherwise eligible for such payments); or
+
+&emsp;(ii)(I) on the basis of the same impairment on which his or her eligibility under such section 1382h(b) of this title was based becomes eligible under section 1382h(b) of this title for a month that follows a period during which the individual was ineligible under section 1382 of this title and section 1382h of this title, and
+
+&emsp;(II) has earned income (other than income excluded pursuant to section 1382a(b) of this title) for such month or for any month in the 12-month period preceding such month that is equal to or in excess of the amount that would cause him or her to be ineligible for payments under section 1382(b) of this title for that month (if he or she were otherwise eligible for such payments);
+
+> shall, upon becoming eligible (as described in clause (i)(I) or (ii)(I)), be subject to a prompt review of the type described in section 1382c(a)(4) of this title.
+
+(B) If the Commissioner of Social Security determines pursuant to a review required by subparagraph (A) that the impairment upon which the eligibility of an individual is based has ceased, does not exist, or is not disabling, such individual may not thereafter become eligible for a benefit under or pursuant to section 1382 of this title or section 1382h of this title until the individual has reapplied for benefits under section 1382 of this title and been determined to be eligible for benefits under such section.
+
+#### (k) Notifications to applicants and recipients
+
+The Commissioner of Social Security shall notify an individual receiving benefits under section 1382 of this title on the basis of disability or blindness of his or her potential eligibility for benefits under or pursuant to section 1382h of this title—
+
+&emsp;(1) at the time of the initial award of benefits to the individual under section 1382 of this title (if the individual has attained the age of 18 at the time of such initial award), and
+
+&emsp;(2) at the earliest time after an initial award of benefits to an individual under section 1382 of this title that the individual's earned income for a month (other than income excluded pursuant to section 1382a(b) of this title) is $200 or more, and periodically thereafter so long as such individual has earned income (other than income so excluded) of $200 or more per month.
+
+#### (<i>l</i>) Special notice to blind individuals with respect to hearings and other official actions
+
+(1) In any case where an individual who is applying for or receiving benefits under this subchapter on the basis of blindness is entitled (under subsection (c) of this section or otherwise) to receive notice from the Commissioner of Social Security of any decision or determination made or other action taken or proposed to be taken with respect to his or her rights under this subchapter, such individual shall at his or her election be entitled either (A) to receive a supplementary notice of such decision, determination, or action, by telephone, within 5 working days after the initial notice is mailed, (B) to receive the initial notice in the form of a certified letter, or (C) to receive notification by some alternative procedure established by the Commissioner of Social Security and agreed to by the individual.
+
+(2) The election under paragraph (1) may be made at any time; but an opportunity to make such an election shall in any event be given (A) to every individual who is an applicant for benefits under this subchapter on the basis of blindness, at the time of his or her application, and (B) to every individual who is a recipient of such benefits on the basis of blindness, at the time of each redetermination of his or her eligibility. Such an election, once made by an individual, shall apply with respect to all notices of decisions, determinations, and actions which such individual may thereafter be entitled to receive under this subchapter until such time as it is revoked or changed.
+
+#### (m) Pre-release procedures for institutionalized persons
+
+The Commissioner of Social Security shall develop a system under which an individual can apply for supplemental security income benefits under this subchapter prior to the discharge or release of the individual from a public institution.
+
+#### (n) Concurrent SSI and food stamp applications by institutionalized individuals
+
+The Commissioner of Social Security and the Secretary of Agriculture shall develop a procedure under which an individual who applies for supplemental security income benefits under this subchapter shall also be permitted to apply at the same time for participation in the food stamp program authorized under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.).
+
+#### (<i>o</i>) Notice requirements
+
+The Commissioner of Social Security shall take such actions as are necessary to ensure that any notice to one or more individuals issued pursuant to this subchapter by the Commissioner of Social Security or by a State agency—
+
+&emsp;(1) is written in simple and clear language, and
+
+&emsp;(2) includes the address and telephone number of the local office of the Social Security Administration which serves the recipient.
+
+> In the case of any such notice which is not generated by a local servicing office, the requirements of paragraph (2) shall be treated as satisfied if such notice includes the address of the local office of the Social Security Administration which services the recipient of the notice and a telephone number through which such office can be reached.
+
+(Aug. 14, 1935, ch. 531, title XVI, §1631, as added Oct. 30, 1972, Pub. L. 92–603, title III, §301, 86 Stat. 1475; amended Dec. 31, 1973, Pub. L. 93–233, §18(g), 87 Stat. 969; Aug. 7, 1974, Pub. L. 93–368, §5, 88 Stat. 420; Jan. 2, 1976, Pub. L. 94–202, §§1, 2, 89 Stat. 1135; July 14, 1976, Pub. L. 94–365, §1, 90 Stat. 990; Oct. 20, 1976, Pub. L. 94–569, §4(a), 90 Stat. 2700; Apr. 1, 1980, Pub. L. 96–222, title I, §101(a)(2)(C), 94 Stat. 195; June 9, 1980, Pub. L. 96–265, title III, §§301(b), 305(b), 310(b), title V, §501(c), 94 Stat. 450, 457, 459, 470; Oct. 19, 1980, Pub. L. 96–473, §6(h), 94 Stat. 2266; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2343(a), 95 Stat. 866; Sept. 3, 1982, Pub. L. 97–248, title I, §187(a), 96 Stat. 407; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2612(a), 2613, 2651(j), 2663(g)(11), (12), 98 Stat. 1131, 1150, 1169; Oct. 9, 1984, Pub. L. 98–460, §§7(b), 16(b), 98 Stat. 1803, 1809; Apr. 7, 1986, Pub. L. 99–272, title XII, §12113(b), 100 Stat. 288; Oct. 22, 1986, Pub. L. 99–514, §2, title XVIII, §1883(d)(1), 100 Stat. 2095, 2918; Oct. 27, 1986, Pub. L. 99–570, title XI, §§11005(a), 11006, 100 Stat. 3207–169; Nov. 10, 1986, Pub. L. 99–643, §§4(c)(1), (d)(3)(B), 5, 8(a), 100 Stat. 3576–3579; Dec. 22, 1987, Pub. L. 100–203, title IX, §§9109(a), 9110(a), (b), 9111(a)(1), 9112(a), 9123, 101 Stat. 1330–302 to 1330–304, 1330–313; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8001(b), 102 Stat. 3779; Dec. 19, 1989, Pub. L. 101–239, title X, §§10302(b)(1), 10303(b), 10305(e), 10307(a)(2), (b)(2), 103 Stat. 2482, 2483, 2485; Nov. 5, 1990, Pub. L. 101–508, title V, §§5031(c), 5038(a), 5039(b), 5040, 5105(a)(1)(B), (2)(A)(ii), (3)(A)(ii), (c)(2), (d)(1)(B), 5106(a)(2), (c), 5107(a)(2), 5109(a)(2), 5113(b), 104 Stat. 1388–224, 1388–226, 1388–227, 1388–255, 1388–258, 1388–261, 1388–265, 1388–266, 1388–268, 1388–269, 1388–271, 1388–273; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), title II, §§201(b)(1)(A), (B), (2)(A), (B), 206(a)(2), (d)(2), (f)(1), title III, §321(f)(2)(B), (3)(A), (h)(1), 108 Stat. 1478, 1499–1501, 1509, 1514, 1515, 1541, 1544; Oct. 22, 1994, Pub. L. 103–387, §6(a), 108 Stat. 4077; Oct. 31, 1994, Pub. L. 103–432, title II, §§264(b), (e)–(g), 267(b), 268, 108 Stat. 4468–4470.)
+
+#### References in Text
+
+Section 904 of this title, referred to in subsec. (a)(2)(F), (G), was amended generally by Pub. L. 103–296, title I, §104(a), Aug. 15, 1994, 108 Stat. 1470, and, as so amended, does not require an annual report.
+
+Section 212 of Public Law 93–66, referred to in subsecs. (b)(1), (e)(1)(B), (g)(2), and (i)(2), is section 212 of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out in a note under section 1382 of this title.
+
+The Internal Revenue Code of 1986, referred to in subsec. (e)(1)(B), is classified generally to Title 26, Internal Revenue Code.
+
+The Food Stamp Act of 1977, referred to in subsec. (n), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+
+#### Prior Provisions
+
+A prior section 1383, act Aug. 14, 1935, ch. 531, title XVI, §1603, as added July 25, 1962, Pub. L. 87–543, title I, §141(a), 76 Stat. 200; amended July 30, 1965, Pub. L. 89–97, title I, §122, title II, §221(d)(4), title IV, §401(b), 79 Stat. 353, 359, 414; Jan. 2, 1968, Pub. L. 90–248, title II, §212(d), 81 Stat. 898; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b), (d), (e), 86 Stat. 946, 947, related to determination of amounts payable to States, prior to the general amendment of title XVI of the Social Security Act by Pub. L. 92–603, §301, but is set out below in view of its continued applicability to Puerto Rico, Guam, and the Virgin Islands.
+
+#### Amendments
+
+1994—Subsec. (a)(2). Pub. L. 103–432, §264(e), inserted par. (2) designation.
+
+Subsec. (a)(2)(A)(ii). Pub. L. 103–296, §201(b)(1)(A)(i), designated existing provisions as subcl. (I), struck out “or in the case of any individual or eligible spouse referred to in section 1382(e)(3)(A) of this title,” after “served thereby,”, and added subcl. (II).
+
+Pub. L. 103–296, §107(a)(4), in cl. (ii) as amended by Pub. L. 103–296, §201(b)(1)(A)(i), substituted “Commissioner of Social Security” for “Secretary” wherever appearing and “Commissioner's” for “Secretary's” in two places in subcl. (II).
+
+Subsec. (a)(2)(A)(iii). Pub. L. 103–296, §201(b)(1)(A)(ii), substituted “to an alternative representative payee of the individual or eligible spouse or, if the interest of the individual under this subchapter would be served thereby, to the individual or eligible spouse” for “to the individual or eligible spouse or to an alternative representative payee of the individual or eligible spouse”.
+
+Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” in two places.
+
+Subsec. (a)(2)(B)(i)(I), (ii), (iv) to (vi). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+
+Subsec. (a)(2)(B)(vii). Pub. L. 103–296, §201(b)(2)(A)(ii), added cl. (vii). Former cl. (vii) redesignated (viii).
+
+Pub. L. 103–296, §107(a)(4), in cl. (vii) as added by Pub. L. 103–296, §201(b)(2)(A)(ii), substituted “Commissioner of Social Security” for “Secretary” in two places and “Commissioner's” for “Secretary's”.
+
+Subsec. (a)(2)(B)(viii). Pub. L. 103–296, §201(b)(2)(A)(i), (iii), redesignated cl. (vii) as (viii) and substituted “clause (ix)” for “clause (viii)”. Former cl. (viii) redesignated (ix).
+
+Pub. L. 103–296, §201(b)(1)(B), in subcl. (II) substituted “of 15 years, or (if alcoholism or drug addiction is acontributing factor material to the Secretary's determination that the individual is disabled) is eligible for benefits under this subchapter by reason of disability.” for “15 years, or a drug addict or alcoholic referred to in section 1382(e)(3)(A) of this title.”
+
+Pub. L. 103–296, §107(a)(4), in cl. (viii) as redesignated by Pub. L. 103–296, §201(b)(2)(A)(i), substituted “Commissioner of Social Security” for “Secretary” in two places.
+
+Subsec. (a)(2)(B)(ix). Pub. L. 103–296, §201(b)(2)(A)(i), (iv), redesignated cl. (viii) as (ix) and in subcl. (I) substituted “clause (viii)” for “clause (vii)”. Former cl. (ix) redesignated (x).
+
+Pub. L. 103–296, §107(a)(4), in cl. (ix) as redesignated and amended by Pub. L. 103–296, §201(b)(1)(B), (2)(A)(i), substituted “Commissioner's” for “Secretary's” in two places in subcl. (II).
+
+Subsec. (a)(2)(B)(x) to (xii). Pub. L. 103–296, §201(b)(2)(A)(i), redesignated cls. (ix) to (xi) as (x) to (xii), respectively. Former cl. (xii) redesignated (xiii).
+
+Pub. L. 103–296, §107(a)(4), in cls. (x) to (xii) as redesignated by Pub. L. 103–296, §201(b)(2)(A)(i), substituted “Commissioner of Social Security” for “Secretary” and “Commissioner's” for “Secretary's” wherever appearing.
+
+Subsec. (a)(2)(B)(xiii). Pub. L. 103–296, §201(b)(2)(A)(i), (v), redesignated cl. (xii) as (xiii) and substituted “clause (xii)” for “clause (xi)” and “clause (xi)” for “clause (x)”.
+
+Subsec. (a)(2)(C). Pub. L. 103–296, §107(a)(4), in subpar. (C) as amended by Pub. L. 103–432, §264(f), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+
+Subsec. (a)(2)(C)(i). Pub. L. 103–432, §264(f)(1), substituted “to a representative payee” for “to representative payee”.
+
+Subsec. (a)(2)(C)(ii). Pub. L. 103–432, §264(f)(2), (3), redesignated cl. (iii) as (ii) and struck out former cl. (ii) which read as follows: “Clause (i) shall not apply in any case where the representative payee is a parent or spouse of the individual entitled to such payment who lives in the same household as such individual. The Secretary shall require such parent or spouse to verify on a periodic basis that such parent or spouse continues to live in the same household as such individual.”
+
+Subsec. (a)(2)(C)(iii). Pub. L. 103–432, §264(f)(3), redesignated cl. (iv) as (iii). Former cl. (iii) redesignated (ii).
+
+Subsec. (a)(2)(C)(iv). Pub. L. 103–432, §264(f)(4), substituted “Notwithstanding clauses (i), (ii), and (iii)” for “Notwithstanding clauses (i), (ii), (iii), and (iv)”.
+
+Pub. L. 103–432, §264(f)(3), redesignated cl. (v) as (iv). Former cl. (iv) redesignated (iii).
+
+Subsec. (a)(2)(C)(v). Pub. L. 103–432, §264(f)(3), redesignated cl. (v) as (iv).
+
+Subsec. (a)(2)(D)(i). Pub. L. 103–296, §201(b)(2)(B)(i)(I)(bb), inserted in closing provisions “The Secretary shall adjust annually (after 1995) each dollar amount set forth in subclause (II) of this clause under procedures providing for adjustments in the same manner and to the same extent as adjustments are provided for under the procedures used to adjust benefit amounts under section 415(i)(2)(A) of this title, except that any amount so adjusted that is not a multiple of $1.00 shall be rounded to the nearest multiple of $1.00.”
+
+Pub. L. 103–296, §107(a)(4), in cl. (i) as amended by Pub. L. 103–296, §201(b)(2)(B)(i)(I)(bb), substituted “Commissioner of Social Security” for “Secretary” in closing provisions.
+
+Subsec. (a)(2)(D)(i)(II). Pub. L. 103–296, §201(b)(2)(B)(i)(I)(aa), added subcl. (II) and struck out former subcl. (II) which read as follows: “$25.00 per month.”
+
+Pub. L. 103–296, §104(a)(7), in subcl. (II) as added by Pub. L. 103–296, §201(b)(2)(B)(i)(I)(aa), substituted “Commissioner's” for “Secretary's”.
+
+Subsec. (a)(2)(D)(ii). Pub. L. 103–296, §201(b)(2)(B)(ii), in introductory provisions inserted “State or local government agency whose mission is to carry out income maintenance, social service, or health care-related activities, any State or local government agency with fiduciary responsibilities, or any” after “means any” and a comma after “service agency”, at end of subcl. (I) inserted “and”, and in subcl. (II) inserted “and” at end of item (aa), substituted a period for “; and” at end of item (bb), and struck out item (cc) which read as follows: “was in existence on October 1, 1988.”
+
+Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+
+Subsec. (a)(2)(D)(iv). Pub. L. 103–296, §201(b)(2)(B)(iii)(II), redesignated cl. (v) as (iv).
+
+Pub. L. 103–296, §201(b)(2)(B)(iii)(I), struck out cl. (iv) which read as follows: “This subparagraph shall cease to be effective on July 1, 1994.”
+
+Subsec. (a)(2)(D)(v). Pub. L. 103–296, §201(b)(2)(B)(iii)(II), redesignated cl. (v) as (iv).
+
+Pub. L. 103–296, §201(b)(2)(B)(i)(II), added cl. (v).
+
+Subsec. (a)(2)(E). Pub. L. 103–296, §321(f)(2)(B)(ii), added subpar. (E). Former subpar. (E) redesignated (F).
+
+Pub. L. 103–296, §107(a)(4), in subpar. (E) as added by Pub. L. 103–296, §321(f)(2)(B)(ii), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+
+Subsec. (a)(2)(F), (G). Pub. L. 103–296, §321(f)(2)(B)(i), redesignated subpars. (E) and (F) as (F) and (G), respectively.
+
+Pub. L. 103–296, §107(a)(4), in subpars. (F) and (G) as redesignated by Pub. L. 103–296, §321(f)(2)(B)(i), substituted “Commissioner of Social Security” for “Secretary” wherever appearing and “Commissioner's” for “Secretary's” in subpar. (G).
+
+Subsec. (a)(3), (4), (6) to (8). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing, “the Commissioner's” for “his” in par. (8)(A), and “Commissioner's” for “Secretary's” in par. (8)(B).
+
+Subsec. (b). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing and “the Commissioner finds” for “he finds” in par. (1)(B).
+
+Subsec. (b)(3) to (5). Pub. L. 103–432, §267(b), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “In any case in which advance payments for a taxable year made by all employers to an individual under section 3507 of the Internal Revenue Code of 1986 (relating to advance payment of earned income credit) exceed the amount of such individual's earned income credit allowable under section 32 of such Code for such year, so that such individual is liable under section 32(g) of such Code for a tax equal to such excess, the Secretary shall provide for an appropriate adjustment of such individual's benefit amount under this subchapter so as to provide payment to such individual of an amount equal to the amount of such benefits lost by such individual on account of such excess advance payments.”
+
+Subsec. (c)(1)(A). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing, “Commissioner's determination” for “Secretary's determination”, “the Commissioner's findings” for “his findings”, “the Commissioner's own motion” for “his own motion”, “the Commissioner may deem” for “he may deem”, and “the Commissioner may administer” for “he may administer”.
+
+Subsec. (c)(1)(B). Pub. L. 103–432, §264(g), substituted “subparagraph (A)” for “paragraph (1)” in cls. (i) and (ii).
+
+Subsec. (c)(1)(B)(ii). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
+
+Subsec. (c)(3). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” and “Commissioner's” for “Secretary's”.
+
+Subsec. (d)(2)(A)(i). Pub. L. 103–296, §321(f)(3)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “by substituting ‘section 1320a–6(a) or 1383(g) of this title’ for ‘section 1320a–6(a) of this title’; and”.
+
+Subsec. (d)(2)(B). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” in two places.
+
+Subsec. (e)(1). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+
+Subsec. (e)(1)(C). Pub. L. 103–387 added subpar. (C).
+
+Subsec. (e)(2), (3). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing and “the Commissioner may” for “he may” in par. (2).
+
+Subsec. (e)(4). Pub. L. 103–296, §206(a)(2), added par. (4).
+
+Subsec. (e)(5). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” in introductory provisions.
+
+Subsec. (e)(6). Pub. L. 103–432, §268, redesignated subpars. (1) and (2) of par. (6), relating to face-to-face interviews in field offices, as subpars. (A) and (B), respectively.
+
+Pub. L. 103–296, §206(d)(2), added par. (6) relating to suspicion of fraud or similar fault.
+
+Pub. L. 103–296, §107(a)(4), in par. (6), relating to suspicion of fraud or similar fault, as added by Pub. L. 103–296, §206(d)(2), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+
+Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” in closing provisions of par. (6) relating to face-to-face interviews in field offices.
+
+Subsec. (e)(7). Pub. L. 103–296, §206(f)(1), added par. (7).
+
+Pub. L. 103–296, §107(a)(4), in par. (7) as added by Pub. L. 103–296, §206(f)(1), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+
+Subsecs. (f) to (m). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing, except where appearing before “of the Treasury” in subsec. (i)(1) and (3).
+
+Subsec. (n). Pub. L. 103–432, §264(b), which directed substitution of “section” for “subsection”, could not be executed because of amendment by Pub. L. 103–296, §321(h)(1)(A), which substituted “subchapter” for “subsection”. See below.
+
+Pub. L. 103–296, §321(h)(1)(B), redesignated subsec. (n) relating to notice requirements as (<i>o).</i>
+
+Pub. L. 103–296, §321(h)(1)(A), substituted “subchapter” for “subsection” in subsec. (n) relating to concurrent SSI and food stamp applications by institutionalized individuals.
+
+Pub. L. 103–296, §107(a)(4), substituted “The Commissioner of Social Security and” for “The Secretary and” in subsec. (n) relating to concurrent SSI and food stamp applications by institutionalized individuals.
+
+Subsec. (<i>o</i>). Pub. L. 103–296, §321(h)(1)(B), redesignated subsec. (n) relating to notice requirements as (<i>o).</i>
+
+Pub. L. 103–296, §107(a)(4), in subsec. (<i>o</i>) as redesignated by Pub. L. 103–296, §321(h)(1)(B), substituted “Commissioner of Social Security” for “Secretary” in two places in introductory provisions.
+
+1990—Subsec. (a)(2)(A). Pub. L. 101–508, §5105(a)(1)(B)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Payments of the benefit of any individual may be made to any such individual or to his eligible spouse (if any) or partly to each, or, if the Secretary deems it appropriate to any other person (including an appropriate public or private agency) who is interested in or concerned with the welfare of such individual (or spouse). Notwithstanding the provisions of the preceding sentence, in the case of any individual or eligible spouse referred to in section 1382(e)(3)(A) of this title, the Secretary shall provide for making payments of the benefit to any other person (including an appropriate public or private agency) who is interested in or concerned with the welfare of such individual (or spouse).”
+
+Subsec. (a)(2)(B). Pub. L. 101–508, §5105(a)(2)(A)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Any determination made under subparagraph (A) that payment should be made to a person other than the individual or spouse entitled to such payment must be made on the basis of an investigation, carried out either prior to such determination or within forty-five days after such determination, and on the basis of adequate evidence that such determination is in the interest of the individual or spouse entitled to such payment (as determined by the Secretary in regulations). The Secretary shall ensure that such determinations are adequately reviewed.”
+
+Subsec. (a)(2)(C)(i). Pub. L. 101–508, §5105(a)(1)(B)(ii)(I), substituted “representative payee of an individual or spouse” for “a person other than the individual or spouse entitled to such payment”.
+
+Subsec. (a)(2)(C)(ii) to (iv). Pub. L. 101–508, §5105(a)(1)(B)(ii)(II), substituted “representative payee” for “other person to whom such payment is made”.
+
+Subsec. (a)(2)(C)(v). Pub. L. 101–508, §5105(a)(1)(B)(ii)(III), substituted “representative payee” for “person receiving payments on behalf of another” and for “person receiving such payments”.
+
+Subsec. (a)(2)(D). Pub. L. 101–508, §5105(a)(3)(A)(ii)(III)\[(II)\], added subpar. (D). Former subpar. (D) redesignated (E).
+
+Subsec. (a)(2)(E). Pub. L. 101–508, §5105(c)(2), added subpar. (E). Former subpar. (E) redesignated (F).
+
+Pub. L. 101–508, §5105(a)(3)(A)(ii)(I), redesignated subpar. (D) as (E).
+
+Subsec. (a)(2)(F). Pub. L. 101–508, §5105(d)(1)(B), which directed amendment of subsec. (a)(2)(E), as redesignated by section 5105(c)(2) of Pub. L. 101–508, by redesignating it as subpar. (E) and amending it generally, was executed to subpar. (E), as added by section 5105(c)(2) of Pub. L. 101–508, as the probable intent of Congress. Prior to amendment, subpar. (E) read as follows: “In cases where the negligent failure of the Secretary to investigate or monitor a representative payee results in misuse of benefits by the representative payee, the Secretary shall make payment to the beneficiary or the beneficiary's representative payee of an amount equal to such misused benefits. The Secretary shall make a good faith effort to obtain restitution from the terminated representative payee.”
+
+Pub. L. 101–508, §5105(c)(2), redesignated subpar. (E) as (F).
+
+Subsec. (a)(4)(B). Pub. L. 101–508, §5038(a), substituted “6 months” for “3 months”.
+
+Subsec. (a)(6)(A). Pub. L. 101–508, §5113(b)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “such individual is participating in an approved vocational rehabilitation program under a State plan approved under title I of the Rehabilitation Act of 1973, and”.
+
+Subsec. (a)(6)(B). Pub. L. 101–508, §5113(b)(2), substituted “Secretary” for “Commissioner of Social Security”.
+
+Subsec. (a)(9). Pub. L. 101–508, §5031(c), added par. (9).
+
+Subsec. (c)(1). Pub. L. 101–508, §5107(a)(2), designated existing provision as subpar. (A) and added subpar. (B).
+
+Subsec. (d)(2)(A). Pub. L. 101–508, §5106(a)(2), amended subpar. (A) generally, substituting cls. (i) and (ii) for former single par. which authorized Secretary to prescribe regulations relating to representation of claimants before the Secretary, representation by attorneys, suspension of representatives, and maximum fees for representation, provided penalties for deceiving claimants and exceeding maximum fees, and required Secretary to maintain in the electronic information retrieval system of the Social Security Administration the identity of representatives of claimants.
+
+Subsec. (h). Pub. L. 101–508, §5106(c), inserted at end “The amount available for payment under this subsection for travel by a representative to attend an administrative proceeding before an administrative law judge or other adjudicator shall not exceed the maximum amount allowable under this subsection for such travel originating within the geographic area of the office having jurisdiction over such proceeding.”
+
+Subsec. (j)(2)(A). Pub. L. 101–508, §5039(b), inserted “(other than subsection (c) thereof)” after first reference to “section 1382h of this title”.
+
+Subsec. (m). Pub. L. 101–508, §5040(1), struck out at end “The Secretary and the Secretary of Agricultureshall develop a procedure under which an individual who applies for supplemental security income benefits under this subchapter shall also be permitted to apply for participation in the food stamp program by executing a single application.”
+
+Subsec. (n). Pub. L. 101–508, §5109(a)(2), added subsec. (n) relating to notice requirements.
+
+Pub. L. 101–508, §5040(2), added subsec. (n) relating to concurrent SSI and food stamp applications by institutionalized individuals.
+
+1989—Subsec. (c)(1). Pub. L. 101–239, §10305(e), inserted at end “The Secretary shall specifically take into account any physical, mental, educational, or linguistic limitation of such individual (including any lack of facility with the English language) in determining, with respect to the eligibility of such individual for benefits under this subchapter, whether such individual acted in good faith or was at fault, and in determining fraud, deception, or intent.”
+
+Subsec. (d)(2). Pub. L. 101–239, §10307(b)(2), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Pub. L. 101–239, §10307(a)(2), inserted at end “The Secretary shall maintain in the electronic information retrieval system used by the Social Security Administration a current record, with respect to any claimant before the Secretary, of the identity of any person representing such claimant in accordance with this paragraph.”
+
+Subsec. (e)(5). Pub. L. 101–239, §10302(b)(1), added par. (5).
+
+Subsec. (e)(6). Pub. L. 101–239, §10303(b), added par. (6).
+
+1988—Subsec. (a)(8). Pub. L. 100–647 added par. (8).
+
+1987—Subsec. (a)(4)(A). Pub. L. 100–203, §9109(a), substituted “a cash advance against such benefits, including any federally-administered State supplementary payments, in an amount not exceeding the monthly amount that would be payable to an eligible individual with no other income for the first month of such presumptive eligibility” for “a cash advance against such benefits in an amount not exceeding $100”.
+
+Subsec. (a)(6). Pub. L. 100–203, §9112(a), in introductory provision inserted “blindness (as determined under section 1382c(a)(2) of this title) or” before “disability” and “blindness or other” before “physical”, and in subpar. (B) inserted “blindness and” before “disability”.
+
+Subsec. (g)(2). Pub. L. 100–203, §9110(a), substituted “at the time the Secretary makes the first payment of benefits with respect to the period described in clause (A) or (B) of paragraph (3)” for “at the time the Secretary makes the first payment of benefits”.
+
+Subsec. (g)(3). Pub. L. 100–203, §9110(b), inserted cl. (A) designation after “basic needs” and added cl. (B).
+
+Subsec. (j). Pub. L. 100–203, §9123, redesignated subsec. (j), relating to pre-release procedures for institutionalized persons, as (m).
+
+Subsec. (<i>l</i>). Pub. L. 100–203, §9111(a)(1), added subsec. (<i>l).</i>
+
+Subsec. (m). Pub. L. 100–203, §9123, redesignated subsec. (j), relating to pre-release procedures for institutionalized persons, as (m) and reenacted heading without change.
+
+1986—Subsec. (b)(1). Pub. L. 99–643, §8(a), substituted “(A) Whenever the Secretary” for “Whenever the Secretary”, “by recovery from such individual or his eligible spouse (or from the estate of either) or by payment to such individual or his eligible spouse, or, if such individual is deceased, by payment—” for “by recovery from or payment to such individual or his eligible spouse (or by recovery from the estate of either). The Secretary (A) shall make”, added subpar. (A)(i) and (ii), substituted “(B) the Secretary (i) shall make such provision” for “such provision”, “and (ii) shall in any event” for “and (B) shall in any event”, “(I) the amount” for “(i) the amount”, “(II) an amount” for “(ii) an amount”, “clause (ii)” for “clause (B)”, and “clause (i)” for “clause (A)”.
+
+Subsec. (b)(2). Pub. L. 99–272 added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (b)(3). Pub. L. 99–514, §2, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+
+Pub. L. 99–272 redesignated par. (2) as (3). Former par. (3) redesignated (4).
+
+Subsec. (b)(4), (5). Pub. L. 99–272 redesignated pars. (3) and (4) as (4) and (5), respectively.
+
+Subsec. (e)(1)(A). Pub. L. 99–643, §4(c)(1)(A), substituted “subparagraph (B) and subsection (j) of this section” for “subparagraph (B)”.
+
+Subsec. (e)(1)(B). Pub. L. 99–514, §2, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+
+Subsec. (e)(3). Pub. L. 99–570, §11005(a), added par. (3).
+
+Subsec. (g). Pub. L. 99–514, §1883(d)(1), amended heading generally.
+
+Subsec. (j). Pub. L. 99–570, §11006, added subsec. (j) relating to pre-release procedures for institutionalized persons.
+
+Pub. L. 99–643, §4(c)(1)(B), added subsec. (j) relating to application and review requirements for certain individuals.
+
+Subsec. (j)(2)(A). Pub. L. 99–643, §4(d)(3)(B), in subsec. (j) relating to application and review requirements, substituted “section 1382c(a)(4) of this title” for “section 1382c(a)(5) of this title” in closing provisions.
+
+Subsec. (k). Pub. L. 99–643, §5, added subsec. (k).
+
+1984—Subsec. (a)(2). Pub. L. 98–460, §16(b), redesignated existing provisions as subpar. (A) and added subpars. (B) to (D).
+
+Subsec. (a)(7). Pub. L. 98–460, §7(b), added par. (7).
+
+Pub. L. 98–369, §2612(a), inserted “(A)” before “shall make such provision” in second sentence, and added cl. (B).
+
+Subsec. (b)(1). Pub. L. 98–369, §2663(g)(11)(A), substituted “equity and good conscience” for “equity or good conscience”.
+
+Subsec. (b)(2). Pub. L. 98–369, §2663(g)(11)(B), substituted “section 32” and “section 32(g)” for “section 43” and “section 43(g)”, respectively.
+
+Subsec. (b)(3), (4). Pub. L. 98–369, §2613, added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (d)(1). Pub. L. 98–369, §2663(g)(12), substituted “and (e)” for “(e), and (f)”.
+
+Subsec. (e)(1)(B). Pub. L. 98–369, §2651(j), inserted provision that for this purpose and for purposes of federally administered supplementary payments of the type described in section 1382e(a) of this title (including payments pursuant to an agreement entered into under section 212(a) of Public Law 93–66), the Secretary shall, as may be necessary, request and utilize information available pursuant to section 6103(<i>l</i>)(7) of the Internal Revenue Code of 1954, and any information which may be available from State systems under section 1320b–7 of this title, and shall comply with the requirements applicable to States (with respect to information available pursuant to section 6103(<i>l</i>)(7)(B) of such Code) under subsections (a)(6) and (c) of such section 1320b–7 of this title.
+
+1982—Subsec. (i)(2). Pub. L. 97–248 substituted “such benefit checks” for “checks payable to individuals entitled to benefits under this subchapter but”.
+
+1981—Subsec. (i). Pub. L. 97–35 added subsec. (i).
+
+1980—Subsec. (a)(6). Pub. L. 96–265, §301(b), added par. (6).
+
+Subsec. (b). Pub. L. 96–473 redesignated par. (2) as added by Pub. L. 96–265, §501(c), as (3).
+
+Pub. L. 96–265, §501(c), designated existing provisions as par. (1) and added par. (2), without reference to identical amendment made by Pub. L. 96–222. Such par. (2) was subsequently redesignated par. (3) by Pub. L. 96–473.
+
+Pub. L. 96–222 designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (c)(1). Pub. L. 96–265, §305(b), inserted provisions relating to information that must accompany a decision of Secretary.
+
+Subsec. (h). Pub. L. 96–265, §310(b), added subsec. (h).
+
+1976—Subsec. (a)(4)(B). Pub. L. 94–569 inserted “or blindness” after “disability” and “or blind” after “disabled” wherever appearing.
+
+Subsec. (c)(1). Pub. L. 94–202, §1, increased authority of Secretary by permitting him to hold hearings on hisown motion, to administer oaths, examine witnesses, and receive evidence at hearings, and increased time within which a request for a hearing be made after notice of Secretary's determination is received from thirty to sixty days.
+
+Subsec. (c)(2). Pub. L. 94–202, §1, reenacted par. (2) without change.
+
+Subsec. (c)(3). Pub. L. 94–202, §1, struck out exception to judicial review which made factual determinations by the Secretary, after a hearing as provided by subsec. (c)(1), final and conclusive.
+
+Subsec. (d)(2), (3). Pub. L. 94–202, §2, struck out par. (2) which related to appointment of individuals to serve as hearing examiners without meeting specific standards prescribed for hearing examiners, and redesignated par. (3) as par. (2).
+
+Subsec. (g). Pub. L. 94–365 struck out par. (6) which provided that provisions of this subsection were to expire on June 30, 1976, at least sixty days prior to which, the Secretary was to submit to Congress a report assessing effects of actions taken pursuant to this subsection and including whatever recommendations the Secretary deemed appropriate.
+
+1974—Subsec. (g). Pub. L. 93–368 added subsec. (g).
+
+1973—Subsec. (a)(4)(B). Pub. L. 93–233 inserted “solely because such individual is determined not to be disabled.”
+
+#### Effective Date of 1994 Amendments
+
+Amendment by section 264(b) and (e)–(g) of Pub. L. 103–432 effective as if included in the provision of Pub. L. 101–508 to which the amendment relates at the time such provision became law, see section 264(h) of Pub. L. 103–432, set out as a note under section 602 of this title.
+
+Section 6(b) of Pub. L. 103–387 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to admissions occurring on or after October 1, 1995.”
+
+Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
+
+Section 201(b)(1)(C) of Pub. L. 103–296 provided that: “The amendments made by this paragraph \[amending this section\] shall apply with respect to months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\].”
+
+Section 201(b)(2)(B)(iii)(I) of Pub. L. 103–296 provided that the amendment made by that section is effective July 1, 1994.
+
+Section 201(b)(2)(C) of Pub. L. 103–296 provided that: “Except as provided in subparagraph (B)(iii)(I) \[amending this section and enacting provisions set out as a note above\], the amendments made by this paragraph \[amending this section\] shall apply with respect to months beginning after 90 days after the date of the enactment of this Act \[Aug. 15, 1994\].”
+
+Amendment by section 206(a)(2) of Pub. L. 103–296 applicable to translations made on or after Oct. 1, 1994, see section 206(a)(3) of Pub. L. 103–296, set out as a note under section 405 of this title.
+
+Amendment by section 206(d)(2) of Pub. L. 103–296 effective Oct. 1, 1994, and applicable to determinations made before, on, or after such date, see section 206(d)(3) of Pub. L. 103–296, set out as a note under section 405 of this title.
+
+Section 206(f)(2) of Pub. L. 103–296 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1994.”
+
+Amendment by section 321(f)(2)(B), (3)(A) of Pub. L. 103–296 effective as if included in the provisions of Pub. L. 101–508 to which such amendment relates, see section 321(f)(5) of Pub. L. 103–296, set out as a note under section 405 of this title.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by section 5031(c) of Pub. L. 101–508 applicable with respect to benefits for months beginning on or after the first day of the 6th calendar month following November 1990, see section 5031(d) of Pub. L. 101–508, set out as a note under section 1382a of this title.
+
+Section 5038(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to benefits for months beginning on or after the first day of the 6th calendar month following the month in which this Act is enacted \[November 1990\].”
+
+Amendment by section 5105(a)(1)(B), (2)(A)(ii) of Pub. L. 101–508 effective July 1, 1991, and applicable only with respect to (i) certifications of payment of benefits under subchapter II of this chapter to representative payees made on or after such date; and (ii) provisions for payment of benefits under this subchapter to representative payees made on or after such date, and amendment by section 5105(a)(3)(A)(ii) of Pub. L. 101–508 effective July 1, 1991, see section 5105(a)(5) of Pub. L. 101–508 set out as a note under section 405 of this title.
+
+Amendment by section 5105(d)(1)(B) of Pub. L. 101–508 applicable with respect to annual reports issued for years after 1991, see section 5105(d)(2) of Pub. L. 101–508, set out as a note under section 405 of this title.
+
+Amendment by section 5106(a)(2), (c) of Pub. L. 101–508 applicable with respect to determinations made on or after July 1, 1991, and to reimbursement for travel expenses incurred on or after Apr. 1, 1991, see section 5106(d) of Pub. L. 101–508, set out as a note under section 401 of this title.
+
+Amendment by section 5107(a)(2) of Pub. L. 101–508 applicable with respect to adverse determinations made on or after July 1, 1991, see section 5107(b) of Pub. L. 101–508, set out as a note under section 405 of this title.
+
+Amendment by section 5109(a)(2) of Pub. L. 101–508 applicable with respect to notices issued on or after July 1, 1991, see section 5109(b) of Pub. L. 101–508, set out as a note under section 405 of this title.
+
+Amendment by section 5113(b) of Pub. L. 101–508 effective with respect to benefits payable for months after the eleventh month following November 1990, and applicable only with respect to individuals whose blindness or disability has or may have ceased after such eleventh month, see section 5113(c) of Pub. L. 101–508, set out as a note under section 425 of this title.
+
+#### Effective Date of 1989 Amendment
+
+Section 10302(b)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to misinformation furnished on or after the date of the enactment of this Act \[Dec. 19, 1989\] and to benefits for months after the month in which this Act is enacted \[December 1989\].”
+
+Amendment by section 10303(b) of Pub. L. 101–239 applicable to visits to field offices of Social Security Administration on or after Jan. 1, 1990, see section 10303(c) of Pub. L. 101–239, set out as a note under section 405 of this title.
+
+Amendment by section 10305(e) of Pub. L. 101–239 applicable with respect to determinations made on or after July 1, 1990, see section 10305(f) of Pub. L. 101–239, set out as a note under section 403 of this title.
+
+Amendment by section 10307(a)(2) of Pub. L. 101–239 effective June 1, 1991, see section 10307(a)(3) of Pub. L. 101–239, set out as a note under section 406 of this title.
+
+Amendment by section 10307(b)(2) of Pub. L. 101–239 applicable with respect to adverse determinations made on or after Jan. 1, 1991, see section 10307(b)(3) of Pub. L. 101–239, set out as a note under section 406 of this title.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–647 applicable to determinations by administrative law judges of entitlement to benefits made after 180 days after Nov. 10, 1988, see section 8001(c) of Pub. L. 100–647, set out as a note under section 423 of this title.
+
+#### Effective Date of 1987 Amendment
+
+Section 9109(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on the date of the enactment of this Act \[Dec. 22, 1987\].”
+
+Section 9110(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section\] shall become effective with the 13th month following the month in which this Act is enacted \[December 1987\], or, if sooner, with the first month for which the Secretary of Health and Human Services determines that it is administratively feasible.”
+
+Section 9111(c) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective July 1, 1988.”
+
+Section 9112(b) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective April 1, 1988.”
+
+#### Effective Date of 1986 Amendments
+
+Amendment by sections 4(c)(1), (d)(3)(B) and 5 of Pub. L. 99–643 effective July 1, 1987, except as otherwise provided, see section 10(b) of Pub. L. 99–643, set out as a note under section 1396a of this title.
+
+Section 8(b) of Pub. L. 99–643 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to benefits payable for months after May 1986.”
+
+Section 11005(c)(1) of Pub. L. 99–570 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on the date of the enactment of this Act \[Oct. 27, 1986\].”
+
+Amendment by Pub. L. 99–272 applicable only in the case of deaths of which the Secretary is first notified on or after Apr. 7, 1986, see section 12113(c) of Pub. L. 99–272, set out as a note under section 404 of this title.
+
+#### Effective Date of 1984 Amendments
+
+Amendment by section 16(b) of Pub. L. 98–460 effective Oct. 9, 1984, see section 16(d) of Pub. L. 98–460, set out as a note under section 405 of this title.
+
+Amendment by sections 2612(a) and 2613 of Pub. L. 98–369 effective Oct. 1, 1984, except as otherwise specifically provided, see section 2646 of Pub. L. 98–369, set out as a note under section 602 of this title.
+
+Amendment by section 2651(j) of Pub. L. 98–369 effective July 18, 1984, see section 2651(<i>l</i>)(1) of Pub. L. 98–369, set out as an Effective Date note under section 1320b–7 of this title.
+
+Amendment by section 2663(g)(11), (12) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+
+#### Effective Date of 1982 Amendment
+
+Section 187(b) of Pub. L. 97–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective October 1, 1982.”
+
+#### Effective Date of 1981 Amendment
+
+Section 2343(b) of Pub. L. 97–35 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective October 1, 1982.”
+
+#### Effective Date of 1980 Amendment
+
+Amendment by section 301(b) of Pub. L. 96–265 effective on first day of sixth month which begins after June 9, 1980, and applicable with respect to individuals whose disability has not been determined to have ceased prior to such first day, see section 301(c) of Pub. L. 96–265, set out as a note under section 425 of this title.
+
+Amendment by section 305(b) of Pub. L. 96–265 applicable with respect to decisions made on or after the first day of the 13th month following June, 1980, see section 305(c) of Pub. L. 96–265, set out as a note under section 405 of this title.
+
+Amendment by section 501(c) of Pub. L. 96–265 applicable in the case of payments of monthly insurance benefits under subchapter II of this chapter, entitlement for which is determined on or after July 1, 1981, see section 501(d) of Pub. L. 96–265, set out as an Effective Date note under section 1320a–6 of this title.
+
+#### Effective Date of 1976 Amendments
+
+Section 4(b) of Pub. L. 94–569 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to months after the month following the month in which this Act is enacted \[October 1976\].”
+
+Amendment by sections 1 and 2 of Pub. L. 94–202 effective Jan. 2, 1976, with the amendment by section 2 of Pub. L. 94–202, to the extent that it changes the period within which a hearing must be requested, applicable to any decision or determination which is received on or after Jan. 2, 1976, see section 5 of Pub. L. 94–202, set out as a note under section 405 of this title.
+
+#### Effective Date of 1973 Amendment
+
+Amendment by Pub. L. 93–233 effective Jan. 1, 1974, see section 18(z–3)(1) of Pub. L. 93–233.
+
+#### Effective Date
+
+Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 1974.
+
+#### Payment of Travel Expenses
+
+Pub. L. 102–394, title II, Oct. 6, 1992, 106 Stat. 1807, provided in part: “That for fiscal year 1993 and thereafter, travel expense payments under section 1631(h) of such Act \[subsec. (h) of this section\] for travel to hearings may be made only when travel of more than seventy-five miles is required”.
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 102–170, title II, Nov. 26, 1991, 105 Stat. 1122.
+
+Pub. L. 101–517, title II, Nov. 5, 1990, 104 Stat. 2204.
+
+Pub. L. 101–166, title II, Nov. 21, 1989, 103 Stat. 1173.
+
+Pub. L. 100–436, title II, Sept. 20, 1988, 102 Stat. 1695.
+
+Pub. L. 100–202, §101(h) \[title II\], Dec. 22, 1987, 101 Stat. 1329–256, 1329–270.
+
+Pub. L. 99–500, §101(i) \[H.R. 5233, title II\], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, §101(i) \[H.R. 5233, title II\], Oct. 30, 1986, 100 Stat. 3341–287.
+
+Pub. L. 99–178, title II, Dec. 12, 1985, 99 Stat. 1116.
+
+Pub. L. 98–619, title II, Nov. 8, 1984, 98 Stat. 3318.
+
+Pub. L. 98–139, title II, Oct. 31, 1983, 97 Stat. 884.
+
+Pub. L. 97–377, title I, §101(e)(1), Dec. 21, 1982, 96 Stat. 1891.
+
+Pub. L. 97–92, §101(a) \[H.R. 4560, title II\], Dec. 15, 1981, 95 Stat. 1183.
+
+#### Deposit of Overpayments in General Fund of Treasury
+
+Pub. L. 102–170, title II, Nov. 26, 1991, 105 Stat. 1122, provided: “That for fiscal year 1992 and thereafter, all collections from repayments of overpayments shall be deposited in the general fund of the Treasury.”
+
+#### Opportunity for Individuals Receiving Benefits To Make Election for Type of Notice of Hearing or Other Official Action
+
+Section 9111(a)(2) of Pub. L. 100–203 directed Secretary of Health and Human Services, not later than one year after July 1, 1988, to provide every individual receiving benefits under this subchapter on the basis of blindness an opportunity to make an election under subsec. (<i>l</i>)(1) of this section.
+
+#### Study of Desirability and Feasibility of Special Notices of Hearings and Other Actions to Other Individuals Unable To Read
+
+Section 9111(b) of Pub. L. 100–203 directed Secretary of Health and Human Services to study desirability and feasibility of extending special or supplementary notices of the type provided to blind individuals by subsec. (<i>l</i>) of this section to other individuals who may lack the ability to read and comprehend regular written notices, and report the results of such study to Congress, along with recommendations, within 12 months after Dec. 22, 1987.
+
+#### Demonstration Program To Assist Homeless Individuals
+
+Section 9117 of Pub. L. 100–203 provided that:
+
+“(a)
+
+In General.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) is authorized to make grants to States for projects designed to demonstrate and test the feasibility of special procedures and services to ensure that homeless individuals are provided SSI and other benefits under the Social Security Act \[this chapter\] to which they are entitled and receive assistance in using such benefits to obtain permanent housing, food, and health care. Each project approved under this section shall meet such conditions and requirements, consistent with this section, as the Secretary shall prescribe.
+
+“(b)
+
+Scope of Projects.—Projects for which grants are made under this section shall include, more specifically, procedures and services to overcome barriers which prevent homeless individuals (particularly the chronically mentally ill) from receiving and appropriately using benefits, including—
+
+&emsp;“(1) the creation of cooperative approaches between the Social Security Administration, State and local governments, shelters for the homeless, and other providers of services to the homeless;
+
+&emsp;“(2) the establishment, where appropriate, of multi-agency SSI Outreach Teams (as described in subsection (c)), to facilitate communication between the agencies and staff involved in taking and processing claims for SSI and other benefits by the homeless who use shelters;
+
+&emsp;“(3) special efforts to identify homeless individuals who are potentially eligible for SSI or other benefits under the Social Security Act \[this chapter\];
+
+&emsp;“(4) the provision of special assistance to the homeless in applying for benefits, including assistance in obtaining and developing evidence of disability and supporting documentation for nondisability-related eligibility requirements;
+
+&emsp;“(5) the provision of special training and assistance to public and private agency staff, including shelter employees, on disability eligibility procedures and evidentiary requirements;
+
+&emsp;“(6) the provision of ongoing assistance to formerly homeless individuals to ensure their responding to information requests related to periodic redeterminations of eligibility for SSI and other benefits;
+
+&emsp;“(7) the provision of assistance in ensuring appropriate use of benefit funds for the purpose of enabling homeless individuals to obtain permanent housing, nutrition, and physical and mental health care, including the use, where appropriate, of the disabled individual's representative payee for case management services; and
+
+&emsp;“(8) such other procedures and services as the Secretary may approve.
+
+“(c)
+
+SSI Outreach Team Projects.—(1) If a State applies for funds under this section for the purpose of establishing a multi-agency SSI Outreach Team, the membership and functions of such Team shall be as follows (except as provided in paragraph (2)):
+
+&emsp;“(A) The membership of the Team shall include a social services case worker (or case workers, if necessary); a consultative medical examiner who is qualified to provide consultative examinations for the Disability Determination Service of the State; a disability examiner, from the State Disability Determination Service; and a claims representative from an office of the Social Security Administration.
+
+&emsp;“(B) The Team shall have designated members responsible for—
+
+&emsp;&emsp;“(i) identification of homeless individuals who are potentially eligible for SSI or other benefits under the Social Security Act \[this chapter\];
+
+&emsp;&emsp;“(ii) ensuring that such individuals understand their rights under the programs;
+
+&emsp;&emsp;“(iii) assisting such individuals in applying for benefits, including assistance in obtaining and developing evidence and supporting documentation relating to disability- and nondisability-related eligibility requirements;
+
+&emsp;&emsp;“(iv) arranging transportation and accompanying applicants to necessary examinations, if needed; and
+
+&emsp;&emsp;“(v) providing for the tracking and monitoring of all claims for benefits by individuals under the project.
+
+&emsp;“(2) If the Secretary determines that an application by a State for an SSI Outreach Team Project under this section which proposes a membership and functions for such Team different from those prescribed in paragraph (1) but which is expected to be as effective, the Secretary may waive the requirements of such paragraph.
+
+“(d)
+
+Information and Reports; Evaluation.—(1) Each State having an approved SSI Outreach Team Project shall periodically submit to the Secretary such information (with respect to the project) as may be necessary to enable the Secretary to evaluate such project in particular and the demonstration program under this section in general.
+
+“(2)(A) The Secretary shall from time to time (but not less often than annually) submit to the Congress a full and complete report on the program under this section, together with a detailed evaluation of such program and of the projects thereunder along with such recommendations as may be deemed appropriate. Such evaluation and such recommendations shall be designed to serve as a basis for determining whether (and to what extent) the activities and procedures included in the demonstration program under this section should be continued, expanded, or modified, or converted (with or without changes) into a regular feature of permanent law.
+
+“(B) The criteria used by the Secretary in evaluating the program and the projects thereunder shall not be limited to those which would normally be used in evaluating programs and activities of the kind involved, but shall fully take into account the special circumstances of the homeless and their need for personalized attention and follow-through assistance, and shall emphasize the extent to which the procedures and assistance made available to applicants under such projects are recognizing those circumstances and meeting that need.
+
+“(e)
+
+Authorization of Appropriations.—To carry out this section, there are authorized to be appropriated to the Secretary—
+
+&emsp;“(A) the sum of $1,250,000 for the fiscal year 1988;
+
+&emsp;“(B) the sum of $2,500,000 for the fiscal year 1989; and
+
+&emsp;“(C) such sums as may be necessary for each fiscal year thereafter.”
+
+#### Notification of Adjustment of Benefits by Secretary
+
+Section 2612(b) of Pub. L. 98–369 provided that: “If an adjustment referred to in section 1631(b)(1) of the Social Security Act \[subsec. (b)(1) of this section\] is in effect with respect to an individual or eligible spouse on the effective date of this subsection \[Oct. 1, 1984\], and the amount of such adjustment for a month is greater than the amount described in section 1631(b)(1)(B)(ii) of such Act \[subsec. (b)(1)(B)(ii) of this section\], as added by subsection (a), the Secretary shall notify the individual whose benefits are being adjusted, in writing, of his or her right to have the adjustment reduced to the amount described in such section 1631(b)(1)(B)(ii).”
+
+#### Payment of Costs of Rehabilitation Services
+
+Amendment to sections 422 and 1382d of this title by section 11(a), (b) of Pub. L. 98–460 applicable with respect to individuals who receive benefits as a result of section 425(b) or section 1383(a)(6) of this title, or who refuse to continue to accept rehabilitation services or fail to cooperate in an approved vocational rehabilitation program, in or after the first month following October 1984, see section 11(c) of Pub. L. 98–460, set out as an Effective Date of 1984 Amendment note under section 422 of this title.
+
+#### Hearing Examiners Appointed Prior to January 2, 1976
+
+Pub. L. 95–216, title III, §371, Dec. 20, 1977, 91 Stat. 1559, provided that: “The persons who were appointedto serve as hearing examiners under section 1631(d)(2) of the Social Security Act \[subsec. (d)(2) of this section\] (as in effect prior to January 2, 1976), and who by section 3 of Public Law 94–202 \[set out as a note under this section\] were deemed to be appointed under section 3105 of title 5, United States Code (with such appointments terminating no later than at the close of the period ending December 31, 1978), shall be deemed appointed to career-absolute positions as hearing examiners under and in accordance with section 3105 of title 5, United States Code, with the same authority and tenure (without regard to the expiration of such period) as hearing examiners appointed directly under such section 3105, and shall receive compensation at the same rate as hearing examiners appointed by the Secretary of Health, Education, and Welfare \[now Health and Human Services\] directly under such section 3105. All of the provisions of title 5, United States Code and the regulations promulgated pursuant thereto, which are applicable to hearing examiners appointed under such section 3105, shall apply to the persons described in the preceding sentence.”
+
+Section 3 of Pub. L. 94–202 provided that: “The persons appointed under section 1631(d)(2) of the Social Security Act \[subsec. (d)(2) of this section\] (as in effect prior to the enactment of this Act) to serve as hearing examiners in hearings under section 1631(c) of such Act \[subsec. (c) of this section\] may conduct hearings under titles II, XVI, and XVIII of the Social Security Act \[subchapters II, XVI, and XVIII of this chapter\] if the Secretary of Health, Education, and Welfare \[now Health and Human Services\] finds it will promote the achievement of the objectives of such titles \[subchapters\], notwithstanding the fact that their appointments were made without meeting the requirements for hearing examiners appointed under section 3105 of title 5, United States Code but their appointments shall terminate not later than at the close of the period ending December 31, 1978, and during that period they shall be deemed to be hearing examiners appointed under such section 3105 and subject as such to subchapter II of chapter 5 of title 5, United States Code, to the second sentence of such section 3105, and to all of the other provisions of such title 5 which apply to hearing examiners appointed under such section 3105.”
+
+#### Presumptive Disability Benefits; Time Extension
+
+Pub. L. 93–256, §1, Mar. 28, 1974, 88 Stat. 52, provided: “That any individual who would be considered disabled under section 1614(a)(3)(E) of the Social Security Act \[section 1382c(a)(3)(E) of this title\] except that he did not receive aid under the appropriate State plan for at least one month prior to July 1973 may be considered to be presumptively disabled under section 1631(a)(4)(B) of that Act \[subsec. (a)(4)(B) of this section\] and may be paid supplemental security income benefits under title XVI of that Act \[this subchapter\] on the basis of such presumptive disability, and State supplementary payments under section 212 of Public Law 93–66 \[set out as a note under section 1382 of this title\] as though he had been determined to be disabled within the meaning of section 1614(a)(3) of the Social Security Act \[section 1382c(a)(3) of this title\], for any month in calendar year 1974 for which it has been determined that he is otherwise eligible for such benefits, without regard to the three-month limitation in section 1631(a)(4)(B) of that Act \[subsec. (a)(4)(B) of this section\] on the period for which benefits may be paid to presumptively disabled individuals, except that no such benefits may be paid on the basis of such presumptive disability for any month after the month in which the Secretary of Health, Education, and Welfare \[now Health and Human Services\] has made a determination as to whether such individual is disabled, as defined in section 1614(a)(3)(A) of that Act \[section 1382c(a)(3)(A) of this title\].”
+
+#### Application to Northern Mariana Islands
+
+For applicability of this section to the Northern Mariana Islands, see section 502(a)(1) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America and Proc. No. 4534, Oct. 24, 1977, 42 F.R. 6593, set out as notes under section 1801 of Title 48, Territories and Insular Possessions.
+
+#### Puerto Rico, Guam, and Virgin Islands
+
+Enactment of section 1603 of the Social Security Act \[this section\] by Pub. L. 92–603, eff. Jan. 1, 1974, was not applicable to Puerto Rico, Guam, and the Virgin Islands. See section 303(b) of Pub. L. 92–603, set out as a note under section 301 of this title. Therefore, as to Puerto Rico, Guam, and the Virgin Islands, section 1603 of the Social Security Act \[this section\] as it existed prior to reenactment by Pub. L. 92–603, and as amended, continues to apply and reads as follows:
+
+#### §1383. Payments to States; quarterly expenditures to exceed average of total expenditures for each quarter of fiscal year ending June 30, 1965
+
+(a) From the sums appropriated therefor, the Commissioner of Social Security shall pay to each State which has a plan approved under this subchapter, for each quarter, beginning with the quarter commencing October 1, 1962—
+
+&emsp;(1) Repealed. Pub. L. 97–35, title XXI, §2184(d)(5)(A), Aug. 13, 1981, 95 Stat. 818.
+
+&emsp;(2) in the case of Puerto Rico, the Virgin Islands, and Guam, an amount equal to—
+
+&emsp;&emsp;(A) one-half of the total of the sums expended during such quarter as aid to the aged, blind, or disabled under the State plan, not counting so much of any expenditure with respect to any month as exceeds $37.50 multiplied by the total number of recipients of aid to the aged, blind, or disabled for such month; plus
+
+&emsp;&emsp;(B) one-half of the amount by which such expenditures exceed the maximum which may be counted under clause (A), not counting so much of any expenditure with respect to any month as exceeds the product of $45 multiplied by the total number of such recipients of aid to the aged, blind, or disabled for such month; and
+
+&emsp;(3) Repealed. Pub. L. 97–35, title XXI, §2184(d)(5)(A), Aug. 13, 1981, 95 Stat. 818.
+
+&emsp;(4) in the case of any State, an amount equal to 50 percent of the total amounts expended during such quarter as found necessary by the Commissioner of Social Security for the proper and efficient administration of the State plan.
+
+(b)(1) Prior to the beginning of each quarter, the Commissioner of Social Security shall estimate the amount to which a State will be entitled under subsection (a) of this section for such quarter, such estimates to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with the provisions of such subsection, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, and (B) such other investigation as the Commissioner of Social Security may find necessary.
+
+(2) The Commissioner of Social Security shall then pay, in such installments as the Commissioner may determine, to the State the amount so estimated, reduced or increased to the extent of any overpayment or underpayment which the Commissioner of Social Security determines was made under this section to such State for any prior quarter and with respect to which adjustment has not already been made under this subsection.
+
+(3) The pro rata share to which the United States is equitably entitled, as determined by the Commissioner of Social Security, of the net amount recovered during any quarter by the State or any political subdivision thereof with respect to aid or assistance furnishedunder the State plan, but excluding any amount of such aid or assistance recovered from the estate of a deceased recipient which is not in excess of the amount expended by the State or any political subdivision thereof for the funeral expenses of the deceased, shall be considered an overpayment to be adjusted under this subsection.
+
+(4) Upon the making of any estimate by the Commissioner of Social Security under this subsection, any appropriations available for payments under this section shall be deemed obligated.
+
+> (Aug. 14, 1935, ch. 531, title XVI, §1603, as added July 25, 1962, Pub. L. 87–543, title I, §141(a), 76 Stat. 200; amended July 30, 1965, Pub. L. 89–97, title I, §122, title II, §221(d)(4), title IV, §401(b), 79 Stat. 353, 359, 414; Jan. 2, 1968, Pub. L. 90–248, title II, §212(d), 81 Stat. 898; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b), (d), 86 Stat. 946, 947; Jan. 4, 1975, Pub. L. 93–647, §§3(e)(2), 5(e), 88 Stat. 2349, 2350; Aug. 13, 1981, Pub. L. 97–35, title XXI, §2184(d)(5), title XXIII, §2353(m)(2), (3), 95 Stat. 818, 873; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(4), 100 Stat. 3391; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(b), 107 Stat. 663; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), 108 Stat. 1478.)
+
+\[Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as an Effective Date of 1994 Amendment note under section 401 of this title.\]
+
+\[Amendment by Pub. L. 103–66 effective with respect to calendar quarters beginning on or after Apr. 1, 1994, with special rule for States whose legislature meets biennially, and does not have regular session scheduled in calendar year 1994, see section 13741(c) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 303 of this title.\]
+
+\[Amendment by Pub. L. 99–603 effective Oct. 1, 1987, see section 121(c)(2) of Pub. L. 99–603, set out as an Effective Date of 1986 Amendment note under section 502 of this title.\]
+
+#### Reimbursement for Erroneous State Supplementary Payments; Authorization of Appropriations
+
+Pub. L. 95–216, title IV, §405, Dec. 20, 1977, 91 Stat. 1564, provided that:
+
+“(a) Notwithstanding any other provision of law, the Secretary of Health, Education, and Welfare \[now Health and Human Services\] is authorized and directed to pay to each State an amount equal to the amount expended by such State for erroneous supplementary payments to aged, blind, or disabled individuals whenever, and to the extent to which, the Secretary through an audit by the Department of Health, Education, and Welfare \[now Health and Human Services\] which has been reviewed and concurred in by the Inspector General of such department determines that—
+
+&emsp;“(1) such amount was paid by such State as a supplementary payment during the calendar year 1974 pursuant to an agreement between the State and the Secretary required by section 212 of the Act entitled ‘An Act to extend the Renegotiation Act of 1951 for one year, and for other purposes’, approved July 9, 1973, \[set out as a note under section 1382 of this title\], or such amount was paid by such State as an optional State supplementation, as defined in section 1616 of the Social Security Act \[section 1382 of this title\], during the calendar year 1974,
+
+&emsp;“(2) the erroneous payments were the result of good faith reliance by such State upon erroneous or incomplete information supplied by the Department of Health, Education, and Welfare \[now Health and Human Services\], through the State data exchange, or good faith reliance upon incorrect supplemental security income benefit payments made by such department, and
+
+&emsp;“(3) recovery of the erroneous payments by such State would be impossible or unreasonable.
+
+“(b) There are authorized to be appropriated such sums as are necessary to carry out the provisions of this section.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 290cc–22, 405, 909, 1306a, 1318, 1319, 1320a–8, 1382, 1382d, 1382h, 1382j, 1383a, 1396a of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Two pars. (6) have been enacted.</i>
+

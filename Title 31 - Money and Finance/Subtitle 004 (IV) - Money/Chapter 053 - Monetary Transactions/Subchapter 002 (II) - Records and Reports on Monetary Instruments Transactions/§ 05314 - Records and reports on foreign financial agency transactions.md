@@ -1,0 +1,60 @@
+### §5314. Records and reports on foreign financial agency transactions
+
+(a) Considering the need to avoid impeding or controlling the export or import of monetary instruments and the need to avoid burdening unreasonably a person making a transaction with a foreign financial agency, the Secretary of the Treasury shall require a resident or citizen of the United States or a person in, and doing business in, the United States, to keep records, file reports, or keep records and file reports, when the resident, citizen, or person makes a transaction or maintains a relation for any person with a foreign financial agency. The records and reports shall contain the following information in the way and to the extent the Secretary prescribes:
+
+&emsp;(1) the identity and address of participants in a transaction or relationship.
+
+&emsp;(2) the legal capacity in which a participant is acting.
+
+&emsp;(3) the identity of real parties in interest.
+
+&emsp;(4) a description of the transaction.
+
+(b) The Secretary may prescribe—
+
+&emsp;(1) a reasonable classification of persons subject to or exempt from a requirement under this section or a regulation under this section;
+
+&emsp;(2) a foreign country to which a requirement or a regulation under this section applies if the Secretary decides applying the requirement or regulation to all foreign countries is unnecessary or undesirable;
+
+&emsp;(3) the magnitude of transactions subject to a requirement or a regulation under this section;
+
+&emsp;(4) the kind of transaction subject to or exempt from a requirement or a regulation under this section; and
+
+&emsp;(5) other matters the Secretary considers necessary to carry out this section or a regulation under this section.
+
+(c) A person shall be required to disclose a record required to be kept under this section or under a regulation under this section only as required by law.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 997.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+5314(a)
+
+31:1121(a).
+
+Oct. 26, 1970, Pub. L. 91–508, §§241, 242, 84 Stat. 1124.
+
+5314(b)
+
+31:1122.
+
+5314(c)
+
+31:1121(b).
+
+In subsection (a), before clause (1), the words “currency or other”, “legitimately”, “by regulation”, and “directly or indirectly” are omitted as surplus. The words “for any person” are substituted for “on behalf of himself or another” to eliminate unnecessary words. The words “and to the extent” are substituted for “and in such detail” for clarity. In clauses (1) and (2), the words “participants” and “participant” are substituted for “parties” for consistency. In clause (2), the words “to the transaction or relationship” are omitted as surplus. In clause (3), the words “if one or more of the parties are not acting solely as principals” are omitted as surplus. In clause (4), the words “including the amounts of money, credit, or other property involved” are omitted as surplus.
+
+In subsection (b), the words “or a regulation under this section” are added because of the restatement. The words “or does not apply” and “uniform” in clause (2) are omitted as surplus. In clause (5), the words “carry out” are substituted for “the application of” for consistency.
+
+In subsection (c), the words “produce or otherwise . . . the contents of” and “in compliance with a subpena or summons duly authorized and issued or . . . may otherwise be” are omitted as surplus. The words “under a regulation” are added because of the restatement.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5319, 5321 of this title.
+

@@ -1,0 +1,62 @@
+### §4905. List of approved species
+
+#### (a) Listing
+
+#### (1) In general
+
+&emsp;One year after October 23, 1992, and periodically thereafter, the Secretary shall, after notice and an opportunity for public comment, publish in the Federal Register a list of species of exotic birds that are listed in an Appendix to the Convention and that are not subject to a prohibition or suspension of importation otherwise applicable under section 4904(a), (b), or (c) of this title.
+
+#### (2) Manner of listing
+
+&emsp;The Secretary shall list a species under paragraph (1) with respect to—
+
+&emsp;&emsp;(A) the countries of origin from which the species may be imported; and
+
+&emsp;&emsp;(B) if appropriate, the qualifying facilities in those countries from which the species may be imported.
+
+#### (3) Bases for determinations
+
+&emsp;In making a determination required under this subsection, the Secretary shall—
+
+&emsp;&emsp;(A) use the best scientific information available; and
+
+&emsp;&emsp;(B) consider the adequacy of regulatory and enforcement mechanisms in all countries of origin for the species, including such mechanisms for control of illegal trade.
+
+#### (b) Captive bred species
+
+The Secretary shall include a species of exotic birds in the list under subsection (a) of this section if the Secretary determines that—
+
+&emsp;(1) the species is regularly bred in captivity and no wild-caught birds of the species are in trade; or
+
+&emsp;(2) the species is bred in a qualifying facility.
+
+#### (c) Non-captive bred species
+
+The Secretary shall include in the list under subsection (a) of this section a species of exotic birds that is listed in an Appendix to the Convention if the Secretary finds the Convention is being effectively implemented with respect to that species because of each of the following:
+
+&emsp;(1) Each country of origin for which the species is listed is effectively implementing the Convention, particularly with respect to—
+
+&emsp;&emsp;(A) the establishment of a scientific authority or other equivalent authority;
+
+&emsp;&emsp;(B) the requirements of Article IV of the Convention with respect to that species; and
+
+&emsp;&emsp;(C) remedial measures recommended by the Parties to the Convention with respect to that species.
+
+&emsp;(2) A scientifically-based management plan for the species has been developed which—
+
+&emsp;&emsp;(A) provides for the conservation of the species and its habitat and includes incentives for conservation;
+
+&emsp;&emsp;(B) ensures that the use of the species is biologically sustainable and maintained throughout the range of the species in the country to which the plan applies at a level that is consistent with the role of the species in the ecosystem and is well above the level at which the species might become threatened with extinction; and
+
+&emsp;&emsp;(C) addresses factors relevant to the conservation of the species, including illegal trade, domestic trade, subsistence use, disease, and habitat loss.
+
+&emsp;(3) The management plan is implemented and enforced.
+
+&emsp;(4) The methods of capture, transport, and maintenance of the species minimizes the risk of injury or damage to health, including inhumane treatment.
+
+(Pub. L. 102–440, title I, §106, Oct. 23, 1992, 106 Stat. 2227.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 4904, 4907, 4909, 4910 of this title.
+

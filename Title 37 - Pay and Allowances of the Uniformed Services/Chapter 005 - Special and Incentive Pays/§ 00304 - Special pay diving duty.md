@@ -1,0 +1,64 @@
+### §304. Special pay: diving duty
+
+(a) Under regulations prescribed by the Secretary concerned, a member of a uniformed service who is entitled to basic pay is entitled to special pay, in the amount set forth in subsection (b), for periods during which the member—
+
+&emsp;(1) is assigned by orders to the duty of diving;
+
+&emsp;(2) is required to maintain proficiency as a diver by frequent and regular dives; and
+
+&emsp;(3) actually performs diving duty.
+
+(b) Special pay payable under subsection (a) shall be paid at a rate of not more than $200 amonth, in the case of an officer, and at a rate of not more than $300 a month, in the case of an enlisted member.
+
+(c) A member may be paid special pay under this section and incentive pay under section 301 of this title for the same period of service only if the member is assigned by orders to a hazardous duty described in section 301(a) of this title in addition to diving duty. However, if a member is paid special pay under this section, the member is not entitled to more than one payment of incentive pay under section 301 of this title.
+
+(d)(1) Under regulations prescribed by the Secretary concerned and to the extent provided for by appropriations, when a member of the National Guard or a reserve component of a uniformed service who is entitled to compensation under section 206 of this title performs diving duty, pursuant to orders, such member is entitled to an increase in compensation equal to 1/30 of the monthly special pay prescribed by the Secretary concerned for the performance of diving duty by a member of comparable diving classification who is entitled to basic pay under section 204 of this title. Such member is entitled to the increase—
+
+&emsp;(A) for each regular period of instruction, or period of appropriate duty, at which the member is engaged for at least two hours, including that performed on a Sunday or holiday; or
+
+&emsp;(B) for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe under section 206(a) of this title.
+
+(2) This subsection does not apply to a member who is entitled to basic pay under section 204 of this title.
+
+(e) In time of war, the President may suspend the payment of diving duty pay.
+
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 465; Pub. L. 97–60, title I, §115, Oct. 14, 1981, 95 Stat. 995; Pub. L. 100–180, div. A, title VI, §624(a), Dec. 4, 1987, 101 Stat. 1103; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+304(a)
+
+304(b)
+
+37:236(a), (b).
+
+37:236(c).
+
+Oct. 12, 1949, ch. 681, §205, 63 Stat. 810; Mar. 31, 1955, ch. 20, §2(8)–(10), 69 Stat. 21; Aug. 17, 1961, Pub. L. 87–145, §1, 75 Stat. 382.
+
+In subsection (a), the last sentence is substituted for section 236(b) of existing title 37. The word “competent” is omitted as surplusage.
+
+#### Amendments
+
+1991—Subsec. (a). Pub. L. 102–25 struck out “of this section” after “subsection (b)”.
+
+Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+
+1987—Subsecs. (d), (e). Pub. L. 100–180 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+1981—Pub. L. 97–60 revised provisions of subsec. (a) into new subsecs. (a), (b), and (c), redesignated subsec. (b) as (d), and, in provisions of subsec. (a) as revised, added to enumeration of conditions attached to entitlement to special pay requirement that the member maintain proficiency as a diver by frequent and regular dives, substituted a rate of $200 a month for officers and $300 a month for enlisted men for former rate of $110 a month for all members, and inserted provisions authorizing payment of both special pay under this section and incentive pay under section 301 of this title in specified circumstances.
+
+#### Effective Date of 1987 Amendment
+
+Section 624(b) of Pub. L. 100–180 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the first day of the fourth calendar month following the month in which this Act is enacted \[Dec. 1987\] and shall apply only with respect to diving duty performed on or after that date.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 907 of this title.
+

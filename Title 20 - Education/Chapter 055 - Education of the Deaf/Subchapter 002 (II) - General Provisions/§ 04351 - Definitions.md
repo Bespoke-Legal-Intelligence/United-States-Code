@@ -1,0 +1,64 @@
+### §4351. Definitions
+
+As used in this chapter—
+
+&emsp;(1) The term “international student” means an individual who—
+
+&emsp;&emsp;(A) is not a citizen or national of, or lawfully admitted for permanent residence in, the United States;
+
+&emsp;&emsp;(B) does not provide evidence from the Immigration and Naturalization Service that he or she is in the United States for other than temporary purposes with the intention of becoming a citizen of, or lawfully admitted for permanent residence in, the United States; and
+
+&emsp;&emsp;(C) is not lawfully admitted for permanent residence in American Samoa, Guam, Palau (but only until the Compact of Free Association with Palau takes effect), the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, or the Virgin Islands.
+
+&emsp;(2) The term “construction” includes construction and initial equipment of new buildings, and expansion, remodeling, and alteration of existing buildings and equipment therein, including architect's services, but excluding off-site improvements.
+
+&emsp;(3) The term “institution of higher education” means an educational institution in any State which (A) admits as regular students only individuals having a certificate of graduation from a school providing secondary education, or the recognized equivalent of such a certificate; (B) is legally authorized within such State to provide a program of education beyond secondary education; (C) provides an educational program for which it awards a bachelor's degree; (D) includes one or more professional or graduate schools; (E) is a public or nonprofit private institution; and (F) is accredited by a nationally recognized accrediting agency or association. For the purpose of subparagraph (F), the Secretary shall publish a list of nationally recognized accrediting agencies or associations which the Secretary determines to be reliable authority as to the quality of training offered.
+
+&emsp;(4) The term “Secretary” means the Secretary of Education.
+
+&emsp;(5) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, and Palau (but only until the Compact of Free Association with Palau takes effect).
+
+&emsp;(6) The term “NTID” means the National Technical Institute for the Deaf.
+
+&emsp;(7) The term “University” means Gallaudet University.
+
+(Pub. L. 99 371, title II, §201, formerly title IV, §401, Aug. 4, 1986, 100 Stat. 789; renumbered title II, §201, and amended Pub. L. 102 421, title I, §§101(b)(5), (6), 131, 151(a)(3), (b), Oct. 16, 1992, 106 Stat. 2151, 2155, 2164; Pub. L. 103 73, title II, §204(a), Aug. 11, 1993, 107 Stat. 734.)
+
+#### References in Text
+
+For Oct. 1, 1994, as the date the Compact of Free Association with Palau takes effect, referred to in pars. (1)(C) and (5), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
+
+#### Codification
+
+Section is also set out in D.C. Code, §31 1842.2a.
+
+#### Prior Provisions
+
+A prior section 201 of Pub. L. 99 371 was renumbered section 111 and is classified to section 4331 of this title.
+
+Provisions similar to this section were contained in sections 682, 693a, and 695a of this title prior to repeal by Pub. L. 99 371.
+
+#### Amendments
+
+1993—Pub. L. 103 73 substituted “and” for “or” at end of par. (1)(B), redesignated pars. (4) and (6) to (9) as (3) to (7), respectively, and struck out former pars. (3) and (5) which defined “elementary school” and “secondary school”, respectively.
+
+1992—Par. (1). Pub. L. 102 421, §131(1), added par. (1) and struck out former par. (1) which read as follows: “The term ‘Board of Trustees’ means (unless the context requires otherwise) the Board of Trustees of Gallaudet University established under section 4303 of this title.”
+
+Par. (2). Pub. L. 102 421, §151(b)(1), substituted “therein” for “thereof”.
+
+Par. (3). Pub. L. 102 421, §151(a)(3), (b)(2), substituted “children who are deaf or hard-of-hearing” for “deaf children”.
+
+Par. (4). Pub. L. 102 421, §151(b)(3), substituted a semicolon for last comma in subpars. (A) to (E) of first sentence and “subparagraph” for “clause” in second sentence.
+
+Pub. L. 102 421, §131(2), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The term ‘Institute’ means the National Technical Institute for the Deaf.”
+
+Pars. (5), (6). Pub. L. 102 421, §131(2)(B), redesignated pars. (6) and (7) as (5) and (6), respectively. Former par. (5) redesignated (4).
+
+Par. (7). Pub. L. 102 421, §131(2)(B), (3), redesignated par. (8) as (7) and substituted “the Commonwealth of the Northern Mariana Islands, and Palau (but only until the Compact of Free Association with Palau takes effect).” for “the Northern Mariana Islands and the Trust Territory of the Pacific Islands.”. Former par. (7) redesignated (6).
+
+Pars. (8), (9). Pub. L. 102 421, §131(2)(B), (4), added pars. (8) and (9) and redesignated former par. (8) as (7).
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102 421 effective Oct. 1, 1992, see section 161 of Pub. L. 102 421, set out as a note under section 4301 of this title.
+

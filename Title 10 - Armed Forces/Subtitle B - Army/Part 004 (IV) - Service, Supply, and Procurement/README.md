@@ -1,0 +1,49 @@
+## PART IV—SERVICE, SUPPLY, AND PROCUREMENT
+
+| Chap. | Sec. |
+| :--- | ---: |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
+| <b>\[431.</b> | <b>Repealed.\]</b> |  |
+| [<b>433.</b>](Chapter%20433%20-%20Procurement/README.md) | <b>Procurement</b> | <b>4531</b> |
+| [<b>435.</b>](Chapter%20435%20-%20Issue%20of%20Serviceable%20Material%20to%20Armed%20Forces/README.md) | <b>Issue of Serviceable Material to Armed Forces</b> | <b>4561</b> |
+| [<b>437.</b>](Chapter%20437%20-%20Utilities%20and%20Services/README.md) | <b>Utilities and Services</b> | <b>4591</b> |
+| [<b>439.</b>](Chapter%20439%20-%20Sale%20of%20Serviceable%20Material/README.md) | <b>Sale of Serviceable Material</b> | <b>4621</b> |
+| [<b>441.</b>](Chapter%20441%20-%20Issue%20of%20Serviceable%20Material%20Other%20Than%20to%20Armed%20Forces/README.md) | <b>Issue of Serviceable Material Other Than to Armed Forces</b> | <b>4651</b> |
+| [<b>443.</b>](Chapter%20443%20-%20Disposal%20of%20Obsolete%20or%20Surplus%20Material/README.md) | <b>Disposal of Obsolete or Surplus Material</b> | <b>4681</b> |
+| [<b>445.</b>](Chapter%20445%20-%20Inquests%3B%20Disposition%20of%20Effects%20of%20Deceased%20Persons%3B%20Captured%20Flags/README.md) | <b>Inquests; Disposition of Effects of Deceased Persons; Captured Flags</b> | <b>4711</b> |
+| [<b>447.</b>](Chapter%20447%20-%20Transportation/README.md) | <b>Transportation</b> | <b>4741</b> |
+| [<b>449.</b>](Chapter%20449%20-%20Real%20Property/README.md) | <b>Real Property</b> | <b>4771</b> |
+| [<b>451.</b>](Chapter%20451%20-%20Military%20Claims/README.md) | <b>Military Claims</b> | <b>4801</b> |
+| [<b>453.</b>](Chapter%20453%20-%20Accountability%20and%20Responsibility/README.md) | <b>Accountability and Responsibility</b> | <b>4831</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1993—Pub. L. 103–160, div. A, title VIII, §828(b)(2), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 431 “Industrial Mobilization, Research, and Development”.
+
+#### Cross References
+
+General military law provisions, see section 2202 et seq. of this title.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [Chapter 431 - Repealed](Chapter%20431%20-%20Repealed/README.md)
+- [Chapter 433 - Procurement](Chapter%20433%20-%20Procurement/README.md)
+- [Chapter 435 - Issue of Serviceable Material to Armed Forces](Chapter%20435%20-%20Issue%20of%20Serviceable%20Material%20to%20Armed%20Forces/README.md)
+- [Chapter 437 - Utilities and Services](Chapter%20437%20-%20Utilities%20and%20Services/README.md)
+- [Chapter 439 - Sale of Serviceable Material](Chapter%20439%20-%20Sale%20of%20Serviceable%20Material/README.md)
+- [Chapter 441 - Issue of Serviceable Material Other Than to Armed Forces](Chapter%20441%20-%20Issue%20of%20Serviceable%20Material%20Other%20Than%20to%20Armed%20Forces/README.md)
+- [Chapter 443 - Disposal of Obsolete or Surplus Material](Chapter%20443%20-%20Disposal%20of%20Obsolete%20or%20Surplus%20Material/README.md)
+- [Chapter 445 - Inquests; Disposition of Effects of Deceased Persons; Captured Flags](Chapter%20445%20-%20Inquests%3B%20Disposition%20of%20Effects%20of%20Deceased%20Persons%3B%20Captured%20Flags/README.md)
+- [Chapter 447 - Transportation](Chapter%20447%20-%20Transportation/README.md)
+- [Chapter 449 - Real Property](Chapter%20449%20-%20Real%20Property/README.md)
+- [Chapter 451 - Military Claims](Chapter%20451%20-%20Military%20Claims/README.md)
+- [Chapter 453 - Accountability and Responsibility](Chapter%20453%20-%20Accountability%20and%20Responsibility/README.md)

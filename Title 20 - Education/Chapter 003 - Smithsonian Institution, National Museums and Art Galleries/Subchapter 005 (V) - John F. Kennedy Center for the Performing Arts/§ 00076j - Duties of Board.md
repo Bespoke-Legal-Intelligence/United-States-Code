@@ -1,0 +1,100 @@
+### §76j. Duties of Board
+
+#### (a) Programs, activities, and goals
+
+#### (1) In general
+
+&emsp;The Board shall—
+
+&emsp;&emsp;(A) present classical and contemporary music, opera, drama, dance, and other performing arts from the United States and other countries;
+
+&emsp;&emsp;(B) promote and maintain the John F. Kennedy Center for the Performing Arts as the National Center for the Performing Arts—
+
+&emsp;&emsp;&emsp;(i) by developing and maintaining a leadership role in national performing arts education policy and programs, including developing and presenting original and innovative performing arts and educational programs for children, youth, families, adults, and educators designed specifically to foster an appreciation and understanding of the performing arts;
+
+&emsp;&emsp;&emsp;(ii) by developing and maintaining a comprehensive and broad program for national and community outreach, including establishing model programs for adaptation by other presenting and educational institutions; and
+
+&emsp;&emsp;&emsp;(iii) by conducting joint initiatives with the national education and outreach programs of the Very Special Arts, an entity affiliated with the John F. Kennedy Center for the Performing Arts which has an established program for the identification, development, and implementation of model programs and projects in the arts for disabled individuals;
+
+&emsp;&emsp;(C) strive to ensure that the education and outreach programs and policies of the JohnF. Kennedy Center for the Performing Arts meet the highest level of excellence and reflect the cultural diversity of the United States;
+
+&emsp;&emsp;(D) provide facilities for other civic activities at the John F. Kennedy Center for the Performing Arts;
+
+&emsp;&emsp;(E) provide within the John F. Kennedy Center for the Performing Arts a suitable memorial in honor of the late President;
+
+&emsp;&emsp;(F) develop, and update annually, a comprehensive building needs plan for the features of the John F. Kennedy Center for the Performing Arts in existence on July 21, 1994;
+
+&emsp;&emsp;(G) with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), plan, design, and construct each capital repair, replacement, improvement, rehabilitation, alteration, or modification necessary for the feature; and
+
+&emsp;&emsp;(H) provide—
+
+&emsp;&emsp;&emsp;(i) information and interpretation; and
+
+&emsp;&emsp;&emsp;(ii) with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), all necessary maintenance, repair, and alteration of, and all janitorial, security, and other services and equipment necessary for the operation of, the feature, in a manner consistent with requirements for high quality operations.
+
+#### (2) Administrative powers and duties
+
+#### (A) Authority to enter into contracts
+
+&emsp;&emsp;The Board, in accordance with applicable law, may enter into contracts or other arrangements with, and make payments to, public agencies or private organizations or other private persons in order to carry out the functions of the Board under this subchapter. The authority described in the preceding sentence includes utilizing the services and facilities of other agencies, including the Department of the Interior, the General Services Administration, and the Smithsonian Institution.
+
+#### (B) Preparation of budget
+
+&emsp;&emsp;The Board shall prepare a budget pursuant to sections 1104, 1105(a), and 1513(b) of title 31.
+
+#### (C) Use of agency personnel
+
+&emsp;&emsp;The Board may utilize or employ the services of the personnel of any agency or instrumentality of the Federal Government or the District of Columbia, with the consent of the agency or the instrumentality concerned, on a reimbursable basis, and utilize voluntary and uncompensated personnel.
+
+#### (D) Selection of contractors
+
+&emsp;&emsp;In carrying out the duties of the Board under this subchapter, the Board may negotiate any contract for an environmental system for, a protection system for, or a repair to, maintenance of, or restoration of the John F. Kennedy Center for the Performing Arts with selected contractors and award the contract on the basis of contractor qualifications as well as price.
+
+#### (E) Maintenance of halls
+
+&emsp;&emsp;The Board shall maintain the Hall of Nations, the Hall of States, and the Grand Foyer of the John F. Kennedy Center for the Performing Arts in a manner that is suitable to a national performing arts center that is operated as a Presidential memorial and in a manner consistent with other national Presidential memorials.
+
+#### (F) Maintenance of grounds
+
+&emsp;&emsp;The Board shall manage and operate the grounds of the John F. Kennedy Center for the Performing Arts in a manner consistent with National Park Service regulations and agreements in effect on July 21, 1994. No change in the management and operation of the grounds may be made without the express approval of Congress and of the Secretary of the Interior.
+
+#### (b) Restriction on additional memorials
+
+(1) Except as provided in paragraph (2) of this subsection, the Board shall assure that after December 2, 1983, no additional memorials or plaques in the nature of memorials shall be designated or installed in the public areas of the John F. Kennedy Center for the Performing Arts.
+
+(2) Paragraph (1) of this subsection shall not apply to—
+
+&emsp;(A) any plaque acknowledging a gift from a foreign country;
+
+&emsp;(B) any plaque on a theater chair or a theater box acknowledging the gift of such chair or box; and
+
+&emsp;(C) any inscription on the marble walls in the north or south galleries, the Hall of States, or the Hall of Nations acknowledging a major contribution;
+
+> which plaque or inscription is permitted under policies of the Board in effect on December 2, 1983.
+
+(3) For purposes of this subsection, testimonials and benefit performances shall not be construed to be memorials.
+
+(Pub. L. 85–874, §4, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, §1(3), Jan. 23, 1964, 78 Stat. 4; Pub. L. 98–205, §4, Dec. 2, 1983, 97 Stat. 1388; Pub. L. 103–279, §3, July 21, 1994, 108 Stat. 1411.)
+
+#### Amendments
+
+1994—Pub. L. 103–279 substituted section catchline for former section catchline, added heading and text of subsec. (a), and struck out former subsec. (a) which read as follows: “The Board shall—
+
+&emsp;“(1) present classical and contemporary music, opera, drama, dance, and poetry from this and other countries,
+
+&emsp;“(2) present lectures and other programs,
+
+&emsp;“(3) develop programs for children and youth and the elderly (and for other age groups as well) in such arts designed specifically for their participation, education, and recreation,
+
+&emsp;“(4) provide facilities for other civic activities at the John F. Kennedy Center for the Performing Arts,
+
+&emsp;“(5) provide within the John F. Kennedy Center for the Performing Arts a suitable memorial in honor of the late President.”
+
+1983—Pub. L. 98–205 designated existing provisions as subsec. (a) and added subsec. (b).
+
+1964—Pub. L. 88–260 struck out “and” at end of par. (3), substituted “John F. Kennedy Center for the Performing Arts” for “Cultural Center” in par. (4), and added par. (5).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 76r of this title.
+

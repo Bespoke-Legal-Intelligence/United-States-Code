@@ -1,0 +1,98 @@
+### §41309. Cooperative agreements and requests
+
+(a)
+
+Filing.—An air carrier or foreign air carrier may file with the Secretary of Transportation a true copy of or, if oral, a true and complete memorandum of, an agreement (except an agreement related to interstate air transportation), or a request for authority to discuss cooperative arrangements (except arrangements related to interstate air transportation), and any modification or cancellation of an agreement, between the air carrier or foreign air carrier and another air carrier, a foreign carrier, or another carrier.
+
+(b)
+
+Approval.—The Secretary of Transportation shall approve an agreement, request, modification, or cancellation referred to in subsection (a) of this section when the Secretary finds it is not adverse to the public interest and is not in violation of this part. However, the Secretary shall disapprove—
+
+&emsp;(1) or, after periodic review, end approval of, an agreement, request, modification, or cancellation, that substantially reduces or eliminates competition unless the Secretary finds that—
+
+&emsp;&emsp;(A) the agreement, request, modification, or cancellation is necessary to meet a serious transportation need or to achieve important public benefits (including international comity and foreign policy considerations); and
+
+&emsp;&emsp;(B) the transportation need cannot be met or those benefits cannot be achieved by reasonably available alternatives that are materially less anticompetitive; or
+
+&emsp;(2) an agreement that—
+
+&emsp;&emsp;(A) is between an air carrier not directly operating aircraft in foreign air transportation and a common carrier subject to subtitle IV of this title; and
+
+&emsp;&emsp;(B) governs the compensation the common carrier may receive for the transportation.
+
+(c)
+
+Notice and Opportunity To Respond or for Hearing.—(1) When an agreement, request, modification, or cancellation is filed, the Secretary of Transportation shall give the Attorney General and the Secretary of State written notice of, and an opportunity to submit written comments about, the filing. On the initiative of the Secretary of Transportation or on request of the Attorney General or Secretary of State, the Secretary of Transportation may conduct a hearing to decide whether an agreement, request, modification, or cancellation is consistent with this part whether or not it was approved previously.
+
+(2) In a proceeding before the Secretary of Transportation applying standards under subsection (b)(1) of this section, a party opposing an agreement, request, modification, or cancellation has the burden of proving that it substantially reduces or eliminates competition and that less anticompetitive alternatives are available. The party defending the agreement, request, modification, or cancellation has the burden of proving the transportation need or public benefits.
+
+(3) The Secretary of Transportation shall include the findings required by subsection (b)(1) of this section in an order of the Secretary approving or disapproving an agreement, request, modification, or cancellation.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1129.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+41309(a)
+
+49 App.:1382(a)(1).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §412(a), (b); added Oct. 24, 1978, Pub. L. 95–504, §28(c), 92 Stat. 1729; Feb. 15, 1980, Pub. L. 96–192, §11, 94 Stat. 39.
+
+&nbsp;
+
+49 App.:1551(a)(6) (related to 49 App.:1382).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(6) (related to §412); added Oct. 4, 1984, Pub. L. 98–443, §3(c), 98 Stat. 1704.
+
+&nbsp;
+
+49 App.:1551(b) (1)(C) (related to 49 App.:1382(a)).
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(C) (related to §412(a), (b)); added Oct. 24, 1978, Pub. L. 95–504, §40(a), 92 Stat. 1745; Oct. 14, 1982, Pub. L. 97–309, §4(b), 96 Stat. 1454; Oct. 4, 1984, Pub. L. 98–443, §3(a), 98 Stat. 1703.
+
+41309(b)
+
+49 App.:1382(a) (2)(A).
+
+&nbsp;
+
+49 App.:1551(a)(6), (b)(1)(C) (as 1551(a)(6), (b)(1)(C) relates to 49 App.:1382(a)).
+
+41309(c)(1)
+
+49 App.:1382(b).
+
+&nbsp;
+
+49 App.:1551(a)(6), (b)(1)(C) (as 1551(a)(6), (b)(1)(C) relates to 49 App.:1382(b)).
+
+41309(c)(2)
+
+49 App.:1382(a) (2)(B).
+
+41309(c)(3)
+
+49 App.:1382(a) (2)(C).
+
+&nbsp;
+
+49 App.:1551(a)(6), (b)(1)(C) (as 1551(a)(6), (b)(1)(C) relates to 49 App.:1382(a)).
+
+In this section, the word “contract” is omitted as being included in “agreement”.
+
+In subsection (a), the words “(whether enforceable by provisions for liquidated damages, penalties, bonds, or otherwise)” are omitted as surplus. The words “(except an agreement related to interstate air transportation)” and “(except arrangements related to interstate air transportation)” are added because of 49 App.:1551(a)(6) (related to 49 App.:1382). The word “working” is omitted as surplus. The words “in force on October 24, 1978, or thereafter entered into” are omitted as executed. The words “and any modification or cancellation of an agreement” are substituted for “or any modification or cancellation thereof” for clarity and consistency.
+
+In subsection (b), before clause (1), the words “The Board shall by order disapprove any contract, agreement, or request . . . that it finds to be adverse to the public interest or in violation of this chapter” are omitted as surplus because of the language restated in this subsection that sets out the requirements for approval by the Secretary of Transportation before the antitrust exemption is effective. The words “whether or not previously approved by it” are omitted as surplus because of the language in clause (1) requiring periodic review and continuing approval. The words “by order” are omitted as unnecessary because of 5:ch. 5, subch. II. The text of 49 App.:1382(a)(2)(A)(iii) is omitted as obsolete because of 49 App.:1551(a)(6) (related to 49 App.:1382).
+
+In subsection (c)(1), the words “in accordance with regulations which it prescribes” are omitted as surplus. The words “in accordance with regulations prescribed by the Board” are omitted as surplus.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 40109, 41101, 41110, 41308, 41503, 41710, 42111, 46301 of this title.
+

@@ -1,0 +1,16 @@
+### §7486. Refund, credit, or abatement of amounts disallowed
+
+In cases where assessment or collection has not been stayed by the filing of a bond, then if the amount of the deficiency determined by the Tax Court is disallowed in whole or in part by the court of review, the amount so disallowed shall be credited or refunded to the taxpayer, without the making of claim therefor, or, if collection has not been made, shall be abated.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 891.)
+
+#### Cross References
+
+Abatements, credits, and refunds see section 6401 et seq. of this title.
+
+Civil actions for refund, see section 7422 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6422 of this title.
+

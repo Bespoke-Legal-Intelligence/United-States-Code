@@ -1,0 +1,62 @@
+### §59dd. Declaration of nonnavigability of portions of Cleveland Harbor, Ohio
+
+#### (a) to (c) Omitted
+
+#### (d) Area to be declared nonnavigable; public interest
+
+Unless the Secretary of the Army finds, after consultation with local and regional public officials (including local and regional public planning organizations), that the proposed projects to be undertaken within the boundaries in the portions of Cleveland Harbor, Ohio, described below, are not in the public interest then, subject to subsections (e) and (f) of this section, those portions of such Harbor, bounded and described as follows, are declared to be nonnavigable waters of the United States:
+
+&emsp;Situated in the City of Cleveland, Cuyahoga County and State of Ohio, T7N, R13W and being more fully described as follows:
+
+&emsp;&emsp;Beginning at an iron pin monument at the intersection of the centerline of East 9th Street (99 feet wide) with the centerline of relocated Erieside Avenue, N.E., (70 feet wide) at Cleveland Regional Geodetic Survey Grid System, (CRGS) coordinates N92,679.734, E86,085.955;
+
+&emsp;&emsp;Thence south 56°–06G6<b>�</b>–52G6<b>"</b> west on the centerline of relocated Erieside Avenue, N.E., a distance of 89.50 feet to a drill hole set.
+
+&emsp;&emsp;Thence north 33°–53G6<b>�</b>–08G6<b>"</b> west a distance of 35.00 feet to a drill hole set on the north-westerly right-of-way line of relocated Erieside Avenue, N.E., said point being the true place of beginning of the parcel herein described.
+
+&emsp;&emsp;Thence south 56°–06G6<b>�</b>–52G6<b>"</b> west on the northwesterly right-of-way line of relocated Erieside Avenue, N.E., a distance of 23.39 feet to a 5/8 inch re-bar set;
+
+&emsp;&emsp;Thence southwesterly on the northwesterly right-of-way line of relocated Erieside Avenue, N.E., along the arc of a curve to the left with a radius of 335.00 feet, and whose chord bears south 42°–36G6<b>�</b>–52G6<b>"</b> west 156.41 feet, an arc distance of 157.87 feet to a 5/8 inch re-bar set;
+
+&emsp;&emsp;Thence south 29°–06G6<b>�</b>–52G6<b>"</b> west on the northwesterly right-of-way line of relocated Erieside Avenue, N.E., a distance of 119.39 feet to a 5/8 inch re-bar set;
+
+&emsp;&emsp;Thence southwesterly on the northwesterly right-of-way of relocated Erieside Avenue, N.E., along the arc of a curve to the right with a radius of 665.00 feet, and whose chord bears south 32°–22G6<b>�</b>–08G6<b>"</b> west 75.50 feet, an arc distance of 75.54 feet to a 5/8 inch re-bar set;
+
+&emsp;&emsp;Thence north 33°–53G6<b>�</b>–08G6<b>"</b> west a distance of 279.31 feet to a drill hole set;
+
+&emsp;&emsp;Thence south 56°–06G6<b>�</b>–52G6<b>"</b> west a distance of 37.89 feet to a drill hole set;
+
+&emsp;&emsp;Thence north 33°–53G6<b>�</b>–08G6<b>"</b> west a distance of 127.28 feet to a point;
+
+&emsp;&emsp;Thence north 11°–06G6<b>�</b>–52G6<b>"</b> east a distance of 225.00 feet to a point;
+
+&emsp;&emsp;Thence south 78°–53G6<b>�</b>–08G6<b>"</b> east a distance of 150.00 feet to a drill hole set;
+
+&emsp;&emsp;Thence north 11°–06G6<b>�</b>–52G6<b>"</b> east a distance of 32.99 feet to a drill hole set;
+
+&emsp;&emsp;Thence north 33°–53G6<b>�</b>–08G6<b>"</b> east a distance of 46.96 feet to a drill hole set;
+
+&emsp;&emsp;Thence north 56°–06G6<b>�</b>–52G6<b>"</b> east a distance of 140.36 feet to a drill hole set on the southwesterly right-of-way line of East 9th Street;
+
+&emsp;&emsp;Thence south 33°–53G6<b>�</b>–08G6<b>"</b> east on the southwesterly right-of-way line of East 9th Street a distance of 368.79 feet to a drill hole set;
+
+&emsp;&emsp;Thence southwesterly along the arc of a curve to the right with a radius of 40.00 feet, and whose chord bears south 11°–06G6<b>�</b>–52G6<b>"</b> west 56.57 feet, an arc distance of 62.83 feet to the true place of beginning containing 174,764 square feet (4.012 acres) more or less.
+
+#### (e) Limits on applicability; regulatory requirements
+
+The declaration under subsection (d) of this section shall apply only to those parts of the areas described in subsection (d) of this section which are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina facilities. All such work is subject to all applicable Federal statutes and regulations, including sections 401 and 403 of this title, section 1344 of this title, and the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
+
+#### (f) Expiration date
+
+If, 20 years from December 18, 1991, any area or part thereof described in subsection (d) of this section is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set out in subsection (e) of this section, or if work in connection with any activity permitted in subsection (e) of this section is not commenced within 5 years after issuance of such permit, then the declaration of nonnavigability for such area or part thereof shall expire.
+
+(Pub. L. 102–240, title I, §1079, Dec. 18, 1991, 105 Stat. 2017.)
+
+#### References in Text
+
+The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+#### Codification
+
+Section is comprised of section 1079 of Pub. L. 102–240. Subsections (a), (b), and (c) of section 1079 of Pub. L. 102–240 provided for deauthorization of a portion of aproject for harbor modification of Cleveland Harbor which was authorized by section 202(a) of the Water Resources Development Act of 1986, Pub. L. 99–662, title II, Nov. 17, 1986, 100 Stat. 4095, which is not classified to the Code.
+

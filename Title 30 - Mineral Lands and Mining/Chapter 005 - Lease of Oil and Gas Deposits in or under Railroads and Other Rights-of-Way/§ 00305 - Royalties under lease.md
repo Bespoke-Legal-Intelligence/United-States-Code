@@ -1,0 +1,6 @@
+### §305. Royalties under lease
+
+The royalty to be paid to the United States under any lease to be issued, or agreement made pursuant to this chapter, shall be determined by the Secretary of the Interior, in no case to be less than 121/2 per centum in amount or value of the production, nor for more than twenty years: <i>Provided</i>, That when the oil or gas is produced from land adjacent to the right of way the amount or value of the royalty to be paid to the United States shall be within the discretion of the Secretary of the Interior: <i>Provided further</i>, That when the daily average production of any oil well does not exceed ten barrels per day said Secretary may, in his discretion, reduce the royalty on subsequent production.
+
+(May 21, 1930, ch. 307, §5, 46 Stat. 374.)
+

@@ -1,0 +1,126 @@
+### §80302. Prohibitions
+
+(a)
+
+Definition.—In this section, “contraband” means—
+
+&emsp;(1) a narcotic drug (as defined in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802)), including marihuana (as defined in section 102 of that Act (21 U.S.C. 802)), that—
+
+&emsp;&emsp;(A) is possessed with intent to sell or offer for sale in violation of the laws and regulations of the United States;
+
+&emsp;&emsp;(B) is acquired, possessed, sold, transferred, or offered for sale in violation of those laws;
+
+&emsp;&emsp;(C) is acquired by theft, robbery, or burglary and transported—
+
+&emsp;&emsp;&emsp;(i) in the District of Columbia or a territory or possession of the United States; or
+
+&emsp;&emsp;&emsp;(ii) from a place in a State, the District of Columbia, or a territory or possession of the United States, to a place in another State, the District of Columbia, or a territory or possession; or
+
+&emsp;&emsp;(D) does not bear tax-paid internal revenue stamps required by those laws or regulations;
+
+&emsp;(2) a firearm involved in a violation of chapter 53 of the Internal Revenue Code of 1986 (26 U.S.C. 5801 et seq.);
+
+&emsp;(3) a forged, altered, or counterfeit—
+
+&emsp;&emsp;(A) coin or an obligation or other security of the United States Government (as defined in section 8 of title 18); or
+
+&emsp;&emsp;(B) coin, obligation, or other security of the government of a foreign country;
+
+&emsp;(4) material or equipment used, or intended to be used, in making a coin, obligation, or other security referred to in clause (3) of this subsection; or
+
+&emsp;(5) a cigarette involved in a violation of chapter 114 of title 18 or a regulation prescribed under chapter 114.
+
+(b)
+
+Prohibitions.—A person may not—
+
+&emsp;(1) transport contraband in an aircraft, vehicle, or vessel;
+
+&emsp;(2) conceal or possess contraband on an aircraft, vehicle, or vessel; or
+
+&emsp;(3) use an aircraft, vehicle, or vessel to facilitate the transportation, concealment, receipt, possession, purchase, sale, exchange, or giving away of contraband.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1353.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+80302(a)(1)
+
+49 App.:781(b)(1).
+
+Aug. 9, 1939, ch. 618, §1(b)(1), 53 Stat. 1291; restated Aug. 9, 1950, ch. 655, 64 Stat. 427.
+
+&nbsp;
+
+49 App.:787(d).
+
+Aug. 9, 1939, ch. 618, §7(d), 53 Stat. 1293; restated Oct. 27, 1970, Pub. L. 91–513, §1102(r), 84 Stat. 1294.
+
+80302(a)(2)
+
+49 App.:781(b)(2).
+
+Aug. 9, 1939, ch. 618, §1(b)(2), (3), 53 Stat. 1291; Nov. 2, 1978, Pub. L. 95–575, §3(a)(1), (2), 92 Stat. 2465.
+
+&nbsp;
+
+49 App.:787(e).
+
+Aug. 9, 1939, ch. 618, §7(e), 53 Stat. 1293; Nov. 2, 1978, Pub. L. 95–575, §3(b)(1), 92 Stat. 2465.
+
+80302(a)(3)
+
+49 App.:781(b)(3) (words before 1st semicolon).
+
+&nbsp;
+
+49 App.:787(f).
+
+Aug. 9, 1939, ch. 618, §7(f), 53 Stat. 1293; restated Oct. 31, 1951, ch. 655, §55(b), 65 Stat. 729; Nov. 2, 1978, Pub. L. 95–575, §3(b)(2), 92 Stat. 2465.
+
+80302(a)(4)
+
+49 App.:781(b)(3) (words after 1st semicolon).
+
+80302(a)(5)
+
+49 App.:781(b)(4).
+
+Aug. 9, 1939, ch. 618, 53 Stat. 1291, §§1(b)(4), 7(g); added Nov. 2, 1978, Pub. L. 95–575, §3(a)(3), (b)(3), 92 Stat. 2465.
+
+&nbsp;
+
+49 App.:787(g).
+
+80302(b)
+
+49 App.:781(a).
+
+Aug. 9, 1939, ch. 618, §1(a), 53 Stat. 1291.
+
+In subsection (a)(1)(A) and (B), the words “dealing therewith” are omitted as surplus.
+
+In subsection (a)(1)(A), the words “has been or” are omitted as surplus.
+
+In subsection (a)(1)(C), before subclause (i), the word “transported” is substituted for “carried or transported” to eliminate unnecessary words. In subclause (ii), the words “the Canal Zone” are omitted because of the Panama Canal Treaty of 1977. The words “a place in” are added for consistency in the revised title.
+
+In subsection (a)(2), the words “involved in a violation” are substituted for “with respect to which there has been committed any violation” to eliminate unnecessary words. The text of 49 App.:787(e) is omitted as unnecessary because of the restatement. The National Firearms Act referred to in the source provisions has been repealed and replaced by chapter 53 of the Internal Revenue Code of 1986 (26 U.S.C. 5801 et seq.).
+
+In subsection (a)(3), before subclause (A), the words “falsely made” are omitted as being included in “counterfeit”. In subclause (B), the words “coin, obligation, or other security” are added for clarity.
+
+In subsection (a)(4), the words “equipment used” are substituted for “apparatus, or paraphernalia fitted . . . which shall have been used” to eliminate unnecessary words. The words “coin, obligation, or other security referred to in clause (3) of this subsection” are substituted for “such falsely made, forged, altered, or counterfeit coin or obligation or other security” because of the restatement.
+
+In subsection (a)(5), the text of 49 App.:787(g) is omitted as unnecessary because the term “cigarettes” does not appear in 49 App.: ch. 11 and because the definition of “contraband cigarettes” referred to is part of 18:ch. 114.
+
+In subsection (b), before clause (1), the words “A person may not” are substituted for “It shall be unlawful” for consistency in the revised title. In clause (1), the word “transport” is substituted for “transport, carry, or convey” because it is inclusive. In clause (2), the words “or upon the person of anyone in or upon any vessel, vehicle, or aircraft” are omitted as unnecessary. In clause (3), the word “transportation” is substituted for “transportation, carriage, conveyance” for consistency in this section. The word “barter” is omitted as being included in “exchange”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 80303 of this title; title 19 section 1595a.
+

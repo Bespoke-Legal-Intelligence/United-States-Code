@@ -1,0 +1,56 @@
+### §7. Special maritime and territorial jurisdiction of the United States defined
+
+The term “special maritime and territorial jurisdiction of the United States”, as used in this title, includes:
+
+&emsp;(1) The high seas, any other waters within the admiralty and maritime jurisdiction of the United States and out of the jurisdiction of any particular State, and any vessel belonging in whole or in part to the United States or any citizen thereof, or to any corporation created by or under the laws of the United States, or of any State, Territory, District, or possession thereof, when such vessel is within the admiralty and maritime jurisdiction of the United States and out of the jurisdiction of any particular State.
+
+&emsp;(2) Any vessel registered, licensed, or enrolled under the laws of the United States, and being on a voyage upon the waters of any of the Great Lakes, or any of the waters connecting them, or upon the Saint Lawrence River where the same constitutes the International Boundary Line.
+
+&emsp;(3) Any lands reserved or acquired for the use of the United States, and under the exclusive or concurrent jurisdiction thereof, or any place purchased or otherwise acquired by the United States by consent of the legislature of the State in which the same shall be, for the erection of a fort, magazine, arsenal, dockyard, or other needful building.
+
+&emsp;(4) Any island, rock, or key containing deposits of guano, which may, at the discretion of the President, be considered as appertaining to the United States.
+
+&emsp;(5) Any aircraft belonging in whole or in part to the United States, or any citizen thereof, or to any corporation created by or under the laws of the United States, or any State, Territory, district, or possession thereof, while such aircraft is in flight over the high seas, or over any other waters within the admiralty and maritime jurisdiction of the United States and out of the jurisdiction of any particular State.
+
+&emsp;(6) Any vehicle used or designed for flight or navigation in space and on the registry of the United States pursuant to the Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, Including the Moon and Other Celestial Bodies and the Convention on Registration of Objects Launched into Outer Space, while that vehicle is in flight, which is from the moment when all external doors are closed on Earth following embarkation until the moment when one such door is opened on Earth for disembarkation or in the case of a forced landing, until the competent authorities take over the responsibility for the vehicle and for persons and property aboard.
+
+&emsp;(7) Any place outside the jurisdiction of any nation with respect to an offense by or against a national of the United States.
+
+&emsp;(8) To the extent permitted by international law, any foreign vessel during a voyage having a scheduled departure from or arrival in the United States with respect to an offense committed by or against a national of the United States.
+
+(June 25, 1948, ch. 645, 62 Stat. 685; July 12, 1952, ch. 695, 66 Stat. 589; Dec. 21, 1981, Pub. L. 97–96, §6, 95 Stat. 1210; Oct. 12, 1984, Pub. L. 98–473, title II, §1210, 98 Stat. 2164; Sept. 13, 1994, Pub. L. 103–322, title XII, §120002, 108 Stat. 2021.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §451 (Mar. 4, 1909, ch. 321, §272, 35 Stat. 1142; June 11, 1940, ch. 323, 54 Stat. 304).
+
+The words “The term ‘special maritime and territorial jurisdiction of the United States’ as used in this title includes:” were substituted for the words “The crimes and offenses defined in sections 451–468 of this title shall be punished as herein prescribed.”
+
+This section first appeared in the 1909 Criminal Code. It made it possible to combine in one chapter all the penal provisions covering acts within the admiralty and maritime jurisdiction without the necessity of repeating in each section the places covered.
+
+The present section has made possible the allocation of the diverse provisions of chapter 11 of Title 18, U.S.C., 1940 ed., to particular chapters restricted to particular offenses, as contemplated by the alphabetical chapter arrangement.
+
+In several revised sections of said chapter 11 the words “within the special maritime and territorial jurisdiction of the United States” have been added. Thus the jurisdictional limitation will be preserved in all sections of said chapter 11 describing an offense.
+
+Enumeration of names of Great Lakes was omitted as unnecessary.
+
+Other minor changes were necessary now that the section defines a term rather than the place of commission of crime or offense; however, the extent of the special jurisdiction as originally enacted has been carefully followed.
+
+#### Amendments
+
+1994—Par. (8). Pub. L. 103–322 added par. (8).
+
+1984—Par. (7). Pub. L. 98–473 added par. (7).
+
+1981—Par. (6). Pub. L. 97–96 added par. (6).
+
+1952—Par. (5). Act July 12, 1952, added par. (5).
+
+#### Cross References
+
+Laws of States adopted for areas within Federal jurisdiction, see section 13 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 13, 112, 878, 1116, 1201, 2334, 2340 of this title; title 15 sections 1175, 1243, 1245; title 16 section 3372; title 48 sections 1912, 1934; title 49 section 46506.
+

@@ -1,0 +1,30 @@
+### §14181. Missing Alzheimer's Disease Patient Alert Program
+
+#### (a) Grant
+
+The Attorney General shall, subject to the availability of appropriations, award a grant to an eligible organization to assist the organization in paying for the costs of planning, designing, establishing, and operating a Missing Alzheimer's Disease Patient Alert Program, which shall be a locally based, proactive program to protect and locate missing patients with Alzheimer's disease and related dementias.
+
+#### (b) Application
+
+To be eligible to receive a grant under subsection (a) of this section, an organization shall submit an application to the Attorney General at such time, in such manner, and containing such information as the Attorney General may require, including, at a minimum, an assurance that the organization will obtain and use assistance from private nonprofit organizations to support the program.
+
+#### (c) Eligible organization
+
+The Attorney General shall award the grant described in subsection (a) of this section to anational voluntary organization that has a direct link to patients, and families of patients, with Alzheimer's disease and related dementias.
+
+#### (d) Authorization of appropriations
+
+There are authorized to be appropriated to carry out this section—
+
+&emsp;(1) $900,000 for fiscal year 1996;
+
+&emsp;(2) $900,000 for fiscal year 1997; and
+
+&emsp;(3) $900,000 for fiscal year 1998.
+
+(Pub. L. 103–322, title XXIV, §240001, Sept. 13, 1994, 108 Stat. 2080.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 14214 of this title.
+

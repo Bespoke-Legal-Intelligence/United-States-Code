@@ -1,0 +1,28 @@
+### §152. Issue of patent to assignee
+
+Patents may be granted to the assignee of the inventor of record in the Patent and Trademark Office, upon the application made and the specification sworn to by the inventor, except as otherwise provided in this title.
+
+(July 19, 1952, ch. 950, 66 Stat. 804; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949.)
+
+#### Historical and Revision Notes
+
+Based on Title 35, U.S.C., 1946 ed., §44 (R.S. 4895).
+
+Language is changed and the reference to reissue is omitted in view of the general provision in section 251.
+
+#### Amendments
+
+1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+
+#### Effective Date of 1975 Amendment
+
+Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
+
+#### Cross References
+
+Application for patent by assignee, see section 118 of this title.
+
+Ownership of patent, assignment of, see section 261 of this title.
+
+Reissue of patent by assignee, see section 261 of this title.
+

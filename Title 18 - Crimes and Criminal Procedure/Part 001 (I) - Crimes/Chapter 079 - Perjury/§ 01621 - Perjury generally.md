@@ -1,0 +1,52 @@
+### §1621. Perjury generally
+
+Whoever—
+
+&emsp;(1) having taken an oath before a competent tribunal, officer, or person, in any case in which a law of the United States authorizes an oath to be administered, that he will testify, declare, depose, or certify truly, or that any written testimony, declaration, deposition, or certificate by him subscribed, is true, willfully and contrary to such oath states or subscribes any material matter which he does not believe to be true; or
+
+&emsp;(2) in any declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28, United States Code, willfully subscribes as true any material matter which he does not believe to be true;
+
+> is guilty of perjury and shall, except as otherwise expressly provided by law, be fined under this title or imprisoned not more than five years, or both. This section is applicable whether the statement or subscription is made within or without the United States.
+
+(June 25, 1948, ch. 645, 62 Stat. 773; Oct. 3, 1964, Pub. L. 88–619, §1, 78 Stat. 995; Oct. 18, 1976, Pub. L. 94–550, §2, 90 Stat. 2534; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(I), 108 Stat. 2147.)
+
+#### Historical and Revision Notes
+
+Based on title 18, U.S.C., 1940 ed., §§231, 629 (Mar. 4, 1909, ch. 321, §125, 35 Stat. 1111; June 15, 1917, ch. 30, title XI, §19, 40 Stat. 230).
+
+Words “except as otherwise expressly provided by law” were inserted to avoid conflict with perjury provisions in other titles where the punishment and application vary.
+
+More than 25 additional provisions are in the code. For construction and application of several such sections, see <i>Behrle v. United States</i> (App. D.C. 1938, 100 F. 2d 714), <i>United States v. Hammer</i> (D.C.N.Y., 1924, 299 F. 1011, affirmed, 6 F. 2d 786), <i>Rosenthal v. United States</i> (1918, 248 F. 684, 160 C.C.A. 584), cf. <i>Epstein v. United States</i> (1912, 196 F. 354, 116 C.C.A. 174, certiorari denied 32 S. Ct. 527, 223 U.S. 731, 56 L. ed. 634).
+
+Mandatory punishment provisions were rephrased in the alternative.
+
+Minor verbal changes were made.
+
+#### Amendments
+
+1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000” in concluding provisions.
+
+1976—Pub. L. 94–550 divided existing provisions into a single introductory word “Whoever”, par. (1), and closing provisions following par. (2), and added par. (2).
+
+1964—Pub. L. 88–619 inserted at end “This section is applicable whether the statement or subscription is made within or without the United States.”
+
+#### Canal Zone
+
+Applicability of section to Canal Zone, see section 14 of this title.
+
+#### Cross References
+
+Census employees; false statements as perjury; punishment, see section 213 of Title 13, Census.
+
+False tax return, statements or document as perjury, see section 7206 of Title 26, Internal Revenue Code.
+
+Federal employee's disability compensation, false statements to obtain as perjury; punishment, see section 1920 of this title.
+
+Federal retirement benefits, forfeiture upon conviction of offenses described under this section committed in connection with certain national security offenses, see section 8312 of Title 5, Government Organization and Employees.
+
+Jurisdiction of offenses, see section 3241 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 14 of this title; title 8 sections 1324a, 1357; title 30 section 49e; title 42 section 5197a; title 50 App. section 19.
+

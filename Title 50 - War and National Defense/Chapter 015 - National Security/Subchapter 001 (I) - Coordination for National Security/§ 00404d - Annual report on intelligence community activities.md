@@ -1,0 +1,20 @@
+### §404d. Annual report on intelligence community activities
+
+#### (a) In general
+
+The Director of Central Intelligence shall submit to Congress an annual report on the activities of the intelligence community. The annual report under this section shall be unclassified.
+
+#### (b) Matters to be covered in annual report
+
+Each report under this section shall describe—
+
+&emsp;(1) the activities of the intelligence community during the preceding fiscal year, including significant successes and failures that can be described in an unclassified manner; and
+
+&emsp;(2) the areas of the world and the issues that the Director expects will require increased or unusual attention from the intelligence community during the next fiscal year.
+
+#### (c) Time for submission
+
+The report under this section for any year shall be submitted at the same time that the President submits the budget for the next fiscal year pursuant to section 1105 of title 31.
+
+(July 26, 1947, ch. 343, title I, §109, as added Dec. 3, 1993, Pub. L. 103–178, title III, §304(a), 107 Stat. 2034.)
+

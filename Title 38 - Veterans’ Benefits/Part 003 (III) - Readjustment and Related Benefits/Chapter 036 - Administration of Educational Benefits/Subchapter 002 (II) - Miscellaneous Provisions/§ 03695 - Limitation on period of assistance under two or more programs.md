@@ -1,0 +1,72 @@
+### §3695. Limitation on period of assistance under two or more programs
+
+(a) The aggregate period for which any person may receive assistance under two or more of the provisions of law listed below may not exceed 48 months (or the part-time equivalent thereof):
+
+&emsp;(1) Parts VII or VIII, Veterans Regulation numbered 1(a), as amended.
+
+&emsp;(2) Title II of the Veterans’ Readjustment Assistance Act of 1952.
+
+&emsp;(3) The War Orphans’ Educational Assistance Act of 1956.
+
+&emsp;(4) Chapters 30, 32, 34, 35, and 36 of this title, and the former chapter 33.
+
+&emsp;(5) Chapters 106 and 107 of title 10.
+
+&emsp;(6) Section 903 of the Department of Defense Authorization Act, 1981 (Public Law 96–342, 10 U.S.C. 2141 note).
+
+&emsp;(7) The Hostage Relief Act of 1980 (Public Law 96–449, 5 U.S.C. 5561 note).
+
+&emsp;(8) The Omnibus Diplomatic Security and Antiterrorism Act of 1986 (Public Law 99–399).
+
+(b) No person may receive assistance under chapter 31 of this title in combination with assistance under any of the provisions of law cited in subsection (a) of this section in excess of 48 months (or the part-time equivalent thereof) unless the Secretary determines that additional months of benefits under chapter 31 of this title are necessary to accomplish the purposes of a rehabilitation program (as defined in section 3101(5) of this title) in the individual case.
+
+(Added Pub. L. 90–631, §1(d)(1), Oct. 23, 1968, 82 Stat. 1331, §1791; renumbered §1795 and amended Pub. L. 92–540, title III, §316(2), title IV, §403(13), Oct. 24, 1972, 86 Stat. 1086, 1090; Pub. L. 96–466, title I, §103, Oct. 17, 1980, 94 Stat. 2187; Pub. L. 98–223, title II, §203(c)(2), Mar. 2, 1984, 98 Stat. 41; Pub. L. 98–525, title VII, §703(d), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 101–237, title IV, §423(a)(8)(B), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3695 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+
+#### References in Text
+
+Parts VII and VIII, Veterans Regulation numbered 1(a), referred to in subsec. (a)(1), are Parts VII and VIII as added by acts Mar. 24, 1943, ch. 22, §2, 57 Stat. 43 and June 22, 1944, ch. 268, title II, §400(b), 58 Stat. 287 to Veterans Regulation numbered 1(a) promulgated by Ex. Ord. No. 6156, June 6, 1933, which had been classified as parts VII and VIII of chapter 12A of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which were repealed by Pub. L. 85–857, §14(67), Sept. 2, 1958, 72 Stat. 1272.
+
+The Veterans’ Readjustment Assistance Act of 1952, referred to in subsec. (a)(2), is act July 16, 1952, ch. 875, 66 Stat. 663, as amended. Title II of the Veterans’ Readjustment Assistance Act of 1952 was classified generally to subchapter II (§911 et seq.) of chapter 14 of former Title 38, which was repealed and the provisions thereof reenacted as chapter 33 (§1601 et seq.) of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105. Chapter 33 of this title was repealed by Pub. L. 89–358, §4(a), Mar. 3, 1966, 80 Stat. 23. See chapter 32 (§3201 et seq.) of this title.
+
+The War Orphans’ Educational Assistance Act of 1956, referred to in subsec. (a)(3), is act June 29, 1956, ch. 476, 70 Stat. 411, as amended, which was classified generally to chapter 15 (§1031 et seq.) of former Title 38, which was repealed and the provisions thereof reenacted as chapter 35 of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+
+Former chapter 33, referred to in subsec. (a)(4), is former chapter 33 (§1601 et seq.) of this title enacted by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1174, which was repealed by Pub. L. 89–358, §4(a), Mar. 3, 1966, 80 Stat. 23.
+
+Section 903 of the Department of Defense Authorization Act, 1981, referred to in subsec. (a)(6), is section 903 of Pub. L. 96–342, title IX, Sept. 8, 1980, 94 Stat. 1115, which is set out as a note under section 2141 of Title 10, Armed Forces.
+
+The Hostage Relief Act of 1980, referred to in subsec. (a)(7), is Pub. L. 96–449, Oct. 14, 1980, 94 Stat. 1967, which is set out as a note under section 5561 of Title 5, Government Organization and Employees.
+
+The Omnibus Diplomatic Security and Antiterrorism Act of 1986, referred to in subsec. (a)(8), is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 22, Foreign Relations and Intercourse, and Tables.
+
+#### Amendments
+
+1991—Pub. L. 102–83, §5(a), renumbered section 1795 of this title as this section.
+
+Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3101(5)” for “1501(5)”.
+
+1989—Subsec. (a)(8). Pub. L. 101–237, §423(a)(8)(B), added par. (8).
+
+Subsec. (b). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
+
+1984—Subsec. (a). Pub. L. 98–525 inserted reference in cl. (4) to chapter 30 of this title, and in cl. (5) to chapter 106 of title 10.
+
+Pub. L. 98–223, §203(c)(2)(A), substituted “48 months” for “forty-eight months”, capitalized the first word in cls. (1) to (4), and added cls. (5) to (7).
+
+Subsec. (b). Pub. L. 98–223, §203(c)(2)(B), substituted “subsection (a)” for “clauses (1), (2), (3), and (4)” and “48” for “forty-eight”.
+
+1980—Pub. L. 96–466 designated existing provisions as subsec. (a), substituted in par. (4) “chapters 32, 34, 35, and 36 of this title and the former chapter 33;” for “chapters 31, 34, 35, and 36 of this title, and the former chapter 33”, in provisions following par. (4) struck out “, but this section shall not be deemed to limit the period for which assistance may be received under chapter 31 alone” after “(or the part-time equivalent thereof)”, and added subsec. (b).
+
+1972—Pub. L. 92–540, §403(13), inserted reference to chapter 36 of this title.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(a)(6) of Pub. L. 96–466, set out as a note under section 3681 of this title.
+
+#### Effective Date
+
+Section effective first day of second calendar month which begins after Oct. 23, 1968, see section 6(a) of Pub.L. 90–631, set out as a note under section 3500 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3013, 3231, 3511 of this title; title 10 section 16131.
+

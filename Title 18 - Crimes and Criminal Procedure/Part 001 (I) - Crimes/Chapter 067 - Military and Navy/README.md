@@ -1,0 +1,32 @@
+### <b>CHAPTER 67—MILITARY AND NAVY</b>
+
+| Sec. |  |
+| :--- | ---: |
+| [1381\.](%C2%A7%2001381%20-%20Enticing%20desertion%20and%20harboring%20deserters.md) | Enticing desertion and harboring deserters. |
+| [1382\.](%C2%A7%2001382%20-%20Entering%20military%2C%20naval%2C%20or%20Coast%20Guard%20property.md) | Entering military, naval, or Coast Guard property. |
+| \[1383. | Repealed.\] |
+| [1384\.](%C2%A7%2001384%20-%20Prostitution%20near%20military%20and%20naval%20establishments.md) | Prostitution near military and naval establishments. |
+| [1385\.](%C2%A7%2001385%20-%20Use%20of%20Army%20and%20Air%20Force%20as%20posse%20comitatus.md) | Use of Army and Air Force as posse comitatus. |
+| [1386\.](%C2%A7%2001386%20-%20Keys%20and%20keyways%20used%20in%20security%20applications%20by%20the%20Department%20of%20Defense.md) | Keys and keyways used in security applications by the Department of Defense. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1991—Pub. L. 102–190, div. A, title X, §1090(b), Dec. 5, 1991, 105 Stat. 1486, added item 1386.
+
+1990—Pub. L. 101–647, title XXXV, §3547, Nov. 29, 1990, 104 Stat. 4926, struck out item 1383 “Restrictions in military areas and zones”.
+
+1956—Act Aug. 10, 1956, ch. 1041, §18(b), 70A Stat. 626, inserted item 1385.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 01381 - Enticing desertion and harboring deserters](%C2%A7%2001381%20-%20Enticing%20desertion%20and%20harboring%20deserters.md)
+- [&sect; 01382 - Entering military, naval, or Coast Guard property](%C2%A7%2001382%20-%20Entering%20military%2C%20naval%2C%20or%20Coast%20Guard%20property.md)
+- [&sect; 01383 - Repealed. Pub. L. 94&#8211;412, title V, &sect;501(e), Sept. 14, 1976, 90 Stat. 1258](%C2%A7%2001383%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93412%2C%20title%20V%2C%20%C2%A7501%28e%29%2C%20Sept.%2014%2C%201976%2C%2090%20Stat.%201258.md)
+- [&sect; 01384 - Prostitution near military and naval establishments](%C2%A7%2001384%20-%20Prostitution%20near%20military%20and%20naval%20establishments.md)
+- [&sect; 01385 - Use of Army and Air Force as posse comitatus](%C2%A7%2001385%20-%20Use%20of%20Army%20and%20Air%20Force%20as%20posse%20comitatus.md)
+- [&sect; 01386 - Keys and keyways used in security applications by the Department of Defense](%C2%A7%2001386%20-%20Keys%20and%20keyways%20used%20in%20security%20applications%20by%20the%20Department%20of%20Defense.md)

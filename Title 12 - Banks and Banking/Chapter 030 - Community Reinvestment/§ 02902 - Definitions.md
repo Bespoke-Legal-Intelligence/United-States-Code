@@ -1,0 +1,58 @@
+### §2902. Definitions
+
+For the purposes of this chapter—
+
+&emsp;(1) the term “appropriate Federal financial supervisory agency” means—
+
+&emsp;&emsp;(A) the Comptroller of the Currency with respect to national banks;
+
+&emsp;&emsp;(B) the Board of Governors of the Federal Reserve System with respect to State chartered banks which are members of the Federal Reserve System and bank holding companies;
+
+&emsp;&emsp;(C) the Federal Deposit Insurance Corporation with respect to State chartered banks and savings banks which are not members of the Federal Reserve System and the deposits of which are insured by the Corporation; and
+
+&emsp;&emsp;(2) <sup>1</sup> section 1818 of this title, by the Director of the Office of Thrift Supervision, in the case of a savings association (the deposits of which are insured by the Federal Deposit Insurance Corporation) and a savings and loan holding company;
+
+&emsp;(2) the term “regulated financial institution” means an insured depository institution (as defined in section 1813 of this title); and
+
+&emsp;(3) the term “application for a deposit facility” means an application to the appropriate Federal financial supervisory agency otherwise required under Federal law or regulations thereunder for—
+
+&emsp;&emsp;(A) a charter for a national bank or Federal savings and loan association;
+
+&emsp;&emsp;(B) deposit insurance in connection with a newly chartered State bank, savings bank, savings and loan association or similar institution;
+
+&emsp;&emsp;(C) the establishment of a domestic branch or other facility with the ability to accept deposits of a regulated financial institution;
+
+&emsp;&emsp;(D) the relocation of the home office or a branch office of a regulated financial institution;
+
+&emsp;&emsp;(E) the merger or consolidation with, or the acquisition of the assets, or the assumption of the liabilities of a regulated financial institution requiring approval under section 1828(c) of this title or under regulations issued under the authority of title IV <sup>2</sup> of the National Housing Act \[12 U.S.C. 1724 et seq.\]; or
+
+&emsp;&emsp;(F) the acquisition of shares in, or the assets of, a regulated financial institution requiring approval under section 1842 of this title or section 408(e) <sup>2</sup> of the National Housing Act \[12 U.S.C. 1730a(e)\].
+
+&emsp;(4) A financial institution whose business predominately consists of serving the needs of military personnel who are not located within a defined geographic area may define its “entire community” to include its entire deposit customer base without regard to geographic proximity.
+
+(Pub. L. 95–128, title VIII, §803, Oct. 12, 1977, 91 Stat. 1147; Pub. L. 95–630, title XV, §1502, Nov. 10, 1978, 92 Stat. 3713; Pub. L. 101–73, title VII, §744(q), title XII, §1212(a), Aug. 9, 1989, 103 Stat. 440, 526.)
+
+#### References in Text
+
+The National Housing Act, referred to in par. (3)(E), (F), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title IV of the National Housing Act which was classified generally to subchapter IV (§1724 et seq.) of chapter 13 of this title, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363. Section 408 of the National Housing Act, which was classified to section 1730a of this title, was also repealed by section 407 of Pub. L. 101–73. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+
+#### Amendments
+
+1989—Par. (1)(D). Pub. L. 101–73, §744(q), directed the general amendment of par. (1)(D) but then set out “(2)” followed by the text of the new provisions. Prior to amendment, par. (1)(D) read as follows: “the Federal Home Loan Bank Board with respect to institutions the deposits of which are insured by the Federal Savings and Loan Insurance Corporation and to savings and loan holding companies;”.
+
+Par. (2). Pub. L. 101–73, §1212(a), substituted “insured depository institution (as defined in section 1813 of this title)” for “insured bank as defined in section 1813 of this title or an insured institution as defined in section 401 of the National Housing Act”.
+
+1978—Par. (4). Pub. L. 95–630 added par. (4).
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1505 of Pub. L. 95–630, set out as a note under section 27 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3103 of this title.
+
+<i><sup>1</sup></i><i> So in original. Text reading “(2) section 1818 of this title, by the Director” probably should read “(D) the Director”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+

@@ -1,0 +1,10 @@
+### §2463. Prohibition of Antarctic mineral resource activities
+
+Pending a new agreement among the Antarctic Treaty Consultative Parties in force for the United States, to which the Senate has given advice and consent or which is authorized by further legislation by the Congress, which provides an indefinite ban on Antarctic mineral resource activities, it is unlawful for any person to engage in, finance, or otherwise knowingly provide assistance to any Antarctic mineral resource activity.
+
+(Pub. L. 101–594, §4, Nov. 16, 1990, 104 Stat. 2977.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2465 of this title.
+

@@ -1,0 +1,128 @@
+### §1803. Study with respect to inland waterway user taxes and charges
+
+#### (a) Study directed
+
+The Secretary of Transportation, and the Secretary of Commerce, in consultation with the Secretary of the Treasury, the Secretary of Agriculture, the Secretary of Energy, the Attorney General of the United States, the Secretary of the Army, the Chairman of the Water Resources Council, and the Director of the Office of Management and Budget, shall—
+
+&emsp;(1) make a full and complete study with respect to inland waterway user taxes and charges, and
+
+&emsp;(2) make findings and policy recommendations with respect thereto.
+
+> Such study shall include (but shall not be limited to) a consideration of the matters listed in subsections (b), (c), (d), (e), and (f) of this section.
+
+#### (b) Considerations relating to the taxing mechanism
+
+&emsp;(1) The extent to which the Federal Government should seek to recover some or all of Federal expenditures for the benefit of inland waterway transportation from the users of the facilities for which such expenditures are made.
+
+&emsp;(2) The various forms of inland waterway user taxes and charges which could be established.
+
+&emsp;(3) The various methods of collecting inland waterway user taxes and charges, and the administrative costs of such taxes and charges.
+
+&emsp;(4) The classes and categories of users and other persons on whom inland waterway user taxes and charges should be imposed.
+
+&emsp;(5) The waterways of the United States (including the Great Lakes, deep draft channels, and coastal ports) which should be included in any system of user taxes and charges, together with the economic effects of such taxes and charges.
+
+&emsp;(6) The use of revenues derived from inland waterway user taxes and charges, including consideration of changes in, or alternatives to, the Trust Fund mechanism.
+
+#### (c) Considerations relating to economic effects
+
+The economic effects of waterway user taxes and charges on—
+
+#### (1) Carriers and users
+
+&emsp;On—
+
+&emsp;&emsp;(A) carriers and shippers using the inland waterways, and
+
+&emsp;&emsp;(B) users (including ultimate consumers) of commodities which are transported on the inland waterways.
+
+#### (2) Regions, etc.
+
+&emsp;On—
+
+&emsp;&emsp;(A) existing investment in industrial plants, agricultural interests, and commercial enterprises, and on related employment, in regions of the country served by inland water transportation directly or in combination with other modes, and
+
+&emsp;&emsp;(B) future economic growth prospects in such regions, including anticipated shifts of industry and employment to other areas together with an evaluation of effects on regional economies and their development, including consistency with Federal policies as set forth in other legislation.
+
+#### (3) Small business and industrial concentration and competition
+
+&emsp;On—
+
+&emsp;&emsp;(A) small business enterprise, and
+
+&emsp;&emsp;(B) industrial concentration and competition, both within the transportation industry and in any line of commerce (within the meaning of the antitrust laws).
+
+#### (4) Competitors
+
+&emsp;On the freight rates charged by other modes of transportation and the extent of short-term and long-term diversion of traffic from the inland waterways to such other modes. In considering such diversion of traffic, there shall also be considered the effects of such diversion on—
+
+&emsp;&emsp;(A) the development of alternative sources of supply and on alternative modes of transportation and alternative routing to market,
+
+&emsp;&emsp;(B) the comparative safety of the handling and transportation of hazardous materials, and
+
+&emsp;&emsp;(C) the comparative energy efficiency of the modes and routes of the transportation involved.
+
+#### (5) Prices
+
+&emsp;On prices of commodities shipped by inland waterways and by competing modes, including the costs of energy materials and the effects on electric power rates.
+
+#### (6) Balance of payments
+
+&emsp;On the balance of payments of the United States based on our international trade.
+
+#### (d) Considerations relating to economic feasibility of waterway improvement projects; level of benefits from waterway expenditures
+
+&emsp;(1) The effects of inland waterway user taxes and charges on the economic feasibility of inland waterway improvement projects.
+
+&emsp;(2) The comparative levels of benefits received from Federal expenditures on inland waterways for—
+
+&emsp;&emsp;(A) commercial uses, and
+
+&emsp;&emsp;(B) other uses, including (but not limited to) recreation, reclamation, water supply, low-flow augmentation, fish and wildlife enhancement, hydroelectric power, flood control, and irrigation uses.
+
+#### (e) Considerations relating to Federal assistance
+
+&emsp;(1) The extent of past, present, and expected future Federal assistance to the several modes of freight transportation. Such consideration shall include an evaluation and comparison of the public benefits resulting from such assistance to each of the several transportation modes in terms of adequacy, efficiency, and economy of service, safety, technological progress, and energy conservation. The Federal assistance considered under this paragraph shall include all forms of such assistance, such as tax advantages, direct grants, rate adjustments for improvement purposes, assumption of pension fund liabilities, loans, guarantees, capital participation, revenues from land grants, and provision of right-of-way operation, maintenance, and improvement.
+
+&emsp;(2) The competitive effects of past, present, and expected future Federal expenditures on inland waterways on competitive modes of transportation.
+
+&emsp;(3) The need for Federal assistance to agricultural, industrial, and other interests affected by inland waterway user taxes and charges.
+
+#### (f) Considerations relating to policy and future development
+
+The effects of inland waterway user taxes and charges on—
+
+&emsp;(1) The achievement of the objectives of the National Transportation Policy as set forth in section 10101 of title 49.
+
+&emsp;(2) The expansion and improvement of the inland waterways determined to be necessaryby the Secretary of the Army under section 158 of the Water Resources Development Act of 1976 (Public Law 94–587) or estimated to be necessary under paragraph (3).
+
+&emsp;(3) The requirements of the Nation through the year 2000 for transportation service, the portion thereof which should be provided by inland waterway carriers, and an estimate of the expansion and improvement of inland waterway capacity necessary to meet such requirements.
+
+#### (g) “Inland waterway user taxes and charges” defined
+
+For purposes of this section, the term “inland waterway user taxes and charges” means taxes imposed on the use of the inland and intracoastal waterways of the United States and all alternatives to such taxes.
+
+#### (h) Report
+
+Not later than September 30, 1981, the Secretary of Transportation shall transmit to Congress a final report of the study required by this section, together with his findings and recommendations (including necessary legislation) and the findings and recommendations of the Secretary of Commerce, the Secretary of the Treasury, the Secretary of Agriculture, the Secretary of Energy, the Attorney General of the United States, the Secretary of the Army, the Chairman of the Water Resources Council, and the Director of the Office of Management and Budget.
+
+#### (i) Authorization of appropriations
+
+There are hereby authorized to be appropriated from time to time to the Secretary of Transportation such sums, not to exceed $8,000,000 in the aggregate, as may be necessary to carry out the study required by this section.
+
+(Pub. L. 95–502, title II, §205, Oct. 21, 1978, 92 Stat. 1698.)
+
+#### References in Text
+
+The antitrust laws, referred to in subsec. (c)(3)(B), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
+
+#### Codification
+
+In subsec. (f)(1), “section 10101 of title 49” substituted for “the preamble to the Transportation Act of 1940” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49, Transportation.
+
+Section 158 of the Water Resources Development Act of 1976 (Public Law 94–587), referred to in subsec. (f)(2), is section 158 of Pub. L. 94–587, Oct. 22, 1976, 90 Stat. 2933, which is set out as a note under section 540 of this title.
+
+#### Short Title
+
+For short title of title II of Pub. L. 95–502 as the “Inland Waterways Revenue Act of 1978”, see section 201 of Pub. L. 95–502, set out as a Short Title of 1978 Amendment note under section 1 of Title 26, Internal Revenue Code.
+

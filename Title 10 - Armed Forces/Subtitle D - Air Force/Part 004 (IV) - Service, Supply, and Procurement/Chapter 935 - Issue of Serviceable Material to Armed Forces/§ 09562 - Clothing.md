@@ -1,0 +1,26 @@
+### §9562 . Clothing
+
+The President may prescribe the quantity and kind of clothing to be issued annually to members of the Air Force.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 577.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+9562
+
+10:831.
+
+R.S. 1296 (less 1st 9 words).
+
+The words “members of the Air Force” are substituted for the words “troops of the United States”.
+
+#### Cross References
+
+Uniforms, general military law provisions, see section 771 et seq. of this title.
+

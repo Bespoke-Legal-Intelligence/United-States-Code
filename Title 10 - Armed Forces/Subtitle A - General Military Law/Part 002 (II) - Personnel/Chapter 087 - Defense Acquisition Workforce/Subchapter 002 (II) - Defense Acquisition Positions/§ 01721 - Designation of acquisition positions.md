@@ -1,0 +1,50 @@
+### §1721. Designation of acquisition positions
+
+(a)
+
+Designation.—The Secretary of Defense shall designate in regulations those positions in the Department of Defense that are acquisition positions for purposes of this chapter.
+
+(b)
+
+Required Positions.—In designating the positions under subsection (a), the Secretary shall include, at a minimum, all acquisition-related positions in the following areas:
+
+&emsp;(1) Program management.
+
+&emsp;(2) Systems planning, research, development, engineering, and testing.
+
+&emsp;(3) Procurement, including contracting.
+
+&emsp;(4) Industrial property management.
+
+&emsp;(5) Logistics.
+
+&emsp;(6) Quality control and assurance.
+
+&emsp;(7) Manufacturing and production.
+
+&emsp;(8) Business, cost estimating, financial management, and auditing.
+
+&emsp;(9) Education, training, and career development.
+
+&emsp;(10) Construction.
+
+&emsp;(11) Joint development and production with other government agencies and foreign countries.
+
+(c)
+
+Management Headquarters Activities.—The Secretary also shall designate as acquisition positions under subsection (a) those acquisition-related positions which are in management headquarters activities and in management headquarters support activities. For purposes of this subsection, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Directive 5100.73, entitled “Department of Defense Management Headquarters and Headquarters Support Activities”, dated November 25, 1988.
+
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1640; amended Pub. L. 102–25, title VII, §701(j)(1), Apr. 6, 1991, 105 Stat. 116.)
+
+#### Amendments
+
+1991—Subsec. (c). Pub. L. 102–25 substituted “Activities’, dated” for “Activities,’ dated” in last sentence.
+
+#### Twenty Percent Reduction in Defense Acquisition Workforce
+
+Section 905 of Pub. L. 101–510, which required Secretary of Defense to reduce number of employees in Department of Defense acquisition workforce on last day of each of fiscal years 1991 through 1995 below number of employees in such workforce on last day of preceding fiscal year by not less than number equal to 4 percent of number of employees in such workforce on Sept. 30, 1990, and which defined “Department of Defense acquisition workforce”, was repealed by Pub. L. 102–190, div. A, title IX, §904, Dec. 5, 1991, 105 Stat. 1451.
+
+#### Deadline for Designation of Acquisition Positions
+
+Section 1209(b) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(b)(3)(B), Apr. 6, 1991, 105 Stat. 119; Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that: “The designation of acquisition positions required by section 1721 of title 10, United States Code (as added by section 1202), shall be made by the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, not later than October 1, 1991.”
+

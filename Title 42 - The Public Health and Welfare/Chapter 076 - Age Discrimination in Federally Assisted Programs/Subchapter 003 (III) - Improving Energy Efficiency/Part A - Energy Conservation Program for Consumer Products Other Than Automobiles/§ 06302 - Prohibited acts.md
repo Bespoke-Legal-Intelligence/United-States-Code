@@ -1,0 +1,34 @@
+### §6302. Prohibited acts
+
+#### (a) In general
+
+It shall be unlawful—
+
+&emsp;(1) for any manufacturer or private labeler to distribute in commerce any new covered product to which a rule under section 6294 of this title applies, unless such covered product is labeled in accordance with such rule;
+
+&emsp;(2) for any manufacturer, distributor, retailer, or private labeler to remove from any new covered product or render illegible any label required to be provided with such product under a rule under section 6294 of this title;
+
+&emsp;(3) for any manufacturer to fail to permit access to, or copying of, records required to be supplied under this part, or fail to make reports or provide other information required to be supplied under this part;
+
+&emsp;(4) for any person to fail to comply with an applicable requirement of section 6296(a), (b)(2), (b)(3), or (b)(5) of this title; or
+
+&emsp;(5) for any manufacturer or private labeler to distribute in commerce any new covered product which is not in conformity with an applicable energy conservation standard established in or prescribed under this part.
+
+#### (b) “New covered product” defined
+
+For purposes of this section, the term “new covered product” means a covered product the title of which has not passed to a purchaser who buys such product for purposes other than (1) reselling such product, or (2) leasing such product for a period in excess of one year.
+
+(Pub. L. 94–163, title III, §332, Dec. 22, 1975, 89 Stat. 928; Pub. L. 100–12, §11(a)(3), (b)(5), Mar. 17, 1987, 101 Stat. 125.)
+
+#### Amendments
+
+1987—Subsec. (a). Pub. L. 100–12, §11(b)(5)(A), inserted heading.
+
+Subsec. (a)(5). Pub. L. 100–12, §11(a)(3), substituted “energy conservation standard established in or prescribed under” for “energy efficiency standard prescribed under”.
+
+Subsec. (b). Pub. L. 100–12, §11(b)(5)(B), inserted heading.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6295, 6301, 6303, 6304, 6316, 6317 of this title.
+

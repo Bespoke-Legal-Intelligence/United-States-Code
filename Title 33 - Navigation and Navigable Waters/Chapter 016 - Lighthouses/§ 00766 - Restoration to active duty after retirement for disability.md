@@ -1,0 +1,10 @@
+### §766. Restoration to active duty after retirement for disability
+
+Any officer or employee retired under section 765 of this title may, upon recovery, be restored to active duty, and shall from time to time, before reaching the age at which he may be retired under section 763 of this title be reexamined by a medical officer of the United States upon the request of the Secretary of Transportation.
+
+(Mar. 4, 1925, ch. 523, §2, 43 Stat. 1262; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Oct. 15, 1966, Pub. L. 89–670, §6(b)(1), 80 Stat. 938.)
+
+#### Transfer of Functions
+
+The officers or employees to be retired refer to the officers and employees of the Lighthouse Service. The Lighthouse Service was under the Secretary of Commerce prior to the transfer and consolidation of the Bureau of Lighthouses, of which the Lighthouse Service was a part, with the Coast Guard which was under the Secretary of the Treasury by Reorg. Plan No. II, §2(a), set out in the Appendix to Title 5, Government Organization and Employees. Subsequently, the functions of the Secretary of the Treasury relating to the Coast Guard were transferred to the Secretary of Transportation by section 6(b)(1) of Pub. L. 89–670. See section 108 of Title 49, Transportation.
+

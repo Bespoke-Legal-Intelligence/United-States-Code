@@ -1,0 +1,92 @@
+### §9846. Reports
+
+At least once during every 2-year period, the Secretary shall prepare and submit, to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate, a report concerning the status of children (including disabled and non-English language background children) in Head Start programs, including the number of children and the services being provided to such children. Such report shall include—
+
+&emsp;(1) a statement for the then most recently concluded fiscal year specifying—
+
+&emsp;&emsp;(A) the amount of funds received by Head Start agencies designated under section 9836 of this title to provide Head Start services in a period before such fiscal year; and
+
+&emsp;&emsp;(B) the amount of funds received by Head Start agencies newly designated under section 9836 of this title to provide such services in such fiscal year;
+
+&emsp;(2) a description of the distribution of Head Start services relative to the distribution of children who are eligible to participate in Head Start programs, including geographic distribution within States;
+
+&emsp;(3) a statement identifying how funds expended under section 9835(a)(2) of this title, and funds allotted under section 9835(a)(3) of this title, were distributed and used at national, regional, and local levels;
+
+&emsp;(4) a statement specifying the amount of funds provided by the State, and by local sources, to carry out Head Start programs;
+
+&emsp;(5) cost per child and how such cost varies by region;
+
+&emsp;(6) a description of the level and nature of participation of parents in Head Start programs as volunteers and in other capacities;
+
+&emsp;(7) information concerning Head Start staff, including salaries, education, training, experience, and staff turnover;
+
+&emsp;(8) information concerning children participating in programs that receive Head Start funding, including information on family income, racial and ethnic background, disability, and receipt of benefits under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\];
+
+&emsp;(9) the use and source of funds to extend Head Start services to operate full-day and year round;
+
+&emsp;(10) using data from the monitoring conducted under section 9836a(c) of this title—
+
+&emsp;&emsp;(A) a description of the extent to which programs funded under this subchapter comply with performance standards and regulations in effect under this subchapter;
+
+&emsp;&emsp;(B) a description of the types and condition of facilities in which such programs are located;
+
+&emsp;&emsp;(C) the types of organizations that receive Head Start funds under such programs; and
+
+&emsp;&emsp;(D) the number of children served under each program option;
+
+&emsp;(11) the information contained in the documents entitled “Program Information Report” and “Head Start Cost Analyses System” (or any document similar to either), prepared with respect to Head Start programs;
+
+&emsp;(12) a description of the types of services provided to children and their families, both on-site and through referrals, including health, mental health, dental care, parenting education, physical fitness, and literacy training;
+
+&emsp;(13) a summary of information concerning the research, demonstration, and evaluation activities conducted under section 9844 of this title, including—
+
+&emsp;&emsp;(A) a status report on ongoing activities; and
+
+&emsp;&emsp;(B) results, conclusions, and recommendations, not included in any previous report, based on completed activities; and
+
+&emsp;(14) a study of the delivery of Head Start programs to Indian children living on and near Indian reservations, to children of Alaskan Natives, and to children of migrant and seasonal farmworkers.
+
+> Promptly after submitting such report to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate, the Secretary shall publish in the Federal Register a notice indicating that such report is available to the public and specifying how such report may be obtained.
+
+(Pub. L. 97–35, title VI, §650, formerly §651, Aug. 13, 1981, 95 Stat. 506; Pub. L. 98–558, title I, §108, Oct. 30, 1984, 98 Stat. 2880; Pub. L. 101–501, title I, §§118, 119, Nov. 3, 1990, 104 Stat. 1234; Pub. L. 102–401, §2(k)(5), Oct. 7, 1992, 106 Stat. 1959; renumbered §650 and amended Pub. L. 103–252, title I, §118, May 18, 1994, 108 Stat. 648.)
+
+#### References in Text
+
+The Social Security Act, referred to in par. (8), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+#### Amendments
+
+1994—Pub. L. 103–252, §118(a)(1), substituted “Reports” for “Evaluation” in section catchline.
+
+Subsecs. (a) to (f). Pub. L. 103–252, §118(a)(1), struck out subsecs. (a) to (f) which related to evaluations of programs under this subchapter to determine impact and effectiveness, adherence to Head Start performance standards, persons or entities assisting in evaluations, Secretary obtaining views of program participants, publication and submission of results to congressional committees, and all studies and evaluation material remaining property of the United States.
+
+Subsec. (g). Pub. L. 103–252, §118(a)(2)–(4), struck out subsec. (g) designation, substituted “monitoring conducted under section 9836a(c) of this title” for “evaluations conducted under section 9836(c)(2) of this title” in par. (10), and added pars. (13) and (14).
+
+1992—Subsec. (g). Pub. L. 102–401 struck out “(1)” before “At least” at beginning of subsec. and substituted “physical” for “physicial” in par. (12).
+
+1990—Subsec. (c)(2). Pub. L. 101–501, §118, inserted at end “The Secretary is encouraged to provide funds forcommunity-based cooperative research efforts to enable Head Start directors to conduct evaluations of their programs with the assistance of qualified researchers not directly involved in the administration of the program or project operation.”
+
+Subsec. (g). Pub. L. 101–501, §119, added subsec. (g).
+
+1984—Subsec. (b). Pub. L. 98–558 substituted “not result in the elimination of nor any reduction in the scope or types of health, education, parental involvement, social or other services required to be provided under the standards” for “result in standards which are no less comprehensive than those” in second sentence.
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as a note under section 9832 of this title.
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–401 effective Oct. 7, 1992, but not applicable with respect to fiscal years beginning before Oct. 1, 1992, see section 4 of Pub. L. 102–401, set out as a note under section 9835 of this title.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as a note under section 8621 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 9836a of this title; title 20 section 6312.
+

@@ -1,0 +1,16 @@
+### §80a–55. Qualifications of directors
+
+#### (a) Non-interested persons
+
+A majority of a business development company's directors or general partners shall be persons who are not interested persons of such company.
+
+#### (b) Vacancies; suspension of provisions
+
+If, by reason of the death, disqualification, or bona fide resignation of any director or general partner, a business development company does not meet the requirements of subsection (a) of this section, or the requirements of section 80a–15(f)(1) of this title with respect to directors, the operation of such provisions shall be suspended for a period of 90 days or for such longer period as the Commission may prescribe, upon its own motion or by order upon application, as not inconsistent with the protection of investors.
+
+(Aug. 22, 1940, ch. 686, title I, §56, as added Oct. 21, 1980, Pub. L. 96–477, title I §105, 94 Stat. 2280.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 80a–2, 80a–6, 80a–53, 80a–60, 80b–2 of this title.
+

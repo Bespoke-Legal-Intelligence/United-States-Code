@@ -1,0 +1,26 @@
+### §7084. Age of retirement
+
+A civilian member may be retired at any time after his sixty-fifth birthday, and shall be retired by June 30 following that birthday. However, in any special case the Secretary of the Navy may defer the retirement of a member until a date not later than the member's seventieth birthday.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 439.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+7084
+
+34 U.S.C. 1073b.
+
+Jan. 16, 1936, ch. 3, §3, 49 Stat. 1092.
+
+The words “individual and” are omitted as surplusage.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7085 of this title.
+

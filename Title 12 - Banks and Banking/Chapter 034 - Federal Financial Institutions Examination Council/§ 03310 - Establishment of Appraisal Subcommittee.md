@@ -1,0 +1,6 @@
+### §3310. Establishment of Appraisal Subcommittee
+
+There shall be within the Council a subcommittee to be known as the “Appraisal Subcommittee”, which shall consist of the designees of the heads of the Federal financial institutions regulatory agencies. Each such designee shall be a person who has demonstrated knowledge and competence concerning the appraisal profession.
+
+(Pub. L. 95–630, title X, §1011, as added Pub. L. 101–73, title XI, §1102, Aug. 9, 1989, 103 Stat. 511.)
+

@@ -1,0 +1,22 @@
+### §582a–1. Cooperation by Secretary of Agriculture with States; assistance: plans, eligible institutions and amount
+
+In order to promote research in forestry, the Secretary of Agriculture is authorized to cooperate with the several States for the purpose of encouraging and assisting them in carrying out programs of forestry research.
+
+Such assistance shall be in accordance with plans to be agreed upon in advance by the Secretary and (a) land-grant colleges or agricultural experiment stations established under the Morrill Act of July 2, 1862, as amended \[7 U.S.C. 301 et seq.\], and the Hatch Act of March 2, 1887, as amended \[7 U.S.C. 361a et seq.\], and (b) other State-supported colleges and universities offering graduate training in the sciences basic to forestry and having a forestry school; however, an appropriate State representative designated by the State's Governor shall, in any agreementdrawn up with the Secretary of Agriculture for the purposes of this subchapter, certify those eligible institutions of the State which will qualify for assistance and shall determine the proportionate amounts of assistance to be extended these certified institutions. If more than one institution within a State are certified as qualifying for assistance, then it shall be the responsibility of such institutions, in agreement with the Secretary, to develop complementary programs of forestry research for the State.
+
+(Pub. L. 87–788, §2, Oct. 10, 1962, 76 Stat. 806; Pub. L. 97–98, title XIV, §1441(b), Dec. 22, 1981, 95 Stat. 1320.)
+
+#### References in Text
+
+The Morrill Act of July 2, 1862, as amended, referred to in text, is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
+
+The Hatch Act of March 2, 1887, as amended, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, which is classified generally to sections 361a to 361i of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 361a of Title 7 and Tables.
+
+#### Amendments
+
+1981—Pub. L. 97–98 inserted provision that if more than one institution within a State are certified as qualifying for assistance, then it shall be the responsibility of such institutions, in agreement with the Secretary, to develop complimentary programs of forestry research for the State.
+
+#### Effective Date of 1981 Amendment
+
+Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of Title 7, Agriculture.
+

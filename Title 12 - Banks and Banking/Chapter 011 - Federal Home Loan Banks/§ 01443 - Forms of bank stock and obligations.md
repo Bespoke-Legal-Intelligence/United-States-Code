@@ -1,0 +1,14 @@
+### §1443. Forms of bank stock and obligations
+
+Any stock, debentures, bonds, notes, or other obligations issued under the authority of this chapter may be issued in uncertificated form, utilizing a book entry method, or in certificated form under such rules, regulations, or guidelines as the Board of Directors of the Federal Housing Finance Board may provide.
+
+(July 22, 1932, ch. 522, §23, 47 Stat. 739; Aug. 9, 1989, Pub. L. 101–73, title VII, §717, 103 Stat. 422.)
+
+#### Amendments
+
+1989—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “In order thatthe Federal Home Loan Banks may be supplied with such forms of stock, debentures, and bonds as may be necessary under this chapter, the Secretary of the Treasury is authorized to prepare such forms thereof as shall be suitable and approved by the board, which shall be held in the Treasury subject to delivery, upon order of the board. The engraved plates, dies, and bed pieces executed in connection therewith shall remain in the custody of the Secretary of the Treasury. The board shall reimburse the Secretary of the Treasury for any expense incurred in the preparation, custody, and delivery of such stock, debentures, and bonds.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1441, 1441b of this title.
+
